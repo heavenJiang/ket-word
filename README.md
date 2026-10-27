@@ -53,4 +53,5 @@ content/media/svg/<id>.svg           手绘矢量插画（Word Atlas 色板与�
 ## 授权与署名
 
 - 词表依据 Cambridge English *A2 Key and A2 Key for Schools Vocabulary List*（August 2025），© UCLES。
-- 插画与发音录音来自 [Word Atlas](https://github.com/designfuchen/word-atlas)：**Word Atlas contributors — CC BY 4.0**。应用的家长中心页底部显示该署名，发布时请保留。
+- 发音录音来自 [Word Atlas](https://github.com/designfuchen/word-atlas)：**Word Atlas contributors — CC BY 4.0**。应用的家长中心页底部显示该署名，发布时请保留；若有词仍沿用 Word Atlas 插画，构建会自动在署名中加上插画。
+- 插画为本项目用 FLUX.1-dev 生成并逐张人工挑选。
