@@ -94,6 +94,7 @@ def main() -> None:
 
     (OUT / "topics").mkdir(parents=True, exist_ok=True)
     used_media: set[str] = set()
+    atlas_img = False  # credit Word Atlas for illustrations only while any are still in use
     topics_out = []
     for t in words["topics"]:
         ids = [i["id"] for i in words["items"] if t["id"] in i["topics"]]
@@ -124,6 +125,7 @@ def main() -> None:
                     path = fetch(a["id"], kind, w["id"])
                     if path:
                         media[kind] = path
+                        atlas_img |= kind == "img"
                         used_media.add(path)
             entries.append({
                 "id": w["id"],
@@ -152,8 +154,8 @@ def main() -> None:
 
     (OUT / "index.json").write_text(json.dumps({
         "source": words["source"],
-        "credits": "Illustrations and recordings: Word Atlas contributors — CC BY 4.0 "
-                   "(https://github.com/designfuchen/word-atlas)",
+        "credits": f"{'Illustrations and recordings' if atlas_img else 'Recordings'}: Word Atlas contributors — "
+                   "CC BY 4.0 (https://github.com/designfuchen/word-atlas)",
         "topics": topics_out,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
 
