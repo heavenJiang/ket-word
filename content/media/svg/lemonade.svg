@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="410" cy="96" r="54" fill="#e0a93f"/>
+  <!-- garden hedge -->
+  <path d="M0 300 Q40 250 90 280 Q140 240 190 280 Q250 236 310 280 Q370 244 420 282 Q470 250 512 290 V330 H0Z" fill="#808968"/>
+  <!-- table -->
+  <rect y="330" width="512" height="182" fill="#f7ebd2"/>
+  <g fill="#e0a93f" opacity=".55"><rect x="0" y="330" width="512" height="18"/><rect x="0" y="384" width="512" height="18"/><rect x="0" y="438" width="512" height="18"/><rect x="0" y="492" width="512" height="18"/></g>
+  <!-- jug -->
+  <ellipse cx="220" cy="420" rx="90" ry="12" fill="#2e4244" opacity=".2"/>
+  <path d="M150 180 L136 150 L250 150 L270 180 Q296 300 286 418 Q220 432 154 418 Q144 300 150 180Z" fill="#dfe8e2" opacity=".6"/>
+  <path d="M152 220 Q150 330 156 412 Q220 426 284 412 Q290 330 288 220Z" fill="#f6e39a"/>
+  <path d="M270 192 Q330 200 320 280 Q312 330 284 340" stroke="#5c7f7d" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M150 180 L136 150 L250 150 L270 180 Q296 300 286 418 Q220 432 154 418 Q144 300 150 180Z" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  <!-- lemon slices and ice in jug -->
+  <g><circle cx="196" cy="280" r="26" fill="#e0a93f"/><circle cx="196" cy="280" r="20" fill="#f6e39a"/>
+    <path d="M196 260 v40 M176 280 h40 M182 266 l28 28 M210 266 l-28 28" stroke="#e0a93f" stroke-width="2"/></g>
+  <g><circle cx="248" cy="350" r="22" fill="#e0a93f"/><circle cx="248" cy="350" r="17" fill="#f6e39a"/>
+    <path d="M248 333 v34 M231 350 h34" stroke="#e0a93f" stroke-width="2"/></g>
+  <g fill="#ffffff" opacity=".8"><rect x="236" y="236" width="26" height="24" rx="5"/><rect x="176" y="356" width="24" height="22" rx="5"/><rect x="220" y="300" width="22" height="20" rx="5"/></g>
+  <path d="M166 200 L170 400" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <!-- glasses -->
+  <g>
+    <ellipse cx="372" cy="424" rx="40" ry="8" fill="#2e4244" opacity=".2"/>
+    <path d="M336 300 L344 420 Q372 430 400 420 L408 300Z" fill="#dfe8e2" opacity=".6"/>
+    <path d="M338 330 L344 418 Q372 428 400 418 L406 330Z" fill="#f6e39a"/>
+    <path d="M336 300 L344 420 Q372 430 400 420 L408 300" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+    <circle cx="398" cy="300" r="20" fill="#e0a93f"/><circle cx="398" cy="300" r="15" fill="#f6e39a"/>
+    <path d="M360 340 l-30 -80" stroke="#e28a3e" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(84 40)">
+    <path d="M336 300 L344 420 Q372 430 400 420 L408 300Z" fill="#dfe8e2" opacity=".6"/>
+    <path d="M338 330 L344 418 Q372 428 400 418 L406 330Z" fill="#f6e39a"/>
+    <path d="M336 300 L344 420 Q372 430 400 420 L408 300" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  </g>
+  <!-- whole lemon -->
+  <ellipse cx="80" cy="410" rx="40" ry="28" fill="#e0a93f"/><ellipse cx="66" cy="400" rx="12" ry="6" fill="#f6e39a"/>
+</svg>

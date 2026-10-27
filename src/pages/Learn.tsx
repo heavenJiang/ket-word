@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { sfx } from "../lib/audio";
 import { Choice } from "../questions/Choice";
 import { Intro } from "../questions/Intro";
@@ -8,25 +8,34 @@ import { advance, answer, buildSession, current, isDone } from "../session/sessi
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { Rating, type Grade } from "../srs/srs";
 import { addStars, planOptions, recordGrade, type Progress } from "../store/progress";
+import type { Library } from "../lib/data";
 import type { Word } from "../types";
 
 /** Bonus stars for finishing a session. */
 const FINISH_BONUS = 3;
 
 export function Learn(props: {
+  /** The current island, in learning order: where new words come from. */
   words: Word[];
+  library: Library;
   progress: Progress;
   setProgress: (f: (p: Progress) => Progress) => void;
   onExit: () => void;
 }) {
-  const { words, progress, setProgress, onExit } = props;
-  const byId = useMemo(() => new Map(words.map((w) => [w.id, w])), [words]);
+  const { words, library, progress, setProgress, onExit } = props;
+  const byId = library.byId;
   const { settings } = progress;
   const factor = ageFactor(progress.profile?.age ?? 9);
 
   const [session, setSession] = useState(() => {
     const now = Date.now();
-    const plan = buildPlan(words.map((w) => w.id), progress.words, now, planOptions(progress, now));
+    const plan = buildPlan(
+      library.all.map((w) => w.id),
+      progress.words,
+      now,
+      planOptions(progress, now),
+      words.map((w) => w.id),
+    );
     return buildSession(plan, progress.words);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });
@@ -131,7 +140,7 @@ export function Learn(props: {
         <Choice
           key={session.index}
           word={byId.get(step.wordId)!}
-          pool={words}
+          pool={library.poolOf.get(step.wordId) ?? words}
           kind={step.kind}
           accent={settings.accent}
           sound={settings.sound}

@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { loadIndex, loadTopic, type AppIndex } from "./lib/data";
+import { loadIndex, loadLibrary, type AppIndex, type Library } from "./lib/data";
 import { Cards } from "./pages/Cards";
 import { Home } from "./pages/Home";
 import { Learn } from "./pages/Learn";
@@ -24,7 +24,7 @@ const learningOrder = (ws: Word[]) =>
 export function App() {
   const [progress, setProgressState] = useState<Progress>(loadProgress);
   const [index, setIndex] = useState<AppIndex | null>(null);
-  const [words, setWords] = useState<Word[]>([]);
+  const [library, setLibrary] = useState<Library | null>(null);
   const [page, setPage] = useState<Page>("home");
   const [error, setError] = useState<string | null>(null);
 
@@ -37,29 +37,35 @@ export function App() {
   }, []);
 
   useEffect(() => {
-    loadIndex().then(setIndex, (e) => setError(String(e)));
+    loadIndex()
+      .then((ix) => {
+        setIndex(ix);
+        return loadLibrary(ix.topics.filter((t) => t.ready).map((t) => t.id));
+      })
+      .then(setLibrary, (e) => setError(String(e)));
   }, []);
-  useEffect(() => {
-    loadTopic(progress.topic).then((ws) => setWords(learningOrder(ws)), (e) => setError(String(e)));
-  }, [progress.topic]);
 
   const topic = useMemo(() => index?.topics.find((t) => t.id === progress.topic), [index, progress.topic]);
+  const words = useMemo(() => learningOrder(library?.topics[progress.topic] ?? []), [library, progress.topic]);
 
   if (!progress.profile) return <Onboarding onDone={(name, age) => setProgress((p) => ({ ...p, profile: { name, age } }))} />;
   if (error) return <div className="page center">加载失败：{error}</div>;
-  if (!index || words.length === 0) return <div className="page center muted">正在打开单词岛…</div>;
+  if (!index || !library || words.length === 0) return <div className="page center muted">正在打开单词岛…</div>;
 
-  if (page === "learn") return <Learn words={words} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
+  if (page === "learn")
+    return <Learn words={words} library={library} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
 
   return (
     <div className="shell">
       <main>
-        {page === "home" && <Home progress={progress} topic={topic} words={words} onStart={() => setPage("learn")} onMap={() => setPage("map")} />}
+        {page === "home" && (
+          <Home progress={progress} topic={topic} words={words} library={library} onStart={() => setPage("learn")} onMap={() => setPage("map")} />
+        )}
         {page === "map" && (
           <MapPage
             topics={index.topics}
             progress={progress}
-            words={words}
+            library={library}
             onPick={(id) => {
               setProgress((p) => ({ ...p, topic: id }));
               setPage("home");
@@ -67,7 +73,7 @@ export function App() {
           />
         )}
         {page === "cards" && <Cards words={words} progress={progress} />}
-        {page === "parent" && <Parent words={words} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
+        {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
       </main>
       <nav className="nav">
         {NAV.map((n) => (

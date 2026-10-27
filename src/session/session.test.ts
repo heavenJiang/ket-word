@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { Rating, review, type WordProgress } from "../srs/srs";
 import { buildPlan } from "./plan";
+import { distractors } from "../lib/choice";
+import type { Word } from "../types";
 import { answer, buildSession, current, kindFor, MAX_RETRIES, RETRY_GAP, spreadOut, type Session } from "./session";
 
 const DAY = 86_400_000;
@@ -19,6 +21,12 @@ describe("buildPlan", () => {
     const p = buildPlan(order, {}, t0, opt);
     expect(p.reviews).toEqual([]);
     expect(p.newWords).toEqual(order.slice(0, 8));
+  });
+
+  it("keeps reviewing words from other islands while taking new words from the current one", () => {
+    const p = buildPlan(order, learned(["w0"]), t0 + DAY, opt, ["w10", "w11"]);
+    expect(p.reviews.some((t) => t.wordId === "w0")).toBe(true);
+    expect(p.newWords).toEqual(["w10", "w11"]);
   });
 
   it("counts new words already met today", () => {
@@ -91,5 +99,17 @@ describe("session", () => {
     expect(kindFor("meaning", undefined)).toBe("pickImage");
     expect(kindFor("meaning", { ...review(undefined, Rating.Good, t0), s: 10 })).toBe("pickMeaning");
     expect(kindFor("spell", undefined)).toBe("tiles");
+  });
+});
+
+describe("distractors", () => {
+  const w = (id: string, avoid: string[] = []) =>
+    ({ id, word: id, zh: id, pos: [], ipa: "", chunks: [id], emoji: "", sentence: { en: "", zh: "" }, media: {}, avoid }) as Word;
+  it("never offers a confusable word as a wrong option", () => {
+    const plate = w("plate", ["dish", "bowl"]);
+    const pool = [plate, w("dish", ["plate", "bowl"]), w("bowl", ["plate", "dish"]), w("apple"), w("milk"), w("egg")];
+    for (let i = 0; i < 20; i++) {
+      expect(distractors(plate, pool, 3, Math.random).map((x) => x.id).sort()).toEqual(["apple", "egg", "milk"]);
+    }
   });
 });

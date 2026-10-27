@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="404" cy="96" r="46" fill="#e0a93f"/>
+  <!-- table -->
+  <rect y="300" width="512" height="212" fill="#b28851"/>
+  <path d="M0 300 h512 v10 h-512z" fill="#8d6238"/>
+  <!-- side plates and cutlery -->
+  <ellipse cx="70" cy="420" rx="60" ry="20" fill="#f7ebd2"/><ellipse cx="442" cy="420" rx="60" ry="20" fill="#f7ebd2"/>
+  <path d="M130 470 l20 -40 M362 430 l20 40" stroke="#9cb2ae" stroke-width="6" stroke-linecap="round"/>
+  <!-- steam -->
+  <g stroke="#9cb2ae" stroke-width="7" fill="none" stroke-linecap="round" opacity=".9">
+    <path d="M206 214 q-16 -26 0 -50 q16 -24 0 -50"/><path d="M256 204 q-16 -26 0 -50 q16 -24 0 -50"/><path d="M306 214 q-16 -26 0 -50 q16 -24 0 -50"/>
+  </g>
+  <!-- terracotta serving dish -->
+  <ellipse cx="256" cy="392" rx="170" ry="26" fill="#884522" opacity=".3"/>
+  <path d="M96 290 Q100 386 256 390 Q412 386 416 290Z" fill="#e28a3e"/>
+  <path d="M110 318 Q256 352 402 318" stroke="#884522" stroke-width="6" fill="none"/>
+  <path d="M84 290 q-26 -4 -24 18 q18 10 34 0z M428 290 q26 -4 24 18 q-18 10 -34 0z" fill="#884522"/>
+  <ellipse cx="256" cy="290" rx="162" ry="38" fill="#c45a2c"/>
+  <ellipse cx="256" cy="292" rx="146" ry="30" fill="#884522"/>
+  <!-- stew: potatoes, carrots, peas, herbs -->
+  <g fill="#f1cc92"><ellipse cx="196" cy="288" rx="22" ry="14"/><ellipse cx="300" cy="300" rx="24" ry="14"/><ellipse cx="254" cy="278" rx="18" ry="12"/></g>
+  <g fill="#e28a3e"><circle cx="230" cy="302" r="11"/><circle cx="330" cy="278" r="10"/><circle cx="168" cy="304" r="9"/></g>
+  <g fill="#808968"><circle cx="276" cy="306" r="6"/><circle cx="214" cy="272" r="6"/><circle cx="350" cy="298" r="6"/><circle cx="186" cy="276" r="5"/></g>
+  <g fill="#5c7f7d"><path d="M262 292 q10 -14 22 -6 q-10 12 -22 6z"/><path d="M180 296 q8 -14 20 -8 q-8 12 -20 8z"/></g>
+</svg>

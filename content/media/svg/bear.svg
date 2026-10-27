@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="404" cy="96" r="40" fill="#f1cc92"/>
+  <circle cx="420" cy="88" r="34" fill="#f4e5c8"/>
+  <g fill="#e0a93f"><circle cx="330" cy="70" r="4"/><circle cx="470" cy="160" r="3"/><circle cx="360" cy="150" r="3"/></g>
+  <!-- pines -->
+  <g fill="#5c7f7d"><path d="M40 330 L80 170 L120 330Z"/><path d="M430 330 L466 190 L502 330Z"/></g>
+  <g fill="#808968"><path d="M100 330 L130 220 L160 330Z"/><path d="M390 330 L418 236 L446 330Z"/></g>
+  <!-- cave -->
+  <path d="M120 400 Q130 190 270 170 Q410 180 420 400Z" fill="#9cb2ae"/>
+  <path d="M170 400 Q180 250 272 236 Q364 250 372 400Z" fill="#2e4244"/>
+  <rect y="392" width="512" height="120" fill="#d6b47d"/>
+  <path d="M0 392 Q256 372 512 392 V404 H0Z" fill="#b28851"/>
+  <!-- sleeping bear -->
+  <ellipse cx="272" cy="398" rx="132" ry="14" fill="#2e4244" opacity=".3"/>
+  <path d="M150 396 Q148 300 250 290 Q360 284 392 340 Q402 372 386 396Z" fill="#8d6238"/>
+  <path d="M260 300 Q350 296 384 344 Q330 318 262 322Z" fill="#b28851" opacity=".7"/>
+  <path d="M150 396 Q170 360 230 372 Q260 380 270 396Z" fill="#884522"/>
+  <!-- head resting on paws -->
+  <circle cx="196" cy="350" r="50" fill="#8d6238"/>
+  <circle cx="160" cy="306" r="17" fill="#8d6238"/><circle cx="160" cy="306" r="8" fill="#884522"/>
+  <circle cx="226" cy="304" r="17" fill="#8d6238"/><circle cx="226" cy="304" r="8" fill="#884522"/>
+  <ellipse cx="176" cy="372" rx="26" ry="18" fill="#d6b47d"/>
+  <ellipse cx="166" cy="364" rx="9" ry="6" fill="#2e4244"/>
+  <path d="M176 346 q8 6 16 0 M206 344 q8 6 16 0" stroke="#2e4244" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="150" cy="392" rx="30" ry="12" fill="#884522"/>
+  <ellipse cx="216" cy="394" rx="30" ry="12" fill="#884522"/>
+  <!-- zzz -->
+  <g fill="none" stroke="#5c7f7d" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M250 260 h18 l-18 18 h18"/><path d="M282 226 h24 l-24 24 h24"/>
+  </g>
+</svg>

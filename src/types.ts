@@ -10,6 +10,8 @@ export interface Word {
   emoji: string;
   sentence: { en: string; zh: string };
   media: { img?: string; uk?: string; us?: string };
+  /** Words too alike to be fair wrong options for this one (plate / dish / bowl). */
+  avoid?: string[];
 }
 
 export interface Topic {

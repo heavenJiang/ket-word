@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <!-- restaurant table, top view tilted -->
+  <rect y="120" width="512" height="392" fill="#fffdf7"/>
+  <g fill="#9cb2ae" opacity=".35"><rect x="0" y="120" width="512" height="10"/></g>
+  <rect y="0" width="512" height="120" fill="#e28a3e"/>
+  <circle cx="420" cy="60" r="34" fill="#e0a93f"/>
+  <path d="M60 120 q-6 -36 12 -54 h22 q18 18 12 54z" fill="#2e4244"/>
+  <g fill="#808968"><path d="M84 68 C66 40 62 16 68 -6 C84 16 90 40 84 68Z"/><path d="M84 68 C96 36 116 24 136 20 C128 46 110 62 84 68Z" fill="#5c7f7d"/></g>
+  <!-- placemat -->
+  <rect x="60" y="180" width="392" height="290" rx="20" fill="#9cb2ae"/>
+  <!-- fork and knife -->
+  <g fill="#f7ebd2">
+    <rect x="86" y="230" width="10" height="190" rx="4"/>
+    <path d="M76 230 v-36 h6 v30 h4 v-30 h6 v30 h4 v-30 h6 v36z"/>
+    <rect x="416" y="200" width="12" height="220" rx="5"/>
+    <path d="M416 200 q24 30 12 100 h-12z"/>
+  </g>
+  <!-- big dinner plate -->
+  <ellipse cx="256" cy="330" rx="140" ry="128" fill="#2e4244" opacity=".15"/>
+  <circle cx="256" cy="320" r="136" fill="#fffdf7"/>
+  <circle cx="256" cy="320" r="136" fill="none" stroke="#e28a3e" stroke-width="6"/>
+  <circle cx="256" cy="320" r="104" fill="#f7ebd2"/>
+  <!-- rice -->
+  <path d="M172 330 Q160 260 222 250 Q262 254 260 320 Q250 370 200 368 Q176 362 172 330Z" fill="#ffffff"/>
+  <g fill="#ded1b1"><circle cx="200" cy="290" r="3"/><circle cx="226" cy="300" r="3"/><circle cx="208" cy="330" r="3"/><circle cx="236" cy="340" r="3"/></g>
+  <!-- grilled fish -->
+  <path d="M250 300 Q300 262 350 290 L374 270 L370 330 L350 318 Q300 346 250 300Z" fill="#e0a93f"/>
+  <g stroke="#884522" stroke-width="5" stroke-linecap="round"><path d="M282 296 l12 -16 M302 300 l12 -16 M322 302 l12 -16"/></g>
+  <circle cx="266" cy="296" r="4" fill="#2e4244"/>
+  <!-- lemon wedge -->
+  <path d="M332 336 a26 26 0 0 1 -6 34 l-18 -18z" fill="#f6e39a" stroke="#e0a93f" stroke-width="4"/>
+  <!-- green vegetables -->
+  <g fill="#808968"><circle cx="262" cy="384" r="14"/><circle cx="284" cy="378" r="12"/><circle cx="244" cy="392" r="11"/></g>
+  <g fill="#5c7f7d"><circle cx="304" cy="370" r="9"/><circle cx="274" cy="398" r="9"/></g>
+  <g fill="#9cb2ae"><rect x="300" y="350" width="40" height="8" rx="4" transform="rotate(-20 320 354)"/><rect x="306" y="362" width="40" height="8" rx="4" transform="rotate(-10 326 366)"/></g>
+</svg>

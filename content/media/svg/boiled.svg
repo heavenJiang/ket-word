@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="400" cy="108" r="54" fill="#e0a93f"/>
+  <path d="M60 330 q-8 -44 14 -66 h30 q22 22 14 66z" fill="#2e4244"/>
+  <g fill="#808968"><path d="M88 266 C60 228 52 190 60 150 C84 182 94 222 88 266Z"/><path d="M88 266 C106 216 136 194 166 186 C152 226 124 252 88 266Z" fill="#5c7f7d"/></g>
+  <rect y="330" width="512" height="182" fill="#b28851"/>
+  <rect y="330" width="512" height="10" fill="#8d6238"/>
+  <!-- plate -->
+  <ellipse cx="270" cy="410" rx="190" ry="48" fill="#f7ebd2"/>
+  <ellipse cx="270" cy="404" rx="150" ry="34" fill="#fffdf7"/>
+  <ellipse cx="270" cy="410" rx="190" ry="48" fill="none" stroke="#9cb2ae" stroke-width="6"/>
+  <!-- toast soldiers -->
+  <g transform="rotate(-8 380 400)">
+    <rect x="330" y="372" width="90" height="22" rx="4" fill="#e0a93f"/><rect x="330" y="372" width="90" height="6" rx="3" fill="#8d6238"/>
+    <rect x="336" y="400" width="90" height="22" rx="4" fill="#e0a93f"/><rect x="336" y="400" width="90" height="6" rx="3" fill="#8d6238"/>
+  </g>
+  <!-- egg cup -->
+  <ellipse cx="220" cy="408" rx="52" ry="12" fill="#884522" opacity=".25"/>
+  <path d="M190 408 h60 l-8 -30 h-44z" fill="#e28a3e"/>
+  <path d="M168 316 Q170 376 220 380 Q270 376 272 316Z" fill="#e28a3e"/>
+  <path d="M172 330 Q220 346 268 330" stroke="#f7ebd2" stroke-width="5" fill="none"/>
+  <!-- egg with top off -->
+  <path d="M176 316 Q180 220 220 214 Q260 220 264 316Z" fill="#fffdf7"/>
+  <path d="M234 222 Q258 236 262 300" stroke="#ded1b1" stroke-width="8" fill="none" opacity=".7"/>
+  <ellipse cx="220" cy="226" rx="34" ry="9" fill="#f7ebd2"/>
+  <ellipse cx="220" cy="226" rx="26" ry="7" fill="#e0a93f"/>
+  <path d="M188 232 l8 -8 l8 6 l8 -8 l8 7 l8 -8 l8 6 l8 -6 l8 8" stroke="#ded1b1" stroke-width="3" fill="none"/>
+  <!-- spoon -->
+  <path d="M120 420 L176 370" stroke="#9cb2ae" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="184" cy="362" rx="14" ry="9" transform="rotate(-42 184 362)" fill="#9cb2ae"/>
+</svg>

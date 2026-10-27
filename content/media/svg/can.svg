@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <!-- window -->
+  <rect x="300" y="40" width="170" height="190" rx="6" fill="#9cb2ae"/>
+  <circle cx="420" cy="100" r="34" fill="#e0a93f"/>
+  <path d="M300 180 Q350 150 400 172 T470 162 V230 H300Z" fill="#5c7f7d"/>
+  <rect x="300" y="40" width="170" height="190" rx="6" fill="none" stroke="#f7ebd2" stroke-width="10"/>
+  <path d="M385 40 V230 M300 135 H470" stroke="#f7ebd2" stroke-width="8"/>
+  <!-- counter -->
+  <rect y="372" width="512" height="140" fill="#b28851"/>
+  <rect y="372" width="512" height="14" fill="#8d6238"/>
+  <!-- vase with leaves -->
+  <path d="M70 372 q-8 -46 14 -70 h28 q22 24 14 70z" fill="#2e4244"/>
+  <g fill="#808968">
+    <path d="M98 302 C70 260 60 220 66 180 C88 214 100 250 98 302Z"/>
+    <path d="M98 302 C116 250 140 226 170 214 C158 252 132 282 98 302Z"/>
+    <path d="M98 302 C92 252 104 200 128 168 C134 214 122 262 98 302Z" fill="#5c7f7d"/>
+  </g>
+  <!-- bowl -->
+  <path d="M370 330 h110 q-6 42 -55 42 q-49 0 -55 -42z" fill="#e28a3e"/>
+  <ellipse cx="425" cy="330" rx="55" ry="10" fill="#884522"/>
+  <path d="M382 344 h86" stroke="#f7ebd2" stroke-width="5" stroke-linecap="round"/>
+  <!-- can shadow -->
+  <ellipse cx="250" cy="392" rx="96" ry="12" fill="#884522" opacity=".3"/>
+  <!-- can body -->
+  <path d="M170 200 V378 A80 22 0 0 0 330 378 V200Z" fill="#9cb2ae"/>
+  <path d="M170 200 V378 A80 22 0 0 0 206 396 V218 A80 22 0 0 1 170 200Z" fill="#5c7f7d" opacity=".6"/>
+  <path d="M300 214 V392 A80 22 0 0 0 330 378 V200 A80 22 0 0 1 300 214Z" fill="#2e4244" opacity=".35"/>
+  <!-- ribs -->
+  <g fill="none" stroke="#5c7f7d" stroke-width="3" opacity=".7">
+    <path d="M170 232 A80 22 0 0 0 330 232"/><path d="M170 354 A80 22 0 0 0 330 354"/>
+  </g>
+  <!-- label, no text -->
+  <path d="M170 248 A80 22 0 0 0 330 248 V336 A80 22 0 0 1 170 336Z" fill="#e28a3e"/>
+  <path d="M170 248 A80 22 0 0 0 330 248 V262 A80 22 0 0 1 170 262Z" fill="#884522"/>
+  <path d="M170 322 A80 22 0 0 0 330 322 V336 A80 22 0 0 1 170 336Z" fill="#884522"/>
+  <path d="M222 286 h56 q-4 28 -28 28 q-24 0 -28 -28z" fill="#f7ebd2"/>
+  <path d="M250 284 c-8 -10 0 -16 -6 -24 M262 284 c-8 -10 0 -16 -6 -24" stroke="#f7ebd2" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- open top: soup inside, lid peeled back -->
+  <ellipse cx="250" cy="200" rx="80" ry="22" fill="#5c7f7d"/>
+  <ellipse cx="250" cy="202" rx="70" ry="17" fill="#c45a2c"/>
+  <circle cx="232" cy="200" r="5" fill="#e0a93f"/><circle cx="268" cy="204" r="4" fill="#808968"/><circle cx="252" cy="196" r="3" fill="#f7ebd2"/>
+  <g transform="rotate(-38 320 196)">
+    <ellipse cx="250" cy="196" rx="72" ry="20" fill="#9cb2ae" stroke="#5c7f7d" stroke-width="4"/>
+    <ellipse cx="250" cy="196" rx="54" ry="13" fill="none" stroke="#5c7f7d" stroke-width="2" opacity=".7"/>
+    <path d="M196 192 q-24 -4 -28 8 q4 12 28 6" fill="none" stroke="#2e4244" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

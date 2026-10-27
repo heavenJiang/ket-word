@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="392" cy="112" r="58" fill="#e0a93f"/>
+  <path d="M70 330 q-8 -44 14 -66 h30 q22 22 14 66z" fill="#e28a3e"/>
+  <g fill="#808968"><path d="M98 266 C70 228 62 190 70 150 C94 182 104 222 98 266Z"/><path d="M98 266 C116 216 146 194 176 186 C162 226 134 252 98 266Z" fill="#5c7f7d"/></g>
+  <rect y="330" width="512" height="182" fill="#f7ebd2"/>
+  <g fill="#9cb2ae"><rect x="0" y="330" width="40" height="182"/><rect x="80" y="330" width="40" height="182"/><rect x="160" y="330" width="40" height="182"/>
+    <rect x="240" y="330" width="40" height="182"/><rect x="320" y="330" width="40" height="182"/><rect x="400" y="330" width="40" height="182"/><rect x="480" y="330" width="40" height="182"/></g>
+  <rect y="330" width="512" height="10" fill="#5c7f7d"/>
+  <!-- plate -->
+  <ellipse cx="256" cy="418" rx="176" ry="44" fill="#fffdf7"/>
+  <ellipse cx="256" cy="418" rx="176" ry="44" fill="none" stroke="#e28a3e" stroke-width="6"/>
+  <ellipse cx="256" cy="416" rx="128" ry="28" fill="#f7ebd2"/>
+  <!-- caramel puddle and flan -->
+  <ellipse cx="256" cy="414" rx="112" ry="22" fill="#c45a2c"/>
+  <path d="M168 410 L186 290 Q256 270 326 290 L344 410 Q256 434 168 410Z" fill="#f1cc92"/>
+  <path d="M296 286 L318 410 Q330 408 344 404 L326 290Z" fill="#e0a93f" opacity=".7"/>
+  <ellipse cx="256" cy="290" rx="70" ry="16" fill="#884522"/>
+  <path d="M190 296 q8 30 4 52 M232 304 q6 22 2 40 M296 302 q-2 26 6 46" stroke="#884522" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <!-- cherry on top -->
+  <circle cx="262" cy="272" r="14" fill="#c45a2c"/><path d="M262 260 q6 -22 22 -26" stroke="#2e4244" stroke-width="3" fill="none"/>
+  <!-- dessert spoon -->
+  <path d="M400 460 L440 380" stroke="#9cb2ae" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="446" cy="368" rx="16" ry="10" transform="rotate(-62 446 368)" fill="#9cb2ae"/>
+</svg>
