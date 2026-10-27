@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <!-- window and plant -->
+  <rect x="320" y="50" width="150" height="170" rx="6" fill="#9cb2ae"/>
+  <circle cx="420" cy="112" r="30" fill="#e0a93f"/>
+  <rect x="320" y="50" width="150" height="170" rx="6" fill="none" stroke="#f7ebd2" stroke-width="10"/>
+  <path d="M395 50 V220" stroke="#f7ebd2" stroke-width="8"/>
+  <path d="M56 340 q-8 -40 12 -60 h28 q20 20 12 60z" fill="#2e4244"/>
+  <g fill="#808968"><path d="M82 282 C56 246 50 210 58 172 C80 202 90 238 82 282Z"/><path d="M82 282 C98 236 126 214 154 206 C142 242 116 266 82 282Z" fill="#5c7f7d"/></g>
+  <!-- rug -->
+  <rect y="340" width="512" height="172" fill="#d6b47d"/>
+  <ellipse cx="270" cy="430" rx="230" ry="60" fill="#e28a3e"/>
+  <ellipse cx="270" cy="430" rx="190" ry="44" fill="none" stroke="#f1cc92" stroke-width="6"/>
+  <!-- yarn ball -->
+  <circle cx="250" cy="430" r="26" fill="#5c7f7d"/>
+  <g stroke="#9cb2ae" stroke-width="3" fill="none"><path d="M228 420 q22 -12 44 6"/><path d="M230 440 q20 -18 42 -6"/><path d="M244 406 q-6 24 8 48"/></g>
+  <path d="M276 436 q30 10 40 -8 q8 -14 30 -6" stroke="#5c7f7d" stroke-width="3" fill="none"/>
+  <!-- puppy (Max), sitting right -->
+  <path d="M340 440 Q330 340 380 330 Q430 336 424 440Z" fill="#f7ebd2"/>
+  <path d="M376 340 Q420 340 424 400 Q400 380 380 382Z" fill="#8d6238"/>
+  <circle cx="378" cy="300" r="40" fill="#f7ebd2"/>
+  <path d="M378 262 Q412 264 416 300 Q396 290 380 296Z" fill="#8d6238"/>
+  <path d="M344 278 Q326 290 332 330 Q348 322 352 296Z" fill="#884522"/>
+  <path d="M410 280 Q430 292 424 330 Q408 322 404 296Z" fill="#884522"/>
+  <ellipse cx="372" cy="318" rx="18" ry="12" fill="#ffffff"/>
+  <ellipse cx="372" cy="314" rx="7" ry="5" fill="#2e4244"/>
+  <circle cx="362" cy="296" r="4" fill="#2e4244"/><circle cx="392" cy="296" r="4" fill="#2e4244"/>
+  <path d="M368 326 q6 8 12 0" stroke="#2e4244" stroke-width="2.5" fill="none"/>
+  <path d="M424 420 q26 -10 22 -40" stroke="#8d6238" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- kitten, playful crouch, paw on yarn -->
+  <path d="M120 440 Q110 380 170 376 Q216 378 222 418 Q224 440 210 444Z" fill="#9cb2ae"/>
+  <g stroke="#5c7f7d" stroke-width="4" stroke-linecap="round"><path d="M150 384 v14 M168 380 v16 M186 382 v14"/></g>
+  <path d="M120 420 q-40 -10 -36 -50" stroke="#9cb2ae" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M206 424 Q218 418 232 424" stroke="#9cb2ae" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="200" cy="374" r="32" fill="#9cb2ae"/>
+  <path d="M176 356 L174 324 L198 346Z" fill="#9cb2ae"/><path d="M206 344 L226 320 L228 354Z" fill="#9cb2ae"/>
+  <path d="M180 350 L179 334 L192 346Z" fill="#e28a3e"/><path d="M210 346 L222 332 L223 350Z" fill="#e28a3e"/>
+  <circle cx="190" cy="372" r="5" fill="#2e4244"/><circle cx="214" cy="372" r="5" fill="#2e4244"/>
+  <circle cx="191.5" cy="370.5" r="1.6" fill="#fff"/><circle cx="215.5" cy="370.5" r="1.6" fill="#fff"/>
+  <path d="M199 382 l4 3 l4 -3" stroke="#884522" stroke-width="2.5" fill="none"/>
+  <g stroke="#2e4244" stroke-width="1.5"><path d="M180 384 h-18 M180 388 l-16 4 M222 384 h18 M222 388 l16 4"/></g>
+</svg>

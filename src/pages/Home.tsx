@@ -1,5 +1,6 @@
 import { buildPlan } from "../session/plan";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
+import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
 
 /** Max grows with the stars the child earns. */
@@ -10,11 +11,24 @@ export function petStage(stars: number) {
   return { emoji: "🐶", name: "小奶狗 Max", next: 80 };
 }
 
-export function Home(props: { progress: Progress; topic?: Topic; words: Word[]; onStart: () => void; onMap: () => void }) {
-  const { progress, topic, words, onStart, onMap } = props;
+export function Home(props: {
+  progress: Progress;
+  topic?: Topic;
+  words: Word[];
+  library: Library;
+  onStart: () => void;
+  onMap: () => void;
+}) {
+  const { progress, topic, words, library, onStart, onMap } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
-  const plan = buildPlan(words.map((w) => w.id), progress.words, now, planOptions(progress, now));
+  const plan = buildPlan(
+    library.all.map((w) => w.id),
+    progress.words,
+    now,
+    planOptions(progress, now),
+    words.map((w) => w.id),
+  );
   const pet = petStage(progress.stars);
   const days = streak(progress.days, now);
   const hasWork = plan.reviews.length + plan.newWords.length > 0;

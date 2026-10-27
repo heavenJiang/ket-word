@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="392" cy="120" r="62" fill="#e0a93f"/>
+  <!-- plant -->
+  <path d="M64 352 q-10 -50 16 -76 h36 q26 26 16 76z" fill="#e28a3e"/>
+  <path d="M74 300 h60" stroke="#884522" stroke-width="5"/>
+  <g fill="#808968">
+    <path d="M98 278 C66 236 56 196 64 150 C90 186 102 226 98 278Z"/>
+    <path d="M98 278 C116 222 150 196 182 186 C168 228 136 260 98 278Z" fill="#5c7f7d"/>
+    <path d="M98 278 C94 222 108 166 134 132 C140 182 126 236 98 278Z"/>
+  </g>
+  <!-- table with striped cloth -->
+  <rect y="352" width="512" height="160" fill="#f7ebd2"/>
+  <g fill="#9cb2ae">
+    <rect x="0" y="352" width="36" height="160"/><rect x="72" y="352" width="36" height="160"/>
+    <rect x="144" y="352" width="36" height="160"/><rect x="216" y="352" width="36" height="160"/>
+    <rect x="288" y="352" width="36" height="160"/><rect x="360" y="352" width="36" height="160"/>
+    <rect x="432" y="352" width="36" height="160"/><rect x="504" y="352" width="36" height="160"/>
+  </g>
+  <rect y="352" width="512" height="10" fill="#5c7f7d"/>
+  <rect y="470" width="512" height="42" fill="#8d6238"/><rect y="470" width="512" height="6" fill="#884522"/>
+  <g transform="translate(258 300) scale(1.25) translate(-258 -300)">
+  <!-- shadow -->
+  <ellipse cx="262" cy="400" rx="84" ry="12" fill="#2e4244" opacity=".22"/>
+  <!-- glass: tapered tumbler -->
+  <path d="M188 168 L206 392 A52 12 0 0 0 310 392 L328 168Z" fill="#dfe8e2" opacity=".55"/>
+  <!-- milk -->
+  <path d="M194 220 L207 386 A51 12 0 0 0 309 386 L322 220Z" fill="#fbf6ec"/>
+  <ellipse cx="258" cy="220" rx="64" ry="14" fill="#fffdf7"/>
+  <path d="M296 230 L284 380" stroke="#ded1b1" stroke-width="10" stroke-linecap="round" opacity=".7"/>
+  <!-- glass outline + rim + highlight -->
+  <path d="M188 168 L206 392 A52 12 0 0 0 310 392 L328 168" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  <ellipse cx="258" cy="168" rx="70" ry="16" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  <path d="M212 190 L226 360" stroke="#ffffff" stroke-width="9" stroke-linecap="round" opacity=".85"/>
+  <path d="M206 392 A52 12 0 0 0 310 392" fill="none" stroke="#2e4244" stroke-width="4"/>
+  <path d="M300 236 L289 384 A51 12 0 0 0 309 386 L322 220Z" fill="#ded1b1" opacity=".55"/>
+  </g>
+</svg>

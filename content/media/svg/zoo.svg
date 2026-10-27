@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="420" cy="80" r="40" fill="#e0a93f"/>
+  <!-- trees behind -->
+  <g fill="#808968"><circle cx="450" cy="240" r="50"/></g>
+  <g fill="#5c7f7d"><circle cx="480" cy="270" r="36"/></g>
+  <!-- giraffe behind fence -->
+  <g fill="#e0a93f">
+    <path d="M330 300 L346 150 L366 150 L360 300Z"/>
+    <path d="M340 152 Q350 118 380 122 Q398 126 394 140 Q384 150 362 156Z"/>
+  </g>
+  <g fill="#8d6238"><circle cx="350" cy="190" r="6"/><circle cx="356" cy="230" r="7"/><circle cx="346" cy="268" r="6"/><circle cx="358" cy="164" r="5"/>
+    <path d="M352 120 v-14 M362 118 v-14" stroke="#8d6238" stroke-width="4"/><circle cx="352" cy="104" r="4"/><circle cx="362" cy="102" r="4"/></g>
+  <circle cx="374" cy="132" r="3" fill="#2e4244"/>
+  <!-- elephant behind fence -->
+  <g fill="#7f9493">
+    <ellipse cx="78" cy="286" rx="66" ry="52"/>
+    <circle cx="138" cy="250" r="40"/>
+    <path d="M160 262 Q186 296 172 344 L156 344 Q166 304 144 280Z"/>
+  </g>
+  <path d="M118 222 Q88 230 92 266 Q104 290 128 280Z" fill="#5c7f7d"/>
+  <path d="M154 272 l14 8 l-12 4z" fill="#f7ebd2"/>
+  <circle cx="150" cy="242" r="4" fill="#2e4244"/>
+  <!-- ground -->
+  <rect y="350" width="512" height="162" fill="#d6b47d"/>
+  <path d="M190 512 L230 350 H282 L322 512Z" fill="#f1cc92"/>
+  <!-- fence -->
+  <g fill="#b28851">
+    <rect x="0" y="300" width="512" height="10"/><rect x="0" y="334" width="512" height="10"/>
+    <rect x="10" y="290" width="12" height="70"/><rect x="60" y="290" width="12" height="70"/><rect x="110" y="290" width="12" height="70"/>
+    <rect x="160" y="290" width="12" height="70"/><rect x="340" y="290" width="12" height="70"/><rect x="390" y="290" width="12" height="70"/>
+    <rect x="440" y="290" width="12" height="70"/><rect x="490" y="290" width="12" height="70"/>
+  </g>
+  <!-- gate arch -->
+  <rect x="196" y="190" width="24" height="172" fill="#884522"/>
+  <rect x="292" y="190" width="24" height="172" fill="#884522"/>
+  <path d="M184 196 Q256 130 328 196 L328 222 Q256 160 184 222Z" fill="#e28a3e"/>
+  <g fill="#2e4244"><circle cx="208" cy="184" r="10"/><circle cx="304" cy="184" r="10"/></g>
+  <!-- flags -->
+  <path d="M256 150 v-40" stroke="#2e4244" stroke-width="4"/><path d="M256 110 l30 10 l-30 10z" fill="#e28a3e"/>
+  <!-- bushes by gate -->
+  <g fill="#808968"><ellipse cx="170" cy="366" rx="34" ry="18"/><ellipse cx="342" cy="366" rx="34" ry="18"/></g>
+</svg>

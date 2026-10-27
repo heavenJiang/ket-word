@@ -23,7 +23,12 @@
     "img": "media/img/animal.webp",
     "uk": "media/uk/animal.mp3",
     "us": "media/us/animal.mp3"
-   }
+   },
+   "avoid": [
+    "wild",
+    "wildlife",
+    "zoo"
+   ]
   },
   {
    "id": "bear",
@@ -42,9 +47,13 @@
     "zh": "那只棕色的大熊在睡觉。"
    },
    "media": {
+    "img": "media/img/bear.webp",
     "uk": "media/uk/bear.mp3",
     "us": "media/us/bear.mp3"
-   }
+   },
+   "avoid": [
+    "polar-bear"
+   ]
   },
   {
    "id": "bee",
@@ -66,7 +75,13 @@
     "img": "media/img/bee.webp",
     "uk": "media/uk/bee.mp3",
     "us": "media/us/bee.mp3"
-   }
+   },
+   "avoid": [
+    "beetle",
+    "butterfly",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "beetle",
@@ -89,7 +104,13 @@
     "img": "media/img/beetle.webp",
     "uk": "media/uk/beetle.mp3",
     "us": "media/us/beetle.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "butterfly",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "bird",
@@ -111,7 +132,15 @@
     "img": "media/img/bird.webp",
     "uk": "media/uk/bird.mp3",
     "us": "media/us/bird.mp3"
-   }
+   },
+   "avoid": [
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "butterfly",
@@ -135,7 +164,13 @@
     "img": "media/img/butterfly.webp",
     "uk": "media/uk/butterfly.mp3",
     "us": "media/us/butterfly.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "camel",
@@ -154,7 +189,10 @@
     "en": "A camel lives in the desert.",
     "zh": "骆驼生活在沙漠里。"
    },
-   "media": {}
+   "media": {
+    "img": "media/img/camel.webp"
+   },
+   "avoid": []
   },
   {
    "id": "cat",
@@ -176,7 +214,11 @@
     "img": "media/img/cat.webp",
     "uk": "media/uk/cat.mp3",
     "us": "media/us/cat.mp3"
-   }
+   },
+   "avoid": [
+    "kitten",
+    "pet"
+   ]
   },
   {
    "id": "chicken",
@@ -199,7 +241,15 @@
     "img": "media/img/chicken.webp",
     "uk": "media/uk/chicken.mp3",
     "us": "media/us/chicken.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "cow",
@@ -221,7 +271,8 @@
     "img": "media/img/cow.webp",
     "uk": "media/uk/cow.mp3",
     "us": "media/us/cow.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "crocodile",
@@ -245,7 +296,12 @@
     "img": "media/img/crocodile.webp",
     "uk": "media/uk/crocodile.mp3",
     "us": "media/us/crocodile.mp3"
-   }
+   },
+   "avoid": [
+    "frog",
+    "snake",
+    "tortoise"
+   ]
   },
   {
    "id": "dinosaur",
@@ -269,7 +325,8 @@
     "img": "media/img/dinosaur.webp",
     "uk": "media/uk/dinosaur.mp3",
     "us": "media/us/dinosaur.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "dog",
@@ -291,7 +348,12 @@
     "img": "media/img/dog.webp",
     "uk": "media/uk/dog.mp3",
     "us": "media/us/dog.mp3"
-   }
+   },
+   "avoid": [
+    "pet",
+    "puppy",
+    "tail"
+   ]
   },
   {
    "id": "dolphin",
@@ -314,7 +376,12 @@
     "img": "media/img/dolphin.webp",
     "uk": "media/uk/dolphin.mp3",
     "us": "media/us/dolphin.mp3"
-   }
+   },
+   "avoid": [
+    "fish",
+    "shark",
+    "whale"
+   ]
   },
   {
    "id": "duck",
@@ -336,7 +403,15 @@
     "img": "media/img/duck.webp",
     "uk": "media/uk/duck.mp3",
     "us": "media/us/duck.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "elephant",
@@ -360,7 +435,8 @@
     "img": "media/img/elephant.webp",
     "uk": "media/uk/elephant.mp3",
     "us": "media/us/elephant.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "fish",
@@ -383,7 +459,12 @@
     "img": "media/img/fish.webp",
     "uk": "media/uk/fish.mp3",
     "us": "media/us/fish.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "shark",
+    "whale"
+   ]
   },
   {
    "id": "frog",
@@ -405,7 +486,12 @@
     "img": "media/img/frog.webp",
     "uk": "media/uk/frog.mp3",
     "us": "media/us/frog.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "snake",
+    "tortoise"
+   ]
   },
   {
    "id": "giraffe",
@@ -428,7 +514,8 @@
     "img": "media/img/giraffe.webp",
     "uk": "media/uk/giraffe.mp3",
     "us": "media/us/giraffe.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "goat",
@@ -450,7 +537,10 @@
     "img": "media/img/goat.webp",
     "uk": "media/uk/goat.mp3",
     "us": "media/us/goat.mp3"
-   }
+   },
+   "avoid": [
+    "sheep"
+   ]
   },
   {
    "id": "horse",
@@ -472,7 +562,10 @@
     "img": "media/img/horse.webp",
     "uk": "media/uk/horse.mp3",
     "us": "media/us/horse.mp3"
-   }
+   },
+   "avoid": [
+    "zebra"
+   ]
   },
   {
    "id": "insect",
@@ -495,7 +588,13 @@
     "img": "media/img/insect.webp",
     "uk": "media/uk/insect.mp3",
     "us": "media/us/insect.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "butterfly",
+    "spider"
+   ]
   },
   {
    "id": "kangaroo",
@@ -519,7 +618,8 @@
     "img": "media/img/kangaroo.webp",
     "uk": "media/uk/kangaroo.mp3",
     "us": "media/us/kangaroo.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "kitten",
@@ -538,7 +638,13 @@
     "en": "The kitten is playing with Max.",
     "zh": "小猫在和 Max 玩。"
    },
-   "media": {}
+   "media": {
+    "img": "media/img/kitten.webp"
+   },
+   "avoid": [
+    "cat",
+    "pet"
+   ]
   },
   {
    "id": "lion",
@@ -561,7 +667,8 @@
     "img": "media/img/lion.webp",
     "uk": "media/uk/lion.mp3",
     "us": "media/us/lion.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "monkey",
@@ -584,7 +691,8 @@
     "img": "media/img/monkey.webp",
     "uk": "media/uk/monkey.mp3",
     "us": "media/us/monkey.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "mouse",
@@ -606,7 +714,8 @@
     "img": "media/img/mouse.webp",
     "uk": "media/uk/mouse.mp3",
     "us": "media/us/mouse.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "parrot",
@@ -629,7 +738,15 @@
     "img": "media/img/parrot.webp",
     "uk": "media/uk/parrot.mp3",
     "us": "media/us/parrot.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "penguin",
@@ -652,7 +769,15 @@
     "img": "media/img/penguin.webp",
     "uk": "media/uk/penguin.mp3",
     "us": "media/us/penguin.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "pet",
@@ -674,7 +799,14 @@
     "img": "media/img/pet.webp",
     "uk": "media/uk/pet.mp3",
     "us": "media/us/pet.mp3"
-   }
+   },
+   "avoid": [
+    "cat",
+    "dog",
+    "kitten",
+    "puppy",
+    "tail"
+   ]
   },
   {
    "id": "polar-bear",
@@ -694,7 +826,12 @@
     "en": "A polar bear is white.",
     "zh": "北极熊是白色的。"
    },
-   "media": {}
+   "media": {
+    "img": "media/img/polar-bear.webp"
+   },
+   "avoid": [
+    "bear"
+   ]
   },
   {
    "id": "puppy",
@@ -717,7 +854,12 @@
     "img": "media/img/puppy.webp",
     "uk": "media/uk/puppy.mp3",
     "us": "media/us/puppy.mp3"
-   }
+   },
+   "avoid": [
+    "dog",
+    "pet",
+    "tail"
+   ]
   },
   {
    "id": "rabbit",
@@ -740,7 +882,8 @@
     "img": "media/img/rabbit.webp",
     "uk": "media/uk/rabbit.mp3",
     "us": "media/us/rabbit.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "shark",
@@ -762,7 +905,12 @@
     "img": "media/img/shark.webp",
     "uk": "media/uk/shark.mp3",
     "us": "media/us/shark.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "fish",
+    "whale"
+   ]
   },
   {
    "id": "sheep",
@@ -784,7 +932,10 @@
     "img": "media/img/sheep.webp",
     "uk": "media/uk/sheep.mp3",
     "us": "media/us/sheep.mp3"
-   }
+   },
+   "avoid": [
+    "goat"
+   ]
   },
   {
    "id": "snake",
@@ -806,7 +957,12 @@
     "img": "media/img/snake.webp",
     "uk": "media/uk/snake.mp3",
     "us": "media/us/snake.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "frog",
+    "tortoise"
+   ]
   },
   {
    "id": "spider",
@@ -829,7 +985,13 @@
     "img": "media/img/spider.webp",
     "uk": "media/uk/spider.mp3",
     "us": "media/us/spider.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "butterfly",
+    "insect"
+   ]
   },
   {
    "id": "swan",
@@ -851,7 +1013,15 @@
     "img": "media/img/swan.webp",
     "uk": "media/uk/swan.mp3",
     "us": "media/us/swan.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "wing"
+   ]
   },
   {
    "id": "tail",
@@ -873,7 +1043,12 @@
     "img": "media/img/tail.webp",
     "uk": "media/uk/tail.mp3",
     "us": "media/us/tail.mp3"
-   }
+   },
+   "avoid": [
+    "dog",
+    "pet",
+    "puppy"
+   ]
   },
   {
    "id": "tiger",
@@ -896,7 +1071,8 @@
     "img": "media/img/tiger.webp",
     "uk": "media/uk/tiger.mp3",
     "us": "media/us/tiger.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "tortoise",
@@ -919,7 +1095,12 @@
     "img": "media/img/tortoise.webp",
     "uk": "media/uk/tortoise.mp3",
     "us": "media/us/tortoise.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "frog",
+    "snake"
+   ]
   },
   {
    "id": "whale",
@@ -941,7 +1122,12 @@
     "img": "media/img/whale.webp",
     "uk": "media/uk/whale.mp3",
     "us": "media/us/whale.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "fish",
+    "shark"
+   ]
   },
   {
    "id": "wild",
@@ -963,7 +1149,12 @@
     "img": "media/img/wild.webp",
     "uk": "media/uk/wild.mp3",
     "us": "media/us/wild.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "wildlife",
+    "zoo"
+   ]
   },
   {
    "id": "wildlife",
@@ -986,7 +1177,12 @@
     "img": "media/img/wildlife.webp",
     "uk": "media/uk/wildlife.mp3",
     "us": "media/us/wildlife.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "wild",
+    "zoo"
+   ]
   },
   {
    "id": "wing",
@@ -1008,7 +1204,15 @@
     "img": "media/img/wing.webp",
     "uk": "media/uk/wing.mp3",
     "us": "media/us/wing.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan"
+   ]
   },
   {
    "id": "zebra",
@@ -1031,7 +1235,10 @@
     "img": "media/img/zebra.webp",
     "uk": "media/uk/zebra.mp3",
     "us": "media/us/zebra.mp3"
-   }
+   },
+   "avoid": [
+    "horse"
+   ]
   },
   {
    "id": "zoo",
@@ -1049,7 +1256,14 @@
     "en": "Lily and Dad go to the zoo.",
     "zh": "Lily 和爸爸去动物园。"
    },
-   "media": {}
+   "media": {
+    "img": "media/img/zoo.webp"
+   },
+   "avoid": [
+    "animal",
+    "wild",
+    "wildlife"
+   ]
   }
  ]
 }

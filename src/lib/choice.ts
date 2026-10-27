@@ -11,7 +11,9 @@ export function shuffle<T>(xs: T[], rng: () => number): T[] {
 
 /** Wrong options for a multiple-choice question; "similar" prefers words that look alike. */
 export function distractors(target: Word, pool: Word[], n: number, rng: () => number, similar = false): Word[] {
-  const others = pool.filter((w) => w.id !== target.id && w.zh !== target.zh);
+  const others = pool.filter(
+    (w) => w.id !== target.id && w.zh !== target.zh && !target.avoid?.includes(w.id) && !w.avoid?.includes(target.id),
+  );
   const scored = others.map((w) => ({
     w,
     score: (similar ? editDistance(w.word, target.word) : 0) + rng() * (similar ? 1.5 : 1),

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="396" cy="104" r="56" fill="#9cb2ae"/>
+  <!-- mountains (source of the water) -->
+  <path d="M0 300 L110 170 L190 250 L280 150 L400 280 L512 210 V330 H0Z" fill="#9cb2ae"/>
+  <path d="M110 170 L140 206 L120 214 L104 196 L86 200Z M280 150 L316 190 L292 196 L276 178 L258 186Z" fill="#fffdf7"/>
+  <path d="M0 330 Q130 300 256 326 T512 316 V340 H0Z" fill="#808968"/>
+  <!-- table -->
+  <rect y="340" width="512" height="172" fill="#b28851"/>
+  <rect y="340" width="512" height="10" fill="#8d6238"/>
+  <!-- bottle -->
+  <ellipse cx="220" cy="432" rx="70" ry="10" fill="#2e4244" opacity=".25"/>
+  <rect x="198" y="106" width="44" height="26" rx="6" fill="#5c7f7d"/>
+  <path d="M202 132 h36 v20 q46 30 46 90 v178 q0 14 -14 14 h-100 q-14 0 -14 -14 v-178 q0 -60 46 -90z" fill="#dfe8e2" opacity=".75"/>
+  <path d="M160 260 h120 v150 q0 12 -12 12 h-96 q-12 0 -12 -12z" fill="#c9dcd9" opacity=".8"/>
+  <!-- blank label -->
+  <rect x="156" y="270" width="128" height="70" fill="#5c7f7d"/>
+  <path d="M190 326 l24 -36 l14 20 l10 -12 l20 28z" fill="#9cb2ae"/>
+  <path d="M202 132 h36 v20 q46 30 46 90 v178 q0 14 -14 14 h-100 q-14 0 -14 -14 v-178 q0 -60 46 -90z" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  <path d="M176 200 q-6 30 -6 60 M176 360 v40" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <!-- bubbles -->
+  <g fill="none" stroke="#ffffff" stroke-width="3"><circle cx="236" cy="380" r="6"/><circle cx="252" cy="358" r="4"/><circle cx="224" cy="236" r="5"/><circle cx="244" cy="214" r="3"/><circle cx="262" cy="396" r="4"/></g>
+  <!-- glass -->
+  <path d="M312 330 L320 426 Q346 434 372 426 L380 330Z" fill="#dfe8e2" opacity=".6"/>
+  <path d="M314 352 L320 424 Q346 432 372 424 L378 352Z" fill="#c9dcd9"/>
+  <path d="M312 330 L320 426 Q346 434 372 426 L380 330" fill="none" stroke="#5c7f7d" stroke-width="4"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.5"><circle cx="336" cy="400" r="4"/><circle cx="352" cy="380" r="3"/><circle cx="346" cy="364" r="3"/></g>
+</svg>
