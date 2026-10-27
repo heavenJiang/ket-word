@@ -1,0 +1,209 @@
+{
+ "source": "Cambridge English A2 Key and A2 Key for Schools Vocabulary List (August 2025), © UCLES",
+ "credits": "Illustrations and recordings: Word Atlas contributors — CC BY 4.0 (https://github.com/designfuchen/word-atlas)",
+ "topics": [
+  {
+   "id": "colours",
+   "en": "Colours",
+   "zh": "颜色",
+   "count": 16,
+   "ready": false
+  },
+  {
+   "id": "family",
+   "en": "Family and Friends",
+   "zh": "家人朋友",
+   "count": 43,
+   "ready": false
+  },
+  {
+   "id": "food",
+   "en": "Food and Drink",
+   "zh": "食物饮料",
+   "count": 106,
+   "ready": false
+  },
+  {
+   "id": "clothes",
+   "en": "Clothes and Accessories",
+   "zh": "衣服配饰",
+   "count": 52,
+   "ready": false
+  },
+  {
+   "id": "home",
+   "en": "House and Home",
+   "zh": "我的家",
+   "count": 62,
+   "ready": false
+  },
+  {
+   "id": "school",
+   "en": "Education",
+   "zh": "学校",
+   "count": 54,
+   "ready": false
+  },
+  {
+   "id": "nature",
+   "en": "The Natural World",
+   "zh": "大自然",
+   "count": 39,
+   "ready": false
+  },
+  {
+   "id": "weather",
+   "en": "Weather",
+   "zh": "天气",
+   "count": 18,
+   "ready": false
+  },
+  {
+   "id": "time",
+   "en": "Time",
+   "zh": "时间",
+   "count": 61,
+   "ready": false
+  },
+  {
+   "id": "sport",
+   "en": "Sport",
+   "zh": "运动",
+   "count": 75,
+   "ready": false
+  },
+  {
+   "id": "hobbies",
+   "en": "Hobbies and Leisure",
+   "zh": "爱好休闲",
+   "count": 38,
+   "ready": false
+  },
+  {
+   "id": "health",
+   "en": "Health, Medicine and Exercise",
+   "zh": "身体健康",
+   "count": 63,
+   "ready": false
+  },
+  {
+   "id": "town",
+   "en": "Places: Town and City",
+   "zh": "城镇",
+   "count": 20,
+   "ready": false
+  },
+  {
+   "id": "buildings",
+   "en": "Places: Buildings",
+   "zh": "建筑",
+   "count": 40,
+   "ready": false
+  },
+  {
+   "id": "countryside",
+   "en": "Places: Countryside",
+   "zh": "乡村",
+   "count": 19,
+   "ready": false
+  },
+  {
+   "id": "shopping",
+   "en": "Shopping",
+   "zh": "购物",
+   "count": 37,
+   "ready": false
+  },
+  {
+   "id": "services",
+   "en": "Services",
+   "zh": "公共服务",
+   "count": 16,
+   "ready": false
+  },
+  {
+   "id": "travel",
+   "en": "Travel and Transport",
+   "zh": "交通旅行",
+   "count": 80,
+   "ready": false
+  },
+  {
+   "id": "jobs",
+   "en": "Work and Jobs",
+   "zh": "职业",
+   "count": 66,
+   "ready": false
+  },
+  {
+   "id": "media",
+   "en": "Entertainment and Media",
+   "zh": "娱乐媒体",
+   "count": 71,
+   "ready": false
+  },
+  {
+   "id": "tech",
+   "en": "Communication and Technology",
+   "zh": "通讯科技",
+   "count": 45,
+   "ready": false
+  },
+  {
+   "id": "appliances",
+   "en": "Appliances",
+   "zh": "家用电器",
+   "count": 26,
+   "ready": false
+  },
+  {
+   "id": "documents",
+   "en": "Documents and Texts",
+   "zh": "文件书信",
+   "count": 25,
+   "ready": false
+  },
+  {
+   "id": "measure",
+   "en": "Measurements",
+   "zh": "度量",
+   "count": 17,
+   "ready": false
+  },
+  {
+   "id": "feelings",
+   "en": "Personal Feelings, Opinions and Experiences (adjectives)",
+   "zh": "感受描述",
+   "count": 74,
+   "ready": false
+  },
+  {
+   "id": "animals",
+   "en": "Animals",
+   "zh": "动物",
+   "count": 47,
+   "ready": true
+  },
+  {
+   "id": "numbers",
+   "en": "Numbers",
+   "zh": "数字",
+   "count": 43,
+   "ready": false
+  },
+  {
+   "id": "world",
+   "en": "Countries and Continents",
+   "zh": "国家与大洲",
+   "count": 32,
+   "ready": false
+  },
+  {
+   "id": "core",
+   "en": "Core words",
+   "zh": "核心词",
+   "count": 773,
+   "ready": false
+  }
+ ]
+}
