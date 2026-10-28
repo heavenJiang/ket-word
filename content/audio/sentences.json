@@ -426,6 +426,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "After his studies, Sam wants to travel.": {
+  "cer": 0.0,
+  "file": "cccb26bbd644.mp3",
+  "heard": "After his studies, Sam wants to travel.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "After school, I want to go to college.": {
+  "cer": 0.0,
+  "file": "d0d5b2eb3921.mp3",
+  "heard": "After school, I want to go to college.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "An apple a day is good for you.": {
   "cer": 0.0,
   "file": "693f142bb0c7.mp3",
@@ -496,6 +510,20 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Art is my favourite subject.": {
+  "cer": 0.0,
+  "file": "512e11240740.mp3",
+  "heard": "Art is my favorite subject.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Ask at the information desk.": {
+  "cer": 0.0,
+  "file": "b055012250f2.mp3",
+  "heard": "Ask at the information desk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Aunt Kate has a pink blouse.": {
   "cer": 0.0,
   "file": "2a9fc92ef08c.mp3",
@@ -516,6 +544,13 @@
   "heard": "Aunt Kate is dad's sister.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "Aunt Kate teaches at a college.": {
+  "cer": 0.0,
+  "file": "bb20cec930c5.mp3",
+  "heard": "Aunt Kate teaches at a college.",
+  "speaker": "narrator",
+  "tries": 4
  },
  "Aunt Kate's husband is Uncle Ben.": {
   "cer": 0.0,
@@ -573,6 +608,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Biology is Lily's favourite subject.": {
+  "cer": 0.0,
+  "file": "ba1037d2149c.mp3",
+  "heard": "Biology is Lily's favorite subject.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Boil the eggs for ten minutes.": {
   "cer": 0.0,
   "file": "85c5fbc7a022.mp3",
@@ -592,6 +634,27 @@
   "file": "5cd0a34fa414.mp3",
   "heard": "Breakfast is the first meal of the day.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Can I borrow your book?": {
+  "cer": 0.0,
+  "file": "6979605bcecf.mp3",
+  "heard": "Can I borrow your book?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I borrow your eraser?": {
+  "cer": 0.0,
+  "file": "9f4403100e1b.mp3",
+  "heard": "Can I borrow your eraser?",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "Can I borrow your rubber, please?": {
+  "cer": 0.0,
+  "file": "053c66320a4d.mp3",
+  "heard": "Can I borrow your rubber please?",
+  "speaker": "kid",
   "tries": 1
  },
  "Can I have a biscuit, please?": {
@@ -678,6 +741,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Can I use your dictionary?": {
+  "cer": 0.0,
+  "file": "9f3cac589f81.mp3",
+  "heard": "Can I use your dictionary?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I use your ruler?": {
+  "cer": 0.0,
+  "file": "7e5aecc591a5.mp3",
+  "heard": "Can I use your ruler?",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Can I use your umbrella?": {
   "cer": 0.0,
   "file": "1b98f9d0f77c.mp3",
@@ -734,11 +811,39 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Can you read this word?": {
+  "cer": 0.0,
+  "file": "f091ee0745b2.mp3",
+  "heard": "Can you read this word?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can you see the board?": {
+  "cer": 0.0,
+  "file": "2354885da2b8.mp3",
+  "heard": "Can you see the board?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can you teach me to swim?": {
+  "cer": 0.0,
+  "file": "260ba691c9a7.mp3",
+  "heard": "Can you teach me to swim?",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Can you turn on the light, please?": {
   "cer": 0.0,
   "file": "4ffed23c6683.mp3",
   "heard": "Can you turn on the light please?",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Chemistry is difficult but fun.": {
+  "cer": 0.0,
+  "file": "cf8d31cdac05.mp3",
+  "heard": "Chemistry is difficult, but fun.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Children don't drink coffee.": {
@@ -801,6 +906,13 @@
   "cer": 0.0,
   "file": "ecf9ad2a3fa4.mp3",
   "heard": "Dad boils water for tea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad books a table at the cafe.": {
+  "cer": 0.0,
+  "file": "0305a1ea4f37.mp3",
+  "heard": "Dad books a table at the cafe.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -885,6 +997,13 @@
   "cer": 0.0,
   "file": "905e9f853f6b.mp3",
   "heard": "Dad has a brown belt.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad has a diploma in music.": {
+  "cer": 0.0,
+  "file": "b94ef6564d04.mp3",
+  "heard": "Dad has a diploma in music.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -993,6 +1112,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Dad studied at university in London.": {
+  "cer": 0.0,
+  "file": "c76a7af8acc1.mp3",
+  "heard": "Dad studied at university in London.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Dad wears a grey suit to work.": {
   "cer": 0.0,
   "file": "913c5b34cc54.mp3",
@@ -1055,6 +1181,20 @@
   "heard": "Do you have a pet?",
   "speaker": "adult",
   "tries": 1
+ },
+ "Do you know my brother?": {
+  "cer": 0.0,
+  "file": "edf1782a3d71.mp3",
+  "heard": "Do you know my brother?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Do you remember our holiday?": {
+  "cer": 0.0,
+  "file": "efb9deb2d7ad.mp3",
+  "heard": "Do you remember our holiday",
+  "speaker": "kid",
+  "tries": 2
  },
  "Do you take sugar in your tea?": {
   "cer": 0.0,
@@ -1147,6 +1287,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Draw a line with a ruler.": {
+  "cer": 0.0,
+  "file": "656baa91354d.mp3",
+  "heard": "Draw a line with a ruler.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Drive slowly in the fog.": {
   "cer": 0.0,
   "file": "f8ff542f151a.mp3",
@@ -1182,6 +1329,13 @@
   "speaker": "adult",
   "tries": 2
  },
+ "English is a beautiful language.": {
+  "cer": 0.0,
+  "file": "830710b8a831.mp3",
+  "heard": "English is a beautiful language.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Every child gets a cake.": {
   "cer": 0.0,
   "file": "03ed1c7a6c6e.mp3",
@@ -1207,6 +1361,13 @@
   "cer": 0.0,
   "file": "055c632c64e5.mp3",
   "heard": "Fish is good for you.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Football practice is on Tuesday.": {
+  "cer": 0.0,
+  "file": "83087d393c22.mp3",
+  "heard": "Football practice is on Tuesday.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1243,6 +1404,13 @@
   "file": "15ab689b1d21.mp3",
   "heard": "Garlic is good in pasta sauce.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Geography is my favourite subject.": {
+  "cer": 0.0,
+  "file": "a5042141ef01.mp3",
+  "heard": "Geography is my favorite subject.",
+  "speaker": "kid",
   "tries": 1
  },
  "Get dressed, Tom! It's time for school.": {
@@ -1511,6 +1679,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Grandpa reads the newspaper.": {
+  "cer": 0.0,
+  "file": "dc739b1198ff.mp3",
+  "heard": "Grandpa reads the newspaper.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandpa wears a hat in the garden.": {
   "cer": 0.0,
   "file": "8e8a0ff384ee.mp3",
@@ -1551,6 +1726,13 @@
   "file": "5ee9d3799214.mp3",
   "heard": "Happy birthday, here is your cake.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Have you got any homework today?": {
+  "cer": 0.0,
+  "file": "5fed315893ab.mp3",
+  "heard": "Have you got any homework today?",
+  "speaker": "adult",
   "tries": 1
  },
  "He gives her a ring.": {
@@ -1595,6 +1777,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "History is very interesting.": {
+  "cer": 0.0,
+  "file": "9f62f2d4ae4d.mp3",
+  "heard": "History is very interesting.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Honey is very sweet.": {
   "cer": 0.0,
   "file": "97a5634c00c8.mp3",
@@ -1606,6 +1795,20 @@
   "cer": 0.0,
   "file": "e4a2f55084cf.mp3",
   "heard": "Hot soup is nice on cold days.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "How are your studies going?": {
+  "cer": 0.0,
+  "file": "bf3e4d14070c.mp3",
+  "heard": "How are your studies going?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "How many languages can you speak?": {
+  "cer": 0.0,
+  "file": "afddce44477e.mp3",
+  "heard": "How many languages can you speak?",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1648,6 +1851,20 @@
   "cer": 0.0,
   "file": "e09e7a6403cc.mp3",
   "heard": "I can't find my wallet.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I can't remember his name.": {
+  "cer": 0.0,
+  "file": "61aedc76ee91.mp3",
+  "heard": "I can't remember his name.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I don't know where Max is.": {
+  "cer": 0.0,
+  "file": "e805b6fb69d7.mp3",
+  "heard": "I don't know where Max is.",
   "speaker": "kid",
   "tries": 1
  },
@@ -1700,6 +1917,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I know the answer!": {
+  "cer": 0.0,
+  "file": "a8ce777cda1c.mp3",
+  "heard": "I know the answer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I like bread and jam.": {
   "cer": 0.0,
   "file": "b39312b8ce4b.mp3",
@@ -1720,6 +1944,13 @@
   "heard": "I like light green.",
   "speaker": "kid",
   "tries": 2
+ },
+ "I like my school.": {
+  "cer": 0.0,
+  "file": "f1b0e76d3163.mp3",
+  "heard": "I like my school.",
+  "speaker": "kid",
+  "tries": 1
  },
  "I like strawberries and cream.": {
   "cer": 0.0,
@@ -1763,6 +1994,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I need a new English dictionary.": {
+  "cer": 0.0,
+  "file": "42e87021d3d8.mp3",
+  "heard": "I need a new English dictionary.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I need a new swimsuit.": {
   "cer": 0.0,
   "file": "c289d34624c0.mp3",
@@ -1791,10 +2029,24 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I need some information about the zoo.": {
+  "cer": 0.0,
+  "file": "35d7ac5c9954.mp3",
+  "heard": "I need some information about the zoo.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I put butter on my bread.": {
   "cer": 0.0,
   "file": "fa3305711187.mp3",
   "heard": "I put butter on my bread!",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I study for the test every evening.": {
+  "cer": 0.0,
+  "file": "45875e7ffc7d.mp3",
+  "heard": "I study for the test every evening.",
   "speaker": "kid",
   "tries": 1
  },
@@ -1804,6 +2056,20 @@
   "heard": "I want new jeans!",
   "speaker": "kid",
   "tries": 1
+ },
+ "I want to do a swimming course.": {
+  "cer": 0.0,
+  "file": "87890c098b9a.mp3",
+  "heard": "I want to do a swimming course.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want to learn the piano.": {
+  "cer": 0.0,
+  "file": "78780a56816a.mp3",
+  "heard": "I want to learn the piano.",
+  "speaker": "kid",
+  "tries": 2
  },
  "I want tomato sauce on my chips.": {
   "cer": 0.0,
@@ -1896,6 +2162,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "I'm a beginner at the piano.": {
+  "cer": 0.0,
+  "file": "589556015288.mp3",
+  "heard": "I'm a beginner at the piano.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I'm hungry. Can I have a snack?": {
   "cer": 0.0,
   "file": "12525fb92816.mp3",
@@ -1936,6 +2209,13 @@
   "file": "7ee0dc3731ec.mp3",
   "heard": "Is it windy at the beach?",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Is maths difficult for you?": {
+  "cer": 0.0,
+  "file": "70540ba311a4.mp3",
+  "heard": "Is maths difficult for you?",
+  "speaker": "adult",
   "tries": 1
  },
  "Is your phone in your handbag?": {
@@ -2085,6 +2365,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Let's book a room by the sea.": {
+  "cer": 0.0,
+  "file": "c947dadc517c.mp3",
+  "heard": "Let's book a room by the sea.",
+  "speaker": "kid",
+  "tries": 2
+ },
  "Let's eat!": {
   "cer": 0.0,
   "file": "4519b239cc8a.mp3",
@@ -2120,6 +2407,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Let's meet at the library.": {
+  "cer": 0.0,
+  "file": "68ea7423ca95.mp3",
+  "heard": "Let's meet at the library.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Let's roast some potatoes.": {
   "cer": 0.0,
   "file": "0ae846a61cd7.mp3",
@@ -2148,6 +2442,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily borrows books from the library.": {
+  "cer": 0.0,
+  "file": "823db0a39b1c.mp3",
+  "heard": "Lily borrows books from the library.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily can ride a bike.": {
   "cer": 0.0,
   "file": "29c006c91322.mp3",
@@ -2166,6 +2467,13 @@
   "cer": 0.0,
   "file": "2ba0fbb70bac.mp3",
   "heard": "Lily cuts a carrot for the soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily does her homework after school.": {
+  "cer": 0.0,
+  "file": "6d62d4e51331.mp3",
+  "heard": "Lily does her homework after school?",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2257,6 +2565,13 @@
   "cer": 0.0,
   "file": "3b4a4bf7ae5c.mp3",
   "heard": "Lily finds a small insect in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily gets a good mark in the test.": {
+  "cer": 0.0,
+  "file": "73eef92cf89a.mp3",
+  "heard": "Lily gets a good mark in the test.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2358,6 +2673,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily has a swimming lesson on Saturday.": {
+  "cer": 0.0,
+  "file": "688934b4e81b.mp3",
+  "heard": "Lily has a swimming lesson on Saturday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily has a yellow T-shirt.": {
   "cer": 0.0,
   "file": "3ffde53b3fdc.mp3",
@@ -2435,10 +2757,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily is a clever girl.": {
+  "cer": 0.0,
+  "file": "0abe96d7c5ee.mp3",
+  "heard": "Lily is a clever girl.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily is a girl.": {
   "cer": 0.0,
   "file": "6927a743a52e.mp3",
   "heard": "Lily is a girl",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is a good pupil.": {
+  "cer": 0.0,
+  "file": "f56cb7c4733a.mp3",
+  "heard": "Lily is a good pupil.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2456,10 +2792,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily is learning a new language.": {
+  "cer": 0.0,
+  "file": "1410e2fbf2b0.mp3",
+  "heard": "Lily is learning a new language.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily is not afraid of the spider.": {
   "cer": 0.0,
   "file": "16d1cf267188.mp3",
   "heard": "Lily is not afraid of the spider",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is ready for the test.": {
+  "cer": 0.0,
+  "file": "222b200bcee2.mp3",
+  "heard": "Lily is ready for the test.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is the tallest in her class.": {
+  "cer": 0.0,
+  "file": "a5ad18f00755.mp3",
+  "heard": "Lily is the tallest in her class.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2481,6 +2838,13 @@
   "cer": 0.0,
   "file": "2b52d43af06c.mp3",
   "heard": "Lily likes to drink orange juice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily likes to read in bed.": {
+  "cer": 0.0,
+  "file": "050990e3a41c.mp3",
+  "heard": "Lily likes to read in bed.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2568,6 +2932,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily practises the piano every day.": {
+  "cer": 0.034,
+  "file": "26eaf66e3865.mp3",
+  "heard": "Lily practices the piano every day.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Lily puts a tomato in the salad.": {
   "cer": 0.0,
   "file": "5dce792d8546.mp3",
@@ -2617,6 +2988,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily reads a book every week.": {
+  "cer": 0.0,
+  "file": "08161a15bf62.mp3",
+  "heard": "Lily reads a book every week.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily rides a camel on holiday.": {
   "cer": 0.0,
   "file": "fe9114671a3e.mp3",
@@ -2637,6 +3015,13 @@
   "heard": "Lily sits with her friends in the cafeteria.",
   "speaker": "narrator",
   "tries": 1
+ },
+ "Lily studies English at school.": {
+  "cer": 0.0,
+  "file": "a34599d16b33.mp3",
+  "heard": "Lily studies English at school.",
+  "speaker": "narrator",
+  "tries": 4
  },
  "Lily takes a sandwich to school.": {
   "cer": 0.0,
@@ -2673,6 +3058,13 @@
   "speaker": "narrator",
   "tries": 5
  },
+ "Lily walks to school with Mum.": {
+  "cer": 0.0,
+  "file": "5fb9133fcfcd.mp3",
+  "heard": "Lily walks to school with mom.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily wants a strawberry ice cream.": {
   "cer": 0.0,
   "file": "9aad646340f3.mp3",
@@ -2691,6 +3083,20 @@
   "cer": 0.0,
   "file": "b3db32f5ca7a.mp3",
   "heard": "Lily wants to be a chef.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wants to be a teacher.": {
+  "cer": 0.0,
+  "file": "d5280f39412b.mp3",
+  "heard": "Lily wants to be a teacher.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily wants to join the advanced class.": {
+  "cer": 0.0,
+  "file": "f171c12065e1.mp3",
+  "heard": "Lily wants to join the advanced class.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2743,6 +3149,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily writes a note to Tom.": {
+  "cer": 0.0,
+  "file": "dd359d381585.mp3",
+  "heard": "Lily writes a note to Tom.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily writes to her penfriend in Spain.": {
   "cer": 0.0,
   "file": "3b69b9eed137.mp3",
@@ -2770,6 +3183,13 @@
   "heard": "Lily's bag is pink.",
   "speaker": "narrator",
   "tries": 1
+ },
+ "Lily's books are on her desk.": {
+  "cer": 0.0,
+  "file": "9f5dad1fdec1.mp3",
+  "heard": "Lily's books are on her desk.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "Lily's clothes are on the floor.": {
   "cer": 0.0,
@@ -2820,11 +3240,25 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Listen to the teacher's instructions.": {
+  "cer": 0.0,
+  "file": "cbb602b41fa0.mp3",
+  "heard": "Listen to the teacher's instructions.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Listen to the wind!": {
   "cer": 0.0,
   "file": "7e44f3f47965.mp3",
   "heard": "Listen to the wind.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Look at the blackboard, please.": {
+  "cer": 0.0,
+  "file": "56c8cc778360.mp3",
+  "heard": "Look at the blackboard, please.",
+  "speaker": "adult",
   "tries": 1
  },
  "Look at the pretty butterfly!": {
@@ -2834,10 +3268,24 @@
   "speaker": "kid",
   "tries": 2
  },
+ "Look up the word in the dictionary.": {
+  "cer": 0.0,
+  "file": "8e45718d8b32.mp3",
+  "heard": "look up the word in the dictionary.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Look! A bee is flying near the flowers.": {
   "cer": 0.0,
   "file": "893d537ab2a0.mp3",
   "heard": "Look a bee is flying near the flowers",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Maths is Sam's favourite subject.": {
+  "cer": 0.0,
+  "file": "502183f5e62e.mp3",
+  "heard": "Maths is Sam's favorite subject.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3009,6 +3457,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Mia is Lily's classmate.": {
+  "cer": 0.0,
+  "file": "d2bc3c0af013.mp3",
+  "heard": "Mia is Lily's classmate.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Milk is white.": {
   "cer": 0.0,
   "file": "c4ef0df96b50.mp3",
@@ -3043,6 +3498,13 @@
   "heard": "Mr. Brown is our teacher.",
   "speaker": "kid",
   "tries": 2
+ },
+ "Mr Brown teaches us English.": {
+  "cer": 0.0,
+  "file": "34e2cf859e89.mp3",
+  "heard": "Mr. Brown teaches us English.",
+  "speaker": "kid",
+  "tries": 1
  },
  "Mr Smith is our neighbour.": {
   "cer": 0.0,
@@ -3163,6 +3625,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Mum is doing a cooking course.": {
+  "cer": 0.0,
+  "file": "fa72984859d6.mp3",
+  "heard": "Mom is doing a cooking course.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum leaves a note on the fridge.": {
+  "cer": 0.0,
+  "file": "b1dffd912ff2.mp3",
+  "heard": "Mom leaves a note on the fridge.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Mum likes coffee with milk.": {
   "cer": 0.0,
   "file": "055e6bc5c07c.mp3",
@@ -3210,6 +3686,13 @@
   "file": "99e764d1b6b4.mp3",
   "heard": "Mom takes some money from her purse.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum teaches me to cook.": {
+  "cer": 0.0,
+  "file": "ff706b8be9cc.mp3",
+  "heard": "Mum teaches me to cook.",
+  "speaker": "kid",
   "tries": 1
  },
  "Mum tries on a new dress.": {
@@ -3275,10 +3758,52 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My bookshelf is full.": {
+  "cer": 0.0,
+  "file": "38366a4e1ac6.mp3",
+  "heard": "My bookshelf is full.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My brother is good at physics.": {
+  "cer": 0.0,
+  "file": "0bbdec4e522f.mp3",
+  "heard": "My brother is good at physics.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "My brother is six years old.": {
   "cer": 0.0,
   "file": "977fd738d3f8.mp3",
   "heard": "My brother is six years old.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My classmates are very friendly.": {
+  "cer": 0.0,
+  "file": "9aa8fa875a00.mp3",
+  "heard": "My classmates are very friendly.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin goes to college.": {
+  "cer": 0.0,
+  "file": "0c8bdb294838.mp3",
+  "heard": "My cousin goes to college.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin goes to university.": {
+  "cer": 0.0,
+  "file": "4bfc2154c699.mp3",
+  "heard": "My cousin goes to university.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin is a student at university.": {
+  "cer": 0.0,
+  "file": "7cea1c274001.mp3",
+  "heard": "My cousin is a student at university.",
   "speaker": "kid",
   "tries": 1
  },
@@ -3307,6 +3832,20 @@
   "cer": 0.0,
   "file": "ea8bbca86b0b.mp3",
   "heard": "My dad works in a bank.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My desk is next to the window.": {
+  "cer": 0.0,
+  "file": "bbac9cc2d3f7.mp3",
+  "heard": "My desk is next to the window.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My eraser is in my pencil case.": {
+  "cer": 0.0,
+  "file": "05728686db38.mp3",
+  "heard": "My eraser is in my pencil case.",
   "speaker": "kid",
   "tries": 1
  },
@@ -3464,6 +4003,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My rubber is very small now.": {
+  "cer": 0.0,
+  "file": "d258e07fd666.mp3",
+  "heard": "My rubber is very small now",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My ruler is thirty centimetres long.": {
+  "cer": 0.067,
+  "file": "8282d9fc722b.mp3",
+  "heard": "My ruler is 30 centimeters long.",
+  "speaker": "kid",
+  "tries": 2
+ },
  "My scarf is very warm.": {
   "cer": 0.0,
   "file": "7516d931d007.mp3",
@@ -3492,6 +4045,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My sister gets her diploma today.": {
+  "cer": 0.0,
+  "file": "065635738ac0.mp3",
+  "heard": "My sister gets her diploma today.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My sister is busy with her studies.": {
+  "cer": 0.0,
+  "file": "b84e384920a9.mp3",
+  "heard": "My sister is busy with her studies.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "My sister is nine years old.": {
   "cer": 0.0,
   "file": "70bff8a8071a.mp3",
@@ -3503,6 +4070,13 @@
   "cer": 0.0,
   "file": "f7d3ec07de98.mp3",
   "heard": "My sister is older than me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My sister studies chemistry.": {
+  "cer": 0.0,
+  "file": "3b84d739a188.mp3",
+  "heard": "My sister studies chemistry",
   "speaker": "kid",
   "tries": 1
  },
@@ -3569,10 +4143,45 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Our English class starts at nine.": {
+  "cer": 0.0,
+  "file": "5579ef0f4d10.mp3",
+  "heard": "Our English class starts at 9.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Our cat drinks milk.": {
   "cer": 0.0,
   "file": "21f183558168.mp3",
   "heard": "Our cat drinks milk.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our class is doing a project on animals.": {
+  "cer": 0.0,
+  "file": "1066355ba886.mp3",
+  "heard": "Our class is doing a project on animals.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our classroom is on the first floor.": {
+  "cer": 0.0,
+  "file": "01114a9a1f38.mp3",
+  "heard": "Our classroom is on the first floor.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our first lesson is maths.": {
+  "cer": 0.0,
+  "file": "65df83eb5d19.mp3",
+  "heard": "Our first lesson is Maths.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our football coach is very kind.": {
+  "cer": 0.0,
+  "file": "0e9347f7ff54.mp3",
+  "heard": "Our football coach is very kind.",
   "speaker": "kid",
   "tries": 1
  },
@@ -3604,11 +4213,32 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Our teacher is very kind.": {
+  "cer": 0.0,
+  "file": "3403f936fe65.mp3",
+  "heard": "Our teacher is very kind.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Our team has a new red kit.": {
   "cer": 0.0,
   "file": "cb23a7df45e5.mp3",
   "heard": "Our team has a new red kit.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Physics is difficult but interesting.": {
+  "cer": 0.0,
+  "file": "fdd3044401d3.mp3",
+  "heard": "Physics is difficult but interesting.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Piano practice is every day.": {
+  "cer": 0.0,
+  "file": "e218c38fb4fa.mp3",
+  "heard": "Piano practice is every day.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Pizza has cheese on it.": {
@@ -3632,6 +4262,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Please be quiet during the examination.": {
+  "cer": 0.0,
+  "file": "4cd02bc0ea92.mp3",
+  "heard": "Please be quiet during the examination.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Please be quiet in the classroom.": {
+  "cer": 0.0,
+  "file": "f922d730e93b.mp3",
+  "heard": "Please be quiet in the classroom.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Please don't break my new toy.": {
   "cer": 0.0,
   "file": "d1c5b0999b92.mp3",
@@ -3644,6 +4288,13 @@
   "file": "7ab462e2ac97.mp3",
   "heard": "Please turn off the light.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Practise your English with a friend.": {
+  "cer": 0.033,
+  "file": "fb92117684c5.mp3",
+  "heard": "Practice your English with a friend.",
+  "speaker": "adult",
   "tries": 1
  },
  "Put on a jumper. It's cold.": {
@@ -3727,6 +4378,13 @@
   "cer": 0.0,
   "file": "a7f539ac4399.mp3",
   "heard": "Put some salt and pepper on the meat.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the books on the bookshelf.": {
+  "cer": 0.0,
+  "file": "add6e7583bc0.mp3",
+  "heard": "Put the books on the bookshelf.",
   "speaker": "adult",
   "tries": 1
  },
@@ -3814,6 +4472,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Read the instructions before you start.": {
+  "cer": 0.0,
+  "file": "00bc2a217d53.mp3",
+  "heard": "Read the instructions before you start.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Remember to take your homework!": {
+  "cer": 0.0,
+  "file": "d25c7b9e40df.mp3",
+  "heard": "Remember to take your homework.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Ring Grandma and say thank you.": {
   "cer": 0.0,
   "file": "4c4d34c38467.mp3",
@@ -3835,6 +4507,34 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Sam is clever at maths.": {
+  "cer": 0.0,
+  "file": "8cc93eac8a9e.mp3",
+  "heard": "Sam is clever at maths.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Sam is in the advanced class.": {
+  "cer": 0.0,
+  "file": "880d9eb897bb.mp3",
+  "heard": "Sam is in the advanced class.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam is ready for his examination.": {
+  "cer": 0.0,
+  "file": "fee2355d4047.mp3",
+  "heard": "Sam is ready for his examination.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam wants to go to university.": {
+  "cer": 0.0,
+  "file": "d087d2752ac7.mp3",
+  "heard": "Sam wants to go to university.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Sam wears a green hoodie.": {
   "cer": 0.0,
   "file": "a6fd517581a7.mp3",
@@ -3846,6 +4546,20 @@
   "cer": 0.0,
   "file": "166c78098091.mp3",
   "heard": "Sam wears glasses.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "School starts at half past eight.": {
+  "cer": 0.0,
+  "file": "ba3d040f0191.mp3",
+  "heard": "school starts at half past eight.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Science is fun!": {
+  "cer": 0.0,
+  "file": "71d8c9bd9018.mp3",
+  "heard": "Science is fun.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3861,6 +4575,13 @@
   "file": "5774e08f8731.mp3",
   "heard": "She reads fashion magazines,",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Sit at your desk, please.": {
+  "cer": 0.0,
+  "file": "4b039581c6a2.mp3",
+  "heard": "Sit at your desk, please.",
+  "speaker": "adult",
   "tries": 1
  },
  "Snow is white.": {
@@ -3911,6 +4632,13 @@
   "heard": "Take an umbrella. It's raining.",
   "speaker": "adult",
   "tries": 1
+ },
+ "Take notes in the lesson.": {
+  "cer": 0.0,
+  "file": "21a1408ba879.mp3",
+  "heard": "Take notes in the lesson.",
+  "speaker": "adult",
+  "tries": 2
  },
  "Take off your wet boots.": {
   "cer": 0.0,
@@ -4101,6 +4829,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The classroom has big windows.": {
+  "cer": 0.0,
+  "file": "dc01f6e4b96f.mp3",
+  "heard": "The classroom has big windows.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The cloud looks like a rabbit!": {
   "cer": 0.0,
   "file": "26883f18fc3b.mp3",
@@ -4112,6 +4847,20 @@
   "cer": 0.0,
   "file": "e8925fe8d903.mp3",
   "heard": "The clouds are white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The coach helps us play better.": {
+  "cer": 0.0,
+  "file": "219905446ea8.mp3",
+  "heard": "The coach helps us play better.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The course is ten weeks long.": {
+  "cer": 0.0,
+  "file": "c986beccdec4.mp3",
+  "heard": "The course is 10 weeks long.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4175,6 +4924,13 @@
   "cer": 0.0,
   "file": "78bd84888e28.mp3",
   "heard": "The elephant has a long nose.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The examination is on Friday.": {
+  "cer": 0.0,
+  "file": "5a5a55c87bda.mp3",
+  "heard": "The examination is on Friday.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4248,6 +5004,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The instructions are very easy.": {
+  "cer": 0.0,
+  "file": "be6e3cbe1c91.mp3",
+  "heard": "The instructions are very easy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The kangaroo has a baby.": {
   "cer": 0.0,
   "file": "de56a1ddab21.mp3",
@@ -4294,6 +5057,20 @@
   "cer": 0.0,
   "file": "9323fed6a6ee.mp3",
   "heard": "The kitten is sleeping in a box",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The lesson starts at nine o'clock.": {
+  "cer": 0.0,
+  "file": "3697ef359bde.mp3",
+  "heard": "The lesson starts at 9 o'clock.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The library is very quiet.": {
+  "cer": 0.0,
+  "file": "15cd08adba84.mp3",
+  "heard": "The library is very quiet.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4409,6 +5186,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The new term starts in September.": {
+  "cer": 0.0,
+  "file": "22460dbdedb7.mp3",
+  "heard": "The new term starts in September.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The night sky is black.": {
   "cer": 0.0,
   "file": "59f6b62233d4.mp3",
@@ -4450,6 +5234,13 @@
   "heard": "The polar bear is swimming in the cold sea.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "The pupils are reading.": {
+  "cer": 0.0,
+  "file": "1ff00d653ba7.mp3",
+  "heard": "The pupils are reading.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "The puppy wants to play.": {
   "cer": 0.0,
@@ -4570,6 +5361,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The students are listening to the teacher.": {
+  "cer": 0.0,
+  "file": "e290baa4e9bd.mp3",
+  "heard": "The students are listening to the teacher.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The sun goes down in the evening.": {
   "cer": 0.0,
   "file": "8e820fd1d540.mp3",
@@ -4609,6 +5407,34 @@
   "cer": 0.0,
   "file": "436a888e822c.mp3",
   "heard": "The swan is swimming on the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The teacher draws a map on the board.": {
+  "cer": 0.0,
+  "file": "2698c5c941c0.mp3",
+  "heard": "The teacher draws a map on the board.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The teacher gives us homework.": {
+  "cer": 0.0,
+  "file": "e83fce87ee7b.mp3",
+  "heard": "The teacher gives us homework.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The teacher writes on the blackboard.": {
+  "cer": 0.0,
+  "file": "5afcda74e1e7.mp3",
+  "heard": "the teacher writes on the blackboard.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The test is very easy.": {
+  "cer": 0.0,
+  "file": "aa87f003bd6a.mp3",
+  "heard": "The test is very easy.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4759,11 +5585,46 @@
   "speaker": "kid",
   "tries": 1
  },
+ "There are thirty students in the class.": {
+  "cer": 0.0,
+  "file": "db75555b052b.mp3",
+  "heard": "There are 30 students in the class.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are three hundred pupils in our school.": {
+  "cer": 0.324,
+  "file": "4ee271631f21.mp3",
+  "heard": "There are 300 pupils in our school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There are three terms in a year.": {
+  "cer": 0.0,
+  "file": "7940fe9a451b.mp3",
+  "heard": "There are three terms in a year?",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "There are twelve girls in my class.": {
   "cer": 0.0,
   "file": "3d1c6fd7a81f.mp3",
   "heard": "There are 12 girls in my class?",
   "speaker": "kid",
+  "tries": 1
+ },
+ "There are twenty children in my class.": {
+  "cer": 0.0,
+  "file": "1590cd6d3e3d.mp3",
+  "heard": "There are 20 children in my class.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There is a big bookshelf in the classroom.": {
+  "cer": 0.0,
+  "file": "fe9b78c430a6.mp3",
+  "heard": "There is a big bookshelf in the classroom.",
+  "speaker": "narrator",
   "tries": 1
  },
  "There is a big storm tonight.": {
@@ -4941,6 +5802,27 @@
   "speaker": "kid",
   "tries": 1
  },
+ "This book is about dinosaurs.": {
+  "cer": 0.0,
+  "file": "813429e4fef4.mp3",
+  "heard": "This book is about dinosaurs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This book is at the right level for me.": {
+  "cer": 0.0,
+  "file": "79d0ad89e709.mp3",
+  "heard": "This book is at the right level for me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This book is too advanced for Tom.": {
+  "cer": 0.0,
+  "file": "a7c069a4d805.mp3",
+  "heard": "This book is too advanced for Tom.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "This burger is very big!": {
   "cer": 0.0,
   "file": "10b2e441e1c7.mp3",
@@ -4952,6 +5834,13 @@
   "cer": 0.0,
   "file": "ff63bd731522.mp3",
   "heard": "This candy is very sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This class is for beginners.": {
+  "cer": 0.0,
+  "file": "806873726b25.mp3",
+  "heard": "This class is for beginners.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5001,6 +5890,13 @@
   "cer": 0.0,
   "file": "22831ed1c93a.mp3",
   "heard": "This is my family",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This is my science project.": {
+  "cer": 0.0,
+  "file": "878fd040d425.mp3",
+  "heard": "This is my science project.",
   "speaker": "kid",
   "tries": 1
  },
@@ -5123,12 +6019,26 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This term we are learning about space.": {
+  "cer": 0.0,
+  "file": "b5b9538ee93f.mp3",
+  "heard": "This term we are learning about space?",
+  "speaker": "kid",
+  "tries": 1
+ },
  "This tie is very long.": {
   "cer": 0.0,
   "file": "347dfecd81af.mp3",
   "heard": "This tie is very long.",
   "speaker": "narrator",
   "tries": 1
+ },
+ "Tom cleans the blackboard after class.": {
+  "cer": 0.062,
+  "file": "ea9668de629c.mp3",
+  "heard": "Tom cleansed the blackboard after class.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "Tom doesn't like boiled carrots.": {
   "cer": 0.0,
@@ -5162,6 +6072,13 @@
   "cer": 0.0,
   "file": "551afe1b5983.mp3",
   "heard": "Tom eats too much candy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom gets full marks!": {
+  "cer": 0.0,
+  "file": "e78790391760.mp3",
+  "heard": "Tom gets full marks.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5242,12 +6159,33 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Tom is a beginner at swimming.": {
+  "cer": 0.0,
+  "file": "5380e39a101e.mp3",
+  "heard": "Tom is a beginner at swimming.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Tom is a boy.": {
   "cer": 0.0,
   "file": "c33306ab77b6.mp3",
   "heard": "Tom is a boy",
   "speaker": "narrator",
   "tries": 1
+ },
+ "Tom is at the first level.": {
+  "cer": 0.0,
+  "file": "d11285e209c0.mp3",
+  "heard": "Tom is at the first level.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom is learning to swim.": {
+  "cer": 0.0,
+  "file": "58578be00f04.mp3",
+  "heard": "Tom is learning to swim.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "Tom looks like his father.": {
   "cer": 0.0,
@@ -5274,6 +6212,20 @@
   "cer": 0.0,
   "file": "34f5d332f911.mp3",
   "heard": "Tom loves pizza.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom plays with his classmates at break.": {
+  "cer": 0.0,
+  "file": "a85b86ddc5f3.mp3",
+  "heard": "Tom plays with his classmates at break.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom practises football in the garden.": {
+  "cer": 0.032,
+  "file": "effb8f7d9417.mp3",
+  "heard": "Tom practices football in the garden.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5368,6 +6320,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Tom's homework is very easy.": {
+  "cer": 0.0,
+  "file": "5301cdd0a343.mp3",
+  "heard": "Tom's homework is very easy.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Tom's uncle is a funny guy.": {
   "cer": 0.0,
   "file": "402201756a39.mp3",
@@ -5424,6 +6383,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Use a rubber to fix it.": {
+  "cer": 0.0,
+  "file": "e9c447b385fe.mp3",
+  "heard": "Use a rubber to fix it.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Use an eraser, not your finger.": {
+  "cer": 0.0,
+  "file": "97816675ace5.mp3",
+  "heard": "Use an eraser, not your finger.",
+  "speaker": "adult",
+  "tries": 3
+ },
  "Watch me! I can swim.": {
   "cer": 0.0,
   "file": "df6eb976ec49.mp3",
@@ -5457,6 +6430,13 @@
   "file": "5d3659eabe06.mp3",
   "heard": "We can't see the trees in the fog.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "We do experiments in chemistry.": {
+  "cer": 0.0,
+  "file": "aeebfb63be04.mp3",
+  "heard": "We do experiments in chemistry.",
+  "speaker": "kid",
   "tries": 1
  },
  "We drink lemonade in summer.": {
@@ -5498,6 +6478,20 @@
   "cer": 0.0,
   "file": "1fc3efe48318.mp3",
   "heard": "We give bread to the duck.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go to London by coach.": {
+  "cer": 0.0,
+  "file": "dc472c61cbb1.mp3",
+  "heard": "We go to London by coach.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We grow plants in science.": {
+  "cer": 0.0,
+  "file": "f68fe23cf018.mp3",
+  "heard": "We grow plants in science.",
   "speaker": "kid",
   "tries": 1
  },
@@ -5543,6 +6537,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We have a spelling test today.": {
+  "cer": 0.0,
+  "file": "ab54091d80bd.mp3",
+  "heard": "We have a spelling test today.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have biology on Monday.": {
+  "cer": 0.0,
+  "file": "f85c6cca1d8c.mp3",
+  "heard": "We have biology on Monday.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We have boiled rice with the fish.": {
   "cer": 0.0,
   "file": "55efcd9ab1b1.mp3",
@@ -5585,6 +6593,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We have geography after lunch.": {
+  "cer": 0.0,
+  "file": "d140dfb271a8.mp3",
+  "heard": "We have geography after lunch.",
+  "speaker": "kid",
+  "tries": 2
+ },
  "We have ice cream for dessert.": {
   "cer": 0.0,
   "file": "c0b06f4653b5.mp3",
@@ -5606,6 +6621,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We have maths every day.": {
+  "cer": 0.0,
+  "file": "4496ea1c05f0.mp3",
+  "heard": "We have maths every day.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We have pasta on Fridays.": {
   "cer": 0.0,
   "file": "f0e76fb6e4b9.mp3",
@@ -5617,6 +6639,48 @@
   "cer": 0.0,
   "file": "0ebaf5abe9fa.mp3",
   "heard": "We have roast chicken on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have science on Thursday.": {
+  "cer": 0.0,
+  "file": "4ba37d3bb943.mp3",
+  "heard": "We have science on Thursday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We learn English at school.": {
+  "cer": 0.0,
+  "file": "ca82f16003c6.mp3",
+  "heard": "We learn English at school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We learn about animals in biology.": {
+  "cer": 0.0,
+  "file": "c7066504d72e.mp3",
+  "heard": "We learn about animals in biology.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "We learn about countries in geography.": {
+  "cer": 0.0,
+  "file": "081456d66c52.mp3",
+  "heard": "We learn about countries in geography.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We learn about kings and queens in history.": {
+  "cer": 0.0,
+  "file": "7d80904b0fa7.mp3",
+  "heard": "We learn about kings and queens in history.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We learn about light and sound in physics.": {
+  "cer": 0.0,
+  "file": "4d0aee0629b4.mp3",
+  "heard": "We learn about light and sound in physics.",
   "speaker": "kid",
   "tries": 1
  },
@@ -5690,10 +6754,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "We study ten subjects at school.": {
+  "cer": 0.0,
+  "file": "9348f7a08553.mp3",
+  "heard": "We study 10 subjects at school.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We visit Grandma on Sunday.": {
   "cer": 0.0,
   "file": "878c70c7799e.mp3",
   "heard": "We visit Grandma on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We visit a castle for our history class.": {
+  "cer": 0.0,
+  "file": "2624b7cd8e6e.mp3",
+  "heard": "We visit a castle for our history class.",
   "speaker": "kid",
   "tries": 1
  },
@@ -5718,6 +6796,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We work on the project in groups.": {
+  "cer": 0.0,
+  "file": "d669820615ab.mp3",
+  "heard": "We work on the project in groups.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Wear a scarf. It's cold outside.": {
   "cer": 0.0,
   "file": "5298aa54072f.mp3",
@@ -5737,6 +6822,13 @@
   "file": "59cdb584416c.mp3",
   "heard": "Wear your gloves. It's cold.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "What a clever dog!": {
+  "cer": 0.0,
+  "file": "a66fc6cb198d.mp3",
+  "heard": "What a clever dog.",
+  "speaker": "narrator",
   "tries": 1
  },
  "What a delicious pizza!": {
@@ -5774,6 +6866,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "What do you want to study?": {
+  "cer": 0.0,
+  "file": "9377212ecd7a.mp3",
+  "heard": "What do you want to study?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "What do you wear to school?": {
   "cer": 0.0,
   "file": "497372fb995d.mp3",
@@ -5792,6 +6891,20 @@
   "cer": 0.0,
   "file": "7b33f24829d8.mp3",
   "heard": "What is your favorite vegetable?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What level are you in English?": {
+  "cer": 0.0,
+  "file": "3bdfed0ed22d.mp3",
+  "heard": "What level are you in English?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What mark did you get?": {
+  "cer": 0.0,
+  "file": "bd0b4c29e1a9.mp3",
+  "heard": "What mark did you get?",
   "speaker": "adult",
   "tries": 1
  },
@@ -5841,6 +6954,13 @@
   "cer": 0.0,
   "file": "4d03128484a5.mp3",
   "heard": "What's the weather like today?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What's your favourite subject?": {
+  "cer": 0.0,
+  "file": "5f1202f9e633.mp3",
+  "heard": "What's your favorite subject?",
   "speaker": "adult",
   "tries": 1
  },
@@ -5981,6 +7101,41 @@
   "cer": 0.0,
   "file": "1ef60df2048a.mp3",
   "heard": "Write your name and surname here.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Write your name on the board.": {
+  "cer": 0.0,
+  "file": "440ee6044597.mp3",
+  "heard": "Write your name on the board.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "You can find information in the library.": {
+  "cer": 0.0,
+  "file": "53f5450d55d8.mp3",
+  "heard": "You can find information in the library.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "You get a diploma after the course.": {
+  "cer": 0.0,
+  "file": "1e2cb802846e.mp3",
+  "heard": "you get a diploma after the course.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "You need more practice.": {
+  "cer": 0.0,
+  "file": "ae50d4e201f8.mp3",
+  "heard": "You need more practice.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "You need to book the tickets early.": {
+  "cer": 0.0,
+  "file": "fb9b89483603.mp3",
+  "heard": "You need to book the tickets early.",
   "speaker": "adult",
   "tries": 1
  }

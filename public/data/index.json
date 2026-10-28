@@ -41,8 +41,8 @@
    "id": "school",
    "en": "Education",
    "zh": "学校",
-   "count": 54,
-   "ready": false
+   "count": 55,
+   "ready": true
   },
   {
    "id": "nature",
