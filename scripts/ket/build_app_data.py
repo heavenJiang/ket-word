@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import re
 import urllib.request
 from pathlib import Path
 
@@ -115,6 +116,73 @@ def check_content(tid: str, c: dict, items: list[dict]) -> None:
         raise SystemExit(f"{tid}: " + "; ".join(problems))
 
 
+# loaded by path: `npm run data` runs python -I, which keeps this folder off sys.path
+_spec = importlib.util.spec_from_file_location("check_sentences", Path(__file__).with_name("check_sentences.py"))
+check_sentences = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(check_sentences)
+
+
+def segments(text: str, lookup: dict[str, str], use: dict[str, str]) -> list:
+    """A page as segments for the reader: plain strings, and {"t", "id"} for words the child learns
+    on an island, in any form (monkeys -> monkey, jumps -> jump), two-word ones ("polar bear") as one.
+    `use` picks the meaning where the plain word would be wrong ("Can I ..." -> can.2, not can = 罐头)."""
+    out: list = []
+    pos = 0
+    word_re = re.compile(r"[A-Za-z]+(?:[-'][A-Za-z]+)*")
+    while m := word_re.search(text, pos):
+        if m.start() > pos:
+            out.append(text[pos:m.start()])
+        end = m.end()
+        nxt = re.match(r" ([A-Za-z]+)", text[end:])
+        if nxt and f"{m.group(0)} {nxt.group(1)}".lower() in lookup:  # a two-word word, e.g. "ice cream"
+            end += nxt.end()
+        token = text[m.start():end]
+        key = re.sub(r"'s$", "", token.lower())
+        wid = lookup.get(key) or next((lookup[l] for l in check_sentences.lemmas(key) if l in lookup), None)
+        wid = use.get(key, wid)
+        out.append({"t": token, "id": wid} if wid else token)
+        pos = end
+    out.append(text[pos:])
+    merged: list = []  # join neighbouring plain strings to keep the file small
+    for x in out:
+        if isinstance(x, str) and merged and isinstance(merged[-1], str):
+            merged[-1] += x
+        elif x != "":
+            merged.append(x)
+    return merged
+
+
+def build_stories(content: dict, used_media: set[str]) -> list[dict]:
+    """content/stories/*.json for the app. A story opens once the child has met every island word in it."""
+    lookup = {}
+    for c in content.values():
+        for w in c["words"]:
+            if not w.get("of"):  # second meanings share the word; taps go to the first meaning
+                lookup.setdefault(w["id"].replace("-", " "), w["id"])
+    out = []
+    for path in sorted((ROOT / "content/stories").glob("*.json")):
+        st = json.loads(path.read_text(encoding="utf-8"))
+        if st["topic"] not in content:
+            continue
+        own = {w["id"] for w in content[st["topic"]]["words"]}
+        pages, needs = [], {}
+        for n, page in enumerate(st["pages"], 1):
+            segs = segments(page["en"], lookup, st.get("use", {}))
+            # the story opens once its own island's words are met; words from other islands are just tappable
+            needs.update(dict.fromkeys(x["id"] for x in segs if isinstance(x, dict) and x["id"] in own))
+            img = ROOT / "content/media/ai" / f"story-{st['id']}-{n}.webp"
+            media = None
+            if img.exists():
+                (MEDIA / "img").mkdir(parents=True, exist_ok=True)
+                (MEDIA / "img" / img.name).write_bytes(img.read_bytes())
+                media = f"media/img/{img.name}"
+                used_media.add(media)
+            pages.append({"en": page["en"], "zh": page["zh"], "segments": segs, "img": media})
+        out.append({"id": st["id"], "topic": st["topic"], "title": st["title"], "zh": st["zh"],
+                    "pages": pages, "questions": st["questions"], "needs": list(needs)})
+    return out
+
+
 def main() -> None:
     words = json.loads(WORDS.read_text(encoding="utf-8"))
     atlas = {a["id"]: a for a in json.loads(ATLAS.read_text(encoding="utf-8"))}
@@ -197,11 +265,13 @@ def main() -> None:
             f.unlink()
             print(f"  - removed {f.relative_to(ROOT)}")
 
-    # loaded by path: `npm run data` runs python -I, which keeps this folder off sys.path
-    spec = importlib.util.spec_from_file_location("check_sentences", Path(__file__).with_name("check_sentences.py"))
-    check_sentences = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(check_sentences)
     unknown, no_gap, total = check_sentences.check(list(content))
+    s_unknown, _ = check_sentences.check_stories()
+    if s_unknown:
+        raise SystemExit("stories use words off the KET list:\n  " + "\n  ".join(s_unknown))
+    stories = build_stories(content, used_media)
+    (OUT / "stories.json").write_text(json.dumps(stories, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"stories: {len(stories)}")
     print(f"sentences: {total}, off the KET list: {len(unknown)}, words without a gap sentence: {len(no_gap)}"
           + ("  (run scripts/ket/check_sentences.py)" if unknown or no_gap else ""))
 

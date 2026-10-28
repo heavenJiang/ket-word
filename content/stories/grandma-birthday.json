@@ -1,0 +1,45 @@
+{
+ "id": "grandma-birthday",
+ "topic": "family",
+ "title": "Grandma's Birthday",
+ "zh": "奶奶的生日",
+ "pages": [
+  {
+   "en": "Today is Grandma's birthday. The whole family comes to her house: Mum, Dad, Lily, Tom, Aunt Kate, Uncle Ben and cousin Sam.",
+   "zh": "今天是奶奶的生日。全家人都来到她家：妈妈、爸爸、Lily、Tom、Kate 姑姑、Ben 叔叔和表哥 Sam。",
+   "scene": "The whole family arriving at Grandma's front door with presents and flowers, Grandma welcoming them with open arms."
+  },
+  {
+   "en": "Grandpa makes a big cake. Lily and Sam carry it to the table. Tom wants to eat the cake now, but Grandpa says, \"Not yet!\"",
+   "zh": "爷爷做了一个大蛋糕。Lily 和 Sam 把它端到桌上。Tom 现在就想吃蛋糕，可是爷爷说：“还不行！”",
+   "scene": "Grandpa holding a big birthday cake while Lily and Sam put candles on it, Tom reaching for the cake and Grandpa smiling and shaking his finger."
+  },
+  {
+   "en": "Everyone sings \"Happy Birthday\". Grandma is very happy. \"I love my family,\" she says, and she gives everyone a big piece of cake.",
+   "zh": "大家一起唱《生日快乐》。奶奶非常开心。“我爱我的家人。”她说，然后给每个人切了一大块蛋糕。",
+   "scene": "The family around a table singing, Grandma smiling in front of the cake with lit candles, cutting big pieces of cake."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Grandpa makes the cake.",
+   "zh": "爷爷做了蛋糕。",
+   "answer": true
+  },
+  {
+   "q": "Who is Sam?",
+   "zh": "Sam 是谁？",
+   "options": [
+    "Lily's cousin",
+    "Lily's brother",
+    "Lily's uncle"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom eats the cake before the song.",
+   "zh": "Tom 在唱歌之前就吃了蛋糕。",
+   "answer": false
+  }
+ ]
+}

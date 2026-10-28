@@ -1,0 +1,45 @@
+{
+ "id": "max-frog",
+ "topic": "animals",
+ "title": "Max and the Frog",
+ "zh": "Max 和青蛙",
+ "pages": [
+  {
+   "en": "Max is in the garden. He sees a small green frog near the water. The frog jumps. Max jumps too!",
+   "zh": "Max 在花园里。它看到水边有一只绿色的小青蛙。青蛙一跳，Max 也跟着跳！",
+   "scene": "Max jumping playfully next to a small green frog by a garden pond, both in the air."
+  },
+  {
+   "en": "A butterfly flies over the flowers, and a bee is on a pink flower. Max wants to play, but the bee is busy.",
+   "zh": "一只蝴蝶飞过花丛，一只蜜蜂停在粉红色的花上。Max 想玩，可是蜜蜂正忙着呢。",
+   "scene": "Max looking up at a colourful butterfly flying over garden flowers, a bee busy on a pink flower."
+  },
+  {
+   "en": "Then the frog jumps into the water, and Max jumps in after it. Now Max is very wet! Lily laughs and gives him a big towel.",
+   "zh": "接着青蛙跳进了水里，Max 也跟着跳了进去。现在 Max 浑身湿透了！Lily 笑着给它一条大毛巾。",
+   "scene": "Lily laughing and wrapping a soaking wet Max in a big striped towel next to the garden pond, the frog on a lily pad."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The frog is green.",
+   "zh": "青蛙是绿色的。",
+   "answer": true
+  },
+  {
+   "q": "Where is the bee?",
+   "zh": "蜜蜂在哪里？",
+   "options": [
+    "on a pink flower",
+    "in the water",
+    "on Max's head"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Max is dry at the end of the story.",
+   "zh": "故事结尾时 Max 是干的。",
+   "answer": false
+  }
+ ]
+}

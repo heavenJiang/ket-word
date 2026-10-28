@@ -21,6 +21,13 @@ export interface DayLog {
   stars: number;
 }
 
+/** A story read to the end: how often, and the best quiz score. */
+export interface StoryLog {
+  reads: number;
+  best: number;
+  last: number;
+}
+
 export interface Progress {
   version: 1;
   profile?: Profile;
@@ -29,6 +36,7 @@ export interface Progress {
   stars: number;
   words: Record<string, WordProgress>;
   days: Record<string, DayLog>;
+  stories: Record<string, StoryLog>;
 }
 
 const KEY = "ket-word:progress";
@@ -48,6 +56,7 @@ export const emptyProgress = (): Progress => ({
   stars: 0,
   words: {},
   days: {},
+  stories: {},
 });
 
 /** Local calendar day, e.g. "2026-10-27"; a learning day ends at local midnight. */
@@ -137,4 +146,14 @@ export function streak(days: Record<string, DayLog>, now: number): number {
     t -= 86_400_000;
   }
   return n;
+}
+
+/** Stars for a story: 5 the first time it is read to the end, plus one per right answer the first time. */
+export const STORY_STARS = 5;
+
+export function recordStory(p: Progress, id: string, right: number, now: number): Progress {
+  const prev = p.stories[id];
+  const stars = prev ? 0 : STORY_STARS + right;
+  const log: StoryLog = { reads: (prev?.reads ?? 0) + 1, best: Math.max(prev?.best ?? 0, right), last: now };
+  return addStars({ ...p, stories: { ...p.stories, [id]: log } }, stars, now);
 }

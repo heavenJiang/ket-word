@@ -1,0 +1,955 @@
+[
+ {
+  "id": "grandma-birthday",
+  "topic": "family",
+  "title": "Grandma's Birthday",
+  "zh": "奶奶的生日",
+  "pages": [
+   {
+    "en": "Today is Grandma's birthday. The whole family comes to her house: Mum, Dad, Lily, Tom, Aunt Kate, Uncle Ben and cousin Sam.",
+    "zh": "今天是奶奶的生日。全家人都来到她家：妈妈、爸爸、Lily、Tom、Kate 姑姑、Ben 叔叔和表哥 Sam。",
+    "segments": [
+     "Today is ",
+     {
+      "t": "Grandma's",
+      "id": "grandma"
+     },
+     " birthday. The whole ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     " comes to her house: ",
+     {
+      "t": "Mum",
+      "id": "mum"
+     },
+     ", ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     ", Lily, Tom, ",
+     {
+      "t": "Aunt",
+      "id": "aunt"
+     },
+     " Kate, ",
+     {
+      "t": "Uncle",
+      "id": "uncle"
+     },
+     " Ben and ",
+     {
+      "t": "cousin",
+      "id": "cousin"
+     },
+     " Sam."
+    ],
+    "img": null
+   },
+   {
+    "en": "Grandpa makes a big cake. Lily and Sam carry it to the table. Tom wants to eat the cake now, but Grandpa says, \"Not yet!\"",
+    "zh": "爷爷做了一个大蛋糕。Lily 和 Sam 把它端到桌上。Tom 现在就想吃蛋糕，可是爷爷说：“还不行！”",
+    "segments": [
+     {
+      "t": "Grandpa",
+      "id": "grandpa"
+     },
+     " makes a big ",
+     {
+      "t": "cake",
+      "id": "cake"
+     },
+     ". Lily and Sam carry it to the table. Tom wants to ",
+     {
+      "t": "eat",
+      "id": "eat"
+     },
+     " the ",
+     {
+      "t": "cake",
+      "id": "cake"
+     },
+     " now, but ",
+     {
+      "t": "Grandpa",
+      "id": "grandpa"
+     },
+     " says, \"Not yet!\""
+    ],
+    "img": null
+   },
+   {
+    "en": "Everyone sings \"Happy Birthday\". Grandma is very happy. \"I love my family,\" she says, and she gives everyone a big piece of cake.",
+    "zh": "大家一起唱《生日快乐》。奶奶非常开心。“我爱我的家人。”她说，然后给每个人切了一大块蛋糕。",
+    "segments": [
+     "Everyone sings \"Happy Birthday\". ",
+     {
+      "t": "Grandma",
+      "id": "grandma"
+     },
+     " is very happy. \"I ",
+     {
+      "t": "love",
+      "id": "love"
+     },
+     " my ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     ",\" she says, and she gives everyone a big piece of ",
+     {
+      "t": "cake",
+      "id": "cake"
+     },
+     "."
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "Grandpa makes the cake.",
+    "zh": "爷爷做了蛋糕。",
+    "answer": true
+   },
+   {
+    "q": "Who is Sam?",
+    "zh": "Sam 是谁？",
+    "options": [
+     "Lily's cousin",
+     "Lily's brother",
+     "Lily's uncle"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Tom eats the cake before the song.",
+    "zh": "Tom 在唱歌之前就吃了蛋糕。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "grandma",
+   "family",
+   "mum",
+   "dad",
+   "aunt",
+   "uncle",
+   "cousin",
+   "grandpa",
+   "love"
+  ]
+ },
+ {
+  "id": "letter-spain",
+  "topic": "family",
+  "title": "A Letter from Spain",
+  "zh": "西班牙来的信",
+  "pages": [
+   {
+    "en": "Lily has a penfriend called Ana. Ana lives in Spain with her parents and her little sister.",
+    "zh": "Lily 有一个笔友叫 Ana。Ana 和她的父母、妹妹住在西班牙。",
+    "segments": [
+     "Lily has a ",
+     {
+      "t": "penfriend",
+      "id": "penfriend"
+     },
+     " called Ana. Ana lives in Spain with her ",
+     {
+      "t": "parents",
+      "id": "parent"
+     },
+     " and her little ",
+     {
+      "t": "sister",
+      "id": "sister"
+     },
+     "."
+    ],
+    "img": null
+   },
+   {
+    "en": "Today a letter comes from Ana. There is a photo in it. Ana and her sister are on the beach with their grandmother.",
+    "zh": "今天 Ana 寄来一封信，里面有一张照片：Ana 和妹妹跟奶奶在海滩上。",
+    "segments": [
+     "Today a letter comes from Ana. There is a photo in it. Ana and her ",
+     {
+      "t": "sister",
+      "id": "sister"
+     },
+     " are on the beach with their ",
+     {
+      "t": "grandmother",
+      "id": "grandmother"
+     },
+     "."
+    ],
+    "img": null
+   },
+   {
+    "en": "Lily writes back: \"Dear Ana, this is my family. My brother is called Tom, and our dog is called Max. Please write again soon!\"",
+    "zh": "Lily 回信写道：“亲爱的 Ana，这是我的家人。我弟弟叫 Tom，我们的狗叫 Max。请快点再给我写信！”",
+    "segments": [
+     "Lily writes back: \"Dear Ana, this is my ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     ". My ",
+     {
+      "t": "brother",
+      "id": "brother"
+     },
+     " is called Tom, and our ",
+     {
+      "t": "dog",
+      "id": "dog"
+     },
+     " is called Max. Please write again soon!\""
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "Ana lives in Spain.",
+    "zh": "Ana 住在西班牙。",
+    "answer": true
+   },
+   {
+    "q": "Who is in the photo?",
+    "zh": "照片里有谁？",
+    "options": [
+     "Ana, her sister and their grandmother",
+     "Ana and her dad",
+     "Ana and her dog"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Lily has a sister.",
+    "zh": "Lily 有一个姐妹。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "penfriend",
+   "parent",
+   "sister",
+   "grandmother",
+   "family",
+   "brother"
+  ]
+ },
+ {
+  "id": "lily-picture",
+  "topic": "colours",
+  "title": "Lily's Picture",
+  "zh": "Lily 的画",
+  "pages": [
+   {
+    "en": "Lily wants to paint a picture. She has red, yellow and blue paint. \"I want more colours!\" she says.",
+    "zh": "Lily 想画一幅画。她有红色、黄色和蓝色的颜料。“我想要更多颜色！”她说。",
+    "segments": [
+     "Lily wants to paint a picture. She has ",
+     {
+      "t": "red",
+      "id": "red"
+     },
+     ", ",
+     {
+      "t": "yellow",
+      "id": "yellow"
+     },
+     " and ",
+     {
+      "t": "blue",
+      "id": "blue"
+     },
+     " paint. \"I want more colours!\" she says."
+    ],
+    "img": null
+   },
+   {
+    "en": "Dad helps her. Yellow and blue make green. Red and yellow make orange. Red and blue make purple.",
+    "zh": "爸爸帮她。黄色和蓝色调出绿色，红色和黄色调出橙色，红色和蓝色调出紫色。",
+    "segments": [
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " helps her. ",
+     {
+      "t": "Yellow",
+      "id": "yellow"
+     },
+     " and ",
+     {
+      "t": "blue",
+      "id": "blue"
+     },
+     " make ",
+     {
+      "t": "green",
+      "id": "green"
+     },
+     ". ",
+     {
+      "t": "Red",
+      "id": "red"
+     },
+     " and ",
+     {
+      "t": "yellow",
+      "id": "yellow"
+     },
+     " make ",
+     {
+      "t": "orange",
+      "id": "orange"
+     },
+     ". ",
+     {
+      "t": "Red",
+      "id": "red"
+     },
+     " and ",
+     {
+      "t": "blue",
+      "id": "blue"
+     },
+     " make ",
+     {
+      "t": "purple",
+      "id": "purple"
+     },
+     "."
+    ],
+    "img": null
+   },
+   {
+    "en": "Now Lily has lots of colours. She paints an orange sun, a green tree and a purple flower. It's a beautiful picture!",
+    "zh": "现在 Lily 有好多颜色了。她画了橙色的太阳、绿色的树和紫色的花。真是一幅漂亮的画！",
+    "segments": [
+     "Now Lily has lots of colours. She paints an ",
+     {
+      "t": "orange",
+      "id": "orange"
+     },
+     " sun, a ",
+     {
+      "t": "green",
+      "id": "green"
+     },
+     " tree and a ",
+     {
+      "t": "purple",
+      "id": "purple"
+     },
+     " flower. It's a beautiful picture!"
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "Lily has red, yellow and blue paint.",
+    "zh": "Lily 有红色、黄色和蓝色的颜料。",
+    "answer": true
+   },
+   {
+    "q": "Yellow and blue make ...",
+    "zh": "黄色和蓝色混合成……",
+    "options": [
+     "green",
+     "orange",
+     "purple"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Red and yellow make ...",
+    "zh": "红色和黄色混合成……",
+    "options": [
+     "orange",
+     "pink",
+     "brown"
+    ],
+    "answer": 0
+   }
+  ],
+  "needs": [
+   "red",
+   "yellow",
+   "blue",
+   "green",
+   "orange",
+   "purple"
+  ]
+ },
+ {
+  "id": "max-frog",
+  "topic": "animals",
+  "title": "Max and the Frog",
+  "zh": "Max 和青蛙",
+  "pages": [
+   {
+    "en": "Max is in the garden. He sees a small green frog near the water. The frog jumps. Max jumps too!",
+    "zh": "Max 在花园里。它看到水边有一只绿色的小青蛙。青蛙一跳，Max 也跟着跳！",
+    "segments": [
+     "Max is in the garden. He sees a small ",
+     {
+      "t": "green",
+      "id": "green"
+     },
+     " ",
+     {
+      "t": "frog",
+      "id": "frog"
+     },
+     " near the water. The ",
+     {
+      "t": "frog",
+      "id": "frog"
+     },
+     " jumps. Max jumps too!"
+    ],
+    "img": null
+   },
+   {
+    "en": "A butterfly flies over the flowers, and a bee is on a pink flower. Max wants to play, but the bee is busy.",
+    "zh": "一只蝴蝶飞过花丛，一只蜜蜂停在粉红色的花上。Max 想玩，可是蜜蜂正忙着呢。",
+    "segments": [
+     "A ",
+     {
+      "t": "butterfly",
+      "id": "butterfly"
+     },
+     " flies over the flowers, and a ",
+     {
+      "t": "bee",
+      "id": "bee"
+     },
+     " is on a ",
+     {
+      "t": "pink",
+      "id": "pink"
+     },
+     " flower. Max wants to play, but the ",
+     {
+      "t": "bee",
+      "id": "bee"
+     },
+     " is busy."
+    ],
+    "img": null
+   },
+   {
+    "en": "Then the frog jumps into the water, and Max jumps in after it. Now Max is very wet! Lily laughs and gives him a big towel.",
+    "zh": "接着青蛙跳进了水里，Max 也跟着跳了进去。现在 Max 浑身湿透了！Lily 笑着给它一条大毛巾。",
+    "segments": [
+     "Then the ",
+     {
+      "t": "frog",
+      "id": "frog"
+     },
+     " jumps into the water, and Max jumps in after it. Now Max is very wet! Lily laughs and gives him a big towel."
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "The frog is green.",
+    "zh": "青蛙是绿色的。",
+    "answer": true
+   },
+   {
+    "q": "Where is the bee?",
+    "zh": "蜜蜂在哪里？",
+    "options": [
+     "on a pink flower",
+     "in the water",
+     "on Max's head"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Max is dry at the end of the story.",
+    "zh": "故事结尾时 Max 是干的。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "frog",
+   "butterfly",
+   "bee"
+  ]
+ },
+ {
+  "id": "mum-breakfast",
+  "topic": "food",
+  "title": "Breakfast for Mum",
+  "zh": "给妈妈的早餐",
+  "pages": [
+   {
+    "en": "It's Mum's birthday. Lily and Tom want to make breakfast for her. They go into the kitchen very quietly.",
+    "zh": "今天是妈妈的生日。Lily 和 Tom 想给她做早餐。他们悄悄地走进厨房。",
+    "segments": [
+     "It's ",
+     {
+      "t": "Mum's",
+      "id": "mum"
+     },
+     " birthday. Lily and Tom want to make ",
+     {
+      "t": "breakfast",
+      "id": "breakfast"
+     },
+     " for her. They go into the ",
+     {
+      "t": "kitchen",
+      "id": "kitchen"
+     },
+     " very quietly."
+    ],
+    "img": null
+   },
+   {
+    "en": "Tom makes toast. Lily gets the butter, the jam and some orange juice from the fridge. Then she puts some fruit in a bowl.",
+    "zh": "Tom 做吐司。Lily 从冰箱里拿出黄油、果酱和一些橙汁，然后在碗里放了一些水果。",
+    "segments": [
+     "Tom makes ",
+     {
+      "t": "toast",
+      "id": "toast"
+     },
+     ". Lily gets the ",
+     {
+      "t": "butter",
+      "id": "butter"
+     },
+     ", the ",
+     {
+      "t": "jam",
+      "id": "jam"
+     },
+     " and some ",
+     {
+      "t": "orange",
+      "id": "orange"
+     },
+     " ",
+     {
+      "t": "juice",
+      "id": "juice"
+     },
+     " from the ",
+     {
+      "t": "fridge",
+      "id": "fridge"
+     },
+     ". Then she puts some ",
+     {
+      "t": "fruit",
+      "id": "fruit"
+     },
+     " in a ",
+     {
+      "t": "bowl",
+      "id": "bowl"
+     },
+     "."
+    ],
+    "img": null
+   },
+   {
+    "en": "They put everything on a big plate and carry it upstairs. \"Happy birthday, Mum!\" Mum is very happy. \"This is delicious. Thank you!\"",
+    "zh": "他们把所有东西放在一个大盘子上，端到楼上。“妈妈，生日快乐！”妈妈非常开心：“真好吃，谢谢你们！”",
+    "segments": [
+     "They put everything on a big ",
+     {
+      "t": "plate",
+      "id": "plate"
+     },
+     " and carry it upstairs. \"Happy birthday, ",
+     {
+      "t": "Mum",
+      "id": "mum"
+     },
+     "!\" ",
+     {
+      "t": "Mum",
+      "id": "mum"
+     },
+     " is very happy. \"This is ",
+     {
+      "t": "delicious",
+      "id": "delicious"
+     },
+     ". Thank you!\""
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "It is Dad's birthday.",
+    "zh": "今天是爸爸的生日。",
+    "answer": false
+   },
+   {
+    "q": "What does Tom make?",
+    "zh": "Tom 做了什么？",
+    "options": [
+     "toast",
+     "pizza",
+     "soup"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mum likes the breakfast.",
+    "zh": "妈妈喜欢这份早餐。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "breakfast",
+   "kitchen",
+   "toast",
+   "butter",
+   "jam",
+   "orange",
+   "juice",
+   "fridge",
+   "fruit",
+   "bowl",
+   "plate",
+   "delicious"
+  ]
+ },
+ {
+  "id": "picnic",
+  "topic": "food",
+  "title": "The Picnic",
+  "zh": "野餐",
+  "pages": [
+   {
+    "en": "It's a sunny day, so the family has a picnic in the park. Mum brings sandwiches and fruit. Dad brings a bottle of lemonade.",
+    "zh": "天气晴朗，一家人在公园野餐。妈妈带了三明治和水果，爸爸带了一瓶柠檬水。",
+    "segments": [
+     "It's a sunny day, so the ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     " has a ",
+     {
+      "t": "picnic",
+      "id": "picnic"
+     },
+     " in the park. ",
+     {
+      "t": "Mum",
+      "id": "mum"
+     },
+     " brings ",
+     {
+      "t": "sandwiches",
+      "id": "sandwich"
+     },
+     " and ",
+     {
+      "t": "fruit",
+      "id": "fruit"
+     },
+     ". ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " brings a ",
+     {
+      "t": "bottle",
+      "id": "bottle"
+     },
+     " of ",
+     {
+      "t": "lemonade",
+      "id": "lemonade"
+     },
+     "."
+    ],
+    "img": null
+   },
+   {
+    "en": "Tom eats a cheese sandwich and some strawberries. Lily wants a slice of chocolate cake, but Max wants it too!",
+    "zh": "Tom 吃了一个奶酪三明治和一些草莓。Lily 想吃一块巧克力蛋糕，可是 Max 也想吃！",
+    "segments": [
+     "Tom ",
+     {
+      "t": "eats",
+      "id": "eat"
+     },
+     " a ",
+     {
+      "t": "cheese",
+      "id": "cheese"
+     },
+     " ",
+     {
+      "t": "sandwich",
+      "id": "sandwich"
+     },
+     " and some ",
+     {
+      "t": "strawberries",
+      "id": "strawberry"
+     },
+     ". Lily wants a ",
+     {
+      "t": "slice",
+      "id": "slice"
+     },
+     " of ",
+     {
+      "t": "chocolate",
+      "id": "chocolate"
+     },
+     " ",
+     {
+      "t": "cake",
+      "id": "cake"
+     },
+     ", but Max wants it too!"
+    ],
+    "img": null
+   },
+   {
+    "en": "\"No, Max! Chocolate is bad for dogs,\" says Lily. She gives him a dog biscuit. Max is happy, and Lily eats her cake.",
+    "zh": "“不行，Max！巧克力对狗不好。”Lily 说。她给了 Max 一块狗饼干。Max 很开心，Lily 吃了她的蛋糕。",
+    "segments": [
+     "\"No, Max! ",
+     {
+      "t": "Chocolate",
+      "id": "chocolate"
+     },
+     " is bad for ",
+     {
+      "t": "dogs",
+      "id": "dog"
+     },
+     ",\" says Lily. She gives him a ",
+     {
+      "t": "dog",
+      "id": "dog"
+     },
+     " ",
+     {
+      "t": "biscuit",
+      "id": "biscuit"
+     },
+     ". Max is happy, and Lily ",
+     {
+      "t": "eats",
+      "id": "eat"
+     },
+     " her ",
+     {
+      "t": "cake",
+      "id": "cake"
+     },
+     "."
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "The family has a picnic on the beach.",
+    "zh": "一家人在海滩上野餐。",
+    "answer": false
+   },
+   {
+    "q": "What does Lily give Max?",
+    "zh": "Lily 给了 Max 什么？",
+    "options": [
+     "a dog biscuit",
+     "some cake",
+     "a sandwich"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Chocolate is bad for dogs.",
+    "zh": "巧克力对狗不好。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "picnic",
+   "sandwich",
+   "fruit",
+   "bottle",
+   "lemonade",
+   "eat",
+   "cheese",
+   "strawberry",
+   "slice",
+   "chocolate",
+   "cake",
+   "biscuit"
+  ]
+ },
+ {
+  "id": "zoo-day",
+  "topic": "animals",
+  "title": "A Day at the Zoo",
+  "zh": "动物园的一天",
+  "pages": [
+   {
+    "en": "On Saturday, Lily and Dad go to the zoo. First, they see a big lion. The lion is sleeping on a rock.",
+    "zh": "星期六，Lily 和爸爸去动物园。他们先看到一头大狮子。狮子正在一块岩石上睡觉。",
+    "segments": [
+     "On Saturday, Lily and ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " go to the ",
+     {
+      "t": "zoo",
+      "id": "zoo"
+     },
+     ". First, they see a big ",
+     {
+      "t": "lion",
+      "id": "lion"
+     },
+     ". The ",
+     {
+      "t": "lion",
+      "id": "lion"
+     },
+     " is sleeping on a rock."
+    ],
+    "img": null
+   },
+   {
+    "en": "Next, they see a tall giraffe and a grey elephant. The giraffe eats from the top of a tree. The elephant drinks water with its long nose.",
+    "zh": "接着，他们看到一只高高的长颈鹿和一头灰色的大象。长颈鹿吃树顶上的叶子，大象用长鼻子喝水。",
+    "segments": [
+     "Next, they see a tall ",
+     {
+      "t": "giraffe",
+      "id": "giraffe"
+     },
+     " and a ",
+     {
+      "t": "grey",
+      "id": "grey"
+     },
+     " ",
+     {
+      "t": "elephant",
+      "id": "elephant"
+     },
+     ". The ",
+     {
+      "t": "giraffe",
+      "id": "giraffe"
+     },
+     " ",
+     {
+      "t": "eats",
+      "id": "eat"
+     },
+     " from the top of a tree. The ",
+     {
+      "t": "elephant",
+      "id": "elephant"
+     },
+     " ",
+     {
+      "t": "drinks",
+      "id": "drink"
+     },
+     " water with its long nose."
+    ],
+    "img": null
+   },
+   {
+    "en": "Then Lily sees a funny monkey with a banana. \"Can I have a banana too?\" asks Lily. Dad laughs. \"Let's go to the cafe!\"",
+    "zh": "然后 Lily 看到一只拿着香蕉的滑稽猴子。“我也能吃根香蕉吗？”Lily 问。爸爸笑了：“我们去咖啡馆吧！”",
+    "segments": [
+     "Then Lily sees a funny ",
+     {
+      "t": "monkey",
+      "id": "monkey"
+     },
+     " with a ",
+     {
+      "t": "banana",
+      "id": "banana"
+     },
+     ". \"",
+     {
+      "t": "Can",
+      "id": "can.2"
+     },
+     " I have a ",
+     {
+      "t": "banana",
+      "id": "banana"
+     },
+     " too?\" asks Lily. ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " laughs. \"Let's go to the ",
+     {
+      "t": "cafe",
+      "id": "cafe"
+     },
+     "!\""
+    ],
+    "img": null
+   }
+  ],
+  "questions": [
+   {
+    "q": "The lion is sleeping.",
+    "zh": "狮子在睡觉。",
+    "answer": true
+   },
+   {
+    "q": "What does the monkey have?",
+    "zh": "猴子手里拿着什么？",
+    "options": [
+     "a banana",
+     "an apple",
+     "a cake"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Lily goes to the zoo with Mum.",
+    "zh": "Lily 和妈妈去了动物园。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "zoo",
+   "lion",
+   "giraffe",
+   "elephant",
+   "monkey"
+  ]
+ }
+]

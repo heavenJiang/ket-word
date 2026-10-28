@@ -17,6 +17,8 @@ npm run build
 - **自动评分**：答错 → Again；答对但慢、用提示或拼错一次 → Hard；答对 → Good；拼写又快又准 → Easy。“慢”的阈值按年龄放宽。孩子不需要自己给自己打分。
 - **只有首次作答计分**：答错的词隔 3 题换一种题型再练（最多 2 次），重试不计分。
 - **公平的干扰项**：内容文件里的 `confusable` 组（如 plate / dish / bowl、dog / puppy）互不作为错误选项，避免图片本身分不清的题。
+- **岛屿故事**：每座岛有几篇 3 页的小故事（`content/stories/`），主角是 Lily 和 Max。故事里本岛的单词都学过后解锁；阅读时可以点任何学过的词看卡片，或让应用朗读并逐词高亮；读完有 3 道理解题（判断对错、三选一），第一次读完得 5 ⭐ 加答对题数。故事不计入单词记忆，只是又一次和学过的词见面。
+- **一词多义**：内容里给多义词列出义项（`senses`），本岛教的意思在前；意思不相关又都要考的（can 罐头 / 能，break，Miss，light）另有一张"新意思卡"（`can.2`），原意思进入长期记忆后才解锁。
 - **掌握**：稳定度 ≥ 21 天（三周后仍有约 90% 把握）。三项都掌握 = 金卡。
 
 ## 数据流程
@@ -33,7 +35,8 @@ content/media/svg/<id>.svg           手绘矢量插画（Word Atlas 色板与�
   └─ scripts/ket/gen_images.py      → content/media/ai/        可选：用 OpenAI 兼容的图像 API 生成
 scripts/ket/gen_mascot.py           → public/media/ui/         吉祥物小狗 Max 的表情与成长阶段（同一套 FLUX 风格），人工挑选后 --pick 放入
 scripts/ket/gen_audio.py            → public/media/sent/       例句录音：局域网 ChatTTS 合成，Whisper 逐句核对，不合格换种子重录（最多 5 次）
-scripts/ket/check_sentences.py      （构建时自动运行）           例句用词都在 KET 词表内、每个词都有能挖空的句子
+scripts/ket/check_sentences.py      （构建时自动运行）           例句和故事的用词都在 KET 词表内、每个词都有能挖空的句子
+content/stories/<id>.json           岛屿故事：页面文字、插图描述（gen_comfy.py 按 story-<id>-<页> 出图）、理解题
   └─ scripts/ket/build_app_data.py  → public/data/             应用数据（自有插画优先于 Word Atlas）
                                     → public/media/            Word Atlas 插画与发音（缓存在 .local/media）
 ```
