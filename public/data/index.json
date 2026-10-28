@@ -27,8 +27,8 @@
    "id": "clothes",
    "en": "Clothes and Accessories",
    "zh": "衣服配饰",
-   "count": 52,
-   "ready": false
+   "count": 55,
+   "ready": true
   },
   {
    "id": "home",
@@ -56,27 +56,27 @@
    "en": "Weather",
    "zh": "天气",
    "count": 18,
-   "ready": false
+   "ready": true
   },
   {
    "id": "time",
    "en": "Time",
    "zh": "时间",
-   "count": 61,
+   "count": 62,
    "ready": false
   },
   {
    "id": "sport",
    "en": "Sport",
    "zh": "运动",
-   "count": 75,
+   "count": 76,
    "ready": false
   },
   {
    "id": "hobbies",
    "en": "Hobbies and Leisure",
    "zh": "爱好休闲",
-   "count": 38,
+   "count": 39,
    "ready": false
   },
   {
@@ -146,14 +146,14 @@
    "id": "tech",
    "en": "Communication and Technology",
    "zh": "通讯科技",
-   "count": 45,
+   "count": 46,
    "ready": false
   },
   {
    "id": "appliances",
    "en": "Appliances",
    "zh": "家用电器",
-   "count": 26,
+   "count": 27,
    "ready": false
   },
   {
@@ -202,7 +202,7 @@
    "id": "core",
    "en": "Core words",
    "zh": "核心词",
-   "count": 773,
+   "count": 770,
    "ready": false
   }
  ]
