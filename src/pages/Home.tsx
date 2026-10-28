@@ -31,8 +31,11 @@ export function Home(props: {
   onStart: () => void;
   onMap: () => void;
   onStories: () => void;
+  /** Stickers earned, out of all. */
+  stickers: [number, number];
+  onStickers: () => void;
 }) {
-  const { progress, topic, words, library, newStories, onStart, onMap, onStories } = props;
+  const { progress, topic, words, library, newStories, onStart, onMap, onStories, stickers, onStickers } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
   const plan = buildPlan(
@@ -80,6 +83,13 @@ export function Home(props: {
             <span className="muted small">Max 已经是最厉害的狗狗啦！</span>
           )}
         </div>
+        <button className="sticker-entry" onClick={onStickers}>
+          <span>🏅 我的贴纸</span>
+          <b>
+            {stickers[0]} / {stickers[1]}
+          </b>
+          <span className="muted">›</span>
+        </button>
       </section>
 
       <section className="card today">
