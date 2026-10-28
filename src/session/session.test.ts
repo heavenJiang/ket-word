@@ -126,4 +126,11 @@ describe("distractors", () => {
     expect(kindFor("listen", weak, 0, { roll: 0.1 })).toBe("listenPick");
     expect(kindFor("listen", familiar, 1, { roll: 0.1 })).toBe("listenPick");
   });
+
+  it("keeps a second meaning back until the word's first meaning is learnt", () => {
+    const words = ["can", "can.2", "cup"];
+    const gate = (learnt: boolean) => (id: string) => id !== "can.2" || learnt;
+    expect(buildPlan(words, {}, t0, opt, words, gate(false)).newWords).toEqual(["can", "cup"]);
+    expect(buildPlan(words, {}, t0, opt, words, gate(true)).newWords).toEqual(["can", "can.2", "cup"]);
+  });
 });

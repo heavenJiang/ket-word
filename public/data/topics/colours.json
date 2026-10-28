@@ -9,6 +9,20 @@
     "adj",
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "黑色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "黑色"
+    }
+   ],
    "ipa": "/blæk/",
    "chunks": [
     "black"
@@ -21,15 +35,18 @@
    "sentences": [
     {
      "en": "The cat is black.",
-     "zh": "这只猫是黑色的。"
+     "zh": "这只猫是黑色的。",
+     "audio": "media/sent/fa6016ce9048.mp3"
     },
     {
      "en": "Lily has black shoes.",
-     "zh": "Lily 有一双黑鞋。"
+     "zh": "Lily 有一双黑鞋。",
+     "audio": "media/sent/3de7cf921f76.mp3"
     },
     {
      "en": "The night sky is black.",
-     "zh": "夜空是黑色的。"
+     "zh": "夜空是黑色的。",
+     "audio": "media/sent/59f6b62233d4.mp3"
     }
    ],
    "media": {
@@ -49,6 +66,20 @@
     "adj",
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "蓝色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蓝色"
+    }
+   ],
    "ipa": "/bluː/",
    "chunks": [
     "blue"
@@ -61,15 +92,18 @@
    "sentences": [
     {
      "en": "The sky is blue.",
-     "zh": "天空是蓝色的。"
+     "zh": "天空是蓝色的。",
+     "audio": "media/sent/b04519d5952c.mp3"
     },
     {
      "en": "Max has a blue bowl.",
-     "zh": "Max 有一个蓝色的碗。"
+     "zh": "Max 有一个蓝色的碗。",
+     "audio": "media/sent/98afd3ebc3e7.mp3"
     },
     {
      "en": "The sea is blue today.",
-     "zh": "今天的大海是蓝色的。"
+     "zh": "今天的大海是蓝色的。",
+     "audio": "media/sent/3c080c36dad6.mp3"
     }
    ],
    "media": {
@@ -87,6 +121,20 @@
     "adj",
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "棕色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "棕色"
+    }
+   ],
    "ipa": "/braʊn/",
    "chunks": [
     "brown"
@@ -99,15 +147,18 @@
    "sentences": [
     {
      "en": "The bear is brown.",
-     "zh": "这只熊是棕色的。"
+     "zh": "这只熊是棕色的。",
+     "audio": "media/sent/717b2841cd86.mp3"
     },
     {
      "en": "Chocolate is brown.",
-     "zh": "巧克力是棕色的。"
+     "zh": "巧克力是棕色的。",
+     "audio": "media/sent/0ea78f450177.mp3"
     },
     {
      "en": "Tom has brown hair.",
-     "zh": "Tom 的头发是棕色的。"
+     "zh": "Tom 的头发是棕色的。",
+     "audio": "media/sent/3e7dec55de11.mp3"
     }
    ],
    "media": {
@@ -124,6 +175,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "黑暗的；深色的"
+    }
+   ],
    "ipa": "/dɑːk/",
    "chunks": [
     "dark"
@@ -136,15 +195,18 @@
    "sentences": [
     {
      "en": "It's dark. Lily can't see.",
-     "zh": "天黑了，Lily 看不见。"
+     "zh": "天黑了，Lily 看不见。",
+     "audio": "media/sent/3fb159df2437.mp3"
     },
     {
      "en": "It gets dark at six o'clock.",
-     "zh": "六点钟天就黑了。"
+     "zh": "六点钟天就黑了。",
+     "audio": "media/sent/206c6678d6e4.mp3"
     },
     {
      "en": "Lily has a dark blue coat.",
-     "zh": "Lily 有一件深蓝色的外套。"
+     "zh": "Lily 有一件深蓝色的外套。",
+     "audio": "media/sent/40eb6f55265b.mp3"
     }
    ],
    "media": {
@@ -154,7 +216,10 @@
    },
    "avoid": [
     "black",
-    "light"
+    "light",
+    "light.2",
+    "pale",
+    "white"
    ]
   },
   {
@@ -163,6 +228,14 @@
    "zh": "金色的",
    "pos": [
     "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "金色的"
+    }
    ],
    "ipa": "/ˈɡəʊldən/",
    "chunks": [
@@ -177,15 +250,18 @@
    "sentences": [
     {
      "en": "The king has a golden chair.",
-     "zh": "国王有一把金色的椅子。"
+     "zh": "国王有一把金色的椅子。",
+     "audio": "media/sent/3080cd3b6643.mp3"
     },
     {
      "en": "The sun is golden in the evening.",
-     "zh": "傍晚的太阳是金色的。"
+     "zh": "傍晚的太阳是金色的。",
+     "audio": "media/sent/7d28b76cd2e8.mp3"
     },
     {
      "en": "Lily wins a golden cup.",
-     "zh": "Lily 赢得了一个金杯。"
+     "zh": "Lily 赢得了一个金杯。",
+     "audio": "media/sent/f8f3df5d03c8.mp3"
     }
    ],
    "media": {
@@ -205,6 +281,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "绿色的；绿色"
+    }
+   ],
    "ipa": "/ɡriːn/",
    "chunks": [
     "green"
@@ -217,15 +301,18 @@
    "sentences": [
     {
      "en": "Frogs are green.",
-     "zh": "青蛙是绿色的。"
+     "zh": "青蛙是绿色的。",
+     "audio": "media/sent/12437d0c0967.mp3"
     },
     {
      "en": "The grass is green.",
-     "zh": "草是绿色的。"
+     "zh": "草是绿色的。",
+     "audio": "media/sent/49e599e22bb2.mp3"
     },
     {
      "en": "Dad has a green car.",
-     "zh": "爸爸有一辆绿色的车。"
+     "zh": "爸爸有一辆绿色的车。",
+     "audio": "media/sent/278fccca4d84.mp3"
     }
    ],
    "media": {
@@ -243,6 +330,20 @@
     "adj",
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "灰色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灰色"
+    }
+   ],
    "ipa": "/ɡreɪ/",
    "chunks": [
     "grey"
@@ -255,15 +356,18 @@
    "sentences": [
     {
      "en": "The mouse is grey.",
-     "zh": "这只老鼠是灰色的。"
+     "zh": "这只老鼠是灰色的。",
+     "audio": "media/sent/bb608a9db8de.mp3"
     },
     {
      "en": "An elephant is grey.",
-     "zh": "大象是灰色的。"
+     "zh": "大象是灰色的。",
+     "audio": "media/sent/12cda1d9b412.mp3"
     },
     {
      "en": "The sky is grey. It's going to rain.",
-     "zh": "天空是灰色的，要下雨了。"
+     "zh": "天空是灰色的，要下雨了。",
+     "audio": "media/sent/372ee6a8321c.mp3"
     }
    ],
    "media": {
@@ -279,10 +383,25 @@
   {
    "id": "light",
    "word": "light",
-   "zh": "光；灯；浅色的",
+   "zh": "灯；光",
    "pos": [
     "n",
     "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；光"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "浅色的；明亮的",
+     "en": "Lily has a light blue dress."
+    }
    ],
    "ipa": "/laɪt/",
    "chunks": [
@@ -296,15 +415,18 @@
    "sentences": [
     {
      "en": "It's dark. Turn on the light, please.",
-     "zh": "天黑了，请开灯。"
+     "zh": "天黑了，请开灯。",
+     "audio": "media/sent/0edff06ec9d2.mp3"
     },
     {
      "en": "Please turn off the light.",
-     "zh": "请关灯。"
+     "zh": "请关灯。",
+     "audio": "media/sent/7ab462e2ac97.mp3"
     },
     {
-     "en": "Lily has a light blue dress.",
-     "zh": "Lily 有一条浅蓝色的裙子。"
+     "en": "Can you turn on the light, please?",
+     "zh": "你能开一下灯吗？",
+     "audio": "media/sent/4ffed23c6683.mp3"
     }
    ],
    "media": {
@@ -313,7 +435,72 @@
     "us": "media/us/light.mp3"
    },
    "avoid": [
-    "dark"
+    "dark",
+    "light.2",
+    "pale",
+    "white"
+   ]
+  },
+  {
+   "id": "light.2",
+   "word": "light",
+   "zh": "浅色的；明亮的",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "浅色的；明亮的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；光"
+    }
+   ],
+   "ipa": "/laɪt/",
+   "chunks": [
+    "light"
+   ],
+   "emoji": "🩵",
+   "sentence": {
+    "en": "Lily has a light blue dress.",
+    "zh": "Lily 有一条浅蓝色的裙子。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a light blue dress.",
+     "zh": "Lily 有一条浅蓝色的裙子。",
+     "audio": "media/sent/8e6cce3b39d1.mp3"
+    },
+    {
+     "en": "I like light green.",
+     "zh": "我喜欢浅绿色。",
+     "audio": "media/sent/716179ffbe08.mp3"
+    },
+    {
+     "en": "The kitchen is big and light.",
+     "zh": "厨房又大又明亮。",
+     "audio": "media/sent/364fc1eb1581.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/light.2.webp",
+    "uk": "media/uk/light.mp3",
+    "us": "media/us/light.mp3"
+   },
+   "of": "light",
+   "ofZh": "灯；光",
+   "avoid": [
+    "dark",
+    "light",
+    "pale",
+    "white"
    ]
   },
   {
@@ -323,6 +510,20 @@
    "pos": [
     "adj",
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "橙色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橙子"
+    }
    ],
    "ipa": "/ˈɒrɪndʒ/",
    "chunks": [
@@ -337,15 +538,18 @@
    "sentences": [
     {
      "en": "My favourite colour is orange.",
-     "zh": "我最喜欢的颜色是橙色。"
+     "zh": "我最喜欢的颜色是橙色。",
+     "audio": "media/sent/09230ac8a435.mp3"
     },
     {
      "en": "Lily has an orange T-shirt.",
-     "zh": "Lily 有一件橙色的T恤。"
+     "zh": "Lily 有一件橙色的T恤。",
+     "audio": "media/sent/e13a5f1fe6d0.mp3"
     },
     {
      "en": "Lily eats an orange after lunch.",
-     "zh": "Lily 午饭后吃了一个橙子。"
+     "zh": "Lily 午饭后吃了一个橙子。",
+     "audio": "media/sent/b701d2ee8040.mp3"
     }
    ],
    "media": {
@@ -365,6 +569,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "苍白的；浅的"
+    }
+   ],
    "ipa": "/peɪl/",
    "chunks": [
     "pale"
@@ -377,15 +589,18 @@
    "sentences": [
     {
      "en": "Lily is ill. Her face is pale.",
-     "zh": "Lily 病了，她脸色苍白。"
+     "zh": "Lily 病了，她脸色苍白。",
+     "audio": "media/sent/32c03440cb00.mp3"
     },
     {
      "en": "Tom looks pale today.",
-     "zh": "Tom 今天脸色苍白。"
+     "zh": "Tom 今天脸色苍白。",
+     "audio": "media/sent/f991c6e12d9c.mp3"
     },
     {
      "en": "The wall is pale yellow.",
-     "zh": "墙是淡黄色的。"
+     "zh": "墙是淡黄色的。",
+     "audio": "media/sent/f5cfb2807351.mp3"
     }
    ],
    "media": {
@@ -394,6 +609,9 @@
     "us": "media/us/pale.mp3"
    },
    "avoid": [
+    "dark",
+    "light",
+    "light.2",
     "white"
    ]
   },
@@ -403,6 +621,14 @@
    "zh": "粉红色的；粉红色",
    "pos": [
     "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "粉红色的；粉红色"
+    }
    ],
    "ipa": "/pɪŋk/",
    "chunks": [
@@ -416,15 +642,18 @@
    "sentences": [
     {
      "en": "Lily likes pink flowers.",
-     "zh": "Lily 喜欢粉红色的花。"
+     "zh": "Lily 喜欢粉红色的花。",
+     "audio": "media/sent/2d0b6b3644c3.mp3"
     },
     {
      "en": "Lily's bag is pink.",
-     "zh": "Lily 的书包是粉红色的。"
+     "zh": "Lily 的书包是粉红色的。",
+     "audio": "media/sent/f2c408269eeb.mp3"
     },
     {
      "en": "Lily wears a pink hat.",
-     "zh": "Lily 戴着一顶粉红色的帽子。"
+     "zh": "Lily 戴着一顶粉红色的帽子。",
+     "audio": "media/sent/eedc80b3be36.mp3"
     }
    ],
    "media": {
@@ -441,6 +670,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "紫色的；紫色"
+    }
+   ],
    "ipa": "/ˈpɜːpəl/",
    "chunks": [
     "pur",
@@ -454,15 +691,18 @@
    "sentences": [
     {
      "en": "Lily paints a purple flower.",
-     "zh": "Lily 画了一朵紫色的花。"
+     "zh": "Lily 画了一朵紫色的花。",
+     "audio": "media/sent/aa289738b0de.mp3"
     },
     {
      "en": "Some grapes are purple.",
-     "zh": "有些葡萄是紫色的。"
+     "zh": "有些葡萄是紫色的。",
+     "audio": "media/sent/0cab637474da.mp3"
     },
     {
      "en": "Grandma has a purple bag.",
-     "zh": "奶奶有一个紫色的包。"
+     "zh": "奶奶有一个紫色的包。",
+     "audio": "media/sent/601096055e94.mp3"
     }
    ],
    "media": {
@@ -479,6 +719,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "红色的；红色"
+    }
+   ],
    "ipa": "/red/",
    "chunks": [
     "red"
@@ -491,15 +739,18 @@
    "sentences": [
     {
      "en": "Strawberries are red.",
-     "zh": "草莓是红色的。"
+     "zh": "草莓是红色的。",
+     "audio": "media/sent/24210a0c4f1d.mp3"
     },
     {
      "en": "A tomato is red.",
-     "zh": "西红柿是红色的。"
+     "zh": "西红柿是红色的。",
+     "audio": "media/sent/1f585fe03a0c.mp3"
     },
     {
      "en": "Lily has a red bike.",
-     "zh": "Lily 有一辆红色的自行车。"
+     "zh": "Lily 有一辆红色的自行车。",
+     "audio": "media/sent/6136de9596c5.mp3"
     }
    ],
    "media": {
@@ -514,8 +765,22 @@
    "word": "silver",
    "zh": "银色的；银",
    "pos": [
-    "n",
-    "adj"
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "银色的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "银"
+    }
    ],
    "ipa": "/ˈsɪlvə/",
    "chunks": [
@@ -530,15 +795,18 @@
    "sentences": [
     {
      "en": "Mum has a silver ring.",
-     "zh": "妈妈有一枚银戒指。"
+     "zh": "妈妈有一枚银戒指。",
+     "audio": "media/sent/649891b169c8.mp3"
     },
     {
      "en": "The moon looks silver.",
-     "zh": "月亮看起来是银色的。"
+     "zh": "月亮看起来是银色的。",
+     "audio": "media/sent/e9aab99162d6.mp3"
     },
     {
      "en": "Dad has a silver watch.",
-     "zh": "爸爸有一块银色的手表。"
+     "zh": "爸爸有一块银色的手表。",
+     "audio": "media/sent/5dc58fea61df.mp3"
     }
    ],
    "media": {
@@ -558,6 +826,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "白色的；白色"
+    }
+   ],
    "ipa": "/waɪt/",
    "chunks": [
     "white"
@@ -570,15 +846,18 @@
    "sentences": [
     {
      "en": "Snow is white.",
-     "zh": "雪是白色的。"
+     "zh": "雪是白色的。",
+     "audio": "media/sent/58240d4f5587.mp3"
     },
     {
      "en": "Milk is white.",
-     "zh": "牛奶是白色的。"
+     "zh": "牛奶是白色的。",
+     "audio": "media/sent/c4ef0df96b50.mp3"
     },
     {
      "en": "The clouds are white.",
-     "zh": "云是白色的。"
+     "zh": "云是白色的。",
+     "audio": "media/sent/e8925fe8d903.mp3"
     }
    ],
    "media": {
@@ -587,7 +866,10 @@
     "us": "media/us/white.mp3"
    },
    "avoid": [
+    "dark",
     "grey",
+    "light",
+    "light.2",
     "pale",
     "silver"
    ]
@@ -598,6 +880,14 @@
    "zh": "黄色的；黄色",
    "pos": [
     "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "黄色的；黄色"
+    }
    ],
    "ipa": "/ˈjeləʊ/",
    "chunks": [
@@ -612,15 +902,18 @@
    "sentences": [
     {
      "en": "A banana is yellow.",
-     "zh": "香蕉是黄色的。"
+     "zh": "香蕉是黄色的。",
+     "audio": "media/sent/de0293fa09d6.mp3"
     },
     {
      "en": "The sun is yellow.",
-     "zh": "太阳是黄色的。"
+     "zh": "太阳是黄色的。",
+     "audio": "media/sent/28355667d9f7.mp3"
     },
     {
      "en": "Lily has a yellow T-shirt.",
-     "zh": "Lily 有一件黄色的T恤。"
+     "zh": "Lily 有一件黄色的T恤。",
+     "audio": "media/sent/3ffde53b3fdc.mp3"
     }
    ],
    "media": {

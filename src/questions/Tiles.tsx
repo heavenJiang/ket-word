@@ -4,7 +4,7 @@ import { playWord, sfx } from "../lib/audio";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
-import { Picture, SlowButton, SpeakButton } from "../ui/Picture";
+import { AnswerCard, Picture, SlowButton, SpeakButton } from "../ui/Picture";
 
 const isLetter = (c: string) => /[a-z]/i.test(c);
 const ALPHABET = "abcdefghijklmnopqrstuvwxyz";
@@ -53,6 +53,15 @@ export function Tiles(props: {
   const [done, setDone] = useState<"right" | "gaveup" | null>(null);
   const [cheer] = useState(praise);
   const started = useRef(performance.now());
+  const finished = useRef<Attempt | null>(null);
+  const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
+  /** Move on after spelling it: by itself after a moment, or at once when the child taps. */
+  const next = () => {
+    clearTimeout(timer.current);
+    if (finished.current) onAnswer(finished.current);
+    finished.current = null;
+  };
+  useEffect(() => () => clearTimeout(timer.current), []);
 
   useEffect(() => {
     const t = setTimeout(() => playWord(word, accent), 300);
@@ -74,7 +83,8 @@ export function Tiles(props: {
       sfx("right", sound);
       playWord(word, accent);
       const a = { correct: true, hinted: hinted || usedHint, mistakes, ms: performance.now() - started.current };
-      setTimeout(() => onAnswer(a), 1000);
+      finished.current = a;
+      timer.current = setTimeout(next, 2200);
     } else sfx("tap", sound);
   };
 
@@ -107,8 +117,10 @@ export function Tiles(props: {
         <Picture word={word} size="sm" />
         <div>
           <div className="stem-zh">{word.zh}</div>
-          <SpeakButton onClick={() => playWord(word, accent)} label="听" />
-          <SlowButton onClick={() => playWord(word, accent, true)} />
+          <div className="row">
+            <SpeakButton onClick={() => playWord(word, accent)} label="听发音" />
+            <SlowButton onClick={() => playWord(word, accent, true)} />
+          </div>
         </div>
       </div>
 
@@ -151,11 +163,17 @@ export function Tiles(props: {
           )}
         </div>
       )}
-      {done === "right" && <Cheer text={cheer} />}
+      {done === "right" && (
+        <button className="after" onClick={next} aria-label="下一题">
+          <Cheer text={cheer} />
+          <AnswerCard word={word} picture={false} onSpeak={() => playWord(word, accent)} />
+          <span className="after-tap">点一下继续 →</span>
+        </button>
+      )}
       {done === "gaveup" && (
         <div className="reveal">
           <Max pose="think" size="sm" say="没关系，看清楚再记一次：" />
-          <div className="reveal-word">{word.word}</div>
+          <AnswerCard word={word} picture={false} onSpeak={() => playWord(word, accent)} />
           <button
             className="btn btn-primary"
             onClick={() => onAnswer({ correct: false, hinted: true, mistakes, ms: performance.now() - started.current })}

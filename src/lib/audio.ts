@@ -1,4 +1,4 @@
-import type { Accent, Word } from "../types";
+import type { Accent, Sentence, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
 let current: HTMLAudioElement | null = null;
@@ -36,12 +36,16 @@ export function playWord(w: Word, accent: Accent, slow = false): void {
 }
 
 export function playSentence(w: Word, accent: Accent): void {
-  speak(w.sentence.en, accent, 0.8);
+  playText(w.sentences?.[0] ?? w.sentence, accent);
 }
 
-/** Read any sentence aloud; `slow` for a second, clearer listen. */
-export function playText(text: string, accent: Accent, slow = false): void {
-  speak(text, accent, slow ? 0.6 : 0.8);
+/** Read a sentence aloud: its recording when there is one, else the browser's voice. `slow` for a clearer listen. */
+export function playText(s: Sentence, accent: Accent, slow = false): void {
+  if (!s.audio) return speak(s.en, accent, slow ? 0.6 : 0.8);
+  stop();
+  current = new Audio(base + s.audio);
+  if (slow) current.playbackRate = 0.75;
+  current.play().catch(() => speak(s.en, accent, slow ? 0.6 : 0.8));
 }
 
 let ctx: AudioContext | null = null;

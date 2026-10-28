@@ -5,7 +5,7 @@ import { gapSentences, mentioned, sentencesOf, splitAt } from "../lib/sentence";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Sentence, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
-import { Picture, SlowButton, SpeakButton } from "../ui/Picture";
+import { AnswerCard, Picture, SentenceRow, SlowButton, SpeakButton } from "../ui/Picture";
 
 type Kind = "pickImage" | "pickMeaning" | "listenPick" | "cloze" | "listenSentence";
 
@@ -53,8 +53,16 @@ export function Choice(props: {
   const [cheer] = useState(praise);
   const started = useRef(performance.now());
   const result = useRef<Attempt | null>(null);
+  const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
+  /** Move on after a right answer: by itself after a moment, or at once when the child taps. */
+  const next = () => {
+    clearTimeout(timer.current);
+    if (result.current) onAnswer(result.current);
+    result.current = null;
+  };
+  useEffect(() => () => clearTimeout(timer.current), []);
 
-  const listen = (slow = false) => (sentence && kind === "listenSentence" ? playText(sentence.en, accent, slow) : playWord(word, accent, slow));
+  const listen = (slow = false) => (sentence && kind === "listenSentence" ? playText(sentence, accent, slow) : playWord(word, accent, slow));
 
   useEffect(() => {
     if (kind === "pickMeaning" || kind === "cloze") return;
@@ -70,11 +78,12 @@ export function Choice(props: {
     sfx(correct ? "right" : "wrong", sound);
     if (correct) {
       // hear the whole sentence once it is complete: the word in context is the point of the question
-      if (sentence) setTimeout(() => playText(sentence.en, accent), 300);
+      if (sentence) setTimeout(() => playText(sentence, accent), 300);
       else if (kind === "pickMeaning") playWord(word, accent);
-      setTimeout(() => onAnswer(result.current!), sentence ? 2600 : 900);
+      // long enough to read the answer card (and hear the sentence), not so long that a quick child waits
+      timer.current = setTimeout(next, sentence ? 3200 : 2200);
     } else {
-      setTimeout(() => (sentence ? playText(sentence.en, accent) : playWord(word, accent)), 500);
+      setTimeout(() => (sentence ? playText(sentence, accent) : playWord(word, accent)), 500);
     }
   };
 
@@ -96,14 +105,14 @@ export function Choice(props: {
         {kind === "pickImage" && (
           <>
             <div className="stem-word">{word.word}</div>
-            <SpeakButton onClick={() => listen()} label="再听" />
+            <SpeakButton onClick={() => listen()} label="再听一遍" />
           </>
         )}
         {kind === "pickMeaning" && <div className="stem-word stem-word-big">{word.word}</div>}
         {(kind === "listenPick" || kind === "listenSentence") && (
           <>
-            <SpeakButton onClick={() => listen()} label={kind === "listenSentence" ? "再听一遍句子" : "再听一遍"} big />
-            <SlowButton onClick={() => listen(true)} />
+            <SpeakButton onClick={() => listen()} label={kind === "listenSentence" ? "再听一遍句子" : "再听一遍"} size="lg" ms={kind === "listenSentence" ? 2600 : 1200} />
+            <SlowButton onClick={() => listen(true)} size="lg" />
           </>
         )}
         {gap && (
@@ -136,21 +145,19 @@ export function Choice(props: {
       )}
 
       {picked === word.id && (
-        <>
+        <button className="after" onClick={next} aria-label="下一题">
           <Cheer text={cheer} />
-          {sentence && <SentenceCard sentence={sentence} />}
-        </>
+          <AnswerCard word={word} picture={!PICTURE_KINDS.includes(kind)} onSpeak={() => playWord(word, accent)} />
+          {sentence && <SentenceCard sentence={sentence} accent={accent} />}
+          <span className="after-tap">点一下继续 →</span>
+        </button>
       )}
 
       {picked && picked !== word.id && (
         <div className="reveal">
           <Max pose="think" size="sm" say="差一点点！记住它：" />
-          <Picture word={word} size="sm" />
-          <div>
-            <div className="reveal-word">{word.word}</div>
-            <div className="reveal-zh">{word.zh}</div>
-          </div>
-          {sentence && <SentenceCard sentence={sentence} />}
+          <AnswerCard word={word} onSpeak={() => playWord(word, accent)} />
+          {sentence && <SentenceCard sentence={sentence} accent={accent} />}
           <button className="btn btn-primary" onClick={() => onAnswer(result.current!)}>
             记住了！
           </button>
@@ -161,11 +168,10 @@ export function Choice(props: {
 }
 
 /** The full sentence and its translation, shown once the question is answered. */
-function SentenceCard({ sentence }: { sentence: Sentence }) {
+function SentenceCard({ sentence, accent }: { sentence: Sentence; accent: Accent }) {
   return (
-    <div className="sentence sentence-after">
-      <span className="sentence-en">{sentence.en}</span>
-      <span className="sentence-zh">{sentence.zh}</span>
+    <div className="sentence-after">
+      <SentenceRow en={sentence.en} zh={sentence.zh} onPlay={() => playText(sentence, accent)} />
     </div>
   );
 }

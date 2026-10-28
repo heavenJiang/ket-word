@@ -1,6 +1,15 @@
+export interface Sense {
+  pos: string[];
+  zh: string;
+  /** An example, given for a meaning unrelated to the one taught here. */
+  en?: string;
+}
+
 export interface Sentence {
   en: string;
   zh: string;
+  /** ChatTTS recording (scripts/ket/gen_audio.py); without one the browser's voice reads it. */
+  audio?: string;
 }
 
 /** One learnable word, as built by scripts/ket/build_app_data.py. */
@@ -17,6 +26,11 @@ export interface Word {
   /** Every example sentence, the main one first; sentence questions draw from these. */
   sentences?: Sentence[];
   media: { img?: string; uk?: string; us?: string };
+  /** Meanings, the first being the one this island teaches and pictures (can: 罐头 n., then 能 mv.). */
+  senses?: Sense[];
+  /** For a second-meaning card (can.2 = "can" as in "I can swim"): the word it belongs to, and that word's meaning. */
+  of?: string;
+  ofZh?: string;
   /** Words too alike to be fair wrong options for this one (plate / dish / bowl). */
   avoid?: string[];
 }
