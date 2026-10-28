@@ -26,7 +26,7 @@ IRREGULAR = {
     "men": "man", "women": "woman", "people": "person", "geese": "goose", "knives": "knife", "loaves": "loaf",
     "wolves": "wolf", "leaves": "leaf", "potatoes": "potato", "tomatoes": "tomato",
     "is": "be", "are": "be", "am": "be", "was": "be", "were": "be", "'s": "be", "'m": "be", "'re": "be",
-    "has": "have", "had": "have", "does": "do", "did": "do", "goes": "go", "went": "go", "gone": "go",
+    "has": "have", "had": "have", "does": "do", "did": "do", "goes": "go", "went": "go", "gone": "go", "done": "do",
     "ate": "eat", "eaten": "eat", "drank": "drink", "made": "make", "gave": "give", "took": "take", "got": "get",
     "saw": "see", "came": "come", "ran": "run", "swam": "swim", "flew": "fly", "sang": "sing", "said": "say",
     "bought": "buy", "brought": "bring", "caught": "catch", "taught": "teach", "thought": "think", "found": "find",

@@ -440,6 +440,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "All the furniture is new.": {
+  "cer": 0.0,
+  "file": "294308591177.mp3",
+  "heard": "All the furniture is new.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "An apple a day is good for you.": {
   "cer": 0.0,
   "file": "693f142bb0c7.mp3",
@@ -510,6 +517,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Are you tired? Go to bed.": {
+  "cer": 0.0,
+  "file": "c268c4fe5ff0.mp3",
+  "heard": "Are you tired? Go to bed?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Art is my favourite subject.": {
   "cer": 0.0,
   "file": "512e11240740.mp3",
@@ -559,6 +573,34 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Autumn is my favourite season.": {
+  "cer": 0.0,
+  "file": "a6ca3bb00e9a.mp3",
+  "heard": "Autumn is my favorite season.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Badminton is fun in the garden.": {
+  "cer": 0.0,
+  "file": "eceb791e04ab.mp3",
+  "heard": "Badminton is fun in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Baseball is popular in America.": {
+  "cer": 0.0,
+  "file": "16700245f667.mp3",
+  "heard": "Baseball is popular in America.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Basketball players are very tall.": {
+  "cer": 0.0,
+  "file": "9eb3d8442a4c.mp3",
+  "heard": "Basketball players are very tall.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Be careful with the knife!": {
   "cer": 0.0,
   "file": "750c7e4bb62f.mp3",
@@ -585,6 +627,13 @@
   "file": "4a5eee95c460.mp3",
   "heard": "Be careful, the soup is hot.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "Bears live in the forest.": {
+  "cer": 0.0,
+  "file": "eef11758f912.mp3",
+  "heard": "Bears live in the forest.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Bears love honey.": {
@@ -615,6 +664,20 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Birds fly south in autumn.": {
+  "cer": 0.0,
+  "file": "225a10d00d06.mp3",
+  "heard": "birds fly south in autumn.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Birds fly through the air.": {
+  "cer": 0.0,
+  "file": "3b605be77ab2.mp3",
+  "heard": "birds fly through the air.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Boil the eggs for ten minutes.": {
   "cer": 0.0,
   "file": "85c5fbc7a022.mp3",
@@ -629,11 +692,39 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Breakfast is ready. Come downstairs!": {
+  "cer": 0.0,
+  "file": "5df059a9837a.mp3",
+  "heard": "Breakfast is ready, come downstairs.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Breakfast is the first meal of the day.": {
   "cer": 0.0,
   "file": "5cd0a34fa414.mp3",
   "heard": "Breakfast is the first meal of the day.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Bring your tennis racket.": {
+  "cer": 0.0,
+  "file": "b19bda321350.mp3",
+  "heard": "Bring your tennis racket.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Camels live in the desert.": {
+  "cer": 0.0,
+  "file": "10d66e1795ea.mp3",
+  "heard": "Camels live in the desert.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Can I borrow your DVD?": {
+  "cer": 0.0,
+  "file": "52e75d7fd5f8.mp3",
+  "heard": "Can I borrow your DVD?",
+  "speaker": "kid",
   "tries": 1
  },
  "Can I borrow your book?": {
@@ -654,6 +745,13 @@
   "cer": 0.0,
   "file": "053c66320a4d.mp3",
   "heard": "Can I borrow your rubber please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I go to the toilet, please?": {
+  "cer": 0.0,
+  "file": "30f754dedcaa.mp3",
+  "heard": "Can I go to the toilet, please?",
   "speaker": "kid",
   "tries": 1
  },
@@ -734,12 +832,47 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Can I ride your bike?": {
+  "cer": 0.0,
+  "file": "2e0a56365a79.mp3",
+  "heard": "Can I ride your bike?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I stay up late tonight?": {
+  "cer": 0.0,
+  "file": "e1c641f6dc2e.mp3",
+  "heard": "Can I stay up late tonight?",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Can I try on these shoes?": {
   "cer": 0.0,
   "file": "826ee4eeff9f.mp3",
   "heard": "Can I try on these shoes?",
   "speaker": "kid",
   "tries": 1
+ },
+ "Can I try your skateboard?": {
+  "cer": 0.0,
+  "file": "40778f4681e0.mp3",
+  "heard": "Can I try your skateboard?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I use the computer?": {
+  "cer": 0.0,
+  "file": "047106b7f191.mp3",
+  "heard": "Can I use the computer?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I use your bat?": {
+  "cer": 0.0,
+  "file": "ddfe64bef639.mp3",
+  "heard": "Can I use your bat?",
+  "speaker": "kid",
+  "tries": 2
  },
  "Can I use your dictionary?": {
   "cer": 0.0,
@@ -762,6 +895,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Can we go by boat?": {
+  "cer": 0.0,
+  "file": "b26ad9d7fac1.mp3",
+  "heard": "Can we go by boat?",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Can we go fishing, Grandpa?": {
   "cer": 0.0,
   "file": "59f7eca78bf2.mp3",
@@ -774,6 +914,13 @@
   "file": "fecea20e60e5.mp3",
   "heard": "Can we see the menu, please?",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Can you climb this wall?": {
+  "cer": 0.0,
+  "file": "b4123d5f4b5a.mp3",
+  "heard": "Can you climb this wall?",
+  "speaker": "adult",
   "tries": 1
  },
  "Can you cook pasta?": {
@@ -811,11 +958,46 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Can you play badminton?": {
+  "cer": 0.0,
+  "file": "681049a67150.mp3",
+  "heard": "Can you play badminton?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you play golf?": {
+  "cer": 0.0,
+  "file": "d1cf9d06c242.mp3",
+  "heard": "Can you play golf?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you play the piano?": {
+  "cer": 0.0,
+  "file": "9bdfbdadc36c.mp3",
+  "heard": "Can you play the piano?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you play volleyball?": {
+  "cer": 0.0,
+  "file": "1c8f2b92ae80.mp3",
+  "heard": "Can you play volleyball.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Can you read this word?": {
   "cer": 0.0,
   "file": "f091ee0745b2.mp3",
   "heard": "Can you read this word?",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Can you ride a bicycle?": {
+  "cer": 0.0,
+  "file": "dc987a23330a.mp3",
+  "heard": "Can you ride a bicycle?",
+  "speaker": "adult",
   "tries": 1
  },
  "Can you see the board?": {
@@ -825,6 +1007,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Can you skate?": {
+  "cer": 0.0,
+  "file": "d826fbadd023.mp3",
+  "heard": "Can you skate?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you ski?": {
+  "cer": 0.0,
+  "file": "2a191ca9b77c.mp3",
+  "heard": "Can you ski?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Can you teach me to swim?": {
   "cer": 0.0,
   "file": "260ba691c9a7.mp3",
@@ -832,11 +1028,32 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Can you throw it far?": {
+  "cer": 0.0,
+  "file": "f113f3d19e9a.mp3",
+  "heard": "Can you throw it far?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Can you turn on the light, please?": {
   "cer": 0.0,
   "file": "4ffed23c6683.mp3",
   "heard": "Can you turn on the light please?",
   "speaker": "kid",
+  "tries": 1
+ },
+ "Carry your surfboard to the sea.": {
+  "cer": 0.0,
+  "file": "b7023ea273e0.mp3",
+  "heard": "carry your surfboard to the sea.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Catch the ball, Tom!": {
+  "cer": 0.0,
+  "file": "82e5d06731cc.mp3",
+  "heard": "Catch the ball, Tom.",
+  "speaker": "adult",
   "tries": 1
  },
  "Chemistry is difficult but fun.": {
@@ -881,12 +1098,47 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Close the curtains, please.": {
+  "cer": 0.0,
+  "file": "26e155e02bf3.mp3",
+  "heard": "Close the curtains, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Close the garage door.": {
+  "cer": 0.0,
+  "file": "ee3e85086f50.mp3",
+  "heard": "Close the garage door.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Close the gate, or Max will run out!": {
+  "cer": 0.0,
+  "file": "af6977b93ac9.mp3",
+  "heard": "Close the gate or Max will run out.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Come to my house after school.": {
+  "cer": 0.0,
+  "file": "14a98d4047ff.mp3",
+  "heard": "Come to my house after school.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Cows give us milk.": {
   "cer": 0.0,
   "file": "3d29be47e8a0.mp3",
   "heard": "Cows give us milk.",
   "speaker": "narrator",
   "tries": 1
+ },
+ "Cricket is popular in England.": {
+  "cer": 0.0,
+  "file": "6950ea0642a2.mp3",
+  "heard": "Cricket is popular in England.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "Curry is a hot dish.": {
   "cer": 0.0,
@@ -900,6 +1152,13 @@
   "file": "5083aa0156cb.mp3",
   "heard": "cut the cake into eight pieces.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "Cycling is good for you.": {
+  "cer": 0.0,
+  "file": "6d88da58d17d.mp3",
+  "heard": "Cycling is good for you.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Dad boils water for tea.": {
@@ -920,6 +1179,13 @@
   "cer": 0.0,
   "file": "d1a084ae02be.mp3",
   "heard": "Dad can't read without his glasses.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad catches a big fish.": {
+  "cer": 0.0,
+  "file": "45a447f8cdaf.mp3",
+  "heard": "Dad catches a big fish.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1014,6 +1280,13 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Dad has a shower every morning.": {
+  "cer": 0.0,
+  "file": "3b16b478add3.mp3",
+  "heard": "Dad has a shower every morning.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Dad has a silver watch.": {
   "cer": 0.0,
   "file": "5dc58fea61df.mp3",
@@ -1070,10 +1343,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Dad loves watching rugby.": {
+  "cer": 0.0,
+  "file": "8bb24c52b777.mp3",
+  "heard": "Dad loves watching rugby.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Dad makes a big burger.": {
   "cer": 0.0,
   "file": "ea2ff05be12e.mp3",
   "heard": "Dad makes a big burger.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad makes a new bookcase.": {
+  "cer": 0.0,
+  "file": "a7ac6d03f4ae.mp3",
+  "heard": "Dad makes a new bookcase.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1112,12 +1399,47 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Dad puts more wood on the fire.": {
+  "cer": 0.0,
+  "file": "e2de70605fae.mp3",
+  "heard": "Dad puts more wood on the fire.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Dad studied at university in London.": {
   "cer": 0.0,
   "file": "c76a7af8acc1.mp3",
   "heard": "Dad studied at university in London.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "Dad takes out the rubbish.": {
+  "cer": 0.0,
+  "file": "f9e0766cf951.mp3",
+  "heard": "Dad takes out the rubbish.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Dad teaches me to ski.": {
+  "cer": 0.0,
+  "file": "a715daeb3280.mp3",
+  "heard": "Dad teaches me to ski.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Dad tries windsurfing on holiday.": {
+  "cer": 0.0,
+  "file": "1811bd40d3d0.mp3",
+  "heard": "Dad tries windsurfing on holiday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad watches cricket on television.": {
+  "cer": 0.0,
+  "file": "1dde83fa0b89.mp3",
+  "heard": "Dad watches cricket on television.",
+  "speaker": "narrator",
+  "tries": 3
  },
  "Dad wears a grey suit to work.": {
   "cer": 0.0,
@@ -1137,6 +1459,20 @@
   "cer": 0.0,
   "file": "5d11e04d5ada.mp3",
   "heard": "Dad wears a white shirt to work.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad works on his computer.": {
+  "cer": 0.0,
+  "file": "7a727c79773e.mp3",
+  "heard": "Dad works on his computer.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad's car is in the garage.": {
+  "cer": 0.0,
+  "file": "3d934e402c93.mp3",
+  "heard": "Dad's car is in the garage.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1189,6 +1525,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Do you like surfboarding?": {
+  "cer": 0.0,
+  "file": "68afe3a1038e.mp3",
+  "heard": "Do you like surfboarding?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Do you play table tennis?": {
+  "cer": 0.0,
+  "file": "34e9ae3a3b36.mp3",
+  "heard": "Do you play table tennis?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Do you remember our holiday?": {
   "cer": 0.0,
   "file": "efb9deb2d7ad.mp3",
@@ -1207,6 +1557,20 @@
   "cer": 0.0,
   "file": "8112f636deb0.mp3",
   "heard": "Do you want sauce on your burger?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Do you want to enter the competition?": {
+  "cer": 0.0,
+  "file": "0fc2529bcb13.mp3",
+  "heard": "Do you want to enter the competition?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Do you want to join the club?": {
+  "cer": 0.0,
+  "file": "19e0512d9ef2.mp3",
+  "heard": "Do you want to join the club?",
   "speaker": "adult",
   "tries": 1
  },
@@ -1259,10 +1623,38 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Don't leave rubbish in the park.": {
+  "cer": 0.0,
+  "file": "1de8216d357a.mp3",
+  "heard": "Don't leave rubbish in the park.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't lose your ticket!": {
+  "cer": 0.0,
+  "file": "1d3de35cfa91.mp3",
+  "heard": "Don't lose your ticket.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't play with fire!": {
+  "cer": 0.0,
+  "file": "48b25626de46.mp3",
+  "heard": "Don't play with fire.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Don't put too much salt on your chips.": {
   "cer": 0.0,
   "file": "b2c6c6fcab21.mp3",
   "heard": "Don't put too much salt on your chips.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't put your feet on the carpet!": {
+  "cer": 0.0,
+  "file": "ca5c0ec4d6cc.mp3",
+  "heard": "Don't put your feet on the carpet.",
   "speaker": "adult",
   "tries": 1
  },
@@ -1287,6 +1679,20 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Don't throw your rubbish on the floor!": {
+  "cer": 0.0,
+  "file": "67845a58990f.mp3",
+  "heard": "Don't throw your rubbish on the floor.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't walk on the grass.": {
+  "cer": 0.0,
+  "file": "10edbc093841.mp3",
+  "heard": "Don't walk on the grass.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Draw a line with a ruler.": {
   "cer": 0.0,
   "file": "656baa91354d.mp3",
@@ -1294,10 +1700,24 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Drink some water. It's hot today.": {
+  "cer": 0.0,
+  "file": "c7b9be4db392.mp3",
+  "heard": "Drink some water, it's hot today.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Drive slowly in the fog.": {
   "cer": 0.0,
   "file": "f8ff542f151a.mp3",
   "heard": "Drive slowly in the fog.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Dry your hands with a towel.": {
+  "cer": 0.0,
+  "file": "452d43ac1ae2.mp3",
+  "heard": "Dry your hands with a towel.",
   "speaker": "adult",
   "tries": 1
  },
@@ -1343,10 +1763,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Every member gets a T-shirt.": {
+  "cer": 0.0,
+  "file": "62e711bcb507.mp3",
+  "heard": "Every member gets a t-shirt.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Every parent loves their child.": {
   "cer": 0.0,
   "file": "75f0b799f63a.mp3",
   "heard": "Every parent loves their child.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Everyone gets a prize.": {
+  "cer": 0.0,
+  "file": "7787c9604af3.mp3",
+  "heard": "Everyone gets a prize!",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1364,6 +1798,48 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Fish live in the sea.": {
+  "cer": 0.0,
+  "file": "cba4e521e8bd.mp3",
+  "heard": "Fish live in the sea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Fish live in water.": {
+  "cer": 0.0,
+  "file": "395394b0c276.mp3",
+  "heard": "Fish live in water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Fish swim in the river.": {
+  "cer": 0.0,
+  "file": "7a64131a4cd3.mp3",
+  "heard": "Fish swim in the river.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Fishing is very quiet.": {
+  "cer": 0.0,
+  "file": "bc2c11d3d01b.mp3",
+  "heard": "Fishing is very quiet",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Flowers come out in spring.": {
+  "cer": 0.0,
+  "file": "eed1c3fd8ff1.mp3",
+  "heard": "Flowers come out in spring.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Football is my favourite sport.": {
+  "cer": 0.0,
+  "file": "442dacedce02.mp3",
+  "heard": "Football is my favorite sport.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Football practice is on Tuesday.": {
   "cer": 0.0,
   "file": "83087d393c22.mp3",
@@ -1376,6 +1852,13 @@
   "file": "c0e4b261deca.mp3",
   "heard": "For the main course, I want pasta.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "France is a beautiful country.": {
+  "cer": 0.0,
+  "file": "851fd4ea92a5.mp3",
+  "heard": "France is a beautiful country.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Fried food is not very healthy.": {
@@ -1417,6 +1900,41 @@
   "cer": 0.0,
   "file": "4dfbb807a003.mp3",
   "heard": "Get dressed, Tom. It's time for school.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Go east for two kilometres.": {
+  "cer": 0.091,
+  "file": "ba620fdd0d39.mp3",
+  "heard": "Go east for 2 kilometers.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Go north to find the lake.": {
+  "cer": 0.0,
+  "file": "d62ce8a5e93a.mp3",
+  "heard": "Go north to find the lake.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Golf is a quiet sport.": {
+  "cer": 0.0,
+  "file": "fe5c4aea7dde.mp3",
+  "heard": "Golf is a quiet sport.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Good luck in your test!": {
+  "cer": 0.0,
+  "file": "9d444132e179.mp3",
+  "heard": "Good luck in your test.",
+  "speaker": "adult",
+  "tries": 2
+ },
+ "Good luck, Tom!": {
+  "cer": 0.0,
+  "file": "a06969ab50f5.mp3",
+  "heard": "Good luck Tom!",
   "speaker": "adult",
   "tries": 1
  },
@@ -1469,6 +1987,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Grandma has a big garden.": {
+  "cer": 0.0,
+  "file": "e6c8ad7eb810.mp3",
+  "heard": "Grandma has a big garden!",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandma has a big handbag.": {
   "cer": 0.0,
   "file": "495a3a6fc7ee.mp3",
@@ -1480,6 +2005,13 @@
   "cer": 0.0,
   "file": "ad69195a7e4d.mp3",
   "heard": "Grandma has a cup of tea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma has a lot of wool.": {
+  "cer": 0.0,
+  "file": "fac868cf8fb5.mp3",
+  "heard": "Grandma has a lot of wool.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1522,6 +2054,13 @@
   "cer": 0.0,
   "file": "c8e36f8cf414.mp3",
   "heard": "Grandma is a very good cook",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma is in the sitting room.": {
+  "cer": 0.0,
+  "file": "bb588fb7244b.mp3",
+  "heard": "Grandma is in the sitting room.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1637,6 +2176,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Grandpa goes fishing every Sunday.": {
+  "cer": 0.0,
+  "file": "893d1fca48f9.mp3",
+  "heard": "Grandpa goes fishing every Sunday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandpa grows tomatoes.": {
   "cer": 0.0,
   "file": "80464b2a487f.mp3",
@@ -1658,6 +2204,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Grandpa has a rest after lunch.": {
+  "cer": 0.0,
+  "file": "99c86947e529.mp3",
+  "heard": "Grandpa has a rest after lunch.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandpa has an old wallet.": {
   "cer": 0.0,
   "file": "801ec710ad05.mp3",
@@ -1672,6 +2225,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Grandpa is in the living room.": {
+  "cer": 0.0,
+  "file": "2a1c16b57306.mp3",
+  "heard": "Grandpa is in the living room.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa is waiting at the gate.": {
+  "cer": 0.0,
+  "file": "05acb5ee3c81.mp3",
+  "heard": "Grandpa is waiting at the gate.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa lives in the countryside.": {
+  "cer": 0.0,
+  "file": "1ae74f55b580.mp3",
+  "heard": "Grandpa lives in the countryside.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandpa loves his granddaughter.": {
   "cer": 0.0,
   "file": "18a74030e191.mp3",
@@ -1679,10 +2253,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Grandpa plays golf on Saturday.": {
+  "cer": 0.0,
+  "file": "986415859db9.mp3",
+  "heard": "Grandpa plays golf on Saturday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Grandpa reads the newspaper.": {
   "cer": 0.0,
   "file": "dc739b1198ff.mp3",
   "heard": "Grandpa reads the newspaper.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa sleeps in his armchair.": {
+  "cer": 0.0,
+  "file": "b19b1e19eea4.mp3",
+  "heard": "Grandpa sleeps in his armchair",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1728,6 +2316,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Have a rest. You're tired.": {
+  "cer": 0.0,
+  "file": "4333f6bb03bc.mp3",
+  "heard": "Have a rest, you're tired.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Have you got any homework today?": {
   "cer": 0.0,
   "file": "5fed315893ab.mp3",
@@ -1739,6 +2334,20 @@
   "cer": 0.0,
   "file": "41ad6e1c8fcd.mp3",
   "heard": "He gives her a ring?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "He is a famous football player.": {
+  "cer": 0.0,
+  "file": "ebc4a3cc675f.mp3",
+  "heard": "He is a famous football player.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "He is a very good player.": {
+  "cer": 0.0,
+  "file": "6531a40469eb.mp3",
+  "heard": "He is a very good player.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -1784,6 +2393,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Hit the ball with the bat!": {
+  "cer": 0.0,
+  "file": "8b94f9be3533.mp3",
+  "heard": "hit the ball with the bat.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Hockey is a fast game.": {
+  "cer": 0.0,
+  "file": "adc157a7edd9.mp3",
+  "heard": "Hockey is a fast game.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Honey is very sweet.": {
   "cer": 0.0,
   "file": "97a5634c00c8.mp3",
@@ -1812,6 +2435,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "How many members are in your team?": {
+  "cer": 0.0,
+  "file": "9ae8bc4769a9.mp3",
+  "heard": "How many members are in your team?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "How many rooms are there in your house?": {
+  "cer": 0.0,
+  "file": "18915bb5e668.mp3",
+  "heard": "How many rooms are there in your house?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "How much is a ticket?": {
+  "cer": 0.0,
+  "file": "121e4ab9baee.mp3",
+  "heard": "How much is a ticket?",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Hurry up! Don't miss the bus.": {
   "cer": 0.0,
   "file": "d6fb880b7e36.mp3",
@@ -1819,10 +2463,24 @@
   "speaker": "adult",
   "tries": 1
  },
+ "I can see a star in the sky.": {
+  "cer": 0.0,
+  "file": "99b394cc20d3.mp3",
+  "heard": "I can see a star in the sky.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I can't find my earring.": {
   "cer": 0.0,
   "file": "659f80fa95d5.mp3",
   "heard": "I can't find my earring.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "I can't find my key!": {
+  "cer": 0.0,
+  "file": "d2059ed0777c.mp3",
+  "heard": "I can't find my key.",
   "speaker": "kid",
   "tries": 2
  },
@@ -1896,10 +2554,45 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I go to school by bike.": {
+  "cer": 0.0,
+  "file": "e963eb1f52d1.mp3",
+  "heard": "I go to school by bike.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "I have a blue surfboard.": {
+  "cer": 0.0,
+  "file": "b92223b791cc.mp3",
+  "heard": "I have a blue surfboard.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I have a boiled egg for breakfast.": {
   "cer": 0.0,
   "file": "9a266282d300.mp3",
   "heard": "I have a boiled egg for breakfast.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I have a new baseball.": {
+  "cer": 0.0,
+  "file": "6027499b26f1.mp3",
+  "heard": "I have a new baseball.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I have a riding lesson today.": {
+  "cer": 0.087,
+  "file": "de9ec9fb1c9f.mp3",
+  "heard": "I have a writing lesson today.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I have a shower after football.": {
+  "cer": 0.0,
+  "file": "08142bbe541c.mp3",
+  "heard": "I have a shower after football.",
   "speaker": "kid",
   "tries": 1
  },
@@ -1909,6 +2602,13 @@
   "heard": "I have toast and jam for breakfast.",
   "speaker": "kid",
   "tries": 2
+ },
+ "I have two tickets for the football match.": {
+  "cer": 0.0,
+  "file": "e19aa939cc81.mp3",
+  "heard": "I have two tickets for the football match.",
+  "speaker": "kid",
+  "tries": 1
  },
  "I have yogurt with fruit.": {
   "cer": 0.0,
@@ -1973,10 +2673,31 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I love cycling in the park.": {
+  "cer": 0.0,
+  "file": "b2438c6431a8.mp3",
+  "heard": "I love cycling in the park.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I love my family.": {
   "cer": 0.0,
   "file": "77836062e951.mp3",
   "heard": "I love my family.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I love skiing with my family.": {
+  "cer": 0.0,
+  "file": "a3034364a1b3.mp3",
+  "heard": "I love skiing with my family.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I love swimming in the sea.": {
+  "cer": 0.0,
+  "file": "b36f9f71cef8.mp3",
+  "heard": "I love swimming in the sea.",
   "speaker": "kid",
   "tries": 1
  },
@@ -1998,6 +2719,13 @@
   "cer": 0.0,
   "file": "42e87021d3d8.mp3",
   "heard": "I need a new English dictionary.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I need a new pillow.": {
+  "cer": 0.0,
+  "file": "53130f0cd09b.mp3",
+  "heard": "I need a new pillow.",
   "speaker": "kid",
   "tries": 1
  },
@@ -2036,10 +2764,24 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I play table tennis with my brother.": {
+  "cer": 0.0,
+  "file": "03f07c48a580.mp3",
+  "heard": "I play table tennis with my brother.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I put butter on my bread.": {
   "cer": 0.0,
   "file": "fa3305711187.mp3",
   "heard": "I put butter on my bread!",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I run in the park every morning.": {
+  "cer": 0.0,
+  "file": "b1ab0a8e16e0.mp3",
+  "heard": "I run in the park every morning.",
   "speaker": "kid",
   "tries": 1
  },
@@ -2057,10 +2799,31 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I want to be a tennis player.": {
+  "cer": 0.0,
+  "file": "77372c56eb30.mp3",
+  "heard": "I want to be a tennis player.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want to be an explorer.": {
+  "cer": 0.0,
+  "file": "36da96d88f2d.mp3",
+  "heard": "I want to be an explorer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "I want to do a swimming course.": {
   "cer": 0.0,
   "file": "87890c098b9a.mp3",
   "heard": "I want to do a swimming course.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want to go to space.": {
+  "cer": 0.0,
+  "file": "f3028ccc9121.mp3",
+  "heard": "I want to go to space.",
   "speaker": "kid",
   "tries": 1
  },
@@ -2070,6 +2833,27 @@
   "heard": "I want to learn the piano.",
   "speaker": "kid",
   "tries": 2
+ },
+ "I want to learn to surf.": {
+  "cer": 0.0,
+  "file": "1eb073dabd0c.mp3",
+  "heard": "I want to learn to surf.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want to travel around the world.": {
+  "cer": 0.0,
+  "file": "6986633c540f.mp3",
+  "heard": "I want to travel around the world.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want to win the race!": {
+  "cer": 0.0,
+  "file": "67abc73ab0db.mp3",
+  "heard": "I want to win the race.",
+  "speaker": "kid",
+  "tries": 1
  },
  "I want tomato sauce on my chips.": {
   "cer": 0.0,
@@ -2183,11 +2967,25 @@
   "speaker": "kid",
   "tries": 1
  },
+ "I'm very tired after the race.": {
+  "cer": 0.0,
+  "file": "23485bc99d48.mp3",
+  "heard": "I'm very tired after the race.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "If you are lost, give somebody a call.": {
   "cer": 0.0,
   "file": "934931e43549.mp3",
   "heard": "If you are lost, give somebody a call.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "In America, football is called soccer.": {
+  "cer": 0.0,
+  "file": "dbd46cb85be4.mp3",
+  "heard": "In America, football is called soccer.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Is it cloudy in London today?": {
@@ -2204,6 +3002,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Is it safe to swim here?": {
+  "cer": 0.0,
+  "file": "65fa7bc3bad7.mp3",
+  "heard": "Is it safe to swim here?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Is it windy at the beach?": {
   "cer": 0.0,
   "file": "7ee0dc3731ec.mp3",
@@ -2216,6 +3021,13 @@
   "file": "70540ba311a4.mp3",
   "heard": "Is maths difficult for you?",
   "speaker": "adult",
+  "tries": 1
+ },
+ "Is the swimming pool open today?": {
+  "cer": 0.0,
+  "file": "a1459fd17955.mp3",
+  "heard": "is the swimming pool open today.",
+  "speaker": "narrator",
   "tries": 1
  },
  "Is your phone in your handbag?": {
@@ -2239,10 +3051,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "It snows a lot in the north.": {
+  "cer": 0.0,
+  "file": "a6a214e39fa9.mp3",
+  "heard": "It snows a lot in the north.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "It snows a lot in winter.": {
   "cer": 0.0,
   "file": "f827d54c8e53.mp3",
   "heard": "It snows a lot in winter.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It snows in winter.": {
+  "cer": 0.0,
+  "file": "3fe3ce77e546.mp3",
+  "heard": "It snows in winter.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2274,6 +3100,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "It's cold in the north.": {
+  "cer": 0.0,
+  "file": "97cd4841711a.mp3",
+  "heard": "It's cold in the north.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It's cold. Take a blanket.": {
+  "cer": 0.0,
+  "file": "eee4103bc7bd.mp3",
+  "heard": "It's cold, take a blanket.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It's cold. Turn on the heating.": {
+  "cer": 0.0,
+  "file": "fce3a6419450.mp3",
+  "heard": "It's cold turn on the heating.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "It's dark. Lily can't see.": {
   "cer": 0.0,
   "file": "3fb159df2437.mp3",
@@ -2301,6 +3148,20 @@
   "heard": "It's hot, wear your shorts.",
   "speaker": "adult",
   "tries": 1
+ },
+ "It's nine o'clock. Time for bed!": {
+  "cer": 0.0,
+  "file": "9bbd64605922.mp3",
+  "heard": "It's nine o'clock, time for bed.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It's red team v blue team.": {
+  "cer": 0.0,
+  "file": "18bc5b8a2684.mp3",
+  "heard": "It's Red Team v Blue Team.",
+  "speaker": "narrator",
+  "tries": 4
  },
  "It's sunny today. Let's go to the beach!": {
   "cer": 0.0,
@@ -2344,10 +3205,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "It's very hot in the desert.": {
+  "cer": 0.0,
+  "file": "9b7b5fdedc88.mp3",
+  "heard": "It's very hot in the desert.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "It's warm by the fire.": {
   "cer": 0.0,
   "file": "9a6cb587a891.mp3",
   "heard": "It's warm by the fire.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It's warm in the south.": {
+  "cer": 0.0,
+  "file": "d94aaf70fce1.mp3",
+  "heard": "It's warm in the south.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2357,6 +3232,13 @@
   "heard": "it's windy so let's fly a kite.",
   "speaker": "kid",
   "tries": 2
+ },
+ "Keep your money in a safe place.": {
+  "cer": 0.0,
+  "file": "03cdcf6b897a.mp3",
+  "heard": "Keep your money in a safe place.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "Let's bake some bread.": {
   "cer": 0.0,
@@ -2379,6 +3261,34 @@
   "speaker": "adult",
   "tries": 2
  },
+ "Let's go fishing on the lake.": {
+  "cer": 0.0,
+  "file": "6ccd6dbfc5b3.mp3",
+  "heard": "Let's go fishing on the lake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's go for a bike ride.": {
+  "cer": 0.0,
+  "file": "4fb4553c3307.mp3",
+  "heard": "Let's go for a bike ride.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's go home.": {
+  "cer": 0.0,
+  "file": "a097b0289da8.mp3",
+  "heard": "Let's go home.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Let's go to the pool!": {
+  "cer": 0.0,
+  "file": "877790bfd6b6.mp3",
+  "heard": "Let's go to the pool.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Let's have a barbecue on Sunday.": {
   "cer": 0.0,
   "file": "2575247dba43.mp3",
@@ -2390,6 +3300,13 @@
   "cer": 0.0,
   "file": "0cb1fc82e443.mp3",
   "heard": "Let's have a picnic in the park.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's have a race to the tree.": {
+  "cer": 0.0,
+  "file": "4367a23f5012.mp3",
+  "heard": "Let's have a race to the tree.",
   "speaker": "kid",
   "tries": 1
  },
@@ -2414,10 +3331,80 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Let's meet at the sports centre.": {
+  "cer": 0.0,
+  "file": "e99e175729c4.mp3",
+  "heard": "Let's meet at the Sports Center.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's plant some flowers.": {
+  "cer": 0.0,
+  "file": "990d54f5ceef.mp3",
+  "heard": "Let's plant some flowers",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's play a game!": {
+  "cer": 0.0,
+  "file": "c148421d7362.mp3",
+  "heard": "Let's play a game.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's play in the garden.": {
+  "cer": 0.0,
+  "file": "4af997c432eb.mp3",
+  "heard": "Let's play in the garden.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's play tennis in the park.": {
+  "cer": 0.0,
+  "file": "321f6645e226.mp3",
+  "heard": "Let's play tennis in the park.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's rest for five minutes.": {
+  "cer": 0.0,
+  "file": "49b426a4b9cf.mp3",
+  "heard": "Let's rest for five minutes",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Let's roast some potatoes.": {
   "cer": 0.0,
   "file": "0ae846a61cd7.mp3",
   "heard": "Let's roast some potatoes.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's swim in the sea.": {
+  "cer": 0.0,
+  "file": "776e7557871c.mp3",
+  "heard": "Let's swim in the sea.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's try snowboarding!": {
+  "cer": 0.0,
+  "file": "53428c429f5e.mp3",
+  "heard": "Let's try snowboarding.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's walk to school.": {
+  "cer": 0.0,
+  "file": "c86101d8d7e1.mp3",
+  "heard": "Let's walk to school!",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's watch a DVD tonight.": {
+  "cer": 0.0,
+  "file": "a14fd5ece674.mp3",
+  "heard": "Let's watch a DVD tonight.",
   "speaker": "kid",
   "tries": 1
  },
@@ -2460,6 +3447,13 @@
   "cer": 0.0,
   "file": "629903b24adb.mp3",
   "heard": "Lily can ride a horse.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily can swim very well.": {
+  "cer": 0.0,
+  "file": "586bf4732cf0.mp3",
+  "heard": "Lily can swim very well.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2547,6 +3541,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily fills the bathtub with water.": {
+  "cer": 0.0,
+  "file": "d244408cf3d4.mp3",
+  "heard": "Lily fills the bathtub with water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily finds a big strawberry in the garden.": {
   "cer": 0.0,
   "file": "0f8e4477be5a.mp3",
@@ -2579,6 +3580,13 @@
   "cer": 0.118,
   "file": "d78b2deae816.mp3",
   "heard": "Lily gives Dad a pair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily goes riding every Saturday.": {
+  "cer": 0.0,
+  "file": "8f192c2733f4.mp3",
+  "heard": "Lily goes riding every Saturday.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2785,6 +3793,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily is a member of the swimming club.": {
+  "cer": 0.0,
+  "file": "ceafed4026b5.mp3",
+  "heard": "Lily is a member of the swimming club",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is at home today.": {
+  "cer": 0.0,
+  "file": "90752b842a77.mp3",
+  "heard": "Lily is at home today.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Lily is ill. Her face is pale.": {
   "cer": 0.0,
   "file": "32c03440cb00.mp3",
@@ -2820,6 +3842,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily is the winner!": {
+  "cer": 0.0,
+  "file": "06be657e5e85.mp3",
+  "heard": "Lily is the winner.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily likes dinosaur books.": {
   "cer": 0.0,
   "file": "f702ce164836.mp3",
@@ -2831,6 +3860,13 @@
   "cer": 0.0,
   "file": "2d0b6b3644c3.mp3",
   "heard": "Lily likes pink flowers.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily likes to climb trees.": {
+  "cer": 0.0,
+  "file": "56351af6d6c0.mp3",
+  "heard": "Lily likes to climb trees.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -2918,6 +3954,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily picks a flower for Mum.": {
+  "cer": 0.0,
+  "file": "d6686981587a.mp3",
+  "heard": "Lily picks a flower for Mum?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily plays badminton with Dad.": {
+  "cer": 0.0,
+  "file": "0c36191342a0.mp3",
+  "heard": "Lily plays badminton with dad.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily plays hockey at school.": {
+  "cer": 0.0,
+  "file": "60b396a5d033.mp3",
+  "heard": "Lily plays hockey at school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily plays with her cousin at the party.": {
   "cer": 0.0,
   "file": "53005fc6131d.mp3",
@@ -3002,6 +4059,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily rides her bicycle to school.": {
+  "cer": 0.0,
+  "file": "be12f310ef3a.mp3",
+  "heard": "Lily rides her bicycle to school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily sends a photo to her penfriend.": {
   "cer": 0.0,
   "file": "296c64376a71.mp3",
@@ -3022,6 +4086,13 @@
   "heard": "Lily studies English at school.",
   "speaker": "narrator",
   "tries": 4
+ },
+ "Lily takes Max for a walk.": {
+  "cer": 0.0,
+  "file": "5237e32d44f4.mp3",
+  "heard": "Lily takes Max for a walk.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "Lily takes a sandwich to school.": {
   "cer": 0.0,
@@ -3093,6 +4164,13 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "Lily wants to enter the race.": {
+  "cer": 0.0,
+  "file": "4e3058f718fc.mp3",
+  "heard": "Lily wants to enter the race.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily wants to join the advanced class.": {
   "cer": 0.0,
   "file": "f171c12065e1.mp3",
@@ -3149,6 +4227,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily wins a painting competition.": {
+  "cer": 0.0,
+  "file": "5ebac7991b4b.mp3",
+  "heard": "Lily wins a painting competition.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wins first prize.": {
+  "cer": 0.0,
+  "file": "75f53e6a2145.mp3",
+  "heard": "Lily wins first prize.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily writes a note to Tom.": {
   "cer": 0.0,
   "file": "dd359d381585.mp3",
@@ -3181,6 +4273,13 @@
   "cer": 0.0,
   "file": "f2c408269eeb.mp3",
   "heard": "Lily's bag is pink.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's bedroom is small but nice.": {
+  "cer": 0.0,
+  "file": "d57410dfe99d.mp3",
+  "heard": "Lily's bedroom is small, but nice.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3219,6 +4318,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Lily's house has a red door.": {
+  "cer": 0.0,
+  "file": "6ab2313112d5.mp3",
+  "heard": "Lily's house has a red door.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Lily's neighbour is very friendly.": {
   "cer": 0.0,
   "file": "762a2e25df42.mp3",
@@ -3254,10 +4360,31 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Look at the birds in the sky.": {
+  "cer": 0.0,
+  "file": "83352bbf4977.mp3",
+  "heard": "Look at the birds in the sky.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Look at the blackboard, please.": {
   "cer": 0.0,
   "file": "56c8cc778360.mp3",
   "heard": "Look at the blackboard, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Look at the clock. We're late!": {
+  "cer": 0.0,
+  "file": "0dd6055cd87d.mp3",
+  "heard": "Look at the clock, we're late.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Look at the moon!": {
+  "cer": 0.0,
+  "file": "eba2581aba11.mp3",
+  "heard": "Look at the moon.",
   "speaker": "adult",
   "tries": 1
  },
@@ -3277,15 +4404,29 @@
  },
  "Look! A bee is flying near the flowers.": {
   "cer": 0.0,
-  "file": "893d537ab2a0.mp3",
+  "file": "66e363e8f324.mp3",
   "heard": "Look a bee is flying near the flowers",
-  "speaker": "narrator",
+  "speaker": "kid",
   "tries": 1
  },
  "Maths is Sam's favourite subject.": {
   "cer": 0.0,
   "file": "502183f5e62e.mp3",
   "heard": "Maths is Sam's favorite subject.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max can catch a ball in his mouth.": {
+  "cer": 0.0,
+  "file": "552152afcd48.mp3",
+  "heard": "Max can catch a ball in his mouth.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max can run very fast.": {
+  "cer": 0.0,
+  "file": "698180a22478.mp3",
+  "heard": "Max can run very fast.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3307,6 +4448,13 @@
   "cer": 0.0,
   "file": "70895fb507e7.mp3",
   "heard": "Max can't fly, but he can run fast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max doesn't like his bath.": {
+  "cer": 0.0,
+  "file": "37e8155ad445.mp3",
+  "heard": "Max doesn't like his bath.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3380,10 +4528,45 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Max is sleeping behind the curtain.": {
+  "cer": 0.0,
+  "file": "e9684e75a9f4.mp3",
+  "heard": "Max is sleeping behind the curtain.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is sleeping on the carpet.": {
+  "cer": 0.0,
+  "file": "0e2d37a4149e.mp3",
+  "heard": "Max is sleeping on the carpet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is sleeping on the sofa.": {
+  "cer": 0.0,
+  "file": "441410f5ec5f.mp3",
+  "heard": "Max is sleeping on the sofa.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Max is thirsty after the walk.": {
   "cer": 0.0,
   "file": "a820b4c0c12d.mp3",
   "heard": "Max is thirsty after the walk",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is tired after his walk.": {
+  "cer": 0.0,
+  "file": "6a3dab269359.mp3",
+  "heard": "Max is tired after his walk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is waiting at the door.": {
+  "cer": 0.0,
+  "file": "6d7bbe693f8a.mp3",
+  "heard": "Max is waiting at the door",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3408,6 +4591,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Max looks in the bin for food.": {
+  "cer": 0.0,
+  "file": "9457bbe109ba.mp3",
+  "heard": "Max looks in the bin for food.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Max loves his food.": {
   "cer": 0.0,
   "file": "24cc2de4513b.mp3",
@@ -3426,6 +4616,62 @@
   "cer": 0.0,
   "file": "86d3ca60fd1e.mp3",
   "heard": "Max loves running in the snow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max loves running on the beach.": {
+  "cer": 0.0,
+  "file": "51cb8fce8b1a.mp3",
+  "heard": "Max loves running on the beach.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max plays in the garden.": {
+  "cer": 0.0,
+  "file": "3cf874235cb4.mp3",
+  "heard": "Max plays in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max runs after the ball.": {
+  "cer": 0.0,
+  "file": "ef1eeea680b0.mp3",
+  "heard": "Max runs after the ball.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max sits in Dad's armchair.": {
+  "cer": 0.0,
+  "file": "64781af6fd1d.mp3",
+  "heard": "Max sits in dad's armchair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max sleeps on Lily's bed.": {
+  "cer": 0.0,
+  "file": "fb11cb773021.mp3",
+  "heard": "Max sleeps on Lily's bed.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max sleeps on my pillow!": {
+  "cer": 0.0,
+  "file": "572f5bf9e1a0.mp3",
+  "heard": "Max sleeps on my pillow.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Max sleeps on the floor.": {
+  "cer": 0.0,
+  "file": "17b9c77f18d5.mp3",
+  "heard": "Max sleeps on the floor.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max sleeps under a blanket.": {
+  "cer": 0.0,
+  "file": "25ac02818533.mp3",
+  "heard": "Max sleeps under a blanket.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3590,6 +4836,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Mum has a key to the garage.": {
+  "cer": 0.0,
+  "file": "b2f607efcf6d.mp3",
+  "heard": "Mum has a key to the garage.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Mum has a silver chain.": {
   "cer": 0.0,
   "file": "50f8416dcc65.mp3",
@@ -3660,6 +4913,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Mum plays tennis on Sunday.": {
+  "cer": 0.0,
+  "file": "4d9d3829f3ac.mp3",
+  "heard": "Mum plays tennis on Sunday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Mum puts garlic in the pasta sauce.": {
   "cer": 0.0,
   "file": "1492df627e27.mp3",
@@ -3671,6 +4931,13 @@
   "cer": 0.0,
   "file": "7c7c895288b1.mp3",
   "heard": "Mum puts the apples in a bag.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum puts the bread in the oven.": {
+  "cer": 0.0,
+  "file": "b08fbbe50651.mp3",
+  "heard": "Mum puts the bread in the oven.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -3758,6 +5025,27 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My aunt lives in an apartment.": {
+  "cer": 0.0,
+  "file": "c57b1845423a.mp3",
+  "heard": "My aunt lives in an apartment.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My bed is next to the window.": {
+  "cer": 0.0,
+  "file": "a91939e0ec07.mp3",
+  "heard": "My bed is next to the window.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My bicycle is blue.": {
+  "cer": 0.0,
+  "file": "644a10d913ce.mp3",
+  "heard": "My bicycle is blue.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "My bookshelf is full.": {
   "cer": 0.0,
   "file": "38366a4e1ac6.mp3",
@@ -3825,6 +5113,13 @@
   "cer": 0.0,
   "file": "5122b8c92a93.mp3",
   "heard": "My cousin loves fashion.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin loves snowboarding.": {
+  "cer": 0.0,
+  "file": "4d02a2840e4f.mp3",
+  "heard": "My cousin loves snowboarding",
   "speaker": "kid",
   "tries": 1
  },
@@ -3912,6 +5207,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My grandparents live near the sea.": {
+  "cer": 0.0,
+  "file": "48a593118da9.mp3",
+  "heard": "My grandparents live near the sea.",
+  "speaker": "kid",
+  "tries": 2
+ },
  "My granny loves gardening.": {
   "cer": 0.0,
   "file": "caaaf39d6114.mp3",
@@ -3995,6 +5297,20 @@
   "heard": "My phone is in my pocket.",
   "speaker": "kid",
   "tries": 1
+ },
+ "My pillow is very soft.": {
+  "cer": 0.0,
+  "file": "06460e9253ff.mp3",
+  "heard": "My pillow is very soft.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My racket is new.": {
+  "cer": 0.0,
+  "file": "7e0ac437ea1c.mp3",
+  "heard": "My racket is new.",
+  "speaker": "kid",
+  "tries": 2
  },
  "My raincoat is wet.": {
   "cer": 0.0,
@@ -4080,6 +5396,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "My snowboard is in the car.": {
+  "cer": 0.0,
+  "file": "a98c55449ba7.mp3",
+  "heard": "My snowboard is in the car.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My socks are in this drawer.": {
+  "cer": 0.0,
+  "file": "1e6852982a16.mp3",
+  "heard": "My socks are in this drawer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "My surname is Smith.": {
   "cer": 0.0,
   "file": "21eaeb6d34c3.mp3",
@@ -4098,6 +5428,13 @@
   "cer": 0.0,
   "file": "2b32ccf565a7.mp3",
   "heard": "My tights are too small.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My towel is wet.": {
+  "cer": 0.0,
+  "file": "d7fdb023eaf6.mp3",
+  "heard": "My towel is wet.",
   "speaker": "kid",
   "tries": 1
  },
@@ -4143,10 +5480,45 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Open the curtains. It's sunny!": {
+  "cer": 0.0,
+  "file": "7766c69a0eae.mp3",
+  "heard": "Open the curtains. It's sunny.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Open the top drawer.": {
+  "cer": 0.0,
+  "file": "7d72b55508c3.mp3",
+  "heard": "open the top drawer.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Open the window and let in some air.": {
+  "cer": 0.0,
+  "file": "0d708f811af0.mp3",
+  "heard": "Open the window and let in some air.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Our DVD player is very old.": {
+  "cer": 0.0,
+  "file": "f140b9679aa6.mp3",
+  "heard": "Our DVD player is very old.",
+  "speaker": "kid",
+  "tries": 3
+ },
  "Our English class starts at nine.": {
   "cer": 0.0,
   "file": "5579ef0f4d10.mp3",
   "heard": "Our English class starts at 9.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our bathroom is blue and white.": {
+  "cer": 0.0,
+  "file": "7d175a5c8687.mp3",
+  "heard": "Our bathroom is blue and white.",
   "speaker": "kid",
   "tries": 1
  },
@@ -4171,10 +5543,38 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Our cooker uses gas.": {
+  "cer": 0.0,
+  "file": "71a059aaee42.mp3",
+  "heard": "Our cooker uses gas.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our dining room has a big table.": {
+  "cer": 0.0,
+  "file": "7d3cb99fed34.mp3",
+  "heard": "Our dining room has a big table",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Our first lesson is maths.": {
   "cer": 0.0,
   "file": "65df83eb5d19.mp3",
   "heard": "Our first lesson is Maths.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our flat is on the second floor.": {
+  "cer": 0.0,
+  "file": "443e192b8f81.mp3",
+  "heard": "Our flat is on the second floor.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our football club meets on Friday.": {
+  "cer": 0.0,
+  "file": "0c88b4cae4a5.mp3",
+  "heard": "Our football club meets on Friday",
   "speaker": "kid",
   "tries": 1
  },
@@ -4192,6 +5592,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Our heating doesn't work.": {
+  "cer": 0.0,
+  "file": "720d2fc1cce8.mp3",
+  "heard": "Our heating doesn't work.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our house has a red roof.": {
+  "cer": 0.0,
+  "file": "6bf6bcd01ade.mp3",
+  "heard": "Our house has a red roof.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Our neighbour has a big garden.": {
   "cer": 0.0,
   "file": "cf806c43b380.mp3",
@@ -4203,6 +5617,13 @@
   "cer": 0.0,
   "file": "54efed91d879.mp3",
   "heard": "Our neighbor has a cat.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our new address is 7 Park Road.": {
+  "cer": 0.0,
+  "file": "0c70d040deb0.mp3",
+  "heard": "Our new address is 7 Park Road.",
   "speaker": "kid",
   "tries": 1
  },
@@ -4220,10 +5641,24 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Our team always wins.": {
+  "cer": 0.0,
+  "file": "2712c1bb3dae.mp3",
+  "heard": "Our team always wins.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Our team has a new red kit.": {
   "cer": 0.0,
   "file": "cb23a7df45e5.mp3",
   "heard": "Our team has a new red kit.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our team wins the match!": {
+  "cer": 0.0,
+  "file": "d4c76b75b9c0.mp3",
+  "heard": "Our team wins the match.",
   "speaker": "kid",
   "tries": 1
  },
@@ -4262,6 +5697,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Plants grow in the sun.": {
+  "cer": 0.0,
+  "file": "d6958e20e0db.mp3",
+  "heard": "Plants grow in the sun.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Please be quiet during the examination.": {
   "cer": 0.0,
   "file": "4cd02bc0ea92.mp3",
@@ -4276,6 +5718,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Please close the door.": {
+  "cer": 0.0,
+  "file": "1dcf0e1fd643.mp3",
+  "heard": "Please close the door.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Please don't break my new toy.": {
   "cer": 0.0,
   "file": "d1c5b0999b92.mp3",
@@ -4283,11 +5732,18 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Please enter the room quietly.": {
+  "cer": 0.0,
+  "file": "e6d7a1205ffa.mp3",
+  "heard": "Please enter the room quietly.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Please turn off the light.": {
   "cer": 0.0,
-  "file": "7ab462e2ac97.mp3",
+  "file": "00807e4a6cfd.mp3",
   "heard": "Please turn off the light.",
-  "speaker": "narrator",
+  "speaker": "adult",
   "tries": 1
  },
  "Practise your English with a friend.": {
@@ -4381,6 +5837,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Put the DVD in the DVD player.": {
+  "cer": 0.087,
+  "file": "c036155c2108.mp3",
+  "heard": "Put the DD in the DD player.",
+  "speaker": "adult",
+  "tries": 2
+ },
  "Put the books on the bookshelf.": {
   "cer": 0.0,
   "file": "add6e7583bc0.mp3",
@@ -4399,6 +5862,20 @@
   "cer": 0.0,
   "file": "bc36bc1c8a2c.mp3",
   "heard": "Put the cake on a plate.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the cups on the top shelf.": {
+  "cer": 0.0,
+  "file": "b90d281e07d4.mp3",
+  "heard": "Put the cups on the top shelf.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the dictionary in the bookcase.": {
+  "cer": 0.0,
+  "file": "90be26e89efd.mp3",
+  "heard": "Put the dictionary in the bookcase.",
   "speaker": "adult",
   "tries": 1
  },
@@ -4430,6 +5907,27 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Put the milk in the refrigerator.": {
+  "cer": 0.0,
+  "file": "022c5bf0051c.mp3",
+  "heard": "put the milk in the refrigerator.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the paper in the bin.": {
+  "cer": 0.0,
+  "file": "92ae29ed5c7b.mp3",
+  "heard": "put the paper in the bin.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the rubbish in the bin.": {
+  "cer": 0.0,
+  "file": "76739be67a2a.mp3",
+  "heard": "Put the rubbish in the bin.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Put your bathing suit in your bag.": {
   "cer": 0.0,
   "file": "59b0d0c0a070.mp3",
@@ -4458,12 +5956,26 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Put your shoes in the hall.": {
+  "cer": 0.095,
+  "file": "a95b360bf7ce.mp3",
+  "heard": "Put your shoes in the hole.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Put your swimsuit in your bag.": {
   "cer": 0.0,
   "file": "3e174e906d50.mp3",
   "heard": "Put your swimsuit in your bag.",
   "speaker": "adult",
   "tries": 1
+ },
+ "Put your toys in the cupboard.": {
+  "cer": 0.0,
+  "file": "e049ec90c160.mp3",
+  "heard": "Put your toys in the cupboard.",
+  "speaker": "adult",
+  "tries": 2
  },
  "Rabbits like carrots.": {
   "cer": 0.0,
@@ -4486,6 +5998,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Riding is my favourite sport.": {
+  "cer": 0.0,
+  "file": "c6cab07d5124.mp3",
+  "heard": "Riding is my favorite sport.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Ring Grandma and say thank you.": {
   "cer": 0.0,
   "file": "4c4d34c38467.mp3",
@@ -4493,10 +6012,52 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Rugby balls are not round.": {
+  "cer": 0.0,
+  "file": "eaa5a883cf5a.mp3",
+  "heard": "Rugby balls are not round.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Run to the gate!": {
+  "cer": 0.0,
+  "file": "668aafdfb4a0.mp3",
+  "heard": "run to the gate",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Sailing is fun on a windy day.": {
+  "cer": 0.0,
+  "file": "47b07c3b76a1.mp3",
+  "heard": "Sailing is fun on a windy day.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam has a new cricket bat.": {
+  "cer": 0.0,
+  "file": "b41c73526b30.mp3",
+  "heard": "Sam has a new cricket bat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam has a new skateboard.": {
+  "cer": 0.0,
+  "file": "f57bc6c27ad5.mp3",
+  "heard": "Sam has a new skateboard.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Sam has a red cap.": {
   "cer": 0.0,
   "file": "a1ec0805ef0f.mp3",
   "heard": "Sam has a red cap.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam has a red snowboard.": {
+  "cer": 0.0,
+  "file": "af0ce51b87f1.mp3",
+  "heard": "Sam has a red snowboard.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4528,6 +6089,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Sam plays baseball on Saturdays.": {
+  "cer": 0.0,
+  "file": "bbeedfce69f6.mp3",
+  "heard": "Sam plays baseball on Saturdays.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Sam plays rugby at school.": {
+  "cer": 0.0,
+  "file": "cadfce297785.mp3",
+  "heard": "Sam plays rugby at school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam wants to be a football player.": {
+  "cer": 0.0,
+  "file": "ea7626dc153d.mp3",
+  "heard": "Sam wants to be a football player.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Sam wants to go to university.": {
   "cer": 0.0,
   "file": "d087d2752ac7.mp3",
@@ -4556,6 +6138,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "School starts in autumn.": {
+  "cer": 0.0,
+  "file": "bb1a578f1051.mp3",
+  "heard": "School starts in autumn.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Science is fun!": {
   "cer": 0.0,
   "file": "71d8c9bd9018.mp3",
@@ -4569,6 +6158,20 @@
   "heard": "She has red tights.",
   "speaker": "narrator",
   "tries": 1
+ },
+ "She is a famous film star.": {
+  "cer": 0.0,
+  "file": "44cfd5dd19e7.mp3",
+  "heard": "She is a famous film star.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "She is a famous tennis player.": {
+  "cer": 0.0,
+  "file": "2ae03499207e.mp3",
+  "heard": "She is a famous tennis player.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "She reads fashion magazines.": {
   "cer": 0.0,
@@ -4584,10 +6187,38 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Sit on the chair, please.": {
+  "cer": 0.0,
+  "file": "afa844edb2ff.mp3",
+  "heard": "Sit on the chair, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Skiing is great fun.": {
+  "cer": 0.0,
+  "file": "df623e7bf4b0.mp3",
+  "heard": "Skiing is great fun.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Snow is white.": {
   "cer": 0.0,
   "file": "58240d4f5587.mp3",
   "heard": "Snow is white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Snowboarding is exciting.": {
+  "cer": 0.0,
+  "file": "e57a8d560d26.mp3",
+  "heard": "Snowboarding is exciting.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Soccer is popular all over the world.": {
+  "cer": 0.0,
+  "file": "3df221db1dab.mp3",
+  "heard": "Soccer is popular all over the world.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4598,10 +6229,38 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Someone is at the door.": {
+  "cer": 0.0,
+  "file": "e2251adbce50.mp3",
+  "heard": "Someone is at the door.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sport is good for you.": {
+  "cer": 0.0,
+  "file": "47b8527526e8.mp3",
+  "heard": "Sport is good for you.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Spring is a warm season.": {
+  "cer": 0.0,
+  "file": "6dbeb2f5a26a.mp3",
+  "heard": "Spring is a warm season.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Stay at home in a storm.": {
   "cer": 0.0,
   "file": "28ab810c7b91.mp3",
   "heard": "Stay at home in a storm.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Stay here. I'll come back.": {
+  "cer": 0.0,
+  "file": "79394aca66a7.mp3",
+  "heard": "Stay here. I'll come back",
   "speaker": "adult",
   "tries": 1
  },
@@ -4617,6 +6276,41 @@
   "file": "24210a0c4f1d.mp3",
   "heard": "Strawberries are red.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Summer is hot.": {
+  "cer": 0.0,
+  "file": "f46d3cfc72e3.mp3",
+  "heard": "Summer is hot!",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Surfboarding is fun in the summer.": {
+  "cer": 0.0,
+  "file": "ebca6bcc1b96.mp3",
+  "heard": "Surfboarding is fun in the summer.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Swimming is good exercise.": {
+  "cer": 0.0,
+  "file": "d4cb83efcdfb.mp3",
+  "heard": "Swimming is good exercise.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Table tennis is popular in China.": {
+  "cer": 0.0,
+  "file": "5782b5b1fa17.mp3",
+  "heard": "Table tennis is popular in China.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Take a towel to the beach.": {
+  "cer": 0.0,
+  "file": "e5a5698f8fbd.mp3",
+  "heard": "Take a towel to the beach.",
+  "speaker": "adult",
   "tries": 1
  },
  "Take an umbrella. It's going to rain.": {
@@ -4661,11 +6355,39 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Tennis is my favourite sport.": {
+  "cer": 0.0,
+  "file": "e912c8abb59f.mp3",
+  "heard": "Tennis is my favorite sport.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "Thank you, Mrs Smith!": {
   "cer": 0.0,
   "file": "a537dcde009b.mp3",
   "heard": "Thank you, Mrs. Smith.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "The DVD player doesn't work.": {
+  "cer": 0.045,
+  "file": "f8a4c7f390fc.mp3",
+  "heard": "The DoD player doesn't work.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "The air is fresh in the mountains.": {
+  "cer": 0.0,
+  "file": "671b1ddef7e2.mp3",
+  "heard": "The air is fresh in the mountains.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The apartment is on the fifth floor.": {
+  "cer": 0.0,
+  "file": "2842bfefaee8.mp3",
+  "heard": "The apartment is on the fifth floor.",
+  "speaker": "narrator",
   "tries": 1
  },
  "The baby bear is eating honey.": {
@@ -4679,6 +6401,48 @@
   "cer": 0.0,
   "file": "f46019d03130.mp3",
   "heard": "The baby is hungry.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The baby is safe in her bed.": {
+  "cer": 0.0,
+  "file": "11174853dbeb.mp3",
+  "heard": "The baby is safe in her bed.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The ball is in the goal.": {
+  "cer": 0.0,
+  "file": "69ab61bab63f.mp3",
+  "heard": "The ball is in the goal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bath is full of water.": {
+  "cer": 0.0,
+  "file": "8404699b8d9a.mp3",
+  "heard": "The bath is full of water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bathroom is upstairs.": {
+  "cer": 0.0,
+  "file": "3f864d34bc9d.mp3",
+  "heard": "The bathroom is upstairs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bathtub is white.": {
+  "cer": 0.0,
+  "file": "f78645aa773e.mp3",
+  "heard": "The bathtub is white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The beach is very busy today.": {
+  "cer": 0.0,
+  "file": "a7d316dc6e67.mp3",
+  "heard": "The beach is very busy today.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4703,10 +6467,45 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The bikes are in the garage.": {
+  "cer": 0.0,
+  "file": "825c6d1deef0.mp3",
+  "heard": "The bikes are in the garage.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bin is full.": {
+  "cer": 0.0,
+  "file": "864b01c10f25.mp3",
+  "heard": "The bin is full!",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The bird can sing.": {
   "cer": 0.0,
   "file": "5b6f03646226.mp3",
   "heard": "The bird can sing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The boat is red and white.": {
+  "cer": 0.0,
+  "file": "4cdebd8fc82a.mp3",
+  "heard": "The boat is red and white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bookcase is full of books.": {
+  "cer": 0.0,
+  "file": "bfdee3f59385.mp3",
+  "heard": "The bookcase is full of books.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The books are on the shelf.": {
+  "cer": 0.0,
+  "file": "860da3b5332d.mp3",
+  "heard": "The books are on the shelf.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4749,6 +6548,13 @@
   "cer": 0.0,
   "file": "ad1b68705a59.mp3",
   "heard": "The cake is in a box.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cake is in the oven.": {
+  "cer": 0.0,
+  "file": "eb8fab0a2cc9.mp3",
+  "heard": "The cake is in the oven.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4829,10 +6635,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The children play in the field.": {
+  "cer": 0.0,
+  "file": "cc93a0f283a6.mp3",
+  "heard": "The children play in the field.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The children swim in the pool.": {
+  "cer": 0.0,
+  "file": "93776190435a.mp3",
+  "heard": "The children swim in the pool.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The classroom has big windows.": {
   "cer": 0.0,
   "file": "dc01f6e4b96f.mp3",
   "heard": "The classroom has big windows.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The clock says seven o'clock.": {
+  "cer": 0.0,
+  "file": "fe4a8029fdf4.mp3",
+  "heard": "The clock says seven o'clock.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4857,6 +6684,20 @@
   "speaker": "kid",
   "tries": 1
  },
+ "The computer is in my bedroom.": {
+  "cer": 0.0,
+  "file": "06600bdb946c.mp3",
+  "heard": "The computer is in my bedroom",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The countryside is very quiet.": {
+  "cer": 0.0,
+  "file": "d3e7d717993f.mp3",
+  "heard": "The countryside is very quiet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The course is ten weeks long.": {
   "cer": 0.0,
   "file": "c986beccdec4.mp3",
@@ -4878,10 +6719,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The cupboard is next to the sink.": {
+  "cer": 0.0,
+  "file": "3f380c2bf409.mp3",
+  "heard": "The cupboard is next to the sink.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The cups are in a big box.": {
   "cer": 0.0,
   "file": "b626475e5210.mp3",
   "heard": "The cups are in a big box.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cups are in the cupboard.": {
+  "cer": 0.0,
+  "file": "fca55daa5c6e.mp3",
+  "heard": "The cups are in the cupboard.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The dining room is next to the kitchen.": {
+  "cer": 0.0,
+  "file": "713a7f9698d1.mp3",
+  "heard": "The dining room is next to the kitchen.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4927,6 +6789,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The entrance is at the front of the house.": {
+  "cer": 0.0,
+  "file": "2c203d802173.mp3",
+  "heard": "The entrance is at the front of the house.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The examination is on Friday.": {
   "cer": 0.0,
   "file": "5a5a55c87bda.mp3",
@@ -4934,10 +6803,52 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The explorer finds a new island.": {
+  "cer": 0.0,
+  "file": "8a301c96c132.mp3",
+  "heard": "The explorer finds a new island.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The explorer walks into the forest.": {
+  "cer": 0.0,
+  "file": "3ebdd1323ff2.mp3",
+  "heard": "The explorer walks into the forest.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The fire is very hot.": {
+  "cer": 0.0,
+  "file": "8c8e1670402e.mp3",
+  "heard": "The fire is very hot.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The football player scores a goal.": {
+  "cer": 0.0,
+  "file": "897521957d3c.mp3",
+  "heard": "the football player scores a goal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The forest is dark at night.": {
+  "cer": 0.0,
+  "file": "f0792e930d7b.mp3",
+  "heard": "The forest is dark at night.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The frog lives near the water.": {
   "cer": 0.0,
   "file": "4001baeef8fa.mp3",
   "heard": "The frog lives near the water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The gate is open.": {
+  "cer": 0.0,
+  "file": "3a2286044e0d.mp3",
+  "heard": "The gate is open.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -4983,6 +6894,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The grass is wet in the morning.": {
+  "cer": 0.0,
+  "file": "8645fbc8eda7.mp3",
+  "heard": "The grass is wet in the morning.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The green frog can jump.": {
   "cer": 0.0,
   "file": "7be3b6068310.mp3",
@@ -4994,6 +6912,20 @@
   "cer": 0.0,
   "file": "b2004108645f.mp3",
   "heard": "The guest sits next to Grandma.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The heating is on.": {
+  "cer": 0.0,
+  "file": "287e62d663ca.mp3",
+  "heard": "The heating is on.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The hill is very high.": {
+  "cer": 0.0,
+  "file": "502fd737ae1f.mp3",
+  "heard": "The hill is very high.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5011,6 +6943,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The island has beautiful beaches.": {
+  "cer": 0.0,
+  "file": "15cbee8c77e3.mp3",
+  "heard": "The island has beautiful beaches.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The kangaroo has a baby.": {
   "cer": 0.0,
   "file": "de56a1ddab21.mp3",
@@ -5025,6 +6964,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The key is in the door.": {
+  "cer": 0.0,
+  "file": "0c5e03711969.mp3",
+  "heard": "The key is in the door.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The king has a golden chair.": {
   "cer": 0.0,
   "file": "3080cd3b6643.mp3",
@@ -5036,6 +6982,13 @@
   "cer": 0.0,
   "file": "364fc1eb1581.mp3",
   "heard": "The kitchen is big and light.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kitchen is downstairs.": {
+  "cer": 0.0,
+  "file": "c35583e3ea86.mp3",
+  "heard": "The kitchen is downstairs.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5057,6 +7010,27 @@
   "cer": 0.0,
   "file": "9323fed6a6ee.mp3",
   "heard": "The kitten is sleeping in a box",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The lake is very cold.": {
+  "cer": 0.0,
+  "file": "63025fd5d5f7.mp3",
+  "heard": "The lake is very cold.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The lamp is very bright.": {
+  "cer": 0.0,
+  "file": "7e6e1cbe6270.mp3",
+  "heard": "The lamp is very bright.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The leaves are red and brown in autumn.": {
+  "cer": 0.0,
+  "file": "8b1f0dbbd545.mp3",
+  "heard": "The leaves are red and brown in autumn.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5085,6 +7059,13 @@
   "cer": 0.0,
   "file": "b7d608d415f8.mp3",
   "heard": "The lion is very strong.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The living room is very big.": {
+  "cer": 0.0,
+  "file": "1f5541e29a67.mp3",
+  "heard": "The living room is very big.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5151,6 +7132,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The moon is bright tonight.": {
+  "cer": 0.0,
+  "file": "a101b72c5256.mp3",
+  "heard": "The moon is bright tonight.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The moon is round tonight.": {
+  "cer": 0.0,
+  "file": "7cc9c3eb50f7.mp3",
+  "heard": "The moon is round tonight.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The moon looks silver.": {
   "cer": 0.0,
   "file": "e9aab99162d6.mp3",
@@ -5186,6 +7181,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The new stadium is very big.": {
+  "cer": 0.0,
+  "file": "815af63299f6.mp3",
+  "heard": "The new stadium is very big.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The new term starts in September.": {
   "cer": 0.0,
   "file": "22460dbdedb7.mp3",
@@ -5197,6 +7199,13 @@
   "cer": 0.0,
   "file": "59f6b62233d4.mp3",
   "heard": "The night sky is black.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The oven is very hot. Be careful!": {
+  "cer": 0.0,
+  "file": "10b8649f8411.mp3",
+  "heard": "The oven is very hot, be careful.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5221,10 +7230,24 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The phone is in the hall.": {
+  "cer": 0.0,
+  "file": "5c3e928824e2.mp3",
+  "heard": "The phone is in the hall.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The phone is ringing.": {
   "cer": 0.0,
   "file": "02f20a588858.mp3",
   "heard": "The phone is ringing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The plates are in the sink.": {
+  "cer": 0.0,
+  "file": "6b95de8de502.mp3",
+  "heard": "The plates are in the sink.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5234,6 +7257,20 @@
   "heard": "The polar bear is swimming in the cold sea.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "The pool is very cold today.": {
+  "cer": 0.0,
+  "file": "3c8d8e063f0a.mp3",
+  "heard": "The pool is very cold today.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The prize is a new bike.": {
+  "cer": 0.0,
+  "file": "31d735342184.mp3",
+  "heard": "The prize is a new bike.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "The pupils are reading.": {
   "cer": 0.0,
@@ -5267,6 +7304,34 @@
   "cer": 0.0,
   "file": "752d4240c002.mp3",
   "heard": "The rabbit is eating a carrot",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The race starts at ten o'clock.": {
+  "cer": 0.0,
+  "file": "ab6434525fd7.mp3",
+  "heard": "The race starts at 10 o'clock.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The rain is on the roof.": {
+  "cer": 0.0,
+  "file": "6f722838dc6b.mp3",
+  "heard": "The rain is on the roof.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The refrigerator is full of food.": {
+  "cer": 0.0,
+  "file": "9cbae5f0e32a.mp3",
+  "heard": "The refrigerator is full of food.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The river is very long.": {
+  "cer": 0.0,
+  "file": "f95dee5c5e4b.mp3",
+  "heard": "The river is very long.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5312,6 +7377,48 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The shelf is too high for Tom.": {
+  "cer": 0.0,
+  "file": "321f936b84c2.mp3",
+  "heard": "The shelf is too high for Tom.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The shower is very hot.": {
+  "cer": 0.0,
+  "file": "1beba07c756e.mp3",
+  "heard": "The shower is very hot.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sink is full of water.": {
+  "cer": 0.0,
+  "file": "b709eebbc523.mp3",
+  "heard": "The sink is full of water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sitting room has a fire.": {
+  "cer": 0.0,
+  "file": "431326fdaaee.mp3",
+  "heard": "The sitting room has a fire.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The skateboard is very fast.": {
+  "cer": 0.0,
+  "file": "67ffc99f2df3.mp3",
+  "heard": "The skateboard is very fast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sky is blue and clear.": {
+  "cer": 0.0,
+  "file": "f0daa795e618.mp3",
+  "heard": "The sky is blue and clear.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The sky is blue.": {
   "cer": 0.0,
   "file": "b04519d5952c.mp3",
@@ -5354,6 +7461,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The spoons are in the drawer.": {
+  "cer": 0.0,
+  "file": "0920b016f347.mp3",
+  "heard": "The spoons are in the drawer.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sports centre opens at nine.": {
+  "cer": 0.0,
+  "file": "403fb5a53c63.mp3",
+  "heard": "The sports center opens at 9.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "The stadium is full of people.": {
+  "cer": 0.0,
+  "file": "a4987ff2b344.mp3",
+  "heard": "The stadium is full of people.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The storm is very loud.": {
   "cer": 0.0,
   "file": "7d92beaea114.mp3",
@@ -5368,10 +7496,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The summer holidays are long.": {
+  "cer": 0.0,
+  "file": "4e5384b366ad.mp3",
+  "heard": "The summer holidays are long.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sun comes up in the east.": {
+  "cer": 0.0,
+  "file": "bfc812c9b90e.mp3",
+  "heard": "The sun comes up in the east.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The sun goes down in the evening.": {
   "cer": 0.0,
   "file": "8e820fd1d540.mp3",
   "heard": "The sun goes down in the evening.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sun goes down in the west.": {
+  "cer": 0.0,
+  "file": "2712701feff8.mp3",
+  "heard": "The sun goes down in the west.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5403,10 +7552,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The surfboard is very long.": {
+  "cer": 0.0,
+  "file": "eff58b00c30b.mp3",
+  "heard": "The surfboard is very long.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The swan is swimming on the lake.": {
   "cer": 0.0,
   "file": "436a888e822c.mp3",
   "heard": "The swan is swimming on the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The swimming pool is near my school.": {
+  "cer": 0.0,
+  "file": "a1249eb36d9c.mp3",
+  "heard": "The swimming pool is near my school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The table is made of wood.": {
+  "cer": 0.0,
+  "file": "336aecb2989a.mp3",
+  "heard": "The table is made of wood.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5431,6 +7601,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The tennis player hits the ball hard.": {
+  "cer": 0.0,
+  "file": "f5a36d456201.mp3",
+  "heard": "The tennis player hits the ball hard.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The test is very easy.": {
   "cer": 0.0,
   "file": "aa87f003bd6a.mp3",
@@ -5449,6 +7626,13 @@
   "cer": 0.0,
   "file": "fb90179002df.mp3",
   "heard": "The tiger is sleeping under the tree.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The toilet is upstairs.": {
+  "cer": 0.0,
+  "file": "2f59cbeba150.mp3",
+  "heard": "The toilet is upstairs.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5501,6 +7685,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The water is very cold.": {
+  "cer": 0.0,
+  "file": "c9f093ff1ea0.mp3",
+  "heard": "The water is very cold.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The weather is nice today.": {
   "cer": 0.0,
   "file": "4e7c9dd99dba.mp3",
@@ -5536,6 +7727,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "The winner gets a prize.": {
+  "cer": 0.0,
+  "file": "3d9b932f196a.mp3",
+  "heard": "The winner gets a prize.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "The zebra lives in Africa.": {
   "cer": 0.0,
   "file": "44411e5cf447.mp3",
@@ -5547,6 +7745,13 @@
   "cer": 0.0,
   "file": "0a7dfa035e7b.mp3",
   "heard": "The zoo opens at 9 o'clock.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Their apartment has two bedrooms.": {
+  "cer": 0.0,
+  "file": "9ddec069dbc8.mp3",
+  "heard": "Their apartment has two bedrooms.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5564,6 +7769,41 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "There are cows in the field.": {
+  "cer": 0.0,
+  "file": "4c75231b479e.mp3",
+  "heard": "There are cows in the field.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are ducks on the lake.": {
+  "cer": 0.0,
+  "file": "cbf30494a02d.mp3",
+  "heard": "There are ducks on the lake.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "There are eleven players in a football team.": {
+  "cer": 0.0,
+  "file": "15baf98cdd25.mp3",
+  "heard": "There are 11 players in a football team.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are eleven players in a team.": {
+  "cer": 0.0,
+  "file": "4144bba2441e.mp3",
+  "heard": "There are 11 players in a team.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are fish in the river.": {
+  "cer": 0.0,
+  "file": "cc733e1d5ac9.mp3",
+  "heard": "There are fish in the river.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "There are five people in my family.": {
   "cer": 0.0,
   "file": "23b7660b9b7c.mp3",
@@ -5571,11 +7811,53 @@
   "speaker": "kid",
   "tries": 1
  },
+ "There are four chairs in the kitchen.": {
+  "cer": 0.0,
+  "file": "78682fd4a445.mp3",
+  "heard": "There are four chairs in the kitchen.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are lots of flowers in the garden.": {
+  "cer": 0.0,
+  "file": "08bc6249d11b.mp3",
+  "heard": "There are lots of flowers in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are lots of stars tonight.": {
+  "cer": 0.0,
+  "file": "3f9ccc65901e.mp3",
+  "heard": "There are lots of stars tonight.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are many countries in the world.": {
+  "cer": 0.0,
+  "file": "5eb8731a4954.mp3",
+  "heard": "There are many countries in the world.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There are many stars in space.": {
+  "cer": 0.0,
+  "file": "e693be78a1f5.mp3",
+  "heard": "There are many stars in space.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "There are mushrooms on my pizza.": {
   "cer": 0.0,
   "file": "69dce6718639.mp3",
   "heard": "There are mushrooms on my pizza.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "There are no clouds in the sky.": {
+  "cer": 0.0,
+  "file": "c44d71284eb4.mp3",
+  "heard": "There are no clouds in the sky.",
+  "speaker": "narrator",
   "tries": 1
  },
  "There are ten boys in my class.": {
@@ -5590,6 +7872,13 @@
   "file": "db75555b052b.mp3",
   "heard": "There are 30 students in the class.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "There are three bedrooms in our house.": {
+  "cer": 0.0,
+  "file": "da01c6e77d90.mp3",
+  "heard": "There are three bedrooms in our house.",
+  "speaker": "kid",
   "tries": 1
  },
  "There are three hundred pupils in our school.": {
@@ -5683,6 +7972,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "There is a swimming competition today.": {
+  "cer": 0.0,
+  "file": "64ecd772894d.mp3",
+  "heard": "There is a swimming competition today.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "There is cola in the fridge.": {
   "cer": 0.0,
   "file": "eb5cbb8b9ad9.mp3",
@@ -5704,11 +8000,102 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "There is no water in the desert.": {
+  "cer": 0.0,
+  "file": "0118ecd8cd76.mp3",
+  "heard": "There is no water in the desert.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a big clock in the hall.": {
+  "cer": 0.0,
+  "file": "f530b4d025d6.mp3",
+  "heard": "There's a big clock in the hall.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a big swimming pool in the park.": {
+  "cer": 0.0,
+  "file": "547f777ff3d0.mp3",
+  "heard": "There's a big swimming pool in the park.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a bird in the tree.": {
+  "cer": 0.0,
+  "file": "418c0c10f92f.mp3",
+  "heard": "There's a bird in the tree?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a castle on the hill.": {
+  "cer": 0.0,
+  "file": "86bb8593f552.mp3",
+  "heard": "There's a castle on the hill.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "There's a cat on the roof.": {
+  "cer": 0.0,
+  "file": "287c17d689a5.mp3",
+  "heard": "There's a cat on the roof.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a duck in the bathtub!": {
+  "cer": 0.0,
+  "file": "4524d735a7ba.mp3",
+  "heard": "There's a duck in the bathtub.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "There's a lamp next to my bed.": {
+  "cer": 0.0,
+  "file": "872187110335.mp3",
+  "heard": "There's a lamp next to my bed",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There's a red carpet in the living room.": {
+  "cer": 0.0,
+  "file": "3b5a7c164b6a.mp3",
+  "heard": "There's a red carpet in the living room.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's a small island in the lake.": {
+  "cer": 0.0,
+  "file": "1c4b9340e33a.mp3",
+  "heard": "There's a small island in the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "There's a thunderstorm. Close the window!": {
   "cer": 0.0,
   "file": "1f548e70ba39.mp3",
   "heard": "There's a thunderstorm, close the window.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "There's no place like home.": {
+  "cer": 0.0,
+  "file": "c51bb486a0c7.mp3",
+  "heard": "There's no place like home.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There's no space in my bag.": {
+  "cer": 0.0,
+  "file": "9c41b618eab0.mp3",
+  "heard": "There's no space in my bag.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There's snow on the mountain.": {
+  "cer": 0.0,
+  "file": "9f18951b10f0.mp3",
+  "heard": "There's snow on the mountain.",
+  "speaker": "narrator",
   "tries": 1
  },
  "These boots are good for the snow.": {
@@ -5760,6 +8147,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "They drive west to the sea.": {
+  "cer": 0.0,
+  "file": "d3085348963e.mp3",
+  "heard": "They drive west to the sea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "They have a son and a daughter.": {
   "cer": 0.0,
   "file": "841d548b1f4b.mp3",
@@ -5771,6 +8165,41 @@
   "cer": 0.0,
   "file": "1c515da367d3.mp3",
   "heard": "They have one son and one daughter.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "They live in the east of the country.": {
+  "cer": 0.0,
+  "file": "9a66cafc6c6b.mp3",
+  "heard": "They live in the east of the country.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "They live in the south of England.": {
+  "cer": 0.0,
+  "file": "4837b988806e.mp3",
+  "heard": "They live in the south of England.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "They live in the west of the country.": {
+  "cer": 0.0,
+  "file": "b6ee5551f55d.mp3",
+  "heard": "They live in the west of the country.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "They surf in the sea every day.": {
+  "cer": 0.0,
+  "file": "cb8770f130cc.mp3",
+  "heard": "They surf in the sea every day.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This DVD is about animals.": {
+  "cer": 0.048,
+  "file": "9745cd238491.mp3",
+  "heard": "This D.I.D. is about animals.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5788,10 +8217,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This armchair is very comfortable.": {
+  "cer": 0.0,
+  "file": "dce237b9b46d.mp3",
+  "heard": "This armchair is very comfortable",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "This bag is very heavy.": {
   "cer": 0.0,
   "file": "3080b2ab8027.mp3",
   "heard": "This bag is very heavy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This ball is too small.": {
+  "cer": 0.0,
+  "file": "7a2fb87f35d6.mp3",
+  "heard": "This ball is too small.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This blanket is very warm.": {
+  "cer": 0.0,
+  "file": "c73b3c220a42.mp3",
+  "heard": "This blanket is very warm.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5837,6 +8287,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This chair is too small for Dad.": {
+  "cer": 0.0,
+  "file": "218a8042f51c.mp3",
+  "heard": "This chair is too small for Dad.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "This class is for beginners.": {
   "cer": 0.0,
   "file": "806873726b25.mp3",
@@ -5879,10 +8336,45 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This field is full of flowers.": {
+  "cer": 0.0,
+  "file": "4ea26f35dd14.mp3",
+  "heard": "This field is full of flowers.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This flower is yellow.": {
+  "cer": 0.0,
+  "file": "a8a8a604cace.mp3",
+  "heard": "This flower is yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This game is very easy.": {
+  "cer": 0.0,
+  "file": "154636cbd13c.mp3",
+  "heard": "This game is very easy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "This hoodie is very warm.": {
   "cer": 0.0,
   "file": "3fc37f575b84.mp3",
   "heard": "This hoodie is very warm.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This house is very big.": {
+  "cer": 0.0,
+  "file": "9378add45034.mp3",
+  "heard": "This house is very big.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This is a very small flat.": {
+  "cer": 0.0,
+  "file": "46aa85991414.mp3",
+  "heard": "This is a very small flat.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5893,11 +8385,32 @@
   "speaker": "kid",
   "tries": 1
  },
+ "This is my room.": {
+  "cer": 0.0,
+  "file": "d650a1e355e3.mp3",
+  "heard": "This is my room.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "This is my science project.": {
   "cer": 0.0,
   "file": "878fd040d425.mp3",
   "heard": "This is my science project.",
   "speaker": "kid",
+  "tries": 1
+ },
+ "This is the biggest tree in the world.": {
+  "cer": 0.0,
+  "file": "42d6582f5dd9.mp3",
+  "heard": "This is the biggest tree in the world.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This jumper is made of wool.": {
+  "cer": 0.0,
+  "file": "914510afb18d.mp3",
+  "heard": "This jumper is made of wool.",
+  "speaker": "narrator",
   "tries": 1
  },
  "This melon is big and sweet.": {
@@ -5918,6 +8431,13 @@
   "cer": 0.0,
   "file": "f3163c26680d.mp3",
   "heard": "This milk is very cold.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This mountain is very high.": {
+  "cer": 0.0,
+  "file": "2a66682b5043.mp3",
+  "heard": "This mountain is very high.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5949,6 +8469,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This plant needs sun.": {
+  "cer": 0.0,
+  "file": "ab95b1dfdc7c.mp3",
+  "heard": "This plant needs sun.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This racket is too heavy for me.": {
+  "cer": 0.0,
+  "file": "30e4dbe3b894.mp3",
+  "heard": "This racket is too heavy for me.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "This ring is too big for my finger.": {
   "cer": 0.0,
   "file": "c6bcc24cf764.mp3",
@@ -5960,6 +8494,13 @@
   "cer": 0.0,
   "file": "2e3f27c805e1.mp3",
   "heard": "This shirt is too small.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This shop sells furniture.": {
+  "cer": 0.0,
+  "file": "15c766150ede.mp3",
+  "heard": "This shop sells furniture.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -5976,6 +8517,20 @@
   "heard": "This skirt is too long!",
   "speaker": "narrator",
   "tries": 1
+ },
+ "This snowboard is too long for me.": {
+  "cer": 0.0,
+  "file": "f73375a9b978.mp3",
+  "heard": "This snowboard is too long for me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This sofa is new.": {
+  "cer": 0.0,
+  "file": "25da11fc6a84.mp3",
+  "heard": "This sofa is new.",
+  "speaker": "narrator",
+  "tries": 2
  },
  "This soup is delicious!": {
   "cer": 0.0,
@@ -6033,12 +8588,54 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "This tree is very old.": {
+  "cer": 0.0,
+  "file": "be22ec52442f.mp3",
+  "heard": "This tree is very old.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Throw the ball to Max!": {
+  "cer": 0.0,
+  "file": "faa3221770e3.mp3",
+  "heard": "Throw the ball to Max.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Throw the ball to me!": {
+  "cer": 0.0,
+  "file": "588fbc1add52.mp3",
+  "heard": "Throw the ball to me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Tidy your bedroom, please.": {
+  "cer": 0.0,
+  "file": "08d2177f7a47.mp3",
+  "heard": "Tidy your bedroom, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Today's game is Lily's school v Tom's school.": {
+  "cer": 0.029,
+  "file": "52ecaebe91cc.mp3",
+  "heard": "Today's game is Lily School Vtoms School.",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Tom cleans the blackboard after class.": {
   "cer": 0.062,
   "file": "ea9668de629c.mp3",
   "heard": "Tom cleansed the blackboard after class.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "Tom climbs the tree.": {
+  "cer": 0.0,
+  "file": "a7f44e8a0906.mp3",
+  "heard": "Tom climbs the tree.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "Tom doesn't like boiled carrots.": {
   "cer": 0.0,
@@ -6082,10 +8679,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Tom grows taller every year.": {
+  "cer": 0.0,
+  "file": "7151b9858783.mp3",
+  "heard": "Tom grows taller every year.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has a bath every evening.": {
+  "cer": 0.0,
+  "file": "744472900d0a.mp3",
+  "heard": "Tom has a bath every evening.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Tom has a new backpack for school.": {
   "cer": 0.0,
   "file": "69160acd2c3b.mp3",
   "heard": "Tom has a new backpack for school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has a new red bike.": {
+  "cer": 0.0,
+  "file": "3bae14a30036.mp3",
+  "heard": "Tom has a new red bike.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -6180,6 +8798,27 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Tom is in the school team.": {
+  "cer": 0.0,
+  "file": "a745ebc3460b.mp3",
+  "heard": "Tom is in the school team.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom is in the swimming club.": {
+  "cer": 0.0,
+  "file": "879746516e37.mp3",
+  "heard": "Tom is in the swimming club.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom is learning to skate.": {
+  "cer": 0.0,
+  "file": "5ec309868544.mp3",
+  "heard": "Tom is learning to skate.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Tom is learning to swim.": {
   "cer": 0.0,
   "file": "58578be00f04.mp3",
@@ -6215,6 +8854,20 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Tom plays football after school.": {
+  "cer": 0.0,
+  "file": "d5bced69f309.mp3",
+  "heard": "Tom plays football after school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom plays football every day.": {
+  "cer": 0.0,
+  "file": "a7a31ac9ced0.mp3",
+  "heard": "Tom plays football every day.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Tom plays with his classmates at break.": {
   "cer": 0.0,
   "file": "a85b86ddc5f3.mp3",
@@ -6226,6 +8879,20 @@
   "cer": 0.032,
   "file": "effb8f7d9417.mp3",
   "heard": "Tom practices football in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom runs downstairs.": {
+  "cer": 0.0,
+  "file": "0fdd45639cb9.mp3",
+  "heard": "Tom runs downstairs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom scores a goal!": {
+  "cer": 0.0,
+  "file": "9afb0b8b55d1.mp3",
+  "heard": "Tom scores a goal.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -6261,6 +8928,13 @@
   "cer": 0.0,
   "file": "18258d20e846.mp3",
   "heard": "Tom wants pizza for lunch.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom wants to play basketball.": {
+  "cer": 0.0,
+  "file": "6dafee73ff47.mp3",
+  "heard": "Tom wants to play basketball.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -6306,6 +8980,13 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "Tom wins the race!": {
+  "cer": 0.0,
+  "file": "a0d875e8dc12.mp3",
+  "heard": "Tom wins the race.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Tom's belt is too long.": {
   "cer": 0.0,
   "file": "6807f568af7c.mp3",
@@ -6326,6 +9007,13 @@
   "heard": "Tom's homework is very easy.",
   "speaker": "narrator",
   "tries": 2
+ },
+ "Tom's room is next to mine.": {
+  "cer": 0.0,
+  "file": "45bc3885dceb.mp3",
+  "heard": "Tom's room is next to mine.",
+  "speaker": "narrator",
+  "tries": 1
  },
  "Tom's uncle is a funny guy.": {
   "cer": 0.0,
@@ -6355,10 +9043,38 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Turn off the gas, please.": {
+  "cer": 0.0,
+  "file": "d4746abaa5f3.mp3",
+  "heard": "Turn off the gas, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Turn on the lamp, please.": {
+  "cer": 0.0,
+  "file": "718fdf69ee42.mp3",
+  "heard": "Turn on the lamp, please.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Uncle Ben can surf.": {
+  "cer": 0.0,
+  "file": "ff040bbae5d7.mp3",
+  "heard": "Uncle Ben can surf.",
+  "speaker": "narrator",
+  "tries": 1
+ },
  "Uncle Ben is very funny.": {
   "cer": 0.0,
   "file": "16dd25d1e435.mp3",
   "heard": "Uncle Ben is very funny.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Uncle Ben loves sailing.": {
+  "cer": 0.0,
+  "file": "b80f39be40db.mp3",
+  "heard": "Uncle Ben loves sailing.",
   "speaker": "narrator",
   "tries": 1
  },
@@ -6397,6 +9113,34 @@
   "speaker": "adult",
   "tries": 3
  },
+ "Volleyball is a team sport.": {
+  "cer": 0.0,
+  "file": "2938202b824b.mp3",
+  "heard": "Volleyball is a team sport.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Wait for me at the entrance.": {
+  "cer": 0.0,
+  "file": "63bbafca91dc.mp3",
+  "heard": "Wait for me at the entrance.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Wash your hands at the sink.": {
+  "cer": 0.0,
+  "file": "855eb17cc147.mp3",
+  "heard": "Wash your hands at the sink.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Wash your hands in the bathroom.": {
+  "cer": 0.0,
+  "file": "b2b6666a3168.mp3",
+  "heard": "Wash your hands in the bathroom.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Watch me! I can swim.": {
   "cer": 0.0,
   "file": "df6eb976ec49.mp3",
@@ -6409,6 +9153,13 @@
   "file": "5b871393bd0f.mp3",
   "heard": "Water starts to boil at 100 degrees.",
   "speaker": "narrator",
+  "tries": 1
+ },
+ "Water the plant every day.": {
+  "cer": 0.0,
+  "file": "47228c4ff795.mp3",
+  "heard": "Water the plant every day.",
+  "speaker": "adult",
   "tries": 1
  },
  "We buy bread every morning.": {
@@ -6432,10 +9183,31 @@
   "speaker": "narrator",
   "tries": 1
  },
+ "We climb the mountain.": {
+  "cer": 0.0,
+  "file": "f6a1335d84d2.mp3",
+  "heard": "We climb the mountain.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We cook with gas.": {
+  "cer": 0.0,
+  "file": "f1449c3d87e4.mp3",
+  "heard": "We cook with gas.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We do experiments in chemistry.": {
   "cer": 0.0,
   "file": "aeebfb63be04.mp3",
   "heard": "We do experiments in chemistry.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We do sport every day at school.": {
+  "cer": 0.0,
+  "file": "85778b70c920.mp3",
+  "heard": "We do sport every day at school.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6460,6 +9232,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We eat in the garden in summer.": {
+  "cer": 0.0,
+  "file": "36bf1ab92f34.mp3",
+  "heard": "We eat in the garden in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We get milk from a cow.": {
   "cer": 0.0,
   "file": "fbc5afb7c952.mp3",
@@ -6474,6 +9253,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We get wool from sheep.": {
+  "cer": 0.0,
+  "file": "854ae89b09db.mp3",
+  "heard": "We get wool from sheep.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We give bread to the duck.": {
   "cer": 0.0,
   "file": "1fc3efe48318.mp3",
@@ -6481,10 +9267,80 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We go cycling on Sunday.": {
+  "cer": 0.0,
+  "file": "e8ac10bd7fb7.mp3",
+  "heard": "We go cycling on Sunday",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go for a ride in the car.": {
+  "cer": 0.0,
+  "file": "ff028ab76003.mp3",
+  "heard": "We go for a ride in the car.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go on a boat on the lake.": {
+  "cer": 0.0,
+  "file": "9113220abd17.mp3",
+  "heard": "We go on a boat on the lake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go sailing in the summer.": {
+  "cer": 0.0,
+  "file": "06ae2561614f.mp3",
+  "heard": "We go sailing in the summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go skiing in winter.": {
+  "cer": 0.0,
+  "file": "7a3c9efb2e93.mp3",
+  "heard": "We go skiing in winter.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go surfboarding at the beach.": {
+  "cer": 0.0,
+  "file": "d79de4ccf113.mp3",
+  "heard": "We go surfboarding at the beach.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go swimming on Saturday.": {
+  "cer": 0.0,
+  "file": "e166ab974cf5.mp3",
+  "heard": "We go swimming on Saturday.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We go to London by coach.": {
   "cer": 0.0,
   "file": "dc472c61cbb1.mp3",
   "heard": "We go to London by coach.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go to the beach in summer.": {
+  "cer": 0.0,
+  "file": "fa857bd1e650.mp3",
+  "heard": "We go to the beach in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go to the country at the weekend.": {
+  "cer": 0.0,
+  "file": "48877d456e84.mp3",
+  "heard": "We go to the country at the weekend.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We go to the island by boat.": {
+  "cer": 0.0,
+  "file": "cb4bd44e60e8.mp3",
+  "heard": "We go to the island by boat.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6509,6 +9365,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We have a concert in the school hall.": {
+  "cer": 0.0,
+  "file": "43bb25950e79.mp3",
+  "heard": "We have a concert in the school hall.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We have a guest for dinner.": {
   "cer": 0.0,
   "file": "85d27e5d1849.mp3",
@@ -6527,6 +9390,13 @@
   "cer": 0.0,
   "file": "d2ed9532134f.mp3",
   "heard": "We have a new cooker in the kitchen.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a new refrigerator.": {
+  "cer": 0.0,
+  "file": "31096adf53cc.mp3",
+  "heard": "We have a new refrigerator",
   "speaker": "kid",
   "tries": 1
  },
@@ -6579,6 +9449,13 @@
   "speaker": "kid",
   "tries": 2
  },
+ "We have dinner in the dining room.": {
+  "cer": 0.0,
+  "file": "56dfcdfb345c.mp3",
+  "heard": "We have dinner in the dining room",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We have fish and rice for dinner.": {
   "cer": 0.0,
   "file": "261986fceef6.mp3",
@@ -6599,6 +9476,13 @@
   "heard": "We have geography after lunch.",
   "speaker": "kid",
   "tries": 2
+ },
+ "We have hockey on Wednesday.": {
+  "cer": 0.0,
+  "file": "b8ce4fc21e48.mp3",
+  "heard": "We have hockey on Wednesday.",
+  "speaker": "kid",
+  "tries": 1
  },
  "We have ice cream for dessert.": {
   "cer": 0.0,
@@ -6649,6 +9533,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We have tea in the sitting room.": {
+  "cer": 0.0,
+  "file": "77c0c55cd8cf.mp3",
+  "heard": "We have tea in the sitting room.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We learn English at school.": {
   "cer": 0.0,
   "file": "ca82f16003c6.mp3",
@@ -6684,6 +9575,27 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We live in a flat in the city.": {
+  "cer": 0.0,
+  "file": "f64bf636c328.mp3",
+  "heard": "We live in a flat in the city.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We live in a small town.": {
+  "cer": 0.0,
+  "file": "00956ef9adb8.mp3",
+  "heard": "We live in a small town.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We live on the third floor.": {
+  "cer": 0.0,
+  "file": "86b21db572b6.mp3",
+  "heard": "We live on the third floor.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We need butter to make a cake.": {
   "cer": 0.0,
   "file": "bf56f754ba94.mp3",
@@ -6695,6 +9607,13 @@
   "cer": 0.0,
   "file": "c06019559736.mp3",
   "heard": "We need milk for the cake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need new furniture for the living room.": {
+  "cer": 0.0,
+  "file": "acfc2a52b3e6.mp3",
+  "heard": "We need new furniture for the living room.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6719,10 +9638,52 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We plant flowers in spring.": {
+  "cer": 0.0,
+  "file": "bb2e0c98066f.mp3",
+  "heard": "We plant flowers in spring.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play basketball after school.": {
+  "cer": 0.0,
+  "file": "5e0003dec9aa.mp3",
+  "heard": "We play basketball after school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play cricket in summer.": {
+  "cer": 0.0,
+  "file": "2862560405c3.mp3",
+  "heard": "We play cricket in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We play football at break.": {
   "cer": 0.0,
   "file": "54c03d4a5e13.mp3",
   "heard": "We play football at break.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play on the beach in summer.": {
+  "cer": 0.0,
+  "file": "ef30e06be7b4.mp3",
+  "heard": "We play on the beach in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play soccer on Friday.": {
+  "cer": 0.0,
+  "file": "6e95cd5c8268.mp3",
+  "heard": "We play soccer on Friday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play volleyball on the beach.": {
+  "cer": 0.0,
+  "file": "a35498b0ee86.mp3",
+  "heard": "We play volleyball on the beach.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6747,6 +9708,41 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We sit by the fire in winter.": {
+  "cer": 0.0,
+  "file": "cfa7cb21259d.mp3",
+  "heard": "We sit by the fire in winter.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We sit on the sofa and watch television.": {
+  "cer": 0.0,
+  "file": "73013d1079d9.mp3",
+  "heard": "We sit on the sofa and watch television.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We skate on the ice in winter.": {
+  "cer": 0.0,
+  "file": "570feefdaf93.mp3",
+  "heard": "We skate on the ice in winter",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We ski in the mountains.": {
+  "cer": 0.053,
+  "file": "30c10aa53519.mp3",
+  "heard": "We skis in the mountains.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We stay at Grandma's house in summer.": {
+  "cer": 0.0,
+  "file": "fbdf57a42ef7.mp3",
+  "heard": "We stay at Grandma's house in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We stay inside in a thunderstorm.": {
   "cer": 0.0,
   "file": "115f5f5ffa3b.mp3",
@@ -6758,6 +9754,27 @@
   "cer": 0.0,
   "file": "9348f7a08553.mp3",
   "heard": "We study 10 subjects at school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We swim at the sports centre.": {
+  "cer": 0.0,
+  "file": "8f11729e95ac.mp3",
+  "heard": "We swim at the Sports Center.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We swim in the lake in summer.": {
+  "cer": 0.0,
+  "file": "8f20a42ee785.mp3",
+  "heard": "We swim in the lake in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We swim in the sea.": {
+  "cer": 0.0,
+  "file": "c7aa50f16dfd.mp3",
+  "heard": "We swim in the sea.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6775,6 +9792,55 @@
   "speaker": "kid",
   "tries": 1
  },
+ "We walk along the river.": {
+  "cer": 0.0,
+  "file": "f056c81eda43.mp3",
+  "heard": "We walk along the river.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We walk in the countryside on Sunday.": {
+  "cer": 0.0,
+  "file": "76bcbc327c55.mp3",
+  "heard": "We walk in the countryside on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We walk in the forest.": {
+  "cer": 0.0,
+  "file": "56c9961fd923.mp3",
+  "heard": "We walk in the forest.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We walk in the park every evening.": {
+  "cer": 0.0,
+  "file": "bcfc565d8b19.mp3",
+  "heard": "We walk in the park every evening.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We walk in the wood near our house.": {
+  "cer": 0.0,
+  "file": "9237cd752573.mp3",
+  "heard": "We walk in the wood near our house.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We walk up the hill.": {
+  "cer": 0.0,
+  "file": "1b02f9895e78.mp3",
+  "heard": "We walk up the hill.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We watch football at the stadium.": {
+  "cer": 0.0,
+  "file": "c81942a6d030.mp3",
+  "heard": "We watch football at the stadium.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We watch television after dinner.": {
   "cer": 0.0,
   "file": "300d42112977.mp3",
@@ -6782,10 +9848,38 @@
   "speaker": "narrator",
   "tries": 2
  },
+ "We watch television in the living room.": {
+  "cer": 0.0,
+  "file": "1e9df298d4e9.mp3",
+  "heard": "We watch television in the living room.",
+  "speaker": "kid",
+  "tries": 1
+ },
  "We wear a uniform at school.": {
   "cer": 0.0,
   "file": "b0c9bde120a8.mp3",
   "heard": "We wear a uniform at school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We wear warm clothes in winter.": {
+  "cer": 0.0,
+  "file": "a81ec7866a91.mp3",
+  "heard": "We wear warm clothes in winter.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "We win by two goals.": {
+  "cer": 0.0,
+  "file": "7e278789957a.mp3",
+  "heard": "We win by two goals.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We win the game!": {
+  "cer": 0.0,
+  "file": "ad2c9dc22844.mp3",
+  "heard": "We win the game.",
   "speaker": "kid",
   "tries": 1
  },
@@ -6843,6 +9937,13 @@
   "file": "8f0fdf12655d.mp3",
   "heard": "What a sunny day",
   "speaker": "kid",
+  "tries": 1
+ },
+ "What bad luck!": {
+  "cer": 0.0,
+  "file": "c87cb521e1f6.mp3",
+  "heard": "What bad luck?",
+  "speaker": "narrator",
   "tries": 1
  },
  "What costume do you want?": {
@@ -6957,6 +10058,20 @@
   "speaker": "adult",
   "tries": 1
  },
+ "What's your address?": {
+  "cer": 0.0,
+  "file": "ea76126b5954.mp3",
+  "heard": "What's your address?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What's your favourite sport?": {
+  "cer": 0.0,
+  "file": "c30c9e46ad38.mp3",
+  "heard": "What's your favorite sport?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "What's your favourite subject?": {
   "cer": 0.0,
   "file": "5f1202f9e633.mp3",
@@ -6992,6 +10107,13 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Where do you live?": {
+  "cer": 0.0,
+  "file": "11a68feeb966.mp3",
+  "heard": "Where do you live?",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Where is my bag?": {
   "cer": 0.0,
   "file": "938dc1dd4fcc.mp3",
@@ -7013,10 +10135,38 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Where is the entrance?": {
+  "cer": 0.0,
+  "file": "1ed2fc77a339.mp3",
+  "heard": "Where is the entrance?",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Where is the toilet, please?": {
+  "cer": 0.0,
+  "file": "ac36a2f91736.mp3",
+  "heard": "Where is the toilet, please?",
+  "speaker": "narrator",
+  "tries": 2
+ },
  "Where is your coat?": {
   "cer": 0.0,
   "file": "798a481d69c3.mp3",
   "heard": "Where is your coat?",
+  "speaker": "adult",
+  "tries": 2
+ },
+ "Where's my football?": {
+  "cer": 0.0,
+  "file": "0180ff013432.mp3",
+  "heard": "Where's my football?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Which country do you come from?": {
+  "cer": 0.0,
+  "file": "96d16f9509fe.mp3",
+  "heard": "Which country do you come from?",
   "speaker": "adult",
   "tries": 2
  },
@@ -7041,10 +10191,52 @@
   "speaker": "kid",
   "tries": 1
  },
+ "Who is the best player?": {
+  "cer": 0.0,
+  "file": "a79b4b775bb0.mp3",
+  "heard": "Who is the best player?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Who is the winner of the race?": {
+  "cer": 0.0,
+  "file": "1d3fbd5f93da.mp3",
+  "heard": "who is the winner of the race.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Who will win the game?": {
+  "cer": 0.0,
+  "file": "6fe3324baeaa.mp3",
+  "heard": "Who will win the game?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Who won? England v France?": {
+  "cer": 0.0,
+  "file": "89707f8f2363.mp3",
+  "heard": "Who won England v France?",
+  "speaker": "narrator",
+  "tries": 3
+ },
  "Wild horses live on the hills.": {
   "cer": 0.0,
   "file": "c71de17bbb5a.mp3",
   "heard": "Wild horses live on the hills.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Windsurfing is difficult.": {
+  "cer": 0.0,
+  "file": "9c09bb84777d.mp3",
+  "heard": "Windsurfing is difficult.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Winter is very cold.": {
+  "cer": 0.0,
+  "file": "bd559d44e910.mp3",
+  "heard": "Winter is very cold",
   "speaker": "narrator",
   "tries": 1
  },
@@ -7097,6 +10289,13 @@
   "speaker": "adult",
   "tries": 1
  },
+ "Write your address on the letter.": {
+  "cer": 0.0,
+  "file": "ed6ce601b1f9.mp3",
+  "heard": "Write your address on the letter.",
+  "speaker": "adult",
+  "tries": 1
+ },
  "Write your name and surname here.": {
   "cer": 0.0,
   "file": "1ef60df2048a.mp3",
@@ -7109,6 +10308,13 @@
   "file": "440ee6044597.mp3",
   "heard": "Write your name on the board.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "You can enter the park at nine.": {
+  "cer": 0.0,
+  "file": "df12268a9a63.mp3",
+  "heard": "You can enter the park at 9.",
+  "speaker": "narrator",
   "tries": 1
  },
  "You can find information in the library.": {
@@ -7137,6 +10343,20 @@
   "file": "fb9b89483603.mp3",
   "heard": "You need to book the tickets early.",
   "speaker": "adult",
+  "tries": 1
+ },
+ "You need wind for windsurfing.": {
+  "cer": 0.0,
+  "file": "d45ab73c55c8.mp3",
+  "heard": "You need wind for windsurfing?",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "Your clothes are on the floor!": {
+  "cer": 0.0,
+  "file": "6c7dd1c600ce.mp3",
+  "heard": "Your clothes are on the floor.",
+  "speaker": "narrator",
   "tries": 1
  }
 }

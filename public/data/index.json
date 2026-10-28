@@ -35,7 +35,7 @@
    "en": "House and Home",
    "zh": "我的家",
    "count": 62,
-   "ready": false
+   "ready": true
   },
   {
    "id": "school",
@@ -49,7 +49,7 @@
    "en": "The Natural World",
    "zh": "大自然",
    "count": 39,
-   "ready": false
+   "ready": true
   },
   {
    "id": "weather",
@@ -70,7 +70,7 @@
    "en": "Sport",
    "zh": "运动",
    "count": 76,
-   "ready": false
+   "ready": true
   },
   {
    "id": "hobbies",

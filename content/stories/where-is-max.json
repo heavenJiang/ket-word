@@ -1,0 +1,45 @@
+{
+ "id": "where-is-max",
+ "topic": "home",
+ "title": "Where Is Max?",
+ "zh": "Max 在哪儿？",
+ "pages": [
+  {
+   "en": "It's time for Max's dinner, but where is he? Lily looks in the kitchen. He isn't there.",
+   "zh": "到 Max 吃晚饭的时间了，可是它在哪儿呢？Lily 去厨房找，它不在那儿。",
+   "scene": "Lily alone in a kitchen holding a full dog food bowl and looking around puzzled, an empty dog basket by the cooker, no animals anywhere in the picture."
+  },
+  {
+   "en": "Tom looks under the sofa and behind the curtains in the living room. He opens the cupboard. No Max!",
+   "zh": "Tom 在客厅的沙发底下、窗帘后面找，又打开柜子。没有 Max！",
+   "scene": "Tom alone in a living room on his knees looking under a sofa, the curtains pulled open, a cupboard door open, no animals anywhere in the picture."
+  },
+  {
+   "en": "Then they hear a noise upstairs. Max is in the bathroom, in the bath! He wants to play with Tom's yellow duck.",
+   "zh": "这时他们听到楼上有动静。Max 在卫生间里，就在浴缸里！它想玩 Tom 的黄色小鸭子。",
+   "scene": "Max sitting alone inside an empty white bathtub holding a yellow rubber duck in his mouth, Lily and Tom standing in the bathroom doorway laughing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Max is in the kitchen.",
+   "zh": "Max 在厨房里。",
+   "answer": false
+  },
+  {
+   "q": "Where is Max?",
+   "zh": "Max 在哪儿？",
+   "options": [
+    "in the bath",
+    "under the sofa",
+    "in the cupboard"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Max wants to play with a yellow duck.",
+   "zh": "Max 想玩一只黄色小鸭子。",
+   "answer": true
+  }
+ ]
+}

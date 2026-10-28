@@ -77,7 +77,12 @@
       "t": "can",
       "id": "can"
      },
-     " swim very fast. Mia draws a ",
+     " ",
+     {
+      "t": "swim",
+      "id": "swim"
+     },
+     " very fast. Mia draws a ",
      {
       "t": "penguin",
       "id": "penguin"
@@ -155,6 +160,302 @@
   ]
  },
  {
+  "id": "first-swim",
+  "topic": "sport",
+  "title": "Tom Learns to Swim",
+  "zh": "Tom 学游泳",
+  "pages": [
+   {
+    "en": "Tom can't swim, so Dad takes him to the swimming pool on Saturday. Tom is a bit afraid of the water.",
+    "zh": "Tom 不会游泳，所以星期六爸爸带他去游泳池。Tom 有点怕水。",
+    "segments": [
+     "Tom ",
+     {
+      "t": "can't",
+      "id": "can"
+     },
+     " ",
+     {
+      "t": "swim",
+      "id": "swim"
+     },
+     ", so ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " takes him to the ",
+     {
+      "t": "swimming pool",
+      "id": "swimming-pool"
+     },
+     " on Saturday. Tom is a bit afraid of the ",
+     {
+      "t": "water",
+      "id": "water"
+     },
+     "."
+    ],
+    "img": "media/img/story-first-swim-1.webp"
+   },
+   {
+    "en": "The coach is very kind. She helps Tom. First he kicks his legs, and then he moves his arms.",
+    "zh": "教练很和气，她帮助 Tom。他先踢腿，然后划手臂。",
+    "segments": [
+     "The ",
+     {
+      "t": "coach",
+      "id": "coach"
+     },
+     " is very kind. She helps Tom. First he kicks his legs, and then he moves his arms."
+    ],
+    "img": "media/img/story-first-swim-2.webp"
+   },
+   {
+    "en": "After five lessons, Tom can swim! He swims to Dad without help. \"I'm a fish!\" he laughs.",
+    "zh": "上了五节课后，Tom 会游泳了！他不用别人帮忙就游到了爸爸身边。“我是一条鱼！”他笑着说。",
+    "segments": [
+     "After five ",
+     {
+      "t": "lessons",
+      "id": "lesson"
+     },
+     ", Tom ",
+     {
+      "t": "can",
+      "id": "can"
+     },
+     " ",
+     {
+      "t": "swim",
+      "id": "swim"
+     },
+     "! He ",
+     {
+      "t": "swims",
+      "id": "swim"
+     },
+     " to ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     " without help. \"I'm a ",
+     {
+      "t": "fish",
+      "id": "fish"
+     },
+     "!\" he laughs."
+    ],
+    "img": "media/img/story-first-swim-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Tom can swim at the start of the story.",
+    "zh": "故事开始时 Tom 会游泳。",
+    "answer": false
+   },
+   {
+    "q": "Who helps Tom in the pool?",
+    "zh": "谁在泳池里帮助 Tom？",
+    "options": [
+     "the coach",
+     "Lily",
+     "Grandma"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Tom has five lessons.",
+    "zh": "Tom 上了五节课。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "swim",
+   "swimming-pool",
+   "coach"
+  ]
+ },
+ {
+  "id": "four-seasons",
+  "topic": "nature",
+  "title": "Lily's Tree",
+  "zh": "Lily 的树",
+  "pages": [
+   {
+    "en": "There is a big tree in Lily's garden. In spring, it has small green leaves and pink flowers. Birds sing in it.",
+    "zh": "Lily 的花园里有一棵大树。春天，树上长出小小的绿叶和粉红色的花，鸟儿在树上唱歌。",
+    "segments": [
+     "There is a big ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     " in Lily's ",
+     {
+      "t": "garden",
+      "id": "garden"
+     },
+     ". In ",
+     {
+      "t": "spring",
+      "id": "spring"
+     },
+     ", it has small ",
+     {
+      "t": "green",
+      "id": "green"
+     },
+     " leaves and ",
+     {
+      "t": "pink",
+      "id": "pink"
+     },
+     " ",
+     {
+      "t": "flowers",
+      "id": "flower"
+     },
+     ". ",
+     {
+      "t": "Birds",
+      "id": "bird"
+     },
+     " sing in it."
+    ],
+    "img": "media/img/story-four-seasons-1.webp"
+   },
+   {
+    "en": "In summer, the tree is green and the family has lunch under it. In autumn, the leaves are red and brown, and Tom plays in them.",
+    "zh": "夏天，树绿油油的，一家人在树下吃午饭。秋天，树叶变成了红色和棕色，Tom 在落叶里玩。",
+    "segments": [
+     "In ",
+     {
+      "t": "summer",
+      "id": "summer"
+     },
+     ", the ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     " is ",
+     {
+      "t": "green",
+      "id": "green"
+     },
+     " and the ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     " has ",
+     {
+      "t": "lunch",
+      "id": "lunch"
+     },
+     " under it. In ",
+     {
+      "t": "autumn",
+      "id": "autumn"
+     },
+     ", the leaves are ",
+     {
+      "t": "red",
+      "id": "red"
+     },
+     " and ",
+     {
+      "t": "brown",
+      "id": "brown"
+     },
+     ", and Tom ",
+     {
+      "t": "plays",
+      "id": "play"
+     },
+     " in them."
+    ],
+    "img": "media/img/story-four-seasons-2.webp"
+   },
+   {
+    "en": "In winter, there are no leaves, and there is snow on the tree. Lily and Tom play in the snow under it. \"I love my tree in every season!\" says Lily.",
+    "zh": "冬天，树叶掉光了，树上积着雪。Lily 和 Tom 在树下玩雪。“我每个季节都爱我的树！”Lily 说。",
+    "segments": [
+     "In ",
+     {
+      "t": "winter",
+      "id": "winter"
+     },
+     ", there are no leaves, and there is ",
+     {
+      "t": "snow",
+      "id": "snow"
+     },
+     " on the ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     ". Lily and Tom ",
+     {
+      "t": "play",
+      "id": "play"
+     },
+     " in the ",
+     {
+      "t": "snow",
+      "id": "snow"
+     },
+     " under it. \"I ",
+     {
+      "t": "love",
+      "id": "love"
+     },
+     " my ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     " in every season!\" says Lily."
+    ],
+    "img": "media/img/story-four-seasons-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "The tree has pink flowers in spring.",
+    "zh": "春天树上开着粉红色的花。",
+    "answer": true
+   },
+   {
+    "q": "What do Lily and Tom do in winter?",
+    "zh": "冬天 Lily 和 Tom 做什么？",
+    "options": [
+     "play in the snow",
+     "swim in the sea",
+     "have a picnic"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The leaves are green in autumn.",
+    "zh": "秋天树叶是绿色的。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "tree",
+   "spring",
+   "flower",
+   "summer",
+   "autumn",
+   "winter"
+  ]
+ },
+ {
   "id": "grandma-birthday",
   "topic": "family",
   "title": "Grandma's Birthday",
@@ -174,7 +475,12 @@
       "t": "family",
       "id": "family"
      },
-     " comes to her house: ",
+     " comes to her ",
+     {
+      "t": "house",
+      "id": "house"
+     },
+     ": ",
      {
       "t": "Mum",
       "id": "mum"
@@ -313,7 +619,12 @@
       "t": "penfriend",
       "id": "penfriend"
      },
-     " called Ana. Ana lives in Spain with her ",
+     " called Ana. Ana ",
+     {
+      "t": "lives",
+      "id": "live"
+     },
+     " in Spain with her ",
      {
       "t": "parents",
       "id": "parent"
@@ -336,7 +647,12 @@
       "t": "sister",
       "id": "sister"
      },
-     " are on the beach with their ",
+     " are on the ",
+     {
+      "t": "beach",
+      "id": "beach"
+     },
+     " with their ",
      {
       "t": "grandmother",
       "id": "grandmother"
@@ -505,12 +821,22 @@
       "t": "green",
       "id": "green"
      },
-     " tree and a ",
+     " ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     " and a ",
      {
       "t": "purple",
       "id": "purple"
      },
-     " flower. It's a beautiful picture!"
+     " ",
+     {
+      "t": "flower",
+      "id": "flower"
+     },
+     ". It's a beautiful picture!"
     ],
     "img": "media/img/story-lily-picture-3.webp"
    }
@@ -613,7 +939,12 @@
       "t": "hat",
       "id": "hat"
      },
-     " and under the chair. No ",
+     " and under the ",
+     {
+      "t": "chair",
+      "id": "chair"
+     },
+     ". No ",
      {
       "t": "glasses",
       "id": "glasses"
@@ -626,7 +957,12 @@
     "en": "Then Lily looks in Max's bed. Grandpa's glasses are there! \"Max!\" everyone laughs. Grandpa says, \"Thank you, Lily. Now I can read!\"",
     "zh": "这时 Lily 往 Max 的狗窝里一看，爷爷的眼镜就在那儿！“Max！”大家都笑了。爷爷说：“谢谢你，Lily。现在我能看书了！”",
     "segments": [
-     "Then Lily looks in Max's bed. ",
+     "Then Lily looks in Max's ",
+     {
+      "t": "bed",
+      "id": "bed"
+     },
+     ". ",
      {
       "t": "Grandpa's",
       "id": "grandpa"
@@ -700,7 +1036,12 @@
     "en": "Max is in the garden. He sees a small green frog near the water. The frog jumps. Max jumps too!",
     "zh": "Max 在花园里。它看到水边有一只绿色的小青蛙。青蛙一跳，Max 也跟着跳！",
     "segments": [
-     "Max is in the garden. He sees a small ",
+     "Max is in the ",
+     {
+      "t": "garden",
+      "id": "garden"
+     },
+     ". He sees a small ",
      {
       "t": "green",
       "id": "green"
@@ -710,7 +1051,12 @@
       "t": "frog",
       "id": "frog"
      },
-     " near the water. The ",
+     " near the ",
+     {
+      "t": "water",
+      "id": "water"
+     },
+     ". The ",
      {
       "t": "frog",
       "id": "frog"
@@ -728,7 +1074,12 @@
       "t": "butterfly",
       "id": "butterfly"
      },
-     " flies over the flowers, and a ",
+     " flies over the ",
+     {
+      "t": "flowers",
+      "id": "flower"
+     },
+     ", and a ",
      {
       "t": "bee",
       "id": "bee"
@@ -738,7 +1089,17 @@
       "t": "pink",
       "id": "pink"
      },
-     " flower. Max wants to play, but the ",
+     " ",
+     {
+      "t": "flower",
+      "id": "flower"
+     },
+     ". Max wants to ",
+     {
+      "t": "play",
+      "id": "play"
+     },
+     ", but the ",
      {
       "t": "bee",
       "id": "bee"
@@ -756,12 +1117,22 @@
       "t": "frog",
       "id": "frog"
      },
-     " jumps into the water, and Max jumps in after it. Now Max is very ",
+     " jumps into the ",
+     {
+      "t": "water",
+      "id": "water"
+     },
+     ", and Max jumps in after it. Now Max is very ",
      {
       "t": "wet",
       "id": "wet"
      },
-     "! Lily laughs and gives him a big towel."
+     "! Lily laughs and gives him a big ",
+     {
+      "t": "towel",
+      "id": "towel"
+     },
+     "."
     ],
     "img": "media/img/story-max-frog-3.webp"
    }
@@ -935,6 +1306,163 @@
    "bowl",
    "plate",
    "delicious"
+  ]
+ },
+ {
+  "id": "new-house",
+  "topic": "home",
+  "title": "The New House",
+  "zh": "新房子",
+  "pages": [
+   {
+    "en": "Lily's family has a new house. It has a big garden, a red door and a garage for Dad's car.",
+    "zh": "Lily 家有了一栋新房子。房子有一个大花园、一扇红门，还有一个停爸爸车子的车库。",
+    "segments": [
+     "Lily's ",
+     {
+      "t": "family",
+      "id": "family"
+     },
+     " has a new ",
+     {
+      "t": "house",
+      "id": "house"
+     },
+     ". It has a big ",
+     {
+      "t": "garden",
+      "id": "garden"
+     },
+     ", a ",
+     {
+      "t": "red",
+      "id": "red"
+     },
+     " ",
+     {
+      "t": "door",
+      "id": "door"
+     },
+     " and a ",
+     {
+      "t": "garage",
+      "id": "garage"
+     },
+     " for ",
+     {
+      "t": "Dad's",
+      "id": "dad"
+     },
+     " car."
+    ],
+    "img": "media/img/story-new-house-1.webp"
+   },
+   {
+    "en": "Downstairs there is a kitchen, a living room and a small bathroom. Upstairs there are three bedrooms.",
+    "zh": "楼下有厨房、客厅和一个小卫生间。楼上有三间卧室。",
+    "segments": [
+     {
+      "t": "Downstairs",
+      "id": "downstairs"
+     },
+     " there is a ",
+     {
+      "t": "kitchen",
+      "id": "kitchen"
+     },
+     ", a ",
+     {
+      "t": "living room",
+      "id": "living-room"
+     },
+     " and a small ",
+     {
+      "t": "bathroom",
+      "id": "bathroom"
+     },
+     ". Upstairs there are three ",
+     {
+      "t": "bedrooms",
+      "id": "bedroom"
+     },
+     "."
+    ],
+    "img": "media/img/story-new-house-2.webp"
+   },
+   {
+    "en": "Lily's bedroom is next to Tom's. It has a big window and a bookshelf. \"I love my new room!\" says Lily. Max loves it too. He sleeps on her bed!",
+    "zh": "Lily 的卧室在 Tom 的隔壁，有一扇大窗户和一个书架。“我好喜欢我的新房间！”Lily 说。Max 也很喜欢，它睡在 Lily 的床上！",
+    "segments": [
+     "Lily's ",
+     {
+      "t": "bedroom",
+      "id": "bedroom"
+     },
+     " is next to Tom's. It has a big window and a ",
+     {
+      "t": "bookshelf",
+      "id": "bookshelf"
+     },
+     ". \"I ",
+     {
+      "t": "love",
+      "id": "love"
+     },
+     " my new ",
+     {
+      "t": "room",
+      "id": "room"
+     },
+     "!\" says Lily. Max ",
+     {
+      "t": "loves",
+      "id": "love"
+     },
+     " it too. He sleeps on her ",
+     {
+      "t": "bed",
+      "id": "bed"
+     },
+     "!"
+    ],
+    "img": "media/img/story-new-house-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "The new house has a garage.",
+    "zh": "新房子有一个车库。",
+    "answer": true
+   },
+   {
+    "q": "Where are the bedrooms?",
+    "zh": "卧室在哪里？",
+    "options": [
+     "upstairs",
+     "downstairs",
+     "in the garden"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Max sleeps on Tom's bed.",
+    "zh": "Max 睡在 Tom 的床上。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "house",
+   "garden",
+   "door",
+   "garage",
+   "downstairs",
+   "kitchen",
+   "living-room",
+   "bathroom",
+   "bedroom",
+   "bookshelf",
+   "room",
+   "bed"
   ]
  },
  {
@@ -1135,7 +1663,12 @@
       "t": "warm",
       "id": "warm"
      },
-     ". Lily and Tom want to play in the park, so ",
+     ". Lily and Tom want to ",
+     {
+      "t": "play",
+      "id": "play"
+     },
+     " in the park, so ",
      {
       "t": "Mum",
       "id": "mum"
@@ -1206,12 +1739,22 @@
       "t": "sun",
       "id": "sun"
      },
-     " comes out again. Tom and Lily jump in the water on the path. Now everyone is ",
+     " comes out again. Tom and Lily jump in the ",
+     {
+      "t": "water",
+      "id": "water"
+     },
+     " on the path. Now everyone is ",
      {
       "t": "wet",
       "id": "wet"
      },
-     ", and they laugh all the way home!"
+     ", and they laugh all the way ",
+     {
+      "t": "home",
+      "id": "home"
+     },
+     "!"
     ],
     "img": "media/img/story-rainy-day-3.webp"
    }
@@ -1323,7 +1866,12 @@
       "t": "mark",
       "id": "mark"
      },
-     " and a gold star."
+     " and a gold ",
+     {
+      "t": "star",
+      "id": "star"
+     },
+     "."
     ],
     "img": "media/img/story-spelling-test-3.webp"
    }
@@ -1361,6 +1909,169 @@
   ]
  },
  {
+  "id": "sports-day",
+  "topic": "sport",
+  "title": "Sports Day",
+  "zh": "运动会",
+  "pages": [
+   {
+    "en": "Today is sports day at Lily's school. There is a running race, a football game and a swimming competition.",
+    "zh": "今天是 Lily 学校的运动会，有赛跑、足球赛和游泳比赛。",
+    "segments": [
+     "Today is ",
+     {
+      "t": "sports",
+      "id": "sport"
+     },
+     " day at Lily's ",
+     {
+      "t": "school",
+      "id": "school"
+     },
+     ". There is a ",
+     {
+      "t": "running",
+      "id": "run"
+     },
+     " ",
+     {
+      "t": "race",
+      "id": "race"
+     },
+     ", a ",
+     {
+      "t": "football",
+      "id": "football"
+     },
+     " ",
+     {
+      "t": "game",
+      "id": "game"
+     },
+     " and a ",
+     {
+      "t": "swimming",
+      "id": "swimming"
+     },
+     " ",
+     {
+      "t": "competition",
+      "id": "competition"
+     },
+     "."
+    ],
+    "img": "media/img/story-sports-day-1.webp"
+   },
+   {
+    "en": "Lily is in the running race. She runs very fast, but Mia is faster. Lily is second. \"Well done!\" says her teacher.",
+    "zh": "Lily 参加了赛跑。她跑得很快，可是 Mia 更快，Lily 得了第二名。“干得好！”老师说。",
+    "segments": [
+     "Lily is in the ",
+     {
+      "t": "running",
+      "id": "run"
+     },
+     " ",
+     {
+      "t": "race",
+      "id": "race"
+     },
+     ". She ",
+     {
+      "t": "runs",
+      "id": "run"
+     },
+     " very fast, but Mia is faster. Lily is second. \"Well done!\" says her ",
+     {
+      "t": "teacher",
+      "id": "teacher"
+     },
+     "."
+    ],
+    "img": "media/img/story-sports-day-2.webp"
+   },
+   {
+    "en": "Then Lily's team plays football. Lily scores the winning goal! Everyone is very happy, and her team gets the prize.",
+    "zh": "接着 Lily 的队踢足球。Lily 踢进了制胜一球！大家都非常开心，她的队得了奖。",
+    "segments": [
+     "Then Lily's ",
+     {
+      "t": "team",
+      "id": "team"
+     },
+     " ",
+     {
+      "t": "plays",
+      "id": "play"
+     },
+     " ",
+     {
+      "t": "football",
+      "id": "football"
+     },
+     ". Lily scores the ",
+     {
+      "t": "winning",
+      "id": "win"
+     },
+     " ",
+     {
+      "t": "goal",
+      "id": "goal"
+     },
+     "! Everyone is very happy, and her ",
+     {
+      "t": "team",
+      "id": "team"
+     },
+     " gets the ",
+     {
+      "t": "prize",
+      "id": "prize"
+     },
+     "."
+    ],
+    "img": "media/img/story-sports-day-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Lily wins the running race.",
+    "zh": "Lily 赢了赛跑。",
+    "answer": false
+   },
+   {
+    "q": "Who is faster than Lily?",
+    "zh": "谁比 Lily 跑得快？",
+    "options": [
+     "Mia",
+     "Tom",
+     "Sam"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Lily scores a goal.",
+    "zh": "Lily 进了一个球。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "sport",
+   "run",
+   "race",
+   "football",
+   "game",
+   "swimming",
+   "competition",
+   "team",
+   "play",
+   "win",
+   "goal",
+   "prize"
+  ]
+ },
+ {
   "id": "what-to-wear",
   "topic": "clothes",
   "title": "What Shall I Wear?",
@@ -1370,7 +2081,12 @@
     "en": "It's Sam's party today. Lily opens her cupboard. \"What shall I wear?\" she asks. She tries on a skirt, then a dress, then her jeans.",
     "zh": "今天是 Sam 的聚会。Lily 打开衣柜问：“我穿什么好呢？”她试了一条半身裙，又试了一条连衣裙，然后是她的牛仔裤。",
     "segments": [
-     "It's Sam's party today. Lily opens her cupboard. \"What shall I ",
+     "It's Sam's party today. Lily opens her ",
+     {
+      "t": "cupboard",
+      "id": "cupboard"
+     },
+     ". \"What shall I ",
      {
       "t": "wear",
       "id": "wear"
@@ -1508,6 +2224,124 @@
   ]
  },
  {
+  "id": "where-is-max",
+  "topic": "home",
+  "title": "Where Is Max?",
+  "zh": "Max 在哪儿？",
+  "pages": [
+   {
+    "en": "It's time for Max's dinner, but where is he? Lily looks in the kitchen. He isn't there.",
+    "zh": "到 Max 吃晚饭的时间了，可是它在哪儿呢？Lily 去厨房找，它不在那儿。",
+    "segments": [
+     "It's time for Max's ",
+     {
+      "t": "dinner",
+      "id": "dinner"
+     },
+     ", but where is he? Lily looks in the ",
+     {
+      "t": "kitchen",
+      "id": "kitchen"
+     },
+     ". He isn't there."
+    ],
+    "img": "media/img/story-where-is-max-1.webp"
+   },
+   {
+    "en": "Tom looks under the sofa and behind the curtains in the living room. He opens the cupboard. No Max!",
+    "zh": "Tom 在客厅的沙发底下、窗帘后面找，又打开柜子。没有 Max！",
+    "segments": [
+     "Tom looks under the ",
+     {
+      "t": "sofa",
+      "id": "sofa"
+     },
+     " and behind the ",
+     {
+      "t": "curtains",
+      "id": "curtain"
+     },
+     " in the ",
+     {
+      "t": "living room",
+      "id": "living-room"
+     },
+     ". He opens the ",
+     {
+      "t": "cupboard",
+      "id": "cupboard"
+     },
+     ". No Max!"
+    ],
+    "img": "media/img/story-where-is-max-2.webp"
+   },
+   {
+    "en": "Then they hear a noise upstairs. Max is in the bathroom, in the bath! He wants to play with Tom's yellow duck.",
+    "zh": "这时他们听到楼上有动静。Max 在卫生间里，就在浴缸里！它想玩 Tom 的黄色小鸭子。",
+    "segments": [
+     "Then they hear a noise upstairs. Max is in the ",
+     {
+      "t": "bathroom",
+      "id": "bathroom"
+     },
+     ", in the ",
+     {
+      "t": "bath",
+      "id": "bath"
+     },
+     "! He wants to ",
+     {
+      "t": "play",
+      "id": "play"
+     },
+     " with Tom's ",
+     {
+      "t": "yellow",
+      "id": "yellow"
+     },
+     " ",
+     {
+      "t": "duck",
+      "id": "duck"
+     },
+     "."
+    ],
+    "img": "media/img/story-where-is-max-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Max is in the kitchen.",
+    "zh": "Max 在厨房里。",
+    "answer": false
+   },
+   {
+    "q": "Where is Max?",
+    "zh": "Max 在哪儿？",
+    "options": [
+     "in the bath",
+     "under the sofa",
+     "in the cupboard"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Max wants to play with a yellow duck.",
+    "zh": "Max 想玩一只黄色小鸭子。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "kitchen",
+   "sofa",
+   "curtain",
+   "living-room",
+   "cupboard",
+   "bathroom",
+   "bath"
+  ]
+ },
+ {
   "id": "zoo-day",
   "topic": "animals",
   "title": "A Day at the Zoo",
@@ -1570,7 +2404,12 @@
       "t": "eats",
       "id": "eat"
      },
-     " from the top of a tree. The ",
+     " from the top of a ",
+     {
+      "t": "tree",
+      "id": "tree"
+     },
+     ". The ",
      {
       "t": "elephant",
       "id": "elephant"
@@ -1580,7 +2419,12 @@
       "t": "drinks",
       "id": "drink"
      },
-     " water with its long nose."
+     " ",
+     {
+      "t": "water",
+      "id": "water"
+     },
+     " with its long nose."
     ],
     "img": "media/img/story-zoo-day-2.webp"
    },
