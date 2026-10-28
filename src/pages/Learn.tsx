@@ -3,6 +3,7 @@ import { sfx } from "../lib/audio";
 import { Choice } from "../questions/Choice";
 import { Intro } from "../questions/Intro";
 import { Match } from "../questions/Match";
+import { gapSentences } from "../lib/sentence";
 import { Tiles } from "../questions/Tiles";
 import { buildPlan } from "../session/plan";
 import { advance, answer, buildSession, current, isDone } from "../session/session";
@@ -39,7 +40,7 @@ export function Learn(props: {
       planOptions(progress, now),
       words.map((w) => w.id),
     );
-    return buildSession(plan, progress.words);
+    return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });
   /** Right answers in a row, retries included: a small "on fire" reward for focus. */

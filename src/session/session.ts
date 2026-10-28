@@ -24,11 +24,22 @@ export const MAX_RETRIES = 2;
 
 export const keyOf = (wordId: string, skill: Skill) => `${wordId}:${skill}`;
 
-/** Question type for a skill. Weak meanings get the easier picture question; retries switch type. */
-export function kindFor(skill: Skill, card: CardState | undefined, retry = 0): QuestionKind {
-  if (skill === "listen") return "listenPick";
+/** Stability (days) from which a meaning is asked in a sentence, and a listening card hears a whole sentence. */
+export const SENTENCE_MEANING_S = 3;
+export const SENTENCE_LISTEN_S = 5;
+
+/**
+ * Question type for a skill. Weak meanings get the easier picture question; once a word is familiar,
+ * half its questions put it back in a sentence (fill the gap, or hear a sentence and pick the picture),
+ * so words are met in context without adding questions. Retries switch to a single-word type.
+ * `roll` is a random number in [0, 1); `gap` says whether the word has a sentence with the word in it.
+ */
+export function kindFor(skill: Skill, card: CardState | undefined, retry = 0, opt: { gap?: boolean; roll?: number } = {}): QuestionKind {
+  const sentence = retry === 0 && (opt.roll ?? 1) < 0.5;
+  if (skill === "listen") return sentence && card && card.s >= SENTENCE_LISTEN_S ? "listenSentence" : "listenPick";
   if (skill === "spell") return "tiles";
-  const easy = !card || card.s < 3;
+  const easy = !card || card.s < SENTENCE_MEANING_S;
+  if (!easy && sentence && opt.gap) return "cloze";
   return easy === (retry % 2 === 0) ? "pickImage" : "pickMeaning";
 }
 
@@ -43,12 +54,19 @@ export function spreadOut<T extends { wordId: string }>(xs: T[]): T[] {
   return a;
 }
 
-export function buildSession(plan: Plan, progress: Record<string, WordProgress>, rng: () => number = Math.random): Session {
+export function buildSession(
+  plan: Plan,
+  progress: Record<string, WordProgress>,
+  rng: () => number = Math.random,
+  /** Whether a word has a sentence that can take a gap; without it, no gap questions. */
+  canGap: (wordId: string) => boolean = () => false,
+): Session {
   const steps: Step[] = [];
   const reviews = spreadOut(shuffle(plan.reviews, rng));
   for (const t of reviews) {
     const card = progress[t.wordId]?.skills[t.skill];
-    steps.push({ type: "q", wordId: t.wordId, skill: t.skill, kind: kindFor(t.skill, card), graded: true, retry: 0 });
+    const kind = kindFor(t.skill, card, 0, { gap: canGap(t.wordId), roll: rng() });
+    steps.push({ type: "q", wordId: t.wordId, skill: t.skill, kind, graded: true, retry: 0 });
   }
   for (let i = 0; i < plan.newWords.length; i += GROUP_SIZE) {
     const group = plan.newWords.slice(i, i + GROUP_SIZE);
