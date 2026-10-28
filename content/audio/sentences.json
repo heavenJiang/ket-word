@@ -350,7 +350,7 @@
   "tries": 1
  },
  "A teenager is between thirteen and nineteen.": {
-  "cer": 0.432,
+  "cer": 0.0,
   "file": "fa5a2f2f0491.mp3",
   "heard": "A teenager is between 13 and 19.",
   "speaker": "narrator",
@@ -693,7 +693,7 @@
   "tries": 1
  },
  "Chillies are very hot!": {
-  "cer": 0.056,
+  "cer": 0.0,
   "file": "15e06fa6f96c.mp3",
   "heard": "Chilies are very hot.",
   "speaker": "kid",
@@ -1106,7 +1106,7 @@
   "tries": 1
  },
  "Grandad tells funny stories.": {
-  "cer": 0.042,
+  "cer": 0.0,
   "file": "d5dff3582ab7.mp3",
   "heard": "Granddad tells funny stories.",
   "speaker": "narrator",
@@ -2555,7 +2555,7 @@
   "tries": 1
  },
  "My grandad is seventy years old.": {
-  "cer": 0.308,
+  "cer": 0.0,
   "file": "5d2ce5256464.mp3",
   "heard": "My granddad is 70 years old.",
   "speaker": "kid",
@@ -3318,7 +3318,7 @@
   "tries": 1
  },
  "The morning break is twenty minutes.": {
-  "cer": 0.2,
+  "cer": 0.0,
   "file": "ef3ac5bd1d7d.mp3",
   "heard": "The morning break is 20 minutes.",
   "speaker": "narrator",

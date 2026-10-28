@@ -45,20 +45,29 @@ ENDING = " [uv_break]"
 MAX_TRIES = 5
 GOOD_CER = 0.03
 
-NUMBERS = {"12": "twelve", "100": "a hundred", "10": "ten", "6": "six", "9": "nine", "7": "seven", "5": "five"}
+ONES = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
+TENS = "_ _ twenty thirty forty fifty sixty seventy eighty ninety".split()
+
+
+def spell(n: int) -> str:
+    """0-100 in words, as the sentences write them ("a hundred" for 100)."""
+    if n < 20:
+        return ONES[n]
+    if n == 100:
+        return "a hundred"
+    return TENS[n // 10] + ("" if n % 10 == 0 else ONES[n % 10])
 
 
 # Whisper writes American spelling; compare the British forms the content uses
 US_UK = {"mom": "mum", "moms": "mums", "color": "colour", "colors": "colours", "favorite": "favourite", "gray": "grey",
          "neighbor": "neighbour", "neighbors": "neighbours", "theater": "theatre", "center": "centre", "yogurt": "yogurt",
-         "chili": "chilli", "chilis": "chillies", "omelet": "omelette", "cookie": "biscuit"}
+         "chili": "chilli", "chilis": "chillies", "chilies": "chillies", "granddad": "grandad", "granddads": "grandads", "omelet": "omelette", "cookie": "biscuit"}
 
 
 def letters(s: str) -> str:
     """Letters only, numbers spelled out, so "pen friend" = "penfriend" and "12" = "twelve"."""
     s = re.sub(r"[a-z]+", lambda m: US_UK.get(m.group(0), m.group(0)), s.lower())
-    for d, w in NUMBERS.items():
-        s = re.sub(rf"\b{d}\b", w, s)
+    s = re.sub(r"\b(\d{1,3})\b", lambda m: spell(int(m.group(1))) if int(m.group(1)) <= 100 else m.group(1), s)
     return re.sub(r"[^a-z]", "", s)
 
 
