@@ -1,0 +1,45 @@
+{
+ "id": "what-to-wear",
+ "topic": "clothes",
+ "title": "What Shall I Wear?",
+ "zh": "穿什么好呢？",
+ "pages": [
+  {
+   "en": "It's Sam's party today. Lily opens her cupboard. \"What shall I wear?\" she asks. She tries on a skirt, then a dress, then her jeans.",
+   "zh": "今天是 Sam 的聚会。Lily 打开衣柜问：“我穿什么好呢？”她试了一条半身裙，又试了一条连衣裙，然后是她的牛仔裤。",
+   "scene": "Lily in her bedroom in front of an open cupboard, clothes all over the bed: a skirt, a dress and jeans, Lily holding up a dress and thinking."
+  },
+  {
+   "en": "Tom is ready. He wears his lion costume! \"It's not a costume party, Tom,\" Lily laughs. But Tom doesn't want to take it off.",
+   "zh": "Tom 已经准备好了，他穿着狮子服！“这不是化装聚会，Tom。”Lily 笑着说。可是 Tom 不想脱下来。",
+   "scene": "Tom proudly standing in his fluffy lion costume with the mane hood, roaring, Lily laughing in the doorway."
+  },
+  {
+   "en": "In the end, Lily wears her blue dress and a pretty bracelet. Tom wears his lion costume. At the party, everyone loves Tom's costume!",
+   "zh": "最后，Lily 穿上了蓝色连衣裙，戴了一条漂亮的手链。Tom 穿着他的狮子服。在聚会上，大家都很喜欢 Tom 的服装！",
+   "scene": "At a birthday party with balloons: Lily wearing a pretty sky-blue party dress (not dungarees) and a beaded bracelet, standing next to Tom in his fluffy lion costume, children and Sam laughing and clapping around them."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Whose party is it?",
+   "zh": "这是谁的聚会？",
+   "options": [
+    "Sam's",
+    "Tom's",
+    "Lily's"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom wears a lion costume.",
+   "zh": "Tom 穿着狮子服。",
+   "answer": true
+  },
+  {
+   "q": "Lily wears her jeans to the party.",
+   "zh": "Lily 穿着牛仔裤去参加聚会。",
+   "answer": false
+  }
+ ]
+}

@@ -61,7 +61,7 @@ def spell(n: int) -> str:
 # Whisper writes American spelling; compare the British forms the content uses
 US_UK = {"mom": "mum", "moms": "mums", "color": "colour", "colors": "colours", "favorite": "favourite", "gray": "grey",
          "neighbor": "neighbour", "neighbors": "neighbours", "theater": "theatre", "center": "centre", "yogurt": "yogurt",
-         "chili": "chilli", "chilis": "chillies", "chilies": "chillies", "granddad": "grandad", "granddads": "grandads", "omelet": "omelette", "cookie": "biscuit"}
+         "chili": "chilli", "chilis": "chillies", "chilies": "chillies", "granddad": "grandad", "granddads": "grandads", "jewelry": "jewellery", "gonna": "goingto", "genes": "jeans", "omelet": "omelette", "cookie": "biscuit"}
 
 
 def letters(s: str) -> str:

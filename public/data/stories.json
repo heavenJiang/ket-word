@@ -340,7 +340,12 @@
       "t": "orange",
       "id": "orange"
      },
-     " sun, a ",
+     " ",
+     {
+      "t": "sun",
+      "id": "sun"
+     },
+     ", a ",
      {
       "t": "green",
       "id": "green"
@@ -389,6 +394,130 @@
    "green",
    "orange",
    "purple"
+  ]
+ },
+ {
+  "id": "lost-glasses",
+  "topic": "clothes",
+  "title": "Grandpa's Glasses",
+  "zh": "爷爷的眼镜",
+  "pages": [
+   {
+    "en": "Grandpa wants to read his book, but he can't find his glasses. \"Where are my glasses?\" he asks.",
+    "zh": "爷爷想看书，可是找不到他的眼镜了。“我的眼镜在哪儿？”他问。",
+    "segments": [
+     {
+      "t": "Grandpa",
+      "id": "grandpa"
+     },
+     " wants to read his book, but he ",
+     {
+      "t": "can't",
+      "id": "can"
+     },
+     " find his ",
+     {
+      "t": "glasses",
+      "id": "glasses"
+     },
+     ". \"Where are my ",
+     {
+      "t": "glasses",
+      "id": "glasses"
+     },
+     "?\" he asks."
+    ],
+    "img": "media/img/story-lost-glasses-1.webp"
+   },
+   {
+    "en": "Lily and Tom look everywhere. They look in his coat pocket, in his hat and under the chair. No glasses!",
+    "zh": "Lily 和 Tom 到处找。他们找了爷爷的外套口袋、帽子和椅子底下。没有眼镜！",
+    "segments": [
+     "Lily and Tom look everywhere. They look in his ",
+     {
+      "t": "coat",
+      "id": "coat"
+     },
+     " ",
+     {
+      "t": "pocket",
+      "id": "pocket"
+     },
+     ", in his ",
+     {
+      "t": "hat",
+      "id": "hat"
+     },
+     " and under the chair. No ",
+     {
+      "t": "glasses",
+      "id": "glasses"
+     },
+     "!"
+    ],
+    "img": "media/img/story-lost-glasses-2.webp"
+   },
+   {
+    "en": "Then Lily looks in Max's bed. Grandpa's glasses are there! \"Max!\" everyone laughs. Grandpa says, \"Thank you, Lily. Now I can read!\"",
+    "zh": "这时 Lily 往 Max 的狗窝里一看，爷爷的眼镜就在那儿！“Max！”大家都笑了。爷爷说：“谢谢你，Lily。现在我能看书了！”",
+    "segments": [
+     "Then Lily looks in Max's bed. ",
+     {
+      "t": "Grandpa's",
+      "id": "grandpa"
+     },
+     " ",
+     {
+      "t": "glasses",
+      "id": "glasses"
+     },
+     " are there! \"Max!\" everyone laughs. ",
+     {
+      "t": "Grandpa",
+      "id": "grandpa"
+     },
+     " says, \"Thank you, Lily. Now I ",
+     {
+      "t": "can",
+      "id": "can"
+     },
+     " read!\""
+    ],
+    "img": "media/img/story-lost-glasses-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What can't Grandpa find?",
+    "zh": "爷爷找不到什么？",
+    "options": [
+     "his glasses",
+     "his hat",
+     "his book"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Where are the glasses?",
+    "zh": "眼镜在哪里？",
+    "options": [
+     "in Max's bed",
+     "in Grandpa's hat",
+     "under the chair"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Lily finds the glasses.",
+    "zh": "Lily 找到了眼镜。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "glasses",
+   "coat",
+   "pocket",
+   "hat"
   ]
  },
  {
@@ -457,7 +586,12 @@
       "t": "frog",
       "id": "frog"
      },
-     " jumps into the water, and Max jumps in after it. Now Max is very wet! Lily laughs and gives him a big towel."
+     " jumps into the water, and Max jumps in after it. Now Max is very ",
+     {
+      "t": "wet",
+      "id": "wet"
+     },
+     "! Lily laughs and gives him a big towel."
     ],
     "img": "media/img/story-max-frog-3.webp"
    }
@@ -643,7 +777,12 @@
     "en": "It's a sunny day, so the family has a picnic in the park. Mum brings sandwiches and fruit. Dad brings a bottle of lemonade.",
     "zh": "天气晴朗，一家人在公园野餐。妈妈带了三明治和水果，爸爸带了一瓶柠檬水。",
     "segments": [
-     "It's a sunny day, so the ",
+     "It's a ",
+     {
+      "t": "sunny",
+      "id": "sunny"
+     },
+     " day, so the ",
      {
       "t": "family",
       "id": "family"
@@ -804,6 +943,285 @@
    "chocolate",
    "cake",
    "biscuit"
+  ]
+ },
+ {
+  "id": "rainy-day",
+  "topic": "weather",
+  "title": "A Rainy Day",
+  "zh": "下雨天",
+  "pages": [
+   {
+    "en": "In the morning it is sunny and warm. Lily and Tom want to play in the park, so Mum says, \"Take your raincoats. It's going to rain.\"",
+    "zh": "早上天气晴朗温暖。Lily 和 Tom 想去公园玩，妈妈说：“带上雨衣，要下雨了。”",
+    "segments": [
+     "In the morning it is ",
+     {
+      "t": "sunny",
+      "id": "sunny"
+     },
+     " and ",
+     {
+      "t": "warm",
+      "id": "warm"
+     },
+     ". Lily and Tom want to play in the park, so ",
+     {
+      "t": "Mum",
+      "id": "mum"
+     },
+     " says, \"Take your ",
+     {
+      "t": "raincoats",
+      "id": "raincoat"
+     },
+     ". It's going to ",
+     {
+      "t": "rain",
+      "id": "rain"
+     },
+     ".\""
+    ],
+    "img": "media/img/story-rainy-day-1.webp"
+   },
+   {
+    "en": "In the park, a big grey cloud comes. Then it starts to rain. The children put on their raincoats, but Max is very wet!",
+    "zh": "在公园里，飘来一大片灰云，接着下起雨来。孩子们穿上了雨衣，可是 Max 被淋得湿透了！",
+    "segments": [
+     "In the park, a big ",
+     {
+      "t": "grey",
+      "id": "grey"
+     },
+     " ",
+     {
+      "t": "cloud",
+      "id": "cloud"
+     },
+     " comes. Then it starts to ",
+     {
+      "t": "rain",
+      "id": "rain"
+     },
+     ". The ",
+     {
+      "t": "children",
+      "id": "child"
+     },
+     " put on their ",
+     {
+      "t": "raincoats",
+      "id": "raincoat"
+     },
+     ", but Max is very ",
+     {
+      "t": "wet",
+      "id": "wet"
+     },
+     "!"
+    ],
+    "img": "media/img/story-rainy-day-2.webp"
+   },
+   {
+    "en": "After the rain, the sun comes out again. Tom and Lily jump in the water on the path. Now everyone is wet, and they laugh all the way home!",
+    "zh": "雨停后，太阳又出来了。Tom 和 Lily 在小路的水坑里跳来跳去。现在大家都湿透了，他们一路笑着回家！",
+    "segments": [
+     "After the ",
+     {
+      "t": "rain",
+      "id": "rain"
+     },
+     ", the ",
+     {
+      "t": "sun",
+      "id": "sun"
+     },
+     " comes out again. Tom and Lily jump in the water on the path. Now everyone is ",
+     {
+      "t": "wet",
+      "id": "wet"
+     },
+     ", and they laugh all the way home!"
+    ],
+    "img": "media/img/story-rainy-day-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "In the morning it is cold and windy.",
+    "zh": "早上又冷又刮风。",
+    "answer": false
+   },
+   {
+    "q": "Who is very wet?",
+    "zh": "谁被淋得很湿？",
+    "options": [
+     "Max",
+     "Tom",
+     "Mum"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The sun comes out after the rain.",
+    "zh": "雨后太阳出来了。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "sunny",
+   "warm",
+   "rain",
+   "cloud",
+   "wet",
+   "sun"
+  ]
+ },
+ {
+  "id": "what-to-wear",
+  "topic": "clothes",
+  "title": "What Shall I Wear?",
+  "zh": "穿什么好呢？",
+  "pages": [
+   {
+    "en": "It's Sam's party today. Lily opens her cupboard. \"What shall I wear?\" she asks. She tries on a skirt, then a dress, then her jeans.",
+    "zh": "今天是 Sam 的聚会。Lily 打开衣柜问：“我穿什么好呢？”她试了一条半身裙，又试了一条连衣裙，然后是她的牛仔裤。",
+    "segments": [
+     "It's Sam's party today. Lily opens her cupboard. \"What shall I ",
+     {
+      "t": "wear",
+      "id": "wear"
+     },
+     "?\" she asks. She tries on a ",
+     {
+      "t": "skirt",
+      "id": "skirt"
+     },
+     ", then a ",
+     {
+      "t": "dress",
+      "id": "dress"
+     },
+     ", then her ",
+     {
+      "t": "jeans",
+      "id": "jeans"
+     },
+     "."
+    ],
+    "img": "media/img/story-what-to-wear-1.webp"
+   },
+   {
+    "en": "Tom is ready. He wears his lion costume! \"It's not a costume party, Tom,\" Lily laughs. But Tom doesn't want to take it off.",
+    "zh": "Tom 已经准备好了，他穿着狮子服！“这不是化装聚会，Tom。”Lily 笑着说。可是 Tom 不想脱下来。",
+    "segments": [
+     "Tom is ready. He ",
+     {
+      "t": "wears",
+      "id": "wear"
+     },
+     " his ",
+     {
+      "t": "lion",
+      "id": "lion"
+     },
+     " ",
+     {
+      "t": "costume",
+      "id": "costume"
+     },
+     "! \"It's not a ",
+     {
+      "t": "costume",
+      "id": "costume"
+     },
+     " party, Tom,\" Lily laughs. But Tom doesn't want to take it off."
+    ],
+    "img": "media/img/story-what-to-wear-2.webp"
+   },
+   {
+    "en": "In the end, Lily wears her blue dress and a pretty bracelet. Tom wears his lion costume. At the party, everyone loves Tom's costume!",
+    "zh": "最后，Lily 穿上了蓝色连衣裙，戴了一条漂亮的手链。Tom 穿着他的狮子服。在聚会上，大家都很喜欢 Tom 的服装！",
+    "segments": [
+     "In the end, Lily ",
+     {
+      "t": "wears",
+      "id": "wear"
+     },
+     " her ",
+     {
+      "t": "blue",
+      "id": "blue"
+     },
+     " ",
+     {
+      "t": "dress",
+      "id": "dress"
+     },
+     " and a pretty ",
+     {
+      "t": "bracelet",
+      "id": "bracelet"
+     },
+     ". Tom ",
+     {
+      "t": "wears",
+      "id": "wear"
+     },
+     " his ",
+     {
+      "t": "lion",
+      "id": "lion"
+     },
+     " ",
+     {
+      "t": "costume",
+      "id": "costume"
+     },
+     ". At the party, everyone ",
+     {
+      "t": "loves",
+      "id": "love"
+     },
+     " Tom's ",
+     {
+      "t": "costume",
+      "id": "costume"
+     },
+     "!"
+    ],
+    "img": "media/img/story-what-to-wear-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Whose party is it?",
+    "zh": "这是谁的聚会？",
+    "options": [
+     "Sam's",
+     "Tom's",
+     "Lily's"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Tom wears a lion costume.",
+    "zh": "Tom 穿着狮子服。",
+    "answer": true
+   },
+   {
+    "q": "Lily wears her jeans to the party.",
+    "zh": "Lily 穿着牛仔裤去参加聚会。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "wear",
+   "skirt",
+   "dress",
+   "jeans",
+   "costume",
+   "bracelet"
   ]
  },
  {
