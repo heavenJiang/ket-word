@@ -1,0 +1,30 @@
+{
+  "topic": "colours",
+  "reviewed": "2026-10-27",
+  "cast": "Lily (girl, 9) and her puppy Max. Colour pictures group several familiar things of one colour, so the child learns the colour, not one object.",
+  "confusable": [
+    ["black", "dark"],
+    ["light", "dark"],
+    ["pale", "white"],
+    ["golden", "yellow", "orange"],
+    ["silver", "grey", "white"]
+  ],
+  "words": [
+    { "id": "black", "zh": "黑色的；黑色", "chunks": ["black"], "emoji": "⚫", "en": "The cat is black.", "sz": "这只猫是黑色的。", "scene": "A few things that are all black, grouped together: a black cat, a black umbrella and a black top hat." },
+    { "id": "blue", "zh": "蓝色的；蓝色", "chunks": ["blue"], "emoji": "🔵", "en": "The sky is blue.", "sz": "天空是蓝色的。", "scene": "A few things that are all blue, grouped together: a blue umbrella, a blue toy boat, a small blue bird and a bowl of blueberries." },
+    { "id": "brown", "zh": "棕色的；棕色", "chunks": ["brown"], "emoji": "🟤", "en": "The bear is brown.", "sz": "这只熊是棕色的。", "scene": "A few things that are all brown, grouped together: a brown teddy bear, a brown acorn, a brown wooden chair and a brown leather football." },
+    { "id": "dark", "zh": "黑暗的；深色的", "chunks": ["dark"], "emoji": "🌑", "en": "It's dark. Lily can't see.", "sz": "天黑了，Lily 看不见。", "scene": "Lily in her bedroom at night with the lights off, the room very dark, she looks out of the window at the dark night sky with stars and a thin moon." },
+    { "id": "golden", "zh": "金色的", "chunks": ["gold", "en"], "emoji": "👑", "en": "The queen has a golden crown.", "sz": "女王有一顶金色的王冠。", "scene": "One shiny golden crown with little jewels, gleaming and sparkling." },
+    { "id": "green", "zh": "绿色的；绿色", "chunks": ["green"], "emoji": "🟢", "en": "Frogs are green.", "sz": "青蛙是绿色的。", "scene": "A few things that are all green, grouped together: a green leaf, a green apple, a green toy car and a small green frog." },
+    { "id": "grey", "zh": "灰色的；灰色", "chunks": ["grey"], "emoji": "🩶", "en": "The mouse is grey.", "sz": "这只老鼠是灰色的。", "scene": "A few things that are all grey, grouped together: a little grey mouse, a grey rain cloud, a round grey stone and a grey toy elephant." },
+    { "id": "light", "zh": "光；灯；浅色的", "chunks": ["light"], "emoji": "💡", "en": "It's dark. Turn on the light, please.", "sz": "天黑了，请开灯。", "scene": "Lily switching on a lamp in her room in the evening, warm bright light glowing from the lamp and filling the room." },
+    { "id": "orange", "zh": "橙色的；橙子", "chunks": ["or", "ange"], "emoji": "🟠", "en": "My favourite colour is orange.", "sz": "我最喜欢的颜色是橙色。" },
+    { "id": "pale", "zh": "苍白的；浅的", "chunks": ["pale"], "emoji": "🤒", "en": "Lily is ill. Her face is pale.", "sz": "Lily 病了，她脸色苍白。", "scene": "Lily lying ill in bed with a very pale whitish face and tired eyes, a thermometer on the bedside table, Max looking up at her worried." },
+    { "id": "pink", "zh": "粉红色的；粉红色", "chunks": ["pink"], "emoji": "🩷", "en": "Lily likes pink flowers.", "sz": "Lily 喜欢粉红色的花。", "scene": "A few things that are all pink, grouped together: a pink piglet, a pink flower, a pink cupcake and a pink ribbon bow." },
+    { "id": "purple", "zh": "紫色的；紫色", "chunks": ["pur", "ple"], "emoji": "🟣", "en": "Lily paints a purple flower.", "sz": "Lily 画了一朵紫色的花。", "scene": "A few things that are all purple, grouped together: a purple balloon, a bunch of purple grapes, a purple flower and a purple crayon." },
+    { "id": "red", "zh": "红色的；红色", "chunks": ["red"], "emoji": "🔴", "en": "Strawberries are red.", "sz": "草莓是红色的。", "scene": "A few things that are all bright red, grouped together: a red balloon, a red toy fire engine, a red strawberry and a red ladybird." },
+    { "id": "silver", "zh": "银色的；银", "chunks": ["sil", "ver"], "emoji": "🥈", "en": "Mum has a silver ring.", "sz": "妈妈有一枚银戒指。", "scene": "A few shiny metallic silver things grouped together and gleaming: a silver ring, a little silver bell and a silver spoon." },
+    { "id": "white", "zh": "白色的；白色", "chunks": ["white"], "emoji": "⚪", "en": "Snow is white.", "sz": "雪是白色的。", "scene": "A few things that are all white, grouped together on a soft pale blue background: a white snowman, a fluffy white cloud and a white lamb." },
+    { "id": "yellow", "zh": "黄色的；黄色", "chunks": ["yel", "low"], "emoji": "🟡", "en": "A banana is yellow.", "sz": "香蕉是黄色的。", "scene": "A few things that are all yellow, grouped together: a yellow rubber duck, a yellow banana, a yellow sunflower and a yellow star." }
+  ]
+}

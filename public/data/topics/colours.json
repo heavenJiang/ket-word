@@ -1,0 +1,413 @@
+{
+ "id": "colours",
+ "words": [
+  {
+   "id": "black",
+   "word": "black",
+   "zh": "黑色的；黑色",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "ipa": "/blæk/",
+   "chunks": [
+    "black"
+   ],
+   "emoji": "⚫",
+   "sentence": {
+    "en": "The cat is black.",
+    "zh": "这只猫是黑色的。"
+   },
+   "media": {
+    "img": "media/img/black.webp",
+    "uk": "media/uk/black.mp3",
+    "us": "media/us/black.mp3"
+   },
+   "avoid": [
+    "dark"
+   ]
+  },
+  {
+   "id": "blue",
+   "word": "blue",
+   "zh": "蓝色的；蓝色",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "ipa": "/bluː/",
+   "chunks": [
+    "blue"
+   ],
+   "emoji": "🔵",
+   "sentence": {
+    "en": "The sky is blue.",
+    "zh": "天空是蓝色的。"
+   },
+   "media": {
+    "img": "media/img/blue.webp",
+    "uk": "media/uk/blue.mp3",
+    "us": "media/us/blue.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "brown",
+   "word": "brown",
+   "zh": "棕色的；棕色",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "ipa": "/braʊn/",
+   "chunks": [
+    "brown"
+   ],
+   "emoji": "🟤",
+   "sentence": {
+    "en": "The bear is brown.",
+    "zh": "这只熊是棕色的。"
+   },
+   "media": {
+    "img": "media/img/brown.webp",
+    "uk": "media/uk/brown.mp3",
+    "us": "media/us/brown.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dark",
+   "word": "dark",
+   "zh": "黑暗的；深色的",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/dɑːk/",
+   "chunks": [
+    "dark"
+   ],
+   "emoji": "🌑",
+   "sentence": {
+    "en": "It's dark. Lily can't see.",
+    "zh": "天黑了，Lily 看不见。"
+   },
+   "media": {
+    "img": "media/img/dark.webp",
+    "uk": "media/uk/dark.mp3",
+    "us": "media/us/dark.mp3"
+   },
+   "avoid": [
+    "black",
+    "light"
+   ]
+  },
+  {
+   "id": "golden",
+   "word": "golden",
+   "zh": "金色的",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈɡəʊldən/",
+   "chunks": [
+    "gold",
+    "en"
+   ],
+   "emoji": "👑",
+   "sentence": {
+    "en": "The queen has a golden crown.",
+    "zh": "女王有一顶金色的王冠。"
+   },
+   "media": {
+    "img": "media/img/golden.webp",
+    "uk": "media/uk/golden.mp3",
+    "us": "media/us/golden.mp3"
+   },
+   "avoid": [
+    "orange",
+    "yellow"
+   ]
+  },
+  {
+   "id": "green",
+   "word": "green",
+   "zh": "绿色的；绿色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ɡriːn/",
+   "chunks": [
+    "green"
+   ],
+   "emoji": "🟢",
+   "sentence": {
+    "en": "Frogs are green.",
+    "zh": "青蛙是绿色的。"
+   },
+   "media": {
+    "img": "media/img/green.webp",
+    "uk": "media/uk/green.mp3",
+    "us": "media/us/green.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "grey",
+   "word": "grey",
+   "zh": "灰色的；灰色",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "ipa": "/ɡreɪ/",
+   "chunks": [
+    "grey"
+   ],
+   "emoji": "🩶",
+   "sentence": {
+    "en": "The mouse is grey.",
+    "zh": "这只老鼠是灰色的。"
+   },
+   "media": {
+    "img": "media/img/grey.webp",
+    "uk": "media/uk/grey.mp3",
+    "us": "media/us/grey.mp3"
+   },
+   "avoid": [
+    "silver",
+    "white"
+   ]
+  },
+  {
+   "id": "light",
+   "word": "light",
+   "zh": "光；灯；浅色的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "ipa": "/laɪt/",
+   "chunks": [
+    "light"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "It's dark. Turn on the light, please.",
+    "zh": "天黑了，请开灯。"
+   },
+   "media": {
+    "img": "media/img/light.webp",
+    "uk": "media/uk/light.mp3",
+    "us": "media/us/light.mp3"
+   },
+   "avoid": [
+    "dark"
+   ]
+  },
+  {
+   "id": "orange",
+   "word": "orange",
+   "zh": "橙色的；橙子",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "ipa": "/ˈɒrɪndʒ/",
+   "chunks": [
+    "or",
+    "ange"
+   ],
+   "emoji": "🟠",
+   "sentence": {
+    "en": "My favourite colour is orange.",
+    "zh": "我最喜欢的颜色是橙色。"
+   },
+   "media": {
+    "img": "media/img/orange.webp",
+    "uk": "media/uk/orange.mp3",
+    "us": "media/us/orange.mp3"
+   },
+   "avoid": [
+    "golden",
+    "yellow"
+   ]
+  },
+  {
+   "id": "pale",
+   "word": "pale",
+   "zh": "苍白的；浅的",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/peɪl/",
+   "chunks": [
+    "pale"
+   ],
+   "emoji": "🤒",
+   "sentence": {
+    "en": "Lily is ill. Her face is pale.",
+    "zh": "Lily 病了，她脸色苍白。"
+   },
+   "media": {
+    "img": "media/img/pale.webp",
+    "uk": "media/uk/pale.mp3",
+    "us": "media/us/pale.mp3"
+   },
+   "avoid": [
+    "white"
+   ]
+  },
+  {
+   "id": "pink",
+   "word": "pink",
+   "zh": "粉红色的；粉红色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/pɪŋk/",
+   "chunks": [
+    "pink"
+   ],
+   "emoji": "🩷",
+   "sentence": {
+    "en": "Lily likes pink flowers.",
+    "zh": "Lily 喜欢粉红色的花。"
+   },
+   "media": {
+    "img": "media/img/pink.webp",
+    "uk": "media/uk/pink.mp3",
+    "us": "media/us/pink.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "purple",
+   "word": "purple",
+   "zh": "紫色的；紫色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈpɜːpəl/",
+   "chunks": [
+    "pur",
+    "ple"
+   ],
+   "emoji": "🟣",
+   "sentence": {
+    "en": "Lily paints a purple flower.",
+    "zh": "Lily 画了一朵紫色的花。"
+   },
+   "media": {
+    "img": "media/img/purple.webp",
+    "uk": "media/uk/purple.mp3",
+    "us": "media/us/purple.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "red",
+   "word": "red",
+   "zh": "红色的；红色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/red/",
+   "chunks": [
+    "red"
+   ],
+   "emoji": "🔴",
+   "sentence": {
+    "en": "Strawberries are red.",
+    "zh": "草莓是红色的。"
+   },
+   "media": {
+    "img": "media/img/red.webp",
+    "uk": "media/uk/red.mp3",
+    "us": "media/us/red.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "silver",
+   "word": "silver",
+   "zh": "银色的；银",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "ipa": "/ˈsɪlvə/",
+   "chunks": [
+    "sil",
+    "ver"
+   ],
+   "emoji": "🥈",
+   "sentence": {
+    "en": "Mum has a silver ring.",
+    "zh": "妈妈有一枚银戒指。"
+   },
+   "media": {
+    "img": "media/img/silver.webp",
+    "uk": "media/uk/silver.mp3",
+    "us": "media/us/silver.mp3"
+   },
+   "avoid": [
+    "grey",
+    "white"
+   ]
+  },
+  {
+   "id": "white",
+   "word": "white",
+   "zh": "白色的；白色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/waɪt/",
+   "chunks": [
+    "white"
+   ],
+   "emoji": "⚪",
+   "sentence": {
+    "en": "Snow is white.",
+    "zh": "雪是白色的。"
+   },
+   "media": {
+    "img": "media/img/white.webp",
+    "uk": "media/uk/white.mp3",
+    "us": "media/us/white.mp3"
+   },
+   "avoid": [
+    "grey",
+    "pale",
+    "silver"
+   ]
+  },
+  {
+   "id": "yellow",
+   "word": "yellow",
+   "zh": "黄色的；黄色",
+   "pos": [
+    "adj"
+   ],
+   "ipa": "/ˈjeləʊ/",
+   "chunks": [
+    "yel",
+    "low"
+   ],
+   "emoji": "🟡",
+   "sentence": {
+    "en": "A banana is yellow.",
+    "zh": "香蕉是黄色的。"
+   },
+   "media": {
+    "img": "media/img/yellow.webp",
+    "uk": "media/uk/yellow.mp3",
+    "us": "media/us/yellow.mp3"
+   },
+   "avoid": [
+    "golden",
+    "orange"
+   ]
+  }
+ ]
+}
