@@ -48,6 +48,18 @@ CAST = {
     "Max": "a small fluffy cream-coloured puppy with floppy ears and a red collar",
     "Mum": "a grown-up woman in her late thirties, a smiling mother with dark hair in a bun and a green cardigan",
     "Dad": "a grown-up man in his early forties, a smiling father with short brown hair, round glasses and a blue jumper",
+    "Tom": "a cheeky 6-year-old boy with messy brown hair and a red t-shirt",
+    "Grandma": "a cheerful grandmother with curly grey hair in a bun, round glasses and a red cardigan",
+    "Grandpa": "a jolly grandfather with white hair, a white moustache and a green knitted waistcoat",
+    "Aunt Kate": "a young woman in her thirties with curly red hair and a purple dress",
+    "Uncle Ben": "a big jolly man in his forties with a short brown beard and a checked shirt",
+    "Sam": "a 10-year-old boy with black hair, glasses and a green hoodie",
+}
+# Second and later mentions of a character use a short reference instead of the full look.
+SHORT = {
+    "Lily": "the girl", "Max": "the puppy", "Mum": "the mother", "Dad": "the father", "Tom": "the little boy",
+    "Grandma": "the grandmother", "Grandpa": "the grandfather", "Aunt Kate": "the aunt", "Uncle Ben": "the uncle",
+    "Sam": "the boy with glasses",
 }
 
 
@@ -57,11 +69,12 @@ def prompt(scene: str) -> str:
     def sub(m: re.Match) -> str:  # full look on first mention, a short reference after
         name = m.group(1)
         if name in seen:
-            return {"Lily": "the girl", "Max": "the puppy", "Mum": "the mother", "Dad": "the father"}[name]
+            return SHORT[name]
         seen.add(name)
         return CAST[name]
 
-    scene = re.sub(r"\b(Lily|Max|Mum|Dad)\b(?: the (?:dog|puppy))?", sub, scene)
+    names = "|".join(sorted(CAST, key=len, reverse=True))
+    scene = re.sub(rf"\b({names})\b(?: the (?:dog|puppy))?", sub, scene)
     return f"{scene} {STYLE}"
 
 
