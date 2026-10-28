@@ -7,6 +7,7 @@ import { MapPage } from "./pages/MapPage";
 import { Parent } from "./pages/Parent";
 import { loadProgress, saveProgress, type Progress } from "./store/progress";
 import type { Word } from "./types";
+import { Max } from "./ui/Max";
 
 type Page = "home" | "map" | "learn" | "cards" | "parent";
 
@@ -72,7 +73,7 @@ export function App() {
             }}
           />
         )}
-        {page === "cards" && <Cards words={words} progress={progress} />}
+        {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
         {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
       </main>
       <nav className="nav">
@@ -92,9 +93,9 @@ function Onboarding({ onDone }: { onDone: (name: string, age: number) => void })
   const [age, setAge] = useState(9);
   return (
     <div className="page center onboarding">
-      <div className="big-emoji">🏝️🐶</div>
+      <Max pose="wave" size="lg" say="你好！我是小狗 Max～" />
       <h1>欢迎来到 KET 单词岛！</h1>
-      <p className="muted">我是小狗 Max，我会陪你认识 KET 的全部单词。</p>
+      <p className="muted">我会陪你一座岛一座岛地认识 KET 的全部单词。</p>
       <label>
         你叫什么名字？
         <input className="input" value={name} onChange={(e) => setName(e.target.value)} placeholder="例如：Lily" autoFocus />

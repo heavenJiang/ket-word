@@ -25,6 +25,11 @@
     "us": "media/us/animal.mp3"
    },
    "avoid": [
+    "cat",
+    "cow",
+    "dog",
+    "puppy",
+    "rabbit",
     "wild",
     "wildlife",
     "zoo"
@@ -207,8 +212,8 @@
    ],
    "emoji": "🐱",
    "sentence": {
-    "en": "Max and the cat are friends.",
-    "zh": "Max 和小猫是朋友。"
+    "en": "The cat has green eyes.",
+    "zh": "这只猫有绿色的眼睛。"
    },
    "media": {
     "img": "media/img/cat.webp",
@@ -216,8 +221,13 @@
     "us": "media/us/cat.mp3"
    },
    "avoid": [
+    "animal",
+    "cow",
+    "dog",
     "kitten",
-    "pet"
+    "pet",
+    "puppy",
+    "rabbit"
    ]
   },
   {
@@ -272,7 +282,13 @@
     "uk": "media/uk/cow.mp3",
     "us": "media/us/cow.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "animal",
+    "cat",
+    "dog",
+    "puppy",
+    "rabbit"
+   ]
   },
   {
    "id": "crocodile",
@@ -350,8 +366,13 @@
     "us": "media/us/dog.mp3"
    },
    "avoid": [
+    "animal",
+    "cat",
+    "cow",
+    "kitten",
     "pet",
     "puppy",
+    "rabbit",
     "tail"
    ]
   },
@@ -436,7 +457,10 @@
     "uk": "media/uk/elephant.mp3",
     "us": "media/us/elephant.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "giraffe",
+    "zoo"
+   ]
   },
   {
    "id": "fish",
@@ -515,7 +539,10 @@
     "uk": "media/uk/giraffe.mp3",
     "us": "media/us/giraffe.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "elephant",
+    "zoo"
+   ]
   },
   {
    "id": "goat",
@@ -643,7 +670,9 @@
    },
    "avoid": [
     "cat",
-    "pet"
+    "dog",
+    "pet",
+    "puppy"
    ]
   },
   {
@@ -668,7 +697,9 @@
     "uk": "media/uk/lion.mp3",
     "us": "media/us/lion.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "wild"
+   ]
   },
   {
    "id": "monkey",
@@ -856,8 +887,13 @@
     "us": "media/us/puppy.mp3"
    },
    "avoid": [
+    "animal",
+    "cat",
+    "cow",
     "dog",
+    "kitten",
     "pet",
+    "rabbit",
     "tail"
    ]
   },
@@ -883,7 +919,13 @@
     "uk": "media/uk/rabbit.mp3",
     "us": "media/us/rabbit.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "animal",
+    "cat",
+    "cow",
+    "dog",
+    "puppy"
+   ]
   },
   {
    "id": "shark",
@@ -1152,6 +1194,7 @@
    },
    "avoid": [
     "animal",
+    "lion",
     "wildlife",
     "zoo"
    ]
@@ -1261,6 +1304,8 @@
    },
    "avoid": [
     "animal",
+    "elephant",
+    "giraffe",
     "wild",
     "wildlife"
    ]

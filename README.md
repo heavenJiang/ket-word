@@ -12,7 +12,7 @@ npm run build
 ## 学习模型
 
 - **每日计划**：先复习到期的词（覆盖所有已开放岛屿，换岛不会丢下旧词），再从当前岛学新词（默认 8 个）。复习每天有上限（默认 30，含当天已做的），积压时暂停新词，避免几天没学后被几百个复习吓退。
-- **新词**：4 个一组。先“初见”（插画、发音、音节拆分、例句、跟读录音），再打乱顺序看图回忆。
+- **新词**：4 个一组。先“初见”（插画、发音、音节拆分、例句、跟读录音），再玩一轮不计分的图词配对游戏，然后打乱顺序看图回忆。听音题和拼写题可用 🐢 慢速重听。
 - **三项技能**：认识（看图/选中文）→ 第二天起解锁听音辨词 → 词义进入长期记忆后解锁字母块拼写。三项各自一张 FSRS 卡片，家长能看出孩子是“认识但不会拼”还是“会拼但听不出”。
 - **自动评分**：答错 → Again；答对但慢、用提示或拼错一次 → Hard；答对 → Good；拼写又快又准 → Easy。“慢”的阈值按年龄放宽。孩子不需要自己给自己打分。
 - **只有首次作答计分**：答错的词隔 3 题换一种题型再练（最多 2 次），重试不计分。
@@ -31,6 +31,7 @@ content/media/svg/<id>.svg           手绘矢量插画（Word Atlas 色板与�
   └─ scripts/ket/render_svg.mjs     → content/media/img/       渲染为 512px WebP，统一叠加纸张颗粒质感（需本机 Chrome）
   └─ scripts/ket/gen_comfy.py       → .local/gen/ → content/media/ai/    局域网生图机上的 ComfyUI（FLUX.1-dev，儿童绘本风格，固定角色形象）按 scene 字段出候选图，--sheet 出联系表人工挑选，--pick 放入，构建时优先于手绘版
   └─ scripts/ket/gen_images.py      → content/media/ai/        可选：用 OpenAI 兼容的图像 API 生成
+scripts/ket/gen_mascot.py           → public/media/ui/         吉祥物小狗 Max 的表情与成长阶段（同一套 FLUX 风格），人工挑选后 --pick 放入
   └─ scripts/ket/build_app_data.py  → public/data/             应用数据（自有插画优先于 Word Atlas）
                                     → public/media/            Word Atlas 插画与发音（缓存在 .local/media）
 ```

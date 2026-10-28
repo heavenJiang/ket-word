@@ -12,7 +12,11 @@
     ["fish", "shark", "dolphin", "whale"],
     ["sheep", "goat"],
     ["horse", "zebra"],
-    ["tortoise", "crocodile", "snake", "frog"]
+    ["tortoise", "crocodile", "snake", "frog"],
+    ["animal", "dog", "puppy", "cat", "rabbit", "cow"],
+    ["cat", "dog", "puppy", "kitten"],
+    ["zoo", "giraffe", "elephant"],
+    ["wild", "lion"]
   ],
   "words": [
     { "id": "animal", "zh": "动物", "chunks": ["an", "i", "mal"], "emoji": "🐾", "en": "Max is a happy animal.", "sz": "Max 是一只快乐的动物。", "scene": "A happy little group of friendly animals standing together on grass: a puppy, a cat, a rabbit and a cow." },
@@ -22,7 +26,7 @@
     { "id": "bird", "zh": "鸟", "chunks": ["bird"], "emoji": "🐦", "en": "The bird can sing.", "sz": "这只鸟会唱歌。", "scene": "One small round blue bird singing on a branch, beak open, little music notes floating up." },
     { "id": "butterfly", "zh": "蝴蝶", "chunks": ["but", "ter", "fly"], "emoji": "🦋", "en": "Look at the pretty butterfly!", "sz": "看那只漂亮的蝴蝶！", "scene": "One beautiful butterfly with big open orange and blue patterned wings flying over flowers." },
     { "id": "camel", "zh": "骆驼", "chunks": ["cam", "el"], "emoji": "🐪", "ipa": "/ˈkæməl/", "en": "A camel lives in the desert.", "sz": "骆驼生活在沙漠里。", "scene": "A single camel with one hump walking across golden sand dunes in the desert, low sun." },
-    { "id": "cat", "zh": "猫", "chunks": ["cat"], "emoji": "🐱", "en": "Max and the cat are friends.", "sz": "Max 和小猫是朋友。", "scene": "Max the puppy and a ginger cat sitting side by side as friends, the cat's tail curled around him." },
+    { "id": "cat", "zh": "猫", "chunks": ["cat"], "emoji": "🐱", "en": "The cat has green eyes.", "sz": "这只猫有绿色的眼睛。", "scene": "One fluffy ginger cat with green eyes sitting neatly, its long tail curled around its paws." },
     { "id": "chicken", "zh": "鸡；鸡肉", "chunks": ["chick", "en"], "emoji": "🐔", "en": "The chicken has a red head.", "sz": "这只鸡的头是红色的。", "scene": "One plump brown hen with a bright red comb standing on straw in a farmyard." },
     { "id": "cow", "zh": "奶牛", "chunks": ["cow"], "emoji": "🐄", "en": "We get milk from a cow.", "sz": "我们从奶牛那里得到牛奶。", "scene": "One black and white dairy cow with a pink nose standing in a green meadow, a metal milk pail beside her." },
     { "id": "crocodile", "zh": "鳄鱼", "chunks": ["croc", "o", "dile"], "emoji": "🐊", "en": "The crocodile has big teeth.", "sz": "鳄鱼有大大的牙齿。", "scene": "One green crocodile at a river bank with its long mouth wide open showing big white teeth." },

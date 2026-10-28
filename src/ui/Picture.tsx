@@ -37,3 +37,12 @@ export function SpeakButton({ onClick, label = "听", big }: { onClick: () => vo
     </button>
   );
 }
+
+/** Replay the word slowly. */
+export function SlowButton({ onClick }: { onClick: () => void }) {
+  return (
+    <button className="speak speak-slow" onClick={onClick} aria-label="慢速再听">
+      <span aria-hidden>🐢</span>
+    </button>
+  );
+}

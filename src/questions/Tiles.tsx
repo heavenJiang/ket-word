@@ -3,7 +3,8 @@ import { shuffle } from "../lib/choice";
 import { playWord, sfx } from "../lib/audio";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Word } from "../types";
-import { Picture, SpeakButton } from "../ui/Picture";
+import { Cheer, Max, praise } from "../ui/Max";
+import { Picture, SlowButton, SpeakButton } from "../ui/Picture";
 
 const isLetter = (c: string) => /[a-z]/i.test(c);
 const ALPHABET = "abcdefghijklmnopqrstuvwxyz";
@@ -50,6 +51,7 @@ export function Tiles(props: {
   const [mistakes, setMistakes] = useState(0);
   const [hinted, setHinted] = useState(false);
   const [done, setDone] = useState<"right" | "gaveup" | null>(null);
+  const [cheer] = useState(praise);
   const started = useRef(performance.now());
 
   useEffect(() => {
@@ -106,6 +108,7 @@ export function Tiles(props: {
         <div>
           <div className="stem-zh">{word.zh}</div>
           <SpeakButton onClick={() => playWord(word, accent)} label="听" />
+          <SlowButton onClick={() => playWord(word, accent, true)} />
         </div>
       </div>
 
@@ -148,8 +151,10 @@ export function Tiles(props: {
           )}
         </div>
       )}
+      {done === "right" && <Cheer text={cheer} />}
       {done === "gaveup" && (
         <div className="reveal">
+          <Max pose="think" size="sm" say="没关系，看清楚再记一次：" />
           <div className="reveal-word">{word.word}</div>
           <button
             className="btn btn-primary"

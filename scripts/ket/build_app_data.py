@@ -146,9 +146,10 @@ def main() -> None:
             json.dumps({"id": tid, "words": entries}, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{tid}: {len(entries)} words, {sum(1 for e in entries if 'img' in e['media'])} illustrated")
 
-    # drop media no longer referenced, e.g. an illustration blocked after review
+    # drop word media no longer referenced, e.g. an illustration blocked after review
+    # (media/ui holds the app's own pictures, such as the mascot, and is left alone)
     for f in MEDIA.rglob("*"):
-        if f.is_file() and f"media/{f.relative_to(MEDIA)}" not in used_media:
+        if f.is_file() and f.relative_to(MEDIA).parts[0] != "ui" and f"media/{f.relative_to(MEDIA)}" not in used_media:
             f.unlink()
             print(f"  - removed {f.relative_to(ROOT)}")
 
