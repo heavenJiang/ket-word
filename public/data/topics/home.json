@@ -1,0 +1,3237 @@
+{
+ "id": "home",
+ "words": [
+  {
+   "id": "address",
+   "word": "address",
+   "zh": "地址",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地址"
+    }
+   ],
+   "ipa": "/əˈdres/",
+   "chunks": [
+    "ad",
+    "dress"
+   ],
+   "emoji": "📮",
+   "sentence": {
+    "en": "What's your address?",
+    "zh": "你的地址是什么？"
+   },
+   "sentences": [
+    {
+     "en": "What's your address?",
+     "zh": "你的地址是什么？",
+     "audio": "media/sent/ea76126b5954.mp3"
+    },
+    {
+     "en": "Write your address on the letter.",
+     "zh": "在信上写上你的地址。",
+     "audio": "media/sent/ed6ce601b1f9.mp3"
+    },
+    {
+     "en": "Our new address is 7 Park Road.",
+     "zh": "我们的新地址是公园路 7 号。",
+     "audio": "media/sent/0c70d040deb0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/address.webp",
+    "uk": "media/uk/address.mp3",
+    "us": "media/us/address.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "apartment",
+   "word": "apartment",
+   "zh": "公寓（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公寓（美式）"
+    }
+   ],
+   "ipa": "/əˈpɑːtmənt/",
+   "chunks": [
+    "a",
+    "part",
+    "ment"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "My aunt lives in an apartment.",
+    "zh": "我姑姑住在一套公寓里。"
+   },
+   "sentences": [
+    {
+     "en": "My aunt lives in an apartment.",
+     "zh": "我姑姑住在一套公寓里。",
+     "audio": "media/sent/c57b1845423a.mp3"
+    },
+    {
+     "en": "The apartment is on the fifth floor.",
+     "zh": "这套公寓在六楼。",
+     "audio": "media/sent/2842bfefaee8.mp3"
+    },
+    {
+     "en": "Their apartment has two bedrooms.",
+     "zh": "他们的公寓有两间卧室。",
+     "audio": "media/sent/9ddec069dbc8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/apartment.webp",
+    "uk": "media/uk/apartment.mp3",
+    "us": "media/us/apartment.mp3"
+   },
+   "avoid": [
+    "flat",
+    "home",
+    "house"
+   ]
+  },
+  {
+   "id": "armchair",
+   "word": "armchair",
+   "zh": "扶手椅",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "扶手椅"
+    }
+   ],
+   "ipa": "/ˈɑːmtʃeə(r)/",
+   "chunks": [
+    "arm",
+    "chair"
+   ],
+   "emoji": "🛋️",
+   "sentence": {
+    "en": "Grandpa sleeps in his armchair.",
+    "zh": "爷爷在他的扶手椅上睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa sleeps in his armchair.",
+     "zh": "爷爷在他的扶手椅上睡觉。",
+     "audio": "media/sent/b19b1e19eea4.mp3"
+    },
+    {
+     "en": "This armchair is very comfortable.",
+     "zh": "这把扶手椅很舒服。",
+     "audio": "media/sent/dce237b9b46d.mp3"
+    },
+    {
+     "en": "Max sits in Dad's armchair.",
+     "zh": "Max 坐在爸爸的扶手椅上。",
+     "audio": "media/sent/64781af6fd1d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/armchair.webp",
+    "uk": "media/uk/armchair.mp3",
+    "us": "media/us/armchair.mp3"
+   },
+   "avoid": [
+    "chair",
+    "furniture",
+    "sofa"
+   ]
+  },
+  {
+   "id": "bath",
+   "word": "bath",
+   "zh": "浴缸；洗澡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "浴缸；洗澡"
+    }
+   ],
+   "ipa": "/bɑːθ/",
+   "chunks": [
+    "bath"
+   ],
+   "emoji": "🛁",
+   "sentence": {
+    "en": "Tom has a bath every evening.",
+    "zh": "Tom 每天晚上洗澡。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a bath every evening.",
+     "zh": "Tom 每天晚上洗澡。",
+     "audio": "media/sent/744472900d0a.mp3"
+    },
+    {
+     "en": "Max doesn't like his bath.",
+     "zh": "Max 不喜欢洗澡。",
+     "audio": "media/sent/37e8155ad445.mp3"
+    },
+    {
+     "en": "The bath is full of water.",
+     "zh": "浴缸里装满了水。",
+     "audio": "media/sent/8404699b8d9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bath.webp",
+    "uk": "media/uk/bath.mp3",
+    "us": "media/us/bath.mp3"
+   },
+   "avoid": [
+    "bathroom",
+    "bathtub",
+    "shower",
+    "sink",
+    "toilet"
+   ]
+  },
+  {
+   "id": "bathroom",
+   "word": "bathroom",
+   "zh": "浴室；卫生间",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "浴室；卫生间"
+    }
+   ],
+   "ipa": "/ˈbɑːθruːm/",
+   "chunks": [
+    "bath",
+    "room"
+   ],
+   "emoji": "🚿",
+   "sentence": {
+    "en": "The bathroom is upstairs.",
+    "zh": "浴室在楼上。"
+   },
+   "sentences": [
+    {
+     "en": "The bathroom is upstairs.",
+     "zh": "浴室在楼上。",
+     "audio": "media/sent/3f864d34bc9d.mp3"
+    },
+    {
+     "en": "Wash your hands in the bathroom.",
+     "zh": "去卫生间洗手。",
+     "audio": "media/sent/b2b6666a3168.mp3"
+    },
+    {
+     "en": "Our bathroom is blue and white.",
+     "zh": "我们的浴室是蓝白色的。",
+     "audio": "media/sent/7d175a5c8687.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bathroom.webp",
+    "uk": "media/uk/bathroom.mp3",
+    "us": "media/us/bathroom.mp3"
+   },
+   "avoid": [
+    "bath",
+    "bathtub",
+    "shower"
+   ]
+  },
+  {
+   "id": "bathtub",
+   "word": "bathtub",
+   "zh": "浴缸",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "浴缸"
+    }
+   ],
+   "ipa": "/ˈbɑːθtʌb/",
+   "chunks": [
+    "bath",
+    "tub"
+   ],
+   "emoji": "🛁",
+   "sentence": {
+    "en": "The bathtub is white.",
+    "zh": "浴缸是白色的。"
+   },
+   "sentences": [
+    {
+     "en": "The bathtub is white.",
+     "zh": "浴缸是白色的。",
+     "audio": "media/sent/f78645aa773e.mp3"
+    },
+    {
+     "en": "Lily fills the bathtub with water.",
+     "zh": "Lily 往浴缸里放水。",
+     "audio": "media/sent/d244408cf3d4.mp3"
+    },
+    {
+     "en": "There's a duck in the bathtub!",
+     "zh": "浴缸里有只鸭子！",
+     "audio": "media/sent/4524d735a7ba.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bathtub.webp",
+    "uk": "media/uk/bathtub.mp3",
+    "us": "media/us/bathtub.mp3"
+   },
+   "avoid": [
+    "bath",
+    "bathroom",
+    "shower"
+   ]
+  },
+  {
+   "id": "bed",
+   "word": "bed",
+   "zh": "床",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "床"
+    }
+   ],
+   "ipa": "/bed/",
+   "chunks": [
+    "bed"
+   ],
+   "emoji": "🛏️",
+   "sentence": {
+    "en": "It's nine o'clock. Time for bed!",
+    "zh": "九点了，该睡觉了！"
+   },
+   "sentences": [
+    {
+     "en": "It's nine o'clock. Time for bed!",
+     "zh": "九点了，该睡觉了！",
+     "audio": "media/sent/9bbd64605922.mp3"
+    },
+    {
+     "en": "My bed is next to the window.",
+     "zh": "我的床在窗户旁边。",
+     "audio": "media/sent/a91939e0ec07.mp3"
+    },
+    {
+     "en": "Max sleeps on Lily's bed.",
+     "zh": "Max 睡在 Lily 的床上。",
+     "audio": "media/sent/fb11cb773021.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bed.webp",
+    "uk": "media/uk/bed.mp3",
+    "us": "media/us/bed.mp3"
+   },
+   "avoid": [
+    "bedroom",
+    "blanket",
+    "pillow"
+   ]
+  },
+  {
+   "id": "bedroom",
+   "word": "bedroom",
+   "zh": "卧室",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "卧室"
+    }
+   ],
+   "ipa": "/ˈbedruːm/",
+   "chunks": [
+    "bed",
+    "room"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Lily's bedroom is small but nice.",
+    "zh": "Lily 的卧室很小但很漂亮。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's bedroom is small but nice.",
+     "zh": "Lily 的卧室很小但很漂亮。",
+     "audio": "media/sent/d57410dfe99d.mp3"
+    },
+    {
+     "en": "Tidy your bedroom, please.",
+     "zh": "请收拾一下你的卧室。",
+     "audio": "media/sent/08d2177f7a47.mp3"
+    },
+    {
+     "en": "There are three bedrooms in our house.",
+     "zh": "我们家有三间卧室。",
+     "audio": "media/sent/da01c6e77d90.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bedroom.webp",
+    "uk": "media/uk/bedroom.mp3",
+    "us": "media/us/bedroom.mp3"
+   },
+   "avoid": [
+    "bed",
+    "blanket",
+    "dining-room",
+    "hall",
+    "kitchen",
+    "living-room",
+    "pillow",
+    "room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "bin",
+   "word": "bin",
+   "zh": "垃圾桶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "垃圾桶"
+    }
+   ],
+   "ipa": "/bɪn/",
+   "chunks": [
+    "bin"
+   ],
+   "emoji": "🗑️",
+   "sentence": {
+    "en": "Put the paper in the bin.",
+    "zh": "把纸扔进垃圾桶。"
+   },
+   "sentences": [
+    {
+     "en": "Put the paper in the bin.",
+     "zh": "把纸扔进垃圾桶。",
+     "audio": "media/sent/92ae29ed5c7b.mp3"
+    },
+    {
+     "en": "The bin is full.",
+     "zh": "垃圾桶满了。",
+     "audio": "media/sent/864b01c10f25.mp3"
+    },
+    {
+     "en": "Max looks in the bin for food.",
+     "zh": "Max 在垃圾桶里找吃的。",
+     "audio": "media/sent/9457bbe109ba.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bin.webp",
+    "uk": "media/uk/bin.mp3",
+    "us": "media/us/bin.mp3"
+   },
+   "avoid": [
+    "rubbish"
+   ]
+  },
+  {
+   "id": "blanket",
+   "word": "blanket",
+   "zh": "毯子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "毯子"
+    }
+   ],
+   "ipa": "/ˈblæŋkɪt/",
+   "chunks": [
+    "blan",
+    "ket"
+   ],
+   "emoji": "🧶",
+   "sentence": {
+    "en": "It's cold. Take a blanket.",
+    "zh": "天冷，拿条毯子吧。"
+   },
+   "sentences": [
+    {
+     "en": "It's cold. Take a blanket.",
+     "zh": "天冷，拿条毯子吧。",
+     "audio": "media/sent/eee4103bc7bd.mp3"
+    },
+    {
+     "en": "Max sleeps under a blanket.",
+     "zh": "Max 盖着毯子睡觉。",
+     "audio": "media/sent/25ac02818533.mp3"
+    },
+    {
+     "en": "This blanket is very warm.",
+     "zh": "这条毯子很暖和。",
+     "audio": "media/sent/c73b3c220a42.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/blanket.webp",
+    "uk": "media/uk/blanket.mp3",
+    "us": "media/us/blanket.mp3"
+   },
+   "avoid": [
+    "bed",
+    "bedroom",
+    "pillow"
+   ]
+  },
+  {
+   "id": "bookcase",
+   "word": "bookcase",
+   "zh": "书柜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书柜"
+    }
+   ],
+   "ipa": "/ˈbʊkkeɪs/",
+   "chunks": [
+    "book",
+    "case"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "The bookcase is full of books.",
+    "zh": "书柜里装满了书。"
+   },
+   "sentences": [
+    {
+     "en": "The bookcase is full of books.",
+     "zh": "书柜里装满了书。",
+     "audio": "media/sent/bfdee3f59385.mp3"
+    },
+    {
+     "en": "Dad makes a new bookcase.",
+     "zh": "爸爸做了一个新书柜。",
+     "audio": "media/sent/a7ac6d03f4ae.mp3"
+    },
+    {
+     "en": "Put the dictionary in the bookcase.",
+     "zh": "把词典放进书柜。",
+     "audio": "media/sent/90be26e89efd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookcase.webp",
+    "uk": "media/uk/bookcase.mp3",
+    "us": "media/us/bookcase.mp3"
+   },
+   "avoid": [
+    "bookshelf",
+    "shelf"
+   ]
+  },
+  {
+   "id": "bookshelf",
+   "word": "bookshelf",
+   "zh": "书架",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书架"
+    }
+   ],
+   "ipa": "/ˈbʊkʃelf/",
+   "chunks": [
+    "book",
+    "shelf"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Put the books on the bookshelf.",
+    "zh": "把书放到书架上。"
+   },
+   "sentences": [
+    {
+     "en": "Put the books on the bookshelf.",
+     "zh": "把书放到书架上。",
+     "audio": "media/sent/add6e7583bc0.mp3"
+    },
+    {
+     "en": "My bookshelf is full.",
+     "zh": "我的书架满了。",
+     "audio": "media/sent/38366a4e1ac6.mp3"
+    },
+    {
+     "en": "There is a big bookshelf in the classroom.",
+     "zh": "教室里有一个大书架。",
+     "audio": "media/sent/fe9b78c430a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookshelf.webp",
+    "uk": "media/uk/bookshelf.mp3",
+    "us": "media/us/bookshelf.mp3"
+   },
+   "avoid": [
+    "bookcase",
+    "shelf"
+   ]
+  },
+  {
+   "id": "bowl",
+   "word": "bowl",
+   "zh": "碗",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "碗"
+    }
+   ],
+   "ipa": "/bəʊl/",
+   "chunks": [
+    "bowl"
+   ],
+   "emoji": "🥣",
+   "sentence": {
+    "en": "Max has a blue bowl.",
+    "zh": "Max 有一个蓝色的碗。"
+   },
+   "sentences": [
+    {
+     "en": "Max has a blue bowl.",
+     "zh": "Max 有一个蓝色的碗。",
+     "audio": "media/sent/98afd3ebc3e7.mp3"
+    },
+    {
+     "en": "Lily eats her soup from a bowl.",
+     "zh": "Lily 用碗喝汤。",
+     "audio": "media/sent/b8eb5f867898.mp3"
+    },
+    {
+     "en": "Put the fruit in the big bowl.",
+     "zh": "把水果放进大碗里。",
+     "audio": "media/sent/dd70a3a5fbcf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bowl.webp",
+    "uk": "media/uk/bowl.mp3",
+    "us": "media/us/bowl.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "box",
+   "word": "box",
+   "zh": "盒子；箱子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "盒子；箱子"
+    }
+   ],
+   "ipa": "/bɒks/",
+   "chunks": [
+    "box"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "The cups are in a big box.",
+    "zh": "杯子装在一个大箱子里。"
+   },
+   "sentences": [
+    {
+     "en": "The cups are in a big box.",
+     "zh": "杯子装在一个大箱子里。",
+     "audio": "media/sent/b626475e5210.mp3"
+    },
+    {
+     "en": "The cake is in a box.",
+     "zh": "蛋糕在盒子里。",
+     "audio": "media/sent/ad1b68705a59.mp3"
+    },
+    {
+     "en": "Lily opens the box of chocolates.",
+     "zh": "Lily 打开那盒巧克力。",
+     "audio": "media/sent/14cafd5b38f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/box.webp",
+    "uk": "media/uk/box.mp3",
+    "us": "media/us/box.mp3"
+   },
+   "avoid": [
+    "cupboard",
+    "drawer",
+    "shelf"
+   ]
+  },
+  {
+   "id": "carpet",
+   "word": "carpet",
+   "zh": "地毯",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地毯"
+    }
+   ],
+   "ipa": "/ˈkɑːpɪt/",
+   "chunks": [
+    "car",
+    "pet"
+   ],
+   "emoji": "🟥",
+   "sentence": {
+    "en": "There's a red carpet in the living room.",
+    "zh": "客厅里有一块红地毯。"
+   },
+   "sentences": [
+    {
+     "en": "There's a red carpet in the living room.",
+     "zh": "客厅里有一块红地毯。",
+     "audio": "media/sent/3b5a7c164b6a.mp3"
+    },
+    {
+     "en": "Don't put your feet on the carpet!",
+     "zh": "别把脚踩在地毯上！",
+     "audio": "media/sent/ca5c0ec4d6cc.mp3"
+    },
+    {
+     "en": "Max is sleeping on the carpet.",
+     "zh": "Max 在地毯上睡觉。",
+     "audio": "media/sent/0e2d37a4149e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/carpet.webp",
+    "uk": "media/uk/carpet.mp3",
+    "us": "media/us/carpet.mp3"
+   },
+   "avoid": [
+    "floor"
+   ]
+  },
+  {
+   "id": "chair",
+   "word": "chair",
+   "zh": "椅子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "椅子"
+    }
+   ],
+   "ipa": "/tʃeə/",
+   "chunks": [
+    "chair"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Sit on the chair, please.",
+    "zh": "请坐在椅子上。"
+   },
+   "sentences": [
+    {
+     "en": "Sit on the chair, please.",
+     "zh": "请坐在椅子上。",
+     "audio": "media/sent/afa844edb2ff.mp3"
+    },
+    {
+     "en": "There are four chairs in the kitchen.",
+     "zh": "厨房里有四把椅子。",
+     "audio": "media/sent/78682fd4a445.mp3"
+    },
+    {
+     "en": "This chair is too small for Dad.",
+     "zh": "这把椅子爸爸坐太小了。",
+     "audio": "media/sent/218a8042f51c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chair.webp",
+    "uk": "media/uk/chair.mp3",
+    "us": "media/us/chair.mp3"
+   },
+   "avoid": [
+    "armchair",
+    "furniture",
+    "sofa"
+   ]
+  },
+  {
+   "id": "clock",
+   "word": "clock",
+   "zh": "钟；时钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钟；时钟"
+    }
+   ],
+   "ipa": "/klɒk/",
+   "chunks": [
+    "clock"
+   ],
+   "emoji": "🕰️",
+   "sentence": {
+    "en": "The clock says seven o'clock.",
+    "zh": "钟显示七点。"
+   },
+   "sentences": [
+    {
+     "en": "The clock says seven o'clock.",
+     "zh": "钟显示七点。",
+     "audio": "media/sent/fe4a8029fdf4.mp3"
+    },
+    {
+     "en": "There's a big clock in the hall.",
+     "zh": "门厅里有一个大钟。",
+     "audio": "media/sent/f530b4d025d6.mp3"
+    },
+    {
+     "en": "Look at the clock. We're late!",
+     "zh": "看看钟，我们迟到了！",
+     "audio": "media/sent/0dd6055cd87d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clock.webp",
+    "uk": "media/uk/clock.mp3",
+    "us": "media/us/clock.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "computer",
+   "word": "computer",
+   "zh": "电脑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电脑"
+    }
+   ],
+   "ipa": "/kəmˈpjuːtə/",
+   "chunks": [
+    "com",
+    "pu",
+    "ter"
+   ],
+   "emoji": "💻",
+   "sentence": {
+    "en": "Dad works on his computer.",
+    "zh": "爸爸在电脑上工作。"
+   },
+   "sentences": [
+    {
+     "en": "Dad works on his computer.",
+     "zh": "爸爸在电脑上工作。",
+     "audio": "media/sent/7a727c79773e.mp3"
+    },
+    {
+     "en": "Can I use the computer?",
+     "zh": "我可以用电脑吗？",
+     "audio": "media/sent/047106b7f191.mp3"
+    },
+    {
+     "en": "The computer is in my bedroom.",
+     "zh": "电脑在我的卧室里。",
+     "audio": "media/sent/06600bdb946c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/computer.webp",
+    "uk": "media/uk/computer.mp3",
+    "us": "media/us/computer.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "cooker",
+   "word": "cooker",
+   "zh": "炉灶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "炉灶"
+    }
+   ],
+   "ipa": "/ˈkʊkə/",
+   "chunks": [
+    "cook",
+    "er"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "Don't put your hand on the cooker. It's hot!",
+    "zh": "别把手放在炉灶上，很烫！"
+   },
+   "sentences": [
+    {
+     "en": "Don't put your hand on the cooker. It's hot!",
+     "zh": "别把手放在炉灶上，很烫！",
+     "audio": "media/sent/bb718dc2e792.mp3"
+    },
+    {
+     "en": "We have a new cooker in the kitchen.",
+     "zh": "我们厨房里有个新炉灶。",
+     "audio": "media/sent/d2ed9532134f.mp3"
+    },
+    {
+     "en": "The soup is on the cooker.",
+     "zh": "汤在炉灶上。",
+     "audio": "media/sent/48b7320078eb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cooker.webp",
+    "uk": "media/uk/cooker.mp3",
+    "us": "media/us/cooker.mp3"
+   },
+   "avoid": [
+    "gas",
+    "oven"
+   ]
+  },
+  {
+   "id": "cupboard",
+   "word": "cupboard",
+   "zh": "橱柜；衣柜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橱柜；衣柜"
+    }
+   ],
+   "ipa": "/ˈkʌbəd/",
+   "chunks": [
+    "cup",
+    "board"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "The cups are in the cupboard.",
+    "zh": "杯子在橱柜里。"
+   },
+   "sentences": [
+    {
+     "en": "The cups are in the cupboard.",
+     "zh": "杯子在橱柜里。",
+     "audio": "media/sent/fca55daa5c6e.mp3"
+    },
+    {
+     "en": "Put your toys in the cupboard.",
+     "zh": "把玩具放进柜子里。",
+     "audio": "media/sent/e049ec90c160.mp3"
+    },
+    {
+     "en": "The cupboard is next to the sink.",
+     "zh": "橱柜在水槽旁边。",
+     "audio": "media/sent/3f380c2bf409.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cupboard.webp",
+    "uk": "media/uk/cupboard.mp3",
+    "us": "media/us/cupboard.mp3"
+   },
+   "avoid": [
+    "box",
+    "drawer",
+    "shelf"
+   ]
+  },
+  {
+   "id": "curtain",
+   "word": "curtain",
+   "zh": "窗帘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "窗帘"
+    }
+   ],
+   "ipa": "/ˈkɜːtən/",
+   "chunks": [
+    "cur",
+    "tain"
+   ],
+   "emoji": "🪟",
+   "sentence": {
+    "en": "Close the curtains, please.",
+    "zh": "请拉上窗帘。"
+   },
+   "sentences": [
+    {
+     "en": "Close the curtains, please.",
+     "zh": "请拉上窗帘。",
+     "audio": "media/sent/26e155e02bf3.mp3"
+    },
+    {
+     "en": "Max is sleeping behind the curtain.",
+     "zh": "Max 在窗帘后面睡觉。",
+     "audio": "media/sent/e9684e75a9f4.mp3"
+    },
+    {
+     "en": "Open the curtains. It's sunny!",
+     "zh": "拉开窗帘，出太阳了！",
+     "audio": "media/sent/7766c69a0eae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/curtain.webp",
+    "uk": "media/uk/curtain.mp3",
+    "us": "media/us/curtain.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "desk",
+   "word": "desk",
+   "zh": "书桌；课桌",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书桌；课桌"
+    }
+   ],
+   "ipa": "/desk/",
+   "chunks": [
+    "desk"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Lily's books are on her desk.",
+    "zh": "Lily 的书在她的书桌上。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's books are on her desk.",
+     "zh": "Lily 的书在她的书桌上。",
+     "audio": "media/sent/9f5dad1fdec1.mp3"
+    },
+    {
+     "en": "Sit at your desk, please.",
+     "zh": "请坐到你的座位上。",
+     "audio": "media/sent/4b039581c6a2.mp3"
+    },
+    {
+     "en": "My desk is next to the window.",
+     "zh": "我的课桌在窗边。",
+     "audio": "media/sent/bbac9cc2d3f7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/desk.webp",
+    "uk": "media/uk/desk.mp3",
+    "us": "media/us/desk.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dining-room",
+   "word": "dining room",
+   "zh": "餐厅（家里）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "餐厅（家里）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "din",
+    "ing",
+    "room"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We have dinner in the dining room.",
+    "zh": "我们在餐厅吃晚饭。"
+   },
+   "sentences": [
+    {
+     "en": "We have dinner in the dining room.",
+     "zh": "我们在餐厅吃晚饭。",
+     "audio": "media/sent/56dfcdfb345c.mp3"
+    },
+    {
+     "en": "The dining room is next to the kitchen.",
+     "zh": "餐厅在厨房旁边。",
+     "audio": "media/sent/713a7f9698d1.mp3"
+    },
+    {
+     "en": "Our dining room has a big table.",
+     "zh": "我们的餐厅有一张大桌子。",
+     "audio": "media/sent/7d3cb99fed34.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dining-room.webp"
+   },
+   "avoid": [
+    "bedroom",
+    "hall",
+    "kitchen",
+    "living-room",
+    "room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "door",
+   "word": "door",
+   "zh": "门",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "门"
+    }
+   ],
+   "ipa": "/dɔː/",
+   "chunks": [
+    "door"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "Please close the door.",
+    "zh": "请关门。"
+   },
+   "sentences": [
+    {
+     "en": "Please close the door.",
+     "zh": "请关门。",
+     "audio": "media/sent/1dcf0e1fd643.mp3"
+    },
+    {
+     "en": "Someone is at the door.",
+     "zh": "有人在门口。",
+     "audio": "media/sent/e2251adbce50.mp3"
+    },
+    {
+     "en": "Max is waiting at the door.",
+     "zh": "Max 在门口等着。",
+     "audio": "media/sent/6d7bbe693f8a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/door.webp",
+    "uk": "media/uk/door.mp3",
+    "us": "media/us/door.mp3"
+   },
+   "avoid": [
+    "entrance",
+    "gate"
+   ]
+  },
+  {
+   "id": "downstairs",
+   "word": "downstairs",
+   "zh": "在楼下；到楼下",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "在楼下；到楼下"
+    }
+   ],
+   "ipa": "/ˌdaʊnˈsteəz/",
+   "chunks": [
+    "down",
+    "stairs"
+   ],
+   "emoji": "⬇️",
+   "sentence": {
+    "en": "Breakfast is ready. Come downstairs!",
+    "zh": "早餐好了，下楼来！"
+   },
+   "sentences": [
+    {
+     "en": "Breakfast is ready. Come downstairs!",
+     "zh": "早餐好了，下楼来！",
+     "audio": "media/sent/5df059a9837a.mp3"
+    },
+    {
+     "en": "The kitchen is downstairs.",
+     "zh": "厨房在楼下。",
+     "audio": "media/sent/c35583e3ea86.mp3"
+    },
+    {
+     "en": "Tom runs downstairs.",
+     "zh": "Tom 跑下楼。",
+     "audio": "media/sent/0fdd45639cb9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/downstairs.webp",
+    "uk": "media/uk/downstairs.mp3",
+    "us": "media/us/downstairs.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "drawer",
+   "word": "drawer",
+   "zh": "抽屉",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "抽屉"
+    }
+   ],
+   "ipa": "/drɔː/",
+   "chunks": [
+    "draw",
+    "er"
+   ],
+   "emoji": "🗄️",
+   "sentence": {
+    "en": "The spoons are in the drawer.",
+    "zh": "勺子在抽屉里。"
+   },
+   "sentences": [
+    {
+     "en": "The spoons are in the drawer.",
+     "zh": "勺子在抽屉里。",
+     "audio": "media/sent/0920b016f347.mp3"
+    },
+    {
+     "en": "Open the top drawer.",
+     "zh": "打开最上面的抽屉。",
+     "audio": "media/sent/7d72b55508c3.mp3"
+    },
+    {
+     "en": "My socks are in this drawer.",
+     "zh": "我的袜子在这个抽屉里。",
+     "audio": "media/sent/1e6852982a16.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drawer.webp",
+    "uk": "media/uk/drawer.mp3",
+    "us": "media/us/drawer.mp3"
+   },
+   "avoid": [
+    "box",
+    "cupboard",
+    "shelf"
+   ]
+  },
+  {
+   "id": "dvd",
+   "word": "DVD",
+   "zh": "DVD 光盘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 光盘"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D"
+   ],
+   "emoji": "📀",
+   "sentence": {
+    "en": "Let's watch a DVD tonight.",
+    "zh": "我们今晚看张 DVD 吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's watch a DVD tonight.",
+     "zh": "我们今晚看张 DVD 吧。",
+     "audio": "media/sent/a14fd5ece674.mp3"
+    },
+    {
+     "en": "This DVD is about animals.",
+     "zh": "这张 DVD 是讲动物的。",
+     "audio": "media/sent/9745cd238491.mp3"
+    },
+    {
+     "en": "Can I borrow your DVD?",
+     "zh": "我能借你的 DVD 吗？",
+     "audio": "media/sent/52e75d7fd5f8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd.webp"
+   },
+   "avoid": [
+    "dvd-player"
+   ]
+  },
+  {
+   "id": "dvd-player",
+   "word": "DVD player",
+   "zh": "DVD 播放机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 播放机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D",
+    "play",
+    "er"
+   ],
+   "emoji": "📼",
+   "sentence": {
+    "en": "Put the DVD in the DVD player.",
+    "zh": "把光盘放进 DVD 播放机。"
+   },
+   "sentences": [
+    {
+     "en": "Put the DVD in the DVD player.",
+     "zh": "把光盘放进 DVD 播放机。",
+     "audio": "media/sent/c036155c2108.mp3"
+    },
+    {
+     "en": "Our DVD player is very old.",
+     "zh": "我们的 DVD 播放机很旧了。",
+     "audio": "media/sent/f140b9679aa6.mp3"
+    },
+    {
+     "en": "The DVD player doesn't work.",
+     "zh": "DVD 播放机坏了。",
+     "audio": "media/sent/f8a4c7f390fc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd-player.webp"
+   },
+   "avoid": [
+    "dvd"
+   ]
+  },
+  {
+   "id": "entrance",
+   "word": "entrance",
+   "zh": "入口",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "入口"
+    }
+   ],
+   "ipa": "/ˈentrəns/",
+   "chunks": [
+    "en",
+    "trance"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "The entrance is at the front of the house.",
+    "zh": "入口在房子前面。"
+   },
+   "sentences": [
+    {
+     "en": "The entrance is at the front of the house.",
+     "zh": "入口在房子前面。",
+     "audio": "media/sent/2c203d802173.mp3"
+    },
+    {
+     "en": "Wait for me at the entrance.",
+     "zh": "在入口处等我。",
+     "audio": "media/sent/63bbafca91dc.mp3"
+    },
+    {
+     "en": "Where is the entrance?",
+     "zh": "入口在哪里？",
+     "audio": "media/sent/1ed2fc77a339.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/entrance.webp",
+    "uk": "media/uk/entrance.mp3",
+    "us": "media/us/entrance.mp3"
+   },
+   "avoid": [
+    "door",
+    "gate"
+   ]
+  },
+  {
+   "id": "flat",
+   "word": "flat",
+   "zh": "公寓（英式）；平的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公寓（英式）"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "平的",
+     "en": "The road is flat."
+    }
+   ],
+   "ipa": "/flæt/",
+   "chunks": [
+    "flat"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "We live in a flat in the city.",
+    "zh": "我们住在城里的一套公寓里。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a flat in the city.",
+     "zh": "我们住在城里的一套公寓里。",
+     "audio": "media/sent/f64bf636c328.mp3"
+    },
+    {
+     "en": "Our flat is on the second floor.",
+     "zh": "我们的公寓在三楼。",
+     "audio": "media/sent/443e192b8f81.mp3"
+    },
+    {
+     "en": "This is a very small flat.",
+     "zh": "这是一套很小的公寓。",
+     "audio": "media/sent/46aa85991414.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/flat.webp",
+    "uk": "media/uk/flat.mp3",
+    "us": "media/us/flat.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "home",
+    "house"
+   ]
+  },
+  {
+   "id": "floor",
+   "word": "floor",
+   "zh": "地板；楼层",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地板；楼层"
+    }
+   ],
+   "ipa": "/flɔː/",
+   "chunks": [
+    "floor"
+   ],
+   "emoji": "🟫",
+   "sentence": {
+    "en": "Your clothes are on the floor!",
+    "zh": "你的衣服扔在地板上！"
+   },
+   "sentences": [
+    {
+     "en": "Your clothes are on the floor!",
+     "zh": "你的衣服扔在地板上！",
+     "audio": "media/sent/6c7dd1c600ce.mp3"
+    },
+    {
+     "en": "We live on the third floor.",
+     "zh": "我们住在四楼。",
+     "audio": "media/sent/86b21db572b6.mp3"
+    },
+    {
+     "en": "Max sleeps on the floor.",
+     "zh": "Max 睡在地板上。",
+     "audio": "media/sent/17b9c77f18d5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/floor.webp",
+    "uk": "media/uk/floor.mp3",
+    "us": "media/us/floor.mp3"
+   },
+   "avoid": [
+    "carpet"
+   ]
+  },
+  {
+   "id": "fridge",
+   "word": "fridge",
+   "zh": "冰箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰箱"
+    }
+   ],
+   "ipa": "/frɪdʒ/",
+   "chunks": [
+    "fridge"
+   ],
+   "emoji": "🧊",
+   "sentence": {
+    "en": "The milk is in the fridge.",
+    "zh": "牛奶在冰箱里。"
+   },
+   "sentences": [
+    {
+     "en": "The milk is in the fridge.",
+     "zh": "牛奶在冰箱里。",
+     "audio": "media/sent/7872f7f31ac5.mp3"
+    },
+    {
+     "en": "Put the butter in the fridge.",
+     "zh": "把黄油放进冰箱。",
+     "audio": "media/sent/19b872fbd104.mp3"
+    },
+    {
+     "en": "There is cola in the fridge.",
+     "zh": "冰箱里有可乐。",
+     "audio": "media/sent/eb5cbb8b9ad9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fridge.webp",
+    "uk": "media/uk/fridge.mp3",
+    "us": "media/us/fridge.mp3"
+   },
+   "avoid": [
+    "refrigerator"
+   ]
+  },
+  {
+   "id": "furniture",
+   "word": "furniture",
+   "zh": "家具",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "家具"
+    }
+   ],
+   "ipa": "/ˈfɜːnɪtʃə/",
+   "chunks": [
+    "fur",
+    "ni",
+    "ture"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "We need new furniture for the living room.",
+    "zh": "客厅需要新家具。"
+   },
+   "sentences": [
+    {
+     "en": "We need new furniture for the living room.",
+     "zh": "客厅需要新家具。",
+     "audio": "media/sent/acfc2a52b3e6.mp3"
+    },
+    {
+     "en": "All the furniture is new.",
+     "zh": "所有家具都是新的。",
+     "audio": "media/sent/294308591177.mp3"
+    },
+    {
+     "en": "This shop sells furniture.",
+     "zh": "这家店卖家具。",
+     "audio": "media/sent/15c766150ede.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/furniture.webp",
+    "uk": "media/uk/furniture.mp3",
+    "us": "media/us/furniture.mp3"
+   },
+   "avoid": [
+    "armchair",
+    "chair",
+    "sofa"
+   ]
+  },
+  {
+   "id": "garage",
+   "word": "garage",
+   "zh": "车库",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车库"
+    }
+   ],
+   "ipa": "/ˈɡærɑːʒ/",
+   "chunks": [
+    "ga",
+    "rage"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "Dad's car is in the garage.",
+    "zh": "爸爸的车在车库里。"
+   },
+   "sentences": [
+    {
+     "en": "Dad's car is in the garage.",
+     "zh": "爸爸的车在车库里。",
+     "audio": "media/sent/3d934e402c93.mp3"
+    },
+    {
+     "en": "The bikes are in the garage.",
+     "zh": "自行车在车库里。",
+     "audio": "media/sent/825c6d1deef0.mp3"
+    },
+    {
+     "en": "Close the garage door.",
+     "zh": "关上车库门。",
+     "audio": "media/sent/ee3e85086f50.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garage.webp",
+    "uk": "media/uk/garage.mp3",
+    "us": "media/us/garage.mp3"
+   },
+   "avoid": [
+    "garden"
+   ]
+  },
+  {
+   "id": "garden",
+   "word": "garden",
+   "zh": "花园",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "花园"
+    }
+   ],
+   "ipa": "/ˈɡɑːdən/",
+   "chunks": [
+    "gar",
+    "den"
+   ],
+   "emoji": "🌷",
+   "sentence": {
+    "en": "Max plays in the garden.",
+    "zh": "Max 在花园里玩。"
+   },
+   "sentences": [
+    {
+     "en": "Max plays in the garden.",
+     "zh": "Max 在花园里玩。",
+     "audio": "media/sent/3cf874235cb4.mp3"
+    },
+    {
+     "en": "Grandma has a big garden.",
+     "zh": "奶奶有一个大花园。",
+     "audio": "media/sent/e6c8ad7eb810.mp3"
+    },
+    {
+     "en": "We eat in the garden in summer.",
+     "zh": "夏天我们在花园里吃饭。",
+     "audio": "media/sent/36bf1ab92f34.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garden.webp",
+    "uk": "media/uk/garden.mp3",
+    "us": "media/us/garden.mp3"
+   },
+   "avoid": [
+    "garage"
+   ]
+  },
+  {
+   "id": "gas",
+   "word": "gas",
+   "zh": "燃气；煤气",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "燃气；煤气"
+    }
+   ],
+   "ipa": "/ɡæs/",
+   "chunks": [
+    "gas"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "We cook with gas.",
+    "zh": "我们用燃气做饭。"
+   },
+   "sentences": [
+    {
+     "en": "We cook with gas.",
+     "zh": "我们用燃气做饭。",
+     "audio": "media/sent/f1449c3d87e4.mp3"
+    },
+    {
+     "en": "Turn off the gas, please.",
+     "zh": "请关掉燃气。",
+     "audio": "media/sent/d4746abaa5f3.mp3"
+    },
+    {
+     "en": "Our cooker uses gas.",
+     "zh": "我们的炉灶用燃气。",
+     "audio": "media/sent/71a059aaee42.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gas.webp",
+    "uk": "media/uk/gas.mp3",
+    "us": "media/us/gas.mp3"
+   },
+   "avoid": [
+    "cooker",
+    "heating",
+    "oven"
+   ]
+  },
+  {
+   "id": "gate",
+   "word": "gate",
+   "zh": "大门；院门",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大门；院门"
+    }
+   ],
+   "ipa": "/ɡeɪt/",
+   "chunks": [
+    "gate"
+   ],
+   "emoji": "🚧",
+   "sentence": {
+    "en": "Close the gate, or Max will run out!",
+    "zh": "关上院门，不然 Max 会跑出去！"
+   },
+   "sentences": [
+    {
+     "en": "Close the gate, or Max will run out!",
+     "zh": "关上院门，不然 Max 会跑出去！",
+     "audio": "media/sent/af6977b93ac9.mp3"
+    },
+    {
+     "en": "The gate is open.",
+     "zh": "大门开着。",
+     "audio": "media/sent/3a2286044e0d.mp3"
+    },
+    {
+     "en": "Grandpa is waiting at the gate.",
+     "zh": "爷爷在门口等着。",
+     "audio": "media/sent/05acb5ee3c81.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gate.webp",
+    "uk": "media/uk/gate.mp3",
+    "us": "media/us/gate.mp3"
+   },
+   "avoid": [
+    "door",
+    "entrance"
+   ]
+  },
+  {
+   "id": "hall",
+   "word": "hall",
+   "zh": "门厅；大厅",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "门厅；大厅"
+    }
+   ],
+   "ipa": "/hɔːl/",
+   "chunks": [
+    "hall"
+   ],
+   "emoji": "🧥",
+   "sentence": {
+    "en": "Put your shoes in the hall.",
+    "zh": "把鞋放在门厅里。"
+   },
+   "sentences": [
+    {
+     "en": "Put your shoes in the hall.",
+     "zh": "把鞋放在门厅里。",
+     "audio": "media/sent/a95b360bf7ce.mp3"
+    },
+    {
+     "en": "The phone is in the hall.",
+     "zh": "电话在门厅里。",
+     "audio": "media/sent/5c3e928824e2.mp3"
+    },
+    {
+     "en": "We have a concert in the school hall.",
+     "zh": "我们在学校礼堂开音乐会。",
+     "audio": "media/sent/43bb25950e79.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hall.webp",
+    "uk": "media/uk/hall.mp3",
+    "us": "media/us/hall.mp3"
+   },
+   "avoid": [
+    "bedroom",
+    "dining-room",
+    "kitchen",
+    "living-room",
+    "room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "heating",
+   "word": "heating",
+   "zh": "暖气；供暖",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "暖气；供暖"
+    }
+   ],
+   "ipa": "/ˈhiːtɪŋ/",
+   "chunks": [
+    "heat",
+    "ing"
+   ],
+   "emoji": "♨️",
+   "sentence": {
+    "en": "It's cold. Turn on the heating.",
+    "zh": "天冷了，开暖气吧。"
+   },
+   "sentences": [
+    {
+     "en": "It's cold. Turn on the heating.",
+     "zh": "天冷了，开暖气吧。",
+     "audio": "media/sent/fce3a6419450.mp3"
+    },
+    {
+     "en": "The heating is on.",
+     "zh": "暖气开着。",
+     "audio": "media/sent/287e62d663ca.mp3"
+    },
+    {
+     "en": "Our heating doesn't work.",
+     "zh": "我们家的暖气坏了。",
+     "audio": "media/sent/720d2fc1cce8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/heating.webp",
+    "uk": "media/uk/heating.mp3",
+    "us": "media/us/heating.mp3"
+   },
+   "avoid": [
+    "gas"
+   ]
+  },
+  {
+   "id": "home",
+   "word": "home",
+   "zh": "家；在家",
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adv"
+     ],
+     "zh": "家；在家"
+    }
+   ],
+   "ipa": "/həʊm/",
+   "chunks": [
+    "home"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "Lily is at home today.",
+    "zh": "Lily 今天在家。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is at home today.",
+     "zh": "Lily 今天在家。",
+     "audio": "media/sent/90752b842a77.mp3"
+    },
+    {
+     "en": "Let's go home.",
+     "zh": "我们回家吧。",
+     "audio": "media/sent/a097b0289da8.mp3"
+    },
+    {
+     "en": "There's no place like home.",
+     "zh": "哪里都不如家好。",
+     "audio": "media/sent/c51bb486a0c7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/home.webp",
+    "uk": "media/uk/home.mp3",
+    "us": "media/us/home.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "flat",
+    "house",
+    "live",
+    "stay"
+   ]
+  },
+  {
+   "id": "house",
+   "word": "house",
+   "zh": "房子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "房子"
+    }
+   ],
+   "ipa": "/haʊs/",
+   "chunks": [
+    "house"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Lily's house has a red door.",
+    "zh": "Lily 家的房子有一扇红门。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's house has a red door.",
+     "zh": "Lily 家的房子有一扇红门。",
+     "audio": "media/sent/6ab2313112d5.mp3"
+    },
+    {
+     "en": "This house is very big.",
+     "zh": "这栋房子很大。",
+     "audio": "media/sent/9378add45034.mp3"
+    },
+    {
+     "en": "Come to my house after school.",
+     "zh": "放学后来我家吧。",
+     "audio": "media/sent/14a98d4047ff.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/house.webp",
+    "uk": "media/uk/house.mp3",
+    "us": "media/us/house.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "flat",
+    "home",
+    "roof"
+   ]
+  },
+  {
+   "id": "key",
+   "word": "key",
+   "zh": "钥匙",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钥匙"
+    }
+   ],
+   "ipa": "/kiː/",
+   "chunks": [
+    "key"
+   ],
+   "emoji": "🔑",
+   "sentence": {
+    "en": "I can't find my key!",
+    "zh": "我找不到钥匙了！"
+   },
+   "sentences": [
+    {
+     "en": "I can't find my key!",
+     "zh": "我找不到钥匙了！",
+     "audio": "media/sent/d2059ed0777c.mp3"
+    },
+    {
+     "en": "Mum has a key to the garage.",
+     "zh": "妈妈有车库的钥匙。",
+     "audio": "media/sent/b2f607efcf6d.mp3"
+    },
+    {
+     "en": "The key is in the door.",
+     "zh": "钥匙插在门上。",
+     "audio": "media/sent/0c5e03711969.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/key.webp",
+    "uk": "media/uk/key.mp3",
+    "us": "media/us/key.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "kitchen",
+   "word": "kitchen",
+   "zh": "厨房",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厨房"
+    }
+   ],
+   "ipa": "/ˈkɪtʃɪn/",
+   "chunks": [
+    "kitch",
+    "en"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Mum is cooking in the kitchen.",
+    "zh": "妈妈在厨房做饭。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is cooking in the kitchen.",
+     "zh": "妈妈在厨房做饭。",
+     "audio": "media/sent/6f9617db808f.mp3"
+    },
+    {
+     "en": "The kitchen is next to the dining room.",
+     "zh": "厨房在餐厅旁边。",
+     "audio": "media/sent/3d0760073134.mp3"
+    },
+    {
+     "en": "Dad is washing the plates in the kitchen.",
+     "zh": "爸爸在厨房洗盘子。",
+     "audio": "media/sent/fee0f9f9a3ef.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kitchen.webp",
+    "uk": "media/uk/kitchen.mp3",
+    "us": "media/us/kitchen.mp3"
+   },
+   "avoid": [
+    "bedroom",
+    "dining-room",
+    "hall",
+    "living-room",
+    "room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "lamp",
+   "word": "lamp",
+   "zh": "灯；台灯",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；台灯"
+    }
+   ],
+   "ipa": "/læmp/",
+   "chunks": [
+    "lamp"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "There's a lamp next to my bed.",
+    "zh": "我床边有一盏台灯。"
+   },
+   "sentences": [
+    {
+     "en": "There's a lamp next to my bed.",
+     "zh": "我床边有一盏台灯。",
+     "audio": "media/sent/872187110335.mp3"
+    },
+    {
+     "en": "Turn on the lamp, please.",
+     "zh": "请打开台灯。",
+     "audio": "media/sent/718fdf69ee42.mp3"
+    },
+    {
+     "en": "The lamp is very bright.",
+     "zh": "这盏灯很亮。",
+     "audio": "media/sent/7e6e1cbe6270.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lamp.webp",
+    "uk": "media/uk/lamp.mp3",
+    "us": "media/us/lamp.mp3"
+   },
+   "avoid": [
+    "light"
+   ]
+  },
+  {
+   "id": "light",
+   "word": "light",
+   "zh": "灯；光",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；光"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "浅色的；明亮的",
+     "en": "Lily has a light blue dress."
+    }
+   ],
+   "ipa": "/laɪt/",
+   "chunks": [
+    "light"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "It's dark. Turn on the light, please.",
+    "zh": "天黑了，请开灯。"
+   },
+   "sentences": [
+    {
+     "en": "It's dark. Turn on the light, please.",
+     "zh": "天黑了，请开灯。",
+     "audio": "media/sent/0edff06ec9d2.mp3"
+    },
+    {
+     "en": "Please turn off the light.",
+     "zh": "请关灯。",
+     "audio": "media/sent/00807e4a6cfd.mp3"
+    },
+    {
+     "en": "Can you turn on the light, please?",
+     "zh": "你能开一下灯吗？",
+     "audio": "media/sent/4ffed23c6683.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/light.webp",
+    "uk": "media/uk/light.mp3",
+    "us": "media/us/light.mp3"
+   },
+   "avoid": [
+    "lamp"
+   ]
+  },
+  {
+   "id": "live",
+   "word": "live",
+   "zh": "居住；生活",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "居住；生活"
+    }
+   ],
+   "ipa": "/lɪv/, /laɪv/",
+   "chunks": [
+    "live"
+   ],
+   "emoji": "🏘️",
+   "sentence": {
+    "en": "We live in a small town.",
+    "zh": "我们住在一个小镇上。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a small town.",
+     "zh": "我们住在一个小镇上。",
+     "audio": "media/sent/00956ef9adb8.mp3"
+    },
+    {
+     "en": "Where do you live?",
+     "zh": "你住在哪里？",
+     "audio": "media/sent/11a68feeb966.mp3"
+    },
+    {
+     "en": "My grandparents live near the sea.",
+     "zh": "我爷爷奶奶住在海边。",
+     "audio": "media/sent/48a593118da9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/live.webp",
+    "uk": "media/uk/live.mp3",
+    "us": "media/us/live.mp3"
+   },
+   "avoid": [
+    "home",
+    "stay"
+   ]
+  },
+  {
+   "id": "living-room",
+   "word": "living room",
+   "zh": "客厅",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "客厅"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "liv",
+    "ing",
+    "room"
+   ],
+   "emoji": "🛋️",
+   "sentence": {
+    "en": "We watch television in the living room.",
+    "zh": "我们在客厅看电视。"
+   },
+   "sentences": [
+    {
+     "en": "We watch television in the living room.",
+     "zh": "我们在客厅看电视。",
+     "audio": "media/sent/1e9df298d4e9.mp3"
+    },
+    {
+     "en": "The living room is very big.",
+     "zh": "客厅很大。",
+     "audio": "media/sent/1f5541e29a67.mp3"
+    },
+    {
+     "en": "Grandpa is in the living room.",
+     "zh": "爷爷在客厅里。",
+     "audio": "media/sent/2a1c16b57306.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/living-room.webp"
+   },
+   "avoid": [
+    "bedroom",
+    "dining-room",
+    "hall",
+    "kitchen",
+    "room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "oven",
+   "word": "oven",
+   "zh": "烤箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "烤箱"
+    }
+   ],
+   "ipa": "/ˈʌvən/",
+   "chunks": [
+    "ov",
+    "en"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "The cake is in the oven.",
+    "zh": "蛋糕在烤箱里。"
+   },
+   "sentences": [
+    {
+     "en": "The cake is in the oven.",
+     "zh": "蛋糕在烤箱里。",
+     "audio": "media/sent/eb8fab0a2cc9.mp3"
+    },
+    {
+     "en": "The oven is very hot. Be careful!",
+     "zh": "烤箱很烫，小心！",
+     "audio": "media/sent/10b8649f8411.mp3"
+    },
+    {
+     "en": "Mum puts the bread in the oven.",
+     "zh": "妈妈把面包放进烤箱。",
+     "audio": "media/sent/b08fbbe50651.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/oven.webp",
+    "uk": "media/uk/oven.mp3",
+    "us": "media/us/oven.mp3"
+   },
+   "avoid": [
+    "cooker",
+    "gas"
+   ]
+  },
+  {
+   "id": "pillow",
+   "word": "pillow",
+   "zh": "枕头",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "枕头"
+    }
+   ],
+   "ipa": "/ˈpɪləʊ/",
+   "chunks": [
+    "pil",
+    "low"
+   ],
+   "emoji": "🛏️",
+   "sentence": {
+    "en": "My pillow is very soft.",
+    "zh": "我的枕头很软。"
+   },
+   "sentences": [
+    {
+     "en": "My pillow is very soft.",
+     "zh": "我的枕头很软。",
+     "audio": "media/sent/06460e9253ff.mp3"
+    },
+    {
+     "en": "Max sleeps on my pillow!",
+     "zh": "Max 睡在我的枕头上！",
+     "audio": "media/sent/572f5bf9e1a0.mp3"
+    },
+    {
+     "en": "I need a new pillow.",
+     "zh": "我需要一个新枕头。",
+     "audio": "media/sent/53130f0cd09b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pillow.webp",
+    "uk": "media/uk/pillow.mp3",
+    "us": "media/us/pillow.mp3"
+   },
+   "avoid": [
+    "bed",
+    "bedroom",
+    "blanket"
+   ]
+  },
+  {
+   "id": "refrigerator",
+   "word": "refrigerator",
+   "zh": "冰箱（正式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰箱（正式）"
+    }
+   ],
+   "ipa": "/rɪˈfrɪdʒəreɪtə/",
+   "chunks": [
+    "re",
+    "frig",
+    "er",
+    "a",
+    "tor"
+   ],
+   "emoji": "🧊",
+   "sentence": {
+    "en": "Put the milk in the refrigerator.",
+    "zh": "把牛奶放进冰箱。"
+   },
+   "sentences": [
+    {
+     "en": "Put the milk in the refrigerator.",
+     "zh": "把牛奶放进冰箱。",
+     "audio": "media/sent/022c5bf0051c.mp3"
+    },
+    {
+     "en": "The refrigerator is full of food.",
+     "zh": "冰箱里满是食物。",
+     "audio": "media/sent/9cbae5f0e32a.mp3"
+    },
+    {
+     "en": "We have a new refrigerator.",
+     "zh": "我们买了一台新冰箱。",
+     "audio": "media/sent/31096adf53cc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/refrigerator.webp",
+    "uk": "media/uk/refrigerator.mp3",
+    "us": "media/us/refrigerator.mp3"
+   },
+   "avoid": [
+    "fridge"
+   ]
+  },
+  {
+   "id": "roof",
+   "word": "roof",
+   "zh": "屋顶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "屋顶"
+    }
+   ],
+   "ipa": "/ruːf/",
+   "chunks": [
+    "roof"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "There's a cat on the roof.",
+    "zh": "屋顶上有一只猫。"
+   },
+   "sentences": [
+    {
+     "en": "There's a cat on the roof.",
+     "zh": "屋顶上有一只猫。",
+     "audio": "media/sent/287c17d689a5.mp3"
+    },
+    {
+     "en": "Our house has a red roof.",
+     "zh": "我们的房子是红屋顶。",
+     "audio": "media/sent/6bf6bcd01ade.mp3"
+    },
+    {
+     "en": "The rain is on the roof.",
+     "zh": "雨落在屋顶上。",
+     "audio": "media/sent/6f722838dc6b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/roof.webp",
+    "uk": "media/uk/roof.mp3",
+    "us": "media/us/roof.mp3"
+   },
+   "avoid": [
+    "house"
+   ]
+  },
+  {
+   "id": "room",
+   "word": "room",
+   "zh": "房间",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "房间"
+    }
+   ],
+   "ipa": "/ruːm/",
+   "chunks": [
+    "room"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "This is my room.",
+    "zh": "这是我的房间。"
+   },
+   "sentences": [
+    {
+     "en": "This is my room.",
+     "zh": "这是我的房间。",
+     "audio": "media/sent/d650a1e355e3.mp3"
+    },
+    {
+     "en": "How many rooms are there in your house?",
+     "zh": "你家有几个房间？",
+     "audio": "media/sent/18915bb5e668.mp3"
+    },
+    {
+     "en": "Tom's room is next to mine.",
+     "zh": "Tom 的房间在我隔壁。",
+     "audio": "media/sent/45bc3885dceb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/room.webp",
+    "uk": "media/uk/room.mp3",
+    "us": "media/us/room.mp3"
+   },
+   "avoid": [
+    "bedroom",
+    "dining-room",
+    "hall",
+    "kitchen",
+    "living-room",
+    "sitting-room"
+   ]
+  },
+  {
+   "id": "rubbish",
+   "word": "rubbish",
+   "zh": "垃圾",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "垃圾"
+    }
+   ],
+   "ipa": "/ˈrʌbɪʃ/",
+   "chunks": [
+    "rub",
+    "bish"
+   ],
+   "emoji": "🗑️",
+   "sentence": {
+    "en": "Put the rubbish in the bin.",
+    "zh": "把垃圾扔进垃圾桶。"
+   },
+   "sentences": [
+    {
+     "en": "Put the rubbish in the bin.",
+     "zh": "把垃圾扔进垃圾桶。",
+     "audio": "media/sent/76739be67a2a.mp3"
+    },
+    {
+     "en": "Don't leave rubbish in the park.",
+     "zh": "别把垃圾留在公园里。",
+     "audio": "media/sent/1de8216d357a.mp3"
+    },
+    {
+     "en": "Dad takes out the rubbish.",
+     "zh": "爸爸把垃圾拿出去。",
+     "audio": "media/sent/f9e0766cf951.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rubbish.webp",
+    "uk": "media/uk/rubbish.mp3",
+    "us": "media/us/rubbish.mp3"
+   },
+   "avoid": [
+    "bin"
+   ]
+  },
+  {
+   "id": "safe",
+   "word": "safe",
+   "zh": "安全的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "安全的"
+    }
+   ],
+   "ipa": "/seɪf/",
+   "chunks": [
+    "safe"
+   ],
+   "emoji": "🛡️",
+   "sentence": {
+    "en": "The baby is safe in her bed.",
+    "zh": "宝宝在床上很安全。"
+   },
+   "sentences": [
+    {
+     "en": "The baby is safe in her bed.",
+     "zh": "宝宝在床上很安全。",
+     "audio": "media/sent/11174853dbeb.mp3"
+    },
+    {
+     "en": "Keep your money in a safe place.",
+     "zh": "把钱放在安全的地方。",
+     "audio": "media/sent/03cdcf6b897a.mp3"
+    },
+    {
+     "en": "Is it safe to swim here?",
+     "zh": "在这里游泳安全吗？",
+     "audio": "media/sent/65fa7bc3bad7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/safe.webp",
+    "uk": "media/uk/safe.mp3",
+    "us": "media/us/safe.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "shelf",
+   "word": "shelf",
+   "zh": "架子；搁板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "架子；搁板"
+    }
+   ],
+   "ipa": "/ʃelf/",
+   "chunks": [
+    "shelf"
+   ],
+   "emoji": "📕",
+   "sentence": {
+    "en": "The books are on the shelf.",
+    "zh": "书在架子上。"
+   },
+   "sentences": [
+    {
+     "en": "The books are on the shelf.",
+     "zh": "书在架子上。",
+     "audio": "media/sent/860da3b5332d.mp3"
+    },
+    {
+     "en": "Put the cups on the top shelf.",
+     "zh": "把杯子放在最上面的架子上。",
+     "audio": "media/sent/b90d281e07d4.mp3"
+    },
+    {
+     "en": "The shelf is too high for Tom.",
+     "zh": "架子太高，Tom 够不着。",
+     "audio": "media/sent/321f936b84c2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shelf.webp",
+    "uk": "media/uk/shelf.mp3",
+    "us": "media/us/shelf.mp3"
+   },
+   "avoid": [
+    "bookcase",
+    "bookshelf",
+    "box",
+    "cupboard",
+    "drawer"
+   ]
+  },
+  {
+   "id": "shower",
+   "word": "shower",
+   "zh": "淋浴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "淋浴"
+    }
+   ],
+   "ipa": "/ˈʃaʊə/",
+   "chunks": [
+    "show",
+    "er"
+   ],
+   "emoji": "🚿",
+   "sentence": {
+    "en": "Dad has a shower every morning.",
+    "zh": "爸爸每天早上冲澡。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a shower every morning.",
+     "zh": "爸爸每天早上冲澡。",
+     "audio": "media/sent/3b16b478add3.mp3"
+    },
+    {
+     "en": "The shower is very hot.",
+     "zh": "淋浴的水很烫。",
+     "audio": "media/sent/1beba07c756e.mp3"
+    },
+    {
+     "en": "I have a shower after football.",
+     "zh": "踢完足球我冲个澡。",
+     "audio": "media/sent/08142bbe541c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shower.webp",
+    "uk": "media/uk/shower.mp3",
+    "us": "media/us/shower.mp3"
+   },
+   "avoid": [
+    "bath",
+    "bathroom",
+    "bathtub"
+   ]
+  },
+  {
+   "id": "sink",
+   "word": "sink",
+   "zh": "水槽；洗手池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "水槽；洗手池"
+    }
+   ],
+   "ipa": "/sɪŋk/",
+   "chunks": [
+    "sink"
+   ],
+   "emoji": "🚰",
+   "sentence": {
+    "en": "The plates are in the sink.",
+    "zh": "盘子在水槽里。"
+   },
+   "sentences": [
+    {
+     "en": "The plates are in the sink.",
+     "zh": "盘子在水槽里。",
+     "audio": "media/sent/6b95de8de502.mp3"
+    },
+    {
+     "en": "Wash your hands at the sink.",
+     "zh": "在洗手池洗手。",
+     "audio": "media/sent/855eb17cc147.mp3"
+    },
+    {
+     "en": "The sink is full of water.",
+     "zh": "水槽里装满了水。",
+     "audio": "media/sent/b709eebbc523.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sink.webp",
+    "uk": "media/uk/sink.mp3",
+    "us": "media/us/sink.mp3"
+   },
+   "avoid": [
+    "bath",
+    "toilet"
+   ]
+  },
+  {
+   "id": "sitting-room",
+   "word": "sitting room",
+   "zh": "起居室；客厅",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "起居室；客厅"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sit",
+    "ting",
+    "room"
+   ],
+   "emoji": "🛋️",
+   "sentence": {
+    "en": "Grandma is in the sitting room.",
+    "zh": "奶奶在起居室里。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma is in the sitting room.",
+     "zh": "奶奶在起居室里。",
+     "audio": "media/sent/bb588fb7244b.mp3"
+    },
+    {
+     "en": "We have tea in the sitting room.",
+     "zh": "我们在起居室喝茶。",
+     "audio": "media/sent/77c0c55cd8cf.mp3"
+    },
+    {
+     "en": "The sitting room has a fire.",
+     "zh": "起居室里有个壁炉。",
+     "audio": "media/sent/431326fdaaee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sitting-room.webp"
+   },
+   "avoid": [
+    "bedroom",
+    "dining-room",
+    "hall",
+    "kitchen",
+    "living-room",
+    "room"
+   ]
+  },
+  {
+   "id": "sofa",
+   "word": "sofa",
+   "zh": "沙发",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "沙发"
+    }
+   ],
+   "ipa": "/ˈsəʊfə/",
+   "chunks": [
+    "so",
+    "fa"
+   ],
+   "emoji": "🛋️",
+   "sentence": {
+    "en": "Max is sleeping on the sofa.",
+    "zh": "Max 在沙发上睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "Max is sleeping on the sofa.",
+     "zh": "Max 在沙发上睡觉。",
+     "audio": "media/sent/441410f5ec5f.mp3"
+    },
+    {
+     "en": "We sit on the sofa and watch television.",
+     "zh": "我们坐在沙发上看电视。",
+     "audio": "media/sent/73013d1079d9.mp3"
+    },
+    {
+     "en": "This sofa is new.",
+     "zh": "这个沙发是新的。",
+     "audio": "media/sent/25da11fc6a84.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sofa.webp",
+    "uk": "media/uk/sofa.mp3",
+    "us": "media/us/sofa.mp3"
+   },
+   "avoid": [
+    "armchair",
+    "chair",
+    "furniture"
+   ]
+  },
+  {
+   "id": "stay",
+   "word": "stay",
+   "zh": "待；停留；暂住",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "待；停留；暂住"
+    }
+   ],
+   "ipa": "/steɪ/",
+   "chunks": [
+    "stay"
+   ],
+   "emoji": "🏨",
+   "sentence": {
+    "en": "We stay at Grandma's house in summer.",
+    "zh": "夏天我们住在奶奶家。"
+   },
+   "sentences": [
+    {
+     "en": "We stay at Grandma's house in summer.",
+     "zh": "夏天我们住在奶奶家。",
+     "audio": "media/sent/fbdf57a42ef7.mp3"
+    },
+    {
+     "en": "Stay here. I'll come back.",
+     "zh": "待在这儿，我会回来的。",
+     "audio": "media/sent/79394aca66a7.mp3"
+    },
+    {
+     "en": "Can I stay up late tonight?",
+     "zh": "我今晚能晚点睡吗？",
+     "audio": "media/sent/e1c641f6dc2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stay.webp",
+    "uk": "media/uk/stay.mp3",
+    "us": "media/us/stay.mp3"
+   },
+   "avoid": [
+    "home",
+    "live"
+   ]
+  },
+  {
+   "id": "toilet",
+   "word": "toilet",
+   "zh": "厕所；马桶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厕所；马桶"
+    }
+   ],
+   "ipa": "/ˈtɔɪlət/",
+   "chunks": [
+    "toi",
+    "let"
+   ],
+   "emoji": "🚽",
+   "sentence": {
+    "en": "Where is the toilet, please?",
+    "zh": "请问厕所在哪儿？"
+   },
+   "sentences": [
+    {
+     "en": "Where is the toilet, please?",
+     "zh": "请问厕所在哪儿？",
+     "audio": "media/sent/ac36a2f91736.mp3"
+    },
+    {
+     "en": "The toilet is upstairs.",
+     "zh": "厕所在楼上。",
+     "audio": "media/sent/2f59cbeba150.mp3"
+    },
+    {
+     "en": "Can I go to the toilet, please?",
+     "zh": "我能去趟厕所吗？",
+     "audio": "media/sent/30f754dedcaa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toilet.webp",
+    "uk": "media/uk/toilet.mp3",
+    "us": "media/us/toilet.mp3"
+   },
+   "avoid": [
+    "bath",
+    "sink"
+   ]
+  },
+  {
+   "id": "towel",
+   "word": "towel",
+   "zh": "毛巾",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "毛巾"
+    }
+   ],
+   "ipa": "/ˈtaʊəl/",
+   "chunks": [
+    "tow",
+    "el"
+   ],
+   "emoji": "🧺",
+   "sentence": {
+    "en": "Dry your hands with a towel.",
+    "zh": "用毛巾擦干手。"
+   },
+   "sentences": [
+    {
+     "en": "Dry your hands with a towel.",
+     "zh": "用毛巾擦干手。",
+     "audio": "media/sent/452d43ac1ae2.mp3"
+    },
+    {
+     "en": "Take a towel to the beach.",
+     "zh": "带条毛巾去海滩。",
+     "audio": "media/sent/e5a5698f8fbd.mp3"
+    },
+    {
+     "en": "My towel is wet.",
+     "zh": "我的毛巾湿了。",
+     "audio": "media/sent/d7fdb023eaf6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/towel.webp",
+    "uk": "media/uk/towel.mp3",
+    "us": "media/us/towel.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}
