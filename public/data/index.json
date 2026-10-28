@@ -6,21 +6,21 @@
    "id": "colours",
    "en": "Colours",
    "zh": "颜色",
-   "count": 16,
+   "count": 17,
    "ready": true
   },
   {
    "id": "family",
    "en": "Family and Friends",
    "zh": "家人朋友",
-   "count": 43,
+   "count": 44,
    "ready": true
   },
   {
    "id": "food",
    "en": "Food and Drink",
    "zh": "食物饮料",
-   "count": 106,
+   "count": 108,
    "ready": true
   },
   {

@@ -38,6 +38,8 @@ export function buildPlan(
   now: number,
   opt: PlanOptions,
   newOrder: string[] = order,
+  /** Whether a new word may start yet: a second meaning waits until its word's first meaning is learnt. */
+  canStart: (wordId: string) => boolean = () => true,
 ): Plan {
   const due: { task: Task; r: number }[] = [];
   const firstTime: Task[] = [];
@@ -63,7 +65,7 @@ export function buildPlan(
   let limit = Math.max(0, opt.newPerDay - opt.newToday);
   if (backlog > 0) limit = 0;
   else if (all.length + opt.reviewedToday > opt.reviewCap / 2) limit = Math.ceil(limit / 2);
-  const newWords = newOrder.filter((id) => !progress[id]).slice(0, limit);
+  const newWords = newOrder.filter((id) => !progress[id] && canStart(id)).slice(0, limit);
 
   return { reviews, newWords, backlog };
 }

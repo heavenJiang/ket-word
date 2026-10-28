@@ -10,7 +10,7 @@ import { advance, answer, buildSession, current, isDone } from "../session/sessi
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { Rating, type Grade } from "../srs/srs";
 import { addStars, planOptions, recordGrade, type Progress } from "../store/progress";
-import type { Library } from "../lib/data";
+import { canStart, type Library } from "../lib/data";
 import type { Word } from "../types";
 import { Max } from "../ui/Max";
 import { Picture } from "../ui/Picture";
@@ -39,6 +39,7 @@ export function Learn(props: {
       now,
       planOptions(progress, now),
       words.map((w) => w.id),
+      canStart(library, progress.words),
     );
     return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0);
   });

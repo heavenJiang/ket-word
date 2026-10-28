@@ -1,6 +1,6 @@
 import { buildPlan } from "../session/plan";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
-import type { Library } from "../lib/data";
+import { canStart, type Library } from "../lib/data";
 import type { Topic, Word } from "../types";
 import { Max, type Pose } from "../ui/Max";
 
@@ -38,6 +38,7 @@ export function Home(props: {
     now,
     planOptions(progress, now),
     words.map((w) => w.id),
+    canStart(library, progress.words),
   );
   const pet = petStage(progress.stars);
   const days = streak(progress.days, now);

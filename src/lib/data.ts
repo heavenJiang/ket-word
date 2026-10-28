@@ -1,3 +1,4 @@
+import { State, type WordProgress } from "../srs/srs";
 import type { Topic, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
@@ -44,3 +45,12 @@ export async function loadTopic(id: string): Promise<Word[]> {
   if (!r.ok) throw new Error(`${id}.json: ${r.status}`);
   return (await r.json()).words;
 }
+
+/**
+ * A second-meaning card (can.2) starts only once its word's first meaning has reached long-term review,
+ * so a child meets "can = 能" after "can = 罐头" is solid, never both at once.
+ */
+export const canStart = (lib: Library, progress: Record<string, WordProgress>) => (id: string) => {
+  const of = lib.byId.get(id)?.of;
+  return !of || progress[of]?.skills.meaning?.st === State.Review;
+};

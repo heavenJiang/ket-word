@@ -4,7 +4,7 @@ import { sentencesOf } from "../lib/sentence";
 import { isMastered, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
 import { SKILLS, type Skill, type Topic, type Word } from "../types";
-import { Chunks, Picture, SpeakButton } from "../ui/Picture";
+import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
 const SKILL_BADGE: Record<Skill, string> = { meaning: "👀 认识", listen: "👂 听懂", spell: "✏️ 会拼" };
 
@@ -41,6 +41,7 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
             <button key={w.id} className={`album-card level-${level}`} onClick={() => p && setOpen(w)} disabled={!p}>
               {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
               <span className="album-word">{p ? w.word : "· · ·"}</span>
+              {p && w.of && <span className="album-sense">新意思</span>}
               {p && (
                 <span className="album-badges">
                   {SKILLS.map((s) => (
@@ -59,14 +60,11 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
             <Picture word={open} size="lg" />
             <div className="intro-word">
               <Chunks word={open} />
-              <SpeakButton onClick={() => playWord(open, accent)} label="" big />
+              <SpeakButton onClick={() => playWord(open, accent)} label={`听 ${open.word}`} />
             </div>
-            <div className="intro-zh">{open.zh}</div>
+            <Senses word={open} />
             {sentencesOf(open).map((x) => (
-              <button key={x.en} className="sentence" onClick={() => playText(x.en, accent)}>
-                <span className="sentence-en">🔊 {x.en}</span>
-                <span className="sentence-zh">{x.zh}</span>
-              </button>
+              <SentenceRow key={x.en} en={x.en} zh={x.zh} onPlay={() => playText(x, accent)} />
             ))}
             <div className="skill-badges">
               {SKILLS.map((s) => (

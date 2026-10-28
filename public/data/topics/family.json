@@ -8,6 +8,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "姑姑；阿姨；舅妈"
+    }
+   ],
    "ipa": "/ɑːnt/",
    "chunks": [
     "aunt"
@@ -20,15 +28,18 @@
    "sentences": [
     {
      "en": "Aunt Kate is Dad's sister.",
-     "zh": "Kate 姑姑是爸爸的妹妹。"
+     "zh": "Kate 姑姑是爸爸的妹妹。",
+     "audio": "media/sent/8ecd640e7f08.mp3"
     },
     {
      "en": "My aunt lives in London.",
-     "zh": "我姑姑住在伦敦。"
+     "zh": "我姑姑住在伦敦。",
+     "audio": "media/sent/b5073aa1183e.mp3"
     },
     {
      "en": "Lily's aunt gives her a book.",
-     "zh": "Lily 的姑姑送她一本书。"
+     "zh": "Lily 的姑姑送她一本书。",
+     "audio": "media/sent/77ddd25a3344.mp3"
     }
    ],
    "media": {
@@ -48,6 +59,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "男孩"
+    }
+   ],
    "ipa": "/bɔɪ/",
    "chunks": [
     "boy"
@@ -60,15 +79,18 @@
    "sentences": [
     {
      "en": "Tom is a boy.",
-     "zh": "Tom 是个男孩。"
+     "zh": "Tom 是个男孩。",
+     "audio": "media/sent/c33306ab77b6.mp3"
     },
     {
      "en": "The boy is playing football.",
-     "zh": "那个男孩在踢足球。"
+     "zh": "那个男孩在踢足球。",
+     "audio": "media/sent/006f4c0fda32.mp3"
     },
     {
      "en": "There are ten boys in my class.",
-     "zh": "我们班有十个男孩。"
+     "zh": "我们班有十个男孩。",
+     "audio": "media/sent/f2eb59f3ab49.mp3"
     }
    ],
    "media": {
@@ -95,6 +117,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "兄弟；哥哥；弟弟"
+    }
+   ],
    "ipa": "/ˈbrʌðə/",
    "chunks": [
     "broth",
@@ -108,15 +138,18 @@
    "sentences": [
     {
      "en": "Lily has a little brother.",
-     "zh": "Lily 有一个弟弟。"
+     "zh": "Lily 有一个弟弟。",
+     "audio": "media/sent/ef51ad796b51.mp3"
     },
     {
      "en": "My brother is six years old.",
-     "zh": "我弟弟六岁。"
+     "zh": "我弟弟六岁。",
+     "audio": "media/sent/977fd738d3f8.mp3"
     },
     {
      "en": "Tom is Lily's brother.",
-     "zh": "Tom 是 Lily 的弟弟。"
+     "zh": "Tom 是 Lily 的弟弟。",
+     "audio": "media/sent/1c46ca60be3f.mp3"
     }
    ],
    "media": {
@@ -138,6 +171,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "孩子；儿童"
+    }
+   ],
    "ipa": "/tʃaɪld/",
    "chunks": [
     "child"
@@ -150,15 +191,18 @@
    "sentences": [
     {
      "en": "The child is playing with blocks.",
-     "zh": "这个孩子在玩积木。"
+     "zh": "这个孩子在玩积木。",
+     "audio": "media/sent/e2210704a858.mp3"
     },
     {
      "en": "Every child gets a cake.",
-     "zh": "每个孩子都有一块蛋糕。"
+     "zh": "每个孩子都有一块蛋糕。",
+     "audio": "media/sent/03ed1c7a6c6e.mp3"
     },
     {
      "en": "Lily is a happy child.",
-     "zh": "Lily 是个快乐的孩子。"
+     "zh": "Lily 是个快乐的孩子。",
+     "audio": "media/sent/46a52645099a.mp3"
     }
    ],
    "media": {
@@ -183,6 +227,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "堂兄弟姐妹；表兄弟姐妹"
+    }
+   ],
    "ipa": "/ˈkʌzən/",
    "chunks": [
     "cous",
@@ -196,15 +248,18 @@
    "sentences": [
     {
      "en": "Sam is Lily's cousin.",
-     "zh": "Sam 是 Lily 的表哥。"
+     "zh": "Sam 是 Lily 的表哥。",
+     "audio": "media/sent/cfb104362521.mp3"
     },
     {
      "en": "My cousin is ten years old.",
-     "zh": "我表哥十岁。"
+     "zh": "我表哥十岁。",
+     "audio": "media/sent/250537c3347f.mp3"
     },
     {
      "en": "Lily plays with her cousin at the party.",
-     "zh": "Lily 在聚会上和表哥一起玩。"
+     "zh": "Lily 在聚会上和表哥一起玩。",
+     "audio": "media/sent/53005fc6131d.mp3"
     }
    ],
    "media": {
@@ -224,6 +279,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "爸爸"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "dad"
@@ -236,15 +299,18 @@
    "sentences": [
     {
      "en": "Dad is very tall.",
-     "zh": "爸爸很高。"
+     "zh": "爸爸很高。",
+     "audio": "media/sent/da7f57c99998.mp3"
     },
     {
      "en": "My dad works in a bank.",
-     "zh": "我爸爸在银行工作。"
+     "zh": "我爸爸在银行工作。",
+     "audio": "media/sent/ea8bbca86b0b.mp3"
     },
     {
      "en": "Dad, can you help me?",
-     "zh": "爸爸，你能帮帮我吗？"
+     "zh": "爸爸，你能帮帮我吗？",
+     "audio": "media/sent/67aecd649ad1.mp3"
     }
    ],
    "media": {
@@ -262,6 +328,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女儿"
+    }
+   ],
    "ipa": "/ˈdɔːtə/",
    "chunks": [
     "daugh",
@@ -275,15 +349,18 @@
    "sentences": [
     {
      "en": "Lily is Mum and Dad's daughter.",
-     "zh": "Lily 是爸爸妈妈的女儿。"
+     "zh": "Lily 是爸爸妈妈的女儿。",
+     "audio": "media/sent/a3781d604703.mp3"
     },
     {
      "en": "They have one son and one daughter.",
-     "zh": "他们有一个儿子和一个女儿。"
+     "zh": "他们有一个儿子和一个女儿。",
+     "audio": "media/sent/1c515da367d3.mp3"
     },
     {
      "en": "Grandma's daughter is my mum.",
-     "zh": "奶奶的女儿是我妈妈。"
+     "zh": "奶奶的女儿是我妈妈。",
+     "audio": "media/sent/b0ab7514a191.mp3"
     }
    ],
    "media": {
@@ -306,6 +383,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "家庭；家人"
+    }
+   ],
    "ipa": "/ˈfæməli/",
    "chunks": [
     "fam",
@@ -320,15 +405,18 @@
    "sentences": [
     {
      "en": "This is my family.",
-     "zh": "这是我的家人。"
+     "zh": "这是我的家人。",
+     "audio": "media/sent/22831ed1c93a.mp3"
     },
     {
      "en": "There are five people in my family.",
-     "zh": "我家有五口人。"
+     "zh": "我家有五口人。",
+     "audio": "media/sent/23b7660b9b7c.mp3"
     },
     {
      "en": "Lily's family has a dog.",
-     "zh": "Lily 家养了一只狗。"
+     "zh": "Lily 家养了一只狗。",
+     "audio": "media/sent/840873ed4184.mp3"
     }
    ],
    "media": {
@@ -349,6 +437,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "父亲"
+    }
+   ],
    "ipa": "/ˈfɑːðə/",
    "chunks": [
     "fa",
@@ -362,15 +458,18 @@
    "sentences": [
     {
      "en": "My father teaches me to ride a bike.",
-     "zh": "我爸爸教我骑自行车。"
+     "zh": "我爸爸教我骑自行车。",
+     "audio": "media/sent/adf1a00de241.mp3"
     },
     {
      "en": "My father is a doctor.",
-     "zh": "我父亲是医生。"
+     "zh": "我父亲是医生。",
+     "audio": "media/sent/e62a2f1cdbec.mp3"
     },
     {
      "en": "Tom looks like his father.",
-     "zh": "Tom 长得像他父亲。"
+     "zh": "Tom 长得像他父亲。",
+     "audio": "media/sent/c80d7471614a.mp3"
     }
    ],
    "media": {
@@ -390,6 +489,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "朋友"
+    }
+   ],
    "ipa": "/frend/",
    "chunks": [
     "friend"
@@ -402,15 +509,18 @@
    "sentences": [
     {
      "en": "Mia is Lily's best friend.",
-     "zh": "Mia 是 Lily 最好的朋友。"
+     "zh": "Mia 是 Lily 最好的朋友。",
+     "audio": "media/sent/82fa1de7c135.mp3"
     },
     {
      "en": "Max is my best friend.",
-     "zh": "Max 是我最好的朋友。"
+     "zh": "Max 是我最好的朋友。",
+     "audio": "media/sent/5077a6596a15.mp3"
     },
     {
      "en": "Lily plays with her friend after school.",
-     "zh": "Lily 放学后和朋友一起玩。"
+     "zh": "Lily 放学后和朋友一起玩。",
+     "audio": "media/sent/cdcc7e32f915.mp3"
     }
    ],
    "media": {
@@ -431,6 +541,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "友好的；友善的"
+    }
+   ],
    "ipa": "/ˈfrendli/",
    "chunks": [
     "friend",
@@ -444,15 +562,18 @@
    "sentences": [
     {
      "en": "The man at the shop is very friendly.",
-     "zh": "商店里的那个人很友善。"
+     "zh": "商店里的那个人很友善。",
+     "audio": "media/sent/6c2b0286cbd9.mp3"
     },
     {
      "en": "Max is a friendly dog.",
-     "zh": "Max 是一只友好的狗。"
+     "zh": "Max 是一只友好的狗。",
+     "audio": "media/sent/50a3ac99b326.mp3"
     },
     {
      "en": "Our new teacher is very friendly.",
-     "zh": "我们的新老师很友善。"
+     "zh": "我们的新老师很友善。",
+     "audio": "media/sent/962565845d7e.mp3"
     }
    ],
    "media": {
@@ -474,6 +595,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女孩"
+    }
+   ],
    "ipa": "/ɡɜːl/",
    "chunks": [
     "girl"
@@ -486,15 +615,18 @@
    "sentences": [
     {
      "en": "Lily is a girl.",
-     "zh": "Lily 是个女孩。"
+     "zh": "Lily 是个女孩。",
+     "audio": "media/sent/6927a743a52e.mp3"
     },
     {
      "en": "The girl has long hair.",
-     "zh": "那个女孩有长头发。"
+     "zh": "那个女孩有长头发。",
+     "audio": "media/sent/d90a27942265.mp3"
     },
     {
      "en": "There are twelve girls in my class.",
-     "zh": "我们班有十二个女孩。"
+     "zh": "我们班有十二个女孩。",
+     "audio": "media/sent/3d1c6fd7a81f.mp3"
     }
    ],
    "media": {
@@ -521,6 +653,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "孙子；孙女；外孙（女）"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "grand",
@@ -534,15 +674,18 @@
    "sentences": [
     {
      "en": "Grandpa holds his new grandchild.",
-     "zh": "爷爷抱着刚出生的孙子。"
+     "zh": "爷爷抱着刚出生的孙子。",
+     "audio": "media/sent/13075b62fd78.mp3"
     },
     {
      "en": "Grandma has four grandchildren.",
-     "zh": "奶奶有四个孙辈。"
+     "zh": "奶奶有四个孙辈。",
+     "audio": "media/sent/5f12cd564c1f.mp3"
     },
     {
      "en": "Lily is Grandpa's first grandchild.",
-     "zh": "Lily 是爷爷的第一个孙辈。"
+     "zh": "Lily 是爷爷的第一个孙辈。",
+     "audio": "media/sent/c7ddd115ecfe.mp3"
     }
    ],
    "media": {
@@ -567,6 +710,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "爷爷；外公"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "grand",
@@ -580,15 +731,18 @@
    "sentences": [
     {
      "en": "Grandad likes fishing.",
-     "zh": "爷爷喜欢钓鱼。"
+     "zh": "爷爷喜欢钓鱼。",
+     "audio": "media/sent/98c5e6776a9b.mp3"
     },
     {
      "en": "My grandad is seventy years old.",
-     "zh": "我爷爷七十岁了。"
+     "zh": "我爷爷七十岁了。",
+     "audio": "media/sent/5d2ce5256464.mp3"
     },
     {
      "en": "Grandad tells funny stories.",
-     "zh": "爷爷讲有趣的故事。"
+     "zh": "爷爷讲有趣的故事。",
+     "audio": "media/sent/d5dff3582ab7.mp3"
     }
    ],
    "media": {
@@ -610,6 +764,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "孙女；外孙女"
+    }
+   ],
    "ipa": "/ˈɡrændɔːtə/",
    "chunks": [
     "grand",
@@ -624,15 +786,18 @@
    "sentences": [
     {
      "en": "Lily is Grandma's granddaughter.",
-     "zh": "Lily 是奶奶的孙女。"
+     "zh": "Lily 是奶奶的孙女。",
+     "audio": "media/sent/2d2b85f3c436.mp3"
     },
     {
      "en": "Grandpa loves his granddaughter.",
-     "zh": "爷爷很爱他的孙女。"
+     "zh": "爷爷很爱他的孙女。",
+     "audio": "media/sent/18a74030e191.mp3"
     },
     {
      "en": "Their granddaughter visits every Sunday.",
-     "zh": "他们的孙女每个星期天都来看望。"
+     "zh": "他们的孙女每个星期天都来看望。",
+     "audio": "media/sent/d632580c9257.mp3"
     }
    ],
    "media": {
@@ -659,6 +824,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "祖父；外祖父"
+    }
+   ],
    "ipa": "/ˈɡrænfɑːðə/",
    "chunks": [
     "grand",
@@ -673,15 +846,18 @@
    "sentences": [
     {
      "en": "My grandfather tells funny stories.",
-     "zh": "我爷爷讲有趣的故事。"
+     "zh": "我爷爷讲有趣的故事。",
+     "audio": "media/sent/df7417284b66.mp3"
     },
     {
      "en": "My grandfather lives on a farm.",
-     "zh": "我祖父住在农场上。"
+     "zh": "我祖父住在农场上。",
+     "audio": "media/sent/26fc2dee1479.mp3"
     },
     {
      "en": "Her grandfather was a teacher.",
-     "zh": "她的祖父以前是老师。"
+     "zh": "她的祖父以前是老师。",
+     "audio": "media/sent/5f84d11ca211.mp3"
     }
    ],
    "media": {
@@ -705,6 +881,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奶奶；外婆"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "grand",
@@ -718,15 +902,18 @@
    "sentences": [
     {
      "en": "Grandma makes great cakes.",
-     "zh": "奶奶做的蛋糕很好吃。"
+     "zh": "奶奶做的蛋糕很好吃。",
+     "audio": "media/sent/b3cf45aacfd4.mp3"
     },
     {
      "en": "Grandma makes delicious cakes.",
-     "zh": "奶奶做的蛋糕很好吃。"
+     "zh": "奶奶做的蛋糕很好吃。",
+     "audio": "media/sent/3b82cadbbc02.mp3"
     },
     {
      "en": "We visit Grandma on Sunday.",
-     "zh": "我们星期天去看奶奶。"
+     "zh": "我们星期天去看奶奶。",
+     "audio": "media/sent/878c70c7799e.mp3"
     }
    ],
    "media": {
@@ -748,6 +935,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "祖母；外祖母"
+    }
+   ],
    "ipa": "/ˈɡrænmʌðə/",
    "chunks": [
     "grand",
@@ -762,15 +957,18 @@
    "sentences": [
     {
      "en": "My grandmother makes me a scarf.",
-     "zh": "我奶奶给我做了一条围巾。"
+     "zh": "我奶奶给我做了一条围巾。",
+     "audio": "media/sent/849e1f1e27e5.mp3"
     },
     {
      "en": "My grandmother has grey hair.",
-     "zh": "我奶奶有一头白发。"
+     "zh": "我奶奶有一头白发。",
+     "audio": "media/sent/2641793c5296.mp3"
     },
     {
      "en": "Lily's grandmother lives near the sea.",
-     "zh": "Lily 的奶奶住在海边。"
+     "zh": "Lily 的奶奶住在海边。",
+     "audio": "media/sent/d43eeee8cc62.mp3"
     }
    ],
    "media": {
@@ -794,6 +992,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "爷爷；外公"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "grand",
@@ -807,15 +1013,18 @@
    "sentences": [
     {
      "en": "Grandpa grows tomatoes.",
-     "zh": "爷爷种西红柿。"
+     "zh": "爷爷种西红柿。",
+     "audio": "media/sent/80464b2a487f.mp3"
     },
     {
      "en": "Grandpa has a big garden.",
-     "zh": "爷爷有一个大花园。"
+     "zh": "爷爷有一个大花园。",
+     "audio": "media/sent/c3be5a63c3ba.mp3"
     },
     {
      "en": "Can we go fishing, Grandpa?",
-     "zh": "爷爷，我们能去钓鱼吗？"
+     "zh": "爷爷，我们能去钓鱼吗？",
+     "audio": "media/sent/59f7eca78bf2.mp3"
     }
    ],
    "media": {
@@ -837,6 +1046,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "祖父母；外祖父母"
+    }
+   ],
    "ipa": "/ˈɡrænpeərənt/",
    "chunks": [
     "grand",
@@ -851,15 +1068,18 @@
    "sentences": [
     {
      "en": "Lily visits her grandparents on Sunday.",
-     "zh": "Lily 星期天去看爷爷奶奶。"
+     "zh": "Lily 星期天去看爷爷奶奶。",
+     "audio": "media/sent/217d1637e89a.mp3"
     },
     {
      "en": "A grandparent is your mum's or dad's parent.",
-     "zh": "祖父母是你爸爸或妈妈的父母。"
+     "zh": "祖父母是你爸爸或妈妈的父母。",
+     "audio": "media/sent/0757b7f32172.mp3"
     },
     {
      "en": "My grandparents live in the country.",
-     "zh": "我的祖父母住在乡下。"
+     "zh": "我的祖父母住在乡下。",
+     "audio": "media/sent/a9c4c716a43a.mp3"
     }
    ],
    "media": {
@@ -886,6 +1106,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "孙子；外孙"
+    }
+   ],
    "ipa": "/ˈɡrænsʌn/",
    "chunks": [
     "grand",
@@ -899,15 +1127,18 @@
    "sentences": [
     {
      "en": "Tom is Grandpa's grandson.",
-     "zh": "Tom 是爷爷的孙子。"
+     "zh": "Tom 是爷爷的孙子。",
+     "audio": "media/sent/9bda5d4a0d42.mp3"
     },
     {
      "en": "Grandma has one grandson.",
-     "zh": "奶奶有一个孙子。"
+     "zh": "奶奶有一个孙子。",
+     "audio": "media/sent/d8607bf5d308.mp3"
     },
     {
      "en": "Their grandson is a doctor.",
-     "zh": "他们的孙子是医生。"
+     "zh": "他们的孙子是医生。",
+     "audio": "media/sent/3dd3195e1c11.mp3"
     }
    ],
    "media": {
@@ -934,6 +1165,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奶奶；外婆（亲昵）"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "gran",
@@ -947,15 +1186,18 @@
    "sentences": [
     {
      "en": "Granny gives me a big kiss.",
-     "zh": "奶奶亲了我一下。"
+     "zh": "奶奶亲了我一下。",
+     "audio": "media/sent/b3a752a3cb42.mp3"
     },
     {
      "en": "Granny reads me a story.",
-     "zh": "奶奶给我讲故事。"
+     "zh": "奶奶给我讲故事。",
+     "audio": "media/sent/aaf3a156986c.mp3"
     },
     {
      "en": "My granny loves gardening.",
-     "zh": "我奶奶喜欢园艺。"
+     "zh": "我奶奶喜欢园艺。",
+     "audio": "media/sent/caaaf39d6114.mp3"
     }
    ],
    "media": {
@@ -977,6 +1219,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "组；群；团体"
+    }
+   ],
    "ipa": "/ɡruːp/",
    "chunks": [
     "group"
@@ -989,15 +1239,18 @@
    "sentences": [
     {
      "en": "We work in a group.",
-     "zh": "我们分组合作。"
+     "zh": "我们分组合作。",
+     "audio": "media/sent/3b3ec7a75ed0.mp3"
     },
     {
      "en": "Work in a group of four.",
-     "zh": "四人一组合作。"
+     "zh": "四人一组合作。",
+     "audio": "media/sent/139140907dcf.mp3"
     },
     {
      "en": "A group of children are playing in the park.",
-     "zh": "一群孩子在公园里玩。"
+     "zh": "一群孩子在公园里玩。",
+     "audio": "media/sent/50a48a6cdf4b.mp3"
     }
    ],
    "media": {
@@ -1018,6 +1271,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "客人"
+    }
+   ],
    "ipa": "/ɡest/",
    "chunks": [
     "guest"
@@ -1030,15 +1291,18 @@
    "sentences": [
     {
      "en": "We have a guest for dinner.",
-     "zh": "我们有客人来吃晚饭。"
+     "zh": "我们有客人来吃晚饭。",
+     "audio": "media/sent/85d27e5d1849.mp3"
     },
     {
      "en": "We have a guest from Spain.",
-     "zh": "我们有一位从西班牙来的客人。"
+     "zh": "我们有一位从西班牙来的客人。",
+     "audio": "media/sent/5670f89e413f.mp3"
     },
     {
      "en": "The guest sits next to Grandma.",
-     "zh": "客人坐在奶奶旁边。"
+     "zh": "客人坐在奶奶旁边。",
+     "audio": "media/sent/b2004108645f.mp3"
     }
    ],
    "media": {
@@ -1058,6 +1322,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "家伙；小伙子"
+    }
+   ],
    "ipa": "/ɡaɪ/",
    "chunks": [
     "guy"
@@ -1070,15 +1342,18 @@
    "sentences": [
     {
      "en": "He's a nice guy.",
-     "zh": "他是个不错的小伙子。"
+     "zh": "他是个不错的小伙子。",
+     "audio": "media/sent/c13f5d35aedb.mp3"
     },
     {
      "en": "Tom's uncle is a funny guy.",
-     "zh": "Tom 的叔叔是个有趣的人。"
+     "zh": "Tom 的叔叔是个有趣的人。",
+     "audio": "media/sent/402201756a39.mp3"
     },
     {
      "en": "Who is that guy with the dog?",
-     "zh": "牵着狗的那个人是谁？"
+     "zh": "牵着狗的那个人是谁？",
+     "audio": "media/sent/12d90bb5a816.mp3"
     }
    ],
    "media": {
@@ -1099,6 +1374,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "丈夫"
+    }
+   ],
    "ipa": "/ˈhʌzbənd/",
    "chunks": [
     "hus",
@@ -1112,15 +1395,18 @@
    "sentences": [
     {
      "en": "Dad is Mum's husband.",
-     "zh": "爸爸是妈妈的丈夫。"
+     "zh": "爸爸是妈妈的丈夫。",
+     "audio": "media/sent/c15efa4ba92a.mp3"
     },
     {
      "en": "Her husband is a doctor.",
-     "zh": "她丈夫是医生。"
+     "zh": "她丈夫是医生。",
+     "audio": "media/sent/2b3f31de017d.mp3"
     },
     {
      "en": "Aunt Kate's husband is Uncle Ben.",
-     "zh": "Kate 姑姑的丈夫是 Ben 叔叔。"
+     "zh": "Kate 姑姑的丈夫是 Ben 叔叔。",
+     "audio": "media/sent/08f3b5f29ce7.mp3"
     }
    ],
    "media": {
@@ -1138,8 +1424,22 @@
    "word": "love",
    "zh": "爱；喜爱",
    "pos": [
-    "n",
-    "v"
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "爱；喜爱"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "爱"
+    }
    ],
    "ipa": "/lʌv/",
    "chunks": [
@@ -1153,15 +1453,18 @@
    "sentences": [
     {
      "en": "Lily loves Max.",
-     "zh": "Lily 很爱 Max。"
+     "zh": "Lily 很爱 Max。",
+     "audio": "media/sent/4d8f903bcdd7.mp3"
     },
     {
      "en": "I love my family.",
-     "zh": "我爱我的家人。"
+     "zh": "我爱我的家人。",
+     "audio": "media/sent/77836062e951.mp3"
     },
     {
      "en": "Tom loves pizza.",
-     "zh": "Tom 很爱吃比萨。"
+     "zh": "Tom 很爱吃比萨。",
+     "audio": "media/sent/34f5d332f911.mp3"
     }
    ],
    "media": {
@@ -1180,6 +1483,14 @@
    "pos": [
     "adj"
    ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "已婚的；结婚的"
+    }
+   ],
    "ipa": "/ˈmærid/",
    "chunks": [
     "mar",
@@ -1193,15 +1504,18 @@
    "sentences": [
     {
      "en": "My aunt is married.",
-     "zh": "我姑姑结婚了。"
+     "zh": "我姑姑结婚了。",
+     "audio": "media/sent/567318c72dc6.mp3"
     },
     {
      "en": "My parents are married.",
-     "zh": "我父母已经结婚了。"
+     "zh": "我父母已经结婚了。",
+     "audio": "media/sent/0e1aa22ff196.mp3"
     },
     {
      "en": "Are you married?",
-     "zh": "你结婚了吗？"
+     "zh": "你结婚了吗？",
+     "audio": "media/sent/bb94e76b5a48.mp3"
     }
    ],
    "media": {
@@ -1217,10 +1531,25 @@
   {
    "id": "miss",
    "word": "Miss",
-   "zh": "小姐（称呼）；想念；错过",
+   "zh": "想念；错过",
    "pos": [
-    "n",
-    "v"
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "想念；错过"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小姐（称呼）",
+     "en": "Miss Brown is our teacher."
+    }
    ],
    "ipa": "/mɪs/",
    "chunks": [
@@ -1234,15 +1563,18 @@
    "sentences": [
     {
      "en": "Lily misses her grandma.",
-     "zh": "Lily 想念她的奶奶。"
+     "zh": "Lily 想念她的奶奶。",
+     "audio": "media/sent/4af6664843dd.mp3"
     },
     {
      "en": "Hurry up! Don't miss the bus.",
-     "zh": "快点！别错过公交车。"
+     "zh": "快点！别错过公交车。",
+     "audio": "media/sent/d6fb880b7e36.mp3"
     },
     {
      "en": "I miss you, Grandpa!",
-     "zh": "爷爷，我想你！"
+     "zh": "爷爷，我想你！",
+     "audio": "media/sent/be44915a6fbe.mp3"
     }
    ],
    "media": {
@@ -1252,6 +1584,69 @@
    },
    "avoid": [
     "love",
+    "miss.2",
+    "mr",
+    "mrs",
+    "ms"
+   ]
+  },
+  {
+   "id": "miss.2",
+   "word": "Miss",
+   "zh": "小姐（称呼）",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小姐（称呼）"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "想念；错过"
+    }
+   ],
+   "ipa": "/mɪs/",
+   "chunks": [
+    "Miss"
+   ],
+   "emoji": "👩‍🏫",
+   "sentence": {
+    "en": "Miss Brown is our teacher.",
+    "zh": "布朗小姐是我们的老师。"
+   },
+   "sentences": [
+    {
+     "en": "Miss Brown is our teacher.",
+     "zh": "布朗小姐是我们的老师。",
+     "audio": "media/sent/a1f482f6e93c.mp3"
+    },
+    {
+     "en": "Good morning, Miss Green!",
+     "zh": "早上好，格林小姐！",
+     "audio": "media/sent/31aaaac45fcd.mp3"
+    },
+    {
+     "en": "Miss Smith has a new car.",
+     "zh": "史密斯小姐有一辆新车。",
+     "audio": "media/sent/82096ef4ab7e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/miss.2.webp",
+    "uk": "media/uk/miss.mp3",
+    "us": "media/us/miss.mp3"
+   },
+   "of": "miss",
+   "ofZh": "想念；错过",
+   "avoid": [
+    "miss",
     "mr",
     "mrs",
     "ms"
@@ -1263,6 +1658,14 @@
    "zh": "母亲",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "母亲"
+    }
    ],
    "ipa": "/ˈmʌðə/",
    "chunks": [
@@ -1277,15 +1680,18 @@
    "sentences": [
     {
      "en": "My mother walks me to school.",
-     "zh": "我妈妈送我上学。"
+     "zh": "我妈妈送我上学。",
+     "audio": "media/sent/d96433789721.mp3"
     },
     {
      "en": "My mother is a teacher.",
-     "zh": "我母亲是老师。"
+     "zh": "我母亲是老师。",
+     "audio": "media/sent/cbd24ae06cc5.mp3"
     },
     {
      "en": "Lily looks like her mother.",
-     "zh": "Lily 长得像她母亲。"
+     "zh": "Lily 长得像她母亲。",
+     "audio": "media/sent/1d951ac42fbb.mp3"
     }
    ],
    "media": {
@@ -1305,6 +1711,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "先生（称呼）"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "Mr"
@@ -1317,15 +1731,18 @@
    "sentences": [
     {
      "en": "Mr Brown is our teacher.",
-     "zh": "布朗先生是我们的老师。"
+     "zh": "布朗先生是我们的老师。",
+     "audio": "media/sent/755fd51ceb6e.mp3"
     },
     {
      "en": "Mr Smith is our neighbour.",
-     "zh": "史密斯先生是我们的邻居。"
+     "zh": "史密斯先生是我们的邻居。",
+     "audio": "media/sent/51306d1b7ec8.mp3"
     },
     {
      "en": "Good morning, Mr Green!",
-     "zh": "早上好，格林先生！"
+     "zh": "早上好，格林先生！",
+     "audio": "media/sent/bd8786fc64b2.mp3"
     }
    ],
    "media": {
@@ -1333,6 +1750,7 @@
    },
    "avoid": [
     "miss",
+    "miss.2",
     "mrs",
     "ms"
    ]
@@ -1343,6 +1761,14 @@
    "zh": "太太；夫人（称呼）",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "太太；夫人（称呼）"
+    }
    ],
    "ipa": "",
    "chunks": [
@@ -1356,15 +1782,18 @@
    "sentences": [
     {
      "en": "Mrs Green lives next door.",
-     "zh": "格林太太住在隔壁。"
+     "zh": "格林太太住在隔壁。",
+     "audio": "media/sent/16b1ece9a671.mp3"
     },
     {
      "en": "Mrs Brown has a big dog.",
-     "zh": "布朗太太有一只大狗。"
+     "zh": "布朗太太有一只大狗。",
+     "audio": "media/sent/7829aafb3653.mp3"
     },
     {
      "en": "Thank you, Mrs Smith!",
-     "zh": "谢谢你，史密斯太太！"
+     "zh": "谢谢你，史密斯太太！",
+     "audio": "media/sent/a537dcde009b.mp3"
     }
    ],
    "media": {
@@ -1372,6 +1801,7 @@
    },
    "avoid": [
     "miss",
+    "miss.2",
     "mr",
     "ms"
    ]
@@ -1382,6 +1812,14 @@
    "zh": "女士（称呼）",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女士（称呼）"
+    }
    ],
    "ipa": "",
    "chunks": [
@@ -1395,15 +1833,18 @@
    "sentences": [
     {
      "en": "Ms White is the head teacher.",
-     "zh": "怀特女士是校长。"
+     "zh": "怀特女士是校长。",
+     "audio": "media/sent/47013663d551.mp3"
     },
     {
      "en": "Ms Green is a doctor.",
-     "zh": "格林女士是医生。"
+     "zh": "格林女士是医生。",
+     "audio": "media/sent/112298178dc2.mp3"
     },
     {
      "en": "Hello, Ms Brown!",
-     "zh": "你好，布朗女士！"
+     "zh": "你好，布朗女士！",
+     "audio": "media/sent/25f55d6f3a40.mp3"
     }
    ],
    "media": {
@@ -1411,6 +1852,7 @@
    },
    "avoid": [
     "miss",
+    "miss.2",
     "mr",
     "mrs"
    ]
@@ -1421,6 +1863,14 @@
    "zh": "妈妈",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "妈妈"
+    }
    ],
    "ipa": "",
    "chunks": [
@@ -1434,15 +1884,18 @@
    "sentences": [
     {
      "en": "Mum reads me a story.",
-     "zh": "妈妈给我讲故事。"
+     "zh": "妈妈给我讲故事。",
+     "audio": "media/sent/c796b8df3dca.mp3"
     },
     {
      "en": "Mum, where are my shoes?",
-     "zh": "妈妈，我的鞋在哪儿？"
+     "zh": "妈妈，我的鞋在哪儿？",
+     "audio": "media/sent/560cf907009a.mp3"
     },
     {
      "en": "My mum cooks dinner every day.",
-     "zh": "我妈妈每天做晚饭。"
+     "zh": "我妈妈每天做晚饭。",
+     "audio": "media/sent/54296026e0fc.mp3"
     }
    ],
    "media": {
@@ -1460,6 +1913,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "邻居"
+    }
+   ],
    "ipa": "/ˈneɪbə/",
    "chunks": [
     "neigh",
@@ -1473,15 +1934,18 @@
    "sentences": [
     {
      "en": "Our neighbour has a big garden.",
-     "zh": "我们的邻居有一个大花园。"
+     "zh": "我们的邻居有一个大花园。",
+     "audio": "media/sent/cf806c43b380.mp3"
     },
     {
      "en": "Our neighbour has a cat.",
-     "zh": "我们的邻居养了一只猫。"
+     "zh": "我们的邻居养了一只猫。",
+     "audio": "media/sent/54efed91d879.mp3"
     },
     {
      "en": "Lily's neighbour is very friendly.",
-     "zh": "Lily 的邻居很友善。"
+     "zh": "Lily 的邻居很友善。",
+     "audio": "media/sent/762a2e25df42.mp3"
     }
    ],
    "media": {
@@ -1503,6 +1967,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "父亲或母亲；家长"
+    }
+   ],
    "ipa": "/ˈpeərənt/",
    "chunks": [
     "par",
@@ -1516,15 +1988,18 @@
    "sentences": [
     {
      "en": "My parents love me.",
-     "zh": "我爸爸妈妈很爱我。"
+     "zh": "我爸爸妈妈很爱我。",
+     "audio": "media/sent/93f73954c1c1.mp3"
     },
     {
      "en": "Every parent loves their child.",
-     "zh": "每个父母都爱自己的孩子。"
+     "zh": "每个父母都爱自己的孩子。",
+     "audio": "media/sent/75f0b799f63a.mp3"
     },
     {
      "en": "Lily's parents work in a hospital.",
-     "zh": "Lily 的父母在医院工作。"
+     "zh": "Lily 的父母在医院工作。",
+     "audio": "media/sent/a89a4756bac9.mp3"
     }
    ],
    "media": {
@@ -1554,6 +2029,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "笔友"
+    }
+   ],
    "ipa": "",
    "chunks": [
     "pen",
@@ -1567,15 +2050,18 @@
    "sentences": [
     {
      "en": "Lily writes to her penfriend in Spain.",
-     "zh": "Lily 给她在西班牙的笔友写信。"
+     "zh": "Lily 给她在西班牙的笔友写信。",
+     "audio": "media/sent/3b69b9eed137.mp3"
     },
     {
      "en": "My penfriend lives in Spain.",
-     "zh": "我的笔友住在西班牙。"
+     "zh": "我的笔友住在西班牙。",
+     "audio": "media/sent/87dd53eb11c4.mp3"
     },
     {
      "en": "Lily sends a photo to her penfriend.",
-     "zh": "Lily 给笔友寄了一张照片。"
+     "zh": "Lily 给笔友寄了一张照片。",
+     "audio": "media/sent/296c64376a71.mp3"
     }
    ],
    "media": {
@@ -1594,6 +2080,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "姐妹；姐姐；妹妹"
+    }
+   ],
    "ipa": "/ˈsɪstə/",
    "chunks": [
     "sis",
@@ -1607,15 +2101,18 @@
    "sentences": [
     {
      "en": "My sister is older than me.",
-     "zh": "我姐姐比我大。"
+     "zh": "我姐姐比我大。",
+     "audio": "media/sent/f7d3ec07de98.mp3"
     },
     {
      "en": "My sister is nine years old.",
-     "zh": "我姐姐九岁。"
+     "zh": "我姐姐九岁。",
+     "audio": "media/sent/70bff8a8071a.mp3"
     },
     {
      "en": "Tom has a sister called Lily.",
-     "zh": "Tom 有个姐姐叫 Lily。"
+     "zh": "Tom 有个姐姐叫 Lily。",
+     "audio": "media/sent/f50d98539c09.mp3"
     }
    ],
    "media": {
@@ -1637,6 +2134,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "儿子"
+    }
+   ],
    "ipa": "/sʌn/",
    "chunks": [
     "son"
@@ -1649,15 +2154,18 @@
    "sentences": [
     {
      "en": "Tom is Mum and Dad's son.",
-     "zh": "Tom 是爸爸妈妈的儿子。"
+     "zh": "Tom 是爸爸妈妈的儿子。",
+     "audio": "media/sent/2f24a49c382d.mp3"
     },
     {
      "en": "They have a son and a daughter.",
-     "zh": "他们有一个儿子和一个女儿。"
+     "zh": "他们有一个儿子和一个女儿。",
+     "audio": "media/sent/841d548b1f4b.mp3"
     },
     {
      "en": "Grandpa's son is my dad.",
-     "zh": "爷爷的儿子是我爸爸。"
+     "zh": "爷爷的儿子是我爸爸。",
+     "audio": "media/sent/a8008171bef1.mp3"
     }
    ],
    "media": {
@@ -1680,6 +2188,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "姓"
+    }
+   ],
    "ipa": "/ˈsɜːneɪm/",
    "chunks": [
     "sur",
@@ -1693,15 +2209,18 @@
    "sentences": [
     {
      "en": "What's your surname?",
-     "zh": "你姓什么？"
+     "zh": "你姓什么？",
+     "audio": "media/sent/3476f9fe39eb.mp3"
     },
     {
      "en": "My surname is Smith.",
-     "zh": "我姓史密斯。"
+     "zh": "我姓史密斯。",
+     "audio": "media/sent/21eaeb6d34c3.mp3"
     },
     {
      "en": "Write your name and surname here.",
-     "zh": "在这里写下你的名字和姓。"
+     "zh": "在这里写下你的名字和姓。",
+     "audio": "media/sent/1ef60df2048a.mp3"
     }
    ],
    "media": {
@@ -1722,6 +2241,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "青少年"
+    }
+   ],
    "ipa": "/ˈtiːneɪdʒə/",
    "chunks": [
     "teen",
@@ -1736,15 +2263,18 @@
    "sentences": [
     {
      "en": "My cousin is a teenager.",
-     "zh": "我表姐是个青少年。"
+     "zh": "我表姐是个青少年。",
+     "audio": "media/sent/3c4eb33bd3b7.mp3"
     },
     {
      "en": "A teenager is between thirteen and nineteen.",
-     "zh": "青少年是十三到十九岁的人。"
+     "zh": "青少年是十三到十九岁的人。",
+     "audio": "media/sent/fa5a2f2f0491.mp3"
     },
     {
      "en": "Lily's cousin is a teenager now.",
-     "zh": "Lily 的表姐现在是青少年了。"
+     "zh": "Lily 的表姐现在是青少年了。",
+     "audio": "media/sent/b96358f9caf0.mp3"
     }
    ],
    "media": {
@@ -1765,6 +2295,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "叔叔；舅舅；伯伯"
+    }
+   ],
    "ipa": "/ˈʌŋkəl/",
    "chunks": [
     "un",
@@ -1778,15 +2316,18 @@
    "sentences": [
     {
      "en": "Uncle Ben is very funny.",
-     "zh": "Ben 叔叔很有趣。"
+     "zh": "Ben 叔叔很有趣。",
+     "audio": "media/sent/16dd25d1e435.mp3"
     },
     {
      "en": "My uncle has a big car.",
-     "zh": "我叔叔有一辆大车。"
+     "zh": "我叔叔有一辆大车。",
+     "audio": "media/sent/df74ce50fb1a.mp3"
     },
     {
      "en": "Uncle Ben plays football with us.",
-     "zh": "Ben 叔叔和我们一起踢足球。"
+     "zh": "Ben 叔叔和我们一起踢足球。",
+     "audio": "media/sent/c571049f3488.mp3"
     }
    ],
    "media": {
@@ -1806,6 +2347,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "妻子"
+    }
+   ],
    "ipa": "/waɪf/",
    "chunks": [
     "wife"
@@ -1818,15 +2367,18 @@
    "sentences": [
     {
      "en": "Mum is Dad's wife.",
-     "zh": "妈妈是爸爸的妻子。"
+     "zh": "妈妈是爸爸的妻子。",
+     "audio": "media/sent/05384b507324.mp3"
     },
     {
      "en": "His wife is a teacher.",
-     "zh": "他的妻子是老师。"
+     "zh": "他的妻子是老师。",
+     "audio": "media/sent/a84374c5f807.mp3"
     },
     {
      "en": "Uncle Ben's wife is Aunt Kate.",
-     "zh": "Ben 叔叔的妻子是 Kate 姑姑。"
+     "zh": "Ben 叔叔的妻子是 Kate 姑姑。",
+     "audio": "media/sent/6b0edf1e43c1.mp3"
     }
    ],
    "media": {

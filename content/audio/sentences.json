@@ -1,0 +1,4454 @@
+{
+ "A banana is a healthy snack.": {
+  "cer": 0.0,
+  "file": "f742bc5612ab.mp3",
+  "heard": "A banana is a healthy snack.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A banana is long and yellow.": {
+  "cer": 0.0,
+  "file": "1b1af87f5023.mp3",
+  "heard": "A banana is long and yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A banana is yellow.": {
+  "cer": 0.0,
+  "file": "de0293fa09d6.mp3",
+  "heard": "A banana is yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bear lives in the forest.": {
+  "cer": 0.0,
+  "file": "6815c6d2a8ee.mp3",
+  "heard": "A bear lives in the forest.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bee is an insect.": {
+  "cer": 0.0,
+  "file": "54b730373579.mp3",
+  "heard": "A bee is an insect.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bee is on the flower.": {
+  "cer": 0.0,
+  "file": "be040918ae84.mp3",
+  "heard": "A bee is on the flower.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A beetle has six legs.": {
+  "cer": 0.0,
+  "file": "086474ec5d1c.mp3",
+  "heard": "A beetle has six legs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A beetle is a small black insect.": {
+  "cer": 0.0,
+  "file": "03d337e97630.mp3",
+  "heard": "A beetle is a small black insect.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bird can't fly with a broken wing.": {
+  "cer": 0.0,
+  "file": "719024ddce6a.mp3",
+  "heard": "A bird can't fly with a broken wing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bird has two wings.": {
+  "cer": 0.0,
+  "file": "18e308961fdd.mp3",
+  "heard": "A bird has two wings.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A bottle of mineral water, please.": {
+  "cer": 0.0,
+  "file": "99f955fa25da.mp3",
+  "heard": "A bottle of mineral water, please.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A brown horse is in the field.": {
+  "cer": 0.0,
+  "file": "9c57d34d3800.mp3",
+  "heard": "A brown horse is in the field.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A butterfly is sitting on the flower.": {
+  "cer": 0.0,
+  "file": "fd0b990ab9f1.mp3",
+  "heard": "A butterfly is sitting on the flower.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A camel can walk for a long time without water.": {
+  "cer": 0.0,
+  "file": "102ad1d56b2f.mp3",
+  "heard": "A camel can walk for a long time without water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A camel lives in the desert.": {
+  "cer": 0.0,
+  "file": "7dbec3266e8d.mp3",
+  "heard": "A camel lives in the desert.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A can of cola, please.": {
+  "cer": 0.0,
+  "file": "e2202ff4779d.mp3",
+  "heard": "A can of cola, please.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A carrot is a vegetable.": {
+  "cer": 0.0,
+  "file": "b1d0da5aa0d3.mp3",
+  "heard": "A carrot is a vegetable.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A cow is a big animal.": {
+  "cer": 0.0,
+  "file": "1c131ac532c0.mp3",
+  "heard": "A cow is a big animal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A cow is black and white.": {
+  "cer": 0.0,
+  "file": "58eb6208e391.mp3",
+  "heard": "A cow is black and white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A crocodile lives in the river.": {
+  "cer": 0.0,
+  "file": "f8cefed5761c.mp3",
+  "heard": "A crocodile lives in the river?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A dolphin is a clever animal.": {
+  "cer": 0.0,
+  "file": "bd9fae41b6e0.mp3",
+  "heard": "A dolphin is a clever animal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A duck is swimming in the lake.": {
+  "cer": 0.0,
+  "file": "caab4649495d.mp3",
+  "heard": "A duck is swimming in the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A fish can swim but it can't walk.": {
+  "cer": 0.0,
+  "file": "2ebd577fe0df.mp3",
+  "heard": "A fish can swim, but it can't walk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A frog is small and green.": {
+  "cer": 0.0,
+  "file": "6d967fc87aaf.mp3",
+  "heard": "A frog is small and green.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A giraffe has a very long neck.": {
+  "cer": 0.0,
+  "file": "2a719bc6d631.mp3",
+  "heard": "A giraffe has a very long neck.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A glass of lemonade, please.": {
+  "cer": 0.0,
+  "file": "2b84bf89256b.mp3",
+  "heard": "A glass of lemonade, please.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A goat can climb rocks.": {
+  "cer": 0.0,
+  "file": "cdf19a37c611.mp3",
+  "heard": "A goat can climb rocks.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A grandparent is your mum's or dad's parent.": {
+  "cer": 0.0,
+  "file": "0757b7f32172.mp3",
+  "heard": "A grandparent is your mom's or dad's parent.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A group of children are playing in the park.": {
+  "cer": 0.0,
+  "file": "50a48a6cdf4b.mp3",
+  "heard": "A group of children are playing in the park.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A happy dog moves its tail.": {
+  "cer": 0.0,
+  "file": "69cd3e07cc17.mp3",
+  "heard": "A happy dog moves its tail.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A kangaroo can jump very high.": {
+  "cer": 0.0,
+  "file": "c0305b96a952.mp3",
+  "heard": "A kangaroo can jump very high.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A kitten is a baby cat.": {
+  "cer": 0.0,
+  "file": "06f0ad9cfaf1.mp3",
+  "heard": "A kitten is a baby cat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A lemon is yellow.": {
+  "cer": 0.0,
+  "file": "a95b498b9470.mp3",
+  "heard": "A lemon is yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A lion has a big brown head of hair.": {
+  "cer": 0.0,
+  "file": "912a47c1afa0.mp3",
+  "heard": "A lion has a big brown head of hair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A little mouse is under the bed.": {
+  "cer": 0.0,
+  "file": "42cf11d45b05.mp3",
+  "heard": "A little mouse is under the bed.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A monkey has a long tail.": {
+  "cer": 0.0,
+  "file": "50a9b5552bcd.mp3",
+  "heard": "A monkey has a long tail.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A mouse is very small.": {
+  "cer": 0.0,
+  "file": "fac2d54a6bba.mp3",
+  "heard": "A mouse is very small.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A pear is green or yellow.": {
+  "cer": 0.0,
+  "file": "8f6429e26e74.mp3",
+  "heard": "A pear is green or yellow.",
+  "speaker": "narrator",
+  "tries": 4
+ },
+ "A penguin can swim but can't fly.": {
+  "cer": 0.0,
+  "file": "8910951e9f55.mp3",
+  "heard": "A penguin can swim, but can't fly.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A penguin is black and white.": {
+  "cer": 0.0,
+  "file": "97cf3e5a4442.mp3",
+  "heard": "A penguin is black and white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A polar bear is white.": {
+  "cer": 0.0,
+  "file": "0af5bf67beac.mp3",
+  "heard": "A polar bear is white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A polar bear lives on the ice.": {
+  "cer": 0.0,
+  "file": "3f6fc7e3b220.mp3",
+  "heard": "A polar bear lives on the ice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A puppy is a baby dog.": {
+  "cer": 0.0,
+  "file": "f1206434e1ce.mp3",
+  "heard": "A puppy is a baby dog.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A rabbit can jump.": {
+  "cer": 0.0,
+  "file": "1d0a3a6e4b74.mp3",
+  "heard": "a rabbit can jump",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A rabbit is a good pet.": {
+  "cer": 0.0,
+  "file": "69e715f48e55.mp3",
+  "heard": "A rabbit is a good pet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A salad is good for you.": {
+  "cer": 0.0,
+  "file": "5469de6f1a4c.mp3",
+  "heard": "A salad is good for you.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A shark has big teeth.": {
+  "cer": 0.0,
+  "file": "97f4ca573524.mp3",
+  "heard": "A shark has big teeth.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A snake has no legs.": {
+  "cer": 0.0,
+  "file": "615aaaad77ef.mp3",
+  "heard": "A snake has no legs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A spider has eight legs.": {
+  "cer": 0.0,
+  "file": "1fb0354cc753.mp3",
+  "heard": "A spider has eight legs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A swan has a long neck.": {
+  "cer": 0.0,
+  "file": "0036a0d6720f.mp3",
+  "heard": "A swan has a long neck.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A teenager is between thirteen and nineteen.": {
+  "cer": 0.432,
+  "file": "fa5a2f2f0491.mp3",
+  "heard": "A teenager is between 13 and 19.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A tiger is a big cat.": {
+  "cer": 0.0,
+  "file": "bf1cc8a9aa26.mp3",
+  "heard": "A tiger is a big cat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A tiger is a wild animal.": {
+  "cer": 0.0,
+  "file": "649c6f76da2d.mp3",
+  "heard": "A tiger is a wild animal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A tomato is red and round.": {
+  "cer": 0.0,
+  "file": "29e7f1e9bb00.mp3",
+  "heard": "A tomato is red and round.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "A tomato is red.": {
+  "cer": 0.0,
+  "file": "1f585fe03a0c.mp3",
+  "heard": "A tomato is red.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A tortoise can live for a hundred years.": {
+  "cer": 0.0,
+  "file": "9ed14f203977.mp3",
+  "heard": "A tortoise can live for a hundred years.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A whale is very big.": {
+  "cer": 0.0,
+  "file": "e8422a681d21.mp3",
+  "heard": "A whale is very big.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A whale lives in the sea.": {
+  "cer": 0.0,
+  "file": "f8a519eada2a.mp3",
+  "heard": "A whale lives in the sea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A zebra is black and white.": {
+  "cer": 0.0,
+  "file": "191317f3f892.mp3",
+  "heard": "A zebra is black and white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "A zebra looks like a horse.": {
+  "cer": 0.0,
+  "file": "d9a5797f7e59.mp3",
+  "heard": "A zebra looks like a horse.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An apple a day is good for you.": {
+  "cer": 0.0,
+  "file": "693f142bb0c7.mp3",
+  "heard": "An apple a day is good for you.",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "An apple is a good snack.": {
+  "cer": 0.0,
+  "file": "f2a96305d3e5.mp3",
+  "heard": "An apple is a good snack.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An elephant is grey.": {
+  "cer": 0.0,
+  "file": "12cda1d9b412.mp3",
+  "heard": "An elephant is gray.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An elephant is very big and grey.": {
+  "cer": 0.0,
+  "file": "fb8f51ac00a8.mp3",
+  "heard": "An elephant is very big and gray.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An insect has six legs.": {
+  "cer": 0.0,
+  "file": "f43e964ae851.mp3",
+  "heard": "An insect has six legs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An omelette is made with eggs.": {
+  "cer": 0.0,
+  "file": "26562c2be555.mp3",
+  "heard": "An omelette is made with eggs.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "An orange is round.": {
+  "cer": 0.0,
+  "file": "8056488cf624.mp3",
+  "heard": "An orange is round.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Are you hungry? Dinner is ready.": {
+  "cer": 0.0,
+  "file": "70978462566b.mp3",
+  "heard": "Are you hungry? Dinner is ready.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Are you married?": {
+  "cer": 0.0,
+  "file": "bb94e76b5a48.mp3",
+  "heard": "Are you married?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Are you thirsty? Have some water.": {
+  "cer": 0.0,
+  "file": "32643f983f1c.mp3",
+  "heard": "Are you thirsty? Have some water?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Aunt Kate is Dad's sister.": {
+  "cer": 0.0,
+  "file": "8ecd640e7f08.mp3",
+  "heard": "Aunt Kate is dad's sister.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Aunt Kate's husband is Uncle Ben.": {
+  "cer": 0.0,
+  "file": "08f3b5f29ce7.mp3",
+  "heard": "Aunt Kate's husband is Uncle Ben.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Be careful with the knife!": {
+  "cer": 0.0,
+  "file": "750c7e4bb62f.mp3",
+  "heard": "Be careful with the knife.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Be careful! Don't break the glass.": {
+  "cer": 0.0,
+  "file": "c14e7b68f19c.mp3",
+  "heard": "Be careful, don't break the glass.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Be careful! The glass is full.": {
+  "cer": 0.0,
+  "file": "e9bbb1fd159c.mp3",
+  "heard": "Be careful, the glass is full.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Bears love honey.": {
+  "cer": 0.0,
+  "file": "fc86c52faccf.mp3",
+  "heard": "Bears love honey.",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "Bees make honey.": {
+  "cer": 0.0,
+  "file": "09ecb025e0e4.mp3",
+  "heard": "Bees make honey.",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "Boil the eggs for ten minutes.": {
+  "cer": 0.0,
+  "file": "85c5fbc7a022.mp3",
+  "heard": "Boil the eggs for 10 minutes.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Breakfast is ready!": {
+  "cer": 0.0,
+  "file": "8b23ad6ffb34.mp3",
+  "heard": "Breakfast is ready.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Breakfast is the first meal of the day.": {
+  "cer": 0.0,
+  "file": "5cd0a34fa414.mp3",
+  "heard": "Breakfast is the first meal of the day.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Can I have a biscuit, please?": {
+  "cer": 0.0,
+  "file": "9dd0144458c2.mp3",
+  "heard": "Can I have a biscuit, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have a clean plate, please?": {
+  "cer": 0.0,
+  "file": "0491516f8280.mp3",
+  "heard": "Can I have a clean plate, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have a drink, please?": {
+  "cer": 0.0,
+  "file": "f3e807c15b50.mp3",
+  "heard": "Can I have a drink, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have a glass of water?": {
+  "cer": 0.0,
+  "file": "2a9450871b2b.mp3",
+  "heard": "Can I have a glass of water?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have a slice of pizza?": {
+  "cer": 0.0,
+  "file": "2ede26010345.mp3",
+  "heard": "Can I have a slice of pizza?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have a sweet, please?": {
+  "cer": 0.0,
+  "file": "b9c9069b11f0.mp3",
+  "heard": "Can I have a sweet, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have fish and chips, please?": {
+  "cer": 0.0,
+  "file": "241a80b27244.mp3",
+  "heard": "Can I have fish and chips, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have orange juice?": {
+  "cer": 0.0,
+  "file": "d8e8c6980cf8.mp3",
+  "heard": "Can I have orange juice?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have some ice in my cola?": {
+  "cer": 0.0,
+  "file": "c8ea244d1f40.mp3",
+  "heard": "Can I have some ice in my cola?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have some more cake?": {
+  "cer": 0.0,
+  "file": "b920120f53d3.mp3",
+  "heard": "Can I have some more cake?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can I have some more rice?": {
+  "cer": 0.0,
+  "file": "e85f2fc6bd96.mp3",
+  "heard": "Can I have some more rice?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can we go fishing, Grandpa?": {
+  "cer": 0.0,
+  "file": "59f7eca78bf2.mp3",
+  "heard": "Can we go fishing grandpa?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can we see the menu, please?": {
+  "cer": 0.0,
+  "file": "fecea20e60e5.mp3",
+  "heard": "Can we see the menu, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can you cook pasta?": {
+  "cer": 0.0,
+  "file": "bb8dbb3a24d7.mp3",
+  "heard": "Can you cook pasta?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can you help me wash up?": {
+  "cer": 0.0,
+  "file": "f4c2b6911608.mp3",
+  "heard": "Can you help me wash up?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Can you pass the salt and pepper?": {
+  "cer": 0.0,
+  "file": "0a4f7443007e.mp3",
+  "heard": "Can you pass the salt and pepper?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you pass the salt, please?": {
+  "cer": 0.0,
+  "file": "ad9ff5d31e7b.mp3",
+  "heard": "Can you pass the salt, please?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Can you turn on the light, please?": {
+  "cer": 0.0,
+  "file": "4ffed23c6683.mp3",
+  "heard": "Can you turn on the light please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Children don't drink coffee.": {
+  "cer": 0.0,
+  "file": "fe18098bd438.mp3",
+  "heard": "Children don't drink coffee.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Chillies are very hot!": {
+  "cer": 0.056,
+  "file": "15e06fa6f96c.mp3",
+  "heard": "Chilies are very hot.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Chips are made from potatoes.": {
+  "cer": 0.0,
+  "file": "79b10c5846cd.mp3",
+  "heard": "Chips are made from potatoes.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Chocolate is brown.": {
+  "cer": 0.0,
+  "file": "0ea78f450177.mp3",
+  "heard": "Chocolate is brown.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Chocolate is not good for dogs, Max!": {
+  "cer": 0.0,
+  "file": "20493287d694.mp3",
+  "heard": "Chocolate is not good for dogs, Max.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Cows give us milk.": {
+  "cer": 0.0,
+  "file": "3d29be47e8a0.mp3",
+  "heard": "Cows give us milk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Curry is a hot dish.": {
+  "cer": 0.0,
+  "file": "0197409b3403.mp3",
+  "heard": "Curry is a hot dish",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Cut the cake into eight pieces.": {
+  "cer": 0.0,
+  "file": "5083aa0156cb.mp3",
+  "heard": "cut the cake into eight pieces.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Dad boils water for tea.": {
+  "cer": 0.0,
+  "file": "ecf9ad2a3fa4.mp3",
+  "heard": "Dad boils water for tea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cooks a sausage on the barbecue.": {
+  "cer": 0.0,
+  "file": "f1cade42a398.mp3",
+  "heard": "Dad cooks a sausage on the barbecue.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cooks a steak for dinner.": {
+  "cer": 0.0,
+  "file": "3f56f35e3eb0.mp3",
+  "heard": "Dad cooks a steak for dinner.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cooks dinner on Sunday.": {
+  "cer": 0.0,
+  "file": "227b28c48016.mp3",
+  "heard": "Dad cooks dinner on Sunday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cooks pasta for dinner.": {
+  "cer": 0.0,
+  "file": "f758ea9ae6c9.mp3",
+  "heard": "Dad cooks pasta for dinner.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Dad cooks sausages on the barbecue.": {
+  "cer": 0.0,
+  "file": "5f3e2dfc2359.mp3",
+  "heard": "Dad cooks sausages on the barbecue?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cooks with a little oil.": {
+  "cer": 0.0,
+  "file": "8c9c9ceb3649.mp3",
+  "heard": "Dad cooks with a little oil.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cuts the bread with a knife.": {
+  "cer": 0.0,
+  "file": "c2cf020043e7.mp3",
+  "heard": "Dad cuts the bread with a knife.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad cuts the pizza.": {
+  "cer": 0.0,
+  "file": "5a36575a02c7.mp3",
+  "heard": "Dad cuts the pizza?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad drinks coffee in the morning.": {
+  "cer": 0.0,
+  "file": "51b9962cae21.mp3",
+  "heard": "Dad drinks coffee in the morning.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad has a green car.": {
+  "cer": 0.0,
+  "file": "278fccca4d84.mp3",
+  "heard": "Dad has a green car.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Dad has a silver watch.": {
+  "cer": 0.0,
+  "file": "5dc58fea61df.mp3",
+  "heard": "Dad has a silver watch.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad is Mum's husband.": {
+  "cer": 0.0,
+  "file": "c15efa4ba92a.mp3",
+  "heard": "Dad is mum's husband.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad is very tall.": {
+  "cer": 0.0,
+  "file": "da7f57c99998.mp3",
+  "heard": "Dad is very tall.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad is washing the plates in the kitchen.": {
+  "cer": 0.0,
+  "file": "fee0f9f9a3ef.mp3",
+  "heard": "Dad is washing the plates in the kitchen.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad likes black pepper on his eggs.": {
+  "cer": 0.0,
+  "file": "92c6715b381c.mp3",
+  "heard": "Dad likes black pepper on his eggs.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Dad likes grilled fish.": {
+  "cer": 0.0,
+  "file": "6a9ece915640.mp3",
+  "heard": "Dad likes grilled fish.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad likes his steak with chips.": {
+  "cer": 0.0,
+  "file": "647c0881aad4.mp3",
+  "heard": "Dad likes his steak with chips.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad likes to cook on Sundays.": {
+  "cer": 0.0,
+  "file": "aa07f8532ade.mp3",
+  "heard": "Dad likes to cook on Sundays.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad makes a big burger.": {
+  "cer": 0.0,
+  "file": "ea2ff05be12e.mp3",
+  "heard": "Dad makes a big burger.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad makes an omelette with cheese.": {
+  "cer": 0.0,
+  "file": "f844dc8ad694.mp3",
+  "heard": "Dad makes an omelet with cheese.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad makes fried rice.": {
+  "cer": 0.0,
+  "file": "fee2bcac131d.mp3",
+  "heard": "Dad makes fried rice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad opens a can of soup.": {
+  "cer": 0.0,
+  "file": "a1a7eafcbc06.mp3",
+  "heard": "Dad opens a can of soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad puts a chilli in the curry.": {
+  "cer": 0.0,
+  "file": "50be3c4d8c59.mp3",
+  "heard": "Dad puts a chili in the curry.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad puts a potato in the soup.": {
+  "cer": 0.0,
+  "file": "1bcd5a8208bd.mp3",
+  "heard": "Dad puts a potato in the soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Dad, can you help me?": {
+  "cer": 0.0,
+  "file": "67aecd649ad1.mp3",
+  "heard": "Dad, can you help me?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Dinner is my favourite meal.": {
+  "cer": 0.0,
+  "file": "76b5fbcdad00.mp3",
+  "heard": "Dinner is my favorite meal.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Do you have a pet?": {
+  "cer": 0.0,
+  "file": "03761b52b76f.mp3",
+  "heard": "Do you have a pet?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Do you take sugar in your tea?": {
+  "cer": 0.0,
+  "file": "0b288aa6ad0f.mp3",
+  "heard": "Do you take sugar in your tea?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Do you want sauce on your burger?": {
+  "cer": 0.0,
+  "file": "8112f636deb0.mp3",
+  "heard": "Do you want sauce on your burger?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Dogs can't eat a single grape.": {
+  "cer": 0.0,
+  "file": "6946c3591693.mp3",
+  "heard": "Dogs can't eat a single grape.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Don't eat the chilli! It's very hot.": {
+  "cer": 0.0,
+  "file": "91e74a154a9f.mp3",
+  "heard": "Don't eat the chili, it's very hot.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't forget your water bottle!": {
+  "cer": 0.0,
+  "file": "dd4cb733daf5.mp3",
+  "heard": "Don't forget your water bottle.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't put too much salt on your chips.": {
+  "cer": 0.0,
+  "file": "b2c6c6fcab21.mp3",
+  "heard": "Don't put too much salt on your chips.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't put your hand on the cooker. It's hot!": {
+  "cer": 0.0,
+  "file": "bb718dc2e792.mp3",
+  "heard": "Don't put your hand on the cooker. It's hot.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Don't swim near the crocodile!": {
+  "cer": 0.0,
+  "file": "39ba62f6f0df.mp3",
+  "heard": "Don't swim near the crocodile.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Eat some fruit every day.": {
+  "cer": 0.0,
+  "file": "01b4e7f0aafa.mp3",
+  "heard": "Eat some fruit every day.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Eat your pasta with a fork.": {
+  "cer": 0.0,
+  "file": "82b61153617c.mp3",
+  "heard": "Eat your pasta with a fork.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Eat your soup before it gets cold.": {
+  "cer": 0.0,
+  "file": "3270f0bed6db.mp3",
+  "heard": "Eat your soup before it gets cold.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Eat your vegetables, Lily!": {
+  "cer": 0.0,
+  "file": "f277ac6c248d.mp3",
+  "heard": "Eat your vegetables, Lily.",
+  "speaker": "adult",
+  "tries": 2
+ },
+ "Every child gets a cake.": {
+  "cer": 0.0,
+  "file": "03ed1c7a6c6e.mp3",
+  "heard": "Every child gets a cake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Every parent loves their child.": {
+  "cer": 0.0,
+  "file": "75f0b799f63a.mp3",
+  "heard": "Every parent loves their child.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Excuse me, waitress! Can we have the bill?": {
+  "cer": 0.0,
+  "file": "a5d3e3b5c5a5.mp3",
+  "heard": "Excuse me, waitress, can we have the bill?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Fish is good for you.": {
+  "cer": 0.0,
+  "file": "055c632c64e5.mp3",
+  "heard": "Fish is good for you.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "For the main course, I want pasta.": {
+  "cer": 0.0,
+  "file": "c0e4b261deca.mp3",
+  "heard": "For the main course, I want pasta.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Fried food is not very healthy.": {
+  "cer": 0.0,
+  "file": "eb7a8d714374.mp3",
+  "heard": "Fried food is not very healthy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Frogs are green.": {
+  "cer": 0.0,
+  "file": "12437d0c0967.mp3",
+  "heard": "Frogs are green.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Fruit is good for you.": {
+  "cer": 0.0,
+  "file": "79d045b68e4e.mp3",
+  "heard": "Fruit is good for you.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Garlic is good in pasta sauce.": {
+  "cer": 0.0,
+  "file": "15ab689b1d21.mp3",
+  "heard": "Garlic is good in pasta sauce.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Good morning, Miss Green!": {
+  "cer": 0.0,
+  "file": "31aaaac45fcd.mp3",
+  "heard": "Good morning, Miss Green",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Good morning, Mr Green!": {
+  "cer": 0.0,
+  "file": "bd8786fc64b2.mp3",
+  "heard": "Good morning, Mr. Green.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Grandad likes fishing.": {
+  "cer": 0.0,
+  "file": "98c5e6776a9b.mp3",
+  "heard": "Grandad likes fishing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandad tells funny stories.": {
+  "cer": 0.042,
+  "file": "d5dff3582ab7.mp3",
+  "heard": "Granddad tells funny stories.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma gives Lily a chocolate biscuit.": {
+  "cer": 0.0,
+  "file": "e1a761244ecd.mp3",
+  "heard": "Grandma gives Lily a chocolate biscuit.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma gives us a box of chocolate.": {
+  "cer": 0.0,
+  "file": "497bf161142d.mp3",
+  "heard": "Grandma gives us a box of chocolate.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Grandma has a cup of tea.": {
+  "cer": 0.0,
+  "file": "ad69195a7e4d.mp3",
+  "heard": "Grandma has a cup of tea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma has a purple bag.": {
+  "cer": 0.0,
+  "file": "601096055e94.mp3",
+  "heard": "Grandma has a purple bag.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma has four grandchildren.": {
+  "cer": 0.0,
+  "file": "5f12cd564c1f.mp3",
+  "heard": "Grandma has four grandchildren.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma has one grandson.": {
+  "cer": 0.0,
+  "file": "d8607bf5d308.mp3",
+  "heard": "Grandma has one grandson.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma has tea with lemon.": {
+  "cer": 0.0,
+  "file": "d7b26f1b8769.mp3",
+  "heard": "Grandma has tea with lemon.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma is a very good cook.": {
+  "cer": 0.0,
+  "file": "c8e36f8cf414.mp3",
+  "heard": "Grandma is a very good cook",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma likes a cup of tea.": {
+  "cer": 0.0,
+  "file": "4d01d0863bce.mp3",
+  "heard": "Grandma likes a cup of tea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma likes to bake on Saturday.": {
+  "cer": 0.0,
+  "file": "c5c24bb9ca43.mp3",
+  "heard": "Grandma likes to bake on Saturday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes a chocolate cake.": {
+  "cer": 0.0,
+  "file": "dcacf6fb0add.mp3",
+  "heard": "Grandma makes a chocolate cake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes delicious cakes.": {
+  "cer": 0.0,
+  "file": "3b82cadbbc02.mp3",
+  "heard": "Grandma makes delicious cakes.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes great cakes.": {
+  "cer": 0.0,
+  "file": "b3cf45aacfd4.mp3",
+  "heard": "Grandma Makes Great Cakes.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes roast chicken on Sunday.": {
+  "cer": 0.0,
+  "file": "cf04d43bcaac.mp3",
+  "heard": "Grandma Makes Roast Chicken on Sunday",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes strawberry jam.": {
+  "cer": 0.0,
+  "file": "9748b17ac051.mp3",
+  "heard": "Grandma makes strawberry jam.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma makes tomato soup.": {
+  "cer": 0.0,
+  "file": "a049fc181293.mp3",
+  "heard": "Grandma makes tomato soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma's cake is delicious.": {
+  "cer": 0.0,
+  "file": "cc44d05de4b2.mp3",
+  "heard": "Grandma's cake is delicious!",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandma's daughter is my mum.": {
+  "cer": 0.0,
+  "file": "b0ab7514a191.mp3",
+  "heard": "Grandma's daughter is my mom.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Grandpa grows tomatoes.": {
+  "cer": 0.0,
+  "file": "80464b2a487f.mp3",
+  "heard": "Grandpa Grows Tomatoes",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa has a big garden.": {
+  "cer": 0.0,
+  "file": "c3be5a63c3ba.mp3",
+  "heard": "Grandpa has a big garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa holds his new grandchild.": {
+  "cer": 0.0,
+  "file": "13075b62fd78.mp3",
+  "heard": "Grandpa holds his new grandchild.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa loves his granddaughter.": {
+  "cer": 0.0,
+  "file": "18a74030e191.mp3",
+  "heard": "Grandpa loves his granddaughter",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Grandpa's son is my dad.": {
+  "cer": 0.0,
+  "file": "a8008171bef1.mp3",
+  "heard": "Grandpa's son is my dad.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Granny gives me a big kiss.": {
+  "cer": 0.0,
+  "file": "b3a752a3cb42.mp3",
+  "heard": "Granny gives me a big kiss.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Granny reads me a story.": {
+  "cer": 0.0,
+  "file": "aaf3a156986c.mp3",
+  "heard": "Granny reads me a story.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Grilled fish is healthy.": {
+  "cer": 0.0,
+  "file": "ce3c56d90f92.mp3",
+  "heard": "Grilled fish is healthy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Happy birthday! Here is your cake.": {
+  "cer": 0.0,
+  "file": "5ee9d3799214.mp3",
+  "heard": "Happy birthday, here is your cake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "He's a nice guy.": {
+  "cer": 0.0,
+  "file": "c13f5d35aedb.mp3",
+  "heard": "He's a nice guy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Hello, Ms Brown!": {
+  "cer": 0.0,
+  "file": "25f55d6f3a40.mp3",
+  "heard": "Hello, Ms. Brown.",
+  "speaker": "kid",
+  "tries": 3
+ },
+ "Her grandfather was a teacher.": {
+  "cer": 0.0,
+  "file": "5f84d11ca211.mp3",
+  "heard": "Her grandfather was a teacher.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Her husband is a doctor.": {
+  "cer": 0.0,
+  "file": "2b3f31de017d.mp3",
+  "heard": "Her husband is a doctor.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "His wife is a teacher.": {
+  "cer": 0.0,
+  "file": "a84374c5f807.mp3",
+  "heard": "His wife is a teacher.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Honey is very sweet.": {
+  "cer": 0.0,
+  "file": "97a5634c00c8.mp3",
+  "heard": "Honey is very sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Hot soup is nice on cold days.": {
+  "cer": 0.0,
+  "file": "e4a2f55084cf.mp3",
+  "heard": "Hot soup is nice on cold days.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Hurry up! Don't miss the bus.": {
+  "cer": 0.0,
+  "file": "d6fb880b7e36.mp3",
+  "heard": "Hurry up, don't miss the bus.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "I eat rice every day.": {
+  "cer": 0.0,
+  "file": "2a710c191fa4.mp3",
+  "heard": "I eat rice every day.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I have a boiled egg for breakfast.": {
+  "cer": 0.0,
+  "file": "9a266282d300.mp3",
+  "heard": "I have a boiled egg for breakfast.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I have toast and jam for breakfast.": {
+  "cer": 0.0,
+  "file": "a07ff6fc38eb.mp3",
+  "heard": "I have toast and jam for breakfast.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "I have yogurt with fruit.": {
+  "cer": 0.0,
+  "file": "ef665efba9a8.mp3",
+  "heard": "I have yogurt with fruit.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I like bread and jam.": {
+  "cer": 0.0,
+  "file": "b39312b8ce4b.mp3",
+  "heard": "I like bread and jam.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I like fried eggs.": {
+  "cer": 0.0,
+  "file": "3883ff1efb59.mp3",
+  "heard": "I like fried eggs",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I like light green.": {
+  "cer": 0.0,
+  "file": "716179ffbe08.mp3",
+  "heard": "I like light green.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "I like strawberries and cream.": {
+  "cer": 0.0,
+  "file": "2297a546c686.mp3",
+  "heard": "I like strawberries and cream.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I love my family.": {
+  "cer": 0.0,
+  "file": "77836062e951.mp3",
+  "heard": "I love my family.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I miss you, Grandpa!": {
+  "cer": 0.0,
+  "file": "be44915a6fbe.mp3",
+  "heard": "I miss you, Grandpa.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I put butter on my bread.": {
+  "cer": 0.0,
+  "file": "fa3305711187.mp3",
+  "heard": "I put butter on my bread!",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I want tomato sauce on my chips.": {
+  "cer": 0.0,
+  "file": "c48350d30ac9.mp3",
+  "heard": "I want tomato sauce on my chips.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'd like a boiled egg, please.": {
+  "cer": 0.0,
+  "file": "dbb6ad8546c6.mp3",
+  "heard": "I'd like a boiled egg, please.",
+  "speaker": "kid",
+  "tries": 3
+ },
+ "I'd like a cheese sandwich, please.": {
+  "cer": 0.0,
+  "file": "3f89ba8020d5.mp3",
+  "heard": "I'd like a cheese sandwich, please.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'd like a cheese sandwich.": {
+  "cer": 0.0,
+  "file": "142422db0432.mp3",
+  "heard": "I'd like a cheese sandwich.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "I'd like a strawberry ice cream.": {
+  "cer": 0.0,
+  "file": "ba153d525b9d.mp3",
+  "heard": "I'd like a strawberry ice cream.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'd like grilled chicken, please.": {
+  "cer": 0.0,
+  "file": "8ed33d76ffdf.mp3",
+  "heard": "I'd like grilled chicken, please.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'd like some bread and butter.": {
+  "cer": 0.0,
+  "file": "46c5de2a7faa.mp3",
+  "heard": "I'd like some bread and butter.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'd like some mineral water, please.": {
+  "cer": 0.0,
+  "file": "ebd0a6f58b7a.mp3",
+  "heard": "I'd like some mineral water, please.",
+  "speaker": "kid",
+  "tries": 3
+ },
+ "I'd like tomato soup, please.": {
+  "cer": 0.0,
+  "file": "e1cb814fee5d.mp3",
+  "heard": "I'd like tomato soup, please.",
+  "speaker": "kid",
+  "tries": 5
+ },
+ "I'm hungry. Can I have a snack?": {
+  "cer": 0.0,
+  "file": "12525fb92816.mp3",
+  "heard": "I'm hungry. Can I have a snack?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "I'm thirsty. Can I have some water?": {
+  "cer": 0.0,
+  "file": "e76b0199de28.mp3",
+  "heard": "I'm thirsty, can I have some water?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "It gets dark at six o'clock.": {
+  "cer": 0.0,
+  "file": "206c6678d6e4.mp3",
+  "heard": "It gets dark at 6 o'clock.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "It's dark. Lily can't see.": {
+  "cer": 0.0,
+  "file": "3fb159df2437.mp3",
+  "heard": "It's dark, Lily can't see.",
+  "speaker": "narrator",
+  "tries": 4
+ },
+ "It's dark. Turn on the light, please.": {
+  "cer": 0.0,
+  "file": "0edff06ec9d2.mp3",
+  "heard": "It's dark. Turn on the light, please.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Let's bake some bread.": {
+  "cer": 0.0,
+  "file": "f587f1b01ee0.mp3",
+  "heard": "Let's bake some bread.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's eat!": {
+  "cer": 0.0,
+  "file": "4519b239cc8a.mp3",
+  "heard": "Let's eat.",
+  "speaker": "adult",
+  "tries": 2
+ },
+ "Let's have a barbecue on Sunday.": {
+  "cer": 0.0,
+  "file": "2575247dba43.mp3",
+  "heard": "Let's have a barbecue on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's have a picnic in the park!": {
+  "cer": 0.0,
+  "file": "0cb1fc82e443.mp3",
+  "heard": "Let's have a picnic in the park.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's have lunch at the cafe.": {
+  "cer": 0.0,
+  "file": "e349ca7877a2.mp3",
+  "heard": "Let's have lunch at the cafe",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's have melon for dessert.": {
+  "cer": 0.0,
+  "file": "18c5e3c85fa4.mp3",
+  "heard": "Let's have melon for dessert.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Let's roast some potatoes.": {
+  "cer": 0.0,
+  "file": "0ae846a61cd7.mp3",
+  "heard": "Let's roast some potatoes.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Lily always wants dessert.": {
+  "cer": 0.0,
+  "file": "d0fd3c6e1b63.mp3",
+  "heard": "Lily always wants dessert.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily and Dad go to the zoo.": {
+  "cer": 0.0,
+  "file": "3b1c130ed93f.mp3",
+  "heard": "Lily and dad go to the zoo.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily can ride a bike.": {
+  "cer": 0.0,
+  "file": "29c006c91322.mp3",
+  "heard": "Lily can ride a bike?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily can ride a horse.": {
+  "cer": 0.0,
+  "file": "629903b24adb.mp3",
+  "heard": "Lily can ride a horse.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily cuts a carrot for the soup.": {
+  "cer": 0.0,
+  "file": "2ba0fbb70bac.mp3",
+  "heard": "Lily cuts a carrot for the soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily doesn't eat much meat.": {
+  "cer": 0.0,
+  "file": "8f0855c6d2f6.mp3",
+  "heard": "Lily doesn't eat much meat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily doesn't like mushroom soup.": {
+  "cer": 0.0,
+  "file": "bdfab4f6f873.mp3",
+  "heard": "Lily doesn't like mushroom soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily drinks a glass of juice.": {
+  "cer": 0.0,
+  "file": "5366e5246deb.mp3",
+  "heard": "Lily drinks a glass of juice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily drinks a glass of milk.": {
+  "cer": 0.0,
+  "file": "dc24c09d71a8.mp3",
+  "heard": "Lily drinks a glass of milk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily drinks cola at the party.": {
+  "cer": 0.0,
+  "file": "77764fe975a4.mp3",
+  "heard": "Lily drinks cola at the party.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily eats a green grape.": {
+  "cer": 0.0,
+  "file": "ea1daf7d4246.mp3",
+  "heard": "Lily Eats a Green Grape",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily eats a red apple.": {
+  "cer": 0.0,
+  "file": "71f83ca7092d.mp3",
+  "heard": "Lily Eats a Red Apple",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily eats an orange after lunch.": {
+  "cer": 0.0,
+  "file": "b701d2ee8040.mp3",
+  "heard": "Lily Eats an Orange After Lunch",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily eats cereal with milk.": {
+  "cer": 0.0,
+  "file": "43ac49b3c883.mp3",
+  "heard": "Lily eats cereal with milk",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily eats her soup from a bowl.": {
+  "cer": 0.0,
+  "file": "b8eb5f867898.mp3",
+  "heard": "Lily eats her soup from a bowl.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily finds a big strawberry in the garden.": {
+  "cer": 0.0,
+  "file": "0f8e4477be5a.mp3",
+  "heard": "Lily finds a big strawberry in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily finds a black beetle.": {
+  "cer": 0.0,
+  "file": "165224301186.mp3",
+  "heard": "Lily finds a black beetle.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily finds a small insect in the garden.": {
+  "cer": 0.0,
+  "file": "3b4a4bf7ae5c.mp3",
+  "heard": "Lily finds a small insect in the garden.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily gives Dad a pear.": {
+  "cer": 0.118,
+  "file": "d78b2deae816.mp3",
+  "heard": "Lily gives Dad a pair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a banana for breakfast.": {
+  "cer": 0.0,
+  "file": "4f8d96fda5ac.mp3",
+  "heard": "Lily has a banana for breakfast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a bottle of water.": {
+  "cer": 0.0,
+  "file": "794193ff6464.mp3",
+  "heard": "Lily has a bottle of water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a dark blue coat.": {
+  "cer": 0.0,
+  "file": "40eb6f55265b.mp3",
+  "heard": "Lily has a dark blue coat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a light blue dress.": {
+  "cer": 0.0,
+  "file": "8e6cce3b39d1.mp3",
+  "heard": "Lily has a light blue dress.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a little brother.": {
+  "cer": 0.0,
+  "file": "ef51ad796b51.mp3",
+  "heard": "Lily has a little brother.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a red bike.": {
+  "cer": 0.0,
+  "file": "6136de9596c5.mp3",
+  "heard": "Lily has a red bike",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a slice of bread.": {
+  "cer": 0.0,
+  "file": "aa3c62fe2773.mp3",
+  "heard": "Lily has a slice of bread.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has a yellow T-shirt.": {
+  "cer": 0.0,
+  "file": "3ffde53b3fdc.mp3",
+  "heard": "Lily has a yellow t-shirt.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily has an omelette for lunch.": {
+  "cer": 0.0,
+  "file": "049347f5e9fa.mp3",
+  "heard": "Lily has an omelette for lunch",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has an orange T-shirt.": {
+  "cer": 0.0,
+  "file": "e13a5f1fe6d0.mp3",
+  "heard": "Lily has an orange t-shirt",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has black shoes.": {
+  "cer": 0.0,
+  "file": "3de7cf921f76.mp3",
+  "heard": "Lily has black shoes",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has breakfast at seven.": {
+  "cer": 0.0,
+  "file": "c495e3703dfb.mp3",
+  "heard": "Lily has breakfast at seven.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has two orange fish.": {
+  "cer": 0.0,
+  "file": "1f2778f4540a.mp3",
+  "heard": "Lily has two orange fish.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily has yogurt for breakfast.": {
+  "cer": 0.0,
+  "file": "4694c25f2ea5.mp3",
+  "heard": "Lily has yogurt for breakfast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily helps Dad wash up after dinner.": {
+  "cer": 0.0,
+  "file": "01c63ad9b9a8.mp3",
+  "heard": "Lily helps dad wash up after dinner.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is Grandma's granddaughter.": {
+  "cer": 0.0,
+  "file": "2d2b85f3c436.mp3",
+  "heard": "Lily is grandma's granddaughter.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily is Grandpa's first grandchild.": {
+  "cer": 0.0,
+  "file": "c7ddd115ecfe.mp3",
+  "heard": "Lily is grandpa's first grandchild.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily is Mum and Dad's daughter.": {
+  "cer": 0.0,
+  "file": "a3781d604703.mp3",
+  "heard": "Lily is mom and dad's daughter.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is a girl.": {
+  "cer": 0.0,
+  "file": "6927a743a52e.mp3",
+  "heard": "Lily is a girl",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is a happy child.": {
+  "cer": 0.0,
+  "file": "46a52645099a.mp3",
+  "heard": "Lily is a happy child.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is ill. Her face is pale.": {
+  "cer": 0.0,
+  "file": "32c03440cb00.mp3",
+  "heard": "Lily is ill her face is pale",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily is not afraid of the spider.": {
+  "cer": 0.0,
+  "file": "16d1cf267188.mp3",
+  "heard": "Lily is not afraid of the spider",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily likes dinosaur books.": {
+  "cer": 0.0,
+  "file": "f702ce164836.mp3",
+  "heard": "Lily likes dinosaur books?",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily likes pink flowers.": {
+  "cer": 0.0,
+  "file": "2d0b6b3644c3.mp3",
+  "heard": "Lily likes pink flowers.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily likes to drink orange juice.": {
+  "cer": 0.0,
+  "file": "2b52d43af06c.mp3",
+  "heard": "Lily likes to drink orange juice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily looks like her mother.": {
+  "cer": 0.0,
+  "file": "1d951ac42fbb.mp3",
+  "heard": "Lily looks like her mother.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily loves Max.": {
+  "cer": 0.083,
+  "file": "4d8f903bcdd7.mp3",
+  "heard": "Lily loves Mac.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily loves chocolate ice cream.": {
+  "cer": 0.0,
+  "file": "4817a6dcf0d5.mp3",
+  "heard": "Lily loves chocolate ice cream.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily loves watching wildlife.": {
+  "cer": 0.0,
+  "file": "341bae0af005.mp3",
+  "heard": "Lily loves watching wildlife.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily makes a fruit salad.": {
+  "cer": 0.0,
+  "file": "77a44d5c9efb.mp3",
+  "heard": "Lily makes a fruit salad.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily makes lemonade with Mum.": {
+  "cer": 0.0,
+  "file": "5d2254c045ef.mp3",
+  "heard": "Lily Makes Lemonade with Mom",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily misses her grandma.": {
+  "cer": 0.0,
+  "file": "4af6664843dd.mp3",
+  "heard": "Lily misses her grandma.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily opens the box of chocolates.": {
+  "cer": 0.0,
+  "file": "14cafd5b38f0.mp3",
+  "heard": "Lily opens the box of chocolates.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily paints a purple flower.": {
+  "cer": 0.0,
+  "file": "aa289738b0de.mp3",
+  "heard": "Lily paints a purple flower",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily plays with her cousin at the party.": {
+  "cer": 0.0,
+  "file": "53005fc6131d.mp3",
+  "heard": "Lily plays with her cousin at the party.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily plays with her friend after school.": {
+  "cer": 0.0,
+  "file": "cdcc7e32f915.mp3",
+  "heard": "Lily plays with her friend after school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts a tomato in the salad.": {
+  "cer": 0.0,
+  "file": "5dce792d8546.mp3",
+  "heard": "Lily puts a tomato in the salad.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts an apple in her bag.": {
+  "cer": 0.0,
+  "file": "4c34bdf33b46.mp3",
+  "heard": "Lily puts an apple in her bag.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts butter on her toast.": {
+  "cer": 0.0,
+  "file": "38fa03d01230.mp3",
+  "heard": "Lily puts butter on her toast?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts cream in her coffee.": {
+  "cer": 0.0,
+  "file": "46b4320c4679.mp3",
+  "heard": "Lily puts cream in her coffee.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts honey on her toast.": {
+  "cer": 0.0,
+  "file": "693e23784b8f.mp3",
+  "heard": "Lily puts honey on her toast",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily puts the cake on her plate.": {
+  "cer": 0.0,
+  "file": "dfc5bb5bd55f.mp3",
+  "heard": "Lily puts the cake on her plate.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily rides a camel on holiday.": {
+  "cer": 0.0,
+  "file": "fe9114671a3e.mp3",
+  "heard": "Lily rides a camel on holiday",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily sends a photo to her penfriend.": {
+  "cer": 0.0,
+  "file": "296c64376a71.mp3",
+  "heard": "Lily sends a photo to her pen friend.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily sits with her friends in the cafeteria.": {
+  "cer": 0.0,
+  "file": "d8336ce42be7.mp3",
+  "heard": "Lily sits with her friends in the cafeteria.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily takes a sandwich to school.": {
+  "cer": 0.0,
+  "file": "8fae13d29d23.mp3",
+  "heard": "Lily takes a sandwich to school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily takes her dog to the park.": {
+  "cer": 0.0,
+  "file": "14c4f8f78865.mp3",
+  "heard": "Lily takes her dog to the park.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily takes her lunch to school.": {
+  "cer": 0.0,
+  "file": "68647c9ebaf6.mp3",
+  "heard": "Lily takes her lunch to school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily takes sandwiches to the picnic.": {
+  "cer": 0.0,
+  "file": "4510aeaf071b.mp3",
+  "heard": "Lily takes sandwiches to the picnic.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily visits her grandparents on Sunday.": {
+  "cer": 0.0,
+  "file": "217d1637e89a.mp3",
+  "heard": "Lily visits her grandparents on Sunday.",
+  "speaker": "narrator",
+  "tries": 5
+ },
+ "Lily wants a strawberry ice cream.": {
+  "cer": 0.0,
+  "file": "9aad646340f3.mp3",
+  "heard": "Lily wants a strawberry ice cream.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wants pizza for dinner.": {
+  "cer": 0.0,
+  "file": "d2920c50dc16.mp3",
+  "heard": "Lily Wants Pizza for Dinner",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wants to be a chef.": {
+  "cer": 0.0,
+  "file": "b3db32f5ca7a.mp3",
+  "heard": "Lily wants to be a chef.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wears a pink hat.": {
+  "cer": 0.0,
+  "file": "eedc80b3be36.mp3",
+  "heard": "Lily wears a pink hat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily wins a golden cup.": {
+  "cer": 0.0,
+  "file": "f8f3df5d03c8.mp3",
+  "heard": "Lily wins a golden cup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily writes to her penfriend in Spain.": {
+  "cer": 0.0,
+  "file": "3b69b9eed137.mp3",
+  "heard": "Lily writes to her pen friend in Spain.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's aunt gives her a book.": {
+  "cer": 0.0,
+  "file": "77ddd25a3344.mp3",
+  "heard": "Lily's aunt gives her a book.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Lily's bag is pink.": {
+  "cer": 0.0,
+  "file": "f2c408269eeb.mp3",
+  "heard": "Lily's bag is pink.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's cousin is a teenager now.": {
+  "cer": 0.0,
+  "file": "b96358f9caf0.mp3",
+  "heard": "Lily's cousin is a teenager now",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's family has a dog.": {
+  "cer": 0.0,
+  "file": "840873ed4184.mp3",
+  "heard": "Lily's family has a dog.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's grandmother lives near the sea.": {
+  "cer": 0.0,
+  "file": "d43eeee8cc62.mp3",
+  "heard": "Lily's grandmother lives near the sea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's neighbour is very friendly.": {
+  "cer": 0.0,
+  "file": "762a2e25df42.mp3",
+  "heard": "Lily's neighbor is very friendly.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lily's parents work in a hospital.": {
+  "cer": 0.0,
+  "file": "a89a4756bac9.mp3",
+  "heard": "Lily's parents work in a hospital.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Lions are wild animals.": {
+  "cer": 0.0,
+  "file": "aef5a06e4209.mp3",
+  "heard": "Lions are wild animals.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Look at the pretty butterfly!": {
+  "cer": 0.0,
+  "file": "1e44e06859e2.mp3",
+  "heard": "Look at the pretty butterfly.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "Look! A bee is flying near the flowers.": {
+  "cer": 0.0,
+  "file": "893d537ab2a0.mp3",
+  "heard": "Look a bee is flying near the flowers",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max can't eat garlic.": {
+  "cer": 0.0,
+  "file": "6805bb4c7418.mp3",
+  "heard": "Max can't eat garlic.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Max can't eat onion.": {
+  "cer": 0.0,
+  "file": "24291374ae90.mp3",
+  "heard": "Max can't eat onion",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max can't fly, but he can run fast.": {
+  "cer": 0.0,
+  "file": "70895fb507e7.mp3",
+  "heard": "Max can't fly, but he can run fast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max drinks lots of water.": {
+  "cer": 0.0,
+  "file": "e92d6e0c2fae.mp3",
+  "heard": "Max drinks lots of water",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max has a blue bowl.": {
+  "cer": 0.0,
+  "file": "98afd3ebc3e7.mp3",
+  "heard": "Max has a blue bowl.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max has a long tail.": {
+  "cer": 0.0,
+  "file": "f6fc968d935e.mp3",
+  "heard": "Max has a long tail.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is Lily's pet.": {
+  "cer": 0.0,
+  "file": "72423085dc49.mp3",
+  "heard": "Max is Lily's pet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is a friendly dog.": {
+  "cer": 0.0,
+  "file": "50a3ac99b326.mp3",
+  "heard": "Max is a friendly dog.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is a happy animal.": {
+  "cer": 0.0,
+  "file": "ad45a4f09f34.mp3",
+  "heard": "Max is a happy animal.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is a little dog.": {
+  "cer": 0.0,
+  "file": "83dcc4996556.mp3",
+  "heard": "Max is a little dog.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max is my best friend.": {
+  "cer": 0.0,
+  "file": "5077a6596a15.mp3",
+  "heard": "Max is my best friend.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Max is thirsty after the walk.": {
+  "cer": 0.0,
+  "file": "a820b4c0c12d.mp3",
+  "heard": "Max is thirsty after the walk",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max likes dog biscuits.": {
+  "cer": 0.0,
+  "file": "2be766b0fd76.mp3",
+  "heard": "Max likes dog biscuits.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max loves his food.": {
+  "cer": 0.0,
+  "file": "24cc2de4513b.mp3",
+  "heard": "Max loves his food.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max loves meat.": {
+  "cer": 0.0,
+  "file": "8aa8f9d589d1.mp3",
+  "heard": "Max loves meat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Max wants my sausage!": {
+  "cer": 0.0,
+  "file": "d677fc873422.mp3",
+  "heard": "Max wants my sausage.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Max wants to eat my sandwich!": {
+  "cer": 0.0,
+  "file": "809689aecad6.mp3",
+  "heard": "Max wants to eat my sandwich.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Max was a very small puppy.": {
+  "cer": 0.0,
+  "file": "7c9c59ecf7f1.mp3",
+  "heard": "Max was a very small puppy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mia is Lily's best friend.": {
+  "cer": 0.0,
+  "file": "82fa1de7c135.mp3",
+  "heard": "Mia is Lily's best friend.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Milk is white.": {
+  "cer": 0.0,
+  "file": "c4ef0df96b50.mp3",
+  "heard": "Milk is white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mineral water is good for you.": {
+  "cer": 0.0,
+  "file": "d879a9bb8ecb.mp3",
+  "heard": "Mineral water is good for you.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Miss Brown is our teacher.": {
+  "cer": 0.095,
+  "file": "a1f482f6e93c.mp3",
+  "heard": "Ms. Brown is our teacher.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Miss Smith has a new car.": {
+  "cer": 0.105,
+  "file": "82096ef4ab7e.mp3",
+  "heard": "Ms. Smith has a new car.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mr Brown is our teacher.": {
+  "cer": 0.0,
+  "file": "755fd51ceb6e.mp3",
+  "heard": "Mr. Brown is our teacher.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "Mr Smith is our neighbour.": {
+  "cer": 0.0,
+  "file": "51306d1b7ec8.mp3",
+  "heard": "Mr. Smith is our neighbor.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Mrs Brown has a big dog.": {
+  "cer": 0.0,
+  "file": "7829aafb3653.mp3",
+  "heard": "Mrs. Brown has a big dog.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mrs Green lives next door.": {
+  "cer": 0.0,
+  "file": "16b1ece9a671.mp3",
+  "heard": "Mrs. Green lives next door.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Ms Green is a doctor.": {
+  "cer": 0.0,
+  "file": "112298178dc2.mp3",
+  "heard": "M's Green is a doctor.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Ms White is the head teacher.": {
+  "cer": 0.043,
+  "file": "47013663d551.mp3",
+  "heard": "M.M.'s White is the head teacher.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum and Lily bake a cake.": {
+  "cer": 0.0,
+  "file": "e966497d699c.mp3",
+  "heard": "Mom and Lily bake a cake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum and Lily meet at a cafe.": {
+  "cer": 0.0,
+  "file": "4eb3225c06d3.mp3",
+  "heard": "Mom and Lily meet at a cafe.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum cooks chicken for dinner.": {
+  "cer": 0.0,
+  "file": "976a95f60c3c.mp3",
+  "heard": "Mum cooks chicken for dinner.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum cuts an onion for the soup.": {
+  "cer": 0.0,
+  "file": "d0e983194f46.mp3",
+  "heard": "Mom cuts an onion for the soup.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum cuts the bread with a knife.": {
+  "cer": 0.0,
+  "file": "4840a2314041.mp3",
+  "heard": "Mum cuts the bread with a knife.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum has a silver ring.": {
+  "cer": 0.0,
+  "file": "649891b169c8.mp3",
+  "heard": "Mum has a silver ring.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum has tea with milk.": {
+  "cer": 0.0,
+  "file": "749d6c5e4cb3.mp3",
+  "heard": "Mum has tea with milk.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum is Dad's wife.": {
+  "cer": 0.0,
+  "file": "05384b507324.mp3",
+  "heard": "Mom is dad's wife.",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "Mum is cooking in the kitchen.": {
+  "cer": 0.0,
+  "file": "6f9617db808f.mp3",
+  "heard": "Mom is cooking in the kitchen.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum likes coffee with milk.": {
+  "cer": 0.0,
+  "file": "055e6bc5c07c.mp3",
+  "heard": "Mom likes coffee with milk.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Mum makes a green salad.": {
+  "cer": 0.0,
+  "file": "14d2803d1d9b.mp3",
+  "heard": "Mum makes a green salad.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum makes chicken curry.": {
+  "cer": 0.0,
+  "file": "2e13395392fc.mp3",
+  "heard": "Mom makes chicken curry.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum puts garlic in the pasta sauce.": {
+  "cer": 0.0,
+  "file": "1492df627e27.mp3",
+  "heard": "Mum puts garlic in the pasta sauce.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Mum reads me a story.": {
+  "cer": 0.0,
+  "file": "c796b8df3dca.mp3",
+  "heard": "Mom reads me a story.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "Mum, can you cut my meat, please?": {
+  "cer": 0.0,
+  "file": "ea239651848c.mp3",
+  "heard": "Mom, can you cut my meat, please?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Mum, where are my shoes?": {
+  "cer": 0.0,
+  "file": "560cf907009a.mp3",
+  "heard": "Mom, where are my shoes?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My aunt is married.": {
+  "cer": 0.0,
+  "file": "567318c72dc6.mp3",
+  "heard": "My aunt is married.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My aunt lives in London.": {
+  "cer": 0.0,
+  "file": "b5073aa1183e.mp3",
+  "heard": "My aunt lives in London.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My brother is six years old.": {
+  "cer": 0.0,
+  "file": "977fd738d3f8.mp3",
+  "heard": "My brother is six years old.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin is a teenager.": {
+  "cer": 0.0,
+  "file": "3c4eb33bd3b7.mp3",
+  "heard": "My cousin is a teenager.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My cousin is ten years old.": {
+  "cer": 0.0,
+  "file": "250537c3347f.mp3",
+  "heard": "My cousin is 10 years old.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My dad works in a bank.": {
+  "cer": 0.0,
+  "file": "ea8bbca86b0b.mp3",
+  "heard": "My dad works in a bank.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My father is a doctor.": {
+  "cer": 0.0,
+  "file": "e62a2f1cdbec.mp3",
+  "heard": "My father is a doctor.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My father teaches me to ride a bike.": {
+  "cer": 0.0,
+  "file": "adf1a00de241.mp3",
+  "heard": "My father teaches me to ride a bike.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My favourite colour is orange.": {
+  "cer": 0.0,
+  "file": "09230ac8a435.mp3",
+  "heard": "My favorite color is orange.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandad is seventy years old.": {
+  "cer": 0.308,
+  "file": "5d2ce5256464.mp3",
+  "heard": "My granddad is 70 years old.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandfather lives on a farm.": {
+  "cer": 0.0,
+  "file": "26fc2dee1479.mp3",
+  "heard": "My grandfather lives on a farm.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandfather tells funny stories.": {
+  "cer": 0.0,
+  "file": "df7417284b66.mp3",
+  "heard": "My grandfather tells funny stories.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandmother has grey hair.": {
+  "cer": 0.0,
+  "file": "2641793c5296.mp3",
+  "heard": "My grandmother has gray hair.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandmother makes me a scarf.": {
+  "cer": 0.0,
+  "file": "849e1f1e27e5.mp3",
+  "heard": "My grandmother makes me a scarf.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My grandparents live in the country.": {
+  "cer": 0.0,
+  "file": "a9c4c716a43a.mp3",
+  "heard": "My grandparents live in the country.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My granny loves gardening.": {
+  "cer": 0.0,
+  "file": "caaaf39d6114.mp3",
+  "heard": "My granny loves gardening.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My mother is a teacher.": {
+  "cer": 0.0,
+  "file": "cbd24ae06cc5.mp3",
+  "heard": "My mother is a teacher.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My mother walks me to school.": {
+  "cer": 0.0,
+  "file": "d96433789721.mp3",
+  "heard": "My mother walks me to school.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My mum cooks dinner every day.": {
+  "cer": 0.0,
+  "file": "54296026e0fc.mp3",
+  "heard": "My mom cooks dinner every day.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My parents are married.": {
+  "cer": 0.0,
+  "file": "0e1aa22ff196.mp3",
+  "heard": "My parents are married.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My parents love me.": {
+  "cer": 0.0,
+  "file": "93f73954c1c1.mp3",
+  "heard": "My parents love me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My parrot is red, blue and yellow.": {
+  "cer": 0.0,
+  "file": "8a84b6474b9a.mp3",
+  "heard": "My parrot is red, blue, and yellow.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My penfriend lives in Spain.": {
+  "cer": 0.0,
+  "file": "87dd53eb11c4.mp3",
+  "heard": "My pen friend lives in Spain.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "My sister is nine years old.": {
+  "cer": 0.0,
+  "file": "70bff8a8071a.mp3",
+  "heard": "My sister is nine years old.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My sister is older than me.": {
+  "cer": 0.0,
+  "file": "f7d3ec07de98.mp3",
+  "heard": "My sister is older than me.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "My surname is Smith.": {
+  "cer": 0.0,
+  "file": "21eaeb6d34c3.mp3",
+  "heard": "My surname is Smith.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "My uncle has a big car.": {
+  "cer": 0.0,
+  "file": "df74ce50fb1a.mp3",
+  "heard": "My uncle has a big car.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "No sugar in my tea, thanks.": {
+  "cer": 0.0,
+  "file": "6d2b3e4bae5a.mp3",
+  "heard": "No sugar in my tea, thanks.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Onions make me cry!": {
+  "cer": 0.0,
+  "file": "107d3f80c04b.mp3",
+  "heard": "Onions make me cry.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "Open the can carefully.": {
+  "cer": 0.0,
+  "file": "05590a13a0c5.mp3",
+  "heard": "Open the can carefully.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Our cat drinks milk.": {
+  "cer": 0.0,
+  "file": "21f183558168.mp3",
+  "heard": "Our cat drinks milk.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our neighbour has a big garden.": {
+  "cer": 0.0,
+  "file": "cf806c43b380.mp3",
+  "heard": "Our neighbor has a big garden.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our neighbour has a cat.": {
+  "cer": 0.0,
+  "file": "54efed91d879.mp3",
+  "heard": "Our neighbor has a cat.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Our new teacher is very friendly.": {
+  "cer": 0.0,
+  "file": "962565845d7e.mp3",
+  "heard": "Our new teacher is very friendly.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Pizza has cheese on it.": {
+  "cer": 0.0,
+  "file": "d96b935c7232.mp3",
+  "heard": "Pizza has cheese on it.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Pizza is my favourite dish.": {
+  "cer": 0.0,
+  "file": "85ca690df0c9.mp3",
+  "heard": "Pizza is my favorite dish.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Pizza is my favourite food.": {
+  "cer": 0.0,
+  "file": "526b0115d562.mp3",
+  "heard": "Pizza is my favorite food.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Please don't break my new toy.": {
+  "cer": 0.0,
+  "file": "d1c5b0999b92.mp3",
+  "heard": "Please don't break my new toy.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Please turn off the light.": {
+  "cer": 0.0,
+  "file": "7ab462e2ac97.mp3",
+  "heard": "Please turn off the light.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Put some ice in my juice, please.": {
+  "cer": 0.0,
+  "file": "c5fe09e8ce50.mp3",
+  "heard": "Put some ice in my juice, please.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Put some jam on your bread.": {
+  "cer": 0.0,
+  "file": "0836ebd519f3.mp3",
+  "heard": "Put some jam on your bread.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put some lemon on the fish.": {
+  "cer": 0.0,
+  "file": "9fd2df34a138.mp3",
+  "heard": "Put some lemon on the fish.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put some milk on your cereal.": {
+  "cer": 0.0,
+  "file": "42d726459afe.mp3",
+  "heard": "Put some milk on your cereal",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put some oil on the salad.": {
+  "cer": 0.0,
+  "file": "a113ae4a44cc.mp3",
+  "heard": "Put some oil on the salad.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put some salt and pepper on the meat.": {
+  "cer": 0.0,
+  "file": "a7f539ac4399.mp3",
+  "heard": "Put some salt and pepper on the meat.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the butter in the fridge.": {
+  "cer": 0.0,
+  "file": "19b872fbd104.mp3",
+  "heard": "put the butter in the fridge.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the cake on a plate.": {
+  "cer": 0.0,
+  "file": "bc36bc1c8a2c.mp3",
+  "heard": "Put the cake on a plate.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the dish on the table.": {
+  "cer": 0.0,
+  "file": "2249991521f1.mp3",
+  "heard": "Put the dish on the table.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the fork next to the plate.": {
+  "cer": 0.0,
+  "file": "80ad7cfd0589.mp3",
+  "heard": "put the fork next to the plate.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the fruit in the big bowl.": {
+  "cer": 0.0,
+  "file": "dd70a3a5fbcf.mp3",
+  "heard": "put the fruit in the big bowl.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Put the knife next to the fork.": {
+  "cer": 0.0,
+  "file": "96d0094a8ab2.mp3",
+  "heard": "put the knife next to the fork.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Rabbits like carrots.": {
+  "cer": 0.0,
+  "file": "ed9784ce9e1a.mp3",
+  "heard": "rabbits like carrots.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Sam is Lily's cousin.": {
+  "cer": 0.0,
+  "file": "cfb104362521.mp3",
+  "heard": "Sam is Lily's cousin.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Snow is white.": {
+  "cer": 0.0,
+  "file": "58240d4f5587.mp3",
+  "heard": "Snow is white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Some grapes are purple.": {
+  "cer": 0.0,
+  "file": "0cab637474da.mp3",
+  "heard": "Some grapes are purple.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Strawberries are red and sweet.": {
+  "cer": 0.0,
+  "file": "c6d4a3811ebe.mp3",
+  "heard": "Strawberries are red and sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Strawberries are red.": {
+  "cer": 0.0,
+  "file": "24210a0c4f1d.mp3",
+  "heard": "Strawberries are red.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Thank you, Mrs Smith!": {
+  "cer": 0.0,
+  "file": "a537dcde009b.mp3",
+  "heard": "Thank you, Mrs. Smith.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The baby bear is eating honey.": {
+  "cer": 0.0,
+  "file": "e99a2a6090a0.mp3",
+  "heard": "The baby bear is eating honey.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The baby is hungry.": {
+  "cer": 0.0,
+  "file": "f46019d03130.mp3",
+  "heard": "The baby is hungry.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bear is brown.": {
+  "cer": 0.0,
+  "file": "717b2841cd86.mp3",
+  "heard": "The bear is brown.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bee makes honey.": {
+  "cer": 0.0,
+  "file": "0a00f4bf446c.mp3",
+  "heard": "The bee makes honey.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The big brown bear is sleeping.": {
+  "cer": 0.0,
+  "file": "cd40a83dcc0d.mp3",
+  "heard": "The big brown bear is sleeping.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The bird can sing.": {
+  "cer": 0.0,
+  "file": "5b6f03646226.mp3",
+  "heard": "The bird can sing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The boy is playing football.": {
+  "cer": 0.0,
+  "file": "006f4c0fda32.mp3",
+  "heard": "The boy is playing football.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The butterfly has a big wing.": {
+  "cer": 0.0,
+  "file": "2d9478da5c98.mp3",
+  "heard": "The butterfly has a big wing.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The butterfly has blue wings.": {
+  "cer": 0.0,
+  "file": "c0ae0e257c6b.mp3",
+  "heard": "The butterfly has blue wings.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cafe sells cakes and coffee.": {
+  "cer": 0.0,
+  "file": "7e5685c32e78.mp3",
+  "heard": "The cafe sells cakes and coffee.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cafeteria opens at twelve.": {
+  "cer": 0.0,
+  "file": "c9e350becbb9.mp3",
+  "heard": "The cafeteria opens at 12.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cake is in a box.": {
+  "cer": 0.0,
+  "file": "ad1b68705a59.mp3",
+  "heard": "The cake is in a box.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cat has green eyes.": {
+  "cer": 0.0,
+  "file": "3834075469be.mp3",
+  "heard": "The cat has green eyes.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cat is black.": {
+  "cer": 0.0,
+  "file": "fa6016ce9048.mp3",
+  "heard": "The cat is black.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cat is sleeping on the bed.": {
+  "cer": 0.0,
+  "file": "3b95ccc40c41.mp3",
+  "heard": "The cat is sleeping on the bed.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The chef cooks in the kitchen.": {
+  "cer": 0.0,
+  "file": "f22b79a209ba.mp3",
+  "heard": "The chef cooks in the kitchen.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The chef has a tall white hat.": {
+  "cer": 0.0,
+  "file": "47478582ac2e.mp3",
+  "heard": "The chef has a tall white hat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The chicken has a red head.": {
+  "cer": 0.0,
+  "file": "493c6d395120.mp3",
+  "heard": "The chicken has a red head.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The chicken has an egg.": {
+  "cer": 0.0,
+  "file": "a01850586c3f.mp3",
+  "heard": "The chicken has an egg.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The chicken lives on a farm.": {
+  "cer": 0.0,
+  "file": "46db440cf5b3.mp3",
+  "heard": "The chicken lives on a farm.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The child is playing with blocks.": {
+  "cer": 0.0,
+  "file": "e2210704a858.mp3",
+  "heard": "The child is playing with blocks.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The clouds are white.": {
+  "cer": 0.0,
+  "file": "e8925fe8d903.mp3",
+  "heard": "The clouds are white.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cow is eating grass.": {
+  "cer": 0.0,
+  "file": "c05841f919c5.mp3",
+  "heard": "The cow is eating grass?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The crocodile has big teeth.": {
+  "cer": 0.0,
+  "file": "187435ea7878.mp3",
+  "heard": "The crocodile has big teeth.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The cups are in a big box.": {
+  "cer": 0.0,
+  "file": "b626475e5210.mp3",
+  "heard": "The cups are in a big box.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The dog is playing with a ball.": {
+  "cer": 0.0,
+  "file": "baaade1b635e.mp3",
+  "heard": "The dog is playing with a ball.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The dolphin can jump high.": {
+  "cer": 0.0,
+  "file": "628a61d9cbcb.mp3",
+  "heard": "The dolphin can jump high.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The dolphin swims in the sea.": {
+  "cer": 0.0,
+  "file": "49d90e9b8924.mp3",
+  "heard": "The dolphin swims in the sea.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The duck is swimming with its babies.": {
+  "cer": 0.0,
+  "file": "f4cfa3a85631.mp3",
+  "heard": "The duck is swimming with its babies.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The elephant drinks water with its nose.": {
+  "cer": 0.0,
+  "file": "e5fa7be31a43.mp3",
+  "heard": "The elephant drinks water with its nose.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The elephant has a long nose.": {
+  "cer": 0.0,
+  "file": "78bd84888e28.mp3",
+  "heard": "The elephant has a long nose.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The frog lives near the water.": {
+  "cer": 0.0,
+  "file": "4001baeef8fa.mp3",
+  "heard": "The frog lives near the water.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The giraffe eats leaves from the tree.": {
+  "cer": 0.0,
+  "file": "15563ec7da64.mp3",
+  "heard": "The giraffe eats leaves from the tree.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The giraffe is very tall.": {
+  "cer": 0.0,
+  "file": "7d74d1fee5b3.mp3",
+  "heard": "The giraffe is very tall.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The girl has long hair.": {
+  "cer": 0.0,
+  "file": "d90a27942265.mp3",
+  "heard": "The girl has long hair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The goat eats grass.": {
+  "cer": 0.0,
+  "file": "e570b343b3f2.mp3",
+  "heard": "The goat eats grass.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The goat lives on the farm.": {
+  "cer": 0.0,
+  "file": "e9ccbab8020d.mp3",
+  "heard": "The goat lives on the farm.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The grass is green.": {
+  "cer": 0.0,
+  "file": "49e599e22bb2.mp3",
+  "heard": "The grass is green.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The green frog can jump.": {
+  "cer": 0.0,
+  "file": "7be3b6068310.mp3",
+  "heard": "The green frog can jump.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The guest sits next to Grandma.": {
+  "cer": 0.0,
+  "file": "b2004108645f.mp3",
+  "heard": "The guest sits next to Grandma.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The horse can run very fast.": {
+  "cer": 0.0,
+  "file": "ffd4ee83880f.mp3",
+  "heard": "The horse can run very fast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kangaroo has a baby.": {
+  "cer": 0.0,
+  "file": "de56a1ddab21.mp3",
+  "heard": "The kangaroo has a baby.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kangaroo lives in Australia.": {
+  "cer": 0.0,
+  "file": "c9bc0a30845a.mp3",
+  "heard": "The kangaroo lives in Australia.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The king has a golden chair.": {
+  "cer": 0.0,
+  "file": "3080cd3b6643.mp3",
+  "heard": "The king has a golden chair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kitchen is big and light.": {
+  "cer": 0.0,
+  "file": "364fc1eb1581.mp3",
+  "heard": "The kitchen is big and light.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kitchen is next to the dining room.": {
+  "cer": 0.0,
+  "file": "3d0760073134.mp3",
+  "heard": "The kitchen is next to the dining room.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The kitten is playing with Max.": {
+  "cer": 0.0,
+  "file": "115d1e00eea7.mp3",
+  "heard": "The kitten is playing with Max.",
+  "speaker": "narrator",
+  "tries": 3
+ },
+ "The kitten is sleeping in a box.": {
+  "cer": 0.0,
+  "file": "9323fed6a6ee.mp3",
+  "heard": "The kitten is sleeping in a box",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The lion is the king of the animals.": {
+  "cer": 0.0,
+  "file": "33d21e471361.mp3",
+  "heard": "The lion is the king of the animals.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The lion is very strong.": {
+  "cer": 0.0,
+  "file": "b7d608d415f8.mp3",
+  "heard": "The lion is very strong.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The main course is chicken and rice.": {
+  "cer": 0.0,
+  "file": "8bea0f5db31e.mp3",
+  "heard": "The main course is chicken and rice.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The man at the shop is very friendly.": {
+  "cer": 0.0,
+  "file": "6c2b0286cbd9.mp3",
+  "heard": "The man at the shop is very friendly.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The meat is on the barbecue.": {
+  "cer": 0.0,
+  "file": "c38588d05f59.mp3",
+  "heard": "The meat is on the barbecue.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The menu has lots of dishes.": {
+  "cer": 0.0,
+  "file": "1f6721ca491a.mp3",
+  "heard": "the menu has lots of dishes",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The milk is in the fridge.": {
+  "cer": 0.0,
+  "file": "7872f7f31ac5.mp3",
+  "heard": "The milk is in the fridge.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The monkey eats a banana.": {
+  "cer": 0.0,
+  "file": "33c5a59bfa03.mp3",
+  "heard": "The monkey eats a banana.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The monkey holds the tree with its tail.": {
+  "cer": 0.0,
+  "file": "23ae6a337834.mp3",
+  "heard": "The monkey holds the tree with its tail.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The monkey is climbing the tree.": {
+  "cer": 0.0,
+  "file": "4266d8391d37.mp3",
+  "heard": "The monkey is climbing the tree.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The monkey likes bananas.": {
+  "cer": 0.0,
+  "file": "21fc239e01f0.mp3",
+  "heard": "The monkey likes bananas.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The moon looks silver.": {
+  "cer": 0.0,
+  "file": "e9aab99162d6.mp3",
+  "heard": "The moon looks silver.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The morning break is twenty minutes.": {
+  "cer": 0.2,
+  "file": "ef3ac5bd1d7d.mp3",
+  "heard": "The morning break is 20 minutes.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The mouse is grey.": {
+  "cer": 0.0,
+  "file": "bb608a9db8de.mp3",
+  "heard": "the mouse is gray",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The mouse likes cheese.": {
+  "cer": 0.0,
+  "file": "c38a114868bc.mp3",
+  "heard": "The mouse likes cheese.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The mouse wants the cheese.": {
+  "cer": 0.0,
+  "file": "0d5579d1dcb2.mp3",
+  "heard": "The mouse wants the cheese.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The night sky is black.": {
+  "cer": 0.0,
+  "file": "59f6b62233d4.mp3",
+  "heard": "The night sky is black.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The parrot can say hello.": {
+  "cer": 0.0,
+  "file": "00843edca8f2.mp3",
+  "heard": "The parrot can say hello.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The parrot is sitting on Lily's arm.": {
+  "cer": 0.0,
+  "file": "15235983cec0.mp3",
+  "heard": "The parrot is sitting on Lily's arm.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The penguin lives in a cold place.": {
+  "cer": 0.0,
+  "file": "da1a31aebd2f.mp3",
+  "heard": "The penguin lives in a cold place.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The polar bear is swimming in the cold sea.": {
+  "cer": 0.0,
+  "file": "e5ac90b3871e.mp3",
+  "heard": "The polar bear is swimming in the cold sea.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "The puppy wants to play.": {
+  "cer": 0.0,
+  "file": "5b77abab9179.mp3",
+  "heard": "The puppy wants to play.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The rabbit eats a carrot.": {
+  "cer": 0.0,
+  "file": "e782f415a0b1.mp3",
+  "heard": "The rabbit eats a carrot.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The rabbit has long ears.": {
+  "cer": 0.0,
+  "file": "61970c2e346d.mp3",
+  "heard": "The rabbit has long ears.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The rabbit is eating a carrot.": {
+  "cer": 0.0,
+  "file": "752d4240c002.mp3",
+  "heard": "The rabbit is eating a carrot",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sea is blue today.": {
+  "cer": 0.0,
+  "file": "3c080c36dad6.mp3",
+  "heard": "The sea is blue today.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sea water has salt in it.": {
+  "cer": 0.0,
+  "file": "e84131081ef4.mp3",
+  "heard": "The seawater has salt in it.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The shark is swimming fast.": {
+  "cer": 0.0,
+  "file": "32a41dbda2db.mp3",
+  "heard": "The shark is swimming fast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The shark lives in the sea.": {
+  "cer": 0.0,
+  "file": "418d37eb03a5.mp3",
+  "heard": "The shark lives in the sea?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sheep is eating grass on the hill.": {
+  "cer": 0.0,
+  "file": "06e26572c46f.mp3",
+  "heard": "The sheep is eating grass on the hill.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sheep is white and soft.": {
+  "cer": 0.0,
+  "file": "278d6eab5cfa.mp3",
+  "heard": "The sheep is white and soft.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sky is blue.": {
+  "cer": 0.0,
+  "file": "b04519d5952c.mp3",
+  "heard": "The sky is blue.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sky is grey. It's going to rain.": {
+  "cer": 0.0,
+  "file": "372ee6a8321c.mp3",
+  "heard": "The sky is gray, it's going to rain.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The snake is long and green.": {
+  "cer": 0.0,
+  "file": "e4d91e0c16e2.mp3",
+  "heard": "The snake is long and green.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The snake is sleeping in the sun.": {
+  "cer": 0.0,
+  "file": "79d945ebbb17.mp3",
+  "heard": "The snake is sleeping in the sun.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The soup is on the cooker.": {
+  "cer": 0.0,
+  "file": "48b7320078eb.mp3",
+  "heard": "The soup is on the cooker.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The spider is making a web.": {
+  "cer": 0.0,
+  "file": "0c51810ca35c.mp3",
+  "heard": "The spider is making a web.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sun is golden in the evening.": {
+  "cer": 0.0,
+  "file": "7d28b76cd2e8.mp3",
+  "heard": "The sun is golden in the evening.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The sun is yellow.": {
+  "cer": 0.0,
+  "file": "28355667d9f7.mp3",
+  "heard": "The sun is yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The swan is swimming on the lake.": {
+  "cer": 0.0,
+  "file": "436a888e822c.mp3",
+  "heard": "The swan is swimming on the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The tiger is orange and black.": {
+  "cer": 0.0,
+  "file": "9d6576e656eb.mp3",
+  "heard": "The tiger is orange and black.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The tiger is sleeping under the tree.": {
+  "cer": 0.0,
+  "file": "fb90179002df.mp3",
+  "heard": "The tiger is sleeping under the tree.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The tortoise is eating grass.": {
+  "cer": 0.0,
+  "file": "c6423eaf6117.mp3",
+  "heard": "The tortoise is eating grass?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The tortoise walks slowly.": {
+  "cer": 0.0,
+  "file": "7b0756fe8faf.mp3",
+  "heard": "The tortoise walks slowly.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The waiter brings our food.": {
+  "cer": 0.0,
+  "file": "1d4798d4f275.mp3",
+  "heard": "The waiter brings our food.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The waiter gives us the menu.": {
+  "cer": 0.0,
+  "file": "98824f19d54b.mp3",
+  "heard": "The waiter gives us the menu.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The waitress brings our drinks.": {
+  "cer": 0.0,
+  "file": "94ae4e03ea23.mp3",
+  "heard": "The waitress brings our drinks.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The waitress gives us the menu.": {
+  "cer": 0.0,
+  "file": "84d17415088f.mp3",
+  "heard": "The waitress gives us the menu.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "The wall is pale yellow.": {
+  "cer": 0.0,
+  "file": "f5cfb2807351.mp3",
+  "heard": "The wall is pale yellow.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The whale is bigger than a boat.": {
+  "cer": 0.0,
+  "file": "05ae4f18b064.mp3",
+  "heard": "The whale is bigger than a boat.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The white swan is beautiful.": {
+  "cer": 0.0,
+  "file": "1ea26ac673eb.mp3",
+  "heard": "The white swan is beautiful.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The zebra lives in Africa.": {
+  "cer": 0.0,
+  "file": "44411e5cf447.mp3",
+  "heard": "The zebra lives in Africa.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "The zoo opens at nine o'clock.": {
+  "cer": 0.0,
+  "file": "0a7dfa035e7b.mp3",
+  "heard": "The zoo opens at 9 o'clock.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Their granddaughter visits every Sunday.": {
+  "cer": 0.0,
+  "file": "d632580c9257.mp3",
+  "heard": "Their granddaughter visits every Sunday.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Their grandson is a doctor.": {
+  "cer": 0.0,
+  "file": "3dd3195e1c11.mp3",
+  "heard": "Their grandson is a doctor.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "There are five people in my family.": {
+  "cer": 0.0,
+  "file": "23b7660b9b7c.mp3",
+  "heard": "There are five people in my family.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There are mushrooms on my pizza.": {
+  "cer": 0.0,
+  "file": "69dce6718639.mp3",
+  "heard": "There are mushrooms on my pizza.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There are ten boys in my class.": {
+  "cer": 0.0,
+  "file": "f2eb59f3ab49.mp3",
+  "heard": "There are 10 boys in my class.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There are twelve girls in my class.": {
+  "cer": 0.0,
+  "file": "3d1c6fd7a81f.mp3",
+  "heard": "There are 12 girls in my class?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "There is a bird in the tree.": {
+  "cer": 0.0,
+  "file": "f61666d1a8b8.mp3",
+  "heard": "There is a bird in the tree.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is a can of cola in the fridge.": {
+  "cer": 0.0,
+  "file": "05bca9e06f5d.mp3",
+  "heard": "There is a can of cola in the fridge.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is a lot of wildlife in the park.": {
+  "cer": 0.0,
+  "file": "5f92081f8c68.mp3",
+  "heard": "There is a lot of wildlife in the park.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is a mushroom in the forest.": {
+  "cer": 0.0,
+  "file": "468f96893c05.mp3",
+  "heard": "There is a mushroom in the forest.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is cola in the fridge.": {
+  "cer": 0.0,
+  "file": "eb5cbb8b9ad9.mp3",
+  "heard": "There is cola in the fridge.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is ice on the lake.": {
+  "cer": 0.0,
+  "file": "5302b860a1f0.mp3",
+  "heard": "There is ice on the lake.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "There is milk in the bottle.": {
+  "cer": 0.0,
+  "file": "3ebbf1b1b6c5.mp3",
+  "heard": "There is milk in the bottle.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "These chips are hot!": {
+  "cer": 0.0,
+  "file": "14d57991afea.mp3",
+  "heard": "These chips are hot.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "These grapes are green and sweet.": {
+  "cer": 0.0,
+  "file": "19882b4909a8.mp3",
+  "heard": "These grapes are green and sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "They have a son and a daughter.": {
+  "cer": 0.0,
+  "file": "841d548b1f4b.mp3",
+  "heard": "They have a son and a daughter.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "They have one son and one daughter.": {
+  "cer": 0.0,
+  "file": "1c515da367d3.mp3",
+  "heard": "They have one son and one daughter.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This apple is very sweet.": {
+  "cer": 0.0,
+  "file": "e50cde2d875e.mp3",
+  "heard": "This apple is very sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This burger is very big!": {
+  "cer": 0.0,
+  "file": "10b2e441e1c7.mp3",
+  "heard": "This burger is very big.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This candy is very sweet.": {
+  "cer": 0.0,
+  "file": "ff63bd731522.mp3",
+  "heard": "This candy is very sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This cup is blue.": {
+  "cer": 0.0,
+  "file": "91e881ea7a0d.mp3",
+  "heard": "This cup is blue.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This curry is very hot!": {
+  "cer": 0.0,
+  "file": "ecfb15455bcb.mp3",
+  "heard": "This curry is very hot.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This dinosaur is very old.": {
+  "cer": 0.0,
+  "file": "88b98252009c.mp3",
+  "heard": "This dinosaur is very old.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This is my family.": {
+  "cer": 0.0,
+  "file": "22831ed1c93a.mp3",
+  "heard": "This is my family",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This melon is big and sweet.": {
+  "cer": 0.0,
+  "file": "c2388518037a.mp3",
+  "heard": "This melon is big and sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This melon is very sweet.": {
+  "cer": 0.0,
+  "file": "93e4be799d08.mp3",
+  "heard": "This melon is very sweet.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This pasta sauce is delicious.": {
+  "cer": 0.0,
+  "file": "901d508f3426.mp3",
+  "heard": "This pasta sauce is delicious!",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This pear is very sweet.": {
+  "cer": 0.0,
+  "file": "627dc89b21de.mp3",
+  "heard": "This pear is very sweet.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "This pizza has cheese and mushrooms on it.": {
+  "cer": 0.0,
+  "file": "2e27deeacf86.mp3",
+  "heard": "This pizza has cheese and mushrooms on it.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "This soup is delicious!": {
+  "cer": 0.0,
+  "file": "088595e5f8df.mp3",
+  "heard": "This soup is delicious.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This steak is very big!": {
+  "cer": 0.0,
+  "file": "8abfddd78055.mp3",
+  "heard": "This steak is very big.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "This strawberry yogurt is delicious.": {
+  "cer": 0.0,
+  "file": "86ca7e06b812.mp3",
+  "heard": "This strawberry yogurt is delicious.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom doesn't like boiled carrots.": {
+  "cer": 0.0,
+  "file": "8a960fdc6e17.mp3",
+  "heard": "Tom doesn't like boiled carrots.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom doesn't like to wash up.": {
+  "cer": 0.0,
+  "file": "fd0a15c100d4.mp3",
+  "heard": "Tom doesn't like to wash up.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom eats his chips with a fork.": {
+  "cer": 0.0,
+  "file": "a3336cf58dba.mp3",
+  "heard": "Tom eats his chips with a fork.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom eats his sandwich in the park.": {
+  "cer": 0.0,
+  "file": "9be5af57be6c.mp3",
+  "heard": "Tom eats his sandwich in the park.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom eats too much candy.": {
+  "cer": 0.0,
+  "file": "551afe1b5983.mp3",
+  "heard": "Tom eats too much candy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has a sausage for breakfast.": {
+  "cer": 0.0,
+  "file": "22ead519b1dd.mp3",
+  "heard": "Tom has a sausage for breakfast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has a sister called Lily.": {
+  "cer": 0.0,
+  "file": "f50d98539c09.mp3",
+  "heard": "Tom has a sister called Lily.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has a snack after school.": {
+  "cer": 0.0,
+  "file": "be5f3e7c4274.mp3",
+  "heard": "Tom has a snack after school.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has brown hair.": {
+  "cer": 0.0,
+  "file": "3e7dec55de11.mp3",
+  "heard": "Tom has brown hair.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom has cereal for breakfast.": {
+  "cer": 0.0,
+  "file": "9bf72aaab85c.mp3",
+  "heard": "Tom has cereal for breakfast.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom is Grandpa's grandson.": {
+  "cer": 0.095,
+  "file": "9bda5d4a0d42.mp3",
+  "heard": "Tommy's grandpa's grandson.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom is Lily's brother.": {
+  "cer": 0.0,
+  "file": "1c46ca60be3f.mp3",
+  "heard": "Tom is Lily's brother.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Tom is Mum and Dad's son.": {
+  "cer": 0.0,
+  "file": "2f24a49c382d.mp3",
+  "heard": "Tom is mom and dad's son.",
+  "speaker": "narrator",
+  "tries": 2
+ },
+ "Tom is a boy.": {
+  "cer": 0.0,
+  "file": "c33306ab77b6.mp3",
+  "heard": "Tom is a boy",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom looks like his father.": {
+  "cer": 0.0,
+  "file": "c80d7471614a.mp3",
+  "heard": "Tom looks like his father.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom looks pale today.": {
+  "cer": 0.0,
+  "file": "f991c6e12d9c.mp3",
+  "heard": "Tom looks pale today.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom loves pasta with cheese.": {
+  "cer": 0.0,
+  "file": "dd2c2b77fec4.mp3",
+  "heard": "Tom loves pasta with cheese.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom loves pizza.": {
+  "cer": 0.0,
+  "file": "34f5d332f911.mp3",
+  "heard": "Tom loves pizza.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom wants a burger and chips.": {
+  "cer": 0.0,
+  "file": "089c77d593a7.mp3",
+  "heard": "Tom wants a burger and chips.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom wants a chocolate ice cream.": {
+  "cer": 0.0,
+  "file": "b23915003ef9.mp3",
+  "heard": "Tom wants a chocolate ice cream.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom wants chips with his burger.": {
+  "cer": 0.0,
+  "file": "9b1dbf299c12.mp3",
+  "heard": "Tom wants chips with his burger.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom wants pizza for lunch.": {
+  "cer": 0.0,
+  "file": "18258d20e846.mp3",
+  "heard": "Tom wants pizza for lunch.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom's dad is a waiter in a cafe.": {
+  "cer": 0.0,
+  "file": "b6e7a47e3141.mp3",
+  "heard": "Tom's dad is a waiter in a cafe.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Tom's uncle is a funny guy.": {
+  "cer": 0.0,
+  "file": "402201756a39.mp3",
+  "heard": "Tom's uncle is a funny guy.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Too much candy is bad for your teeth.": {
+  "cer": 0.0,
+  "file": "431be37e97ac.mp3",
+  "heard": "Too much candy is bad for your teeth?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Too much cola is bad for your teeth.": {
+  "cer": 0.0,
+  "file": "af354f3e2cfe.mp3",
+  "heard": "Too much cola is bad for your teeth.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Uncle Ben is very funny.": {
+  "cer": 0.0,
+  "file": "16dd25d1e435.mp3",
+  "heard": "Uncle Ben is very funny.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Uncle Ben plays football with us.": {
+  "cer": 0.0,
+  "file": "c571049f3488.mp3",
+  "heard": "Uncle Ben plays football with us.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Uncle Ben's wife is Aunt Kate.": {
+  "cer": 0.0,
+  "file": "6b0edf1e43c1.mp3",
+  "heard": "Uncle Ben's wife is aunt Kate",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Water starts to boil at 100 degrees.": {
+  "cer": 0.0,
+  "file": "5b871393bd0f.mp3",
+  "heard": "Water starts to boil at 100 degrees.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "We buy bread every morning.": {
+  "cer": 0.0,
+  "file": "ad5ff4f59180.mp3",
+  "heard": "We buy bread every morning.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We buy food at the supermarket.": {
+  "cer": 0.0,
+  "file": "8569802d8781.mp3",
+  "heard": "We buy food at the supermarket.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We drink lemonade in summer.": {
+  "cer": 0.0,
+  "file": "49db9f24278b.mp3",
+  "heard": "We drink lemonade in summer.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We eat a snack at break.": {
+  "cer": 0.0,
+  "file": "4eaa671de418.mp3",
+  "heard": "We eat a snack at break.",
+  "speaker": "kid",
+  "tries": 3
+ },
+ "We eat ice cream on hot days.": {
+  "cer": 0.0,
+  "file": "1ffd76a9343b.mp3",
+  "heard": "We eat ice cream on hot days.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We get milk from a cow.": {
+  "cer": 0.0,
+  "file": "fbc5afb7c952.mp3",
+  "heard": "We get milk from a cow.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We get wool from a sheep.": {
+  "cer": 0.0,
+  "file": "12f75b79780d.mp3",
+  "heard": "We get wool from a sheep.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We give bread to the duck.": {
+  "cer": 0.0,
+  "file": "1fc3efe48318.mp3",
+  "heard": "We give bread to the duck.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a barbecue in the garden.": {
+  "cer": 0.0,
+  "file": "6a7061d84061.mp3",
+  "heard": "We have a barbecue in the garden.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a big meal on Sunday.": {
+  "cer": 0.0,
+  "file": "052712b1690a.mp3",
+  "heard": "We have a big meal on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a guest for dinner.": {
+  "cer": 0.0,
+  "file": "85d27e5d1849.mp3",
+  "heard": "We have a guest for dinner.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a guest from Spain.": {
+  "cer": 0.0,
+  "file": "5670f89e413f.mp3",
+  "heard": "We have a guest from Spain.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a new cooker in the kitchen.": {
+  "cer": 0.0,
+  "file": "d2ed9532134f.mp3",
+  "heard": "We have a new cooker in the kitchen.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have a picnic by the lake.": {
+  "cer": 0.0,
+  "file": "904dba3bbe5e.mp3",
+  "heard": "We have a picnic by the lake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have boiled rice with the fish.": {
+  "cer": 0.0,
+  "file": "55efcd9ab1b1.mp3",
+  "heard": "We have boiled rice with the fish.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have chicken and rice for dinner.": {
+  "cer": 0.0,
+  "file": "300f61ee3105.mp3",
+  "heard": "We have chicken and rice for dinner.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have curry and rice on Friday.": {
+  "cer": 0.0,
+  "file": "e0aef40d9550.mp3",
+  "heard": "We have curry and rice on Friday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have dinner at six.": {
+  "cer": 0.0,
+  "file": "b9e767abaf31.mp3",
+  "heard": "We have dinner at 6.",
+  "speaker": "kid",
+  "tries": 2
+ },
+ "We have fish and rice for dinner.": {
+  "cer": 0.0,
+  "file": "261986fceef6.mp3",
+  "heard": "We have fish and rice for dinner.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have fish for lunch today.": {
+  "cer": 0.0,
+  "file": "556e58ecc236.mp3",
+  "heard": "We have fish for lunch today.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have ice cream for dessert.": {
+  "cer": 0.0,
+  "file": "c0b06f4653b5.mp3",
+  "heard": "We have ice cream for dessert",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have lunch at twelve o'clock.": {
+  "cer": 0.0,
+  "file": "ce9338b7f7c0.mp3",
+  "heard": "We have lunch at 12 o'clock.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have lunch in the school cafeteria.": {
+  "cer": 0.0,
+  "file": "0e6debfc3b23.mp3",
+  "heard": "We have lunch in the school cafeteria.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have pasta on Fridays.": {
+  "cer": 0.0,
+  "file": "f0e76fb6e4b9.mp3",
+  "heard": "We have pasta on Fridays.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We have roast chicken on Sunday.": {
+  "cer": 0.0,
+  "file": "0ebaf5abe9fa.mp3",
+  "heard": "We have roast chicken on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need butter to make a cake.": {
+  "cer": 0.0,
+  "file": "bf56f754ba94.mp3",
+  "heard": "We need butter to make a cake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need milk for the cake.": {
+  "cer": 0.0,
+  "file": "c06019559736.mp3",
+  "heard": "We need milk for the cake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need oil to make chips.": {
+  "cer": 0.0,
+  "file": "6c745dce88d3.mp3",
+  "heard": "We need oil to make chips.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need one egg for the cake.": {
+  "cer": 0.0,
+  "file": "ed8f1d9ffc70.mp3",
+  "heard": "We need one egg for the cake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We need sugar to make a cake.": {
+  "cer": 0.0,
+  "file": "d46165f2c9be.mp3",
+  "heard": "We need sugar to make a cake.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We play football at break.": {
+  "cer": 0.0,
+  "file": "54c03d4a5e13.mp3",
+  "heard": "We play football at break.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We see a big dinosaur at the museum.": {
+  "cer": 0.0,
+  "file": "5f0e4b140910.mp3",
+  "heard": "We see a big dinosaur at the museum.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We see lions at the zoo.": {
+  "cer": 0.0,
+  "file": "43bc7ecd317c.mp3",
+  "heard": "We see lions at the zoo?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We see wildlife in the forest.": {
+  "cer": 0.0,
+  "file": "97e98a96cf74.mp3",
+  "heard": "We see wildlife in the forest.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We visit Grandma on Sunday.": {
+  "cer": 0.0,
+  "file": "878c70c7799e.mp3",
+  "heard": "We visit Grandma on Sunday.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "We work in a group.": {
+  "cer": 0.0,
+  "file": "3b3ec7a75ed0.mp3",
+  "heard": "We work in a group.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What a delicious pizza!": {
+  "cer": 0.0,
+  "file": "c679baa76088.mp3",
+  "heard": "What a delicious pizza.",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What do you have for breakfast?": {
+  "cer": 0.0,
+  "file": "6b56bf7f7a21.mp3",
+  "heard": "What do you have for breakfast?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What do you want to eat?": {
+  "cer": 0.0,
+  "file": "bfb8ec5e7bee.mp3",
+  "heard": "What do you want to eat?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What is your favourite animal?": {
+  "cer": 0.0,
+  "file": "ffd73bea82e2.mp3",
+  "heard": "What is your favorite animal?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What is your favourite vegetable?": {
+  "cer": 0.0,
+  "file": "7b33f24829d8.mp3",
+  "heard": "What is your favorite vegetable?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What would you like for your main course?": {
+  "cer": 0.0,
+  "file": "4f9b2220b6d8.mp3",
+  "heard": "What would you like for your main course?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "What's for dessert?": {
+  "cer": 0.0,
+  "file": "c4bacdb587b3.mp3",
+  "heard": "What's for dessert?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What's for dinner tonight?": {
+  "cer": 0.0,
+  "file": "192907dcd776.mp3",
+  "heard": "What's for dinner tonight?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What's for lunch today?": {
+  "cer": 0.0,
+  "file": "7e29a293c60e.mp3",
+  "heard": "What's for lunch today?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What's on the menu today?": {
+  "cer": 0.0,
+  "file": "b49b471c5805.mp3",
+  "heard": "What's on the menu today?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "What's your surname?": {
+  "cer": 0.0,
+  "file": "3476f9fe39eb.mp3",
+  "heard": "What's your surname?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Which fruit do you like best?": {
+  "cer": 0.0,
+  "file": "fe0751c84dec.mp3",
+  "heard": "Which fruit do you like best?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Who broke the window?": {
+  "cer": 0.0,
+  "file": "bb38c413c4ba.mp3",
+  "heard": "Who broke the window?",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Who is that guy with the dog?": {
+  "cer": 0.0,
+  "file": "12d90bb5a816.mp3",
+  "heard": "Who is that guy with the dog?",
+  "speaker": "kid",
+  "tries": 1
+ },
+ "Wild horses live on the hills.": {
+  "cer": 0.0,
+  "file": "c71de17bbb5a.mp3",
+  "heard": "Wild horses live on the hills.",
+  "speaker": "narrator",
+  "tries": 1
+ },
+ "Work in a group of four.": {
+  "cer": 0.0,
+  "file": "139140907dcf.mp3",
+  "heard": "work in a group of four.",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like a baked potato?": {
+  "cer": 0.0,
+  "file": "84cf541ebace.mp3",
+  "heard": "Would you like a baked potato?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like a cup of tea?": {
+  "cer": 0.0,
+  "file": "26f319516c2a.mp3",
+  "heard": "Would you like a cup of tea?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like a slice of cake?": {
+  "cer": 0.0,
+  "file": "e03af9c365d4.mp3",
+  "heard": "Would you like a slice of cake?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like apple juice?": {
+  "cer": 0.0,
+  "file": "79f47f95391f.mp3",
+  "heard": "Would you like apple juice?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like cream on your cake?": {
+  "cer": 0.0,
+  "file": "58cdbf1189cd.mp3",
+  "heard": "Would you like cream on your cake?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Would you like some toast?": {
+  "cer": 0.0,
+  "file": "68130da87702.mp3",
+  "heard": "Would you like some toast?",
+  "speaker": "adult",
+  "tries": 1
+ },
+ "Write your name and surname here.": {
+  "cer": 0.0,
+  "file": "1ef60df2048a.mp3",
+  "heard": "Write your name and surname here.",
+  "speaker": "adult",
+  "tries": 1
+ }
+}

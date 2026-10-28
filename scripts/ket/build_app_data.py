@@ -59,6 +59,28 @@ def fetch(atlas_id: str, kind: str, our_id: str) -> str | None:
     return "media/" + dst_tpl.format(id=our_id)
 
 
+def senses_of(w: dict, it: dict, parent: dict | None = None) -> list[dict]:
+    """Meanings as [{pos, zh, en?}]. Content lists them for words with several (can: 罐头 n. / 能 mv.);
+    otherwise the word's one Chinese gloss goes with its parts of speech. A second-meaning card puts its
+    own meaning first, then the parent word's other meanings."""
+    if parent:
+        own = {"pos": w["pos"], "zh": w["zh"]}
+        return [own] + [s for s in senses_of(parent, it) if s["zh"] != w["zh"]]
+    if w.get("senses"):
+        return [{"pos": s[0], "zh": s[1], **({"en": s[2]} if len(s) > 2 else {})} for s in w["senses"]]
+    return [{"pos": w.get("pos") or it["pos"], "zh": w["zh"]}]
+
+
+def sentence(en: str, zh: str, recorded: dict, used_media: set[str]) -> dict:
+    """An example sentence, with its ChatTTS recording (gen_audio.py) when there is one."""
+    out = {"en": en, "zh": zh}
+    rec = recorded.get(en)
+    if rec and (MEDIA / "sent" / rec["file"]).exists():
+        out["audio"] = f"media/sent/{rec['file']}"
+        used_media.add(out["audio"])
+    return out
+
+
 def check_content(tid: str, c: dict, items: list[dict]) -> None:
     """Content must cover the topic's official words exactly, and groups must name real words."""
     ids = [w["id"] for w in c["words"]]
@@ -69,8 +91,12 @@ def check_content(tid: str, c: dict, items: list[dict]) -> None:
         problems.append(f"duplicate ids: {sorted({x for x in ids if ids.count(x) > 1})}")
     if missing := official - set(ids):
         problems.append(f"official words without content: {sorted(missing)}")
-    if extra := set(ids) - by_id.keys():
+    # a second-meaning card (can.2, "of": "can") is not on the list itself; its parent word must be here
+    cards = {w["id"]: w["of"] for w in c["words"] if w.get("of")}
+    if extra := set(ids) - by_id.keys() - cards.keys():
         problems.append(f"ids not in the KET list: {sorted(extra)}")
+    if orphans := {k for k, of in cards.items() if of not in ids}:
+        problems.append(f"second-meaning cards without their word: {sorted(orphans)}")
     for g in c.get("confusable", []):
         if bad := set(g) - set(ids):
             problems.append(f"confusable group names unknown ids: {sorted(bad)}")
@@ -80,7 +106,9 @@ def check_content(tid: str, c: dict, items: list[dict]) -> None:
         for k in ("zh", "chunks", "emoji", "en", "sz"):
             if not w.get(k):
                 problems.append(f"{w['id']}: missing {k}")
-        word = by_id.get(w["id"], {}).get("word", "")
+        word = by_id.get(w.get("of", w["id"]), {}).get("word", "")
+        if w.get("of") and not w.get("scene"):
+            problems.append(f"{w['id']}: a second-meaning card needs its own picture (scene)")
         if "".join(w["chunks"]).lower() != word.lower().replace(" ", "").replace("-", ""):
             problems.append(f"{w['id']}: chunks {w['chunks']} do not spell the word")
     if problems:
@@ -95,11 +123,15 @@ def main() -> None:
 
     (OUT / "topics").mkdir(parents=True, exist_ok=True)
     used_media: set[str] = set()
+    recorded_path = ROOT / "content/audio/sentences.json"
+    recorded = json.loads(recorded_path.read_text(encoding="utf-8")) if recorded_path.exists() else {}
     atlas_img = False  # credit Word Atlas for illustrations only while any are still in use
     topics_out = []
     for t in words["topics"]:
         ids = [i["id"] for i in words["items"] if t["id"] in i["topics"]]
-        topics_out.append({**t, "count": len(ids), "ready": t["id"] in content})
+        # an open island counts its cards, second meanings included, so progress never reads 108 / 106
+        count = len(content[t["id"]]["words"]) if t["id"] in content else len(ids)
+        topics_out.append({**t, "count": count, "ready": t["id"] in content})
 
     for tid, c in content.items():
         check_content(tid, c, words["items"])
@@ -107,9 +139,14 @@ def main() -> None:
         for group in c.get("confusable", []):
             for wid in group:
                 avoid.setdefault(wid, set()).update(x for x in group if x != wid)
+        by_word = {w["id"]: w for w in c["words"]}
+        for w in c["words"]:  # a word and its second-meaning card look and sound the same
+            if w.get("of"):
+                avoid.setdefault(w["id"], set()).add(w["of"])
+                avoid.setdefault(w["of"], set()).add(w["id"])
         entries = []
         for w in c["words"]:
-            it = items[w["id"]]
+            it = items[w.get("of", w["id"])]
             a = atlas.get(it["atlas"] or "")
             media = {}
             own = next((d / f"{w['id']}.webp" for d in OWN_IMG if (d / f"{w['id']}.webp").exists()), None)
@@ -121,9 +158,9 @@ def main() -> None:
                 used_media.add(media["img"])
             if a:
                 for kind in MEDIA_KINDS:
-                    if kind == "img" and (w.get("atlasImage") is False or "img" in media):
+                    if kind == "img" and (w.get("atlasImage") is False or "img" in media or w.get("of")):
                         continue
-                    path = fetch(a["id"], kind, w["id"])
+                    path = fetch(a["id"], kind, w.get("of", w["id"]))  # a second meaning shares its word's recording
                     if path:
                         media[kind] = path
                         atlas_img |= kind == "img"
@@ -132,14 +169,18 @@ def main() -> None:
                 "id": w["id"],
                 "word": it["word"],
                 "zh": w["zh"],
-                "pos": it["pos"],
+                # the parts of speech this island teaches, from its senses (content can narrow the official list)
+                "pos": list(dict.fromkeys(p for sense in senses_of(w, it, by_word.get(w.get("of", ""))) for p in sense["pos"])),
+                # meanings with their parts of speech; the first is the one this island teaches and pictures
+                "senses": senses_of(w, it, by_word.get(w.get("of", ""))),
                 "ipa": w.get("ipa") or (a["uk"] if a else ""),
                 "chunks": w["chunks"],
                 "emoji": w["emoji"],
                 "sentence": {"en": w["en"], "zh": w["sz"]},
                 # every example sentence, the main one first; sentence questions draw from these
-                "sentences": [{"en": w["en"], "zh": w["sz"]}] + [{"en": en, "zh": zh} for en, zh in w.get("more", [])],
+                "sentences": [sentence(en, zh, recorded, used_media) for en, zh in [(w["en"], w["sz"]), *w.get("more", [])]],
                 "media": media,
+                **({"of": w["of"], "ofZh": by_word[w["of"]]["zh"]} if w.get("of") else {}),
                 "avoid": sorted(avoid.get(w["id"], ())),
             })
         if bare := [e["id"] for e in entries if "img" not in e["media"]]:

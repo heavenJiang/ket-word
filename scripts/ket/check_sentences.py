@@ -96,7 +96,7 @@ def check(topics: list[str]) -> tuple[list[str], list[str], int]:
                 bad = [t for t in tokens(s) if t not in NAMES and not any(l in vocab for l in lemmas(t))]
                 if bad:
                     unknown.append(f"{path.stem}/{w['id']}: {s}  ← {', '.join(sorted(set(bad)))}")
-            word = items[w["id"]]["word"]
+            word = items[w.get("of", w["id"])]["word"]  # a second-meaning card (can.2) checks its word
             if not any(has_word(s, word) for s in sentences):
                 no_gap.append(f"{path.stem}/{w['id']}")
     return unknown, no_gap, total
