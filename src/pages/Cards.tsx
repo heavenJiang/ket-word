@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { playSentence, playWord } from "../lib/audio";
+import { playText, playWord } from "../lib/audio";
+import { sentencesOf } from "../lib/sentence";
 import { isMastered, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
 import { SKILLS, type Skill, type Topic, type Word } from "../types";
@@ -61,10 +62,12 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
               <SpeakButton onClick={() => playWord(open, accent)} label="" big />
             </div>
             <div className="intro-zh">{open.zh}</div>
-            <button className="sentence" onClick={() => playSentence(open, accent)}>
-              <span className="sentence-en">🔊 {open.sentence.en}</span>
-              <span className="sentence-zh">{open.sentence.zh}</span>
-            </button>
+            {sentencesOf(open).map((x) => (
+              <button key={x.en} className="sentence" onClick={() => playText(x.en, accent)}>
+                <span className="sentence-en">🔊 {x.en}</span>
+                <span className="sentence-zh">{x.zh}</span>
+              </button>
+            ))}
             <div className="skill-badges">
               {SKILLS.map((s) => (
                 <span key={s} className={`skill-badge ${isMastered(progress.words[open.id]?.skills[s]) ? "on" : ""}`}>

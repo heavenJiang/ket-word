@@ -18,6 +18,20 @@
     "en": "Lily eats a red apple.",
     "zh": "Lily 吃了一个红苹果。"
    },
+   "sentences": [
+    {
+     "en": "Lily eats a red apple.",
+     "zh": "Lily 吃了一个红苹果。"
+    },
+    {
+     "en": "An apple a day is good for you.",
+     "zh": "每天一个苹果对身体好。"
+    },
+    {
+     "en": "Lily puts an apple in her bag.",
+     "zh": "Lily 把一个苹果放进书包。"
+    }
+   ],
    "media": {
     "img": "media/img/apple.webp",
     "uk": "media/uk/apple.mp3",
@@ -50,6 +64,20 @@
     "en": "Mum and Lily bake a cake.",
     "zh": "妈妈和 Lily 烤了一个蛋糕。"
    },
+   "sentences": [
+    {
+     "en": "Mum and Lily bake a cake.",
+     "zh": "妈妈和 Lily 烤了一个蛋糕。"
+    },
+    {
+     "en": "Let's bake some bread.",
+     "zh": "我们来烤面包吧。"
+    },
+    {
+     "en": "Grandma likes to bake on Saturday.",
+     "zh": "奶奶喜欢在星期六烘焙。"
+    }
+   ],
    "media": {
     "img": "media/img/bake.webp",
     "uk": "media/uk/bake.mp3",
@@ -80,6 +108,20 @@
     "en": "A banana is long and yellow.",
     "zh": "香蕉又长又黄。"
    },
+   "sentences": [
+    {
+     "en": "A banana is long and yellow.",
+     "zh": "香蕉又长又黄。"
+    },
+    {
+     "en": "The monkey eats a banana.",
+     "zh": "猴子吃香蕉。"
+    },
+    {
+     "en": "Lily has a banana for breakfast.",
+     "zh": "Lily 早餐吃一根香蕉。"
+    }
+   ],
    "media": {
     "img": "media/img/banana.webp",
     "uk": "media/uk/banana.mp3",
@@ -114,6 +156,20 @@
     "en": "We have a barbecue in the garden.",
     "zh": "我们在花园里烧烤。"
    },
+   "sentences": [
+    {
+     "en": "We have a barbecue in the garden.",
+     "zh": "我们在花园里烧烤。"
+    },
+    {
+     "en": "Dad cooks sausages on the barbecue.",
+     "zh": "爸爸在烧烤架上烤香肠。"
+    },
+    {
+     "en": "Let's have a barbecue on Sunday.",
+     "zh": "我们星期天烧烤吧。"
+    }
+   ],
    "media": {
     "img": "media/img/barbecue.webp",
     "uk": "media/uk/barbecue.mp3",
@@ -144,6 +200,20 @@
     "en": "Max likes dog biscuits.",
     "zh": "Max 喜欢狗饼干。"
    },
+   "sentences": [
+    {
+     "en": "Max likes dog biscuits.",
+     "zh": "Max 喜欢狗饼干。"
+    },
+    {
+     "en": "Can I have a biscuit, please?",
+     "zh": "我可以吃一块饼干吗？"
+    },
+    {
+     "en": "Grandma gives Lily a chocolate biscuit.",
+     "zh": "奶奶给 Lily 一块巧克力饼干。"
+    }
+   ],
    "media": {
     "img": "media/img/biscuit.webp",
     "uk": "media/uk/biscuit.mp3",
@@ -174,6 +244,20 @@
     "en": "Dad boils water for tea.",
     "zh": "爸爸烧水泡茶。"
    },
+   "sentences": [
+    {
+     "en": "Dad boils water for tea.",
+     "zh": "爸爸烧水泡茶。"
+    },
+    {
+     "en": "Boil the eggs for ten minutes.",
+     "zh": "把鸡蛋煮十分钟。"
+    },
+    {
+     "en": "Water starts to boil at 100 degrees.",
+     "zh": "水在100度时开始沸腾。"
+    }
+   ],
    "media": {
     "img": "media/img/boil.webp",
     "uk": "media/uk/boil.mp3",
@@ -199,6 +283,20 @@
     "en": "I have a boiled egg for breakfast.",
     "zh": "我早餐吃一个水煮蛋。"
    },
+   "sentences": [
+    {
+     "en": "I have a boiled egg for breakfast.",
+     "zh": "我早餐吃一个水煮蛋。"
+    },
+    {
+     "en": "Tom doesn't like boiled carrots.",
+     "zh": "Tom 不喜欢煮胡萝卜。"
+    },
+    {
+     "en": "We have boiled rice with the fish.",
+     "zh": "我们吃鱼配白米饭。"
+    }
+   ],
    "media": {
     "img": "media/img/boiled.webp"
    },
@@ -226,6 +324,20 @@
     "en": "Lily has a bottle of water.",
     "zh": "Lily 有一瓶水。"
    },
+   "sentences": [
+    {
+     "en": "Lily has a bottle of water.",
+     "zh": "Lily 有一瓶水。"
+    },
+    {
+     "en": "There is milk in the bottle.",
+     "zh": "瓶子里有牛奶。"
+    },
+    {
+     "en": "Don't forget your water bottle!",
+     "zh": "别忘了你的水瓶！"
+    }
+   ],
    "media": {
     "img": "media/img/bottle.webp",
     "uk": "media/uk/bottle.mp3",
@@ -254,6 +366,20 @@
     "en": "Max has a blue bowl.",
     "zh": "Max 有一个蓝色的碗。"
    },
+   "sentences": [
+    {
+     "en": "Max has a blue bowl.",
+     "zh": "Max 有一个蓝色的碗。"
+    },
+    {
+     "en": "Lily eats her soup from a bowl.",
+     "zh": "Lily 用碗喝汤。"
+    },
+    {
+     "en": "Put the fruit in the big bowl.",
+     "zh": "把水果放进大碗里。"
+    }
+   ],
    "media": {
     "img": "media/img/bowl.webp",
     "uk": "media/uk/bowl.mp3",
@@ -287,6 +413,20 @@
     "en": "The cups are in a big box.",
     "zh": "杯子装在一个大箱子里。"
    },
+   "sentences": [
+    {
+     "en": "The cups are in a big box.",
+     "zh": "杯子装在一个大箱子里。"
+    },
+    {
+     "en": "The cake is in a box.",
+     "zh": "蛋糕在盒子里。"
+    },
+    {
+     "en": "Lily opens the box of chocolates.",
+     "zh": "Lily 打开那盒巧克力。"
+    }
+   ],
    "media": {
     "img": "media/img/box.webp",
     "uk": "media/uk/box.mp3",
@@ -312,6 +452,20 @@
     "en": "We buy bread every morning.",
     "zh": "我们每天早上买面包。"
    },
+   "sentences": [
+    {
+     "en": "We buy bread every morning.",
+     "zh": "我们每天早上买面包。"
+    },
+    {
+     "en": "I'd like some bread and butter.",
+     "zh": "我想要点面包和黄油。"
+    },
+    {
+     "en": "Mum cuts the bread with a knife.",
+     "zh": "妈妈用刀切面包。"
+    }
+   ],
    "media": {
     "img": "media/img/bread.webp",
     "uk": "media/uk/bread.mp3",
@@ -344,6 +498,20 @@
     "en": "We eat a snack at break.",
     "zh": "我们课间吃点心。"
    },
+   "sentences": [
+    {
+     "en": "We eat a snack at break.",
+     "zh": "我们课间吃点心。"
+    },
+    {
+     "en": "We play football at break.",
+     "zh": "我们课间踢足球。"
+    },
+    {
+     "en": "The morning break is twenty minutes.",
+     "zh": "上午的课间休息是二十分钟。"
+    }
+   ],
    "media": {
     "img": "media/img/break.webp",
     "uk": "media/uk/break.mp3",
@@ -368,6 +536,20 @@
     "en": "Lily has breakfast at seven.",
     "zh": "Lily 七点吃早餐。"
    },
+   "sentences": [
+    {
+     "en": "Lily has breakfast at seven.",
+     "zh": "Lily 七点吃早餐。"
+    },
+    {
+     "en": "What do you have for breakfast?",
+     "zh": "你早餐吃什么？"
+    },
+    {
+     "en": "Breakfast is ready!",
+     "zh": "早餐好了！"
+    }
+   ],
    "media": {
     "img": "media/img/breakfast.webp",
     "uk": "media/uk/breakfast.mp3",
@@ -407,6 +589,20 @@
     "en": "Dad makes a big burger.",
     "zh": "爸爸做了一个大汉堡。"
    },
+   "sentences": [
+    {
+     "en": "Dad makes a big burger.",
+     "zh": "爸爸做了一个大汉堡。"
+    },
+    {
+     "en": "Tom wants a burger and chips.",
+     "zh": "Tom 想要一个汉堡和薯条。"
+    },
+    {
+     "en": "This burger is very big!",
+     "zh": "这个汉堡好大！"
+    }
+   ],
    "media": {
     "img": "media/img/burger.webp",
     "uk": "media/uk/burger.mp3",
@@ -436,6 +632,20 @@
     "en": "I put butter on my bread.",
     "zh": "我在面包上抹黄油。"
    },
+   "sentences": [
+    {
+     "en": "I put butter on my bread.",
+     "zh": "我在面包上抹黄油。"
+    },
+    {
+     "en": "We need butter to make a cake.",
+     "zh": "做蛋糕需要黄油。"
+    },
+    {
+     "en": "Put the butter in the fridge.",
+     "zh": "把黄油放进冰箱。"
+    }
+   ],
    "media": {
     "img": "media/img/butter.webp",
     "uk": "media/uk/butter.mp3",
@@ -467,6 +677,20 @@
     "en": "Mum and Lily meet at a cafe.",
     "zh": "妈妈和 Lily 在咖啡馆见面。"
    },
+   "sentences": [
+    {
+     "en": "Mum and Lily meet at a cafe.",
+     "zh": "妈妈和 Lily 在咖啡馆见面。"
+    },
+    {
+     "en": "The cafe sells cakes and coffee.",
+     "zh": "这家咖啡馆卖蛋糕和咖啡。"
+    },
+    {
+     "en": "Let's have lunch at the cafe.",
+     "zh": "我们去咖啡馆吃午饭吧。"
+    }
+   ],
    "media": {
     "img": "media/img/cafe.webp",
     "uk": "media/uk/cafe.mp3",
@@ -504,6 +728,20 @@
     "en": "We have lunch in the school cafeteria.",
     "zh": "我们在学校食堂吃午饭。"
    },
+   "sentences": [
+    {
+     "en": "We have lunch in the school cafeteria.",
+     "zh": "我们在学校食堂吃午饭。"
+    },
+    {
+     "en": "The cafeteria opens at twelve.",
+     "zh": "食堂十二点开门。"
+    },
+    {
+     "en": "Lily sits with her friends in the cafeteria.",
+     "zh": "Lily 和朋友们坐在食堂里。"
+    }
+   ],
    "media": {
     "img": "media/img/cafeteria.webp",
     "uk": "media/uk/cafeteria.mp3",
@@ -535,6 +773,20 @@
     "en": "Happy birthday! Here is your cake.",
     "zh": "生日快乐！这是你的蛋糕。"
    },
+   "sentences": [
+    {
+     "en": "Happy birthday! Here is your cake.",
+     "zh": "生日快乐！这是你的蛋糕。"
+    },
+    {
+     "en": "Grandma makes a chocolate cake.",
+     "zh": "奶奶做了一个巧克力蛋糕。"
+    },
+    {
+     "en": "Can I have some more cake?",
+     "zh": "我能再吃点蛋糕吗？"
+    }
+   ],
    "media": {
     "img": "media/img/cake.webp",
     "uk": "media/uk/cake.mp3",
@@ -566,6 +818,20 @@
     "en": "Dad opens a can of soup.",
     "zh": "爸爸打开一罐汤。"
    },
+   "sentences": [
+    {
+     "en": "Dad opens a can of soup.",
+     "zh": "爸爸打开一罐汤。"
+    },
+    {
+     "en": "There is a can of cola in the fridge.",
+     "zh": "冰箱里有一罐可乐。"
+    },
+    {
+     "en": "Open the can carefully.",
+     "zh": "小心地打开罐头。"
+    }
+   ],
    "media": {
     "img": "media/img/can.webp",
     "uk": "media/uk/can.mp3",
@@ -590,6 +856,20 @@
     "en": "Too much candy is bad for your teeth.",
     "zh": "吃太多糖果对牙齿不好。"
    },
+   "sentences": [
+    {
+     "en": "Too much candy is bad for your teeth.",
+     "zh": "吃太多糖果对牙齿不好。"
+    },
+    {
+     "en": "Tom eats too much candy.",
+     "zh": "Tom 吃太多糖果了。"
+    },
+    {
+     "en": "This candy is very sweet.",
+     "zh": "这颗糖很甜。"
+    }
+   ],
    "media": {
     "img": "media/img/candy.webp",
     "uk": "media/uk/candy.mp3",
@@ -619,6 +899,20 @@
     "en": "Rabbits like carrots.",
     "zh": "兔子喜欢胡萝卜。"
    },
+   "sentences": [
+    {
+     "en": "Rabbits like carrots.",
+     "zh": "兔子喜欢胡萝卜。"
+    },
+    {
+     "en": "The rabbit is eating a carrot.",
+     "zh": "兔子在吃胡萝卜。"
+    },
+    {
+     "en": "Lily cuts a carrot for the soup.",
+     "zh": "Lily 切了一根胡萝卜做汤。"
+    }
+   ],
    "media": {
     "img": "media/img/carrot.webp",
     "uk": "media/uk/carrot.mp3",
@@ -654,6 +948,20 @@
     "en": "Lily eats cereal with milk.",
     "zh": "Lily 吃麦片配牛奶。"
    },
+   "sentences": [
+    {
+     "en": "Lily eats cereal with milk.",
+     "zh": "Lily 吃麦片配牛奶。"
+    },
+    {
+     "en": "Tom has cereal for breakfast.",
+     "zh": "Tom 早餐吃麦片。"
+    },
+    {
+     "en": "Put some milk on your cereal.",
+     "zh": "在麦片里加点牛奶。"
+    }
+   ],
    "media": {
     "img": "media/img/cereal.webp",
     "uk": "media/uk/cereal.mp3",
@@ -687,6 +995,20 @@
     "en": "The mouse wants the cheese.",
     "zh": "老鼠想要那块奶酪。"
    },
+   "sentences": [
+    {
+     "en": "The mouse wants the cheese.",
+     "zh": "老鼠想要那块奶酪。"
+    },
+    {
+     "en": "I'd like a cheese sandwich, please.",
+     "zh": "我想要一个奶酪三明治。"
+    },
+    {
+     "en": "Pizza has cheese on it.",
+     "zh": "比萨上有奶酪。"
+    }
+   ],
    "media": {
     "img": "media/img/cheese.webp",
     "uk": "media/uk/cheese.mp3",
@@ -715,6 +1037,20 @@
     "en": "The chef has a tall white hat.",
     "zh": "大厨戴着一顶高高的白帽子。"
    },
+   "sentences": [
+    {
+     "en": "The chef has a tall white hat.",
+     "zh": "大厨戴着一顶高高的白帽子。"
+    },
+    {
+     "en": "The chef cooks in the kitchen.",
+     "zh": "厨师在厨房做饭。"
+    },
+    {
+     "en": "Lily wants to be a chef.",
+     "zh": "Lily 想当厨师。"
+    }
+   ],
    "media": {
     "img": "media/img/chef.webp",
     "uk": "media/uk/chef.mp3",
@@ -743,6 +1079,20 @@
     "en": "We have chicken and rice for dinner.",
     "zh": "我们晚饭吃鸡肉和米饭。"
    },
+   "sentences": [
+    {
+     "en": "We have chicken and rice for dinner.",
+     "zh": "我们晚饭吃鸡肉和米饭。"
+    },
+    {
+     "en": "The chicken lives on a farm.",
+     "zh": "鸡住在农场上。"
+    },
+    {
+     "en": "Mum cooks chicken for dinner.",
+     "zh": "妈妈晚饭做鸡肉。"
+    }
+   ],
    "media": {
     "img": "media/img/chicken.webp",
     "uk": "media/uk/chicken.mp3",
@@ -777,6 +1127,20 @@
     "en": "Chillies are very hot!",
     "zh": "辣椒非常辣！"
    },
+   "sentences": [
+    {
+     "en": "Chillies are very hot!",
+     "zh": "辣椒非常辣！"
+    },
+    {
+     "en": "Don't eat the chilli! It's very hot.",
+     "zh": "别吃辣椒！很辣。"
+    },
+    {
+     "en": "Dad puts a chilli in the curry.",
+     "zh": "爸爸往咖喱里放了一个辣椒。"
+    }
+   ],
    "media": {
     "img": "media/img/chilli.webp",
     "uk": "media/uk/chilli.mp3",
@@ -810,6 +1174,20 @@
     "en": "Can I have fish and chips, please?",
     "zh": "请给我一份炸鱼薯条好吗？"
    },
+   "sentences": [
+    {
+     "en": "Can I have fish and chips, please?",
+     "zh": "请给我一份炸鱼薯条好吗？"
+    },
+    {
+     "en": "Tom wants chips with his burger.",
+     "zh": "Tom 的汉堡要配薯条。"
+    },
+    {
+     "en": "These chips are hot!",
+     "zh": "这些薯条很烫！"
+    }
+   ],
    "media": {
     "img": "media/img/chips.webp",
     "uk": "media/uk/chips.mp3",
@@ -840,6 +1218,20 @@
     "en": "Chocolate is not good for dogs, Max!",
     "zh": "巧克力对狗不好哦，Max！"
    },
+   "sentences": [
+    {
+     "en": "Chocolate is not good for dogs, Max!",
+     "zh": "巧克力对狗不好哦，Max！"
+    },
+    {
+     "en": "Lily loves chocolate ice cream.",
+     "zh": "Lily 很爱巧克力冰淇淋。"
+    },
+    {
+     "en": "Grandma gives us a box of chocolate.",
+     "zh": "奶奶给了我们一盒巧克力。"
+    }
+   ],
    "media": {
     "img": "media/img/chocolate.webp",
     "uk": "media/uk/chocolate.mp3",
@@ -869,6 +1261,20 @@
     "en": "Dad drinks coffee in the morning.",
     "zh": "爸爸早上喝咖啡。"
    },
+   "sentences": [
+    {
+     "en": "Dad drinks coffee in the morning.",
+     "zh": "爸爸早上喝咖啡。"
+    },
+    {
+     "en": "Mum likes coffee with milk.",
+     "zh": "妈妈喜欢加奶的咖啡。"
+    },
+    {
+     "en": "Children don't drink coffee.",
+     "zh": "小孩不喝咖啡。"
+    }
+   ],
    "media": {
     "img": "media/img/coffee.webp",
     "uk": "media/uk/coffee.mp3",
@@ -899,6 +1305,20 @@
     "en": "Lily drinks cola at the party.",
     "zh": "Lily 在聚会上喝可乐。"
    },
+   "sentences": [
+    {
+     "en": "Lily drinks cola at the party.",
+     "zh": "Lily 在聚会上喝可乐。"
+    },
+    {
+     "en": "A can of cola, please.",
+     "zh": "请给我一罐可乐。"
+    },
+    {
+     "en": "Too much cola is bad for your teeth.",
+     "zh": "喝太多可乐对牙齿不好。"
+    }
+   ],
    "media": {
     "img": "media/img/cola.webp",
     "uk": "media/uk/cola.mp3",
@@ -929,6 +1349,20 @@
     "en": "Dad likes to cook on Sundays.",
     "zh": "爸爸喜欢在星期天做饭。"
    },
+   "sentences": [
+    {
+     "en": "Dad likes to cook on Sundays.",
+     "zh": "爸爸喜欢在星期天做饭。"
+    },
+    {
+     "en": "Can you cook pasta?",
+     "zh": "你会煮意大利面吗？"
+    },
+    {
+     "en": "Grandma is a very good cook.",
+     "zh": "奶奶是个很棒的厨师。"
+    }
+   ],
    "media": {
     "img": "media/img/cook.webp",
     "uk": "media/uk/cook.mp3",
@@ -954,9 +1388,23 @@
    ],
    "emoji": "🔥",
    "sentence": {
-    "en": "Don't touch the cooker. It's hot!",
-    "zh": "别碰炉灶，很烫！"
+    "en": "Don't put your hand on the cooker. It's hot!",
+    "zh": "别把手放在炉灶上，很烫！"
    },
+   "sentences": [
+    {
+     "en": "Don't put your hand on the cooker. It's hot!",
+     "zh": "别把手放在炉灶上，很烫！"
+    },
+    {
+     "en": "We have a new cooker in the kitchen.",
+     "zh": "我们厨房里有个新炉灶。"
+    },
+    {
+     "en": "The soup is on the cooker.",
+     "zh": "汤在炉灶上。"
+    }
+   ],
    "media": {
     "img": "media/img/cooker.webp",
     "uk": "media/uk/cooker.mp3",
@@ -985,6 +1433,20 @@
     "en": "I like strawberries and cream.",
     "zh": "我喜欢草莓配奶油。"
    },
+   "sentences": [
+    {
+     "en": "I like strawberries and cream.",
+     "zh": "我喜欢草莓配奶油。"
+    },
+    {
+     "en": "Would you like cream on your cake?",
+     "zh": "你的蛋糕要加奶油吗？"
+    },
+    {
+     "en": "Lily puts cream in her coffee.",
+     "zh": "Lily 在咖啡里加奶油。"
+    }
+   ],
    "media": {
     "img": "media/img/cream.webp",
     "uk": "media/uk/cream.mp3",
@@ -1015,6 +1477,20 @@
     "en": "Would you like a cup of tea?",
     "zh": "你想来一杯茶吗？"
    },
+   "sentences": [
+    {
+     "en": "Would you like a cup of tea?",
+     "zh": "你想来一杯茶吗？"
+    },
+    {
+     "en": "Grandma has a cup of tea.",
+     "zh": "奶奶喝一杯茶。"
+    },
+    {
+     "en": "This cup is blue.",
+     "zh": "这个杯子是蓝色的。"
+    }
+   ],
    "media": {
     "img": "media/img/cup.webp",
     "uk": "media/uk/cup.mp3",
@@ -1048,6 +1524,20 @@
     "en": "Mum makes chicken curry.",
     "zh": "妈妈做了咖喱鸡。"
    },
+   "sentences": [
+    {
+     "en": "Mum makes chicken curry.",
+     "zh": "妈妈做了咖喱鸡。"
+    },
+    {
+     "en": "This curry is very hot!",
+     "zh": "这个咖喱很辣！"
+    },
+    {
+     "en": "We have curry and rice on Friday.",
+     "zh": "我们星期五吃咖喱饭。"
+    }
+   ],
    "media": {
     "img": "media/img/curry.webp",
     "uk": "media/uk/curry.mp3",
@@ -1074,6 +1564,20 @@
     "en": "Dad cuts the pizza.",
     "zh": "爸爸切比萨。"
    },
+   "sentences": [
+    {
+     "en": "Dad cuts the pizza.",
+     "zh": "爸爸切比萨。"
+    },
+    {
+     "en": "Mum, can you cut my meat, please?",
+     "zh": "妈妈，你能帮我切肉吗？"
+    },
+    {
+     "en": "Cut the cake into eight pieces.",
+     "zh": "把蛋糕切成八块。"
+    }
+   ],
    "media": {
     "img": "media/img/cut.webp",
     "uk": "media/uk/cut.mp3",
@@ -1104,6 +1608,20 @@
     "en": "This soup is delicious!",
     "zh": "这汤真好喝！"
    },
+   "sentences": [
+    {
+     "en": "This soup is delicious!",
+     "zh": "这汤真好喝！"
+    },
+    {
+     "en": "Grandma's cake is delicious.",
+     "zh": "奶奶做的蛋糕很好吃。"
+    },
+    {
+     "en": "What a delicious pizza!",
+     "zh": "多好吃的比萨啊！"
+    }
+   ],
    "media": {
     "img": "media/img/delicious.webp",
     "uk": "media/uk/delicious.mp3",
@@ -1134,6 +1652,20 @@
     "en": "What's for dessert?",
     "zh": "饭后甜点吃什么？"
    },
+   "sentences": [
+    {
+     "en": "What's for dessert?",
+     "zh": "饭后甜点吃什么？"
+    },
+    {
+     "en": "We have ice cream for dessert.",
+     "zh": "我们的甜点是冰淇淋。"
+    },
+    {
+     "en": "Lily always wants dessert.",
+     "zh": "Lily 总是想吃甜点。"
+    }
+   ],
    "media": {
     "img": "media/img/dessert.webp",
     "uk": "media/uk/dessert.mp3",
@@ -1171,6 +1703,20 @@
     "en": "We have dinner at six.",
     "zh": "我们六点吃晚饭。"
    },
+   "sentences": [
+    {
+     "en": "We have dinner at six.",
+     "zh": "我们六点吃晚饭。"
+    },
+    {
+     "en": "What's for dinner tonight?",
+     "zh": "今晚吃什么？"
+    },
+    {
+     "en": "Dad cooks dinner on Sunday.",
+     "zh": "爸爸星期天做晚饭。"
+    }
+   ],
    "media": {
     "img": "media/img/dinner.webp",
     "uk": "media/uk/dinner.mp3",
@@ -1207,6 +1753,20 @@
     "en": "Pizza is my favourite dish.",
     "zh": "比萨是我最喜欢的菜。"
    },
+   "sentences": [
+    {
+     "en": "Pizza is my favourite dish.",
+     "zh": "比萨是我最喜欢的菜。"
+    },
+    {
+     "en": "Curry is a hot dish.",
+     "zh": "咖喱是一道辣菜。"
+    },
+    {
+     "en": "Put the dish on the table.",
+     "zh": "把盘子放在桌上。"
+    }
+   ],
    "media": {
     "img": "media/img/dish.webp",
     "uk": "media/uk/dish.mp3",
@@ -1234,6 +1794,20 @@
     "en": "Max drinks lots of water.",
     "zh": "Max 喝很多水。"
    },
+   "sentences": [
+    {
+     "en": "Max drinks lots of water.",
+     "zh": "Max 喝很多水。"
+    },
+    {
+     "en": "Can I have a drink, please?",
+     "zh": "我可以喝点饮料吗？"
+    },
+    {
+     "en": "Lily likes to drink orange juice.",
+     "zh": "Lily 喜欢喝橙汁。"
+    }
+   ],
    "media": {
     "img": "media/img/drink.webp",
     "uk": "media/uk/drink.mp3",
@@ -1271,6 +1845,20 @@
     "en": "Let's eat!",
     "zh": "我们开吃吧！"
    },
+   "sentences": [
+    {
+     "en": "Let's eat!",
+     "zh": "我们开吃吧！"
+    },
+    {
+     "en": "What do you want to eat?",
+     "zh": "你想吃什么？"
+    },
+    {
+     "en": "Max wants to eat my sandwich!",
+     "zh": "Max 想吃我的三明治！"
+    }
+   ],
    "media": {
     "img": "media/img/eat.webp",
     "uk": "media/uk/eat.mp3",
@@ -1299,9 +1887,23 @@
    ],
    "emoji": "🥚",
    "sentence": {
-    "en": "The hen has an egg.",
-    "zh": "母鸡下了一个蛋。"
+    "en": "The chicken has an egg.",
+    "zh": "这只鸡下了一个蛋。"
    },
+   "sentences": [
+    {
+     "en": "The chicken has an egg.",
+     "zh": "这只鸡下了一个蛋。"
+    },
+    {
+     "en": "I'd like a boiled egg, please.",
+     "zh": "请给我一个水煮蛋。"
+    },
+    {
+     "en": "We need one egg for the cake.",
+     "zh": "做蛋糕需要一个鸡蛋。"
+    }
+   ],
    "media": {
     "img": "media/img/egg.webp",
     "uk": "media/uk/egg.mp3",
@@ -1331,6 +1933,20 @@
     "en": "We have fish for lunch today.",
     "zh": "我们今天午饭吃鱼。"
    },
+   "sentences": [
+    {
+     "en": "We have fish for lunch today.",
+     "zh": "我们今天午饭吃鱼。"
+    },
+    {
+     "en": "A fish can swim but it can't walk.",
+     "zh": "鱼会游泳，但不会走路。"
+    },
+    {
+     "en": "Fish is good for you.",
+     "zh": "吃鱼对身体好。"
+    }
+   ],
    "media": {
     "img": "media/img/fish.webp",
     "uk": "media/uk/fish.mp3",
@@ -1360,6 +1976,20 @@
     "en": "Max loves his food.",
     "zh": "Max 很爱吃它的狗粮。"
    },
+   "sentences": [
+    {
+     "en": "Max loves his food.",
+     "zh": "Max 很爱吃它的狗粮。"
+    },
+    {
+     "en": "Pizza is my favourite food.",
+     "zh": "比萨是我最爱吃的食物。"
+    },
+    {
+     "en": "We buy food at the supermarket.",
+     "zh": "我们在超市买食物。"
+    }
+   ],
    "media": {
     "img": "media/img/food.webp",
     "uk": "media/uk/food.mp3",
@@ -1395,6 +2025,20 @@
     "en": "Eat your pasta with a fork.",
     "zh": "用叉子吃意大利面。"
    },
+   "sentences": [
+    {
+     "en": "Eat your pasta with a fork.",
+     "zh": "用叉子吃意大利面。"
+    },
+    {
+     "en": "Put the fork next to the plate.",
+     "zh": "把叉子放在盘子旁边。"
+    },
+    {
+     "en": "Tom eats his chips with a fork.",
+     "zh": "Tom 用叉子吃薯条。"
+    }
+   ],
    "media": {
     "img": "media/img/fork.webp",
     "uk": "media/uk/fork.mp3",
@@ -1422,6 +2066,20 @@
     "en": "The milk is in the fridge.",
     "zh": "牛奶在冰箱里。"
    },
+   "sentences": [
+    {
+     "en": "The milk is in the fridge.",
+     "zh": "牛奶在冰箱里。"
+    },
+    {
+     "en": "Put the butter in the fridge.",
+     "zh": "把黄油放进冰箱。"
+    },
+    {
+     "en": "There is cola in the fridge.",
+     "zh": "冰箱里有可乐。"
+    }
+   ],
    "media": {
     "img": "media/img/fridge.webp",
     "uk": "media/uk/fridge.mp3",
@@ -1445,6 +2103,20 @@
     "en": "I like fried eggs.",
     "zh": "我喜欢煎蛋。"
    },
+   "sentences": [
+    {
+     "en": "I like fried eggs.",
+     "zh": "我喜欢煎蛋。"
+    },
+    {
+     "en": "Dad makes fried rice.",
+     "zh": "爸爸做炒饭。"
+    },
+    {
+     "en": "Fried food is not very healthy.",
+     "zh": "油炸食物不太健康。"
+    }
+   ],
    "media": {
     "img": "media/img/fried.webp",
     "uk": "media/uk/fried.mp3",
@@ -1476,6 +2148,20 @@
     "en": "Fruit is good for you.",
     "zh": "水果对你有好处。"
    },
+   "sentences": [
+    {
+     "en": "Fruit is good for you.",
+     "zh": "水果对你有好处。"
+    },
+    {
+     "en": "Eat some fruit every day.",
+     "zh": "每天吃点水果。"
+    },
+    {
+     "en": "Which fruit do you like best?",
+     "zh": "你最喜欢哪种水果？"
+    }
+   ],
    "media": {
     "img": "media/img/fruit.webp",
     "uk": "media/uk/fruit.mp3",
@@ -1508,9 +2194,23 @@
    ],
    "emoji": "🧄",
    "sentence": {
-    "en": "Garlic has a strong smell.",
-    "zh": "大蒜的气味很重。"
+    "en": "Garlic is good in pasta sauce.",
+    "zh": "大蒜放在意面酱里很好吃。"
    },
+   "sentences": [
+    {
+     "en": "Garlic is good in pasta sauce.",
+     "zh": "大蒜放在意面酱里很好吃。"
+    },
+    {
+     "en": "Mum puts garlic in the pasta sauce.",
+     "zh": "妈妈在意面酱里放了大蒜。"
+    },
+    {
+     "en": "Max can't eat garlic.",
+     "zh": "Max 不能吃大蒜。"
+    }
+   ],
    "media": {
     "img": "media/img/garlic.webp",
     "uk": "media/uk/garlic.mp3",
@@ -1545,6 +2245,20 @@
     "en": "Lily drinks a glass of milk.",
     "zh": "Lily 喝了一杯牛奶。"
    },
+   "sentences": [
+    {
+     "en": "Lily drinks a glass of milk.",
+     "zh": "Lily 喝了一杯牛奶。"
+    },
+    {
+     "en": "Can I have a glass of water?",
+     "zh": "我能喝一杯水吗？"
+    },
+    {
+     "en": "Be careful! The glass is full.",
+     "zh": "小心！杯子是满的。"
+    }
+   ],
    "media": {
     "img": "media/img/glass.webp",
     "uk": "media/uk/glass.mp3",
@@ -1574,6 +2288,20 @@
     "en": "These grapes are green and sweet.",
     "zh": "这些葡萄是绿色的，很甜。"
    },
+   "sentences": [
+    {
+     "en": "These grapes are green and sweet.",
+     "zh": "这些葡萄是绿色的，很甜。"
+    },
+    {
+     "en": "Lily eats a green grape.",
+     "zh": "Lily 吃了一颗绿葡萄。"
+    },
+    {
+     "en": "Dogs can't eat a single grape.",
+     "zh": "狗一颗葡萄都不能吃。"
+    }
+   ],
    "media": {
     "img": "media/img/grape.webp",
     "uk": "media/uk/grape.mp3",
@@ -1606,6 +2334,20 @@
     "en": "Dad likes grilled fish.",
     "zh": "爸爸喜欢烤鱼。"
    },
+   "sentences": [
+    {
+     "en": "Dad likes grilled fish.",
+     "zh": "爸爸喜欢烤鱼。"
+    },
+    {
+     "en": "I'd like grilled chicken, please.",
+     "zh": "请给我烤鸡肉。"
+    },
+    {
+     "en": "Grilled fish is healthy.",
+     "zh": "烤鱼很健康。"
+    }
+   ],
    "media": {
     "img": "media/img/grilled.webp",
     "uk": "media/uk/grilled.mp3",
@@ -1639,6 +2381,20 @@
     "en": "Bees make honey.",
     "zh": "蜜蜂酿蜂蜜。"
    },
+   "sentences": [
+    {
+     "en": "Bees make honey.",
+     "zh": "蜜蜂酿蜂蜜。"
+    },
+    {
+     "en": "Lily puts honey on her toast.",
+     "zh": "Lily 在吐司上抹蜂蜜。"
+    },
+    {
+     "en": "Bears love honey.",
+     "zh": "熊喜欢蜂蜜。"
+    }
+   ],
    "media": {
     "img": "media/img/honey.webp",
     "uk": "media/uk/honey.mp3",
@@ -1666,6 +2422,20 @@
     "en": "I'm hungry. Can I have a snack?",
     "zh": "我饿了。我能吃点零食吗？"
    },
+   "sentences": [
+    {
+     "en": "I'm hungry. Can I have a snack?",
+     "zh": "我饿了。我能吃点零食吗？"
+    },
+    {
+     "en": "The baby is hungry.",
+     "zh": "宝宝饿了。"
+    },
+    {
+     "en": "Are you hungry? Dinner is ready.",
+     "zh": "你饿了吗？晚饭好了。"
+    }
+   ],
    "media": {
     "img": "media/img/hungry.webp",
     "uk": "media/uk/hungry.mp3",
@@ -1695,6 +2465,20 @@
     "en": "Put some ice in my juice, please.",
     "zh": "请在我的果汁里加点冰。"
    },
+   "sentences": [
+    {
+     "en": "Put some ice in my juice, please.",
+     "zh": "请在我的果汁里加点冰。"
+    },
+    {
+     "en": "There is ice on the lake.",
+     "zh": "湖面上有冰。"
+    },
+    {
+     "en": "Can I have some ice in my cola?",
+     "zh": "我的可乐能加点冰吗？"
+    }
+   ],
    "media": {
     "img": "media/img/ice.webp",
     "uk": "media/uk/ice.mp3",
@@ -1722,6 +2506,20 @@
     "en": "Lily wants a strawberry ice cream.",
     "zh": "Lily 想要一个草莓冰淇淋。"
    },
+   "sentences": [
+    {
+     "en": "Lily wants a strawberry ice cream.",
+     "zh": "Lily 想要一个草莓冰淇淋。"
+    },
+    {
+     "en": "Tom wants a chocolate ice cream.",
+     "zh": "Tom 想要一个巧克力冰淇淋。"
+    },
+    {
+     "en": "We eat ice cream on hot days.",
+     "zh": "热天我们吃冰淇淋。"
+    }
+   ],
    "media": {
     "img": "media/img/ice-cream.webp"
    },
@@ -1745,6 +2543,20 @@
     "en": "I like bread and jam.",
     "zh": "我喜欢面包配果酱。"
    },
+   "sentences": [
+    {
+     "en": "I like bread and jam.",
+     "zh": "我喜欢面包配果酱。"
+    },
+    {
+     "en": "Grandma makes strawberry jam.",
+     "zh": "奶奶做草莓果酱。"
+    },
+    {
+     "en": "Put some jam on your bread.",
+     "zh": "在面包上抹点果酱。"
+    }
+   ],
    "media": {
     "img": "media/img/jam.webp",
     "uk": "media/uk/jam.mp3",
@@ -1773,6 +2585,20 @@
     "en": "Can I have orange juice?",
     "zh": "我可以喝橙汁吗？"
    },
+   "sentences": [
+    {
+     "en": "Can I have orange juice?",
+     "zh": "我可以喝橙汁吗？"
+    },
+    {
+     "en": "Would you like apple juice?",
+     "zh": "你想喝苹果汁吗？"
+    },
+    {
+     "en": "Lily drinks a glass of juice.",
+     "zh": "Lily 喝了一杯果汁。"
+    }
+   ],
    "media": {
     "img": "media/img/juice.webp",
     "uk": "media/uk/juice.mp3",
@@ -1809,6 +2635,20 @@
     "en": "Mum is cooking in the kitchen.",
     "zh": "妈妈在厨房做饭。"
    },
+   "sentences": [
+    {
+     "en": "Mum is cooking in the kitchen.",
+     "zh": "妈妈在厨房做饭。"
+    },
+    {
+     "en": "The kitchen is next to the dining room.",
+     "zh": "厨房在餐厅旁边。"
+    },
+    {
+     "en": "Dad is washing the plates in the kitchen.",
+     "zh": "爸爸在厨房洗盘子。"
+    }
+   ],
    "media": {
     "img": "media/img/kitchen.webp",
     "uk": "media/uk/kitchen.mp3",
@@ -1836,6 +2676,20 @@
     "en": "Be careful with the knife!",
     "zh": "小心用刀！"
    },
+   "sentences": [
+    {
+     "en": "Be careful with the knife!",
+     "zh": "小心用刀！"
+    },
+    {
+     "en": "Dad cuts the bread with a knife.",
+     "zh": "爸爸用刀切面包。"
+    },
+    {
+     "en": "Put the knife next to the fork.",
+     "zh": "把刀放在叉子旁边。"
+    }
+   ],
    "media": {
     "img": "media/img/knife.webp",
     "uk": "media/uk/knife.mp3",
@@ -1864,9 +2718,23 @@
    ],
    "emoji": "🍋",
    "sentence": {
-    "en": "A lemon is yellow and sour.",
-    "zh": "柠檬是黄色的，很酸。"
+    "en": "A lemon is yellow.",
+    "zh": "柠檬是黄色的。"
    },
+   "sentences": [
+    {
+     "en": "A lemon is yellow.",
+     "zh": "柠檬是黄色的。"
+    },
+    {
+     "en": "Put some lemon on the fish.",
+     "zh": "在鱼上挤点柠檬汁。"
+    },
+    {
+     "en": "Grandma has tea with lemon.",
+     "zh": "奶奶喝加柠檬的茶。"
+    }
+   ],
    "media": {
     "img": "media/img/lemon.webp",
     "uk": "media/uk/lemon.mp3",
@@ -1903,6 +2771,20 @@
     "en": "We drink lemonade in summer.",
     "zh": "我们夏天喝柠檬水。"
    },
+   "sentences": [
+    {
+     "en": "We drink lemonade in summer.",
+     "zh": "我们夏天喝柠檬水。"
+    },
+    {
+     "en": "A glass of lemonade, please.",
+     "zh": "请给我一杯柠檬水。"
+    },
+    {
+     "en": "Lily makes lemonade with Mum.",
+     "zh": "Lily 和妈妈一起做柠檬水。"
+    }
+   ],
    "media": {
     "img": "media/img/lemonade.webp"
    },
@@ -1933,6 +2815,20 @@
     "en": "What's for lunch today?",
     "zh": "今天午饭吃什么？"
    },
+   "sentences": [
+    {
+     "en": "What's for lunch today?",
+     "zh": "今天午饭吃什么？"
+    },
+    {
+     "en": "We have lunch at twelve o'clock.",
+     "zh": "我们十二点吃午饭。"
+    },
+    {
+     "en": "Lily takes her lunch to school.",
+     "zh": "Lily 带午饭去学校。"
+    }
+   ],
    "media": {
     "img": "media/img/lunch.webp",
     "uk": "media/uk/lunch.mp3",
@@ -1971,6 +2867,20 @@
     "en": "For the main course, I want pasta.",
     "zh": "主菜我要意大利面。"
    },
+   "sentences": [
+    {
+     "en": "For the main course, I want pasta.",
+     "zh": "主菜我要意大利面。"
+    },
+    {
+     "en": "The main course is chicken and rice.",
+     "zh": "主菜是鸡肉配米饭。"
+    },
+    {
+     "en": "What would you like for your main course?",
+     "zh": "你的主菜想吃什么？"
+    }
+   ],
    "media": {
     "img": "media/img/main-course.webp"
    },
@@ -2002,6 +2912,20 @@
     "en": "Breakfast is the first meal of the day.",
     "zh": "早餐是一天的第一顿饭。"
    },
+   "sentences": [
+    {
+     "en": "Breakfast is the first meal of the day.",
+     "zh": "早餐是一天的第一顿饭。"
+    },
+    {
+     "en": "Dinner is my favourite meal.",
+     "zh": "晚饭是我最喜欢的一顿饭。"
+    },
+    {
+     "en": "We have a big meal on Sunday.",
+     "zh": "我们星期天吃一顿大餐。"
+    }
+   ],
    "media": {
     "img": "media/img/meal.webp",
     "uk": "media/uk/meal.mp3",
@@ -2032,6 +2956,20 @@
     "en": "Max loves meat.",
     "zh": "Max 爱吃肉。"
    },
+   "sentences": [
+    {
+     "en": "Max loves meat.",
+     "zh": "Max 爱吃肉。"
+    },
+    {
+     "en": "Lily doesn't eat much meat.",
+     "zh": "Lily 不怎么吃肉。"
+    },
+    {
+     "en": "The meat is on the barbecue.",
+     "zh": "肉在烧烤架上。"
+    }
+   ],
    "media": {
     "img": "media/img/meat.webp",
     "uk": "media/uk/meat.mp3",
@@ -2065,6 +3003,20 @@
     "en": "This melon is very sweet.",
     "zh": "这个瓜很甜。"
    },
+   "sentences": [
+    {
+     "en": "This melon is very sweet.",
+     "zh": "这个瓜很甜。"
+    },
+    {
+     "en": "This melon is big and sweet.",
+     "zh": "这个瓜又大又甜。"
+    },
+    {
+     "en": "Let's have melon for dessert.",
+     "zh": "我们甜点吃瓜吧。"
+    }
+   ],
    "media": {
     "img": "media/img/melon.webp",
     "uk": "media/uk/melon.mp3",
@@ -2098,6 +3050,20 @@
     "en": "Can we see the menu, please?",
     "zh": "请给我们看看菜单好吗？"
    },
+   "sentences": [
+    {
+     "en": "Can we see the menu, please?",
+     "zh": "请给我们看看菜单好吗？"
+    },
+    {
+     "en": "The menu has lots of dishes.",
+     "zh": "菜单上有很多菜。"
+    },
+    {
+     "en": "What's on the menu today?",
+     "zh": "今天菜单上有什么？"
+    }
+   ],
    "media": {
     "img": "media/img/menu.webp",
     "uk": "media/uk/menu.mp3",
@@ -2129,6 +3095,20 @@
     "en": "Cows give us milk.",
     "zh": "奶牛给我们牛奶。"
    },
+   "sentences": [
+    {
+     "en": "Cows give us milk.",
+     "zh": "奶牛给我们牛奶。"
+    },
+    {
+     "en": "Lily drinks a glass of milk.",
+     "zh": "Lily 喝了一杯牛奶。"
+    },
+    {
+     "en": "We need milk for the cake.",
+     "zh": "做蛋糕需要牛奶。"
+    }
+   ],
    "media": {
     "img": "media/img/milk.webp",
     "uk": "media/uk/milk.mp3",
@@ -2167,6 +3147,20 @@
     "en": "A bottle of mineral water, please.",
     "zh": "请来一瓶矿泉水。"
    },
+   "sentences": [
+    {
+     "en": "A bottle of mineral water, please.",
+     "zh": "请来一瓶矿泉水。"
+    },
+    {
+     "en": "I'd like some mineral water, please.",
+     "zh": "请给我一些矿泉水。"
+    },
+    {
+     "en": "Mineral water is good for you.",
+     "zh": "矿泉水对身体好。"
+    }
+   ],
    "media": {
     "img": "media/img/mineral-water.webp"
    },
@@ -2197,6 +3191,20 @@
     "en": "There are mushrooms on my pizza.",
     "zh": "我的比萨上有蘑菇。"
    },
+   "sentences": [
+    {
+     "en": "There are mushrooms on my pizza.",
+     "zh": "我的比萨上有蘑菇。"
+    },
+    {
+     "en": "Lily doesn't like mushroom soup.",
+     "zh": "Lily 不喜欢蘑菇汤。"
+    },
+    {
+     "en": "There is a mushroom in the forest.",
+     "zh": "森林里有一个蘑菇。"
+    }
+   ],
    "media": {
     "img": "media/img/mushroom.webp",
     "uk": "media/uk/mushroom.mp3",
@@ -2230,9 +3238,23 @@
    ],
    "emoji": "🫒",
    "sentence": {
-    "en": "Put some oil in the pan.",
-    "zh": "在锅里放点油。"
+    "en": "Dad cooks with a little oil.",
+    "zh": "爸爸做菜只放一点油。"
    },
+   "sentences": [
+    {
+     "en": "Dad cooks with a little oil.",
+     "zh": "爸爸做菜只放一点油。"
+    },
+    {
+     "en": "Put some oil on the salad.",
+     "zh": "在沙拉上加点油。"
+    },
+    {
+     "en": "We need oil to make chips.",
+     "zh": "做薯条需要油。"
+    }
+   ],
    "media": {
     "img": "media/img/oil.webp",
     "uk": "media/uk/oil.mp3",
@@ -2258,6 +3280,20 @@
     "en": "Dad makes an omelette with cheese.",
     "zh": "爸爸做了一个奶酪煎蛋饼。"
    },
+   "sentences": [
+    {
+     "en": "Dad makes an omelette with cheese.",
+     "zh": "爸爸做了一个奶酪煎蛋饼。"
+    },
+    {
+     "en": "An omelette is made with eggs.",
+     "zh": "煎蛋卷是用鸡蛋做的。"
+    },
+    {
+     "en": "Lily has an omelette for lunch.",
+     "zh": "Lily 午饭吃煎蛋卷。"
+    }
+   ],
    "media": {
     "img": "media/img/omelette.webp"
    },
@@ -2284,6 +3320,20 @@
     "en": "Onions make me cry!",
     "zh": "洋葱让我流眼泪！"
    },
+   "sentences": [
+    {
+     "en": "Onions make me cry!",
+     "zh": "洋葱让我流眼泪！"
+    },
+    {
+     "en": "Mum cuts an onion for the soup.",
+     "zh": "妈妈切了一个洋葱做汤。"
+    },
+    {
+     "en": "Max can't eat onion.",
+     "zh": "Max 不能吃洋葱。"
+    }
+   ],
    "media": {
     "img": "media/img/onion.webp",
     "uk": "media/uk/onion.mp3",
@@ -2319,6 +3369,20 @@
     "en": "An orange is round.",
     "zh": "橙子是圆的。"
    },
+   "sentences": [
+    {
+     "en": "An orange is round.",
+     "zh": "橙子是圆的。"
+    },
+    {
+     "en": "Lily has an orange T-shirt.",
+     "zh": "Lily 有一件橙色的T恤。"
+    },
+    {
+     "en": "Lily eats an orange after lunch.",
+     "zh": "Lily 午饭后吃了一个橙子。"
+    }
+   ],
    "media": {
     "img": "media/img/orange.webp",
     "uk": "media/uk/orange.mp3",
@@ -2357,6 +3421,20 @@
     "en": "We have pasta on Fridays.",
     "zh": "我们每周五吃意大利面。"
    },
+   "sentences": [
+    {
+     "en": "We have pasta on Fridays.",
+     "zh": "我们每周五吃意大利面。"
+    },
+    {
+     "en": "Tom loves pasta with cheese.",
+     "zh": "Tom 很爱吃加奶酪的意面。"
+    },
+    {
+     "en": "Dad cooks pasta for dinner.",
+     "zh": "爸爸晚饭煮意大利面。"
+    }
+   ],
    "media": {
     "img": "media/img/pasta.webp",
     "uk": "media/uk/pasta.mp3",
@@ -2383,6 +3461,20 @@
     "en": "Lily gives Dad a pear.",
     "zh": "Lily 给了爸爸一个梨。"
    },
+   "sentences": [
+    {
+     "en": "Lily gives Dad a pear.",
+     "zh": "Lily 给了爸爸一个梨。"
+    },
+    {
+     "en": "A pear is green or yellow.",
+     "zh": "梨是绿色或黄色的。"
+    },
+    {
+     "en": "This pear is very sweet.",
+     "zh": "这个梨很甜。"
+    }
+   ],
    "media": {
     "img": "media/img/pear.webp",
     "uk": "media/uk/pear.mp3",
@@ -2416,6 +3508,20 @@
     "en": "Can you pass the salt and pepper?",
     "zh": "你能把盐和胡椒递过来吗？"
    },
+   "sentences": [
+    {
+     "en": "Can you pass the salt and pepper?",
+     "zh": "你能把盐和胡椒递过来吗？"
+    },
+    {
+     "en": "Put some salt and pepper on the meat.",
+     "zh": "在肉上撒点盐和胡椒。"
+    },
+    {
+     "en": "Dad likes black pepper on his eggs.",
+     "zh": "爸爸喜欢在鸡蛋上撒黑胡椒。"
+    }
+   ],
    "media": {
     "img": "media/img/pepper.webp",
     "uk": "media/uk/pepper.mp3",
@@ -2452,6 +3558,20 @@
     "en": "Let's have a picnic in the park!",
     "zh": "我们去公园野餐吧！"
    },
+   "sentences": [
+    {
+     "en": "Let's have a picnic in the park!",
+     "zh": "我们去公园野餐吧！"
+    },
+    {
+     "en": "We have a picnic by the lake.",
+     "zh": "我们在湖边野餐。"
+    },
+    {
+     "en": "Lily takes sandwiches to the picnic.",
+     "zh": "Lily 带三明治去野餐。"
+    }
+   ],
    "media": {
     "img": "media/img/picnic.webp",
     "uk": "media/uk/picnic.mp3",
@@ -2485,6 +3605,20 @@
     "en": "Lily wants pizza for dinner.",
     "zh": "Lily 晚饭想吃比萨。"
    },
+   "sentences": [
+    {
+     "en": "Lily wants pizza for dinner.",
+     "zh": "Lily 晚饭想吃比萨。"
+    },
+    {
+     "en": "Tom wants pizza for lunch.",
+     "zh": "Tom 午饭想吃比萨。"
+    },
+    {
+     "en": "This pizza has cheese and mushrooms on it.",
+     "zh": "这个比萨上有奶酪和蘑菇。"
+    }
+   ],
    "media": {
     "img": "media/img/pizza.webp",
     "uk": "media/uk/pizza.mp3",
@@ -2512,6 +3646,20 @@
     "en": "Put the cake on a plate.",
     "zh": "把蛋糕放在盘子上。"
    },
+   "sentences": [
+    {
+     "en": "Put the cake on a plate.",
+     "zh": "把蛋糕放在盘子上。"
+    },
+    {
+     "en": "Lily puts the cake on her plate.",
+     "zh": "Lily 把蛋糕放在盘子上。"
+    },
+    {
+     "en": "Can I have a clean plate, please?",
+     "zh": "能给我一个干净的盘子吗？"
+    }
+   ],
    "media": {
     "img": "media/img/plate.webp",
     "uk": "media/uk/plate.mp3",
@@ -2540,6 +3688,20 @@
     "en": "Chips are made from potatoes.",
     "zh": "薯条是用土豆做的。"
    },
+   "sentences": [
+    {
+     "en": "Chips are made from potatoes.",
+     "zh": "薯条是用土豆做的。"
+    },
+    {
+     "en": "Dad puts a potato in the soup.",
+     "zh": "爸爸往汤里放了一个土豆。"
+    },
+    {
+     "en": "Would you like a baked potato?",
+     "zh": "你想要一个烤土豆吗？"
+    }
+   ],
    "media": {
     "img": "media/img/potato.webp",
     "uk": "media/uk/potato.mp3",
@@ -2576,6 +3738,20 @@
     "en": "I eat rice every day.",
     "zh": "我每天吃米饭。"
    },
+   "sentences": [
+    {
+     "en": "I eat rice every day.",
+     "zh": "我每天吃米饭。"
+    },
+    {
+     "en": "We have fish and rice for dinner.",
+     "zh": "我们晚饭吃鱼和米饭。"
+    },
+    {
+     "en": "Can I have some more rice?",
+     "zh": "我可以再要点米饭吗？"
+    }
+   ],
    "media": {
     "img": "media/img/rice.webp",
     "uk": "media/uk/rice.mp3",
@@ -2606,6 +3782,20 @@
     "en": "We have roast chicken on Sunday.",
     "zh": "我们星期天吃烤鸡。"
    },
+   "sentences": [
+    {
+     "en": "We have roast chicken on Sunday.",
+     "zh": "我们星期天吃烤鸡。"
+    },
+    {
+     "en": "Grandma makes roast chicken on Sunday.",
+     "zh": "奶奶星期天做烤鸡。"
+    },
+    {
+     "en": "Let's roast some potatoes.",
+     "zh": "我们烤点土豆吧。"
+    }
+   ],
    "media": {
     "img": "media/img/roast.webp",
     "uk": "media/uk/roast.mp3",
@@ -2637,6 +3827,20 @@
     "en": "Mum makes a green salad.",
     "zh": "妈妈做了一份蔬菜沙拉。"
    },
+   "sentences": [
+    {
+     "en": "Mum makes a green salad.",
+     "zh": "妈妈做了一份蔬菜沙拉。"
+    },
+    {
+     "en": "A salad is good for you.",
+     "zh": "沙拉对身体好。"
+    },
+    {
+     "en": "Lily makes a fruit salad.",
+     "zh": "Lily 做了一份水果沙拉。"
+    }
+   ],
    "media": {
     "img": "media/img/salad.webp",
     "uk": "media/uk/salad.mp3",
@@ -2670,6 +3874,20 @@
     "en": "The sea water has salt in it.",
     "zh": "海水里有盐。"
    },
+   "sentences": [
+    {
+     "en": "The sea water has salt in it.",
+     "zh": "海水里有盐。"
+    },
+    {
+     "en": "Don't put too much salt on your chips.",
+     "zh": "别在薯条上放太多盐。"
+    },
+    {
+     "en": "Can you pass the salt, please?",
+     "zh": "能把盐递给我吗？"
+    }
+   ],
    "media": {
     "img": "media/img/salt.webp",
     "uk": "media/uk/salt.mp3",
@@ -2699,6 +3917,20 @@
     "en": "Lily takes a sandwich to school.",
     "zh": "Lily 带三明治去学校。"
    },
+   "sentences": [
+    {
+     "en": "Lily takes a sandwich to school.",
+     "zh": "Lily 带三明治去学校。"
+    },
+    {
+     "en": "I'd like a cheese sandwich.",
+     "zh": "我想要一个奶酪三明治。"
+    },
+    {
+     "en": "Tom eats his sandwich in the park.",
+     "zh": "Tom 在公园吃三明治。"
+    }
+   ],
    "media": {
     "img": "media/img/sandwich.webp",
     "uk": "media/uk/sandwich.mp3",
@@ -2728,6 +3960,20 @@
     "en": "I want tomato sauce on my chips.",
     "zh": "我的薯条要加番茄酱。"
    },
+   "sentences": [
+    {
+     "en": "I want tomato sauce on my chips.",
+     "zh": "我的薯条要加番茄酱。"
+    },
+    {
+     "en": "This pasta sauce is delicious.",
+     "zh": "这个意面酱很好吃。"
+    },
+    {
+     "en": "Do you want sauce on your burger?",
+     "zh": "你的汉堡要加酱吗？"
+    }
+   ],
    "media": {
     "img": "media/img/sauce.webp",
     "uk": "media/uk/sauce.mp3",
@@ -2757,6 +4003,20 @@
     "en": "Max wants my sausage!",
     "zh": "Max 想要我的香肠！"
    },
+   "sentences": [
+    {
+     "en": "Max wants my sausage!",
+     "zh": "Max 想要我的香肠！"
+    },
+    {
+     "en": "Dad cooks a sausage on the barbecue.",
+     "zh": "爸爸在烧烤架上烤香肠。"
+    },
+    {
+     "en": "Tom has a sausage for breakfast.",
+     "zh": "Tom 早餐吃了一根香肠。"
+    }
+   ],
    "media": {
     "img": "media/img/sausage.webp",
     "uk": "media/uk/sausage.mp3",
@@ -2791,6 +4051,20 @@
     "en": "Can I have a slice of pizza?",
     "zh": "我能吃一块比萨吗？"
    },
+   "sentences": [
+    {
+     "en": "Can I have a slice of pizza?",
+     "zh": "我能吃一块比萨吗？"
+    },
+    {
+     "en": "Lily has a slice of bread.",
+     "zh": "Lily 吃了一片面包。"
+    },
+    {
+     "en": "Would you like a slice of cake?",
+     "zh": "你想来一块蛋糕吗？"
+    }
+   ],
    "media": {
     "img": "media/img/slice.webp",
     "uk": "media/uk/slice.mp3",
@@ -2821,6 +4095,20 @@
     "en": "An apple is a good snack.",
     "zh": "苹果是很好的零食。"
    },
+   "sentences": [
+    {
+     "en": "An apple is a good snack.",
+     "zh": "苹果是很好的零食。"
+    },
+    {
+     "en": "Tom has a snack after school.",
+     "zh": "Tom 放学后吃点零食。"
+    },
+    {
+     "en": "A banana is a healthy snack.",
+     "zh": "香蕉是健康的零食。"
+    }
+   ],
    "media": {
     "img": "media/img/snack.webp",
     "uk": "media/uk/snack.mp3",
@@ -2851,6 +4139,20 @@
     "en": "Hot soup is nice on cold days.",
     "zh": "冷天喝热汤很舒服。"
    },
+   "sentences": [
+    {
+     "en": "Hot soup is nice on cold days.",
+     "zh": "冷天喝热汤很舒服。"
+    },
+    {
+     "en": "Grandma makes tomato soup.",
+     "zh": "奶奶做番茄汤。"
+    },
+    {
+     "en": "Eat your soup before it gets cold.",
+     "zh": "趁汤还没凉快喝吧。"
+    }
+   ],
    "media": {
     "img": "media/img/soup.webp",
     "uk": "media/uk/soup.mp3",
@@ -2877,6 +4179,20 @@
     "en": "Dad cooks a steak for dinner.",
     "zh": "爸爸晚饭煎了一块牛排。"
    },
+   "sentences": [
+    {
+     "en": "Dad cooks a steak for dinner.",
+     "zh": "爸爸晚饭煎了一块牛排。"
+    },
+    {
+     "en": "Dad likes his steak with chips.",
+     "zh": "爸爸吃牛排喜欢配薯条。"
+    },
+    {
+     "en": "This steak is very big!",
+     "zh": "这块牛排好大！"
+    }
+   ],
    "media": {
     "img": "media/img/steak.webp",
     "uk": "media/uk/steak.mp3",
@@ -2908,6 +4224,20 @@
     "en": "Strawberries are red and sweet.",
     "zh": "草莓又红又甜。"
    },
+   "sentences": [
+    {
+     "en": "Strawberries are red and sweet.",
+     "zh": "草莓又红又甜。"
+    },
+    {
+     "en": "Lily finds a big strawberry in the garden.",
+     "zh": "Lily 在花园里找到一颗大草莓。"
+    },
+    {
+     "en": "I'd like a strawberry ice cream.",
+     "zh": "我想要一个草莓冰淇淋。"
+    }
+   ],
    "media": {
     "img": "media/img/strawberry.webp",
     "uk": "media/uk/strawberry.mp3",
@@ -2944,6 +4274,20 @@
     "en": "No sugar in my tea, thanks.",
     "zh": "我的茶不要加糖，谢谢。"
    },
+   "sentences": [
+    {
+     "en": "No sugar in my tea, thanks.",
+     "zh": "我的茶不要加糖，谢谢。"
+    },
+    {
+     "en": "Do you take sugar in your tea?",
+     "zh": "你的茶要加糖吗？"
+    },
+    {
+     "en": "We need sugar to make a cake.",
+     "zh": "做蛋糕需要糖。"
+    }
+   ],
    "media": {
     "img": "media/img/sugar.webp",
     "uk": "media/uk/sugar.mp3",
@@ -2974,6 +4318,20 @@
     "en": "Honey is very sweet.",
     "zh": "蜂蜜很甜。"
    },
+   "sentences": [
+    {
+     "en": "Honey is very sweet.",
+     "zh": "蜂蜜很甜。"
+    },
+    {
+     "en": "This apple is very sweet.",
+     "zh": "这个苹果很甜。"
+    },
+    {
+     "en": "Can I have a sweet, please?",
+     "zh": "我可以吃一颗糖吗？"
+    }
+   ],
    "media": {
     "img": "media/img/sweet.webp",
     "uk": "media/uk/sweet.mp3",
@@ -3002,6 +4360,20 @@
     "en": "Grandma likes a cup of tea.",
     "zh": "奶奶喜欢喝杯茶。"
    },
+   "sentences": [
+    {
+     "en": "Grandma likes a cup of tea.",
+     "zh": "奶奶喜欢喝杯茶。"
+    },
+    {
+     "en": "Would you like a cup of tea?",
+     "zh": "你想喝杯茶吗？"
+    },
+    {
+     "en": "Mum has tea with milk.",
+     "zh": "妈妈喝加奶的茶。"
+    }
+   ],
    "media": {
     "img": "media/img/tea.webp",
     "uk": "media/uk/tea.mp3",
@@ -3032,6 +4404,20 @@
     "en": "I'm thirsty. Can I have some water?",
     "zh": "我渴了。我能喝点水吗？"
    },
+   "sentences": [
+    {
+     "en": "I'm thirsty. Can I have some water?",
+     "zh": "我渴了。我能喝点水吗？"
+    },
+    {
+     "en": "Max is thirsty after the walk.",
+     "zh": "Max 散步后口渴了。"
+    },
+    {
+     "en": "Are you thirsty? Have some water.",
+     "zh": "你渴吗？喝点水吧。"
+    }
+   ],
    "media": {
     "img": "media/img/thirsty.webp",
     "uk": "media/uk/thirsty.mp3",
@@ -3061,6 +4447,20 @@
     "en": "I have toast and jam for breakfast.",
     "zh": "我早餐吃吐司配果酱。"
    },
+   "sentences": [
+    {
+     "en": "I have toast and jam for breakfast.",
+     "zh": "我早餐吃吐司配果酱。"
+    },
+    {
+     "en": "Lily puts butter on her toast.",
+     "zh": "Lily 在吐司上抹黄油。"
+    },
+    {
+     "en": "Would you like some toast?",
+     "zh": "你想吃点吐司吗？"
+    }
+   ],
    "media": {
     "img": "media/img/toast.webp",
     "uk": "media/uk/toast.mp3",
@@ -3095,6 +4495,20 @@
     "en": "A tomato is red and round.",
     "zh": "西红柿又红又圆。"
    },
+   "sentences": [
+    {
+     "en": "A tomato is red and round.",
+     "zh": "西红柿又红又圆。"
+    },
+    {
+     "en": "Lily puts a tomato in the salad.",
+     "zh": "Lily 在沙拉里放了一个西红柿。"
+    },
+    {
+     "en": "I'd like tomato soup, please.",
+     "zh": "请给我番茄汤。"
+    }
+   ],
    "media": {
     "img": "media/img/tomato.webp",
     "uk": "media/uk/tomato.mp3",
@@ -3131,6 +4545,20 @@
     "en": "Eat your vegetables, Lily!",
     "zh": "把蔬菜吃了，Lily！"
    },
+   "sentences": [
+    {
+     "en": "Eat your vegetables, Lily!",
+     "zh": "把蔬菜吃了，Lily！"
+    },
+    {
+     "en": "A carrot is a vegetable.",
+     "zh": "胡萝卜是一种蔬菜。"
+    },
+    {
+     "en": "What is your favourite vegetable?",
+     "zh": "你最喜欢的蔬菜是什么？"
+    }
+   ],
    "media": {
     "img": "media/img/vegetable.webp",
     "uk": "media/uk/vegetable.mp3",
@@ -3165,6 +4593,20 @@
     "en": "The waiter brings our food.",
     "zh": "服务员给我们上菜。"
    },
+   "sentences": [
+    {
+     "en": "The waiter brings our food.",
+     "zh": "服务员给我们上菜。"
+    },
+    {
+     "en": "The waiter gives us the menu.",
+     "zh": "服务员给我们菜单。"
+    },
+    {
+     "en": "Tom's dad is a waiter in a cafe.",
+     "zh": "Tom 的爸爸是咖啡馆的服务员。"
+    }
+   ],
    "media": {
     "img": "media/img/waiter.webp",
     "uk": "media/uk/waiter.mp3",
@@ -3197,6 +4639,20 @@
     "en": "The waitress gives us the menu.",
     "zh": "女服务员给了我们菜单。"
    },
+   "sentences": [
+    {
+     "en": "The waitress gives us the menu.",
+     "zh": "女服务员给了我们菜单。"
+    },
+    {
+     "en": "The waitress brings our drinks.",
+     "zh": "女服务员端来了我们的饮料。"
+    },
+    {
+     "en": "Excuse me, waitress! Can we have the bill?",
+     "zh": "服务员，我们可以买单吗？"
+    }
+   ],
    "media": {
     "img": "media/img/waitress.webp",
     "uk": "media/uk/waitress.mp3",
@@ -3229,6 +4685,20 @@
     "en": "Lily helps Dad wash up after dinner.",
     "zh": "晚饭后 Lily 帮爸爸洗碗。"
    },
+   "sentences": [
+    {
+     "en": "Lily helps Dad wash up after dinner.",
+     "zh": "晚饭后 Lily 帮爸爸洗碗。"
+    },
+    {
+     "en": "Can you help me wash up?",
+     "zh": "你能帮我洗碗吗？"
+    },
+    {
+     "en": "Tom doesn't like to wash up.",
+     "zh": "Tom 不喜欢洗碗。"
+    }
+   ],
    "media": {
     "img": "media/img/wash-up.webp"
    },
@@ -3251,6 +4721,20 @@
     "en": "I have yogurt with fruit.",
     "zh": "我吃酸奶拌水果。"
    },
+   "sentences": [
+    {
+     "en": "I have yogurt with fruit.",
+     "zh": "我吃酸奶拌水果。"
+    },
+    {
+     "en": "Lily has yogurt for breakfast.",
+     "zh": "Lily 早餐吃酸奶。"
+    },
+    {
+     "en": "This strawberry yogurt is delicious.",
+     "zh": "这个草莓酸奶很好吃。"
+    }
+   ],
    "media": {
     "img": "media/img/yogurt.webp",
     "uk": "media/uk/yogurt.mp3",

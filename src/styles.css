@@ -361,6 +361,14 @@ h3 {
 .confetti i { position: absolute; top: -20px; width: 10px; height: 16px; border-radius: 3px; animation: fall 2.4s ease-in forwards; }
 @keyframes fall { to { transform: translateY(110vh) rotate(540deg); opacity: 0.6; } }
 
+/* sentence questions */
+.gap-sentence { font-family: var(--font-word); font-size: 1.6rem; font-weight: 700; line-height: 1.6; text-align: center; padding: 8px 4px; }
+.gap { display: inline-block; min-width: 4.5em; border-bottom: 4px solid var(--primary); margin: 0 4px; line-height: 1.2; }
+.gap-filled { color: var(--green); border-color: var(--green); animation: pop 0.35s; }
+.sentence-after { animation: rise 0.35s ease-out; }
+.reveal .sentence-after { flex-basis: 100%; background: var(--card); }
+.sheet-card { max-height: calc(100dvh - 32px); overflow-y: auto; }
+
 /* album tabs, tappable pictures */
 .tabs { display: flex; gap: 8px; margin-bottom: 10px; overflow-x: auto; }
 .tab { padding: 8px 16px; border-radius: 99px; background: var(--card); border: 2px solid var(--line); font-weight: 700; white-space: nowrap; }

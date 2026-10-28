@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { Rating, review, type WordProgress } from "../srs/srs";
+import { Rating, review, type CardState, type WordProgress } from "../srs/srs";
 import { buildPlan } from "./plan";
 import { distractors } from "../lib/choice";
 import type { Word } from "../types";
@@ -112,5 +112,18 @@ describe("distractors", () => {
     for (let i = 0; i < 20; i++) {
       expect(distractors(plate, pool, 3, Math.random).map((x) => x.id).sort()).toEqual(["apple", "egg", "milk"]);
     }
+  });
+
+  it("puts familiar words back in sentences for about half their questions", () => {
+    const weak = { s: 1 } as CardState;
+    const familiar = { s: 10 } as CardState;
+    expect(kindFor("meaning", weak, 0, { gap: true, roll: 0.1 })).toBe("pickImage");
+    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.1 })).toBe("cloze");
+    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.9 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 0, { gap: false, roll: 0.1 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 1, { gap: true, roll: 0.1 })).toBe("pickImage");
+    expect(kindFor("listen", familiar, 0, { roll: 0.1 })).toBe("listenSentence");
+    expect(kindFor("listen", weak, 0, { roll: 0.1 })).toBe("listenPick");
+    expect(kindFor("listen", familiar, 1, { roll: 0.1 })).toBe("listenPick");
   });
 });

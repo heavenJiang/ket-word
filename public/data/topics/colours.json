@@ -18,6 +18,20 @@
     "en": "The cat is black.",
     "zh": "这只猫是黑色的。"
    },
+   "sentences": [
+    {
+     "en": "The cat is black.",
+     "zh": "这只猫是黑色的。"
+    },
+    {
+     "en": "Lily has black shoes.",
+     "zh": "Lily 有一双黑鞋。"
+    },
+    {
+     "en": "The night sky is black.",
+     "zh": "夜空是黑色的。"
+    }
+   ],
    "media": {
     "img": "media/img/black.webp",
     "uk": "media/uk/black.mp3",
@@ -44,6 +58,20 @@
     "en": "The sky is blue.",
     "zh": "天空是蓝色的。"
    },
+   "sentences": [
+    {
+     "en": "The sky is blue.",
+     "zh": "天空是蓝色的。"
+    },
+    {
+     "en": "Max has a blue bowl.",
+     "zh": "Max 有一个蓝色的碗。"
+    },
+    {
+     "en": "The sea is blue today.",
+     "zh": "今天的大海是蓝色的。"
+    }
+   ],
    "media": {
     "img": "media/img/blue.webp",
     "uk": "media/uk/blue.mp3",
@@ -68,6 +96,20 @@
     "en": "The bear is brown.",
     "zh": "这只熊是棕色的。"
    },
+   "sentences": [
+    {
+     "en": "The bear is brown.",
+     "zh": "这只熊是棕色的。"
+    },
+    {
+     "en": "Chocolate is brown.",
+     "zh": "巧克力是棕色的。"
+    },
+    {
+     "en": "Tom has brown hair.",
+     "zh": "Tom 的头发是棕色的。"
+    }
+   ],
    "media": {
     "img": "media/img/brown.webp",
     "uk": "media/uk/brown.mp3",
@@ -91,6 +133,20 @@
     "en": "It's dark. Lily can't see.",
     "zh": "天黑了，Lily 看不见。"
    },
+   "sentences": [
+    {
+     "en": "It's dark. Lily can't see.",
+     "zh": "天黑了，Lily 看不见。"
+    },
+    {
+     "en": "It gets dark at six o'clock.",
+     "zh": "六点钟天就黑了。"
+    },
+    {
+     "en": "Lily has a dark blue coat.",
+     "zh": "Lily 有一件深蓝色的外套。"
+    }
+   ],
    "media": {
     "img": "media/img/dark.webp",
     "uk": "media/uk/dark.mp3",
@@ -115,9 +171,23 @@
    ],
    "emoji": "👑",
    "sentence": {
-    "en": "The queen has a golden crown.",
-    "zh": "女王有一顶金色的王冠。"
+    "en": "The king has a golden chair.",
+    "zh": "国王有一把金色的椅子。"
    },
+   "sentences": [
+    {
+     "en": "The king has a golden chair.",
+     "zh": "国王有一把金色的椅子。"
+    },
+    {
+     "en": "The sun is golden in the evening.",
+     "zh": "傍晚的太阳是金色的。"
+    },
+    {
+     "en": "Lily wins a golden cup.",
+     "zh": "Lily 赢得了一个金杯。"
+    }
+   ],
    "media": {
     "img": "media/img/golden.webp",
     "uk": "media/uk/golden.mp3",
@@ -144,6 +214,20 @@
     "en": "Frogs are green.",
     "zh": "青蛙是绿色的。"
    },
+   "sentences": [
+    {
+     "en": "Frogs are green.",
+     "zh": "青蛙是绿色的。"
+    },
+    {
+     "en": "The grass is green.",
+     "zh": "草是绿色的。"
+    },
+    {
+     "en": "Dad has a green car.",
+     "zh": "爸爸有一辆绿色的车。"
+    }
+   ],
    "media": {
     "img": "media/img/green.webp",
     "uk": "media/uk/green.mp3",
@@ -168,6 +252,20 @@
     "en": "The mouse is grey.",
     "zh": "这只老鼠是灰色的。"
    },
+   "sentences": [
+    {
+     "en": "The mouse is grey.",
+     "zh": "这只老鼠是灰色的。"
+    },
+    {
+     "en": "An elephant is grey.",
+     "zh": "大象是灰色的。"
+    },
+    {
+     "en": "The sky is grey. It's going to rain.",
+     "zh": "天空是灰色的，要下雨了。"
+    }
+   ],
    "media": {
     "img": "media/img/grey.webp",
     "uk": "media/uk/grey.mp3",
@@ -195,6 +293,20 @@
     "en": "It's dark. Turn on the light, please.",
     "zh": "天黑了，请开灯。"
    },
+   "sentences": [
+    {
+     "en": "It's dark. Turn on the light, please.",
+     "zh": "天黑了，请开灯。"
+    },
+    {
+     "en": "Please turn off the light.",
+     "zh": "请关灯。"
+    },
+    {
+     "en": "Lily has a light blue dress.",
+     "zh": "Lily 有一条浅蓝色的裙子。"
+    }
+   ],
    "media": {
     "img": "media/img/light.webp",
     "uk": "media/uk/light.mp3",
@@ -222,6 +334,20 @@
     "en": "My favourite colour is orange.",
     "zh": "我最喜欢的颜色是橙色。"
    },
+   "sentences": [
+    {
+     "en": "My favourite colour is orange.",
+     "zh": "我最喜欢的颜色是橙色。"
+    },
+    {
+     "en": "Lily has an orange T-shirt.",
+     "zh": "Lily 有一件橙色的T恤。"
+    },
+    {
+     "en": "Lily eats an orange after lunch.",
+     "zh": "Lily 午饭后吃了一个橙子。"
+    }
+   ],
    "media": {
     "img": "media/img/orange.webp",
     "uk": "media/uk/orange.mp3",
@@ -248,6 +374,20 @@
     "en": "Lily is ill. Her face is pale.",
     "zh": "Lily 病了，她脸色苍白。"
    },
+   "sentences": [
+    {
+     "en": "Lily is ill. Her face is pale.",
+     "zh": "Lily 病了，她脸色苍白。"
+    },
+    {
+     "en": "Tom looks pale today.",
+     "zh": "Tom 今天脸色苍白。"
+    },
+    {
+     "en": "The wall is pale yellow.",
+     "zh": "墙是淡黄色的。"
+    }
+   ],
    "media": {
     "img": "media/img/pale.webp",
     "uk": "media/uk/pale.mp3",
@@ -273,6 +413,20 @@
     "en": "Lily likes pink flowers.",
     "zh": "Lily 喜欢粉红色的花。"
    },
+   "sentences": [
+    {
+     "en": "Lily likes pink flowers.",
+     "zh": "Lily 喜欢粉红色的花。"
+    },
+    {
+     "en": "Lily's bag is pink.",
+     "zh": "Lily 的书包是粉红色的。"
+    },
+    {
+     "en": "Lily wears a pink hat.",
+     "zh": "Lily 戴着一顶粉红色的帽子。"
+    }
+   ],
    "media": {
     "img": "media/img/pink.webp",
     "uk": "media/uk/pink.mp3",
@@ -297,6 +451,20 @@
     "en": "Lily paints a purple flower.",
     "zh": "Lily 画了一朵紫色的花。"
    },
+   "sentences": [
+    {
+     "en": "Lily paints a purple flower.",
+     "zh": "Lily 画了一朵紫色的花。"
+    },
+    {
+     "en": "Some grapes are purple.",
+     "zh": "有些葡萄是紫色的。"
+    },
+    {
+     "en": "Grandma has a purple bag.",
+     "zh": "奶奶有一个紫色的包。"
+    }
+   ],
    "media": {
     "img": "media/img/purple.webp",
     "uk": "media/uk/purple.mp3",
@@ -320,6 +488,20 @@
     "en": "Strawberries are red.",
     "zh": "草莓是红色的。"
    },
+   "sentences": [
+    {
+     "en": "Strawberries are red.",
+     "zh": "草莓是红色的。"
+    },
+    {
+     "en": "A tomato is red.",
+     "zh": "西红柿是红色的。"
+    },
+    {
+     "en": "Lily has a red bike.",
+     "zh": "Lily 有一辆红色的自行车。"
+    }
+   ],
    "media": {
     "img": "media/img/red.webp",
     "uk": "media/uk/red.mp3",
@@ -345,6 +527,20 @@
     "en": "Mum has a silver ring.",
     "zh": "妈妈有一枚银戒指。"
    },
+   "sentences": [
+    {
+     "en": "Mum has a silver ring.",
+     "zh": "妈妈有一枚银戒指。"
+    },
+    {
+     "en": "The moon looks silver.",
+     "zh": "月亮看起来是银色的。"
+    },
+    {
+     "en": "Dad has a silver watch.",
+     "zh": "爸爸有一块银色的手表。"
+    }
+   ],
    "media": {
     "img": "media/img/silver.webp",
     "uk": "media/uk/silver.mp3",
@@ -371,6 +567,20 @@
     "en": "Snow is white.",
     "zh": "雪是白色的。"
    },
+   "sentences": [
+    {
+     "en": "Snow is white.",
+     "zh": "雪是白色的。"
+    },
+    {
+     "en": "Milk is white.",
+     "zh": "牛奶是白色的。"
+    },
+    {
+     "en": "The clouds are white.",
+     "zh": "云是白色的。"
+    }
+   ],
    "media": {
     "img": "media/img/white.webp",
     "uk": "media/uk/white.mp3",
@@ -399,6 +609,20 @@
     "en": "A banana is yellow.",
     "zh": "香蕉是黄色的。"
    },
+   "sentences": [
+    {
+     "en": "A banana is yellow.",
+     "zh": "香蕉是黄色的。"
+    },
+    {
+     "en": "The sun is yellow.",
+     "zh": "太阳是黄色的。"
+    },
+    {
+     "en": "Lily has a yellow T-shirt.",
+     "zh": "Lily 有一件黄色的T恤。"
+    }
+   ],
    "media": {
     "img": "media/img/yellow.webp",
     "uk": "media/uk/yellow.mp3",

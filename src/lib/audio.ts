@@ -39,6 +39,11 @@ export function playSentence(w: Word, accent: Accent): void {
   speak(w.sentence.en, accent, 0.8);
 }
 
+/** Read any sentence aloud; `slow` for a second, clearer listen. */
+export function playText(text: string, accent: Accent, slow = false): void {
+  speak(text, accent, slow ? 0.6 : 0.8);
+}
+
 let ctx: AudioContext | null = null;
 
 /** Tiny synthesized sound effects, so the app needs no sound assets. */

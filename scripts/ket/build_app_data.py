@@ -15,6 +15,7 @@ Writes:
 
 from __future__ import annotations
 
+import importlib.util
 import json
 import urllib.request
 from pathlib import Path
@@ -136,6 +137,8 @@ def main() -> None:
                 "chunks": w["chunks"],
                 "emoji": w["emoji"],
                 "sentence": {"en": w["en"], "zh": w["sz"]},
+                # every example sentence, the main one first; sentence questions draw from these
+                "sentences": [{"en": w["en"], "zh": w["sz"]}] + [{"en": en, "zh": zh} for en, zh in w.get("more", [])],
                 "media": media,
                 "avoid": sorted(avoid.get(w["id"], ())),
             })
@@ -152,6 +155,14 @@ def main() -> None:
         if f.is_file() and f.relative_to(MEDIA).parts[0] != "ui" and f"media/{f.relative_to(MEDIA)}" not in used_media:
             f.unlink()
             print(f"  - removed {f.relative_to(ROOT)}")
+
+    # loaded by path: `npm run data` runs python -I, which keeps this folder off sys.path
+    spec = importlib.util.spec_from_file_location("check_sentences", Path(__file__).with_name("check_sentences.py"))
+    check_sentences = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(check_sentences)
+    unknown, no_gap, total = check_sentences.check(list(content))
+    print(f"sentences: {total}, off the KET list: {len(unknown)}, words without a gap sentence: {len(no_gap)}"
+          + ("  (run scripts/ket/check_sentences.py)" if unknown or no_gap else ""))
 
     (OUT / "index.json").write_text(json.dumps({
         "source": words["source"],
