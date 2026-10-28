@@ -63,17 +63,18 @@ describe("session", () => {
   it("introduces new words in groups before quizzing them", () => {
     const s = buildSession(buildPlan(order, {}, t0, opt), {}, seq());
     expect(s.steps[0]).toEqual({ type: "intro", wordIds: ["w0", "w1", "w2", "w3"] });
-    expect(s.steps.slice(1, 5).every((x) => x.type === "q" && x.kind === "pickImage")).toBe(true);
-    expect(s.steps[5]).toMatchObject({ type: "intro" });
+    expect(s.steps[1]).toEqual({ type: "match", wordIds: ["w0", "w1", "w2", "w3"] });
+    expect(s.steps.slice(2, 6).every((x) => x.type === "q" && x.kind === "pickImage")).toBe(true);
+    expect(s.steps[6]).toMatchObject({ type: "intro" });
   });
 
   it("grades only the first answer and retries wrong ones later with another question type", () => {
     let s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq());
-    s = { ...s, index: 1 };
+    s = { ...s, index: 2 }; // past the intro and the match game
     const first = current(s)!;
     const r = answer(s, false, {});
     expect(r.grade).toBe(true);
-    const retry = r.session.steps[1 + 1 + RETRY_GAP];
+    const retry = r.session.steps[2 + 1 + RETRY_GAP];
     expect(retry).toMatchObject({ type: "q", graded: false, retry: 1, kind: "pickMeaning" });
     expect(first.type === "q" && retry.type === "q" && retry.wordId === first.wordId).toBe(true);
   });

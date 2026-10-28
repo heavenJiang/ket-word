@@ -21,7 +21,9 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
         ))}
       </div>
       <div className="card intro-card" key={w.id}>
-        <Picture word={w} size="lg" />
+        <button className="tap-pic" onClick={() => playWord(w, accent)} aria-label={`听 ${w.word}`}>
+          <Picture word={w} size="lg" />
+        </button>
         <div className="intro-word">
           <Chunks word={w} />
           <SpeakButton onClick={() => playWord(w, accent)} label="" big />

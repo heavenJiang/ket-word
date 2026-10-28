@@ -5,6 +5,7 @@ import { shuffle } from "../lib/choice";
 
 export type Step =
   | { type: "intro"; wordIds: string[] }
+  | { type: "match"; wordIds: string[] }
   | { type: "q"; wordId: string; skill: Skill; kind: QuestionKind; graded: boolean; retry: number };
 
 export interface Session {
@@ -14,7 +15,7 @@ export interface Session {
   answered: string[];
 }
 
-/** New words are met in small groups: see all of them, then recall them in shuffled order. */
+/** New words are met in small groups: see all of them, pair them up in a game, then recall them in shuffled order. */
 export const GROUP_SIZE = 4;
 /** A wrong answer comes back after this many other questions… */
 export const RETRY_GAP = 3;
@@ -52,6 +53,7 @@ export function buildSession(plan: Plan, progress: Record<string, WordProgress>,
   for (let i = 0; i < plan.newWords.length; i += GROUP_SIZE) {
     const group = plan.newWords.slice(i, i + GROUP_SIZE);
     steps.push({ type: "intro", wordIds: group });
+    if (group.length > 1) steps.push({ type: "match", wordIds: group });
     for (const wordId of shuffle(group, rng)) {
       steps.push({ type: "q", wordId, skill: "meaning", kind: "pickImage", graded: true, retry: 0 });
     }
@@ -62,7 +64,7 @@ export function buildSession(plan: Plan, progress: Record<string, WordProgress>,
 export const current = (s: Session): Step | undefined => s.steps[s.index];
 export const isDone = (s: Session) => s.index >= s.steps.length;
 
-/** Move past an intro step. */
+/** Move past an ungraded step (intro, match). */
 export function advance(s: Session): Session {
   return { ...s, index: s.index + 1 };
 }

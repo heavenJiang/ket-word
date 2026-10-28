@@ -150,6 +150,11 @@
     "us": "media/us/biscuit.mp3"
    },
    "avoid": [
+    "bowl",
+    "drink",
+    "food",
+    "meat",
+    "sausage",
     "snack"
    ]
   },
@@ -228,7 +233,9 @@
    },
    "avoid": [
     "cup",
-    "glass"
+    "glass",
+    "milk",
+    "mineral-water"
    ]
   },
   {
@@ -253,9 +260,14 @@
     "us": "media/us/bowl.mp3"
    },
    "avoid": [
+    "biscuit",
     "dish",
+    "drink",
+    "food",
+    "meat",
     "plate",
     "salt",
+    "sausage",
     "soup"
    ]
   },
@@ -280,7 +292,9 @@
     "uk": "media/uk/box.mp3",
     "us": "media/us/box.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "cup"
+   ]
   },
   {
    "id": "bread",
@@ -304,9 +318,12 @@
     "us": "media/us/bread.mp3"
    },
    "avoid": [
+    "butter",
+    "jam",
     "knife",
     "sandwich",
     "slice",
+    "strawberry",
     "toast"
    ]
   },
@@ -363,11 +380,14 @@
     "eat",
     "food",
     "hungry",
+    "juice",
     "lunch",
     "main-course",
     "meal",
+    "orange",
     "picnic",
-    "snack"
+    "snack",
+    "toast"
    ]
   },
   {
@@ -422,8 +442,10 @@
     "us": "media/us/butter.mp3"
    },
    "avoid": [
+    "bread",
     "cheese",
     "cream",
+    "knife",
     "milk",
     "yogurt"
    ]
@@ -452,6 +474,8 @@
    },
    "avoid": [
     "cafeteria",
+    "cake",
+    "cup",
     "dessert",
     "dinner",
     "lunch",
@@ -517,8 +541,10 @@
     "us": "media/us/cake.mp3"
    },
    "avoid": [
+    "cafe",
     "candy",
     "chocolate",
+    "cup",
     "dessert",
     "sweet"
    ]
@@ -638,7 +664,11 @@
     "delicious",
     "eat",
     "hungry",
-    "snack"
+    "juice",
+    "milk",
+    "orange",
+    "snack",
+    "toast"
    ]
   },
   {
@@ -720,7 +750,12 @@
    },
    "avoid": [
     "burger",
+    "curry",
+    "egg",
     "meat",
+    "potato",
+    "rice",
+    "roast",
     "sausage",
     "steak"
    ]
@@ -781,7 +816,10 @@
     "us": "media/us/chips.mp3"
    },
    "avoid": [
-    "potato"
+    "fish",
+    "potato",
+    "sauce",
+    "steak"
    ]
   },
   {
@@ -955,7 +993,9 @@
    "avoid": [
     "butter",
     "cheese",
+    "dessert",
     "milk",
+    "strawberry",
     "yogurt"
    ]
   },
@@ -982,6 +1022,9 @@
    },
    "avoid": [
     "bottle",
+    "box",
+    "cafe",
+    "cake",
     "coffee",
     "glass",
     "sugar",
@@ -1010,7 +1053,10 @@
     "uk": "media/uk/curry.mp3",
     "us": "media/us/curry.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "chicken",
+    "rice"
+   ]
   },
   {
    "id": "cut",
@@ -1035,6 +1081,8 @@
    },
    "avoid": [
     "knife",
+    "mushroom",
+    "pizza",
     "slice"
    ]
   },
@@ -1097,6 +1145,7 @@
     "cake",
     "candy",
     "chocolate",
+    "cream",
     "dinner",
     "lunch",
     "menu",
@@ -1191,12 +1240,17 @@
     "us": "media/us/drink.mp3"
    },
    "avoid": [
+    "biscuit",
+    "bowl",
     "coffee",
     "cola",
+    "food",
     "juice",
     "lemonade",
+    "meat",
     "milk",
     "mineral-water",
+    "sausage",
     "tea",
     "thirsty"
    ]
@@ -1226,7 +1280,9 @@
     "breakfast",
     "cereal",
     "delicious",
+    "fork",
     "hungry",
+    "pasta",
     "snack"
    ]
   },
@@ -1253,6 +1309,7 @@
    },
    "avoid": [
     "boiled",
+    "chicken",
     "fried",
     "omelette"
    ]
@@ -1279,7 +1336,13 @@
     "uk": "media/uk/fish.mp3",
     "us": "media/us/fish.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "chips",
+    "grilled",
+    "main-course",
+    "rice",
+    "sauce"
+   ]
   },
   {
    "id": "food",
@@ -1303,12 +1366,17 @@
     "us": "media/us/food.mp3"
    },
    "avoid": [
+    "biscuit",
+    "bowl",
     "breakfast",
     "dinner",
+    "drink",
     "lunch",
     "main-course",
     "meal",
-    "picnic"
+    "meat",
+    "picnic",
+    "sausage"
    ]
   },
   {
@@ -1333,7 +1401,9 @@
     "us": "media/us/fork.mp3"
    },
    "avoid": [
-    "knife"
+    "eat",
+    "knife",
+    "pasta"
    ]
   },
   {
@@ -1419,6 +1489,8 @@
     "melon",
     "orange",
     "pear",
+    "picnic",
+    "sandwich",
     "strawberry"
    ]
   },
@@ -1480,7 +1552,10 @@
    },
    "avoid": [
     "bottle",
-    "cup"
+    "cup",
+    "lemonade",
+    "milk",
+    "mineral-water"
    ]
   },
   {
@@ -1539,7 +1614,10 @@
    "avoid": [
     "bake",
     "barbecue",
+    "fish",
     "fried",
+    "main-course",
+    "rice",
     "roast",
     "sausage"
    ]
@@ -1623,7 +1701,8 @@
     "us": "media/us/ice.mp3"
    },
    "avoid": [
-    "ice-cream"
+    "ice-cream",
+    "juice"
    ]
   },
   {
@@ -1672,8 +1751,10 @@
     "us": "media/us/jam.mp3"
    },
    "avoid": [
+    "bread",
     "honey",
-    "sauce"
+    "sauce",
+    "strawberry"
    ]
   },
   {
@@ -1698,13 +1779,17 @@
     "us": "media/us/juice.mp3"
    },
    "avoid": [
+    "breakfast",
+    "cereal",
     "cola",
     "drink",
+    "ice",
     "lemon",
     "lemonade",
     "mineral-water",
     "orange",
-    "thirsty"
+    "thirsty",
+    "toast"
    ]
   },
   {
@@ -1758,6 +1843,7 @@
    },
    "avoid": [
     "bread",
+    "butter",
     "cut",
     "fork",
     "slice",
@@ -1823,6 +1909,7 @@
    "avoid": [
     "cola",
     "drink",
+    "glass",
     "juice",
     "lemon",
     "mineral-water",
@@ -1862,6 +1949,7 @@
     "meal",
     "menu",
     "picnic",
+    "sandwich",
     "waiter",
     "waitress"
    ]
@@ -1889,10 +1977,13 @@
    "avoid": [
     "breakfast",
     "dinner",
+    "fish",
     "food",
+    "grilled",
     "lunch",
     "meal",
-    "picnic"
+    "picnic",
+    "rice"
    ]
   },
   {
@@ -1947,8 +2038,12 @@
     "us": "media/us/meat.mp3"
    },
    "avoid": [
+    "biscuit",
+    "bowl",
     "burger",
     "chicken",
+    "drink",
+    "food",
     "sausage",
     "steak"
    ]
@@ -2040,11 +2135,14 @@
     "us": "media/us/milk.mp3"
    },
    "avoid": [
+    "bottle",
     "butter",
+    "cereal",
     "cheese",
     "coffee",
     "cream",
     "drink",
+    "glass",
     "tea",
     "yogurt"
    ]
@@ -2073,8 +2171,10 @@
     "img": "media/img/mineral-water.webp"
    },
    "avoid": [
+    "bottle",
     "cola",
     "drink",
+    "glass",
     "juice",
     "lemonade",
     "thirsty"
@@ -2105,11 +2205,14 @@
    "avoid": [
     "carrot",
     "chilli",
+    "cut",
     "garlic",
     "onion",
     "pepper",
+    "pizza",
     "potato",
     "salad",
+    "slice",
     "tomato",
     "vegetable"
    ]
@@ -2224,6 +2327,8 @@
    "avoid": [
     "apple",
     "banana",
+    "breakfast",
+    "cereal",
     "fruit",
     "grape",
     "juice",
@@ -2231,7 +2336,8 @@
     "lemonade",
     "melon",
     "pear",
-    "strawberry"
+    "strawberry",
+    "toast"
    ]
   },
   {
@@ -2256,7 +2362,10 @@
     "uk": "media/uk/pasta.mp3",
     "us": "media/us/pasta.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "eat",
+    "fork"
+   ]
   },
   {
    "id": "pear",
@@ -2352,9 +2461,11 @@
     "breakfast",
     "dinner",
     "food",
+    "fruit",
     "lunch",
     "main-course",
-    "meal"
+    "meal",
+    "sandwich"
    ]
   },
   {
@@ -2379,7 +2490,11 @@
     "uk": "media/uk/pizza.mp3",
     "us": "media/us/pizza.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "cut",
+    "mushroom",
+    "slice"
+   ]
   },
   {
    "id": "plate",
@@ -2432,12 +2547,14 @@
    },
    "avoid": [
     "carrot",
+    "chicken",
     "chilli",
     "chips",
     "garlic",
     "mushroom",
     "onion",
     "pepper",
+    "roast",
     "salad",
     "tomato",
     "vegetable"
@@ -2464,7 +2581,13 @@
     "uk": "media/uk/rice.mp3",
     "us": "media/us/rice.mp3"
    },
-   "avoid": []
+   "avoid": [
+    "chicken",
+    "curry",
+    "fish",
+    "grilled",
+    "main-course"
+   ]
   },
   {
    "id": "roast",
@@ -2491,8 +2614,10 @@
    "avoid": [
     "bake",
     "barbecue",
+    "chicken",
     "fried",
-    "grilled"
+    "grilled",
+    "potato"
    ]
   },
   {
@@ -2581,6 +2706,9 @@
    },
    "avoid": [
     "bread",
+    "fruit",
+    "lunch",
+    "picnic",
     "toast"
    ]
   },
@@ -2606,6 +2734,8 @@
     "us": "media/us/sauce.mp3"
    },
    "avoid": [
+    "chips",
+    "fish",
     "honey",
     "jam"
    ]
@@ -2634,8 +2764,12 @@
    },
    "avoid": [
     "barbecue",
+    "biscuit",
+    "bowl",
     "burger",
     "chicken",
+    "drink",
+    "food",
     "grilled",
     "meat",
     "steak"
@@ -2666,6 +2800,8 @@
     "bread",
     "cut",
     "knife",
+    "mushroom",
+    "pizza",
     "toast"
    ]
   },
@@ -2749,6 +2885,7 @@
    "avoid": [
     "burger",
     "chicken",
+    "chips",
     "meat",
     "sausage"
    ]
@@ -2779,8 +2916,11 @@
    "avoid": [
     "apple",
     "banana",
+    "bread",
+    "cream",
     "fruit",
     "grape",
+    "jam",
     "lemon",
     "melon",
     "orange",
@@ -2928,7 +3068,11 @@
    },
    "avoid": [
     "bread",
+    "breakfast",
+    "cereal",
+    "juice",
     "knife",
+    "orange",
     "sandwich",
     "slice"
    ]

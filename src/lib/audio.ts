@@ -21,13 +21,18 @@ export function speak(text: string, accent: Accent = "uk", rate = 0.85): void {
   speechSynthesis.speak(u);
 }
 
-/** Play the word's recording in the chosen accent, falling back to the other accent, then TTS. */
-export function playWord(w: Word, accent: Accent): void {
+/**
+ * Play the word's recording in the chosen accent, falling back to the other accent, then TTS.
+ * `slow` plays it at 70% speed (pitch kept), so a child can hear each sound.
+ */
+export function playWord(w: Word, accent: Accent, slow = false): void {
+  const rate = slow ? 0.55 : 0.8;
   const src = w.media[accent] ?? w.media[accent === "uk" ? "us" : "uk"];
-  if (!src) return speak(w.word, accent, 0.8);
+  if (!src) return speak(w.word, accent, rate);
   stop();
   current = new Audio(base + src);
-  current.play().catch(() => speak(w.word, accent, 0.8));
+  if (slow) current.playbackRate = 0.7;
+  current.play().catch(() => speak(w.word, accent, rate));
 }
 
 export function playSentence(w: Word, accent: Accent): void {

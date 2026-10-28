@@ -2,6 +2,7 @@ import { useState } from "react";
 import { sfx } from "../lib/audio";
 import { Choice } from "../questions/Choice";
 import { Intro } from "../questions/Intro";
+import { Match } from "../questions/Match";
 import { Tiles } from "../questions/Tiles";
 import { buildPlan } from "../session/plan";
 import { advance, answer, buildSession, current, isDone } from "../session/session";
@@ -10,6 +11,8 @@ import { Rating, type Grade } from "../srs/srs";
 import { addStars, planOptions, recordGrade, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Word } from "../types";
+import { Max } from "../ui/Max";
+import { Picture } from "../ui/Picture";
 
 /** Bonus stars for finishing a session. */
 const FINISH_BONUS = 3;
@@ -39,6 +42,8 @@ export function Learn(props: {
     return buildSession(plan, progress.words);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });
+  /** Right answers in a row, retries included: a small "on fire" reward for focus. */
+  const [combo, setCombo] = useState(0);
   const [finished, setFinished] = useState(false);
 
   const step = current(session);
@@ -49,6 +54,7 @@ export function Learn(props: {
     const w = byId.get(step.wordId)!;
     const grade: Grade = gradeAttempt(a, step.kind, factor, [...w.word].filter((c) => /[a-z]/i.test(c)).length);
     const r = answer(session, a.correct, progress.words);
+    setCombo((c) => (a.correct ? c + 1 : 0));
     if (r.grade) {
       setProgress((p) => recordGrade(p, step.wordId, step.skill, grade, Date.now()));
       const star = grade === Rating.Good || grade === Rating.Easy ? 1 : 0;
@@ -81,9 +87,11 @@ export function Learn(props: {
 
   if (finished) {
     const pct = tally.total ? Math.round((tally.right / tally.total) * 100) : 100;
+    const met = session.steps.flatMap((x) => (x.type === "intro" ? x.wordIds : [])).map((id) => byId.get(id)!);
     return (
       <div className="page center finish">
-        <div className="big-emoji">{pct >= 80 ? "🏆" : pct >= 50 ? "🌟" : "💪"}</div>
+        <Confetti />
+        <Max pose="cheer" size="lg" />
         <h2>{pct >= 80 ? "太厉害了！" : pct >= 50 ? "做得很好！" : "坚持就是胜利！"}</h2>
         <div className="finish-stats">
           <div>
@@ -99,6 +107,19 @@ export function Learn(props: {
             <span>⭐ 星星</span>
           </div>
         </div>
+        {met.length > 0 && (
+          <div className="card finish-new">
+            <b>今天收集了 {met.length} 张新卡片</b>
+            <div className="finish-cards">
+              {met.map((w) => (
+                <div key={w.id} className="finish-card">
+                  <Picture word={w} size="sm" />
+                  <span>{w.word}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
         <p className="muted">Max 吃到了你的星星，长大了一点点！</p>
         <button className="btn btn-primary" onClick={onExit}>
           太好了！
@@ -117,13 +138,28 @@ export function Learn(props: {
         <div className="bar">
           <div className="bar-fill" style={{ width: `${(session.index / total) * 100}%` }} />
         </div>
-        <span className="learn-stars">⭐ {tally.stars}</span>
+        {combo >= 3 && (
+          <span key={combo} className="combo">
+            🔥×{combo}
+          </span>
+        )}
+        <span key={tally.stars} className="learn-stars">
+          ⭐ {tally.stars}
+        </span>
       </div>
       {step.type === "intro" ? (
         <Intro
           key={session.index}
           words={step.wordIds.map((id) => byId.get(id)!)}
           accent={settings.accent}
+          onDone={() => next(advance(session))}
+        />
+      ) : step.type === "match" ? (
+        <Match
+          key={session.index}
+          words={step.wordIds.map((id) => byId.get(id)!)}
+          accent={settings.accent}
+          sound={settings.sound}
           onDone={() => next(advance(session))}
         />
       ) : step.kind === "tiles" ? (
@@ -150,3 +186,16 @@ export function Learn(props: {
     </div>
   );
 }
+
+/** A one-off burst of coloured paper, pure CSS. */
+function Confetti() {
+  return (
+    <div className="confetti" aria-hidden>
+      {Array.from({ length: 24 }, (_, i) => (
+        <i key={i} style={{ left: `${(i * 41) % 100}%`, animationDelay: `${(i % 6) * 0.12}s`, background: CONFETTI[i % CONFETTI.length] }} />
+      ))}
+    </div>
+  );
+}
+
+const CONFETTI = ["#ff8a3d", "#4cb8ff", "#2fbf71", "#ffc531", "#ff5a8a"];

@@ -3,7 +3,8 @@ import { distractors, shuffle } from "../lib/choice";
 import { playWord, sfx } from "../lib/audio";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Word } from "../types";
-import { Picture, SpeakButton } from "../ui/Picture";
+import { Cheer, Max, praise } from "../ui/Max";
+import { Picture, SlowButton, SpeakButton } from "../ui/Picture";
 
 type Kind = "pickImage" | "pickMeaning" | "listenPick";
 
@@ -29,6 +30,7 @@ export function Choice(props: {
   );
   const [picked, setPicked] = useState<string | null>(null);
   const [hidden, setHidden] = useState<string[]>([]);
+  const [cheer] = useState(praise);
   const started = useRef(performance.now());
   const result = useRef<Attempt | null>(null);
 
@@ -72,7 +74,12 @@ export function Choice(props: {
           </>
         )}
         {kind === "pickMeaning" && <div className="stem-word stem-word-big">{word.word}</div>}
-        {kind === "listenPick" && <SpeakButton onClick={() => playWord(word, accent)} label="再听一遍" big />}
+        {kind === "listenPick" && (
+          <>
+            <SpeakButton onClick={() => playWord(word, accent)} label="再听一遍" big />
+            <SlowButton onClick={() => playWord(word, accent, true)} />
+          </>
+        )}
       </div>
 
       <div className={`options options-${kind === "pickImage" ? "grid" : "list"}`}>
@@ -95,8 +102,11 @@ export function Choice(props: {
         </button>
       )}
 
+      {picked === word.id && <Cheer text={cheer} />}
+
       {picked && picked !== word.id && (
         <div className="reveal">
+          <Max pose="think" size="sm" say="差一点点！记住它：" />
           <Picture word={word} size="sm" />
           <div>
             <div className="reveal-word">{word.word}</div>
