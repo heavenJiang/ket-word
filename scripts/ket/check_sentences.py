@@ -20,7 +20,7 @@ WORDS = ROOT / "data/ket-words.json"
 
 # names of the recurring cast and places used in sentences; not vocabulary to learn
 NAMES = {"lily", "max", "tom", "mum", "dad", "grandma", "grandpa", "kate", "ben", "sam", "mia", "brown", "green",
-         "white", "smith", "spain", "london", "sunday", "monday", "friday", "saturday", "english"}
+         "white", "smith", "spain", "london", "sunday", "monday", "friday", "saturday", "english", "ana"}
 IRREGULAR = {
     "children": "child", "grandchildren": "grandchild", "mice": "mouse", "sheep": "sheep", "fish": "fish", "teeth": "tooth", "feet": "foot",
     "men": "man", "women": "woman", "people": "person", "geese": "goose", "knives": "knife", "loaves": "loaf",
@@ -102,6 +102,31 @@ def check(topics: list[str]) -> tuple[list[str], list[str], int]:
     return unknown, no_gap, total
 
 
+STORIES = ROOT / "content/stories"
+
+
+def story_texts(story: dict) -> list[str]:
+    """Everything a child reads in a story: pages, questions and answer options."""
+    out = [p["en"] for p in story["pages"]]
+    for q in story["questions"]:
+        out += [q["q"], *q.get("options", [])]
+    return out
+
+
+def check_stories() -> tuple[list[str], int]:
+    """Story text must stay on the KET list too."""
+    vocab = vocabulary()
+    unknown, n = [], 0
+    for path in sorted(STORIES.glob("*.json")):
+        story = json.loads(path.read_text(encoding="utf-8"))
+        for s in story_texts(story):
+            n += 1
+            bad = [t for t in tokens(s) if t not in NAMES and not any(l in vocab for l in lemmas(t))]
+            if bad:
+                unknown.append(f"story {path.stem}: {s}  ← {', '.join(sorted(set(bad)))}")
+    return unknown, n
+
+
 def main() -> None:
     unknown, no_gap, total = check(sys.argv[1:])
     print(f"{total} sentences")
@@ -109,6 +134,10 @@ def main() -> None:
     for u in unknown:
         print("  " + u)
     print(f"{len(no_gap)} words with no fill-in-the-gap sentence: {', '.join(no_gap)}")
+    s_unknown, n = check_stories()
+    print(f"{n} story lines, {len(s_unknown)} with words off the KET list:")
+    for u in s_unknown:
+        print("  " + u)
 
 
 if __name__ == "__main__":

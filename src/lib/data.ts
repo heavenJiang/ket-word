@@ -1,5 +1,5 @@
 import { State, type WordProgress } from "../srs/srs";
-import type { Topic, Word } from "../types";
+import type { Story, Topic, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
 
@@ -54,3 +54,12 @@ export const canStart = (lib: Library, progress: Record<string, WordProgress>) =
   const of = lib.byId.get(id)?.of;
   return !of || progress[of]?.skills.meaning?.st === State.Review;
 };
+
+/** Island stories; none yet is not an error. */
+export async function loadStories(): Promise<Story[]> {
+  const r = await fetch(`${base}data/stories.json`);
+  return r.ok ? r.json() : [];
+}
+
+/** Island words a story still needs the child to meet before it opens. */
+export const missingFor = (story: Story, progress: Record<string, WordProgress>) => story.needs.filter((id) => !progress[id]);

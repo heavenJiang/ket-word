@@ -26,10 +26,13 @@ export function Home(props: {
   topic?: Topic;
   words: Word[];
   library: Library;
+  /** Stories the child can open but has not read yet. */
+  newStories: number;
   onStart: () => void;
   onMap: () => void;
+  onStories: () => void;
 }) {
-  const { progress, topic, words, library, onStart, onMap } = props;
+  const { progress, topic, words, library, newStories, onStart, onMap, onStories } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
   const plan = buildPlan(
@@ -115,6 +118,17 @@ export function Home(props: {
           </div>
         )}
       </section>
+
+      {newStories > 0 && (
+        <button className="card story-banner" onClick={onStories}>
+          <span className="story-banner-icon">📖</span>
+          <span>
+            <b>有 {newStories} 个新故事可以读了！</b>
+            <span className="muted small">你学过的单词都在故事里</span>
+          </span>
+          <span className="muted">›</span>
+        </button>
+      )}
 
       {today && (
         <section className="card today-log">

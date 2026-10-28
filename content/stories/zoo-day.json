@@ -1,0 +1,48 @@
+{
+ "id": "zoo-day",
+ "topic": "animals",
+ "title": "A Day at the Zoo",
+ "zh": "动物园的一天",
+ "use": {
+  "can": "can.2"
+ },
+ "pages": [
+  {
+   "en": "On Saturday, Lily and Dad go to the zoo. First, they see a big lion. The lion is sleeping on a rock.",
+   "zh": "星期六，Lily 和爸爸去动物园。他们先看到一头大狮子。狮子正在一块岩石上睡觉。",
+   "scene": "Lily and Dad standing at a zoo fence, looking at a big lion with a golden mane asleep on a rock."
+  },
+  {
+   "en": "Next, they see a tall giraffe and a grey elephant. The giraffe eats from the top of a tree. The elephant drinks water with its long nose.",
+   "zh": "接着，他们看到一只高高的长颈鹿和一头灰色的大象。长颈鹿吃树顶上的叶子，大象用长鼻子喝水。",
+   "scene": "A tall giraffe eating from the top of a tree next to a grey elephant drinking water with its trunk, Lily pointing happily."
+  },
+  {
+   "en": "Then Lily sees a funny monkey with a banana. \"Can I have a banana too?\" asks Lily. Dad laughs. \"Let's go to the cafe!\"",
+   "zh": "然后 Lily 看到一只拿着香蕉的滑稽猴子。“我也能吃根香蕉吗？”Lily 问。爸爸笑了：“我们去咖啡馆吧！”",
+   "scene": "A funny brown monkey hanging from a branch holding a banana, Lily laughing and Dad smiling beside her at the zoo."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The lion is sleeping.",
+   "zh": "狮子在睡觉。",
+   "answer": true
+  },
+  {
+   "q": "What does the monkey have?",
+   "zh": "猴子手里拿着什么？",
+   "options": [
+    "a banana",
+    "an apple",
+    "a cake"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily goes to the zoo with Mum.",
+   "zh": "Lily 和妈妈去了动物园。",
+   "answer": false
+  }
+ ]
+}

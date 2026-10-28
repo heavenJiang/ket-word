@@ -78,3 +78,28 @@ export function sfx(kind: "right" | "wrong" | "tap" | "done", enabled = true): v
     // audio not available: stay silent
   }
 }
+
+/**
+ * Read a story page aloud, reporting the character index of each word as it is spoken, so the
+ * reader can light it up. Uses the browser voice, which reports word boundaries; returns a stop function.
+ */
+export function readAloud(text: string, accent: Accent, onWord: (charIndex: number) => void, onEnd: () => void): () => void {
+  if (!("speechSynthesis" in window)) {
+    onEnd();
+    return () => {};
+  }
+  stop();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = accent === "uk" ? "en-GB" : "en-US";
+  u.rate = 0.8;
+  const voice = speechSynthesis.getVoices().find((v) => v.lang === u.lang);
+  if (voice) u.voice = voice;
+  u.onboundary = (e) => e.name === "word" && onWord(e.charIndex);
+  u.onend = onEnd;
+  u.onerror = onEnd;
+  speechSynthesis.speak(u);
+  return () => {
+    u.onend = null;
+    speechSynthesis.cancel();
+  };
+}

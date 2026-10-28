@@ -60,3 +60,31 @@ export type QuestionKind =
   | "tiles"; // see picture + hear, build the word from letters (spell)
 
 export type Accent = "uk" | "us";
+
+/** A short island story (content/stories), built by build_app_data.py. */
+export interface Story {
+  id: string;
+  topic: string;
+  title: string;
+  zh: string;
+  pages: StoryPage[];
+  questions: StoryQuestion[];
+  /** The island's words in the story: it opens once the child has met them all. */
+  needs: string[];
+}
+
+export interface StoryPage {
+  en: string;
+  zh: string;
+  /** The text as plain strings and tappable words ({t: "monkeys", id: "monkey"}). */
+  segments: (string | { t: string; id: string })[];
+  img: string | null;
+}
+
+/** True / false when `answer` is a boolean, else pick one of `options`. */
+export interface StoryQuestion {
+  q: string;
+  zh: string;
+  answer: boolean | number;
+  options?: string[];
+}

@@ -128,12 +128,19 @@ def to_webp(data: bytes, dest: Path) -> None:
 
 
 def words(only: set[str]) -> list[dict]:
-    """Words with a scene, each id once (chicken and fish are shared across topics)."""
+    """Words with a scene, each id once (chicken and fish are shared across topics), then story pages
+    as story-<story>-<page>."""
     seen: dict[str, dict] = {}
     for p in sorted(CONTENT.glob("*.json")):
         for w in json.loads(p.read_text(encoding="utf-8"))["words"]:
             if w.get("scene") and w["id"] not in seen and (not only or w["id"] in only):
                 seen[w["id"]] = w
+    for p in sorted((ROOT / "content/stories").glob("*.json")):
+        st = json.loads(p.read_text(encoding="utf-8"))
+        for n, page in enumerate(st["pages"], 1):
+            sid = f"story-{st['id']}-{n}"
+            if not only or sid in only or f"story-{st['id']}" in only:
+                seen[sid] = {"id": sid, "scene": page["scene"]}
     return list(seen.values())
 
 

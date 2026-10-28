@@ -1,19 +1,22 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { loadIndex, loadLibrary, type AppIndex, type Library } from "./lib/data";
+import { loadIndex, loadLibrary, loadStories, missingFor, type AppIndex, type Library } from "./lib/data";
 import { Cards } from "./pages/Cards";
 import { Home } from "./pages/Home";
 import { Learn } from "./pages/Learn";
 import { MapPage } from "./pages/MapPage";
 import { Parent } from "./pages/Parent";
-import { loadProgress, saveProgress, type Progress } from "./store/progress";
-import type { Word } from "./types";
+import { Stories } from "./pages/Stories";
+import { StoryReader } from "./pages/StoryReader";
+import { loadProgress, recordStory, saveProgress, type Progress } from "./store/progress";
+import type { Story, Word } from "./types";
 import { Max } from "./ui/Max";
 
-type Page = "home" | "map" | "learn" | "cards" | "parent";
+type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent";
 
 const NAV: { id: Page; icon: string; label: string }[] = [
   { id: "home", icon: "🏠", label: "首页" },
   { id: "map", icon: "🗺️", label: "地图" },
+  { id: "stories", icon: "📖", label: "故事" },
   { id: "cards", icon: "🃏", label: "卡册" },
   { id: "parent", icon: "👨‍👩‍👧", label: "家长" },
 ];
@@ -28,6 +31,8 @@ export function App() {
   const [library, setLibrary] = useState<Library | null>(null);
   const [page, setPage] = useState<Page>("home");
   const [error, setError] = useState<string | null>(null);
+  const [stories, setStories] = useState<Story[]>([]);
+  const [reading, setReading] = useState<Story | null>(null);
 
   const setProgress = useCallback((f: (p: Progress) => Progress) => {
     setProgressState((p) => {
@@ -44,6 +49,7 @@ export function App() {
         return loadLibrary(ix.topics.filter((t) => t.ready).map((t) => t.id));
       })
       .then(setLibrary, (e) => setError(String(e)));
+    loadStories().then(setStories, () => setStories([]));
   }, []);
 
   const topic = useMemo(() => index?.topics.find((t) => t.id === progress.topic), [index, progress.topic]);
@@ -53,6 +59,19 @@ export function App() {
   if (error) return <div className="page center">加载失败：{error}</div>;
   if (!index || !library || words.length === 0) return <div className="page center muted">正在打开单词岛…</div>;
 
+  if (reading)
+    return (
+      <StoryReader
+        story={reading}
+        library={library}
+        accent={progress.settings.accent}
+        sound={progress.settings.sound}
+        readBefore={!!progress.stories[reading.id]}
+        onDone={(right) => setProgress((p) => recordStory(p, reading.id, right, Date.now()))}
+        onExit={() => setReading(null)}
+      />
+    );
+
   if (page === "learn")
     return <Learn words={words} library={library} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
 
@@ -60,7 +79,16 @@ export function App() {
     <div className="shell">
       <main>
         {page === "home" && (
-          <Home progress={progress} topic={topic} words={words} library={library} onStart={() => setPage("learn")} onMap={() => setPage("map")} />
+          <Home
+            progress={progress}
+            topic={topic}
+            words={words}
+            library={library}
+            newStories={stories.filter((s) => !progress.stories[s.id] && missingFor(s, progress.words).length === 0).length}
+            onStart={() => setPage("learn")}
+            onMap={() => setPage("map")}
+            onStories={() => setPage("stories")}
+          />
         )}
         {page === "map" && (
           <MapPage
@@ -73,6 +101,7 @@ export function App() {
             }}
           />
         )}
+        {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
         {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
       </main>
