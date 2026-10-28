@@ -9,7 +9,7 @@ import { buildPlan } from "../session/plan";
 import { advance, answer, buildSession, current, isDone } from "../session/session";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { Rating, type Grade } from "../srs/srs";
-import { addStars, planOptions, recordGrade, type Progress } from "../store/progress";
+import { addStars, planOptions, recordCombo, recordGrade, type Progress } from "../store/progress";
 import { canStart, type Library } from "../lib/data";
 import type { Word } from "../types";
 import { Max } from "../ui/Max";
@@ -56,7 +56,9 @@ export function Learn(props: {
     const w = byId.get(step.wordId)!;
     const grade: Grade = gradeAttempt(a, step.kind, factor, [...w.word].filter((c) => /[a-z]/i.test(c)).length);
     const r = answer(session, a.correct, progress.words);
-    setCombo((c) => (a.correct ? c + 1 : 0));
+    const run = a.correct ? combo + 1 : 0;
+    setCombo(run);
+    if (run > progress.records.combo) setProgress((p) => recordCombo(p, run));
     if (r.grade) {
       setProgress((p) => recordGrade(p, step.wordId, step.skill, grade, Date.now()));
       const star = grade === Rating.Good || grade === Rating.Easy ? 1 : 0;

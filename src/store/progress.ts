@@ -37,6 +37,10 @@ export interface Progress {
   words: Record<string, WordProgress>;
   days: Record<string, DayLog>;
   stories: Record<string, StoryLog>;
+  /** Stickers given, with when; a sticker is shown once, when first earned. */
+  stickers: Record<string, number>;
+  /** Personal bests that stickers look at: longest run of right answers, longest streak of days. */
+  records: { combo: number; streak: number };
 }
 
 const KEY = "ket-word:progress";
@@ -57,6 +61,8 @@ export const emptyProgress = (): Progress => ({
   words: {},
   days: {},
   stories: {},
+  stickers: {},
+  records: { combo: 0, streak: 0 },
 });
 
 /** Local calendar day, e.g. "2026-10-27"; a learning day ends at local midnight. */
@@ -114,19 +120,21 @@ export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Gr
   const star = grade === Rating.Good || grade === Rating.Easy ? 1 : 0;
   const k = dayKey(now);
   const day = p.days[k] ?? emptyDay();
+  const days = {
+    ...p.days,
+    [k]: {
+      answered: day.answered + 1,
+      correct: day.correct + (correct ? 1 : 0),
+      newWords: day.newWords + (isNew ? 1 : 0),
+      stars: day.stars + star,
+    },
+  };
   return {
     ...p,
+    records: { ...p.records, streak: Math.max(p.records.streak, streak(days, now)) },
     stars: p.stars + star,
     words: { ...p.words, [wordId]: { ...word, skills: { ...word.skills, [skill]: card } } },
-    days: {
-      ...p.days,
-      [k]: {
-        answered: day.answered + 1,
-        correct: day.correct + (correct ? 1 : 0),
-        newWords: day.newWords + (isNew ? 1 : 0),
-        stars: day.stars + star,
-      },
-    },
+    days,
   };
 }
 
@@ -157,3 +165,10 @@ export function recordStory(p: Progress, id: string, right: number, now: number)
   const log: StoryLog = { reads: (prev?.reads ?? 0) + 1, best: Math.max(prev?.best ?? 0, right), last: now };
   return addStars({ ...p, stories: { ...p.stories, [id]: log } }, stars, now);
 }
+
+/** A new longest run of right answers in one session. */
+export const recordCombo = (p: Progress, combo: number): Progress =>
+  combo > p.records.combo ? { ...p, records: { ...p.records, combo } } : p;
+
+export const giveStickers = (p: Progress, ids: string[], now: number): Progress =>
+  ids.length ? { ...p, stickers: { ...p.stickers, ...Object.fromEntries(ids.map((id) => [id, now])) } } : p;

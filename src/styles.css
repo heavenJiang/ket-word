@@ -401,6 +401,36 @@ h3 {
 .new-sense { background: var(--sky-soft); border-radius: 14px; padding: 8px 12px; font-size: 0.92rem; line-height: 1.5; }
 .album-sense { font-size: 0.7rem; font-weight: 700; color: var(--sky); margin-top: -2px; }
 
+/* stickers */
+.grow { flex: 1; margin: 0; }
+.sticker-entry { display: flex; align-items: center; gap: 8px; width: 100%; padding: 10px 12px; border-radius: 14px; background: var(--bg); font-weight: 700; }
+.sticker-entry b { margin-left: auto; color: var(--primary); }
+.stickers { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 12px; margin-bottom: 18px; }
+.sticker { display: flex; flex-direction: column; align-items: center; gap: 4px; text-align: center; }
+.sticker-disc { width: 84px; height: 84px; border-radius: 50%; display: grid; place-items: center; border: 4px solid #fff; box-shadow: 0 4px 0 rgba(120, 80, 30, 0.12), 0 6px 16px rgba(120, 80, 30, 0.12); }
+.sticker-emoji { font-size: 2.6rem; }
+.sticker-words .sticker-disc { background: radial-gradient(circle at 35% 30%, #d6f5c9, #8fd17a); }
+.sticker-streak .sticker-disc { background: radial-gradient(circle at 35% 30%, #ffe1c2, #ff9f5a); }
+.sticker-gold .sticker-disc { background: radial-gradient(circle at 35% 30%, #fff3bf, #ffc531); }
+.sticker-combo .sticker-disc { background: radial-gradient(circle at 35% 30%, #d9efff, #6cc3ff); }
+.sticker-story .sticker-disc { background: radial-gradient(circle at 35% 30%, #f3dcff, #c08cf0); }
+.sticker-island .sticker-disc { background: radial-gradient(circle at 35% 30%, #ffd9e2, #ff7f9f); }
+.sticker-name { font-size: 0.88rem; }
+.sticker-how { font-size: 0.72rem; color: var(--muted); line-height: 1.35; }
+.sticker .bar { width: 80%; }
+.sticker-locked .sticker-disc { background: var(--line); box-shadow: none; border-color: var(--card); }
+.sticker-locked .sticker-emoji { filter: grayscale(1); opacity: 0.35; }
+.sticker-locked .sticker-name { color: var(--muted); }
+.sticker-big .sticker-disc { width: 140px; height: 140px; }
+.sticker-big .sticker-emoji { font-size: 4.4rem; }
+.sticker-big .sticker-name { font-size: 1.15rem; }
+.sticker-big .sticker-how { font-size: 0.85rem; }
+.sheet-center { place-items: center; }
+.new-stickers { position: relative; overflow: hidden; gap: 16px; }
+.stickers-new { width: 100%; justify-items: center; animation: pop 0.5s; }
+.new-stickers .sticker-disc { animation: spin-in 0.6s ease-out; }
+@keyframes spin-in { from { transform: scale(0.2) rotate(-180deg); opacity: 0; } }
+
 /* stories */
 .books { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin-bottom: 18px; }
 .book { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 8px 8px 12px; display: flex; flex-direction: column; gap: 4px; text-align: left; }

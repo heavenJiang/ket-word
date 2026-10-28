@@ -5,13 +5,15 @@ import { Home } from "./pages/Home";
 import { Learn } from "./pages/Learn";
 import { MapPage } from "./pages/MapPage";
 import { Parent } from "./pages/Parent";
+import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { loadProgress, recordStory, saveProgress, type Progress } from "./store/progress";
+import { giveStickers, loadProgress, recordStory, saveProgress, type Progress } from "./store/progress";
+import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
 import type { Story, Word } from "./types";
 import { Max } from "./ui/Max";
 
-type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent";
+type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers";
 
 const NAV: { id: Page; icon: string; label: string }[] = [
   { id: "home", icon: "🏠", label: "首页" },
@@ -54,6 +56,14 @@ export function App() {
 
   const topic = useMemo(() => index?.topics.find((t) => t.id === progress.topic), [index, progress.topic]);
   const words = useMemo(() => learningOrder(library?.topics[progress.topic] ?? []), [library, progress.topic]);
+  const stickers = useMemo(
+    () =>
+      index && library
+        ? allStickers({ progress, words: library.all, topics: index.topics, byTopic: library.topics, stories, now: Date.now() })
+        : [],
+    [progress, index, library, stories],
+  );
+  const fresh = newlyEarned(stickers, progress.stickers);
 
   if (!progress.profile) return <Onboarding onDone={(name, age) => setProgress((p) => ({ ...p, profile: { name, age } }))} />;
   if (error) return <div className="page center">加载失败：{error}</div>;
@@ -88,6 +98,8 @@ export function App() {
             onStart={() => setPage("learn")}
             onMap={() => setPage("map")}
             onStories={() => setPage("stories")}
+            stickers={[stickers.filter(isEarned).length, stickers.length]}
+            onStickers={() => setPage("stickers")}
           />
         )}
         {page === "map" && (
@@ -101,10 +113,12 @@ export function App() {
             }}
           />
         )}
+        {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
         {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
         {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
       </main>
+      {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
       <nav className="nav">
         {NAV.map((n) => (
           <button key={n.id} className={`nav-item ${page === n.id ? "nav-on" : ""}`} onClick={() => setPage(n.id)}>
