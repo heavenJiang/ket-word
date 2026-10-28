@@ -1,5 +1,160 @@
 [
  {
+  "id": "class-project",
+  "topic": "school",
+  "title": "The Class Project",
+  "zh": "班级课题",
+  "pages": [
+   {
+    "en": "Lily's class is doing a project about animals. Lily and Mia want to learn about penguins, so they go to the school library.",
+    "zh": "Lily 的班级在做一个关于动物的课题。Lily 和 Mia 想了解企鹅，于是她们去了学校图书馆。",
+    "segments": [
+     "Lily's ",
+     {
+      "t": "class",
+      "id": "class"
+     },
+     " is doing a ",
+     {
+      "t": "project",
+      "id": "project"
+     },
+     " about ",
+     {
+      "t": "animals",
+      "id": "animal"
+     },
+     ". Lily and Mia want to ",
+     {
+      "t": "learn",
+      "id": "learn"
+     },
+     " about ",
+     {
+      "t": "penguins",
+      "id": "penguin"
+     },
+     ", so they go to the ",
+     {
+      "t": "school",
+      "id": "school"
+     },
+     " ",
+     {
+      "t": "library",
+      "id": "library"
+     },
+     "."
+    ],
+    "img": "media/img/story-class-project-1.webp"
+   },
+   {
+    "en": "They find a big book with lots of information. Penguins can't fly, but they can swim very fast. Mia draws a penguin and Lily writes the notes.",
+    "zh": "她们找到一本有很多资料的大书。企鹅不会飞，但游得非常快。Mia 画了一只企鹅，Lily 做笔记。",
+    "segments": [
+     "They find a big ",
+     {
+      "t": "book",
+      "id": "book"
+     },
+     " with lots of ",
+     {
+      "t": "information",
+      "id": "information"
+     },
+     ". ",
+     {
+      "t": "Penguins",
+      "id": "penguin"
+     },
+     " ",
+     {
+      "t": "can't",
+      "id": "can"
+     },
+     " fly, but they ",
+     {
+      "t": "can",
+      "id": "can"
+     },
+     " swim very fast. Mia draws a ",
+     {
+      "t": "penguin",
+      "id": "penguin"
+     },
+     " and Lily writes the ",
+     {
+      "t": "notes",
+      "id": "note"
+     },
+     "."
+    ],
+    "img": "media/img/story-class-project-2.webp"
+   },
+   {
+    "en": "On Thursday, they show their project to the class. Everyone likes the penguin picture. \"Very good work!\" says the teacher.",
+    "zh": "星期四，她们向全班展示课题。大家都喜欢那幅企鹅画。“做得非常好！”老师说。",
+    "segments": [
+     "On Thursday, they show their ",
+     {
+      "t": "project",
+      "id": "project"
+     },
+     " to the ",
+     {
+      "t": "class",
+      "id": "class"
+     },
+     ". Everyone likes the ",
+     {
+      "t": "penguin",
+      "id": "penguin"
+     },
+     " picture. \"Very good work!\" says the ",
+     {
+      "t": "teacher",
+      "id": "teacher"
+     },
+     "."
+    ],
+    "img": "media/img/story-class-project-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "The project is about penguins.",
+    "zh": "这个课题是关于企鹅的。",
+    "answer": true
+   },
+   {
+    "q": "Where do Lily and Mia find the book?",
+    "zh": "Lily 和 Mia 在哪里找到那本书？",
+    "options": [
+     "in the library",
+     "at home",
+     "in the park"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Penguins can fly.",
+    "zh": "企鹅会飞。",
+    "answer": false
+   }
+  ],
+  "needs": [
+   "class",
+   "project",
+   "learn",
+   "school",
+   "library",
+   "book",
+   "information",
+   "note",
+   "teacher"
+  ]
+ },
+ {
   "id": "grandma-birthday",
   "topic": "family",
   "title": "Grandma's Birthday",
@@ -410,7 +565,17 @@
       "t": "Grandpa",
       "id": "grandpa"
      },
-     " wants to read his book, but he ",
+     " wants to ",
+     {
+      "t": "read",
+      "id": "read"
+     },
+     " his ",
+     {
+      "t": "book",
+      "id": "book"
+     },
+     ", but he ",
      {
       "t": "can't",
       "id": "can"
@@ -481,7 +646,12 @@
       "t": "can",
       "id": "can"
      },
-     " read!\""
+     " ",
+     {
+      "t": "read",
+      "id": "read"
+     },
+     "!\""
     ],
     "img": "media/img/story-lost-glasses-3.webp"
    }
@@ -1075,6 +1245,119 @@
    "cloud",
    "wet",
    "sun"
+  ]
+ },
+ {
+  "id": "spelling-test",
+  "topic": "school",
+  "title": "The Spelling Test",
+  "zh": "拼写测验",
+  "pages": [
+   {
+    "en": "On Monday, the teacher says, \"We have a spelling test on Friday.\" Lily is a bit worried. Some words are very difficult.",
+    "zh": "星期一，老师说：“我们星期五有拼写测验。”Lily 有点担心，有些单词很难。",
+    "segments": [
+     "On Monday, the ",
+     {
+      "t": "teacher",
+      "id": "teacher"
+     },
+     " says, \"We have a spelling ",
+     {
+      "t": "test",
+      "id": "test"
+     },
+     " on Friday.\" Lily is a bit worried. Some words are very difficult."
+    ],
+    "img": "media/img/story-spelling-test-1.webp"
+   },
+   {
+    "en": "Every evening, Lily practises with Dad. He reads the words and she writes them. Max listens too. Lily remembers more and more words.",
+    "zh": "每天晚上，Lily 都和爸爸一起练习。爸爸念单词，她来写。Max 也在旁边听。Lily 记住的单词越来越多。",
+    "segments": [
+     "Every evening, Lily ",
+     {
+      "t": "practises",
+      "id": "practise"
+     },
+     " with ",
+     {
+      "t": "Dad",
+      "id": "dad"
+     },
+     ". He ",
+     {
+      "t": "reads",
+      "id": "read"
+     },
+     " the words and she writes them. Max listens too. Lily ",
+     {
+      "t": "remembers",
+      "id": "remember"
+     },
+     " more and more words."
+    ],
+    "img": "media/img/story-spelling-test-2.webp"
+   },
+   {
+    "en": "On Friday, Lily does the test. She knows all the words! The teacher gives her a good mark and a gold star.",
+    "zh": "星期五，Lily 参加了测验。所有的单词她都会！老师给了她好分数和一颗金星。",
+    "segments": [
+     "On Friday, Lily does the ",
+     {
+      "t": "test",
+      "id": "test"
+     },
+     ". She ",
+     {
+      "t": "knows",
+      "id": "know"
+     },
+     " all the words! The ",
+     {
+      "t": "teacher",
+      "id": "teacher"
+     },
+     " gives her a good ",
+     {
+      "t": "mark",
+      "id": "mark"
+     },
+     " and a gold star."
+    ],
+    "img": "media/img/story-spelling-test-3.webp"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When is the test?",
+    "zh": "测验在什么时候？",
+    "options": [
+     "on Friday",
+     "on Monday",
+     "on Sunday"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Lily practises with Mum.",
+    "zh": "Lily 和妈妈一起练习。",
+    "answer": false
+   },
+   {
+    "q": "Lily gets a good mark.",
+    "zh": "Lily 得了好分数。",
+    "answer": true
+   }
+  ],
+  "needs": [
+   "teacher",
+   "test",
+   "practise",
+   "read",
+   "remember",
+   "know",
+   "mark"
   ]
  },
  {
