@@ -116,7 +116,7 @@ export function App() {
         {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
         {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
-        {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} />}
+        {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
       </main>
       {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
       <nav className="nav">

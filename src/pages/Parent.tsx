@@ -1,7 +1,8 @@
 import { useMemo, useRef, useState } from "react";
 import { isMastered, retrievability, type CardState } from "../srs/srs";
 import { dayKey, parseProgress, type Progress } from "../store/progress";
-import { SKILLS, type Skill, type Word } from "../types";
+import { SKILLS, type Skill, type Story, type Word } from "../types";
+import { OfflinePanel } from "../ui/Offline";
 
 const SKILL_NAME: Record<Skill, string> = { meaning: "认识词义", listen: "听音辨词", spell: "拼写" };
 
@@ -27,9 +28,10 @@ export function Parent(props: {
   progress: Progress;
   setProgress: (f: (p: Progress) => Progress) => void;
   credits: string;
+  stories: Story[];
   source: string;
 }) {
-  const { words, progress, setProgress, credits, source } = props;
+  const { words, progress, setProgress, credits, source, stories } = props;
   const [ok, setOk] = useState(false);
   const file = useRef<HTMLInputElement>(null);
   const now = Date.now();
@@ -176,6 +178,8 @@ export function Parent(props: {
           音效
         </label>
       </section>
+
+      <OfflinePanel words={words} stories={stories} />
 
       <section className="card">
         <h3>备份</h3>
