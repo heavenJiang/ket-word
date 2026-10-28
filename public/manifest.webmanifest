@@ -1,0 +1,16 @@
+{
+  "name": "KET 单词岛",
+  "short_name": "单词岛",
+  "description": "和小狗 Max 一起，一座岛一座岛地认识剑桥 KET 的全部单词",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8ec",
+  "theme_color": "#ffb84d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
