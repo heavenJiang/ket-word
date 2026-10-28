@@ -13895,7 +13895,7 @@
    "word": "give somebody a call",
    "forms": [
     "give somebody a call",
-    "ring"
+    "give somebody a ring"
    ],
    "headword": "give somebody a call/ring",
    "pos": [
@@ -13907,9 +13907,9 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "clothes"
+    "tech"
    ],
-   "atlas": "ring",
+   "atlas": null,
    "source": "list"
   },
   {
@@ -16045,7 +16045,8 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "hobbies",
+    "time"
    ],
    "atlas": "holiday",
    "source": "list"
@@ -18847,7 +18848,8 @@
    "topics": [
     "colours",
     "home",
-    "travel"
+    "travel",
+    "appliances"
    ],
    "atlas": "light",
    "source": "list"
@@ -28624,7 +28626,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "clothes"
    ],
    "atlas": "shoe",
    "source": "list"
@@ -34028,7 +34030,8 @@
     "a pair of trainers"
    ],
    "topics": [
-    "core"
+    "clothes",
+    "sport"
    ],
    "atlas": "trainer",
    "source": "list"

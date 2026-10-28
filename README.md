@@ -51,6 +51,8 @@ content/stories/<id>.json           岛屿故事：页面文字、插图描述�
                                     → public/media/            Word Atlas 插画与发音（缓存在 .local/media）
 ```
 
+话题匹配允许话题表里的复数对应单数词条（shoes → shoe），但复数本身是独立词条时不算（news、shorts）；PDF 未归类或拆分有误的短语在 `build_words.py` 的 `FORMS_OVERRIDE`、`TOPIC_EXTRA` 里手工指定（如 give somebody a call/ring 归通讯科技）。提前写好、还没开放的岛的内容放在 `content/drafts/`。
+
 `build_words.py` 需要 Word Atlas 数据：把 `https://raw.githubusercontent.com/designfuchen/word-atlas/main/data/word-atlas.json` 放到 `.local/word-atlas/word-atlas.json`。解析脚本需要 `pip install pdfplumber`。
 
 新增一个话题：写 `content/topics/<topic>.json`（格式同 `food.json`），再运行 `npm run data`。构建会校验内容与官方话题词表一一对应、音节拼回原词、易混组只引用本话题的词，并删除不再引用的媒体。
