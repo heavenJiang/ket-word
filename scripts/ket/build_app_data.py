@@ -73,7 +73,7 @@ def senses_of(w: dict, it: dict, parent: dict | None = None) -> list[dict]:
 
 
 def sentence(en: str, zh: str, recorded: dict, used_media: set[str]) -> dict:
-    """An example sentence, with its ChatTTS recording (gen_audio.py) when there is one."""
+    """An example sentence, with its Higgs Audio recording (gen_audio.py) when there is one."""
     out = {"en": en, "zh": zh}
     rec = recorded.get(en)
     if rec and (MEDIA / "sent" / rec["file"]).exists():
