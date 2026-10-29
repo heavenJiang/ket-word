@@ -41,9 +41,9 @@ npm run build
 content/topics/<topic>.json          人工审校的儿童内容：中文释义、音节、例句（固定角色 Lily 和小狗 Max）
 content/media/svg/<id>.svg           手绘矢量插画（Word Atlas 色板与构图），补 Word Atlas 缺失或不可用的图
   └─ scripts/ket/render_svg.mjs     → content/media/img/       渲染为 512px WebP，统一叠加纸张颗粒质感（需本机 Chrome）
-  └─ scripts/ket/gen_comfy.py       → .local/gen/ → content/media/ai/    局域网生图机上的 ComfyUI（FLUX.1-dev，儿童绘本风格，固定角色形象）按 scene 字段出候选图，--sheet 出联系表人工挑选，--pick 放入，构建时优先于手绘版
+  └─ scripts/ket/gen_comfy.py       → .local/gen/qwen-image/ → content/media/ai/    局域网生图机上的 ComfyUI（Qwen-Image 2512，儿童绘本风格，固定角色形象）按 scene 字段出候选图，--sheet 出联系表人工挑选，--pick 放入，构建时优先于手绘版；新内容攒一批后用 --missing 统一出图
   └─ scripts/ket/gen_images.py      → content/media/ai/        可选：用 OpenAI 兼容的图像 API 生成
-scripts/ket/gen_mascot.py           → public/media/ui/         吉祥物小狗 Max 的表情与成长阶段（同一套 FLUX 风格），人工挑选后 --pick 放入
+scripts/ket/gen_mascot.py           → public/media/ui/         吉祥物小狗 Max 的表情与成长阶段（同一套 Qwen-Image 设置），人工挑选后 --pick 放入
 scripts/ket/gen_audio.py            → public/media/sent/       例句录音：局域网 Higgs Audio 合成，Whisper 逐句核对，不合格换种子重录（最多 5 次）
 scripts/ket/check_sentences.py      （构建时自动运行）           例句和故事的用词都在 KET 词表内、每个词都有能挖空的句子
 content/stories/<id>.json           岛屿故事：页面文字、插图描述（gen_comfy.py 按 story-<id>-<页> 出图）、理解题
@@ -84,4 +84,4 @@ content/stories/<id>.json           岛屿故事：页面文字、插图描述�
 
 - 词表依据 Cambridge English *A2 Key and A2 Key for Schools Vocabulary List*（August 2025），© UCLES。
 - 发音录音来自 [Word Atlas](https://github.com/designfuchen/word-atlas)：**Word Atlas contributors — CC BY 4.0**。应用的家长中心页底部显示该署名，发布时请保留；若有词仍沿用 Word Atlas 插画，构建会自动在署名中加上插画。
-- 插画为本项目用 FLUX.1-dev 生成并逐张人工挑选。
+- 插画为本项目用 FLUX.1-dev（2026-10-29 之前）和 Qwen-Image 2512 生成并逐张人工挑选。

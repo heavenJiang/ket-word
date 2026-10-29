@@ -1,4 +1,4 @@
-"""Generate the mascot Max (moods and growth stages) with the same FLUX setup as gen_comfy.py.
+"""Generate the mascot Max (moods and growth stages) with the same Qwen-Image setup as gen_comfy.py.
 
 Usage:
     python3 scripts/ket/gen_mascot.py [-n 3] [--only happy,cheer]   # candidates -> .local/gen/max-<pose>-<k>.webp
