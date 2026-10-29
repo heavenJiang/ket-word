@@ -8,7 +8,7 @@ export interface Sense {
 export interface Sentence {
   en: string;
   zh: string;
-  /** ChatTTS recording (scripts/ket/gen_audio.py); without one the browser's voice reads it. */
+  /** Higgs Audio recording (scripts/ket/gen_audio.py); without one the browser's voice reads it. */
   audio?: string;
 }
 

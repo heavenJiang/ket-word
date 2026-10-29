@@ -44,7 +44,7 @@ content/media/svg/<id>.svg           手绘矢量插画（Word Atlas 色板与�
   └─ scripts/ket/gen_comfy.py       → .local/gen/ → content/media/ai/    局域网生图机上的 ComfyUI（FLUX.1-dev，儿童绘本风格，固定角色形象）按 scene 字段出候选图，--sheet 出联系表人工挑选，--pick 放入，构建时优先于手绘版
   └─ scripts/ket/gen_images.py      → content/media/ai/        可选：用 OpenAI 兼容的图像 API 生成
 scripts/ket/gen_mascot.py           → public/media/ui/         吉祥物小狗 Max 的表情与成长阶段（同一套 FLUX 风格），人工挑选后 --pick 放入
-scripts/ket/gen_audio.py            → public/media/sent/       例句录音：局域网 ChatTTS 合成，Whisper 逐句核对，不合格换种子重录（最多 5 次）
+scripts/ket/gen_audio.py            → public/media/sent/       例句录音：局域网 Higgs Audio 合成，Whisper 逐句核对，不合格换种子重录（最多 5 次）
 scripts/ket/check_sentences.py      （构建时自动运行）           例句和故事的用词都在 KET 词表内、每个词都有能挖空的句子
 content/stories/<id>.json           岛屿故事：页面文字、插图描述（gen_comfy.py 按 story-<id>-<页> 出图）、理解题
   └─ scripts/ket/build_app_data.py  → public/data/             应用数据（自有插画优先于 Word Atlas）
@@ -68,16 +68,14 @@ content/stories/<id>.json           岛屿故事：页面文字、插图描述�
 
 已开放：动物（47 词）、食物饮料（106 词）。
 
-## 例句录音（ChatTTS）
+## 例句录音（Higgs Audio）
 
-单词发音用 Word Atlas 的真人录音；例句用局域网生图机上的 ChatTTS（ChatTTS-ui，端口 9966）预先合成，打包进应用，离线可用。没有录音的句子退回浏览器朗读。
+单词发音用 Word Atlas 的真人录音；例句用局域网生图机上的 Higgs Audio v2（端口 7861）预先合成，打包进应用，离线可用。没有录音的句子退回浏览器朗读。
 
-参数来自约 600 条样本的对比测试（Whisper 转写比对原句，衡量发音准确、漏词和吞尾）：
+2026-10-29 与之前用的 ChatTTS 对比（36 句，旁白、大人、孩子各 12 句，含 ChatTTS 要多次重录的难句；Whisper 转写比对原句）：Higgs 每句只录 1 次就有 31/36 合格，与 ChatTTS 最多录 5 次取最好的结果持平，旁白和大人 12/12 全对；不再吞掉句尾最后一个词，一句约 2 秒。
 
-- `speed=1`：约每分钟 144 词，适合儿童；speed 2–5 之间差别很小
-- `temperature=0.3, top_p=0.7, top_k=20`，跳过 refine（refine 会改写句子、加口头语）
-- 句尾加 ` [uv_break]`：ChatTTS 常吞掉最后一个词（cakes→cake，please 含糊），加上后吞尾从 28% 降到 10%，余下的靠 Whisper 核对后换种子重录解决
-- 音色按说话人区分（`content/audio/speakers.json`，未列出的句子为旁白）：旁白 `1111.csv`（女声），大人对孩子说的话 `8888.csv`（男声），孩子说的话自定义种子 `2300`（音高约 260Hz）
+- 参数用服务默认值：`temperature=0.3, top_p=0.95, top_k=50, scene_prompt=quiet_indoor`；不合格时换 seed 重录
+- 音色按说话人区分（`content/audio/speakers.json`，未列出的句子为旁白），都是内置音色：旁白 `en_woman`（女声），大人对孩子说的话 `en_man`（男声），孩子说的话 `belinda`（音高约 260Hz，语速偏慢）
 - 比对时把 Whisper 的美式拼写（Mom、color、favorite、gray）换成内容里的英式拼写，避免误判
 
 运行：`WHISPER_MODEL=<faster-whisper small.en 目录> python3 scripts/ket/gen_audio.py`（需要 `pip install faster-whisper numpy` 和 ffmpeg；模型可从 hf-mirror.com 下载）。已录过且没改动的句子会跳过，改了句子或换了音色会重录。

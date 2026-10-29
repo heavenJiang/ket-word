@@ -1,16 +1,16 @@
-"""Record every example sentence with ChatTTS, checked by Whisper, into public/media/sent/.
+"""Record every example sentence with Higgs Audio v2, checked by Whisper, into public/media/sent/.
 
 Usage:
     python3 scripts/ket/gen_audio.py [--only animals,food] [--limit 20]
 
-Settings come from a listening test (see README): speed 1, temperature 0.3, top_p 0.7, top_k 20, refine
-skipped, and " [uv_break]" after the text, which stops ChatTTS swallowing the last word. Who speaks each
-sentence is in content/audio/speakers.json (narrator unless listed); each speaker has a fixed voice.
-Every take is transcribed by Whisper; a take that misses words is redone with another text seed, and
-the best of up to MAX_TRIES is kept. content/audio/sentences.json records each sentence's file, voice
-and score; existing files are reused, so runs resume and only new or edited sentences are recorded.
+Voices and settings come from a listening test against ChatTTS (2026-10-29, see README): the server's
+defaults (temperature 0.3, top_p 0.95, top_k 50, quiet indoor scene) and one built-in voice per speaker.
+Who speaks each sentence is in content/audio/speakers.json (narrator unless listed). Every take is
+transcribed by Whisper; a take that misses words is redone with another seed, and the best of up to
+MAX_TRIES is kept. content/audio/sentences.json records each sentence's file, voice and score; existing
+files are reused, so runs resume and only new or edited sentences are recorded.
 
-Env: CHATTTS_URL (default: the generation box on the LAN), WHISPER_MODEL (a faster-whisper model folder).
+Env: HIGGS_URL (default: the generation box on the LAN), WHISPER_MODEL (a faster-whisper model folder).
 Needs: pip install faster-whisper numpy; ffmpeg on PATH.
 """
 
@@ -24,7 +24,6 @@ import re
 import subprocess
 import tempfile
 import time
-import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -32,16 +31,14 @@ ROOT = Path(__file__).resolve().parents[2]
 CONTENT = ROOT / "content/topics"
 AUDIO = ROOT / "content/audio"
 OUT = ROOT / "public/media/sent"
-URL = os.environ.get("CHATTTS_URL", "http://192.168.31.128:9966").rstrip("/")
+URL = os.environ.get("HIGGS_URL", "http://192.168.31.128:7861").rstrip("/")
 
 VOICES = {
-    "narrator": {"voice": "1111.csv", "custom_voice": 0},  # warm female voice, chosen by ear
-    "adult": {"voice": "8888.csv", "custom_voice": 0},  # male voice: a parent talking to a child
-    "kid": {"voice": "1111.csv", "custom_voice": 2300},  # voice seed 2300: the most child-like of the accurate high voices
+    "narrator": "en_woman",  # warm female voice, chosen by ear
+    "adult": "en_man",  # male voice: a parent talking to a child
+    "kid": "belinda",  # about 260 Hz and a little slow: the most child-like of the built-in voices
 }
-SETTINGS = dict(prompt="", speed=1, temperature=0.3, top_p=0.7, top_k=20, refine_max_new_token=384,
-                infer_max_new_token=2048, skip_refine=1, is_stream=0)
-ENDING = " [uv_break]"
+SETTINGS = dict(temperature=0.3, top_p=0.95, top_k=50, scene_prompt="quiet_indoor")
 MAX_TRIES = 5
 GOOD_CER = 0.03
 
@@ -96,14 +93,12 @@ def transcribe(wav: Path) -> str:
 
 
 def synth(text: str, speaker: str, seed: int, dest: Path) -> None:
-    body = urllib.parse.urlencode({**SETTINGS, **VOICES[speaker], "text": text + ENDING, "text_seed": seed}).encode()
+    body = json.dumps({"text": text, "voice": VOICES[speaker], "seed": seed, **SETTINGS}).encode()
+    req = urllib.request.Request(URL + "/tts", data=body, headers={"Content-Type": "application/json"})
     for attempt in range(5):  # the box is on Wi-Fi: ride out short drops
         try:
-            with urllib.request.urlopen(urllib.request.Request(URL + "/tts", data=body), timeout=300) as r:
-                res = json.loads(r.read())
-            if res.get("code") != 0:
-                raise RuntimeError(res.get("msg"))
-            urllib.request.urlretrieve(res["url"], dest)
+            with urllib.request.urlopen(req, timeout=300) as r:
+                Path(dest).write_bytes(r.read())  # the response body is the wav itself
             return
         except Exception:
             if attempt == 4:
@@ -113,7 +108,7 @@ def synth(text: str, speaker: str, seed: int, dest: Path) -> None:
 
 def name(text: str, speaker: str) -> str:
     """File name from the sentence and its voice, so an edited sentence or a new voice gets a new file."""
-    key = json.dumps([text, VOICES[speaker], SETTINGS, ENDING], sort_keys=True)
+    key = json.dumps([text, VOICES[speaker], SETTINGS], sort_keys=True)
     return hashlib.sha1(key.encode()).hexdigest()[:12] + ".mp3"
 
 
