@@ -39,12 +39,15 @@ export function playSentence(w: Word, accent: Accent): void {
   playText(w.sentences?.[0] ?? w.sentence, accent);
 }
 
-/** Read a sentence aloud: its recording when there is one, else the browser's voice. `slow` for a clearer listen. */
+/**
+ * Read a sentence aloud: its recording when there is one, else the browser's voice. `slow` for a clearer listen.
+ * The recordings run at about 165 wpm; 0.85 brings them to KET listening pace (~140), slow to ~110.
+ */
 export function playText(s: Sentence, accent: Accent, slow = false): void {
   if (!s.audio) return speak(s.en, accent, slow ? 0.6 : 0.8);
   stop();
   current = new Audio(base + s.audio);
-  if (slow) current.playbackRate = 0.75;
+  current.playbackRate = slow ? 0.65 : 0.85;
   current.play().catch(() => speak(s.en, accent, slow ? 0.6 : 0.8));
 }
 
