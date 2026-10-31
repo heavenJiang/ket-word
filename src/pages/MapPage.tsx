@@ -1,6 +1,7 @@
 import { wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
 import type { Library } from "../lib/data";
+import { ROUTE } from "../lib/route";
 import { nextIsland } from "../session/today";
 import type { Topic } from "../types";
 
@@ -13,9 +14,10 @@ const ISLAND_EMOJI: Record<string, string> = {
 };
 
 /**
- * The topic map: the KET topic islands and the small core-word islands, in two groups. The island
- * after the current one is marked as next; islands whose words are all met fold away at the end of
- * their group, so the map shows what is still ahead.
+ * The map follows the Think course: book by book, unit by unit, the islands for each unit's topics,
+ * with the current island and the next one on the route marked. Every island stays open: tapping
+ * any of them moves there. Below, all islands in their two groups (topics and core words), where
+ * islands whose words are all met fold away.
  */
 export function MapPage(props: { topics: Topic[]; progress: Progress; library: Library; onPick: (id: string) => void }) {
   const { topics, progress, library, onPick } = props;
@@ -68,12 +70,54 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
     );
   };
 
+  const byId = new Map(open.map((t) => [t.id, t]));
+  const chip = (id: string) => {
+    const t = byId.get(id);
+    if (!t) return null;
+    const on = id === progress.topic;
+    const state = on ? "chip-on" : id === next ? "chip-next" : met(t) ? "chip-done" : "";
+    return (
+      <button key={id} className={`route-chip ${state}`} onClick={() => onPick(id)}>
+        <span>{emoji(t)}</span>
+        <b>{t.zh}</b>
+        <span className="muted small">
+          {on ? "📍 在这里" : id === next ? "👉 下一座" : `🚩 ${learned(t)}/${t.count}`}
+        </span>
+      </button>
+    );
+  };
+
   return (
     <div className="page">
       <h2>单词岛地图</h2>
-      <p className="muted">选一座岛去探险。每认识一个单词，岛上就多一面小旗 🚩</p>
-      {group("🏝️ 话题岛", "KET 官方话题，每座岛一个主题，还有 Lily 和 Max 的故事。", open.filter((t) => !t.core))}
-      {group("🧩 核心小岛", "不属于任何话题的常用词：小词、动作、描述、时间……", open.filter((t) => t.core))}
+      <p className="muted">跟着 Think 课本一个单元一个单元往前走，每认识一个单词，岛上就多一面小旗 🚩。想先去别的岛，点它就行。</p>
+
+      {(["Think Starter", "Think 1", "Think 2"] as const).map((book) => (
+        <section key={book} className="route-book card">
+          <h3>
+            📘 {book} <span className="muted small">{book === "Think Starter" ? "A1" : book === "Think 1" ? "A2 · KET 水平" : "B1"}</span>
+          </h3>
+          {ROUTE.filter((r) => r.book === book).map((r) => (
+            <div key={r.unit} className="route-unit">
+              <div className="route-unit-head">
+                <b>{r.unit === "Welcome" ? "Welcome" : `Unit ${r.unit}`}</b>
+                <span className="muted small">{r.zh}</span>
+              </div>
+              {r.islands.length ? (
+                <div className="route-chips">{r.islands.map(chip)}</div>
+              ) : (
+                <span className="muted small">这个单元的词在前面的岛里已经有了，复习就好 👍</span>
+              )}
+            </div>
+          ))}
+        </section>
+      ))}
+
+      <details className="islands-all">
+        <summary>🗺️ 全部单词岛（按话题和核心词分组）</summary>
+        {group("🏝️ 话题岛", "KET 官方话题，每座岛一个主题，还有 Lily 和 Max 的故事。", open.filter((t) => !t.core))}
+        {group("🧩 核心小岛", "不属于任何话题的常用词：小词、动作、描述、时间……", open.filter((t) => t.core))}
+      </details>
 
       {soon.length > 0 && (
         <>
