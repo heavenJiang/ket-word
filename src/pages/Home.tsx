@@ -31,6 +31,11 @@ export function Home(props: {
   finished?: Topic;
   /** Stories the child can open but has not read yet. */
   newStories: number;
+  /** Stories read before and due for another reading. */
+  rereadStories: number;
+  /** The monthly check-up is due. */
+  checkupDue: boolean;
+  onCheckup: () => void;
   onStart: () => void;
   onMap: () => void;
   onStories: () => void;
@@ -38,7 +43,7 @@ export function Home(props: {
   stickers: [number, number];
   onStickers: () => void;
 }) {
-  const { progress, topic, topics, library, finished, newStories, onStart, onMap, onStories, stickers, onStickers } = props;
+  const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
   const plan = todayPlan(library, topics, progress, now);
@@ -134,12 +139,23 @@ export function Home(props: {
         )}
       </section>
 
-      {newStories > 0 && (
+      {checkupDue && (
+        <button className="card story-banner" onClick={onCheckup}>
+          <span className="story-banner-icon">📝</span>
+          <span>
+            <b>月度小测可以做啦</b>
+            <span className="muted small">20 道题，看看这个月记住了多少（不影响单词卡）</span>
+          </span>
+          <span className="muted">›</span>
+        </button>
+      )}
+
+      {(newStories > 0 || rereadStories > 0) && (
         <button className="card story-banner" onClick={onStories}>
           <span className="story-banner-icon">📖</span>
           <span>
-            <b>有 {newStories} 个新故事可以读了！</b>
-            <span className="muted small">你学过的单词都在故事里</span>
+            <b>{newStories > 0 ? `有 ${newStories} 个新故事可以读了！` : `有 ${rereadStories} 个故事可以再读一遍`}</b>
+            <span className="muted small">{newStories > 0 ? "你学过的单词都在故事里" : "隔一段时间再读，单词记得更牢"}</span>
           </span>
           <span className="muted">›</span>
         </button>

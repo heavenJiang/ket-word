@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Library } from "../lib/data";
+import { effect, MIN_ANSWERS, pct, type Rate } from "../lib/effect";
 import { forecast, type Forecast } from "../session/forecast";
 import { daysLeft, FINAL_DAYS } from "../session/goal";
 import { isMastered, retrievability, type CardState } from "../srs/srs";
@@ -148,6 +149,8 @@ export function Parent(props: {
           </ul>
         </section>
       )}
+
+      <EffectPanel progress={progress} now={now} />
 
       <PlanPanel progress={progress} library={library} topics={topics} set={set} />
 
@@ -298,5 +301,92 @@ function ForecastView({ f, minutes, goalDays, now }: { f: Forecast; minutes: num
       {short && <p>⚠️ 学完离日期不到 {FINAL_DAYS} 天，考前冲刺复习的时间不够：可以增加每天的时间。</p>}
       <p className="muted small">按孩子平时的答题速度推算；早就认识、被快速跳过的词没算进去，实际会更快一些。</p>
     </div>
+  );
+}
+
+/**
+ * Whether the plan is working for this child, measured on their own answers. Each number has a target
+ * and, when it is off, the change that usually fixes it.
+ */
+function EffectPanel({ progress, now }: { progress: Progress; now: number }) {
+  const e = useMemo(() => effect(progress, now), [progress, now]);
+  const target = Math.round(progress.settings.retention * 100);
+  const rows: { name: string; how: string; r: Rate; good: (v: number) => boolean; goal: string; fix: string }[] = [
+    {
+      name: "复习时记得",
+      how: "最近 30 天到期复习答对的比例",
+      r: e.recall,
+      good: (v) => v >= target - 8,
+      goal: `约 ${target}%`,
+      fix: "明显偏低：复习间隔对孩子太长，可以调高保持率，或攒够记录后拟合孩子的个人参数",
+    },
+    {
+      name: "新词隔天还记得",
+      how: "新词第一次隔天复习答对的比例",
+      r: e.firstReview,
+      good: (v) => v >= 80,
+      goal: "≥ 80%",
+      fix: "偏低：新词当天没记牢，可以减少每天的新词（把学完日期往后推）",
+    },
+    {
+      name: "快速检查看走眼",
+      how: "被跳过的词，第一次复习答错的比例",
+      r: e.falseKnown,
+      good: (v) => v <= 15,
+      goal: "≤ 15%",
+      fix: "偏高：孩子靠猜蒙过了快速检查，需要把“认识”的标准收紧",
+    },
+    {
+      name: "难词",
+      how: "忘了 3 次以上的词占已学词的比例",
+      r: e.hard,
+      good: (v) => v < 5,
+      goal: "< 5%",
+      fix: "偏高：新词节奏太快，复习跟不上，可以把学完日期往后推",
+    },
+  ];
+  return (
+    <section className="card">
+      <h3>学习效果</h3>
+      <p className="muted small">用孩子自己的答题来检验这套方法是否有效：研究结论不一定适合每个孩子。答题少于 {MIN_ANSWERS} 次的项先不下结论。</p>
+      <ul className="effect">
+        {rows.map((x) => {
+          const v = pct(x.r);
+          const enough = x.r.n >= MIN_ANSWERS;
+          const ok = !enough || x.good(v);
+          return (
+            <li key={x.name} className={ok ? "" : "effect-off"}>
+              <div className="effect-head">
+                <b>{x.name}</b>
+                <span>{enough ? `${v}%` : "数据还不够"}</span>
+              </div>
+              <span className="muted small">
+                {x.how} · 目标 {x.goal}
+                {enough && ` · 共 ${x.r.n} 个`}
+              </span>
+              {!ok && <span className="small">⚠️ {x.fix}</span>}
+            </li>
+          );
+        })}
+        <li>
+          <div className="effect-head">
+            <b>每天实际用时</b>
+            <span>{e.minutes === null ? "数据还不够" : `约 ${e.minutes} 分钟`}</span>
+          </div>
+          <span className="muted small">最近 7 天里学过的日子，按答题用时估算 · 计划每天 {progress.settings.minutes} 分钟</span>
+        </li>
+        <li>
+          <div className="effect-head">
+            <b>月度小测</b>
+            <span>{progress.checkups?.length ? `最近 ${pct({ ok: progress.checkups.at(-1)!.right, n: progress.checkups.at(-1)!.total })}%` : "还没做过"}</span>
+          </div>
+          <span className="muted small">
+            每 30 天抽 20 个学过一周以上的词，看中文选英文，检验“想得起英文”的能力
+            {!!progress.checkups?.length &&
+              " · " + progress.checkups.slice(-6).map((c) => `${new Date(c.t).getMonth() + 1}月 ${c.right}/${c.total}`).join("，")}
+          </span>
+        </li>
+      </ul>
+    </section>
   );
 }

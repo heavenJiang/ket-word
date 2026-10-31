@@ -1,4 +1,5 @@
 import { State, type WordProgress } from "../srs/srs";
+import type { StoryLog } from "../store/progress";
 import type { Story, Topic, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
@@ -61,5 +62,20 @@ export async function loadStories(): Promise<Story[]> {
   return r.ok ? r.json() : [];
 }
 
-/** Island words a story still needs the child to meet before it opens. */
-export const missingFor = (story: Story, progress: Record<string, WordProgress>) => story.needs.filter((id) => !progress[id]);
+/**
+ * A story opens once the child has met most of its words (80%): the few new ones are learnt from the
+ * story itself, and reading sooner means meeting the island's words in context sooner.
+ */
+export const OPEN_SHARE = 0.8;
+
+/** How many more of a story's words the child must meet before it opens; 0 when it is open. */
+export const toOpen = (story: Story, progress: Record<string, WordProgress>) =>
+  Math.max(0, Math.ceil(story.needs.length * OPEN_SHARE) - story.needs.filter((id) => progress[id]).length);
+
+/** Days after a reading before the story is suggested again: further apart each time, like word reviews. */
+export const REREAD_DAYS = [7, 21, 60];
+const DAY = 86_400_000;
+
+/** A story read before and due to be read again. */
+export const rereadDue = (log: StoryLog | undefined, now: number) =>
+  !!log && now - log.last >= REREAD_DAYS[Math.min(log.reads, REREAD_DAYS.length) - 1] * DAY;

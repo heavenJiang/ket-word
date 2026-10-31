@@ -140,10 +140,26 @@ describe("session", () => {
     expect(xs.map((x) => x.wordId)).toEqual(["a", "b", "a", "c"]);
   });
 
-  it("uses the picture question for weak meanings and the Chinese-meaning question for strong ones", () => {
+  it("asks harder as a meaning gets stronger: picture, then Chinese meaning, then the English word", () => {
+    const card = (s: number) => ({ ...review(undefined, Rating.Good, t0), s });
     expect(kindFor("meaning", undefined)).toBe("pickImage");
-    expect(kindFor("meaning", { ...review(undefined, Rating.Good, t0), s: 10 })).toBe("pickMeaning");
+    expect(kindFor("meaning", card(5))).toBe("pickMeaning");
+    expect(kindFor("meaning", card(12))).toBe("pickWord");
     expect(kindFor("spell", undefined)).toBe("tiles");
+  });
+
+  it("retries until right, each retry easier, and only the first answer counts", () => {
+    let s: Session = { steps: [{ type: "q", wordId: "w0", skill: "meaning", kind: "pickWord", graded: true, retry: 0 }], index: 0, answered: [] };
+    const card = { w0: { seen: t0, skills: { meaning: { ...review(undefined, Rating.Good, t0), s: 12 } } } };
+    const kinds: string[] = [];
+    for (let i = 0; i < 2; i++) {
+      s = answer(s, false, card).session;
+      kinds.push(s.steps[s.index].type === "q" ? (s.steps[s.index] as { kind: string }).kind : "");
+    }
+    expect(kinds).toEqual(["pickImage", "pickImage"]);
+    const r = answer(s, true, card);
+    expect(r.grade).toBe(false);
+    expect(r.session.steps).toHaveLength(3); // right on the second retry: no more retries
   });
 });
 
@@ -161,10 +177,12 @@ describe("distractors", () => {
   it("puts familiar words back in sentences for about half their questions", () => {
     const weak = { s: 1 } as CardState;
     const familiar = { s: 10 } as CardState;
+    const middling = { s: 5 } as CardState;
     expect(kindFor("meaning", weak, 0, { gap: true, roll: 0.1 })).toBe("pickImage");
     expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.1 })).toBe("cloze");
-    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.9 })).toBe("pickMeaning");
-    expect(kindFor("meaning", familiar, 0, { gap: false, roll: 0.1 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.9 })).toBe("pickWord");
+    expect(kindFor("meaning", middling, 0, { gap: true, roll: 0.9 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 0, { gap: false, roll: 0.1 })).toBe("pickWord");
     expect(kindFor("meaning", familiar, 1, { gap: true, roll: 0.1 })).toBe("pickImage");
     expect(kindFor("listen", familiar, 0, { roll: 0.1 })).toBe("listenSentence");
     expect(kindFor("listen", weak, 0, { roll: 0.1 })).toBe("listenPick");

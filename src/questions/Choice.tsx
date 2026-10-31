@@ -7,11 +7,12 @@ import type { Accent, Sentence, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
 import { AnswerCard, Picture, SentenceRow, SlowButton, SpeakButton } from "../ui/Picture";
 
-type Kind = "pickImage" | "pickMeaning" | "listenPick" | "cloze" | "listenSentence";
+type Kind = "pickImage" | "pickMeaning" | "pickWord" | "listenPick" | "cloze" | "listenSentence";
 
 const PROMPTS: Record<Kind, string> = {
   pickImage: "听一听，选出对的图片",
   pickMeaning: "这个单词是什么意思？",
+  pickWord: "用英语怎么说？选出对的单词",
   listenPick: "听声音，选出你听到的单词",
   cloze: "选一个词，把句子补完整",
   listenSentence: "听句子，选出句子里说到的图片",
@@ -52,7 +53,7 @@ export function Choice(props: {
   const options = useMemo(() => {
     // a word the sentence also mentions would be a second right answer
     const exclude = sentence ? mentioned(sentence.en, pool) : [];
-    const wrong = distractors(word, pool, 3, Math.random, kind === "listenPick", { samePos: kind === "cloze", exclude });
+    const wrong = distractors(word, pool, 3, Math.random, kind === "listenPick", { samePos: kind === "cloze" || kind === "pickWord", exclude });
     return shuffle([word, ...wrong], Math.random);
   }, [word, pool, kind, sentence]);
   const [picked, setPicked] = useState<string | null>(null);
@@ -72,7 +73,7 @@ export function Choice(props: {
   const listen = (slow = false) => (sentence && kind === "listenSentence" ? playText(sentence, accent, slow) : playWord(word, accent, slow));
 
   useEffect(() => {
-    if (kind === "pickMeaning" || kind === "cloze") return;
+    if (kind === "pickMeaning" || kind === "pickWord" || kind === "cloze") return; // hearing it would give the answer away
     const t = setTimeout(() => listen(), 300);
     return () => clearTimeout(t);
   }, [word, kind, accent]);
@@ -87,7 +88,7 @@ export function Choice(props: {
     if (correct) {
       // hear the whole sentence once it is complete: the word in context is the point of the question
       if (sentence) setTimeout(() => playText(sentence, accent), 300);
-      else if (kind === "pickMeaning") playWord(word, accent);
+      else if (kind === "pickMeaning" || kind === "pickWord") playWord(word, accent);
       // long enough to read the answer card (and hear the sentence), not so long that a quick child waits
       timer.current = setTimeout(next, sentence ? 3200 : 2200);
     } else {
@@ -117,6 +118,12 @@ export function Choice(props: {
           </>
         )}
         {kind === "pickMeaning" && <div className="stem-word stem-word-big">{word.word}</div>}
+        {kind === "pickWord" && (
+          <div className="stem-meaning">
+            {word.media.img && <Picture word={word} size="sm" />}
+            <div className="stem-word stem-word-big">{word.zh}</div>
+          </div>
+        )}
         {(kind === "listenPick" || kind === "listenSentence") && (
           <>
             <SpeakButton onClick={() => listen()} label={kind === "listenSentence" ? "再听一遍句子" : "再听一遍"} size="lg" ms={kind === "listenSentence" ? 2600 : 1200} />
@@ -140,7 +147,7 @@ export function Choice(props: {
             <button key={o.id} className={`opt ${state(o)}`} onClick={() => choose(o)}>
               {PICTURE_KINDS.includes(kind) && <Picture word={o} size="sm" />}
               {kind === "pickMeaning" && <span className="opt-text">{o.zh}</span>}
-              {(kind === "listenPick" || kind === "cloze") && <span className="opt-text opt-en">{o.word}</span>}
+              {(kind === "listenPick" || kind === "cloze" || kind === "pickWord") && <span className="opt-text opt-en">{o.word}</span>}
             </button>
           ),
         )}

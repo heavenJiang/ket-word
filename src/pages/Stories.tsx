@@ -1,4 +1,4 @@
-import { missingFor } from "../lib/data";
+import { rereadDue, toOpen } from "../lib/data";
 import type { Progress } from "../store/progress";
 import type { Story, Topic } from "../types";
 
@@ -7,6 +7,7 @@ const base = import.meta.env.BASE_URL;
 /** The story book: each open island's stories, read ones with their score, locked ones with how far to go. */
 export function Stories(props: { stories: Story[]; topics: Topic[]; progress: Progress; onRead: (s: Story) => void }) {
   const { stories, topics, progress, onRead } = props;
+  const now = Date.now();
   // the island the child is on first
   const open = topics
     .filter((t) => t.ready && stories.some((s) => s.topic === t.id))
@@ -15,33 +16,36 @@ export function Stories(props: { stories: Story[]; topics: Topic[]; progress: Pr
   return (
     <div className="page">
       <h2>故事书</h2>
-      <p className="muted">学会岛上的单词，就能读到 Lily 和 Max 的新故事。读完答对问题，还能得 ⭐。</p>
+      <p className="muted">认识故事里大部分单词，就能读到 Lily 和 Max 的新故事。读完答对问题，还能得 ⭐。读过的故事过一阵再读一遍，单词记得更牢。</p>
       {open.map((t) => (
         <section key={t.id}>
           <h3>{t.zh}</h3>
           <div className="books">
             {stories
               .filter((s) => s.topic === t.id)
-              .sort((a, b) => missingFor(a, progress.words).length - missingFor(b, progress.words).length) // ready to read first
+              .sort((a, b) => toOpen(a, progress.words) - toOpen(b, progress.words)) // ready to read first
               .map((s) => {
-                const missing = missingFor(s, progress.words);
+                const missing = toOpen(s, progress.words);
                 const log = progress.stories[s.id];
+                const again = rereadDue(log, now);
                 const cover = s.pages[0]?.img;
                 return (
-                  <button key={s.id} className={`book ${missing.length ? "book-locked" : ""}`} disabled={missing.length > 0} onClick={() => onRead(s)}>
+                  <button key={s.id} className={`book ${missing ? "book-locked" : ""}`} disabled={missing > 0} onClick={() => onRead(s)}>
                     <div className="book-cover">
                       {cover ? <img src={base + cover} alt="" draggable={false} /> : <span>📖</span>}
-                      {missing.length > 0 && <span className="book-lock">🔒</span>}
+                      {missing > 0 && <span className="book-lock">🔒</span>}
                       {log && <span className="book-done">✓</span>}
                     </div>
                     <b className="book-title">{s.title}</b>
                     <span className="book-zh">{s.zh}</span>
                     <span className="book-state">
-                      {missing.length
-                        ? `再学 ${missing.length} 个词就能读`
-                        : log
-                          ? `读过 ${log.reads} 次 · 答对 ${log.best}/${s.questions.length}`
-                          : "新故事！"}
+                      {missing
+                        ? `再学 ${missing} 个词就能读`
+                        : again
+                          ? "🔁 可以再读一遍啦"
+                          : log
+                            ? `读过 ${log.reads} 次 · 答对 ${log.best}/${s.questions.length}`
+                            : "新故事！"}
                     </span>
                   </button>
                 );
