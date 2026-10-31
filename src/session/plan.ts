@@ -11,8 +11,6 @@ export interface Plan {
   reviews: Task[];
   /** Words to meet for the first time today. */
   newWords: string[];
-  /** The words after them, for the quick check: each one the child already knows makes room for one of these. */
-  spare: string[];
   /** Due skills left out because of today's time; a lot of them means "catch-up mode". */
   backlog: number;
 }
@@ -87,5 +85,5 @@ export function buildPlan(
   const limit = catchUp ? 0 : Math.max(0, opt.newPerDay - opt.newToday);
   const fresh = newOrder.filter((id) => !progress[id] && canStart(id));
 
-  return { reviews, newWords: fresh.slice(0, limit), spare: fresh.slice(limit, limit * 2), backlog };
+  return { reviews, newWords: fresh.slice(0, limit), backlog };
 }

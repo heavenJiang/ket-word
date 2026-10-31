@@ -244,7 +244,7 @@ function PlanPanel({ progress, library, topics, set }: { progress: Progress; lib
     <section className="card settings">
       <h3>学习计划</h3>
       <p className="muted small">
-        定一个学完全部 {library.all.length} 个词的日期，应用把还没学的词平均分到剩下的日子里（最后 {FINAL_DAYS} 天只复习、不学新词），每天剩下的时间用来复习。每天都会重新分配，漏学几天也会自动摊开。已经会的词在学之前快速检查一下就能跳过。
+        定一个学完全部 {library.all.length} 个词的日期，应用把还没学的词平均分到剩下的日子里（最后 {FINAL_DAYS} 天只复习、不学新词），每天剩下的时间用来复习。每天都会重新分配，漏学几天也会自动摊开。
       </p>
       <label>
         学完日期
@@ -300,7 +300,7 @@ function ForecastView({ f, minutes, goalDays, now }: { f: Forecast; minutes: num
       {late && <p>⚠️ 按每天 {minutes} 分钟赶不上学完日期：可以把日期往后推，或者增加每天的时间。</p>}
       {!late && over && <p>⚠️ 为了赶上日期，忙的日子会超过每天 {minutes} 分钟：可以把日期往后推一些。</p>}
       {short && <p>⚠️ 学完离日期不到 {FINAL_DAYS} 天，考前冲刺复习的时间不够：可以增加每天的时间。</p>}
-      <p className="muted small">按孩子平时的答题速度推算；早就认识、被快速跳过的词没算进去，实际会更快一些。</p>
+      <p className="muted small">按孩子平时的答题速度推算。</p>
     </div>
   );
 }
@@ -328,14 +328,6 @@ function EffectPanel({ progress, now }: { progress: Progress; now: number }) {
       good: (v) => v >= 80,
       goal: "≥ 80%",
       fix: "偏低：新词当天没记牢，可以减少每天的新词（把学完日期往后推）",
-    },
-    {
-      name: "快速检查看走眼",
-      how: "被跳过的词，第一次复习答错的比例",
-      r: e.falseKnown,
-      good: (v) => v <= 15,
-      goal: "≤ 15%",
-      fix: "偏高：孩子靠猜蒙过了快速检查，需要把“认识”的标准收紧",
     },
     {
       name: "难词",

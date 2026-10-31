@@ -2,7 +2,6 @@ import { describe, expect, it } from "vitest";
 import { emptyProgress, recordGrade, type Progress } from "../store/progress";
 import { Rating } from "../srs/srs";
 import { FINAL_DAYS, NEW_WORD_SECS, secsPerReview, targets } from "./goal";
-import { isKnown } from "../questions/QuickCheck";
 
 const DAY = 86_400_000;
 const now = new Date(2026, 10, 1, 18).getTime();
@@ -54,20 +53,12 @@ describe("targets", () => {
   });
 });
 
-describe("quick check and the answer log", () => {
-  it("counts a quick right answer as known, a slow or hinted one not", () => {
-    const a = { correct: true, hinted: false, mistakes: 0, ms: 2000 };
-    expect(isKnown(a, 1.3)).toBe(true);
-    expect(isKnown({ ...a, ms: 6000 }, 1.3)).toBe(false);
-    expect(isKnown({ ...a, hinted: true }, 1.3)).toBe(false);
-    expect(isKnown({ ...a, correct: false }, 1.3)).toBe(false);
-  });
-
-  it("logs every graded answer and keeps known words out of the new-word count", () => {
-    let p = recordGrade(emptyProgress(), "cat", "meaning", Rating.Easy, now, 1800, true);
-    p = recordGrade(p, "dog", "meaning", Rating.Good, now, 2500);
+describe("the answer log", () => {
+  it("logs every graded answer, marking a word's first one as new", () => {
+    let p = recordGrade(emptyProgress(), "cat", "meaning", Rating.Good, now, 1800);
+    p = recordGrade(p, "cat", "meaning", Rating.Good, now + 1000, 2500);
     const day = Object.values(p.days)[0];
-    expect(day).toMatchObject({ answered: 2, newWords: 1, known: 1 });
-    expect(p.log?.map((e) => [e[1], e[5]])).toEqual([["cat", 2], ["dog", 1]]);
+    expect(day).toMatchObject({ answered: 2, newWords: 1 });
+    expect(p.log?.map((e) => [e[1], e[5]])).toEqual([["cat", 1], ["cat", 0]]);
   });
 });

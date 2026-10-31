@@ -27,8 +27,7 @@ function rand(seed: number) {
 /**
  * Play the plan forward one day at a time from the child's real progress, using the app's own
  * planner and memory model: each review is recalled with the odds the model predicts, each new
- * word is recalled nine times in ten. Words the quick check would skip are not counted, so the
- * forecast errs on the long side. Yields to the page every few days so it never freezes it.
+ * word is recalled nine times in ten. Yields to the page every few days so it never freezes it.
  */
 export async function forecast(start: Progress, library: Library, topics: Topic[], now: number): Promise<Forecast> {
   const per = secsPerReview(start);

@@ -18,20 +18,17 @@ describe("effect", () => {
     expect(effect(p, t0 + DAY).firstReview).toEqual({ ok: 1, n: 2 });
   });
 
-  it("counts quick-check words missed on their first review as let through", () => {
-    let p = recordGrade(emptyProgress(), "cat", "meaning", Rating.Easy, t0, 1500, true);
-    p = recordGrade(p, "dog", "meaning", Rating.Easy, t0, 1500, true);
+  it("scores review recall over the last 30 days", () => {
+    let p = recordGrade(emptyProgress(), "cat", "meaning", Rating.Good, t0, 1500);
     p = recordGrade(p, "cat", "meaning", Rating.Again, t0 + 8 * DAY, 2000);
-    p = recordGrade(p, "dog", "meaning", Rating.Good, t0 + 8 * DAY, 2000);
-    const e = effect(p, t0 + 8 * DAY);
-    expect(e.falseKnown).toEqual({ ok: 1, n: 2 });
-    expect(e.recall).toEqual({ ok: 1, n: 2 });
+    p = recordGrade(p, "cat", "meaning", Rating.Good, t0 + 9 * DAY, 2000);
+    expect(effect(p, t0 + 9 * DAY).recall).toEqual({ ok: 1, n: 2 });
   });
 
   it("estimates minutes a day from answer times", () => {
     let p = emptyProgress();
-    for (let i = 0; i < 30; i++) p = recordGrade(p, `w${i}`, "meaning", Rating.Good, t0 + i, 6000, true);
-    expect(effect(p, t0).minutes).toBe(5); // 30 × (6 s + 4 s answer card)
+    for (let i = 0; i < 30; i++) p = recordGrade(p, "w0", "meaning", Rating.Good, t0 + i, 6000);
+    expect(effect(p, t0).minutes).toBe(6); // 30 × (6 s + 4 s answer card) + 30 s for the one new word
   });
 });
 

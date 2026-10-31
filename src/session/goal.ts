@@ -4,7 +4,7 @@ const DAY = 86_400_000;
 
 /** The last weeks before the goal take no new words: they are for making everything stick. */
 export const FINAL_DAYS = 21;
-/** Time for one new word: the quick check, meeting it, the match game, a practice and the final recall. */
+/** Time for one new word: meeting it, the match game, a practice and the final recall. */
 export const NEW_WORD_SECS = 45;
 /** Time for one review before the child has answered enough of them to measure. */
 const DEFAULT_REVIEW_SECS = 10;

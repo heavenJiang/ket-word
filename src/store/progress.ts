@@ -23,14 +23,14 @@ export interface DayLog {
   answered: number;
   correct: number;
   newWords: number;
-  /** Words the child already knew, passed by the quick check without being taught. */
+  /** Words passed as already known by the quick check of earlier versions; still counted for their day. */
   known?: number;
   stars: number;
 }
 
 /**
  * One graded answer: when, word, skill (index in SKILLS), FSRS grade, milliseconds to answer, and
- * 0 review · 1 new word · 2 already known. Kept so the scheduler can later be fitted to this child.
+ * 0 review · 1 new word (2: already known, from earlier versions). Kept so the scheduler can later be fitted to this child.
  */
 export type LogEntry = [t: number, wordId: string, skill: number, grade: number, ms: number, kind: 0 | 1 | 2];
 /** About 1.5 MB of storage at most; the oldest answers go first. */
@@ -154,21 +154,17 @@ export function planOptions(p: Progress, now: number, unstarted: number) {
     retention: p.settings.retention,
     examAt: t.examAt,
     newToday: day?.newWords ?? 0,
-    // every graded answer is a new word's first answer, a known word's check, or a review
+    // every graded answer is a new word's first answer or a review
     reviewedToday: day ? day.answered - startedToday : 0,
   };
 }
 
 const emptyDay = (): DayLog => ({ answered: 0, correct: 0, newWords: 0, stars: 0 });
 
-/**
- * Apply one graded answer: update the skill's memory card, today's log and the answer log.
- * `known` marks a word passed by the quick check: started, but not counted as a new word taught today.
- */
-export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number, ms = 0, known = false): Progress {
+/** Apply one graded answer: update the skill's memory card, today's log and the answer log. */
+export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number, ms = 0): Progress {
   const prev = p.words[wordId];
-  const isNew = !prev && !known;
-  const isKnown = !prev && known;
+  const isNew = !prev;
   const word: WordProgress = prev ?? { seen: now, skills: {} };
   const card = review(word.skills[skill], grade, now, p.settings.retention);
   const correct = grade !== Rating.Again;
@@ -181,11 +177,10 @@ export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Gr
       answered: day.answered + 1,
       correct: day.correct + (correct ? 1 : 0),
       newWords: day.newWords + (isNew ? 1 : 0),
-      known: (day.known ?? 0) + (isKnown ? 1 : 0),
       stars: day.stars + star,
     },
   };
-  const entry: LogEntry = [now, wordId, SKILLS.indexOf(skill), grade, Math.round(ms), isNew ? 1 : isKnown ? 2 : 0];
+  const entry: LogEntry = [now, wordId, SKILLS.indexOf(skill), grade, Math.round(ms), isNew ? 1 : 0];
   const log = [...(p.log ?? []), entry];
   return {
     ...p,
