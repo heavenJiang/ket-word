@@ -59,6 +59,7 @@ export const SKILLS: Skill[] = ["meaning", "listen", "spell"];
 export type QuestionKind =
   | "pickImage" // hear + see the word, pick the picture       (meaning)
   | "pickMeaning" // see the word, pick the Chinese meaning     (meaning)
+  | "pickWord" // see the meaning (and picture), pick the English word (meaning, once it is strong)
   | "listenPick" // hear only, pick the written word            (listen)
   | "cloze" // read a sentence with a gap, pick the word        (meaning, once it is familiar)
   | "listenSentence" // hear a sentence, pick its picture       (listen, once it is familiar)

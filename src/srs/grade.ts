@@ -16,6 +16,7 @@ export function slowMs(kind: QuestionKind, letters = 0): number {
     case "pickImage":
       return 5000;
     case "pickMeaning":
+    case "pickWord":
     case "listenPick":
       return 6000;
     case "listenSentence":

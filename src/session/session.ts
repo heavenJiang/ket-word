@@ -21,28 +21,39 @@ export interface Session {
 export const GROUP_SIZE = 4;
 /** A wrong answer comes back after this many other questions… */
 export const RETRY_GAP = 3;
-/** …at most this many times, and never counts toward the score. */
-export const MAX_RETRIES = 2;
+/**
+ * …until it is answered right (at most this many times, each easier than the last), and never counts
+ * toward the score: a word is not left behind on a miss, it is relearnt in the same session.
+ */
+export const MAX_RETRIES = 3;
 
 export const keyOf = (wordId: string, skill: Skill) => `${wordId}:${skill}`;
 
 /** Stability (days) from which a meaning is asked in a sentence, and a listening card hears a whole sentence. */
 export const SENTENCE_MEANING_S = 3;
 export const SENTENCE_LISTEN_S = 5;
+/** Stability (days) from which a meaning is asked the productive way: see the meaning, pick the English word. */
+export const PRODUCE_S = 10;
 
 /**
- * Question type for a skill. Weak meanings get the easier picture question; once a word is familiar,
- * half its questions put it back in a sentence (fill the gap, or hear a sentence and pick the picture),
- * so words are met in context without adding questions. Retries switch to a single-word type.
- * `roll` is a random number in [0, 1); `gap` says whether the word has a sentence with the word in it.
+ * Question type for a skill, harder as the memory gets stronger. A weak meaning gets the picture
+ * question (hear and see the word); a familiar one the Chinese-meaning question; a strong one is asked
+ * the productive way (see the meaning, pick the English), since recognising a word does not mean being
+ * able to come up with it. Familiar words also go back in a sentence for half their questions (fill the
+ * gap, or hear a sentence and pick the picture). Retries get easier: another single-word type first,
+ * then the picture question. `roll` is a random number in [0, 1); `gap` says whether the word has a
+ * sentence with the word in it.
  */
 export function kindFor(skill: Skill, card: CardState | undefined, retry = 0, opt: { gap?: boolean; roll?: number } = {}): QuestionKind {
   const sentence = retry === 0 && (opt.roll ?? 1) < 0.5;
   if (skill === "listen") return sentence && card && card.s >= SENTENCE_LISTEN_S ? "listenSentence" : "listenPick";
   if (skill === "spell") return "tiles";
   const easy = !card || card.s < SENTENCE_MEANING_S;
+  if (retry > 1) return "pickImage";
+  if (retry === 1) return easy ? "pickMeaning" : "pickImage";
   if (!easy && sentence && opt.gap) return "cloze";
-  return easy === (retry % 2 === 0) ? "pickImage" : "pickMeaning";
+  if (easy) return "pickImage";
+  return card.s >= PRODUCE_S ? "pickWord" : "pickMeaning";
 }
 
 /** Reorder so the same word never appears twice in a row when it can be avoided. */
@@ -126,8 +137,8 @@ export function answer(
     const card = progress[step.wordId]?.skills[step.skill];
     const at = Math.min(steps.length, s.index + 1 + RETRY_GAP);
     let kind = kindFor(step.skill, card, retry);
-    // a retry asks another way: the final recall of a new word is a meaning question, so its retry is a picture one
-    if (kind === step.kind && step.skill === "meaning") kind = kind === "pickImage" ? "pickMeaning" : "pickImage";
+    // the first retry asks another way: the final recall of a new word is a meaning question, so its retry is a picture one
+    if (retry === 1 && kind === step.kind && step.skill === "meaning") kind = kind === "pickImage" ? "pickMeaning" : "pickImage";
     steps.splice(at, 0, { ...step, kind, graded: false, retry });
   }
   return {

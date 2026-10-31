@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { loadIndex, loadLibrary, loadStories, missingFor, type AppIndex, type Library } from "./lib/data";
+import { loadIndex, loadLibrary, loadStories, rereadDue, toOpen, type AppIndex, type Library } from "./lib/data";
 import { Cards } from "./pages/Cards";
 import { Home } from "./pages/Home";
 import { Learn } from "./pages/Learn";
@@ -8,13 +8,14 @@ import { Parent } from "./pages/Parent";
 import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { giveStickers, loadProgress, recordStory, saveProgress, type Progress } from "./store/progress";
+import { checkupWords, giveStickers, loadProgress, recordCheckup, recordStory, saveProgress, type Progress } from "./store/progress";
+import { Checkup } from "./pages/Checkup";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
 import { learningOrder, nextIsland } from "./session/today";
 import type { Story, Topic } from "./types";
 import { Max } from "./ui/Max";
 
-type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers";
+type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers" | "checkup";
 
 const NAV: { id: Page; icon: string; label: string }[] = [
   { id: "home", icon: "🏠", label: "首页" },
@@ -91,6 +92,19 @@ export function App() {
       />
     );
 
+  if (page === "checkup")
+    return (
+      <Checkup
+        wordIds={checkupWords(progress, Date.now())}
+        library={library}
+        accent={progress.settings.accent}
+        sound={progress.settings.sound}
+        last={progress.checkups?.at(-1)}
+        onDone={(r) => setProgress((p) => recordCheckup(p, r))}
+        onExit={() => setPage("home")}
+      />
+    );
+
   if (page === "learn")
     return <Learn words={words} library={library} topics={index.topics} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
 
@@ -104,7 +118,10 @@ export function App() {
             topics={index.topics}
             library={library}
             finished={finished}
-            newStories={stories.filter((s) => !progress.stories[s.id] && missingFor(s, progress.words).length === 0).length}
+            newStories={stories.filter((s) => !progress.stories[s.id] && toOpen(s, progress.words) === 0).length}
+            rereadStories={stories.filter((s) => rereadDue(progress.stories[s.id], Date.now())).length}
+            checkupDue={checkupWords(progress, Date.now()).length > 0}
+            onCheckup={() => setPage("checkup")}
             onStart={() => setPage("learn")}
             onMap={() => setPage("map")}
             onStories={() => setPage("stories")}

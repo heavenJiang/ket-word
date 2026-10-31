@@ -58,7 +58,34 @@ export interface Progress {
   records: { combo: number; streak: number };
   /** Every graded answer, oldest first. */
   log?: LogEntry[];
+  /** Monthly check-ups: see the meaning, pick the English, for a sample of words met; memory cards untouched. */
+  checkups?: Checkup[];
 }
+
+export interface Checkup {
+  t: number;
+  right: number;
+  total: number;
+}
+
+/** A check-up comes round this often, once enough words have been met to sample. */
+export const CHECKUP_DAYS = 30;
+export const CHECKUP_SIZE = 20;
+/** Only words met at least this long ago are sampled: a check-up measures what lasted. */
+const CHECKUP_AGE_DAYS = 7;
+
+/** Words a check-up may ask, or none when it is not due yet. */
+export function checkupWords(p: Progress, now: number): string[] {
+  const day = 86_400_000;
+  const met = Object.entries(p.words);
+  const first = Math.min(...met.map(([, w]) => w.seen));
+  const last = p.checkups?.at(-1)?.t ?? first;
+  if (!met.length || now - last < CHECKUP_DAYS * day) return [];
+  const old = met.filter(([, w]) => w.skills.meaning && now - w.seen >= CHECKUP_AGE_DAYS * day).map(([id]) => id);
+  return old.length >= CHECKUP_SIZE * 2 ? old : [];
+}
+
+export const recordCheckup = (p: Progress, c: Checkup): Progress => ({ ...p, checkups: [...(p.checkups ?? []), c] });
 
 const KEY = "ket-word:progress";
 

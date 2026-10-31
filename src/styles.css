@@ -496,3 +496,8 @@ h3 {
 .forecast { background: var(--sky-soft); border-radius: 14px; padding: 10px 14px; font-size: 0.92rem; }
 .forecast p { margin: 4px 0; }
 .forecast-warn { background: var(--primary-soft); }
+.stem-meaning { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.effect { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.effect li { display: flex; flex-direction: column; gap: 2px; padding: 8px 12px; border-radius: 12px; background: var(--green-soft); }
+.effect li.effect-off { background: var(--primary-soft); }
+.effect-head { display: flex; justify-content: space-between; gap: 8px; }
