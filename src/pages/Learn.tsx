@@ -17,6 +17,8 @@ import { Picture } from "../ui/Picture";
 
 /** Bonus stars for finishing a session. */
 const FINISH_BONUS = 3;
+/** Questions in a round: a long day is cut into short rounds, each ending with a small celebration. */
+const ROUND = 10;
 
 export function Learn(props: {
   /** The current island, in learning order: where new words come from. */
@@ -40,6 +42,8 @@ export function Learn(props: {
   /** Right answers in a row, retries included: a small "on fire" reward for focus. */
   const [combo, setCombo] = useState(0);
   const [finished, setFinished] = useState(false);
+  /** This round so far: questions answered and stars won; `pause` shows the end-of-round screen. */
+  const [round, setRound] = useState({ n: 0, stars: 0, num: 1, pause: false });
 
   const step = current(session);
   const total = session.steps.length;
@@ -52,11 +56,16 @@ export function Learn(props: {
     const run = a.correct ? combo + 1 : 0;
     setCombo(run);
     if (run > progress.records.combo) setProgress((p) => recordCombo(p, run));
+    const star = r.grade && (grade === Rating.Good || grade === Rating.Easy) ? 1 : 0;
     if (r.grade) {
       setProgress((p) => recordGrade(p, step.wordId, step.skill, grade, Date.now(), a.ms));
-      const star = grade === Rating.Good || grade === Rating.Easy ? 1 : 0;
       setTally((t) => ({ right: t.right + (a.correct ? 1 : 0), total: t.total + 1, stars: t.stars + star }));
     }
+    const n = round.n + 1;
+    // a round ends after ROUND questions, unless the day is about to end anyway
+    const pause = n >= ROUND && questionsLeft(r.session) >= ROUND / 2;
+    setRound({ ...round, n, stars: round.stars + star, pause });
+    if (pause) sfx("done", settings.sound);
     next(r.session);
   };
 
@@ -125,6 +134,30 @@ export function Learn(props: {
     );
   }
 
+  if (round.pause) {
+    const left = Math.ceil(questionsLeft(session) / ROUND);
+    return (
+      <div className="page center round-break">
+        <Confetti />
+        <Max pose="cheer" size="lg" say={`第 ${round.num} 关完成！这一关得了 ${round.stars} 颗 ⭐`} />
+        <div className="round-dots" aria-label={`还剩 ${left} 关`}>
+          {Array.from({ length: round.num + left }, (_, i) => (
+            <span key={i} className={i < round.num ? "round-dot round-done" : "round-dot"}>
+              {i < round.num ? "⭐" : i + 1}
+            </span>
+          ))}
+        </div>
+        <p className="muted">还剩 {left} 关。累了可以先休息，做过的题都已经记下来了。</p>
+        <button className="btn btn-primary btn-huge" onClick={() => setRound({ n: 0, stars: 0, num: round.num + 1, pause: false })}>
+          再来一关 💪
+        </button>
+        <button className="btn btn-ghost" onClick={onExit}>
+          今天先到这里
+        </button>
+      </div>
+    );
+  }
+
   if (!step) return null;
   return (
     <div className="page learn">
@@ -140,6 +173,7 @@ export function Learn(props: {
             🔥×{combo}
           </span>
         )}
+        <span className="round-tag">第 {round.num} 关</span>
         <span key={tally.stars} className="learn-stars">
           ⭐ {tally.stars}
         </span>
@@ -149,6 +183,7 @@ export function Learn(props: {
           key={session.index}
           words={step.wordIds.map((id) => byId.get(id)!)}
           accent={settings.accent}
+          sound={settings.sound}
           onDone={() => next(advance(session))}
         />
       ) : step.type === "match" ? (
@@ -198,3 +233,6 @@ function Confetti() {
 }
 
 const CONFETTI = ["#ff8a3d", "#4cb8ff", "#2fbf71", "#ffc531", "#ff5a8a"];
+
+/** Questions still ahead in the session. */
+const questionsLeft = (s: { steps: { type: string }[]; index: number }) => s.steps.slice(s.index).filter((x) => x.type === "q").length;

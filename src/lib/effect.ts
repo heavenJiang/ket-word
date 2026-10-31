@@ -59,10 +59,18 @@ export function effect(p: Progress, now: number): Effect {
   const hard = { ok: words.filter((w) => Object.values(w.skills).some((c) => c && c.lapses >= 3)).length, n: words.length };
 
   const days = new Map<string, number>();
-  for (const e of log) if (e[0] > now - 7 * DAY) days.set(dayKey(e[0]), (days.get(dayKey(e[0])) ?? 0) + e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0));
+  const week = log.filter((e) => e[0] > now - 7 * DAY);
+  if (week.length >= MIN_ANSWERS) for (const e of week) days.set(dayKey(e[0]), (days.get(dayKey(e[0])) ?? 0) + e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0));
   const minutes = days.size ? Math.round([...days.values()].reduce((a, b) => a + b, 0) / days.size / 60) : null;
 
   return { recall, firstReview, hard, minutes };
+}
+
+/** Minutes spent on the given local day, estimated from answer times like `effect`. */
+export function minutesOn(p: Progress, day: string): number {
+  let secs = 0;
+  for (const e of p.log ?? []) if (dayKey(e[0]) === day) secs += e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0);
+  return Math.round(secs / 60);
 }
 
 /** Below this many answers a share is shown as "not enough data yet". */
