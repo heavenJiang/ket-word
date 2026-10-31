@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { playSentence, playWord } from "../lib/audio";
+import { playRecording, playSentence, playWord, stop } from "../lib/audio";
 import type { Accent, Word } from "../types";
 import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
@@ -36,7 +36,7 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
         <div className="intro-ipa">{w.ipa}</div>
         <Senses word={w} />
         <SentenceRow en={w.sentence.en} zh={w.sentence.zh} onPlay={() => playSentence(w, accent)} />
-        <Echo key={w.id} />
+        <Echo key={w.id} text={w.sentence.en} />
       </div>
       <div className="row">
         {i > 0 && (
@@ -52,13 +52,24 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
   );
 }
 
-/** Record the child saying the word and play it back, so they can compare with the model. */
-function Echo() {
+/**
+ * Longest a recording runs before it stops by itself: a child reads about one word a second,
+ * plus time to start. The child can also tap again to finish early.
+ */
+const echoMs = (text: string) => Math.min(15000, 3000 + text.split(/\s+/).length * 1000);
+
+/** Record the child reading the sentence and play it back, so they can compare with the model. */
+function Echo({ text }: { text: string }) {
   const [state, setState] = useState<"idle" | "rec" | "ready" | "denied">("idle");
   const url = useRef<string | null>(null);
   const rec = useRef<MediaRecorder | null>(null);
+  /** Set while the microphone is being opened, so a double tap never starts two recordings. */
+  const opening = useRef(false);
+  const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
 
   useEffect(() => () => {
+    clearTimeout(timer.current);
+    stop();
     if (url.current) URL.revokeObjectURL(url.current);
     rec.current?.stream.getTracks().forEach((t) => t.stop());
   }, []);
@@ -66,26 +77,34 @@ function Echo() {
   if (typeof MediaRecorder === "undefined" || !navigator.mediaDevices) return null;
 
   const start = async () => {
+    if (opening.current || rec.current?.state === "recording") return;
+    opening.current = true;
+    stop(); // the model voice would end up in the recording
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
       const r = new MediaRecorder(stream);
       const chunks: Blob[] = [];
       r.ondataavailable = (e) => chunks.push(e.data);
       r.onstop = () => {
+        clearTimeout(timer.current);
         stream.getTracks().forEach((t) => t.stop());
         if (url.current) URL.revokeObjectURL(url.current);
         url.current = URL.createObjectURL(new Blob(chunks, { type: r.mimeType }));
         setState("ready");
-        new Audio(url.current).play().catch(() => {});
+        playRecording(url.current);
       };
       rec.current = r;
       r.start();
       setState("rec");
-      setTimeout(() => r.state === "recording" && r.stop(), 2500);
+      timer.current = setTimeout(() => r.state === "recording" && r.stop(), echoMs(text));
     } catch {
       setState("denied");
+    } finally {
+      opening.current = false;
     }
   };
+
+  const finish = () => rec.current?.state === "recording" && rec.current.stop();
 
   return (
     <div className="echo">
@@ -93,11 +112,11 @@ function Echo() {
         <span className="muted">没有麦克风权限，大声读三遍也很棒！</span>
       ) : (
         <>
-          <button className={`btn btn-small ${state === "rec" ? "btn-rec" : ""}`} onClick={start} disabled={state === "rec"}>
-            {state === "rec" ? "🎙️ 正在听你说…" : "🎤 跟我读"}
+          <button className={`btn btn-small ${state === "rec" ? "btn-rec" : ""}`} onClick={state === "rec" ? finish : start}>
+            {state === "rec" ? "🎙️ 读完了，点我" : "🎤 跟我读"}
           </button>
           {state === "ready" && (
-            <button className="btn btn-small btn-ghost" onClick={() => url.current && new Audio(url.current).play()}>
+            <button className="btn btn-small btn-ghost" onClick={() => url.current && playRecording(url.current)}>
               ▶️ 听听我的
             </button>
           )}
