@@ -63,6 +63,7 @@ export function targets(p: Progress, now: number, remaining: number): Targets {
   const examAt = left <= FINAL_DAYS ? goalAt(p) : undefined;
   // behind schedule inside the last weeks: keep going, finishing a week before the goal
   const days = left > FINAL_DAYS ? left - FINAL_DAYS : Math.max(1, left - 7);
-  const n = remaining === 0 ? 0 : Math.min(MAX_NEW_PER_DAY, Math.ceil(remaining / days));
+  // a quick learner may take more than the goal needs: the goal is then simply reached sooner
+  const n = remaining === 0 ? 0 : Math.min(MAX_NEW_PER_DAY, remaining, Math.max(Math.ceil(remaining / days), p.settings.minNew ?? 0));
   return { newPerDay: n, reviewCap: reviewCap(n), reviewCapAlone, phase: n > 0 ? "learn" : "final", examAt };
 }

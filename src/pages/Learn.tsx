@@ -26,6 +26,8 @@ export function Learn(props: {
   library: Library;
   topics: Topic[];
   progress: Progress;
+  /** Learn this many more new words after the day's plan is done. */
+  extra?: number;
   setProgress: (f: (p: Progress) => Progress) => void;
   onExit: () => void;
 }) {
@@ -35,7 +37,7 @@ export function Learn(props: {
   const factor = ageFactor(progress.profile?.age ?? 9);
 
   const [session, setSession] = useState(() => {
-    const plan = todayPlan(library, topics, progress, Date.now());
+    const plan = todayPlan(library, topics, progress, Date.now(), props.extra);
     return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });

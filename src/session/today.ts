@@ -17,10 +17,20 @@ export function nextIsland(topics: Topic[], library: Library, progress: Progress
 }
 
 /**
+ * "One more group" after the day's plan is done: `extra` new words on top of those met today, and
+ * only the reviews still waiting (none, normally, once the plan is done).
+ */
+const extraOptions = (opt: ReturnType<typeof planOptions>, extra: number) =>
+  extra > 0 ? { ...opt, newPerDay: opt.newToday + extra, reviewCap: opt.reviewedToday + opt.reviewCap } : opt;
+
+/** Most new words in a day, extra groups included: past this the child is told to rest, as reviews pile up. */
+export const extraCap = (planned: number) => Math.max(16, planned * 2);
+
+/**
  * Today's plan: reviews from every island, new words from the current island first and then the
  * islands after it on the course route, so a goal is never held up by an island running out of words.
  */
-export function todayPlan(library: Library, topics: Topic[], progress: Progress, now: number): Plan {
+export function todayPlan(library: Library, topics: Topic[], progress: Progress, now: number, extra = 0): Plan {
   const open = routeOrder(topics);
   const i = Math.max(0, open.indexOf(progress.topic));
   const newOrder = [...open.slice(i), ...open.slice(0, i)].flatMap((id) => learningOrder(library.topics[id] ?? []).map((w) => w.id));
@@ -29,7 +39,7 @@ export function todayPlan(library: Library, topics: Topic[], progress: Progress,
     library.all.map((w) => w.id),
     progress.words,
     now,
-    planOptions(progress, now, unstarted),
+    extraOptions(planOptions(progress, now, unstarted), extra),
     [...new Set(newOrder)],
     canStart(library, progress.words),
     (id) => !!library.byId.get(id)?.spell,

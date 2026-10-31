@@ -33,6 +33,8 @@ export function App() {
   const [error, setError] = useState<string | null>(null);
   const [stories, setStories] = useState<Story[]>([]);
   const [reading, setReading] = useState<Story | null>(null);
+  /** New words to add after the day's plan is done ("one more group"), for the next session. */
+  const [extra, setExtra] = useState(0);
   /** The island just finished, shown once on the home screen after moving on. */
   const [finished, setFinished] = useState<Topic | undefined>();
 
@@ -107,7 +109,7 @@ export function App() {
     );
 
   if (page === "learn")
-    return <Learn words={words} library={library} topics={index.topics} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
+    return <Learn words={words} library={library} topics={index.topics} progress={progress} setProgress={setProgress} extra={extra} onExit={() => setPage("home")} />;
 
   return (
     <div className="shell">
@@ -123,7 +125,10 @@ export function App() {
             rereadStories={stories.filter((s) => rereadDue(progress.stories[s.id], Date.now())).length}
             checkupDue={checkupWords(progress, Date.now()).length > 0}
             onCheckup={() => setPage("checkup")}
-            onStart={() => setPage("learn")}
+            onStart={(more = 0) => {
+              setExtra(more);
+              setPage("learn");
+            }}
             onMap={() => setPage("map")}
             onStories={() => setPage("stories")}
             stickers={[stickers.filter(isEarned).length, stickers.length]}
