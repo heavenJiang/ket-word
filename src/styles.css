@@ -549,3 +549,16 @@ h3 {
 .echo-ok { color: var(--green); font-weight: 700; }
 .echo-miss { color: var(--primary); text-decoration: underline wavy; text-underline-offset: 4px; }
 @media (prefers-reduced-motion: reduce) { .echo-star.on { animation: none; } }
+/* the Think course route on the map */
+.route-book { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
+.route-book h3 { margin: 0; }
+.route-unit { display: flex; flex-direction: column; gap: 6px; padding-top: 8px; border-top: 1px dashed var(--line); }
+.route-unit-head { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.route-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+.route-chip { display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 96px; padding: 8px 10px; border-radius: 14px; background: var(--card); border: 2px solid var(--line); font: inherit; color: inherit; }
+.route-chip > span:first-child { font-size: 1.6rem; }
+.chip-on { border-color: var(--primary); background: var(--primary-soft); }
+.chip-next { border-color: var(--sky); background: var(--sky-soft); }
+.chip-done { opacity: 0.7; }
+.islands-all { margin-top: 8px; }
+.islands-all > summary { cursor: pointer; font-weight: 700; padding: 10px 0; }

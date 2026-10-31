@@ -1,4 +1,5 @@
 import { minutesOn } from "../lib/effect";
+import { unitLabel, unitOf } from "../lib/route";
 import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
 import { todayPlan } from "../session/today";
 import { dayKey, streak, type Progress } from "../store/progress";
@@ -55,6 +56,7 @@ export function Home(props: {
   const minutes = Math.max(1, Math.round((plan.reviews.length * secsPerReview(progress) + plan.newWords.length * NEW_WORD_SECS) / 60));
   const met = library.all.filter((w) => progress.words[w.id]).length;
   const left = daysLeft(progress, now);
+  const unit = topic && unitOf(topic.id);
 
   return (
     <div className="page home">
@@ -101,7 +103,10 @@ export function Home(props: {
         {finished && <p className="notice">🎉 {finished.zh}岛的单词都认识啦！接下来去{topic?.zh ?? "下一座"}岛。</p>}
         <button className="today-topic" onClick={onMap}>
           <span>当前岛屿</span>
-          <b>{topic ? `${topic.zh} · ${topic.en}` : "加载中…"}</b>
+          <b>
+            {topic ? `${topic.zh} · ${topic.en}` : "加载中…"}
+            {unit && <span className="muted small"> （{unitLabel(unit)}）</span>}
+          </b>
           <span className="muted">换一个 ›</span>
         </button>
         {hasWork ? (

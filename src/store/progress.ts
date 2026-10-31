@@ -100,7 +100,7 @@ export const DEFAULT_SETTINGS: Settings = {
 export const emptyProgress = (): Progress => ({
   version: 1,
   settings: { ...DEFAULT_SETTINGS },
-  topic: "animals",
+  topic: "colours", // the first island of the Think course route
   stars: 0,
   words: {},
   days: {},
