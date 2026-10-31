@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import type { Word } from "../types";
+import { phonics, SOUND_ZH, type Sound } from "../lib/phonics";
+import type { HookKind, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
 
@@ -19,14 +20,53 @@ export function Picture({ word, size = "md" }: { word: Word; size?: "sm" | "md" 
 }
 
 export function Chunks({ word }: { word: Word }) {
+  const cls = phonics(word.word);
+  let k = 0;
   return (
     <span className="chunks">
       {word.chunks.map((c, i) => (
-        <span key={i} className={`chunk chunk-${i % 3}`}>
-          {c}
+        <span key={i} className="chunk">
+          {i > 0 && <span className="chunk-dot">·</span>}
+          {[...c].map((ch, j) => {
+            const s = /[a-z]/i.test(ch) ? cls[k++] : null;
+            return (
+              <span key={j} className={s ? `ph ph-${s}` : undefined}>
+                {ch}
+              </span>
+            );
+          })}
         </span>
       ))}
     </span>
+  );
+}
+
+const HOOK_LABEL: Record<HookKind, string> = { split: "拆开记", affix: "词缀", contrast: "别弄混", story: "想个画面", sound: "谐音" };
+
+/** A memory hook for a hard word. A sound-alike only helps remember; the recording is how it sounds. */
+export function HookCard({ word }: { word: Word }) {
+  if (!word.hook) return null;
+  return (
+    <div className="hook">
+      <b>💡 记忆小窍门 · {HOOK_LABEL[word.hook.kind]}</b>
+      <span>{word.hook.text}</span>
+      {word.hook.kind === "sound" && <span className="muted small">谐音只帮你记住，读音要听录音哦</span>}
+    </div>
+  );
+}
+
+/** What the colours in a word mean, listing only the kinds this word has. */
+export function PhonicsKey({ word }: { word: Word }) {
+  const kinds = [...new Set(phonics(word.word).filter(Boolean))] as Sound[];
+  if (!kinds.length) return null;
+  return (
+    <div className="ph-key">
+      {kinds.map((s) => (
+        <span key={s} className={`ph ph-${s}`}>
+          ● {SOUND_ZH[s]}
+        </span>
+      ))}
+    </div>
   );
 }
 

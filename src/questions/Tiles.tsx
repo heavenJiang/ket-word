@@ -4,7 +4,7 @@ import { playWord, sfx } from "../lib/audio";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
-import { AnswerCard, Picture, SlowButton, SpeakButton } from "../ui/Picture";
+import { AnswerCard, HookCard, Picture, SlowButton, SpeakButton } from "../ui/Picture";
 
 const isLetter = (c: string) => /[a-z]/i.test(c);
 const ALPHABET = "abcdefghijklmnopqrstuvwxyz";
@@ -20,8 +20,10 @@ export function Tiles(props: {
   decoys: number;
   firstLetter: boolean;
   onAnswer: (a: Attempt) => void;
+  /** The child keeps forgetting this word: giving up shows its memory hook. */
+  hard?: boolean;
 }) {
-  const { word, accent, sound, decoys, firstLetter, onAnswer } = props;
+  const { word, accent, sound, decoys, firstLetter, onAnswer, hard } = props;
   const target = word.word.toLowerCase();
   const tiles = useMemo(() => {
     const letters = [...target].filter(isLetter);
@@ -174,6 +176,7 @@ export function Tiles(props: {
         <div className="reveal">
           <Max pose="think" size="sm" say="没关系，看清楚再记一次：" />
           <AnswerCard word={word} picture={false} onSpeak={() => playWord(word, accent)} />
+          {hard && <HookCard word={word} />}
           <button
             className="btn btn-primary"
             onClick={() => onAnswer({ correct: false, hinted: true, mistakes, ms: performance.now() - started.current })}

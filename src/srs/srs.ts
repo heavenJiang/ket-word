@@ -77,6 +77,10 @@ export function retrievability(c: CardState, now: number, retention = 0.9): numb
   return scheduler(retention).get_retrievability(toCard(c), new Date(now), false) as number;
 }
 
+/** Forgotten this many times after being learnt (in any skill): the word is hard, and its memory hook shows. */
+export const HARD_LAPSES = 2;
+export const isHard = (p?: WordProgress) => !!p && Object.values(p.skills).some((c) => c && c.lapses >= HARD_LAPSES);
+
 /** Long-term memory: still recalled with 90% odds three weeks after review. */
 export const MASTERED_STABILITY = 21;
 export const isMastered = (c?: CardState) => !!c && c.st === State.Review && c.s >= MASTERED_STABILITY;

@@ -144,6 +144,7 @@ export function Parent(props: {
               <li key={w.id + skill}>
                 <b>{w.word}</b> <span className="muted">{w.zh}</span>
                 <span className="tag">{SKILL_NAME[skill]}</span>
+                {w.hook && <div className="muted small">💡 {w.hook.text}</div>}
               </li>
             ))}
           </ul>

@@ -33,8 +33,20 @@ export interface Word {
   ofZh?: string;
   /** An everyday (A1) word the child also learns to spell; other words stop at meaning and listening. */
   spell?: boolean;
+  /** A memory hook for a word the child keeps forgetting (content/hooks.json); shown only once it proves hard. */
+  hook?: Hook;
   /** Words too alike to be fair wrong options for this one (plate / dish / bowl). */
   avoid?: string[];
+}
+
+/**
+ * How a hook ties the word to something the child knows: its parts (bookshop = book + shop), a prefix
+ * or suffix, a word it is easily confused with, a little scene, or, last, a Chinese sound-alike.
+ */
+export type HookKind = "split" | "affix" | "contrast" | "story" | "sound";
+export interface Hook {
+  kind: HookKind;
+  text: string;
 }
 
 export interface Topic {

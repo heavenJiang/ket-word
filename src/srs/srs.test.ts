@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { Rating, review, unlockedSkills, wordLevel, type WordProgress } from "./srs";
+import { isHard, Rating, review, unlockedSkills, wordLevel, type WordProgress } from "./srs";
 import { gradeAttempt } from "./grade";
 
 const DAY = 86_400_000;
@@ -45,5 +45,14 @@ describe("skills", () => {
     }
     expect(gaps[3]).toBeGreaterThan(gaps[1]);
     expect(gaps[3]).toBeGreaterThan(DAY);
+  });
+});
+
+describe("hard words", () => {
+  it("counts a word as hard once any skill has been forgotten twice after being learnt", () => {
+    const m = review(undefined, Rating.Good, t0);
+    expect(isHard({ seen: t0, skills: { meaning: { ...m, lapses: 1 } } })).toBe(false);
+    expect(isHard({ seen: t0, skills: { meaning: m, spell: { ...m, lapses: 2 } } })).toBe(true);
+    expect(isHard(undefined)).toBe(false);
   });
 });

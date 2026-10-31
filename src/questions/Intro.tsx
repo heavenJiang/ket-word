@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { playRecording, playSentence, playWord, stop } from "../lib/audio";
 import type { Accent, Word } from "../types";
-import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
+import { Chunks, PhonicsKey, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
 /** First meeting with a small group of words: see, hear, read in chunks, say it back. */
 export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent; onDone: () => void }) {
@@ -33,6 +33,7 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
           <Chunks word={w} />
           <SpeakButton onClick={() => playWord(w, accent)} label={`听 ${w.word}`} />
         </div>
+        <PhonicsKey word={w} />
         <div className="intro-ipa">{w.ipa}</div>
         <Senses word={w} />
         <SentenceRow en={w.sentence.en} zh={w.sentence.zh} onPlay={() => playSentence(w, accent)} />
