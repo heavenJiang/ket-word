@@ -1,0 +1,993 @@
+{
+ "id": "countryside",
+ "words": [
+  {
+   "id": "village",
+   "word": "village",
+   "zh": "村庄",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "村庄"
+    }
+   ],
+   "ipa": "/ˈvɪlɪdʒ/",
+   "chunks": [
+    "vil",
+    "lage"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "We live in a small village.",
+    "zh": "我们住在一个小村庄里。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a small village.",
+     "zh": "我们住在一个小村庄里。",
+     "audio": "media/sent/29a8b6332846.mp3"
+    },
+    {
+     "en": "There is no cinema in our village.",
+     "zh": "我们村没有电影院。",
+     "audio": "media/sent/249a2dc674a6.mp3"
+    },
+    {
+     "en": "Grandma visits the village shop.",
+     "zh": "奶奶去村里的商店。",
+     "audio": "media/sent/5d92cad1e466.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/village.webp",
+    "uk": "media/uk/village.mp3",
+    "us": "media/us/village.mp3"
+   },
+   "avoid": [
+    "area"
+   ]
+  },
+  {
+   "id": "area",
+   "word": "area",
+   "zh": "地区；区域",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地区；区域"
+    }
+   ],
+   "ipa": "/ˈeəriə/",
+   "chunks": [
+    "ar",
+    "e",
+    "a"
+   ],
+   "emoji": "🗺️",
+   "sentence": {
+    "en": "There are lots of farms in this area.",
+    "zh": "这个地区有很多农场。"
+   },
+   "sentences": [
+    {
+     "en": "There are lots of farms in this area.",
+     "zh": "这个地区有很多农场。",
+     "audio": "media/sent/dd738f228753.mp3"
+    },
+    {
+     "en": "This is a quiet area.",
+     "zh": "这是一个安静的区域。",
+     "audio": "media/sent/eede8c98a85b.mp3"
+    },
+    {
+     "en": "We walk in this area every day.",
+     "zh": "我们每天在这个区域散步。",
+     "audio": "media/sent/6297df0fbc4d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/area.webp",
+    "uk": "media/uk/area.mp3",
+    "us": "media/us/area.mp3"
+   },
+   "avoid": [
+    "village"
+   ]
+  },
+  {
+   "id": "farm",
+   "word": "farm",
+   "zh": "农场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "农场"
+    }
+   ],
+   "ipa": "/fɑːm/",
+   "chunks": [
+    "farm"
+   ],
+   "emoji": "🚜",
+   "sentence": {
+    "en": "Sam's uncle works on a farm.",
+    "zh": "Sam 的叔叔在农场工作。"
+   },
+   "sentences": [
+    {
+     "en": "Sam's uncle works on a farm.",
+     "zh": "Sam 的叔叔在农场工作。",
+     "audio": "media/sent/0cb39cefcd96.mp3"
+    },
+    {
+     "en": "The farm has many chickens.",
+     "zh": "农场有很多鸡。",
+     "audio": "media/sent/e98c756f8582.mp3"
+    },
+    {
+     "en": "Lily visits her uncle's farm.",
+     "zh": "Lily 去她叔叔的农场。",
+     "audio": "media/sent/ae20e78055b7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/farm.webp",
+    "uk": "media/uk/farm.mp3",
+    "us": "media/us/farm.mp3"
+   },
+   "avoid": [
+    "field"
+   ]
+  },
+  {
+   "id": "field",
+   "word": "field",
+   "zh": "田野；田地",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "田野；田地"
+    }
+   ],
+   "ipa": "/fiːld/",
+   "chunks": [
+    "field"
+   ],
+   "emoji": "🌾",
+   "sentence": {
+    "en": "The farmer walks across the field.",
+    "zh": "农夫穿过田野。"
+   },
+   "sentences": [
+    {
+     "en": "The farmer walks across the field.",
+     "zh": "农夫穿过田野。",
+     "audio": "media/sent/69a90fd5a4f7.mp3"
+    },
+    {
+     "en": "There is grass in the field.",
+     "zh": "田里有草。",
+     "audio": "media/sent/b1825661fe25.mp3"
+    },
+    {
+     "en": "Max runs through the tall grass in the field.",
+     "zh": "Max 在田野的高草丛里跑。",
+     "audio": "media/sent/4b207716f76e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/field.webp",
+    "uk": "media/uk/field.mp3",
+    "us": "media/us/field.mp3"
+   },
+   "avoid": [
+    "campsite",
+    "farm"
+   ]
+  },
+  {
+   "id": "forest",
+   "word": "forest",
+   "zh": "森林",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "森林"
+    }
+   ],
+   "ipa": "/ˈfɒrɪst/",
+   "chunks": [
+    "for",
+    "est"
+   ],
+   "emoji": "🌲",
+   "sentence": {
+    "en": "The forest is full of tall trees.",
+    "zh": "森林里长满了高大的树。"
+   },
+   "sentences": [
+    {
+     "en": "The forest is full of tall trees.",
+     "zh": "森林里长满了高大的树。",
+     "audio": "media/sent/5a991388d1a6.mp3"
+    },
+    {
+     "en": "Birds sing in the forest.",
+     "zh": "鸟儿在森林里唱歌。",
+     "audio": "media/sent/de5cb5ecf77a.mp3"
+    },
+    {
+     "en": "It is cool inside the forest.",
+     "zh": "森林里面很凉快。",
+     "audio": "media/sent/5b62517f9b1d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/forest.webp",
+    "uk": "media/uk/forest.mp3",
+    "us": "media/us/forest.mp3"
+   },
+   "avoid": [
+    "rainforest",
+    "wood"
+   ]
+  },
+  {
+   "id": "wood",
+   "word": "wood",
+   "zh": "木头；树林",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "木头；树林"
+    }
+   ],
+   "ipa": "/wʊd/",
+   "chunks": [
+    "wood"
+   ],
+   "emoji": "🪵",
+   "sentence": {
+    "en": "The chair is made of wood.",
+    "zh": "椅子是木头做的。"
+   },
+   "sentences": [
+    {
+     "en": "The chair is made of wood.",
+     "zh": "椅子是木头做的。",
+     "audio": "media/sent/13d60b2ad9fa.mp3"
+    },
+    {
+     "en": "Dad cuts the wood for the fire.",
+     "zh": "爸爸为炉火砍木头。",
+     "audio": "media/sent/3854af7e075c.mp3"
+    },
+    {
+     "en": "We have a picnic in the wood.",
+     "zh": "我们在树林里野餐。",
+     "audio": "media/sent/d86b22f179b0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wood.webp",
+    "uk": "media/uk/wood.mp3",
+    "us": "media/us/wood.mp3"
+   },
+   "avoid": [
+    "forest",
+    "rainforest"
+   ]
+  },
+  {
+   "id": "hill",
+   "word": "hill",
+   "zh": "小山；山丘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小山；山丘"
+    }
+   ],
+   "ipa": "/hɪl/",
+   "chunks": [
+    "hill"
+   ],
+   "emoji": "⛰️",
+   "sentence": {
+    "en": "The dog runs down the hill.",
+    "zh": "狗从山上跑下来。"
+   },
+   "sentences": [
+    {
+     "en": "The dog runs down the hill.",
+     "zh": "狗从山上跑下来。",
+     "audio": "media/sent/d3935389c13a.mp3"
+    },
+    {
+     "en": "There is a sheep on the hill.",
+     "zh": "山上有一只羊。",
+     "audio": "media/sent/f7918a864959.mp3"
+    },
+    {
+     "en": "We sit on top of the hill.",
+     "zh": "我们坐在山顶上。",
+     "audio": "media/sent/002e6305f824.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hill.webp",
+    "uk": "media/uk/hill.mp3",
+    "us": "media/us/hill.mp3"
+   },
+   "avoid": [
+    "island",
+    "mountain"
+   ]
+  },
+  {
+   "id": "mountain",
+   "word": "mountain",
+   "zh": "山；高山",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "山；高山"
+    }
+   ],
+   "ipa": "/ˈmaʊntɪn/",
+   "chunks": [
+    "moun",
+    "tain"
+   ],
+   "emoji": "🏔️",
+   "sentence": {
+    "en": "The mountain is covered in snow.",
+    "zh": "山上覆盖着雪。"
+   },
+   "sentences": [
+    {
+     "en": "The mountain is covered in snow.",
+     "zh": "山上覆盖着雪。",
+     "audio": "media/sent/b911b59a4d4e.mp3"
+    },
+    {
+     "en": "We drive past the big mountain.",
+     "zh": "我们开车经过那座大山。",
+     "audio": "media/sent/0490e6365000.mp3"
+    },
+    {
+     "en": "The air is cold on the mountain.",
+     "zh": "山上的空气很冷。",
+     "audio": "media/sent/de4bcfc3a348.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mountain.webp",
+    "uk": "media/uk/mountain.mp3",
+    "us": "media/us/mountain.mp3"
+   },
+   "avoid": [
+    "hill",
+    "island",
+    "sky"
+   ]
+  },
+  {
+   "id": "path",
+   "word": "path",
+   "zh": "小路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小路"
+    }
+   ],
+   "ipa": "/pɑːθ/",
+   "chunks": [
+    "path"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "We walk along the path.",
+    "zh": "我们沿着小路走。"
+   },
+   "sentences": [
+    {
+     "en": "We walk along the path.",
+     "zh": "我们沿着小路走。",
+     "audio": "media/sent/589701c0ddff.mp3"
+    },
+    {
+     "en": "The path goes to the lake.",
+     "zh": "这条路通向湖边。",
+     "audio": "media/sent/86dcebe9ef98.mp3"
+    },
+    {
+     "en": "The path is very quiet.",
+     "zh": "这条小路很安静。",
+     "audio": "media/sent/aca1dcfda3f9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/path.webp",
+    "uk": "media/uk/path.mp3",
+    "us": "media/us/path.mp3"
+   },
+   "avoid": [
+    "railway",
+    "river"
+   ]
+  },
+  {
+   "id": "lake",
+   "word": "lake",
+   "zh": "湖",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "湖"
+    }
+   ],
+   "ipa": "/leɪk/",
+   "chunks": [
+    "lake"
+   ],
+   "emoji": "🏞️",
+   "sentence": {
+    "en": "The lake is very deep.",
+    "zh": "这个湖很深。"
+   },
+   "sentences": [
+    {
+     "en": "The lake is very deep.",
+     "zh": "这个湖很深。",
+     "audio": "media/sent/949c22deef79.mp3"
+    },
+    {
+     "en": "We look at the ducks on the lake.",
+     "zh": "我们看湖上的鸭子。",
+     "audio": "media/sent/83acf4b6f537.mp3"
+    },
+    {
+     "en": "The water in the lake is clear.",
+     "zh": "湖水很清澈。",
+     "audio": "media/sent/eaaf13fb2d2d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lake.webp",
+    "uk": "media/uk/lake.mp3",
+    "us": "media/us/lake.mp3"
+   },
+   "avoid": [
+    "ocean",
+    "river",
+    "sea"
+   ]
+  },
+  {
+   "id": "river",
+   "word": "river",
+   "zh": "河；江",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "河；江"
+    }
+   ],
+   "ipa": "/ˈrɪvə/",
+   "chunks": [
+    "riv",
+    "er"
+   ],
+   "emoji": "🌊",
+   "sentence": {
+    "en": "The river is very long.",
+    "zh": "这条河很长。"
+   },
+   "sentences": [
+    {
+     "en": "The river is very long.",
+     "zh": "这条河很长。",
+     "audio": "media/sent/419fa3c21f5d.mp3"
+    },
+    {
+     "en": "We sit by the river.",
+     "zh": "我们坐在河边。",
+     "audio": "media/sent/3cc879411a93.mp3"
+    },
+    {
+     "en": "There is a bridge over the river.",
+     "zh": "河上有一座桥。",
+     "audio": "media/sent/528d59257044.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/river.webp",
+    "uk": "media/uk/river.mp3",
+    "us": "media/us/river.mp3"
+   },
+   "avoid": [
+    "lake",
+    "ocean",
+    "path",
+    "railway",
+    "sea"
+   ]
+  },
+  {
+   "id": "island",
+   "word": "island",
+   "zh": "岛屿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "岛屿"
+    }
+   ],
+   "ipa": "/ˈaɪlənd/",
+   "chunks": [
+    "is",
+    "land"
+   ],
+   "emoji": "🏝️",
+   "sentence": {
+    "en": "The island is in the middle of the sea.",
+    "zh": "这座岛在海中央。"
+   },
+   "sentences": [
+    {
+     "en": "The island is in the middle of the sea.",
+     "zh": "这座岛在海中央。",
+     "audio": "media/sent/621ac1e6642b.mp3"
+    },
+    {
+     "en": "We take a boat to the island.",
+     "zh": "我们坐船去那座岛。",
+     "audio": "media/sent/8b1476fd79c4.mp3"
+    },
+    {
+     "en": "There are no cars on this island.",
+     "zh": "这座岛上没有汽车。",
+     "audio": "media/sent/85ac9676cb06.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/island.webp",
+    "uk": "media/uk/island.mp3",
+    "us": "media/us/island.mp3"
+   },
+   "avoid": [
+    "beach",
+    "hill",
+    "mountain",
+    "sea"
+   ]
+  },
+  {
+   "id": "beach",
+   "word": "beach",
+   "zh": "海滩",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海滩"
+    }
+   ],
+   "ipa": "/biːtʃ/",
+   "chunks": [
+    "beach"
+   ],
+   "emoji": "🏖️",
+   "sentence": {
+    "en": "Lily plays on the beach.",
+    "zh": "Lily 在海滩上玩。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays on the beach.",
+     "zh": "Lily 在海滩上玩。",
+     "audio": "media/sent/29f932dc1eb9.mp3"
+    },
+    {
+     "en": "The beach is warm today.",
+     "zh": "今天海滩很暖和。",
+     "audio": "media/sent/e47177aae76c.mp3"
+    },
+    {
+     "en": "We leave the beach at four o'clock.",
+     "zh": "我们四点钟离开海滩。",
+     "audio": "media/sent/ddb7d4a3def1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/beach.webp",
+    "uk": "media/uk/beach.mp3",
+    "us": "media/us/beach.mp3"
+   },
+   "avoid": [
+    "island",
+    "sea"
+   ]
+  },
+  {
+   "id": "sea",
+   "word": "sea",
+   "zh": "大海",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大海"
+    }
+   ],
+   "ipa": "/siː/",
+   "chunks": [
+    "sea"
+   ],
+   "emoji": "🌊",
+   "sentence": {
+    "en": "The sea is blue today.",
+    "zh": "今天海是蓝色的。"
+   },
+   "sentences": [
+    {
+     "en": "The sea is blue today.",
+     "zh": "今天海是蓝色的。",
+     "audio": "media/sent/72e5b582d235.mp3"
+    },
+    {
+     "en": "We can see the sea from here.",
+     "zh": "我们从这里能看到大海。",
+     "audio": "media/sent/ae0917404ab8.mp3"
+    },
+    {
+     "en": "The sea is cold in spring.",
+     "zh": "春天的海水很凉。",
+     "audio": "media/sent/6ae902023632.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sea.webp",
+    "uk": "media/uk/sea.mp3",
+    "us": "media/us/sea.mp3"
+   },
+   "avoid": [
+    "beach",
+    "island",
+    "lake",
+    "ocean",
+    "river"
+   ]
+  },
+  {
+   "id": "ocean",
+   "word": "ocean",
+   "zh": "海洋",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海洋"
+    }
+   ],
+   "ipa": "/ˈəʊʃən/",
+   "chunks": [
+    "o",
+    "ce",
+    "an"
+   ],
+   "emoji": "🐋",
+   "sentence": {
+    "en": "The ocean is very big.",
+    "zh": "海洋很大。"
+   },
+   "sentences": [
+    {
+     "en": "The ocean is very big.",
+     "zh": "海洋很大。",
+     "audio": "media/sent/19d87dc30a96.mp3"
+    },
+    {
+     "en": "Whales live in the ocean.",
+     "zh": "鲸鱼生活在海洋里。",
+     "audio": "media/sent/252f550b3fb3.mp3"
+    },
+    {
+     "en": "The ship crosses the ocean.",
+     "zh": "船横穿海洋。",
+     "audio": "media/sent/ed109ed21ce6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ocean.webp",
+    "uk": "media/uk/ocean.mp3",
+    "us": "media/us/ocean.mp3"
+   },
+   "avoid": [
+    "lake",
+    "river",
+    "sea"
+   ]
+  },
+  {
+   "id": "sky",
+   "word": "sky",
+   "zh": "天空",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "天空"
+    }
+   ],
+   "ipa": "/skaɪ/",
+   "chunks": [
+    "sky"
+   ],
+   "emoji": "☁️",
+   "sentence": {
+    "en": "The sky is grey.",
+    "zh": "天是灰色的。"
+   },
+   "sentences": [
+    {
+     "en": "The sky is grey.",
+     "zh": "天是灰色的。",
+     "audio": "media/sent/bb2478b707be.mp3"
+    },
+    {
+     "en": "Look up at the sky!",
+     "zh": "看天上！",
+     "audio": "media/sent/131c60240136.mp3"
+    },
+    {
+     "en": "There are stars in the night sky.",
+     "zh": "夜空里有星星。",
+     "audio": "media/sent/95306d777f57.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sky.webp",
+    "uk": "media/uk/sky.mp3",
+    "us": "media/us/sky.mp3"
+   },
+   "avoid": [
+    "mountain"
+   ]
+  },
+  {
+   "id": "campsite",
+   "word": "campsite",
+   "zh": "露营地；营地",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "露营地；营地"
+    }
+   ],
+   "ipa": "/ˈkæmpsaɪt/",
+   "chunks": [
+    "camp",
+    "site"
+   ],
+   "emoji": "⛺",
+   "sentence": {
+    "en": "We sleep at the campsite.",
+    "zh": "我们在露营地睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "We sleep at the campsite.",
+     "zh": "我们在露营地睡觉。",
+     "audio": "media/sent/e3f12a3c918d.mp3"
+    },
+    {
+     "en": "The campsite is near the river.",
+     "zh": "露营地就在河边。",
+     "audio": "media/sent/09157754ab78.mp3"
+    },
+    {
+     "en": "It is fun to stay at a campsite.",
+     "zh": "住在露营地很有趣。",
+     "audio": "media/sent/fa65c6f46c83.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/campsite.webp",
+    "uk": "media/uk/campsite.mp3",
+    "us": "media/us/campsite.mp3"
+   },
+   "avoid": [
+    "field"
+   ]
+  },
+  {
+   "id": "railway",
+   "word": "railway",
+   "zh": "铁路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "铁路"
+    }
+   ],
+   "ipa": "/ˈreɪlweɪ/",
+   "chunks": [
+    "rail",
+    "way"
+   ],
+   "emoji": "🚂",
+   "sentence": {
+    "en": "The train goes on the railway.",
+    "zh": "火车在铁路上行驶。"
+   },
+   "sentences": [
+    {
+     "en": "The train goes on the railway.",
+     "zh": "火车在铁路上行驶。",
+     "audio": "media/sent/5349d5ba81c2.mp3"
+    },
+    {
+     "en": "We stand near the railway.",
+     "zh": "我们站在铁路附近。",
+     "audio": "media/sent/d86dd690080b.mp3"
+    },
+    {
+     "en": "The new railway is very fast.",
+     "zh": "这条新铁路很快。",
+     "audio": "media/sent/8a19374c9eee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/railway.webp",
+    "uk": "media/uk/railway.mp3",
+    "us": "media/us/railway.mp3"
+   },
+   "avoid": [
+    "path",
+    "river"
+   ]
+  },
+  {
+   "id": "rainforest",
+   "word": "rainforest",
+   "zh": "雨林",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "雨林"
+    }
+   ],
+   "ipa": "/ˈreɪnfɒrɪst/",
+   "chunks": [
+    "rain",
+    "for",
+    "est"
+   ],
+   "emoji": "🌴",
+   "sentence": {
+    "en": "Monkeys live in the rainforest.",
+    "zh": "猴子住在雨林里。"
+   },
+   "sentences": [
+    {
+     "en": "Monkeys live in the rainforest.",
+     "zh": "猴子住在雨林里。",
+     "audio": "media/sent/9c35ec046164.mp3"
+    },
+    {
+     "en": "The rainforest is very wet.",
+     "zh": "雨林很潮湿。",
+     "audio": "media/sent/cef53e3569af.mp3"
+    },
+    {
+     "en": "Many birds fly in the rainforest.",
+     "zh": "许多鸟在雨林里飞。",
+     "audio": "media/sent/a6fdc5301c61.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rainforest.webp",
+    "uk": "media/uk/rainforest.mp3",
+    "us": "media/us/rainforest.mp3"
+   },
+   "avoid": [
+    "forest",
+    "wood"
+   ]
+  }
+ ]
+}

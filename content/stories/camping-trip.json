@@ -1,0 +1,45 @@
+{
+ "id": "camping-trip",
+ "topic": "hobbies",
+ "title": "Our Camping Trip",
+ "zh": "我们的露营之旅",
+ "pages": [
+  {
+   "en": "In the summer holiday, Lily's family goes camping. They find a campsite next to a lake. Dad and Sam put up the big green tent.",
+   "zh": "暑假里，Lily 一家去露营。他们在湖边找到一个营地。爸爸和 Sam 搭起了绿色的大帐篷。",
+   "scene": "A sunny campsite next to a blue lake, Dad and Sam putting up a big green tent, Lily and Tom carrying bags, Max running on the grass."
+  },
+  {
+   "en": "In the evening, they have a barbecue. Grandpa cooks fish and Lily takes photos with her camera. Then Sam plays the guitar and everyone sings.",
+   "zh": "傍晚，他们吃烧烤。爷爷烤鱼，Lily 用相机拍照。然后 Sam 弹吉他，大家一起唱歌。",
+   "scene": "An evening barbecue at a campsite by a lake, Grandpa cooking fish, Lily taking a photo with a camera, Sam playing the guitar, Tom singing, a big green tent behind them."
+  },
+  {
+   "en": "At night, Lily and Tom lie in the tent. They can hear the water and the birds. \"Camping is great,\" says Tom. \"Can we come again next year?\"",
+   "zh": "夜里，Lily 和 Tom 躺在帐篷里。他们能听见水声和鸟叫。“露营真棒，”Tom 说，“我们明年还能再来吗？”",
+   "scene": "Inside a green tent at night, Lily and Tom lying in sleeping bags and smiling, a small lamp glowing, Max sleeping at their feet, the moon over the lake through the open door."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The campsite is next to a lake.",
+   "zh": "营地在湖边。",
+   "answer": true
+  },
+  {
+   "q": "Who plays the guitar?",
+   "zh": "谁弹吉他？",
+   "options": [
+    "Sam",
+    "Grandpa",
+    "Tom"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom doesn't like camping.",
+   "zh": "Tom 不喜欢露营。",
+   "answer": false
+  }
+ ]
+}

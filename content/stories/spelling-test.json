@@ -1,0 +1,45 @@
+{
+ "id": "spelling-test",
+ "topic": "school",
+ "title": "The Spelling Test",
+ "zh": "拼写测验",
+ "pages": [
+  {
+   "en": "On Monday, the teacher says, \"We have a spelling test on Friday.\" Lily is a bit worried. Some words are very difficult.",
+   "zh": "星期一，老师说：“我们星期五有拼写测验。”Lily 有点担心，有些单词很难。",
+   "scene": "A kind woman teacher at the front of a classroom talking to the class, Lily at her desk looking a little worried, no writing on the board."
+  },
+  {
+   "en": "Every evening, Lily practises with Dad. He reads the words and she writes them. Max listens too. Lily remembers more and more words.",
+   "zh": "每天晚上，Lily 都和爸爸一起练习。爸爸念单词，她来写。Max 也在旁边听。Lily 记住的单词越来越多。",
+   "scene": "Lily and Dad at the kitchen table in the evening, Dad reading from a small list and Lily writing in a notebook, Max sitting on a chair listening, no readable writing."
+  },
+  {
+   "en": "On Friday, Lily does the test. She knows all the words! The teacher gives her a good mark and a gold star.",
+   "zh": "星期五，Lily 参加了测验。所有的单词她都会！老师给了她好分数和一颗金星。",
+   "scene": "Lily proudly holding up her test paper with a big red tick and a gold star sticker, the teacher smiling beside her, classmates clapping, no readable writing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "When is the test?",
+   "zh": "测验在什么时候？",
+   "options": [
+    "on Friday",
+    "on Monday",
+    "on Sunday"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily practises with Mum.",
+   "zh": "Lily 和妈妈一起练习。",
+   "answer": false
+  },
+  {
+   "q": "Lily gets a good mark.",
+   "zh": "Lily 得了好分数。",
+   "answer": true
+  }
+ ]
+}

@@ -1,0 +1,2290 @@
+{
+ "id": "core-where",
+ "words": [
+  {
+   "id": "about",
+   "word": "about",
+   "zh": "大约；关于",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "大约；关于"
+    }
+   ],
+   "ipa": "/əˈbaʊt/",
+   "chunks": [
+    "a",
+    "bout"
+   ],
+   "emoji": "🕒",
+   "sentence": {
+    "en": "The film starts at about six.",
+    "zh": "电影大约六点钟开始。"
+   },
+   "sentences": [
+    {
+     "en": "The film starts at about six.",
+     "zh": "电影大约六点钟开始。",
+     "audio": "media/sent/e6788865749c.mp3"
+    },
+    {
+     "en": "We talk about school in the car.",
+     "zh": "我们在车里谈论学校的事。",
+     "audio": "media/sent/a0b3a082cb9f.mp3"
+    },
+    {
+     "en": "It's about ten minutes to Grandpa's house.",
+     "zh": "去爷爷家大约还要十分钟。",
+     "audio": "media/sent/eaac6a4961be.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/about.mp3",
+    "us": "media/us/about.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "above",
+   "word": "above",
+   "zh": "在……上面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……上面"
+    }
+   ],
+   "ipa": "/əˈbʌv/",
+   "chunks": [
+    "a",
+    "bove"
+   ],
+   "emoji": "☁️",
+   "sentence": {
+    "en": "The kite flies above the trees.",
+    "zh": "风筝在树上方飞翔。"
+   },
+   "sentences": [
+    {
+     "en": "The kite flies above the trees.",
+     "zh": "风筝在树上方飞翔。",
+     "audio": "media/sent/f9ef7e8249c0.mp3"
+    },
+    {
+     "en": "Look at the bird above the window.",
+     "zh": "看窗户上方的那只鸟。",
+     "audio": "media/sent/7ee3b8760626.mp3"
+    },
+    {
+     "en": "The shelf is above the desk.",
+     "zh": "架子在书桌上方。",
+     "audio": "media/sent/f3fec103ed2d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/above.webp",
+    "uk": "media/uk/above.mp3",
+    "us": "media/us/above.mp3"
+   },
+   "avoid": [
+    "over",
+    "top",
+    "up"
+   ]
+  },
+  {
+   "id": "across",
+   "word": "across",
+   "zh": "穿过；对面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "穿过；对面"
+    }
+   ],
+   "ipa": "/əˈkrɒs/",
+   "chunks": [
+    "a",
+    "cross"
+   ],
+   "emoji": "🌉",
+   "sentence": {
+    "en": "We walk across the bridge.",
+    "zh": "我们走过桥。"
+   },
+   "sentences": [
+    {
+     "en": "We walk across the bridge.",
+     "zh": "我们走过桥。",
+     "audio": "media/sent/81e8c121d114.mp3"
+    },
+    {
+     "en": "The shop is across the road.",
+     "zh": "商店在马路对面。",
+     "audio": "media/sent/8cc3a6467268.mp3"
+    },
+    {
+     "en": "Sam swims across the pool.",
+     "zh": "Sam 游过泳池。",
+     "audio": "media/sent/a7b7435c54c0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/across.webp",
+    "uk": "media/uk/across.mp3",
+    "us": "media/us/across.mp3"
+   },
+   "avoid": [
+    "along",
+    "over",
+    "through"
+   ]
+  },
+  {
+   "id": "against",
+   "word": "against",
+   "zh": "靠着；反对",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "靠着；反对"
+    }
+   ],
+   "ipa": "/əˈɡenst/",
+   "chunks": [
+    "a",
+    "gainst"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "Dad stands against the door.",
+    "zh": "爸爸靠在门上。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stands against the door.",
+     "zh": "爸爸靠在门上。",
+     "audio": "media/sent/b0072e8f2f07.mp3"
+    },
+    {
+     "en": "The bike is against the wall.",
+     "zh": "自行车靠墙放着。",
+     "audio": "media/sent/23262ff1f57e.mp3"
+    },
+    {
+     "en": "We play football against Sam's team.",
+     "zh": "我们和 Sam 的队踢足球。",
+     "audio": "media/sent/1fb24bef7fee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/against.webp",
+    "uk": "media/uk/against.mp3",
+    "us": "media/us/against.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "along",
+   "word": "along",
+   "zh": "沿着",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "沿着"
+    }
+   ],
+   "ipa": "/əˈlɒŋ/",
+   "chunks": [
+    "a",
+    "long"
+   ],
+   "emoji": "🛤️",
+   "sentence": {
+    "en": "We walk along the river.",
+    "zh": "我们沿着河边走。"
+   },
+   "sentences": [
+    {
+     "en": "We walk along the river.",
+     "zh": "我们沿着河边走。",
+     "audio": "media/sent/c32304f7e9db.mp3"
+    },
+    {
+     "en": "Ride your bike along the park path.",
+     "zh": "沿着公园的小路骑自行车。",
+     "audio": "media/sent/9a3de7d48300.mp3"
+    },
+    {
+     "en": "Mum walks along the beach.",
+     "zh": "妈妈沿着海滩散步。",
+     "audio": "media/sent/2c9eb95e7568.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/along.webp",
+    "uk": "media/uk/along.mp3",
+    "us": "media/us/along.mp3"
+   },
+   "avoid": [
+    "across",
+    "over",
+    "through"
+   ]
+  },
+  {
+   "id": "among",
+   "word": "among",
+   "zh": "在……之中",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……之中"
+    }
+   ],
+   "ipa": "/əˈmʌŋ/",
+   "chunks": [
+    "a",
+    "mong"
+   ],
+   "emoji": "🌲",
+   "sentence": {
+    "en": "Max is among the flowers.",
+    "zh": "Max 在花丛中。"
+   },
+   "sentences": [
+    {
+     "en": "Max is among the flowers.",
+     "zh": "Max 在花丛中。",
+     "audio": "media/sent/5d5936792173.mp3"
+    },
+    {
+     "en": "Lily sits among her friends.",
+     "zh": "Lily 坐在朋友们中间。",
+     "audio": "media/sent/34681c374540.mp3"
+    },
+    {
+     "en": "The cat is among the boxes.",
+     "zh": "猫在箱子堆里。",
+     "audio": "media/sent/f04c2ff63f35.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/among.webp",
+    "uk": "media/uk/among.mp3",
+    "us": "media/us/among.mp3"
+   },
+   "avoid": [
+    "between",
+    "centre",
+    "middle"
+   ]
+  },
+  {
+   "id": "around",
+   "word": "around",
+   "zh": "周围；到处",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "周围；到处"
+    }
+   ],
+   "ipa": "/əˈraʊnd/",
+   "chunks": [
+    "a",
+    "round"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "We look around the garden.",
+    "zh": "我们环顾花园。"
+   },
+   "sentences": [
+    {
+     "en": "We look around the garden.",
+     "zh": "我们环顾花园。",
+     "audio": "media/sent/07b5a2b3dd0b.mp3"
+    },
+    {
+     "en": "The dog runs around the park.",
+     "zh": "狗在公园里到处跑。",
+     "audio": "media/sent/08de19a02664.mp3"
+    },
+    {
+     "en": "Come and sit around the fire.",
+     "zh": "过来坐在火堆周围。",
+     "audio": "media/sent/ba4499ee824e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/around.webp",
+    "uk": "media/uk/around.mp3",
+    "us": "media/us/around.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "behind",
+   "word": "behind",
+   "zh": "在……后面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……后面"
+    }
+   ],
+   "ipa": "/bɪˈhaɪnd/",
+   "chunks": [
+    "be",
+    "hind"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "Tom is behind the tree.",
+    "zh": "Tom 在树后面。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is behind the tree.",
+     "zh": "Tom 在树后面。",
+     "audio": "media/sent/7428c161e2e9.mp3"
+    },
+    {
+     "en": "The dog is behind the gate.",
+     "zh": "狗在门后面。",
+     "audio": "media/sent/2a931f692300.mp3"
+    },
+    {
+     "en": "Grandma walks behind us.",
+     "zh": "奶奶走在我们后面。",
+     "audio": "media/sent/d34590057d50.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/behind.webp",
+    "uk": "media/uk/behind.mp3",
+    "us": "media/us/behind.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "below",
+   "word": "below",
+   "zh": "在……下面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……下面"
+    }
+   ],
+   "ipa": "/bɪˈləʊ/",
+   "chunks": [
+    "be",
+    "low"
+   ],
+   "emoji": "📉",
+   "sentence": {
+    "en": "The fish swim below the boat.",
+    "zh": "鱼在船下游动。"
+   },
+   "sentences": [
+    {
+     "en": "The fish swim below the boat.",
+     "zh": "鱼在船下游动。",
+     "audio": "media/sent/4c4c124424aa.mp3"
+    },
+    {
+     "en": "Write your name below the picture.",
+     "zh": "在图画下面写上你的名字。",
+     "audio": "media/sent/d9e3558d4c44.mp3"
+    },
+    {
+     "en": "The path is far below us.",
+     "zh": "小路在我们下方很远的地方。",
+     "audio": "media/sent/0e52ed12bdd8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/below.webp",
+    "uk": "media/uk/below.mp3",
+    "us": "media/us/below.mp3"
+   },
+   "avoid": [
+    "bottom",
+    "down",
+    "under"
+   ]
+  },
+  {
+   "id": "beside",
+   "word": "beside",
+   "zh": "在旁边",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在旁边"
+    }
+   ],
+   "ipa": "/bɪˈsaɪd/",
+   "chunks": [
+    "be",
+    "side"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Mia sits beside Lily.",
+    "zh": "Mia 坐在 Lily 旁边。"
+   },
+   "sentences": [
+    {
+     "en": "Mia sits beside Lily.",
+     "zh": "Mia 坐在 Lily 旁边。",
+     "audio": "media/sent/31d18d3c286b.mp3"
+    },
+    {
+     "en": "The lamp is beside the bed.",
+     "zh": "台灯在床边。",
+     "audio": "media/sent/e9d654610ba1.mp3"
+    },
+    {
+     "en": "Max sleeps beside Dad's chair.",
+     "zh": "Max 睡在爸爸椅子旁边。",
+     "audio": "media/sent/fde41bd449c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/beside.webp",
+    "uk": "media/uk/beside.mp3",
+    "us": "media/us/beside.mp3"
+   },
+   "avoid": [
+    "close-to",
+    "near",
+    "next-to"
+   ]
+  },
+  {
+   "id": "between",
+   "word": "between",
+   "zh": "在……之间",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……之间"
+    }
+   ],
+   "ipa": "/bɪˈtwiːn/",
+   "chunks": [
+    "be",
+    "tween"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "The ball is between the boxes.",
+    "zh": "球在箱子中间。"
+   },
+   "sentences": [
+    {
+     "en": "The ball is between the boxes.",
+     "zh": "球在箱子中间。",
+     "audio": "media/sent/cc1cb2e28ee7.mp3"
+    },
+    {
+     "en": "Lily sits between Tom and Max.",
+     "zh": "Lily 坐在 Tom 和 Max 中间。",
+     "audio": "media/sent/2ec0fca90274.mp3"
+    },
+    {
+     "en": "The shop is between the bank and the cafe.",
+     "zh": "商店在银行和咖啡馆之间。",
+     "audio": "media/sent/73709fda9a74.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/between.webp",
+    "uk": "media/uk/between.mp3",
+    "us": "media/us/between.mp3"
+   },
+   "avoid": [
+    "among",
+    "centre",
+    "middle"
+   ]
+  },
+  {
+   "id": "close-to",
+   "word": "close to",
+   "zh": "靠近；接近",
+   "pos": [
+    "prep phr"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep phr"
+     ],
+     "zh": "靠近；接近"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "close",
+    "to"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Our house is close to the park.",
+    "zh": "我们的房子离公园很近。"
+   },
+   "sentences": [
+    {
+     "en": "Our house is close to the park.",
+     "zh": "我们的房子离公园很近。",
+     "audio": "media/sent/153bff4e91b7.mp3"
+    },
+    {
+     "en": "Stand close to me, Tom.",
+     "zh": "Tom，站在我旁边（靠近我）。",
+     "audio": "media/sent/36687451562e.mp3"
+    },
+    {
+     "en": "The shop is close to the school.",
+     "zh": "商店离学校很近。",
+     "audio": "media/sent/78d63c3f7d2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/close-to.webp"
+   },
+   "avoid": [
+    "beside",
+    "near",
+    "next-to"
+   ]
+  },
+  {
+   "id": "down",
+   "word": "down",
+   "zh": "向下；沿着",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "向下；沿着"
+    }
+   ],
+   "ipa": "/daʊn/",
+   "chunks": [
+    "down"
+   ],
+   "emoji": "⬇️",
+   "sentence": {
+    "en": "Lily runs down the hill.",
+    "zh": "Lily 跑下山。"
+   },
+   "sentences": [
+    {
+     "en": "Lily runs down the hill.",
+     "zh": "Lily 跑下山。",
+     "audio": "media/sent/f5325851858d.mp3"
+    },
+    {
+     "en": "Look down at your shoes.",
+     "zh": "低头看你的鞋子。",
+     "audio": "media/sent/7e571b620fed.mp3"
+    },
+    {
+     "en": "The rain comes down hard.",
+     "zh": "大雨倾盆而下。",
+     "audio": "media/sent/5f418f117134.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/down.webp",
+    "uk": "media/uk/down.mp3",
+    "us": "media/us/down.mp3"
+   },
+   "avoid": [
+    "below",
+    "bottom",
+    "under"
+   ]
+  },
+  {
+   "id": "in",
+   "word": "in",
+   "zh": "在……里面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……里面"
+    }
+   ],
+   "ipa": "/ɪn/",
+   "chunks": [
+    "in"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "The cat is in the box.",
+    "zh": "猫在盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "The cat is in the box.",
+     "zh": "猫在盒子里。",
+     "audio": "media/sent/10f3f1ef71b9.mp3"
+    },
+    {
+     "en": "We play football in the park.",
+     "zh": "我们在公园里踢足球。",
+     "audio": "media/sent/2f0b623b7c1a.mp3"
+    },
+    {
+     "en": "Mum is in the kitchen.",
+     "zh": "妈妈在厨房里。",
+     "audio": "media/sent/e993f2b6581e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/in.webp",
+    "uk": "media/uk/in.mp3",
+    "us": "media/us/in.mp3"
+   },
+   "avoid": [
+    "inside",
+    "into"
+   ]
+  },
+  {
+   "id": "in-front-of",
+   "word": "in front of",
+   "zh": "在……前面",
+   "pos": [
+    "prep phr"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep phr"
+     ],
+     "zh": "在……前面"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "in",
+    "front",
+    "of"
+   ],
+   "emoji": "📸",
+   "sentence": {
+    "en": "Tom stands in front of the car.",
+    "zh": "Tom 站在车前。"
+   },
+   "sentences": [
+    {
+     "en": "Tom stands in front of the car.",
+     "zh": "Tom 站在车前。",
+     "audio": "media/sent/22c26a8b46b5.mp3"
+    },
+    {
+     "en": "There is a tree in front of the house.",
+     "zh": "房子前面有一棵树。",
+     "audio": "media/sent/ba4d880e1c10.mp3"
+    },
+    {
+     "en": "Lily walks in front of us.",
+     "zh": "Lily 走在我们前面。",
+     "audio": "media/sent/4de5279b73be.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/in-front-of.webp"
+   },
+   "avoid": [
+    "front"
+   ]
+  },
+  {
+   "id": "inside",
+   "word": "inside",
+   "zh": "在……里面；在里面",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……里面；在里面"
+    }
+   ],
+   "ipa": "/ˌɪnˈsaɪd/",
+   "chunks": [
+    "in",
+    "side"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "The cat is inside the box.",
+    "zh": "猫在盒子里面。"
+   },
+   "sentences": [
+    {
+     "en": "The cat is inside the box.",
+     "zh": "猫在盒子里面。",
+     "audio": "media/sent/99a91aad73d5.mp3"
+    },
+    {
+     "en": "It's raining, so we stay inside.",
+     "zh": "下雨了，所以我们待在屋里。",
+     "audio": "media/sent/06225ab052b8.mp3"
+    },
+    {
+     "en": "Look inside the bag for your toy.",
+     "zh": "在袋子里找找你的玩具。",
+     "audio": "media/sent/1f39f64bc6a9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/inside.webp",
+    "uk": "media/uk/inside.mp3",
+    "us": "media/us/inside.mp3"
+   },
+   "avoid": [
+    "in",
+    "into"
+   ]
+  },
+  {
+   "id": "into",
+   "word": "into",
+   "zh": "进入；到……里面",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "进入；到……里面"
+    }
+   ],
+   "ipa": "/ˈɪntə/",
+   "chunks": [
+    "in",
+    "to"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Max jumps into the water.",
+    "zh": "Max 跳进水里。"
+   },
+   "sentences": [
+    {
+     "en": "Max jumps into the water.",
+     "zh": "Max 跳进水里。",
+     "audio": "media/sent/7372727a5489.mp3"
+    },
+    {
+     "en": "Tom puts his toys into the box.",
+     "zh": "Tom 把他的玩具放进盒子里。",
+     "audio": "media/sent/55eedcab4327.mp3"
+    },
+    {
+     "en": "She walks into the kitchen.",
+     "zh": "她走进厨房。",
+     "audio": "media/sent/52575bbdddda.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/into.webp",
+    "uk": "media/uk/into.mp3",
+    "us": "media/us/into.mp3"
+   },
+   "avoid": [
+    "in",
+    "inside"
+   ]
+  },
+  {
+   "id": "near",
+   "word": "near",
+   "zh": "在……附近；近",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……附近；近"
+    }
+   ],
+   "ipa": "/nɪə/",
+   "chunks": [
+    "near"
+   ],
+   "emoji": "📍",
+   "sentence": {
+    "en": "The park is near our house.",
+    "zh": "公园在我们家附近。"
+   },
+   "sentences": [
+    {
+     "en": "The park is near our house.",
+     "zh": "公园在我们家附近。",
+     "audio": "media/sent/bd32bef41999.mp3"
+    },
+    {
+     "en": "Come and sit near me, Tom.",
+     "zh": "Tom，过来坐在我旁边。",
+     "audio": "media/sent/cbef76f439be.mp3"
+    },
+    {
+     "en": "Is there a shop near here?",
+     "zh": "这附近有商店吗？",
+     "audio": "media/sent/dbd16260c6cd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/near.webp",
+    "uk": "media/uk/near.mp3",
+    "us": "media/us/near.mp3"
+   },
+   "avoid": [
+    "beside",
+    "close-to",
+    "next-to"
+   ]
+  },
+  {
+   "id": "next-to",
+   "word": "next to",
+   "zh": "紧挨着；在……旁边",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "紧挨着；在……旁边"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "next",
+    "to"
+   ],
+   "emoji": "👭",
+   "sentence": {
+    "en": "Lily sits next to Mia.",
+    "zh": "Lily 坐在 Mia 旁边。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sits next to Mia.",
+     "zh": "Lily 坐在 Mia 旁边。",
+     "audio": "media/sent/208ac684e7ef.mp3"
+    },
+    {
+     "en": "The lamp is next to the bed.",
+     "zh": "台灯在床旁边。",
+     "audio": "media/sent/6882d70839a3.mp3"
+    },
+    {
+     "en": "Grandma lives next to the park.",
+     "zh": "奶奶住在公园旁边。",
+     "audio": "media/sent/e1e92918dc07.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/next-to.webp"
+   },
+   "avoid": [
+    "beside",
+    "close-to",
+    "near"
+   ]
+  },
+  {
+   "id": "off",
+   "word": "off",
+   "zh": "关掉；离开",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "关掉；离开"
+    }
+   ],
+   "ipa": "/ɒf/",
+   "chunks": [
+    "off"
+   ],
+   "emoji": "🔌",
+   "sentence": {
+    "en": "Turn off the light.",
+    "zh": "把灯关掉。"
+   },
+   "sentences": [
+    {
+     "en": "Turn off the light.",
+     "zh": "把灯关掉。",
+     "audio": "media/sent/6deca91cebdc.mp3"
+    },
+    {
+     "en": "The bus stops here. Get off.",
+     "zh": "公交车停这儿了。下车吧。",
+     "audio": "media/sent/e2799df5663e.mp3"
+    },
+    {
+     "en": "Mum takes her coat off.",
+     "zh": "妈妈脱下外套。",
+     "audio": "media/sent/cce5152b45e7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/off.webp",
+    "uk": "media/uk/off.mp3",
+    "us": "media/us/off.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "on",
+   "word": "on",
+   "zh": "在……上面；关于",
+   "pos": [
+    "prep",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep",
+      "adv"
+     ],
+     "zh": "在……上面；关于"
+    }
+   ],
+   "ipa": "/ɒn/",
+   "chunks": [
+    "on"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "The book is on the table.",
+    "zh": "书在桌子上。"
+   },
+   "sentences": [
+    {
+     "en": "The book is on the table.",
+     "zh": "书在桌子上。",
+     "audio": "media/sent/f32b30a0c2f4.mp3"
+    },
+    {
+     "en": "Lily wears a hat on her head.",
+     "zh": "Lily 头上戴着帽子。",
+     "audio": "media/sent/9f9bfd5b7224.mp3"
+    },
+    {
+     "en": "We play games on Sunday.",
+     "zh": "我们星期天玩游戏。",
+     "audio": "media/sent/44be825b21d4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/on.webp",
+    "uk": "media/uk/on.mp3",
+    "us": "media/us/on.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "opposite",
+   "word": "opposite",
+   "zh": "在……对面",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……对面"
+    }
+   ],
+   "ipa": "/ˈɒpəzɪt/",
+   "chunks": [
+    "op",
+    "po",
+    "site"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "The shop is opposite the school.",
+    "zh": "商店在学校对面。"
+   },
+   "sentences": [
+    {
+     "en": "The shop is opposite the school.",
+     "zh": "商店在学校对面。",
+     "audio": "media/sent/5e59df19fa53.mp3"
+    },
+    {
+     "en": "Sam sits opposite me in class.",
+     "zh": "Sam 在教室里坐在我对面。",
+     "audio": "media/sent/3f36b2807a63.mp3"
+    },
+    {
+     "en": "The park is opposite our house.",
+     "zh": "公园在我们家对面。",
+     "audio": "media/sent/c786ff9d5f91.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/opposite.webp",
+    "uk": "media/uk/opposite.mp3",
+    "us": "media/us/opposite.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "out",
+   "word": "out",
+   "zh": "出去；在外面",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "出去；在外面"
+    }
+   ],
+   "ipa": "/aʊt/",
+   "chunks": [
+    "out"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Let's go out and play.",
+    "zh": "我们出去玩吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's go out and play.",
+     "zh": "我们出去玩吧。",
+     "audio": "media/sent/498ccc8ced93.mp3"
+    },
+    {
+     "en": "Tom is playing out in the park.",
+     "zh": "Tom 在公园里外面玩。",
+     "audio": "media/sent/0eac525af955.mp3"
+    },
+    {
+     "en": "She went out to buy milk.",
+     "zh": "她出去买牛奶了。",
+     "audio": "media/sent/4c7384dc3ee4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/out.webp",
+    "uk": "media/uk/out.mp3",
+    "us": "media/us/out.mp3"
+   },
+   "avoid": [
+    "out-of",
+    "outdoors",
+    "outside"
+   ]
+  },
+  {
+   "id": "out-of",
+   "word": "out of",
+   "zh": "从……出来；出于",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "从……出来；出于"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "out",
+    "of"
+   ],
+   "emoji": "📤",
+   "sentence": {
+    "en": "He takes the ball out of the bag.",
+    "zh": "他从包里拿出球。"
+   },
+   "sentences": [
+    {
+     "en": "He takes the ball out of the bag.",
+     "zh": "他从包里拿出球。",
+     "audio": "media/sent/9a66ba98bb97.mp3"
+    },
+    {
+     "en": "Get out of bed, Lily!",
+     "zh": "Lily，起床啦！",
+     "audio": "media/sent/fba02bfeb2f6.mp3"
+    },
+    {
+     "en": "She looks out of the window.",
+     "zh": "她向窗外看。",
+     "audio": "media/sent/194bc95db8fc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/out-of.webp"
+   },
+   "avoid": [
+    "out",
+    "outdoors",
+    "outside"
+   ]
+  },
+  {
+   "id": "outside",
+   "word": "outside",
+   "zh": "在外面；在……外面",
+   "pos": [
+    "prep",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep",
+      "adv"
+     ],
+     "zh": "在外面；在……外面"
+    }
+   ],
+   "ipa": "/ˌaʊtˈsaɪd/",
+   "chunks": [
+    "out",
+    "side"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "It's cold outside.",
+    "zh": "外面很冷。"
+   },
+   "sentences": [
+    {
+     "en": "It's cold outside.",
+     "zh": "外面很冷。",
+     "audio": "media/sent/82903b9ff66d.mp3"
+    },
+    {
+     "en": "Max waits outside the door.",
+     "zh": "Max 在门外等着。",
+     "audio": "media/sent/cf2c336d76ed.mp3"
+    },
+    {
+     "en": "We have lunch outside today.",
+     "zh": "今天我们外面吃午饭。",
+     "audio": "media/sent/43edb50233dc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/outside.webp",
+    "uk": "media/uk/outside.mp3",
+    "us": "media/us/outside.mp3"
+   },
+   "avoid": [
+    "out",
+    "out-of",
+    "outdoors"
+   ]
+  },
+  {
+   "id": "over",
+   "word": "over",
+   "zh": "越过；在……上方",
+   "pos": [
+    "prep",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep",
+      "adv"
+     ],
+     "zh": "越过；在……上方"
+    }
+   ],
+   "ipa": "/ˈəʊvə/",
+   "chunks": [
+    "o",
+    "ver"
+   ],
+   "emoji": "🦘",
+   "sentence": {
+    "en": "The dog jumps over the wall.",
+    "zh": "狗跳过墙。"
+   },
+   "sentences": [
+    {
+     "en": "The dog jumps over the wall.",
+     "zh": "狗跳过墙。",
+     "audio": "media/sent/ecad80b3d622.mp3"
+    },
+    {
+     "en": "Look at the plane flying over the house.",
+     "zh": "看飞机飞过房子上空。",
+     "audio": "media/sent/fd77cba958bb.mp3"
+    },
+    {
+     "en": "The ball goes over the net.",
+     "zh": "球越过网。",
+     "audio": "media/sent/acb08d3cda7a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/over.webp",
+    "uk": "media/uk/over.mp3",
+    "us": "media/us/over.mp3"
+   },
+   "avoid": [
+    "above",
+    "across",
+    "along",
+    "through",
+    "top",
+    "up"
+   ]
+  },
+  {
+   "id": "through",
+   "word": "through",
+   "zh": "穿过；通过",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "穿过；通过"
+    }
+   ],
+   "ipa": "/θruː/",
+   "chunks": [
+    "through"
+   ],
+   "emoji": "🚇",
+   "sentence": {
+    "en": "We walk through the park.",
+    "zh": "我们穿过公园。"
+   },
+   "sentences": [
+    {
+     "en": "We walk through the park.",
+     "zh": "我们穿过公园。",
+     "audio": "media/sent/4aeabe212383.mp3"
+    },
+    {
+     "en": "The train goes through the station.",
+     "zh": "火车经过车站。",
+     "audio": "media/sent/dccb033d0806.mp3"
+    },
+    {
+     "en": "Lily runs through the door.",
+     "zh": "Lily 跑过门口。",
+     "audio": "media/sent/038c73ad231a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/through.webp",
+    "uk": "media/uk/through.mp3",
+    "us": "media/us/through.mp3"
+   },
+   "avoid": [
+    "across",
+    "along",
+    "over"
+   ]
+  },
+  {
+   "id": "under",
+   "word": "under",
+   "zh": "在……下面",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……下面"
+    }
+   ],
+   "ipa": "/ˈʌndə/",
+   "chunks": [
+    "un",
+    "der"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "The cat is under the chair.",
+    "zh": "猫在椅子下面。"
+   },
+   "sentences": [
+    {
+     "en": "The cat is under the chair.",
+     "zh": "猫在椅子下面。",
+     "audio": "media/sent/6abc4a27b59d.mp3"
+    },
+    {
+     "en": "Tom sits under the tree.",
+     "zh": "Tom 坐在树下。",
+     "audio": "media/sent/d647b84b2ff1.mp3"
+    },
+    {
+     "en": "The dog sleeps under the table.",
+     "zh": "狗睡在桌子下面。",
+     "audio": "media/sent/89201fa294d3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/under.webp",
+    "uk": "media/uk/under.mp3",
+    "us": "media/us/under.mp3"
+   },
+   "avoid": [
+    "below",
+    "bottom",
+    "down"
+   ]
+  },
+  {
+   "id": "up",
+   "word": "up",
+   "zh": "向上；起来",
+   "pos": [
+    "prep",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep",
+      "adv"
+     ],
+     "zh": "向上；起来"
+    }
+   ],
+   "ipa": "/ʌp/",
+   "chunks": [
+    "up"
+   ],
+   "emoji": "🧗",
+   "sentence": {
+    "en": "Lily climbs up the tree.",
+    "zh": "Lily 爬上了树。"
+   },
+   "sentences": [
+    {
+     "en": "Lily climbs up the tree.",
+     "zh": "Lily 爬上了树。",
+     "audio": "media/sent/085948ec95ee.mp3"
+    },
+    {
+     "en": "Stand up and say hello.",
+     "zh": "站起来打招呼。",
+     "audio": "media/sent/a0506b671c7b.mp3"
+    },
+    {
+     "en": "The balloon goes up in the sky.",
+     "zh": "气球升到天上。",
+     "audio": "media/sent/cbf17e283168.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/up.webp",
+    "uk": "media/uk/up.mp3",
+    "us": "media/us/up.mp3"
+   },
+   "avoid": [
+    "above",
+    "over",
+    "top"
+   ]
+  },
+  {
+   "id": "upstairs",
+   "word": "upstairs",
+   "zh": "在楼上；上楼",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "在楼上；上楼"
+    }
+   ],
+   "ipa": "/ˌʌpˈsteəz/",
+   "chunks": [
+    "up",
+    "stairs"
+   ],
+   "emoji": "🪜",
+   "sentence": {
+    "en": "Tom is upstairs in his room.",
+    "zh": "Tom 在楼上的房间里。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is upstairs in his room.",
+     "zh": "Tom 在楼上的房间里。",
+     "audio": "media/sent/23e3b781990d.mp3"
+    },
+    {
+     "en": "Go upstairs and wash your hands.",
+     "zh": "上楼去洗手。",
+     "audio": "media/sent/66ee5e92ab5f.mp3"
+    },
+    {
+     "en": "Mum is sleeping upstairs.",
+     "zh": "妈妈在楼上睡觉。",
+     "audio": "media/sent/ae1307eb49ad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/upstairs.webp",
+    "uk": "media/uk/upstairs.mp3",
+    "us": "media/us/upstairs.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "indoors",
+   "word": "indoors",
+   "zh": "在室内",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "在室内"
+    }
+   ],
+   "ipa": "/ˌɪnˈdɔːz/",
+   "chunks": [
+    "in",
+    "doors"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "We stay indoors when it rains.",
+    "zh": "下雨时我们待在室内。"
+   },
+   "sentences": [
+    {
+     "en": "We stay indoors when it rains.",
+     "zh": "下雨时我们待在室内。",
+     "audio": "media/sent/bd184f9df56f.mp3"
+    },
+    {
+     "en": "Max sleeps indoors.",
+     "zh": "Max 在室内睡觉。",
+     "audio": "media/sent/93ce6389bfd3.mp3"
+    },
+    {
+     "en": "It's cold. Let's play indoors.",
+     "zh": "天很冷。我们在室内玩吧。",
+     "audio": "media/sent/b999c4a8b7a3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/indoors.webp",
+    "uk": "media/uk/indoors.mp3",
+    "us": "media/us/indoors.mp3"
+   },
+   "avoid": [
+    "indoor"
+   ]
+  },
+  {
+   "id": "indoor",
+   "word": "indoor",
+   "zh": "室内的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "室内的"
+    }
+   ],
+   "ipa": "/ˈɪndɔː/",
+   "chunks": [
+    "in",
+    "door"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "We have an indoor pool.",
+    "zh": "我们有一个室内游泳池。"
+   },
+   "sentences": [
+    {
+     "en": "We have an indoor pool.",
+     "zh": "我们有一个室内游泳池。",
+     "audio": "media/sent/73ab2def66c0.mp3"
+    },
+    {
+     "en": "Grandpa likes indoor plants.",
+     "zh": "爷爷喜欢室内植物。",
+     "audio": "media/sent/147cf2e0c5fa.mp3"
+    },
+    {
+     "en": "Tom likes indoor games.",
+     "zh": "Tom 喜欢室内游戏。",
+     "audio": "media/sent/d75926b5eeb0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/indoor.webp",
+    "uk": "media/uk/indoor.mp3",
+    "us": "media/us/indoor.mp3"
+   },
+   "avoid": [
+    "indoors"
+   ]
+  },
+  {
+   "id": "outdoor",
+   "word": "outdoor",
+   "zh": "户外的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "户外的"
+    }
+   ],
+   "ipa": "/ˈaʊtdɔː/",
+   "chunks": [
+    "out",
+    "door"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "Dad has an outdoor table.",
+    "zh": "爸爸有一张户外桌子。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has an outdoor table.",
+     "zh": "爸爸有一张户外桌子。",
+     "audio": "media/sent/614976e56081.mp3"
+    },
+    {
+     "en": "We like outdoor sports.",
+     "zh": "我们喜欢户外运动。",
+     "audio": "media/sent/120918854372.mp3"
+    },
+    {
+     "en": "The school has an outdoor pool.",
+     "zh": "学校有一个室外泳池。",
+     "audio": "media/sent/aa7e5917090b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/outdoor.webp",
+    "uk": "media/uk/outdoor.mp3",
+    "us": "media/us/outdoor.mp3"
+   },
+   "avoid": [
+    "outdoors"
+   ]
+  },
+  {
+   "id": "outdoors",
+   "word": "outdoors",
+   "zh": "在户外",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "在户外"
+    }
+   ],
+   "ipa": "/ˌaʊtˈdɔːz/",
+   "chunks": [
+    "out",
+    "doors"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "We play outdoors in the park.",
+    "zh": "我们在公园的户外玩。"
+   },
+   "sentences": [
+    {
+     "en": "We play outdoors in the park.",
+     "zh": "我们在公园的户外玩。",
+     "audio": "media/sent/78cdf4fe139b.mp3"
+    },
+    {
+     "en": "Mum cooks outdoors.",
+     "zh": "妈妈在户外做饭。",
+     "audio": "media/sent/42913cde28af.mp3"
+    },
+    {
+     "en": "It's nice to be outdoors.",
+     "zh": "在户外很舒服。",
+     "audio": "media/sent/c991af708c9b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/outdoors.webp",
+    "uk": "media/uk/outdoors.mp3",
+    "us": "media/us/outdoors.mp3"
+   },
+   "avoid": [
+    "out",
+    "out-of",
+    "outdoor",
+    "outside"
+   ]
+  },
+  {
+   "id": "here",
+   "word": "here",
+   "zh": "这里",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "这里"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "here"
+   ],
+   "emoji": "📍",
+   "sentence": {
+    "en": "Come here, Max!",
+    "zh": "Max，过来！(到这里来)"
+   },
+   "sentences": [
+    {
+     "en": "Come here, Max!",
+     "zh": "Max，过来！(到这里来)",
+     "audio": "media/sent/fa7b3b209699.mp3"
+    },
+    {
+     "en": "The bus stop is here.",
+     "zh": "公交车站在这里。",
+     "audio": "media/sent/3a9436d4f4c0.mp3"
+    },
+    {
+     "en": "Here is your tea, Dad.",
+     "zh": "爸爸，这是你的茶。",
+     "audio": "media/sent/da991156c706.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/here.webp"
+   },
+   "avoid": [
+    "there"
+   ]
+  },
+  {
+   "id": "there",
+   "word": "there",
+   "zh": "那里",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "那里"
+    }
+   ],
+   "ipa": "/ðeə/",
+   "chunks": [
+    "there"
+   ],
+   "emoji": "👉",
+   "sentence": {
+    "en": "Look! The dog is there.",
+    "zh": "看！狗在那里。"
+   },
+   "sentences": [
+    {
+     "en": "Look! The dog is there.",
+     "zh": "看！狗在那里。",
+     "audio": "media/sent/6a80d820f3cc.mp3"
+    },
+    {
+     "en": "Grandma lives over there.",
+     "zh": "奶奶住在那边。",
+     "audio": "media/sent/3c609b593dd8.mp3"
+    },
+    {
+     "en": "The school is just there.",
+     "zh": "学校就在那里。",
+     "audio": "media/sent/d61386085475.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/there.webp",
+    "uk": "media/uk/there.mp3",
+    "us": "media/us/there.mp3"
+   },
+   "avoid": [
+    "here"
+   ]
+  },
+  {
+   "id": "away",
+   "word": "away",
+   "zh": "离开；远处",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "离开；远处"
+    }
+   ],
+   "ipa": "/əˈweɪ/",
+   "chunks": [
+    "a",
+    "way"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Max runs away with Tom's sock.",
+    "zh": "Max 叼着 Tom 的袜子跑开了。"
+   },
+   "sentences": [
+    {
+     "en": "Max runs away with Tom's sock.",
+     "zh": "Max 叼着 Tom 的袜子跑开了。",
+     "audio": "media/sent/ad5d30339d62.mp3"
+    },
+    {
+     "en": "Uncle Ben goes away for work.",
+     "zh": "Ben 叔叔出差去了。",
+     "audio": "media/sent/43271a2dad23.mp3"
+    },
+    {
+     "en": "The shop is far away.",
+     "zh": "商店很远。",
+     "audio": "media/sent/3d656d8bf83e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/away.webp",
+    "uk": "media/uk/away.mp3",
+    "us": "media/us/away.mp3"
+   },
+   "avoid": [
+    "further"
+   ]
+  },
+  {
+   "id": "front",
+   "word": "front",
+   "zh": "前面；正面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "前面；正面"
+    }
+   ],
+   "ipa": "/frʌnt/",
+   "chunks": [
+    "front"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "Tom sits at the front.",
+    "zh": "Tom 坐在最前面。"
+   },
+   "sentences": [
+    {
+     "en": "Tom sits at the front.",
+     "zh": "Tom 坐在最前面。",
+     "audio": "media/sent/9ab24988d75c.mp3"
+    },
+    {
+     "en": "The cat sits by the front door.",
+     "zh": "猫坐在前门旁边。",
+     "audio": "media/sent/eed94949cbcb.mp3"
+    },
+    {
+     "en": "Mum parks at the front.",
+     "zh": "妈妈把车停在前面。",
+     "audio": "media/sent/d06bdc490801.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/front.webp",
+    "uk": "media/uk/front.mp3",
+    "us": "media/us/front.mp3"
+   },
+   "avoid": [
+    "in-front-of"
+   ]
+  },
+  {
+   "id": "side",
+   "word": "side",
+   "zh": "旁边；侧面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "旁边；侧面"
+    }
+   ],
+   "ipa": "/saɪd/",
+   "chunks": [
+    "side"
+   ],
+   "emoji": "↔️",
+   "sentence": {
+    "en": "Max walks by my side.",
+    "zh": "Max 走在我身边。"
+   },
+   "sentences": [
+    {
+     "en": "Max walks by my side.",
+     "zh": "Max 走在我身边。",
+     "audio": "media/sent/048e3b2c7a9c.mp3"
+    },
+    {
+     "en": "There are trees on each side of the road.",
+     "zh": "路两边都有树。",
+     "audio": "media/sent/2f15a8aecaa7.mp3"
+    },
+    {
+     "en": "Look at this side of the card.",
+     "zh": "看这张卡的这一面。",
+     "audio": "media/sent/d2c03b147022.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/side.webp",
+    "uk": "media/uk/side.mp3",
+    "us": "media/us/side.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "top",
+   "word": "top",
+   "zh": "顶部；上面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "顶部；上面"
+    }
+   ],
+   "ipa": "/tɒp/",
+   "chunks": [
+    "top"
+   ],
+   "emoji": "⬆️",
+   "sentence": {
+    "en": "The bird is at the top.",
+    "zh": "鸟在顶上。"
+   },
+   "sentences": [
+    {
+     "en": "The bird is at the top.",
+     "zh": "鸟在顶上。",
+     "audio": "media/sent/037652a85074.mp3"
+    },
+    {
+     "en": "Put it on the top shelf.",
+     "zh": "把它放在最上面的架子上。",
+     "audio": "media/sent/ffcaa2556009.mp3"
+    },
+    {
+     "en": "The mountain has a white top.",
+     "zh": "这座山山顶是白色的。",
+     "audio": "media/sent/b180bf2eb154.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/top.webp",
+    "uk": "media/uk/top.mp3",
+    "us": "media/us/top.mp3"
+   },
+   "avoid": [
+    "above",
+    "over",
+    "up"
+   ]
+  },
+  {
+   "id": "bottom",
+   "word": "bottom",
+   "zh": "底部；下面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "底部；下面"
+    }
+   ],
+   "ipa": "/ˈbɒtəm/",
+   "chunks": [
+    "bot",
+    "tom"
+   ],
+   "emoji": "⬇️",
+   "sentence": {
+    "en": "The cat is at the bottom.",
+    "zh": "猫在下面。"
+   },
+   "sentences": [
+    {
+     "en": "The cat is at the bottom.",
+     "zh": "猫在下面。",
+     "audio": "media/sent/879bee016f70.mp3"
+    },
+    {
+     "en": "Tom waits at the bottom of the stairs.",
+     "zh": "Tom 在楼梯底下等着。",
+     "audio": "media/sent/d44ebc2e1502.mp3"
+    },
+    {
+     "en": "Write your name at the bottom.",
+     "zh": "把你的名字写在下面。",
+     "audio": "media/sent/d09e0f7819ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bottom.webp",
+    "uk": "media/uk/bottom.mp3",
+    "us": "media/us/bottom.mp3"
+   },
+   "avoid": [
+    "below",
+    "down",
+    "under"
+   ]
+  },
+  {
+   "id": "middle",
+   "word": "middle",
+   "zh": "中间",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "中间"
+    }
+   ],
+   "ipa": "/ˈmɪdəl/",
+   "chunks": [
+    "mid",
+    "dle"
+   ],
+   "emoji": "↔️",
+   "sentence": {
+    "en": "Mia sits in the middle.",
+    "zh": "Mia 坐在中间。"
+   },
+   "sentences": [
+    {
+     "en": "Mia sits in the middle.",
+     "zh": "Mia 坐在中间。",
+     "audio": "media/sent/37706123b293.mp3"
+    },
+    {
+     "en": "There is a lake in the middle of the park.",
+     "zh": "公园中间有一个湖。",
+     "audio": "media/sent/610f6c3f243d.mp3"
+    },
+    {
+     "en": "Cut it in the middle.",
+     "zh": "从中间切开它。",
+     "audio": "media/sent/efb020783ab5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/middle.webp",
+    "uk": "media/uk/middle.mp3",
+    "us": "media/us/middle.mp3"
+   },
+   "avoid": [
+    "among",
+    "between",
+    "centre"
+   ]
+  },
+  {
+   "id": "centre",
+   "word": "centre",
+   "zh": "中心；中央",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "中心；中央"
+    }
+   ],
+   "ipa": "/ˈsentə/",
+   "chunks": [
+    "cen",
+    "tre"
+   ],
+   "emoji": "🎯",
+   "sentence": {
+    "en": "The park is in the centre of the town.",
+    "zh": "公园在城镇中心。"
+   },
+   "sentences": [
+    {
+     "en": "The park is in the centre of the town.",
+     "zh": "公园在城镇中心。",
+     "audio": "media/sent/16dc46e6b8d8.mp3"
+    },
+    {
+     "en": "Stand in the centre, Tom.",
+     "zh": "Tom，站在中心。",
+     "audio": "media/sent/8d3682eb65e9.mp3"
+    },
+    {
+     "en": "The bus goes to the centre.",
+     "zh": "公共汽车去市中心。",
+     "audio": "media/sent/f3b57dd5a491.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/centre.webp",
+    "uk": "media/uk/centre.mp3",
+    "us": "media/us/centre.mp3"
+   },
+   "avoid": [
+    "among",
+    "between",
+    "middle"
+   ]
+  },
+  {
+   "id": "further",
+   "word": "further",
+   "zh": "更远的；进一步的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "更远的；进一步的"
+    }
+   ],
+   "ipa": "/ˈfɜːðə/",
+   "chunks": [
+    "fur",
+    "ther"
+   ],
+   "emoji": "🔭",
+   "sentence": {
+    "en": "Go further, please.",
+    "zh": "请再走远一点。"
+   },
+   "sentences": [
+    {
+     "en": "Go further, please.",
+     "zh": "请再走远一点。",
+     "audio": "media/sent/c78934bbc5b2.mp3"
+    },
+    {
+     "en": "The school is further away.",
+     "zh": "学校在更远的地方。",
+     "audio": "media/sent/fe255daa743a.mp3"
+    },
+    {
+     "en": "Can you walk a bit further, Tom?",
+     "zh": "Tom，你能再往前走一点吗？",
+     "audio": "media/sent/6a625b043739.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/further.webp",
+    "uk": "media/uk/further.mp3",
+    "us": "media/us/further.mp3"
+   },
+   "avoid": [
+    "away"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1841 @@
+{
+ "id": "core-move",
+ "words": [
+  {
+   "id": "come",
+   "word": "come",
+   "zh": "来；来到",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "来；来到"
+    }
+   ],
+   "ipa": "/kʌm/",
+   "chunks": [
+    "come"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Mia comes to my house after school.",
+    "zh": "Mia 放学后来到我家。"
+   },
+   "sentences": [
+    {
+     "en": "Mia comes to my house after school.",
+     "zh": "Mia 放学后来到我家。",
+     "audio": "media/sent/d98613cf261d.mp3"
+    },
+    {
+     "en": "Can you come here, Tom?",
+     "zh": "Tom，你能过来一下吗？",
+     "audio": "media/sent/17b6d5a89951.mp3"
+    },
+    {
+     "en": "Grandma comes to visit us on Sunday.",
+     "zh": "奶奶星期天来看我们。",
+     "audio": "media/sent/f1c25ff9fa09.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/come.webp",
+    "uk": "media/uk/come.mp3",
+    "us": "media/us/come.mp3"
+   },
+   "avoid": [
+    "arrive",
+    "come-back",
+    "get-back"
+   ]
+  },
+  {
+   "id": "come-back",
+   "word": "come back",
+   "zh": "回来；返回",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "回来；返回"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "come",
+    "back"
+   ],
+   "emoji": "🔙",
+   "sentence": {
+    "en": "Dad comes back from work at five.",
+    "zh": "爸爸五点下班回家。"
+   },
+   "sentences": [
+    {
+     "en": "Dad comes back from work at five.",
+     "zh": "爸爸五点下班回家。",
+     "audio": "media/sent/fbc02b64c75e.mp3"
+    },
+    {
+     "en": "Please come back early!",
+     "zh": "请早点回来！",
+     "audio": "media/sent/343891571812.mp3"
+    },
+    {
+     "en": "The birds come back in spring.",
+     "zh": "鸟儿在春天飞回来。",
+     "audio": "media/sent/42c470cd062f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/come-back.webp"
+   },
+   "avoid": [
+    "arrive",
+    "come",
+    "get-back"
+   ]
+  },
+  {
+   "id": "go",
+   "word": "go",
+   "zh": "去；走",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "去；走"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "go"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "We go to the park on Saturday.",
+    "zh": "我们星期六去公园。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the park on Saturday.",
+     "zh": "我们星期六去公园。",
+     "audio": "media/sent/d96e5164edc2.mp3"
+    },
+    {
+     "en": "Let's go to school now.",
+     "zh": "我们现在去上学吧。",
+     "audio": "media/sent/30af0a0399c4.mp3"
+    },
+    {
+     "en": "Where does the road go?",
+     "zh": "这条路通向哪里？",
+     "audio": "media/sent/c20ba5d1feb5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/go.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "arrive",
+   "word": "arrive",
+   "zh": "到达",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "到达"
+    }
+   ],
+   "ipa": "/əˈraɪv/",
+   "chunks": [
+    "ar",
+    "rive"
+   ],
+   "emoji": "🏁",
+   "sentence": {
+    "en": "The train arrives at the station.",
+    "zh": "火车到站了。"
+   },
+   "sentences": [
+    {
+     "en": "The train arrives at the station.",
+     "zh": "火车到站了。",
+     "audio": "media/sent/9fe32931563e.mp3"
+    },
+    {
+     "en": "We arrive home late today.",
+     "zh": "我们今天很晚才到家。",
+     "audio": "media/sent/27307d0364d4.mp3"
+    },
+    {
+     "en": "Sam arrives at the party at six.",
+     "zh": "Sam 六点到达聚会现场。",
+     "audio": "media/sent/86e175f193d9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/arrive.webp",
+    "uk": "media/uk/arrive.mp3",
+    "us": "media/us/arrive.mp3"
+   },
+   "avoid": [
+    "come",
+    "come-back",
+    "get-back"
+   ]
+  },
+  {
+   "id": "bring",
+   "word": "bring",
+   "zh": "带来",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "带来"
+    }
+   ],
+   "ipa": "/brɪŋ/",
+   "chunks": [
+    "bring"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Please bring your bag to school.",
+    "zh": "请把书包带到学校来。"
+   },
+   "sentences": [
+    {
+     "en": "Please bring your bag to school.",
+     "zh": "请把书包带到学校来。",
+     "audio": "media/sent/20692d8c5054.mp3"
+    },
+    {
+     "en": "Mum brings some cookies for us.",
+     "zh": "妈妈给我们带了一些饼干。",
+     "audio": "media/sent/d2c12770d7ef.mp3"
+    },
+    {
+     "en": "Can you bring me a glass of water?",
+     "zh": "你能给我拿杯水来吗？",
+     "audio": "media/sent/fa588f5e74e9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bring.webp",
+    "uk": "media/uk/bring.mp3",
+    "us": "media/us/bring.mp3"
+   },
+   "avoid": [
+    "bring-back",
+    "carry"
+   ]
+  },
+  {
+   "id": "bring-back",
+   "word": "bring back",
+   "zh": "带回；还回",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "带回；还回"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bring",
+    "back"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Don't forget to bring the book back.",
+    "zh": "别忘了把书带回来。"
+   },
+   "sentences": [
+    {
+     "en": "Don't forget to bring the book back.",
+     "zh": "别忘了把书带回来。",
+     "audio": "media/sent/2f27b92c6f21.mp3"
+    },
+    {
+     "en": "Tom brings his toy car back home.",
+     "zh": "Tom 把他的玩具车带回家了。",
+     "audio": "media/sent/2a9ea8f80233.mp3"
+    },
+    {
+     "en": "We bring back some flowers from Grandma's house.",
+     "zh": "我们从奶奶家带回一些花。",
+     "audio": "media/sent/4a0d921ccea4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bring-back.webp"
+   },
+   "avoid": [
+    "bring",
+    "carry"
+   ]
+  },
+  {
+   "id": "carry",
+   "word": "carry",
+   "zh": "提；搬",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "提；搬"
+    }
+   ],
+   "ipa": "/ˈkæri/",
+   "chunks": [
+    "car",
+    "ry"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "Dad carries the heavy box upstairs.",
+    "zh": "爸爸把重箱子搬到楼上。"
+   },
+   "sentences": [
+    {
+     "en": "Dad carries the heavy box upstairs.",
+     "zh": "爸爸把重箱子搬到楼上。",
+     "audio": "media/sent/de079fee4330.mp3"
+    },
+    {
+     "en": "I can carry my school bag myself.",
+     "zh": "我能自己背我的书包。",
+     "audio": "media/sent/e9a8ebfe556f.mp3"
+    },
+    {
+     "en": "The dog carries a ball in its mouth.",
+     "zh": "狗嘴里叼着一个球。",
+     "audio": "media/sent/06f84c3e6266.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/carry.webp",
+    "uk": "media/uk/carry.mp3",
+    "us": "media/us/carry.mp3"
+   },
+   "avoid": [
+    "bring",
+    "bring-back"
+   ]
+  },
+  {
+   "id": "cross",
+   "word": "cross",
+   "zh": "穿过；横穿",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "穿过；横穿"
+    }
+   ],
+   "ipa": "/krɒs/",
+   "chunks": [
+    "cross"
+   ],
+   "emoji": "🚸",
+   "sentence": {
+    "en": "Look left and right before you cross.",
+    "zh": "过马路前先看左右两边。"
+   },
+   "sentences": [
+    {
+     "en": "Look left and right before you cross.",
+     "zh": "过马路前先看左右两边。",
+     "audio": "media/sent/73699799eb9c.mp3"
+    },
+    {
+     "en": "Be careful when you cross the road.",
+     "zh": "过马路时要小心。",
+     "audio": "media/sent/3b8c4a11fc5a.mp3"
+    },
+    {
+     "en": "We cross the bridge to get home.",
+     "zh": "我们过桥回家。",
+     "audio": "media/sent/a7afecfc5e7a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cross.webp",
+    "uk": "media/uk/cross.mp3",
+    "us": "media/us/cross.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "drop",
+   "word": "drop",
+   "zh": "掉落；落下",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "掉落；落下"
+    }
+   ],
+   "ipa": "/drɒp/",
+   "chunks": [
+    "drop"
+   ],
+   "emoji": "📉",
+   "sentence": {
+    "en": "Tom drops his ice cream on the floor.",
+    "zh": "Tom 把冰淇淋掉在地板上了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom drops his ice cream on the floor.",
+     "zh": "Tom 把冰淇淋掉在地板上了。",
+     "audio": "media/sent/96d98fbc3f20.mp3"
+    },
+    {
+     "en": "Don't drop the glass!",
+     "zh": "别把杯子摔了！",
+     "audio": "media/sent/4420b0c11d78.mp3"
+    },
+    {
+     "en": "Leaves drop from the trees in autumn.",
+     "zh": "秋天树叶从树上落下。",
+     "audio": "media/sent/92a6bd42532e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drop.webp",
+    "uk": "media/uk/drop.mp3",
+    "us": "media/us/drop.mp3"
+   },
+   "avoid": [
+    "fall-over"
+   ]
+  },
+  {
+   "id": "fall-over",
+   "word": "fall over",
+   "zh": "摔倒；跌倒",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "摔倒；跌倒"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "fall",
+    "over"
+   ],
+   "emoji": "🤸",
+   "sentence": {
+    "en": "Max runs too fast and falls over.",
+    "zh": "Max 跑得太快摔倒了。"
+   },
+   "sentences": [
+    {
+     "en": "Max runs too fast and falls over.",
+     "zh": "Max 跑得太快摔倒了。",
+     "audio": "media/sent/db4c5f75ee52.mp3"
+    },
+    {
+     "en": "Be careful not to fall over!",
+     "zh": "小心别摔倒！",
+     "audio": "media/sent/3b74203d4d55.mp3"
+    },
+    {
+     "en": "Tom fell over but he is fine.",
+     "zh": "Tom 摔倒了，但他没事。",
+     "audio": "media/sent/a1392e2c5025.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fall-over.webp"
+   },
+   "avoid": [
+    "drop"
+   ]
+  },
+  {
+   "id": "follow",
+   "word": "follow",
+   "zh": "跟随；跟着",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "跟随；跟着"
+    }
+   ],
+   "ipa": "/ˈfɒləʊ/",
+   "chunks": [
+    "fol",
+    "low"
+   ],
+   "emoji": "👣",
+   "sentence": {
+    "en": "Please follow me to the car.",
+    "zh": "请跟我到车那里去。"
+   },
+   "sentences": [
+    {
+     "en": "Please follow me to the car.",
+     "zh": "请跟我到车那里去。",
+     "audio": "media/sent/ef4a7dbcf948.mp3"
+    },
+    {
+     "en": "The dog follows us everywhere.",
+     "zh": "狗到处跟着我们。",
+     "audio": "media/sent/12c9746a65c2.mp3"
+    },
+    {
+     "en": "Follow the signs to the park.",
+     "zh": "沿着指示牌走到公园去。",
+     "audio": "media/sent/4de7d601da5b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/follow.webp",
+    "uk": "media/uk/follow.mp3",
+    "us": "media/us/follow.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "get",
+   "word": "get",
+   "zh": "得到；收到",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "得到；收到"
+    }
+   ],
+   "ipa": "/ɡet/",
+   "chunks": [
+    "get"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Lily gets a new bike for her birthday.",
+    "zh": "Lily 生日时得到了一辆新自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gets a new bike for her birthday.",
+     "zh": "Lily 生日时得到了一辆新自行车。",
+     "audio": "media/sent/44e75b219a7c.mp3"
+    },
+    {
+     "en": "What time do you get home?",
+     "zh": "你几点到家？",
+     "audio": "media/sent/179e6fcce9cd.mp3"
+    },
+    {
+     "en": "I want to get some fresh milk.",
+     "zh": "我想买些新鲜牛奶。",
+     "audio": "media/sent/858cdb606c14.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get.webp",
+    "uk": "media/uk/get.mp3",
+    "us": "media/us/get.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "get-back",
+   "word": "get back",
+   "zh": "回来；返回",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "回来；返回"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "back"
+   ],
+   "emoji": "🔙",
+   "sentence": {
+    "en": "When do you get back from school?",
+    "zh": "你什么时候从学校回来？"
+   },
+   "sentences": [
+    {
+     "en": "When do you get back from school?",
+     "zh": "你什么时候从学校回来？",
+     "audio": "media/sent/0a076849e9f3.mp3"
+    },
+    {
+     "en": "We get back home at six o'clock.",
+     "zh": "我们六点钟回到家。",
+     "audio": "media/sent/e3ad9ab52a31.mp3"
+    },
+    {
+     "en": "The bus gets back to the stop soon.",
+     "zh": "公共汽车很快就会回到车站。",
+     "audio": "media/sent/15796372502f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-back.webp"
+   },
+   "avoid": [
+    "arrive",
+    "come",
+    "come-back"
+   ]
+  },
+  {
+   "id": "get-off",
+   "word": "get off",
+   "zh": "下车；下来",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "下车；下来"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "off"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "We get off the bus at the corner.",
+    "zh": "我们在拐角处下公交车。"
+   },
+   "sentences": [
+    {
+     "en": "We get off the bus at the corner.",
+     "zh": "我们在拐角处下公交车。",
+     "audio": "media/sent/957a65e75f8e.mp3"
+    },
+    {
+     "en": "Please get off the chair carefully.",
+     "zh": "请小心地从椅子上下来。",
+     "audio": "media/sent/1fad158be899.mp3"
+    },
+    {
+     "en": "Dad gets off his bike to say hello.",
+     "zh": "爸爸从自行车上下来打招呼。",
+     "audio": "media/sent/6a2a1250d758.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-off.webp"
+   },
+   "avoid": [
+    "get-on"
+   ]
+  },
+  {
+   "id": "get-on",
+   "word": "get on",
+   "zh": "上车；骑上",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "上车；骑上"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "on"
+   ],
+   "emoji": "🚂",
+   "sentence": {
+    "en": "Let's get on the train now.",
+    "zh": "我们现在上火车吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's get on the train now.",
+     "zh": "我们现在上火车吧。",
+     "audio": "media/sent/cab141f796a5.mp3"
+    },
+    {
+     "en": "Tom gets on his bike and rides away.",
+     "zh": "Tom 骑上自行车骑走了。",
+     "audio": "media/sent/a79e77dbcf66.mp3"
+    },
+    {
+     "en": "Be careful when you get on the bus.",
+     "zh": "上公共汽车时要小心。",
+     "audio": "media/sent/cfd0f4216ec6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-on.webp"
+   },
+   "avoid": [
+    "get-off"
+   ]
+  },
+  {
+   "id": "get-up",
+   "word": "get up",
+   "zh": "起床；起来",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "起床；起来"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "up"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "I get up at seven o'clock.",
+    "zh": "我七点钟起床。"
+   },
+   "sentences": [
+    {
+     "en": "I get up at seven o'clock.",
+     "zh": "我七点钟起床。",
+     "audio": "media/sent/f25f09cff880.mp3"
+    },
+    {
+     "en": "Tom gets up late on Sundays.",
+     "zh": "Tom 星期天起得晚。",
+     "audio": "media/sent/09a7bd4230ab.mp3"
+    },
+    {
+     "en": "It's time to get up and brush your teeth.",
+     "zh": "该起床刷牙了。",
+     "audio": "media/sent/4fbb1ecae852.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-up.webp"
+   },
+   "avoid": [
+    "stand"
+   ]
+  },
+  {
+   "id": "hit",
+   "word": "hit",
+   "zh": "打；击中",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "打；击中"
+    }
+   ],
+   "ipa": "/hɪt/",
+   "chunks": [
+    "hit"
+   ],
+   "emoji": "🎾",
+   "sentence": {
+    "en": "Lily hits the ball with her racket.",
+    "zh": "Lily 用球拍击球。"
+   },
+   "sentences": [
+    {
+     "en": "Lily hits the ball with her racket.",
+     "zh": "Lily 用球拍击球。",
+     "audio": "media/sent/ca7f7751b389.mp3"
+    },
+    {
+     "en": "Don't hit your brother!",
+     "zh": "别打你哥哥！",
+     "audio": "media/sent/61beeec0ef8e.mp3"
+    },
+    {
+     "en": "The rain hits the window hard.",
+     "zh": "雨点重重地打在窗户上。",
+     "audio": "media/sent/d13242d4af94.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hit.webp",
+    "uk": "media/uk/hit.mp3",
+    "us": "media/us/hit.mp3"
+   },
+   "avoid": [
+    "kick"
+   ]
+  },
+  {
+   "id": "hold",
+   "word": "hold",
+   "zh": "拿着；握住",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "拿着；握住"
+    }
+   ],
+   "ipa": "/həʊld/",
+   "chunks": [
+    "hold"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Mum holds my hand in the park.",
+    "zh": "妈妈在公园里牵着我的手。"
+   },
+   "sentences": [
+    {
+     "en": "Mum holds my hand in the park.",
+     "zh": "妈妈在公园里牵着我的手。",
+     "audio": "media/sent/82ea8fdb02ff.mp3"
+    },
+    {
+     "en": "Can you hold this bag for me?",
+     "zh": "你能帮我拿一下这个袋子吗？",
+     "audio": "media/sent/e1dcd1057d9a.mp3"
+    },
+    {
+     "en": "Tom holds his bear in bed.",
+     "zh": "Tom 在床上抱着他的熊。",
+     "audio": "media/sent/29942dcb691a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hold.webp",
+    "uk": "media/uk/hold.mp3",
+    "us": "media/us/hold.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "jump",
+   "word": "jump",
+   "zh": "跳；跳跃",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "跳；跳跃"
+    }
+   ],
+   "ipa": "/dʒʌmp/",
+   "chunks": [
+    "jump"
+   ],
+   "emoji": "🦘",
+   "sentence": {
+    "en": "The rabbit jumps over the wall.",
+    "zh": "兔子跳过墙。"
+   },
+   "sentences": [
+    {
+     "en": "The rabbit jumps over the wall.",
+     "zh": "兔子跳过墙。",
+     "audio": "media/sent/2c1cc82f8764.mp3"
+    },
+    {
+     "en": "Let's jump on the bed!",
+     "zh": "我们在床上跳吧！",
+     "audio": "media/sent/d1af4ff104cc.mp3"
+    },
+    {
+     "en": "Tom can jump very high.",
+     "zh": "Tom 能跳得很高。",
+     "audio": "media/sent/c9335046dd82.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/jump.webp",
+    "uk": "media/uk/jump.mp3",
+    "us": "media/us/jump.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "kick",
+   "word": "kick",
+   "zh": "踢；一脚",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "踢；一脚"
+    }
+   ],
+   "ipa": "/kɪk/",
+   "chunks": [
+    "kick"
+   ],
+   "emoji": "🦵",
+   "sentence": {
+    "en": "Tom kicks the football hard.",
+    "zh": "Tom 用力踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "Tom kicks the football hard.",
+     "zh": "Tom 用力踢足球。",
+     "audio": "media/sent/c9c341c83011.mp3"
+    },
+    {
+     "en": "Max tries to kick the ball.",
+     "zh": "Max 试着踢球。",
+     "audio": "media/sent/cfbd57836b32.mp3"
+    },
+    {
+     "en": "Don't kick the door!",
+     "zh": "别踢门！",
+     "audio": "media/sent/0d19fd10af43.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kick.webp",
+    "uk": "media/uk/kick.mp3",
+    "us": "media/us/kick.mp3"
+   },
+   "avoid": [
+    "hit"
+   ]
+  },
+  {
+   "id": "pull",
+   "word": "pull",
+   "zh": "拉；拽",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "拉；拽"
+    }
+   ],
+   "ipa": "/pʊl/",
+   "chunks": [
+    "pull"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Mum pulls the heavy door open.",
+    "zh": "妈妈把沉重的门拉开。"
+   },
+   "sentences": [
+    {
+     "en": "Mum pulls the heavy door open.",
+     "zh": "妈妈把沉重的门拉开。",
+     "audio": "media/sent/879444a09b57.mp3"
+    },
+    {
+     "en": "Please pull your chair in.",
+     "zh": "请把椅子拉进来。",
+     "audio": "media/sent/68f6c9f6d260.mp3"
+    },
+    {
+     "en": "Dad pulls the toy car.",
+     "zh": "爸爸拉着玩具车。",
+     "audio": "media/sent/4966f981a596.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pull.webp",
+    "uk": "media/uk/pull.mp3",
+    "us": "media/us/pull.mp3"
+   },
+   "avoid": [
+    "push"
+   ]
+  },
+  {
+   "id": "push",
+   "word": "push",
+   "zh": "推",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "推"
+    }
+   ],
+   "ipa": "/pʊʃ/",
+   "chunks": [
+    "push"
+   ],
+   "emoji": "👋",
+   "sentence": {
+    "en": "Lily pushes the door.",
+    "zh": "Lily 推门。"
+   },
+   "sentences": [
+    {
+     "en": "Lily pushes the door.",
+     "zh": "Lily 推门。",
+     "audio": "media/sent/02296ac98c2b.mp3"
+    },
+    {
+     "en": "Can you push the gate?",
+     "zh": "你能推开大门吗？",
+     "audio": "media/sent/0ed409510c4a.mp3"
+    },
+    {
+     "en": "Dad pushes the car.",
+     "zh": "爸爸推车。",
+     "audio": "media/sent/6d3dc55f65fa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/push.webp",
+    "uk": "media/uk/push.mp3",
+    "us": "media/us/push.mp3"
+   },
+   "avoid": [
+    "pull"
+   ]
+  },
+  {
+   "id": "put",
+   "word": "put",
+   "zh": "放",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "放"
+    }
+   ],
+   "ipa": "/pʊt/",
+   "chunks": [
+    "put"
+   ],
+   "emoji": "📥",
+   "sentence": {
+    "en": "Put your shoes by the door.",
+    "zh": "把鞋子放在门边。"
+   },
+   "sentences": [
+    {
+     "en": "Put your shoes by the door.",
+     "zh": "把鞋子放在门边。",
+     "audio": "media/sent/189c8689981f.mp3"
+    },
+    {
+     "en": "Mum puts flowers in water.",
+     "zh": "妈妈把花放在水里。",
+     "audio": "media/sent/3d23c3e2d38a.mp3"
+    },
+    {
+     "en": "Tom puts his bag down.",
+     "zh": "Tom 放下他的书包。",
+     "audio": "media/sent/71d23fb91e1e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/put.webp",
+    "uk": "media/uk/put.mp3",
+    "us": "media/us/put.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sit",
+   "word": "sit",
+   "zh": "坐",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "坐"
+    }
+   ],
+   "ipa": "/sɪt/",
+   "chunks": [
+    "sit"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Grandma sits in her armchair.",
+    "zh": "奶奶坐在扶手椅里。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma sits in her armchair.",
+     "zh": "奶奶坐在扶手椅里。",
+     "audio": "media/sent/855eeb3db055.mp3"
+    },
+    {
+     "en": "Please sit down at the table.",
+     "zh": "请在桌边坐下。",
+     "audio": "media/sent/c136d85316b2.mp3"
+    },
+    {
+     "en": "Max sits on the floor.",
+     "zh": "Max 坐在地板上。",
+     "audio": "media/sent/7fab1d0b3941.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sit.webp",
+    "uk": "media/uk/sit.mp3",
+    "us": "media/us/sit.mp3"
+   },
+   "avoid": [
+    "sit-down"
+   ]
+  },
+  {
+   "id": "sit-down",
+   "word": "sit down",
+   "zh": "坐下",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "坐下"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sit",
+    "down"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "The class sits down quietly.",
+    "zh": "同学们安静地坐下了。"
+   },
+   "sentences": [
+    {
+     "en": "The class sits down quietly.",
+     "zh": "同学们安静地坐下了。",
+     "audio": "media/sent/4916ff5253ad.mp3"
+    },
+    {
+     "en": "Mum asks Tom to sit down.",
+     "zh": "妈妈让 Tom 坐下。",
+     "audio": "media/sent/4eeb7f814a84.mp3"
+    },
+    {
+     "en": "We sit down for lunch.",
+     "zh": "我们坐下吃午饭。",
+     "audio": "media/sent/70d73ab8e5a7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sit-down.webp"
+   },
+   "avoid": [
+    "sit"
+   ]
+  },
+  {
+   "id": "stand",
+   "word": "stand",
+   "zh": "站；站立",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "站；站立"
+    }
+   ],
+   "ipa": "/stænd/",
+   "chunks": [
+    "stand"
+   ],
+   "emoji": "🧍",
+   "sentence": {
+    "en": "Dad stands in the kitchen.",
+    "zh": "爸爸站在厨房里。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stands in the kitchen.",
+     "zh": "爸爸站在厨房里。",
+     "audio": "media/sent/c832a0c192c5.mp3"
+    },
+    {
+     "en": "Tom stands up tall.",
+     "zh": "Tom 站得高高的。",
+     "audio": "media/sent/044f2f80cfb3.mp3"
+    },
+    {
+     "en": "Please stand here.",
+     "zh": "请站在这里。",
+     "audio": "media/sent/2e12d57c36bb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stand.webp",
+    "uk": "media/uk/stand.mp3",
+    "us": "media/us/stand.mp3"
+   },
+   "avoid": [
+    "get-up"
+   ]
+  },
+  {
+   "id": "turn",
+   "word": "turn",
+   "zh": "转；翻",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "转；翻"
+    }
+   ],
+   "ipa": "/tɜːn/",
+   "chunks": [
+    "turn"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "Lily turns the page of her book.",
+    "zh": "Lily 翻过书的一页。"
+   },
+   "sentences": [
+    {
+     "en": "Lily turns the page of her book.",
+     "zh": "Lily 翻过书的一页。",
+     "audio": "media/sent/75f232501f2a.mp3"
+    },
+    {
+     "en": "Turn left at the corner.",
+     "zh": "在拐角处向左转。",
+     "audio": "media/sent/32ab26f44296.mp3"
+    },
+    {
+     "en": "Dad turns off the light.",
+     "zh": "爸爸关灯。",
+     "audio": "media/sent/cb4ad74afd9b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/turn.webp",
+    "uk": "media/uk/turn.mp3",
+    "us": "media/us/turn.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dive",
+   "word": "dive",
+   "zh": "跳水；潜水",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "跳水；潜水"
+    }
+   ],
+   "ipa": "/daɪv/",
+   "chunks": [
+    "dive"
+   ],
+   "emoji": "🤿",
+   "sentence": {
+    "en": "Sam dives into the pool.",
+    "zh": "Sam 跳进游泳池。"
+   },
+   "sentences": [
+    {
+     "en": "Sam dives into the pool.",
+     "zh": "Sam 跳进游泳池。",
+     "audio": "media/sent/b213561ec734.mp3"
+    },
+    {
+     "en": "Fish dive deep in the sea.",
+     "zh": "鱼在海里潜得很深。",
+     "audio": "media/sent/691da4fbd612.mp3"
+    },
+    {
+     "en": "Be careful not to dive here.",
+     "zh": "小心别在这里跳水。",
+     "audio": "media/sent/a05f5ab94bc2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dive.webp",
+    "uk": "media/uk/dive.mp3",
+    "us": "media/us/dive.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sail",
+   "word": "sail",
+   "zh": "航行；帆船运动",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "航行；帆船运动"
+    }
+   ],
+   "ipa": "/seɪl/",
+   "chunks": [
+    "sail"
+   ],
+   "emoji": "⛵",
+   "sentence": {
+    "en": "Uncle Ben sails his boat.",
+    "zh": "Ben 叔叔驾驶他的船。"
+   },
+   "sentences": [
+    {
+     "en": "Uncle Ben sails his boat.",
+     "zh": "Ben 叔叔驾驶他的船。",
+     "audio": "media/sent/fbd3e5917c64.mp3"
+    },
+    {
+     "en": "We learn to sail in summer.",
+     "zh": "我们在夏天学习帆船运动。",
+     "audio": "media/sent/00f0cfa31e9e.mp3"
+    },
+    {
+     "en": "The boat sails fast.",
+     "zh": "船航行得很快。",
+     "audio": "media/sent/7369c9c69884.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sail.webp",
+    "uk": "media/uk/sail.mp3",
+    "us": "media/us/sail.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "cycle",
+   "word": "cycle",
+   "zh": "骑自行车",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "骑自行车"
+    }
+   ],
+   "ipa": "/ˈsaɪkəl/",
+   "chunks": [
+    "cy",
+    "cle"
+   ],
+   "emoji": "🚲",
+   "sentence": {
+    "en": "Lily cycles to school.",
+    "zh": "Lily 骑自行车去学校。"
+   },
+   "sentences": [
+    {
+     "en": "Lily cycles to school.",
+     "zh": "Lily 骑自行车去学校。",
+     "audio": "media/sent/4d45cb562ae3.mp3"
+    },
+    {
+     "en": "Do you cycle on Sunday?",
+     "zh": "你星期天骑自行车吗？",
+     "audio": "media/sent/66571487be80.mp3"
+    },
+    {
+     "en": "We cycle in the park.",
+     "zh": "我们在公园里骑自行车。",
+     "audio": "media/sent/aa2c92b5201b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cycle.webp",
+    "uk": "media/uk/cycle.mp3",
+    "us": "media/us/cycle.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "hurry",
+   "word": "hurry",
+   "zh": "匆忙；赶紧",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "匆忙；赶紧"
+    }
+   ],
+   "ipa": "/ˈhʌri/",
+   "chunks": [
+    "hur",
+    "ry"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "Mum hurries to the bus stop.",
+    "zh": "妈妈匆匆忙忙去公交车站。"
+   },
+   "sentences": [
+    {
+     "en": "Mum hurries to the bus stop.",
+     "zh": "妈妈匆匆忙忙去公交车站。",
+     "audio": "media/sent/4d2a9c6a0e9f.mp3"
+    },
+    {
+     "en": "Hurry up, Tom!",
+     "zh": "快点，Tom！",
+     "audio": "media/sent/007563a9da99.mp3"
+    },
+    {
+     "en": "Don't hurry, we have time.",
+     "zh": "别着急，我们有时间。",
+     "audio": "media/sent/7937a8b13eef.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hurry.webp",
+    "uk": "media/uk/hurry.mp3",
+    "us": "media/us/hurry.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "wait",
+   "word": "wait",
+   "zh": "等待",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "等待"
+    }
+   ],
+   "ipa": "/weɪt/",
+   "chunks": [
+    "wait"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "We wait for the train.",
+    "zh": "我们等火车。"
+   },
+   "sentences": [
+    {
+     "en": "We wait for the train.",
+     "zh": "我们等火车。",
+     "audio": "media/sent/e8c53d0609b6.mp3"
+    },
+    {
+     "en": "Please wait here.",
+     "zh": "请在这里等候。",
+     "audio": "media/sent/06d4b6b443ae.mp3"
+    },
+    {
+     "en": "Max waits by the door.",
+     "zh": "Max 在门边等着。",
+     "audio": "media/sent/9a0a496d26d4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wait.webp",
+    "uk": "media/uk/wait.mp3",
+    "us": "media/us/wait.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "pass",
+   "word": "pass",
+   "zh": "传递；经过",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "传递；经过"
+    }
+   ],
+   "ipa": "/pɑːs/",
+   "chunks": [
+    "pass"
+   ],
+   "emoji": "🤲",
+   "sentence": {
+    "en": "Please pass the salt.",
+    "zh": "请把盐递给我。"
+   },
+   "sentences": [
+    {
+     "en": "Please pass the salt.",
+     "zh": "请把盐递给我。",
+     "audio": "media/sent/7e1562720115.mp3"
+    },
+    {
+     "en": "The bus passes our house.",
+     "zh": "公交车经过我们家。",
+     "audio": "media/sent/d2b335aacd8a.mp3"
+    },
+    {
+     "en": "Lily passes the ball to Tom.",
+     "zh": "Lily 把球传给 Tom。",
+     "audio": "media/sent/2721adac1738.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pass.webp",
+    "uk": "media/uk/pass.mp3",
+    "us": "media/us/pass.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "shut",
+   "word": "shut",
+   "zh": "关；合上",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "关；合上"
+    }
+   ],
+   "ipa": "/ʃʌt/",
+   "chunks": [
+    "shut"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "Tom shuts the window.",
+    "zh": "Tom 关上窗户。"
+   },
+   "sentences": [
+    {
+     "en": "Tom shuts the window.",
+     "zh": "Tom 关上窗户。",
+     "audio": "media/sent/6394efd8071d.mp3"
+    },
+    {
+     "en": "Please shut the door.",
+     "zh": "请关上门。",
+     "audio": "media/sent/7468a5cba9f2.mp3"
+    },
+    {
+     "en": "Mum shuts her laptop.",
+     "zh": "妈妈合上她的笔记本电脑。",
+     "audio": "media/sent/08d088d0e791.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shut.webp",
+    "uk": "media/uk/shut.mp3",
+    "us": "media/us/shut.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "climbing",
+   "word": "climbing",
+   "zh": "攀爬；攀岩",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "攀爬；攀岩"
+    }
+   ],
+   "ipa": "/ˈklaɪmɪŋ/",
+   "chunks": [
+    "climb",
+    "ing"
+   ],
+   "emoji": "🧗",
+   "sentence": {
+    "en": "Sam enjoys climbing trees.",
+    "zh": "Sam 喜欢爬树。"
+   },
+   "sentences": [
+    {
+     "en": "Sam enjoys climbing trees.",
+     "zh": "Sam 喜欢爬树。",
+     "audio": "media/sent/20080abf1a5c.mp3"
+    },
+    {
+     "en": "Climbing is good exercise.",
+     "zh": "攀爬是很好的锻炼。",
+     "audio": "media/sent/53f3c94361fa.mp3"
+    },
+    {
+     "en": "Lily tries climbing the wall.",
+     "zh": "Lily 试着爬墙。",
+     "audio": "media/sent/35f09ddca075.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/climbing.webp",
+    "uk": "media/uk/climbing.mp3",
+    "us": "media/us/climbing.mp3"
+   },
+   "avoid": [
+    "running",
+    "walking"
+   ]
+  },
+  {
+   "id": "walking",
+   "word": "walking",
+   "zh": "散步；步行",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "散步；步行"
+    }
+   ],
+   "ipa": "/ˈwɔːkɪŋ/",
+   "chunks": [
+    "walk",
+    "ing"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "We go walking in the park.",
+    "zh": "我们去公园散步。"
+   },
+   "sentences": [
+    {
+     "en": "We go walking in the park.",
+     "zh": "我们去公园散步。",
+     "audio": "media/sent/cda286204266.mp3"
+    },
+    {
+     "en": "Walking is healthy.",
+     "zh": "步行有益健康。",
+     "audio": "media/sent/de01c1fb9979.mp3"
+    },
+    {
+     "en": "Grandma likes walking.",
+     "zh": "奶奶喜欢散步。",
+     "audio": "media/sent/b2ac7cd78aaa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/walking.webp",
+    "uk": "media/uk/walking.mp3",
+    "us": "media/us/walking.mp3"
+   },
+   "avoid": [
+    "climbing",
+    "running"
+   ]
+  },
+  {
+   "id": "running",
+   "word": "running",
+   "zh": "跑步；奔跑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "跑步；奔跑"
+    }
+   ],
+   "ipa": "/ˈrʌnɪŋ/",
+   "chunks": [
+    "run",
+    "ning"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Tom is running fast.",
+    "zh": "Tom 正在快跑。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is running fast.",
+     "zh": "Tom 正在快跑。",
+     "audio": "media/sent/652967004dc7.mp3"
+    },
+    {
+     "en": "Running makes me tired.",
+     "zh": "跑步让我累。",
+     "audio": "media/sent/a64616f5f578.mp3"
+    },
+    {
+     "en": "Max loves running after balls.",
+     "zh": "Max 喜欢追着球跑。",
+     "audio": "media/sent/3abfd1429774.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/running.webp",
+    "uk": "media/uk/running.mp3",
+    "us": "media/us/running.mp3"
+   },
+   "avoid": [
+    "climbing",
+    "walking"
+   ]
+  }
+ ]
+}

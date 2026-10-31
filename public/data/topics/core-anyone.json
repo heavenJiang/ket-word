@@ -1,0 +1,1111 @@
+{
+ "id": "core-anyone",
+ "words": [
+  {
+   "id": "anybody",
+   "word": "anybody",
+   "zh": "任何人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "任何人"
+    }
+   ],
+   "ipa": "/ˈenibɒdi/",
+   "chunks": [
+    "an",
+    "y",
+    "bod",
+    "y"
+   ],
+   "emoji": "🙋‍♂️",
+   "sentence": {
+    "en": "Is there anybody at home?",
+    "zh": "家里有人吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is there anybody at home?",
+     "zh": "家里有人吗？",
+     "audio": "media/sent/c26d15abb8b0.mp3"
+    },
+    {
+     "en": "Ask anybody for help.",
+     "zh": "向任何人求助。",
+     "audio": "media/sent/08f289e8f0d7.mp3"
+    },
+    {
+     "en": "Does anybody know my name?",
+     "zh": "有人知道我的名字吗？",
+     "audio": "media/sent/1ca4fa4067bf.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/anybody.mp3",
+    "us": "media/us/anybody.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "anyone",
+   "word": "anyone",
+   "zh": "任何人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "任何人"
+    }
+   ],
+   "ipa": "/ˈeniwʌn/",
+   "chunks": [
+    "an",
+    "y",
+    "one"
+   ],
+   "emoji": "👤",
+   "sentence": {
+    "en": "Anyone can play this game.",
+    "zh": "任何人都能玩这个游戏。"
+   },
+   "sentences": [
+    {
+     "en": "Anyone can play this game.",
+     "zh": "任何人都能玩这个游戏。",
+     "audio": "media/sent/9e7b24d13af1.mp3"
+    },
+    {
+     "en": "Did anyone see my pen?",
+     "zh": "有人看见我的钢笔了吗？",
+     "audio": "media/sent/202fc9dda2d6.mp3"
+    },
+    {
+     "en": "Is anyone at home?",
+     "zh": "家里有人吗？",
+     "audio": "media/sent/c490675fc61e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/anyone.mp3",
+    "us": "media/us/anyone.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "anything",
+   "word": "anything",
+   "zh": "任何东西；任何事",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "任何东西；任何事"
+    }
+   ],
+   "ipa": "/ˈeniθɪŋ/",
+   "chunks": [
+    "an",
+    "y",
+    "thing"
+   ],
+   "emoji": "🤷‍♀️",
+   "sentence": {
+    "en": "I don't want anything to eat.",
+    "zh": "我不想吃任何东西。"
+   },
+   "sentences": [
+    {
+     "en": "I don't want anything to eat.",
+     "zh": "我不想吃任何东西。",
+     "audio": "media/sent/72e8e5bd6d44.mp3"
+    },
+    {
+     "en": "Is there anything in your bag?",
+     "zh": "你书包里有什么东西吗？",
+     "audio": "media/sent/a3bad36f5a50.mp3"
+    },
+    {
+     "en": "She did not say anything.",
+     "zh": "她什么也没说。",
+     "audio": "media/sent/f5663cd92443.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/anything.mp3",
+    "us": "media/us/anything.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "anywhere",
+   "word": "anywhere",
+   "zh": "任何地方",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "任何地方"
+    }
+   ],
+   "ipa": "/ˈeniweə/",
+   "chunks": [
+    "an",
+    "y",
+    "where"
+   ],
+   "emoji": "🗺️",
+   "sentence": {
+    "en": "We can't go anywhere today.",
+    "zh": "我们今天不能去任何地方。"
+   },
+   "sentences": [
+    {
+     "en": "We can't go anywhere today.",
+     "zh": "我们今天不能去任何地方。",
+     "audio": "media/sent/4bef2be782e7.mp3"
+    },
+    {
+     "en": "Did you see my keys anywhere?",
+     "zh": "你在哪里见过我的钥匙吗？",
+     "audio": "media/sent/262598736ccb.mp3"
+    },
+    {
+     "en": "You can sit anywhere you like.",
+     "zh": "你可以坐在任何你喜欢的地方。",
+     "audio": "media/sent/9a9a34563c0f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/anywhere.mp3",
+    "us": "media/us/anywhere.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "nobody",
+   "word": "nobody",
+   "zh": "没有人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "没有人"
+    }
+   ],
+   "ipa": "/ˈnəʊbədi/",
+   "chunks": [
+    "no",
+    "bod",
+    "y"
+   ],
+   "emoji": "🏚️",
+   "sentence": {
+    "en": "Nobody is in the classroom.",
+    "zh": "教室里没有人。"
+   },
+   "sentences": [
+    {
+     "en": "Nobody is in the classroom.",
+     "zh": "教室里没有人。",
+     "audio": "media/sent/d3df8ec2810d.mp3"
+    },
+    {
+     "en": "Nobody answered the phone.",
+     "zh": "没人接电话。",
+     "audio": "media/sent/06cdc5e5d73a.mp3"
+    },
+    {
+     "en": "It's late. Nobody is outside.",
+     "zh": "天晚了，外面没有人。",
+     "audio": "media/sent/2ec1a8accf01.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/nobody.mp3",
+    "us": "media/us/nobody.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "no-one",
+   "word": "no one",
+   "zh": "没有人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "没有人"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "no",
+    "one"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "No one knows the answer.",
+    "zh": "没人知道答案。"
+   },
+   "sentences": [
+    {
+     "en": "No one knows the answer.",
+     "zh": "没人知道答案。",
+     "audio": "media/sent/de393423f8d6.mp3"
+    },
+    {
+     "en": "Is no one here?",
+     "zh": "这里没有人吗？",
+     "audio": "media/sent/da33a685b57c.mp3"
+    },
+    {
+     "en": "No one likes this song.",
+     "zh": "没人喜欢这首歌。",
+     "audio": "media/sent/f75e19a2f324.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "nothing",
+   "word": "nothing",
+   "zh": "没有东西；无事",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "没有东西；无事"
+    }
+   ],
+   "ipa": "/ˈnʌθɪŋ/",
+   "chunks": [
+    "no",
+    "thing"
+   ],
+   "emoji": "📭",
+   "sentence": {
+    "en": "There is nothing in the box.",
+    "zh": "盒子里什么都没有。"
+   },
+   "sentences": [
+    {
+     "en": "There is nothing in the box.",
+     "zh": "盒子里什么都没有。",
+     "audio": "media/sent/944d1687b64f.mp3"
+    },
+    {
+     "en": "I have nothing to do.",
+     "zh": "我无事可做。",
+     "audio": "media/sent/4c86d8682034.mp3"
+    },
+    {
+     "en": "He said nothing about the test.",
+     "zh": "他对考试只字未提。",
+     "audio": "media/sent/7be264704330.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/nothing.mp3",
+    "us": "media/us/nothing.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "somebody",
+   "word": "somebody",
+   "zh": "某人；有人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "某人；有人"
+    }
+   ],
+   "ipa": "/ˈsʌmbədi/",
+   "chunks": [
+    "some",
+    "bod",
+    "y"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "Somebody left a present.",
+    "zh": "有人留下了一个礼物。"
+   },
+   "sentences": [
+    {
+     "en": "Somebody left a present.",
+     "zh": "有人留下了一个礼物。",
+     "audio": "media/sent/bcaa83c2a560.mp3"
+    },
+    {
+     "en": "Somebody is at the door.",
+     "zh": "有人在门口。",
+     "audio": "media/sent/1ea9a8961d3a.mp3"
+    },
+    {
+     "en": "Does somebody want my toy?",
+     "zh": "有人想要我的玩具吗？",
+     "audio": "media/sent/deafc06087d4.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/somebody.mp3",
+    "us": "media/us/somebody.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "someone",
+   "word": "someone",
+   "zh": "某人；有人",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "某人；有人"
+    }
+   ],
+   "ipa": "/ˈsʌmwʌn/",
+   "chunks": [
+    "some",
+    "one"
+   ],
+   "emoji": "📞",
+   "sentence": {
+    "en": "Someone is calling you.",
+    "zh": "有人在给你打电话。"
+   },
+   "sentences": [
+    {
+     "en": "Someone is calling you.",
+     "zh": "有人在给你打电话。",
+     "audio": "media/sent/8323bc9c0731.mp3"
+    },
+    {
+     "en": "I think someone took my hat.",
+     "zh": "我想有人拿走了我的帽子。",
+     "audio": "media/sent/c0b6d04c2b3c.mp3"
+    },
+    {
+     "en": "Someone helped me with my homework.",
+     "zh": "有人帮我做作业。",
+     "audio": "media/sent/f65e49af8b4d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/someone.mp3",
+    "us": "media/us/someone.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "something",
+   "word": "something",
+   "zh": "某物；某事",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "某物；某事"
+    }
+   ],
+   "ipa": "/ˈsʌmθɪŋ/",
+   "chunks": [
+    "some",
+    "thing"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "I need something to drink.",
+    "zh": "我需要喝点东西。"
+   },
+   "sentences": [
+    {
+     "en": "I need something to drink.",
+     "zh": "我需要喝点东西。",
+     "audio": "media/sent/c54c9b941f9a.mp3"
+    },
+    {
+     "en": "There is something under your bed.",
+     "zh": "你床底下有东西。",
+     "audio": "media/sent/b161c27714ca.mp3"
+    },
+    {
+     "en": "Let's do something fun.",
+     "zh": "我们做点有趣的事吧。",
+     "audio": "media/sent/d01b521943d6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/something.mp3",
+    "us": "media/us/something.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "somewhere",
+   "word": "somewhere",
+   "zh": "某处；某个地方",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "某处；某个地方"
+    }
+   ],
+   "ipa": "/ˈsʌmweə/",
+   "chunks": [
+    "some",
+    "where"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "My glasses are somewhere in this room.",
+    "zh": "我的眼镜就在这个房间的某个地方。"
+   },
+   "sentences": [
+    {
+     "en": "My glasses are somewhere in this room.",
+     "zh": "我的眼镜就在这个房间的某个地方。",
+     "audio": "media/sent/17a44f1cc0da.mp3"
+    },
+    {
+     "en": "Let's go somewhere quiet.",
+     "zh": "我们去一个安静的地方吧。",
+     "audio": "media/sent/76131e334c54.mp3"
+    },
+    {
+     "en": "He is in the garden somewhere.",
+     "zh": "他在花园的某个地方。",
+     "audio": "media/sent/2d17e85f5e39.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/somewhere.mp3",
+    "us": "media/us/somewhere.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "everybody",
+   "word": "everybody",
+   "zh": "每个人；大家",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "每个人；大家"
+    }
+   ],
+   "ipa": "/ˈevribɒdi/",
+   "chunks": [
+    "ev",
+    "ery",
+    "bod",
+    "y"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "Everybody is happy today.",
+    "zh": "今天每个人都很开心。"
+   },
+   "sentences": [
+    {
+     "en": "Everybody is happy today.",
+     "zh": "今天每个人都很开心。",
+     "audio": "media/sent/d6e937d340c5.mp3"
+    },
+    {
+     "en": "Say hello to everybody.",
+     "zh": "向每个人问好。",
+     "audio": "media/sent/6a78b6fa0ce9.mp3"
+    },
+    {
+     "en": "Everybody likes ice cream.",
+     "zh": "每个人都喜欢冰淇淋。",
+     "audio": "media/sent/e4775aef4939.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/everybody.mp3",
+    "us": "media/us/everybody.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "everyone",
+   "word": "everyone",
+   "zh": "每个人；大家",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "每个人；大家"
+    }
+   ],
+   "ipa": "/ˈevriwʌn/",
+   "chunks": [
+    "ev",
+    "ery",
+    "one"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "Everyone loves Grandma's cookies.",
+    "zh": "大家都爱奶奶的饼干。"
+   },
+   "sentences": [
+    {
+     "en": "Everyone loves Grandma's cookies.",
+     "zh": "大家都爱奶奶的饼干。",
+     "audio": "media/sent/cfe1bb497abc.mp3"
+    },
+    {
+     "en": "Everyone is here for the party.",
+     "zh": "大家都在这里参加派对。",
+     "audio": "media/sent/b211d8191304.mp3"
+    },
+    {
+     "en": "Does everyone like football?",
+     "zh": "每个人都喜欢足球吗？",
+     "audio": "media/sent/c8c5014ef389.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/everyone.mp3",
+    "us": "media/us/everyone.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "everything",
+   "word": "everything",
+   "zh": "所有东西；一切",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "所有东西；一切"
+    }
+   ],
+   "ipa": "/ˈevriθɪŋ/",
+   "chunks": [
+    "ev",
+    "ery",
+    "thing"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "Tom puts everything in his box.",
+    "zh": "Tom 把所有东西都放进盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "Tom puts everything in his box.",
+     "zh": "Tom 把所有东西都放进盒子里。",
+     "audio": "media/sent/e04f20daabc7.mp3"
+    },
+    {
+     "en": "Mum cleans everything in the kitchen.",
+     "zh": "妈妈把厨房里的所有东西都擦干净了。",
+     "audio": "media/sent/d3ed14cdce5c.mp3"
+    },
+    {
+     "en": "Is this everything for our trip?",
+     "zh": "这就是我们旅行要带的所有东西吗？",
+     "audio": "media/sent/77925c473402.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/everything.mp3",
+    "us": "media/us/everything.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "everywhere",
+   "word": "everywhere",
+   "zh": "到处；处处",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "到处；处处"
+    }
+   ],
+   "ipa": "/ˈevriweə/",
+   "chunks": [
+    "ev",
+    "ery",
+    "where"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "There are leaves everywhere.",
+    "zh": "到处都是叶子。"
+   },
+   "sentences": [
+    {
+     "en": "There are leaves everywhere.",
+     "zh": "到处都是叶子。",
+     "audio": "media/sent/bc1774603aae.mp3"
+    },
+    {
+     "en": "Max runs everywhere in the garden.",
+     "zh": "Max 在花园里到处跑。",
+     "audio": "media/sent/5b90e49e3770.mp3"
+    },
+    {
+     "en": "I can find books everywhere at school.",
+     "zh": "我在学校里到处都能找到书。",
+     "audio": "media/sent/c6836fde10cb.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/everywhere.mp3",
+    "us": "media/us/everywhere.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "else",
+   "word": "else",
+   "zh": "别的；其他的",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "别的；其他的"
+    }
+   ],
+   "ipa": "/els/",
+   "chunks": [
+    "else"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "Do you want anything else?",
+    "zh": "你还想要别的吗？"
+   },
+   "sentences": [
+    {
+     "en": "Do you want anything else?",
+     "zh": "你还想要别的吗？",
+     "audio": "media/sent/864a65b7a7d4.mp3"
+    },
+    {
+     "en": "What else can we do today?",
+     "zh": "我们今天还能做什么？",
+     "audio": "media/sent/04ad8f18d9b2.mp3"
+    },
+    {
+     "en": "No one else is in the room.",
+     "zh": "没有别人在这个房间里。",
+     "audio": "media/sent/888c18d599b3.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/else.mp3",
+    "us": "media/us/else.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "other",
+   "word": "other",
+   "zh": "其他的；另外的",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "其他的；另外的"
+    }
+   ],
+   "ipa": "/ˈʌðə/",
+   "chunks": [
+    "oth",
+    "er"
+   ],
+   "emoji": "🔀",
+   "sentence": {
+    "en": "I like this one, not the other.",
+    "zh": "我喜欢这个，不喜欢另一个。"
+   },
+   "sentences": [
+    {
+     "en": "I like this one, not the other.",
+     "zh": "我喜欢这个，不喜欢另一个。",
+     "audio": "media/sent/014c6d3b145c.mp3"
+    },
+    {
+     "en": "The other boys are playing outside.",
+     "zh": "其他男孩都在外面玩。",
+     "audio": "media/sent/8cb8818f9b53.mp3"
+    },
+    {
+     "en": "Let's go to the other park.",
+     "zh": "我们去另一个公园吧。",
+     "audio": "media/sent/0fd1b078ab10.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/other.mp3",
+    "us": "media/us/other.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "another",
+   "word": "another",
+   "zh": "再一个；又一个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "再一个；又一个"
+    }
+   ],
+   "ipa": "/əˈnʌðə/",
+   "chunks": [
+    "a",
+    "no",
+    "ther"
+   ],
+   "emoji": "🍪",
+   "sentence": {
+    "en": "Can I have another cookie?",
+    "zh": "我能再吃一块饼干吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I have another cookie?",
+     "zh": "我能再吃一块饼干吗？",
+     "audio": "media/sent/7c2740ce048a.mp3"
+    },
+    {
+     "en": "Let's read another story.",
+     "zh": "我们再读一个故事吧。",
+     "audio": "media/sent/7e00d6f3c795.mp3"
+    },
+    {
+     "en": "Tom wants another story before bed.",
+     "zh": "Tom 睡前还想再听一个故事。",
+     "audio": "media/sent/dfadb959ff99.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/another.mp3",
+    "us": "media/us/another.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "own",
+   "word": "own",
+   "zh": "自己的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "自己的"
+    }
+   ],
+   "ipa": "/əʊn/",
+   "chunks": [
+    "own"
+   ],
+   "emoji": "🛏️",
+   "sentence": {
+    "en": "Tom has his own room.",
+    "zh": "Tom 有自己的房间。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has his own room.",
+     "zh": "Tom 有自己的房间。",
+     "audio": "media/sent/e405cba3edab.mp3"
+    },
+    {
+     "en": "Lily likes to write in her own book.",
+     "zh": "Lily 喜欢在她自己的本子上写字。",
+     "audio": "media/sent/2d1bec347985.mp3"
+    },
+    {
+     "en": "Max has his own red ball.",
+     "zh": "Max 有自己的红球。",
+     "audio": "media/sent/f1f018dc01c3.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/own.mp3",
+    "us": "media/us/own.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "how",
+   "word": "how",
+   "zh": "怎么；如何",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "怎么；如何"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "how"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "How do you make a kite?",
+    "zh": "你怎么做一个风筝？"
+   },
+   "sentences": [
+    {
+     "en": "How do you make a kite?",
+     "zh": "你怎么做一个风筝？",
+     "audio": "media/sent/fa8092a9c27c.mp3"
+    },
+    {
+     "en": "How are you today?",
+     "zh": "你今天好吗？",
+     "audio": "media/sent/d8b65375fcd4.mp3"
+    },
+    {
+     "en": "How do we get to the zoo?",
+     "zh": "我们怎么去动物园？",
+     "audio": "media/sent/7648c70022f7.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "why",
+   "word": "why",
+   "zh": "为什么",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "为什么"
+    }
+   ],
+   "ipa": "/waɪ/",
+   "chunks": [
+    "why"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "Why is the sky blue?",
+    "zh": "天空为什么是蓝色的？"
+   },
+   "sentences": [
+    {
+     "en": "Why is the sky blue?",
+     "zh": "天空为什么是蓝色的？",
+     "audio": "media/sent/e8cd673bc107.mp3"
+    },
+    {
+     "en": "Why are you happy?",
+     "zh": "你为什么开心？",
+     "audio": "media/sent/1c7d2720a77d.mp3"
+    },
+    {
+     "en": "Why do we sleep at night?",
+     "zh": "我们为什么晚上要睡觉？",
+     "audio": "media/sent/13ef9c8400ac.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/why.mp3",
+    "us": "media/us/why.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "when",
+   "word": "when",
+   "zh": "什么时候；当……时",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "什么时候；当……时"
+    }
+   ],
+   "ipa": "/wen/",
+   "chunks": [
+    "when"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "When do we go to school?",
+    "zh": "我们什么时候去上学？"
+   },
+   "sentences": [
+    {
+     "en": "When do we go to school?",
+     "zh": "我们什么时候去上学？",
+     "audio": "media/sent/aec01be4abad.mp3"
+    },
+    {
+     "en": "I eat breakfast when I wake up.",
+     "zh": "我醒来时吃早饭。",
+     "audio": "media/sent/0464f221f572.mp3"
+    },
+    {
+     "en": "When is your birthday?",
+     "zh": "你的生日是什么时候？",
+     "audio": "media/sent/4bfe5cbaf4a5.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/when.mp3",
+    "us": "media/us/when.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "where",
+   "word": "where",
+   "zh": "哪里；在哪里",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "哪里；在哪里"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "where"
+   ],
+   "emoji": "🧭",
+   "sentence": {
+    "en": "Where is my red bag?",
+    "zh": "我的红书包在哪里？"
+   },
+   "sentences": [
+    {
+     "en": "Where is my red bag?",
+     "zh": "我的红书包在哪里？",
+     "audio": "media/sent/65287ac1e159.mp3"
+    },
+    {
+     "en": "Where do you live?",
+     "zh": "你住在哪里？",
+     "audio": "media/sent/d286dd51b154.mp3"
+    },
+    {
+     "en": "Let's see where the river goes.",
+     "zh": "我们看看这条河流向哪里。",
+     "audio": "media/sent/08729377ea50.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  }
+ ]
+}

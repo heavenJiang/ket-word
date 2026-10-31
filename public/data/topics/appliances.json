@@ -1,0 +1,1413 @@
+{
+ "id": "appliances",
+ "words": [
+  {
+   "id": "cell-phone",
+   "word": "cell phone",
+   "zh": "手机（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手机（美式）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "cell",
+    "phone"
+   ],
+   "emoji": "📱",
+   "sentence": {
+    "en": "Mia's cell phone is new.",
+    "zh": "Mia 的手机是新的。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's cell phone is new.",
+     "zh": "Mia 的手机是新的。",
+     "audio": "media/sent/cdb5df5d6807.mp3"
+    },
+    {
+     "en": "She lost her cell phone yesterday.",
+     "zh": "她昨天把手机弄丢了。",
+     "audio": "media/sent/5abfe077c70d.mp3"
+    },
+    {
+     "en": "I want to use my cell phone.",
+     "zh": "我想用我的手机。",
+     "audio": "media/sent/b2ad0dd7283d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cell-phone.webp"
+   },
+   "avoid": [
+    "mobile",
+    "phone",
+    "telephone"
+   ]
+  },
+  {
+   "id": "mobile",
+   "word": "mobile",
+   "zh": "手机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手机"
+    }
+   ],
+   "ipa": "/ˈməʊbaɪl/",
+   "chunks": [
+    "mo",
+    "bile"
+   ],
+   "emoji": "📱",
+   "sentence": {
+    "en": "Dad talks on his mobile.",
+    "zh": "爸爸在打电话。"
+   },
+   "sentences": [
+    {
+     "en": "Dad talks on his mobile.",
+     "zh": "爸爸在打电话。",
+     "audio": "media/sent/38926681f2c5.mp3"
+    },
+    {
+     "en": "My mobile is ringing!",
+     "zh": "我的手机在响！",
+     "audio": "media/sent/0a73d4af5910.mp3"
+    },
+    {
+     "en": "Tom's mobile has a picture of Max.",
+     "zh": "Tom 的手机上有 Max 的照片。",
+     "audio": "media/sent/87e4a3caca12.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mobile.webp",
+    "uk": "media/uk/mobile.mp3",
+    "us": "media/us/mobile.mp3"
+   },
+   "avoid": [
+    "cell-phone",
+    "phone",
+    "telephone"
+   ]
+  },
+  {
+   "id": "phone",
+   "word": "phone",
+   "zh": "电话；手机",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "电话；手机"
+    }
+   ],
+   "ipa": "/fəʊn/",
+   "chunks": [
+    "phone"
+   ],
+   "emoji": "📞",
+   "sentence": {
+    "en": "Lily is on the phone.",
+    "zh": "Lily 正在打电话。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is on the phone.",
+     "zh": "Lily 正在打电话。",
+     "audio": "media/sent/15af66cf7236.mp3"
+    },
+    {
+     "en": "The phone rings in the kitchen.",
+     "zh": "厨房里的电话响了。",
+     "audio": "media/sent/814f2ac76a75.mp3"
+    },
+    {
+     "en": "Can I use your phone?",
+     "zh": "我可以用你的电话吗？",
+     "audio": "media/sent/974cf7e27da2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/phone.webp",
+    "uk": "media/uk/phone.mp3",
+    "us": "media/us/phone.mp3"
+   },
+   "avoid": [
+    "cell-phone",
+    "mobile",
+    "telephone"
+   ]
+  },
+  {
+   "id": "telephone",
+   "word": "telephone",
+   "zh": "电话",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "电话"
+    }
+   ],
+   "ipa": "/ˈtelɪfəʊn/",
+   "chunks": [
+    "tel",
+    "e",
+    "phone"
+   ],
+   "emoji": "☎️",
+   "sentence": {
+    "en": "Grandma has an old telephone.",
+    "zh": "奶奶有一部旧电话。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma has an old telephone.",
+     "zh": "奶奶有一部旧电话。",
+     "audio": "media/sent/41faa0828a31.mp3"
+    },
+    {
+     "en": "The telephone is on the wall.",
+     "zh": "电话挂在墙上。",
+     "audio": "media/sent/cf1f99bf6ed2.mp3"
+    },
+    {
+     "en": "Dad answers the telephone.",
+     "zh": "爸爸接电话。",
+     "audio": "media/sent/e7bc99ed6da7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/telephone.webp",
+    "uk": "media/uk/telephone.mp3",
+    "us": "media/us/telephone.mp3"
+   },
+   "avoid": [
+    "cell-phone",
+    "mobile",
+    "phone"
+   ]
+  },
+  {
+   "id": "digital-camera",
+   "word": "digital camera",
+   "zh": "数码相机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "数码相机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "dig",
+    "i",
+    "tal",
+    "cam",
+    "er",
+    "a"
+   ],
+   "emoji": "📷",
+   "sentence": {
+    "en": "Sam uses a digital camera.",
+    "zh": "Sam 用数码相机。"
+   },
+   "sentences": [
+    {
+     "en": "Sam uses a digital camera.",
+     "zh": "Sam 用数码相机。",
+     "audio": "media/sent/99ad3ad0cea6.mp3"
+    },
+    {
+     "en": "The digital camera is small.",
+     "zh": "这台数码相机很小。",
+     "audio": "media/sent/fd2fb81b47d2.mp3"
+    },
+    {
+     "en": "I take photos with my digital camera.",
+     "zh": "我用我的数码相机拍照。",
+     "audio": "media/sent/b92b199e5766.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/digital-camera.webp"
+   },
+   "avoid": [
+    "camera"
+   ]
+  },
+  {
+   "id": "camera",
+   "word": "camera",
+   "zh": "照相机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "照相机"
+    }
+   ],
+   "ipa": "/ˈkæmərə/",
+   "chunks": [
+    "cam",
+    "er",
+    "a"
+   ],
+   "emoji": "📷",
+   "sentence": {
+    "en": "Mum has a new camera.",
+    "zh": "妈妈有一台新照相机。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has a new camera.",
+     "zh": "妈妈有一台新照相机。",
+     "audio": "media/sent/c462b067057a.mp3"
+    },
+    {
+     "en": "Can I take a photo with your camera?",
+     "zh": "我可以用你的照相机拍照吗？",
+     "audio": "media/sent/b03a84acf3a6.mp3"
+    },
+    {
+     "en": "The camera is in my bag.",
+     "zh": "照相机在我的包里。",
+     "audio": "media/sent/55e277354f79.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/camera.webp",
+    "uk": "media/uk/camera.mp3",
+    "us": "media/us/camera.mp3"
+   },
+   "avoid": [
+    "digital-camera"
+   ]
+  },
+  {
+   "id": "laptop",
+   "word": "laptop",
+   "zh": "笔记本电脑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "笔记本电脑"
+    }
+   ],
+   "ipa": "/ˈlæptɒp/",
+   "chunks": [
+    "lap",
+    "top"
+   ],
+   "emoji": "💻",
+   "sentence": {
+    "en": "Lily uses her laptop.",
+    "zh": "Lily 用她的笔记本电脑。"
+   },
+   "sentences": [
+    {
+     "en": "Lily uses her laptop.",
+     "zh": "Lily 用她的笔记本电脑。",
+     "audio": "media/sent/f4d96fa54d9c.mp3"
+    },
+    {
+     "en": "Dad works on his laptop.",
+     "zh": "爸爸在笔记本电脑上工作。",
+     "audio": "media/sent/8fce067c598b.mp3"
+    },
+    {
+     "en": "The laptop is heavy.",
+     "zh": "这台笔记本电脑很重。",
+     "audio": "media/sent/40b96726bd21.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/laptop.webp",
+    "uk": "media/uk/laptop.mp3",
+    "us": "media/us/laptop.mp3"
+   },
+   "avoid": [
+    "computer",
+    "pc"
+   ]
+  },
+  {
+   "id": "pc",
+   "word": "PC",
+   "zh": "个人电脑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "个人电脑"
+    }
+   ],
+   "ipa": "/ˌpiː ˈsiː/",
+   "chunks": [
+    "P",
+    "C"
+   ],
+   "emoji": "🖥️",
+   "sentence": {
+    "en": "I play games on my PC.",
+    "zh": "我在我的个人电脑上玩游戏。"
+   },
+   "sentences": [
+    {
+     "en": "I play games on my PC.",
+     "zh": "我在我的个人电脑上玩游戏。",
+     "audio": "media/sent/f94f4a470c45.mp3"
+    },
+    {
+     "en": "The PC is on the desk.",
+     "zh": "个人电脑在桌子上。",
+     "audio": "media/sent/7ff2d5ad7ea7.mp3"
+    },
+    {
+     "en": "Mum uses the PC for work.",
+     "zh": "妈妈用个人电脑工作。",
+     "audio": "media/sent/a89cdf840c1d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pc.webp",
+    "uk": "media/uk/pc.mp3",
+    "us": "media/us/pc.mp3"
+   },
+   "avoid": [
+    "computer",
+    "laptop"
+   ]
+  },
+  {
+   "id": "computer",
+   "word": "computer",
+   "zh": "电脑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电脑"
+    }
+   ],
+   "ipa": "/kəmˈpjuːtə/",
+   "chunks": [
+    "com",
+    "put",
+    "er"
+   ],
+   "emoji": "💻",
+   "sentence": {
+    "en": "Tom draws on the computer.",
+    "zh": "Tom 在电脑上画画。"
+   },
+   "sentences": [
+    {
+     "en": "Tom draws on the computer.",
+     "zh": "Tom 在电脑上画画。",
+     "audio": "media/sent/1ad85b74f1bd.mp3"
+    },
+    {
+     "en": "The screen of the computer is bright.",
+     "zh": "电脑的屏幕很亮。",
+     "audio": "media/sent/98185b48a593.mp3"
+    },
+    {
+     "en": "Lily types her homework on the computer.",
+     "zh": "Lily 在电脑上打字做作业。",
+     "audio": "media/sent/51b83221d9f7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/computer.webp",
+    "uk": "media/uk/computer.mp3",
+    "us": "media/us/computer.mp3"
+   },
+   "avoid": [
+    "laptop",
+    "pc"
+   ]
+  },
+  {
+   "id": "radio",
+   "word": "radio",
+   "zh": "收音机；广播",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "收音机；广播"
+    }
+   ],
+   "ipa": "/ˈreɪdiəʊ/",
+   "chunks": [
+    "ra",
+    "di",
+    "o"
+   ],
+   "emoji": "📻",
+   "sentence": {
+    "en": "Grandpa listens to the radio.",
+    "zh": "爷爷听收音机。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa listens to the radio.",
+     "zh": "爷爷听收音机。",
+     "audio": "media/sent/a454ae0c7d71.mp3"
+    },
+    {
+     "en": "The radio is very loud.",
+     "zh": "收音机声音很大。",
+     "audio": "media/sent/56e35362acd3.mp3"
+    },
+    {
+     "en": "We hear music on the radio.",
+     "zh": "我们在收音机里听到音乐。",
+     "audio": "media/sent/d28fb545e515.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/radio.webp",
+    "uk": "media/uk/radio.mp3",
+    "us": "media/us/radio.mp3"
+   },
+   "avoid": [
+    "television",
+    "video"
+   ]
+  },
+  {
+   "id": "television",
+   "word": "television",
+   "zh": "电视",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电视"
+    }
+   ],
+   "ipa": "/ˈtelɪvɪʒən/",
+   "chunks": [
+    "tel",
+    "e",
+    "vi",
+    "sion"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "The family watches television.",
+    "zh": "一家人看电视。"
+   },
+   "sentences": [
+    {
+     "en": "The family watches television.",
+     "zh": "一家人看电视。",
+     "audio": "media/sent/e0222ffb49c9.mp3"
+    },
+    {
+     "en": "Turn off the television, please.",
+     "zh": "请关掉电视。",
+     "audio": "media/sent/231b245a0c23.mp3"
+    },
+    {
+     "en": "Tom likes cartoons on television.",
+     "zh": "Tom 喜欢看电视里的动画片。",
+     "audio": "media/sent/92cd26966e3f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/television.webp",
+    "uk": "media/uk/television.mp3",
+    "us": "media/us/television.mp3"
+   },
+   "avoid": [
+    "radio",
+    "video"
+   ]
+  },
+  {
+   "id": "video",
+   "word": "video",
+   "zh": "录像；视频",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "录像；视频"
+    }
+   ],
+   "ipa": "/ˈvɪdiəʊ/",
+   "chunks": [
+    "vid",
+    "e",
+    "o"
+   ],
+   "emoji": "🎥",
+   "sentence": {
+    "en": "Tom watches a funny video.",
+    "zh": "Tom 看一个有趣的视频。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches a funny video.",
+     "zh": "Tom 看一个有趣的视频。",
+     "audio": "media/sent/11006dbb7601.mp3"
+    },
+    {
+     "en": "Mum records a birthday video.",
+     "zh": "妈妈录了一个生日视频。",
+     "audio": "media/sent/8a469015a4a0.mp3"
+    },
+    {
+     "en": "We share the video with Grandma.",
+     "zh": "我们和奶奶分享这个视频。",
+     "audio": "media/sent/456cd7b65763.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/video.webp",
+    "uk": "media/uk/video.mp3",
+    "us": "media/us/video.mp3"
+   },
+   "avoid": [
+    "radio",
+    "television"
+   ]
+  },
+  {
+   "id": "electric",
+   "word": "electric",
+   "zh": "电的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "电的"
+    }
+   ],
+   "ipa": "/ɪˈlektrɪk/",
+   "chunks": [
+    "e",
+    "lec",
+    "tric"
+   ],
+   "emoji": "⚡",
+   "sentence": {
+    "en": "The fan is electric.",
+    "zh": "这个风扇是电的。"
+   },
+   "sentences": [
+    {
+     "en": "The fan is electric.",
+     "zh": "这个风扇是电的。",
+     "audio": "media/sent/1daae55f7492.mp3"
+    },
+    {
+     "en": "Dad has an electric car.",
+     "zh": "爸爸有一辆电动车。",
+     "audio": "media/sent/f05322fbbf5f.mp3"
+    },
+    {
+     "en": "We use the electric fan in summer.",
+     "zh": "我们夏天用电动风扇。",
+     "audio": "media/sent/c4ad7d8e7de5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/electric.webp",
+    "uk": "media/uk/electric.mp3",
+    "us": "media/us/electric.mp3"
+   },
+   "avoid": [
+    "electricity"
+   ]
+  },
+  {
+   "id": "electricity",
+   "word": "electricity",
+   "zh": "电",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电"
+    }
+   ],
+   "ipa": "/ɪˌlekˈtrɪsəti/",
+   "chunks": [
+    "e",
+    "lec",
+    "tri",
+    "ci",
+    "ty"
+   ],
+   "emoji": "🔌",
+   "sentence": {
+    "en": "We need electricity for the lights.",
+    "zh": "我们需要电来开灯。"
+   },
+   "sentences": [
+    {
+     "en": "We need electricity for the lights.",
+     "zh": "我们需要电来开灯。",
+     "audio": "media/sent/4a28dc5b0929.mp3"
+    },
+    {
+     "en": "Electricity makes the lamp work.",
+     "zh": "电让台灯工作。",
+     "audio": "media/sent/63d9ff23831c.mp3"
+    },
+    {
+     "en": "Be careful with electricity!",
+     "zh": "小心用电！",
+     "audio": "media/sent/7dbc8f55c6e4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/electricity.webp",
+    "uk": "media/uk/electricity.mp3",
+    "us": "media/us/electricity.mp3"
+   },
+   "avoid": [
+    "electric"
+   ]
+  },
+  {
+   "id": "washing-machine",
+   "word": "washing machine",
+   "zh": "洗衣机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "洗衣机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "wash",
+    "ing",
+    "ma",
+    "chine"
+   ],
+   "emoji": "🧺",
+   "sentence": {
+    "en": "Mum uses the washing machine.",
+    "zh": "妈妈用洗衣机。"
+   },
+   "sentences": [
+    {
+     "en": "Mum uses the washing machine.",
+     "zh": "妈妈用洗衣机。",
+     "audio": "media/sent/570d0b4d8601.mp3"
+    },
+    {
+     "en": "The washing machine is full.",
+     "zh": "洗衣机满了。",
+     "audio": "media/sent/ed459b7bd2e2.mp3"
+    },
+    {
+     "en": "Dad puts clothes in the washing machine.",
+     "zh": "爸爸把衣服放进洗衣机。",
+     "audio": "media/sent/1d65ceee4f7f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/washing-machine.webp"
+   },
+   "avoid": [
+    "fridge"
+   ]
+  },
+  {
+   "id": "cd",
+   "word": "CD",
+   "zh": "光盘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "光盘"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "C",
+    "D"
+   ],
+   "emoji": "💿",
+   "sentence": {
+    "en": "Lily puts the CD in its case.",
+    "zh": "Lily 把光盘放进盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "Lily puts the CD in its case.",
+     "zh": "Lily 把光盘放进盒子里。",
+     "audio": "media/sent/130200bb844a.mp3"
+    },
+    {
+     "en": "Do you like this CD?",
+     "zh": "你喜欢这张光盘吗？",
+     "audio": "media/sent/d62ae2c002c4.mp3"
+    },
+    {
+     "en": "Sam has a new music CD.",
+     "zh": "Sam 有一张新的音乐光盘。",
+     "audio": "media/sent/10c84e53560c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cd.webp"
+   },
+   "avoid": [
+    "dvd"
+   ]
+  },
+  {
+   "id": "cd-player",
+   "word": "CD player",
+   "zh": "CD 播放机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "CD 播放机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "C",
+    "D",
+    "play",
+    "er"
+   ],
+   "emoji": "🎵",
+   "sentence": {
+    "en": "Dad listens to music on the CD player.",
+    "zh": "爸爸用 CD 播放机听音乐。"
+   },
+   "sentences": [
+    {
+     "en": "Dad listens to music on the CD player.",
+     "zh": "爸爸用 CD 播放机听音乐。",
+     "audio": "media/sent/1e7b1afd3191.mp3"
+    },
+    {
+     "en": "The CD player is broken.",
+     "zh": "CD 播放机坏了。",
+     "audio": "media/sent/5a902fa45ffa.mp3"
+    },
+    {
+     "en": "We need a new CD player.",
+     "zh": "我们需要一个新的 CD 播放机。",
+     "audio": "media/sent/6bd0959ceb46.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cd-player.webp"
+   },
+   "avoid": [
+    "dvd-player"
+   ]
+  },
+  {
+   "id": "clock",
+   "word": "clock",
+   "zh": "钟；时钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钟；时钟"
+    }
+   ],
+   "ipa": "/klɒk/",
+   "chunks": [
+    "clock"
+   ],
+   "emoji": "🕰️",
+   "sentence": {
+    "en": "The clock in the kitchen is loud.",
+    "zh": "厨房里的钟很响。"
+   },
+   "sentences": [
+    {
+     "en": "The clock in the kitchen is loud.",
+     "zh": "厨房里的钟很响。",
+     "audio": "media/sent/799fde210438.mp3"
+    },
+    {
+     "en": "Mum looks at the clock on the wall.",
+     "zh": "妈妈看看墙上的钟。",
+     "audio": "media/sent/774ba19842a4.mp3"
+    },
+    {
+     "en": "The clock says it is time for bed.",
+     "zh": "钟显示该睡觉了。",
+     "audio": "media/sent/caf8a172ef4a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clock.webp",
+    "uk": "media/uk/clock.mp3",
+    "us": "media/us/clock.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "cooker",
+   "word": "cooker",
+   "zh": "炉灶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "炉灶"
+    }
+   ],
+   "ipa": "/ˈkʊkə/",
+   "chunks": [
+    "cook",
+    "er"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "Mum cooks dinner on the cooker.",
+    "zh": "妈妈在炉灶上做晚饭。"
+   },
+   "sentences": [
+    {
+     "en": "Mum cooks dinner on the cooker.",
+     "zh": "妈妈在炉灶上做晚饭。",
+     "audio": "media/sent/a8a28e589317.mp3"
+    },
+    {
+     "en": "Be careful of the hot cooker.",
+     "zh": "小心烫的炉灶。",
+     "audio": "media/sent/93c05a606d7b.mp3"
+    },
+    {
+     "en": "Grandma cleans the cooker every week.",
+     "zh": "奶奶每周都清洁炉灶。",
+     "audio": "media/sent/32def9fd854b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cooker.webp",
+    "uk": "media/uk/cooker.mp3",
+    "us": "media/us/cooker.mp3"
+   },
+   "avoid": [
+    "fridge",
+    "oven"
+   ]
+  },
+  {
+   "id": "dvd",
+   "word": "DVD",
+   "zh": "DVD 光盘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 光盘"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D"
+   ],
+   "emoji": "📀",
+   "sentence": {
+    "en": "Lily finds her favourite DVD.",
+    "zh": "Lily 找到了她最喜欢的 DVD。"
+   },
+   "sentences": [
+    {
+     "en": "Lily finds her favourite DVD.",
+     "zh": "Lily 找到了她最喜欢的 DVD。",
+     "audio": "media/sent/56e09577b914.mp3"
+    },
+    {
+     "en": "This DVD is very funny.",
+     "zh": "这张 DVD 很有趣。",
+     "audio": "media/sent/ec2ee92a7ebe.mp3"
+    },
+    {
+     "en": "Tom wants to watch the DVD again.",
+     "zh": "Tom 想再看一次 DVD。",
+     "audio": "media/sent/e1f092077f4b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd.webp"
+   },
+   "avoid": [
+    "cd"
+   ]
+  },
+  {
+   "id": "dvd-player",
+   "word": "DVD player",
+   "zh": "DVD 播放机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 播放机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D",
+    "play",
+    "er"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Dad uses the DVD player.",
+    "zh": "爸爸用 DVD 播放机。"
+   },
+   "sentences": [
+    {
+     "en": "Dad uses the DVD player.",
+     "zh": "爸爸用 DVD 播放机。",
+     "audio": "media/sent/ae4c71f22c60.mp3"
+    },
+    {
+     "en": "The new DVD player works well.",
+     "zh": "新的 DVD 播放机工作正常。",
+     "audio": "media/sent/304a81e32253.mp3"
+    },
+    {
+     "en": "Please turn on the DVD player.",
+     "zh": "请打开 DVD 播放机。",
+     "audio": "media/sent/28215bfbb374.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd-player.webp"
+   },
+   "avoid": [
+    "cd-player"
+   ]
+  },
+  {
+   "id": "fridge",
+   "word": "fridge",
+   "zh": "冰箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰箱"
+    }
+   ],
+   "ipa": "/frɪdʒ/",
+   "chunks": [
+    "fridge"
+   ],
+   "emoji": "🧊",
+   "sentence": {
+    "en": "Lily gets some juice from the fridge.",
+    "zh": "Lily 从冰箱里拿了一些果汁。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gets some juice from the fridge.",
+     "zh": "Lily 从冰箱里拿了一些果汁。",
+     "audio": "media/sent/522d8d0ddddd.mp3"
+    },
+    {
+     "en": "The fridge is very cold.",
+     "zh": "冰箱很冷。",
+     "audio": "media/sent/c0ea3906153b.mp3"
+    },
+    {
+     "en": "Max looks at the open fridge.",
+     "zh": "Max 看着打开的冰箱。",
+     "audio": "media/sent/c2c38afc4f62.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fridge.webp",
+    "uk": "media/uk/fridge.mp3",
+    "us": "media/us/fridge.mp3"
+   },
+   "avoid": [
+    "cooker",
+    "oven",
+    "washing-machine"
+   ]
+  },
+  {
+   "id": "gas",
+   "word": "gas",
+   "zh": "燃气；煤气",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "燃气；煤气"
+    }
+   ],
+   "ipa": "/ɡæs/",
+   "chunks": [
+    "gas"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "Dad turns off the gas after cooking.",
+    "zh": "爸爸做完饭后关掉燃气。"
+   },
+   "sentences": [
+    {
+     "en": "Dad turns off the gas after cooking.",
+     "zh": "爸爸做完饭后关掉燃气。",
+     "audio": "media/sent/a0f4d5b5d109.mp3"
+    },
+    {
+     "en": "We need more gas for the fire.",
+     "zh": "我们需要更多燃气来生火。",
+     "audio": "media/sent/0f4eef13f1ee.mp3"
+    },
+    {
+     "en": "The blue fire comes from the gas.",
+     "zh": "蓝色的火来自燃气。",
+     "audio": "media/sent/c822dfed3fb0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gas.webp",
+    "uk": "media/uk/gas.mp3",
+    "us": "media/us/gas.mp3"
+   },
+   "avoid": [
+    "heating"
+   ]
+  },
+  {
+   "id": "heating",
+   "word": "heating",
+   "zh": "暖气；供暖",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "暖气；供暖"
+    }
+   ],
+   "ipa": "/ˈhiːtɪŋ/",
+   "chunks": [
+    "heat",
+    "ing"
+   ],
+   "emoji": "♨️",
+   "sentence": {
+    "en": "The heating keeps the house warm.",
+    "zh": "暖气让房子保持温暖。"
+   },
+   "sentences": [
+    {
+     "en": "The heating keeps the house warm.",
+     "zh": "暖气让房子保持温暖。",
+     "audio": "media/sent/85f14b941c09.mp3"
+    },
+    {
+     "en": "It is cold, so we turn on the heating.",
+     "zh": "天气冷，所以我们开暖气。",
+     "audio": "media/sent/e0bda15ed283.mp3"
+    },
+    {
+     "en": "Lily feels hot because of the heating.",
+     "zh": "因为暖气，Lily 觉得热。",
+     "audio": "media/sent/c88eb3b5221d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/heating.webp",
+    "uk": "media/uk/heating.mp3",
+    "us": "media/us/heating.mp3"
+   },
+   "avoid": [
+    "gas"
+   ]
+  },
+  {
+   "id": "lamp",
+   "word": "lamp",
+   "zh": "灯；台灯",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；台灯"
+    }
+   ],
+   "ipa": "/læmp/",
+   "chunks": [
+    "lamp"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "Mum turns on the lamp at night.",
+    "zh": "妈妈晚上打开灯。"
+   },
+   "sentences": [
+    {
+     "en": "Mum turns on the lamp at night.",
+     "zh": "妈妈晚上打开灯。",
+     "audio": "media/sent/af9500ff82df.mp3"
+    },
+    {
+     "en": "The lamp gives a soft light.",
+     "zh": "这盏灯发出柔和的光。",
+     "audio": "media/sent/a789c48abc38.mp3"
+    },
+    {
+     "en": "Tom reads under his small lamp.",
+     "zh": "Tom 在他的小台灯下读书。",
+     "audio": "media/sent/2ed64176adef.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lamp.webp",
+    "uk": "media/uk/lamp.mp3",
+    "us": "media/us/lamp.mp3"
+   },
+   "avoid": [
+    "light"
+   ]
+  },
+  {
+   "id": "light",
+   "word": "light",
+   "zh": "灯；光",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；光"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "浅色的；明亮的",
+     "en": "Lily has a light blue dress."
+    }
+   ],
+   "ipa": "/laɪt/",
+   "chunks": [
+    "light"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "The light in the bedroom is bright.",
+    "zh": "卧室里的灯很亮。"
+   },
+   "sentences": [
+    {
+     "en": "The light in the bedroom is bright.",
+     "zh": "卧室里的灯很亮。",
+     "audio": "media/sent/65f14a690fb0.mp3"
+    },
+    {
+     "en": "Turn off the light before you sleep.",
+     "zh": "睡觉前关灯。",
+     "audio": "media/sent/43905eba188b.mp3"
+    },
+    {
+     "en": "The sun gives us natural light.",
+     "zh": "太阳给我们自然光。",
+     "audio": "media/sent/5185d55aab57.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/light.webp",
+    "uk": "media/uk/light.mp3",
+    "us": "media/us/light.mp3"
+   },
+   "avoid": [
+    "lamp"
+   ]
+  },
+  {
+   "id": "oven",
+   "word": "oven",
+   "zh": "烤箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "烤箱"
+    }
+   ],
+   "ipa": "/ˈʌvən/",
+   "chunks": [
+    "o",
+    "ven"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "Mum takes the cake out of the oven.",
+    "zh": "妈妈把蛋糕从烤箱里拿出来。"
+   },
+   "sentences": [
+    {
+     "en": "Mum takes the cake out of the oven.",
+     "zh": "妈妈把蛋糕从烤箱里拿出来。",
+     "audio": "media/sent/3fa91c730455.mp3"
+    },
+    {
+     "en": "The oven is very hot inside.",
+     "zh": "烤箱里面很烫。",
+     "audio": "media/sent/78bc834d1c7f.mp3"
+    },
+    {
+     "en": "We bake bread in the oven on Sundays.",
+     "zh": "我们星期天在烤箱里烤面包。",
+     "audio": "media/sent/6d00c0510cc9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/oven.webp",
+    "uk": "media/uk/oven.mp3",
+    "us": "media/us/oven.mp3"
+   },
+   "avoid": [
+    "cooker",
+    "fridge"
+   ]
+  }
+ ]
+}

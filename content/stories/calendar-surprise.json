@@ -1,0 +1,45 @@
+{
+ "id": "calendar-surprise",
+ "topic": "time",
+ "title": "Tom's Calendar",
+ "zh": "Tom 的日历",
+ "pages": [
+  {
+   "en": "It is the first of December. Tom looks at the calendar on the kitchen wall. \"When is my birthday, Mum?\" he asks. \"In two weeks,\" says Mum.",
+   "zh": "今天是十二月一日。Tom 看着厨房墙上的日历。“妈妈，我的生日是什么时候？”他问。“还有两个星期，”妈妈说。",
+   "scene": "Tom standing in a cosy kitchen in winter, pointing at a big calendar on the wall, Mum smiling beside him, snow outside the window."
+  },
+  {
+   "en": "Every day, Tom draws a small star on the calendar. Monday, Tuesday, Wednesday… A week is very long! \"Is it my birthday yet?\" he asks every morning.",
+   "zh": "每天，Tom 都在日历上画一颗小星星。星期一、星期二、星期三……一个星期好长啊！“到我生日了吗？”他每天早上都问。",
+   "scene": "Tom drawing a small star on a big wall calendar with a red pencil, standing on his toes, Lily laughing behind him with her school bag."
+  },
+  {
+   "en": "At last, the day comes. Tom is seven! There is a big cake, and Sam and Grandpa come to the party. \"This is the best day of the year!\" says Tom.",
+   "zh": "终于，那一天到了。Tom 七岁了！有一个大蛋糕，Sam 和爷爷都来参加派对。“这是一年里最棒的一天！”Tom 说。",
+   "scene": "A happy birthday party in a living room, Tom blowing out the candles on a big cake, Lily, Sam and Grandpa clapping, Max wearing a party hat."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tom's birthday is in December.",
+   "zh": "Tom 的生日在十二月。",
+   "answer": true
+  },
+  {
+   "q": "What does Tom draw on the calendar every day?",
+   "zh": "Tom 每天在日历上画什么？",
+   "options": [
+    "a star",
+    "a cake",
+    "a dog"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom is six on his birthday.",
+   "zh": "Tom 过生日时六岁。",
+   "answer": false
+  }
+ ]
+}

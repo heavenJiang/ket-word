@@ -1,0 +1,1691 @@
+{
+ "id": "core-little",
+ "words": [
+  {
+   "id": "a",
+   "word": "a",
+   "zh": "一（个）",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "一（个）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "a"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "I have a red apple.",
+    "zh": "我有一个红苹果。"
+   },
+   "sentences": [
+    {
+     "en": "I have a red apple.",
+     "zh": "我有一个红苹果。",
+     "audio": "media/sent/1437a5c98a13.mp3"
+    },
+    {
+     "en": "Tom has a new bike.",
+     "zh": "Tom 有一辆新自行车。",
+     "audio": "media/sent/9695573f1311.mp3"
+    },
+    {
+     "en": "It is a sunny day.",
+     "zh": "今天是个晴朗的日子。",
+     "audio": "media/sent/a05eedd0cf8f.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "an",
+   "word": "an",
+   "zh": "一（个）",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "一（个）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "an"
+   ],
+   "emoji": "🍌",
+   "sentence": {
+    "en": "She eats an orange.",
+    "zh": "她吃一个橙子。"
+   },
+   "sentences": [
+    {
+     "en": "She eats an orange.",
+     "zh": "她吃一个橙子。",
+     "audio": "media/sent/d55ec5975e37.mp3"
+    },
+    {
+     "en": "I need an umbrella.",
+     "zh": "我需要一把雨伞。",
+     "audio": "media/sent/ae5a22e765df.mp3"
+    },
+    {
+     "en": "Tom eats an egg for breakfast.",
+     "zh": "Tom 早餐吃一个鸡蛋。",
+     "audio": "media/sent/dccee8734650.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "the",
+   "word": "the",
+   "zh": "这个；那个（特指）",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "这个；那个（特指）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "the"
+   ],
+   "emoji": "🐶",
+   "sentence": {
+    "en": "The dog is Max.",
+    "zh": "这只狗是Max。"
+   },
+   "sentences": [
+    {
+     "en": "The dog is Max.",
+     "zh": "这只狗是Max。",
+     "audio": "media/sent/905c4399428f.mp3"
+    },
+    {
+     "en": "Look at the moon!",
+     "zh": "看那个月亮！",
+     "audio": "media/sent/22f1ceae52dd.mp3"
+    },
+    {
+     "en": "The book is on the table.",
+     "zh": "这本书在桌子上。",
+     "audio": "media/sent/f32b30a0c2f4.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "and",
+   "word": "and",
+   "zh": "和；与",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "和；与"
+    }
+   ],
+   "ipa": "/ænd/",
+   "chunks": [
+    "and"
+   ],
+   "emoji": "🍏🍐",
+   "sentence": {
+    "en": "I like apples and pears.",
+    "zh": "我喜欢苹果和梨。"
+   },
+   "sentences": [
+    {
+     "en": "I like apples and pears.",
+     "zh": "我喜欢苹果和梨。",
+     "audio": "media/sent/a6154ffc908f.mp3"
+    },
+    {
+     "en": "Tom and Sam play together.",
+     "zh": "Tom 和 Sam 一起玩。",
+     "audio": "media/sent/abc1f6b8cfe9.mp3"
+    },
+    {
+     "en": "Mum and Dad are at work.",
+     "zh": "妈妈和爸爸在上班。",
+     "audio": "media/sent/ab4f0f658b06.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/and.mp3",
+    "us": "media/us/and.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "but",
+   "word": "but",
+   "zh": "但是；可是",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "但是；可是"
+    }
+   ],
+   "ipa": "/bʌt/",
+   "chunks": [
+    "but"
+   ],
+   "emoji": "🌧️☀️",
+   "sentence": {
+    "en": "It is raining, but I am happy.",
+    "zh": "正在下雨，但我很开心。"
+   },
+   "sentences": [
+    {
+     "en": "It is raining, but I am happy.",
+     "zh": "正在下雨，但我很开心。",
+     "audio": "media/sent/f77209ae6d6a.mp3"
+    },
+    {
+     "en": "I like tea, but not coffee.",
+     "zh": "我喜欢茶，但不喜欢咖啡。",
+     "audio": "media/sent/2f7d741321f3.mp3"
+    },
+    {
+     "en": "He is small, but strong.",
+     "zh": "他个子小，但很强壮。",
+     "audio": "media/sent/423616ccb061.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/but.mp3",
+    "us": "media/us/but.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "or",
+   "word": "or",
+   "zh": "或者；还是",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "或者；还是"
+    }
+   ],
+   "ipa": "/ɔː/",
+   "chunks": [
+    "or"
+   ],
+   "emoji": "🥪🍎",
+   "sentence": {
+    "en": "Do you want a sandwich or an apple?",
+    "zh": "你想要三明治还是苹果？"
+   },
+   "sentences": [
+    {
+     "en": "Do you want a sandwich or an apple?",
+     "zh": "你想要三明治还是苹果？",
+     "audio": "media/sent/87c852caa9af.mp3"
+    },
+    {
+     "en": "We can play football or basketball.",
+     "zh": "我们可以踢足球或打篮球。",
+     "audio": "media/sent/bce4dd4210d3.mp3"
+    },
+    {
+     "en": "Is it red or blue?",
+     "zh": "它是红色的还是蓝色的？",
+     "audio": "media/sent/0167a78e2a9c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/or.mp3",
+    "us": "media/us/or.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "so",
+   "word": "so",
+   "zh": "所以；因此",
+   "pos": [
+    "conj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj",
+      "adv"
+     ],
+     "zh": "所以；因此"
+    }
+   ],
+   "ipa": "/səʊ/",
+   "chunks": [
+    "so"
+   ],
+   "emoji": "🥱",
+   "sentence": {
+    "en": "I am tired, so I sleep.",
+    "zh": "我累了，所以我睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "I am tired, so I sleep.",
+     "zh": "我累了，所以我睡觉。",
+     "audio": "media/sent/745af564ea33.mp3"
+    },
+    {
+     "en": "It is late, so we go home.",
+     "zh": "天晚了，所以我们回家。",
+     "audio": "media/sent/1184c8152f73.mp3"
+    },
+    {
+     "en": "She is happy, so she laughs.",
+     "zh": "她很开心，所以她大笑。",
+     "audio": "media/sent/80ce08d777b6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/so.mp3",
+    "us": "media/us/so.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "because",
+   "word": "because",
+   "zh": "因为",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "因为"
+    }
+   ],
+   "ipa": "/bɪˈkɒz/",
+   "chunks": [
+    "be",
+    "cause"
+   ],
+   "emoji": "🌧️",
+   "sentence": {
+    "en": "We stay inside because it rains.",
+    "zh": "我们待在室内，因为下雨了。"
+   },
+   "sentences": [
+    {
+     "en": "We stay inside because it rains.",
+     "zh": "我们待在室内，因为下雨了。",
+     "audio": "media/sent/a0909b4a3148.mp3"
+    },
+    {
+     "en": "He laughs because he is happy.",
+     "zh": "他大笑是因为他开心。",
+     "audio": "media/sent/e7b1c384559a.mp3"
+    },
+    {
+     "en": "I am hungry because I did not eat.",
+     "zh": "我饿了，因为我没吃东西。",
+     "audio": "media/sent/c0133c332c2c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/because.mp3",
+    "us": "media/us/because.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "because-of",
+   "word": "because of",
+   "zh": "因为；由于",
+   "pos": [
+    "prep phr"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep phr"
+     ],
+     "zh": "因为；由于"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "be",
+    "cause",
+    "of"
+   ],
+   "emoji": "🚗💨",
+   "sentence": {
+    "en": "We were late because of the traffic.",
+    "zh": "我们迟到了，因为交通堵塞。"
+   },
+   "sentences": [
+    {
+     "en": "We were late because of the traffic.",
+     "zh": "我们迟到了，因为交通堵塞。",
+     "audio": "media/sent/34785c110dd0.mp3"
+    },
+    {
+     "en": "The bus is late because of the rain.",
+     "zh": "公交车因雨晚点了。",
+     "audio": "media/sent/a72a6dcec038.mp3"
+    },
+    {
+     "en": "We stayed home because of the snow.",
+     "zh": "我们因为下雪待在家里。",
+     "audio": "media/sent/8d109233c988.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "if",
+   "word": "if",
+   "zh": "如果",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "如果"
+    }
+   ],
+   "ipa": "/ɪf/",
+   "chunks": [
+    "if"
+   ],
+   "emoji": "🌂",
+   "sentence": {
+    "en": "Take an umbrella if it rains.",
+    "zh": "如果下雨，就带把伞。"
+   },
+   "sentences": [
+    {
+     "en": "Take an umbrella if it rains.",
+     "zh": "如果下雨，就带把伞。",
+     "audio": "media/sent/b42b5f145798.mp3"
+    },
+    {
+     "en": "Call me if you are lost.",
+     "zh": "如果你迷路了，给我打电话。",
+     "audio": "media/sent/04a4a85b8719.mp3"
+    },
+    {
+     "en": "I will go if you come.",
+     "zh": "如果你去，我就去。",
+     "audio": "media/sent/d5339cfb29a7.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/if.mp3",
+    "us": "media/us/if.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "as",
+   "word": "as",
+   "zh": "当……时；因为",
+   "pos": [
+    "conj",
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj",
+      "adv",
+      "prep"
+     ],
+     "zh": "当……时；因为"
+    }
+   ],
+   "ipa": "/əz/",
+   "chunks": [
+    "as"
+   ],
+   "emoji": "🎵",
+   "sentence": {
+    "en": "He sings as he walks.",
+    "zh": "他一边走一边唱歌。"
+   },
+   "sentences": [
+    {
+     "en": "He sings as he walks.",
+     "zh": "他一边走一边唱歌。",
+     "audio": "media/sent/a628b906b64e.mp3"
+    },
+    {
+     "en": "As it is cold, wear a coat.",
+     "zh": "因为天气冷，穿件外套。",
+     "audio": "media/sent/a2a7a15fdf8e.mp3"
+    },
+    {
+     "en": "She looks happy as she laughs.",
+     "zh": "她大笑时看起来很幸福。",
+     "audio": "media/sent/d41e2b3ecf11.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/as.mp3",
+    "us": "media/us/as.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "than",
+   "word": "than",
+   "zh": "比",
+   "pos": [
+    "prep",
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep",
+      "conj"
+     ],
+     "zh": "比"
+    }
+   ],
+   "ipa": "/ðæn/",
+   "chunks": [
+    "than"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Tom is smaller than Lily.",
+    "zh": "Tom 比 Lily 矮。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is smaller than Lily.",
+     "zh": "Tom 比 Lily 矮。",
+     "audio": "media/sent/17b7488b5f87.mp3"
+    },
+    {
+     "en": "This book is bigger than that one.",
+     "zh": "这本书比那本大。",
+     "audio": "media/sent/d580f9ffd5c2.mp3"
+    },
+    {
+     "en": "My cat is older than yours.",
+     "zh": "我的猫比你的老。",
+     "audio": "media/sent/664fe4b54b91.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/than.mp3",
+    "us": "media/us/than.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "while",
+   "word": "while",
+   "zh": "当……时；在……期间",
+   "pos": [
+    "conj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj"
+     ],
+     "zh": "当……时；在……期间"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "while"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "I read while Tom plays.",
+    "zh": "Tom 玩的时候，我在看书。"
+   },
+   "sentences": [
+    {
+     "en": "I read while Tom plays.",
+     "zh": "Tom 玩的时候，我在看书。",
+     "audio": "media/sent/8d20c5b2aec1.mp3"
+    },
+    {
+     "en": "He cooked while she cleaned.",
+     "zh": "他做饭时，她在打扫。",
+     "audio": "media/sent/c60e9a045a8e.mp3"
+    },
+    {
+     "en": "Max sleeps while we eat.",
+     "zh": "我们吃饭时，Max 在睡觉。",
+     "audio": "media/sent/42fda3abc6ce.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "except",
+   "word": "except",
+   "zh": "除……之外",
+   "pos": [
+    "conj",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj",
+      "prep"
+     ],
+     "zh": "除……之外"
+    }
+   ],
+   "ipa": "/ɪkˈsept/",
+   "chunks": [
+    "ex",
+    "cept"
+   ],
+   "emoji": "🚫🍪",
+   "sentence": {
+    "en": "Everyone likes cake except Tom.",
+    "zh": "除了Tom，大家都喜欢蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Everyone likes cake except Tom.",
+     "zh": "除了Tom，大家都喜欢蛋糕。",
+     "audio": "media/sent/0cf81501a106.mp3"
+    },
+    {
+     "en": "I like all fruit except lemons.",
+     "zh": "我喜欢所有水果，柠檬除外。",
+     "audio": "media/sent/f7ed1e8cad39.mp3"
+    },
+    {
+     "en": "All days are busy except Sunday.",
+     "zh": "除了星期日，其他天都很忙。",
+     "audio": "media/sent/7c8f5e171b75.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/except.mp3",
+    "us": "media/us/except.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "of",
+   "word": "of",
+   "zh": "……的",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "……的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "of"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "He is the son of my friend.",
+    "zh": "他是我朋友的儿子。"
+   },
+   "sentences": [
+    {
+     "en": "He is the son of my friend.",
+     "zh": "他是我朋友的儿子。",
+     "audio": "media/sent/071616f06623.mp3"
+    },
+    {
+     "en": "The door of the room is open.",
+     "zh": "房间的门是开着的。",
+     "audio": "media/sent/6f35d1f52822.mp3"
+    },
+    {
+     "en": "She is a friend of Lily's.",
+     "zh": "她是Lily的一个朋友。",
+     "audio": "media/sent/f24660bf02d5.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "for",
+   "word": "for",
+   "zh": "为了；给",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "为了；给"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "for"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "This gift is for you.",
+    "zh": "这个礼物是给你的。"
+   },
+   "sentences": [
+    {
+     "en": "This gift is for you.",
+     "zh": "这个礼物是给你的。",
+     "audio": "media/sent/4ce18ae58b29.mp3"
+    },
+    {
+     "en": "We wait for the bus.",
+     "zh": "我们在等公交车。",
+     "audio": "media/sent/b2e65d06306a.mp3"
+    },
+    {
+     "en": "It is time for dinner.",
+     "zh": "吃晚饭的时间到了。",
+     "audio": "media/sent/3be127f5d7da.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "from",
+   "word": "from",
+   "zh": "从……来；来自",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "从……来；来自"
+    }
+   ],
+   "ipa": "/frɒm/",
+   "chunks": [
+    "from"
+   ],
+   "emoji": "📍",
+   "sentence": {
+    "en": "She is from China.",
+    "zh": "她来自中国。"
+   },
+   "sentences": [
+    {
+     "en": "She is from China.",
+     "zh": "她来自中国。",
+     "audio": "media/sent/e866f6b742cd.mp3"
+    },
+    {
+     "en": "He comes from London.",
+     "zh": "他来自伦敦。",
+     "audio": "media/sent/57d74e49af7d.mp3"
+    },
+    {
+     "en": "The letter is from Grandma.",
+     "zh": "这封信来自奶奶。",
+     "audio": "media/sent/91c49bce6db6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/from.mp3",
+    "us": "media/us/from.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "to",
+   "word": "to",
+   "zh": "去；到",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "去；到"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "to"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "I walk to school.",
+    "zh": "我走路去学校。"
+   },
+   "sentences": [
+    {
+     "en": "I walk to school.",
+     "zh": "我走路去学校。",
+     "audio": "media/sent/d2060e918ff2.mp3"
+    },
+    {
+     "en": "We go to the park.",
+     "zh": "我们去公园。",
+     "audio": "media/sent/8a3e15e9a5c8.mp3"
+    },
+    {
+     "en": "Give the book to Tom.",
+     "zh": "把书给Tom。",
+     "audio": "media/sent/63389b85b599.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "with",
+   "word": "with",
+   "zh": "和……一起；带着",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "和……一起；带着"
+    }
+   ],
+   "ipa": "/wɪð/",
+   "chunks": [
+    "with"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "I go to school with Lily.",
+    "zh": "我和 Lily 一起去上学。"
+   },
+   "sentences": [
+    {
+     "en": "I go to school with Lily.",
+     "zh": "我和 Lily 一起去上学。",
+     "audio": "media/sent/6b70377cce33.mp3"
+    },
+    {
+     "en": "Tom plays with his toy car.",
+     "zh": "Tom 玩他的玩具汽车。",
+     "audio": "media/sent/712e07a20f2f.mp3"
+    },
+    {
+     "en": "Mum drinks tea with milk.",
+     "zh": "妈妈喝加牛奶的茶。",
+     "audio": "media/sent/a18aa03e5337.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/with.mp3",
+    "us": "media/us/with.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "without",
+   "word": "without",
+   "zh": "没有；不带",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "没有；不带"
+    }
+   ],
+   "ipa": "/wɪˈðaʊt/",
+   "chunks": [
+    "with",
+    "out"
+   ],
+   "emoji": "🚫",
+   "sentence": {
+    "en": "Tom goes out without his coat.",
+    "zh": "Tom 没穿外套就出去了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom goes out without his coat.",
+     "zh": "Tom 没穿外套就出去了。",
+     "audio": "media/sent/a42f7dc0160c.mp3"
+    },
+    {
+     "en": "We walk to school without our bags.",
+     "zh": "我们不背包去上学。",
+     "audio": "media/sent/48ee56fb4cb4.mp3"
+    },
+    {
+     "en": "I like tea without sugar.",
+     "zh": "我喜欢不加糖的茶。",
+     "audio": "media/sent/5fa5fd28112f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/without.mp3",
+    "us": "media/us/without.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "by",
+   "word": "by",
+   "zh": "在……旁边；通过",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……旁边；通过"
+    }
+   ],
+   "ipa": "/baɪ/",
+   "chunks": [
+    "by"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "We go to Grandma's by train.",
+    "zh": "我们坐火车去奶奶家。"
+   },
+   "sentences": [
+    {
+     "en": "We go to Grandma's by train.",
+     "zh": "我们坐火车去奶奶家。",
+     "audio": "media/sent/ce34e98b3697.mp3"
+    },
+    {
+     "en": "The cat sleeps by the fire.",
+     "zh": "猫在火炉旁睡觉。",
+     "audio": "media/sent/27ba80cae1d7.mp3"
+    },
+    {
+     "en": "Come and sit by me.",
+     "zh": "过来坐在我旁边。",
+     "audio": "media/sent/b2b849d6138d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/by.mp3",
+    "us": "media/us/by.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "per",
+   "word": "per",
+   "zh": "每",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "每"
+    }
+   ],
+   "ipa": "/pə(r)/",
+   "chunks": [
+    "per"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "Tom reads one book per week.",
+    "zh": "Tom 每周读一本书。"
+   },
+   "sentences": [
+    {
+     "en": "Tom reads one book per week.",
+     "zh": "Tom 每周读一本书。",
+     "audio": "media/sent/e2cd74b65073.mp3"
+    },
+    {
+     "en": "There are two eggs per person.",
+     "zh": "每人两个鸡蛋。",
+     "audio": "media/sent/2184383afe9e.mp3"
+    },
+    {
+     "en": "Mum runs five kilometres per day.",
+     "zh": "妈妈每天跑五公里。",
+     "audio": "media/sent/a0d0dd15a7af.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/per.mp3",
+    "us": "media/us/per.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "plus",
+   "word": "plus",
+   "zh": "加；另外",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "加；另外"
+    }
+   ],
+   "ipa": "/plʌs/",
+   "chunks": [
+    "plus"
+   ],
+   "emoji": "➕",
+   "sentence": {
+    "en": "Two plus two is four.",
+    "zh": "二加二等于四。"
+   },
+   "sentences": [
+    {
+     "en": "Two plus two is four.",
+     "zh": "二加二等于四。",
+     "audio": "media/sent/7ad75b74825e.mp3"
+    },
+    {
+     "en": "Five plus three is eight.",
+     "zh": "五加三等于八。",
+     "audio": "media/sent/a385ca47d422.mp3"
+    },
+    {
+     "en": "The ticket is ten pounds plus money for food.",
+     "zh": "票是十英镑，外加食物的钱。",
+     "audio": "media/sent/31609b23dacf.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/plus.mp3",
+    "us": "media/us/plus.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "minus",
+   "word": "minus",
+   "zh": "减；零下",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "减；零下"
+    }
+   ],
+   "ipa": "/ˈmaɪnəs/",
+   "chunks": [
+    "min",
+    "us"
+   ],
+   "emoji": "➖",
+   "sentence": {
+    "en": "Ten minus three is seven.",
+    "zh": "十减三等于七。"
+   },
+   "sentences": [
+    {
+     "en": "Ten minus three is seven.",
+     "zh": "十减三等于七。",
+     "audio": "media/sent/bb85db042d30.mp3"
+    },
+    {
+     "en": "It is minus two degrees today.",
+     "zh": "今天气温是零下两度。",
+     "audio": "media/sent/0559f85f65df.mp3"
+    },
+    {
+     "en": "Nine minus five is four.",
+     "zh": "九减五等于四。",
+     "audio": "media/sent/23c208168940.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/minus.mp3",
+    "us": "media/us/minus.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "also",
+   "word": "also",
+   "zh": "也；而且",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "也；而且"
+    }
+   ],
+   "ipa": "/ˈɔːlsəʊ/",
+   "chunks": [
+    "al",
+    "so"
+   ],
+   "emoji": "🙋",
+   "sentence": {
+    "en": "Lily also likes chocolate.",
+    "zh": "Lily 也喜欢巧克力。"
+   },
+   "sentences": [
+    {
+     "en": "Lily also likes chocolate.",
+     "zh": "Lily 也喜欢巧克力。",
+     "audio": "media/sent/f2bc8abd439d.mp3"
+    },
+    {
+     "en": "Tom can sing, and he also dances.",
+     "zh": "Tom 会唱歌，他还会跳舞。",
+     "audio": "media/sent/f2be9109f8bd.mp3"
+    },
+    {
+     "en": "Mum is busy. She also cooks dinner.",
+     "zh": "妈妈很忙。她还要做晚饭。",
+     "audio": "media/sent/70f236635296.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/also.mp3",
+    "us": "media/us/also.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "too",
+   "word": "too",
+   "zh": "也；太",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "也；太"
+    }
+   ],
+   "ipa": "/tuː/",
+   "chunks": [
+    "too"
+   ],
+   "emoji": "👍",
+   "sentence": {
+    "en": "I want a cake too.",
+    "zh": "我也想要一块蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "I want a cake too.",
+     "zh": "我也想要一块蛋糕。",
+     "audio": "media/sent/e9006fb501e4.mp3"
+    },
+    {
+     "en": "This bag is too heavy for Tom.",
+     "zh": "这个包对 Tom 来说太重了。",
+     "audio": "media/sent/08c2197f35ae.mp3"
+    },
+    {
+     "en": "It is too cold to swim.",
+     "zh": "太冷了，不能游泳。",
+     "audio": "media/sent/7c161aababa0.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/too.mp3",
+    "us": "media/us/too.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "as-well",
+   "word": "as well",
+   "zh": "也；同样地",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "也；同样地"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "as",
+    "well"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Lily brings her cat as well.",
+    "zh": "Lily 也把她的猫带来了。"
+   },
+   "sentences": [
+    {
+     "en": "Lily brings her cat as well.",
+     "zh": "Lily 也把她的猫带来了。",
+     "audio": "media/sent/05288148adbc.mp3"
+    },
+    {
+     "en": "Mia likes apples and bananas as well.",
+     "zh": "Mia 也喜欢苹果和香蕉。",
+     "audio": "media/sent/6115997d5c0d.mp3"
+    },
+    {
+     "en": "Dad watches the film as well.",
+     "zh": "爸爸也看这部电影。",
+     "audio": "media/sent/dfde05d10db2.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "instead",
+   "word": "instead",
+   "zh": "代替；反而",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "代替；反而"
+    }
+   ],
+   "ipa": "/ɪnˈsted/",
+   "chunks": [
+    "in",
+    "stead"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "There is no milk, so I drink water instead.",
+    "zh": "没有牛奶了，所以我改喝水。"
+   },
+   "sentences": [
+    {
+     "en": "There is no milk, so I drink water instead.",
+     "zh": "没有牛奶了，所以我改喝水。",
+     "audio": "media/sent/3590f2643d72.mp3"
+    },
+    {
+     "en": "I ate rice instead.",
+     "zh": "我改吃米饭了。",
+     "audio": "media/sent/5039499c5216.mp3"
+    },
+    {
+     "en": "She played inside instead.",
+     "zh": "她改为在室内玩了。",
+     "audio": "media/sent/e1c3a597d627.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/instead.mp3",
+    "us": "media/us/instead.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "instead-of",
+   "word": "instead of",
+   "zh": "代替……；而不是",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "代替……；而不是"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "in",
+    "stead",
+    "of"
+   ],
+   "emoji": "🥦",
+   "sentence": {
+    "en": "Tom eats an apple instead of cake.",
+    "zh": "Tom 吃苹果而不是蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Tom eats an apple instead of cake.",
+     "zh": "Tom 吃苹果而不是蛋糕。",
+     "audio": "media/sent/6fe091572c21.mp3"
+    },
+    {
+     "en": "We went by bus instead of car.",
+     "zh": "我们坐公交车而不是汽车去的。",
+     "audio": "media/sent/c057a5e3421b.mp3"
+    },
+    {
+     "en": "She wrote in pencil instead of pen.",
+     "zh": "她用铅笔写而不是用钢笔。",
+     "audio": "media/sent/4a469a7f41df.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "including",
+   "word": "including",
+   "zh": "包括",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "包括"
+    }
+   ],
+   "ipa": "/ɪnˈkluːdɪŋ/",
+   "chunks": [
+    "in",
+    "clud",
+    "ing"
+   ],
+   "emoji": "🧸",
+   "sentence": {
+    "en": "The bag has toys, including a bear.",
+    "zh": "包里有玩具，包括一只熊。"
+   },
+   "sentences": [
+    {
+     "en": "The bag has toys, including a bear.",
+     "zh": "包里有玩具，包括一只熊。",
+     "audio": "media/sent/c1ac93ade1b2.mp3"
+    },
+    {
+     "en": "We invite everyone, including Sam.",
+     "zh": "我们邀请所有人，包括 Sam。",
+     "audio": "media/sent/4b1d3c4d2deb.mp3"
+    },
+    {
+     "en": "Six people came, including Grandma.",
+     "zh": "来了六个人，包括奶奶。",
+     "audio": "media/sent/ccfd2d6fb036.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/including.mp3",
+    "us": "media/us/including.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "like",
+   "word": "like",
+   "zh": "像；喜欢",
+   "pos": [
+    "adv",
+    "prep",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep",
+      "v"
+     ],
+     "zh": "像；喜欢"
+    }
+   ],
+   "ipa": "/laɪk/",
+   "chunks": [
+    "like"
+   ],
+   "emoji": "👯‍♀️",
+   "sentence": {
+    "en": "Lily looks like Mum.",
+    "zh": "Lily 看起来像妈妈。"
+   },
+   "sentences": [
+    {
+     "en": "Lily looks like Mum.",
+     "zh": "Lily 看起来像妈妈。",
+     "audio": "media/sent/d055448df119.mp3"
+    },
+    {
+     "en": "The cloud is like a sheep.",
+     "zh": "那朵云像一只羊。",
+     "audio": "media/sent/060566b53607.mp3"
+    },
+    {
+     "en": "Tom runs fast, like Max.",
+     "zh": "Tom 跑得快，像 Max 一样。",
+     "audio": "media/sent/8df1a01f7cea.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/like.mp3",
+    "us": "media/us/like.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "just",
+   "word": "just",
+   "zh": "刚刚；只是",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "刚刚；只是"
+    }
+   ],
+   "ipa": "/dʒʌst/",
+   "chunks": [
+    "just"
+   ],
+   "emoji": "🕐",
+   "sentence": {
+    "en": "I just woke up.",
+    "zh": "我刚刚醒来。"
+   },
+   "sentences": [
+    {
+     "en": "I just woke up.",
+     "zh": "我刚刚醒来。",
+     "audio": "media/sent/74a449b8e627.mp3"
+    },
+    {
+     "en": "It's just a small spider.",
+     "zh": "它只是一只小蜘蛛。",
+     "audio": "media/sent/01a19af9df47.mp3"
+    },
+    {
+     "en": "Tom has just finished his homework.",
+     "zh": "Tom 刚刚做完作业。",
+     "audio": "media/sent/f9ed266efadb.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/just.mp3",
+    "us": "media/us/just.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "only",
+   "word": "only",
+   "zh": "仅仅；只有",
+   "pos": [
+    "adv",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "adj"
+     ],
+     "zh": "仅仅；只有"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "on",
+    "ly"
+   ],
+   "emoji": "👌",
+   "sentence": {
+    "en": "Tom has only one ball.",
+    "zh": "Tom 只有一个球。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has only one ball.",
+     "zh": "Tom 只有一个球。",
+     "audio": "media/sent/acd0ade2cb42.mp3"
+    },
+    {
+     "en": "There is only one cookie left.",
+     "zh": "只剩下一个饼干了。",
+     "audio": "media/sent/866869e03275.mp3"
+    },
+    {
+     "en": "I have only five pounds.",
+     "zh": "我只有五英镑。",
+     "audio": "media/sent/5b12d34c18ce.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "not",
+   "word": "not",
+   "zh": "不；没有",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "不；没有"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "not"
+   ],
+   "emoji": "🙅",
+   "sentence": {
+    "en": "Tom is not hungry.",
+    "zh": "Tom 不饿。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is not hungry.",
+     "zh": "Tom 不饿。",
+     "audio": "media/sent/206d4e6c7b8b.mp3"
+    },
+    {
+     "en": "It is not raining today.",
+     "zh": "今天没有下雨。",
+     "audio": "media/sent/7b4a83363959.mp3"
+    },
+    {
+     "en": "I do not like spiders.",
+     "zh": "我不喜欢蜘蛛。",
+     "audio": "media/sent/1c080640bdc1.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "yes",
+   "word": "yes",
+   "zh": "是的；好",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "是的；好"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "yes"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "Yes, I can help you.",
+    "zh": "是的，我可以帮你。"
+   },
+   "sentences": [
+    {
+     "en": "Yes, I can help you.",
+     "zh": "是的，我可以帮你。",
+     "audio": "media/sent/c3b549f33606.mp3"
+    },
+    {
+     "en": "Is that your bag? Yes!",
+     "zh": "那是你的包吗？是的！",
+     "audio": "media/sent/9f156dbbcf37.mp3"
+    },
+    {
+     "en": "Yes, the film is very good.",
+     "zh": "是的，这部电影很好看。",
+     "audio": "media/sent/511524a7c52a.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "no",
+   "word": "no",
+   "zh": "不；没有",
+   "pos": [
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "不；没有"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "no"
+   ],
+   "emoji": "❌",
+   "sentence": {
+    "en": "No, I don't want tea.",
+    "zh": "不，我不想喝茶。"
+   },
+   "sentences": [
+    {
+     "en": "No, I don't want tea.",
+     "zh": "不，我不想喝茶。",
+     "audio": "media/sent/0c8badb5bdc2.mp3"
+    },
+    {
+     "en": "There is no milk in the fridge.",
+     "zh": "冰箱里没有牛奶了。",
+     "audio": "media/sent/0a362be5d30d.mp3"
+    },
+    {
+     "en": "No, it is not my turn.",
+     "zh": "不，现在轮不到我。",
+     "audio": "media/sent/1931a4ef5ace.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  }
+ ]
+}

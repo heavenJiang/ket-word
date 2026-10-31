@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="404" cy="100" r="52" fill="#e0a93f"/>
+  <path d="M60 300 q-8 -44 14 -66 h30 q22 22 14 66z" fill="#2e4244"/>
+  <g fill="#808968"><path d="M88 236 C60 198 52 160 60 120 C84 152 94 192 88 236Z"/><path d="M88 236 C106 186 136 164 166 156 C152 196 124 222 88 236Z" fill="#5c7f7d"/></g>
+  <rect y="300" width="512" height="212" fill="#b28851"/>
+  <rect y="300" width="512" height="10" fill="#8d6238"/>
+  <!-- pan -->
+  <path d="M390 380 L500 330" stroke="#2e4244" stroke-width="22" stroke-linecap="round"/>
+  <ellipse cx="240" cy="404" rx="190" ry="56" fill="#2e4244" opacity=".25"/>
+  <ellipse cx="240" cy="390" rx="180" ry="56" fill="#5c7f7d"/>
+  <ellipse cx="240" cy="382" rx="160" ry="44" fill="#2e4244"/>
+  <!-- folded omelette -->
+  <path d="M110 384 Q120 320 240 316 Q360 320 370 384 Q240 410 110 384Z" fill="#f1cc92"/>
+  <path d="M110 384 Q240 410 370 384 Q360 404 240 414 Q120 404 110 384Z" fill="#e0a93f"/>
+  <path d="M150 340 Q240 318 330 340" stroke="#f6e39a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <g fill="#d6b47d"><circle cx="180" cy="356" r="6"/><circle cx="260" cy="344" r="5"/><circle cx="310" cy="362" r="6"/><circle cx="220" cy="370" r="4"/></g>
+  <!-- melted cheese oozing -->
+  <path d="M190 392 q10 26 26 22 q8 -8 6 -20 q14 18 30 14 q8 -10 2 -18 q20 20 36 8 q2 -8 -6 -12" fill="#f6c94a"/>
+  <!-- herbs -->
+  <g fill="#808968"><path d="M230 330 q8 -12 18 -6 q-8 10 -18 6z"/><path d="M290 336 q8 -12 18 -6 q-8 10 -18 6z"/><path d="M170 346 q8 -12 18 -6 q-8 10 -18 6z"/></g>
+  <!-- cheese wedge on board -->
+  <path d="M400 470 L470 420 L480 470Z" fill="#f6c94a"/><circle cx="452" cy="452" r="5" fill="#e0a93f"/>
+</svg>

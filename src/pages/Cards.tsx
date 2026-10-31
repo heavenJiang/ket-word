@@ -1,14 +1,20 @@
 import { useState } from "react";
-import { playSentence, playWord } from "../lib/audio";
+import { playText, playWord } from "../lib/audio";
+import { sentencesOf } from "../lib/sentence";
 import { isMastered, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
-import { SKILLS, type Skill, type Word } from "../types";
-import { Chunks, Picture, SpeakButton } from "../ui/Picture";
+import { SKILLS, type Skill, type Topic, type Word } from "../types";
+import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
 const SKILL_BADGE: Record<Skill, string> = { meaning: "👀 认识", listen: "👂 听懂", spell: "✏️ 会拼" };
 
-/** Card album: every word met becomes a card; each mastered skill earns a badge. */
-export function Cards({ words, progress }: { words: Word[]; progress: Progress }) {
+/**
+ * Card album, one tab per open island: every word met becomes a card, each mastered skill earns
+ * a badge. Cards not yet met show as silhouettes, so the child can see what is left to collect.
+ */
+export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic: Record<string, Word[]>; progress: Progress }) {
+  const [tab, setTab] = useState(progress.topic);
+  const words = byTopic[tab] ?? [];
   const [open, setOpen] = useState<Word | null>(null);
   const met = words.filter((w) => progress.words[w.id]).length;
   const gold = words.filter((w) => wordLevel(progress.words[w.id]) === 3).length;
@@ -17,6 +23,13 @@ export function Cards({ words, progress }: { words: Word[]; progress: Progress }
   return (
     <div className="page">
       <h2>我的单词卡</h2>
+      <div className="tabs">
+        {topics.map((t) => (
+          <button key={t.id} className={`tab ${t.id === tab ? "tab-on" : ""}`} onClick={() => setTab(t.id)}>
+            {t.zh}
+          </button>
+        ))}
+      </div>
       <p className="muted">
         已收集 {met} / {words.length} 张 · 金卡 {gold} 张（认识 + 听懂 + 会拼都掌握）
       </p>
@@ -26,8 +39,9 @@ export function Cards({ words, progress }: { words: Word[]; progress: Progress }
           const level = wordLevel(p);
           return (
             <button key={w.id} className={`album-card level-${level}`} onClick={() => p && setOpen(w)} disabled={!p}>
-              {p ? <Picture word={w} size="sm" /> : <div className="album-mystery">?</div>}
+              {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
               <span className="album-word">{p ? w.word : "· · ·"}</span>
+              {p && w.of && <span className="album-sense">新意思</span>}
               {p && (
                 <span className="album-badges">
                   {SKILLS.map((s) => (
@@ -46,13 +60,12 @@ export function Cards({ words, progress }: { words: Word[]; progress: Progress }
             <Picture word={open} size="lg" />
             <div className="intro-word">
               <Chunks word={open} />
-              <SpeakButton onClick={() => playWord(open, accent)} label="" big />
+              <SpeakButton onClick={() => playWord(open, accent)} label={`听 ${open.word}`} />
             </div>
-            <div className="intro-zh">{open.zh}</div>
-            <button className="sentence" onClick={() => playSentence(open, accent)}>
-              <span className="sentence-en">🔊 {open.sentence.en}</span>
-              <span className="sentence-zh">{open.sentence.zh}</span>
-            </button>
+            <Senses word={open} />
+            {sentencesOf(open).map((x) => (
+              <SentenceRow key={x.en} en={x.en} zh={x.zh} onPlay={() => playText(x, accent)} />
+            ))}
             <div className="skill-badges">
               {SKILLS.map((s) => (
                 <span key={s} className={`skill-badge ${isMastered(progress.words[open.id]?.skills[s]) ? "on" : ""}`}>

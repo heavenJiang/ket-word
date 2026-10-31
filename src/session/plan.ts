@@ -29,12 +29,17 @@ export interface PlanOptions {
 /**
  * Today's plan. Reviews always come before new words; while there is a backlog no new
  * words are added, and a heavy review day halves them, so the daily load stays small.
+ * Reviews come from `order` (every word the app knows, across islands); new words come
+ * from `newOrder` (the current island), so switching islands never strands old words.
  */
 export function buildPlan(
   order: string[],
   progress: Record<string, WordProgress>,
   now: number,
   opt: PlanOptions,
+  newOrder: string[] = order,
+  /** Whether a new word may start yet: a second meaning waits until its word's first meaning is learnt. */
+  canStart: (wordId: string) => boolean = () => true,
 ): Plan {
   const due: { task: Task; r: number }[] = [];
   const firstTime: Task[] = [];
@@ -60,7 +65,7 @@ export function buildPlan(
   let limit = Math.max(0, opt.newPerDay - opt.newToday);
   if (backlog > 0) limit = 0;
   else if (all.length + opt.reviewedToday > opt.reviewCap / 2) limit = Math.ceil(limit / 2);
-  const newWords = order.filter((id) => !progress[id]).slice(0, limit);
+  const newWords = newOrder.filter((id) => !progress[id] && canStart(id)).slice(0, limit);
 
   return { reviews, newWords, backlog };
 }

@@ -1,0 +1,1588 @@
+{
+ "id": "world",
+ "words": [
+  {
+   "id": "africa",
+   "word": "Africa",
+   "zh": "非洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "非洲"
+    }
+   ],
+   "ipa": "/ˈæfrɪkə/",
+   "chunks": [
+    "af",
+    "ri",
+    "ca"
+   ],
+   "emoji": "🦒",
+   "sentence": {
+    "en": "Lily wants to visit Africa.",
+    "zh": "Lily 想去非洲。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wants to visit Africa.",
+     "zh": "Lily 想去非洲。",
+     "audio": "media/sent/ebc1fc0db374.mp3"
+    },
+    {
+     "en": "Dad reads about animals in Africa.",
+     "zh": "爸爸阅读关于非洲动物的书。",
+     "audio": "media/sent/c5f57e650b85.mp3"
+    },
+    {
+     "en": "Many lions live in Africa.",
+     "zh": "很多狮子生活在非洲。",
+     "audio": "media/sent/4948374b4e9d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/africa.webp",
+    "uk": "media/uk/africa.mp3",
+    "us": "media/us/africa.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "antarctica",
+   "word": "Antarctica",
+   "zh": "南极洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "南极洲"
+    }
+   ],
+   "ipa": "/ænˈtɑːktɪkə/",
+   "chunks": [
+    "An",
+    "tarc",
+    "ti",
+    "ca"
+   ],
+   "emoji": "🐧",
+   "sentence": {
+    "en": "Penguins live in Antarctica.",
+    "zh": "企鹅住在南极洲。"
+   },
+   "sentences": [
+    {
+     "en": "Penguins live in Antarctica.",
+     "zh": "企鹅住在南极洲。",
+     "audio": "media/sent/66a636c666d6.mp3"
+    },
+    {
+     "en": "Antarctica is very cold.",
+     "zh": "南极洲非常冷。",
+     "audio": "media/sent/3c0638d5d586.mp3"
+    },
+    {
+     "en": "Tom draws a map of Antarctica.",
+     "zh": "Tom 画了一张南极洲地图。",
+     "audio": "media/sent/b5020ba5956f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/antarctica.webp",
+    "uk": "media/uk/antarctica.mp3",
+    "us": "media/us/antarctica.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "asia",
+   "word": "Asia",
+   "zh": "亚洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "亚洲"
+    }
+   ],
+   "ipa": "/ˈeɪʒə/",
+   "chunks": [
+    "a",
+    "si",
+    "a"
+   ],
+   "emoji": "🌏",
+   "sentence": {
+    "en": "We travel across Asia.",
+    "zh": "我们穿越亚洲旅行。"
+   },
+   "sentences": [
+    {
+     "en": "We travel across Asia.",
+     "zh": "我们穿越亚洲旅行。",
+     "audio": "media/sent/ecbdcdcb4777.mp3"
+    },
+    {
+     "en": "Mum's friend is from Asia.",
+     "zh": "妈妈的朋友来自亚洲。",
+     "audio": "media/sent/af4c1fa37136.mp3"
+    },
+    {
+     "en": "Asia has many big countries.",
+     "zh": "亚洲有许多大国。",
+     "audio": "media/sent/677de34cee9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/asia.webp",
+    "uk": "media/uk/asia.mp3",
+    "us": "media/us/asia.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "australia",
+   "word": "Australia",
+   "zh": "澳大利亚；澳洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "澳大利亚；澳洲"
+    }
+   ],
+   "ipa": "/ɒˈstreɪliə/",
+   "chunks": [
+    "aus",
+    "tra",
+    "li",
+    "a"
+   ],
+   "emoji": "🦘",
+   "sentence": {
+    "en": "Kate's aunt lives in Australia.",
+    "zh": "Kate 的阿姨住在澳大利亚。"
+   },
+   "sentences": [
+    {
+     "en": "Kate's aunt lives in Australia.",
+     "zh": "Kate 的阿姨住在澳大利亚。",
+     "audio": "media/sent/584597d5407d.mp3"
+    },
+    {
+     "en": "Kangaroos come from Australia.",
+     "zh": "袋鼠来自澳大利亚。",
+     "audio": "media/sent/0b3a53248f2a.mp3"
+    },
+    {
+     "en": "We flew to Australia last year.",
+     "zh": "我们去年飞往澳大利亚。",
+     "audio": "media/sent/d8406fd520ad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/australia.webp",
+    "uk": "media/uk/australia.mp3",
+    "us": "media/us/australia.mp3"
+   },
+   "avoid": [
+    "australian"
+   ]
+  },
+  {
+   "id": "europe",
+   "word": "Europe",
+   "zh": "欧洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "欧洲"
+    }
+   ],
+   "ipa": "/ˈjʊərəp/",
+   "chunks": [
+    "eu",
+    "rope"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "They drove through Europe.",
+    "zh": "他们开车穿越欧洲。"
+   },
+   "sentences": [
+    {
+     "en": "They drove through Europe.",
+     "zh": "他们开车穿越欧洲。",
+     "audio": "media/sent/3f4a3b1c60e1.mp3"
+    },
+    {
+     "en": "We learned about Europe at school.",
+     "zh": "我们在学校学习了关于欧洲的知识。",
+     "audio": "media/sent/c15cd3bb2731.mp3"
+    },
+    {
+     "en": "Europe is close to Africa.",
+     "zh": "欧洲离非洲很近。",
+     "audio": "media/sent/06b504cedb69.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/europe.webp",
+    "uk": "media/uk/europe.mp3",
+    "us": "media/us/europe.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "north-america",
+   "word": "North America",
+   "zh": "北美洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "北美洲"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "north",
+    "a",
+    "mer",
+    "i",
+    "ca"
+   ],
+   "emoji": "🦅",
+   "sentence": {
+    "en": "Bears and eagles live in North America.",
+    "zh": "北美洲生活着熊和鹰。"
+   },
+   "sentences": [
+    {
+     "en": "Bears and eagles live in North America.",
+     "zh": "北美洲生活着熊和鹰。",
+     "audio": "media/sent/117225ef91a9.mp3"
+    },
+    {
+     "en": "We visited North America once.",
+     "zh": "我们曾去过北美洲一次。",
+     "audio": "media/sent/4af45564dacd.mp3"
+    },
+    {
+     "en": "North America is very big.",
+     "zh": "北美洲非常大。",
+     "audio": "media/sent/c578b2dce46d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/north-america.webp"
+   },
+   "avoid": [
+    "america",
+    "south-america"
+   ]
+  },
+  {
+   "id": "south-america",
+   "word": "South America",
+   "zh": "南美洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "南美洲"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "south",
+    "a",
+    "mer",
+    "i",
+    "ca"
+   ],
+   "emoji": "🦜",
+   "sentence": {
+    "en": "Kate is on holiday in South America.",
+    "zh": "Kate 在南美洲度假。"
+   },
+   "sentences": [
+    {
+     "en": "Kate is on holiday in South America.",
+     "zh": "Kate 在南美洲度假。",
+     "audio": "media/sent/fdb869d03d66.mp3"
+    },
+    {
+     "en": "We saw maps of South America.",
+     "zh": "我们看了南美洲的地图。",
+     "audio": "media/sent/e6a99db5aa59.mp3"
+    },
+    {
+     "en": "Parrots live in South America.",
+     "zh": "鹦鹉住在南美洲。",
+     "audio": "media/sent/bca6159551b1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/south-america.webp"
+   },
+   "avoid": [
+    "america",
+    "north-america"
+   ]
+  },
+  {
+   "id": "china",
+   "word": "China",
+   "zh": "中国",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "中国"
+    }
+   ],
+   "ipa": "/ˈtʃaɪnə/",
+   "chunks": [
+    "chi",
+    "na"
+   ],
+   "emoji": "🇨🇳",
+   "sentence": {
+    "en": "Mia is from China.",
+    "zh": "Mia 来自中国。"
+   },
+   "sentences": [
+    {
+     "en": "Mia is from China.",
+     "zh": "Mia 来自中国。",
+     "audio": "media/sent/cb7b39e14643.mp3"
+    },
+    {
+     "en": "We bought tea in China.",
+     "zh": "我们在中国买了茶。",
+     "audio": "media/sent/6116f6f14cad.mp3"
+    },
+    {
+     "en": "China is far from here.",
+     "zh": "中国离这里很远。",
+     "audio": "media/sent/4a5dd6b89c40.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/china.webp",
+    "uk": "media/uk/china.mp3",
+    "us": "media/us/china.mp3"
+   },
+   "avoid": [
+    "chinese"
+   ]
+  },
+  {
+   "id": "brazil",
+   "word": "Brazil",
+   "zh": "巴西",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "巴西"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bra",
+    "zil"
+   ],
+   "emoji": "🇧🇷",
+   "sentence": {
+    "en": "Many children play football in Brazil.",
+    "zh": "在巴西，很多孩子踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "Many children play football in Brazil.",
+     "zh": "在巴西，很多孩子踢足球。",
+     "audio": "media/sent/40d4130a0c6b.mp3"
+    },
+    {
+     "en": "We watched a match from Brazil.",
+     "zh": "我们看了一场来自巴西的比赛。",
+     "audio": "media/sent/a23d06eada65.mp3"
+    },
+    {
+     "en": "Brazil is famous for football.",
+     "zh": "巴西以足球闻名。",
+     "audio": "media/sent/bc3c795128c1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/brazil.webp"
+   },
+   "avoid": [
+    "brazilian"
+   ]
+  },
+  {
+   "id": "canada",
+   "word": "Canada",
+   "zh": "加拿大",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "加拿大"
+    }
+   ],
+   "ipa": "/ˈkænədə/",
+   "chunks": [
+    "ca",
+    "na",
+    "da"
+   ],
+   "emoji": "🍁",
+   "sentence": {
+    "en": "Sam's cousin lives in Canada.",
+    "zh": "Sam 的表亲住在加拿大。"
+   },
+   "sentences": [
+    {
+     "en": "Sam's cousin lives in Canada.",
+     "zh": "Sam 的表亲住在加拿大。",
+     "audio": "media/sent/3347a28efbda.mp3"
+    },
+    {
+     "en": "Canada has lots of snow.",
+     "zh": "加拿大有许多雪。",
+     "audio": "media/sent/212885e90628.mp3"
+    },
+    {
+     "en": "We visited Canada in winter.",
+     "zh": "我们在冬天去了加拿大。",
+     "audio": "media/sent/f8cc2d7a8af8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/canada.webp",
+    "uk": "media/uk/canada.mp3",
+    "us": "media/us/canada.mp3"
+   },
+   "avoid": [
+    "canadian"
+   ]
+  },
+  {
+   "id": "france",
+   "word": "France",
+   "zh": "法国",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "法国"
+    }
+   ],
+   "ipa": "/frɑːns/",
+   "chunks": [
+    "France"
+   ],
+   "emoji": "🇫🇷",
+   "sentence": {
+    "en": "We went to France by train.",
+    "zh": "我们坐火车去了法国。"
+   },
+   "sentences": [
+    {
+     "en": "We went to France by train.",
+     "zh": "我们坐火车去了法国。",
+     "audio": "media/sent/16884ea57a17.mp3"
+    },
+    {
+     "en": "Mum loves food from France.",
+     "zh": "妈妈喜欢来自法国的食物。",
+     "audio": "media/sent/79978e4a0e09.mp3"
+    },
+    {
+     "en": "France is in Europe.",
+     "zh": "法国在欧洲。",
+     "audio": "media/sent/093fb4bb947c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/france.webp",
+    "uk": "media/uk/france.mp3",
+    "us": "media/us/france.mp3"
+   },
+   "avoid": [
+    "french"
+   ]
+  },
+  {
+   "id": "ireland",
+   "word": "Ireland",
+   "zh": "爱尔兰",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "爱尔兰"
+    }
+   ],
+   "ipa": "/ˈaɪələnd/",
+   "chunks": [
+    "i",
+    "re",
+    "land"
+   ],
+   "emoji": "🇮🇪",
+   "sentence": {
+    "en": "Kate's grandpa is from Ireland.",
+    "zh": "Kate 的爷爷来自爱尔兰。"
+   },
+   "sentences": [
+    {
+     "en": "Kate's grandpa is from Ireland.",
+     "zh": "Kate 的爷爷来自爱尔兰。",
+     "audio": "media/sent/8a8da7defff5.mp3"
+    },
+    {
+     "en": "Ireland has many green fields.",
+     "zh": "爱尔兰有许多绿色的田野。",
+     "audio": "media/sent/7452916e9e28.mp3"
+    },
+    {
+     "en": "We heard music from Ireland.",
+     "zh": "我们听到了来自爱尔兰的音乐。",
+     "audio": "media/sent/a687a599f0ef.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ireland.webp",
+    "uk": "media/uk/ireland.mp3",
+    "us": "media/us/ireland.mp3"
+   },
+   "avoid": [
+    "irish"
+   ]
+  },
+  {
+   "id": "india",
+   "word": "India",
+   "zh": "印度",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "印度"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "in",
+    "di",
+    "a"
+   ],
+   "emoji": "🐘",
+   "sentence": {
+    "en": "Our teacher is from India.",
+    "zh": "我们的老师来自印度。"
+   },
+   "sentences": [
+    {
+     "en": "Our teacher is from India.",
+     "zh": "我们的老师来自印度。",
+     "audio": "media/sent/f2492e54d111.mp3"
+    },
+    {
+     "en": "We saw a tiger in India.",
+     "zh": "我们在印度看到了一只老虎。",
+     "audio": "media/sent/728e894d10c8.mp3"
+    },
+    {
+     "en": "India is a big country.",
+     "zh": "印度是一个大国。",
+     "audio": "media/sent/ade30c57827e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/india.webp"
+   },
+   "avoid": [
+    "indian"
+   ]
+  },
+  {
+   "id": "italy",
+   "word": "Italy",
+   "zh": "意大利",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "意大利"
+    }
+   ],
+   "ipa": "/ˈɪtəli/",
+   "chunks": [
+    "i",
+    "tal",
+    "y"
+   ],
+   "emoji": "🇮🇹",
+   "sentence": {
+    "en": "We ate pizza in Italy.",
+    "zh": "我们在意大利吃了披萨。"
+   },
+   "sentences": [
+    {
+     "en": "We ate pizza in Italy.",
+     "zh": "我们在意大利吃了披萨。",
+     "audio": "media/sent/49f5bf669fda.mp3"
+    },
+    {
+     "en": "Italy has old cities.",
+     "zh": "意大利有古老的城市。",
+     "audio": "media/sent/bb2639cc5c06.mp3"
+    },
+    {
+     "en": "Grandma wants to see Italy.",
+     "zh": "奶奶想看看意大利。",
+     "audio": "media/sent/cd3823b872f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/italy.webp",
+    "uk": "media/uk/italy.mp3",
+    "us": "media/us/italy.mp3"
+   },
+   "avoid": [
+    "italian"
+   ]
+  },
+  {
+   "id": "spain",
+   "word": "Spain",
+   "zh": "西班牙",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "西班牙"
+    }
+   ],
+   "ipa": "/speɪn/",
+   "chunks": [
+    "Spain"
+   ],
+   "emoji": "🇪🇸",
+   "sentence": {
+    "en": "We stayed in Spain.",
+    "zh": "我们待在西班牙。"
+   },
+   "sentences": [
+    {
+     "en": "We stayed in Spain.",
+     "zh": "我们待在西班牙。",
+     "audio": "media/sent/e3a0c90d6035.mp3"
+    },
+    {
+     "en": "Spain is very sunny.",
+     "zh": "西班牙阳光很好。",
+     "audio": "media/sent/6c761a0d94d1.mp3"
+    },
+    {
+     "en": "Sam learns some Spanish words in Spain.",
+     "zh": "Sam 在西班牙学了几个西班牙语单词。",
+     "audio": "media/sent/0fb14cf708a4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spain.webp",
+    "uk": "media/uk/spain.mp3",
+    "us": "media/us/spain.mp3"
+   },
+   "avoid": [
+    "spanish"
+   ]
+  },
+  {
+   "id": "england",
+   "word": "England",
+   "zh": "英格兰",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "英格兰"
+    }
+   ],
+   "ipa": "/ˈɪŋɡlənd/",
+   "chunks": [
+    "Eng",
+    "land"
+   ],
+   "emoji": "🇬🇧",
+   "sentence": {
+    "en": "We live in England.",
+    "zh": "我们住在英格兰。"
+   },
+   "sentences": [
+    {
+     "en": "We live in England.",
+     "zh": "我们住在英格兰。",
+     "audio": "media/sent/fbb2ee6b536d.mp3"
+    },
+    {
+     "en": "Dad works in England.",
+     "zh": "爸爸在英格兰工作。",
+     "audio": "media/sent/2535481ed54f.mp3"
+    },
+    {
+     "en": "We took a trip to England.",
+     "zh": "我们去英格兰旅行了。",
+     "audio": "media/sent/abfe3b526ec5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/england.webp",
+    "uk": "media/uk/england.mp3",
+    "us": "media/us/england.mp3"
+   },
+   "avoid": [
+    "britain"
+   ]
+  },
+  {
+   "id": "britain",
+   "word": "Britain",
+   "zh": "英国",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "英国"
+    }
+   ],
+   "ipa": "/ˈbrɪtən/",
+   "chunks": [
+    "bri",
+    "tain"
+   ],
+   "emoji": "🇬🇧",
+   "sentence": {
+    "en": "We live in Britain.",
+    "zh": "我们住在英国。"
+   },
+   "sentences": [
+    {
+     "en": "We live in Britain.",
+     "zh": "我们住在英国。",
+     "audio": "media/sent/4588756fd784.mp3"
+    },
+    {
+     "en": "Dad works in London, Britain.",
+     "zh": "爸爸在英国的伦敦工作。",
+     "audio": "media/sent/adde20c803f2.mp3"
+    },
+    {
+     "en": "It rains a lot in Britain.",
+     "zh": "英国经常下雨。",
+     "audio": "media/sent/0eefd1cad8b7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/britain.webp",
+    "uk": "media/uk/britain.mp3",
+    "us": "media/us/britain.mp3"
+   },
+   "avoid": [
+    "england"
+   ]
+  },
+  {
+   "id": "america",
+   "word": "America",
+   "zh": "美国；美洲",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "美国；美洲"
+    }
+   ],
+   "ipa": "/əˈmerɪkə/",
+   "chunks": [
+    "a",
+    "me",
+    "ri",
+    "ca"
+   ],
+   "emoji": "🇺🇸",
+   "sentence": {
+    "en": "Sam's uncle lives in America.",
+    "zh": "Sam 的叔叔住在美国。"
+   },
+   "sentences": [
+    {
+     "en": "Sam's uncle lives in America.",
+     "zh": "Sam 的叔叔住在美国。",
+     "audio": "media/sent/1a91da79a0b4.mp3"
+    },
+    {
+     "en": "We flew to America for our holiday.",
+     "zh": "我们坐飞机去美国度假了。",
+     "audio": "media/sent/afeffa1f3f1c.mp3"
+    },
+    {
+     "en": "Pizza is popular in America.",
+     "zh": "披萨在美国很受欢迎。",
+     "audio": "media/sent/3551f4a132cd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/america.webp",
+    "uk": "media/uk/america.mp3",
+    "us": "media/us/america.mp3"
+   },
+   "avoid": [
+    "american",
+    "north-america",
+    "south-america"
+   ]
+  },
+  {
+   "id": "japan",
+   "word": "Japan",
+   "zh": "日本",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "日本"
+    }
+   ],
+   "ipa": "/dʒəˈpæn/",
+   "chunks": [
+    "ja",
+    "pan"
+   ],
+   "emoji": "🇯🇵",
+   "sentence": {
+    "en": "Mum went to Japan last year.",
+    "zh": "妈妈去年去了日本。"
+   },
+   "sentences": [
+    {
+     "en": "Mum went to Japan last year.",
+     "zh": "妈妈去年去了日本。",
+     "audio": "media/sent/9304ed8923d9.mp3"
+    },
+    {
+     "en": "We ate Japanese food in Japan.",
+     "zh": "我们在日本吃了日本食物。",
+     "audio": "media/sent/61b784cca18b.mp3"
+    },
+    {
+     "en": "We want to visit Japan one day.",
+     "zh": "我们有一天想去日本参观。",
+     "audio": "media/sent/ea293e32311b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/japan.webp",
+    "uk": "media/uk/japan.mp3",
+    "us": "media/us/japan.mp3"
+   },
+   "avoid": [
+    "japanese"
+   ]
+  },
+  {
+   "id": "chinese",
+   "word": "Chinese",
+   "zh": "中国的；中文",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "中国的；中国人的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "中文；中国人"
+    }
+   ],
+   "ipa": "/ˌtʃaɪˈniːz/",
+   "chunks": [
+    "chi",
+    "nese"
+   ],
+   "emoji": "🇨🇳",
+   "sentence": {
+    "en": "Lily learns to write Chinese characters.",
+    "zh": "Lily 学习写汉字。"
+   },
+   "sentences": [
+    {
+     "en": "Lily learns to write Chinese characters.",
+     "zh": "Lily 学习写汉字。",
+     "audio": "media/sent/33ca9530fd59.mp3"
+    },
+    {
+     "en": "My friend is Chinese.",
+     "zh": "我的朋友是中国人。",
+     "audio": "media/sent/b0536faa3038.mp3"
+    },
+    {
+     "en": "Can you speak Chinese?",
+     "zh": "你会说中文吗？",
+     "audio": "media/sent/14eaee6626ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chinese.webp",
+    "uk": "media/uk/chinese.mp3",
+    "us": "media/us/chinese.mp3"
+   },
+   "avoid": [
+    "china"
+   ]
+  },
+  {
+   "id": "brazilian",
+   "word": "Brazilian",
+   "zh": "巴西的；巴西人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "巴西的；巴西人"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bra",
+    "zi",
+    "li",
+    "an"
+   ],
+   "emoji": "🇧🇷",
+   "sentence": {
+    "en": "Our new classmate is Brazilian.",
+    "zh": "我们的新同学是巴西人。"
+   },
+   "sentences": [
+    {
+     "en": "Our new classmate is Brazilian.",
+     "zh": "我们的新同学是巴西人。",
+     "audio": "media/sent/19ac089b720f.mp3"
+    },
+    {
+     "en": "We watched the Brazilian team play.",
+     "zh": "我们看了巴西队比赛。",
+     "audio": "media/sent/a0208d0b235b.mp3"
+    },
+    {
+     "en": "She is from Brazil, so she is Brazilian.",
+     "zh": "她来自巴西，所以她是巴西人。",
+     "audio": "media/sent/dbcf692b2783.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/brazilian.webp"
+   },
+   "avoid": [
+    "brazil"
+   ]
+  },
+  {
+   "id": "canadian",
+   "word": "Canadian",
+   "zh": "加拿大的；加拿大人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "加拿大的；加拿大人"
+    }
+   ],
+   "ipa": "/kəˈneɪdiən/",
+   "chunks": [
+    "ca",
+    "na",
+    "di",
+    "an"
+   ],
+   "emoji": "🇨🇦",
+   "sentence": {
+    "en": "Our neighbour is Canadian.",
+    "zh": "我们的邻居是加拿大人。"
+   },
+   "sentences": [
+    {
+     "en": "Our neighbour is Canadian.",
+     "zh": "我们的邻居是加拿大人。",
+     "audio": "media/sent/ed184c4f577c.mp3"
+    },
+    {
+     "en": "Canadian winters are very cold.",
+     "zh": "加拿大的冬天很冷。",
+     "audio": "media/sent/0d591c15dc83.mp3"
+    },
+    {
+     "en": "I have a Canadian friend.",
+     "zh": "我有一个加拿大朋友。",
+     "audio": "media/sent/85bdfcc3bc2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/canadian.webp",
+    "uk": "media/uk/canadian.mp3",
+    "us": "media/us/canadian.mp3"
+   },
+   "avoid": [
+    "canada"
+   ]
+  },
+  {
+   "id": "french",
+   "word": "French",
+   "zh": "法国的；法语",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "法国的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "法语"
+    }
+   ],
+   "ipa": "/frentʃ/",
+   "chunks": [
+    "French"
+   ],
+   "emoji": "🇫🇷",
+   "sentence": {
+    "en": "Dad can speak French.",
+    "zh": "爸爸会说法语。"
+   },
+   "sentences": [
+    {
+     "en": "Dad can speak French.",
+     "zh": "爸爸会说法语。",
+     "audio": "media/sent/c2ca27a8a5b7.mp3"
+    },
+    {
+     "en": "We bought French cheese.",
+     "zh": "我们买了法国奶酪。",
+     "audio": "media/sent/c2bed5932c22.mp3"
+    },
+    {
+     "en": "She is learning French at school.",
+     "zh": "她在学校学法语。",
+     "audio": "media/sent/a590861b28b3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/french.webp",
+    "uk": "media/uk/french.mp3",
+    "us": "media/us/french.mp3"
+   },
+   "avoid": [
+    "france"
+   ]
+  },
+  {
+   "id": "irish",
+   "word": "Irish",
+   "zh": "爱尔兰的；爱尔兰人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "爱尔兰的；爱尔兰人"
+    }
+   ],
+   "ipa": "/ˈaɪərɪʃ/",
+   "chunks": [
+    "i",
+    "rish"
+   ],
+   "emoji": "🇮🇪",
+   "sentence": {
+    "en": "My cousin is Irish.",
+    "zh": "我的表亲是爱尔兰人。"
+   },
+   "sentences": [
+    {
+     "en": "My cousin is Irish.",
+     "zh": "我的表亲是爱尔兰人。",
+     "audio": "media/sent/7f6c5ee89476.mp3"
+    },
+    {
+     "en": "We listened to Irish music.",
+     "zh": "我们听了爱尔兰音乐。",
+     "audio": "media/sent/5c758b49005b.mp3"
+    },
+    {
+     "en": "He has an Irish name.",
+     "zh": "他有一个爱尔兰名字。",
+     "audio": "media/sent/f338b9c6772c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/irish.webp",
+    "uk": "media/uk/irish.mp3",
+    "us": "media/us/irish.mp3"
+   },
+   "avoid": [
+    "ireland"
+   ]
+  },
+  {
+   "id": "indian",
+   "word": "Indian",
+   "zh": "印度的；印度人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "印度的；印度人"
+    }
+   ],
+   "ipa": "/ˈɪndiən/",
+   "chunks": [
+    "in",
+    "di",
+    "an"
+   ],
+   "emoji": "🇮🇳",
+   "sentence": {
+    "en": "We ate Indian food.",
+    "zh": "我们吃了印度食物。"
+   },
+   "sentences": [
+    {
+     "en": "We ate Indian food.",
+     "zh": "我们吃了印度食物。",
+     "audio": "media/sent/e9abd569944e.mp3"
+    },
+    {
+     "en": "Sam's teacher is Indian.",
+     "zh": "Sam 的老师是印度人。",
+     "audio": "media/sent/7f849c5f8d9d.mp3"
+    },
+    {
+     "en": "I like Indian food very much.",
+     "zh": "我非常喜欢印度食物。",
+     "audio": "media/sent/e9ee7ba5f589.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/indian.webp",
+    "uk": "media/uk/indian.mp3",
+    "us": "media/us/indian.mp3"
+   },
+   "avoid": [
+    "india"
+   ]
+  },
+  {
+   "id": "italian",
+   "word": "Italian",
+   "zh": "意大利的；意大利语",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "意大利的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "意大利语"
+    }
+   ],
+   "ipa": "/ɪˈtæliən/",
+   "chunks": [
+    "I",
+    "tal",
+    "i",
+    "an"
+   ],
+   "emoji": "🇮🇹",
+   "sentence": {
+    "en": "We had Italian pasta.",
+    "zh": "我们吃了意大利面。"
+   },
+   "sentences": [
+    {
+     "en": "We had Italian pasta.",
+     "zh": "我们吃了意大利面。",
+     "audio": "media/sent/4dae37c1af65.mp3"
+    },
+    {
+     "en": "She speaks a little Italian.",
+     "zh": "她会说一点意大利语。",
+     "audio": "media/sent/b8f8e8cda217.mp3"
+    },
+    {
+     "en": "He is an Italian chef.",
+     "zh": "他是一位意大利厨师。",
+     "audio": "media/sent/95fc19d57fff.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/italian.webp",
+    "uk": "media/uk/italian.mp3",
+    "us": "media/us/italian.mp3"
+   },
+   "avoid": [
+    "italy"
+   ]
+  },
+  {
+   "id": "spanish",
+   "word": "Spanish",
+   "zh": "西班牙的；西班牙语",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "西班牙的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "西班牙语"
+    }
+   ],
+   "ipa": "/ˈspænɪʃ/",
+   "chunks": [
+    "Span",
+    "ish"
+   ],
+   "emoji": "🇪🇸",
+   "sentence": {
+    "en": "Can you say hello in Spanish?",
+    "zh": "你会用西班牙语打招呼吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you say hello in Spanish?",
+     "zh": "你会用西班牙语打招呼吗？",
+     "audio": "media/sent/2bdde9a3a980.mp3"
+    },
+    {
+     "en": "We visited a Spanish town.",
+     "zh": "我们参观了一个西班牙小镇。",
+     "audio": "media/sent/82e020df89c8.mp3"
+    },
+    {
+     "en": "He is learning Spanish.",
+     "zh": "他在学西班牙语。",
+     "audio": "media/sent/45f69e637aae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spanish.webp",
+    "uk": "media/uk/spanish.mp3",
+    "us": "media/us/spanish.mp3"
+   },
+   "avoid": [
+    "spain"
+   ]
+  },
+  {
+   "id": "english",
+   "word": "English",
+   "zh": "英语；英国的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "英语"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "英国的；英格兰的"
+    }
+   ],
+   "ipa": "/ˈɪŋɡlɪʃ/",
+   "chunks": [
+    "Eng",
+    "lish"
+   ],
+   "emoji": "🇬🇧",
+   "sentence": {
+    "en": "Lily reads an English book.",
+    "zh": "Lily 读一本英文书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads an English book.",
+     "zh": "Lily 读一本英文书。",
+     "audio": "media/sent/58457853be3b.mp3"
+    },
+    {
+     "en": "We speak English at home.",
+     "zh": "我们在家说英语。",
+     "audio": "media/sent/e58d601d8826.mp3"
+    },
+    {
+     "en": "He is an English teacher.",
+     "zh": "他是一位英语老师。",
+     "audio": "media/sent/be9c68ae09a4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/english.webp",
+    "uk": "media/uk/english.mp3",
+    "us": "media/us/english.mp3"
+   },
+   "avoid": [
+    "british"
+   ]
+  },
+  {
+   "id": "british",
+   "word": "British",
+   "zh": "英国的；英国人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "英国的；英国人"
+    }
+   ],
+   "ipa": "/ˈbrɪtɪʃ/",
+   "chunks": [
+    "brit",
+    "ish"
+   ],
+   "emoji": "🇬🇧",
+   "sentence": {
+    "en": "She has a British passport.",
+    "zh": "她有一本英国护照。"
+   },
+   "sentences": [
+    {
+     "en": "She has a British passport.",
+     "zh": "她有一本英国护照。",
+     "audio": "media/sent/fb9c65cc8504.mp3"
+    },
+    {
+     "en": "We saw the British king.",
+     "zh": "我们看到了英国国王。",
+     "audio": "media/sent/43169c2a6db7.mp3"
+    },
+    {
+     "en": "He is British.",
+     "zh": "他是英国人。",
+     "audio": "media/sent/aa93a9a49ca1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/british.webp",
+    "uk": "media/uk/british.mp3",
+    "us": "media/us/british.mp3"
+   },
+   "avoid": [
+    "english"
+   ]
+  },
+  {
+   "id": "american",
+   "word": "American",
+   "zh": "美国的；美国人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "美国的；美国人"
+    }
+   ],
+   "ipa": "/əˈmerɪkən/",
+   "chunks": [
+    "a",
+    "mer",
+    "i",
+    "can"
+   ],
+   "emoji": "🇺🇸",
+   "sentence": {
+    "en": "My friend is American.",
+    "zh": "我的朋友是美国人。"
+   },
+   "sentences": [
+    {
+     "en": "My friend is American.",
+     "zh": "我的朋友是美国人。",
+     "audio": "media/sent/de3fd6dacbe1.mp3"
+    },
+    {
+     "en": "We watched an American film.",
+     "zh": "我们看了一部美国电影。",
+     "audio": "media/sent/4a57758b1aec.mp3"
+    },
+    {
+     "en": "He likes American football.",
+     "zh": "他喜欢美式足球。",
+     "audio": "media/sent/15c298a23bc2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/american.webp",
+    "uk": "media/uk/american.mp3",
+    "us": "media/us/american.mp3"
+   },
+   "avoid": [
+    "america"
+   ]
+  },
+  {
+   "id": "australian",
+   "word": "Australian",
+   "zh": "澳大利亚的；澳大利亚人",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "澳大利亚的；澳大利亚人"
+    }
+   ],
+   "ipa": "/ɒˈstreɪliən/",
+   "chunks": [
+    "aus",
+    "tra",
+    "li",
+    "an"
+   ],
+   "emoji": "🇦🇺",
+   "sentence": {
+    "en": "Mia has an Australian cousin.",
+    "zh": "Mia 有一个澳大利亚表亲。"
+   },
+   "sentences": [
+    {
+     "en": "Mia has an Australian cousin.",
+     "zh": "Mia 有一个澳大利亚表亲。",
+     "audio": "media/sent/db5466c3641e.mp3"
+    },
+    {
+     "en": "We saw an Australian kangaroo.",
+     "zh": "我们看见了一只澳大利亚袋鼠。",
+     "audio": "media/sent/fad0cd76b57e.mp3"
+    },
+    {
+     "en": "She is from Australia, so she is Australian.",
+     "zh": "她来自澳大利亚，所以她是澳大利亚人。",
+     "audio": "media/sent/c89563e53221.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/australian.webp",
+    "uk": "media/uk/australian.mp3",
+    "us": "media/us/australian.mp3"
+   },
+   "avoid": [
+    "australia"
+   ]
+  },
+  {
+   "id": "japanese",
+   "word": "Japanese",
+   "zh": "日本的；日语",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "日本的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "日语"
+    }
+   ],
+   "ipa": "/ˌdʒæpəˈniːz/",
+   "chunks": [
+    "ja",
+    "pa",
+    "nese"
+   ],
+   "emoji": "🇯🇵",
+   "sentence": {
+    "en": "Tom watches Japanese cartoons.",
+    "zh": "Tom 看日本动画片。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches Japanese cartoons.",
+     "zh": "Tom 看日本动画片。",
+     "audio": "media/sent/75fcaa490190.mp3"
+    },
+    {
+     "en": "We tried Japanese food.",
+     "zh": "我们尝试了日本食物。",
+     "audio": "media/sent/3ebd3c00b53a.mp3"
+    },
+    {
+     "en": "She is learning Japanese.",
+     "zh": "她在学日语。",
+     "audio": "media/sent/b3a2b5aaea65.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/japanese.webp",
+    "uk": "media/uk/japanese.mp3",
+    "us": "media/us/japanese.mp3"
+   },
+   "avoid": [
+    "japan"
+   ]
+  }
+ ]
+}

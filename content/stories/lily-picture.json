@@ -1,0 +1,50 @@
+{
+ "id": "lily-picture",
+ "topic": "colours",
+ "title": "Lily's Picture",
+ "zh": "Lily 的画",
+ "pages": [
+  {
+   "en": "Lily wants to paint a picture. She has red, yellow and blue paint. \"I want more colours!\" she says.",
+   "zh": "Lily 想画一幅画。她有红色、黄色和蓝色的颜料。“我想要更多颜色！”她说。",
+   "scene": "Lily at a little table with three paint pots, red, yellow and blue, a blank paper and a brush, looking thoughtful."
+  },
+  {
+   "en": "Dad helps her. Yellow and blue make green. Red and yellow make orange. Red and blue make purple.",
+   "zh": "爸爸帮她。黄色和蓝色调出绿色，红色和黄色调出橙色，红色和蓝色调出紫色。",
+   "scene": "Dad and Lily mixing paints on a palette, blobs of yellow and blue turning green, red and yellow turning orange, red and blue turning purple."
+  },
+  {
+   "en": "Now Lily has lots of colours. She paints an orange sun, a green tree and a purple flower. It's a beautiful picture!",
+   "zh": "现在 Lily 有好多颜色了。她画了橙色的太阳、绿色的树和紫色的花。真是一幅漂亮的画！",
+   "scene": "Lily proudly holding up her finished painting of an orange sun, a green tree and a purple flower, paint on her hands."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lily has red, yellow and blue paint.",
+   "zh": "Lily 有红色、黄色和蓝色的颜料。",
+   "answer": true
+  },
+  {
+   "q": "Yellow and blue make ...",
+   "zh": "黄色和蓝色混合成……",
+   "options": [
+    "green",
+    "orange",
+    "purple"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Red and yellow make ...",
+   "zh": "红色和黄色混合成……",
+   "options": [
+    "orange",
+    "pink",
+    "brown"
+   ],
+   "answer": 0
+  }
+ ]
+}

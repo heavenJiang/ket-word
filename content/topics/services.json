@@ -1,0 +1,32 @@
+{
+  "topic": "services",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Places that help people in town.",
+  "confusable": [
+    ["cafe", "cafeteria", "restaurant"],
+    ["cinema", "theatre", "museum"],
+    ["dentist", "doctor"],
+    ["sports-centre", "swimming-pool"],
+    ["garage", "petrol-station"],
+    ["bank", "post-office"],
+    ["hotel", "restaurant"]
+  ],
+  "words": [
+    { "id": "restaurant", "zh": "餐馆", "chunks": ["res", "tau", "rant"], "emoji": "🍽️", "en": "We eat dinner in a restaurant.", "sz": "我们在餐馆吃晚饭。", "scene": "the family eating dinner in a restaurant, a waiter bringing plates", "more": [["Dad orders fish at the restaurant.", "爸爸在餐馆点了鱼。"], ["The food in this restaurant is good.", "这家餐馆的食物很好吃。"]] },
+    { "id": "bank", "zh": "银行", "chunks": ["bank"], "emoji": "🏦", "en": "Aunt Kate works in a bank.", "sz": "Kate 阿姨在银行工作。", "scene": "a big stone bank building with columns, people going in", "more": [["Mum goes to the bank today.", "妈妈今天去银行。"], ["The bank is open on Monday.", "银行星期一开门。"]] },
+    { "id": "cafe", "zh": "咖啡馆；小餐馆", "chunks": ["ca", "fe"], "emoji": "☕", "en": "We drink tea in the cafe.", "sz": "我们在咖啡馆喝茶。", "more": [["Lily eats a cake at the cafe.", "Lily 在咖啡馆吃蛋糕。"], ["The cafe is near our house.", "咖啡馆在我们家附近。"]] },
+    { "id": "cafeteria", "zh": "自助餐厅；食堂", "chunks": ["caf", "e", "te", "ri", "a"], "emoji": "🍱", "en": "We have lunch in the cafeteria.", "sz": "我们在食堂吃午饭。", "more": [["The cafeteria is very busy.", "食堂很热闹。"], ["Tom eats an apple in the cafeteria.", "Tom 在食堂吃苹果。"]] },
+    { "id": "cinema", "zh": "电影院", "chunks": ["ci", "ne", "ma"], "emoji": "🎬", "en": "We watch a film at the cinema.", "sz": "我们在电影院看电影。", "scene": "Lily and Tom with popcorn in a dark cinema watching the big screen", "more": [["The cinema is very big.", "电影院很大。"], ["Let's go to the cinema on Sunday.", "我们星期日去电影院吧。"]] },
+    { "id": "dentist", "zh": "牙医", "chunks": ["den", "tist"], "emoji": "🦷", "en": "Lily visits the dentist.", "sz": "Lily 去看牙医。", "scene": "Lily sitting in a big green dentist's chair with her mouth open, a smiling grown-up dentist in a white coat leaning over her with a small mirror, Mum standing behind the chair.", "more": [["The dentist checks my teeth.", "牙医检查我的牙齿。"], ["Mum is at the dentist's office.", "妈妈在牙医诊所。"]] },
+    { "id": "doctor", "zh": "医生", "chunks": ["doc", "tor"], "emoji": "👨‍⚕️", "en": "The doctor helps Tom.", "sz": "医生帮助 Tom。", "scene": "A kind grown-up man doctor in a white coat sitting at his desk, listening to Tom's chest with a stethoscope, Tom sitting on a high chair with his eyes wide, Mum beside him.", "more": [["Mum is a nurse, not a doctor.", "妈妈是护士，不是医生。"], ["Go to the doctor if you are ill.", "如果你病了，去看医生。"]] },
+    { "id": "garage", "zh": "车库", "chunks": ["ga", "rage"], "emoji": "🚗", "en": "Dad parks the car in the garage.", "sz": "爸爸把车停在车库里。", "more": [["The bikes are in the garage.", "自行车在车库里。"], ["Max sleeps in the garage sometimes.", "Max 有时睡在车库里。"]] },
+    { "id": "hotel", "zh": "酒店；旅馆", "chunks": ["ho", "tel"], "emoji": "🏨", "en": "We sleep in a hotel.", "sz": "我们在酒店睡觉。", "scene": "A big hotel with a doorman and taxis outside.", "more": [["The hotel room is nice.", "酒店房间很好。"], ["Grandma stays at this hotel.", "奶奶住在这家酒店。"]] },
+    { "id": "library", "zh": "图书馆", "chunks": ["li", "bra", "ry"], "emoji": "📚", "en": "Lily reads books in the library.", "sz": "Lily 在图书馆看书。", "more": [["The library is quiet.", "图书馆很安静。"], ["We borrow books from the library.", "我们从图书馆借书。"]] },
+    { "id": "museum", "zh": "博物馆", "chunks": ["mu", "se", "um"], "emoji": "🏛️", "en": "We see old things in the museum.", "sz": "我们在博物馆看古老的东西。", "scene": "Lily and Tom looking up at a big dinosaur model in a museum hall, a kind guide smiling beside them, tall windows and stone steps behind.", "more": [["The museum is free for children.", "儿童免费参观博物馆。"], ["Tom likes the museum best.", "Tom 最喜欢博物馆。"]] },
+    { "id": "petrol-station", "zh": "加油站", "chunks": ["pe", "trol", "sta", "tion"], "emoji": "⛽", "en": "Dad stops at the petrol station.", "sz": "爸爸在加油站停车。", "scene": "A petrol station at the side of a road, Dad standing beside the family car filling it with petrol from a green pump, a small shop behind.", "more": [["The petrol station is on the corner.", "加油站在拐角处。"], ["We buy drinks at the petrol station.", "我们在加油站买饮料。"]] },
+    { "id": "post-office", "zh": "邮局", "chunks": ["post", "of", "fice"], "emoji": "📮", "en": "Lily sends a card at the post office.", "sz": "Lily 在邮局寄卡片。", "scene": "Lily posting a parcel at the post office counter", "more": [["The post office is near school.", "邮局在学校附近。"], ["We buy stamps at the post office.", "我们在邮局买邮票。"]] },
+    { "id": "sports-centre", "zh": "体育中心", "chunks": ["sports", "cen", "tre"], "emoji": "🏟️", "en": "We play games at the sports centre.", "sz": "我们在体育中心玩游戏。", "more": [["The sports centre is big.", "体育中心很大。"], ["Tom goes to the sports centre on Saturday.", "Tom 星期六去体育中心。"]] },
+    { "id": "swimming-pool", "zh": "游泳池", "chunks": ["swim", "ming", "pool"], "emoji": "🏊", "en": "Lily swims in the swimming pool.", "sz": "Lily 在游泳池里游泳。", "more": [["The water in the swimming pool is blue.", "游泳池里的水是蓝色的。"], ["We go to the swimming pool in summer.", "我们夏天去游泳池。"]] },
+    { "id": "theatre", "zh": "剧院", "chunks": ["the", "a", "tre"], "emoji": "🎭", "en": "We watch a play at the theatre.", "sz": "我们在剧院看戏。", "scene": "a theatre stage with red curtains, the family in their seats", "more": [["The theatre is very beautiful.", "剧院非常漂亮。"], ["Grandma loves going to the theatre.", "奶奶喜欢去剧院。"]] }
+  ]
+}

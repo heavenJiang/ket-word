@@ -1,0 +1,45 @@
+{
+ "id": "special-present",
+ "topic": "feelings",
+ "title": "A Special Present",
+ "zh": "一份特别的礼物",
+ "pages": [
+  {
+   "en": "It is Mia's birthday next week. Lily wants to give her a special present, but she doesn't have much money. She is worried.",
+   "zh": "下周是 Mia 的生日。Lily 想送她一份特别的礼物，可是她没有多少钱。她很担心。",
+   "scene": "Lily sitting at her desk looking worried, a small money box in front of her with a few coins, a drawing of a cake on the wall."
+  },
+  {
+   "en": "\"Make something,\" says Grandma. So Lily makes a card with flowers and a picture of Mia's cat. It is difficult, but she doesn't stop.",
+   "zh": "“自己做一样东西吧，”奶奶说。于是 Lily 做了一张贺卡，上面有花和 Mia 的猫。做起来很难，但她没有放弃。",
+   "scene": "Lily drawing and painting a colourful card with flowers and a cat at the kitchen table, Grandma smiling beside her, paints and pencils everywhere."
+  },
+  {
+   "en": "At the party, Mia opens the card. \"It's beautiful! It's my favourite present!\" she says. Lily feels very happy.",
+   "zh": "在派对上，Mia 打开了贺卡。“太漂亮了！这是我最喜欢的礼物！”她说。Lily 觉得非常开心。",
+   "scene": "A birthday party, Mia holding a colourful card with flowers and a cat and smiling widely, Lily smiling proudly next to her, balloons in the room."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lily has a lot of money.",
+   "zh": "Lily 有很多钱。",
+   "answer": false
+  },
+  {
+   "q": "What does Lily make?",
+   "zh": "Lily 做了什么？",
+   "options": [
+    "a card",
+    "a cake",
+    "a dress"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mia likes the present.",
+   "zh": "Mia 喜欢这份礼物。",
+   "answer": true
+  }
+ ]
+}

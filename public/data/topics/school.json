@@ -1,0 +1,2963 @@
+{
+ "id": "school",
+ "words": [
+  {
+   "id": "advanced",
+   "word": "advanced",
+   "zh": "高级的；高等的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "高级的；高等的"
+    }
+   ],
+   "ipa": "/ədˈvɑːnst/",
+   "chunks": [
+    "ad",
+    "vanced"
+   ],
+   "emoji": "🎓",
+   "sentence": {
+    "en": "Sam is in the advanced class.",
+    "zh": "Sam 在高级班。"
+   },
+   "sentences": [
+    {
+     "en": "Sam is in the advanced class.",
+     "zh": "Sam 在高级班。",
+     "audio": "media/sent/3e45f23e1ee8.mp3"
+    },
+    {
+     "en": "This book is too advanced for Tom.",
+     "zh": "这本书对 Tom 来说太难了。",
+     "audio": "media/sent/a8522ce3a0b0.mp3"
+    },
+    {
+     "en": "Lily wants to join the advanced class.",
+     "zh": "Lily 想进高级班。",
+     "audio": "media/sent/4fd3f530c44c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/advanced.webp",
+    "uk": "media/uk/advanced.mp3",
+    "us": "media/us/advanced.mp3"
+   },
+   "avoid": [
+    "beginner",
+    "level"
+   ]
+  },
+  {
+   "id": "beginner",
+   "word": "beginner",
+   "zh": "初学者",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "初学者"
+    }
+   ],
+   "ipa": "/bɪˈɡɪnə/",
+   "chunks": [
+    "be",
+    "gin",
+    "ner"
+   ],
+   "emoji": "🔰",
+   "sentence": {
+    "en": "Tom is a beginner at swimming.",
+    "zh": "Tom 是游泳初学者。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is a beginner at swimming.",
+     "zh": "Tom 是游泳初学者。",
+     "audio": "media/sent/e588459abcbf.mp3"
+    },
+    {
+     "en": "This class is for beginners.",
+     "zh": "这个班是给初学者的。",
+     "audio": "media/sent/414275478e37.mp3"
+    },
+    {
+     "en": "I'm a beginner at the piano.",
+     "zh": "我是钢琴初学者。",
+     "audio": "media/sent/37beba042e06.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/beginner.webp",
+    "uk": "media/uk/beginner.mp3",
+    "us": "media/us/beginner.mp3"
+   },
+   "avoid": [
+    "advanced",
+    "classmate",
+    "level",
+    "pupil",
+    "student"
+   ]
+  },
+  {
+   "id": "biology",
+   "word": "biology",
+   "zh": "生物（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "生物（学科）"
+    }
+   ],
+   "ipa": "/baɪˈɒlədʒi/",
+   "chunks": [
+    "bi",
+    "ol",
+    "o",
+    "gy"
+   ],
+   "emoji": "🔬",
+   "sentence": {
+    "en": "We learn about animals in biology.",
+    "zh": "我们在生物课上学习动物。"
+   },
+   "sentences": [
+    {
+     "en": "We learn about animals in biology.",
+     "zh": "我们在生物课上学习动物。",
+     "audio": "media/sent/4bbd0637f591.mp3"
+    },
+    {
+     "en": "Biology is Lily's favourite subject.",
+     "zh": "生物是 Lily 最喜欢的科目。",
+     "audio": "media/sent/4a1774af35a4.mp3"
+    },
+    {
+     "en": "We have biology on Monday.",
+     "zh": "我们星期一有生物课。",
+     "audio": "media/sent/f2ba29b848a5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/biology.webp",
+    "uk": "media/uk/biology.mp3",
+    "us": "media/us/biology.mp3"
+   },
+   "avoid": [
+    "chemistry",
+    "geography",
+    "history",
+    "maths",
+    "physics",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "blackboard",
+   "word": "blackboard",
+   "zh": "黑板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "黑板"
+    }
+   ],
+   "ipa": "/ˈblækbɔːd/",
+   "chunks": [
+    "black",
+    "board"
+   ],
+   "emoji": "🖤",
+   "sentence": {
+    "en": "The teacher writes on the blackboard.",
+    "zh": "老师在黑板上写字。"
+   },
+   "sentences": [
+    {
+     "en": "The teacher writes on the blackboard.",
+     "zh": "老师在黑板上写字。",
+     "audio": "media/sent/f10b5f755cb9.mp3"
+    },
+    {
+     "en": "Look at the blackboard, please.",
+     "zh": "请看黑板。",
+     "audio": "media/sent/c63fec4e9c1b.mp3"
+    },
+    {
+     "en": "Tom cleans the blackboard after class.",
+     "zh": "Tom 下课后擦黑板。",
+     "audio": "media/sent/908449323bc8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/blackboard.webp",
+    "uk": "media/uk/blackboard.mp3",
+    "us": "media/us/blackboard.mp3"
+   },
+   "avoid": [
+    "board"
+   ]
+  },
+  {
+   "id": "board",
+   "word": "board",
+   "zh": "板；写字板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "板；写字板"
+    }
+   ],
+   "ipa": "/bɔːd/",
+   "chunks": [
+    "board"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "Write your name on the board.",
+    "zh": "在板上写下你的名字。"
+   },
+   "sentences": [
+    {
+     "en": "Write your name on the board.",
+     "zh": "在板上写下你的名字。",
+     "audio": "media/sent/7bca2d57ad1d.mp3"
+    },
+    {
+     "en": "The teacher draws a map on the board.",
+     "zh": "老师在板上画了一张地图。",
+     "audio": "media/sent/e5987efe7e73.mp3"
+    },
+    {
+     "en": "Can you see the board?",
+     "zh": "你能看见黑板吗？",
+     "audio": "media/sent/2d9de3c77955.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/board.webp",
+    "uk": "media/uk/board.mp3",
+    "us": "media/us/board.mp3"
+   },
+   "avoid": [
+    "blackboard"
+   ]
+  },
+  {
+   "id": "book",
+   "word": "book",
+   "zh": "书",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "预订",
+     "en": "Dad books a table for dinner."
+    }
+   ],
+   "ipa": "/bʊk/",
+   "chunks": [
+    "book"
+   ],
+   "emoji": "📕",
+   "sentence": {
+    "en": "Lily reads a book every week.",
+    "zh": "Lily 每周读一本书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads a book every week.",
+     "zh": "Lily 每周读一本书。",
+     "audio": "media/sent/b0d742681601.mp3"
+    },
+    {
+     "en": "This book is about dinosaurs.",
+     "zh": "这本书是讲恐龙的。",
+     "audio": "media/sent/23602b1b0a65.mp3"
+    },
+    {
+     "en": "Can I borrow your book?",
+     "zh": "我能借你的书吗？",
+     "audio": "media/sent/94b3da73b032.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/book.webp",
+    "uk": "media/uk/book.mp3",
+    "us": "media/us/book.mp3"
+   },
+   "avoid": [
+    "book.2",
+    "bookshelf",
+    "dictionary",
+    "library"
+   ]
+  },
+  {
+   "id": "book.2",
+   "word": "book",
+   "zh": "预订",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "预订"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书"
+    }
+   ],
+   "ipa": "/bʊk/",
+   "chunks": [
+    "book"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "Dad books a table at the cafe.",
+    "zh": "爸爸在咖啡馆订了一张桌子。"
+   },
+   "sentences": [
+    {
+     "en": "Dad books a table at the cafe.",
+     "zh": "爸爸在咖啡馆订了一张桌子。",
+     "audio": "media/sent/437f86ac43dd.mp3"
+    },
+    {
+     "en": "Let's book a room by the sea.",
+     "zh": "我们订一间海边的房间吧。",
+     "audio": "media/sent/ed519d49a784.mp3"
+    },
+    {
+     "en": "You need to book the tickets early.",
+     "zh": "你得早点订票。",
+     "audio": "media/sent/2bbc6a9f7143.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/book.2.webp",
+    "uk": "media/uk/book.mp3",
+    "us": "media/us/book.mp3"
+   },
+   "of": "book",
+   "ofZh": "书",
+   "avoid": [
+    "book",
+    "bookshelf",
+    "dictionary",
+    "library"
+   ]
+  },
+  {
+   "id": "bookshelf",
+   "word": "bookshelf",
+   "zh": "书架",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书架"
+    }
+   ],
+   "ipa": "/ˈbʊkʃelf/",
+   "chunks": [
+    "book",
+    "shelf"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Put the books on the bookshelf.",
+    "zh": "把书放到书架上。"
+   },
+   "sentences": [
+    {
+     "en": "Put the books on the bookshelf.",
+     "zh": "把书放到书架上。",
+     "audio": "media/sent/f8a6810c3536.mp3"
+    },
+    {
+     "en": "My bookshelf is full.",
+     "zh": "我的书架满了。",
+     "audio": "media/sent/8cfc01b3c6de.mp3"
+    },
+    {
+     "en": "There is a big bookshelf in the classroom.",
+     "zh": "教室里有一个大书架。",
+     "audio": "media/sent/3ffd7ad8b781.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookshelf.webp",
+    "uk": "media/uk/bookshelf.mp3",
+    "us": "media/us/bookshelf.mp3"
+   },
+   "avoid": [
+    "book",
+    "book.2",
+    "dictionary",
+    "library"
+   ]
+  },
+  {
+   "id": "chemistry",
+   "word": "chemistry",
+   "zh": "化学（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "化学（学科）"
+    }
+   ],
+   "ipa": "/ˈkemɪstri/",
+   "chunks": [
+    "chem",
+    "is",
+    "try"
+   ],
+   "emoji": "⚗️",
+   "sentence": {
+    "en": "We do experiments in chemistry.",
+    "zh": "我们在化学课上做实验。"
+   },
+   "sentences": [
+    {
+     "en": "We do experiments in chemistry.",
+     "zh": "我们在化学课上做实验。",
+     "audio": "media/sent/8fd27ad205de.mp3"
+    },
+    {
+     "en": "My sister studies chemistry.",
+     "zh": "我姐姐学化学。",
+     "audio": "media/sent/ee8ef7852f6d.mp3"
+    },
+    {
+     "en": "Chemistry is difficult but fun.",
+     "zh": "化学很难但很有趣。",
+     "audio": "media/sent/e932e7d9604f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chemistry.webp",
+    "uk": "media/uk/chemistry.mp3",
+    "us": "media/us/chemistry.mp3"
+   },
+   "avoid": [
+    "biology",
+    "geography",
+    "history",
+    "maths",
+    "physics",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "class",
+   "word": "class",
+   "zh": "班级；课",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "班级；课"
+    }
+   ],
+   "ipa": "/klɑːs/",
+   "chunks": [
+    "class"
+   ],
+   "emoji": "👩‍🏫",
+   "sentence": {
+    "en": "There are twenty children in my class.",
+    "zh": "我们班有二十个孩子。"
+   },
+   "sentences": [
+    {
+     "en": "There are twenty children in my class.",
+     "zh": "我们班有二十个孩子。",
+     "audio": "media/sent/e85d6c92013b.mp3"
+    },
+    {
+     "en": "Our English class starts at nine.",
+     "zh": "我们的英语课九点开始。",
+     "audio": "media/sent/079912b36528.mp3"
+    },
+    {
+     "en": "Lily is the tallest in her class.",
+     "zh": "Lily 是班上最高的。",
+     "audio": "media/sent/80f66effda3b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/class.webp",
+    "uk": "media/uk/class.mp3",
+    "us": "media/us/class.mp3"
+   },
+   "avoid": [
+    "classmate",
+    "classroom",
+    "course",
+    "lesson"
+   ]
+  },
+  {
+   "id": "classmate",
+   "word": "classmate",
+   "zh": "同学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "同学"
+    }
+   ],
+   "ipa": "/ˈklɑːsmeɪt/",
+   "chunks": [
+    "class",
+    "mate"
+   ],
+   "emoji": "🧑‍🤝‍🧑",
+   "sentence": {
+    "en": "Mia is Lily's classmate.",
+    "zh": "Mia 是 Lily 的同学。"
+   },
+   "sentences": [
+    {
+     "en": "Mia is Lily's classmate.",
+     "zh": "Mia 是 Lily 的同学。",
+     "audio": "media/sent/50f3852fce39.mp3"
+    },
+    {
+     "en": "My classmates are very friendly.",
+     "zh": "我的同学都很友好。",
+     "audio": "media/sent/bb95b40c88ef.mp3"
+    },
+    {
+     "en": "Tom plays with his classmates at break.",
+     "zh": "Tom 课间和同学一起玩。",
+     "audio": "media/sent/23a783cf8ac6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/classmate.webp",
+    "uk": "media/uk/classmate.mp3",
+    "us": "media/us/classmate.mp3"
+   },
+   "avoid": [
+    "beginner",
+    "class",
+    "classroom",
+    "course",
+    "lesson",
+    "pupil",
+    "student"
+   ]
+  },
+  {
+   "id": "classroom",
+   "word": "classroom",
+   "zh": "教室",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "教室"
+    }
+   ],
+   "ipa": "/ˈklɑːsruːm/",
+   "chunks": [
+    "class",
+    "room"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "Our classroom is on the first floor.",
+    "zh": "我们的教室在二楼。"
+   },
+   "sentences": [
+    {
+     "en": "Our classroom is on the first floor.",
+     "zh": "我们的教室在二楼。",
+     "audio": "media/sent/750097289854.mp3"
+    },
+    {
+     "en": "Please be quiet in the classroom.",
+     "zh": "在教室里请安静。",
+     "audio": "media/sent/3a1cbc99373c.mp3"
+    },
+    {
+     "en": "The classroom has big windows.",
+     "zh": "教室有很大的窗户。",
+     "audio": "media/sent/8d4e13e7c3f1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/classroom.webp",
+    "uk": "media/uk/classroom.mp3",
+    "us": "media/us/classroom.mp3"
+   },
+   "avoid": [
+    "class",
+    "classmate",
+    "course",
+    "lesson"
+   ]
+  },
+  {
+   "id": "clever",
+   "word": "clever",
+   "zh": "聪明的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "聪明的"
+    }
+   ],
+   "ipa": "/ˈklevə/",
+   "chunks": [
+    "clev",
+    "er"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "Lily is a clever girl.",
+    "zh": "Lily 是个聪明的女孩。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is a clever girl.",
+     "zh": "Lily 是个聪明的女孩。",
+     "audio": "media/sent/d4da3424e69f.mp3"
+    },
+    {
+     "en": "What a clever dog!",
+     "zh": "多聪明的狗啊！",
+     "audio": "media/sent/693fd106f268.mp3"
+    },
+    {
+     "en": "Sam is clever at maths.",
+     "zh": "Sam 数学很好。",
+     "audio": "media/sent/251915ff8e98.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clever.webp",
+    "uk": "media/uk/clever.mp3",
+    "us": "media/us/clever.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "coach",
+   "word": "coach",
+   "zh": "教练；长途汽车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "教练"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "长途汽车",
+     "en": "We go to London by coach."
+    }
+   ],
+   "ipa": "/kəʊtʃ/",
+   "chunks": [
+    "coach"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Our football coach is very kind.",
+    "zh": "我们的足球教练人很好。"
+   },
+   "sentences": [
+    {
+     "en": "Our football coach is very kind.",
+     "zh": "我们的足球教练人很好。",
+     "audio": "media/sent/0889c3590675.mp3"
+    },
+    {
+     "en": "The coach helps us play better.",
+     "zh": "教练帮我们踢得更好。",
+     "audio": "media/sent/9c06aee57038.mp3"
+    },
+    {
+     "en": "We go to London by coach.",
+     "zh": "我们坐长途大巴去伦敦。",
+     "audio": "media/sent/04434cf5baa5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/coach.webp",
+    "uk": "media/uk/coach.mp3",
+    "us": "media/us/coach.mp3"
+   },
+   "avoid": [
+    "teach",
+    "teacher"
+   ]
+  },
+  {
+   "id": "college",
+   "word": "college",
+   "zh": "学院；大学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学院；大学"
+    }
+   ],
+   "ipa": "/ˈkɒlɪdʒ/",
+   "chunks": [
+    "col",
+    "lege"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "My cousin goes to college.",
+    "zh": "我表姐在上大学。"
+   },
+   "sentences": [
+    {
+     "en": "My cousin goes to college.",
+     "zh": "我表姐在上大学。",
+     "audio": "media/sent/24636ed23729.mp3"
+    },
+    {
+     "en": "Aunt Kate teaches at a college.",
+     "zh": "Kate 姑姑在一所学院教书。",
+     "audio": "media/sent/9288a5041f0d.mp3"
+    },
+    {
+     "en": "After school, I want to go to college.",
+     "zh": "中学毕业后我想上大学。",
+     "audio": "media/sent/70af24690a3d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/college.webp",
+    "uk": "media/uk/college.mp3",
+    "us": "media/us/college.mp3"
+   },
+   "avoid": [
+    "diploma",
+    "school",
+    "university"
+   ]
+  },
+  {
+   "id": "course",
+   "word": "course",
+   "zh": "课程",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "课程"
+    }
+   ],
+   "ipa": "/kɔːs/",
+   "chunks": [
+    "course"
+   ],
+   "emoji": "📘",
+   "sentence": {
+    "en": "Mum is doing a cooking course.",
+    "zh": "妈妈在上烹饪课程。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is doing a cooking course.",
+     "zh": "妈妈在上烹饪课程。",
+     "audio": "media/sent/d7ff7ca6de74.mp3"
+    },
+    {
+     "en": "The course is ten weeks long.",
+     "zh": "这门课程有十周。",
+     "audio": "media/sent/9b4837116e47.mp3"
+    },
+    {
+     "en": "I want to do a swimming course.",
+     "zh": "我想上游泳课。",
+     "audio": "media/sent/8919813d5bc5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/course.webp",
+    "uk": "media/uk/course.mp3",
+    "us": "media/us/course.mp3"
+   },
+   "avoid": [
+    "class",
+    "classmate",
+    "classroom",
+    "lesson"
+   ]
+  },
+  {
+   "id": "desk",
+   "word": "desk",
+   "zh": "书桌；课桌",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书桌；课桌"
+    }
+   ],
+   "ipa": "/desk/",
+   "chunks": [
+    "desk"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Lily's books are on her desk.",
+    "zh": "Lily 的书在她的书桌上。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's books are on her desk.",
+     "zh": "Lily 的书在她的书桌上。",
+     "audio": "media/sent/cacbe033517d.mp3"
+    },
+    {
+     "en": "Sit at your desk, please.",
+     "zh": "请坐到你的座位上。",
+     "audio": "media/sent/fef0be387ec1.mp3"
+    },
+    {
+     "en": "My desk is next to the window.",
+     "zh": "我的课桌在窗边。",
+     "audio": "media/sent/7db598f91cc7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/desk.webp",
+    "uk": "media/uk/desk.mp3",
+    "us": "media/us/desk.mp3"
+   },
+   "avoid": [
+    "eraser",
+    "rubber",
+    "ruler"
+   ]
+  },
+  {
+   "id": "dictionary",
+   "word": "dictionary",
+   "zh": "词典；字典",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "词典；字典"
+    }
+   ],
+   "ipa": "/ˈdɪkʃənəri/",
+   "chunks": [
+    "dic",
+    "tion",
+    "ar",
+    "y"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Look up the word in the dictionary.",
+    "zh": "在词典里查这个词。"
+   },
+   "sentences": [
+    {
+     "en": "Look up the word in the dictionary.",
+     "zh": "在词典里查这个词。",
+     "audio": "media/sent/b1e3614b0db2.mp3"
+    },
+    {
+     "en": "I need a new English dictionary.",
+     "zh": "我需要一本新的英语词典。",
+     "audio": "media/sent/4a804ab4dc7d.mp3"
+    },
+    {
+     "en": "Can I use your dictionary?",
+     "zh": "我能用一下你的词典吗？",
+     "audio": "media/sent/f2b7fd3f0655.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dictionary.webp",
+    "uk": "media/uk/dictionary.mp3",
+    "us": "media/us/dictionary.mp3"
+   },
+   "avoid": [
+    "book",
+    "book.2",
+    "bookshelf",
+    "library"
+   ]
+  },
+  {
+   "id": "diploma",
+   "word": "diploma",
+   "zh": "毕业证书；文凭",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "毕业证书；文凭"
+    }
+   ],
+   "ipa": "/dɪˈpləʊmə/",
+   "chunks": [
+    "di",
+    "plo",
+    "ma"
+   ],
+   "emoji": "📜",
+   "sentence": {
+    "en": "My sister gets her diploma today.",
+    "zh": "我姐姐今天拿到毕业证书。"
+   },
+   "sentences": [
+    {
+     "en": "My sister gets her diploma today.",
+     "zh": "我姐姐今天拿到毕业证书。",
+     "audio": "media/sent/d343729732ec.mp3"
+    },
+    {
+     "en": "Dad has a diploma in music.",
+     "zh": "爸爸有音乐专业的文凭。",
+     "audio": "media/sent/c18a30768f2b.mp3"
+    },
+    {
+     "en": "You get a diploma after the course.",
+     "zh": "课程结束后你会拿到证书。",
+     "audio": "media/sent/c885bf1ac529.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/diploma.webp",
+    "uk": "media/uk/diploma.mp3",
+    "us": "media/us/diploma.mp3"
+   },
+   "avoid": [
+    "college",
+    "university"
+   ]
+  },
+  {
+   "id": "eraser",
+   "word": "eraser",
+   "zh": "橡皮（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橡皮（美式）"
+    }
+   ],
+   "ipa": "/ɪˈreɪzə/",
+   "chunks": [
+    "e",
+    "ras",
+    "er"
+   ],
+   "emoji": "🧽",
+   "sentence": {
+    "en": "Can I borrow your eraser?",
+    "zh": "我能借你的橡皮吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I borrow your eraser?",
+     "zh": "我能借你的橡皮吗？",
+     "audio": "media/sent/01276ecafe62.mp3"
+    },
+    {
+     "en": "My eraser is in my pencil case.",
+     "zh": "我的橡皮在笔袋里。",
+     "audio": "media/sent/40f2f9d74183.mp3"
+    },
+    {
+     "en": "Use an eraser, not your finger.",
+     "zh": "用橡皮擦，别用手指。",
+     "audio": "media/sent/7242b9f187c3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eraser.webp",
+    "uk": "media/uk/eraser.mp3",
+    "us": "media/us/eraser.mp3"
+   },
+   "avoid": [
+    "desk",
+    "rubber",
+    "ruler"
+   ]
+  },
+  {
+   "id": "examination",
+   "word": "examination",
+   "zh": "考试",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "考试"
+    }
+   ],
+   "ipa": "/ɪɡˌzæmɪˈneɪʃən/",
+   "chunks": [
+    "ex",
+    "am",
+    "i",
+    "na",
+    "tion"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "The examination is on Friday.",
+    "zh": "考试在星期五。"
+   },
+   "sentences": [
+    {
+     "en": "The examination is on Friday.",
+     "zh": "考试在星期五。",
+     "audio": "media/sent/8ac4debe24f0.mp3"
+    },
+    {
+     "en": "Please be quiet during the examination.",
+     "zh": "考试时请保持安静。",
+     "audio": "media/sent/253eb91c0bb6.mp3"
+    },
+    {
+     "en": "Sam is ready for his examination.",
+     "zh": "Sam 准备好考试了。",
+     "audio": "media/sent/35ec04c2674b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/examination.webp",
+    "uk": "media/uk/examination.mp3",
+    "us": "media/us/examination.mp3"
+   },
+   "avoid": [
+    "mark",
+    "test"
+   ]
+  },
+  {
+   "id": "geography",
+   "word": "geography",
+   "zh": "地理（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地理（学科）"
+    }
+   ],
+   "ipa": "/dʒiˈɒɡrəfi/",
+   "chunks": [
+    "ge",
+    "og",
+    "ra",
+    "phy"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "We learn about countries in geography.",
+    "zh": "我们在地理课上学习各个国家。"
+   },
+   "sentences": [
+    {
+     "en": "We learn about countries in geography.",
+     "zh": "我们在地理课上学习各个国家。",
+     "audio": "media/sent/ee174bd3614f.mp3"
+    },
+    {
+     "en": "Geography is my favourite subject.",
+     "zh": "地理是我最喜欢的科目。",
+     "audio": "media/sent/daaaa4a21b14.mp3"
+    },
+    {
+     "en": "We have geography after lunch.",
+     "zh": "我们午饭后有地理课。",
+     "audio": "media/sent/39578afca3c4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/geography.webp",
+    "uk": "media/uk/geography.mp3",
+    "us": "media/us/geography.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "history",
+    "maths",
+    "physics",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "history",
+   "word": "history",
+   "zh": "历史（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "历史（学科）"
+    }
+   ],
+   "ipa": "/ˈhɪstəri/",
+   "chunks": [
+    "his",
+    "to",
+    "ry"
+   ],
+   "emoji": "🏰",
+   "sentence": {
+    "en": "We learn about kings and queens in history.",
+    "zh": "我们在历史课上学习国王和王后。"
+   },
+   "sentences": [
+    {
+     "en": "We learn about kings and queens in history.",
+     "zh": "我们在历史课上学习国王和王后。",
+     "audio": "media/sent/ee3e27163d87.mp3"
+    },
+    {
+     "en": "History is very interesting.",
+     "zh": "历史很有趣。",
+     "audio": "media/sent/d9d818d4c789.mp3"
+    },
+    {
+     "en": "We visit a castle for our history class.",
+     "zh": "我们为历史课去参观城堡。",
+     "audio": "media/sent/5afe3af89a70.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/history.webp",
+    "uk": "media/uk/history.mp3",
+    "us": "media/us/history.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "geography",
+    "maths",
+    "physics",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "homework",
+   "word": "homework",
+   "zh": "家庭作业",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "家庭作业"
+    }
+   ],
+   "ipa": "/ˈhəʊmwɜːk/",
+   "chunks": [
+    "home",
+    "work"
+   ],
+   "emoji": "📓",
+   "sentence": {
+    "en": "Lily does her homework after school.",
+    "zh": "Lily 放学后做家庭作业。"
+   },
+   "sentences": [
+    {
+     "en": "Lily does her homework after school.",
+     "zh": "Lily 放学后做家庭作业。",
+     "audio": "media/sent/08d390c2db72.mp3"
+    },
+    {
+     "en": "Have you got any homework today?",
+     "zh": "你今天有作业吗？",
+     "audio": "media/sent/0e26f3b59490.mp3"
+    },
+    {
+     "en": "Tom's homework is very easy.",
+     "zh": "Tom 的作业很简单。",
+     "audio": "media/sent/44dff81400e4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/homework.webp",
+    "uk": "media/uk/homework.mp3",
+    "us": "media/us/homework.mp3"
+   },
+   "avoid": [
+    "note",
+    "project"
+   ]
+  },
+  {
+   "id": "information",
+   "word": "information",
+   "zh": "信息；资料",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "信息；资料"
+    }
+   ],
+   "ipa": "/ˌɪnfəˈmeɪʃən/",
+   "chunks": [
+    "in",
+    "for",
+    "ma",
+    "tion"
+   ],
+   "emoji": "ℹ️",
+   "sentence": {
+    "en": "You can find information in the library.",
+    "zh": "你可以在图书馆找资料。"
+   },
+   "sentences": [
+    {
+     "en": "You can find information in the library.",
+     "zh": "你可以在图书馆找资料。",
+     "audio": "media/sent/d27a3ea910d2.mp3"
+    },
+    {
+     "en": "I need some information about the zoo.",
+     "zh": "我需要一些关于动物园的信息。",
+     "audio": "media/sent/c877cf0abb7f.mp3"
+    },
+    {
+     "en": "Ask at the information desk.",
+     "zh": "去问讯处问问。",
+     "audio": "media/sent/f657d2213728.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/information.webp",
+    "uk": "media/uk/information.mp3",
+    "us": "media/us/information.mp3"
+   },
+   "avoid": [
+    "instructions"
+   ]
+  },
+  {
+   "id": "instructions",
+   "word": "instructions",
+   "zh": "说明；指示",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "说明；指示"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "in",
+    "struc",
+    "tions"
+   ],
+   "emoji": "📄",
+   "sentence": {
+    "en": "Read the instructions before you start.",
+    "zh": "开始前先读说明。"
+   },
+   "sentences": [
+    {
+     "en": "Read the instructions before you start.",
+     "zh": "开始前先读说明。",
+     "audio": "media/sent/6987fcdfe547.mp3"
+    },
+    {
+     "en": "Listen to the teacher's instructions.",
+     "zh": "听老师的指示。",
+     "audio": "media/sent/4594e973ae96.mp3"
+    },
+    {
+     "en": "The instructions are very easy.",
+     "zh": "说明很简单。",
+     "audio": "media/sent/faaa1a95907e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/instructions.webp"
+   },
+   "avoid": [
+    "information"
+   ]
+  },
+  {
+   "id": "know",
+   "word": "know",
+   "zh": "知道；认识",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "知道；认识"
+    }
+   ],
+   "ipa": "/nəʊ/",
+   "chunks": [
+    "know"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "I know the answer!",
+    "zh": "我知道答案！"
+   },
+   "sentences": [
+    {
+     "en": "I know the answer!",
+     "zh": "我知道答案！",
+     "audio": "media/sent/8d13c8fa82f0.mp3"
+    },
+    {
+     "en": "Do you know my brother?",
+     "zh": "你认识我弟弟吗？",
+     "audio": "media/sent/dba862a4ef21.mp3"
+    },
+    {
+     "en": "I don't know where Max is.",
+     "zh": "我不知道 Max 在哪儿。",
+     "audio": "media/sent/636ab977a6c2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/know.webp",
+    "uk": "media/uk/know.mp3",
+    "us": "media/us/know.mp3"
+   },
+   "avoid": [
+    "remember"
+   ]
+  },
+  {
+   "id": "language",
+   "word": "language",
+   "zh": "语言",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "语言"
+    }
+   ],
+   "ipa": "/ˈlæŋɡwɪdʒ/",
+   "chunks": [
+    "lan",
+    "guage"
+   ],
+   "emoji": "🗣️",
+   "sentence": {
+    "en": "English is a beautiful language.",
+    "zh": "英语是一门优美的语言。"
+   },
+   "sentences": [
+    {
+     "en": "English is a beautiful language.",
+     "zh": "英语是一门优美的语言。",
+     "audio": "media/sent/1b1b823b1a14.mp3"
+    },
+    {
+     "en": "How many languages can you speak?",
+     "zh": "你会说几种语言？",
+     "audio": "media/sent/8c0c9d88a4c8.mp3"
+    },
+    {
+     "en": "Lily is learning a new language.",
+     "zh": "Lily 在学一门新语言。",
+     "audio": "media/sent/eff909de260a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/language.webp",
+    "uk": "media/uk/language.mp3",
+    "us": "media/us/language.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "learn",
+   "word": "learn",
+   "zh": "学习；学会",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "学习；学会"
+    }
+   ],
+   "ipa": "/lɜːn/",
+   "chunks": [
+    "learn"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Tom is learning to swim.",
+    "zh": "Tom 在学游泳。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is learning to swim.",
+     "zh": "Tom 在学游泳。",
+     "audio": "media/sent/b069dedac611.mp3"
+    },
+    {
+     "en": "We learn English at school.",
+     "zh": "我们在学校学英语。",
+     "audio": "media/sent/1a44f94af9e5.mp3"
+    },
+    {
+     "en": "I want to learn the piano.",
+     "zh": "我想学钢琴。",
+     "audio": "media/sent/149d5258a318.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/learn.webp",
+    "uk": "media/uk/learn.mp3",
+    "us": "media/us/learn.mp3"
+   },
+   "avoid": [
+    "read",
+    "studies",
+    "study"
+   ]
+  },
+  {
+   "id": "lesson",
+   "word": "lesson",
+   "zh": "一节课",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一节课"
+    }
+   ],
+   "ipa": "/ˈlesən/",
+   "chunks": [
+    "les",
+    "son"
+   ],
+   "emoji": "🔔",
+   "sentence": {
+    "en": "Our first lesson is maths.",
+    "zh": "我们第一节课是数学。"
+   },
+   "sentences": [
+    {
+     "en": "Our first lesson is maths.",
+     "zh": "我们第一节课是数学。",
+     "audio": "media/sent/b033c122e848.mp3"
+    },
+    {
+     "en": "The lesson starts at nine o'clock.",
+     "zh": "这节课九点开始。",
+     "audio": "media/sent/d4559cd52b0f.mp3"
+    },
+    {
+     "en": "Lily has a swimming lesson on Saturday.",
+     "zh": "Lily 星期六有游泳课。",
+     "audio": "media/sent/37e9b56cc78b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lesson.webp",
+    "uk": "media/uk/lesson.mp3",
+    "us": "media/us/lesson.mp3"
+   },
+   "avoid": [
+    "class",
+    "classmate",
+    "classroom",
+    "course",
+    "term"
+   ]
+  },
+  {
+   "id": "level",
+   "word": "level",
+   "zh": "水平；级别",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "水平；级别"
+    }
+   ],
+   "ipa": "/ˈlevəl/",
+   "chunks": [
+    "lev",
+    "el"
+   ],
+   "emoji": "📶",
+   "sentence": {
+    "en": "This book is at the right level for me.",
+    "zh": "这本书正好适合我的水平。"
+   },
+   "sentences": [
+    {
+     "en": "This book is at the right level for me.",
+     "zh": "这本书正好适合我的水平。",
+     "audio": "media/sent/c60b12fe46ae.mp3"
+    },
+    {
+     "en": "What level are you in English?",
+     "zh": "你的英语是什么水平？",
+     "audio": "media/sent/bd18a6e12f4c.mp3"
+    },
+    {
+     "en": "Tom is at the first level.",
+     "zh": "Tom 在第一级。",
+     "audio": "media/sent/0be5842ab575.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/level.webp",
+    "uk": "media/uk/level.mp3",
+    "us": "media/us/level.mp3"
+   },
+   "avoid": [
+    "advanced",
+    "beginner"
+   ]
+  },
+  {
+   "id": "library",
+   "word": "library",
+   "zh": "图书馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "图书馆"
+    }
+   ],
+   "ipa": "/ˈlaɪbrəri/",
+   "chunks": [
+    "li",
+    "brar",
+    "y"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "Lily borrows books from the library.",
+    "zh": "Lily 从图书馆借书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily borrows books from the library.",
+     "zh": "Lily 从图书馆借书。",
+     "audio": "media/sent/4d0394f1a0e9.mp3"
+    },
+    {
+     "en": "The library is very quiet.",
+     "zh": "图书馆很安静。",
+     "audio": "media/sent/919be2337723.mp3"
+    },
+    {
+     "en": "Let's meet at the library.",
+     "zh": "我们在图书馆见吧。",
+     "audio": "media/sent/e32131f55a8f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/library.webp",
+    "uk": "media/uk/library.mp3",
+    "us": "media/us/library.mp3"
+   },
+   "avoid": [
+    "book",
+    "book.2",
+    "bookshelf",
+    "dictionary"
+   ]
+  },
+  {
+   "id": "mark",
+   "word": "mark",
+   "zh": "分数；记号",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "分数"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "记号；污点",
+     "en": "There's a mark on your shirt."
+    }
+   ],
+   "ipa": "/mɑːk/",
+   "chunks": [
+    "mark"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "Lily gets a good mark in the test.",
+    "zh": "Lily 测验得了好分数。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gets a good mark in the test.",
+     "zh": "Lily 测验得了好分数。",
+     "audio": "media/sent/071713934456.mp3"
+    },
+    {
+     "en": "What mark did you get?",
+     "zh": "你得了多少分？",
+     "audio": "media/sent/03f921f82dc9.mp3"
+    },
+    {
+     "en": "Tom gets full marks!",
+     "zh": "Tom 得了满分！",
+     "audio": "media/sent/f0295381b88d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mark.webp",
+    "uk": "media/uk/mark.mp3",
+    "us": "media/us/mark.mp3"
+   },
+   "avoid": [
+    "examination",
+    "test"
+   ]
+  },
+  {
+   "id": "maths",
+   "word": "maths",
+   "zh": "数学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "数学"
+    }
+   ],
+   "ipa": "/mæθs/",
+   "chunks": [
+    "maths"
+   ],
+   "emoji": "➕",
+   "sentence": {
+    "en": "Maths is Sam's favourite subject.",
+    "zh": "数学是 Sam 最喜欢的科目。"
+   },
+   "sentences": [
+    {
+     "en": "Maths is Sam's favourite subject.",
+     "zh": "数学是 Sam 最喜欢的科目。",
+     "audio": "media/sent/fa94328e6921.mp3"
+    },
+    {
+     "en": "We have maths every day.",
+     "zh": "我们每天都有数学课。",
+     "audio": "media/sent/cdfaacdfdc22.mp3"
+    },
+    {
+     "en": "Is maths difficult for you?",
+     "zh": "数学对你来说难吗？",
+     "audio": "media/sent/856a39c17a19.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/maths.webp",
+    "uk": "media/uk/maths.mp3",
+    "us": "media/us/maths.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "geography",
+    "history",
+    "physics",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "note",
+   "word": "note",
+   "zh": "笔记；便条",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "笔记；便条"
+    }
+   ],
+   "ipa": "/nəʊt/",
+   "chunks": [
+    "note"
+   ],
+   "emoji": "🗒️",
+   "sentence": {
+    "en": "Mum leaves a note on the fridge.",
+    "zh": "妈妈在冰箱上留了一张便条。"
+   },
+   "sentences": [
+    {
+     "en": "Mum leaves a note on the fridge.",
+     "zh": "妈妈在冰箱上留了一张便条。",
+     "audio": "media/sent/ae57e5196561.mp3"
+    },
+    {
+     "en": "Take notes in the lesson.",
+     "zh": "上课做笔记。",
+     "audio": "media/sent/a8c8896b373f.mp3"
+    },
+    {
+     "en": "Lily writes a note to Tom.",
+     "zh": "Lily 给 Tom 写了张便条。",
+     "audio": "media/sent/3fee356f13aa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/note.webp",
+    "uk": "media/uk/note.mp3",
+    "us": "media/us/note.mp3"
+   },
+   "avoid": [
+    "homework",
+    "project"
+   ]
+  },
+  {
+   "id": "physics",
+   "word": "physics",
+   "zh": "物理（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "物理（学科）"
+    }
+   ],
+   "ipa": "/ˈfɪzɪks/",
+   "chunks": [
+    "phys",
+    "ics"
+   ],
+   "emoji": "🧲",
+   "sentence": {
+    "en": "We learn about light and sound in physics.",
+    "zh": "我们在物理课上学光和声音。"
+   },
+   "sentences": [
+    {
+     "en": "We learn about light and sound in physics.",
+     "zh": "我们在物理课上学光和声音。",
+     "audio": "media/sent/a66c9934191c.mp3"
+    },
+    {
+     "en": "My brother is good at physics.",
+     "zh": "我哥哥物理很好。",
+     "audio": "media/sent/d97cb76610c4.mp3"
+    },
+    {
+     "en": "Physics is difficult but interesting.",
+     "zh": "物理很难但很有趣。",
+     "audio": "media/sent/e302cacfd1b6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/physics.webp",
+    "uk": "media/uk/physics.mp3",
+    "us": "media/us/physics.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "geography",
+    "history",
+    "maths",
+    "science",
+    "subject"
+   ]
+  },
+  {
+   "id": "practice",
+   "word": "practice",
+   "zh": "练习（名词）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "练习（名词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tice"
+   ],
+   "emoji": "🎻",
+   "sentence": {
+    "en": "Football practice is on Tuesday.",
+    "zh": "足球训练在星期二。"
+   },
+   "sentences": [
+    {
+     "en": "Football practice is on Tuesday.",
+     "zh": "足球训练在星期二。",
+     "audio": "media/sent/1bb973dbb920.mp3"
+    },
+    {
+     "en": "Piano practice is every day.",
+     "zh": "钢琴每天都要练。",
+     "audio": "media/sent/93690ea5eeaa.mp3"
+    },
+    {
+     "en": "You need more practice.",
+     "zh": "你需要多练习。",
+     "audio": "media/sent/b0ba9fd0caf8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practice.webp",
+    "uk": "media/uk/practice.mp3",
+    "us": "media/us/practice.mp3"
+   },
+   "avoid": [
+    "practise"
+   ]
+  },
+  {
+   "id": "practise",
+   "word": "practise",
+   "zh": "练习（动词）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "练习（动词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tise"
+   ],
+   "emoji": "🎹",
+   "sentence": {
+    "en": "Lily practises the piano every day.",
+    "zh": "Lily 每天练钢琴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily practises the piano every day.",
+     "zh": "Lily 每天练钢琴。",
+     "audio": "media/sent/41eb468aae2f.mp3"
+    },
+    {
+     "en": "Practise your English with a friend.",
+     "zh": "和朋友一起练英语。",
+     "audio": "media/sent/ffd5df69df27.mp3"
+    },
+    {
+     "en": "Tom practises football in the garden.",
+     "zh": "Tom 在花园里练足球。",
+     "audio": "media/sent/d2b7fbd70e8e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practise.webp",
+    "uk": "media/uk/practise.mp3",
+    "us": "media/us/practise.mp3"
+   },
+   "avoid": [
+    "practice"
+   ]
+  },
+  {
+   "id": "project",
+   "word": "project",
+   "zh": "项目；课题",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "项目；课题"
+    }
+   ],
+   "ipa": "/ˈprɒdʒekt/; /prəˈdʒekt/",
+   "chunks": [
+    "proj",
+    "ect"
+   ],
+   "emoji": "🧩",
+   "sentence": {
+    "en": "Our class is doing a project on animals.",
+    "zh": "我们班在做关于动物的课题。"
+   },
+   "sentences": [
+    {
+     "en": "Our class is doing a project on animals.",
+     "zh": "我们班在做关于动物的课题。",
+     "audio": "media/sent/69a767317c52.mp3"
+    },
+    {
+     "en": "This is my science project.",
+     "zh": "这是我的科学课题。",
+     "audio": "media/sent/c68d422716f3.mp3"
+    },
+    {
+     "en": "We work on the project in groups.",
+     "zh": "我们分组做这个项目。",
+     "audio": "media/sent/a36bb039e221.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/project.webp",
+    "uk": "media/uk/project.mp3",
+    "us": "media/us/project.mp3"
+   },
+   "avoid": [
+    "homework",
+    "note"
+   ]
+  },
+  {
+   "id": "pupil",
+   "word": "pupil",
+   "zh": "小学生；学生",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小学生；学生"
+    }
+   ],
+   "ipa": "/ˈpjuːpəl/",
+   "chunks": [
+    "pu",
+    "pil"
+   ],
+   "emoji": "🧒",
+   "sentence": {
+    "en": "There are three hundred pupils in our school.",
+    "zh": "我们学校有三百个学生。"
+   },
+   "sentences": [
+    {
+     "en": "There are three hundred pupils in our school.",
+     "zh": "我们学校有三百个学生。",
+     "audio": "media/sent/05329e3b060a.mp3"
+    },
+    {
+     "en": "Lily is a good pupil.",
+     "zh": "Lily 是个好学生。",
+     "audio": "media/sent/5bcaff2b519b.mp3"
+    },
+    {
+     "en": "The pupils are reading.",
+     "zh": "学生们在读书。",
+     "audio": "media/sent/555c9b62300f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pupil.webp",
+    "uk": "media/uk/pupil.mp3",
+    "us": "media/us/pupil.mp3"
+   },
+   "avoid": [
+    "beginner",
+    "classmate",
+    "student"
+   ]
+  },
+  {
+   "id": "read",
+   "word": "read",
+   "zh": "读；阅读",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "读；阅读"
+    }
+   ],
+   "ipa": "/riːd/",
+   "chunks": [
+    "read"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Lily likes to read in bed.",
+    "zh": "Lily 喜欢在床上看书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes to read in bed.",
+     "zh": "Lily 喜欢在床上看书。",
+     "audio": "media/sent/bb8f45dc2c7e.mp3"
+    },
+    {
+     "en": "Can you read this word?",
+     "zh": "你能读这个词吗？",
+     "audio": "media/sent/5f9e7d975145.mp3"
+    },
+    {
+     "en": "Grandpa reads the newspaper.",
+     "zh": "爷爷在看报纸。",
+     "audio": "media/sent/746e0274eab9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/read.webp",
+    "uk": "media/uk/read.mp3",
+    "us": "media/us/read.mp3"
+   },
+   "avoid": [
+    "learn",
+    "studies",
+    "study"
+   ]
+  },
+  {
+   "id": "remember",
+   "word": "remember",
+   "zh": "记得；记住",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "记得；记住"
+    }
+   ],
+   "ipa": "/rɪˈmembə/",
+   "chunks": [
+    "re",
+    "mem",
+    "ber"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "Remember to take your homework!",
+    "zh": "记得带作业！"
+   },
+   "sentences": [
+    {
+     "en": "Remember to take your homework!",
+     "zh": "记得带作业！",
+     "audio": "media/sent/2f23e5689da7.mp3"
+    },
+    {
+     "en": "I can't remember his name.",
+     "zh": "我想不起他的名字了。",
+     "audio": "media/sent/dd745a02af6b.mp3"
+    },
+    {
+     "en": "Do you remember our holiday?",
+     "zh": "你还记得我们的假期吗？",
+     "audio": "media/sent/7954150be311.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/remember.webp",
+    "uk": "media/uk/remember.mp3",
+    "us": "media/us/remember.mp3"
+   },
+   "avoid": [
+    "know"
+   ]
+  },
+  {
+   "id": "rubber",
+   "word": "rubber",
+   "zh": "橡皮（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橡皮（英式）"
+    }
+   ],
+   "ipa": "/ˈrʌbə/",
+   "chunks": [
+    "rub",
+    "ber"
+   ],
+   "emoji": "🩹",
+   "sentence": {
+    "en": "Can I borrow your rubber, please?",
+    "zh": "我能借你的橡皮吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I borrow your rubber, please?",
+     "zh": "我能借你的橡皮吗？",
+     "audio": "media/sent/1fd406f28e45.mp3"
+    },
+    {
+     "en": "My rubber is very small now.",
+     "zh": "我的橡皮现在很小了。",
+     "audio": "media/sent/8ee0b58777f7.mp3"
+    },
+    {
+     "en": "Use a rubber to fix it.",
+     "zh": "用橡皮把它擦掉。",
+     "audio": "media/sent/0d45f5383af6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rubber.webp",
+    "uk": "media/uk/rubber.mp3",
+    "us": "media/us/rubber.mp3"
+   },
+   "avoid": [
+    "desk",
+    "eraser",
+    "ruler"
+   ]
+  },
+  {
+   "id": "ruler",
+   "word": "ruler",
+   "zh": "尺子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "尺子"
+    }
+   ],
+   "ipa": "/ˈruːlə/",
+   "chunks": [
+    "rul",
+    "er"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Draw a line with a ruler.",
+    "zh": "用尺子画一条线。"
+   },
+   "sentences": [
+    {
+     "en": "Draw a line with a ruler.",
+     "zh": "用尺子画一条线。",
+     "audio": "media/sent/94fbe33e6727.mp3"
+    },
+    {
+     "en": "My ruler is thirty centimetres long.",
+     "zh": "我的尺子长三十厘米。",
+     "audio": "media/sent/59e70f84bf39.mp3"
+    },
+    {
+     "en": "Can I use your ruler?",
+     "zh": "我能用一下你的尺子吗？",
+     "audio": "media/sent/17a49a29235d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ruler.webp",
+    "uk": "media/uk/ruler.mp3",
+    "us": "media/us/ruler.mp3"
+   },
+   "avoid": [
+    "desk",
+    "eraser",
+    "rubber"
+   ]
+  },
+  {
+   "id": "school",
+   "word": "school",
+   "zh": "学校",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学校"
+    }
+   ],
+   "ipa": "/skuːl/",
+   "chunks": [
+    "school"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "Lily walks to school with Mum.",
+    "zh": "Lily 和妈妈走路去学校。"
+   },
+   "sentences": [
+    {
+     "en": "Lily walks to school with Mum.",
+     "zh": "Lily 和妈妈走路去学校。",
+     "audio": "media/sent/40843aec726a.mp3"
+    },
+    {
+     "en": "School starts at half past eight.",
+     "zh": "学校八点半开始上课。",
+     "audio": "media/sent/b1d6887ef796.mp3"
+    },
+    {
+     "en": "I like my school.",
+     "zh": "我喜欢我的学校。",
+     "audio": "media/sent/f6666840d8a9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/school.webp",
+    "uk": "media/uk/school.mp3",
+    "us": "media/us/school.mp3"
+   },
+   "avoid": [
+    "college",
+    "university"
+   ]
+  },
+  {
+   "id": "science",
+   "word": "science",
+   "zh": "科学（学科）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "科学（学科）"
+    }
+   ],
+   "ipa": "/ˈsaɪəns/",
+   "chunks": [
+    "sci",
+    "ence"
+   ],
+   "emoji": "🧪",
+   "sentence": {
+    "en": "We grow plants in science.",
+    "zh": "我们在科学课上种植物。"
+   },
+   "sentences": [
+    {
+     "en": "We grow plants in science.",
+     "zh": "我们在科学课上种植物。",
+     "audio": "media/sent/e12e42cfe9dd.mp3"
+    },
+    {
+     "en": "Science is fun!",
+     "zh": "科学很有趣！",
+     "audio": "media/sent/884c193c388d.mp3"
+    },
+    {
+     "en": "We have science on Thursday.",
+     "zh": "我们星期四有科学课。",
+     "audio": "media/sent/05ea27471e4f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/science.webp",
+    "uk": "media/uk/science.mp3",
+    "us": "media/us/science.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "geography",
+    "history",
+    "maths",
+    "physics",
+    "subject"
+   ]
+  },
+  {
+   "id": "student",
+   "word": "student",
+   "zh": "学生",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学生"
+    }
+   ],
+   "ipa": "/ˈstjuːdənt/",
+   "chunks": [
+    "stu",
+    "dent"
+   ],
+   "emoji": "🧑‍🎓",
+   "sentence": {
+    "en": "My cousin is a student at university.",
+    "zh": "我表姐是大学生。"
+   },
+   "sentences": [
+    {
+     "en": "My cousin is a student at university.",
+     "zh": "我表姐是大学生。",
+     "audio": "media/sent/ec6bb77890da.mp3"
+    },
+    {
+     "en": "There are thirty students in the class.",
+     "zh": "班上有三十个学生。",
+     "audio": "media/sent/44421e9c4fea.mp3"
+    },
+    {
+     "en": "The students are listening to the teacher.",
+     "zh": "学生们在听老师讲课。",
+     "audio": "media/sent/bc7cacb06db1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/student.webp",
+    "uk": "media/uk/student.mp3",
+    "us": "media/us/student.mp3"
+   },
+   "avoid": [
+    "beginner",
+    "classmate",
+    "pupil"
+   ]
+  },
+  {
+   "id": "studies",
+   "word": "studies",
+   "zh": "学业；研究",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "学业；研究"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "stud",
+    "ies"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "My sister is busy with her studies.",
+    "zh": "我姐姐学业很忙。"
+   },
+   "sentences": [
+    {
+     "en": "My sister is busy with her studies.",
+     "zh": "我姐姐学业很忙。",
+     "audio": "media/sent/b01f3e94f6b1.mp3"
+    },
+    {
+     "en": "How are your studies going?",
+     "zh": "你的学业怎么样？",
+     "audio": "media/sent/61f2e9ed7ee3.mp3"
+    },
+    {
+     "en": "After his studies, Sam wants to travel.",
+     "zh": "Sam 毕业后想去旅行。",
+     "audio": "media/sent/7c3b9ea8538e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/studies.webp"
+   },
+   "avoid": [
+    "learn",
+    "read",
+    "study"
+   ]
+  },
+  {
+   "id": "study",
+   "word": "study",
+   "zh": "学习；研究",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "学习；研究"
+    }
+   ],
+   "ipa": "/ˈstʌdi/",
+   "chunks": [
+    "stud",
+    "y"
+   ],
+   "emoji": "✏️",
+   "sentence": {
+    "en": "Lily studies English at school.",
+    "zh": "Lily 在学校学英语。"
+   },
+   "sentences": [
+    {
+     "en": "Lily studies English at school.",
+     "zh": "Lily 在学校学英语。",
+     "audio": "media/sent/95db9d99dbfd.mp3"
+    },
+    {
+     "en": "I study for the test every evening.",
+     "zh": "我每晚都为考试复习。",
+     "audio": "media/sent/ae146bff715f.mp3"
+    },
+    {
+     "en": "What do you want to study?",
+     "zh": "你想学什么？",
+     "audio": "media/sent/b14e414f6f11.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/study.webp",
+    "uk": "media/uk/study.mp3",
+    "us": "media/us/study.mp3"
+   },
+   "avoid": [
+    "learn",
+    "read",
+    "studies"
+   ]
+  },
+  {
+   "id": "subject",
+   "word": "subject",
+   "zh": "科目；学科",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "科目；学科"
+    }
+   ],
+   "ipa": "/ˈsʌbdʒɪkt/",
+   "chunks": [
+    "sub",
+    "ject"
+   ],
+   "emoji": "🗂️",
+   "sentence": {
+    "en": "What's your favourite subject?",
+    "zh": "你最喜欢哪个科目？"
+   },
+   "sentences": [
+    {
+     "en": "What's your favourite subject?",
+     "zh": "你最喜欢哪个科目？",
+     "audio": "media/sent/665d9c77b4f8.mp3"
+    },
+    {
+     "en": "Art is my favourite subject.",
+     "zh": "美术是我最喜欢的科目。",
+     "audio": "media/sent/71a4cb2ff62c.mp3"
+    },
+    {
+     "en": "We study ten subjects at school.",
+     "zh": "我们在学校学十门科目。",
+     "audio": "media/sent/72b34cc0a430.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/subject.webp",
+    "uk": "media/uk/subject.mp3",
+    "us": "media/us/subject.mp3"
+   },
+   "avoid": [
+    "biology",
+    "chemistry",
+    "geography",
+    "history",
+    "maths",
+    "physics",
+    "science"
+   ]
+  },
+  {
+   "id": "teach",
+   "word": "teach",
+   "zh": "教；教授",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "教；教授"
+    }
+   ],
+   "ipa": "/tiːtʃ/",
+   "chunks": [
+    "teach"
+   ],
+   "emoji": "👩‍🏫",
+   "sentence": {
+    "en": "Mum teaches me to cook.",
+    "zh": "妈妈教我做饭。"
+   },
+   "sentences": [
+    {
+     "en": "Mum teaches me to cook.",
+     "zh": "妈妈教我做饭。",
+     "audio": "media/sent/c002d861ca67.mp3"
+    },
+    {
+     "en": "Mr Brown teaches us English.",
+     "zh": "布朗先生教我们英语。",
+     "audio": "media/sent/e6b10f9802b4.mp3"
+    },
+    {
+     "en": "Can you teach me to swim?",
+     "zh": "你能教我游泳吗？",
+     "audio": "media/sent/1031c1f7fabd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/teach.webp",
+    "uk": "media/uk/teach.mp3",
+    "us": "media/us/teach.mp3"
+   },
+   "avoid": [
+    "coach",
+    "teacher"
+   ]
+  },
+  {
+   "id": "teacher",
+   "word": "teacher",
+   "zh": "老师；教师",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "老师；教师"
+    }
+   ],
+   "ipa": "/ˈtiːtʃə/",
+   "chunks": [
+    "teach",
+    "er"
+   ],
+   "emoji": "🧑‍🏫",
+   "sentence": {
+    "en": "Our teacher is very kind.",
+    "zh": "我们的老师很和蔼。"
+   },
+   "sentences": [
+    {
+     "en": "Our teacher is very kind.",
+     "zh": "我们的老师很和蔼。",
+     "audio": "media/sent/1064312aed89.mp3"
+    },
+    {
+     "en": "The teacher gives us homework.",
+     "zh": "老师给我们布置作业。",
+     "audio": "media/sent/e961c7ed2280.mp3"
+    },
+    {
+     "en": "Lily wants to be a teacher.",
+     "zh": "Lily 想当老师。",
+     "audio": "media/sent/e25da0d94642.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/teacher.webp",
+    "uk": "media/uk/teacher.mp3",
+    "us": "media/us/teacher.mp3"
+   },
+   "avoid": [
+    "coach",
+    "teach"
+   ]
+  },
+  {
+   "id": "term",
+   "word": "term",
+   "zh": "学期",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学期"
+    }
+   ],
+   "ipa": "/tɜːm/",
+   "chunks": [
+    "term"
+   ],
+   "emoji": "🍂",
+   "sentence": {
+    "en": "The new term starts in September.",
+    "zh": "新学期九月开始。"
+   },
+   "sentences": [
+    {
+     "en": "The new term starts in September.",
+     "zh": "新学期九月开始。",
+     "audio": "media/sent/b927bcab9723.mp3"
+    },
+    {
+     "en": "There are three terms in a year.",
+     "zh": "一年有三个学期。",
+     "audio": "media/sent/617c824c5175.mp3"
+    },
+    {
+     "en": "This term we are learning about space.",
+     "zh": "这学期我们在学太空知识。",
+     "audio": "media/sent/e6faa49430ad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/term.webp",
+    "uk": "media/uk/term.mp3",
+    "us": "media/us/term.mp3"
+   },
+   "avoid": [
+    "lesson"
+   ]
+  },
+  {
+   "id": "test",
+   "word": "test",
+   "zh": "测验；考试",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "测验；考试"
+    }
+   ],
+   "ipa": "/test/",
+   "chunks": [
+    "test"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "We have a spelling test today.",
+    "zh": "我们今天有拼写测验。"
+   },
+   "sentences": [
+    {
+     "en": "We have a spelling test today.",
+     "zh": "我们今天有拼写测验。",
+     "audio": "media/sent/1ce3ae27da7d.mp3"
+    },
+    {
+     "en": "Lily is ready for the test.",
+     "zh": "Lily 准备好测验了。",
+     "audio": "media/sent/1a5c8f366882.mp3"
+    },
+    {
+     "en": "The test is very easy.",
+     "zh": "这次测验很简单。",
+     "audio": "media/sent/fabe7ff38387.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/test.webp",
+    "uk": "media/uk/test.mp3",
+    "us": "media/us/test.mp3"
+   },
+   "avoid": [
+    "examination",
+    "mark"
+   ]
+  },
+  {
+   "id": "university",
+   "word": "university",
+   "zh": "大学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大学"
+    }
+   ],
+   "ipa": "/ˌjuːnɪˈvɜːsəti/",
+   "chunks": [
+    "u",
+    "ni",
+    "ver",
+    "si",
+    "ty"
+   ],
+   "emoji": "🎓",
+   "sentence": {
+    "en": "My cousin goes to university.",
+    "zh": "我表哥在上大学。"
+   },
+   "sentences": [
+    {
+     "en": "My cousin goes to university.",
+     "zh": "我表哥在上大学。",
+     "audio": "media/sent/a349dd3fe669.mp3"
+    },
+    {
+     "en": "Dad studied at university in London.",
+     "zh": "爸爸在伦敦上的大学。",
+     "audio": "media/sent/a30c7725cf31.mp3"
+    },
+    {
+     "en": "Sam wants to go to university.",
+     "zh": "Sam 想上大学。",
+     "audio": "media/sent/4225e9f6a257.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/university.webp",
+    "uk": "media/uk/university.mp3",
+    "us": "media/us/university.mp3"
+   },
+   "avoid": [
+    "college",
+    "diploma",
+    "school"
+   ]
+  }
+ ]
+}

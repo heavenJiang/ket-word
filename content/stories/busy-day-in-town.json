@@ -1,0 +1,45 @@
+{
+ "id": "busy-day-in-town",
+ "topic": "services",
+ "title": "A Busy Day in Town",
+ "zh": "在城里忙碌的一天",
+ "pages": [
+  {
+   "en": "Mum has lots to do in town today. First she takes Lily and Tom to the dentist. Their teeth are fine!",
+   "zh": "妈妈今天在城里有很多事要办。她先带 Lily 和 Tom 去看牙医。他们的牙齿都很好！",
+   "scene": "A bright dentist's room, a kind dentist smiling at Tom in the big chair, Lily and Mum standing next to him."
+  },
+  {
+   "en": "Then they go to the post office with a present for Grandma, and to the library for some new books.",
+   "zh": "然后他们去邮局给奶奶寄礼物，又去图书馆借了几本新书。",
+   "scene": "Mum handing a wrapped present across the counter in a post office, Lily and Tom holding library books under their arms."
+  },
+  {
+   "en": "At last they have lunch at a restaurant. \"What a busy day!\" says Tom. \"Now let's go to the swimming pool!\"",
+   "zh": "最后他们在一家餐馆吃午饭。“今天真忙啊！”Tom 说，“现在我们去游泳池吧！”",
+   "scene": "Mum, Lily and Tom eating lunch at a table in a friendly restaurant, Tom pointing out of the window at a swimming pool building."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Where do they go first?",
+   "zh": "他们先去了哪里？",
+   "options": [
+    "the dentist",
+    "the library",
+    "the restaurant"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "They send a present to Grandpa.",
+   "zh": "他们给爷爷寄了礼物。",
+   "answer": false
+  },
+  {
+   "q": "They have lunch at a restaurant.",
+   "zh": "他们在餐馆吃了午饭。",
+   "answer": true
+  }
+ ]
+}

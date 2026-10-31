@@ -1,0 +1,1848 @@
+{
+ "id": "core-think",
+ "words": [
+  {
+   "id": "agree",
+   "word": "agree",
+   "zh": "同意；赞成",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "同意；赞成"
+    }
+   ],
+   "ipa": "/əˈɡriː/",
+   "chunks": [
+    "a",
+    "gree"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Mum agrees to buy a new ball.",
+    "zh": "妈妈同意买一个新球。"
+   },
+   "sentences": [
+    {
+     "en": "Mum agrees to buy a new ball.",
+     "zh": "妈妈同意买一个新球。",
+     "audio": "media/sent/571dba7a6e8f.mp3"
+    },
+    {
+     "en": "I agree with you, Tom.",
+     "zh": "我同意你的看法，Tom。",
+     "audio": "media/sent/ccac9c16c66a.mp3"
+    },
+    {
+     "en": "We all agree to go home.",
+     "zh": "我们都同意回家。",
+     "audio": "media/sent/91dcaebb9384.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/agree.webp",
+    "uk": "media/uk/agree.mp3",
+    "us": "media/us/agree.mp3"
+   },
+   "avoid": [
+    "choose",
+    "decide"
+   ]
+  },
+  {
+   "id": "answer",
+   "word": "answer",
+   "zh": "回答；答案",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "回答；答案"
+    }
+   ],
+   "ipa": "/ˈɑːnsə/",
+   "chunks": [
+    "an",
+    "swer"
+   ],
+   "emoji": "💬",
+   "sentence": {
+    "en": "Tom answers the teacher's question.",
+    "zh": "Tom 回答了老师的问题。"
+   },
+   "sentences": [
+    {
+     "en": "Tom answers the teacher's question.",
+     "zh": "Tom 回答了老师的问题。",
+     "audio": "media/sent/d28a72e85ba7.mp3"
+    },
+    {
+     "en": "The answer is on page five.",
+     "zh": "答案在第五页。",
+     "audio": "media/sent/2ac07a567d93.mp3"
+    },
+    {
+     "en": "Please answer the phone, Dad.",
+     "zh": "爸爸，请接电话。",
+     "audio": "media/sent/a79e2a7f8c08.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/answer.webp",
+    "uk": "media/uk/answer.mp3",
+    "us": "media/us/answer.mp3"
+   },
+   "avoid": [
+    "ask",
+    "question"
+   ]
+  },
+  {
+   "id": "ask",
+   "word": "ask",
+   "zh": "问；请求",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "问；请求"
+    }
+   ],
+   "ipa": "/ɑːsk/",
+   "chunks": [
+    "ask"
+   ],
+   "emoji": "🙋",
+   "sentence": {
+    "en": "Lily asks Dad for a story.",
+    "zh": "Lily 向爸爸要一个故事。"
+   },
+   "sentences": [
+    {
+     "en": "Lily asks Dad for a story.",
+     "zh": "Lily 向爸爸要一个故事。",
+     "audio": "media/sent/2deea8e1ce1b.mp3"
+    },
+    {
+     "en": "Can I ask you a question?",
+     "zh": "我能问你一个问题吗？",
+     "audio": "media/sent/66a69b88f00e.mp3"
+    },
+    {
+     "en": "Max wants to ask for food.",
+     "zh": "Max 想要讨食物。",
+     "audio": "media/sent/f5269288b727.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ask.webp",
+    "uk": "media/uk/ask.mp3",
+    "us": "media/us/ask.mp3"
+   },
+   "avoid": [
+    "answer",
+    "question"
+   ]
+  },
+  {
+   "id": "believe",
+   "word": "believe",
+   "zh": "相信",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "相信"
+    }
+   ],
+   "ipa": "/bɪˈliːv/",
+   "chunks": [
+    "be",
+    "lieve"
+   ],
+   "emoji": "🌟",
+   "sentence": {
+    "en": "I believe you can do it.",
+    "zh": "我相信你能做到。"
+   },
+   "sentences": [
+    {
+     "en": "I believe you can do it.",
+     "zh": "我相信你能做到。",
+     "audio": "media/sent/0b46f8e19d15.mp3"
+    },
+    {
+     "en": "Tom believes Max can talk.",
+     "zh": "Tom 相信 Max 会说话。",
+     "audio": "media/sent/df86d5fcde35.mp3"
+    },
+    {
+     "en": "Do you believe the story?",
+     "zh": "你相信这个故事吗？",
+     "audio": "media/sent/f07a9f4e3bd7.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/believe.mp3",
+    "us": "media/us/believe.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "choose",
+   "word": "choose",
+   "zh": "选择",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "选择"
+    }
+   ],
+   "ipa": "/tʃuːz/",
+   "chunks": [
+    "choose"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "Lily chooses a red hat.",
+    "zh": "Lily 选了一顶红帽子。"
+   },
+   "sentences": [
+    {
+     "en": "Lily chooses a red hat.",
+     "zh": "Lily 选了一顶红帽子。",
+     "audio": "media/sent/6d6bb267369f.mp3"
+    },
+    {
+     "en": "Choose your favourite colour.",
+     "zh": "选择你最喜欢的颜色。",
+     "audio": "media/sent/97efc036d8f7.mp3"
+    },
+    {
+     "en": "Tom chooses the big cake.",
+     "zh": "Tom 选了那块大蛋糕。",
+     "audio": "media/sent/3851007fa076.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/choose.webp",
+    "uk": "media/uk/choose.mp3",
+    "us": "media/us/choose.mp3"
+   },
+   "avoid": [
+    "agree",
+    "decide"
+   ]
+  },
+  {
+   "id": "decide",
+   "word": "decide",
+   "zh": "决定",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "决定"
+    }
+   ],
+   "ipa": "/dɪˈsaɪd/",
+   "chunks": [
+    "de",
+    "cide"
+   ],
+   "emoji": "🤐",
+   "sentence": {
+    "en": "We decide to go by bus.",
+    "zh": "我们决定坐公共汽车去。"
+   },
+   "sentences": [
+    {
+     "en": "We decide to go by bus.",
+     "zh": "我们决定坐公共汽车去。",
+     "audio": "media/sent/30397d9ba191.mp3"
+    },
+    {
+     "en": "Dad decides what to cook.",
+     "zh": "爸爸决定做什么菜。",
+     "audio": "media/sent/c9df64219d03.mp3"
+    },
+    {
+     "en": "I can't decide which toy.",
+     "zh": "我无法决定选哪个玩具。",
+     "audio": "media/sent/6e14921b1688.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/decide.mp3",
+    "us": "media/us/decide.mp3"
+   },
+   "avoid": [
+    "agree",
+    "choose"
+   ]
+  },
+  {
+   "id": "describe",
+   "word": "describe",
+   "zh": "描述",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "描述"
+    }
+   ],
+   "ipa": "/dɪˈskraɪb/",
+   "chunks": [
+    "de",
+    "scribe"
+   ],
+   "emoji": "🖍️",
+   "sentence": {
+    "en": "Sam describes his new dog.",
+    "zh": "Sam 描述了他的新狗。"
+   },
+   "sentences": [
+    {
+     "en": "Sam describes his new dog.",
+     "zh": "Sam 描述了他的新狗。",
+     "audio": "media/sent/e75dc9d6c6d7.mp3"
+    },
+    {
+     "en": "Can you describe the picture?",
+     "zh": "你能描述这幅画吗？",
+     "audio": "media/sent/7efb756ba3b3.mp3"
+    },
+    {
+     "en": "Mia describes her holiday.",
+     "zh": "Mia 描述她的假期。",
+     "audio": "media/sent/20dcb3636c90.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/describe.webp",
+    "uk": "media/uk/describe.mp3",
+    "us": "media/us/describe.mp3"
+   },
+   "avoid": [
+    "discuss",
+    "explain"
+   ]
+  },
+  {
+   "id": "discuss",
+   "word": "discuss",
+   "zh": "讨论",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "讨论"
+    }
+   ],
+   "ipa": "/dɪˈskʌs/",
+   "chunks": [
+    "dis",
+    "cuss"
+   ],
+   "emoji": "🗣️",
+   "sentence": {
+    "en": "We discuss our school trip.",
+    "zh": "我们讨论学校旅行。"
+   },
+   "sentences": [
+    {
+     "en": "We discuss our school trip.",
+     "zh": "我们讨论学校旅行。",
+     "audio": "media/sent/59e4acdd53d9.mp3"
+    },
+    {
+     "en": "Let's discuss the game plan.",
+     "zh": "让我们讨论比赛计划。",
+     "audio": "media/sent/2249b7ebad0b.mp3"
+    },
+    {
+     "en": "Mum discusses work with Dad.",
+     "zh": "妈妈和爸爸讨论工作。",
+     "audio": "media/sent/910a42886c51.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/discuss.webp",
+    "uk": "media/uk/discuss.mp3",
+    "us": "media/us/discuss.mp3"
+   },
+   "avoid": [
+    "describe",
+    "explain"
+   ]
+  },
+  {
+   "id": "explain",
+   "word": "explain",
+   "zh": "解释",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "解释"
+    }
+   ],
+   "ipa": "/ɪkˈspleɪn/",
+   "chunks": [
+    "ex",
+    "plain"
+   ],
+   "emoji": "🧐",
+   "sentence": {
+    "en": "Dad explains the maths.",
+    "zh": "爸爸讲解数学。"
+   },
+   "sentences": [
+    {
+     "en": "Dad explains the maths.",
+     "zh": "爸爸讲解数学。",
+     "audio": "media/sent/a43eecb3abdd.mp3"
+    },
+    {
+     "en": "Can you explain again?",
+     "zh": "你能再解释一遍吗？",
+     "audio": "media/sent/2a545432c8ed.mp3"
+    },
+    {
+     "en": "The teacher explains the game.",
+     "zh": "老师讲解这个游戏。",
+     "audio": "media/sent/289ee69e9d87.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/explain.webp",
+    "uk": "media/uk/explain.mp3",
+    "us": "media/us/explain.mp3"
+   },
+   "avoid": [
+    "describe",
+    "discuss"
+   ]
+  },
+  {
+   "id": "forget",
+   "word": "forget",
+   "zh": "忘记",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "忘记"
+    }
+   ],
+   "ipa": "/fəˈɡet/",
+   "chunks": [
+    "for",
+    "get"
+   ],
+   "emoji": "🤦",
+   "sentence": {
+    "en": "Tom forgets his key.",
+    "zh": "Tom 忘了他的钥匙。"
+   },
+   "sentences": [
+    {
+     "en": "Tom forgets his key.",
+     "zh": "Tom 忘了他的钥匙。",
+     "audio": "media/sent/ac849327f2c2.mp3"
+    },
+    {
+     "en": "Don't forget your lunch box.",
+     "zh": "别忘了你的午餐盒。",
+     "audio": "media/sent/f488a9e8893a.mp3"
+    },
+    {
+     "en": "I never forget Grandpa's birthday.",
+     "zh": "我从不忘记爷爷的生日。",
+     "audio": "media/sent/ebc0863da6f5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/forget.webp",
+    "uk": "media/uk/forget.mp3",
+    "us": "media/us/forget.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "guess",
+   "word": "guess",
+   "zh": "猜",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "猜"
+    }
+   ],
+   "ipa": "/ɡes/",
+   "chunks": [
+    "guess"
+   ],
+   "emoji": "🎲",
+   "sentence": {
+    "en": "Can you guess the number?",
+    "zh": "你能猜出这个数吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you guess the number?",
+     "zh": "你能猜出这个数吗？",
+     "audio": "media/sent/b9b3682923d7.mp3"
+    },
+    {
+     "en": "I guess it is Monday.",
+     "zh": "我猜今天是星期一。",
+     "audio": "media/sent/e014ff6b0e64.mp3"
+    },
+    {
+     "en": "Guess what I got!",
+     "zh": "猜猜我得到了什么！",
+     "audio": "media/sent/d715aaa66ffb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/guess.webp",
+    "uk": "media/uk/guess.mp3",
+    "us": "media/us/guess.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "hope",
+   "word": "hope",
+   "zh": "希望",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "希望"
+    }
+   ],
+   "ipa": "/həʊp/",
+   "chunks": [
+    "hope"
+   ],
+   "emoji": "🌈",
+   "sentence": {
+    "en": "I hope it rains soon.",
+    "zh": "我希望快点下雨。"
+   },
+   "sentences": [
+    {
+     "en": "I hope it rains soon.",
+     "zh": "我希望快点下雨。",
+     "audio": "media/sent/3e206d407e03.mp3"
+    },
+    {
+     "en": "We hope to see snow.",
+     "zh": "我们希望看到雪。",
+     "audio": "media/sent/7153614084eb.mp3"
+    },
+    {
+     "en": "Good luck! I hope you win.",
+     "zh": "祝你好运！我希望你赢。",
+     "audio": "media/sent/28814a4a6f2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hope.webp",
+    "uk": "media/uk/hope.mp3",
+    "us": "media/us/hope.mp3"
+   },
+   "avoid": [
+    "dream",
+    "wish"
+   ]
+  },
+  {
+   "id": "mean",
+   "word": "mean",
+   "zh": "意思是",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "意思是"
+    }
+   ],
+   "ipa": "/miːn/",
+   "chunks": [
+    "mean"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "What does this word mean?",
+    "zh": "这个词是什么意思？"
+   },
+   "sentences": [
+    {
+     "en": "What does this word mean?",
+     "zh": "这个词是什么意思？",
+     "audio": "media/sent/8d602b21343f.mp3"
+    },
+    {
+     "en": "This sign means stop.",
+     "zh": "这个标志意思是停下。",
+     "audio": "media/sent/3705c2388ec4.mp3"
+    },
+    {
+     "en": "I don't mean that.",
+     "zh": "我不是那个意思。",
+     "audio": "media/sent/0e1568080f15.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/mean.mp3",
+    "us": "media/us/mean.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "mind",
+   "word": "mind",
+   "zh": "介意；注意",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "介意；注意"
+    }
+   ],
+   "ipa": "/maɪnd/",
+   "chunks": [
+    "mind"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "Do you mind opening the window?",
+    "zh": "你介意打开窗户吗？"
+   },
+   "sentences": [
+    {
+     "en": "Do you mind opening the window?",
+     "zh": "你介意打开窗户吗？",
+     "audio": "media/sent/12a8cdc261ac.mp3"
+    },
+    {
+     "en": "Mind the car!",
+     "zh": "小心汽车！",
+     "audio": "media/sent/1eabbfbbf515.mp3"
+    },
+    {
+     "en": "I don't mind waiting.",
+     "zh": "我不介意等待。",
+     "audio": "media/sent/14ecc0161c23.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/mind.mp3",
+    "us": "media/us/mind.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "prefer",
+   "word": "prefer",
+   "zh": "更喜欢",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "更喜欢"
+    }
+   ],
+   "ipa": "/prɪˈfɜː/",
+   "chunks": [
+    "pre",
+    "fer"
+   ],
+   "emoji": "❤️",
+   "sentence": {
+    "en": "Tom prefers milk to water.",
+    "zh": "Tom 比起水更喜欢牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Tom prefers milk to water.",
+     "zh": "Tom 比起水更喜欢牛奶。",
+     "audio": "media/sent/f17e03fd8df9.mp3"
+    },
+    {
+     "en": "I prefer tea, Mum.",
+     "zh": "妈妈，我更喜欢茶。",
+     "audio": "media/sent/de5eeb82a164.mp3"
+    },
+    {
+     "en": "Lily prefers summer holidays.",
+     "zh": "Lily 更喜欢暑假。",
+     "audio": "media/sent/14fa69bc04a1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/prefer.webp",
+    "uk": "media/uk/prefer.mp3",
+    "us": "media/us/prefer.mp3"
+   },
+   "avoid": [
+    "need",
+    "want"
+   ]
+  },
+  {
+   "id": "say",
+   "word": "say",
+   "zh": "说",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "说"
+    }
+   ],
+   "ipa": "/seɪ/",
+   "chunks": [
+    "say"
+   ],
+   "emoji": "🗨️",
+   "sentence": {
+    "en": "Say hello to Grandma.",
+    "zh": "向奶奶问好。"
+   },
+   "sentences": [
+    {
+     "en": "Say hello to Grandma.",
+     "zh": "向奶奶问好。",
+     "audio": "media/sent/53cc6b75c07c.mp3"
+    },
+    {
+     "en": "What did you say?",
+     "zh": "你说了什么？",
+     "audio": "media/sent/a7c1b546ee8b.mp3"
+    },
+    {
+     "en": "Dad says it's time for bed.",
+     "zh": "爸爸说该睡觉了。",
+     "audio": "media/sent/954cf0dc92d9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/say.webp",
+    "uk": "media/uk/say.mp3",
+    "us": "media/us/say.mp3"
+   },
+   "avoid": [
+    "shout",
+    "speak",
+    "tell"
+   ]
+  },
+  {
+   "id": "seem",
+   "word": "seem",
+   "zh": "似乎；好像",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "似乎；好像"
+    }
+   ],
+   "ipa": "/siːm/",
+   "chunks": [
+    "seem"
+   ],
+   "emoji": "🤷",
+   "sentence": {
+    "en": "Max seems happy today.",
+    "zh": "Max 今天看起来很开心。"
+   },
+   "sentences": [
+    {
+     "en": "Max seems happy today.",
+     "zh": "Max 今天看起来很开心。",
+     "audio": "media/sent/9c79473259f1.mp3"
+    },
+    {
+     "en": "It seems to be colder today.",
+     "zh": "今天好像更冷了。",
+     "audio": "media/sent/3d6ab872c401.mp3"
+    },
+    {
+     "en": "You seem tired, Lily.",
+     "zh": "Lily，你看起来很累。",
+     "audio": "media/sent/34e958f0f68c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seem.webp",
+    "uk": "media/uk/seem.mp3",
+    "us": "media/us/seem.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "shout",
+   "word": "shout",
+   "zh": "喊叫；大叫",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "喊叫；大叫"
+    }
+   ],
+   "ipa": "/ʃaʊt/",
+   "chunks": [
+    "shout"
+   ],
+   "emoji": "📢",
+   "sentence": {
+    "en": "Don't shout in the library.",
+    "zh": "不要在图书馆里大声喊叫。"
+   },
+   "sentences": [
+    {
+     "en": "Don't shout in the library.",
+     "zh": "不要在图书馆里大声喊叫。",
+     "audio": "media/sent/66630d3714ba.mp3"
+    },
+    {
+     "en": "Dad shouts across the field.",
+     "zh": "爸爸隔着田野大喊。",
+     "audio": "media/sent/3276577f8e8a.mp3"
+    },
+    {
+     "en": "The boys shout loudly.",
+     "zh": "男孩们大声喊叫。",
+     "audio": "media/sent/f74abae99d70.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shout.webp",
+    "uk": "media/uk/shout.mp3",
+    "us": "media/us/shout.mp3"
+   },
+   "avoid": [
+    "say",
+    "speak",
+    "tell"
+   ]
+  },
+  {
+   "id": "speak",
+   "word": "speak",
+   "zh": "说；讲",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "说；讲"
+    }
+   ],
+   "ipa": "/spiːk/",
+   "chunks": [
+    "speak"
+   ],
+   "emoji": "🗣️",
+   "sentence": {
+    "en": "Can you speak English?",
+    "zh": "你会说英语吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you speak English?",
+     "zh": "你会说英语吗？",
+     "audio": "media/sent/60cd84dc15d7.mp3"
+    },
+    {
+     "en": "Mum speaks on the phone.",
+     "zh": "妈妈在打电话。",
+     "audio": "media/sent/e806a71fed94.mp3"
+    },
+    {
+     "en": "Please speak slowly.",
+     "zh": "请慢点说。",
+     "audio": "media/sent/72a494594fa6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/speak.webp",
+    "uk": "media/uk/speak.mp3",
+    "us": "media/us/speak.mp3"
+   },
+   "avoid": [
+    "say",
+    "shout",
+    "tell"
+   ]
+  },
+  {
+   "id": "spell",
+   "word": "spell",
+   "zh": "拼写；拼读",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "拼写；拼读"
+    }
+   ],
+   "ipa": "/spel/",
+   "chunks": [
+    "spell"
+   ],
+   "emoji": "🔤",
+   "sentence": {
+    "en": "Can you spell your name?",
+    "zh": "你能拼写你的名字吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you spell your name?",
+     "zh": "你能拼写你的名字吗？",
+     "audio": "media/sent/6ef86fe36645.mp3"
+    },
+    {
+     "en": "Mum teaches me to spell 'cat'.",
+     "zh": "妈妈教我拼写“cat”。",
+     "audio": "media/sent/c6e7353e1294.mp3"
+    },
+    {
+     "en": "Tom spells his name for the teacher.",
+     "zh": "Tom 给老师拼写他的名字。",
+     "audio": "media/sent/cacf2bbec4e1.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/spell.mp3",
+    "us": "media/us/spell.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "suppose",
+   "word": "suppose",
+   "zh": "假设；猜想",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "假设；猜想"
+    }
+   ],
+   "ipa": "/səˈpəʊz/",
+   "chunks": [
+    "sup",
+    "pose"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "I suppose it will rain soon.",
+    "zh": "我想很快就要下雨了。"
+   },
+   "sentences": [
+    {
+     "en": "I suppose it will rain soon.",
+     "zh": "我想很快就要下雨了。",
+     "audio": "media/sent/eb8511354422.mp3"
+    },
+    {
+     "en": "I suppose you are hungry after school.",
+     "zh": "我猜你放学后饿了吧。",
+     "audio": "media/sent/e2767c2159d0.mp3"
+    },
+    {
+     "en": "Suppose the bus is late?",
+     "zh": "假设公交车晚点了呢？",
+     "audio": "media/sent/9b8ea8bd476f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/suppose.mp3",
+    "us": "media/us/suppose.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "suggest",
+   "word": "suggest",
+   "zh": "建议；提议",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "建议；提议"
+    }
+   ],
+   "ipa": "/səˈdʒest/",
+   "chunks": [
+    "sug",
+    "gest"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "Lily suggests a game.",
+    "zh": "Lily 提议玩一个游戏。"
+   },
+   "sentences": [
+    {
+     "en": "Lily suggests a game.",
+     "zh": "Lily 提议玩一个游戏。",
+     "audio": "media/sent/830b5cc8bad6.mp3"
+    },
+    {
+     "en": "Mum suggests we go to the park.",
+     "zh": "妈妈建议我们去公园。",
+     "audio": "media/sent/db83ebf31dfd.mp3"
+    },
+    {
+     "en": "Can you suggest a good book?",
+     "zh": "你能推荐一本好书吗？",
+     "audio": "media/sent/efe4bc10fd86.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/suggest.mp3",
+    "us": "media/us/suggest.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "tell",
+   "word": "tell",
+   "zh": "告诉；讲述",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "告诉；讲述"
+    }
+   ],
+   "ipa": "/tel/",
+   "chunks": [
+    "tell"
+   ],
+   "emoji": "🗣️",
+   "sentence": {
+    "en": "Please tell me the story.",
+    "zh": "请给我讲这个故事。"
+   },
+   "sentences": [
+    {
+     "en": "Please tell me the story.",
+     "zh": "请给我讲这个故事。",
+     "audio": "media/sent/7fb3a1d0ab80.mp3"
+    },
+    {
+     "en": "Dad tells a funny story.",
+     "zh": "爸爸讲了一个有趣的故事。",
+     "audio": "media/sent/a0dacabbb344.mp3"
+    },
+    {
+     "en": "Tom tells Mum he is hungry.",
+     "zh": "Tom 告诉妈妈他饿了。",
+     "audio": "media/sent/2e89d093f379.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/tell.mp3",
+    "us": "media/us/tell.mp3"
+   },
+   "avoid": [
+    "say",
+    "shout",
+    "speak"
+   ]
+  },
+  {
+   "id": "think",
+   "word": "think",
+   "zh": "想；认为",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "想；认为"
+    }
+   ],
+   "ipa": "/θɪŋk/",
+   "chunks": [
+    "think"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "I think it is time to go.",
+    "zh": "我想该走了。"
+   },
+   "sentences": [
+    {
+     "en": "I think it is time to go.",
+     "zh": "我想该走了。",
+     "audio": "media/sent/2a902109e750.mp3"
+    },
+    {
+     "en": "Lily thinks about the answer.",
+     "zh": "Lily 思考答案。",
+     "audio": "media/sent/bd8ce03fea33.mp3"
+    },
+    {
+     "en": "What do you think of this song?",
+     "zh": "你觉得这首歌怎么样？",
+     "audio": "media/sent/57aea9d7c642.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/think.mp3",
+    "us": "media/us/think.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "understand",
+   "word": "understand",
+   "zh": "理解；明白",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "理解；明白"
+    }
+   ],
+   "ipa": "/ˌʌndəˈstænd/",
+   "chunks": [
+    "un",
+    "der",
+    "stand"
+   ],
+   "emoji": "👂",
+   "sentence": {
+    "en": "I understand the maths problem.",
+    "zh": "我懂这道数学题了。"
+   },
+   "sentences": [
+    {
+     "en": "I understand the maths problem.",
+     "zh": "我懂这道数学题了。",
+     "audio": "media/sent/d5b9ec5060fe.mp3"
+    },
+    {
+     "en": "Tom does not understand the words.",
+     "zh": "Tom 听不懂这些词。",
+     "audio": "media/sent/7e8da4d04e4b.mp3"
+    },
+    {
+     "en": "Do you understand me?",
+     "zh": "你明白我的意思吗？",
+     "audio": "media/sent/daafa83844ec.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/understand.mp3",
+    "us": "media/us/understand.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "wish",
+   "word": "wish",
+   "zh": "愿望；祝愿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "愿望；祝愿"
+    }
+   ],
+   "ipa": "/wɪʃ/",
+   "chunks": [
+    "wish"
+   ],
+   "emoji": "🌠",
+   "sentence": {
+    "en": "Make a wish before you eat.",
+    "zh": "吃之前许个愿吧。"
+   },
+   "sentences": [
+    {
+     "en": "Make a wish before you eat.",
+     "zh": "吃之前许个愿吧。",
+     "audio": "media/sent/f3e0c9b13465.mp3"
+    },
+    {
+     "en": "My wish is to visit London.",
+     "zh": "我的愿望是去伦敦。",
+     "audio": "media/sent/042df4754f5a.mp3"
+    },
+    {
+     "en": "We wish you a happy holiday.",
+     "zh": "我们祝你假期愉快。",
+     "audio": "media/sent/5c27e161eec4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wish.webp",
+    "uk": "media/uk/wish.mp3",
+    "us": "media/us/wish.mp3"
+   },
+   "avoid": [
+    "dream",
+    "hope"
+   ]
+  },
+  {
+   "id": "worry",
+   "word": "worry",
+   "zh": "担心；烦恼",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "担心；烦恼"
+    }
+   ],
+   "ipa": "/ˈwʌri/",
+   "chunks": [
+    "wor",
+    "ry"
+   ],
+   "emoji": "😟",
+   "sentence": {
+    "en": "Don't worry, it is OK.",
+    "zh": "别担心，没事的。"
+   },
+   "sentences": [
+    {
+     "en": "Don't worry, it is OK.",
+     "zh": "别担心，没事的。",
+     "audio": "media/sent/0d109cd42782.mp3"
+    },
+    {
+     "en": "Mum worries about Tom's homework.",
+     "zh": "妈妈担心 Tom 的作业。",
+     "audio": "media/sent/290f6e46e480.mp3"
+    },
+    {
+     "en": "Dad has no reason to worry.",
+     "zh": "爸爸没有理由担心。",
+     "audio": "media/sent/fdd38d2edeae.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/worry.mp3",
+    "us": "media/us/worry.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "want",
+   "word": "want",
+   "zh": "想要",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "想要"
+    }
+   ],
+   "ipa": "/wɒnt/",
+   "chunks": [
+    "want"
+   ],
+   "emoji": "🙋",
+   "sentence": {
+    "en": "Tom wants a new toy.",
+    "zh": "Tom 想要一个新玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Tom wants a new toy.",
+     "zh": "Tom 想要一个新玩具。",
+     "audio": "media/sent/80fcf86f0af6.mp3"
+    },
+    {
+     "en": "Lily wants to play outside.",
+     "zh": "Lily 想去外面玩。",
+     "audio": "media/sent/6634d1db04eb.mp3"
+    },
+    {
+     "en": "Do you want some water?",
+     "zh": "你想喝点水吗？",
+     "audio": "media/sent/aaa409d8d942.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/want.mp3",
+    "us": "media/us/want.mp3"
+   },
+   "avoid": [
+    "need",
+    "prefer"
+   ]
+  },
+  {
+   "id": "need",
+   "word": "need",
+   "zh": "需要",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "需要"
+    }
+   ],
+   "ipa": "/niːd/",
+   "chunks": [
+    "need"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "I need my school bag.",
+    "zh": "我需要我的书包。"
+   },
+   "sentences": [
+    {
+     "en": "I need my school bag.",
+     "zh": "我需要我的书包。",
+     "audio": "media/sent/8df813436829.mp3"
+    },
+    {
+     "en": "Max needs a walk in the park.",
+     "zh": "Max 需要去公园散步。",
+     "audio": "media/sent/b111d438eea9.mp3"
+    },
+    {
+     "en": "You need to brush your teeth.",
+     "zh": "你需要刷牙。",
+     "audio": "media/sent/27065095cd92.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/need.mp3",
+    "us": "media/us/need.mp3"
+   },
+   "avoid": [
+    "prefer",
+    "want"
+   ]
+  },
+  {
+   "id": "hate",
+   "word": "hate",
+   "zh": "讨厌；不喜欢",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "讨厌；不喜欢"
+    }
+   ],
+   "ipa": "/heɪt/",
+   "chunks": [
+    "hate"
+   ],
+   "emoji": "😖",
+   "sentence": {
+    "en": "Tom hates washing his hands.",
+    "zh": "Tom 讨厌洗手。"
+   },
+   "sentences": [
+    {
+     "en": "Tom hates washing his hands.",
+     "zh": "Tom 讨厌洗手。",
+     "audio": "media/sent/c1f1e14bc55e.mp3"
+    },
+    {
+     "en": "I hate cold weather.",
+     "zh": "我讨厌寒冷的天气。",
+     "audio": "media/sent/68380d5708f4.mp3"
+    },
+    {
+     "en": "Lily hates getting up early.",
+     "zh": "Lily 讨厌早起。",
+     "audio": "media/sent/49039910b998.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/hate.mp3",
+    "us": "media/us/hate.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "enjoy",
+   "word": "enjoy",
+   "zh": "享受；喜欢",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "享受；喜欢"
+    }
+   ],
+   "ipa": "/ɪnˈdʒɔɪ/",
+   "chunks": [
+    "en",
+    "joy"
+   ],
+   "emoji": "😊",
+   "sentence": {
+    "en": "We enjoy the music together.",
+    "zh": "我们一起欣赏音乐。"
+   },
+   "sentences": [
+    {
+     "en": "We enjoy the music together.",
+     "zh": "我们一起欣赏音乐。",
+     "audio": "media/sent/0848d24382fa.mp3"
+    },
+    {
+     "en": "Lily enjoys reading books.",
+     "zh": "Lily 喜欢读书。",
+     "audio": "media/sent/f953795e0833.mp3"
+    },
+    {
+     "en": "I enjoy playing with Max.",
+     "zh": "我喜欢和 Max 玩。",
+     "audio": "media/sent/ae7fa0eeb13b.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/enjoy.mp3",
+    "us": "media/us/enjoy.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dream",
+   "word": "dream",
+   "zh": "梦；梦想",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "梦；梦想"
+    }
+   ],
+   "ipa": "/driːm/",
+   "chunks": [
+    "dream"
+   ],
+   "emoji": "💭",
+   "sentence": {
+    "en": "Lily had a nice dream last night.",
+    "zh": "Lily 昨晚做了一个好梦。"
+   },
+   "sentences": [
+    {
+     "en": "Lily had a nice dream last night.",
+     "zh": "Lily 昨晚做了一个好梦。",
+     "audio": "media/sent/2476e91042ca.mp3"
+    },
+    {
+     "en": "My dream is to be a doctor.",
+     "zh": "我的梦想是当医生。",
+     "audio": "media/sent/c39ca3eaa803.mp3"
+    },
+    {
+     "en": "Tom dreams about ice cream.",
+     "zh": "Tom 梦见冰淇淋。",
+     "audio": "media/sent/2acb61e111f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dream.webp",
+    "uk": "media/uk/dream.mp3",
+    "us": "media/us/dream.mp3"
+   },
+   "avoid": [
+    "hope",
+    "wish"
+   ]
+  },
+  {
+   "id": "idea",
+   "word": "idea",
+   "zh": "主意；想法",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "主意；想法"
+    }
+   ],
+   "ipa": "/aɪˈdɪə/",
+   "chunks": [
+    "i",
+    "de",
+    "a"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "That is a good idea!",
+    "zh": "那是个好主意！"
+   },
+   "sentences": [
+    {
+     "en": "That is a good idea!",
+     "zh": "那是个好主意！",
+     "audio": "media/sent/43f64338917b.mp3"
+    },
+    {
+     "en": "I have an idea for the game.",
+     "zh": "我对游戏有个主意。",
+     "audio": "media/sent/d5730c19c59a.mp3"
+    },
+    {
+     "en": "Dad has no new ideas today.",
+     "zh": "爸爸今天没有新想法。",
+     "audio": "media/sent/ca93cd7d3be3.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/idea.mp3",
+    "us": "media/us/idea.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "opinion",
+   "word": "opinion",
+   "zh": "意见；看法",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "意见；看法"
+    }
+   ],
+   "ipa": "/əˈpɪnjən/",
+   "chunks": [
+    "o",
+    "pin",
+    "ion"
+   ],
+   "emoji": "💬",
+   "sentence": {
+    "en": "What is your opinion on this?",
+    "zh": "你对这个有什么看法？"
+   },
+   "sentences": [
+    {
+     "en": "What is your opinion on this?",
+     "zh": "你对这个有什么看法？",
+     "audio": "media/sent/95531e014eb0.mp3"
+    },
+    {
+     "en": "In my opinion, it is fun.",
+     "zh": "在我看来，这很有趣。",
+     "audio": "media/sent/fa6389590271.mp3"
+    },
+    {
+     "en": "Mum asks for Dad's opinion.",
+     "zh": "妈妈询问爸爸的意见。",
+     "audio": "media/sent/bb89f49425e9.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/opinion.mp3",
+    "us": "media/us/opinion.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "reason",
+   "word": "reason",
+   "zh": "原因；理由",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "原因；理由"
+    }
+   ],
+   "ipa": "/ˈriːzən/",
+   "chunks": [
+    "rea",
+    "son"
+   ],
+   "emoji": "🤷",
+   "sentence": {
+    "en": "What is the reason you are late?",
+    "zh": "你迟到的原因是什么？"
+   },
+   "sentences": [
+    {
+     "en": "What is the reason you are late?",
+     "zh": "你迟到的原因是什么？",
+     "audio": "media/sent/6b1adc96cbec.mp3"
+    },
+    {
+     "en": "There is no reason to be angry.",
+     "zh": "没有理由生气。",
+     "audio": "media/sent/895cc8224af3.mp3"
+    },
+    {
+     "en": "The rain is our reason to stay in.",
+     "zh": "下雨是我们待在室内的原因。",
+     "audio": "media/sent/1c4a09c1f7a3.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/reason.mp3",
+    "us": "media/us/reason.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "question",
+   "word": "question",
+   "zh": "问题",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "问题"
+    }
+   ],
+   "ipa": "/ˈkwestʃən/",
+   "chunks": [
+    "ques",
+    "tion"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "I have a question for you.",
+    "zh": "我有一个问题要问你。"
+   },
+   "sentences": [
+    {
+     "en": "I have a question for you.",
+     "zh": "我有一个问题要问你。",
+     "audio": "media/sent/0a9c7f7181b6.mp3"
+    },
+    {
+     "en": "Tom asks many questions at school.",
+     "zh": "Tom 在学校问很多问题。",
+     "audio": "media/sent/7b278a24709c.mp3"
+    },
+    {
+     "en": "Can you answer this question?",
+     "zh": "你能回答这个问题吗？",
+     "audio": "media/sent/3880d1fde144.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/question.mp3",
+    "us": "media/us/question.mp3"
+   },
+   "avoid": [
+    "answer",
+    "ask"
+   ]
+  },
+  {
+   "id": "advice",
+   "word": "advice",
+   "zh": "建议；忠告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "建议；忠告"
+    }
+   ],
+   "ipa": "/ədˈvaɪs/",
+   "chunks": [
+    "ad",
+    "vice"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Mum gives good advice.",
+    "zh": "妈妈给出了好的建议。"
+   },
+   "sentences": [
+    {
+     "en": "Mum gives good advice.",
+     "zh": "妈妈给出了好的建议。",
+     "audio": "media/sent/b7d85aea5528.mp3"
+    },
+    {
+     "en": "I need your advice on this.",
+     "zh": "在这件事上我需要你的建议。",
+     "audio": "media/sent/c6cb54aad6f4.mp3"
+    },
+    {
+     "en": "Grandpa's advice is always helpful.",
+     "zh": "爷爷的建议总是很有用。",
+     "audio": "media/sent/afa9dbe374b7.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/advice.mp3",
+    "us": "media/us/advice.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

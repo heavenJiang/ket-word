@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { playSentence, playWord } from "../lib/audio";
 import type { Accent, Word } from "../types";
-import { Chunks, Picture, SpeakButton } from "../ui/Picture";
+import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
 /** First meeting with a small group of words: see, hear, read in chunks, say it back. */
 export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent; onDone: () => void }) {
@@ -21,17 +21,21 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
         ))}
       </div>
       <div className="card intro-card" key={w.id}>
-        <Picture word={w} size="lg" />
+        {w.of && (
+          <div className="new-sense">
+            🔁 认识的词，新意思！你已经认识 <b>{w.word}</b>（{w.ofZh}），它还可以表示：
+          </div>
+        )}
+        <button className="tap-pic" onClick={() => playWord(w, accent)} aria-label={`听 ${w.word}`}>
+          <Picture word={w} size="lg" />
+        </button>
         <div className="intro-word">
           <Chunks word={w} />
-          <SpeakButton onClick={() => playWord(w, accent)} label="" big />
+          <SpeakButton onClick={() => playWord(w, accent)} label={`听 ${w.word}`} />
         </div>
         <div className="intro-ipa">{w.ipa}</div>
-        <div className="intro-zh">{w.zh}</div>
-        <button className="sentence" onClick={() => playSentence(w, accent)}>
-          <span className="sentence-en">🔊 {w.sentence.en}</span>
-          <span className="sentence-zh">{w.sentence.zh}</span>
-        </button>
+        <Senses word={w} />
+        <SentenceRow en={w.sentence.en} zh={w.sentence.zh} onPlay={() => playSentence(w, accent)} />
         <Echo key={w.id} />
       </div>
       <div className="row">

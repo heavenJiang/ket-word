@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="400" cy="104" r="50" fill="#e0a93f"/>
+  <!-- far dunes -->
+  <path d="M0 300 Q90 240 190 282 T380 262 T512 270 V512 H0Z" fill="#f1cc92"/>
+  <path d="M0 340 Q120 290 250 330 T512 318 V512 H0Z" fill="#d6b47d"/>
+  <!-- near dune with shadow side -->
+  <path d="M0 400 Q150 350 300 392 Q420 425 512 396 V512 H0Z" fill="#e8b46a"/>
+  <path d="M300 392 Q420 425 512 396 V512 H330 Q330 440 300 392Z" fill="#e28a3e" opacity=".55"/>
+  <!-- shrubs -->
+  <g fill="#808968">
+    <ellipse cx="70" cy="402" rx="26" ry="12"/><ellipse cx="88" cy="394" rx="16" ry="10"/>
+    <ellipse cx="452" cy="408" rx="20" ry="9"/>
+  </g>
+  <g stroke="#5c7f7d" stroke-width="3" stroke-linecap="round">
+    <path d="M60 404 l-8 -18 M70 402 l0 -22 M80 404 l8 -18"/>
+  </g>
+  <g transform="translate(256 330) scale(1.45) translate(-262 -330)">
+  <!-- camel shadow -->
+  <ellipse cx="262" cy="404" rx="110" ry="10" fill="#884522" opacity=".25"/>
+  <!-- far legs (darker) -->
+  <g fill="#884522">
+    <path d="M226 318 h13 l-2 44 a7 7 0 0 1 1 6 l-2 32 h-10 l-1 -32 a7 7 0 0 1 0 -6z"/>
+    <path d="M318 318 h13 l-1 44 a7 7 0 0 1 1 6 l-2 32 h-10 l-1 -32 a7 7 0 0 1 0 -6z"/>
+  </g>
+  <!-- body, hump, neck, head -->
+  <g fill="#8d6238">
+    <ellipse cx="275" cy="298" rx="88" ry="42"/>
+    <path d="M218 278 Q236 200 286 206 Q330 212 338 278Z"/>
+    <path d="M200 280 C178 296 160 290 152 262 L140 222 L166 214 L176 254 C182 270 196 270 214 262Z"/>
+    <path d="M118 206 Q140 196 168 206 L170 224 Q150 234 126 234 Q100 236 98 224 Q98 210 118 206Z"/>
+    <path d="M154 200 l6 -12 l6 13z"/>
+    <path d="M360 290 q18 10 12 40 l-6 0 q4 -24 -10 -32z"/>
+  </g>
+  <!-- light top of hump -->
+  <path d="M236 238 Q256 210 286 212 Q312 216 322 240 Q290 224 236 238Z" fill="#b28851"/>
+  <!-- near legs -->
+  <g fill="#8d6238">
+    <path d="M205 318 h14 l-1 46 a8 8 0 0 1 1 6 l-2 30 h-11 l-1 -30 a8 8 0 0 1 0 -6z"/>
+    <path d="M300 318 h14 l-1 46 a8 8 0 0 1 1 6 l-2 30 h-11 l-1 -30 a8 8 0 0 1 0 -6z"/>
+  </g>
+  <g fill="#2e4244">
+    <circle cx="137" cy="214" r="3.2"/>
+    <path d="M100 224 q6 3 12 1" stroke="#2e4244" stroke-width="2" fill="none"/>
+    <rect x="202" y="398" width="16" height="6" rx="2"/><rect x="223" y="398" width="16" height="6" rx="2"/>
+    <rect x="297" y="398" width="16" height="6" rx="2"/><rect x="316" y="398" width="16" height="6" rx="2"/>
+  </g>
+  <!-- belly shade and neck shade -->
+  <path d="M195 312 Q270 352 360 306 Q350 336 300 342 Q240 346 195 312Z" fill="#884522" opacity=".45"/>
+  <path d="M152 262 C160 284 176 292 196 282 L200 280 C182 292 164 290 152 262Z" fill="#884522" opacity=".5"/>
+  </g>
+  <!-- footprints -->
+  <g fill="#d6b47d"><ellipse cx="400" cy="440" rx="7" ry="3"/><ellipse cx="430" cy="452" rx="7" ry="3"/><ellipse cx="370" cy="452" rx="7" ry="3"/></g>
+</svg>

@@ -5,6 +5,7 @@ Usage:
 
 Reads:
     data/ket-wordlist.json              (from parse_wordlist.py)
+    data/core-islands.json              core words (on no topic list) split into small islands
     .local/word-atlas/word-atlas.json   (https://github.com/designfuchen/word-atlas, CC BY 4.0)
 Writes:
     data/ket-words.json                 one learnable item per headword
@@ -24,6 +25,7 @@ WORDLIST = ROOT / "data/ket-wordlist.json"
 ATLAS = ROOT / ".local/word-atlas/word-atlas.json"
 OUT = ROOT / "data/ket-words.json"
 REPORT = ROOT / "data/coverage.md"
+CORE = ROOT / "data/core-islands.json"
 
 # Kid-friendly topic ids and Chinese names, in learning-map order.
 TOPICS = {
@@ -70,6 +72,13 @@ ANIMALS = {
 FORMS_OVERRIDE = {
     "driving /driver’s licence": ["driving licence", "driver’s licence"],
     "at / @": ["at", "@"],
+    # "call/ring" is two wordings of one phrase, not "give somebody a call" plus "ring"
+    "give somebody a call/ring": ["give somebody a call", "give somebody a ring"],
+}
+
+# Topics the PDF does not give a phrase, decided by hand.
+TOPIC_EXTRA = {
+    "give somebody a call/ring": ["tech"],
 }
 
 
@@ -144,15 +153,23 @@ def build() -> None:
                 if tid not in topic_of[norm(f)]:
                     topic_of[norm(f)].append(tid)
 
+    # a plural in a topic list may stand for a singular entry, unless the plural is a word of its own (news, shorts)
+    entry_forms = {norm(f) for e in merged.values() for f in forms_of(e["word"])}
+    plural = lambda f: topic_of.get(norm(f) + "s", []) if norm(f) + "s" not in entry_forms else []
+
     items: list[dict] = []
     used_ids: set[str] = set()
     for e in merged.values():
         forms = forms_of(e["word"])
         topics: list[str] = []
         for f in forms + [e["word"]]:
-            for t in topic_of.get(norm(f), []):
+            # topic lists sometimes give the plural ("shoes", "trainers") of a singular entry
+            for t in topic_of.get(norm(f), []) + plural(f):
                 if t not in topics:
                     topics.append(t)
+        for t in TOPIC_EXTRA.get(e["word"], []):
+            if t not in topics:
+                topics.append(t)
         if any(norm(f) in ANIMALS for f in forms):
             topics.append("animals")
         atlas_hit = next((atlas_by[norm(f)] for f in forms if norm(f) in atlas_by), None)
@@ -212,17 +229,19 @@ def build() -> None:
             items.append(it)
             by_norm[norm(w)] = it
 
+    core = json.loads(CORE.read_text(encoding="utf-8"))["islands"]
+    island_of = {w: c["id"] for c in core for w in c["words"]}
     for it in items:
         if not it["topics"]:
-            it["topics"] = ["core"]
+            it["topics"] = [island_of[it["id"]]]  # KeyError: a new core word needs an island in core-islands.json
 
     topic_meta = [{"id": tid, "en": en, "zh": zh} for en, (tid, zh) in TOPICS.items()]
     topic_meta += [
         {"id": "animals", "en": "Animals", "zh": "动物"},
         {"id": "numbers", "en": "Numbers", "zh": "数字"},
         {"id": "world", "en": "Countries and Continents", "zh": "国家与大洲"},
-        {"id": "core", "en": "Core words", "zh": "核心词"},
     ]
+    topic_meta += [{"id": c["id"], "en": c["en"], "zh": c["zh"], "emoji": c["emoji"], "core": True} for c in core]
     OUT.write_text(json.dumps({
         "source": src["source"],
         "topics": topic_meta,

@@ -1,0 +1,2119 @@
+{
+ "id": "buildings",
+ "words": [
+  {
+   "id": "building",
+   "word": "building",
+   "zh": "建筑物；楼房",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "建筑物；楼房"
+    }
+   ],
+   "ipa": "/ˈbɪldɪŋ/",
+   "chunks": [
+    "build",
+    "ing"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "This building is very tall.",
+    "zh": "这栋建筑物很高。"
+   },
+   "sentences": [
+    {
+     "en": "This building is very tall.",
+     "zh": "这栋建筑物很高。",
+     "audio": "media/sent/426cab7c2242.mp3"
+    },
+    {
+     "en": "The library is an old building.",
+     "zh": "图书馆是一座古老的建筑。",
+     "audio": "media/sent/87561c19a9bc.mp3"
+    },
+    {
+     "en": "Look at that red building!",
+     "zh": "看那座红色的建筑物！",
+     "audio": "media/sent/47b564127277.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/building.webp",
+    "uk": "media/uk/building.mp3",
+    "us": "media/us/building.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "flat",
+    "house"
+   ]
+  },
+  {
+   "id": "house",
+   "word": "house",
+   "zh": "房子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "房子"
+    }
+   ],
+   "ipa": "/haʊs/",
+   "chunks": [
+    "house"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Our house has a blue roof.",
+    "zh": "我们的房子有蓝色的屋顶。"
+   },
+   "sentences": [
+    {
+     "en": "Our house has a blue roof.",
+     "zh": "我们的房子有蓝色的屋顶。",
+     "audio": "media/sent/434d199766d0.mp3"
+    },
+    {
+     "en": "Grandma's house is near the park.",
+     "zh": "奶奶的房子在公园附近。",
+     "audio": "media/sent/54e69fd26673.mp3"
+    },
+    {
+     "en": "We live in this house.",
+     "zh": "我们住在这栋房子里。",
+     "audio": "media/sent/10138b2ba92a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/house.webp",
+    "uk": "media/uk/house.mp3",
+    "us": "media/us/house.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "building",
+    "flat",
+    "garage"
+   ]
+  },
+  {
+   "id": "flat",
+   "word": "flat",
+   "zh": "公寓（英式）；平的",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公寓（英式）；平的"
+    }
+   ],
+   "ipa": "/flæt/",
+   "chunks": [
+    "flat"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "Mia lives in a small flat.",
+    "zh": "Mia 住在一个小公寓里。"
+   },
+   "sentences": [
+    {
+     "en": "Mia lives in a small flat.",
+     "zh": "Mia 住在一个小公寓里。",
+     "audio": "media/sent/0657ba4e7ce8.mp3"
+    },
+    {
+     "en": "Our flat has two rooms.",
+     "zh": "我们的公寓有两个房间。",
+     "audio": "media/sent/5c8bad7741aa.mp3"
+    },
+    {
+     "en": "The floor is flat and clean.",
+     "zh": "地板很平且干净。",
+     "audio": "media/sent/20cc9f689d11.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/flat.webp",
+    "uk": "media/uk/flat.mp3",
+    "us": "media/us/flat.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "apartment-building",
+    "block",
+    "building",
+    "house"
+   ]
+  },
+  {
+   "id": "apartment",
+   "word": "apartment",
+   "zh": "公寓（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公寓（美式）"
+    }
+   ],
+   "ipa": "/əˈpɑːtmənt/",
+   "chunks": [
+    "a",
+    "part",
+    "ment"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "Sam's dad lives in an apartment.",
+    "zh": "Sam 的爸爸住在一套公寓里。"
+   },
+   "sentences": [
+    {
+     "en": "Sam's dad lives in an apartment.",
+     "zh": "Sam 的爸爸住在一套公寓里。",
+     "audio": "media/sent/03968cbd4f9b.mp3"
+    },
+    {
+     "en": "The apartment has a nice kitchen.",
+     "zh": "这套公寓有一个漂亮的厨房。",
+     "audio": "media/sent/71578ae58143.mp3"
+    },
+    {
+     "en": "We visited their apartment yesterday.",
+     "zh": "我们昨天参观了他们的公寓。",
+     "audio": "media/sent/33b2c5c6706f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/apartment.webp",
+    "uk": "media/uk/apartment.mp3",
+    "us": "media/us/apartment.mp3"
+   },
+   "avoid": [
+    "apartment-building",
+    "block",
+    "building",
+    "flat",
+    "house"
+   ]
+  },
+  {
+   "id": "apartment-building",
+   "word": "apartment building",
+   "zh": "公寓楼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公寓楼"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "a",
+    "part",
+    "ment",
+    "build",
+    "ing"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "This apartment building is new.",
+    "zh": "这栋公寓楼是新的。"
+   },
+   "sentences": [
+    {
+     "en": "This apartment building is new.",
+     "zh": "这栋公寓楼是新的。",
+     "audio": "media/sent/47fe5cce6797.mp3"
+    },
+    {
+     "en": "My friend lives in that apartment building.",
+     "zh": "我的朋友住在那栋公寓楼里。",
+     "audio": "media/sent/837f6977bf0b.mp3"
+    },
+    {
+     "en": "The apartment building has an entrance hall.",
+     "zh": "这栋公寓楼有一个门厅。",
+     "audio": "media/sent/67324b7ede74.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/apartment-building.webp"
+   },
+   "avoid": [
+    "apartment",
+    "block",
+    "flat"
+   ]
+  },
+  {
+   "id": "block",
+   "word": "block",
+   "zh": "大楼；街区",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大楼；街区"
+    }
+   ],
+   "ipa": "/blɒk/",
+   "chunks": [
+    "block"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "We live in a block of flats.",
+    "zh": "我们住在一栋公寓大楼里。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a block of flats.",
+     "zh": "我们住在一栋公寓大楼里。",
+     "audio": "media/sent/2c01b0b9c1f0.mp3"
+    },
+    {
+     "en": "The post office is in the next block.",
+     "zh": "邮局在下一个街区。",
+     "audio": "media/sent/043de5a0402e.mp3"
+    },
+    {
+     "en": "Our school is near this block.",
+     "zh": "我们学校靠近这个街区。",
+     "audio": "media/sent/3f839eabfe51.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/block.webp",
+    "uk": "media/uk/block.mp3",
+    "us": "media/us/block.mp3"
+   },
+   "avoid": [
+    "apartment",
+    "apartment-building",
+    "flat"
+   ]
+  },
+  {
+   "id": "lift",
+   "word": "lift",
+   "zh": "电梯（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电梯（英式）"
+    }
+   ],
+   "ipa": "/lɪft/",
+   "chunks": [
+    "lift"
+   ],
+   "emoji": "🛗",
+   "sentence": {
+    "en": "Take the lift to the top.",
+    "zh": "坐电梯到顶层。"
+   },
+   "sentences": [
+    {
+     "en": "Take the lift to the top.",
+     "zh": "坐电梯到顶层。",
+     "audio": "media/sent/342bee6a5464.mp3"
+    },
+    {
+     "en": "The lift is slow today.",
+     "zh": "今天电梯很慢。",
+     "audio": "media/sent/079faf06bd73.mp3"
+    },
+    {
+     "en": "Let's wait for the lift.",
+     "zh": "我们等电梯吧。",
+     "audio": "media/sent/303ab9530959.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lift.webp",
+    "uk": "media/uk/lift.mp3",
+    "us": "media/us/lift.mp3"
+   },
+   "avoid": [
+    "elevator"
+   ]
+  },
+  {
+   "id": "elevator",
+   "word": "elevator",
+   "zh": "电梯（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电梯（美式）"
+    }
+   ],
+   "ipa": "/ˈelɪveɪtə/",
+   "chunks": [
+    "el",
+    "e",
+    "va",
+    "tor"
+   ],
+   "emoji": "🛗",
+   "sentence": {
+    "en": "Lily waits for the elevator.",
+    "zh": "Lily 等电梯。"
+   },
+   "sentences": [
+    {
+     "en": "Lily waits for the elevator.",
+     "zh": "Lily 等电梯。",
+     "audio": "media/sent/7197459da794.mp3"
+    },
+    {
+     "en": "The elevator goes up quickly.",
+     "zh": "电梯上升得很快。",
+     "audio": "media/sent/bddb36a031bf.mp3"
+    },
+    {
+     "en": "We took the elevator to the top floor.",
+     "zh": "我们坐电梯到了顶楼。",
+     "audio": "media/sent/ceab10a79bb2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/elevator.webp",
+    "uk": "media/uk/elevator.mp3",
+    "us": "media/us/elevator.mp3"
+   },
+   "avoid": [
+    "lift"
+   ]
+  },
+  {
+   "id": "entrance",
+   "word": "entrance",
+   "zh": "入口",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "入口"
+    }
+   ],
+   "ipa": "/ˈentrəns/",
+   "chunks": [
+    "en",
+    "trance"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "The entrance is open.",
+    "zh": "入口是开着的。"
+   },
+   "sentences": [
+    {
+     "en": "The entrance is open.",
+     "zh": "入口是开着的。",
+     "audio": "media/sent/7bba9fad87a7.mp3"
+    },
+    {
+     "en": "We met at the school entrance.",
+     "zh": "我们在学校入口处见面。",
+     "audio": "media/sent/0d647eda3eea.mp3"
+    },
+    {
+     "en": "Please use this entrance.",
+     "zh": "请使用这个入口。",
+     "audio": "media/sent/b899093dba96.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/entrance.webp",
+    "uk": "media/uk/entrance.mp3",
+    "us": "media/us/entrance.mp3"
+   },
+   "avoid": [
+    "exit"
+   ]
+  },
+  {
+   "id": "exit",
+   "word": "exit",
+   "zh": "出口",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "出口"
+    }
+   ],
+   "ipa": "/ˈeksɪt/",
+   "chunks": [
+    "ex",
+    "it"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "The exit is on the left.",
+    "zh": "出口在左边。"
+   },
+   "sentences": [
+    {
+     "en": "The exit is on the left.",
+     "zh": "出口在左边。",
+     "audio": "media/sent/d162b233f33d.mp3"
+    },
+    {
+     "en": "Look for the fire exit.",
+     "zh": "寻找消防出口。",
+     "audio": "media/sent/9476646cf56c.mp3"
+    },
+    {
+     "en": "We left through the back exit.",
+     "zh": "我们从后出口离开了。",
+     "audio": "media/sent/8b116f1f1aa7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/exit.webp",
+    "uk": "media/uk/exit.mp3",
+    "us": "media/us/exit.mp3"
+   },
+   "avoid": [
+    "entrance"
+   ]
+  },
+  {
+   "id": "garage",
+   "word": "garage",
+   "zh": "车库",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车库"
+    }
+   ],
+   "ipa": "/ˈɡærɑːʒ/",
+   "chunks": [
+    "ga",
+    "rage"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "Dad parks in the garage.",
+    "zh": "爸爸把车停在车库里。"
+   },
+   "sentences": [
+    {
+     "en": "Dad parks in the garage.",
+     "zh": "爸爸把车停在车库里。",
+     "audio": "media/sent/4af65a5004dc.mp3"
+    },
+    {
+     "en": "The bikes are in the garage.",
+     "zh": "自行车在车库里。",
+     "audio": "media/sent/a8267dd1d242.mp3"
+    },
+    {
+     "en": "Max sleeps near the garage.",
+     "zh": "Max 睡在车库附近。",
+     "audio": "media/sent/f09d5793e7d7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garage.webp",
+    "uk": "media/uk/garage.mp3",
+    "us": "media/us/garage.mp3"
+   },
+   "avoid": [
+    "house"
+   ]
+  },
+  {
+   "id": "hotel",
+   "word": "hotel",
+   "zh": "酒店；旅馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "酒店；旅馆"
+    }
+   ],
+   "ipa": "/həʊˈtel/",
+   "chunks": [
+    "ho",
+    "tel"
+   ],
+   "emoji": "🏨",
+   "sentence": {
+    "en": "We stayed at a big hotel.",
+    "zh": "我们住在一家大酒店里。"
+   },
+   "sentences": [
+    {
+     "en": "We stayed at a big hotel.",
+     "zh": "我们住在一家大酒店里。",
+     "audio": "media/sent/1b659e97e7d7.mp3"
+    },
+    {
+     "en": "The hotel has a swimming pool.",
+     "zh": "这家酒店有一个游泳池。",
+     "audio": "media/sent/ccbacc57d71b.mp3"
+    },
+    {
+     "en": "Our room in the hotel is nice.",
+     "zh": "我们在酒店的房间很好。",
+     "audio": "media/sent/feac64a7b021.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hotel.webp",
+    "uk": "media/uk/hotel.mp3",
+    "us": "media/us/hotel.mp3"
+   },
+   "avoid": [
+    "castle",
+    "guest-house"
+   ]
+  },
+  {
+   "id": "guest-house",
+   "word": "guest-house",
+   "zh": "小旅馆；家庭旅馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小旅馆；家庭旅馆"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "guest",
+    "house"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "We slept in a guest-house.",
+    "zh": "我们睡在一家家庭旅馆里。"
+   },
+   "sentences": [
+    {
+     "en": "We slept in a guest-house.",
+     "zh": "我们睡在一家家庭旅馆里。",
+     "audio": "media/sent/90b083b1d09d.mp3"
+    },
+    {
+     "en": "The guest-house is quiet at night.",
+     "zh": "这家小旅馆晚上很安静。",
+     "audio": "media/sent/a84cff0e2102.mp3"
+    },
+    {
+     "en": "Grandma likes this guest-house.",
+     "zh": "奶奶喜欢这家家庭旅馆。",
+     "audio": "media/sent/d8c7ee58b3f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/guest-house.webp"
+   },
+   "avoid": [
+    "castle",
+    "hotel"
+   ]
+  },
+  {
+   "id": "castle",
+   "word": "castle",
+   "zh": "城堡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "城堡"
+    }
+   ],
+   "ipa": "/ˈkɑːsəl/",
+   "chunks": [
+    "cas",
+    "tle"
+   ],
+   "emoji": "🏰",
+   "sentence": {
+    "en": "The castle is very old.",
+    "zh": "这座城堡很古老。"
+   },
+   "sentences": [
+    {
+     "en": "The castle is very old.",
+     "zh": "这座城堡很古老。",
+     "audio": "media/sent/a1cb01ab3d18.mp3"
+    },
+    {
+     "en": "Lily likes the big castle.",
+     "zh": "Lily 喜欢那座大城堡。",
+     "audio": "media/sent/bf55ffd646e9.mp3"
+    },
+    {
+     "en": "We visited the castle yesterday.",
+     "zh": "我们昨天参观了城堡。",
+     "audio": "media/sent/25e4acd39b68.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/castle.webp",
+    "uk": "media/uk/castle.mp3",
+    "us": "media/us/castle.mp3"
+   },
+   "avoid": [
+    "guest-house",
+    "hotel"
+   ]
+  },
+  {
+   "id": "school",
+   "word": "school",
+   "zh": "学校",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学校"
+    }
+   ],
+   "ipa": "/skuːl/",
+   "chunks": [
+    "school"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "Lily goes to school by bus.",
+    "zh": "Lily 坐公交车去学校。"
+   },
+   "sentences": [
+    {
+     "en": "Lily goes to school by bus.",
+     "zh": "Lily 坐公交车去学校。",
+     "audio": "media/sent/a7ffa5efa091.mp3"
+    },
+    {
+     "en": "Tom's school is next door.",
+     "zh": "Tom 的学校就在隔壁。",
+     "audio": "media/sent/a37c63936271.mp3"
+    },
+    {
+     "en": "We play football at school.",
+     "zh": "我们在学校踢足球。",
+     "audio": "media/sent/46abe10160ba.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/school.webp",
+    "uk": "media/uk/school.mp3",
+    "us": "media/us/school.mp3"
+   },
+   "avoid": [
+    "college",
+    "library",
+    "university"
+   ]
+  },
+  {
+   "id": "college",
+   "word": "college",
+   "zh": "学院；大学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "学院；大学"
+    }
+   ],
+   "ipa": "/ˈkɒlɪdʒ/",
+   "chunks": [
+    "col",
+    "lege"
+   ],
+   "emoji": "🎓",
+   "sentence": {
+    "en": "My cousin goes to college.",
+    "zh": "我的表亲上大学。"
+   },
+   "sentences": [
+    {
+     "en": "My cousin goes to college.",
+     "zh": "我的表亲上大学。",
+     "audio": "media/sent/24636ed23729.mp3"
+    },
+    {
+     "en": "The college is big and green.",
+     "zh": "这所学院很大且绿意盎然。",
+     "audio": "media/sent/097c3ac05adb.mp3"
+    },
+    {
+     "en": "Kate teaches at a college.",
+     "zh": "Kate 在一所学院教书。",
+     "audio": "media/sent/0714ae4cd0ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/college.webp",
+    "uk": "media/uk/college.mp3",
+    "us": "media/us/college.mp3"
+   },
+   "avoid": [
+    "library",
+    "school",
+    "university"
+   ]
+  },
+  {
+   "id": "university",
+   "word": "university",
+   "zh": "大学",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大学"
+    }
+   ],
+   "ipa": "/ˌjuːnɪˈvɜːsəti/",
+   "chunks": [
+    "u",
+    "ni",
+    "ver",
+    "si",
+    "ty"
+   ],
+   "emoji": "🎓",
+   "sentence": {
+    "en": "Dad went to university.",
+    "zh": "爸爸上过大学。"
+   },
+   "sentences": [
+    {
+     "en": "Dad went to university.",
+     "zh": "爸爸上过大学。",
+     "audio": "media/sent/74a245d1ea62.mp3"
+    },
+    {
+     "en": "The university is in London.",
+     "zh": "这所大学在伦敦。",
+     "audio": "media/sent/79ce9cdec8da.mp3"
+    },
+    {
+     "en": "Sam wants to study at university.",
+     "zh": "Sam 想在大学学习。",
+     "audio": "media/sent/c670ce09dccb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/university.webp",
+    "uk": "media/uk/university.mp3",
+    "us": "media/us/university.mp3"
+   },
+   "avoid": [
+    "college",
+    "library",
+    "school"
+   ]
+  },
+  {
+   "id": "library",
+   "word": "library",
+   "zh": "图书馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "图书馆"
+    }
+   ],
+   "ipa": "/ˈlaɪbrəri/",
+   "chunks": [
+    "li",
+    "brar",
+    "y"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "We read books in the library.",
+    "zh": "我们在图书馆读书。"
+   },
+   "sentences": [
+    {
+     "en": "We read books in the library.",
+     "zh": "我们在图书馆读书。",
+     "audio": "media/sent/fe392d3a9d2c.mp3"
+    },
+    {
+     "en": "The library is quiet and cool.",
+     "zh": "图书馆安静且凉爽。",
+     "audio": "media/sent/2c5e2ee693dc.mp3"
+    },
+    {
+     "en": "Lily returns her book to the library.",
+     "zh": "Lily 把书还给图书馆。",
+     "audio": "media/sent/56e84afacf86.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/library.webp",
+    "uk": "media/uk/library.mp3",
+    "us": "media/us/library.mp3"
+   },
+   "avoid": [
+    "bookshop",
+    "bookstore",
+    "college",
+    "school",
+    "university"
+   ]
+  },
+  {
+   "id": "office",
+   "word": "office",
+   "zh": "办公室",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "办公室"
+    }
+   ],
+   "ipa": "/ˈɒfɪs/",
+   "chunks": [
+    "of",
+    "fice"
+   ],
+   "emoji": "💼",
+   "sentence": {
+    "en": "Dad works in an office.",
+    "zh": "爸爸在办公室工作。"
+   },
+   "sentences": [
+    {
+     "en": "Dad works in an office.",
+     "zh": "爸爸在办公室工作。",
+     "audio": "media/sent/e28c5a29c455.mp3"
+    },
+    {
+     "en": "The office has many desks.",
+     "zh": "办公室里有许多桌子。",
+     "audio": "media/sent/55a699486065.mp3"
+    },
+    {
+     "en": "Mum visits Dad's office.",
+     "zh": "妈妈参观爸爸的办公室。",
+     "audio": "media/sent/6605df840dfd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/office.webp",
+    "uk": "media/uk/office.mp3",
+    "us": "media/us/office.mp3"
+   },
+   "avoid": [
+    "bank",
+    "factory"
+   ]
+  },
+  {
+   "id": "factory",
+   "word": "factory",
+   "zh": "工厂",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "工厂"
+    }
+   ],
+   "ipa": "/ˈfæktəri/",
+   "chunks": [
+    "fac",
+    "to",
+    "ry"
+   ],
+   "emoji": "🏭",
+   "sentence": {
+    "en": "The factory makes toys.",
+    "zh": "这家工厂制造玩具。"
+   },
+   "sentences": [
+    {
+     "en": "The factory makes toys.",
+     "zh": "这家工厂制造玩具。",
+     "audio": "media/sent/49699e924ebb.mp3"
+    },
+    {
+     "en": "Sam's uncle works in a factory.",
+     "zh": "Sam 的叔叔在一家工厂工作。",
+     "audio": "media/sent/8b6c11aa4147.mp3"
+    },
+    {
+     "en": "The factory is very noisy.",
+     "zh": "这家工厂很吵。",
+     "audio": "media/sent/3ca5d0a58e88.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/factory.webp",
+    "uk": "media/uk/factory.mp3",
+    "us": "media/us/factory.mp3"
+   },
+   "avoid": [
+    "bank",
+    "office"
+   ]
+  },
+  {
+   "id": "bank",
+   "word": "bank",
+   "zh": "银行",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "银行"
+    }
+   ],
+   "ipa": "/bæŋk/",
+   "chunks": [
+    "bank"
+   ],
+   "emoji": "🏦",
+   "sentence": {
+    "en": "Kate works in a bank.",
+    "zh": "Kate 在银行工作。"
+   },
+   "sentences": [
+    {
+     "en": "Kate works in a bank.",
+     "zh": "Kate 在银行工作。",
+     "audio": "media/sent/5847e8b05834.mp3"
+    },
+    {
+     "en": "Mum goes to the bank on Friday.",
+     "zh": "妈妈星期五去银行。",
+     "audio": "media/sent/e8a7a5162e6d.mp3"
+    },
+    {
+     "en": "The bank is next to the post office.",
+     "zh": "银行在邮局旁边。",
+     "audio": "media/sent/4d7055fe8ccc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bank.webp",
+    "uk": "media/uk/bank.mp3",
+    "us": "media/us/bank.mp3"
+   },
+   "avoid": [
+    "factory",
+    "office",
+    "police-station",
+    "post-office"
+   ]
+  },
+  {
+   "id": "post-office",
+   "word": "post office",
+   "zh": "邮局",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "邮局"
+    }
+   ],
+   "ipa": "/ˈpəʊst ˌɒfɪs/",
+   "chunks": [
+    "post",
+    "of",
+    "fice"
+   ],
+   "emoji": "📮",
+   "sentence": {
+    "en": "Lily sends a letter at the post office.",
+    "zh": "Lily 在邮局寄信。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sends a letter at the post office.",
+     "zh": "Lily 在邮局寄信。",
+     "audio": "media/sent/321b074cb01e.mp3"
+    },
+    {
+     "en": "The post office is on Park Road.",
+     "zh": "邮局在公园路。",
+     "audio": "media/sent/9bd13c561eac.mp3"
+    },
+    {
+     "en": "Grandma buys stamps at the post office.",
+     "zh": "奶奶在邮局买邮票。",
+     "audio": "media/sent/b4577077027a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/post-office.webp",
+    "uk": "media/uk/post-office.mp3",
+    "us": "media/us/post-office.mp3"
+   },
+   "avoid": [
+    "bank",
+    "police-station"
+   ]
+  },
+  {
+   "id": "police-station",
+   "word": "police station",
+   "zh": "警察局",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "警察局"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "po",
+    "lice",
+    "sta",
+    "tion"
+   ],
+   "emoji": "👮",
+   "sentence": {
+    "en": "Sam lives near the police station.",
+    "zh": "Sam 住在警察局附近。"
+   },
+   "sentences": [
+    {
+     "en": "Sam lives near the police station.",
+     "zh": "Sam 住在警察局附近。",
+     "audio": "media/sent/2a7488fe2743.mp3"
+    },
+    {
+     "en": "The police station is open all day.",
+     "zh": "警察局全天开放。",
+     "audio": "media/sent/ff41894337ce.mp3"
+    },
+    {
+     "en": "Tom sees a police officer at the police station.",
+     "zh": "Tom 在警察局看到一位警察。",
+     "audio": "media/sent/c8f519f05910.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/police-station.webp"
+   },
+   "avoid": [
+    "bank",
+    "post-office"
+   ]
+  },
+  {
+   "id": "hospital",
+   "word": "hospital",
+   "zh": "医院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "医院"
+    }
+   ],
+   "ipa": "/ˈhɒspɪtl/",
+   "chunks": [
+    "hos",
+    "pi",
+    "tal"
+   ],
+   "emoji": "🏥",
+   "sentence": {
+    "en": "Mum works at the hospital.",
+    "zh": "妈妈在医院工作。"
+   },
+   "sentences": [
+    {
+     "en": "Mum works at the hospital.",
+     "zh": "妈妈在医院工作。",
+     "audio": "media/sent/09e614b5cadc.mp3"
+    },
+    {
+     "en": "The hospital is very big.",
+     "zh": "医院很大。",
+     "audio": "media/sent/c2a6fbf9d2ef.mp3"
+    },
+    {
+     "en": "Grandpa visits the doctor at the hospital.",
+     "zh": "爷爷去医院看医生。",
+     "audio": "media/sent/9cd78afbc096.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hospital.webp",
+    "uk": "media/uk/hospital.mp3",
+    "us": "media/us/hospital.mp3"
+   },
+   "avoid": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "pharmacy",
+   "word": "pharmacy",
+   "zh": "药房",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "药房"
+    }
+   ],
+   "ipa": "/ˈfɑːməsi/",
+   "chunks": [
+    "phar",
+    "ma",
+    "cy"
+   ],
+   "emoji": "💊",
+   "sentence": {
+    "en": "Mum buys medicine at the pharmacy.",
+    "zh": "妈妈在药房买药。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys medicine at the pharmacy.",
+     "zh": "妈妈在药房买药。",
+     "audio": "media/sent/97b46060f7b5.mp3"
+    },
+    {
+     "en": "The pharmacy is closed on Sunday.",
+     "zh": "药房星期日不营业。",
+     "audio": "media/sent/485dff04a943.mp3"
+    },
+    {
+     "en": "Ask for help at the pharmacy.",
+     "zh": "在药房寻求帮助。",
+     "audio": "media/sent/932ada2d5ae8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pharmacy.webp",
+    "uk": "media/uk/pharmacy.mp3",
+    "us": "media/us/pharmacy.mp3"
+   },
+   "avoid": [
+    "hospital"
+   ]
+  },
+  {
+   "id": "cafe",
+   "word": "cafe",
+   "zh": "咖啡馆；小餐馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "咖啡馆；小餐馆"
+    }
+   ],
+   "ipa": "/ˈkæfeɪ/",
+   "chunks": [
+    "ca",
+    "fe"
+   ],
+   "emoji": "☕",
+   "sentence": {
+    "en": "We drink tea in the cafe.",
+    "zh": "我们在咖啡馆喝茶。"
+   },
+   "sentences": [
+    {
+     "en": "We drink tea in the cafe.",
+     "zh": "我们在咖啡馆喝茶。",
+     "audio": "media/sent/f6f538812415.mp3"
+    },
+    {
+     "en": "The cafe has nice cakes.",
+     "zh": "这家咖啡馆有美味的蛋糕。",
+     "audio": "media/sent/2239a304cdeb.mp3"
+    },
+    {
+     "en": "Let's meet at the cafe after school.",
+     "zh": "放学后我们在咖啡馆见。",
+     "audio": "media/sent/d06ae90304a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafe.webp",
+    "uk": "media/uk/cafe.mp3",
+    "us": "media/us/cafe.mp3"
+   },
+   "avoid": [
+    "cafeteria"
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "word": "cafeteria",
+   "zh": "自助餐厅；食堂",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自助餐厅；食堂"
+    }
+   ],
+   "ipa": "/ˌkæfəˈtɪəriə/",
+   "chunks": [
+    "caf",
+    "e",
+    "te",
+    "ri",
+    "a"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "Lily eats lunch in the cafeteria.",
+    "zh": "Lily 在食堂吃午饭。"
+   },
+   "sentences": [
+    {
+     "en": "Lily eats lunch in the cafeteria.",
+     "zh": "Lily 在食堂吃午饭。",
+     "audio": "media/sent/45ac1b427197.mp3"
+    },
+    {
+     "en": "The school cafeteria is busy at noon.",
+     "zh": "学校食堂中午很热闹。",
+     "audio": "media/sent/d75eeb98b5f7.mp3"
+    },
+    {
+     "en": "We sit together in the cafeteria.",
+     "zh": "我们在食堂坐在一起。",
+     "audio": "media/sent/d7f8185746b9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafeteria.webp",
+    "uk": "media/uk/cafeteria.mp3",
+    "us": "media/us/cafeteria.mp3"
+   },
+   "avoid": [
+    "cafe"
+   ]
+  },
+  {
+   "id": "cinema",
+   "word": "cinema",
+   "zh": "电影院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电影院"
+    }
+   ],
+   "ipa": "/ˈsɪnəmə/",
+   "chunks": [
+    "ci",
+    "ne",
+    "ma"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We watch a film at the cinema.",
+    "zh": "我们在电影院看电影。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a film at the cinema.",
+     "zh": "我们在电影院看电影。",
+     "audio": "media/sent/b61ecb6bd0b2.mp3"
+    },
+    {
+     "en": "The cinema is next to the park.",
+     "zh": "电影院在公园旁边。",
+     "audio": "media/sent/7dae924bc111.mp3"
+    },
+    {
+     "en": "Tom loves going to the cinema.",
+     "zh": "Tom 喜欢去电影院。",
+     "audio": "media/sent/c8242787d0d4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cinema.webp",
+    "uk": "media/uk/cinema.mp3",
+    "us": "media/us/cinema.mp3"
+   },
+   "avoid": [
+    "disco",
+    "museum",
+    "theatre"
+   ]
+  },
+  {
+   "id": "theatre",
+   "word": "theatre",
+   "zh": "剧院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "剧院"
+    }
+   ],
+   "ipa": "/ˈθɪətə/",
+   "chunks": [
+    "the",
+    "a",
+    "tre"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "The family goes to the theatre.",
+    "zh": "一家人去剧院。"
+   },
+   "sentences": [
+    {
+     "en": "The family goes to the theatre.",
+     "zh": "一家人去剧院。",
+     "audio": "media/sent/33872fb76c39.mp3"
+    },
+    {
+     "en": "We see a play at the theatre.",
+     "zh": "我们在剧院看戏。",
+     "audio": "media/sent/b7ed51f582b6.mp3"
+    },
+    {
+     "en": "The theatre is very old and beautiful.",
+     "zh": "这座剧院很古老也很漂亮。",
+     "audio": "media/sent/60526b14cf43.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/theatre.webp",
+    "uk": "media/uk/theatre.mp3",
+    "us": "media/us/theatre.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "disco",
+    "museum"
+   ]
+  },
+  {
+   "id": "museum",
+   "word": "museum",
+   "zh": "博物馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "博物馆"
+    }
+   ],
+   "ipa": "/mjuˈziːəm/",
+   "chunks": [
+    "mu",
+    "se",
+    "um"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "We learn about history at the museum.",
+    "zh": "我们在博物馆学习历史。"
+   },
+   "sentences": [
+    {
+     "en": "We learn about history at the museum.",
+     "zh": "我们在博物馆学习历史。",
+     "audio": "media/sent/651962525a11.mp3"
+    },
+    {
+     "en": "The museum is open on Saturday.",
+     "zh": "博物馆星期六开放。",
+     "audio": "media/sent/1ecadfe12561.mp3"
+    },
+    {
+     "en": "Lily draws pictures of old things at the museum.",
+     "zh": "Lily 在博物馆画老物件的图。",
+     "audio": "media/sent/fce5e5f133b6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/museum.webp",
+    "uk": "media/uk/museum.mp3",
+    "us": "media/us/museum.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "disco",
+    "theatre"
+   ]
+  },
+  {
+   "id": "disco",
+   "word": "disco",
+   "zh": "迪斯科舞会",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "迪斯科舞会"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "dis",
+    "co"
+   ],
+   "emoji": "💃",
+   "sentence": {
+    "en": "The school has a disco tonight.",
+    "zh": "学校今晚有迪斯科舞会。"
+   },
+   "sentences": [
+    {
+     "en": "The school has a disco tonight.",
+     "zh": "学校今晚有迪斯科舞会。",
+     "audio": "media/sent/b15f92d7abca.mp3"
+    },
+    {
+     "en": "Lily dances at the disco.",
+     "zh": "Lily 在迪斯科舞会上跳舞。",
+     "audio": "media/sent/6babf95cd6ce.mp3"
+    },
+    {
+     "en": "Tom listens to music at the disco.",
+     "zh": "Tom 在迪斯科舞会上听音乐。",
+     "audio": "media/sent/1532fee675c8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/disco.webp"
+   },
+   "avoid": [
+    "cinema",
+    "museum",
+    "theatre"
+   ]
+  },
+  {
+   "id": "sports-centre",
+   "word": "sports centre",
+   "zh": "体育中心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体育中心"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sports",
+    "cen",
+    "tre"
+   ],
+   "emoji": "🏟️",
+   "sentence": {
+    "en": "We play tennis at the sports centre.",
+    "zh": "我们在体育中心打网球。"
+   },
+   "sentences": [
+    {
+     "en": "We play tennis at the sports centre.",
+     "zh": "我们在体育中心打网球。",
+     "audio": "media/sent/8bc444c2998d.mp3"
+    },
+    {
+     "en": "The sports centre is near my home.",
+     "zh": "体育中心在我家附近。",
+     "audio": "media/sent/0d68750cfedd.mp3"
+    },
+    {
+     "en": "Dad runs in the sports centre.",
+     "zh": "爸爸在体育中心跑步。",
+     "audio": "media/sent/1913cbc941af.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sports-centre.webp"
+   },
+   "avoid": [
+    "stadium",
+    "swimming-pool"
+   ]
+  },
+  {
+   "id": "stadium",
+   "word": "stadium",
+   "zh": "体育场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体育场"
+    }
+   ],
+   "ipa": "/ˈsteɪdiəm/",
+   "chunks": [
+    "sta",
+    "di",
+    "um"
+   ],
+   "emoji": "🏟️",
+   "sentence": {
+    "en": "Lily watches football at the stadium.",
+    "zh": "Lily 在体育场看足球。"
+   },
+   "sentences": [
+    {
+     "en": "Lily watches football at the stadium.",
+     "zh": "Lily 在体育场看足球。",
+     "audio": "media/sent/bb406a9a3383.mp3"
+    },
+    {
+     "en": "The stadium is full of fans.",
+     "zh": "体育场里挤满了球迷。",
+     "audio": "media/sent/cb5dc925d7fb.mp3"
+    },
+    {
+     "en": "We take a bus to the stadium.",
+     "zh": "我们坐公共汽车去体育场。",
+     "audio": "media/sent/227239255550.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stadium.webp",
+    "uk": "media/uk/stadium.mp3",
+    "us": "media/us/stadium.mp3"
+   },
+   "avoid": [
+    "sports-centre",
+    "swimming-pool"
+   ]
+  },
+  {
+   "id": "swimming-pool",
+   "word": "swimming pool",
+   "zh": "游泳池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游泳池"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "swim",
+    "ming",
+    "pool"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Tom swims in the swimming pool.",
+    "zh": "Tom 在游泳池里游泳。"
+   },
+   "sentences": [
+    {
+     "en": "Tom swims in the swimming pool.",
+     "zh": "Tom 在游泳池里游泳。",
+     "audio": "media/sent/380463f7e4f6.mp3"
+    },
+    {
+     "en": "The water in the swimming pool is blue.",
+     "zh": "游泳池里的水是蓝色的。",
+     "audio": "media/sent/4504a526d017.mp3"
+    },
+    {
+     "en": "We go to the swimming pool on Sunday.",
+     "zh": "我们星期日去游泳池。",
+     "audio": "media/sent/de20773ba93b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimming-pool.webp"
+   },
+   "avoid": [
+    "sports-centre",
+    "stadium"
+   ]
+  },
+  {
+   "id": "shop",
+   "word": "shop",
+   "zh": "商店；购物",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "商店"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "购物",
+     "en": "We shop for food."
+    }
+   ],
+   "ipa": "/ʃɒp/",
+   "chunks": [
+    "shop"
+   ],
+   "emoji": "🛍️",
+   "sentence": {
+    "en": "Mum goes to the shop.",
+    "zh": "妈妈去购物。"
+   },
+   "sentences": [
+    {
+     "en": "Mum goes to the shop.",
+     "zh": "妈妈去购物。",
+     "audio": "media/sent/28d9c86e78fd.mp3"
+    },
+    {
+     "en": "The shop sells milk and bread.",
+     "zh": "这家商店卖牛奶和面包。",
+     "audio": "media/sent/5bd9fcc78643.mp3"
+    },
+    {
+     "en": "Let's shop for a new ball.",
+     "zh": "我们去买一个新球吧。",
+     "audio": "media/sent/40db27a9cba5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shop.webp",
+    "uk": "media/uk/shop.mp3",
+    "us": "media/us/shop.mp3"
+   },
+   "avoid": [
+    "department-store",
+    "grocery-store",
+    "supermarket"
+   ]
+  },
+  {
+   "id": "supermarket",
+   "word": "supermarket",
+   "zh": "超市",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "超市"
+    }
+   ],
+   "ipa": "/ˈsuːpəmɑːkɪt/",
+   "chunks": [
+    "su",
+    "per",
+    "mar",
+    "ket"
+   ],
+   "emoji": "🛒",
+   "sentence": {
+    "en": "We buy food at the supermarket.",
+    "zh": "我们在超市买食物。"
+   },
+   "sentences": [
+    {
+     "en": "We buy food at the supermarket.",
+     "zh": "我们在超市买食物。",
+     "audio": "media/sent/1039f87a62c6.mp3"
+    },
+    {
+     "en": "The supermarket is very big.",
+     "zh": "这家超市很大。",
+     "audio": "media/sent/03e03e8ea222.mp3"
+    },
+    {
+     "en": "Grandma pays at the supermarket.",
+     "zh": "奶奶在超市付款。",
+     "audio": "media/sent/11abddfbcda9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/supermarket.webp",
+    "uk": "media/uk/supermarket.mp3",
+    "us": "media/us/supermarket.mp3"
+   },
+   "avoid": [
+    "department-store",
+    "grocery-store",
+    "shop"
+   ]
+  },
+  {
+   "id": "bookshop",
+   "word": "bookshop",
+   "zh": "书店",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书店"
+    }
+   ],
+   "ipa": "/ˈbʊkʃɒp/",
+   "chunks": [
+    "book",
+    "shop"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily buys a book at the bookshop.",
+    "zh": "Lily 在书店买了一本书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily buys a book at the bookshop.",
+     "zh": "Lily 在书店买了一本书。",
+     "audio": "media/sent/241ee98f9e58.mp3"
+    },
+    {
+     "en": "The bookshop is quiet and warm.",
+     "zh": "书店安静又温暖。",
+     "audio": "media/sent/40503c324f9b.mp3"
+    },
+    {
+     "en": "We visit the bookshop on Saturday.",
+     "zh": "我们星期六去书店。",
+     "audio": "media/sent/52a6f68aa602.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookshop.webp",
+    "uk": "media/uk/bookshop.mp3",
+    "us": "media/us/bookshop.mp3"
+   },
+   "avoid": [
+    "bookstore",
+    "library"
+   ]
+  },
+  {
+   "id": "bookstore",
+   "word": "bookstore",
+   "zh": "书店（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书店（美式）"
+    }
+   ],
+   "ipa": "/ˈbʊkstɔː/",
+   "chunks": [
+    "book",
+    "store"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Sam reads in the bookstore.",
+    "zh": "Sam 在书店看书。"
+   },
+   "sentences": [
+    {
+     "en": "Sam reads in the bookstore.",
+     "zh": "Sam 在书店看书。",
+     "audio": "media/sent/2dd0f94af8d3.mp3"
+    },
+    {
+     "en": "The bookstore has many floors.",
+     "zh": "这家书店有很多层。",
+     "audio": "media/sent/1e300a77addc.mp3"
+    },
+    {
+     "en": "We meet friends at the bookstore.",
+     "zh": "我们在书店见朋友。",
+     "audio": "media/sent/ba1f29548eed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookstore.webp",
+    "uk": "media/uk/bookstore.mp3",
+    "us": "media/us/bookstore.mp3"
+   },
+   "avoid": [
+    "bookshop",
+    "library"
+   ]
+  },
+  {
+   "id": "department-store",
+   "word": "department store",
+   "zh": "百货商店",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "百货商店"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "de",
+    "part",
+    "ment",
+    "store"
+   ],
+   "emoji": "🏬",
+   "sentence": {
+    "en": "Mum shops at the department store.",
+    "zh": "妈妈在百货商店购物。"
+   },
+   "sentences": [
+    {
+     "en": "Mum shops at the department store.",
+     "zh": "妈妈在百货商店购物。",
+     "audio": "media/sent/583a2ff06555.mp3"
+    },
+    {
+     "en": "The department store sells clothes.",
+     "zh": "这家百货商店卖衣服。",
+     "audio": "media/sent/d2cbe8d9f2ce.mp3"
+    },
+    {
+     "en": "We take the lift in the department store.",
+     "zh": "我们在百货商店坐电梯。",
+     "audio": "media/sent/3e10130277a2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/department-store.webp"
+   },
+   "avoid": [
+    "grocery-store",
+    "shop",
+    "supermarket"
+   ]
+  },
+  {
+   "id": "grocery-store",
+   "word": "grocery store",
+   "zh": "杂货店",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "杂货店"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "gro",
+    "cer",
+    "y",
+    "store"
+   ],
+   "emoji": "🥦",
+   "sentence": {
+    "en": "Dad buys eggs at the grocery store.",
+    "zh": "爸爸在杂货店买鸡蛋。"
+   },
+   "sentences": [
+    {
+     "en": "Dad buys eggs at the grocery store.",
+     "zh": "爸爸在杂货店买鸡蛋。",
+     "audio": "media/sent/05af77bc7c2f.mp3"
+    },
+    {
+     "en": "The grocery store has fresh fruit.",
+     "zh": "这家杂货店有新鲜水果。",
+     "audio": "media/sent/7781f57e7965.mp3"
+    },
+    {
+     "en": "We walk to the grocery store.",
+     "zh": "我们步行去杂货店。",
+     "audio": "media/sent/bb75ed4851c8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/grocery-store.webp"
+   },
+   "avoid": [
+    "department-store",
+    "shop",
+    "supermarket"
+   ]
+  }
+ ]
+}

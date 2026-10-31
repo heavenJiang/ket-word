@@ -1,0 +1,45 @@
+{
+ "id": "counting-sheep",
+ "topic": "numbers",
+ "title": "Where Is the Sheep?",
+ "zh": "羊去哪儿了",
+ "pages": [
+  {
+   "en": "Grandpa has a farm with twenty sheep. One evening he says, \"Lily, how many sheep are in the field?\"",
+   "zh": "爷爷有一个农场，养了二十只羊。一天傍晚，他说：“Lily，田里有几只羊？”",
+   "scene": "A green farm field in the evening, Grandpa and Lily leaning on a wooden gate, a group of white sheep in the field, Max beside them."
+  },
+  {
+   "en": "\"One, two, three ... nineteen,\" says Lily. She looks again. \"Nineteen! One sheep is not here!\"",
+   "zh": "“一、二、三……十九，”Lily 说。她又看了一遍。“十九只！少了一只羊！”",
+   "scene": "Lily pointing at the sheep one by one as they go through the gate, Grandpa watching with a worried face."
+  },
+  {
+   "en": "Max runs up the hill. There is the twentieth sheep, with a baby sheep! \"Now we have one more!\" laughs Grandpa.",
+   "zh": "Max 跑上小山。第二十只羊就在那儿，身边还有一只小羊！“现在我们又多了一只！”爷爷笑着说。",
+   "scene": "On a small hill, Max barking happily next to a sheep and a tiny new lamb, Lily and Grandpa running up the hill smiling."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How many sheep does Grandpa have at first?",
+   "zh": "爷爷一开始有多少只羊？",
+   "options": [
+    "twenty",
+    "ten",
+    "thirty"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily finds nineteen sheep.",
+   "zh": "Lily 找到了十九只羊。",
+   "answer": true
+  },
+  {
+   "q": "Tom finds the sheep.",
+   "zh": "是 Tom 找到了那只羊。",
+   "answer": false
+  }
+ ]
+}

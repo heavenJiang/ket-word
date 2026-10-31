@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
-import { Rating, review, type WordProgress } from "../srs/srs";
+import { Rating, review, type CardState, type WordProgress } from "../srs/srs";
 import { buildPlan } from "./plan";
+import { distractors } from "../lib/choice";
+import type { Word } from "../types";
 import { answer, buildSession, current, kindFor, MAX_RETRIES, RETRY_GAP, spreadOut, type Session } from "./session";
 
 const DAY = 86_400_000;
@@ -19,6 +21,12 @@ describe("buildPlan", () => {
     const p = buildPlan(order, {}, t0, opt);
     expect(p.reviews).toEqual([]);
     expect(p.newWords).toEqual(order.slice(0, 8));
+  });
+
+  it("keeps reviewing words from other islands while taking new words from the current one", () => {
+    const p = buildPlan(order, learned(["w0"]), t0 + DAY, opt, ["w10", "w11"]);
+    expect(p.reviews.some((t) => t.wordId === "w0")).toBe(true);
+    expect(p.newWords).toEqual(["w10", "w11"]);
   });
 
   it("counts new words already met today", () => {
@@ -55,17 +63,18 @@ describe("session", () => {
   it("introduces new words in groups before quizzing them", () => {
     const s = buildSession(buildPlan(order, {}, t0, opt), {}, seq());
     expect(s.steps[0]).toEqual({ type: "intro", wordIds: ["w0", "w1", "w2", "w3"] });
-    expect(s.steps.slice(1, 5).every((x) => x.type === "q" && x.kind === "pickImage")).toBe(true);
-    expect(s.steps[5]).toMatchObject({ type: "intro" });
+    expect(s.steps[1]).toEqual({ type: "match", wordIds: ["w0", "w1", "w2", "w3"] });
+    expect(s.steps.slice(2, 6).every((x) => x.type === "q" && x.kind === "pickImage")).toBe(true);
+    expect(s.steps[6]).toMatchObject({ type: "intro" });
   });
 
   it("grades only the first answer and retries wrong ones later with another question type", () => {
     let s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq());
-    s = { ...s, index: 1 };
+    s = { ...s, index: 2 }; // past the intro and the match game
     const first = current(s)!;
     const r = answer(s, false, {});
     expect(r.grade).toBe(true);
-    const retry = r.session.steps[1 + 1 + RETRY_GAP];
+    const retry = r.session.steps[2 + 1 + RETRY_GAP];
     expect(retry).toMatchObject({ type: "q", graded: false, retry: 1, kind: "pickMeaning" });
     expect(first.type === "q" && retry.type === "q" && retry.wordId === first.wordId).toBe(true);
   });
@@ -91,5 +100,37 @@ describe("session", () => {
     expect(kindFor("meaning", undefined)).toBe("pickImage");
     expect(kindFor("meaning", { ...review(undefined, Rating.Good, t0), s: 10 })).toBe("pickMeaning");
     expect(kindFor("spell", undefined)).toBe("tiles");
+  });
+});
+
+describe("distractors", () => {
+  const w = (id: string, avoid: string[] = []) =>
+    ({ id, word: id, zh: id, pos: [], ipa: "", chunks: [id], emoji: "", sentence: { en: "", zh: "" }, media: {}, avoid }) as Word;
+  it("never offers a confusable word as a wrong option", () => {
+    const plate = w("plate", ["dish", "bowl"]);
+    const pool = [plate, w("dish", ["plate", "bowl"]), w("bowl", ["plate", "dish"]), w("apple"), w("milk"), w("egg")];
+    for (let i = 0; i < 20; i++) {
+      expect(distractors(plate, pool, 3, Math.random).map((x) => x.id).sort()).toEqual(["apple", "egg", "milk"]);
+    }
+  });
+
+  it("puts familiar words back in sentences for about half their questions", () => {
+    const weak = { s: 1 } as CardState;
+    const familiar = { s: 10 } as CardState;
+    expect(kindFor("meaning", weak, 0, { gap: true, roll: 0.1 })).toBe("pickImage");
+    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.1 })).toBe("cloze");
+    expect(kindFor("meaning", familiar, 0, { gap: true, roll: 0.9 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 0, { gap: false, roll: 0.1 })).toBe("pickMeaning");
+    expect(kindFor("meaning", familiar, 1, { gap: true, roll: 0.1 })).toBe("pickImage");
+    expect(kindFor("listen", familiar, 0, { roll: 0.1 })).toBe("listenSentence");
+    expect(kindFor("listen", weak, 0, { roll: 0.1 })).toBe("listenPick");
+    expect(kindFor("listen", familiar, 1, { roll: 0.1 })).toBe("listenPick");
+  });
+
+  it("keeps a second meaning back until the word's first meaning is learnt", () => {
+    const words = ["can", "can.2", "cup"];
+    const gate = (learnt: boolean) => (id: string) => id !== "can.2" || learnt;
+    expect(buildPlan(words, {}, t0, opt, words, gate(false)).newWords).toEqual(["can", "cup"]);
+    expect(buildPlan(words, {}, t0, opt, words, gate(true)).newWords).toEqual(["can", "can.2", "cup"]);
   });
 });

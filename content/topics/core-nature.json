@@ -1,0 +1,25 @@
+{
+  "topic": "core-nature",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Core words: Wild Things.",
+  "confusable": [
+    ["creature", "lizard"],
+    ["extinct", "creature"],
+    ["environment", "nature"]
+  ],
+  "words": [
+    { "id": "creature", "zh": "生物；动物", "chunks": ["crea", "ture"], "emoji": "🦎", "en": "A lizard is a small creature.", "sz": "蜥蜴是一种小生物。", "scene": "A green lizard sitting on a warm brown rock in the sun, looking alert.", "more": [["Dinosaurs were huge creatures.", "恐龙是巨大的生物。"], ["What is your favourite sea creature?", "你最喜欢的海洋生物是什么？"]] },
+    { "id": "donkey", "zh": "驴；毛驴", "chunks": ["don", "key"], "emoji": "🫏", "en": "Sam rides a donkey.", "sz": "Sam 骑着一头驴。", "scene": "A boy riding a grey donkey slowly along a country path, green fields around them.", "more": [["The donkey eats some grass.", "这头驴在吃草。"], ["Grandpa has a brown donkey on the farm.", "爷爷农场里有一头棕色的驴。"]] },
+    { "id": "eagle", "zh": "鹰；雕", "chunks": ["ea", "gle"], "emoji": "🦅", "en": "An eagle flies in the sky.", "sz": "一只鹰在天空中飞翔。", "scene": "A large brown and white eagle with wings spread wide, soaring high against a blue sky.", "more": [["The eagle has big feet.", "这只鹰有大脚。"], ["We saw an eagle near the mountains.", "我们在山附近看到了一只鹰。"]] },
+    { "id": "hippo", "zh": "河马", "chunks": ["hip", "po"], "emoji": "🦛", "en": "The hippo is in the water.", "sz": "河马在水里。", "scene": "A large grey hippo sitting in a blue river, only its head and back showing above the surface.", "more": [["Hippos have big mouths.", "河马有大嘴巴。"], ["Look at that big hippo!", "看那只大河马！"]] },
+    { "id": "jellyfish", "zh": "水母", "chunks": ["jel", "ly", "fish"], "emoji": "🪼", "en": "A jellyfish is in the sea.", "sz": "一只水母在海里。", "scene": "A translucent pink jellyfish with long tentacles floating gracefully in deep blue water.", "more": [["Look at the jellyfish!", "看那只水母！"], ["Jellyfish are soft animals.", "水母是柔软的动物。"]] },
+    { "id": "lizard", "zh": "蜥蜴", "chunks": ["liz", "ard"], "emoji": "🦎", "en": "The lizard is green.", "sz": "这只蜥蜴是绿色的。", "scene": "A bright green lizard climbing up a tree trunk, its tail long and curved.", "more": [["Lizards like warm sunny days.", "蜥蜴喜欢温暖的晴天。"], ["Is that a small lizard?", "那是一只小蜥蜴吗？"]] },
+    { "id": "nest", "zh": "鸟巢；巢穴", "chunks": ["nest"], "emoji": "🪺", "en": "There is a bird in the nest.", "sz": "鸟巢里有一只鸟。", "scene": "A woven grass nest sitting on a tree branch, containing three small speckled eggs.", "more": [["The birds built a new nest.", "鸟儿们建了一个新巢。"], ["Look at the nest in the tree!", "看树上的鸟巢！"]] },
+    { "id": "octopus", "zh": "章鱼", "chunks": ["oc", "to", "pus"], "emoji": "🐙", "en": "An octopus has eight arms.", "sz": "章鱼有八条手臂。", "scene": "A purple octopus on the sandy sea floor, its long arms spread out.", "more": [["The octopus is under a rock.", "这只章鱼在岩石下面。"], ["We saw an octopus at the zoo.", "我们在动物园看到了一只章鱼。"]] },
+    { "id": "panda", "zh": "熊猫", "chunks": ["pan", "da"], "emoji": "🐼", "en": "Pandas eat plants.", "sz": "熊猫吃植物。", "scene": "A black and white panda sitting down, holding a green stalk of bamboo in its paws.", "more": [["Pandas live in China.", "熊猫生活在中国。"], ["This baby panda is nice.", "这只熊猫宝宝很好。"]] },
+    { "id": "snail", "zh": "蜗牛", "chunks": ["snail"], "emoji": "🐌", "en": "The snail is very slow.", "sz": "这只蜗牛很慢。", "scene": "A small brown snail with a spiral shell crawling slowly across a wet green leaf.", "more": [["I found a snail in the garden.", "我在花园里发现了一只蜗牛。"], ["The snail carries its house on its back.", "蜗牛背着它的房子。"]] },
+    { "id": "extinct", "zh": "灭绝的", "chunks": ["ex", "tinct"], "emoji": "🦕", "en": "Dinosaurs are extinct now.", "sz": "恐龙现在已经灭绝了。", "scene": "A museum display showing a large dinosaur skeleton, with children looking up at it in wonder.", "more": [["Some animals are extinct.", "有些动物已经灭绝了。"], ["That bird is extinct.", "那只鸟已灭绝。"]] },
+    { "id": "environment", "zh": "环境", "chunks": ["en", "vi", "ron", "ment"], "emoji": "🌍", "en": "We help the environment.", "sz": "我们帮助保护环境。", "scene": "Children picking up litter in a park, putting it into a recycling bin, trees and flowers around them.", "more": [["Please keep our environment clean.", "请保持我们的环境清洁。"], ["Trees are good for the environment.", "树木对环境有益。"]] },
+    { "id": "nature", "zh": "自然；大自然", "chunks": ["na", "ture"], "emoji": "🌿", "en": "We walk in nature.", "sz": "我们在大自然中散步。", "scene": "A family walking along a forest path, surrounded by tall green trees and wild flowers.", "more": [["I love learning about nature.", "我喜欢了解自然。"], ["The school trip is in nature.", "学校的郊游是在大自然中。"]] }
+  ]
+}

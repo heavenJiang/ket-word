@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="420" cy="80" r="42" fill="#e0a93f"/>
+  <!-- school building -->
+  <rect x="40" y="120" width="250" height="210" fill="#e28a3e"/>
+  <path d="M30 124 L165 50 L300 124Z" fill="#884522"/>
+  <g fill="#9cb2ae"><rect x="70" y="160" width="44" height="50"/><rect x="143" y="160" width="44" height="50"/><rect x="216" y="160" width="44" height="50"/>
+    <rect x="70" y="240" width="44" height="50"/><rect x="216" y="240" width="44" height="50"/></g>
+  <rect x="140" y="236" width="50" height="94" fill="#2e4244"/>
+  <!-- bell on the roof -->
+  <rect x="150" y="70" width="30" height="34" fill="#f7ebd2"/>
+  <path d="M154 100 q11 -28 22 0z" fill="#e0a93f"/><circle cx="165" cy="102" r="3" fill="#2e4244"/>
+  <!-- tree -->
+  <rect x="380" y="200" width="18" height="130" fill="#8d6238"/>
+  <circle cx="389" cy="190" r="62" fill="#808968"/><circle cx="420" cy="218" r="40" fill="#5c7f7d"/>
+  <!-- playground -->
+  <rect y="330" width="512" height="182" fill="#9cb2ae"/>
+  <path d="M0 330 h512 v10 h-512z" fill="#5c7f7d"/>
+  <g fill="none" stroke="#f7ebd2" stroke-width="5"><path d="M60 450 h60 v-40 h60 v40 h60"/><rect x="300" y="400" width="44" height="44"/><rect x="344" y="400" width="44" height="44"/></g>
+  <!-- bench with lunchbox, apple and juice -->
+  <rect x="300" y="352" width="170" height="14" rx="4" fill="#884522"/>
+  <rect x="312" y="366" width="10" height="34" fill="#884522"/><rect x="448" y="366" width="10" height="34" fill="#884522"/>
+  <rect x="330" y="318" width="70" height="36" rx="6" fill="#e28a3e"/><path d="M350 318 q15 -16 30 0" stroke="#2e4244" stroke-width="5" fill="none"/>
+  <circle cx="424" cy="338" r="15" fill="#c45a2c"/><path d="M424 324 v-8" stroke="#2e4244" stroke-width="3"/><path d="M426 318 q10 -6 14 2 q-8 4 -14 -2z" fill="#808968"/>
+  <rect x="446" y="316" width="18" height="38" rx="3" fill="#f7ebd2"/><path d="M452 316 l4 -14" stroke="#2e4244" stroke-width="3"/>
+  <!-- ball -->
+  <circle cx="200" cy="400" r="20" fill="#e0a93f"/><path d="M182 392 q18 10 36 0 M186 412 q14 -8 28 0" stroke="#884522" stroke-width="3" fill="none"/>
+</svg>

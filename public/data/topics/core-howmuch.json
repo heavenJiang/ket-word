@@ -1,0 +1,2341 @@
+{
+ "id": "core-howmuch",
+ "words": [
+  {
+   "id": "a-few",
+   "word": "a few",
+   "zh": "几个；一些",
+   "pos": [
+    "det",
+    "adj",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "adj",
+      "pron"
+     ],
+     "zh": "几个；一些"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "a",
+    "few"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "Lily has a few red apples.",
+    "zh": "Lily 有几个红苹果。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a few red apples.",
+     "zh": "Lily 有几个红苹果。",
+     "audio": "media/sent/df042aae3770.mp3"
+    },
+    {
+     "en": "I need a few pencils for school.",
+     "zh": "我需要几支铅笔去上学。",
+     "audio": "media/sent/1eb12e280ea1.mp3"
+    },
+    {
+     "en": "There are a few birds in the tree.",
+     "zh": "树上有几只鸟。",
+     "audio": "media/sent/f0e1ec03c06a.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "all",
+   "word": "all",
+   "zh": "所有的；全部",
+   "pos": [
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "所有的；全部"
+    }
+   ],
+   "ipa": "/ɔːl/",
+   "chunks": [
+    "all"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Tom reads all the books.",
+    "zh": "Tom 读完了所有的书。"
+   },
+   "sentences": [
+    {
+     "en": "Tom reads all the books.",
+     "zh": "Tom 读完了所有的书。",
+     "audio": "media/sent/75aff557b478.mp3"
+    },
+    {
+     "en": "We clean all the windows.",
+     "zh": "我们擦所有的窗户。",
+     "audio": "media/sent/c4928888342b.mp3"
+    },
+    {
+     "en": "All my friends like pizza.",
+     "zh": "我所有的朋友都喜欢披萨。",
+     "audio": "media/sent/45c0a2e782b2.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/all.mp3",
+    "us": "media/us/all.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "all-kinds-of",
+   "word": "all kinds of",
+   "zh": "各种各样的",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "各种各样的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "all",
+    "kinds",
+    "of"
+   ],
+   "emoji": "🌈",
+   "sentence": {
+    "en": "Mia has all kinds of toys.",
+    "zh": "Mia 有各种各样的玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Mia has all kinds of toys.",
+     "zh": "Mia 有各种各样的玩具。",
+     "audio": "media/sent/52d3361f992b.mp3"
+    },
+    {
+     "en": "The shop sells all kinds of fruit.",
+     "zh": "这家商店卖各种各样的水果。",
+     "audio": "media/sent/389dd65c44f4.mp3"
+    },
+    {
+     "en": "Grandma grows all kinds of flowers.",
+     "zh": "奶奶种各种各样的花。",
+     "audio": "media/sent/70cb7bf855a4.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "all-sorts-of",
+   "word": "all sorts of",
+   "zh": "各种各样的",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "各种各样的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "all",
+    "sorts",
+    "of"
+   ],
+   "emoji": "🧶",
+   "sentence": {
+    "en": "Kate buys all sorts of wool.",
+    "zh": "Kate 买各种各样的毛线。"
+   },
+   "sentences": [
+    {
+     "en": "Kate buys all sorts of wool.",
+     "zh": "Kate 买各种各样的毛线。",
+     "audio": "media/sent/59a15a1d4d9c.mp3"
+    },
+    {
+     "en": "We hear all sorts of sounds in the park.",
+     "zh": "我们在公园里听到各种各样的声音。",
+     "audio": "media/sent/af111c55db4e.mp3"
+    },
+    {
+     "en": "Dad reads all sorts of newspapers.",
+     "zh": "爸爸读各种各样的报纸。",
+     "audio": "media/sent/0b5d26114046.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "any",
+   "word": "any",
+   "zh": "任何；一些",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "任何；一些"
+    }
+   ],
+   "ipa": "/ˈeni/",
+   "chunks": [
+    "a",
+    "ny"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "Is there any milk left?",
+    "zh": "还有牛奶吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is there any milk left?",
+     "zh": "还有牛奶吗？",
+     "audio": "media/sent/e880aac51f27.mp3"
+    },
+    {
+     "en": "You can ask me any question.",
+     "zh": "你可以问我任何问题。",
+     "audio": "media/sent/e311c2f21042.mp3"
+    },
+    {
+     "en": "I don't have any money today.",
+     "zh": "我今天没有钱。",
+     "audio": "media/sent/b7dbbb7f5558.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/any.mp3",
+    "us": "media/us/any.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "both",
+   "word": "both",
+   "zh": "两个都",
+   "pos": [
+    "pron",
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron",
+      "det"
+     ],
+     "zh": "两个都"
+    }
+   ],
+   "ipa": "/bəʊθ/",
+   "chunks": [
+    "both"
+   ],
+   "emoji": "👟",
+   "sentence": {
+    "en": "Lily likes both dresses.",
+    "zh": "Lily 两条裙子都喜欢。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes both dresses.",
+     "zh": "Lily 两条裙子都喜欢。",
+     "audio": "media/sent/128c52f61b75.mp3"
+    },
+    {
+     "en": "Both cats are sleeping on the sofa.",
+     "zh": "两只猫都在沙发上睡觉。",
+     "audio": "media/sent/1a7815f4d2e8.mp3"
+    },
+    {
+     "en": "Dad and Mum both work hard.",
+     "zh": "爸爸和妈妈都很努力工作。",
+     "audio": "media/sent/a9c038aaa082.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/both.mp3",
+    "us": "media/us/both.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "bit",
+   "word": "bit",
+   "zh": "一点；一块",
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adv"
+     ],
+     "zh": "一点；一块"
+    }
+   ],
+   "ipa": "/bɪt/",
+   "chunks": [
+    "bit"
+   ],
+   "emoji": "🍰",
+   "sentence": {
+    "en": "Tom eats a bit of cake.",
+    "zh": "Tom 吃了一点蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Tom eats a bit of cake.",
+     "zh": "Tom 吃了一点蛋糕。",
+     "audio": "media/sent/ec5e8186d8a8.mp3"
+    },
+    {
+     "en": "Wait a bit, please.",
+     "zh": "请稍等一下。",
+     "audio": "media/sent/12cda241392c.mp3"
+    },
+    {
+     "en": "The dog is a bit hungry.",
+     "zh": "狗有点饿了。",
+     "audio": "media/sent/cdcfaa20d228.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/bit.mp3",
+    "us": "media/us/bit.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "double",
+   "word": "double",
+   "zh": "双人的；加倍的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "双人的；加倍的"
+    }
+   ],
+   "ipa": "/ˈdʌbəl/",
+   "chunks": [
+    "dou",
+    "ble"
+   ],
+   "emoji": "🛏️",
+   "sentence": {
+    "en": "Mum sleeps in a double bed.",
+    "zh": "妈妈睡在双人床上。"
+   },
+   "sentences": [
+    {
+     "en": "Mum sleeps in a double bed.",
+     "zh": "妈妈睡在双人床上。",
+     "audio": "media/sent/339f67c01453.mp3"
+    },
+    {
+     "en": "This is a double room.",
+     "zh": "这是一间双人间。",
+     "audio": "media/sent/1aab2bc79316.mp3"
+    },
+    {
+     "en": "He pays double for the ticket.",
+     "zh": "他付双倍的钱买票。",
+     "audio": "media/sent/af12cac51f0a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/double.mp3",
+    "us": "media/us/double.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "each",
+   "word": "each",
+   "zh": "每个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "每个"
+    }
+   ],
+   "ipa": "/iːtʃ/",
+   "chunks": [
+    "each"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Each child gets a gift.",
+    "zh": "每个孩子都收到一份礼物。"
+   },
+   "sentences": [
+    {
+     "en": "Each child gets a gift.",
+     "zh": "每个孩子都收到一份礼物。",
+     "audio": "media/sent/293c5f03aca7.mp3"
+    },
+    {
+     "en": "Each flower is red.",
+     "zh": "每朵花都是红色的。",
+     "audio": "media/sent/59258c5f404e.mp3"
+    },
+    {
+     "en": "Each child has a chair.",
+     "zh": "每个孩子都有一把椅子。",
+     "audio": "media/sent/93c2985992c6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/each.mp3",
+    "us": "media/us/each.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "enough",
+   "word": "enough",
+   "zh": "足够的",
+   "pos": [
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "足够的"
+    }
+   ],
+   "ipa": "/ɪˈnʌf/",
+   "chunks": [
+    "e",
+    "nough"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We have enough food.",
+    "zh": "我们有足够的食物。"
+   },
+   "sentences": [
+    {
+     "en": "We have enough food.",
+     "zh": "我们有足够的食物。",
+     "audio": "media/sent/4f9634382cb6.mp3"
+    },
+    {
+     "en": "There is enough time to play.",
+     "zh": "有足够的时间玩。",
+     "audio": "media/sent/f592315a0e25.mp3"
+    },
+    {
+     "en": "The box is big enough for the dog.",
+     "zh": "这个盒子对狗来说够大了。",
+     "audio": "media/sent/f56edefdf476.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/enough.mp3",
+    "us": "media/us/enough.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "every",
+   "word": "every",
+   "zh": "每一个；每一",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "每一个；每一"
+    }
+   ],
+   "ipa": "/ˈevri/",
+   "chunks": [
+    "ev",
+    "er",
+    "y"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "Max walks every morning.",
+    "zh": "Max 每天早上都散步。"
+   },
+   "sentences": [
+    {
+     "en": "Max walks every morning.",
+     "zh": "Max 每天早上都散步。",
+     "audio": "media/sent/a98e1d28c8a1.mp3"
+    },
+    {
+     "en": "Lily brushes her teeth every night.",
+     "zh": "Lily 每天晚上都刷牙。",
+     "audio": "media/sent/e69cd2f96286.mp3"
+    },
+    {
+     "en": "We go to school every day.",
+     "zh": "我们每天都去上学。",
+     "audio": "media/sent/da39238387d4.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/every.mp3",
+    "us": "media/us/every.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "few",
+   "word": "few",
+   "zh": "很少；几乎没有（用于可数名词）",
+   "pos": [
+    "det",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "adj"
+     ],
+     "zh": "很少；几乎没有（用于可数名词）"
+    }
+   ],
+   "ipa": "/fjuː/",
+   "chunks": [
+    "few"
+   ],
+   "emoji": "🍂",
+   "sentence": {
+    "en": "There are few leaves on the tree.",
+    "zh": "树上几乎没有叶子了。"
+   },
+   "sentences": [
+    {
+     "en": "There are few leaves on the tree.",
+     "zh": "树上几乎没有叶子了。",
+     "audio": "media/sent/09838f699890.mp3"
+    },
+    {
+     "en": "Few students are late today.",
+     "zh": "今天很少学生迟到。",
+     "audio": "media/sent/e14660868a21.mp3"
+    },
+    {
+     "en": "Few people swim in winter.",
+     "zh": "冬天很少有人游泳。",
+     "audio": "media/sent/0439946d1d5c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/few.mp3",
+    "us": "media/us/few.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "half-price",
+   "word": "half-price",
+   "zh": "半价的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "半价的"
+    }
+   ],
+   "ipa": "/ˌhɑːf ˈpraɪs/",
+   "chunks": [
+    "half",
+    "price"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "The ice cream is half-price.",
+    "zh": "冰淇淋半价。"
+   },
+   "sentences": [
+    {
+     "en": "The ice cream is half-price.",
+     "zh": "冰淇淋半价。",
+     "audio": "media/sent/2b5cbc13fe92.mp3"
+    },
+    {
+     "en": "We buy half-price tickets online.",
+     "zh": "我们在网上买半价票。",
+     "audio": "media/sent/0c1d40f63d64.mp3"
+    },
+    {
+     "en": "These apples are half-price today.",
+     "zh": "这些苹果今天半价。",
+     "audio": "media/sent/6e1fecde76c8.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/half-price.mp3",
+    "us": "media/us/half-price.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "least",
+   "word": "least",
+   "zh": "最少；至少",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "最少；至少"
+    }
+   ],
+   "ipa": "/liːst/",
+   "chunks": [
+    "least"
+   ],
+   "emoji": "🥕",
+   "sentence": {
+    "en": "Of all the bags, the red one costs the least.",
+    "zh": "所有包里，红色的那个最便宜。"
+   },
+   "sentences": [
+    {
+     "en": "Of all the bags, the red one costs the least.",
+     "zh": "所有包里，红色的那个最便宜。",
+     "audio": "media/sent/818d1930909d.mp3"
+    },
+    {
+     "en": "This is the least expensive shop.",
+     "zh": "这是最便宜的商店。",
+     "audio": "media/sent/7ae05fd59c08.mp3"
+    },
+    {
+     "en": "She has the least homework.",
+     "zh": "她的作业最少。",
+     "audio": "media/sent/91483c3b372b.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/least.mp3",
+    "us": "media/us/least.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "less",
+   "word": "less",
+   "zh": "更少；较少的",
+   "pos": [
+    "adj",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det",
+      "pron"
+     ],
+     "zh": "更少；较少的"
+    }
+   ],
+   "ipa": "/les/",
+   "chunks": [
+    "less"
+   ],
+   "emoji": "🥤",
+   "sentence": {
+    "en": "I drink less juice.",
+    "zh": "我喝更少的果汁。"
+   },
+   "sentences": [
+    {
+     "en": "I drink less juice.",
+     "zh": "我喝更少的果汁。",
+     "audio": "media/sent/2224a125e8a8.mp3"
+    },
+    {
+     "en": "There is less water in the pool.",
+     "zh": "游泳池里的水变少了。",
+     "audio": "media/sent/40e245fb0b43.mp3"
+    },
+    {
+     "en": "We have less time now.",
+     "zh": "我们现在时间更少了。",
+     "audio": "media/sent/707ca1e7f360.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/less.mp3",
+    "us": "media/us/less.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "little",
+   "word": "little",
+   "zh": "小的；少量的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "小的；少量的"
+    }
+   ],
+   "ipa": "/ˈlɪtəl/",
+   "chunks": [
+    "lit",
+    "tle"
+   ],
+   "emoji": "🐕",
+   "sentence": {
+    "en": "Tom is a little boy.",
+    "zh": "Tom 是一个小男孩。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is a little boy.",
+     "zh": "Tom 是一个小男孩。",
+     "audio": "media/sent/3d6c49707f40.mp3"
+    },
+    {
+     "en": "I have a little dog named Max.",
+     "zh": "我有一只叫 Max 的小狗。",
+     "audio": "media/sent/2ce3ca7cf018.mp3"
+    },
+    {
+     "en": "She has little time for games.",
+     "zh": "她几乎没有时间玩游戏。",
+     "audio": "media/sent/80129c7272bf.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/little.mp3",
+    "us": "media/us/little.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "lots",
+   "word": "lots",
+   "zh": "许多；大量",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "许多；大量"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "lots"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "Tom has lots of toys.",
+    "zh": "Tom 有很多玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has lots of toys.",
+     "zh": "Tom 有很多玩具。",
+     "audio": "media/sent/0a28fbd3dc6d.mp3"
+    },
+    {
+     "en": "We have lots of fun at the park.",
+     "zh": "我们在公园玩得很开心。",
+     "audio": "media/sent/60d05ce87af6.mp3"
+    },
+    {
+     "en": "Lily has lots of friends at school.",
+     "zh": "Lily 在学校有很多朋友。",
+     "audio": "media/sent/fc6b0402d94d.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "many",
+   "word": "many",
+   "zh": "许多；很多",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "许多；很多"
+    }
+   ],
+   "ipa": "/ˈmeni/",
+   "chunks": [
+    "man",
+    "y"
+   ],
+   "emoji": "👥",
+   "sentence": {
+    "en": "How many eggs do we need?",
+    "zh": "我们需要多少个鸡蛋？"
+   },
+   "sentences": [
+    {
+     "en": "How many eggs do we need?",
+     "zh": "我们需要多少个鸡蛋？",
+     "audio": "media/sent/e4c8de682208.mp3"
+    },
+    {
+     "en": "There are many trees in the park.",
+     "zh": "公园里有很多树。",
+     "audio": "media/sent/cf2b164eeb48.mp3"
+    },
+    {
+     "en": "Not many people are here today.",
+     "zh": "今天这里人不多。",
+     "audio": "media/sent/cd807f11298e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/many.mp3",
+    "us": "media/us/many.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "million",
+   "word": "million",
+   "zh": "百万",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "百万"
+    }
+   ],
+   "ipa": "/ˈmɪljən/",
+   "chunks": [
+    "mil",
+    "lion"
+   ],
+   "emoji": "💰",
+   "sentence": {
+    "en": "The house costs one million pounds.",
+    "zh": "这栋房子价值一百万英镑。"
+   },
+   "sentences": [
+    {
+     "en": "The house costs one million pounds.",
+     "zh": "这栋房子价值一百万英镑。",
+     "audio": "media/sent/564c9eaf1628.mp3"
+    },
+    {
+     "en": "Tom wants to win a million pounds!",
+     "zh": "Tom 想赢一百万英镑！",
+     "audio": "media/sent/75d09985af2e.mp3"
+    },
+    {
+     "en": "There are millions of stars in the sky.",
+     "zh": "天上有几百万颗星星。",
+     "audio": "media/sent/0df870b4f1f6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/million.mp3",
+    "us": "media/us/million.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "more",
+   "word": "more",
+   "zh": "更多；再一点",
+   "pos": [
+    "adj",
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "更多；再一点"
+    }
+   ],
+   "ipa": "/mɔː/",
+   "chunks": [
+    "more"
+   ],
+   "emoji": "➕",
+   "sentence": {
+    "en": "Mum, can I have more bread?",
+    "zh": "妈妈，我能再来点面包吗？"
+   },
+   "sentences": [
+    {
+     "en": "Mum, can I have more bread?",
+     "zh": "妈妈，我能再来点面包吗？",
+     "audio": "media/sent/e278edb4d46a.mp3"
+    },
+    {
+     "en": "We need more time to finish.",
+     "zh": "我们需要更多时间来完成。",
+     "audio": "media/sent/1e2790a4e5b7.mp3"
+    },
+    {
+     "en": "Play with Max for five minutes more.",
+     "zh": "再和 Max 玩五分钟。",
+     "audio": "media/sent/013878499594.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/more.mp3",
+    "us": "media/us/more.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "most",
+   "word": "most",
+   "zh": "大多数；最",
+   "pos": [
+    "adj",
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "大多数；最"
+    }
+   ],
+   "ipa": "/məʊst/",
+   "chunks": [
+    "most"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "Lily has the most stars in her class.",
+    "zh": "Lily 在班上拥有最多的星星。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has the most stars in her class.",
+     "zh": "Lily 在班上拥有最多的星星。",
+     "audio": "media/sent/fa1220e3fc5d.mp3"
+    },
+    {
+     "en": "Most children like ice cream.",
+     "zh": "大多数孩子喜欢冰淇淋。",
+     "audio": "media/sent/72b8664db9a1.mp3"
+    },
+    {
+     "en": "Which film do you like most?",
+     "zh": "你最喜欢哪部电影？",
+     "audio": "media/sent/c4e7c1442e14.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/most.mp3",
+    "us": "media/us/most.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "much",
+   "word": "much",
+   "zh": "许多；很",
+   "pos": [
+    "adj",
+    "adv",
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "det",
+      "pron"
+     ],
+     "zh": "许多；很"
+    }
+   ],
+   "ipa": "/mʌtʃ/",
+   "chunks": [
+    "much"
+   ],
+   "emoji": "🕒",
+   "sentence": {
+    "en": "How much time do we have?",
+    "zh": "我们有多少时间？"
+   },
+   "sentences": [
+    {
+     "en": "How much time do we have?",
+     "zh": "我们有多少时间？",
+     "audio": "media/sent/112ef5131d70.mp3"
+    },
+    {
+     "en": "I don't have much money.",
+     "zh": "我没有多少钱。",
+     "audio": "media/sent/d3ebb5d37343.mp3"
+    },
+    {
+     "en": "Thank you very much for the gift.",
+     "zh": "非常感谢这份礼物。",
+     "audio": "media/sent/0b4ce4e07338.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/much.mp3",
+    "us": "media/us/much.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "number",
+   "word": "number",
+   "zh": "数字；号码",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "数字；号码"
+    }
+   ],
+   "ipa": "/ˈnʌmbə/",
+   "chunks": [
+    "num",
+    "ber"
+   ],
+   "emoji": "🔢",
+   "sentence": {
+    "en": "What is your bus number?",
+    "zh": "你的公交车几号？"
+   },
+   "sentences": [
+    {
+     "en": "What is your bus number?",
+     "zh": "你的公交车几号？",
+     "audio": "media/sent/d75c145709eb.mp3"
+    },
+    {
+     "en": "Write the number in your book.",
+     "zh": "把数字写在书里。",
+     "audio": "media/sent/f9b7a3236f69.mp3"
+    },
+    {
+     "en": "Tom knows his phone number.",
+     "zh": "Tom 知道他的电话号码。",
+     "audio": "media/sent/fbcc88079a8d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/number.mp3",
+    "us": "media/us/number.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "pair",
+   "word": "pair",
+   "zh": "一双；一副",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一双；一副"
+    }
+   ],
+   "ipa": "/peə/",
+   "chunks": [
+    "pair"
+   ],
+   "emoji": "👟",
+   "sentence": {
+    "en": "Tom has a new pair of shoes.",
+    "zh": "Tom 有一双新鞋。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a new pair of shoes.",
+     "zh": "Tom 有一双新鞋。",
+     "audio": "media/sent/03480d40491c.mp3"
+    },
+    {
+     "en": "I need a pair of gloves.",
+     "zh": "我需要一副手套。",
+     "audio": "media/sent/a96bad7a6f5d.mp3"
+    },
+    {
+     "en": "Grandma has a pair of glasses.",
+     "zh": "奶奶有一副眼镜。",
+     "audio": "media/sent/60cd9e87fafc.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/pair.mp3",
+    "us": "media/us/pair.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "piece",
+   "word": "piece",
+   "zh": "一片；一块",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一片；一块"
+    }
+   ],
+   "ipa": "/piːs/",
+   "chunks": [
+    "piece"
+   ],
+   "emoji": "🍰",
+   "sentence": {
+    "en": "Lily wants a piece of cake.",
+    "zh": "Lily 想要一块蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wants a piece of cake.",
+     "zh": "Lily 想要一块蛋糕。",
+     "audio": "media/sent/26ac72fd3651.mp3"
+    },
+    {
+     "en": "Cut the apple into small pieces.",
+     "zh": "把苹果切成小块。",
+     "audio": "media/sent/bc14f10f60d1.mp3"
+    },
+    {
+     "en": "Can I have a piece of paper?",
+     "zh": "我能拿一张纸吗？",
+     "audio": "media/sent/effa2ab02447.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/piece.mp3",
+    "us": "media/us/piece.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "quite",
+   "word": "quite",
+   "zh": "相当；很",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "相当；很"
+    }
+   ],
+   "ipa": "/kwaɪt/",
+   "chunks": [
+    "quite"
+   ],
+   "emoji": "😮",
+   "sentence": {
+    "en": "The test was quite easy.",
+    "zh": "这次测验相当简单。"
+   },
+   "sentences": [
+    {
+     "en": "The test was quite easy.",
+     "zh": "这次测验相当简单。",
+     "audio": "media/sent/2f2ed6c08d77.mp3"
+    },
+    {
+     "en": "It is quite cold outside today.",
+     "zh": "今天外面相当冷。",
+     "audio": "media/sent/2d163eec97b9.mp3"
+    },
+    {
+     "en": "Mia is quite tall for her age.",
+     "zh": "按年龄来说，Mia 相当高。",
+     "audio": "media/sent/0a839cb35c79.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/quite.mp3",
+    "us": "media/us/quite.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "several",
+   "word": "several",
+   "zh": "几个；数个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "几个；数个"
+    }
+   ],
+   "ipa": "/ˈsevrəl/",
+   "chunks": [
+    "sev",
+    "er",
+    "al"
+   ],
+   "emoji": "🍓",
+   "sentence": {
+    "en": "Tom ate several strawberries.",
+    "zh": "Tom 吃了好几个草莓。"
+   },
+   "sentences": [
+    {
+     "en": "Tom ate several strawberries.",
+     "zh": "Tom 吃了好几个草莓。",
+     "audio": "media/sent/7ea1f7e11f6a.mp3"
+    },
+    {
+     "en": "We saw several birds in the garden.",
+     "zh": "我们在花园里看到了几只鸟。",
+     "audio": "media/sent/2f234dc32a70.mp3"
+    },
+    {
+     "en": "Grandma has several cats at home.",
+     "zh": "奶奶家里有几只猫。",
+     "audio": "media/sent/0c36cb617a38.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/several.mp3",
+    "us": "media/us/several.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "single",
+   "word": "single",
+   "zh": "单个；单一",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "单个；单一"
+    }
+   ],
+   "ipa": "/ˈsɪŋɡəl/",
+   "chunks": [
+    "sin",
+    "gle"
+   ],
+   "emoji": "🧦",
+   "sentence": {
+    "en": "Tom found a single sock.",
+    "zh": "Tom 找到了一只袜子。"
+   },
+   "sentences": [
+    {
+     "en": "Tom found a single sock.",
+     "zh": "Tom 找到了一只袜子。",
+     "audio": "media/sent/f47c5949266b.mp3"
+    },
+    {
+     "en": "There isn't a single cloud in the sky.",
+     "zh": "天上一朵云都没有。",
+     "audio": "media/sent/7d6c2bac4a47.mp3"
+    },
+    {
+     "en": "Every single child came to the party.",
+     "zh": "每一个孩子都来参加派对了。",
+     "audio": "media/sent/100842696360.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/single.mp3",
+    "us": "media/us/single.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "some",
+   "word": "some",
+   "zh": "一些；某个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "一些；某个"
+    }
+   ],
+   "ipa": "/sʌm/",
+   "chunks": [
+    "some"
+   ],
+   "emoji": "🍌",
+   "sentence": {
+    "en": "Dad bought some bananas.",
+    "zh": "爸爸买了一些香蕉。"
+   },
+   "sentences": [
+    {
+     "en": "Dad bought some bananas.",
+     "zh": "爸爸买了一些香蕉。",
+     "audio": "media/sent/31afdfc8dba4.mp3"
+    },
+    {
+     "en": "Would you like some tea?",
+     "zh": "你想喝点茶吗？",
+     "audio": "media/sent/64601ebe22b2.mp3"
+    },
+    {
+     "en": "There are some birds in the tree.",
+     "zh": "树上有几只鸟。",
+     "audio": "media/sent/fa6c0a48b80e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/some.mp3",
+    "us": "media/us/some.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "such",
+   "word": "such",
+   "zh": "如此；这样",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "如此；这样"
+    }
+   ],
+   "ipa": "/sʌtʃ/",
+   "chunks": [
+    "such"
+   ],
+   "emoji": "🌈",
+   "sentence": {
+    "en": "It was such a nice day.",
+    "zh": "那是多么美好的一天。"
+   },
+   "sentences": [
+    {
+     "en": "It was such a nice day.",
+     "zh": "那是多么美好的一天。",
+     "audio": "media/sent/642a28b74d39.mp3"
+    },
+    {
+     "en": "Max is such a good dog.",
+     "zh": "Max 真是只乖狗狗。",
+     "audio": "media/sent/2a9b8503c56d.mp3"
+    },
+    {
+     "en": "She is such a kind girl.",
+     "zh": "她真是个善良的女孩。",
+     "audio": "media/sent/58b0a1735674.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/such.mp3",
+    "us": "media/us/such.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "total",
+   "word": "total",
+   "zh": "总计；总数",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "n"
+     ],
+     "zh": "总计；总数"
+    }
+   ],
+   "ipa": "/ˈtəʊtəl/",
+   "chunks": [
+    "to",
+    "tal"
+   ],
+   "emoji": "🧮",
+   "sentence": {
+    "en": "The total cost is five pounds.",
+    "zh": "总费用是五英镑。"
+   },
+   "sentences": [
+    {
+     "en": "The total cost is five pounds.",
+     "zh": "总费用是五英镑。",
+     "audio": "media/sent/85ad271823a4.mp3"
+    },
+    {
+     "en": "What's the total score?",
+     "zh": "总分是多少？",
+     "audio": "media/sent/3e8e5c4ec29a.mp3"
+    },
+    {
+     "en": "The total number of students is twenty.",
+     "zh": "学生总数是二十人。",
+     "audio": "media/sent/a3cb6efb3d31.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/total.mp3",
+    "us": "media/us/total.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "very",
+   "word": "very",
+   "zh": "非常；很",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "非常；很"
+    }
+   ],
+   "ipa": "/ˈveri/",
+   "chunks": [
+    "ver",
+    "y"
+   ],
+   "emoji": "😴",
+   "sentence": {
+    "en": "Tom is very tired.",
+    "zh": "Tom 非常累。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is very tired.",
+     "zh": "Tom 非常累。",
+     "audio": "media/sent/436f63e8f696.mp3"
+    },
+    {
+     "en": "The water is very cold.",
+     "zh": "水很冷。",
+     "audio": "media/sent/c9f27fce6cae.mp3"
+    },
+    {
+     "en": "Lily is very happy today.",
+     "zh": "Lily 今天非常开心。",
+     "audio": "media/sent/57c5a7a0b2f2.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/very.mp3",
+    "us": "media/us/very.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "whole",
+   "word": "whole",
+   "zh": "整个的；全部",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "n"
+     ],
+     "zh": "整个的；全部"
+    }
+   ],
+   "ipa": "/həʊl/",
+   "chunks": [
+    "whole"
+   ],
+   "emoji": "🍕",
+   "sentence": {
+    "en": "Tom eats the whole pizza.",
+    "zh": "Tom 吃了整个披萨。"
+   },
+   "sentences": [
+    {
+     "en": "Tom eats the whole pizza.",
+     "zh": "Tom 吃了整个披萨。",
+     "audio": "media/sent/f00ed2b6ff88.mp3"
+    },
+    {
+     "en": "The whole family is at the park.",
+     "zh": "全家人都在公园里。",
+     "audio": "media/sent/70f8b31b0a5d.mp3"
+    },
+    {
+     "en": "Lily reads the whole book in one day.",
+     "zh": "Lily 一天读完了整本书。",
+     "audio": "media/sent/9688e98117c4.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/whole.mp3",
+    "us": "media/us/whole.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "zero",
+   "word": "zero",
+   "zh": "零",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "零"
+    }
+   ],
+   "ipa": "/ˈzɪərəʊ/",
+   "chunks": [
+    "ze",
+    "ro"
+   ],
+   "emoji": "0️⃣",
+   "sentence": {
+    "en": "The temperature is zero degrees.",
+    "zh": "气温是零度。"
+   },
+   "sentences": [
+    {
+     "en": "The temperature is zero degrees.",
+     "zh": "气温是零度。",
+     "audio": "media/sent/e9b110d5dce3.mp3"
+    },
+    {
+     "en": "Our team has zero points.",
+     "zh": "我们队得了零分。",
+     "audio": "media/sent/e1be88aa5d83.mp3"
+    },
+    {
+     "en": "My team scored zero goals.",
+     "zh": "我们队进了零个球。",
+     "audio": "media/sent/5ae9fe0c9fec.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/zero.mp3",
+    "us": "media/us/zero.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "almost",
+   "word": "almost",
+   "zh": "几乎；差不多",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "几乎；差不多"
+    }
+   ],
+   "ipa": "/ˈɔːlməʊst/",
+   "chunks": [
+    "al",
+    "most"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Tom is almost at the finish line.",
+    "zh": "Tom 几乎到了终点线。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is almost at the finish line.",
+     "zh": "Tom 几乎到了终点线。",
+     "audio": "media/sent/160976d4a43b.mp3"
+    },
+    {
+     "en": "It's almost dinner time.",
+     "zh": "快到晚饭时间了。",
+     "audio": "media/sent/37b5004dc369.mp3"
+    },
+    {
+     "en": "Max is almost sleeping on the sofa.",
+     "zh": "Max 在沙发上快睡着了。",
+     "audio": "media/sent/3163644b7d76.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/almost.mp3",
+    "us": "media/us/almost.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "nearly",
+   "word": "nearly",
+   "zh": "几乎；差不多",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "几乎；差不多"
+    }
+   ],
+   "ipa": "/ˈnɪəli/",
+   "chunks": [
+    "near",
+    "ly"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "We are nearly home.",
+    "zh": "我们快到家了。"
+   },
+   "sentences": [
+    {
+     "en": "We are nearly home.",
+     "zh": "我们快到家了。",
+     "audio": "media/sent/5f59729f34bd.mp3"
+    },
+    {
+     "en": "The test is nearly over.",
+     "zh": "考试快结束了。",
+     "audio": "media/sent/4ddaf73d02ac.mp3"
+    },
+    {
+     "en": "It's nearly five o'clock.",
+     "zh": "快五点了。",
+     "audio": "media/sent/c47857b82ab6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/nearly.mp3",
+    "us": "media/us/nearly.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "even",
+   "word": "even",
+   "zh": "甚至",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "甚至"
+    }
+   ],
+   "ipa": "/ˈiːvən/",
+   "chunks": [
+    "e",
+    "ven"
+   ],
+   "emoji": "🤯",
+   "sentence": {
+    "en": "Even Grandma likes this game.",
+    "zh": "连奶奶都喜欢这个游戏。"
+   },
+   "sentences": [
+    {
+     "en": "Even Grandma likes this game.",
+     "zh": "连奶奶都喜欢这个游戏。",
+     "audio": "media/sent/3c63919f8914.mp3"
+    },
+    {
+     "en": "Even Max wants to join us.",
+     "zh": "连 Max 都想加入我们。",
+     "audio": "media/sent/6c5a744d712c.mp3"
+    },
+    {
+     "en": "It's so cold, even the birds stay inside.",
+     "zh": "太冷了，甚至连鸟儿都待在室内。",
+     "audio": "media/sent/4c30a04aa21c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/even.mp3",
+    "us": "media/us/even.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "especially",
+   "word": "especially",
+   "zh": "特别；尤其",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "特别；尤其"
+    }
+   ],
+   "ipa": "/ɪˈspeʃəli/",
+   "chunks": [
+    "es",
+    "pe",
+    "cial",
+    "ly"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Lily likes chocolate, especially dark chocolate.",
+    "zh": "Lily 喜欢巧克力，尤其是黑巧克力。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes chocolate, especially dark chocolate.",
+     "zh": "Lily 喜欢巧克力，尤其是黑巧克力。",
+     "audio": "media/sent/4afc5e3275bc.mp3"
+    },
+    {
+     "en": "We love holidays, especially summer holidays.",
+     "zh": "我们喜欢假期，尤其是暑假。",
+     "audio": "media/sent/0191744d01fe.mp3"
+    },
+    {
+     "en": "Max loves food, especially chicken.",
+     "zh": "Max 爱吃东西，尤其是鸡肉。",
+     "audio": "media/sent/c31a6fe10e6f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/especially.mp3",
+    "us": "media/us/especially.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "exactly",
+   "word": "exactly",
+   "zh": "正好；确切地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "正好；确切地"
+    }
+   ],
+   "ipa": "/ɪɡˈzæktli/",
+   "chunks": [
+    "ex",
+    "act",
+    "ly"
+   ],
+   "emoji": "🎯",
+   "sentence": {
+    "en": "The bus comes at exactly eight.",
+    "zh": "公交车正好八点来。"
+   },
+   "sentences": [
+    {
+     "en": "The bus comes at exactly eight.",
+     "zh": "公交车正好八点来。",
+     "audio": "media/sent/624e0f87c7b9.mp3"
+    },
+    {
+     "en": "That's exactly what I wanted.",
+     "zh": "那正是我想要的。",
+     "audio": "media/sent/cbbd8ea41c5a.mp3"
+    },
+    {
+     "en": "Tom is exactly six years old.",
+     "zh": "Tom 正好六岁。",
+     "audio": "media/sent/e19d2e60979f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/exactly.mp3",
+    "us": "media/us/exactly.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "really",
+   "word": "really",
+   "zh": "真的；非常",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "真的；非常"
+    }
+   ],
+   "ipa": "/ˈrɪəli/",
+   "chunks": [
+    "re",
+    "al",
+    "ly"
+   ],
+   "emoji": "😲",
+   "sentence": {
+    "en": "Tom is really tall for his age.",
+    "zh": "Tom 在他这个年纪真的很高。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is really tall for his age.",
+     "zh": "Tom 在他这个年纪真的很高。",
+     "audio": "media/sent/33be6745d8e0.mp3"
+    },
+    {
+     "en": "I'm really hungry now.",
+     "zh": "我现在真的很饿。",
+     "audio": "media/sent/4291176bb780.mp3"
+    },
+    {
+     "en": "This film is really funny.",
+     "zh": "这部电影真的很好笑。",
+     "audio": "media/sent/922df18e633b.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/really.mp3",
+    "us": "media/us/really.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "extra",
+   "word": "extra",
+   "zh": "额外的；多出来的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "额外的；多出来的"
+    }
+   ],
+   "ipa": "/ˈekstrə/",
+   "chunks": [
+    "ex",
+    "tra"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "Dad buys an extra bag of bread.",
+    "zh": "爸爸买了一袋额外的面包。"
+   },
+   "sentences": [
+    {
+     "en": "Dad buys an extra bag of bread.",
+     "zh": "爸爸买了一袋额外的面包。",
+     "audio": "media/sent/add68e238747.mp3"
+    },
+    {
+     "en": "We need an extra chair for Sam.",
+     "zh": "我们需要一把额外的椅子给 Sam。",
+     "audio": "media/sent/5062b941eb52.mp3"
+    },
+    {
+     "en": "Mum has an extra apple for lunch.",
+     "zh": "妈妈有一个额外的苹果当午餐。",
+     "audio": "media/sent/e9b768eb6090.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/extra.mp3",
+    "us": "media/us/extra.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "size",
+   "word": "size",
+   "zh": "尺码；大小",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "尺码；大小"
+    }
+   ],
+   "ipa": "/saɪz/",
+   "chunks": [
+    "size"
+   ],
+   "emoji": "👟",
+   "sentence": {
+    "en": "What size are your shoes?",
+    "zh": "你的鞋是多少码？"
+   },
+   "sentences": [
+    {
+     "en": "What size are your shoes?",
+     "zh": "你的鞋是多少码？",
+     "audio": "media/sent/0f541f8dd64d.mp3"
+    },
+    {
+     "en": "This T-shirt is the right size.",
+     "zh": "这件 T 恤尺码合适。",
+     "audio": "media/sent/2aa1d56fd3ee.mp3"
+    },
+    {
+     "en": "Lily checks the size of her dress.",
+     "zh": "Lily 查看她裙子的尺码。",
+     "audio": "media/sent/a42c7f775181.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/size.mp3",
+    "us": "media/us/size.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "length",
+   "word": "length",
+   "zh": "长度",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "长度"
+    }
+   ],
+   "ipa": "/leŋθ/",
+   "chunks": [
+    "length"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "What is the length of this belt?",
+    "zh": "这条腰带的长度是多少？"
+   },
+   "sentences": [
+    {
+     "en": "What is the length of this belt?",
+     "zh": "这条腰带的长度是多少？",
+     "audio": "media/sent/d58ee7cd294c.mp3"
+    },
+    {
+     "en": "The river's length is very long.",
+     "zh": "这条河的长度很长。",
+     "audio": "media/sent/d883c0093a49.mp3"
+    },
+    {
+     "en": "Check the length of the shelf.",
+     "zh": "检查一下架子的长度。",
+     "audio": "media/sent/242da0fbf9b1.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/length.mp3",
+    "us": "media/us/length.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "type",
+   "word": "type",
+   "zh": "种类；类型",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "种类；类型"
+    }
+   ],
+   "ipa": "/taɪp/",
+   "chunks": [
+    "type"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "What type of apple do you like?",
+    "zh": "你喜欢哪种苹果？"
+   },
+   "sentences": [
+    {
+     "en": "What type of apple do you like?",
+     "zh": "你喜欢哪种苹果？",
+     "audio": "media/sent/f944729f4d79.mp3"
+    },
+    {
+     "en": "I like this type of music.",
+     "zh": "我喜欢这种类型的音乐。",
+     "audio": "media/sent/eda52886213c.mp3"
+    },
+    {
+     "en": "There are many types of dogs.",
+     "zh": "有很多种狗。",
+     "audio": "media/sent/8d2def4e6c3f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/type.mp3",
+    "us": "media/us/type.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sort",
+   "word": "sort",
+   "zh": "种类；类型",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "种类；类型"
+    }
+   ],
+   "ipa": "/sɔːt/",
+   "chunks": [
+    "sort"
+   ],
+   "emoji": "🧸",
+   "sentence": {
+    "en": "This sort of toy is soft.",
+    "zh": "这种玩具是软的。"
+   },
+   "sentences": [
+    {
+     "en": "This sort of toy is soft.",
+     "zh": "这种玩具是软的。",
+     "audio": "media/sent/88717c3a4ed9.mp3"
+    },
+    {
+     "en": "What sort of cake is this?",
+     "zh": "这是哪种蛋糕？",
+     "audio": "media/sent/b95c6c9f2a20.mp3"
+    },
+    {
+     "en": "I don't like that sort of game.",
+     "zh": "我不喜欢那种游戏。",
+     "audio": "media/sent/ff1cfbb83013.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/sort.mp3",
+    "us": "media/us/sort.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "variety",
+   "word": "variety",
+   "zh": "多样性；种种",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "多样性；种种"
+    }
+   ],
+   "ipa": "/vəˈraɪəti/",
+   "chunks": [
+    "va",
+    "ri",
+    "e",
+    "ty"
+   ],
+   "emoji": "🍬",
+   "sentence": {
+    "en": "There is a variety of sweets here.",
+    "zh": "这里有各种各样的糖果。"
+   },
+   "sentences": [
+    {
+     "en": "There is a variety of sweets here.",
+     "zh": "这里有各种各样的糖果。",
+     "audio": "media/sent/a0265070e74e.mp3"
+    },
+    {
+     "en": "The market has a variety of fruit.",
+     "zh": "市场里有各种各样的水果。",
+     "audio": "media/sent/a872c4570218.mp3"
+    },
+    {
+     "en": "We see a variety of birds in the park.",
+     "zh": "我们在公园里看到各种各样的鸟。",
+     "audio": "media/sent/60d259d52d04.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/variety.mp3",
+    "us": "media/us/variety.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "various",
+   "word": "various",
+   "zh": "各种各样的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "各种各样的"
+    }
+   ],
+   "ipa": "/ˈveəriəs/",
+   "chunks": [
+    "va",
+    "ri",
+    "ous"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "Lily has various pens.",
+    "zh": "Lily 有各种各样的钢笔。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has various pens.",
+     "zh": "Lily 有各种各样的钢笔。",
+     "audio": "media/sent/0c6d85723bcb.mp3"
+    },
+    {
+     "en": "We visited various places in London.",
+     "zh": "我们在伦敦参观了各个地方。",
+     "audio": "media/sent/eb39d84dd5c3.mp3"
+    },
+    {
+     "en": "The shop sells various kinds of bread.",
+     "zh": "这家店卖各种各样的面包。",
+     "audio": "media/sent/4c04647faa77.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/various.mp3",
+    "us": "media/us/various.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "part",
+   "word": "part",
+   "zh": "部分",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "部分"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "part"
+   ],
+   "emoji": "🧩",
+   "sentence": {
+    "en": "This is a part of the puzzle.",
+    "zh": "这是拼图的一部分。"
+   },
+   "sentences": [
+    {
+     "en": "This is a part of the puzzle.",
+     "zh": "这是拼图的一部分。",
+     "audio": "media/sent/c2d82f9167a0.mp3"
+    },
+    {
+     "en": "The head is part of the body.",
+     "zh": "头是身体的一部分。",
+     "audio": "media/sent/e5575b62b1af.mp3"
+    },
+    {
+     "en": "Mum washes this part of the car.",
+     "zh": "妈妈洗车身的这一部分。",
+     "audio": "media/sent/2603ca7455e4.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  }
+ ]
+}

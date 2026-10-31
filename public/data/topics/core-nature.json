@@ -1,0 +1,651 @@
+{
+ "id": "core-nature",
+ "words": [
+  {
+   "id": "creature",
+   "word": "creature",
+   "zh": "生物；动物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "生物；动物"
+    }
+   ],
+   "ipa": "/ˈkriːtʃə/",
+   "chunks": [
+    "crea",
+    "ture"
+   ],
+   "emoji": "🦎",
+   "sentence": {
+    "en": "A lizard is a small creature.",
+    "zh": "蜥蜴是一种小生物。"
+   },
+   "sentences": [
+    {
+     "en": "A lizard is a small creature.",
+     "zh": "蜥蜴是一种小生物。",
+     "audio": "media/sent/d9b020f45f87.mp3"
+    },
+    {
+     "en": "Dinosaurs were huge creatures.",
+     "zh": "恐龙是巨大的生物。",
+     "audio": "media/sent/a02cf471aa10.mp3"
+    },
+    {
+     "en": "What is your favourite sea creature?",
+     "zh": "你最喜欢的海洋生物是什么？",
+     "audio": "media/sent/d175882cc72c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/creature.webp",
+    "uk": "media/uk/creature.mp3",
+    "us": "media/us/creature.mp3"
+   },
+   "avoid": [
+    "extinct",
+    "lizard"
+   ]
+  },
+  {
+   "id": "donkey",
+   "word": "donkey",
+   "zh": "驴；毛驴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "驴；毛驴"
+    }
+   ],
+   "ipa": "/ˈdɒŋki/",
+   "chunks": [
+    "don",
+    "key"
+   ],
+   "emoji": "🫏",
+   "sentence": {
+    "en": "Sam rides a donkey.",
+    "zh": "Sam 骑着一头驴。"
+   },
+   "sentences": [
+    {
+     "en": "Sam rides a donkey.",
+     "zh": "Sam 骑着一头驴。",
+     "audio": "media/sent/f8c51c67acb3.mp3"
+    },
+    {
+     "en": "The donkey eats some grass.",
+     "zh": "这头驴在吃草。",
+     "audio": "media/sent/2783a628fcc0.mp3"
+    },
+    {
+     "en": "Grandpa has a brown donkey on the farm.",
+     "zh": "爷爷农场里有一头棕色的驴。",
+     "audio": "media/sent/76a49920d4c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/donkey.webp",
+    "uk": "media/uk/donkey.mp3",
+    "us": "media/us/donkey.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eagle",
+   "word": "eagle",
+   "zh": "鹰；雕",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鹰；雕"
+    }
+   ],
+   "ipa": "/ˈiːɡəl/",
+   "chunks": [
+    "ea",
+    "gle"
+   ],
+   "emoji": "🦅",
+   "sentence": {
+    "en": "An eagle flies in the sky.",
+    "zh": "一只鹰在天空中飞翔。"
+   },
+   "sentences": [
+    {
+     "en": "An eagle flies in the sky.",
+     "zh": "一只鹰在天空中飞翔。",
+     "audio": "media/sent/c4d81fd31270.mp3"
+    },
+    {
+     "en": "The eagle has big feet.",
+     "zh": "这只鹰有大脚。",
+     "audio": "media/sent/806d9c5f19cd.mp3"
+    },
+    {
+     "en": "We saw an eagle near the mountains.",
+     "zh": "我们在山附近看到了一只鹰。",
+     "audio": "media/sent/460a2604820c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eagle.webp",
+    "uk": "media/uk/eagle.mp3",
+    "us": "media/us/eagle.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "hippo",
+   "word": "hippo",
+   "zh": "河马",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "河马"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "hip",
+    "po"
+   ],
+   "emoji": "🦛",
+   "sentence": {
+    "en": "The hippo is in the water.",
+    "zh": "河马在水里。"
+   },
+   "sentences": [
+    {
+     "en": "The hippo is in the water.",
+     "zh": "河马在水里。",
+     "audio": "media/sent/786e3d759a25.mp3"
+    },
+    {
+     "en": "Hippos have big mouths.",
+     "zh": "河马有大嘴巴。",
+     "audio": "media/sent/b52a18d3f0cb.mp3"
+    },
+    {
+     "en": "Look at that big hippo!",
+     "zh": "看那只大河马！",
+     "audio": "media/sent/68b01cfc3bec.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hippo.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "jellyfish",
+   "word": "jellyfish",
+   "zh": "水母",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "水母"
+    }
+   ],
+   "ipa": "/ˈdʒelifɪʃ/",
+   "chunks": [
+    "jel",
+    "ly",
+    "fish"
+   ],
+   "emoji": "🪼",
+   "sentence": {
+    "en": "A jellyfish is in the sea.",
+    "zh": "一只水母在海里。"
+   },
+   "sentences": [
+    {
+     "en": "A jellyfish is in the sea.",
+     "zh": "一只水母在海里。",
+     "audio": "media/sent/aa411e264e4e.mp3"
+    },
+    {
+     "en": "Look at the jellyfish!",
+     "zh": "看那只水母！",
+     "audio": "media/sent/f67a504143e1.mp3"
+    },
+    {
+     "en": "Jellyfish are soft animals.",
+     "zh": "水母是柔软的动物。",
+     "audio": "media/sent/8457a6bd09a9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/jellyfish.webp",
+    "uk": "media/uk/jellyfish.mp3",
+    "us": "media/us/jellyfish.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "lizard",
+   "word": "lizard",
+   "zh": "蜥蜴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蜥蜴"
+    }
+   ],
+   "ipa": "/ˈlɪzəd/",
+   "chunks": [
+    "liz",
+    "ard"
+   ],
+   "emoji": "🦎",
+   "sentence": {
+    "en": "The lizard is green.",
+    "zh": "这只蜥蜴是绿色的。"
+   },
+   "sentences": [
+    {
+     "en": "The lizard is green.",
+     "zh": "这只蜥蜴是绿色的。",
+     "audio": "media/sent/8ab91ddb2ca0.mp3"
+    },
+    {
+     "en": "Lizards like warm sunny days.",
+     "zh": "蜥蜴喜欢温暖的晴天。",
+     "audio": "media/sent/f7a6bd1368cd.mp3"
+    },
+    {
+     "en": "Is that a small lizard?",
+     "zh": "那是一只小蜥蜴吗？",
+     "audio": "media/sent/fb4e399c3c1c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lizard.webp",
+    "uk": "media/uk/lizard.mp3",
+    "us": "media/us/lizard.mp3"
+   },
+   "avoid": [
+    "creature"
+   ]
+  },
+  {
+   "id": "nest",
+   "word": "nest",
+   "zh": "鸟巢；巢穴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鸟巢；巢穴"
+    }
+   ],
+   "ipa": "/nest/",
+   "chunks": [
+    "nest"
+   ],
+   "emoji": "🪺",
+   "sentence": {
+    "en": "There is a bird in the nest.",
+    "zh": "鸟巢里有一只鸟。"
+   },
+   "sentences": [
+    {
+     "en": "There is a bird in the nest.",
+     "zh": "鸟巢里有一只鸟。",
+     "audio": "media/sent/8a58c09ae69f.mp3"
+    },
+    {
+     "en": "The birds built a new nest.",
+     "zh": "鸟儿们建了一个新巢。",
+     "audio": "media/sent/1d936f52278d.mp3"
+    },
+    {
+     "en": "Look at the nest in the tree!",
+     "zh": "看树上的鸟巢！",
+     "audio": "media/sent/37f7513b3aa3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nest.webp",
+    "uk": "media/uk/nest.mp3",
+    "us": "media/us/nest.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "octopus",
+   "word": "octopus",
+   "zh": "章鱼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "章鱼"
+    }
+   ],
+   "ipa": "/ˈɒktəpəs/",
+   "chunks": [
+    "oc",
+    "to",
+    "pus"
+   ],
+   "emoji": "🐙",
+   "sentence": {
+    "en": "An octopus has eight arms.",
+    "zh": "章鱼有八条手臂。"
+   },
+   "sentences": [
+    {
+     "en": "An octopus has eight arms.",
+     "zh": "章鱼有八条手臂。",
+     "audio": "media/sent/1e02aca82fdf.mp3"
+    },
+    {
+     "en": "The octopus is under a rock.",
+     "zh": "这只章鱼在岩石下面。",
+     "audio": "media/sent/499b305b0891.mp3"
+    },
+    {
+     "en": "We saw an octopus at the zoo.",
+     "zh": "我们在动物园看到了一只章鱼。",
+     "audio": "media/sent/d9d97c83b5c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/octopus.webp",
+    "uk": "media/uk/octopus.mp3",
+    "us": "media/us/octopus.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "panda",
+   "word": "panda",
+   "zh": "熊猫",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "熊猫"
+    }
+   ],
+   "ipa": "/ˈpændə/",
+   "chunks": [
+    "pan",
+    "da"
+   ],
+   "emoji": "🐼",
+   "sentence": {
+    "en": "Pandas eat plants.",
+    "zh": "熊猫吃植物。"
+   },
+   "sentences": [
+    {
+     "en": "Pandas eat plants.",
+     "zh": "熊猫吃植物。",
+     "audio": "media/sent/ac5543fddf1d.mp3"
+    },
+    {
+     "en": "Pandas live in China.",
+     "zh": "熊猫生活在中国。",
+     "audio": "media/sent/ad5f64597115.mp3"
+    },
+    {
+     "en": "This baby panda is nice.",
+     "zh": "这只熊猫宝宝很好。",
+     "audio": "media/sent/06eec1dfb480.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/panda.webp",
+    "uk": "media/uk/panda.mp3",
+    "us": "media/us/panda.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "snail",
+   "word": "snail",
+   "zh": "蜗牛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蜗牛"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "snail"
+   ],
+   "emoji": "🐌",
+   "sentence": {
+    "en": "The snail is very slow.",
+    "zh": "这只蜗牛很慢。"
+   },
+   "sentences": [
+    {
+     "en": "The snail is very slow.",
+     "zh": "这只蜗牛很慢。",
+     "audio": "media/sent/6a68f79c5646.mp3"
+    },
+    {
+     "en": "I found a snail in the garden.",
+     "zh": "我在花园里发现了一只蜗牛。",
+     "audio": "media/sent/03a550a12559.mp3"
+    },
+    {
+     "en": "The snail carries its house on its back.",
+     "zh": "蜗牛背着它的房子。",
+     "audio": "media/sent/7b5fb94d5a37.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/snail.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "extinct",
+   "word": "extinct",
+   "zh": "灭绝的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "灭绝的"
+    }
+   ],
+   "ipa": "/ɪkˈstɪŋkt/",
+   "chunks": [
+    "ex",
+    "tinct"
+   ],
+   "emoji": "🦕",
+   "sentence": {
+    "en": "Dinosaurs are extinct now.",
+    "zh": "恐龙现在已经灭绝了。"
+   },
+   "sentences": [
+    {
+     "en": "Dinosaurs are extinct now.",
+     "zh": "恐龙现在已经灭绝了。",
+     "audio": "media/sent/e31e3b3577ef.mp3"
+    },
+    {
+     "en": "Some animals are extinct.",
+     "zh": "有些动物已经灭绝了。",
+     "audio": "media/sent/b4f1e343a9f8.mp3"
+    },
+    {
+     "en": "That bird is extinct.",
+     "zh": "那只鸟已灭绝。",
+     "audio": "media/sent/afc4c664d9a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/extinct.webp",
+    "uk": "media/uk/extinct.mp3",
+    "us": "media/us/extinct.mp3"
+   },
+   "avoid": [
+    "creature"
+   ]
+  },
+  {
+   "id": "environment",
+   "word": "environment",
+   "zh": "环境",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "环境"
+    }
+   ],
+   "ipa": "/ɪnˈvaɪrənmənt/",
+   "chunks": [
+    "en",
+    "vi",
+    "ron",
+    "ment"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "We help the environment.",
+    "zh": "我们帮助保护环境。"
+   },
+   "sentences": [
+    {
+     "en": "We help the environment.",
+     "zh": "我们帮助保护环境。",
+     "audio": "media/sent/3c232a4c82ee.mp3"
+    },
+    {
+     "en": "Please keep our environment clean.",
+     "zh": "请保持我们的环境清洁。",
+     "audio": "media/sent/019dbf39ba74.mp3"
+    },
+    {
+     "en": "Trees are good for the environment.",
+     "zh": "树木对环境有益。",
+     "audio": "media/sent/5e678b7a8b3b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/environment.webp",
+    "uk": "media/uk/environment.mp3",
+    "us": "media/us/environment.mp3"
+   },
+   "avoid": [
+    "nature"
+   ]
+  },
+  {
+   "id": "nature",
+   "word": "nature",
+   "zh": "自然；大自然",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自然；大自然"
+    }
+   ],
+   "ipa": "/ˈneɪtʃə/",
+   "chunks": [
+    "na",
+    "ture"
+   ],
+   "emoji": "🌿",
+   "sentence": {
+    "en": "We walk in nature.",
+    "zh": "我们在大自然中散步。"
+   },
+   "sentences": [
+    {
+     "en": "We walk in nature.",
+     "zh": "我们在大自然中散步。",
+     "audio": "media/sent/8fe9cbdf776e.mp3"
+    },
+    {
+     "en": "I love learning about nature.",
+     "zh": "我喜欢了解自然。",
+     "audio": "media/sent/4353dfd4fa5d.mp3"
+    },
+    {
+     "en": "The school trip is in nature.",
+     "zh": "学校的郊游是在大自然中。",
+     "audio": "media/sent/e20e5ea7283d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nature.webp",
+    "uk": "media/uk/nature.mp3",
+    "us": "media/us/nature.mp3"
+   },
+   "avoid": [
+    "environment"
+   ]
+  }
+ ]
+}

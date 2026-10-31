@@ -1,0 +1,832 @@
+{
+ "id": "services",
+ "words": [
+  {
+   "id": "restaurant",
+   "word": "restaurant",
+   "zh": "餐馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "餐馆"
+    }
+   ],
+   "ipa": "/ˈrestrɒnt/",
+   "chunks": [
+    "res",
+    "tau",
+    "rant"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We eat dinner in a restaurant.",
+    "zh": "我们在餐馆吃晚饭。"
+   },
+   "sentences": [
+    {
+     "en": "We eat dinner in a restaurant.",
+     "zh": "我们在餐馆吃晚饭。",
+     "audio": "media/sent/d6cd22e98e9f.mp3"
+    },
+    {
+     "en": "Dad orders fish at the restaurant.",
+     "zh": "爸爸在餐馆点了鱼。",
+     "audio": "media/sent/d9f56bcd7363.mp3"
+    },
+    {
+     "en": "The food in this restaurant is good.",
+     "zh": "这家餐馆的食物很好吃。",
+     "audio": "media/sent/5eb38003cc69.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/restaurant.webp",
+    "uk": "media/uk/restaurant.mp3",
+    "us": "media/us/restaurant.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "cafeteria",
+    "hotel"
+   ]
+  },
+  {
+   "id": "bank",
+   "word": "bank",
+   "zh": "银行",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "银行"
+    }
+   ],
+   "ipa": "/bæŋk/",
+   "chunks": [
+    "bank"
+   ],
+   "emoji": "🏦",
+   "sentence": {
+    "en": "Aunt Kate works in a bank.",
+    "zh": "Kate 阿姨在银行工作。"
+   },
+   "sentences": [
+    {
+     "en": "Aunt Kate works in a bank.",
+     "zh": "Kate 阿姨在银行工作。",
+     "audio": "media/sent/26130903f86b.mp3"
+    },
+    {
+     "en": "Mum goes to the bank today.",
+     "zh": "妈妈今天去银行。",
+     "audio": "media/sent/8ddbb3b81694.mp3"
+    },
+    {
+     "en": "The bank is open on Monday.",
+     "zh": "银行星期一开门。",
+     "audio": "media/sent/b803d7cab29c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bank.webp",
+    "uk": "media/uk/bank.mp3",
+    "us": "media/us/bank.mp3"
+   },
+   "avoid": [
+    "post-office"
+   ]
+  },
+  {
+   "id": "cafe",
+   "word": "cafe",
+   "zh": "咖啡馆；小餐馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "咖啡馆；小餐馆"
+    }
+   ],
+   "ipa": "/ˈkæfeɪ/",
+   "chunks": [
+    "ca",
+    "fe"
+   ],
+   "emoji": "☕",
+   "sentence": {
+    "en": "We drink tea in the cafe.",
+    "zh": "我们在咖啡馆喝茶。"
+   },
+   "sentences": [
+    {
+     "en": "We drink tea in the cafe.",
+     "zh": "我们在咖啡馆喝茶。",
+     "audio": "media/sent/f6f538812415.mp3"
+    },
+    {
+     "en": "Lily eats a cake at the cafe.",
+     "zh": "Lily 在咖啡馆吃蛋糕。",
+     "audio": "media/sent/4495d9111153.mp3"
+    },
+    {
+     "en": "The cafe is near our house.",
+     "zh": "咖啡馆在我们家附近。",
+     "audio": "media/sent/4fd86176fbf0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafe.webp",
+    "uk": "media/uk/cafe.mp3",
+    "us": "media/us/cafe.mp3"
+   },
+   "avoid": [
+    "cafeteria",
+    "restaurant"
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "word": "cafeteria",
+   "zh": "自助餐厅；食堂",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自助餐厅；食堂"
+    }
+   ],
+   "ipa": "/ˌkæfəˈtɪəriə/",
+   "chunks": [
+    "caf",
+    "e",
+    "te",
+    "ri",
+    "a"
+   ],
+   "emoji": "🍱",
+   "sentence": {
+    "en": "We have lunch in the cafeteria.",
+    "zh": "我们在食堂吃午饭。"
+   },
+   "sentences": [
+    {
+     "en": "We have lunch in the cafeteria.",
+     "zh": "我们在食堂吃午饭。",
+     "audio": "media/sent/844e293af5fd.mp3"
+    },
+    {
+     "en": "The cafeteria is very busy.",
+     "zh": "食堂很热闹。",
+     "audio": "media/sent/c9a446ea0217.mp3"
+    },
+    {
+     "en": "Tom eats an apple in the cafeteria.",
+     "zh": "Tom 在食堂吃苹果。",
+     "audio": "media/sent/d31b45b2a1c6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafeteria.webp",
+    "uk": "media/uk/cafeteria.mp3",
+    "us": "media/us/cafeteria.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "restaurant"
+   ]
+  },
+  {
+   "id": "cinema",
+   "word": "cinema",
+   "zh": "电影院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电影院"
+    }
+   ],
+   "ipa": "/ˈsɪnəmə/",
+   "chunks": [
+    "ci",
+    "ne",
+    "ma"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We watch a film at the cinema.",
+    "zh": "我们在电影院看电影。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a film at the cinema.",
+     "zh": "我们在电影院看电影。",
+     "audio": "media/sent/b61ecb6bd0b2.mp3"
+    },
+    {
+     "en": "The cinema is very big.",
+     "zh": "电影院很大。",
+     "audio": "media/sent/8c2b6b52bdf1.mp3"
+    },
+    {
+     "en": "Let's go to the cinema on Sunday.",
+     "zh": "我们星期日去电影院吧。",
+     "audio": "media/sent/66d5d118d78a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cinema.webp",
+    "uk": "media/uk/cinema.mp3",
+    "us": "media/us/cinema.mp3"
+   },
+   "avoid": [
+    "museum",
+    "theatre"
+   ]
+  },
+  {
+   "id": "dentist",
+   "word": "dentist",
+   "zh": "牙医",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牙医"
+    }
+   ],
+   "ipa": "/ˈdentɪst/",
+   "chunks": [
+    "den",
+    "tist"
+   ],
+   "emoji": "🦷",
+   "sentence": {
+    "en": "Lily visits the dentist.",
+    "zh": "Lily 去看牙医。"
+   },
+   "sentences": [
+    {
+     "en": "Lily visits the dentist.",
+     "zh": "Lily 去看牙医。",
+     "audio": "media/sent/31a1b18fea27.mp3"
+    },
+    {
+     "en": "The dentist checks my teeth.",
+     "zh": "牙医检查我的牙齿。",
+     "audio": "media/sent/54871d406dc3.mp3"
+    },
+    {
+     "en": "Mum is at the dentist's office.",
+     "zh": "妈妈在牙医诊所。",
+     "audio": "media/sent/d8a0a6b27691.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dentist.webp",
+    "uk": "media/uk/dentist.mp3",
+    "us": "media/us/dentist.mp3"
+   },
+   "avoid": [
+    "doctor"
+   ]
+  },
+  {
+   "id": "doctor",
+   "word": "doctor",
+   "zh": "医生",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "医生"
+    }
+   ],
+   "ipa": "/ˈdɒk.tə/",
+   "chunks": [
+    "doc",
+    "tor"
+   ],
+   "emoji": "👨‍⚕️",
+   "sentence": {
+    "en": "The doctor helps Tom.",
+    "zh": "医生帮助 Tom。"
+   },
+   "sentences": [
+    {
+     "en": "The doctor helps Tom.",
+     "zh": "医生帮助 Tom。",
+     "audio": "media/sent/0a8e71e30721.mp3"
+    },
+    {
+     "en": "Mum is a nurse, not a doctor.",
+     "zh": "妈妈是护士，不是医生。",
+     "audio": "media/sent/b733f7997b9b.mp3"
+    },
+    {
+     "en": "Go to the doctor if you are ill.",
+     "zh": "如果你病了，去看医生。",
+     "audio": "media/sent/d9c3a113cfb2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/doctor.webp",
+    "uk": "media/uk/doctor.mp3",
+    "us": "media/us/doctor.mp3"
+   },
+   "avoid": [
+    "dentist"
+   ]
+  },
+  {
+   "id": "garage",
+   "word": "garage",
+   "zh": "车库",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车库"
+    }
+   ],
+   "ipa": "/ˈɡærɑːʒ/",
+   "chunks": [
+    "ga",
+    "rage"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "Dad parks the car in the garage.",
+    "zh": "爸爸把车停在车库里。"
+   },
+   "sentences": [
+    {
+     "en": "Dad parks the car in the garage.",
+     "zh": "爸爸把车停在车库里。",
+     "audio": "media/sent/020410a09211.mp3"
+    },
+    {
+     "en": "The bikes are in the garage.",
+     "zh": "自行车在车库里。",
+     "audio": "media/sent/a8267dd1d242.mp3"
+    },
+    {
+     "en": "Max sleeps in the garage sometimes.",
+     "zh": "Max 有时睡在车库里。",
+     "audio": "media/sent/a1682dcc3a31.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garage.webp",
+    "uk": "media/uk/garage.mp3",
+    "us": "media/us/garage.mp3"
+   },
+   "avoid": [
+    "petrol-station"
+   ]
+  },
+  {
+   "id": "hotel",
+   "word": "hotel",
+   "zh": "酒店；旅馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "酒店；旅馆"
+    }
+   ],
+   "ipa": "/həʊˈtel/",
+   "chunks": [
+    "ho",
+    "tel"
+   ],
+   "emoji": "🏨",
+   "sentence": {
+    "en": "We sleep in a hotel.",
+    "zh": "我们在酒店睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "We sleep in a hotel.",
+     "zh": "我们在酒店睡觉。",
+     "audio": "media/sent/6d45078a4fb9.mp3"
+    },
+    {
+     "en": "The hotel room is nice.",
+     "zh": "酒店房间很好。",
+     "audio": "media/sent/35edcf1f8da5.mp3"
+    },
+    {
+     "en": "Grandma stays at this hotel.",
+     "zh": "奶奶住在这家酒店。",
+     "audio": "media/sent/6b0990558de4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hotel.webp",
+    "uk": "media/uk/hotel.mp3",
+    "us": "media/us/hotel.mp3"
+   },
+   "avoid": [
+    "restaurant"
+   ]
+  },
+  {
+   "id": "library",
+   "word": "library",
+   "zh": "图书馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "图书馆"
+    }
+   ],
+   "ipa": "/ˈlaɪbrəri/",
+   "chunks": [
+    "li",
+    "bra",
+    "ry"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily reads books in the library.",
+    "zh": "Lily 在图书馆看书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads books in the library.",
+     "zh": "Lily 在图书馆看书。",
+     "audio": "media/sent/404302a38033.mp3"
+    },
+    {
+     "en": "The library is quiet.",
+     "zh": "图书馆很安静。",
+     "audio": "media/sent/e22d6eacad4d.mp3"
+    },
+    {
+     "en": "We borrow books from the library.",
+     "zh": "我们从图书馆借书。",
+     "audio": "media/sent/9d3ba0d9429f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/library.webp",
+    "uk": "media/uk/library.mp3",
+    "us": "media/us/library.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "museum",
+   "word": "museum",
+   "zh": "博物馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "博物馆"
+    }
+   ],
+   "ipa": "/mjuˈziːəm/",
+   "chunks": [
+    "mu",
+    "se",
+    "um"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "We see old things in the museum.",
+    "zh": "我们在博物馆看古老的东西。"
+   },
+   "sentences": [
+    {
+     "en": "We see old things in the museum.",
+     "zh": "我们在博物馆看古老的东西。",
+     "audio": "media/sent/b890daa3ad0a.mp3"
+    },
+    {
+     "en": "The museum is free for children.",
+     "zh": "儿童免费参观博物馆。",
+     "audio": "media/sent/32aeeb52016f.mp3"
+    },
+    {
+     "en": "Tom likes the museum best.",
+     "zh": "Tom 最喜欢博物馆。",
+     "audio": "media/sent/e77a2f54763e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/museum.webp",
+    "uk": "media/uk/museum.mp3",
+    "us": "media/us/museum.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "theatre"
+   ]
+  },
+  {
+   "id": "petrol-station",
+   "word": "petrol station",
+   "zh": "加油站",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "加油站"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pe",
+    "trol",
+    "sta",
+    "tion"
+   ],
+   "emoji": "⛽",
+   "sentence": {
+    "en": "Dad stops at the petrol station.",
+    "zh": "爸爸在加油站停车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stops at the petrol station.",
+     "zh": "爸爸在加油站停车。",
+     "audio": "media/sent/c6fea64a8764.mp3"
+    },
+    {
+     "en": "The petrol station is on the corner.",
+     "zh": "加油站在拐角处。",
+     "audio": "media/sent/85bbe49a9245.mp3"
+    },
+    {
+     "en": "We buy drinks at the petrol station.",
+     "zh": "我们在加油站买饮料。",
+     "audio": "media/sent/690605f6429a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/petrol-station.webp"
+   },
+   "avoid": [
+    "garage"
+   ]
+  },
+  {
+   "id": "post-office",
+   "word": "post office",
+   "zh": "邮局",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "邮局"
+    }
+   ],
+   "ipa": "/ˈpəʊst ˌɒfɪs/",
+   "chunks": [
+    "post",
+    "of",
+    "fice"
+   ],
+   "emoji": "📮",
+   "sentence": {
+    "en": "Lily sends a card at the post office.",
+    "zh": "Lily 在邮局寄卡片。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sends a card at the post office.",
+     "zh": "Lily 在邮局寄卡片。",
+     "audio": "media/sent/dc0c24406cbe.mp3"
+    },
+    {
+     "en": "The post office is near school.",
+     "zh": "邮局在学校附近。",
+     "audio": "media/sent/23d5eb647257.mp3"
+    },
+    {
+     "en": "We buy stamps at the post office.",
+     "zh": "我们在邮局买邮票。",
+     "audio": "media/sent/a7eeb58a2cc4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/post-office.webp",
+    "uk": "media/uk/post-office.mp3",
+    "us": "media/us/post-office.mp3"
+   },
+   "avoid": [
+    "bank"
+   ]
+  },
+  {
+   "id": "sports-centre",
+   "word": "sports centre",
+   "zh": "体育中心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体育中心"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sports",
+    "cen",
+    "tre"
+   ],
+   "emoji": "🏟️",
+   "sentence": {
+    "en": "We play games at the sports centre.",
+    "zh": "我们在体育中心玩游戏。"
+   },
+   "sentences": [
+    {
+     "en": "We play games at the sports centre.",
+     "zh": "我们在体育中心玩游戏。",
+     "audio": "media/sent/4a49a0916195.mp3"
+    },
+    {
+     "en": "The sports centre is big.",
+     "zh": "体育中心很大。",
+     "audio": "media/sent/8149381bd4f3.mp3"
+    },
+    {
+     "en": "Tom goes to the sports centre on Saturday.",
+     "zh": "Tom 星期六去体育中心。",
+     "audio": "media/sent/4c2174d4aede.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sports-centre.webp"
+   },
+   "avoid": [
+    "swimming-pool"
+   ]
+  },
+  {
+   "id": "swimming-pool",
+   "word": "swimming pool",
+   "zh": "游泳池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游泳池"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "swim",
+    "ming",
+    "pool"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Lily swims in the swimming pool.",
+    "zh": "Lily 在游泳池里游泳。"
+   },
+   "sentences": [
+    {
+     "en": "Lily swims in the swimming pool.",
+     "zh": "Lily 在游泳池里游泳。",
+     "audio": "media/sent/2a1eff7878a1.mp3"
+    },
+    {
+     "en": "The water in the swimming pool is blue.",
+     "zh": "游泳池里的水是蓝色的。",
+     "audio": "media/sent/4504a526d017.mp3"
+    },
+    {
+     "en": "We go to the swimming pool in summer.",
+     "zh": "我们夏天去游泳池。",
+     "audio": "media/sent/ba1063ea4dc7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimming-pool.webp"
+   },
+   "avoid": [
+    "sports-centre"
+   ]
+  },
+  {
+   "id": "theatre",
+   "word": "theatre",
+   "zh": "剧院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "剧院"
+    }
+   ],
+   "ipa": "/ˈθɪətə/",
+   "chunks": [
+    "the",
+    "a",
+    "tre"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "We watch a play at the theatre.",
+    "zh": "我们在剧院看戏。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a play at the theatre.",
+     "zh": "我们在剧院看戏。",
+     "audio": "media/sent/94467de3bcdd.mp3"
+    },
+    {
+     "en": "The theatre is very beautiful.",
+     "zh": "剧院非常漂亮。",
+     "audio": "media/sent/f6bc9164672a.mp3"
+    },
+    {
+     "en": "Grandma loves going to the theatre.",
+     "zh": "奶奶喜欢去剧院。",
+     "audio": "media/sent/b93339f197f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/theatre.webp",
+    "uk": "media/uk/theatre.mp3",
+    "us": "media/us/theatre.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "museum"
+   ]
+  }
+ ]
+}
