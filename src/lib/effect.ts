@@ -18,8 +18,6 @@ export interface Effect {
   recall: Rate;
   /** A new word's first review on a later day, answered right: did the first session make it stick? */
   firstReview: Rate;
-  /** Words passed by the quick check whose first review was missed: the check let an unknown word through. */
-  falseKnown: Rate;
   /** Words forgotten three times or more, out of the words met. */
   hard: Rate;
   /** Minutes a day over the last 7 days with any practice, estimated from answer times. */
@@ -38,24 +36,23 @@ export function effect(p: Progress, now: number): Effect {
   const recent = log.filter((e) => e[5] === 0 && e[0] > now - 30 * DAY);
   const recall = { ok: recent.filter(isRight).length, n: recent.length };
 
-  // the first meaning answer on a later day, for words that were taught (1) or skipped as known (2)
+  // the first meaning answer on a later day, for new words
   const start = new Map<string, LogEntry>();
   const next = new Map<string, LogEntry>();
   for (const e of log) {
     if (e[2] !== MEANING) continue;
     const s = start.get(e[1]);
     if (!s) {
-      if (e[5] !== 0) start.set(e[1], e);
+      if (e[5] === 1) start.set(e[1], e);
+      else start.set(e[1], [0, "", 0, 0, 0, 0]); // met before the log began, or passed as known: not a new word to score
     } else if (!next.has(e[1]) && dayKey(e[0]) !== dayKey(s[0])) next.set(e[1], e);
   }
   const firstReview = { ok: 0, n: 0 };
-  const falseKnown = { ok: 0, n: 0 };
   for (const [id, s] of start) {
     const e = next.get(id);
-    if (!e) continue;
-    const rate = s[5] === 1 ? firstReview : falseKnown;
-    rate.n++;
-    if (isRight(e) === (s[5] === 1)) rate.ok++; // falseKnown counts the misses
+    if (!e || s[5] !== 1) continue;
+    firstReview.n++;
+    if (isRight(e)) firstReview.ok++;
   }
 
   const words = Object.values(p.words);
@@ -65,7 +62,7 @@ export function effect(p: Progress, now: number): Effect {
   for (const e of log) if (e[0] > now - 7 * DAY) days.set(dayKey(e[0]), (days.get(dayKey(e[0])) ?? 0) + e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0));
   const minutes = days.size ? Math.round([...days.values()].reduce((a, b) => a + b, 0) / days.size / 60) : null;
 
-  return { recall, firstReview, falseKnown, hard, minutes };
+  return { recall, firstReview, hard, minutes };
 }
 
 /** Below this many answers a share is shown as "not enough data yet". */

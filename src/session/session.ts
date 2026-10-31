@@ -4,8 +4,6 @@ import type { Plan } from "./plan";
 import { shuffle } from "../lib/choice";
 
 export type Step =
-  /** Quick check of the day's new words (and spares): ones the child already knows are not taught. */
-  | { type: "check"; wordIds: string[]; want: number }
   | { type: "intro"; wordIds: string[] }
   | { type: "match"; wordIds: string[] }
   | { type: "q"; wordId: string; skill: Skill; kind: QuestionKind; graded: boolean; retry: number };
@@ -67,10 +65,7 @@ export function spreadOut<T extends { wordId: string }>(xs: T[]): T[] {
   return a;
 }
 
-/**
- * Reviews first, then the quick check of the new words. What the check finds unknown is taught
- * afterwards by `teach`.
- */
+/** Reviews first, then the new words, taught as `newWordSteps` lays out. */
 export function buildSession(
   plan: Plan,
   progress: Record<string, WordProgress>,
@@ -85,17 +80,16 @@ export function buildSession(
     const kind = kindFor(t.skill, card, 0, { gap: canGap(t.wordId), roll: rng() });
     steps.push({ type: "q", wordId: t.wordId, skill: t.skill, kind, graded: true, retry: 0 });
   }
-  if (plan.newWords.length) steps.push({ type: "check", wordIds: [...plan.newWords, ...plan.spare], want: plan.newWords.length });
+  steps.push(...newWordSteps(plan.newWords, rng));
   return { steps, index: 0, answered: [] };
 }
 
 /**
- * Teach the words the quick check found unknown, right after it: in small groups, meet them, play the
- * match game, then practise each once without scoring. At the very end every one of them is recalled
- * once more, and that answer is the one that counts, so memory is scored after a pause rather than
- * straight after seeing the word.
+ * New words in small groups: meet them, play the match game, then practise each once without
+ * scoring. At the very end every one of them is recalled once more, and that answer is the one that
+ * counts, so memory is scored after a pause rather than straight after seeing the word.
  */
-export function teach(s: Session, wordIds: string[], rng: () => number = Math.random): Session {
+export function newWordSteps(wordIds: string[], rng: () => number = Math.random): Step[] {
   const add: Step[] = [];
   for (let i = 0; i < wordIds.length; i += GROUP_SIZE) {
     const group = wordIds.slice(i, i + GROUP_SIZE);
@@ -105,15 +99,13 @@ export function teach(s: Session, wordIds: string[], rng: () => number = Math.ra
   }
   const recall = spreadOut(shuffle(wordIds.map((wordId) => ({ wordId })), rng));
   for (const { wordId } of recall) add.push({ type: "q", wordId, skill: "meaning", kind: "pickMeaning", graded: true, retry: 0 });
-  const steps = [...s.steps];
-  steps.splice(s.index + 1, 0, ...add);
-  return { ...s, steps, index: s.index + 1 };
+  return add;
 }
 
 export const current = (s: Session): Step | undefined => s.steps[s.index];
 export const isDone = (s: Session) => s.index >= s.steps.length;
 
-/** Move past an ungraded step (intro, match, an empty check). */
+/** Move past an ungraded step (intro, match). */
 export function advance(s: Session): Session {
   return { ...s, index: s.index + 1 };
 }

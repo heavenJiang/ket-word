@@ -34,12 +34,10 @@ export function Choice(props: {
   accent: Accent;
   sound: boolean;
   onAnswer: (a: Attempt) => void;
-  /** Quick check before teaching: an "I don't know" button, and a wrong answer moves straight on. */
-  check?: boolean;
   /** The child keeps forgetting this word: a miss shows its memory hook. */
   hard?: boolean;
 }) {
-  const { word, pool, accent, sound, onAnswer, check, hard } = props;
+  const { word, pool, accent, sound, onAnswer, hard } = props;
   // a gap question needs a sentence with the word in it; fall back to the meaning question without one.
   // A word with no picture (the, because) is asked by its meaning, and heard alone rather than in a sentence.
   const kind: Kind =
@@ -85,7 +83,6 @@ export function Choice(props: {
     const correct = w.id === word.id;
     setPicked(w.id);
     result.current = { correct, hinted: hidden.length > 0, mistakes: correct ? 0 : 1, ms: performance.now() - started.current };
-    if (check && !correct) return onAnswer(result.current); // it is about to be taught: no "almost!"
     sfx(correct ? "right" : "wrong", sound);
     if (correct) {
       // hear the whole sentence once it is complete: the word in context is the point of the question
@@ -111,7 +108,7 @@ export function Choice(props: {
 
   return (
     <div className="question">
-      <div className="prompt">{check ? "认识这个词吗？认识就选出它的意思" : PROMPTS[kind]}</div>
+      <div className="prompt">{PROMPTS[kind]}</div>
       <div className="stem">
         {kind === "pickImage" && (
           <>
@@ -155,15 +152,7 @@ export function Choice(props: {
         )}
       </div>
 
-      {!picked && check && (
-        <button
-          className="btn btn-ghost btn-small hint"
-          onClick={() => onAnswer({ correct: false, hinted: false, mistakes: 0, ms: performance.now() - started.current })}
-        >
-          🤔 不认识，教我
-        </button>
-      )}
-      {!picked && !check && hidden.length < 2 && (
+      {!picked && hidden.length < 2 && (
         <button className="btn btn-ghost btn-small hint" onClick={hint}>
           💡 提示
         </button>

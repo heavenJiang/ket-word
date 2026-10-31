@@ -164,7 +164,6 @@ export function Home(props: {
       {today && (
         <section className="card today-log">
           今天已练习 <b>{today.answered}</b> 次，答对 <b>{today.correct}</b> 次，认识了 <b>{today.newWords}</b> 个新单词
-          {!!today.known && <>，快速跳过 <b>{today.known}</b> 个早就会的词</>}
         </section>
       )}
     </div>
