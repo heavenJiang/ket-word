@@ -301,6 +301,7 @@
     "uk": "media/uk/conversation.mp3",
     "us": "media/us/conversation.mp3"
    },
+   "spell": true,
    "avoid": [
     "call",
     "chat",
@@ -415,6 +416,7 @@
     "uk": "media/uk/email.mp3",
     "us": "media/us/email.mp3"
    },
+   "spell": true,
    "avoid": [
     "envelope",
     "text"
@@ -572,6 +574,7 @@
     "uk": "media/uk/internet.mp3",
     "us": "media/us/internet.mp3"
    },
+   "spell": true,
    "avoid": [
     "net",
     "web",
@@ -837,6 +840,7 @@
     "uk": "media/uk/mouse.mp3",
     "us": "media/us/mouse.mp3"
    },
+   "spell": true,
    "avoid": [
     "keyboard",
     "printer",
@@ -1264,6 +1268,7 @@
     "uk": "media/uk/website.mp3",
     "us": "media/us/website.mp3"
    },
+   "spell": true,
    "avoid": [
     "internet",
     "net",
@@ -1372,6 +1377,7 @@
     "uk": "media/uk/information.mp3",
     "us": "media/us/information.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1469,6 +1475,7 @@
     "uk": "media/uk/call.mp3",
     "us": "media/us/call.mp3"
    },
+   "spell": true,
    "avoid": [
     "chat",
     "conversation",
@@ -1523,6 +1530,7 @@
     "uk": "media/uk/talk.mp3",
     "us": "media/us/talk.mp3"
    },
+   "spell": true,
    "avoid": [
     "call",
     "chat",
@@ -1631,6 +1639,7 @@
     "uk": "media/uk/address.mp3",
     "us": "media/us/address.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1681,6 +1690,7 @@
     "uk": "media/uk/camera.mp3",
     "us": "media/us/camera.mp3"
    },
+   "spell": true,
    "avoid": [
     "digital-camera",
     "photo",
@@ -1886,6 +1896,7 @@
     "uk": "media/uk/computer.mp3",
     "us": "media/us/computer.mp3"
    },
+   "spell": true,
    "avoid": [
     "laptop",
     "pc",
@@ -2256,6 +2267,7 @@
     "uk": "media/uk/phone.mp3",
     "us": "media/us/phone.mp3"
    },
+   "spell": true,
    "avoid": [
     "cell-phone",
     "mobile",
@@ -2309,6 +2321,7 @@
     "uk": "media/uk/photo.mp3",
     "us": "media/us/photo.mp3"
    },
+   "spell": true,
    "avoid": [
     "camera",
     "digital-camera",
@@ -2365,6 +2378,7 @@
     "uk": "media/uk/telephone.mp3",
     "us": "media/us/telephone.mp3"
    },
+   "spell": true,
    "avoid": [
     "cell-phone",
     "mobile",
@@ -2419,6 +2433,7 @@
     "uk": "media/uk/video.mp3",
     "us": "media/us/video.mp3"
    },
+   "spell": true,
    "avoid": []
   }
  ]

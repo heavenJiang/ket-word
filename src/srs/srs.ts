@@ -84,22 +84,22 @@ export const isMastered = (c?: CardState) => !!c && c.st === State.Review && c.s
 /**
  * Skills unlock in order so a child never has to spell a word they cannot yet recognise:
  * meaning first, listening once the meaning has been answered, spelling once the meaning
- * has graduated to long-term review.
+ * has graduated to long-term review. Only everyday words (`spell`) are ever spelled.
  */
-export function unlockedSkills(p: WordProgress | undefined): Skill[] {
+export function unlockedSkills(p: WordProgress | undefined, spell = true): Skill[] {
   if (!p) return [];
   const m = p.skills.meaning;
   const out: Skill[] = ["meaning"];
   if (m && m.reps >= 1) out.push("listen");
-  if (m && m.st === State.Review) out.push("spell");
+  if (spell && m && m.st === State.Review) out.push("spell");
   return out;
 }
 
-/** 0 new · 1 learning · 2 knows the meaning · 3 fully mastered (all three skills). */
+/** 0 new · 1 learning · 2 knows the meaning · 3 fully mastered (every skill the word has). */
 export type WordLevel = 0 | 1 | 2 | 3;
-export function wordLevel(p: WordProgress | undefined): WordLevel {
+export function wordLevel(p: WordProgress | undefined, spell = true): WordLevel {
   if (!p || !p.skills.meaning) return 0;
-  if (isMastered(p.skills.meaning) && isMastered(p.skills.listen) && isMastered(p.skills.spell)) return 3;
+  if (isMastered(p.skills.meaning) && isMastered(p.skills.listen) && (!spell || isMastered(p.skills.spell))) return 3;
   if (p.skills.meaning.st === State.Review) return 2;
   return 1;
 }

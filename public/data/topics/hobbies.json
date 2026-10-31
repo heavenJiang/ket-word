@@ -48,6 +48,7 @@
     "uk": "media/uk/hobby.mp3",
     "us": "media/us/hobby.mp3"
    },
+   "spell": true,
    "avoid": [
     "collect"
    ]
@@ -151,6 +152,7 @@
     "uk": "media/uk/camera.mp3",
     "us": "media/us/camera.mp3"
    },
+   "spell": true,
    "avoid": [
     "draw",
     "paint",
@@ -204,6 +206,7 @@
     "uk": "media/uk/photo.mp3",
     "us": "media/us/photo.mp3"
    },
+   "spell": true,
    "avoid": [
     "camera",
     "draw",
@@ -256,6 +259,7 @@
     "uk": "media/uk/draw.mp3",
     "us": "media/us/draw.mp3"
    },
+   "spell": true,
    "avoid": [
     "camera",
     "paint",
@@ -315,6 +319,7 @@
     "uk": "media/uk/paint.mp3",
     "us": "media/us/paint.mp3"
    },
+   "spell": true,
    "avoid": [
     "camera",
     "draw",
@@ -374,6 +379,7 @@
     "uk": "media/uk/dance.mp3",
     "us": "media/us/dance.mp3"
    },
+   "spell": true,
    "avoid": [
     "guitar",
     "music",
@@ -427,6 +433,7 @@
     "uk": "media/uk/music.mp3",
     "us": "media/us/music.mp3"
    },
+   "spell": true,
    "avoid": [
     "dance",
     "guitar",
@@ -534,6 +541,7 @@
     "uk": "media/uk/guitar.mp3",
     "us": "media/us/guitar.mp3"
    },
+   "spell": true,
    "avoid": [
     "dance",
     "music",
@@ -743,6 +751,7 @@
     "uk": "media/uk/magazine.mp3",
     "us": "media/us/magazine.mp3"
    },
+   "spell": true,
    "avoid": [
     "book",
     "quiz"
@@ -845,6 +854,7 @@
     "uk": "media/uk/club.mp3",
     "us": "media/us/club.mp3"
    },
+   "spell": true,
    "avoid": [
     "join",
     "member"
@@ -897,6 +907,7 @@
     "uk": "media/uk/member.mp3",
     "us": "media/us/member.mp3"
    },
+   "spell": true,
    "avoid": [
     "club",
     "join"
@@ -948,6 +959,7 @@
     "uk": "media/uk/join.mp3",
     "us": "media/us/join.mp3"
    },
+   "spell": true,
    "avoid": [
     "club",
     "member"
@@ -1007,6 +1019,7 @@
     "uk": "media/uk/park.mp3",
     "us": "media/us/park.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "museum",
@@ -1391,6 +1404,7 @@
     "uk": "media/uk/museum.mp3",
     "us": "media/us/museum.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "park"
@@ -1443,6 +1457,7 @@
     "uk": "media/uk/party.mp3",
     "us": "media/us/party.mp3"
    },
+   "spell": true,
    "avoid": [
     "barbecue",
     "festival",
@@ -1594,6 +1609,7 @@
     "uk": "media/uk/holiday.mp3",
     "us": "media/us/holiday.mp3"
    },
+   "spell": true,
    "avoid": [
     "go-out",
     "go-shopping"
@@ -1646,6 +1662,7 @@
     "uk": "media/uk/picnic.mp3",
     "us": "media/us/picnic.mp3"
    },
+   "spell": true,
    "avoid": [
     "barbecue",
     "festival",
@@ -1752,6 +1769,7 @@
     "uk": "media/uk/beach.mp3",
     "us": "media/us/beach.mp3"
    },
+   "spell": true,
    "avoid": [
     "museum",
     "park"
@@ -1805,6 +1823,7 @@
     "uk": "media/uk/bicycle.mp3",
     "us": "media/us/bicycle.mp3"
    },
+   "spell": true,
    "avoid": [
     "bike",
     "cycling"
@@ -1856,6 +1875,7 @@
     "uk": "media/uk/bike.mp3",
     "us": "media/us/bike.mp3"
    },
+   "spell": true,
    "avoid": [
     "bicycle",
     "cycling"
@@ -1967,6 +1987,7 @@
     "uk": "media/uk/book.mp3",
     "us": "media/us/book.mp3"
    },
+   "spell": true,
    "avoid": [
     "magazine",
     "quiz"
@@ -2020,6 +2041,7 @@
     "uk": "media/uk/computer.mp3",
     "us": "media/us/computer.mp3"
    },
+   "spell": true,
    "avoid": [
     "video-game"
    ]

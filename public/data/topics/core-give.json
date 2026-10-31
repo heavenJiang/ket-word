@@ -47,6 +47,7 @@
     "uk": "media/uk/give.mp3",
     "us": "media/us/give.mp3"
    },
+   "spell": true,
    "avoid": [
     "give-back",
     "offer",
@@ -150,6 +151,7 @@
     "uk": "media/uk/take.mp3",
     "us": "media/us/take.mp3"
    },
+   "spell": true,
    "avoid": [
     "pick-up"
    ]
@@ -296,6 +298,7 @@
     "uk": "media/uk/lose.mp3",
     "us": "media/us/lose.mp3"
    },
+   "spell": true,
    "avoid": [
     "lost"
    ]
@@ -396,6 +399,7 @@
     "uk": "media/uk/find.mp3",
     "us": "media/us/find.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -488,6 +492,7 @@
     "uk": "media/uk/keep.mp3",
     "us": "media/us/keep.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -536,6 +541,7 @@
     "uk": "media/uk/send.mp3",
     "us": "media/us/send.mp3"
    },
+   "spell": true,
    "avoid": [
     "deliver",
     "mail",
@@ -893,6 +899,7 @@
     "uk": "media/uk/sell.mp3",
     "us": "media/us/sell.mp3"
    },
+   "spell": true,
    "avoid": [
     "order"
    ]

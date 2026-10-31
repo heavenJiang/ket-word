@@ -49,6 +49,7 @@
     "uk": "media/uk/after.mp3",
     "us": "media/us/after.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -146,6 +147,7 @@
     "uk": "media/uk/again.mp3",
     "us": "media/us/again.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -194,6 +196,7 @@
     "uk": "media/uk/ago.mp3",
     "us": "media/us/ago.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -291,6 +294,7 @@
     "uk": "media/uk/always.mp3",
     "us": "media/us/always.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -343,6 +347,7 @@
     "uk": "media/uk/before.mp3",
     "us": "media/us/before.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -392,6 +397,7 @@
     "uk": "media/uk/beginning.mp3",
     "us": "media/us/beginning.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -440,6 +446,7 @@
     "uk": "media/uk/during.mp3",
     "us": "media/us/during.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -490,6 +497,7 @@
     "uk": "media/uk/early.mp3",
     "us": "media/us/early.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -539,6 +547,7 @@
     "uk": "media/uk/end.mp3",
     "us": "media/us/end.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -778,6 +787,7 @@
     "uk": "media/uk/future.mp3",
     "us": "media/us/future.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -827,6 +837,7 @@
     "uk": "media/uk/late.mp3",
     "us": "media/us/late.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -875,6 +886,7 @@
     "uk": "media/uk/later.mp3",
     "us": "media/us/later.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1067,6 +1079,7 @@
     "uk": "media/uk/never.mp3",
     "us": "media/us/never.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1114,6 +1127,7 @@
     "uk": "media/uk/now.mp3",
     "us": "media/us/now.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1162,6 +1176,7 @@
     "uk": "media/uk/often.mp3",
     "us": "media/us/often.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1209,6 +1224,7 @@
     "uk": "media/uk/once.mp3",
     "us": "media/us/once.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1353,6 +1369,7 @@
     "uk": "media/uk/sometimes.mp3",
     "us": "media/us/sometimes.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1400,6 +1417,7 @@
     "uk": "media/uk/soon.mp3",
     "us": "media/us/soon.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1635,6 +1653,7 @@
     "uk": "media/uk/until.mp3",
     "us": "media/us/until.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1682,6 +1701,7 @@
     "uk": "media/uk/twice.mp3",
     "us": "media/us/twice.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1732,6 +1752,7 @@
     "uk": "media/uk/usually.mp3",
     "us": "media/us/usually.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2120,6 +2141,7 @@
     "uk": "media/uk/last.mp3",
     "us": "media/us/last.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2169,6 +2191,7 @@
     "uk": "media/uk/next.mp3",
     "us": "media/us/next.mp3"
    },
+   "spell": true,
    "avoid": []
   }
  ]

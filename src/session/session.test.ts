@@ -3,7 +3,7 @@ import { Rating, review, type CardState, type WordProgress } from "../srs/srs";
 import { buildPlan } from "./plan";
 import { distractors } from "../lib/choice";
 import type { Word } from "../types";
-import { answer, buildSession, current, kindFor, MAX_RETRIES, RETRY_GAP, spreadOut, type Session } from "./session";
+import { answer, buildSession, current, kindFor, MAX_RETRIES, RETRY_GAP, spreadOut, teach, type Session } from "./session";
 
 const DAY = 86_400_000;
 const t0 = Date.UTC(2026, 9, 1, 8);
@@ -51,32 +51,76 @@ describe("buildPlan", () => {
     expect(p.newWords).toEqual([]);
   });
 
-  it("caps reviews and pauses new words while catching up", () => {
+  it("caps reviews and pauses new words while more than half a day's reviews wait", () => {
     const p = buildPlan(order, learned(order.slice(0, 18)), t0 + 3 * DAY, { ...opt, reviewCap: 10 });
     expect(p.reviews).toHaveLength(10);
-    expect(p.backlog).toBeGreaterThan(0);
+    expect(p.backlog).toBeGreaterThan(5);
     expect(p.newWords).toEqual([]);
+  });
+
+  it("keeps adding new words while only a few reviews wait", () => {
+    const p = buildPlan(order, learned(order.slice(0, 6)), t0 + 3 * DAY, { ...opt, reviewCap: 10 });
+    expect(p.backlog).toBeGreaterThan(0);
+    expect(p.backlog).toBeLessThanOrEqual(5);
+    expect(p.newWords).toHaveLength(8);
+  });
+
+  it("offers the next words as spares for the quick check", () => {
+    const p = buildPlan(order, {}, t0, { ...opt, newPerDay: 4 });
+    expect(p.newWords).toEqual(["w0", "w1", "w2", "w3"]);
+    expect(p.spare).toEqual(["w4", "w5", "w6", "w7"]);
+  });
+
+  it("spells only the words that are spelled", () => {
+    const graduated = (id: string) => {
+      const m = review(undefined, Rating.Good, t0);
+      return { [id]: { seen: t0, skills: { meaning: review(m, Rating.Good, m.due + 1) } } };
+    };
+    const at = t0 + 30 * DAY;
+    const skills = (spell: boolean) => buildPlan(["w0"], graduated("w0"), at, opt, [], undefined, () => spell).reviews.map((t) => t.skill);
+    expect(skills(true)).toContain("spell");
+    expect(skills(false)).not.toContain("spell");
+  });
+
+  it("near the exam, spends spare time on what would be weakest on the day", () => {
+    const words = learned(order.slice(0, 4));
+    const day = t0 + DAY + 3_600_000;
+    const due = buildPlan(order.slice(0, 4), words, day, { ...opt, newPerDay: 0 }).reviews.length;
+    const exam = buildPlan(order.slice(0, 4), words, day, { ...opt, newPerDay: 0, examAt: day + 60 * DAY }).reviews.length;
+    expect(exam).toBeGreaterThanOrEqual(due);
   });
 });
 
 describe("session", () => {
-  it("introduces new words in groups before quizzing them", () => {
-    const s = buildSession(buildPlan(order, {}, t0, opt), {}, seq());
-    expect(s.steps[0]).toEqual({ type: "intro", wordIds: ["w0", "w1", "w2", "w3"] });
-    expect(s.steps[1]).toEqual({ type: "match", wordIds: ["w0", "w1", "w2", "w3"] });
-    expect(s.steps.slice(2, 6).every((x) => x.type === "q" && x.kind === "pickImage")).toBe(true);
-    expect(s.steps[6]).toMatchObject({ type: "intro" });
+  it("checks the new words (and spares) before teaching any", () => {
+    const s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq());
+    expect(s.steps).toEqual([{ type: "check", wordIds: order.slice(0, 8), want: 4 }]);
+  });
+
+  it("teaches unknown words in groups, practises them unscored, and scores a recall at the end", () => {
+    const base = buildSession(buildPlan(order, {}, t0, opt), {}, seq());
+    const s = teach(base, order.slice(0, 6), seq());
+    expect(s.index).toBe(1);
+    const taught = s.steps.slice(1);
+    expect(taught[0]).toEqual({ type: "intro", wordIds: order.slice(0, 4) });
+    expect(taught[1]).toEqual({ type: "match", wordIds: order.slice(0, 4) });
+    expect(taught.slice(2, 6).every((x) => x.type === "q" && !x.graded)).toBe(true);
+    expect(taught[6]).toEqual({ type: "intro", wordIds: order.slice(4, 6) });
+    const recall = taught.slice(-6);
+    expect(recall.every((x) => x.type === "q" && x.graded && x.kind === "pickMeaning")).toBe(true);
+    expect(recall.map((x) => (x.type === "q" ? x.wordId : "")).sort()).toEqual(order.slice(0, 6));
   });
 
   it("grades only the first answer and retries wrong ones later with another question type", () => {
-    let s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq());
-    s = { ...s, index: 2 }; // past the intro and the match game
+    let s = teach(buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq()), order.slice(0, 4), seq());
+    s = { ...s, index: s.steps.length - 4 }; // the scored recall at the end
     const first = current(s)!;
     const r = answer(s, false, {});
     expect(r.grade).toBe(true);
-    const retry = r.session.steps[2 + 1 + RETRY_GAP];
-    expect(retry).toMatchObject({ type: "q", graded: false, retry: 1, kind: "pickMeaning" });
+    const retry = r.session.steps.find((x, i) => i > s.index && x.type === "q" && x.retry === 1)!;
+    expect(retry).toMatchObject({ type: "q", graded: false, retry: 1, kind: "pickImage" });
     expect(first.type === "q" && retry.type === "q" && retry.wordId === first.wordId).toBe(true);
+    expect(RETRY_GAP).toBeGreaterThan(0);
   });
 
   it("stops retrying after MAX_RETRIES", () => {

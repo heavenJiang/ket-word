@@ -49,6 +49,7 @@
     "uk": "media/uk/shop.mp3",
     "us": "media/us/shop.mp3"
    },
+   "spell": true,
    "avoid": [
     "bookshop",
     "department-store",
@@ -103,6 +104,7 @@
     "uk": "media/uk/shopping.mp3",
     "us": "media/us/shopping.mp3"
    },
+   "spell": true,
    "avoid": [
     "go-shopping",
     "shopper"
@@ -204,6 +206,7 @@
     "uk": "media/uk/supermarket.mp3",
     "us": "media/us/supermarket.mp3"
    },
+   "spell": true,
    "avoid": [
     "department-store",
     "shop",
@@ -363,6 +366,7 @@
     "uk": "media/uk/bookshop.mp3",
     "us": "media/us/bookshop.mp3"
    },
+   "spell": true,
    "avoid": [
     "shop",
     "store"
@@ -628,6 +632,7 @@
     "uk": "media/uk/buy.mp3",
     "us": "media/us/buy.mp3"
    },
+   "spell": true,
    "avoid": [
     "pay",
     "rent",
@@ -681,6 +686,7 @@
     "uk": "media/uk/pay.mp3",
     "us": "media/us/pay.mp3"
    },
+   "spell": true,
    "avoid": [
     "buy",
     "rent",
@@ -733,6 +739,7 @@
     "uk": "media/uk/spend.mp3",
     "us": "media/us/spend.mp3"
    },
+   "spell": true,
    "avoid": [
     "buy",
     "pay",
@@ -839,6 +846,7 @@
     "uk": "media/uk/price.mp3",
     "us": "media/us/price.mp3"
    },
+   "spell": true,
    "avoid": [
     "bill",
     "cost",
@@ -891,6 +899,7 @@
     "uk": "media/uk/cheap.mp3",
     "us": "media/us/cheap.mp3"
    },
+   "spell": true,
    "avoid": [
     "expensive",
     "for-sale"
@@ -944,6 +953,7 @@
     "uk": "media/uk/expensive.mp3",
     "us": "media/us/expensive.mp3"
    },
+   "spell": true,
    "avoid": [
     "cheap",
     "for-sale"
@@ -1368,6 +1378,7 @@
     "uk": "media/uk/change.mp3",
     "us": "media/us/change.mp3"
    },
+   "spell": true,
    "avoid": [
     "cash",
     "receipt"
@@ -1419,6 +1430,7 @@
     "uk": "media/uk/cent.mp3",
     "us": "media/us/cent.mp3"
    },
+   "spell": true,
    "avoid": [
     "dollar",
     "euro",
@@ -1580,6 +1592,7 @@
     "uk": "media/uk/dollar.mp3",
     "us": "media/us/dollar.mp3"
    },
+   "spell": true,
    "avoid": [
     "cent",
     "euro",
@@ -1695,6 +1708,7 @@
     "uk": "media/uk/open.mp3",
     "us": "media/us/open.mp3"
    },
+   "spell": true,
    "avoid": [
     "close",
     "closed"
@@ -1753,6 +1767,7 @@
     "uk": "media/uk/close.mp3",
     "us": "media/us/close.mp3"
    },
+   "spell": true,
    "avoid": [
     "closed",
     "open"

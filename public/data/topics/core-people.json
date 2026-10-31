@@ -50,6 +50,7 @@
     "uk": "media/uk/adult.mp3",
     "us": "media/us/adult.mp3"
    },
+   "spell": true,
    "avoid": [
     "man",
     "people",
@@ -703,6 +704,7 @@
     "uk": "media/uk/man.mp3",
     "us": "media/us/man.mp3"
    },
+   "spell": true,
    "avoid": [
     "adult",
     "people",
@@ -757,6 +759,7 @@
     "uk": "media/uk/woman.mp3",
     "us": "media/us/woman.mp3"
    },
+   "spell": true,
    "avoid": [
     "adult",
     "man",
@@ -907,6 +910,7 @@
     "uk": "media/uk/people.mp3",
     "us": "media/us/people.mp3"
    },
+   "spell": true,
    "avoid": [
     "adult",
     "crowd",
@@ -962,6 +966,7 @@
     "uk": "media/uk/person.mp3",
     "us": "media/us/person.mp3"
    },
+   "spell": true,
    "avoid": [
     "adult",
     "man",
@@ -1266,6 +1271,7 @@
     "uk": "media/uk/police.mp3",
     "us": "media/us/police.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1314,6 +1320,7 @@
     "uk": "media/uk/beard.mp3",
     "us": "media/us/beard.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1362,6 +1369,7 @@
     "uk": "media/uk/age.mp3",
     "us": "media/us/age.mp3"
    },
+   "spell": true,
    "avoid": [
     "aged",
     "birth",
@@ -1519,6 +1527,7 @@
     "uk": "media/uk/born.mp3",
     "us": "media/us/born.mp3"
    },
+   "spell": true,
    "avoid": [
     "age",
     "aged",
@@ -1571,6 +1580,7 @@
     "uk": "media/uk/life.mp3",
     "us": "media/us/life.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1618,6 +1628,7 @@
     "uk": "media/uk/name.mp3",
     "us": "media/us/name.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1716,6 +1727,7 @@
     "uk": "media/uk/nationality.mp3",
     "us": "media/us/nationality.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2362,6 +2374,7 @@
     "uk": "media/uk/mouth.mp3",
     "us": "media/us/mouth.mp3"
    },
+   "spell": true,
    "avoid": [
     "headache",
     "toe"

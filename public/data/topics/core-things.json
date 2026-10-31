@@ -790,6 +790,7 @@
     "uk": "media/uk/pen.mp3",
     "us": "media/us/pen.mp3"
    },
+   "spell": true,
    "avoid": [
     "pencil",
     "pencil-case"
@@ -842,6 +843,7 @@
     "uk": "media/uk/pencil.mp3",
     "us": "media/us/pencil.mp3"
    },
+   "spell": true,
    "avoid": [
     "pen",
     "pencil-case"
@@ -1491,6 +1493,7 @@
     "uk": "media/uk/table.mp3",
     "us": "media/us/table.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1539,6 +1542,7 @@
     "uk": "media/uk/toy.mp3",
     "us": "media/us/toy.mp3"
    },
+   "spell": true,
    "avoid": [
     "doll"
    ]
@@ -1638,6 +1642,7 @@
     "uk": "media/uk/wall.mp3",
     "us": "media/us/wall.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1741,6 +1746,7 @@
     "uk": "media/uk/paper.mp3",
     "us": "media/us/paper.mp3"
    },
+   "spell": true,
    "avoid": [
     "folder",
     "sheet"
@@ -2007,6 +2013,7 @@
     "uk": "media/uk/thing.mp3",
     "us": "media/us/thing.mp3"
    },
+   "spell": true,
    "avoid": [
     "set",
     "stuff"
@@ -2569,6 +2576,7 @@
     "uk": "media/uk/line.mp3",
     "us": "media/us/line.mp3"
    },
+   "spell": true,
    "avoid": [
     "circle",
     "stripes"

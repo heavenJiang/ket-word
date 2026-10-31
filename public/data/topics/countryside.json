@@ -48,6 +48,7 @@
     "uk": "media/uk/village.mp3",
     "us": "media/us/village.mp3"
    },
+   "spell": true,
    "avoid": [
     "area"
    ]
@@ -100,6 +101,7 @@
     "uk": "media/uk/area.mp3",
     "us": "media/us/area.mp3"
    },
+   "spell": true,
    "avoid": [
     "village"
    ]
@@ -150,6 +152,7 @@
     "uk": "media/uk/farm.mp3",
     "us": "media/us/farm.mp3"
    },
+   "spell": true,
    "avoid": [
     "field"
    ]
@@ -354,6 +357,7 @@
     "uk": "media/uk/hill.mp3",
     "us": "media/us/hill.mp3"
    },
+   "spell": true,
    "avoid": [
     "island",
     "mountain"
@@ -406,6 +410,7 @@
     "uk": "media/uk/mountain.mp3",
     "us": "media/us/mountain.mp3"
    },
+   "spell": true,
    "avoid": [
     "hill",
     "island",
@@ -562,6 +567,7 @@
     "uk": "media/uk/river.mp3",
     "us": "media/us/river.mp3"
    },
+   "spell": true,
    "avoid": [
     "lake",
     "ocean",
@@ -670,6 +676,7 @@
     "uk": "media/uk/beach.mp3",
     "us": "media/us/beach.mp3"
    },
+   "spell": true,
    "avoid": [
     "island",
     "sea"
@@ -721,6 +728,7 @@
     "uk": "media/uk/sea.mp3",
     "us": "media/us/sea.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "island",
@@ -829,6 +837,7 @@
     "uk": "media/uk/sky.mp3",
     "us": "media/us/sky.mp3"
    },
+   "spell": true,
    "avoid": [
     "mountain"
    ]

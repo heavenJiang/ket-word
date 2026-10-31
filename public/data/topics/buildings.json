@@ -48,6 +48,7 @@
     "uk": "media/uk/building.mp3",
     "us": "media/us/building.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "flat",
@@ -100,6 +101,7 @@
     "uk": "media/uk/house.mp3",
     "us": "media/us/house.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "building",
@@ -153,6 +155,7 @@
     "uk": "media/uk/flat.mp3",
     "us": "media/us/flat.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "apartment-building",
@@ -626,6 +629,7 @@
     "uk": "media/uk/hotel.mp3",
     "us": "media/us/hotel.mp3"
    },
+   "spell": true,
    "avoid": [
     "castle",
     "guest-house"
@@ -779,6 +783,7 @@
     "uk": "media/uk/school.mp3",
     "us": "media/us/school.mp3"
    },
+   "spell": true,
    "avoid": [
     "college",
     "library",
@@ -832,6 +837,7 @@
     "uk": "media/uk/college.mp3",
     "us": "media/us/college.mp3"
    },
+   "spell": true,
    "avoid": [
     "library",
     "school",
@@ -888,6 +894,7 @@
     "uk": "media/uk/university.mp3",
     "us": "media/us/university.mp3"
    },
+   "spell": true,
    "avoid": [
     "college",
     "library",
@@ -942,6 +949,7 @@
     "uk": "media/uk/library.mp3",
     "us": "media/us/library.mp3"
    },
+   "spell": true,
    "avoid": [
     "bookshop",
     "bookstore",
@@ -997,6 +1005,7 @@
     "uk": "media/uk/office.mp3",
     "us": "media/us/office.mp3"
    },
+   "spell": true,
    "avoid": [
     "bank",
     "factory"
@@ -1101,6 +1110,7 @@
     "uk": "media/uk/bank.mp3",
     "us": "media/us/bank.mp3"
    },
+   "spell": true,
    "avoid": [
     "factory",
     "office",
@@ -1261,6 +1271,7 @@
     "uk": "media/uk/hospital.mp3",
     "us": "media/us/hospital.mp3"
    },
+   "spell": true,
    "avoid": [
     "pharmacy"
    ]
@@ -1364,6 +1375,7 @@
     "uk": "media/uk/cafe.mp3",
     "us": "media/us/cafe.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafeteria"
    ]
@@ -1470,6 +1482,7 @@
     "uk": "media/uk/cinema.mp3",
     "us": "media/us/cinema.mp3"
    },
+   "spell": true,
    "avoid": [
     "disco",
     "museum",
@@ -1578,6 +1591,7 @@
     "uk": "media/uk/museum.mp3",
     "us": "media/us/museum.mp3"
    },
+   "spell": true,
    "avoid": [
     "cinema",
     "disco",
@@ -1844,6 +1858,7 @@
     "uk": "media/uk/shop.mp3",
     "us": "media/us/shop.mp3"
    },
+   "spell": true,
    "avoid": [
     "department-store",
     "grocery-store",
@@ -1899,6 +1914,7 @@
     "uk": "media/uk/supermarket.mp3",
     "us": "media/us/supermarket.mp3"
    },
+   "spell": true,
    "avoid": [
     "department-store",
     "grocery-store",
@@ -1952,6 +1968,7 @@
     "uk": "media/uk/bookshop.mp3",
     "us": "media/us/bookshop.mp3"
    },
+   "spell": true,
    "avoid": [
     "bookstore",
     "library"
@@ -2004,6 +2021,7 @@
     "uk": "media/uk/bookstore.mp3",
     "us": "media/us/bookstore.mp3"
    },
+   "spell": true,
    "avoid": [
     "bookshop",
     "library"

@@ -101,6 +101,7 @@
     "uk": "media/uk/bag.mp3",
     "us": "media/us/bag.mp3"
    },
+   "spell": true,
    "avoid": [
     "backpack",
     "handbag",
@@ -516,6 +517,7 @@
     "uk": "media/uk/clothes.mp3",
     "us": "media/us/clothes.mp3"
    },
+   "spell": true,
    "avoid": [
     "fashion",
     "get-dressed",
@@ -569,6 +571,7 @@
     "uk": "media/uk/coat.mp3",
     "us": "media/us/coat.mp3"
    },
+   "spell": true,
    "avoid": [
     "jacket",
     "raincoat"
@@ -683,6 +686,7 @@
     "uk": "media/uk/dress.mp3",
     "us": "media/us/dress.mp3"
    },
+   "spell": true,
    "avoid": [
     "skirt"
    ]
@@ -893,6 +897,7 @@
     "uk": "media/uk/glasses.mp3",
     "us": "media/us/glasses.mp3"
    },
+   "spell": true,
    "avoid": [
     "sunglasses"
    ]
@@ -1045,6 +1050,7 @@
     "uk": "media/uk/hat.mp3",
     "us": "media/us/hat.mp3"
    },
+   "spell": true,
    "avoid": [
     "cap"
    ]
@@ -1146,6 +1152,7 @@
     "uk": "media/uk/jacket.mp3",
     "us": "media/us/jacket.mp3"
    },
+   "spell": true,
    "avoid": [
     "coat",
     "raincoat"
@@ -1197,6 +1204,7 @@
     "uk": "media/uk/jeans.mp3",
     "us": "media/us/jeans.mp3"
    },
+   "spell": true,
    "avoid": [
     "pocket",
     "shorts",
@@ -1791,6 +1799,7 @@
     "uk": "media/uk/shirt.mp3",
     "us": "media/us/shirt.mp3"
    },
+   "spell": true,
    "avoid": [
     "blouse",
     "suit",
@@ -1844,6 +1853,7 @@
     "uk": "media/uk/shoe.mp3",
     "us": "media/us/shoe.mp3"
    },
+   "spell": true,
    "avoid": [
     "boot",
     "sock",
@@ -2008,6 +2018,7 @@
     "uk": "media/uk/skirt.mp3",
     "us": "media/us/skirt.mp3"
    },
+   "spell": true,
    "avoid": [
     "dress"
    ]
@@ -2058,6 +2069,7 @@
     "uk": "media/uk/sock.mp3",
     "us": "media/us/sock.mp3"
    },
+   "spell": true,
    "avoid": [
     "boot",
     "shoe",
@@ -2214,6 +2226,7 @@
     "uk": "media/uk/sweater.mp3",
     "us": "media/us/sweater.mp3"
    },
+   "spell": true,
    "avoid": [
     "hoodie",
     "jumper"
@@ -2479,6 +2492,7 @@
     "uk": "media/uk/trousers.mp3",
     "us": "media/us/trousers.mp3"
    },
+   "spell": true,
    "avoid": [
     "jeans",
     "shorts",
@@ -2584,6 +2598,7 @@
     "uk": "media/uk/t-shirt.mp3",
     "us": "media/us/t-shirt.mp3"
    },
+   "spell": true,
    "avoid": [
     "blouse",
     "shirt"
@@ -2637,6 +2652,7 @@
     "uk": "media/uk/umbrella.mp3",
     "us": "media/us/umbrella.mp3"
    },
+   "spell": true,
    "avoid": [
     "raincoat"
    ]
@@ -2802,6 +2818,7 @@
     "uk": "media/uk/watch.mp3",
     "us": "media/us/watch.mp3"
    },
+   "spell": true,
    "avoid": [
     "watch.2"
    ]
@@ -2911,6 +2928,7 @@
     "uk": "media/uk/wear.mp3",
     "us": "media/us/wear.mp3"
    },
+   "spell": true,
    "avoid": [
     "clothes",
     "fashion",

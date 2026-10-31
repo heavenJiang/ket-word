@@ -101,6 +101,7 @@
     "uk": "media/uk/ball.mp3",
     "us": "media/us/ball.mp3"
    },
+   "spell": true,
    "avoid": [
     "basketball",
     "catch",
@@ -213,6 +214,7 @@
     "uk": "media/uk/basketball.mp3",
     "us": "media/us/basketball.mp3"
    },
+   "spell": true,
    "avoid": [
     "ball",
     "volleyball"
@@ -376,6 +378,7 @@
     "uk": "media/uk/beach.mp3",
     "us": "media/us/beach.mp3"
    },
+   "spell": true,
    "avoid": [
     "sea",
     "surf"
@@ -429,6 +432,7 @@
     "uk": "media/uk/bicycle.mp3",
     "us": "media/us/bicycle.mp3"
    },
+   "spell": true,
    "avoid": [
     "bike",
     "cycling"
@@ -480,6 +484,7 @@
     "uk": "media/uk/bike.mp3",
     "us": "media/us/bike.mp3"
    },
+   "spell": true,
    "avoid": [
     "bicycle",
     "cycling",
@@ -533,6 +538,7 @@
     "uk": "media/uk/boat.mp3",
     "us": "media/us/boat.mp3"
    },
+   "spell": true,
    "avoid": [
     "fishing",
     "sailing"
@@ -584,6 +590,7 @@
     "uk": "media/uk/catch.mp3",
     "us": "media/us/catch.mp3"
    },
+   "spell": true,
    "avoid": [
     "ball",
     "throw"
@@ -635,6 +642,7 @@
     "uk": "media/uk/climb.mp3",
     "us": "media/us/climb.mp3"
    },
+   "spell": true,
    "avoid": [
     "enter"
    ]
@@ -685,6 +693,7 @@
     "uk": "media/uk/club.mp3",
     "us": "media/us/club.mp3"
    },
+   "spell": true,
    "avoid": [
     "member",
     "team"
@@ -1059,6 +1068,7 @@
     "uk": "media/uk/football.mp3",
     "us": "media/us/football.mp3"
    },
+   "spell": true,
    "avoid": [
     "ball",
     "goal",
@@ -1165,6 +1175,7 @@
     "uk": "media/uk/game.mp3",
     "us": "media/us/game.mp3"
    },
+   "spell": true,
    "avoid": [
     "play",
     "player",
@@ -1473,6 +1484,7 @@
     "uk": "media/uk/member.mp3",
     "us": "media/us/member.mp3"
    },
+   "spell": true,
    "avoid": [
     "club",
     "team"
@@ -1532,6 +1544,7 @@
     "uk": "media/uk/play.mp3",
     "us": "media/us/play.mp3"
    },
+   "spell": true,
    "avoid": [
     "game",
     "player"
@@ -1584,6 +1597,7 @@
     "uk": "media/uk/player.mp3",
     "us": "media/us/player.mp3"
    },
+   "spell": true,
    "avoid": [
     "football-player",
     "game",
@@ -1638,6 +1652,7 @@
     "uk": "media/uk/pool.mp3",
     "us": "media/us/pool.mp3"
    },
+   "spell": true,
    "avoid": [
     "sports-centre",
     "stadium",
@@ -1744,6 +1759,7 @@
     "uk": "media/uk/practise.mp3",
     "us": "media/us/practise.mp3"
    },
+   "spell": true,
    "avoid": [
     "practice"
    ]
@@ -1959,6 +1975,7 @@
     "uk": "media/uk/rest.mp3",
     "us": "media/us/rest.mp3"
    },
+   "spell": true,
    "avoid": [
     "tired"
    ]
@@ -2011,6 +2028,7 @@
     "uk": "media/uk/ride.mp3",
     "us": "media/us/ride.mp3"
    },
+   "spell": true,
    "avoid": [
     "bike",
     "riding"
@@ -2165,6 +2183,7 @@
     "uk": "media/uk/run.mp3",
     "us": "media/us/run.mp3"
    },
+   "spell": true,
    "avoid": [
     "race",
     "walk"
@@ -2272,6 +2291,7 @@
     "uk": "media/uk/sea.mp3",
     "us": "media/us/sea.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "surf"
@@ -2687,6 +2707,7 @@
     "uk": "media/uk/sport.mp3",
     "us": "media/us/sport.mp3"
    },
+   "spell": true,
    "avoid": [
     "game",
     "team",
@@ -3006,6 +3027,7 @@
     "uk": "media/uk/swim.mp3",
     "us": "media/us/swim.mp3"
    },
+   "spell": true,
    "avoid": [
     "bathing-suit",
     "pool",
@@ -3062,6 +3084,7 @@
     "uk": "media/uk/swimming.mp3",
     "us": "media/us/swimming.mp3"
    },
+   "spell": true,
    "avoid": [
     "pool",
     "swim",
@@ -3323,6 +3346,7 @@
     "uk": "media/uk/team.mp3",
     "us": "media/us/team.mp3"
    },
+   "spell": true,
    "avoid": [
     "club",
     "coach",
@@ -3379,6 +3403,7 @@
     "uk": "media/uk/tennis.mp3",
     "us": "media/us/tennis.mp3"
    },
+   "spell": true,
    "avoid": [
     "badminton",
     "racket",
@@ -3536,6 +3561,7 @@
     "uk": "media/uk/ticket.mp3",
     "us": "media/us/ticket.mp3"
    },
+   "spell": true,
    "avoid": [
     "stadium"
    ]
@@ -3586,6 +3612,7 @@
     "uk": "media/uk/tired.mp3",
     "us": "media/us/tired.mp3"
    },
+   "spell": true,
    "avoid": [
     "rest"
    ]
@@ -3801,6 +3828,7 @@
     "uk": "media/uk/walk.mp3",
     "us": "media/us/walk.mp3"
    },
+   "spell": true,
    "avoid": [
     "race",
     "run"
@@ -3860,6 +3888,7 @@
     "uk": "media/uk/watch.mp3",
     "us": "media/us/watch.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -3908,6 +3937,7 @@
     "uk": "media/uk/win.mp3",
     "us": "media/us/win.mp3"
    },
+   "spell": true,
    "avoid": [
     "competition",
     "prize",

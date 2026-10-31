@@ -134,6 +134,7 @@
     "uk": "media/uk/my.mp3",
     "us": "media/us/my.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -317,6 +318,7 @@
     "uk": "media/uk/your.mp3",
     "us": "media/us/your.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -409,6 +411,7 @@
     "uk": "media/uk/yourself.mp3",
     "us": "media/us/yourself.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -500,6 +503,7 @@
     "uk": "media/uk/him.mp3",
     "us": "media/us/him.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -684,6 +688,7 @@
     "uk": "media/uk/her.mp3",
     "us": "media/us/her.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -822,6 +827,7 @@
     "uk": "media/uk/it.mp3",
     "us": "media/us/it.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1046,6 +1052,7 @@
     "uk": "media/uk/our.mp3",
     "us": "media/us/our.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1185,6 +1192,7 @@
     "uk": "media/uk/they.mp3",
     "us": "media/us/they.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1599,6 +1607,7 @@
     "uk": "media/uk/which.mp3",
     "us": "media/us/which.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1694,6 +1703,7 @@
     "uk": "media/uk/that.mp3",
     "us": "media/us/that.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1743,6 +1753,7 @@
     "uk": "media/uk/these.mp3",
     "us": "media/us/these.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

@@ -151,6 +151,7 @@
     "uk": "media/uk/angry.mp3",
     "us": "media/us/angry.mp3"
    },
+   "spell": true,
    "avoid": [
     "afraid",
     "worried"
@@ -203,6 +204,7 @@
     "uk": "media/uk/afraid.mp3",
     "us": "media/us/afraid.mp3"
    },
+   "spell": true,
    "avoid": [
     "angry",
     "brave",
@@ -361,6 +363,7 @@
     "uk": "media/uk/excited.mp3",
     "us": "media/us/excited.mp3"
    },
+   "spell": true,
    "avoid": [
     "happy",
     "unhappy"
@@ -461,6 +464,7 @@
     "uk": "media/uk/boring.mp3",
     "us": "media/us/boring.mp3"
    },
+   "spell": true,
    "avoid": [
     "bored"
    ]
@@ -514,6 +518,7 @@
     "uk": "media/uk/interested.mp3",
     "us": "media/us/interested.mp3"
    },
+   "spell": true,
    "avoid": [
     "interesting"
    ]
@@ -567,6 +572,7 @@
     "uk": "media/uk/interesting.mp3",
     "us": "media/us/interesting.mp3"
    },
+   "spell": true,
    "avoid": [
     "interested"
    ]
@@ -617,6 +623,7 @@
     "uk": "media/uk/tired.mp3",
     "us": "media/us/tired.mp3"
    },
+   "spell": true,
    "avoid": [
     "busy",
     "hungry"
@@ -669,6 +676,7 @@
     "uk": "media/uk/hungry.mp3",
     "us": "media/us/hungry.mp3"
    },
+   "spell": true,
    "avoid": [
     "busy",
     "tired"
@@ -721,6 +729,7 @@
     "uk": "media/uk/sorry.mp3",
     "us": "media/us/sorry.mp3"
    },
+   "spell": true,
    "avoid": [
     "lucky",
     "ready"
@@ -773,6 +782,7 @@
     "uk": "media/uk/lucky.mp3",
     "us": "media/us/lucky.mp3"
    },
+   "spell": true,
    "avoid": [
     "ready",
     "sorry"
@@ -825,6 +835,7 @@
     "uk": "media/uk/busy.mp3",
     "us": "media/us/busy.mp3"
    },
+   "spell": true,
    "avoid": [
     "hungry",
     "tired"
@@ -1035,6 +1046,7 @@
     "uk": "media/uk/ready.mp3",
     "us": "media/us/ready.mp3"
    },
+   "spell": true,
    "avoid": [
     "lucky",
     "sorry"
@@ -1086,6 +1098,7 @@
     "uk": "media/uk/good.mp3",
     "us": "media/us/good.mp3"
    },
+   "spell": true,
    "avoid": [
     "bad",
     "better",
@@ -1138,6 +1151,7 @@
     "uk": "media/uk/bad.mp3",
     "us": "media/us/bad.mp3"
    },
+   "spell": true,
    "avoid": [
     "better",
     "fine",
@@ -1195,6 +1209,7 @@
     "uk": "media/uk/better.mp3",
     "us": "media/us/better.mp3"
    },
+   "spell": true,
    "avoid": [
     "bad",
     "fine",
@@ -1247,6 +1262,7 @@
     "uk": "media/uk/fine.mp3",
     "us": "media/us/fine.mp3"
    },
+   "spell": true,
    "avoid": [
     "bad",
     "better",
@@ -1299,6 +1315,7 @@
     "uk": "media/uk/great.mp3",
     "us": "media/us/great.mp3"
    },
+   "spell": true,
    "avoid": [
     "lovely",
     "nice",
@@ -1351,6 +1368,7 @@
     "uk": "media/uk/nice.mp3",
     "us": "media/us/nice.mp3"
    },
+   "spell": true,
    "avoid": [
     "great",
     "lovely",
@@ -1679,6 +1697,7 @@
     "uk": "media/uk/cool.mp3",
     "us": "media/us/cool.mp3"
    },
+   "spell": true,
    "avoid": [
     "amazing",
     "brilliant",
@@ -1733,6 +1752,7 @@
     "uk": "media/uk/terrible.mp3",
     "us": "media/us/terrible.mp3"
    },
+   "spell": true,
    "avoid": [
     "bad",
     "strange"
@@ -1786,6 +1806,7 @@
     "uk": "media/uk/favourite.mp3",
     "us": "media/us/favourite.mp3"
    },
+   "spell": true,
    "avoid": [
     "important",
     "special"
@@ -1838,6 +1859,7 @@
     "uk": "media/uk/special.mp3",
     "us": "media/us/special.mp3"
    },
+   "spell": true,
    "avoid": [
     "favourite",
     "important"
@@ -1941,6 +1963,7 @@
     "uk": "media/uk/funny.mp3",
     "us": "media/us/funny.mp3"
    },
+   "spell": true,
    "avoid": [
     "clever",
     "friendly",
@@ -2001,6 +2024,7 @@
     "uk": "media/uk/kind.mp3",
     "us": "media/us/kind.mp3"
    },
+   "spell": true,
    "avoid": [
     "clever",
     "friendly",
@@ -2054,6 +2078,7 @@
     "uk": "media/uk/friendly.mp3",
     "us": "media/us/friendly.mp3"
    },
+   "spell": true,
    "avoid": [
     "clever",
     "funny",
@@ -2159,6 +2184,7 @@
     "uk": "media/uk/big.mp3",
     "us": "media/us/big.mp3"
    },
+   "spell": true,
    "avoid": [
     "high",
     "small",
@@ -2211,6 +2237,7 @@
     "uk": "media/uk/small.mp3",
     "us": "media/us/small.mp3"
    },
+   "spell": true,
    "avoid": [
     "big",
     "high",
@@ -2263,6 +2290,7 @@
     "uk": "media/uk/tall.mp3",
     "us": "media/us/tall.mp3"
    },
+   "spell": true,
    "avoid": [
     "big",
     "high",
@@ -2315,6 +2343,7 @@
     "uk": "media/uk/high.mp3",
     "us": "media/us/high.mp3"
    },
+   "spell": true,
    "avoid": [
     "big",
     "small",
@@ -2479,6 +2508,7 @@
     "uk": "media/uk/hard.mp3",
     "us": "media/us/hard.mp3"
    },
+   "spell": true,
    "avoid": [
     "heavy",
     "soft",
@@ -2539,6 +2569,7 @@
     "uk": "media/uk/fast.mp3",
     "us": "media/us/fast.mp3"
    },
+   "spell": true,
    "avoid": [
     "quick",
     "slow"
@@ -2590,6 +2621,7 @@
     "uk": "media/uk/quick.mp3",
     "us": "media/us/quick.mp3"
    },
+   "spell": true,
    "avoid": [
     "fast",
     "slow"
@@ -2641,6 +2673,7 @@
     "uk": "media/uk/slow.mp3",
     "us": "media/us/slow.mp3"
    },
+   "spell": true,
    "avoid": [
     "fast",
     "quick"
@@ -2744,6 +2777,7 @@
     "uk": "media/uk/quiet.mp3",
     "us": "media/us/quiet.mp3"
    },
+   "spell": true,
    "avoid": [
     "noisy"
    ]
@@ -2794,6 +2828,7 @@
     "uk": "media/uk/old.mp3",
     "us": "media/us/old.mp3"
    },
+   "spell": true,
    "avoid": [
     "modern",
     "young"
@@ -2845,6 +2880,7 @@
     "uk": "media/uk/young.mp3",
     "us": "media/us/young.mp3"
    },
+   "spell": true,
    "avoid": [
     "modern",
     "old"
@@ -2950,6 +2986,7 @@
     "uk": "media/uk/beautiful.mp3",
     "us": "media/us/beautiful.mp3"
    },
+   "spell": true,
    "avoid": [
     "lovely",
     "pretty"
@@ -3002,6 +3039,7 @@
     "uk": "media/uk/pretty.mp3",
     "us": "media/us/pretty.mp3"
    },
+   "spell": true,
    "avoid": [
     "beautiful",
     "lovely"
@@ -3064,6 +3102,7 @@
     "uk": "media/uk/right.mp3",
     "us": "media/us/right.mp3"
    },
+   "spell": true,
    "avoid": [
     "sure",
     "wrong"
@@ -3114,6 +3153,7 @@
     "uk": "media/uk/wrong.mp3",
     "us": "media/us/wrong.mp3"
    },
+   "spell": true,
    "avoid": [
     "right",
     "sure"
@@ -3167,6 +3207,7 @@
     "uk": "media/uk/different.mp3",
     "us": "media/us/different.mp3"
    },
+   "spell": true,
    "avoid": [
     "clear",
     "difficult",
@@ -3221,6 +3262,7 @@
     "uk": "media/uk/difficult.mp3",
     "us": "media/us/difficult.mp3"
    },
+   "spell": true,
    "avoid": [
     "clear",
     "different",
@@ -3325,6 +3367,7 @@
     "uk": "media/uk/real.mp3",
     "us": "media/us/real.mp3"
    },
+   "spell": true,
    "avoid": [
     "clear",
     "different",
@@ -3377,6 +3420,7 @@
     "uk": "media/uk/sure.mp3",
     "us": "media/us/sure.mp3"
    },
+   "spell": true,
    "avoid": [
     "able",
     "alone",
@@ -3432,6 +3476,7 @@
     "uk": "media/uk/important.mp3",
     "us": "media/us/important.mp3"
    },
+   "spell": true,
    "avoid": [
     "famous",
     "favourite",
@@ -3486,6 +3531,7 @@
     "uk": "media/uk/useful.mp3",
     "us": "media/us/useful.mp3"
    },
+   "spell": true,
    "avoid": [
     "famous",
     "important"
@@ -3538,6 +3584,7 @@
     "uk": "media/uk/famous.mp3",
     "us": "media/us/famous.mp3"
    },
+   "spell": true,
    "avoid": [
     "important",
     "useful"
@@ -3597,6 +3644,7 @@
     "uk": "media/uk/free.mp3",
     "us": "media/us/free.mp3"
    },
+   "spell": true,
    "avoid": [
     "poor",
     "rich"
@@ -3648,6 +3696,7 @@
     "uk": "media/uk/rich.mp3",
     "us": "media/us/rich.mp3"
    },
+   "spell": true,
    "avoid": [
     "free",
     "poor"
@@ -3699,6 +3748,7 @@
     "uk": "media/uk/poor.mp3",
     "us": "media/us/poor.mp3"
    },
+   "spell": true,
    "avoid": [
     "free",
     "rich"
@@ -3750,6 +3800,7 @@
     "uk": "media/uk/strong.mp3",
     "us": "media/us/strong.mp3"
    },
+   "spell": true,
    "avoid": [
     "hard",
     "heavy"
@@ -3808,6 +3859,7 @@
     "uk": "media/uk/sweet.mp3",
     "us": "media/us/sweet.mp3"
    },
+   "spell": true,
    "avoid": [
     "married",
     "well"
@@ -3860,6 +3912,7 @@
     "uk": "media/uk/married.mp3",
     "us": "media/us/married.mp3"
    },
+   "spell": true,
    "avoid": [
     "sweet",
     "well"

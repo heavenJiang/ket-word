@@ -100,6 +100,7 @@
     "uk": "media/uk/actor.mp3",
     "us": "media/us/actor.mp3"
    },
+   "spell": true,
    "avoid": [
     "act",
     "dancer",
@@ -202,6 +203,7 @@
     "uk": "media/uk/art.mp3",
     "us": "media/us/art.mp3"
    },
+   "spell": true,
    "avoid": [
     "drawing",
     "paint",
@@ -732,6 +734,7 @@
     "uk": "media/uk/film.mp3",
     "us": "media/us/film.mp3"
    },
+   "spell": true,
    "avoid": [
     "cartoon",
     "programme",
@@ -786,6 +789,7 @@
     "uk": "media/uk/fun.mp3",
     "us": "media/us/fun.mp3"
    },
+   "spell": true,
    "avoid": [
     "laugh"
    ]
@@ -1112,6 +1116,7 @@
     "uk": "media/uk/laugh.mp3",
     "us": "media/us/laugh.mp3"
    },
+   "spell": true,
    "avoid": [
     "fun"
    ]
@@ -1212,6 +1217,7 @@
     "uk": "media/uk/news.mp3",
     "us": "media/us/news.mp3"
    },
+   "spell": true,
    "avoid": [
     "article",
     "magazine",
@@ -1266,6 +1272,7 @@
     "uk": "media/uk/piano.mp3",
     "us": "media/us/piano.mp3"
    },
+   "spell": true,
    "avoid": [
     "drum",
     "guitar",
@@ -1320,6 +1327,7 @@
     "uk": "media/uk/picture.mp3",
     "us": "media/us/picture.mp3"
    },
+   "spell": true,
    "avoid": [
     "art",
     "drawing",
@@ -1383,6 +1391,7 @@
     "uk": "media/uk/play.mp3",
     "us": "media/us/play.mp3"
    },
+   "spell": true,
    "avoid": [
     "play.2"
    ]
@@ -1661,6 +1670,7 @@
     "uk": "media/uk/show.mp3",
     "us": "media/us/show.mp3"
    },
+   "spell": true,
    "avoid": [
     "concert",
     "disco",
@@ -1713,6 +1723,7 @@
     "uk": "media/uk/sing.mp3",
     "us": "media/us/sing.mp3"
    },
+   "spell": true,
    "avoid": [
     "music",
     "musician",
@@ -1872,6 +1883,7 @@
     "uk": "media/uk/radio.mp3",
     "us": "media/us/radio.mp3"
    },
+   "spell": true,
    "avoid": [
     "screen",
     "television"
@@ -2081,6 +2093,7 @@
     "uk": "media/uk/book.mp3",
     "us": "media/us/book.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2129,6 +2142,7 @@
     "uk": "media/uk/card.mp3",
     "us": "media/us/card.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2283,6 +2297,7 @@
     "uk": "media/uk/cinema.mp3",
     "us": "media/us/cinema.mp3"
    },
+   "spell": true,
    "avoid": [
     "exhibition",
     "museum",
@@ -2388,6 +2403,7 @@
     "uk": "media/uk/dance.mp3",
     "us": "media/us/dance.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2487,6 +2503,7 @@
     "uk": "media/uk/draw.mp3",
     "us": "media/us/draw.mp3"
    },
+   "spell": true,
    "avoid": [
     "paint",
     "painter"
@@ -2745,6 +2762,7 @@
     "uk": "media/uk/group.mp3",
     "us": "media/us/group.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2794,6 +2812,7 @@
     "uk": "media/uk/guitar.mp3",
     "us": "media/us/guitar.mp3"
    },
+   "spell": true,
    "avoid": [
     "drum",
     "instrument",
@@ -2849,6 +2868,7 @@
     "uk": "media/uk/magazine.mp3",
     "us": "media/us/magazine.mp3"
    },
+   "spell": true,
    "avoid": [
     "article",
     "news",
@@ -2903,6 +2923,7 @@
     "uk": "media/uk/museum.mp3",
     "us": "media/us/museum.mp3"
    },
+   "spell": true,
    "avoid": [
     "cinema",
     "exhibition",
@@ -2956,6 +2977,7 @@
     "uk": "media/uk/music.mp3",
     "us": "media/us/music.mp3"
    },
+   "spell": true,
    "avoid": [
     "musician",
     "sing",
@@ -3064,6 +3086,7 @@
     "uk": "media/uk/newspaper.mp3",
     "us": "media/us/newspaper.mp3"
    },
+   "spell": true,
    "avoid": [
     "article",
     "magazine",
@@ -3118,6 +3141,7 @@
     "uk": "media/uk/paint.mp3",
     "us": "media/us/paint.mp3"
    },
+   "spell": true,
    "avoid": [
     "art",
     "draw",
@@ -3225,6 +3249,7 @@
     "uk": "media/uk/photo.mp3",
     "us": "media/us/photo.mp3"
    },
+   "spell": true,
    "avoid": [
     "photographer",
     "photography",
@@ -3382,6 +3407,7 @@
     "uk": "media/uk/practise.mp3",
     "us": "media/us/practise.mp3"
    },
+   "spell": true,
    "avoid": [
     "practice"
    ]
@@ -3481,6 +3507,7 @@
     "uk": "media/uk/read.mp3",
     "us": "media/us/read.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -3530,6 +3557,7 @@
     "uk": "media/uk/singer.mp3",
     "us": "media/us/singer.mp3"
    },
+   "spell": true,
    "avoid": [
     "act",
     "actor",
@@ -3585,6 +3613,7 @@
     "uk": "media/uk/television.mp3",
     "us": "media/us/television.mp3"
    },
+   "spell": true,
    "avoid": [
     "radio",
     "screen"
@@ -3691,6 +3720,7 @@
     "uk": "media/uk/ticket.mp3",
     "us": "media/us/ticket.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -3741,6 +3771,7 @@
     "uk": "media/uk/video.mp3",
     "us": "media/us/video.mp3"
    },
+   "spell": true,
    "avoid": [
     "cartoon",
     "film",
@@ -3853,6 +3884,7 @@
     "uk": "media/uk/watch.mp3",
     "us": "media/us/watch.mp3"
    },
+   "spell": true,
    "avoid": [
     "look-at",
     "watch.2"

@@ -47,6 +47,7 @@
     "uk": "media/uk/aunt.mp3",
     "us": "media/us/aunt.mp3"
    },
+   "spell": true,
    "avoid": [
     "cousin",
     "uncle"
@@ -98,6 +99,7 @@
     "uk": "media/uk/boy.mp3",
     "us": "media/us/boy.mp3"
    },
+   "spell": true,
    "avoid": [
     "brother",
     "child",
@@ -157,6 +159,7 @@
     "uk": "media/uk/brother.mp3",
     "us": "media/us/brother.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "child",
@@ -210,6 +213,7 @@
     "uk": "media/uk/child.mp3",
     "us": "media/us/child.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "brother",
@@ -267,6 +271,7 @@
     "uk": "media/uk/cousin.mp3",
     "us": "media/us/cousin.mp3"
    },
+   "spell": true,
    "avoid": [
     "aunt",
     "uncle"
@@ -368,6 +373,7 @@
     "uk": "media/uk/daughter.mp3",
     "us": "media/us/daughter.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "child",
@@ -424,6 +430,7 @@
     "uk": "media/uk/family.mp3",
     "us": "media/us/family.mp3"
    },
+   "spell": true,
    "avoid": [
     "group",
     "parent",
@@ -477,6 +484,7 @@
     "uk": "media/uk/father.mp3",
     "us": "media/us/father.mp3"
    },
+   "spell": true,
    "avoid": [
     "dad",
     "parent"
@@ -528,6 +536,7 @@
     "uk": "media/uk/friend.mp3",
     "us": "media/us/friend.mp3"
    },
+   "spell": true,
    "avoid": [
     "friendly",
     "neighbour",
@@ -581,6 +590,7 @@
     "uk": "media/uk/friendly.mp3",
     "us": "media/us/friendly.mp3"
    },
+   "spell": true,
    "avoid": [
     "friend",
     "guest",
@@ -634,6 +644,7 @@
     "uk": "media/uk/girl.mp3",
     "us": "media/us/girl.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "brother",
@@ -865,6 +876,7 @@
     "uk": "media/uk/grandfather.mp3",
     "us": "media/us/grandfather.mp3"
    },
+   "spell": true,
    "avoid": [
     "grandad",
     "grandchild",
@@ -976,6 +988,7 @@
     "uk": "media/uk/grandmother.mp3",
     "us": "media/us/grandmother.mp3"
    },
+   "spell": true,
    "avoid": [
     "grandchild",
     "granddaughter",
@@ -1087,6 +1100,7 @@
     "uk": "media/uk/grandparent.mp3",
     "us": "media/us/grandparent.mp3"
    },
+   "spell": true,
    "avoid": [
     "grandad",
     "grandchild",
@@ -1258,6 +1272,7 @@
     "uk": "media/uk/group.mp3",
     "us": "media/us/group.mp3"
    },
+   "spell": true,
    "avoid": [
     "family",
     "parent",
@@ -1414,6 +1429,7 @@
     "uk": "media/uk/husband.mp3",
     "us": "media/us/husband.mp3"
    },
+   "spell": true,
    "avoid": [
     "married",
     "wife"
@@ -1472,6 +1488,7 @@
     "uk": "media/uk/love.mp3",
     "us": "media/us/love.mp3"
    },
+   "spell": true,
    "avoid": [
     "miss"
    ]
@@ -1523,6 +1540,7 @@
     "uk": "media/uk/married.mp3",
     "us": "media/us/married.mp3"
    },
+   "spell": true,
    "avoid": [
     "husband",
     "wife"
@@ -1582,6 +1600,7 @@
     "uk": "media/uk/miss.mp3",
     "us": "media/us/miss.mp3"
    },
+   "spell": true,
    "avoid": [
     "love",
     "miss.2",
@@ -1699,6 +1718,7 @@
     "uk": "media/uk/mother.mp3",
     "us": "media/us/mother.mp3"
    },
+   "spell": true,
    "avoid": [
     "mum",
     "parent"
@@ -2007,6 +2027,7 @@
     "uk": "media/uk/parent.mp3",
     "us": "media/us/parent.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "child",
@@ -2120,6 +2141,7 @@
     "uk": "media/uk/sister.mp3",
     "us": "media/us/sister.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "brother",
@@ -2173,6 +2195,7 @@
     "uk": "media/uk/son.mp3",
     "us": "media/us/son.mp3"
    },
+   "spell": true,
    "avoid": [
     "boy",
     "child",
@@ -2335,6 +2358,7 @@
     "uk": "media/uk/uncle.mp3",
     "us": "media/us/uncle.mp3"
    },
+   "spell": true,
    "avoid": [
     "aunt",
     "cousin"
@@ -2386,6 +2410,7 @@
     "uk": "media/uk/wife.mp3",
     "us": "media/us/wife.mp3"
    },
+   "spell": true,
    "avoid": [
     "husband",
     "married"

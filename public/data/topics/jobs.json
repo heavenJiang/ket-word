@@ -47,6 +47,7 @@
     "uk": "media/uk/job.mp3",
     "us": "media/us/job.mp3"
    },
+   "spell": true,
    "avoid": [
     "earn",
     "occupation",
@@ -162,6 +163,7 @@
     "uk": "media/uk/worker.mp3",
     "us": "media/us/worker.mp3"
    },
+   "spell": true,
    "avoid": [
     "engineer",
     "job",
@@ -272,6 +274,7 @@
     "uk": "media/uk/office.mp3",
     "us": "media/us/office.mp3"
    },
+   "spell": true,
    "avoid": [
     "business",
     "company",
@@ -326,6 +329,7 @@
     "uk": "media/uk/company.mp3",
     "us": "media/us/company.mp3"
    },
+   "spell": true,
    "avoid": [
     "business",
     "factory",
@@ -380,6 +384,7 @@
     "uk": "media/uk/business.mp3",
     "us": "media/us/business.mp3"
    },
+   "spell": true,
    "avoid": [
     "company",
     "factory",
@@ -809,6 +814,7 @@
     "uk": "media/uk/meeting.mp3",
     "us": "media/us/meeting.mp3"
    },
+   "spell": true,
    "avoid": [
     "break",
     "computer",
@@ -863,6 +869,7 @@
     "uk": "media/uk/desk.mp3",
     "us": "media/us/desk.mp3"
    },
+   "spell": true,
    "avoid": [
     "computer",
     "diary",
@@ -978,6 +985,7 @@
     "uk": "media/uk/email.mp3",
     "us": "media/us/email.mp3"
    },
+   "spell": true,
    "avoid": [
     "letter",
     "message"
@@ -1038,6 +1046,7 @@
     "uk": "media/uk/message.mp3",
     "us": "media/us/message.mp3"
    },
+   "spell": true,
    "avoid": [
     "email",
     "letter"
@@ -1097,6 +1106,7 @@
     "uk": "media/uk/letter.mp3",
     "us": "media/us/letter.mp3"
    },
+   "spell": true,
    "avoid": [
     "email",
     "message"
@@ -1200,6 +1210,7 @@
     "uk": "media/uk/doctor.mp3",
     "us": "media/us/doctor.mp3"
    },
+   "spell": true,
    "avoid": [
     "chemist",
     "dentist",
@@ -1462,6 +1473,7 @@
     "uk": "media/uk/teacher.mp3",
     "us": "media/us/teacher.mp3"
    },
+   "spell": true,
    "avoid": [
     "coach",
     "student"
@@ -1514,6 +1526,7 @@
     "uk": "media/uk/student.mp3",
     "us": "media/us/student.mp3"
    },
+   "spell": true,
    "avoid": [
     "coach",
     "teacher"
@@ -1572,6 +1585,7 @@
     "uk": "media/uk/cook.mp3",
     "us": "media/us/cook.mp3"
    },
+   "spell": true,
    "avoid": [
     "waiter",
     "waitress"
@@ -1624,6 +1638,7 @@
     "uk": "media/uk/waiter.mp3",
     "us": "media/us/waiter.mp3"
    },
+   "spell": true,
    "avoid": [
     "cook",
     "waitress"
@@ -1676,6 +1691,7 @@
     "uk": "media/uk/waitress.mp3",
     "us": "media/us/waitress.mp3"
    },
+   "spell": true,
    "avoid": [
     "cook",
     "waiter"
@@ -2045,6 +2061,7 @@
     "uk": "media/uk/driver.mp3",
     "us": "media/us/driver.mp3"
    },
+   "spell": true,
    "avoid": [
     "pilot",
     "police-officer"
@@ -2255,6 +2272,7 @@
     "uk": "media/uk/farmer.mp3",
     "us": "media/us/farmer.mp3"
    },
+   "spell": true,
    "avoid": [
     "factory",
     "farm"
@@ -2306,6 +2324,7 @@
     "uk": "media/uk/farm.mp3",
     "us": "media/us/farm.mp3"
    },
+   "spell": true,
    "avoid": [
     "factory",
     "farmer"
@@ -2414,6 +2433,7 @@
     "uk": "media/uk/actor.mp3",
     "us": "media/us/actor.mp3"
    },
+   "spell": true,
    "avoid": [
     "musician",
     "singer"
@@ -2467,6 +2487,7 @@
     "uk": "media/uk/artist.mp3",
     "us": "media/us/artist.mp3"
    },
+   "spell": true,
    "avoid": [
     "painter",
     "photographer"
@@ -2624,6 +2645,7 @@
     "uk": "media/uk/singer.mp3",
     "us": "media/us/singer.mp3"
    },
+   "spell": true,
    "avoid": [
     "actor",
     "musician"
@@ -2728,6 +2750,7 @@
     "uk": "media/uk/writer.mp3",
     "us": "media/us/writer.mp3"
    },
+   "spell": true,
    "avoid": [
     "explorer",
     "journalist"
@@ -3459,6 +3482,7 @@
     "uk": "media/uk/computer.mp3",
     "us": "media/us/computer.mp3"
    },
+   "spell": true,
    "avoid": [
     "desk",
     "diary",
@@ -3513,6 +3537,7 @@
     "uk": "media/uk/break.mp3",
     "us": "media/us/break.mp3"
    },
+   "spell": true,
    "avoid": [
     "meeting",
     "work"

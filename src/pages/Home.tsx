@@ -1,7 +1,8 @@
-import { buildPlan } from "../session/plan";
-import { dayKey, planOptions, streak, type Progress } from "../store/progress";
-import { canStart, type Library } from "../lib/data";
-import type { Topic, Word } from "../types";
+import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
+import { todayPlan } from "../session/today";
+import { dayKey, streak, type Progress } from "../store/progress";
+import type { Library } from "../lib/data";
+import type { Topic } from "../types";
 import { Max, type Pose } from "../ui/Max";
 
 /** Max collects explorer gear as the child earns stars: always the same puppy, so he stays "theirs". */
@@ -13,8 +14,8 @@ export function petStage(stars: number): { pose: Pose; name: string; next: numbe
 }
 
 /** What Max says on the home screen. */
-function maxLine(name: string, reviews: number, fresh: number, backlog: number): string {
-  if (backlog > 0) return `${name}，好久不见！我们先把老朋友找回来吧。`;
+function maxLine(name: string, reviews: number, fresh: number, catchUp: boolean): string {
+  if (catchUp) return `${name}，好久不见！我们先把老朋友找回来吧。`;
   if (reviews + fresh === 0) return "今天的任务完成啦！单词要睡一觉才记得牢，明天见～";
   if (fresh > 0 && reviews > 0) return `先和 ${reviews} 个老朋友打招呼，再认识 ${fresh} 个新朋友！`;
   if (fresh > 0) return `今天有 ${fresh} 个新朋友等你认识！`;
@@ -24,8 +25,10 @@ function maxLine(name: string, reviews: number, fresh: number, backlog: number):
 export function Home(props: {
   progress: Progress;
   topic?: Topic;
-  words: Word[];
+  topics: Topic[];
   library: Library;
+  /** The island the child just finished, when the app has moved on to the next one. */
+  finished?: Topic;
   /** Stories the child can open but has not read yet. */
   newStories: number;
   onStart: () => void;
@@ -35,21 +38,17 @@ export function Home(props: {
   stickers: [number, number];
   onStickers: () => void;
 }) {
-  const { progress, topic, words, library, newStories, onStart, onMap, onStories, stickers, onStickers } = props;
+  const { progress, topic, topics, library, finished, newStories, onStart, onMap, onStories, stickers, onStickers } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
-  const plan = buildPlan(
-    library.all.map((w) => w.id),
-    progress.words,
-    now,
-    planOptions(progress, now),
-    words.map((w) => w.id),
-    canStart(library, progress.words),
-  );
+  const plan = todayPlan(library, topics, progress, now);
   const pet = petStage(progress.stars);
   const days = streak(progress.days, now);
   const hasWork = plan.reviews.length + plan.newWords.length > 0;
-  const minutes = Math.max(1, Math.round((plan.reviews.length * 8 + plan.newWords.length * 30) / 60));
+  const catchUp = plan.backlog > 0 && plan.newWords.length === 0;
+  const minutes = Math.max(1, Math.round((plan.reviews.length * secsPerReview(progress) + plan.newWords.length * NEW_WORD_SECS) / 60));
+  const met = library.all.filter((w) => progress.words[w.id]).length;
+  const left = daysLeft(progress, now);
 
   return (
     <div className="page home">
@@ -68,7 +67,7 @@ export function Home(props: {
         <Max
           pose={hasWork ? pet.pose : "sleep"}
           size="lg"
-          say={maxLine(progress.profile?.name ?? "小探险家", plan.reviews.length, plan.newWords.length, plan.backlog)}
+          say={maxLine(progress.profile?.name ?? "小探险家", plan.reviews.length, plan.newWords.length, catchUp)}
         />
         <div className="pet-info">
           <b>{pet.name}</b>
@@ -93,6 +92,7 @@ export function Home(props: {
       </section>
 
       <section className="card today">
+        {finished && <p className="notice">🎉 {finished.zh}岛的单词都认识啦！接下来去{topic?.zh ?? "下一座"}岛。</p>}
         <button className="today-topic" onClick={onMap}>
           <span>当前岛屿</span>
           <b>{topic ? `${topic.zh} · ${topic.en}` : "加载中…"}</b>
@@ -114,7 +114,7 @@ export function Home(props: {
                 <span>分钟</span>
               </div>
             </div>
-            {plan.backlog > 0 && (
+            {catchUp && (
               <p className="notice">欢迎回来！先把以前的单词找回来，新单词稍后再学（还有 {plan.backlog} 个排队中）。</p>
             )}
             <button className="btn btn-primary btn-huge" onClick={onStart}>
@@ -126,6 +126,11 @@ export function Home(props: {
             <b>🎉 今天的任务完成啦！</b>
             <p className="muted">明天再来，记得更牢。</p>
           </div>
+        )}
+        {left > 0 && (
+          <p className="muted small goal-line">
+            🎯 离目标还有 {left} 天 · 已认识 {met} / {library.all.length} 个词
+          </p>
         )}
       </section>
 
@@ -143,6 +148,7 @@ export function Home(props: {
       {today && (
         <section className="card today-log">
           今天已练习 <b>{today.answered}</b> 次，答对 <b>{today.correct}</b> 次，认识了 <b>{today.newWords}</b> 个新单词
+          {!!today.known && <>，快速跳过 <b>{today.known}</b> 个早就会的词</>}
         </section>
       )}
     </div>

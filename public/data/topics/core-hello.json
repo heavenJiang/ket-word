@@ -369,6 +369,7 @@
     "uk": "media/uk/hello.mp3",
     "us": "media/us/hello.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -416,6 +417,7 @@
     "uk": "media/uk/hey.mp3",
     "us": "media/us/hey.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -691,6 +693,7 @@
     "uk": "media/uk/please.mp3",
     "us": "media/us/please.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -738,6 +741,7 @@
     "uk": "media/uk/thanks.mp3",
     "us": "media/us/thanks.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -877,6 +881,7 @@
     "uk": "media/uk/welcome.mp3",
     "us": "media/us/welcome.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1386,6 +1391,7 @@
     "uk": "media/uk/maybe.mp3",
     "us": "media/us/maybe.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

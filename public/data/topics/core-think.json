@@ -48,6 +48,7 @@
     "uk": "media/uk/agree.mp3",
     "us": "media/us/agree.mp3"
    },
+   "spell": true,
    "avoid": [
     "choose",
     "decide"
@@ -102,6 +103,7 @@
     "uk": "media/uk/answer.mp3",
     "us": "media/us/answer.mp3"
    },
+   "spell": true,
    "avoid": [
     "ask",
     "question"
@@ -153,6 +155,7 @@
     "uk": "media/uk/ask.mp3",
     "us": "media/us/ask.mp3"
    },
+   "spell": true,
    "avoid": [
     "answer",
     "question"
@@ -204,6 +207,7 @@
     "uk": "media/uk/believe.mp3",
     "us": "media/us/believe.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -252,6 +256,7 @@
     "uk": "media/uk/choose.mp3",
     "us": "media/us/choose.mp3"
    },
+   "spell": true,
    "avoid": [
     "agree",
     "decide"
@@ -355,6 +360,7 @@
     "uk": "media/uk/describe.mp3",
     "us": "media/us/describe.mp3"
    },
+   "spell": true,
    "avoid": [
     "discuss",
     "explain"
@@ -511,6 +517,7 @@
     "uk": "media/uk/forget.mp3",
     "us": "media/us/forget.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -804,6 +811,7 @@
     "uk": "media/uk/say.mp3",
     "us": "media/us/say.mp3"
    },
+   "spell": true,
    "avoid": [
     "shout",
     "speak",
@@ -956,6 +964,7 @@
     "uk": "media/uk/speak.mp3",
     "us": "media/us/speak.mp3"
    },
+   "spell": true,
    "avoid": [
     "say",
     "shout",
@@ -1007,6 +1016,7 @@
     "uk": "media/uk/spell.mp3",
     "us": "media/us/spell.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1150,6 +1160,7 @@
     "uk": "media/uk/tell.mp3",
     "us": "media/us/tell.mp3"
    },
+   "spell": true,
    "avoid": [
     "say",
     "shout",
@@ -1201,6 +1212,7 @@
     "uk": "media/uk/think.mp3",
     "us": "media/us/think.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1250,6 +1262,7 @@
     "uk": "media/uk/understand.mp3",
     "us": "media/us/understand.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1396,6 +1409,7 @@
     "uk": "media/uk/want.mp3",
     "us": "media/us/want.mp3"
    },
+   "spell": true,
    "avoid": [
     "need",
     "prefer"
@@ -1446,6 +1460,7 @@
     "uk": "media/uk/need.mp3",
     "us": "media/us/need.mp3"
    },
+   "spell": true,
    "avoid": [
     "prefer",
     "want"
@@ -1496,6 +1511,7 @@
     "uk": "media/uk/hate.mp3",
     "us": "media/us/hate.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1544,6 +1560,7 @@
     "uk": "media/uk/enjoy.mp3",
     "us": "media/us/enjoy.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1646,6 +1663,7 @@
     "uk": "media/uk/idea.mp3",
     "us": "media/us/idea.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1743,6 +1761,7 @@
     "uk": "media/uk/reason.mp3",
     "us": "media/us/reason.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1791,6 +1810,7 @@
     "uk": "media/uk/question.mp3",
     "us": "media/us/question.mp3"
    },
+   "spell": true,
    "avoid": [
     "answer",
     "ask"

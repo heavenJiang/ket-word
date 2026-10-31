@@ -47,6 +47,7 @@
     "uk": "media/uk/town.mp3",
     "us": "media/us/town.mp3"
    },
+   "spell": true,
    "avoid": [
     "city-centre",
     "square"
@@ -206,6 +207,7 @@
     "uk": "media/uk/market.mp3",
     "us": "media/us/market.mp3"
    },
+   "spell": true,
    "avoid": [
     "corner",
     "square"
@@ -310,6 +312,7 @@
     "uk": "media/uk/street.mp3",
     "us": "media/us/street.mp3"
    },
+   "spell": true,
    "avoid": [
     "motorway",
     "road",
@@ -362,6 +365,7 @@
     "uk": "media/uk/road.mp3",
     "us": "media/us/road.mp3"
    },
+   "spell": true,
    "avoid": [
     "motorway",
     "roundabout",
@@ -466,6 +470,7 @@
     "uk": "media/uk/park.mp3",
     "us": "media/us/park.mp3"
    },
+   "spell": true,
    "avoid": [
     "car-park",
     "park.2",
@@ -735,6 +740,7 @@
     "uk": "media/uk/station.mp3",
     "us": "media/us/station.mp3"
    },
+   "spell": true,
    "avoid": [
     "airport",
     "bus-station",
@@ -1107,6 +1113,7 @@
     "uk": "media/uk/airport.mp3",
     "us": "media/us/airport.mp3"
    },
+   "spell": true,
    "avoid": [
     "station"
    ]

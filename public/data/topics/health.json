@@ -48,6 +48,7 @@
     "uk": "media/uk/body.mp3",
     "us": "media/us/body.mp3"
    },
+   "spell": true,
    "avoid": [
     "face",
     "head",
@@ -100,6 +101,7 @@
     "uk": "media/uk/head.mp3",
     "us": "media/us/head.mp3"
    },
+   "spell": true,
    "avoid": [
     "body",
     "face",
@@ -152,6 +154,7 @@
     "uk": "media/uk/face.mp3",
     "us": "media/us/face.mp3"
    },
+   "spell": true,
    "avoid": [
     "body",
     "head",
@@ -204,6 +207,7 @@
     "uk": "media/uk/hair.mp3",
     "us": "media/us/hair.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -252,6 +256,7 @@
     "uk": "media/uk/eye.mp3",
     "us": "media/us/eye.mp3"
    },
+   "spell": true,
    "avoid": [
     "ear",
     "nose",
@@ -304,6 +309,7 @@
     "uk": "media/uk/ear.mp3",
     "us": "media/us/ear.mp3"
    },
+   "spell": true,
    "avoid": [
     "eye",
     "nose",
@@ -356,6 +362,7 @@
     "uk": "media/uk/nose.mp3",
     "us": "media/us/nose.mp3"
    },
+   "spell": true,
    "avoid": [
     "ear",
     "eye",
@@ -408,6 +415,7 @@
     "uk": "media/uk/tooth.mp3",
     "us": "media/us/tooth.mp3"
    },
+   "spell": true,
    "avoid": [
     "ear",
     "eye",
@@ -512,6 +520,7 @@
     "uk": "media/uk/arm.mp3",
     "us": "media/us/arm.mp3"
    },
+   "spell": true,
    "avoid": [
     "finger",
     "hand"
@@ -563,6 +572,7 @@
     "uk": "media/uk/hand.mp3",
     "us": "media/us/hand.mp3"
    },
+   "spell": true,
    "avoid": [
     "arm",
     "finger"
@@ -681,6 +691,7 @@
     "uk": "media/uk/back.mp3",
     "us": "media/us/back.mp3"
    },
+   "spell": true,
    "avoid": [
     "back.2",
     "foot",
@@ -799,6 +810,7 @@
     "uk": "media/uk/leg.mp3",
     "us": "media/us/leg.mp3"
    },
+   "spell": true,
    "avoid": [
     "back",
     "foot"
@@ -850,6 +862,7 @@
     "uk": "media/uk/foot.mp3",
     "us": "media/us/foot.mp3"
    },
+   "spell": true,
    "avoid": [
     "back",
     "leg"
@@ -1547,6 +1560,7 @@
     "uk": "media/uk/cold.mp3",
     "us": "media/us/cold.mp3"
    },
+   "spell": true,
    "avoid": [
     "cold.2"
    ]
@@ -1713,6 +1727,7 @@
     "uk": "media/uk/doctor.mp3",
     "us": "media/us/doctor.mp3"
    },
+   "spell": true,
    "avoid": [
     "dentist",
     "dr",
@@ -1974,6 +1989,7 @@
     "uk": "media/uk/hospital.mp3",
     "us": "media/us/hospital.mp3"
    },
+   "spell": true,
    "avoid": [
     "ambulance",
     "chemist"
@@ -2184,6 +2200,7 @@
     "uk": "media/uk/toothbrush.mp3",
     "us": "media/us/toothbrush.mp3"
    },
+   "spell": true,
    "avoid": [
     "comb",
     "soap"
@@ -2346,6 +2363,7 @@
     "uk": "media/uk/clean.mp3",
     "us": "media/us/clean.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2404,6 +2422,7 @@
     "uk": "media/uk/exercise.mp3",
     "us": "media/us/exercise.mp3"
    },
+   "spell": true,
    "avoid": [
     "fit",
     "health",
@@ -2567,6 +2586,7 @@
     "uk": "media/uk/feel.mp3",
     "us": "media/us/feel.mp3"
    },
+   "spell": true,
    "avoid": [
     "check",
     "hear"
@@ -2618,6 +2638,7 @@
     "uk": "media/uk/hear.mp3",
     "us": "media/us/hear.mp3"
    },
+   "spell": true,
    "avoid": [
     "check",
     "feel"
@@ -2729,6 +2750,7 @@
     "uk": "media/uk/fall.mp3",
     "us": "media/us/fall.mp3"
    },
+   "spell": true,
    "avoid": [
     "accident",
     "hurt"
@@ -2833,6 +2855,7 @@
     "uk": "media/uk/rest.mp3",
     "us": "media/us/rest.mp3"
    },
+   "spell": true,
    "avoid": [
     "break",
     "lie-down",
@@ -2885,6 +2908,7 @@
     "uk": "media/uk/run.mp3",
     "us": "media/us/run.mp3"
    },
+   "spell": true,
    "avoid": [
     "swim",
     "walk"
@@ -2938,6 +2962,7 @@
     "uk": "media/uk/swim.mp3",
     "us": "media/us/swim.mp3"
    },
+   "spell": true,
    "avoid": [
     "run",
     "walk"
@@ -2991,6 +3016,7 @@
     "uk": "media/uk/walk.mp3",
     "us": "media/us/walk.mp3"
    },
+   "spell": true,
    "avoid": [
     "run",
     "swim"
@@ -3042,6 +3068,7 @@
     "uk": "media/uk/tired.mp3",
     "us": "media/us/tired.mp3"
    },
+   "spell": true,
    "avoid": [
     "break",
     "lie-down",
@@ -3096,6 +3123,7 @@
     "uk": "media/uk/break.mp3",
     "us": "media/us/break.mp3"
    },
+   "spell": true,
    "avoid": [
     "lie-down",
     "rest",
@@ -3148,6 +3176,7 @@
     "uk": "media/uk/cut.mp3",
     "us": "media/us/cut.mp3"
    },
+   "spell": true,
    "avoid": [
     "hurt",
     "pain"
@@ -3253,6 +3282,7 @@
     "uk": "media/uk/dangerous.mp3",
     "us": "media/us/dangerous.mp3"
    },
+   "spell": true,
    "avoid": [
     "accident",
     "danger"
@@ -3354,6 +3384,7 @@
     "uk": "media/uk/die.mp3",
     "us": "media/us/die.mp3"
    },
+   "spell": true,
    "avoid": [
     "dead"
    ]
@@ -3405,6 +3436,7 @@
     "uk": "media/uk/baby.mp3",
     "us": "media/us/baby.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -3454,6 +3486,7 @@
     "uk": "media/uk/problem.mp3",
     "us": "media/us/problem.mp3"
    },
+   "spell": true,
    "avoid": []
   }
  ]

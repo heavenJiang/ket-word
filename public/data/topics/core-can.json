@@ -317,6 +317,7 @@
     "uk": "media/uk/must.mp3",
     "us": "media/us/must.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -637,6 +638,7 @@
     "uk": "media/uk/let.mp3",
     "us": "media/us/let.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -733,6 +735,7 @@
     "uk": "media/uk/become.mp3",
     "us": "media/us/become.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -877,6 +880,7 @@
     "uk": "media/uk/happen.mp3",
     "us": "media/us/happen.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -974,6 +978,7 @@
     "uk": "media/uk/make.mp3",
     "us": "media/us/make.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1066,6 +1071,7 @@
     "uk": "media/uk/use.mp3",
     "us": "media/us/use.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1113,6 +1119,7 @@
     "uk": "media/uk/try.mp3",
     "us": "media/us/try.mp3"
    },
+   "spell": true,
    "avoid": []
   }
  ]

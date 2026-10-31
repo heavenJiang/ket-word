@@ -3,15 +3,16 @@ import { sfx } from "../lib/audio";
 import { Choice } from "../questions/Choice";
 import { Intro } from "../questions/Intro";
 import { Match } from "../questions/Match";
+import { QuickCheck } from "../questions/QuickCheck";
 import { gapSentences } from "../lib/sentence";
 import { Tiles } from "../questions/Tiles";
-import { buildPlan } from "../session/plan";
-import { advance, answer, buildSession, current, isDone } from "../session/session";
+import { answer, buildSession, current, isDone, advance, teach } from "../session/session";
+import { todayPlan } from "../session/today";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { Rating, type Grade } from "../srs/srs";
-import { addStars, planOptions, recordCombo, recordGrade, type Progress } from "../store/progress";
-import { canStart, type Library } from "../lib/data";
-import type { Word } from "../types";
+import { addStars, recordCombo, recordGrade, type Progress } from "../store/progress";
+import type { Library } from "../lib/data";
+import type { Topic, Word } from "../types";
 import { Max } from "../ui/Max";
 import { Picture } from "../ui/Picture";
 
@@ -22,31 +23,26 @@ export function Learn(props: {
   /** The current island, in learning order: where new words come from. */
   words: Word[];
   library: Library;
+  topics: Topic[];
   progress: Progress;
   setProgress: (f: (p: Progress) => Progress) => void;
   onExit: () => void;
 }) {
-  const { words, library, progress, setProgress, onExit } = props;
+  const { words, library, topics, progress, setProgress, onExit } = props;
   const byId = library.byId;
   const { settings } = progress;
   const factor = ageFactor(progress.profile?.age ?? 9);
 
   const [session, setSession] = useState(() => {
-    const now = Date.now();
-    const plan = buildPlan(
-      library.all.map((w) => w.id),
-      progress.words,
-      now,
-      planOptions(progress, now),
-      words.map((w) => w.id),
-      canStart(library, progress.words),
-    );
+    const plan = todayPlan(library, topics, progress, Date.now());
     return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });
   /** Right answers in a row, retries included: a small "on fire" reward for focus. */
   const [combo, setCombo] = useState(0);
   const [finished, setFinished] = useState(false);
+  /** Words the quick check found the child already knew. */
+  const [known, setKnown] = useState<string[]>([]);
 
   const step = current(session);
   const total = session.steps.length;
@@ -60,7 +56,7 @@ export function Learn(props: {
     setCombo(run);
     if (run > progress.records.combo) setProgress((p) => recordCombo(p, run));
     if (r.grade) {
-      setProgress((p) => recordGrade(p, step.wordId, step.skill, grade, Date.now()));
+      setProgress((p) => recordGrade(p, step.wordId, step.skill, grade, Date.now(), a.ms));
       const star = grade === Rating.Good || grade === Rating.Easy ? 1 : 0;
       setTally((t) => ({ right: t.right + (a.correct ? 1 : 0), total: t.total + 1, stars: t.stars + star }));
     }
@@ -92,6 +88,7 @@ export function Learn(props: {
   if (finished) {
     const pct = tally.total ? Math.round((tally.right / tally.total) * 100) : 100;
     const met = session.steps.flatMap((x) => (x.type === "intro" ? x.wordIds : [])).map((id) => byId.get(id)!);
+    const knew = known.map((id) => byId.get(id)!);
     return (
       <div className="page center finish">
         <Confetti />
@@ -124,6 +121,7 @@ export function Learn(props: {
             </div>
           </div>
         )}
+        {knew.length > 0 && <p className="muted">还有 {knew.length} 个词你早就认识：{knew.map((w) => w.word).join("、")}</p>}
         <p className="muted">Max 吃到了你的星星，长大了一点点！</p>
         <button className="btn btn-primary" onClick={onExit}>
           太好了！
@@ -151,7 +149,23 @@ export function Learn(props: {
           ⭐ {tally.stars}
         </span>
       </div>
-      {step.type === "intro" ? (
+      {step.type === "check" ? (
+        <QuickCheck
+          key={session.index}
+          words={step.wordIds.map((id) => byId.get(id)!)}
+          want={step.want}
+          poolOf={(w) => library.poolOf.get(w.id) ?? words}
+          accent={settings.accent}
+          sound={settings.sound}
+          factor={factor}
+          onKnown={(w, a) => {
+            setKnown((k) => [...k, w.id]);
+            setProgress((p) => recordGrade(p, w.id, "meaning", Rating.Easy, Date.now(), a.ms, true));
+            setTally((t) => ({ ...t, stars: t.stars + 1 }));
+          }}
+          onDone={(unknown) => next(unknown.length ? teach(session, unknown) : advance(session))}
+        />
+      ) : step.type === "intro" ? (
         <Intro
           key={session.index}
           words={step.wordIds.map((id) => byId.get(id)!)}

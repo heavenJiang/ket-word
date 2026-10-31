@@ -101,6 +101,7 @@
     "uk": "media/uk/aeroplane.mp3",
     "us": "media/us/aeroplane.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -202,6 +203,7 @@
     "uk": "media/uk/city.mp3",
     "us": "media/us/city.mp3"
    },
+   "spell": true,
    "avoid": [
     "capital"
    ]
@@ -1160,6 +1162,7 @@
     "uk": "media/uk/place.mp3",
     "us": "media/us/place.mp3"
    },
+   "spell": true,
    "avoid": [
     "ground",
     "site",
