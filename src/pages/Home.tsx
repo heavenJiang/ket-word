@@ -1,3 +1,4 @@
+import { minutesOn } from "../lib/effect";
 import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
 import { todayPlan } from "../session/today";
 import { dayKey, streak, type Progress } from "../store/progress";
@@ -139,6 +140,8 @@ export function Home(props: {
         )}
       </section>
 
+      <TodayRing progress={progress} now={now} />
+
       {checkupDue && (
         <button className="card story-banner" onClick={onCheckup}>
           <span className="story-banner-icon">📝</span>
@@ -167,5 +170,46 @@ export function Home(props: {
         </section>
       )}
     </div>
+  );
+}
+
+/**
+ * Today at a glance: minutes studied against the plan as a ring that fills up, and the week's study
+ * days as a row of stamps, since keeping the chain going is what makes a child come back tomorrow.
+ */
+function TodayRing({ progress, now }: { progress: Progress; now: number }) {
+  const goal = progress.settings.minutes;
+  const done = minutesOn(progress, dayKey(now));
+  const share = Math.min(1, done / goal);
+  const r = 34;
+  const c = 2 * Math.PI * r;
+  const week = Array.from({ length: 7 }, (_, i) => {
+    const t = now - (6 - i) * 86_400_000;
+    return { label: i === 6 ? "今天" : "日一二三四五六"[new Date(t).getDay()], on: !!progress.days[dayKey(t)]?.answered };
+  });
+  return (
+    <section className="card today-ring">
+      <svg viewBox="0 0 84 84" className="ring" aria-label={`今天学了 ${done} 分钟，计划 ${goal} 分钟`}>
+        <circle cx="42" cy="42" r={r} className="ring-bg" />
+        <circle cx="42" cy="42" r={r} className="ring-fill" strokeDasharray={`${share * c} ${c}`} transform="rotate(-90 42 42)" />
+        <text x="42" y="40" textAnchor="middle" className="ring-num">
+          {done}
+        </text>
+        <text x="42" y="56" textAnchor="middle" className="ring-unit">
+          / {goal} 分钟
+        </text>
+      </svg>
+      <div className="ring-side">
+        <b>{share >= 1 ? "今天的时间学够啦 🎉" : done > 0 ? `再学 ${goal - done} 分钟就完成今天的计划` : "今天还没开始，冲呀！"}</b>
+        <div className="week-stamps">
+          {week.map((d, i) => (
+            <span key={i} className={`stamp ${d.on ? "stamp-on" : ""}`}>
+              <i>{d.on ? "✓" : ""}</i>
+              {d.label}
+            </span>
+          ))}
+        </div>
+      </div>
+    </section>
   );
 }

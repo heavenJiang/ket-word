@@ -39,6 +39,7 @@ export function Parent(props: {
 }) {
   const { words, library, topics, progress, setProgress, credits, source, stories } = props;
   const [ok, setOk] = useState(false);
+  const [tab, setTab] = useState<Tab>("overview");
   const file = useRef<HTMLInputElement>(null);
   const now = Date.now();
   const name = progress.profile?.name ?? "孩子";
@@ -100,102 +101,117 @@ export function Parent(props: {
   return (
     <div className="page parent">
       <h2>家长中心</h2>
-
-      <section className="card">
-        <h3>最近 7 天</h3>
-        <div className="week">
-          {week.map((d, i) => (
-            <div key={i} className="week-day">
-              <div className="week-bar">
-                <div className="week-fill" style={{ height: `${(d.answered / maxDay) * 100}%` }} />
-              </div>
-              <span className="small">{d.answered}</span>
-              <span className="muted small">{d.label}</span>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="card">
-        <h3>三项能力</h3>
-        <p className="muted small">
-          每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。拼写只练 {skillStats[2].total} 个日常常用词（A1 级），其余的词会认、会听就够 KET 用。掌握 = 三周后仍有 90% 把握记得。
-        </p>
-        {skillStats.map(({ s, total, started, mastered }) => (
-          <div key={s} className="skill-row">
-            <span>{SKILL_NAME[s]}</span>
-            <div className="bar">
-              <div className="bar-fill bar-soft" style={{ width: `${(started / total) * 100}%` }} />
-              <div className="bar-fill bar-over" style={{ width: `${(mastered / total) * 100}%` }} />
-            </div>
-            <span className="small">
-              {mastered}/{started}
-            </span>
-          </div>
+      <div className="tabs" role="tablist">
+        {TABS.map(([id, label]) => (
+          <button key={id} role="tab" aria-selected={tab === id} className={`tab ${tab === id ? "tab-on" : ""}`} onClick={() => setTab(id)}>
+            {label}
+          </button>
         ))}
-      </section>
+      </div>
 
-      {weak.length > 0 && (
-        <section className="card">
-          <h3>今晚考考{name}</h3>
-          <p className="muted small">最容易忘的 5 个，吃饭时随口问一问，比多背十个还管用。</p>
-          <ul className="weak">
-            {weak.map(({ w, skill }) => (
-              <li key={w.id + skill}>
-                <b>{w.word}</b> <span className="muted">{w.zh}</span>
-                <span className="tag">{SKILL_NAME[skill]}</span>
-                {w.hook && <div className="muted small">💡 {w.hook.text}</div>}
-              </li>
+      {tab === "overview" && (
+        <>
+          <section className="card">
+            <h3>最近 7 天</h3>
+            <div className="week">
+              {week.map((d, i) => (
+                <div key={i} className="week-day">
+                  <div className="week-bar">
+                    <div className="week-fill" style={{ height: `${(d.answered / maxDay) * 100}%` }} />
+                  </div>
+                  <span className="small">{d.answered}</span>
+                  <span className="muted small">{d.label}</span>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          <section className="card">
+            <h3>三项能力</h3>
+            <p className="muted small">
+              每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。拼写只练 {skillStats[2].total} 个日常常用词（A1 级），其余的词会认、会听就够 KET 用。掌握 = 三周后仍有 90% 把握记得。
+            </p>
+            {skillStats.map(({ s, total, started, mastered }) => (
+              <div key={s} className="skill-row">
+                <span>{SKILL_NAME[s]}</span>
+                <div className="bar">
+                  <div className="bar-fill bar-soft" style={{ width: `${(started / total) * 100}%` }} />
+                  <div className="bar-fill bar-over" style={{ width: `${(mastered / total) * 100}%` }} />
+                </div>
+                <span className="small">
+                  {mastered}/{started}
+                </span>
+              </div>
             ))}
-          </ul>
-        </section>
+          </section>
+
+          {weak.length > 0 && (
+            <section className="card">
+              <h3>今晚考考{name}</h3>
+              <p className="muted small">最容易忘的 5 个，吃饭时随口问一问，比多背十个还管用。</p>
+              <ul className="weak">
+                {weak.map(({ w, skill }) => (
+                  <li key={w.id + skill}>
+                    <b>{w.word}</b> <span className="muted">{w.zh}</span>
+                    <span className="tag">{SKILL_NAME[skill]}</span>
+                    {w.hook && <div className="muted small">💡 {w.hook.text}</div>}
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          <EffectPanel progress={progress} now={now} />
+        </>
       )}
 
-      <EffectPanel progress={progress} now={now} />
+      {tab === "plan" && <PlanPanel progress={progress} library={library} topics={topics} set={set} />}
 
-      <PlanPanel progress={progress} library={library} topics={topics} set={set} />
+      {tab === "settings" && (
+        <>
+          <section className="card settings">
+            <h3>设置</h3>
+            <label>
+              孩子名字
+              <input
+                className="input"
+                value={progress.profile?.name ?? ""}
+                onChange={(e) => setProgress((p) => ({ ...p, profile: { age: p.profile?.age ?? 9, name: e.target.value } }))}
+              />
+            </label>
+            <label>
+              年龄：{progress.profile?.age ?? 9} 岁
+              <input
+                type="range" min={6} max={13} value={progress.profile?.age ?? 9}
+                onChange={(e) => setProgress((p) => ({ ...p, profile: { name: p.profile?.name ?? "", age: Number(e.target.value) } }))}
+              />
+            </label>
+            <label>
+              发音
+              <select className="input" value={progress.settings.accent} onChange={(e) => set("accent", e.target.value as "uk" | "us")}>
+                <option value="uk">英音（KET 官方）</option>
+                <option value="us">美音</option>
+              </select>
+            </label>
+            <label className="check">
+              <input type="checkbox" checked={progress.settings.sound} onChange={(e) => set("sound", e.target.checked)} />
+              音效
+            </label>
+          </section>
 
-      <section className="card settings">
-        <h3>设置</h3>
-        <label>
-          孩子名字
-          <input
-            className="input"
-            value={progress.profile?.name ?? ""}
-            onChange={(e) => setProgress((p) => ({ ...p, profile: { age: p.profile?.age ?? 9, name: e.target.value } }))}
-          />
-        </label>
-        <label>
-          年龄：{progress.profile?.age ?? 9} 岁
-          <input
-            type="range" min={6} max={13} value={progress.profile?.age ?? 9}
-            onChange={(e) => setProgress((p) => ({ ...p, profile: { name: p.profile?.name ?? "", age: Number(e.target.value) } }))}
-          />
-        </label>
-        <label>
-          发音
-          <select className="input" value={progress.settings.accent} onChange={(e) => set("accent", e.target.value as "uk" | "us")}>
-            <option value="uk">英音（KET 官方）</option>
-            <option value="us">美音</option>
-          </select>
-        </label>
-        <label className="check">
-          <input type="checkbox" checked={progress.settings.sound} onChange={(e) => set("sound", e.target.checked)} />
-          音效
-        </label>
-      </section>
+          <OfflinePanel words={words} stories={stories} />
 
-      <OfflinePanel words={words} stories={stories} />
-
-      <section className="card">
-        <h3>备份</h3>
-        <p className="muted small">进度只保存在这台设备上。换设备或清理浏览器前，请先导出。</p>
-        <div className="row">
-          <button className="btn" onClick={exportFile}>导出进度</button>
-          <button className="btn btn-ghost" onClick={() => file.current?.click()}>导入备份</button>
-          <input ref={file} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && importFile(e.target.files[0])} />
-        </div>
-      </section>
+          <section className="card">
+            <h3>备份</h3>
+            <p className="muted small">进度只保存在这台设备上。换设备或清理浏览器前，请先导出。</p>
+            <div className="row">
+              <button className="btn" onClick={exportFile}>导出进度</button>
+              <button className="btn btn-ghost" onClick={() => file.current?.click()}>导入备份</button>
+              <input ref={file} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && importFile(e.target.files[0])} />
+            </div>
+          </section>
+        </>
+      )}
 
       <p className="credits muted small">
         词表依据：{source}
@@ -205,6 +221,14 @@ export function Parent(props: {
     </div>
   );
 }
+
+/** The parent centre in three tabs, so nothing is three screens down: how it goes, the plan, the settings. */
+type Tab = "overview" | "plan" | "settings";
+const TABS: [Tab, string][] = [
+  ["overview", "📊 概况"],
+  ["plan", "🎯 学习计划"],
+  ["settings", "⚙️ 设置"],
+];
 
 type Set = <K extends keyof Progress["settings"]>(k: K, v: Progress["settings"][K]) => void;
 

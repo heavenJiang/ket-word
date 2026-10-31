@@ -87,6 +87,7 @@ export function App() {
         accent={progress.settings.accent}
         sound={progress.settings.sound}
         readBefore={!!progress.stories[reading.id]}
+        met={(id) => !!progress.words[id]}
         onDone={(right) => setProgress((p) => recordStory(p, reading.id, right, Date.now()))}
         onExit={() => setReading(null)}
       />
