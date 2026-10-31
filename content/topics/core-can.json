@@ -1,0 +1,32 @@
+{
+  "topic": "core-can",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Core words: Can and Must.",
+  "confusable": [],
+  "words": [
+    { "id": "be", "zh": "是；在", "chunks": ["be"], "emoji": "🧸", "picture": false, "en": "I will be home soon.", "sz": "我很快就会在家。", "more": [["Please be quiet in the library.", "在图书馆请保持安静。"], ["Be careful with the hot cup.", "小心这个烫杯子。"]] },
+    { "id": "do", "zh": "做；干", "chunks": ["do"], "emoji": "🧹", "picture": false, "en": "I do my homework at four.", "sz": "我四点做作业。", "more": [["Do you like ice cream?", "你喜欢冰淇淋吗？"], ["Dad helps me do the washing up.", "爸爸帮我洗碗。"]] },
+    { "id": "have", "zh": "有；吃", "chunks": ["have"], "emoji": "🥪", "picture": false, "en": "We have lunch at one o'clock.", "sz": "我们一点钟吃午饭。", "more": [["Lily has a red bike.", "Lily 有一辆红色的自行车。"], ["Do you have any questions?", "你有什么问题吗？"]] },
+    { "id": "cannot", "zh": "不能；不会", "chunks": ["can", "not"], "emoji": "🚫", "picture": false, "en": "I cannot ride a bike yet.", "sz": "我还不会骑自行车。", "more": [["You cannot play here.", "你不能在这里玩。"], ["Max cannot fly like a bird.", "Max 不会像鸟一样飞。"]] },
+    { "id": "could", "zh": "能；可以（过去/委婉）", "chunks": ["could"], "emoji": "🎈", "picture": false, "en": "Could I have a balloon, please?", "sz": "我可以要一个气球吗？", "more": [["When I was small, I could not swim.", "我小时候不会游泳。"], ["Could you help me find my cat?", "你能帮我找我的猫吗？"]] },
+    { "id": "might", "zh": "可能", "chunks": ["might"], "emoji": "☔️", "picture": false, "en": "It might rain later.", "sz": "晚点可能会下雨。", "more": [["Tom might be at the park.", "Tom 可能在公园。"], ["We might go to Grandma's house.", "我们可能去奶奶家。"]] },
+    { "id": "must", "zh": "必须；一定", "chunks": ["must"], "emoji": "🚦", "picture": false, "en": "We must stop at the red light.", "sz": "我们必须红灯停。", "more": [["You must wash your hands.", "你必须洗手。"], ["Max must not eat chocolate.", "Max 不能吃巧克力。"]] },
+    { "id": "shall", "zh": "将要；要不要（提议）", "chunks": ["shall"], "emoji": "🏊", "picture": false, "en": "Shall we go swimming?", "sz": "我们去游泳好吗？", "more": [["Shall I open the window?", "要我打开窗户吗？"], ["We shall meet at six o'clock.", "我们六点钟见面。"]] },
+    { "id": "should", "zh": "应该；建议", "chunks": ["should"], "emoji": "🦷", "picture": false, "en": "You should brush your teeth.", "sz": "你应该刷牙。", "more": [["We should wear a hat outside.", "我们在外面应该戴帽子。"], ["Tom should say sorry to Lily.", "Tom 应该向 Lily 道歉。"]] },
+    { "id": "will", "zh": "将要；会", "chunks": ["will"], "emoji": "🎁", "picture": false, "en": "I will buy you a gift.", "sz": "我会给你买礼物。", "more": [["It will be cold tomorrow.", "明天会很冷。"], ["Lily will visit Grandma soon.", "Lily 很快会去看奶奶。"]] },
+    { "id": "would", "zh": "想要；愿意（委婉）", "chunks": ["would"], "emoji": "🥛", "picture": false, "en": "Would you like some milk?", "sz": "你想要一些牛奶吗？", "more": [["I would like an orange, please.", "我想要一个橙子，谢谢。"], ["Would you like to play football?", "你想踢足球吗？"]] },
+    { "id": "have-to", "zh": "必须；不得不", "chunks": ["have", "to"], "emoji": "🛌", "picture": false, "en": "Tom has to go to bed.", "sz": "Tom 必须去睡觉。", "more": [["We have to wait for the bus.", "我们必须等公交车。"], ["Lily has to wear her school shoes.", "Lily 必须穿她的校鞋。"]] },
+    { "id": "have-got-to", "zh": "必须；不得不", "chunks": ["have", "got", "to"], "emoji": "⏰", "picture": false, "en": "I have got to go now.", "sz": "我现在必须走了。", "more": [["We have got to hurry!", "我们必须快点！"], ["Tom has got to wash his hands.", "Tom 必须洗手。"]] },
+    { "id": "let", "zh": "让；允许", "chunks": ["let"], "emoji": "🤝", "picture": false, "en": "Please let me help.", "sz": "请让我帮忙。", "more": [["Let's play football together.", "让我们一起踢足球吧。"], ["Mum lets us watch films on Fridays.", "妈妈允许我们星期五看电影。"]] },
+    { "id": "allow", "zh": "允许", "chunks": ["al", "low"], "emoji": "✅", "picture": false, "en": "Dad allows us to stay up late.", "sz": "爸爸允许我们熬夜。", "more": [["The school allows phones at lunch.", "学校允许在午餐时间使用手机。"], ["We don't allow dogs on the sofa.", "我们不允许狗上沙发。"]] },
+    { "id": "become", "zh": "变成", "chunks": ["be", "come"], "emoji": "🦋", "picture": false, "en": "The baby bird becomes a big bird.", "sz": "小鸟变成了大鸟。", "more": [["Lily wants to become a teacher.", "Lily 想成为一名老师。"], ["Water becomes ice in winter.", "水在冬天变成冰。"]] },
+    { "id": "belong", "zh": "属于", "chunks": ["be", "long"], "emoji": "🏷️", "picture": false, "en": "This bag belongs to me.", "sz": "这个包是我的。", "more": [["Does this ball belong to Tom?", "这个球是 Tom 的吗？"], ["The puppy belongs to our family.", "这只小狗属于我们的家庭。"]] },
+    { "id": "bother", "zh": "打扰；麻烦", "chunks": ["both", "er"], "emoji": "🤫", "picture": false, "en": "Please don't bother Dad.", "sz": "请不要打扰爸爸。", "more": [["The fly bothers the cat.", "苍蝇打扰了猫。"], ["It doesn't bother me if it rains.", "如果下雨，我不觉得麻烦。"]] },
+    { "id": "happen", "zh": "发生", "chunks": ["hap", "pen"], "emoji": "❓", "picture": false, "en": "What happened to the cake?", "sz": "蛋糕怎么了？", "more": [["Accidents happen. Don't worry.", "意外难免，别担心。"], ["Bad things happen sometimes.", "坏事有时会发生。"]] },
+    { "id": "matter", "zh": "事情；要紧", "chunks": ["mat", "ter"], "emoji": "🤷", "picture": false, "en": "It doesn't matter.", "sz": "没关系。", "more": [["What's the matter, Mum?", "妈妈，怎么了？"], ["The time doesn't matter now.", "现在时间不重要。"]] },
+    { "id": "make", "zh": "做；制造", "chunks": ["make"], "emoji": "🥪", "picture": false, "en": "Mum makes a sandwich.", "sz": "妈妈做一个三明治。", "more": [["Let's make a card for Grandma.", "让我们给奶奶做一张卡片吧。"], ["Dad makes dinner every Sunday.", "爸爸每个星期天做晚饭。"]] },
+    { "id": "make-sure", "zh": "确保；查明", "chunks": ["make", "sure"], "emoji": "👀", "picture": false, "en": "Make sure you close the door.", "sz": "确保你关好了门。", "more": [["I must make sure Tom is safe.", "我必须确保 Tom 是安全的。"], ["Let's make sure we have tickets.", "让我们确保我们有票。"]] },
+    { "id": "use", "zh": "使用", "chunks": ["use"], "emoji": "🖍️", "picture": false, "en": "I use a pen to write.", "sz": "我用笔写字。", "more": [["We use forks for salad.", "我们吃沙拉时使用叉子。"], ["Can I use your phone?", "我能用一下你的手机吗？"]] },
+    { "id": "try", "zh": "尝试", "chunks": ["try"], "emoji": "💪", "picture": false, "en": "Try to catch the ball.", "sz": "试着接住球。", "more": [["Let's try this new game.", "让我们试试这个新游戏。"], ["Grandma tries to fix the clock.", "奶奶试着修时钟。"]] }
+  ]
+}

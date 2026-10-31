@@ -1,0 +1,45 @@
+{
+ "id": "video-call",
+ "topic": "tech",
+ "title": "A Call to Grandma",
+ "zh": "给奶奶打视频电话",
+ "pages": [
+  {
+   "en": "It is Grandma's birthday, but she lives far away. Lily has an idea. \"Let's call her on the laptop!\" she says.",
+   "zh": "今天是奶奶的生日，可她住得很远。Lily 有个主意。“我们用笔记本电脑给她打电话吧！”她说。",
+   "scene": "Lily and Tom at the kitchen table with an open laptop, Lily pointing at the screen with a happy idea face, a birthday cake with candles beside them."
+  },
+  {
+   "en": "Dad types the password and clicks on Grandma's name. Soon Grandma's face is on the screen. \"Hello, my dears!\" she says.",
+   "zh": "爸爸输入密码，点了奶奶的名字。很快奶奶的脸就出现在屏幕上。“你们好，亲爱的！”她说。",
+   "scene": "Dad at a laptop on the kitchen table clicking the mouse, the laptop screen showing Grandma's smiling face waving, Lily and Tom waving at the screen. Grandma is only on the screen, not in the room."
+  },
+  {
+   "en": "Lily and Tom sing \"Happy Birthday\". Max wants to sing too! Grandma laughs. \"This is the best present,\" she says.",
+   "zh": "Lily 和 Tom 唱起《生日快乐》。Max 也想跟着唱！奶奶笑了。“这是最好的礼物，”她说。",
+   "scene": "Lily and Tom singing in front of the laptop, Max barking happily, Grandma laughing on the screen with her hands together."
+  }
+ ],
+ "questions": [
+  {
+   "q": "How do they call Grandma?",
+   "zh": "他们怎么给奶奶打电话？",
+   "options": [
+    "on the laptop",
+    "on the radio",
+    "by post"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom types the password.",
+   "zh": "Tom 输入了密码。",
+   "answer": false
+  },
+  {
+   "q": "Grandma likes the call very much.",
+   "zh": "奶奶非常喜欢这次通话。",
+   "answer": true
+  }
+ ]
+}

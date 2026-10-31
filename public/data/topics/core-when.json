@@ -1,0 +1,2175 @@
+{
+ "id": "core-when",
+ "words": [
+  {
+   "id": "after",
+   "word": "after",
+   "zh": "在……之后",
+   "pos": [
+    "adv",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "prep"
+     ],
+     "zh": "在……之后"
+    }
+   ],
+   "ipa": "/ˈɑːftə/",
+   "chunks": [
+    "af",
+    "ter"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "We go to the park after school.",
+    "zh": "我们放学后去公园。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the park after school.",
+     "zh": "我们放学后去公园。",
+     "audio": "media/sent/26bab5df19f0.mp3"
+    },
+    {
+     "en": "Dad reads a book after dinner.",
+     "zh": "爸爸晚饭后看书。",
+     "audio": "media/sent/f73e9a2569e9.mp3"
+    },
+    {
+     "en": "Max sleeps on the sofa after lunch.",
+     "zh": "Max 午饭后在沙发上睡觉。",
+     "audio": "media/sent/d38f80f82545.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/after.mp3",
+    "us": "media/us/after.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "afterwards",
+   "word": "afterwards",
+   "zh": "后来；随后",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "后来；随后"
+    }
+   ],
+   "ipa": "/ˈɑːftəwədz/",
+   "chunks": [
+    "af",
+    "ter",
+    "wards"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "We play football, and afterwards we eat.",
+    "zh": "我们踢足球，然后吃东西。"
+   },
+   "sentences": [
+    {
+     "en": "We play football, and afterwards we eat.",
+     "zh": "我们踢足球，然后吃东西。",
+     "audio": "media/sent/781c53245671.mp3"
+    },
+    {
+     "en": "Mum cooks dinner, and afterwards she rests.",
+     "zh": "妈妈做晚饭，随后她休息。",
+     "audio": "media/sent/56418a4d0e11.mp3"
+    },
+    {
+     "en": "Tom does his homework, and afterwards he plays.",
+     "zh": "Tom 做作业，然后他玩。",
+     "audio": "media/sent/ac15f8f3d1d9.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/afterwards.mp3",
+    "us": "media/us/afterwards.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "again",
+   "word": "again",
+   "zh": "再；又",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "再；又"
+    }
+   ],
+   "ipa": "/əˈɡen/",
+   "chunks": [
+    "a",
+    "gain"
+   ],
+   "emoji": "🔁",
+   "sentence": {
+    "en": "Lily reads the story again.",
+    "zh": "Lily 又读了一遍这个故事。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads the story again.",
+     "zh": "Lily 又读了一遍这个故事。",
+     "audio": "media/sent/c14415f31a5c.mp3"
+    },
+    {
+     "en": "Can you say that again?",
+     "zh": "你能再说一遍吗？",
+     "audio": "media/sent/ced08af6e094.mp3"
+    },
+    {
+     "en": "Max runs after the ball again.",
+     "zh": "Max 又追着球跑。",
+     "audio": "media/sent/a2a6ae6797e1.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/again.mp3",
+    "us": "media/us/again.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ago",
+   "word": "ago",
+   "zh": "以前",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "以前"
+    }
+   ],
+   "ipa": "/əˈɡəʊ/",
+   "chunks": [
+    "a",
+    "go"
+   ],
+   "emoji": "⏪",
+   "sentence": {
+    "en": "Grandma visited us two days ago.",
+    "zh": "奶奶两天前来看我们了。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma visited us two days ago.",
+     "zh": "奶奶两天前来看我们了。",
+     "audio": "media/sent/708c05bd262e.mp3"
+    },
+    {
+     "en": "I saw Tom five minutes ago.",
+     "zh": "我五分钟前看见 Tom 了。",
+     "audio": "media/sent/4efb24576711.mp3"
+    },
+    {
+     "en": "We moved here one year ago.",
+     "zh": "我们一年前搬到这里。",
+     "audio": "media/sent/cdc45be28004.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/ago.mp3",
+    "us": "media/us/ago.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "already",
+   "word": "already",
+   "zh": "已经",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "已经"
+    }
+   ],
+   "ipa": "/ɔːlˈredi/",
+   "chunks": [
+    "al",
+    "rea",
+    "dy"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "Tom has already finished his homework.",
+    "zh": "Tom 已经做完作业了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has already finished his homework.",
+     "zh": "Tom 已经做完作业了。",
+     "audio": "media/sent/29613a959602.mp3"
+    },
+    {
+     "en": "Dad is already at work.",
+     "zh": "爸爸已经在上班了。",
+     "audio": "media/sent/4a2b37740bdc.mp3"
+    },
+    {
+     "en": "Mum has already cooked lunch.",
+     "zh": "妈妈已经做好了午饭。",
+     "audio": "media/sent/5120e89dc91e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/already.mp3",
+    "us": "media/us/already.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "always",
+   "word": "always",
+   "zh": "总是；一直",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "总是；一直"
+    }
+   ],
+   "ipa": "/ˈɔːlweɪz/",
+   "chunks": [
+    "al",
+    "ways"
+   ],
+   "emoji": "🗓️",
+   "sentence": {
+    "en": "We always eat breakfast at seven.",
+    "zh": "我们总是在七点吃早饭。"
+   },
+   "sentences": [
+    {
+     "en": "We always eat breakfast at seven.",
+     "zh": "我们总是在七点吃早饭。",
+     "audio": "media/sent/34ea0982676f.mp3"
+    },
+    {
+     "en": "Mum always helps me with maths.",
+     "zh": "妈妈总是帮我做数学题。",
+     "audio": "media/sent/1ac9c1b7ef35.mp3"
+    },
+    {
+     "en": "Max always runs to the door when I come home.",
+     "zh": "我回家时 Max 总是跑到门口。",
+     "audio": "media/sent/76e3952f9c59.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/always.mp3",
+    "us": "media/us/always.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "before",
+   "word": "before",
+   "zh": "在……之前",
+   "pos": [
+    "adv",
+    "conj",
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "conj",
+      "prep"
+     ],
+     "zh": "在……之前"
+    }
+   ],
+   "ipa": "/bɪˈfɔː/",
+   "chunks": [
+    "be",
+    "fore"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "Wash your hands before you eat.",
+    "zh": "吃东西前洗手。"
+   },
+   "sentences": [
+    {
+     "en": "Wash your hands before you eat.",
+     "zh": "吃东西前洗手。",
+     "audio": "media/sent/eb47a52b8963.mp3"
+    },
+    {
+     "en": "Lily brushes her teeth before bed.",
+     "zh": "Lily 睡前刷牙。",
+     "audio": "media/sent/bf9cdd82422d.mp3"
+    },
+    {
+     "en": "We check the map before we drive.",
+     "zh": "我们开车前看地图。",
+     "audio": "media/sent/b2e6a4b2b3a5.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/before.mp3",
+    "us": "media/us/before.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "beginning",
+   "word": "beginning",
+   "zh": "开始；开头",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "开始；开头"
+    }
+   ],
+   "ipa": "/bɪˈɡɪnɪŋ/",
+   "chunks": [
+    "be",
+    "gin",
+    "ning"
+   ],
+   "emoji": "🔜",
+   "sentence": {
+    "en": "The film starts at the beginning of August.",
+    "zh": "电影在八月初开始。"
+   },
+   "sentences": [
+    {
+     "en": "The film starts at the beginning of August.",
+     "zh": "电影在八月初开始。",
+     "audio": "media/sent/e61f06f90e50.mp3"
+    },
+    {
+     "en": "It is hard at the beginning.",
+     "zh": "刚开始很难。",
+     "audio": "media/sent/23f97d39507d.mp3"
+    },
+    {
+     "en": "We learn new words at the beginning of the lesson.",
+     "zh": "我们在课程开始时学新单词。",
+     "audio": "media/sent/11a9e43948ad.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/beginning.mp3",
+    "us": "media/us/beginning.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "during",
+   "word": "during",
+   "zh": "在……期间",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "在……期间"
+    }
+   ],
+   "ipa": "/ˈdjʊərɪŋ/",
+   "chunks": [
+    "dur",
+    "ing"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "It rains during the school day.",
+    "zh": "上学期间下雨了。"
+   },
+   "sentences": [
+    {
+     "en": "It rains during the school day.",
+     "zh": "上学期间下雨了。",
+     "audio": "media/sent/3d3c9c9758f8.mp3"
+    },
+    {
+     "en": "We listen to music during lunch.",
+     "zh": "我们午饭时听音乐。",
+     "audio": "media/sent/05909fe4cfae.mp3"
+    },
+    {
+     "en": "Max makes a loud noise during the storm.",
+     "zh": "暴风雨期间 Max 发出很大的声音。",
+     "audio": "media/sent/7a62deab0e48.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/during.mp3",
+    "us": "media/us/during.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "early",
+   "word": "early",
+   "zh": "早的；提早",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "早的；提早"
+    }
+   ],
+   "ipa": "/ˈɜːli/",
+   "chunks": [
+    "ear",
+    "ly"
+   ],
+   "emoji": "🌅",
+   "sentence": {
+    "en": "Dad wakes up early in the morning.",
+    "zh": "爸爸早上起得很早。"
+   },
+   "sentences": [
+    {
+     "en": "Dad wakes up early in the morning.",
+     "zh": "爸爸早上起得很早。",
+     "audio": "media/sent/5e8ebbbb7846.mp3"
+    },
+    {
+     "en": "We leave home early for the train.",
+     "zh": "我们很早离开家去赶火车。",
+     "audio": "media/sent/5b541acd5d56.mp3"
+    },
+    {
+     "en": "The shop opens early on Saturday.",
+     "zh": "商店星期六开门早。",
+     "audio": "media/sent/b3fdc8089084.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/early.mp3",
+    "us": "media/us/early.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "end",
+   "word": "end",
+   "zh": "结束；末尾",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "结束；末尾"
+    }
+   ],
+   "ipa": "/end/",
+   "chunks": [
+    "end"
+   ],
+   "emoji": "🏁",
+   "sentence": {
+    "en": "The school day ends at three o'clock.",
+    "zh": "学校三点放学。"
+   },
+   "sentences": [
+    {
+     "en": "The school day ends at three o'clock.",
+     "zh": "学校三点放学。",
+     "audio": "media/sent/078842d57d67.mp3"
+    },
+    {
+     "en": "We walk to the end of the street.",
+     "zh": "我们走到街道尽头。",
+     "audio": "media/sent/43d269b70a10.mp3"
+    },
+    {
+     "en": "The story has a happy end.",
+     "zh": "这个故事有一个快乐的结局。",
+     "audio": "media/sent/ad5e47974336.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/end.mp3",
+    "us": "media/us/end.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ever",
+   "word": "ever",
+   "zh": "曾经；从来",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "曾经；从来"
+    }
+   ],
+   "ipa": "/ˈevə/",
+   "chunks": [
+    "ev",
+    "er"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "Do you ever eat fish for breakfast?",
+    "zh": "你早餐吃过鱼吗？"
+   },
+   "sentences": [
+    {
+     "en": "Do you ever eat fish for breakfast?",
+     "zh": "你早餐吃过鱼吗？",
+     "audio": "media/sent/b49c65044b8b.mp3"
+    },
+    {
+     "en": "Is this the best ice cream ever?",
+     "zh": "这是最好吃的冰淇淋吗？",
+     "audio": "media/sent/e65c70f739f6.mp3"
+    },
+    {
+     "en": "I never saw such a big dog.",
+     "zh": "我从来没见过这么大的狗。",
+     "audio": "media/sent/8c36497de579.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/ever.mp3",
+    "us": "media/us/ever.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "final",
+   "word": "final",
+   "zh": "最后的；决赛",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "最后的；决赛"
+    }
+   ],
+   "ipa": "/ˈfaɪnəl/",
+   "chunks": [
+    "fi",
+    "nal"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "Lily plays in the final match.",
+    "zh": "Lily 参加最后一场比赛。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays in the final match.",
+     "zh": "Lily 参加最后一场比赛。",
+     "audio": "media/sent/94dadb78b418.mp3"
+    },
+    {
+     "en": "This is my final answer.",
+     "zh": "这是我最后的答案。",
+     "audio": "media/sent/43ac35b1631d.mp3"
+    },
+    {
+     "en": "The final game is on Sunday.",
+     "zh": "最后一场比赛在星期日。",
+     "audio": "media/sent/538472a7f21a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/final.mp3",
+    "us": "media/us/final.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "finally",
+   "word": "finally",
+   "zh": "终于；最后",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "终于；最后"
+    }
+   ],
+   "ipa": "/ˈfaɪnəli/",
+   "chunks": [
+    "fi",
+    "nal",
+    "ly"
+   ],
+   "emoji": "🎉",
+   "sentence": {
+    "en": "Finally, the rain stops.",
+    "zh": "雨终于停了。"
+   },
+   "sentences": [
+    {
+     "en": "Finally, the rain stops.",
+     "zh": "雨终于停了。",
+     "audio": "media/sent/bd0879739cd0.mp3"
+    },
+    {
+     "en": "We finally arrived at Grandma's house.",
+     "zh": "我们终于到了奶奶家。",
+     "audio": "media/sent/4e37b079c189.mp3"
+    },
+    {
+     "en": "Tom finally found his red shoe.",
+     "zh": "Tom 终于找到了他的红鞋子。",
+     "audio": "media/sent/ade5907195d6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/finally.mp3",
+    "us": "media/us/finally.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "first-of-all",
+   "word": "first of all",
+   "zh": "首先；第一点",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "首先；第一点"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "first",
+    "of",
+    "all"
+   ],
+   "emoji": "1️⃣",
+   "sentence": {
+    "en": "First of all, wash your hands.",
+    "zh": "首先，洗手。"
+   },
+   "sentences": [
+    {
+     "en": "First of all, wash your hands.",
+     "zh": "首先，洗手。",
+     "audio": "media/sent/0d5642507f8b.mp3"
+    },
+    {
+     "en": "First of all, we need a map.",
+     "zh": "首先，我们需要一张地图。",
+     "audio": "media/sent/74b5e651c126.mp3"
+    },
+    {
+     "en": "First of all, put on your coat.",
+     "zh": "首先，穿上你的外套。",
+     "audio": "media/sent/45b1be3b697a.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "future",
+   "word": "future",
+   "zh": "未来；将来",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "未来；将来"
+    }
+   ],
+   "ipa": "/ˈfjuːtʃə/",
+   "chunks": [
+    "fu",
+    "ture"
+   ],
+   "emoji": "🔮",
+   "sentence": {
+    "en": "What will you do in the future?",
+    "zh": "你将来想做什么？"
+   },
+   "sentences": [
+    {
+     "en": "What will you do in the future?",
+     "zh": "你将来想做什么？",
+     "audio": "media/sent/44a4f5e088ee.mp3"
+    },
+    {
+     "en": "The future looks exciting.",
+     "zh": "未来看起来很令人兴奋。",
+     "audio": "media/sent/67c86c03a834.mp3"
+    },
+    {
+     "en": "Maybe people will live on the moon in the future.",
+     "zh": "也许将来人们会住在月球上。",
+     "audio": "media/sent/d1f08b513b61.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/future.mp3",
+    "us": "media/us/future.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "late",
+   "word": "late",
+   "zh": "晚的；迟到的",
+   "pos": [
+    "adv",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "adj"
+     ],
+     "zh": "晚的；迟到的"
+    }
+   ],
+   "ipa": "/leɪt/",
+   "chunks": [
+    "late"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "Dad is late for work.",
+    "zh": "爸爸上班迟到了。"
+   },
+   "sentences": [
+    {
+     "en": "Dad is late for work.",
+     "zh": "爸爸上班迟到了。",
+     "audio": "media/sent/8443ef1aa0c5.mp3"
+    },
+    {
+     "en": "It's too late to go out.",
+     "zh": "太晚了，不能出去了。",
+     "audio": "media/sent/c427973d5ca7.mp3"
+    },
+    {
+     "en": "Tom is never late for school.",
+     "zh": "Tom 上学从不迟到。",
+     "audio": "media/sent/048811b85b7b.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/late.mp3",
+    "us": "media/us/late.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "later",
+   "word": "later",
+   "zh": "稍后；后来",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "稍后；后来"
+    }
+   ],
+   "ipa": "/ˈleɪtə/",
+   "chunks": [
+    "lat",
+    "er"
+   ],
+   "emoji": "🕒",
+   "sentence": {
+    "en": "I'll see you later, Max!",
+    "zh": "Max，待会儿见！"
+   },
+   "sentences": [
+    {
+     "en": "I'll see you later, Max!",
+     "zh": "Max，待会儿见！",
+     "audio": "media/sent/1b1f15b50935.mp3"
+    },
+    {
+     "en": "We can play later after homework.",
+     "zh": "做完作业后我们可以稍后再玩。",
+     "audio": "media/sent/60c53e97b42c.mp3"
+    },
+    {
+     "en": "See you later, Mum!",
+     "zh": "妈妈，待会儿见！",
+     "audio": "media/sent/ffaf68f44b36.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/later.mp3",
+    "us": "media/us/later.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "latest",
+   "word": "latest",
+   "zh": "最新的；最近的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "最新的；最近的"
+    }
+   ],
+   "ipa": "/ˈleɪtɪst/",
+   "chunks": [
+    "lat",
+    "est"
+   ],
+   "emoji": "🆕",
+   "sentence": {
+    "en": "This is the latest news.",
+    "zh": "这是最新消息。"
+   },
+   "sentences": [
+    {
+     "en": "This is the latest news.",
+     "zh": "这是最新消息。",
+     "audio": "media/sent/eead1d3395ab.mp3"
+    },
+    {
+     "en": "She has the latest phone.",
+     "zh": "她有最新的手机。",
+     "audio": "media/sent/01c3c1efaf40.mp3"
+    },
+    {
+     "en": "What's the latest film?",
+     "zh": "最新的一部电影是什么？",
+     "audio": "media/sent/7c9a30af6542.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/latest.mp3",
+    "us": "media/us/latest.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "lunchtime",
+   "word": "lunchtime",
+   "zh": "午餐时间；中午休息时间",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "午餐时间；中午休息时间"
+    }
+   ],
+   "ipa": "/ˈlʌntʃtaɪm/",
+   "chunks": [
+    "lunch",
+    "time"
+   ],
+   "emoji": "🍱",
+   "sentence": {
+    "en": "We eat sandwiches at lunchtime.",
+    "zh": "我们在午餐时间吃三明治。"
+   },
+   "sentences": [
+    {
+     "en": "We eat sandwiches at lunchtime.",
+     "zh": "我们在午餐时间吃三明治。",
+     "audio": "media/sent/319cca00d93e.mp3"
+    },
+    {
+     "en": "Lunchtime is from one to two o'clock.",
+     "zh": "午餐时间是从一点到两点。",
+     "audio": "media/sent/c7c75d6eb3bf.mp3"
+    },
+    {
+     "en": "Tom is always hungry at lunchtime.",
+     "zh": "Tom 一到午饭时间就饿。",
+     "audio": "media/sent/947024e5d539.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/lunchtime.mp3",
+    "us": "media/us/lunchtime.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "midday",
+   "word": "midday",
+   "zh": "正午；中午",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "正午；中午"
+    }
+   ],
+   "ipa": "/ˌmɪdˈdeɪ/",
+   "chunks": [
+    "mid",
+    "day"
+   ],
+   "emoji": "☀️",
+   "sentence": {
+    "en": "The sun is high at midday.",
+    "zh": "正午时太阳很高。"
+   },
+   "sentences": [
+    {
+     "en": "The sun is high at midday.",
+     "zh": "正午时太阳很高。",
+     "audio": "media/sent/3a9058063ff1.mp3"
+    },
+    {
+     "en": "We have lunch at midday.",
+     "zh": "我们在中午吃午饭。",
+     "audio": "media/sent/c9ad21e70d21.mp3"
+    },
+    {
+     "en": "It's very hot at midday in summer.",
+     "zh": "夏天正午很热。",
+     "audio": "media/sent/db0ed43b84fa.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/midday.mp3",
+    "us": "media/us/midday.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "never",
+   "word": "never",
+   "zh": "从不；绝不",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "从不；绝不"
+    }
+   ],
+   "ipa": "/ˈnevə/",
+   "chunks": [
+    "ne",
+    "ver"
+   ],
+   "emoji": "🚫",
+   "sentence": {
+    "en": "Tom never eats vegetables.",
+    "zh": "Tom 从不吃蔬菜。"
+   },
+   "sentences": [
+    {
+     "en": "Tom never eats vegetables.",
+     "zh": "Tom 从不吃蔬菜。",
+     "audio": "media/sent/4c498dee1c3b.mp3"
+    },
+    {
+     "en": "Max never runs away.",
+     "zh": "Max 从不跑开。",
+     "audio": "media/sent/bb0517b79e38.mp3"
+    },
+    {
+     "en": "I never go to bed late.",
+     "zh": "我从不晚睡。",
+     "audio": "media/sent/4dc020e26a9a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/never.mp3",
+    "us": "media/us/never.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "now",
+   "word": "now",
+   "zh": "现在",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "现在"
+    }
+   ],
+   "ipa": "/naʊ/",
+   "chunks": [
+    "now"
+   ],
+   "emoji": "⌚",
+   "sentence": {
+    "en": "We are playing now.",
+    "zh": "我们现在正在玩。"
+   },
+   "sentences": [
+    {
+     "en": "We are playing now.",
+     "zh": "我们现在正在玩。",
+     "audio": "media/sent/1a0496eea7af.mp3"
+    },
+    {
+     "en": "It's raining now.",
+     "zh": "现在正在下雨。",
+     "audio": "media/sent/fff90cf9898f.mp3"
+    },
+    {
+     "en": "Come here now, please.",
+     "zh": "请现在过来。",
+     "audio": "media/sent/c2e90ac13266.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/now.mp3",
+    "us": "media/us/now.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "often",
+   "word": "often",
+   "zh": "经常；常常",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "经常；常常"
+    }
+   ],
+   "ipa": "/ˈɒfən/",
+   "chunks": [
+    "of",
+    "ten"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "We often go to the park.",
+    "zh": "我们经常去公园。"
+   },
+   "sentences": [
+    {
+     "en": "We often go to the park.",
+     "zh": "我们经常去公园。",
+     "audio": "media/sent/749711bb4eda.mp3"
+    },
+    {
+     "en": "Mum often cooks fish.",
+     "zh": "妈妈经常做鱼。",
+     "audio": "media/sent/5436104a1fbd.mp3"
+    },
+    {
+     "en": "Do you often read books?",
+     "zh": "你经常读书吗？",
+     "audio": "media/sent/689f71d23035.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/often.mp3",
+    "us": "media/us/often.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "once",
+   "word": "once",
+   "zh": "一次；曾经",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "一次；曾经"
+    }
+   ],
+   "ipa": "/wʌns/",
+   "chunks": [
+    "once"
+   ],
+   "emoji": "1️⃣",
+   "sentence": {
+    "en": "I went to London once.",
+    "zh": "我去过伦敦一次。"
+   },
+   "sentences": [
+    {
+     "en": "I went to London once.",
+     "zh": "我去过伦敦一次。",
+     "audio": "media/sent/9bbc13843749.mp3"
+    },
+    {
+     "en": "Once a week, we swim.",
+     "zh": "我们每周游一次泳。",
+     "audio": "media/sent/8dc1b9cfc7b7.mp3"
+    },
+    {
+     "en": "We visit Grandma once a month.",
+     "zh": "我们每个月去看奶奶一次。",
+     "audio": "media/sent/341b350a6911.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/once.mp3",
+    "us": "media/us/once.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "recently",
+   "word": "recently",
+   "zh": "最近；近来",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "最近；近来"
+    }
+   ],
+   "ipa": "/ˈriːsəntli/",
+   "chunks": [
+    "re",
+    "cent",
+    "ly"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "Grandma visited us recently.",
+    "zh": "奶奶最近来看过我们。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma visited us recently.",
+     "zh": "奶奶最近来看过我们。",
+     "audio": "media/sent/070c64c6eec1.mp3"
+    },
+    {
+     "en": "I saw this film recently.",
+     "zh": "我最近看了这部电影。",
+     "audio": "media/sent/0a339697dc99.mp3"
+    },
+    {
+     "en": "Mia moved to our street recently.",
+     "zh": "Mia 最近搬到了我们这条街。",
+     "audio": "media/sent/986d511e3e4d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/recently.mp3",
+    "us": "media/us/recently.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "since",
+   "word": "since",
+   "zh": "自从；从……以来",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "自从；从……以来"
+    }
+   ],
+   "ipa": "/sɪns/",
+   "chunks": [
+    "since"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "I have known Mia since I was six.",
+    "zh": "我六岁就认识 Mia 了。"
+   },
+   "sentences": [
+    {
+     "en": "I have known Mia since I was six.",
+     "zh": "我六岁就认识 Mia 了。",
+     "audio": "media/sent/409727252768.mp3"
+    },
+    {
+     "en": "It has rained since morning.",
+     "zh": "从早上起就一直在下雨。",
+     "audio": "media/sent/4d9945498bcd.mp3"
+    },
+    {
+     "en": "We have had Max since he was small.",
+     "zh": "Max 从小我们就养着他了。",
+     "audio": "media/sent/a3175595eb90.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/since.mp3",
+    "us": "media/us/since.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sometimes",
+   "word": "sometimes",
+   "zh": "有时；有时候",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "有时；有时候"
+    }
+   ],
+   "ipa": "/ˈsʌmtaɪmz/",
+   "chunks": [
+    "some",
+    "times"
+   ],
+   "emoji": "🎲",
+   "sentence": {
+    "en": "We sometimes eat out.",
+    "zh": "我们有时在外面吃饭。"
+   },
+   "sentences": [
+    {
+     "en": "We sometimes eat out.",
+     "zh": "我们有时在外面吃饭。",
+     "audio": "media/sent/d6796af6f534.mp3"
+    },
+    {
+     "en": "Tom sometimes cries.",
+     "zh": "Tom 有时会哭。",
+     "audio": "media/sent/7f735fb8b555.mp3"
+    },
+    {
+     "en": "Sometimes it snows here.",
+     "zh": "这里有时下雪。",
+     "audio": "media/sent/b5106ccfcc3e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/sometimes.mp3",
+    "us": "media/us/sometimes.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "soon",
+   "word": "soon",
+   "zh": "不久；很快",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "不久；很快"
+    }
+   ],
+   "ipa": "/suːn/",
+   "chunks": [
+    "soon"
+   ],
+   "emoji": "🏃‍♂️",
+   "sentence": {
+    "en": "The bus is coming soon.",
+    "zh": "公交车很快就到了。"
+   },
+   "sentences": [
+    {
+     "en": "The bus is coming soon.",
+     "zh": "公交车很快就到了。",
+     "audio": "media/sent/9097b0df5195.mp3"
+    },
+    {
+     "en": "See you soon!",
+     "zh": "很快再见！",
+     "audio": "media/sent/d58d5e08adca.mp3"
+    },
+    {
+     "en": "Dad will be home soon.",
+     "zh": "爸爸很快就会回家。",
+     "audio": "media/sent/82dd960d1260.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/soon.mp3",
+    "us": "media/us/soon.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "still",
+   "word": "still",
+   "zh": "仍然；还",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "仍然；还"
+    }
+   ],
+   "ipa": "/stɪl/",
+   "chunks": [
+    "still"
+   ],
+   "emoji": "🔁",
+   "sentence": {
+    "en": "Mum is still working.",
+    "zh": "妈妈还在工作。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is still working.",
+     "zh": "妈妈还在工作。",
+     "audio": "media/sent/3e42a1aaa7ba.mp3"
+    },
+    {
+     "en": "I'm still hungry.",
+     "zh": "我还是饿。",
+     "audio": "media/sent/ced3360453da.mp3"
+    },
+    {
+     "en": "Max is still sleeping.",
+     "zh": "Max 还在睡觉。",
+     "audio": "media/sent/08b57b93c711.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/still.mp3",
+    "us": "media/us/still.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "suddenly",
+   "word": "suddenly",
+   "zh": "突然",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "突然"
+    }
+   ],
+   "ipa": "/ˈsʌdənli/",
+   "chunks": [
+    "sud",
+    "den",
+    "ly"
+   ],
+   "emoji": "⚡",
+   "sentence": {
+    "en": "Suddenly, the lights went out.",
+    "zh": "突然，灯灭了。"
+   },
+   "sentences": [
+    {
+     "en": "Suddenly, the lights went out.",
+     "zh": "突然，灯灭了。",
+     "audio": "media/sent/df8ea0a99cc1.mp3"
+    },
+    {
+     "en": "Max suddenly ran to the door.",
+     "zh": "Max 突然跑向门口。",
+     "audio": "media/sent/b90dfffa79d8.mp3"
+    },
+    {
+     "en": "It suddenly began to rain.",
+     "zh": "突然下起雨来了。",
+     "audio": "media/sent/63dcd91b86fc.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/suddenly.mp3",
+    "us": "media/us/suddenly.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "then",
+   "word": "then",
+   "zh": "然后；接着",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "然后；接着"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "then"
+   ],
+   "emoji": "➡️",
+   "sentence": {
+    "en": "First wash your hands, then eat.",
+    "zh": "先洗手，然后再吃。"
+   },
+   "sentences": [
+    {
+     "en": "First wash your hands, then eat.",
+     "zh": "先洗手，然后再吃。",
+     "audio": "media/sent/c3d19b24675e.mp3"
+    },
+    {
+     "en": "We had tea, then we played games.",
+     "zh": "我们喝了茶，然后玩了游戏。",
+     "audio": "media/sent/39d65ef891ea.mp3"
+    },
+    {
+     "en": "What did you do then?",
+     "zh": "那你做了什么？",
+     "audio": "media/sent/21edbd99c756.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "till",
+   "word": "till",
+   "zh": "直到……为止",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "直到……为止"
+    }
+   ],
+   "ipa": "/tɪl/",
+   "chunks": [
+    "till"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "Wait here till I come back.",
+    "zh": "在这儿等我回来。"
+   },
+   "sentences": [
+    {
+     "en": "Wait here till I come back.",
+     "zh": "在这儿等我回来。",
+     "audio": "media/sent/7c3570e784c8.mp3"
+    },
+    {
+     "en": "The shop is open till six o'clock.",
+     "zh": "商店开到六点钟。",
+     "audio": "media/sent/6c74e1e7220c.mp3"
+    },
+    {
+     "en": "He slept till noon.",
+     "zh": "他睡到了中午。",
+     "audio": "media/sent/9e72eded648c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/till.mp3",
+    "us": "media/us/till.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "until",
+   "word": "until",
+   "zh": "直到……为止",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "直到……为止"
+    }
+   ],
+   "ipa": "/ənˈtɪl/",
+   "chunks": [
+    "un",
+    "til"
+   ],
+   "emoji": "🕰️",
+   "sentence": {
+    "en": "Dad worked until late last night.",
+    "zh": "爸爸昨晚工作到很晚。"
+   },
+   "sentences": [
+    {
+     "en": "Dad worked until late last night.",
+     "zh": "爸爸昨晚工作到很晚。",
+     "audio": "media/sent/66ca35dce500.mp3"
+    },
+    {
+     "en": "We stayed until the rain stopped.",
+     "zh": "我们一直待到雨停。",
+     "audio": "media/sent/204c99f1d7d5.mp3"
+    },
+    {
+     "en": "Don't go until Dad comes home.",
+     "zh": "爸爸回家前不要走。",
+     "audio": "media/sent/819998af8493.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/until.mp3",
+    "us": "media/us/until.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "twice",
+   "word": "twice",
+   "zh": "两次",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "两次"
+    }
+   ],
+   "ipa": "/twaɪs/",
+   "chunks": [
+    "twice"
+   ],
+   "emoji": "2️⃣",
+   "sentence": {
+    "en": "Lily goes swimming twice a week.",
+    "zh": "Lily 每周去游泳两次。"
+   },
+   "sentences": [
+    {
+     "en": "Lily goes swimming twice a week.",
+     "zh": "Lily 每周去游泳两次。",
+     "audio": "media/sent/ed6061c977cb.mp3"
+    },
+    {
+     "en": "Tom brushes his teeth twice a day.",
+     "zh": "Tom 每天刷两次牙。",
+     "audio": "media/sent/27c2ed6f692f.mp3"
+    },
+    {
+     "en": "She visited Grandma twice last month.",
+     "zh": "上个月她去看望了奶奶两次。",
+     "audio": "media/sent/cd8841b36eb9.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/twice.mp3",
+    "us": "media/us/twice.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "usually",
+   "word": "usually",
+   "zh": "通常",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "通常"
+    }
+   ],
+   "ipa": "/ˈjuːʒuəli/",
+   "chunks": [
+    "u",
+    "su",
+    "al",
+    "ly"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "We usually have cereal for breakfast.",
+    "zh": "我们早餐通常吃麦片。"
+   },
+   "sentences": [
+    {
+     "en": "We usually have cereal for breakfast.",
+     "zh": "我们早餐通常吃麦片。",
+     "audio": "media/sent/03bcd049af3e.mp3"
+    },
+    {
+     "en": "Dad is usually home by six.",
+     "zh": "爸爸通常六点到家。",
+     "audio": "media/sent/cd6c0ca75ab5.mp3"
+    },
+    {
+     "en": "She usually walks to school.",
+     "zh": "她通常步行去学校。",
+     "audio": "media/sent/0f182fd1a9b9.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/usually.mp3",
+    "us": "media/us/usually.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "usual",
+   "word": "usual",
+   "zh": "通常的；平常的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "通常的；平常的"
+    }
+   ],
+   "ipa": "/ˈjuːʒuəl/",
+   "chunks": [
+    "u",
+    "su",
+    "al"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "This is the usual bus stop.",
+    "zh": "这是平常的公交车站。"
+   },
+   "sentences": [
+    {
+     "en": "This is the usual bus stop.",
+     "zh": "这是平常的公交车站。",
+     "audio": "media/sent/4db9d38d8550.mp3"
+    },
+    {
+     "en": "He arrived at his usual time.",
+     "zh": "他在平常的时间到了。",
+     "audio": "media/sent/4048ba40ada0.mp3"
+    },
+    {
+     "en": "She wore her usual red coat.",
+     "zh": "她穿了那件平常的红色外套。",
+     "audio": "media/sent/58c7877aa689.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/usual.mp3",
+    "us": "media/us/usual.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "yet",
+   "word": "yet",
+   "zh": "还（没）；已经",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "还（没）；已经"
+    }
+   ],
+   "ipa": "/jet/",
+   "chunks": [
+    "yet"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "Have you finished your homework yet?",
+    "zh": "你做完作业了吗？"
+   },
+   "sentences": [
+    {
+     "en": "Have you finished your homework yet?",
+     "zh": "你做完作业了吗？",
+     "audio": "media/sent/b1807b021a6a.mp3"
+    },
+    {
+     "en": "The letter has not arrived yet.",
+     "zh": "信还没有到。",
+     "audio": "media/sent/e54a176e76e9.mp3"
+    },
+    {
+     "en": "I have not watched that film yet.",
+     "zh": "我还没看过那部电影。",
+     "audio": "media/sent/a094e50cfa97.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/yet.mp3",
+    "us": "media/us/yet.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "immediately",
+   "word": "immediately",
+   "zh": "立刻；马上",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "立刻；马上"
+    }
+   ],
+   "ipa": "/ɪˈmiːdiətli/",
+   "chunks": [
+    "im",
+    "me",
+    "di",
+    "ate",
+    "ly"
+   ],
+   "emoji": "🚀",
+   "sentence": {
+    "en": "Call Dad immediately if you are lost.",
+    "zh": "如果你迷路了，立刻给爸爸打电话。"
+   },
+   "sentences": [
+    {
+     "en": "Call Dad immediately if you are lost.",
+     "zh": "如果你迷路了，立刻给爸爸打电话。",
+     "audio": "media/sent/1a18ae565c1b.mp3"
+    },
+    {
+     "en": "She left immediately after lunch.",
+     "zh": "午饭后她立刻离开了。",
+     "audio": "media/sent/a6c0c3c23ea7.mp3"
+    },
+    {
+     "en": "Max ran to the door immediately.",
+     "zh": "Max 立刻跑向门口。",
+     "audio": "media/sent/0d15aa45a60e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/immediately.mp3",
+    "us": "media/us/immediately.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "all-the-time",
+   "word": "all the time",
+   "zh": "一直；总是",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "一直；总是"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "all",
+    "the",
+    "time"
+   ],
+   "emoji": "🔁",
+   "sentence": {
+    "en": "Tom talks all the time.",
+    "zh": "Tom 一直在说话。"
+   },
+   "sentences": [
+    {
+     "en": "Tom talks all the time.",
+     "zh": "Tom 一直在说话。",
+     "audio": "media/sent/152c58bddf80.mp3"
+    },
+    {
+     "en": "She is happy all the time.",
+     "zh": "她总是很开心。",
+     "audio": "media/sent/a32442897c85.mp3"
+    },
+    {
+     "en": "It rains all the time in winter.",
+     "zh": "冬天总是下雨。",
+     "audio": "media/sent/ce7bc3737517.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "season",
+   "word": "season",
+   "zh": "季节",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "季节"
+    }
+   ],
+   "ipa": "/ˈsiːzən/",
+   "chunks": [
+    "sea",
+    "son"
+   ],
+   "emoji": "🍂",
+   "sentence": {
+    "en": "Autumn is my favourite season.",
+    "zh": "秋天是我最喜欢的季节。"
+   },
+   "sentences": [
+    {
+     "en": "Autumn is my favourite season.",
+     "zh": "秋天是我最喜欢的季节。",
+     "audio": "media/sent/2110565c6470.mp3"
+    },
+    {
+     "en": "Spring is a nice season for flowers.",
+     "zh": "春天是赏花的好季节。",
+     "audio": "media/sent/67377e32254e.mp3"
+    },
+    {
+     "en": "Winter is the coldest season.",
+     "zh": "冬天是最冷的季节。",
+     "audio": "media/sent/0e5fe4955062.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/season.mp3",
+    "us": "media/us/season.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "timetable",
+   "word": "timetable",
+   "zh": "课程表；时间表",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "课程表；时间表"
+    }
+   ],
+   "ipa": "/ˈtaɪmteɪbəl/",
+   "chunks": [
+    "time",
+    "ta",
+    "ble"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "Check your timetable for maths.",
+    "zh": "看看你的课程表找数学课。"
+   },
+   "sentences": [
+    {
+     "en": "Check your timetable for maths.",
+     "zh": "看看你的课程表找数学课。",
+     "audio": "media/sent/a1f51b1f9b4e.mp3"
+    },
+    {
+     "en": "The train timetable is on the wall.",
+     "zh": "火车时刻表挂在墙上。",
+     "audio": "media/sent/f552fbf3e502.mp3"
+    },
+    {
+     "en": "My school timetable starts at eight.",
+     "zh": "我的学校课程表八点钟开始。",
+     "audio": "media/sent/1794a2b95448.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/timetable.mp3",
+    "us": "media/us/timetable.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "anymore",
+   "word": "anymore",
+   "zh": "不再；再也（不）",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "不再；再也（不）"
+    }
+   ],
+   "ipa": "/ˌeniˈmɔː/",
+   "chunks": [
+    "a",
+    "ny",
+    "more"
+   ],
+   "emoji": "🚫",
+   "sentence": {
+    "en": "Tom doesn't cry anymore.",
+    "zh": "Tom 不再哭了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom doesn't cry anymore.",
+     "zh": "Tom 不再哭了。",
+     "audio": "media/sent/697505f653a4.mp3"
+    },
+    {
+     "en": "She isn't shy anymore.",
+     "zh": "她不再害羞了。",
+     "audio": "media/sent/9ac9dd9afec1.mp3"
+    },
+    {
+     "en": "We don't go there anymore.",
+     "zh": "我们不再去那里了。",
+     "audio": "media/sent/76a7806b5719.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/anymore.mp3",
+    "us": "media/us/anymore.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "last",
+   "word": "last",
+   "zh": "上一个的；最后的",
+   "pos": [
+    "adj",
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det"
+     ],
+     "zh": "上一个的；最后的"
+    }
+   ],
+   "ipa": "/lɑːst/",
+   "chunks": [
+    "last"
+   ],
+   "emoji": "⏮️",
+   "sentence": {
+    "en": "It was my last day at school.",
+    "zh": "那是我上学期的最后一天。"
+   },
+   "sentences": [
+    {
+     "en": "It was my last day at school.",
+     "zh": "那是我上学期的最后一天。",
+     "audio": "media/sent/4b4389b58938.mp3"
+    },
+    {
+     "en": "Last week we went to the park.",
+     "zh": "上周我们去了公园。",
+     "audio": "media/sent/a28c0cacf966.mp3"
+    },
+    {
+     "en": "He was the last one to leave.",
+     "zh": "他是最后一个离开的。",
+     "audio": "media/sent/0d36a94eb692.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/last.mp3",
+    "us": "media/us/last.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "next",
+   "word": "next",
+   "zh": "下一个的；接下来的",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "下一个的；接下来的"
+    }
+   ],
+   "ipa": "/nekst/",
+   "chunks": [
+    "next"
+   ],
+   "emoji": "⏭️",
+   "sentence": {
+    "en": "Next week is my birthday.",
+    "zh": "下周是我的生日。"
+   },
+   "sentences": [
+    {
+     "en": "Next week is my birthday.",
+     "zh": "下周是我的生日。",
+     "audio": "media/sent/c37243b7fb60.mp3"
+    },
+    {
+     "en": "Who is next in the line?",
+     "zh": "谁是下一个？",
+     "audio": "media/sent/bec5f5d23dce.mp3"
+    },
+    {
+     "en": "We can play next time.",
+     "zh": "我们可以下次再玩。",
+     "audio": "media/sent/24530d201420.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/next.mp3",
+    "us": "media/us/next.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "sports-day",
+ "topic": "sport",
+ "title": "Sports Day",
+ "zh": "运动会",
+ "pages": [
+  {
+   "en": "Today is sports day at Lily's school. There is a running race, a football game and a swimming competition.",
+   "zh": "今天是 Lily 学校的运动会，有赛跑、足球赛和游泳比赛。",
+   "scene": "A sunny school sports day: a running track with flags, children in team T-shirts, a football pitch and parents watching."
+  },
+  {
+   "en": "Lily is in the running race. She runs very fast, but Mia is faster. Lily is second. \"Well done!\" says her teacher.",
+   "zh": "Lily 参加了赛跑。她跑得很快，可是 Mia 更快，Lily 得了第二名。“干得好！”老师说。",
+   "scene": "Two girls running a race on a school track, Mia just ahead crossing the finishing line, Lily close behind smiling."
+  },
+  {
+   "en": "Then Lily's team plays football. Lily scores the winning goal! Everyone is very happy, and her team gets the prize.",
+   "zh": "接着 Lily 的队踢足球。Lily 踢进了制胜一球！大家都非常开心，她的队得了奖。",
+   "scene": "Lily kicking a football into the goal net, her teammates jumping and cheering, a gold cup on a table nearby."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lily wins the running race.",
+   "zh": "Lily 赢了赛跑。",
+   "answer": false
+  },
+  {
+   "q": "Who is faster than Lily?",
+   "zh": "谁比 Lily 跑得快？",
+   "options": [
+    "Mia",
+    "Tom",
+    "Sam"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily scores a goal.",
+   "zh": "Lily 进了一个球。",
+   "answer": true
+  }
+ ]
+}

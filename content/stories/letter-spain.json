@@ -1,0 +1,45 @@
+{
+ "id": "letter-spain",
+ "topic": "family",
+ "title": "A Letter from Spain",
+ "zh": "西班牙来的信",
+ "pages": [
+  {
+   "en": "Lily has a penfriend called Ana. Ana lives in Spain with her parents and her little sister.",
+   "zh": "Lily 有一个笔友叫 Ana。Ana 和她的父母、妹妹住在西班牙。",
+   "scene": "Lily at her desk looking at a world map with a heart on Spain, an envelope with colourful stamps in her hand."
+  },
+  {
+   "en": "Today a letter comes from Ana. There is a photo in it. Ana and her sister are on the beach with their grandmother.",
+   "zh": "今天 Ana 寄来一封信，里面有一张照片：Ana 和妹妹跟奶奶在海滩上。",
+   "scene": "Lily happily holding up a photo of a girl with long black hair, her little sister and their grey-haired grandmother on a sunny beach."
+  },
+  {
+   "en": "Lily writes back: \"Dear Ana, this is my family. My brother is called Tom, and our dog is called Max. Please write again soon!\"",
+   "zh": "Lily 回信写道：“亲爱的 Ana，这是我的家人。我弟弟叫 Tom，我们的狗叫 Max。请快点再给我写信！”",
+   "scene": "Lily writing a letter at her desk, a small framed family photo standing beside her, Max sitting on the desk watching her write, no readable writing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Ana lives in Spain.",
+   "zh": "Ana 住在西班牙。",
+   "answer": true
+  },
+  {
+   "q": "Who is in the photo?",
+   "zh": "照片里有谁？",
+   "options": [
+    "Ana, her sister and their grandmother",
+    "Ana and her dad",
+    "Ana and her dog"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily has a sister.",
+   "zh": "Lily 有一个姐妹。",
+   "answer": false
+  }
+ ]
+}

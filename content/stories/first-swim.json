@@ -1,0 +1,45 @@
+{
+ "id": "first-swim",
+ "topic": "sport",
+ "title": "Tom Learns to Swim",
+ "zh": "Tom 学游泳",
+ "pages": [
+  {
+   "en": "Tom can't swim, so Dad takes him to the swimming pool on Saturday. Tom is a bit afraid of the water.",
+   "zh": "Tom 不会游泳，所以星期六爸爸带他去游泳池。Tom 有点怕水。",
+   "scene": "Tom in swimming trunks and orange armbands standing nervously at the edge of an indoor swimming pool, Dad holding his hand."
+  },
+  {
+   "en": "The coach is very kind. She helps Tom. First he kicks his legs, and then he moves his arms.",
+   "zh": "教练很和气，她帮助 Tom。他先踢腿，然后划手臂。",
+   "scene": "A kind grown-up woman swimming coach in the shallow end of a pool holding a float for Tom, who is kicking his legs and splashing."
+  },
+  {
+   "en": "After five lessons, Tom can swim! He swims to Dad without help. \"I'm a fish!\" he laughs.",
+   "zh": "上了五节课后，Tom 会游泳了！他不用别人帮忙就游到了爸爸身边。“我是一条鱼！”他笑着说。",
+   "scene": "Tom swimming happily on his own across the pool towards Dad, who is waiting with open arms, the coach clapping."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tom can swim at the start of the story.",
+   "zh": "故事开始时 Tom 会游泳。",
+   "answer": false
+  },
+  {
+   "q": "Who helps Tom in the pool?",
+   "zh": "谁在泳池里帮助 Tom？",
+   "options": [
+    "the coach",
+    "Lily",
+    "Grandma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom has five lessons.",
+   "zh": "Tom 上了五节课。",
+   "answer": true
+  }
+ ]
+}

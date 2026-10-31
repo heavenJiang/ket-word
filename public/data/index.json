@@ -1,181 +1,181 @@
 {
  "source": "Cambridge English A2 Key and A2 Key for Schools Vocabulary List (August 2025), © UCLES",
- "credits": "Illustrations and recordings: Word Atlas contributors — CC BY 4.0 (https://github.com/designfuchen/word-atlas)",
+ "credits": "Recordings: Word Atlas contributors — CC BY 4.0 (https://github.com/designfuchen/word-atlas)",
  "topics": [
   {
    "id": "colours",
    "en": "Colours",
    "zh": "颜色",
-   "count": 16,
-   "ready": false
+   "count": 17,
+   "ready": true
   },
   {
    "id": "family",
    "en": "Family and Friends",
    "zh": "家人朋友",
-   "count": 43,
-   "ready": false
+   "count": 44,
+   "ready": true
   },
   {
    "id": "food",
    "en": "Food and Drink",
    "zh": "食物饮料",
-   "count": 106,
-   "ready": false
+   "count": 108,
+   "ready": true
   },
   {
    "id": "clothes",
    "en": "Clothes and Accessories",
    "zh": "衣服配饰",
-   "count": 52,
-   "ready": false
+   "count": 55,
+   "ready": true
   },
   {
    "id": "home",
    "en": "House and Home",
    "zh": "我的家",
    "count": 62,
-   "ready": false
+   "ready": true
   },
   {
    "id": "school",
    "en": "Education",
    "zh": "学校",
-   "count": 54,
-   "ready": false
+   "count": 55,
+   "ready": true
   },
   {
    "id": "nature",
    "en": "The Natural World",
    "zh": "大自然",
    "count": 39,
-   "ready": false
+   "ready": true
   },
   {
    "id": "weather",
    "en": "Weather",
    "zh": "天气",
    "count": 18,
-   "ready": false
+   "ready": true
   },
   {
    "id": "time",
    "en": "Time",
    "zh": "时间",
-   "count": 61,
-   "ready": false
+   "count": 64,
+   "ready": true
   },
   {
    "id": "sport",
    "en": "Sport",
    "zh": "运动",
-   "count": 75,
-   "ready": false
+   "count": 76,
+   "ready": true
   },
   {
    "id": "hobbies",
    "en": "Hobbies and Leisure",
    "zh": "爱好休闲",
-   "count": 38,
-   "ready": false
+   "count": 40,
+   "ready": true
   },
   {
    "id": "health",
    "en": "Health, Medicine and Exercise",
    "zh": "身体健康",
-   "count": 63,
-   "ready": false
+   "count": 65,
+   "ready": true
   },
   {
    "id": "town",
    "en": "Places: Town and City",
    "zh": "城镇",
-   "count": 20,
-   "ready": false
+   "count": 21,
+   "ready": true
   },
   {
    "id": "buildings",
    "en": "Places: Buildings",
    "zh": "建筑",
    "count": 40,
-   "ready": false
+   "ready": true
   },
   {
    "id": "countryside",
    "en": "Places: Countryside",
    "zh": "乡村",
    "count": 19,
-   "ready": false
+   "ready": true
   },
   {
    "id": "shopping",
    "en": "Shopping",
    "zh": "购物",
    "count": 37,
-   "ready": false
+   "ready": true
   },
   {
    "id": "services",
    "en": "Services",
    "zh": "公共服务",
    "count": 16,
-   "ready": false
+   "ready": true
   },
   {
    "id": "travel",
    "en": "Travel and Transport",
    "zh": "交通旅行",
-   "count": 80,
-   "ready": false
+   "count": 82,
+   "ready": true
   },
   {
    "id": "jobs",
    "en": "Work and Jobs",
    "zh": "职业",
    "count": 66,
-   "ready": false
+   "ready": true
   },
   {
    "id": "media",
    "en": "Entertainment and Media",
    "zh": "娱乐媒体",
-   "count": 71,
-   "ready": false
+   "count": 74,
+   "ready": true
   },
   {
    "id": "tech",
    "en": "Communication and Technology",
    "zh": "通讯科技",
-   "count": 45,
-   "ready": false
+   "count": 46,
+   "ready": true
   },
   {
    "id": "appliances",
    "en": "Appliances",
    "zh": "家用电器",
-   "count": 26,
-   "ready": false
+   "count": 27,
+   "ready": true
   },
   {
    "id": "documents",
    "en": "Documents and Texts",
    "zh": "文件书信",
    "count": 25,
-   "ready": false
+   "ready": true
   },
   {
    "id": "measure",
    "en": "Measurements",
    "zh": "度量",
    "count": 17,
-   "ready": false
+   "ready": true
   },
   {
    "id": "feelings",
    "en": "Personal Feelings, Opinions and Experiences (adjectives)",
    "zh": "感受描述",
    "count": 74,
-   "ready": false
+   "ready": true
   },
   {
    "id": "animals",
@@ -188,22 +188,195 @@
    "id": "numbers",
    "en": "Numbers",
    "zh": "数字",
-   "count": 43,
-   "ready": false
+   "count": 44,
+   "ready": true
   },
   {
    "id": "world",
    "en": "Countries and Continents",
    "zh": "国家与大洲",
    "count": 32,
-   "ready": false
+   "ready": true
   },
   {
-   "id": "core",
-   "en": "Core words",
-   "zh": "核心词",
-   "count": 773,
-   "ready": false
+   "id": "core-me",
+   "en": "Me and You",
+   "zh": "我和你",
+   "emoji": "🙋",
+   "core": true,
+   "count": 39,
+   "ready": true
+  },
+  {
+   "id": "core-anyone",
+   "en": "Somebody and Nothing",
+   "zh": "有人和没人",
+   "emoji": "❓",
+   "core": true,
+   "count": 23,
+   "ready": true
+  },
+  {
+   "id": "core-little",
+   "en": "Little Words",
+   "zh": "小词",
+   "emoji": "🔗",
+   "core": true,
+   "count": 36,
+   "ready": true
+  },
+  {
+   "id": "core-where",
+   "en": "Where Is It?",
+   "zh": "在哪里",
+   "emoji": "📍",
+   "core": true,
+   "count": 44,
+   "ready": true
+  },
+  {
+   "id": "core-when",
+   "en": "When?",
+   "zh": "什么时候",
+   "emoji": "🕰️",
+   "core": true,
+   "count": 45,
+   "ready": true
+  },
+  {
+   "id": "core-howmuch",
+   "en": "How Many?",
+   "zh": "多少",
+   "emoji": "🧮",
+   "core": true,
+   "count": 48,
+   "ready": true
+  },
+  {
+   "id": "core-hello",
+   "en": "Hello and Thanks",
+   "zh": "问候与礼貌",
+   "emoji": "👋",
+   "core": true,
+   "count": 41,
+   "ready": true
+  },
+  {
+   "id": "core-move",
+   "en": "On the Move",
+   "zh": "动起来",
+   "emoji": "🏃",
+   "core": true,
+   "count": 37,
+   "ready": true
+  },
+  {
+   "id": "core-give",
+   "en": "Give and Take",
+   "zh": "给和拿",
+   "emoji": "🎁",
+   "core": true,
+   "count": 25,
+   "ready": true
+  },
+  {
+   "id": "core-think",
+   "en": "Think and Say",
+   "zh": "想和说",
+   "emoji": "💭",
+   "core": true,
+   "count": 37,
+   "ready": true
+  },
+  {
+   "id": "core-can",
+   "en": "Can and Must",
+   "zh": "能和必须",
+   "emoji": "✅",
+   "core": true,
+   "count": 24,
+   "ready": true
+  },
+  {
+   "id": "core-do",
+   "en": "Busy Doing",
+   "zh": "忙着做事",
+   "emoji": "🛠️",
+   "core": true,
+   "count": 60,
+   "ready": true
+  },
+  {
+   "id": "core-feel",
+   "en": "Good, Bad and Feelings",
+   "zh": "好坏与心情",
+   "emoji": "😃",
+   "core": true,
+   "count": 36,
+   "ready": true
+  },
+  {
+   "id": "core-describe",
+   "en": "What Is It Like?",
+   "zh": "什么样",
+   "emoji": "✨",
+   "core": true,
+   "count": 59,
+   "ready": true
+  },
+  {
+   "id": "core-people",
+   "en": "People",
+   "zh": "人们",
+   "emoji": "🧑‍🤝‍🧑",
+   "core": true,
+   "count": 48,
+   "ready": true
+  },
+  {
+   "id": "core-things",
+   "en": "Things Around Us",
+   "zh": "身边的东西",
+   "emoji": "🧸",
+   "core": true,
+   "count": 56,
+   "ready": true
+  },
+  {
+   "id": "core-fun",
+   "en": "Fun and Shows",
+   "zh": "玩乐与演出",
+   "emoji": "🎪",
+   "core": true,
+   "count": 34,
+   "ready": true
+  },
+  {
+   "id": "core-places",
+   "en": "Places and Ways",
+   "zh": "地方与出行",
+   "emoji": "🗺️",
+   "core": true,
+   "count": 27,
+   "ready": true
+  },
+  {
+   "id": "core-words",
+   "en": "Words and Screens",
+   "zh": "文字与网络",
+   "emoji": "📱",
+   "core": true,
+   "count": 38,
+   "ready": true
+  },
+  {
+   "id": "core-nature",
+   "en": "Wild Things",
+   "zh": "自然生物",
+   "emoji": "🦎",
+   "core": true,
+   "count": 13,
+   "ready": true
   }
  ]
 }

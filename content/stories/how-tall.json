@@ -1,0 +1,45 @@
+{
+ "id": "how-tall",
+ "topic": "measure",
+ "title": "How Tall Is Tom?",
+ "zh": "Tom 有多高？",
+ "pages": [
+  {
+   "en": "It is Tom's birthday. Mum puts him next to the kitchen door with a ruler. \"Stand up straight, Tom!\" she says.",
+   "zh": "今天是 Tom 的生日。妈妈让他站到厨房门边，拿着一把尺子。“站直了，Tom！”她说。",
+   "scene": "Tom standing very straight against a kitchen door frame, Mum holding a ruler flat on his head, Lily watching and smiling, a birthday balloon nearby."
+  },
+  {
+   "en": "\"You are one metre and fifteen centimetres,\" says Mum. \"That's five centimetres more than last year!\"",
+   "zh": "“你有一米一十五厘米，”妈妈说，“比去年高了五厘米！”",
+   "scene": "Mum making a small pencil mark on the door frame above an older mark, Tom turning around to look up at it with big eyes."
+  },
+  {
+   "en": "Then Dad finds out how heavy Max is. \"Seven kilogrammes!\" laughs Tom. Max just wants some birthday cake.",
+   "zh": "接着爸爸给 Max 称了称有多重。“七公斤！”Tom 笑着说。Max 只想吃点生日蛋糕。",
+   "scene": "Dad holding Max on a bathroom weighing machine, Tom laughing, Max looking at a birthday cake on the table, Mum and Lily laughing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tom is taller than last year.",
+   "zh": "Tom 比去年高了。",
+   "answer": true
+  },
+  {
+   "q": "How many centimetres more is Tom?",
+   "zh": "Tom 高了多少厘米？",
+   "options": [
+    "five",
+    "fifteen",
+    "seven"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Max is seventy kilogrammes.",
+   "zh": "Max 有七十公斤。",
+   "answer": false
+  }
+ ]
+}

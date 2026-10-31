@@ -1,0 +1,45 @@
+{
+ "id": "rainy-day",
+ "topic": "weather",
+ "title": "A Rainy Day",
+ "zh": "下雨天",
+ "pages": [
+  {
+   "en": "In the morning it is sunny and warm. Lily and Tom want to play in the park, so Mum says, \"Take your raincoats. It's going to rain.\"",
+   "zh": "早上天气晴朗温暖。Lily 和 Tom 想去公园玩，妈妈说：“带上雨衣，要下雨了。”",
+   "scene": "A bright sunny morning at the front door, Mum handing Lily and Tom yellow raincoats, the children pointing at the blue sky and laughing."
+  },
+  {
+   "en": "In the park, a big grey cloud comes. Then it starts to rain. The children put on their raincoats, but Max is very wet!",
+   "zh": "在公园里，飘来一大片灰云，接着下起雨来。孩子们穿上了雨衣，可是 Max 被淋得湿透了！",
+   "scene": "Rain falling in a park under a big grey cloud, Lily wearing a yellow raincoat and Tom wearing a yellow raincoat, both laughing, Max soaking wet with drooping ears."
+  },
+  {
+   "en": "After the rain, the sun comes out again. Tom and Lily jump in the water on the path. Now everyone is wet, and they laugh all the way home!",
+   "zh": "雨停后，太阳又出来了。Tom 和 Lily 在小路的水坑里跳来跳去。现在大家都湿透了，他们一路笑着回家！",
+   "scene": "The sun shining after the rain, Tom wearing a yellow raincoat and Lily wearing a yellow raincoat jumping in big puddles on a park path, water splashing everywhere, Max jumping with them, everyone laughing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "In the morning it is cold and windy.",
+   "zh": "早上又冷又刮风。",
+   "answer": false
+  },
+  {
+   "q": "Who is very wet?",
+   "zh": "谁被淋得很湿？",
+   "options": [
+    "Max",
+    "Tom",
+    "Mum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The sun comes out after the rain.",
+   "zh": "雨后太阳出来了。",
+   "answer": true
+  }
+ ]
+}

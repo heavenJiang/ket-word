@@ -1,0 +1,45 @@
+{
+ "id": "new-house",
+ "topic": "home",
+ "title": "The New House",
+ "zh": "新房子",
+ "pages": [
+  {
+   "en": "Lily's family has a new house. It has a big garden, a red door and a garage for Dad's car.",
+   "zh": "Lily 家有了一栋新房子。房子有一个大花园、一扇红门，还有一个停爸爸车子的车库。",
+   "scene": "A family standing happily in front of a new two-storey house with a red door, a big garden and a garage, moving boxes on the path, Max running on the grass."
+  },
+  {
+   "en": "Downstairs there is a kitchen, a living room and a small bathroom. Upstairs there are three bedrooms.",
+   "zh": "楼下有厨房、客厅和一个小卫生间。楼上有三间卧室。",
+   "scene": "A cosy house cut open like a doll's house: a kitchen and a living room downstairs, three bedrooms upstairs, Lily and Tom running up the stairs."
+  },
+  {
+   "en": "Lily's bedroom is next to Tom's. It has a big window and a bookshelf. \"I love my new room!\" says Lily. Max loves it too. He sleeps on her bed!",
+   "zh": "Lily 的卧室在 Tom 的隔壁，有一扇大窗户和一个书架。“我好喜欢我的新房间！”Lily 说。Max 也很喜欢，它睡在 Lily 的床上！",
+   "scene": "A sunny child's bedroom with a big window and a bookshelf, Lily spinning happily in the middle, Max curled up asleep on her bed."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The new house has a garage.",
+   "zh": "新房子有一个车库。",
+   "answer": true
+  },
+  {
+   "q": "Where are the bedrooms?",
+   "zh": "卧室在哪里？",
+   "options": [
+    "upstairs",
+    "downstairs",
+    "in the garden"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Max sleeps on Tom's bed.",
+   "zh": "Max 睡在 Tom 的床上。",
+   "answer": false
+  }
+ ]
+}

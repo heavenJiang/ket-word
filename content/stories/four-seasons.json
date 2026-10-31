@@ -1,0 +1,45 @@
+{
+ "id": "four-seasons",
+ "topic": "nature",
+ "title": "Lily's Tree",
+ "zh": "Lily 的树",
+ "pages": [
+  {
+   "en": "There is a big tree in Lily's garden. In spring, it has small green leaves and pink flowers. Birds sing in it.",
+   "zh": "Lily 的花园里有一棵大树。春天，树上长出小小的绿叶和粉红色的花，鸟儿在树上唱歌。",
+   "scene": "A big tree in a garden in spring with fresh green leaves and pink blossom, two little birds singing on a branch, Lily looking up."
+  },
+  {
+   "en": "In summer, the tree is green and the family has lunch under it. In autumn, the leaves are red and brown, and Tom plays in them.",
+   "zh": "夏天，树绿油油的，一家人在树下吃午饭。秋天，树叶变成了红色和棕色，Tom 在落叶里玩。",
+   "scene": "The same big tree split into two halves: on the left in summer, green, with the family having a picnic under it; on the right in autumn, red and brown leaves, Tom jumping in a pile of leaves."
+  },
+  {
+   "en": "In winter, there are no leaves, and there is snow on the tree. Lily and Tom play in the snow under it. \"I love my tree in every season!\" says Lily.",
+   "zh": "冬天，树叶掉光了，树上积着雪。Lily 和 Tom 在树下玩雪。“我每个季节都爱我的树！”Lily 说。",
+   "scene": "The same big tree in winter with bare branches covered in snow, Lily and Tom throwing snowballs under it, Max jumping in the snow."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The tree has pink flowers in spring.",
+   "zh": "春天树上开着粉红色的花。",
+   "answer": true
+  },
+  {
+   "q": "What do Lily and Tom do in winter?",
+   "zh": "冬天 Lily 和 Tom 做什么？",
+   "options": [
+    "play in the snow",
+    "swim in the sea",
+    "have a picnic"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The leaves are green in autumn.",
+   "zh": "秋天树叶是绿色的。",
+   "answer": false
+  }
+ ]
+}

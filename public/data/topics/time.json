@@ -1,0 +1,3457 @@
+{
+ "id": "time",
+ "words": [
+  {
+   "id": "afternoon",
+   "word": "afternoon",
+   "zh": "下午",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "下午"
+    }
+   ],
+   "ipa": "/ˌɑːftəˈnuːn/",
+   "chunks": [
+    "af",
+    "ter",
+    "noon"
+   ],
+   "emoji": "🌤️",
+   "sentence": {
+    "en": "We play in the park in the afternoon.",
+    "zh": "我们下午在公园玩。"
+   },
+   "sentences": [
+    {
+     "en": "We play in the park in the afternoon.",
+     "zh": "我们下午在公园玩。",
+     "audio": "media/sent/12b641b8aa65.mp3"
+    },
+    {
+     "en": "See you this afternoon!",
+     "zh": "下午见！",
+     "audio": "media/sent/cf141aeb2482.mp3"
+    },
+    {
+     "en": "Grandpa has a rest every afternoon.",
+     "zh": "爷爷每天下午都休息一会儿。",
+     "audio": "media/sent/c1a9a9421233.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/afternoon.webp",
+    "uk": "media/uk/afternoon.mp3",
+    "us": "media/us/afternoon.mp3"
+   },
+   "avoid": [
+    "evening",
+    "morning",
+    "night"
+   ]
+  },
+  {
+   "id": "a-m",
+   "word": "a.m.",
+   "zh": "上午；午前",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "上午；午前"
+    }
+   ],
+   "ipa": "/ˌeɪ ˈem/",
+   "chunks": [
+    "a.",
+    "m."
+   ],
+   "emoji": "🌅",
+   "sentence": {
+    "en": "School starts at 9 a.m.",
+    "zh": "学校上午九点上课。"
+   },
+   "sentences": [
+    {
+     "en": "School starts at 9 a.m.",
+     "zh": "学校上午九点上课。",
+     "audio": "media/sent/b90163171a06.mp3"
+    },
+    {
+     "en": "Tom gets up at 7 a.m.",
+     "zh": "Tom 上午七点起床。",
+     "audio": "media/sent/8490e2f3e488.mp3"
+    },
+    {
+     "en": "We have maths at 11 a.m.",
+     "zh": "我们上午十一点上数学课。",
+     "audio": "media/sent/a84b90a636e3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/a-m.webp",
+    "uk": "media/uk/a-m.mp3",
+    "us": "media/us/a-m.mp3"
+   },
+   "avoid": [
+    "midnight",
+    "noon",
+    "p-m"
+   ]
+  },
+  {
+   "id": "p-m",
+   "word": "p.m.",
+   "zh": "下午；晚上",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "下午；晚上"
+    }
+   ],
+   "ipa": "/ˌpiː ˈem/",
+   "chunks": [
+    "p.",
+    "m."
+   ],
+   "emoji": "🌇",
+   "sentence": {
+    "en": "Dinner is at 6 p.m.",
+    "zh": "晚饭在晚上六点。"
+   },
+   "sentences": [
+    {
+     "en": "Dinner is at 6 p.m.",
+     "zh": "晚饭在晚上六点。",
+     "audio": "media/sent/455b7bcf0527.mp3"
+    },
+    {
+     "en": "We watch a film at 3 p.m.",
+     "zh": "我们下午三点看电影。",
+     "audio": "media/sent/5f1b25dcd46a.mp3"
+    },
+    {
+     "en": "The shop closes at 5 p.m.",
+     "zh": "商店下午五点关门。",
+     "audio": "media/sent/614a27c4b199.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/p-m.webp",
+    "uk": "media/uk/p-m.mp3",
+    "us": "media/us/p-m.mp3"
+   },
+   "avoid": [
+    "a-m",
+    "midnight",
+    "noon"
+   ]
+  },
+  {
+   "id": "o-clock",
+   "word": "o'clock",
+   "zh": "…点整",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "…点整"
+    }
+   ],
+   "ipa": "/əˈklɒk/",
+   "chunks": [
+    "o'",
+    "clock"
+   ],
+   "emoji": "🕒",
+   "sentence": {
+    "en": "It's three o'clock.",
+    "zh": "现在三点了。"
+   },
+   "sentences": [
+    {
+     "en": "It's three o'clock.",
+     "zh": "现在三点了。",
+     "audio": "media/sent/3350d746ffa3.mp3"
+    },
+    {
+     "en": "Tom goes to bed at eight o'clock.",
+     "zh": "Tom 八点钟上床睡觉。",
+     "audio": "media/sent/e99984427158.mp3"
+    },
+    {
+     "en": "The film starts at seven o'clock.",
+     "zh": "电影七点钟开始。",
+     "audio": "media/sent/b135e8b1842e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/o-clock.webp",
+    "uk": "media/uk/o-clock.mp3",
+    "us": "media/us/o-clock.mp3"
+   },
+   "avoid": [
+    "clock",
+    "half",
+    "past",
+    "time"
+   ]
+  },
+  {
+   "id": "clock",
+   "word": "clock",
+   "zh": "钟；时钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钟；时钟"
+    }
+   ],
+   "ipa": "/klɒk/",
+   "chunks": [
+    "clock"
+   ],
+   "emoji": "🕰️",
+   "sentence": {
+    "en": "The clock says eight o'clock.",
+    "zh": "钟上显示八点了。"
+   },
+   "sentences": [
+    {
+     "en": "The clock says eight o'clock.",
+     "zh": "钟上显示八点了。",
+     "audio": "media/sent/708189057be2.mp3"
+    },
+    {
+     "en": "Dad looks at the clock.",
+     "zh": "爸爸看了看钟。",
+     "audio": "media/sent/ebb7678f603e.mp3"
+    },
+    {
+     "en": "There is a clock in the kitchen.",
+     "zh": "厨房里有一个钟。",
+     "audio": "media/sent/4feb05d250a0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clock.webp",
+    "uk": "media/uk/clock.mp3",
+    "us": "media/us/clock.mp3"
+   },
+   "avoid": [
+    "half",
+    "o-clock",
+    "past",
+    "time"
+   ]
+  },
+  {
+   "id": "hour",
+   "word": "hour",
+   "zh": "小时",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小时"
+    }
+   ],
+   "ipa": "/ˈaʊə/",
+   "chunks": [
+    "hour"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "The film is two hours long.",
+    "zh": "这部电影有两个小时长。"
+   },
+   "sentences": [
+    {
+     "en": "The film is two hours long.",
+     "zh": "这部电影有两个小时长。",
+     "audio": "media/sent/e65ee79cc39c.mp3"
+    },
+    {
+     "en": "We swim for an hour.",
+     "zh": "我们游一个小时。",
+     "audio": "media/sent/d4ad71638e6f.mp3"
+    },
+    {
+     "en": "We have an hour for lunch.",
+     "zh": "我们午饭有一个小时。",
+     "audio": "media/sent/f8dc39329eb8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hour.webp",
+    "uk": "media/uk/hour.mp3",
+    "us": "media/us/hour.mp3"
+   },
+   "avoid": [
+    "minute",
+    "moment",
+    "second"
+   ]
+  },
+  {
+   "id": "minute",
+   "word": "minute",
+   "zh": "分钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "分钟"
+    }
+   ],
+   "ipa": "/ˈmɪnɪt/, /maɪˈnjuːt/",
+   "chunks": [
+    "min",
+    "ute"
+   ],
+   "emoji": "⏱️",
+   "sentence": {
+    "en": "Wait a minute, please!",
+    "zh": "请稍等一分钟！"
+   },
+   "sentences": [
+    {
+     "en": "Wait a minute, please!",
+     "zh": "请稍等一分钟！",
+     "audio": "media/sent/f8b44838ff6a.mp3"
+    },
+    {
+     "en": "Our lessons are forty minutes long.",
+     "zh": "我们的课四十分钟长。",
+     "audio": "media/sent/cd56082d7036.mp3"
+    },
+    {
+     "en": "I can swim fifty metres in one minute.",
+     "zh": "我一分钟能游五十米。",
+     "audio": "media/sent/b244ba1b0585.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/minute.webp",
+    "uk": "media/uk/minute.mp3",
+    "us": "media/us/minute.mp3"
+   },
+   "avoid": [
+    "hour",
+    "moment",
+    "second"
+   ]
+  },
+  {
+   "id": "second",
+   "word": "second",
+   "zh": "秒",
+   "pos": [
+    "n",
+    "adj",
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "秒"
+    },
+    {
+     "pos": [
+      "adj",
+      "det"
+     ],
+     "zh": "第二（的）",
+     "en": "Lily is second in the race."
+    }
+   ],
+   "ipa": "/ˈsekənd/",
+   "chunks": [
+    "sec",
+    "ond"
+   ],
+   "emoji": "⏱️",
+   "sentence": {
+    "en": "One, two, three: that is three seconds!",
+    "zh": "一、二、三：那是三秒！"
+   },
+   "sentences": [
+    {
+     "en": "One, two, three: that is three seconds!",
+     "zh": "一、二、三：那是三秒！",
+     "audio": "media/sent/0ef0cded8df6.mp3"
+    },
+    {
+     "en": "Max runs ten metres in two seconds.",
+     "zh": "Max 两秒就跑完十米。",
+     "audio": "media/sent/89f449c14459.mp3"
+    },
+    {
+     "en": "Wait a second, Tom!",
+     "zh": "等一下，Tom！",
+     "audio": "media/sent/99586d35f63b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/second.webp",
+    "uk": "media/uk/second.mp3",
+    "us": "media/us/second.mp3"
+   },
+   "avoid": [
+    "hour",
+    "minute",
+    "moment",
+    "second.2"
+   ]
+  },
+  {
+   "id": "second.2",
+   "word": "second",
+   "zh": "第二（的）",
+   "pos": [
+    "adj",
+    "det",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det"
+     ],
+     "zh": "第二（的）"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "秒"
+    }
+   ],
+   "ipa": "/ˈsekənd/",
+   "chunks": [
+    "sec",
+    "ond"
+   ],
+   "emoji": "🥈",
+   "sentence": {
+    "en": "Lily is second in the race.",
+    "zh": "Lily 赛跑得了第二名。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is second in the race.",
+     "zh": "Lily 赛跑得了第二名。",
+     "audio": "media/sent/eef76f2abef3.mp3"
+    },
+    {
+     "en": "Sam is second in our class.",
+     "zh": "Sam 在我们班排第二。",
+     "audio": "media/sent/d8371187230a.mp3"
+    },
+    {
+     "en": "Tom gets the second prize.",
+     "zh": "Tom 得了二等奖。",
+     "audio": "media/sent/d24af4e30ebe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/second.2.webp",
+    "uk": "media/uk/second.mp3",
+    "us": "media/us/second.mp3"
+   },
+   "of": "second",
+   "ofZh": "秒",
+   "avoid": [
+    "second"
+   ]
+  },
+  {
+   "id": "half",
+   "word": "half",
+   "zh": "一半；半",
+   "pos": [
+    "det",
+    "n",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "n",
+      "pron"
+     ],
+     "zh": "一半；半"
+    }
+   ],
+   "ipa": "/hɑːf/",
+   "chunks": [
+    "half"
+   ],
+   "emoji": "🌗",
+   "sentence": {
+    "en": "I eat half an apple.",
+    "zh": "我吃半个苹果。"
+   },
+   "sentences": [
+    {
+     "en": "I eat half an apple.",
+     "zh": "我吃半个苹果。",
+     "audio": "media/sent/721fe88c9443.mp3"
+    },
+    {
+     "en": "Tom gets up at half past six.",
+     "zh": "Tom 六点半起床。",
+     "audio": "media/sent/8545c2885698.mp3"
+    },
+    {
+     "en": "Tom eats half of the cake.",
+     "zh": "Tom 吃了半个蛋糕。",
+     "audio": "media/sent/439a9627fd5b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/half.webp",
+    "uk": "media/uk/half.mp3",
+    "us": "media/us/half.mp3"
+   },
+   "avoid": [
+    "clock",
+    "o-clock",
+    "past",
+    "time"
+   ]
+  },
+  {
+   "id": "past",
+   "word": "past",
+   "zh": "过（几点）；经过",
+   "pos": [
+    "prep",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "过（几点）；经过"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "过去",
+     "en": "In the past, people had no cars."
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "past"
+   ],
+   "emoji": "🕜",
+   "sentence": {
+    "en": "It's half past three.",
+    "zh": "现在三点半了。"
+   },
+   "sentences": [
+    {
+     "en": "It's half past three.",
+     "zh": "现在三点半了。",
+     "audio": "media/sent/7c5da36130eb.mp3"
+    },
+    {
+     "en": "It's ten past nine.",
+     "zh": "现在九点过十分了。",
+     "audio": "media/sent/0b68ddf8a15a.mp3"
+    },
+    {
+     "en": "Dad walks past the park.",
+     "zh": "爸爸走过公园旁边。",
+     "audio": "media/sent/b7c183022f3b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/past.webp"
+   },
+   "avoid": [
+    "clock",
+    "half",
+    "o-clock",
+    "time"
+   ]
+  },
+  {
+   "id": "time",
+   "word": "time",
+   "zh": "时间；时候",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "时间；时候"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "次",
+     "en": "I go swimming three times a week."
+    }
+   ],
+   "ipa": "/taɪm/",
+   "chunks": [
+    "time"
+   ],
+   "emoji": "🕰️",
+   "sentence": {
+    "en": "What time is it?",
+    "zh": "现在几点了？"
+   },
+   "sentences": [
+    {
+     "en": "What time is it?",
+     "zh": "现在几点了？",
+     "audio": "media/sent/5502102736dd.mp3"
+    },
+    {
+     "en": "It's time for dinner.",
+     "zh": "该吃晚饭了。",
+     "audio": "media/sent/9fdec98c4875.mp3"
+    },
+    {
+     "en": "I go swimming three times a week.",
+     "zh": "我一周去游泳三次。",
+     "audio": "media/sent/a1566b3b883d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/time.webp",
+    "uk": "media/uk/time.mp3",
+    "us": "media/us/time.mp3"
+   },
+   "avoid": [
+    "clock",
+    "half",
+    "o-clock",
+    "past"
+   ]
+  },
+  {
+   "id": "midnight",
+   "word": "midnight",
+   "zh": "午夜；半夜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "午夜；半夜"
+    }
+   ],
+   "ipa": "/ˈmɪdnaɪt/",
+   "chunks": [
+    "mid",
+    "night"
+   ],
+   "emoji": "🌚",
+   "sentence": {
+    "en": "The house is quiet at midnight.",
+    "zh": "半夜里房子很安静。"
+   },
+   "sentences": [
+    {
+     "en": "The house is quiet at midnight.",
+     "zh": "半夜里房子很安静。",
+     "audio": "media/sent/fccb697843f4.mp3"
+    },
+    {
+     "en": "Grandpa reads until midnight.",
+     "zh": "爷爷读到半夜。",
+     "audio": "media/sent/a432c0134f72.mp3"
+    },
+    {
+     "en": "Lily wakes up at midnight and drinks some water.",
+     "zh": "Lily 半夜醒来，喝了点水。",
+     "audio": "media/sent/d89dfc49d42b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/midnight.webp",
+    "uk": "media/uk/midnight.mp3",
+    "us": "media/us/midnight.mp3"
+   },
+   "avoid": [
+    "a-m",
+    "noon",
+    "p-m"
+   ]
+  },
+  {
+   "id": "noon",
+   "word": "noon",
+   "zh": "中午（十二点）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "中午（十二点）"
+    }
+   ],
+   "ipa": "/nuːn/",
+   "chunks": [
+    "noon"
+   ],
+   "emoji": "🕛",
+   "sentence": {
+    "en": "We eat lunch at noon.",
+    "zh": "我们中午十二点吃午饭。"
+   },
+   "sentences": [
+    {
+     "en": "We eat lunch at noon.",
+     "zh": "我们中午十二点吃午饭。",
+     "audio": "media/sent/0948361b0719.mp3"
+    },
+    {
+     "en": "The sun is high at noon.",
+     "zh": "中午太阳升得高高的。",
+     "audio": "media/sent/6a7de9a417e8.mp3"
+    },
+    {
+     "en": "We go home at noon.",
+     "zh": "我们中午十二点回家。",
+     "audio": "media/sent/4934a72bfeff.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/noon.webp",
+    "uk": "media/uk/noon.mp3",
+    "us": "media/us/noon.mp3"
+   },
+   "avoid": [
+    "a-m",
+    "midnight",
+    "p-m"
+   ]
+  },
+  {
+   "id": "morning",
+   "word": "morning",
+   "zh": "早上；早晨",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "早上；早晨"
+    }
+   ],
+   "ipa": "/ˈmɔːnɪŋ/",
+   "chunks": [
+    "morn",
+    "ing"
+   ],
+   "emoji": "🌄",
+   "sentence": {
+    "en": "I get up in the morning.",
+    "zh": "我早上起床。"
+   },
+   "sentences": [
+    {
+     "en": "I get up in the morning.",
+     "zh": "我早上起床。",
+     "audio": "media/sent/4df8e264da6b.mp3"
+    },
+    {
+     "en": "Mum makes breakfast every morning.",
+     "zh": "妈妈每天早上做早饭。",
+     "audio": "media/sent/eed54bca7dbe.mp3"
+    },
+    {
+     "en": "Good morning, Tom!",
+     "zh": "早上好，Tom！",
+     "audio": "media/sent/7fddfd4cfba3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/morning.webp",
+    "uk": "media/uk/morning.mp3",
+    "us": "media/us/morning.mp3"
+   },
+   "avoid": [
+    "afternoon",
+    "evening",
+    "night"
+   ]
+  },
+  {
+   "id": "evening",
+   "word": "evening",
+   "zh": "傍晚；晚上",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "傍晚；晚上"
+    }
+   ],
+   "ipa": "/ˈiːvnɪŋ/",
+   "chunks": [
+    "e",
+    "ve",
+    "ning"
+   ],
+   "emoji": "🌆",
+   "sentence": {
+    "en": "We watch television in the evening.",
+    "zh": "我们晚上看电视。"
+   },
+   "sentences": [
+    {
+     "en": "We watch television in the evening.",
+     "zh": "我们晚上看电视。",
+     "audio": "media/sent/68ab30db60f2.mp3"
+    },
+    {
+     "en": "Dad walks the dog in the evening.",
+     "zh": "爸爸傍晚带狗散步。",
+     "audio": "media/sent/50a2eb25b20b.mp3"
+    },
+    {
+     "en": "It's cool in the evening.",
+     "zh": "傍晚很凉快。",
+     "audio": "media/sent/b2f9c523b79f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/evening.webp",
+    "uk": "media/uk/evening.mp3",
+    "us": "media/us/evening.mp3"
+   },
+   "avoid": [
+    "afternoon",
+    "morning",
+    "night"
+   ]
+  },
+  {
+   "id": "night",
+   "word": "night",
+   "zh": "夜晚；晚上",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "夜晚；晚上"
+    }
+   ],
+   "ipa": "/naɪt/",
+   "chunks": [
+    "night"
+   ],
+   "emoji": "🌙",
+   "sentence": {
+    "en": "Lily sleeps at night.",
+    "zh": "Lily 晚上睡觉。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sleeps at night.",
+     "zh": "Lily 晚上睡觉。",
+     "audio": "media/sent/428a4ba7176f.mp3"
+    },
+    {
+     "en": "The stars come out at night.",
+     "zh": "星星在晚上出来。",
+     "audio": "media/sent/74ecc1f1ee02.mp3"
+    },
+    {
+     "en": "Good night, Tom!",
+     "zh": "晚安，Tom！",
+     "audio": "media/sent/6a274130a194.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/night.webp",
+    "uk": "media/uk/night.mp3",
+    "us": "media/us/night.mp3"
+   },
+   "avoid": [
+    "afternoon",
+    "evening",
+    "morning"
+   ]
+  },
+  {
+   "id": "day",
+   "word": "day",
+   "zh": "天；日；白天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "天；日；白天"
+    }
+   ],
+   "ipa": "/deɪ/",
+   "chunks": [
+    "day"
+   ],
+   "emoji": "🌞",
+   "sentence": {
+    "en": "We go to school every day.",
+    "zh": "我们每天上学。"
+   },
+   "sentences": [
+    {
+     "en": "We go to school every day.",
+     "zh": "我们每天上学。",
+     "audio": "media/sent/da39238387d4.mp3"
+    },
+    {
+     "en": "Sunday is a happy day.",
+     "zh": "星期天是快乐的一天。",
+     "audio": "media/sent/b4f1951c1dd5.mp3"
+    },
+    {
+     "en": "There are seven days in a week.",
+     "zh": "一周有七天。",
+     "audio": "media/sent/13cda664705d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/day.webp",
+    "uk": "media/uk/day.mp3",
+    "us": "media/us/day.mp3"
+   },
+   "avoid": [
+    "century",
+    "month",
+    "week",
+    "year"
+   ]
+  },
+  {
+   "id": "today",
+   "word": "today",
+   "zh": "今天",
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adv"
+     ],
+     "zh": "今天"
+    }
+   ],
+   "ipa": "/təˈdeɪ/",
+   "chunks": [
+    "to",
+    "day"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "We have maths today.",
+    "zh": "我们今天有数学课。"
+   },
+   "sentences": [
+    {
+     "en": "We have maths today.",
+     "zh": "我们今天有数学课。",
+     "audio": "media/sent/8d93b007caaa.mp3"
+    },
+    {
+     "en": "Today is my birthday!",
+     "zh": "今天是我的生日！",
+     "audio": "media/sent/941fc9856fdd.mp3"
+    },
+    {
+     "en": "Mum buys fish today.",
+     "zh": "妈妈今天买鱼。",
+     "audio": "media/sent/b67e64182314.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/today.webp",
+    "uk": "media/uk/today.mp3",
+    "us": "media/us/today.mp3"
+   },
+   "avoid": [
+    "tomorrow",
+    "tonight",
+    "yesterday"
+   ]
+  },
+  {
+   "id": "tomorrow",
+   "word": "tomorrow",
+   "zh": "明天",
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adv"
+     ],
+     "zh": "明天"
+    }
+   ],
+   "ipa": "/təˈmɒrəʊ/",
+   "chunks": [
+    "to",
+    "mor",
+    "row"
+   ],
+   "emoji": "🧳",
+   "sentence": {
+    "en": "We visit Grandma tomorrow.",
+    "zh": "我们明天去看奶奶。"
+   },
+   "sentences": [
+    {
+     "en": "We visit Grandma tomorrow.",
+     "zh": "我们明天去看奶奶。",
+     "audio": "media/sent/4dd02cafdd0a.mp3"
+    },
+    {
+     "en": "Tomorrow is Sunday.",
+     "zh": "明天是星期天。",
+     "audio": "media/sent/53a0be86bbb6.mp3"
+    },
+    {
+     "en": "Is it going to rain tomorrow?",
+     "zh": "明天会下雨吗？",
+     "audio": "media/sent/15b00e0490cd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tomorrow.webp",
+    "uk": "media/uk/tomorrow.mp3",
+    "us": "media/us/tomorrow.mp3"
+   },
+   "avoid": [
+    "today",
+    "tonight",
+    "yesterday"
+   ]
+  },
+  {
+   "id": "tonight",
+   "word": "tonight",
+   "zh": "今晚",
+   "pos": [
+    "n",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adv"
+     ],
+     "zh": "今晚"
+    }
+   ],
+   "ipa": "/təˈnaɪt/",
+   "chunks": [
+    "to",
+    "night"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We watch a film tonight.",
+    "zh": "我们今晚看电影。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a film tonight.",
+     "zh": "我们今晚看电影。",
+     "audio": "media/sent/ad13eefe2dbd.mp3"
+    },
+    {
+     "en": "Grandma comes tonight.",
+     "zh": "奶奶今晚来。",
+     "audio": "media/sent/30572552f4d7.mp3"
+    },
+    {
+     "en": "I can't sleep tonight.",
+     "zh": "我今晚睡不着。",
+     "audio": "media/sent/0b78beee5f73.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tonight.webp",
+    "uk": "media/uk/tonight.mp3",
+    "us": "media/us/tonight.mp3"
+   },
+   "avoid": [
+    "today",
+    "tomorrow",
+    "yesterday"
+   ]
+  },
+  {
+   "id": "yesterday",
+   "word": "yesterday",
+   "zh": "昨天",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "昨天"
+    }
+   ],
+   "ipa": "/ˈjestədeɪ/",
+   "chunks": [
+    "yes",
+    "ter",
+    "day"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "It was Lily's party yesterday.",
+    "zh": "昨天是 Lily 的聚会。"
+   },
+   "sentences": [
+    {
+     "en": "It was Lily's party yesterday.",
+     "zh": "昨天是 Lily 的聚会。",
+     "audio": "media/sent/0e1dd56fbd3a.mp3"
+    },
+    {
+     "en": "We were at the zoo yesterday.",
+     "zh": "我们昨天在动物园。",
+     "audio": "media/sent/cfda76b5f1c7.mp3"
+    },
+    {
+     "en": "Tom was sad yesterday, but he is happy now.",
+     "zh": "Tom 昨天不开心，但现在开心了。",
+     "audio": "media/sent/80357a27b755.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/yesterday.webp",
+    "uk": "media/uk/yesterday.mp3",
+    "us": "media/us/yesterday.mp3"
+   },
+   "avoid": [
+    "today",
+    "tomorrow",
+    "tonight"
+   ]
+  },
+  {
+   "id": "monday",
+   "word": "Monday",
+   "zh": "星期一",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期一"
+    }
+   ],
+   "ipa": "/ˈmʌndeɪ/",
+   "chunks": [
+    "Mon",
+    "day"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "School starts on Monday.",
+    "zh": "学校星期一开学。"
+   },
+   "sentences": [
+    {
+     "en": "School starts on Monday.",
+     "zh": "学校星期一开学。",
+     "audio": "media/sent/c9d056cc69a0.mp3"
+    },
+    {
+     "en": "We have maths on Monday.",
+     "zh": "我们星期一有数学课。",
+     "audio": "media/sent/9deff9428c98.mp3"
+    },
+    {
+     "en": "Grandma comes on Monday.",
+     "zh": "奶奶星期一来我们家。",
+     "audio": "media/sent/2b112ec3c4c1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/monday.webp",
+    "uk": "media/uk/monday.mp3",
+    "us": "media/us/monday.mp3"
+   },
+   "avoid": [
+    "thursday",
+    "tuesday",
+    "wednesday"
+   ]
+  },
+  {
+   "id": "tuesday",
+   "word": "Tuesday",
+   "zh": "星期二",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期二"
+    }
+   ],
+   "ipa": "/ˈtjuːzdeɪ/",
+   "chunks": [
+    "Tues",
+    "day"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "Lily has art on Tuesday.",
+    "zh": "Lily 星期二有美术课。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has art on Tuesday.",
+     "zh": "Lily 星期二有美术课。",
+     "audio": "media/sent/b443246d04b6.mp3"
+    },
+    {
+     "en": "Tom plays football on Tuesday.",
+     "zh": "Tom 星期二踢足球。",
+     "audio": "media/sent/fabfa39dd3e9.mp3"
+    },
+    {
+     "en": "We go to the library on Tuesday.",
+     "zh": "我们星期二去图书馆。",
+     "audio": "media/sent/4925f439c9e5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tuesday.webp",
+    "uk": "media/uk/tuesday.mp3",
+    "us": "media/us/tuesday.mp3"
+   },
+   "avoid": [
+    "monday",
+    "thursday",
+    "wednesday"
+   ]
+  },
+  {
+   "id": "wednesday",
+   "word": "Wednesday",
+   "zh": "星期三",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期三"
+    }
+   ],
+   "ipa": "/ˈwenzdeɪ/",
+   "chunks": [
+    "Wed",
+    "nes",
+    "day"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "We have swimming on Wednesday.",
+    "zh": "我们星期三有游泳课。"
+   },
+   "sentences": [
+    {
+     "en": "We have swimming on Wednesday.",
+     "zh": "我们星期三有游泳课。",
+     "audio": "media/sent/dec5aa791665.mp3"
+    },
+    {
+     "en": "Wednesday is my swimming day.",
+     "zh": "星期三是我的游泳日。",
+     "audio": "media/sent/649a60ee3ac6.mp3"
+    },
+    {
+     "en": "Dad cooks dinner on Wednesday.",
+     "zh": "爸爸星期三做晚饭。",
+     "audio": "media/sent/d42219366f94.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wednesday.webp",
+    "uk": "media/uk/wednesday.mp3",
+    "us": "media/us/wednesday.mp3"
+   },
+   "avoid": [
+    "monday",
+    "thursday",
+    "tuesday"
+   ]
+  },
+  {
+   "id": "thursday",
+   "word": "Thursday",
+   "zh": "星期四",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期四"
+    }
+   ],
+   "ipa": "/ˈθɜːzdeɪ/",
+   "chunks": [
+    "Thurs",
+    "day"
+   ],
+   "emoji": "🍰",
+   "sentence": {
+    "en": "We bake a cake on Thursday.",
+    "zh": "我们星期四烤蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "We bake a cake on Thursday.",
+     "zh": "我们星期四烤蛋糕。",
+     "audio": "media/sent/ad95c935478a.mp3"
+    },
+    {
+     "en": "Tom has a piano lesson on Thursday.",
+     "zh": "Tom 星期四有一节钢琴课。",
+     "audio": "media/sent/901cc27a34f6.mp3"
+    },
+    {
+     "en": "Thursday is library day.",
+     "zh": "星期四是去图书馆的日子。",
+     "audio": "media/sent/e9c4ad01bd38.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thursday.webp",
+    "uk": "media/uk/thursday.mp3",
+    "us": "media/us/thursday.mp3"
+   },
+   "avoid": [
+    "friday",
+    "monday",
+    "saturday",
+    "sunday",
+    "tuesday",
+    "wednesday"
+   ]
+  },
+  {
+   "id": "friday",
+   "word": "Friday",
+   "zh": "星期五",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期五"
+    }
+   ],
+   "ipa": "/ˈfraɪdeɪ/",
+   "chunks": [
+    "Fri",
+    "day"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Sam plays football on Friday.",
+    "zh": "Sam 星期五踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "Sam plays football on Friday.",
+     "zh": "Sam 星期五踢足球。",
+     "audio": "media/sent/2cc957b6c8a0.mp3"
+    },
+    {
+     "en": "We watch a film at home on Friday.",
+     "zh": "我们星期五在家看电影。",
+     "audio": "media/sent/8cd7002eb606.mp3"
+    },
+    {
+     "en": "Grandpa comes on Friday evening.",
+     "zh": "爷爷星期五晚上来。",
+     "audio": "media/sent/c019d4221a0a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/friday.webp",
+    "uk": "media/uk/friday.mp3",
+    "us": "media/us/friday.mp3"
+   },
+   "avoid": [
+    "saturday",
+    "sunday",
+    "thursday"
+   ]
+  },
+  {
+   "id": "saturday",
+   "word": "Saturday",
+   "zh": "星期六",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期六"
+    }
+   ],
+   "ipa": "/ˈsætədeɪ/",
+   "chunks": [
+    "Sat",
+    "ur",
+    "day"
+   ],
+   "emoji": "🚲",
+   "sentence": {
+    "en": "We go cycling on Saturday.",
+    "zh": "我们星期六去骑自行车。"
+   },
+   "sentences": [
+    {
+     "en": "We go cycling on Saturday.",
+     "zh": "我们星期六去骑自行车。",
+     "audio": "media/sent/ad32d8b4257f.mp3"
+    },
+    {
+     "en": "I do my homework on Saturday.",
+     "zh": "我星期六做作业。",
+     "audio": "media/sent/c3dfc99f842a.mp3"
+    },
+    {
+     "en": "Sometimes we visit Grandma on Saturday.",
+     "zh": "有时候我们星期六去看奶奶。",
+     "audio": "media/sent/57880a09aacc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/saturday.webp",
+    "uk": "media/uk/saturday.mp3",
+    "us": "media/us/saturday.mp3"
+   },
+   "avoid": [
+    "friday",
+    "sunday",
+    "thursday"
+   ]
+  },
+  {
+   "id": "sunday",
+   "word": "Sunday",
+   "zh": "星期天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "星期天"
+    }
+   ],
+   "ipa": "/ˈsʌndeɪ/",
+   "chunks": [
+    "Sun",
+    "day"
+   ],
+   "emoji": "🐘",
+   "sentence": {
+    "en": "We go to the zoo on Sunday.",
+    "zh": "我们星期天去动物园。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the zoo on Sunday.",
+     "zh": "我们星期天去动物园。",
+     "audio": "media/sent/7c3ce0f9e458.mp3"
+    },
+    {
+     "en": "Grandpa goes fishing on Sunday.",
+     "zh": "爷爷星期天去钓鱼。",
+     "audio": "media/sent/d8cbef9b4cae.mp3"
+    },
+    {
+     "en": "We go to bed early on Sunday.",
+     "zh": "我们星期天早早睡觉。",
+     "audio": "media/sent/3f1f93c2ba62.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sunday.webp",
+    "uk": "media/uk/sunday.mp3",
+    "us": "media/us/sunday.mp3"
+   },
+   "avoid": [
+    "friday",
+    "saturday",
+    "thursday"
+   ]
+  },
+  {
+   "id": "week",
+   "word": "week",
+   "zh": "周；星期",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "周；星期"
+    }
+   ],
+   "ipa": "/wiːk/",
+   "chunks": [
+    "week"
+   ],
+   "emoji": "📆",
+   "sentence": {
+    "en": "Mum works five days a week.",
+    "zh": "妈妈一周工作五天。"
+   },
+   "sentences": [
+    {
+     "en": "Mum works five days a week.",
+     "zh": "妈妈一周工作五天。",
+     "audio": "media/sent/d9c775c485b8.mp3"
+    },
+    {
+     "en": "This week we are in London.",
+     "zh": "这个星期我们在伦敦。",
+     "audio": "media/sent/f2331112f184.mp3"
+    },
+    {
+     "en": "We play in the park once a week.",
+     "zh": "我们一周去公园玩一次。",
+     "audio": "media/sent/f8230297ea5c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/week.webp",
+    "uk": "media/uk/week.mp3",
+    "us": "media/us/week.mp3"
+   },
+   "avoid": [
+    "century",
+    "day",
+    "month",
+    "weekday",
+    "weekend",
+    "year"
+   ]
+  },
+  {
+   "id": "weekday",
+   "word": "weekday",
+   "zh": "工作日",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "工作日"
+    }
+   ],
+   "ipa": "/ˈwiːkdeɪ/",
+   "chunks": [
+    "week",
+    "day"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "Lily walks to school every weekday.",
+    "zh": "Lily 每个工作日都走路去上学。"
+   },
+   "sentences": [
+    {
+     "en": "Lily walks to school every weekday.",
+     "zh": "Lily 每个工作日都走路去上学。",
+     "audio": "media/sent/e87442bf83bf.mp3"
+    },
+    {
+     "en": "Mum drives to work on a weekday.",
+     "zh": "妈妈工作日开车去上班。",
+     "audio": "media/sent/6f2e0e04db60.mp3"
+    },
+    {
+     "en": "Saturday and Sunday are not weekdays.",
+     "zh": "星期六和星期天不是工作日。",
+     "audio": "media/sent/3f4a619f3f0e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/weekday.webp",
+    "uk": "media/uk/weekday.mp3",
+    "us": "media/us/weekday.mp3"
+   },
+   "avoid": [
+    "week",
+    "weekend"
+   ]
+  },
+  {
+   "id": "weekend",
+   "word": "weekend",
+   "zh": "周末",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "周末"
+    }
+   ],
+   "ipa": "/ˌwiːkˈend/",
+   "chunks": [
+    "week",
+    "end"
+   ],
+   "emoji": "🥞",
+   "sentence": {
+    "en": "We get up late at the weekend.",
+    "zh": "我们周末起得晚。"
+   },
+   "sentences": [
+    {
+     "en": "We get up late at the weekend.",
+     "zh": "我们周末起得晚。",
+     "audio": "media/sent/5ebe38552438.mp3"
+    },
+    {
+     "en": "We visit Grandma at the weekend.",
+     "zh": "我们周末去看奶奶。",
+     "audio": "media/sent/eda63089b52a.mp3"
+    },
+    {
+     "en": "The shop is very busy at the weekend.",
+     "zh": "商店周末很忙。",
+     "audio": "media/sent/80ea20dbd8ae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/weekend.webp",
+    "uk": "media/uk/weekend.mp3",
+    "us": "media/us/weekend.mp3"
+   },
+   "avoid": [
+    "week",
+    "weekday"
+   ]
+  },
+  {
+   "id": "weekly",
+   "word": "weekly",
+   "zh": "每周的；每周",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "每周的；每周"
+    }
+   ],
+   "ipa": "/ˈwiːkli/",
+   "chunks": [
+    "week",
+    "ly"
+   ],
+   "emoji": "🔁",
+   "sentence": {
+    "en": "Lily goes to a weekly football club.",
+    "zh": "Lily 每周参加一次足球小组。"
+   },
+   "sentences": [
+    {
+     "en": "Lily goes to a weekly football club.",
+     "zh": "Lily 每周参加一次足球小组。",
+     "audio": "media/sent/ece748bf53e8.mp3"
+    },
+    {
+     "en": "Our class has a weekly test.",
+     "zh": "我们班每周有一次小测验。",
+     "audio": "media/sent/ddca0f06050d.mp3"
+    },
+    {
+     "en": "Grandma rings us weekly.",
+     "zh": "奶奶每周都给我们打电话。",
+     "audio": "media/sent/c1341c379357.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/weekly.webp",
+    "uk": "media/uk/weekly.mp3",
+    "us": "media/us/weekly.mp3"
+   },
+   "avoid": [
+    "daily",
+    "monthly"
+   ]
+  },
+  {
+   "id": "daily",
+   "word": "daily",
+   "zh": "每天的；每日",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "每天的；每日"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "dai",
+    "ly"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Max has a daily walk.",
+    "zh": "Max 每天都散步。"
+   },
+   "sentences": [
+    {
+     "en": "Max has a daily walk.",
+     "zh": "Max 每天都散步。",
+     "audio": "media/sent/3e395dd39f9f.mp3"
+    },
+    {
+     "en": "Tom washes his hands daily.",
+     "zh": "Tom 每天都洗手。",
+     "audio": "media/sent/a29b2a34b257.mp3"
+    },
+    {
+     "en": "Dad has a daily walk after dinner.",
+     "zh": "爸爸晚饭后每天都散一次步。",
+     "audio": "media/sent/de3e2cceb624.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/daily.webp"
+   },
+   "avoid": [
+    "monthly",
+    "weekly"
+   ]
+  },
+  {
+   "id": "month",
+   "word": "month",
+   "zh": "月；月份",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "月；月份"
+    }
+   ],
+   "ipa": "/mʌnθ/",
+   "chunks": [
+    "month"
+   ],
+   "emoji": "🌛",
+   "sentence": {
+    "en": "We visit Grandma once a month.",
+    "zh": "我们一个月去看一次奶奶。"
+   },
+   "sentences": [
+    {
+     "en": "We visit Grandma once a month.",
+     "zh": "我们一个月去看一次奶奶。",
+     "audio": "media/sent/341b350a6911.mp3"
+    },
+    {
+     "en": "Lily reads five books a month.",
+     "zh": "Lily 一个月读五本书。",
+     "audio": "media/sent/a92de7b9217f.mp3"
+    },
+    {
+     "en": "There are twelve months in a year.",
+     "zh": "一年有十二个月。",
+     "audio": "media/sent/eb32a94c3aae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/month.webp",
+    "uk": "media/uk/month.mp3",
+    "us": "media/us/month.mp3"
+   },
+   "avoid": [
+    "century",
+    "day",
+    "week",
+    "year"
+   ]
+  },
+  {
+   "id": "monthly",
+   "word": "monthly",
+   "zh": "每月的；每月",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "每月的；每月"
+    }
+   ],
+   "ipa": "/ˈmʌnθli/",
+   "chunks": [
+    "month",
+    "ly"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "Our class has a monthly trip.",
+    "zh": "我们班每月有一次外出参观。"
+   },
+   "sentences": [
+    {
+     "en": "Our class has a monthly trip.",
+     "zh": "我们班每月有一次外出参观。",
+     "audio": "media/sent/29af02955909.mp3"
+    },
+    {
+     "en": "Mum buys a monthly magazine for Grandma.",
+     "zh": "妈妈每月给奶奶买一本杂志。",
+     "audio": "media/sent/0947baec1006.mp3"
+    },
+    {
+     "en": "The art club meets monthly.",
+     "zh": "美术小组每月聚会一次。",
+     "audio": "media/sent/2ab3996f4837.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/monthly.webp",
+    "uk": "media/uk/monthly.mp3",
+    "us": "media/us/monthly.mp3"
+   },
+   "avoid": [
+    "daily",
+    "weekly"
+   ]
+  },
+  {
+   "id": "year",
+   "word": "year",
+   "zh": "年",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "年"
+    }
+   ],
+   "ipa": "/jɪə/",
+   "chunks": [
+    "year"
+   ],
+   "emoji": "🎂",
+   "sentence": {
+    "en": "Lily is nine years old this year.",
+    "zh": "Lily 今年九岁。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is nine years old this year.",
+     "zh": "Lily 今年九岁。",
+     "audio": "media/sent/2e33c16eab10.mp3"
+    },
+    {
+     "en": "Tom will be seven years old next year.",
+     "zh": "Tom 明年就七岁了。",
+     "audio": "media/sent/1e545d1eede0.mp3"
+    },
+    {
+     "en": "We have a big party once a year.",
+     "zh": "我们一年开一次大聚会。",
+     "audio": "media/sent/fed5c25cf705.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/year.webp",
+    "uk": "media/uk/year.mp3",
+    "us": "media/us/year.mp3"
+   },
+   "avoid": [
+    "century",
+    "day",
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "century",
+   "word": "century",
+   "zh": "世纪",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "世纪"
+    }
+   ],
+   "ipa": "/ˈsentʃəri/",
+   "chunks": [
+    "cen",
+    "tu",
+    "ry"
+   ],
+   "emoji": "🏰",
+   "sentence": {
+    "en": "This castle is more than a century old.",
+    "zh": "这座城堡有一百多年的历史了。"
+   },
+   "sentences": [
+    {
+     "en": "This castle is more than a century old.",
+     "zh": "这座城堡有一百多年的历史了。",
+     "audio": "media/sent/964164e9ceea.mp3"
+    },
+    {
+     "en": "This shop is a century old.",
+     "zh": "这家商店有一个世纪的历史了。",
+     "audio": "media/sent/872c9f817dd9.mp3"
+    },
+    {
+     "en": "A century has one hundred years.",
+     "zh": "一个世纪有一百年。",
+     "audio": "media/sent/e62423a980bb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/century.webp",
+    "uk": "media/uk/century.mp3",
+    "us": "media/us/century.mp3"
+   },
+   "avoid": [
+    "day",
+    "month",
+    "week",
+    "year"
+   ]
+  },
+  {
+   "id": "moment",
+   "word": "moment",
+   "zh": "片刻；一会儿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "片刻；一会儿"
+    }
+   ],
+   "ipa": "/ˈməʊmənt/",
+   "chunks": [
+    "mo",
+    "ment"
+   ],
+   "emoji": "☝️",
+   "sentence": {
+    "en": "Wait a moment, please.",
+    "zh": "请稍等一会儿。"
+   },
+   "sentences": [
+    {
+     "en": "Wait a moment, please.",
+     "zh": "请稍等一会儿。",
+     "audio": "media/sent/908e995918e9.mp3"
+    },
+    {
+     "en": "Mum is busy at the moment.",
+     "zh": "妈妈这会儿正忙。",
+     "audio": "media/sent/da743d4f5614.mp3"
+    },
+    {
+     "en": "Dad has a rest for a moment in the garden.",
+     "zh": "爸爸在花园里休息一会儿。",
+     "audio": "media/sent/67739f3cfc2f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/moment.webp",
+    "uk": "media/uk/moment.mp3",
+    "us": "media/us/moment.mp3"
+   },
+   "avoid": [
+    "hour",
+    "minute",
+    "second"
+   ]
+  },
+  {
+   "id": "calendar",
+   "word": "calendar",
+   "zh": "日历；年历",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "日历；年历"
+    }
+   ],
+   "ipa": "/ˈkælɪndə/",
+   "chunks": [
+    "cal",
+    "en",
+    "dar"
+   ],
+   "emoji": "🗓️",
+   "sentence": {
+    "en": "Mum puts a new calendar on the wall.",
+    "zh": "妈妈在墙上挂了一本新年历。"
+   },
+   "sentences": [
+    {
+     "en": "Mum puts a new calendar on the wall.",
+     "zh": "妈妈在墙上挂了一本新年历。",
+     "audio": "media/sent/0bc99f195093.mp3"
+    },
+    {
+     "en": "There is a calendar in the kitchen.",
+     "zh": "厨房里有一本年历。",
+     "audio": "media/sent/924f2294e090.mp3"
+    },
+    {
+     "en": "Mum looks at the calendar every day.",
+     "zh": "妈妈每天都看年历。",
+     "audio": "media/sent/21cf74caca4c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/calendar.webp",
+    "uk": "media/uk/calendar.mp3",
+    "us": "media/us/calendar.mp3"
+   },
+   "avoid": [
+    "date",
+    "diary"
+   ]
+  },
+  {
+   "id": "date",
+   "word": "date",
+   "zh": "日期",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "日期"
+    }
+   ],
+   "ipa": "/deɪt/",
+   "chunks": [
+    "date"
+   ],
+   "emoji": "📌",
+   "sentence": {
+    "en": "What's the date today?",
+    "zh": "今天是几号？"
+   },
+   "sentences": [
+    {
+     "en": "What's the date today?",
+     "zh": "今天是几号？",
+     "audio": "media/sent/7ade97f98791.mp3"
+    },
+    {
+     "en": "Mum writes the date on the card.",
+     "zh": "妈妈把日期写在卡片上。",
+     "audio": "media/sent/4e2cb2aede19.mp3"
+    },
+    {
+     "en": "Lily knows the date of Grandma's birthday.",
+     "zh": "Lily 知道奶奶生日的日期。",
+     "audio": "media/sent/04c7a1dde019.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/date.webp",
+    "uk": "media/uk/date.mp3",
+    "us": "media/us/date.mp3"
+   },
+   "avoid": [
+    "calendar",
+    "diary"
+   ]
+  },
+  {
+   "id": "diary",
+   "word": "diary",
+   "zh": "日记；日记本",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "日记；日记本"
+    }
+   ],
+   "ipa": "/ˈdaɪəri/",
+   "chunks": [
+    "di",
+    "a",
+    "ry"
+   ],
+   "emoji": "📔",
+   "sentence": {
+    "en": "Lily writes in her diary every evening.",
+    "zh": "Lily 每天晚上都写日记。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes in her diary every evening.",
+     "zh": "Lily 每天晚上都写日记。",
+     "audio": "media/sent/33e2a87d4a3d.mp3"
+    },
+    {
+     "en": "Dad keeps a diary about the weather.",
+     "zh": "爸爸写日记记录天气。",
+     "audio": "media/sent/37787ea320b7.mp3"
+    },
+    {
+     "en": "Lily's diary is under her pillow.",
+     "zh": "Lily 的日记本在她的枕头下面。",
+     "audio": "media/sent/7c775a633297.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/diary.webp",
+    "uk": "media/uk/diary.mp3",
+    "us": "media/us/diary.mp3"
+   },
+   "avoid": [
+    "calendar",
+    "date"
+   ]
+  },
+  {
+   "id": "january",
+   "word": "January",
+   "zh": "一月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一月"
+    }
+   ],
+   "ipa": "/ˈdʒænjuəri/",
+   "chunks": [
+    "Jan",
+    "u",
+    "ar",
+    "y"
+   ],
+   "emoji": "❄️",
+   "sentence": {
+    "en": "It is cold and dark in January.",
+    "zh": "一月天又冷又黑。"
+   },
+   "sentences": [
+    {
+     "en": "It is cold and dark in January.",
+     "zh": "一月天又冷又黑。",
+     "audio": "media/sent/f7628d7a7f3b.mp3"
+    },
+    {
+     "en": "Lily's birthday is in January.",
+     "zh": "Lily 的生日在一月。",
+     "audio": "media/sent/b085a0fe1982.mp3"
+    },
+    {
+     "en": "We visit Grandpa in January.",
+     "zh": "我们一月去看爷爷。",
+     "audio": "media/sent/b1c75ebb68ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/january.webp",
+    "uk": "media/uk/january.mp3",
+    "us": "media/us/january.mp3"
+   },
+   "avoid": [
+    "april",
+    "february",
+    "march"
+   ]
+  },
+  {
+   "id": "february",
+   "word": "February",
+   "zh": "二月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "二月"
+    }
+   ],
+   "ipa": "/ˈfebruəri/",
+   "chunks": [
+    "Feb",
+    "ru",
+    "ar",
+    "y"
+   ],
+   "emoji": "🌬️",
+   "sentence": {
+    "en": "It is windy and wet in February.",
+    "zh": "二月天又刮风又下雨。"
+   },
+   "sentences": [
+    {
+     "en": "It is windy and wet in February.",
+     "zh": "二月天又刮风又下雨。",
+     "audio": "media/sent/90c4fece64dd.mp3"
+    },
+    {
+     "en": "Grandma visits us in February.",
+     "zh": "奶奶二月来看我们。",
+     "audio": "media/sent/429eb3b4771d.mp3"
+    },
+    {
+     "en": "February is the shortest month.",
+     "zh": "二月是最短的月份。",
+     "audio": "media/sent/5ab25ea55920.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/february.webp",
+    "uk": "media/uk/february.mp3",
+    "us": "media/us/february.mp3"
+   },
+   "avoid": [
+    "april",
+    "january",
+    "march"
+   ]
+  },
+  {
+   "id": "march",
+   "word": "March",
+   "zh": "三月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "三月"
+    }
+   ],
+   "ipa": "/mɑːtʃ/",
+   "chunks": [
+    "March"
+   ],
+   "emoji": "🌱",
+   "sentence": {
+    "en": "In March, the first flowers come out.",
+    "zh": "三月，第一批花儿开了。"
+   },
+   "sentences": [
+    {
+     "en": "In March, the first flowers come out.",
+     "zh": "三月，第一批花儿开了。",
+     "audio": "media/sent/48f57ebf037e.mp3"
+    },
+    {
+     "en": "We fly kites in the park in March.",
+     "zh": "我们三月在公园里放风筝。",
+     "audio": "media/sent/4e918572b7a3.mp3"
+    },
+    {
+     "en": "Mum cuts her hair in March.",
+     "zh": "妈妈三月去剪头发。",
+     "audio": "media/sent/656b3f9ca25a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/march.webp",
+    "uk": "media/uk/march.mp3",
+    "us": "media/us/march.mp3"
+   },
+   "avoid": [
+    "april",
+    "february",
+    "january"
+   ]
+  },
+  {
+   "id": "april",
+   "word": "April",
+   "zh": "四月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "四月"
+    }
+   ],
+   "ipa": "/ˈeɪprəl/",
+   "chunks": [
+    "A",
+    "pril"
+   ],
+   "emoji": "🌦️",
+   "sentence": {
+    "en": "It often rains in April.",
+    "zh": "四月经常下雨。"
+   },
+   "sentences": [
+    {
+     "en": "It often rains in April.",
+     "zh": "四月经常下雨。",
+     "audio": "media/sent/419a5ed51009.mp3"
+    },
+    {
+     "en": "Lily wears her raincoat in April.",
+     "zh": "Lily 四月穿她的雨衣。",
+     "audio": "media/sent/16d140c7a57f.mp3"
+    },
+    {
+     "en": "The ducks play in the rain in April.",
+     "zh": "四月鸭子在雨里玩。",
+     "audio": "media/sent/c8c756a8ca29.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/april.webp",
+    "uk": "media/uk/april.mp3",
+    "us": "media/us/april.mp3"
+   },
+   "avoid": [
+    "february",
+    "january",
+    "march"
+   ]
+  },
+  {
+   "id": "may",
+   "word": "May",
+   "zh": "五月",
+   "pos": [
+    "n",
+    "mv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "五月"
+    },
+    {
+     "pos": [
+      "mv"
+     ],
+     "zh": "可以；可能",
+     "en": "May I come in?"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "May"
+   ],
+   "emoji": "🌷",
+   "sentence": {
+    "en": "We pick strawberries in May.",
+    "zh": "我们五月采草莓。"
+   },
+   "sentences": [
+    {
+     "en": "We pick strawberries in May.",
+     "zh": "我们五月采草莓。",
+     "audio": "media/sent/7bb3691fbb9c.mp3"
+    },
+    {
+     "en": "The apple trees are pink in May.",
+     "zh": "苹果树五月开粉色的花。",
+     "audio": "media/sent/5be023eee764.mp3"
+    },
+    {
+     "en": "Our class goes to the farm in May.",
+     "zh": "我们班五月去农场。",
+     "audio": "media/sent/955017522564.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/may.webp"
+   },
+   "avoid": [
+    "august",
+    "july",
+    "june",
+    "may.2"
+   ]
+  },
+  {
+   "id": "may.2",
+   "word": "May",
+   "zh": "可以；可能",
+   "pos": [
+    "mv",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "mv"
+     ],
+     "zh": "可以；可能"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "五月"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "May"
+   ],
+   "emoji": "✋",
+   "sentence": {
+    "en": "May I come in?",
+    "zh": "我可以进来吗？"
+   },
+   "sentences": [
+    {
+     "en": "May I come in?",
+     "zh": "我可以进来吗？",
+     "audio": "media/sent/2848dfb2b9e6.mp3"
+    },
+    {
+     "en": "May I have some water, please?",
+     "zh": "我可以喝点水吗？",
+     "audio": "media/sent/d7e7f417c3a3.mp3"
+    },
+    {
+     "en": "It may rain this afternoon.",
+     "zh": "今天下午可能会下雨。",
+     "audio": "media/sent/41fbaf0e36c9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/may.2.webp"
+   },
+   "of": "may",
+   "ofZh": "五月",
+   "avoid": [
+    "may"
+   ]
+  },
+  {
+   "id": "june",
+   "word": "June",
+   "zh": "六月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "六月"
+    }
+   ],
+   "ipa": "/dʒuːn/",
+   "chunks": [
+    "June"
+   ],
+   "emoji": "🍧",
+   "sentence": {
+    "en": "We swim in the lake in June.",
+    "zh": "我们六月在湖里游泳。"
+   },
+   "sentences": [
+    {
+     "en": "We swim in the lake in June.",
+     "zh": "我们六月在湖里游泳。",
+     "audio": "media/sent/1a5f2f64820c.mp3"
+    },
+    {
+     "en": "June is the start of summer.",
+     "zh": "六月是夏天的开始。",
+     "audio": "media/sent/d49939fd0f95.mp3"
+    },
+    {
+     "en": "Tom has his swimming lesson in June.",
+     "zh": "Tom 六月有游泳课。",
+     "audio": "media/sent/a9952283ae8c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/june.webp",
+    "uk": "media/uk/june.mp3",
+    "us": "media/us/june.mp3"
+   },
+   "avoid": [
+    "august",
+    "july",
+    "may"
+   ]
+  },
+  {
+   "id": "july",
+   "word": "July",
+   "zh": "七月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "七月"
+    }
+   ],
+   "ipa": "/dʒuˈlaɪ/",
+   "chunks": [
+    "Ju",
+    "ly"
+   ],
+   "emoji": "🏖️",
+   "sentence": {
+    "en": "The summer holidays start in July.",
+    "zh": "暑假七月开始。"
+   },
+   "sentences": [
+    {
+     "en": "The summer holidays start in July.",
+     "zh": "暑假七月开始。",
+     "audio": "media/sent/004e0626bddd.mp3"
+    },
+    {
+     "en": "In July, the days are long.",
+     "zh": "七月的白天很长。",
+     "audio": "media/sent/4383c5f87adf.mp3"
+    },
+    {
+     "en": "In July, we swim in the sea.",
+     "zh": "七月我们在海里游泳。",
+     "audio": "media/sent/675d258a28c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/july.webp",
+    "uk": "media/uk/july.mp3",
+    "us": "media/us/july.mp3"
+   },
+   "avoid": [
+    "august",
+    "june",
+    "may"
+   ]
+  },
+  {
+   "id": "august",
+   "word": "August",
+   "zh": "八月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "八月"
+    }
+   ],
+   "ipa": "/ˈɔːɡəst/",
+   "chunks": [
+    "Au",
+    "gust"
+   ],
+   "emoji": "🍉",
+   "sentence": {
+    "en": "We eat melon in the garden in August.",
+    "zh": "八月我们在花园里吃瓜。"
+   },
+   "sentences": [
+    {
+     "en": "We eat melon in the garden in August.",
+     "zh": "八月我们在花园里吃瓜。",
+     "audio": "media/sent/47c0773dcedd.mp3"
+    },
+    {
+     "en": "We watch the stars in August.",
+     "zh": "我们八月看星星。",
+     "audio": "media/sent/7ad92f3b34e6.mp3"
+    },
+    {
+     "en": "August is very hot here.",
+     "zh": "这里八月很热。",
+     "audio": "media/sent/cb325cdfcec6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/august.webp",
+    "uk": "media/uk/august.mp3",
+    "us": "media/us/august.mp3"
+   },
+   "avoid": [
+    "july",
+    "june",
+    "may"
+   ]
+  },
+  {
+   "id": "september",
+   "word": "September",
+   "zh": "九月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "九月"
+    }
+   ],
+   "ipa": "/sepˈtembə/",
+   "chunks": [
+    "Sep",
+    "tem",
+    "ber"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Our new school year starts in September.",
+    "zh": "我们的新学年九月开始。"
+   },
+   "sentences": [
+    {
+     "en": "Our new school year starts in September.",
+     "zh": "我们的新学年九月开始。",
+     "audio": "media/sent/f6457461d07f.mp3"
+    },
+    {
+     "en": "In September, the evenings get dark early.",
+     "zh": "九月傍晚很早就黑了。",
+     "audio": "media/sent/0a82a8f43fcd.mp3"
+    },
+    {
+     "en": "Sam starts his new school in September.",
+     "zh": "Sam 九月上新学校。",
+     "audio": "media/sent/5684710277fe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/september.webp",
+    "uk": "media/uk/september.mp3",
+    "us": "media/us/september.mp3"
+   },
+   "avoid": [
+    "december",
+    "november",
+    "october"
+   ]
+  },
+  {
+   "id": "october",
+   "word": "October",
+   "zh": "十月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "十月"
+    }
+   ],
+   "ipa": "/ɒkˈtəʊbə/",
+   "chunks": [
+    "Oc",
+    "to",
+    "ber"
+   ],
+   "emoji": "🍁",
+   "sentence": {
+    "en": "In October, the leaves turn red and brown.",
+    "zh": "十月树叶变红变棕。"
+   },
+   "sentences": [
+    {
+     "en": "In October, the leaves turn red and brown.",
+     "zh": "十月树叶变红变棕。",
+     "audio": "media/sent/4bc8513e2bd7.mp3"
+    },
+    {
+     "en": "We walk in the woods in October.",
+     "zh": "我们十月在树林里散步。",
+     "audio": "media/sent/a4d3d11b113e.mp3"
+    },
+    {
+     "en": "We have a sports day in October.",
+     "zh": "十月我们开运动会。",
+     "audio": "media/sent/cbada1d6f14b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/october.webp",
+    "uk": "media/uk/october.mp3",
+    "us": "media/us/october.mp3"
+   },
+   "avoid": [
+    "december",
+    "november",
+    "september"
+   ]
+  },
+  {
+   "id": "november",
+   "word": "November",
+   "zh": "十一月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "十一月"
+    }
+   ],
+   "ipa": "/nəʊˈvembə/",
+   "chunks": [
+    "No",
+    "vem",
+    "ber"
+   ],
+   "emoji": "🧣",
+   "sentence": {
+    "en": "November is cold and grey.",
+    "zh": "十一月又冷又灰。"
+   },
+   "sentences": [
+    {
+     "en": "November is cold and grey.",
+     "zh": "十一月又冷又灰。",
+     "audio": "media/sent/f816ee2539d8.mp3"
+    },
+    {
+     "en": "In November, it gets dark very early.",
+     "zh": "十一月天黑得很早。",
+     "audio": "media/sent/5fe6e479b067.mp3"
+    },
+    {
+     "en": "Grandpa makes hot soup in November.",
+     "zh": "爷爷十一月做热汤。",
+     "audio": "media/sent/3cf73ae53f54.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/november.webp",
+    "uk": "media/uk/november.mp3",
+    "us": "media/us/november.mp3"
+   },
+   "avoid": [
+    "december",
+    "october",
+    "september"
+   ]
+  },
+  {
+   "id": "december",
+   "word": "December",
+   "zh": "十二月",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "十二月"
+    }
+   ],
+   "ipa": "/dɪˈsembə/",
+   "chunks": [
+    "De",
+    "cem",
+    "ber"
+   ],
+   "emoji": "🎄",
+   "sentence": {
+    "en": "In December, the nights are long and cold.",
+    "zh": "十二月夜晚很长，天气很冷。"
+   },
+   "sentences": [
+    {
+     "en": "In December, the nights are long and cold.",
+     "zh": "十二月夜晚很长，天气很冷。",
+     "audio": "media/sent/06ca69876bd4.mp3"
+    },
+    {
+     "en": "December brings snow and cold nights.",
+     "zh": "十二月带来下雪和寒冷的夜晚。",
+     "audio": "media/sent/11770a153448.mp3"
+    },
+    {
+     "en": "Grandma sends a card in December.",
+     "zh": "奶奶十二月寄一张卡片。",
+     "audio": "media/sent/891e76b6a98a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/december.webp",
+    "uk": "media/uk/december.mp3",
+    "us": "media/us/december.mp3"
+   },
+   "avoid": [
+    "november",
+    "october",
+    "september"
+   ]
+  },
+  {
+   "id": "spring",
+   "word": "spring",
+   "zh": "春天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "春天"
+    }
+   ],
+   "ipa": "/sprɪŋ/",
+   "chunks": [
+    "spring"
+   ],
+   "emoji": "🌷",
+   "sentence": {
+    "en": "We fly a kite in spring.",
+    "zh": "我们春天放风筝。"
+   },
+   "sentences": [
+    {
+     "en": "We fly a kite in spring.",
+     "zh": "我们春天放风筝。",
+     "audio": "media/sent/20f295ebf340.mp3"
+    },
+    {
+     "en": "Tom rides his bike in spring.",
+     "zh": "Tom 春天骑自行车。",
+     "audio": "media/sent/8ef030f2b979.mp3"
+    },
+    {
+     "en": "In spring, the birds sing all day.",
+     "zh": "春天鸟儿整天叫。",
+     "audio": "media/sent/1f1cd35e230c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spring.webp",
+    "uk": "media/uk/spring.mp3",
+    "us": "media/us/spring.mp3"
+   },
+   "avoid": [
+    "autumn",
+    "summer",
+    "winter"
+   ]
+  },
+  {
+   "id": "summer",
+   "word": "summer",
+   "zh": "夏天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "夏天"
+    }
+   ],
+   "ipa": "/ˈsʌmə/",
+   "chunks": [
+    "sum",
+    "mer"
+   ],
+   "emoji": "🍦",
+   "sentence": {
+    "en": "We eat ice cream in summer.",
+    "zh": "我们夏天吃冰激凌。"
+   },
+   "sentences": [
+    {
+     "en": "We eat ice cream in summer.",
+     "zh": "我们夏天吃冰激凌。",
+     "audio": "media/sent/e11e5a1b6143.mp3"
+    },
+    {
+     "en": "Lily swims every day in summer.",
+     "zh": "Lily 夏天每天都游泳。",
+     "audio": "media/sent/ce1692f1d28f.mp3"
+    },
+    {
+     "en": "Grandma waters her plants in summer.",
+     "zh": "奶奶夏天给她的花浇水。",
+     "audio": "media/sent/fc9e389d0d3b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/summer.webp",
+    "uk": "media/uk/summer.mp3",
+    "us": "media/us/summer.mp3"
+   },
+   "avoid": [
+    "autumn",
+    "spring",
+    "winter"
+   ]
+  },
+  {
+   "id": "autumn",
+   "word": "autumn",
+   "zh": "秋天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "秋天"
+    }
+   ],
+   "ipa": "/ˈɔːtəm/",
+   "chunks": [
+    "au",
+    "tumn"
+   ],
+   "emoji": "🍂",
+   "sentence": {
+    "en": "We collect apples in autumn.",
+    "zh": "我们秋天采苹果。"
+   },
+   "sentences": [
+    {
+     "en": "We collect apples in autumn.",
+     "zh": "我们秋天采苹果。",
+     "audio": "media/sent/97e63e8dbf79.mp3"
+    },
+    {
+     "en": "Tom jumps in the leaves in autumn.",
+     "zh": "Tom 秋天跳叶子堆。",
+     "audio": "media/sent/47eba71d03b5.mp3"
+    },
+    {
+     "en": "In autumn, the evenings are cool.",
+     "zh": "秋天傍晚很凉。",
+     "audio": "media/sent/e90c955d4912.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/autumn.webp",
+    "uk": "media/uk/autumn.mp3",
+    "us": "media/us/autumn.mp3"
+   },
+   "avoid": [
+    "spring",
+    "summer",
+    "winter"
+   ]
+  },
+  {
+   "id": "winter",
+   "word": "winter",
+   "zh": "冬天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冬天"
+    }
+   ],
+   "ipa": "/ˈwɪntə/",
+   "chunks": [
+    "win",
+    "ter"
+   ],
+   "emoji": "⛄",
+   "sentence": {
+    "en": "We learn to skate in winter.",
+    "zh": "我们冬天学滑冰。"
+   },
+   "sentences": [
+    {
+     "en": "We learn to skate in winter.",
+     "zh": "我们冬天学滑冰。",
+     "audio": "media/sent/2125e0dd3c03.mp3"
+    },
+    {
+     "en": "Max runs in the snow in winter.",
+     "zh": "Max 冬天在雪里跑。",
+     "audio": "media/sent/26c6507c54ab.mp3"
+    },
+    {
+     "en": "We drink hot soup in winter.",
+     "zh": "冬天我们喝热汤。",
+     "audio": "media/sent/34094efe5ca9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/winter.webp",
+    "uk": "media/uk/winter.mp3",
+    "us": "media/us/winter.mp3"
+   },
+   "avoid": [
+    "autumn",
+    "spring",
+    "summer"
+   ]
+  },
+  {
+   "id": "birthday",
+   "word": "birthday",
+   "zh": "生日",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "生日"
+    }
+   ],
+   "ipa": "/ˈbɜːθdeɪ/",
+   "chunks": [
+    "birth",
+    "day"
+   ],
+   "emoji": "🎂",
+   "sentence": {
+    "en": "Lily has a birthday party.",
+    "zh": "Lily 开生日聚会。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a birthday party.",
+     "zh": "Lily 开生日聚会。",
+     "audio": "media/sent/229c569e2349.mp3"
+    },
+    {
+     "en": "Tom's birthday is in spring.",
+     "zh": "Tom 的生日在春天。",
+     "audio": "media/sent/3572a4582446.mp3"
+    },
+    {
+     "en": "This card is for Dad's birthday.",
+     "zh": "这张卡片是给爸爸的生日的。",
+     "audio": "media/sent/b108b5b0cac7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/birthday.webp",
+    "uk": "media/uk/birthday.mp3",
+    "us": "media/us/birthday.mp3"
+   },
+   "avoid": [
+    "holiday"
+   ]
+  },
+  {
+   "id": "holiday",
+   "word": "holiday",
+   "zh": "假期",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "假期"
+    }
+   ],
+   "ipa": "/ˈhɒlədeɪ/",
+   "chunks": [
+    "hol",
+    "i",
+    "day"
+   ],
+   "emoji": "🧳",
+   "sentence": {
+    "en": "We don't go to school in the summer holiday.",
+    "zh": "暑假我们不上学。"
+   },
+   "sentences": [
+    {
+     "en": "We don't go to school in the summer holiday.",
+     "zh": "暑假我们不上学。",
+     "audio": "media/sent/d02a269c0349.mp3"
+    },
+    {
+     "en": "We read ten books every holiday.",
+     "zh": "每个假期我们都读十本书。",
+     "audio": "media/sent/d6bd0652ba75.mp3"
+    },
+    {
+     "en": "The shops are busy in the winter holiday.",
+     "zh": "寒假里商店很忙。",
+     "audio": "media/sent/ece9474228d8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/holiday.webp",
+    "uk": "media/uk/holiday.mp3",
+    "us": "media/us/holiday.mp3"
+   },
+   "avoid": [
+    "birthday"
+   ]
+  },
+  {
+   "id": "appointment",
+   "word": "appointment",
+   "zh": "预约",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "预约"
+    }
+   ],
+   "ipa": "/əˈpɔɪntmənt/",
+   "chunks": [
+    "ap",
+    "point",
+    "ment"
+   ],
+   "emoji": "🕐",
+   "sentence": {
+    "en": "Mum has an appointment at three.",
+    "zh": "妈妈三点有个预约。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has an appointment at three.",
+     "zh": "妈妈三点有个预约。",
+     "audio": "media/sent/c430b0c87256.mp3"
+    },
+    {
+     "en": "Dad calls to make an appointment.",
+     "zh": "爸爸打电话去预约。",
+     "audio": "media/sent/561c46855c25.mp3"
+    },
+    {
+     "en": "Mum is early for her appointment.",
+     "zh": "妈妈的预约到得早。",
+     "audio": "media/sent/3f8f7e8528a7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/appointment.webp",
+    "uk": "media/uk/appointment.mp3",
+    "us": "media/us/appointment.mp3"
+   },
+   "avoid": [
+    "meeting",
+    "working-hours"
+   ]
+  },
+  {
+   "id": "meeting",
+   "word": "meeting",
+   "zh": "会议",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "会议"
+    }
+   ],
+   "ipa": "/ˈmiːtɪŋ/",
+   "chunks": [
+    "meet",
+    "ing"
+   ],
+   "emoji": "🪑",
+   "sentence": {
+    "en": "Mum has a meeting after lunch.",
+    "zh": "妈妈午饭后有会议。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has a meeting after lunch.",
+     "zh": "妈妈午饭后有会议。",
+     "audio": "media/sent/7e789e56cc63.mp3"
+    },
+    {
+     "en": "Dad is at a long meeting today.",
+     "zh": "爸爸今天有一个很长的会议。",
+     "audio": "media/sent/827a924e0174.mp3"
+    },
+    {
+     "en": "The teachers have a meeting at five o'clock.",
+     "zh": "老师们五点开会议。",
+     "audio": "media/sent/1c12fbc53504.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/meeting.webp",
+    "uk": "media/uk/meeting.mp3",
+    "us": "media/us/meeting.mp3"
+   },
+   "avoid": [
+    "appointment",
+    "working-hours"
+   ]
+  },
+  {
+   "id": "working-hours",
+   "word": "working hours",
+   "zh": "工作时间",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "工作时间"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "work",
+    "ing",
+    "hours"
+   ],
+   "emoji": "💼",
+   "sentence": {
+    "en": "Mum's working hours are short.",
+    "zh": "妈妈的工作时间不长。"
+   },
+   "sentences": [
+    {
+     "en": "Mum's working hours are short.",
+     "zh": "妈妈的工作时间不长。",
+     "audio": "media/sent/f5a4bf91a922.mp3"
+    },
+    {
+     "en": "Dad's working hours are long.",
+     "zh": "爸爸的工作时间很长。",
+     "audio": "media/sent/652b59222b3e.mp3"
+    },
+    {
+     "en": "The shop has long working hours in December.",
+     "zh": "这家商店十二月的工作时间很长。",
+     "audio": "media/sent/304b972219a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/working-hours.webp"
+   },
+   "avoid": [
+    "appointment",
+    "meeting"
+   ]
+  }
+ ]
+}

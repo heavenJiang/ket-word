@@ -18,6 +18,10 @@ export function slowMs(kind: QuestionKind, letters = 0): number {
     case "pickMeaning":
     case "listenPick":
       return 6000;
+    case "listenSentence":
+      return 8000;
+    case "cloze":
+      return 10000; // reading a whole sentence takes longer
     case "tiles":
       return 3000 + letters * 1500;
   }

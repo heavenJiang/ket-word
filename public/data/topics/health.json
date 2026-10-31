@@ -1,0 +1,3460 @@
+{
+ "id": "health",
+ "words": [
+  {
+   "id": "body",
+   "word": "body",
+   "zh": "身体",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "身体"
+    }
+   ],
+   "ipa": "/ˈbɒdi/",
+   "chunks": [
+    "bod",
+    "y"
+   ],
+   "emoji": "🧍",
+   "sentence": {
+    "en": "Lily points to the parts of her body.",
+    "zh": "Lily 指出她身体的各个部分。"
+   },
+   "sentences": [
+    {
+     "en": "Lily points to the parts of her body.",
+     "zh": "Lily 指出她身体的各个部分。",
+     "audio": "media/sent/98d4e10db127.mp3"
+    },
+    {
+     "en": "Tom draws a big body and a small head.",
+     "zh": "Tom 画一个大身体和一个小小的头。",
+     "audio": "media/sent/256133501e35.mp3"
+    },
+    {
+     "en": "Running is good exercise for your whole body.",
+     "zh": "跑步对你的整个身体都是很好的锻炼。",
+     "audio": "media/sent/6f6883448e62.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/body.webp",
+    "uk": "media/uk/body.mp3",
+    "us": "media/us/body.mp3"
+   },
+   "avoid": [
+    "face",
+    "head",
+    "neck"
+   ]
+  },
+  {
+   "id": "head",
+   "word": "head",
+   "zh": "头",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "头"
+    }
+   ],
+   "ipa": "/hed/",
+   "chunks": [
+    "head"
+   ],
+   "emoji": "🧑",
+   "sentence": {
+    "en": "Lily puts her hands on her head.",
+    "zh": "Lily 把双手放在头上。"
+   },
+   "sentences": [
+    {
+     "en": "Lily puts her hands on her head.",
+     "zh": "Lily 把双手放在头上。",
+     "audio": "media/sent/75efee6a24dd.mp3"
+    },
+    {
+     "en": "Grandpa puts his glasses on his head.",
+     "zh": "爷爷把眼镜推到头上。",
+     "audio": "media/sent/b132c9f9db26.mp3"
+    },
+    {
+     "en": "Dad wears a hat on his head in the sun.",
+     "zh": "太阳下爸爸头上戴着帽子。",
+     "audio": "media/sent/51719c4f00d7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/head.webp",
+    "uk": "media/uk/head.mp3",
+    "us": "media/us/head.mp3"
+   },
+   "avoid": [
+    "body",
+    "face",
+    "neck"
+   ]
+  },
+  {
+   "id": "face",
+   "word": "face",
+   "zh": "脸",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "脸"
+    }
+   ],
+   "ipa": "/feɪs/",
+   "chunks": [
+    "face"
+   ],
+   "emoji": "😊",
+   "sentence": {
+    "en": "Lily washes her face in the morning.",
+    "zh": "Lily 早上洗脸。"
+   },
+   "sentences": [
+    {
+     "en": "Lily washes her face in the morning.",
+     "zh": "Lily 早上洗脸。",
+     "audio": "media/sent/9f0758d6643b.mp3"
+    },
+    {
+     "en": "Tom's face is red after his run.",
+     "zh": "Tom 跑完步脸红红的。",
+     "audio": "media/sent/28f3228f3ce1.mp3"
+    },
+    {
+     "en": "Mum dries Tom's face with a towel.",
+     "zh": "妈妈用毛巾给 Tom 擦干脸。",
+     "audio": "media/sent/1458505cd2eb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/face.webp",
+    "uk": "media/uk/face.mp3",
+    "us": "media/us/face.mp3"
+   },
+   "avoid": [
+    "body",
+    "head",
+    "neck"
+   ]
+  },
+  {
+   "id": "hair",
+   "word": "hair",
+   "zh": "头发",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "头发"
+    }
+   ],
+   "ipa": "/heə/",
+   "chunks": [
+    "hair"
+   ],
+   "emoji": "💇",
+   "sentence": {
+    "en": "Lily has long brown hair.",
+    "zh": "Lily 有一头棕色的长发。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has long brown hair.",
+     "zh": "Lily 有一头棕色的长发。",
+     "audio": "media/sent/818b9a92e676.mp3"
+    },
+    {
+     "en": "Mum cuts Grandma's hair in the garden.",
+     "zh": "妈妈在花园里给奶奶剪头发。",
+     "audio": "media/sent/6ea388fd211b.mp3"
+    },
+    {
+     "en": "Tom's hair is wet after his bath.",
+     "zh": "Tom 洗完澡头发湿了。",
+     "audio": "media/sent/c70a59fbc712.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hair.webp",
+    "uk": "media/uk/hair.mp3",
+    "us": "media/us/hair.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eye",
+   "word": "eye",
+   "zh": "眼睛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "眼睛"
+    }
+   ],
+   "ipa": "/aɪ/",
+   "chunks": [
+    "eye"
+   ],
+   "emoji": "👁️",
+   "sentence": {
+    "en": "Tom gets soap in his eye.",
+    "zh": "Tom 的眼睛里进了肥皂。"
+   },
+   "sentences": [
+    {
+     "en": "Tom gets soap in his eye.",
+     "zh": "Tom 的眼睛里进了肥皂。",
+     "audio": "media/sent/e3998b6d9f0d.mp3"
+    },
+    {
+     "en": "Lily has big brown eyes.",
+     "zh": "Lily 有一双棕色的大眼睛。",
+     "audio": "media/sent/0cb1b0a8f793.mp3"
+    },
+    {
+     "en": "Close your eyes, Tom. One, two, three!",
+     "zh": "Tom，闭上眼睛。一、二、三！",
+     "audio": "media/sent/868187984f24.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eye.webp",
+    "uk": "media/uk/eye.mp3",
+    "us": "media/us/eye.mp3"
+   },
+   "avoid": [
+    "ear",
+    "nose",
+    "tooth"
+   ]
+  },
+  {
+   "id": "ear",
+   "word": "ear",
+   "zh": "耳朵",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "耳朵"
+    }
+   ],
+   "ipa": "/ɪə/",
+   "chunks": [
+    "ear"
+   ],
+   "emoji": "👂",
+   "sentence": {
+    "en": "Tom's ear hurts, so we see the doctor.",
+    "zh": "Tom 的耳朵疼，所以我们去看医生。"
+   },
+   "sentences": [
+    {
+     "en": "Tom's ear hurts, so we see the doctor.",
+     "zh": "Tom 的耳朵疼，所以我们去看医生。",
+     "audio": "media/sent/6ae9fd18f8ed.mp3"
+    },
+    {
+     "en": "Lily has small ears and long hair.",
+     "zh": "Lily 有小耳朵和长头发。",
+     "audio": "media/sent/7f14deeef51d.mp3"
+    },
+    {
+     "en": "Max moves his ears when he hears a sound.",
+     "zh": "Max 听到声音会动耳朵。",
+     "audio": "media/sent/98298bb2d938.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ear.webp",
+    "uk": "media/uk/ear.mp3",
+    "us": "media/us/ear.mp3"
+   },
+   "avoid": [
+    "eye",
+    "nose",
+    "tooth"
+   ]
+  },
+  {
+   "id": "nose",
+   "word": "nose",
+   "zh": "鼻子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鼻子"
+    }
+   ],
+   "ipa": "/nəʊz/",
+   "chunks": [
+    "nose"
+   ],
+   "emoji": "👃",
+   "sentence": {
+    "en": "Tom has a cold, so his nose is red.",
+    "zh": "Tom 感冒了，所以他的鼻子红红的。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a cold, so his nose is red.",
+     "zh": "Tom 感冒了，所以他的鼻子红红的。",
+     "audio": "media/sent/755047df7848.mp3"
+    },
+    {
+     "en": "Lily has a small nose.",
+     "zh": "Lily 有一个小鼻子。",
+     "audio": "media/sent/c055b61c8932.mp3"
+    },
+    {
+     "en": "Max puts his cold nose on Tom's hand.",
+     "zh": "Max 把他凉凉的鼻子贴在 Tom 的手上。",
+     "audio": "media/sent/fe611f0ad6d9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nose.webp",
+    "uk": "media/uk/nose.mp3",
+    "us": "media/us/nose.mp3"
+   },
+   "avoid": [
+    "ear",
+    "eye",
+    "tooth"
+   ]
+  },
+  {
+   "id": "tooth",
+   "word": "tooth",
+   "zh": "牙；牙齿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牙；牙齿"
+    }
+   ],
+   "ipa": "/tuːθ/",
+   "chunks": [
+    "tooth"
+   ],
+   "emoji": "🦷",
+   "sentence": {
+    "en": "Tom has a bad tooth.",
+    "zh": "Tom 有一颗坏牙。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a bad tooth.",
+     "zh": "Tom 有一颗坏牙。",
+     "audio": "media/sent/5e763d6b8846.mp3"
+    },
+    {
+     "en": "Tom brushes his teeth twice a day.",
+     "zh": "Tom 一天刷两次牙。",
+     "audio": "media/sent/27c2ed6f692f.mp3"
+    },
+    {
+     "en": "A tooth falls out and Tom shows Mum.",
+     "zh": "掉了一颗牙，Tom 拿给妈妈看。",
+     "audio": "media/sent/cf9c0aa3ac19.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tooth.webp",
+    "uk": "media/uk/tooth.mp3",
+    "us": "media/us/tooth.mp3"
+   },
+   "avoid": [
+    "ear",
+    "eye",
+    "nose"
+   ]
+  },
+  {
+   "id": "neck",
+   "word": "neck",
+   "zh": "脖子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "脖子"
+    }
+   ],
+   "ipa": "/nek/",
+   "chunks": [
+    "neck"
+   ],
+   "emoji": "🧣",
+   "sentence": {
+    "en": "Mum ties a scarf round Tom's neck.",
+    "zh": "妈妈给 Tom 的脖子围上围巾。"
+   },
+   "sentences": [
+    {
+     "en": "Mum ties a scarf round Tom's neck.",
+     "zh": "妈妈给 Tom 的脖子围上围巾。",
+     "audio": "media/sent/d5e4049e86ab.mp3"
+    },
+    {
+     "en": "Lily turns her neck to look at the bird.",
+     "zh": "Lily 转过头去看那只鸟。",
+     "audio": "media/sent/5db8582d06cb.mp3"
+    },
+    {
+     "en": "Dad has a pain in his neck today.",
+     "zh": "爸爸今天脖子疼。",
+     "audio": "media/sent/0da0b229ae39.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/neck.webp",
+    "uk": "media/uk/neck.mp3",
+    "us": "media/us/neck.mp3"
+   },
+   "avoid": [
+    "body",
+    "face",
+    "head"
+   ]
+  },
+  {
+   "id": "arm",
+   "word": "arm",
+   "zh": "手臂；胳膊",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手臂；胳膊"
+    }
+   ],
+   "ipa": "/ɑːm/",
+   "chunks": [
+    "arm"
+   ],
+   "emoji": "💪",
+   "sentence": {
+    "en": "Show me your arm, Tom!",
+    "zh": "Tom，给我看看你的胳膊！"
+   },
+   "sentences": [
+    {
+     "en": "Show me your arm, Tom!",
+     "zh": "Tom，给我看看你的胳膊！",
+     "audio": "media/sent/bcc1d791bd2c.mp3"
+    },
+    {
+     "en": "Lily rides her bike with both arms out.",
+     "zh": "Lily 两只胳膊伸开骑自行车。",
+     "audio": "media/sent/9156de6e6ed7.mp3"
+    },
+    {
+     "en": "Dad carries the shopping bag in his left arm.",
+     "zh": "爸爸左胳膊挎着购物袋。",
+     "audio": "media/sent/5317b2120c4f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/arm.webp",
+    "uk": "media/uk/arm.mp3",
+    "us": "media/us/arm.mp3"
+   },
+   "avoid": [
+    "finger",
+    "hand"
+   ]
+  },
+  {
+   "id": "hand",
+   "word": "hand",
+   "zh": "手",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手"
+    }
+   ],
+   "ipa": "/hænd/",
+   "chunks": [
+    "hand"
+   ],
+   "emoji": "✋",
+   "sentence": {
+    "en": "Lily washes her hands with soap.",
+    "zh": "Lily 用肥皂洗手。"
+   },
+   "sentences": [
+    {
+     "en": "Lily washes her hands with soap.",
+     "zh": "Lily 用肥皂洗手。",
+     "audio": "media/sent/328623f1e81c.mp3"
+    },
+    {
+     "en": "Tom hurts his hand, but it is fine.",
+     "zh": "Tom 的手受伤了，不过没事。",
+     "audio": "media/sent/725b649e7f26.mp3"
+    },
+    {
+     "en": "Lily holds up one clean hand.",
+     "zh": "Lily 举起一只干净的手。",
+     "audio": "media/sent/4f79f702a54c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hand.webp",
+    "uk": "media/uk/hand.mp3",
+    "us": "media/us/hand.mp3"
+   },
+   "avoid": [
+    "arm",
+    "finger"
+   ]
+  },
+  {
+   "id": "finger",
+   "word": "finger",
+   "zh": "手指",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手指"
+    }
+   ],
+   "ipa": "/ˈfɪŋɡə/",
+   "chunks": [
+    "fin",
+    "ger"
+   ],
+   "emoji": "👆",
+   "sentence": {
+    "en": "Tom has a small cut on his finger.",
+    "zh": "Tom 的手指上有一个小口子。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a small cut on his finger.",
+     "zh": "Tom 的手指上有一个小口子。",
+     "audio": "media/sent/edf5cf920450.mp3"
+    },
+    {
+     "en": "Lily has ten strong fingers.",
+     "zh": "Lily 有十根结实的手指。",
+     "audio": "media/sent/5f26fb5a2d1b.mp3"
+    },
+    {
+     "en": "Tom points at the moon with one finger.",
+     "zh": "Tom 用一根手指指着月亮。",
+     "audio": "media/sent/f24785b186fb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/finger.webp",
+    "uk": "media/uk/finger.mp3",
+    "us": "media/us/finger.mp3"
+   },
+   "avoid": [
+    "arm",
+    "hand"
+   ]
+  },
+  {
+   "id": "back",
+   "word": "back",
+   "zh": "背；后背",
+   "pos": [
+    "n",
+    "adv",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "背；后背"
+    },
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "回来；回原处",
+     "en": "Dad comes back at six."
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "后面的"
+    }
+   ],
+   "ipa": "/bæk/",
+   "chunks": [
+    "back"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Lily lies on her back on the grass.",
+    "zh": "Lily 仰躺在草地上。"
+   },
+   "sentences": [
+    {
+     "en": "Lily lies on her back on the grass.",
+     "zh": "Lily 仰躺在草地上。",
+     "audio": "media/sent/3a3921c2a615.mp3"
+    },
+    {
+     "en": "Tom puts his bag on his back and walks out.",
+     "zh": "Tom 把包背在背上就出门了。",
+     "audio": "media/sent/a9c737466187.mp3"
+    },
+    {
+     "en": "Dad carries little Tom on his back.",
+     "zh": "爸爸把小 Tom 背在背上。",
+     "audio": "media/sent/9b145a61c146.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/back.webp",
+    "uk": "media/uk/back.mp3",
+    "us": "media/us/back.mp3"
+   },
+   "avoid": [
+    "back.2",
+    "foot",
+    "leg"
+   ]
+  },
+  {
+   "id": "back.2",
+   "word": "back",
+   "zh": "回来；回原处",
+   "pos": [
+    "adv",
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "回来；回原处"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "背；后背"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "后面的"
+    }
+   ],
+   "ipa": "/bæk/",
+   "chunks": [
+    "back"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "Dad comes back at six.",
+    "zh": "爸爸六点钟回来。"
+   },
+   "sentences": [
+    {
+     "en": "Dad comes back at six.",
+     "zh": "爸爸六点钟回来。",
+     "audio": "media/sent/0302fa0328f9.mp3"
+    },
+    {
+     "en": "Mum goes back inside for the keys.",
+     "zh": "妈妈回屋里去拿钥匙。",
+     "audio": "media/sent/fca7b16701bb.mp3"
+    },
+    {
+     "en": "Lily puts her toys back in the box.",
+     "zh": "Lily 把玩具放回盒子里。",
+     "audio": "media/sent/f0d3d48e59ea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/back.2.webp",
+    "uk": "media/uk/back.mp3",
+    "us": "media/us/back.mp3"
+   },
+   "of": "back",
+   "ofZh": "背；后背",
+   "avoid": [
+    "back"
+   ]
+  },
+  {
+   "id": "leg",
+   "word": "leg",
+   "zh": "腿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "腿"
+    }
+   ],
+   "ipa": "/leɡ/",
+   "chunks": [
+    "leg"
+   ],
+   "emoji": "🦵",
+   "sentence": {
+    "en": "Lily runs fast on her long legs.",
+    "zh": "Lily 用她的长腿跑得很快。"
+   },
+   "sentences": [
+    {
+     "en": "Lily runs fast on her long legs.",
+     "zh": "Lily 用她的长腿跑得很快。",
+     "audio": "media/sent/dffa57098fac.mp3"
+    },
+    {
+     "en": "Dad dries Max's legs after his bath.",
+     "zh": "爸爸给 Max 擦干腿。",
+     "audio": "media/sent/aa266a2b9429.mp3"
+    },
+    {
+     "en": "Tom hurts his leg, but he can still walk.",
+     "zh": "Tom 的腿受伤了，但他还能走。",
+     "audio": "media/sent/f18da8186371.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/leg.webp",
+    "uk": "media/uk/leg.mp3",
+    "us": "media/us/leg.mp3"
+   },
+   "avoid": [
+    "back",
+    "foot"
+   ]
+  },
+  {
+   "id": "foot",
+   "word": "foot",
+   "zh": "脚；足",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "脚；足"
+    }
+   ],
+   "ipa": "/fʊt/",
+   "chunks": [
+    "foot"
+   ],
+   "emoji": "🦶",
+   "sentence": {
+    "en": "Lily stands on one foot.",
+    "zh": "Lily 一只脚站着。"
+   },
+   "sentences": [
+    {
+     "en": "Lily stands on one foot.",
+     "zh": "Lily 一只脚站着。",
+     "audio": "media/sent/7a0ac34db7dc.mp3"
+    },
+    {
+     "en": "Tom puts his feet in the cold water.",
+     "zh": "Tom 把脚放进冷水里。",
+     "audio": "media/sent/c0e0aa877a2f.mp3"
+    },
+    {
+     "en": "Mum washes Tom's feet after the beach.",
+     "zh": "去完海滩妈妈给 Tom 洗脚。",
+     "audio": "media/sent/44c12f09e335.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/foot.webp",
+    "uk": "media/uk/foot.mp3",
+    "us": "media/us/foot.mp3"
+   },
+   "avoid": [
+    "back",
+    "leg"
+   ]
+  },
+  {
+   "id": "stomach",
+   "word": "stomach",
+   "zh": "胃；肚子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "胃；肚子"
+    }
+   ],
+   "ipa": "/ˈstʌmək/",
+   "chunks": [
+    "stom",
+    "ach"
+   ],
+   "emoji": "🫃",
+   "sentence": {
+    "en": "Tom's stomach is full after dinner.",
+    "zh": "晚饭后 Tom 的肚子饱了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom's stomach is full after dinner.",
+     "zh": "晚饭后 Tom 的肚子饱了。",
+     "audio": "media/sent/7b63ae306186.mp3"
+    },
+    {
+     "en": "Tom lies down and holds his stomach.",
+     "zh": "Tom 躺下，抱着肚子。",
+     "audio": "media/sent/00cb80c33731.mp3"
+    },
+    {
+     "en": "Is your stomach better now, Tom?",
+     "zh": "Tom，你的肚子好些了吗？",
+     "audio": "media/sent/74afcc64abf2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stomach.webp",
+    "uk": "media/uk/stomach.mp3",
+    "us": "media/us/stomach.mp3"
+   },
+   "avoid": [
+    "blood",
+    "brain",
+    "heart"
+   ]
+  },
+  {
+   "id": "heart",
+   "word": "heart",
+   "zh": "心脏；心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "心脏；心"
+    }
+   ],
+   "ipa": "/hɑːt/",
+   "chunks": [
+    "heart"
+   ],
+   "emoji": "❤️",
+   "sentence": {
+    "en": "Lily listens to Dad's heart.",
+    "zh": "Lily 听爸爸的心跳。"
+   },
+   "sentences": [
+    {
+     "en": "Lily listens to Dad's heart.",
+     "zh": "Lily 听爸爸的心跳。",
+     "audio": "media/sent/40b28bef9eb2.mp3"
+    },
+    {
+     "en": "My heart goes very fast after a run.",
+     "zh": "跑完步我的心跳得很快。",
+     "audio": "media/sent/e1f70321a5eb.mp3"
+    },
+    {
+     "en": "Tom draws a big red heart for Mum.",
+     "zh": "Tom 给妈妈画一颗红色的大心。",
+     "audio": "media/sent/7d270545b27a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/heart.webp",
+    "uk": "media/uk/heart.mp3",
+    "us": "media/us/heart.mp3"
+   },
+   "avoid": [
+    "blood",
+    "brain",
+    "stomach"
+   ]
+  },
+  {
+   "id": "brain",
+   "word": "brain",
+   "zh": "大脑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大脑"
+    }
+   ],
+   "ipa": "/breɪn/",
+   "chunks": [
+    "brain"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "Your brain helps you learn new words.",
+    "zh": "你的大脑帮你学新单词。"
+   },
+   "sentences": [
+    {
+     "en": "Your brain helps you learn new words.",
+     "zh": "你的大脑帮你学新单词。",
+     "audio": "media/sent/698d59fd48fc.mp3"
+    },
+    {
+     "en": "Lily's brain is busy at school.",
+     "zh": "Lily 在学校时大脑一直在动。",
+     "audio": "media/sent/d110d4d88102.mp3"
+    },
+    {
+     "en": "Sleep is good for Tom's brain.",
+     "zh": "睡觉对 Tom 的大脑有好处。",
+     "audio": "media/sent/d3b7290bf750.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/brain.webp",
+    "uk": "media/uk/brain.mp3",
+    "us": "media/us/brain.mp3"
+   },
+   "avoid": [
+    "blood",
+    "heart",
+    "stomach"
+   ]
+  },
+  {
+   "id": "blood",
+   "word": "blood",
+   "zh": "血",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "血"
+    }
+   ],
+   "ipa": "/blʌd/",
+   "chunks": [
+    "blood"
+   ],
+   "emoji": "🩸",
+   "sentence": {
+    "en": "The nurse takes a little blood from Dad.",
+    "zh": "护士取了一点爸爸的血去化验。"
+   },
+   "sentences": [
+    {
+     "en": "The nurse takes a little blood from Dad.",
+     "zh": "护士取了一点爸爸的血去化验。",
+     "audio": "media/sent/245189c50cf7.mp3"
+    },
+    {
+     "en": "Dad is not afraid of the blood test.",
+     "zh": "爸爸不怕这个血化验。",
+     "audio": "media/sent/d37990d37147.mp3"
+    },
+    {
+     "en": "There is a little blood on Tom's finger, but he is fine.",
+     "zh": "Tom 的手指上有一点血，不过他没事。",
+     "audio": "media/sent/1327429cb87c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/blood.webp",
+    "uk": "media/uk/blood.mp3",
+    "us": "media/us/blood.mp3"
+   },
+   "avoid": [
+    "brain",
+    "heart",
+    "stomach"
+   ]
+  },
+  {
+   "id": "health",
+   "word": "health",
+   "zh": "健康",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "健康"
+    }
+   ],
+   "ipa": "/helθ/",
+   "chunks": [
+    "health"
+   ],
+   "emoji": "💪",
+   "sentence": {
+    "en": "Fruit is good for your health.",
+    "zh": "水果对健康有好处。"
+   },
+   "sentences": [
+    {
+     "en": "Fruit is good for your health.",
+     "zh": "水果对健康有好处。",
+     "audio": "media/sent/264814610aaf.mp3"
+    },
+    {
+     "en": "Running and walking keep us healthy.",
+     "zh": "跑步和走路让我们保持健康。",
+     "audio": "media/sent/d6652d70112f.mp3"
+    },
+    {
+     "en": "Mum looks after our health every day.",
+     "zh": "妈妈每天照顾我们的健康。",
+     "audio": "media/sent/7da2c521008f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/health.webp",
+    "uk": "media/uk/health.mp3",
+    "us": "media/us/health.mp3"
+   },
+   "avoid": [
+    "exercise",
+    "fit",
+    "well"
+   ]
+  },
+  {
+   "id": "ill",
+   "word": "ill",
+   "zh": "生病的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "生病的"
+    }
+   ],
+   "ipa": "/ɪl/",
+   "chunks": [
+    "ill"
+   ],
+   "emoji": "🤒",
+   "sentence": {
+    "en": "Lily is ill today.",
+    "zh": "Lily 今天生病了。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is ill today.",
+     "zh": "Lily 今天生病了。",
+     "audio": "media/sent/08441b1b9070.mp3"
+    },
+    {
+     "en": "Tom was ill last week.",
+     "zh": "Tom 上星期生病了。",
+     "audio": "media/sent/adee052ca58e.mp3"
+    },
+    {
+     "en": "Grandma is ill, so we visit her.",
+     "zh": "奶奶生病了，所以我们去看她。",
+     "audio": "media/sent/6580acdae420.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ill.webp",
+    "uk": "media/uk/ill.mp3",
+    "us": "media/us/ill.mp3"
+   },
+   "avoid": [
+    "cold.2",
+    "sick",
+    "temperature"
+   ]
+  },
+  {
+   "id": "sick",
+   "word": "sick",
+   "zh": "生病的；恶心想吐",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "生病的；恶心想吐"
+    }
+   ],
+   "ipa": "/sɪk/",
+   "chunks": [
+    "sick"
+   ],
+   "emoji": "🤢",
+   "sentence": {
+    "en": "Tom feels sick.",
+    "zh": "Tom 觉得恶心。"
+   },
+   "sentences": [
+    {
+     "en": "Tom feels sick.",
+     "zh": "Tom 觉得恶心。",
+     "audio": "media/sent/a583e9f84587.mp3"
+    },
+    {
+     "en": "Mum feels sick in the car.",
+     "zh": "妈妈坐车会想吐。",
+     "audio": "media/sent/a3358230d82f.mp3"
+    },
+    {
+     "en": "When Tom is sick, Mum brings him soup.",
+     "zh": "Tom 生病时，妈妈给他端汤。",
+     "audio": "media/sent/f2c4944062fa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sick.webp",
+    "uk": "media/uk/sick.mp3",
+    "us": "media/us/sick.mp3"
+   },
+   "avoid": [
+    "cold.2",
+    "ill",
+    "temperature"
+   ]
+  },
+  {
+   "id": "pain",
+   "word": "pain",
+   "zh": "疼痛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "疼痛"
+    }
+   ],
+   "ipa": "/peɪn/",
+   "chunks": [
+    "pain"
+   ],
+   "emoji": "😖",
+   "sentence": {
+    "en": "Grandpa has a pain in his back.",
+    "zh": "爷爷的背疼。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa has a pain in his back.",
+     "zh": "爷爷的背疼。",
+     "audio": "media/sent/1e7d174d6730.mp3"
+    },
+    {
+     "en": "The pain is bad at night.",
+     "zh": "晚上疼得厉害。",
+     "audio": "media/sent/e4e46df32577.mp3"
+    },
+    {
+     "en": "The pain goes away quickly.",
+     "zh": "疼痛很快就消了。",
+     "audio": "media/sent/9e4cf7e535a3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pain.webp",
+    "uk": "media/uk/pain.mp3",
+    "us": "media/us/pain.mp3"
+   },
+   "avoid": [
+    "cut",
+    "hurt",
+    "stomach-ache",
+    "toothache"
+   ]
+  },
+  {
+   "id": "hurt",
+   "word": "hurt",
+   "zh": "受伤；疼",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "受伤；疼"
+    }
+   ],
+   "ipa": "/hɜːt/",
+   "chunks": [
+    "hurt"
+   ],
+   "emoji": "🤕",
+   "sentence": {
+    "en": "My leg hurts.",
+    "zh": "我的腿疼。"
+   },
+   "sentences": [
+    {
+     "en": "My leg hurts.",
+     "zh": "我的腿疼。",
+     "audio": "media/sent/a192b87df6e1.mp3"
+    },
+    {
+     "en": "Lily fell off her bike and hurt her leg.",
+     "zh": "Lily 从自行车上摔下来，伤了腿。",
+     "audio": "media/sent/5fde20d3dedd.mp3"
+    },
+    {
+     "en": "Did you hurt your arm, Tom?",
+     "zh": "Tom，你的胳膊受伤了吗？",
+     "audio": "media/sent/e720d360377c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hurt.webp",
+    "uk": "media/uk/hurt.mp3",
+    "us": "media/us/hurt.mp3"
+   },
+   "avoid": [
+    "accident",
+    "cut",
+    "fall",
+    "pain"
+   ]
+  },
+  {
+   "id": "stomach-ache",
+   "word": "stomach ache",
+   "zh": "肚子疼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "肚子疼"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "stom",
+    "ach",
+    "ache"
+   ],
+   "emoji": "😣",
+   "sentence": {
+    "en": "Tom has a stomach ache.",
+    "zh": "Tom 肚子疼。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a stomach ache.",
+     "zh": "Tom 肚子疼。",
+     "audio": "media/sent/83b2fee46360.mp3"
+    },
+    {
+     "en": "Lily has a bad stomach ache.",
+     "zh": "Lily 肚子疼得厉害。",
+     "audio": "media/sent/f42017a53f2f.mp3"
+    },
+    {
+     "en": "I have a stomach ache after too many sweets.",
+     "zh": "吃太多糖以后我肚子疼。",
+     "audio": "media/sent/a0ea455f1afb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stomach-ache.webp"
+   },
+   "avoid": [
+    "pain",
+    "toothache"
+   ]
+  },
+  {
+   "id": "toothache",
+   "word": "toothache",
+   "zh": "牙疼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牙疼"
+    }
+   ],
+   "ipa": "/ˈtuːθeɪk/",
+   "chunks": [
+    "tooth",
+    "ache"
+   ],
+   "emoji": "🦷",
+   "sentence": {
+    "en": "Tom has a bad toothache.",
+    "zh": "Tom 牙疼得厉害。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a bad toothache.",
+     "zh": "Tom 牙疼得厉害。",
+     "audio": "media/sent/2bc04d96b76e.mp3"
+    },
+    {
+     "en": "Lily goes to the dentist because of a toothache.",
+     "zh": "Lily 因为牙疼去看牙医。",
+     "audio": "media/sent/4a0be20ea888.mp3"
+    },
+    {
+     "en": "Too much sugar gives Lily a toothache.",
+     "zh": "太多糖让 Lily 牙疼。",
+     "audio": "media/sent/b9ddf695a9b1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toothache.webp",
+    "uk": "media/uk/toothache.mp3",
+    "us": "media/us/toothache.mp3"
+   },
+   "avoid": [
+    "pain",
+    "stomach-ache"
+   ]
+  },
+  {
+   "id": "temperature",
+   "word": "temperature",
+   "zh": "体温；温度",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体温"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "温度",
+     "en": "The temperature outside is low today."
+    }
+   ],
+   "ipa": "/ˈtemprətʃə/",
+   "chunks": [
+    "tem",
+    "per",
+    "a",
+    "ture"
+   ],
+   "emoji": "🌡️",
+   "sentence": {
+    "en": "Tom has a high temperature.",
+    "zh": "Tom 体温很高。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a high temperature.",
+     "zh": "Tom 体温很高。",
+     "audio": "media/sent/fe6fd17e774e.mp3"
+    },
+    {
+     "en": "Mum takes Tom's temperature twice a day.",
+     "zh": "妈妈一天给 Tom 量两次体温。",
+     "audio": "media/sent/7b5cdccc0ce9.mp3"
+    },
+    {
+     "en": "The temperature outside is low today.",
+     "zh": "今天外面的温度很低。",
+     "audio": "media/sent/0610cad615e2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/temperature.webp",
+    "uk": "media/uk/temperature.mp3",
+    "us": "media/us/temperature.mp3"
+   },
+   "avoid": [
+    "check",
+    "cold.2",
+    "ill",
+    "medicine",
+    "sick"
+   ]
+  },
+  {
+   "id": "cold",
+   "word": "cold",
+   "zh": "冷的；寒冷",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "冷的；寒冷"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "感冒",
+     "en": "Tom has a cold."
+    }
+   ],
+   "ipa": "/kəʊld/",
+   "chunks": [
+    "cold"
+   ],
+   "emoji": "🥶",
+   "sentence": {
+    "en": "Wear warm clothes. It's cold outside.",
+    "zh": "穿暖和的衣服，外面很冷。"
+   },
+   "sentences": [
+    {
+     "en": "Wear warm clothes. It's cold outside.",
+     "zh": "穿暖和的衣服，外面很冷。",
+     "audio": "media/sent/e85b287de8bf.mp3"
+    },
+    {
+     "en": "It's cold in the morning.",
+     "zh": "早上很冷。",
+     "audio": "media/sent/31ec34123d61.mp3"
+    },
+    {
+     "en": "Tom's hands are cold.",
+     "zh": "Tom 的手很冷。",
+     "audio": "media/sent/6fe2456e2b81.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cold.webp",
+    "uk": "media/uk/cold.mp3",
+    "us": "media/us/cold.mp3"
+   },
+   "avoid": [
+    "cold.2"
+   ]
+  },
+  {
+   "id": "cold.2",
+   "word": "cold",
+   "zh": "感冒",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "感冒"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "冷的；寒冷"
+    }
+   ],
+   "ipa": "/kəʊld/",
+   "chunks": [
+    "cold"
+   ],
+   "emoji": "🤧",
+   "sentence": {
+    "en": "Tom has a cold.",
+    "zh": "Tom 感冒了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a cold.",
+     "zh": "Tom 感冒了。",
+     "audio": "media/sent/6bef679605a0.mp3"
+    },
+    {
+     "en": "Lily has a cold, so she stays at home.",
+     "zh": "Lily 感冒了，所以她待在家里。",
+     "audio": "media/sent/a65b67798090.mp3"
+    },
+    {
+     "en": "Tom's cold goes away in two days.",
+     "zh": "Tom 的感冒两天就好了。",
+     "audio": "media/sent/844b158b6695.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cold.2.webp",
+    "uk": "media/uk/cold.mp3",
+    "us": "media/us/cold.mp3"
+   },
+   "of": "cold",
+   "ofZh": "冷的；寒冷",
+   "avoid": [
+    "cold",
+    "ill",
+    "sick",
+    "temperature"
+   ]
+  },
+  {
+   "id": "medicine",
+   "word": "medicine",
+   "zh": "药",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "药"
+    }
+   ],
+   "ipa": "/ˈmedɪsən/",
+   "chunks": [
+    "med",
+    "i",
+    "cine"
+   ],
+   "emoji": "💊",
+   "sentence": {
+    "en": "Tom takes his medicine with water.",
+    "zh": "Tom 用水把药吞下去。"
+   },
+   "sentences": [
+    {
+     "en": "Tom takes his medicine with water.",
+     "zh": "Tom 用水把药吞下去。",
+     "audio": "media/sent/5be7d6bf0a71.mp3"
+    },
+    {
+     "en": "Mum gives Tom some medicine.",
+     "zh": "妈妈给 Tom 吃些药。",
+     "audio": "media/sent/94578fd1e263.mp3"
+    },
+    {
+     "en": "The medicine is sweet.",
+     "zh": "这药是甜的。",
+     "audio": "media/sent/d442ae63cd05.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/medicine.webp",
+    "uk": "media/uk/medicine.mp3",
+    "us": "media/us/medicine.mp3"
+   },
+   "avoid": [
+    "check",
+    "temperature"
+   ]
+  },
+  {
+   "id": "doctor",
+   "word": "doctor",
+   "zh": "医生",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "医生"
+    }
+   ],
+   "ipa": "/ˈdɒk.tə/",
+   "chunks": [
+    "doc",
+    "tor"
+   ],
+   "emoji": "🩺",
+   "sentence": {
+    "en": "Mum takes Tom to the doctor.",
+    "zh": "妈妈带 Tom 去看医生。"
+   },
+   "sentences": [
+    {
+     "en": "Mum takes Tom to the doctor.",
+     "zh": "妈妈带 Tom 去看医生。",
+     "audio": "media/sent/296178c32470.mp3"
+    },
+    {
+     "en": "The doctor helps you get better.",
+     "zh": "医生帮你好起来。",
+     "audio": "media/sent/0fb7b7a8c20e.mp3"
+    },
+    {
+     "en": "Lily wants to be a doctor.",
+     "zh": "Lily 想当医生。",
+     "audio": "media/sent/274b4645afa7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/doctor.webp",
+    "uk": "media/uk/doctor.mp3",
+    "us": "media/us/doctor.mp3"
+   },
+   "avoid": [
+    "dentist",
+    "dr",
+    "nurse"
+   ]
+  },
+  {
+   "id": "dr",
+   "word": "Dr",
+   "zh": "医生（称呼）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "医生（称呼）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "Dr"
+   ],
+   "emoji": "👩‍⚕️",
+   "sentence": {
+    "en": "Dr Brown is very kind.",
+    "zh": "Brown 医生很和蔼。"
+   },
+   "sentences": [
+    {
+     "en": "Dr Brown is very kind.",
+     "zh": "Brown 医生很和蔼。",
+     "audio": "media/sent/d1c74c79e30e.mp3"
+    },
+    {
+     "en": "We see Dr Brown at eight.",
+     "zh": "我们八点去看 Brown 医生。",
+     "audio": "media/sent/0f81ba66b889.mp3"
+    },
+    {
+     "en": "Dr Brown helps Grandma.",
+     "zh": "Brown 医生帮助奶奶。",
+     "audio": "media/sent/c0abae686d6d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dr.webp"
+   },
+   "avoid": [
+    "dentist",
+    "doctor",
+    "nurse"
+   ]
+  },
+  {
+   "id": "nurse",
+   "word": "nurse",
+   "zh": "护士",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "护士"
+    }
+   ],
+   "ipa": "/nɜːs/",
+   "chunks": [
+    "nurse"
+   ],
+   "emoji": "💉",
+   "sentence": {
+    "en": "The nurse takes Tom's temperature.",
+    "zh": "护士给 Tom 量体温。"
+   },
+   "sentences": [
+    {
+     "en": "The nurse takes Tom's temperature.",
+     "zh": "护士给 Tom 量体温。",
+     "audio": "media/sent/0ff6bb9faf96.mp3"
+    },
+    {
+     "en": "A nurse works in the hospital.",
+     "zh": "护士在医院里工作。",
+     "audio": "media/sent/cc9795f85055.mp3"
+    },
+    {
+     "en": "The nurse helps you get well.",
+     "zh": "护士帮你好起来。",
+     "audio": "media/sent/36f68bd4c760.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nurse.webp",
+    "uk": "media/uk/nurse.mp3",
+    "us": "media/us/nurse.mp3"
+   },
+   "avoid": [
+    "dentist",
+    "doctor",
+    "dr"
+   ]
+  },
+  {
+   "id": "dentist",
+   "word": "dentist",
+   "zh": "牙医",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牙医"
+    }
+   ],
+   "ipa": "/ˈdentɪst/",
+   "chunks": [
+    "den",
+    "tist"
+   ],
+   "emoji": "😬",
+   "sentence": {
+    "en": "We see the dentist twice a year.",
+    "zh": "我们一年看两次牙医。"
+   },
+   "sentences": [
+    {
+     "en": "We see the dentist twice a year.",
+     "zh": "我们一年看两次牙医。",
+     "audio": "media/sent/cccf083fd386.mp3"
+    },
+    {
+     "en": "Tom is not afraid of the dentist.",
+     "zh": "Tom 不怕牙医。",
+     "audio": "media/sent/9014f5361027.mp3"
+    },
+    {
+     "en": "The dentist looks at Lily's teeth.",
+     "zh": "牙医看看 Lily 的牙齿。",
+     "audio": "media/sent/0b3b710ef66c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dentist.webp",
+    "uk": "media/uk/dentist.mp3",
+    "us": "media/us/dentist.mp3"
+   },
+   "avoid": [
+    "doctor",
+    "dr",
+    "nurse"
+   ]
+  },
+  {
+   "id": "chemist",
+   "word": "chemist",
+   "zh": "药店（英式）；药剂师",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "药店（英式）；药剂师"
+    }
+   ],
+   "ipa": "/ˈkemɪst/",
+   "chunks": [
+    "chem",
+    "ist"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "Mum buys medicine at the chemist's.",
+    "zh": "妈妈在药店买药。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys medicine at the chemist's.",
+     "zh": "妈妈在药店买药。",
+     "audio": "media/sent/75b05ca033d3.mp3"
+    },
+    {
+     "en": "The chemist is near our house.",
+     "zh": "药店在我们家附近。",
+     "audio": "media/sent/4a147229c286.mp3"
+    },
+    {
+     "en": "The chemist helps Mum.",
+     "zh": "药剂师帮了妈妈的忙。",
+     "audio": "media/sent/d06273bb7715.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chemist.webp",
+    "uk": "media/uk/chemist.mp3",
+    "us": "media/us/chemist.mp3"
+   },
+   "avoid": [
+    "ambulance",
+    "hospital"
+   ]
+  },
+  {
+   "id": "hospital",
+   "word": "hospital",
+   "zh": "医院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "医院"
+    }
+   ],
+   "ipa": "/ˈhɒspɪtl/",
+   "chunks": [
+    "hos",
+    "pi",
+    "tal"
+   ],
+   "emoji": "🏥",
+   "sentence": {
+    "en": "Grandma is in hospital.",
+    "zh": "奶奶在医院里。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma is in hospital.",
+     "zh": "奶奶在医院里。",
+     "audio": "media/sent/be5fd6b2c3ff.mp3"
+    },
+    {
+     "en": "Mum works in a hospital.",
+     "zh": "妈妈在医院工作。",
+     "audio": "media/sent/d38419e97178.mp3"
+    },
+    {
+     "en": "Lily and Tom visit Grandma in hospital.",
+     "zh": "Lily 和 Tom 去医院看奶奶。",
+     "audio": "media/sent/d2fbdd0a2574.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hospital.webp",
+    "uk": "media/uk/hospital.mp3",
+    "us": "media/us/hospital.mp3"
+   },
+   "avoid": [
+    "ambulance",
+    "chemist"
+   ]
+  },
+  {
+   "id": "ambulance",
+   "word": "ambulance",
+   "zh": "救护车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "救护车"
+    }
+   ],
+   "ipa": "/ˈæmbjələns/",
+   "chunks": [
+    "am",
+    "bu",
+    "lance"
+   ],
+   "emoji": "🚑",
+   "sentence": {
+    "en": "The ambulance is white and yellow.",
+    "zh": "救护车是白色和黄色的。"
+   },
+   "sentences": [
+    {
+     "en": "The ambulance is white and yellow.",
+     "zh": "救护车是白色和黄色的。",
+     "audio": "media/sent/b7eccc24a917.mp3"
+    },
+    {
+     "en": "Listen! An ambulance is coming.",
+     "zh": "听！救护车来了。",
+     "audio": "media/sent/0c112dc4339b.mp3"
+    },
+    {
+     "en": "An ambulance can go very fast.",
+     "zh": "救护车可以开得很快。",
+     "audio": "media/sent/af238dd11bcb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ambulance.webp",
+    "uk": "media/uk/ambulance.mp3",
+    "us": "media/us/ambulance.mp3"
+   },
+   "avoid": [
+    "chemist",
+    "hospital"
+   ]
+  },
+  {
+   "id": "appointment",
+   "word": "appointment",
+   "zh": "预约",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "预约"
+    }
+   ],
+   "ipa": "/əˈpɔɪntmənt/",
+   "chunks": [
+    "ap",
+    "point",
+    "ment"
+   ],
+   "emoji": "📅",
+   "sentence": {
+    "en": "Tom has an appointment with the dentist.",
+    "zh": "Tom 约了牙医。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has an appointment with the dentist.",
+     "zh": "Tom 约了牙医。",
+     "audio": "media/sent/c8ae780cc14e.mp3"
+    },
+    {
+     "en": "Mum calls to make an appointment.",
+     "zh": "妈妈打电话预约。",
+     "audio": "media/sent/933b9fb52e7a.mp3"
+    },
+    {
+     "en": "Tom's appointment is at two o'clock.",
+     "zh": "Tom 的预约在两点钟。",
+     "audio": "media/sent/e10a7ea16435.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/appointment.webp",
+    "uk": "media/uk/appointment.mp3",
+    "us": "media/us/appointment.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "accident",
+   "word": "accident",
+   "zh": "事故；意外",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "事故；意外"
+    }
+   ],
+   "ipa": "/ˈæksɪdənt/",
+   "chunks": [
+    "ac",
+    "ci",
+    "dent"
+   ],
+   "emoji": "😅",
+   "sentence": {
+    "en": "Tom drops a glass of milk by accident.",
+    "zh": "Tom 不小心打翻了一杯牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Tom drops a glass of milk by accident.",
+     "zh": "Tom 不小心打翻了一杯牛奶。",
+     "audio": "media/sent/55754d0e6bee.mp3"
+    },
+    {
+     "en": "Lily has an accident on her bike.",
+     "zh": "Lily 骑自行车时出了意外。",
+     "audio": "media/sent/3fbcc82294d9.mp3"
+    },
+    {
+     "en": "It was a small accident, and nobody was hurt.",
+     "zh": "那是个小意外，没有人受伤。",
+     "audio": "media/sent/2dfd2e0d0643.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/accident.webp",
+    "uk": "media/uk/accident.mp3",
+    "us": "media/us/accident.mp3"
+   },
+   "avoid": [
+    "danger",
+    "dangerous",
+    "fall",
+    "hurt"
+   ]
+  },
+  {
+   "id": "toothbrush",
+   "word": "toothbrush",
+   "zh": "牙刷",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牙刷"
+    }
+   ],
+   "ipa": "/ˈtuːθbrʌʃ/",
+   "chunks": [
+    "tooth",
+    "brush"
+   ],
+   "emoji": "🪥",
+   "sentence": {
+    "en": "Lily's toothbrush is blue and green.",
+    "zh": "Lily 的牙刷是蓝绿相间的。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's toothbrush is blue and green.",
+     "zh": "Lily 的牙刷是蓝绿相间的。",
+     "audio": "media/sent/d71c0e8f8ee3.mp3"
+    },
+    {
+     "en": "Tom puts his toothbrush in the cup.",
+     "zh": "Tom 把牙刷放在杯子里。",
+     "audio": "media/sent/f2c4a767d6c6.mp3"
+    },
+    {
+     "en": "Brush your teeth with your toothbrush, Tom!",
+     "zh": "Tom，用你的牙刷刷牙！",
+     "audio": "media/sent/75a218f9b171.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toothbrush.webp",
+    "uk": "media/uk/toothbrush.mp3",
+    "us": "media/us/toothbrush.mp3"
+   },
+   "avoid": [
+    "comb",
+    "soap"
+   ]
+  },
+  {
+   "id": "soap",
+   "word": "soap",
+   "zh": "肥皂",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "肥皂"
+    }
+   ],
+   "ipa": "/səʊp/",
+   "chunks": [
+    "soap"
+   ],
+   "emoji": "🧼",
+   "sentence": {
+    "en": "Wash your hands with soap, Tom!",
+    "zh": "Tom，用肥皂洗手！"
+   },
+   "sentences": [
+    {
+     "en": "Wash your hands with soap, Tom!",
+     "zh": "Tom，用肥皂洗手！",
+     "audio": "media/sent/913425f81241.mp3"
+    },
+    {
+     "en": "Mum buys soap at the shop.",
+     "zh": "妈妈在商店买肥皂。",
+     "audio": "media/sent/3d6d06414204.mp3"
+    },
+    {
+     "en": "The soap is next to the sink.",
+     "zh": "肥皂在水池旁边。",
+     "audio": "media/sent/37ee076466ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/soap.webp",
+    "uk": "media/uk/soap.mp3",
+    "us": "media/us/soap.mp3"
+   },
+   "avoid": [
+    "comb",
+    "toothbrush"
+   ]
+  },
+  {
+   "id": "comb",
+   "word": "comb",
+   "zh": "梳子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "梳子"
+    }
+   ],
+   "ipa": "/kəʊm/",
+   "chunks": [
+    "comb"
+   ],
+   "emoji": "🪮",
+   "sentence": {
+    "en": "Where is my comb, Mum?",
+    "zh": "妈妈，我的梳子在哪儿？"
+   },
+   "sentences": [
+    {
+     "en": "Where is my comb, Mum?",
+     "zh": "妈妈，我的梳子在哪儿？",
+     "audio": "media/sent/b0be7d743a34.mp3"
+    },
+    {
+     "en": "Lily has a new pink comb.",
+     "zh": "Lily 有一把新的粉色梳子。",
+     "audio": "media/sent/97f998163880.mp3"
+    },
+    {
+     "en": "Use a clean comb, Tom.",
+     "zh": "Tom，用一把干净的梳子。",
+     "audio": "media/sent/5714f0aab941.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/comb.webp",
+    "uk": "media/uk/comb.mp3",
+    "us": "media/us/comb.mp3"
+   },
+   "avoid": [
+    "soap",
+    "toothbrush"
+   ]
+  },
+  {
+   "id": "clean",
+   "word": "clean",
+   "zh": "干净的；打扫；弄干净",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "干净的",
+     "en": "Tom's hands are clean."
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "打扫；弄干净",
+     "en": "Lily helps Mum clean the kitchen."
+    }
+   ],
+   "ipa": "/kliːn/",
+   "chunks": [
+    "clean"
+   ],
+   "emoji": "✨",
+   "sentence": {
+    "en": "Tom's hands are clean.",
+    "zh": "Tom 的手很干净。"
+   },
+   "sentences": [
+    {
+     "en": "Tom's hands are clean.",
+     "zh": "Tom 的手很干净。",
+     "audio": "media/sent/a99e47124228.mp3"
+    },
+    {
+     "en": "Lily helps Mum clean the kitchen.",
+     "zh": "Lily 帮妈妈打扫厨房。",
+     "audio": "media/sent/a8c74aac1f94.mp3"
+    },
+    {
+     "en": "Mum cleans the table after dinner.",
+     "zh": "妈妈晚饭后擦桌子。",
+     "audio": "media/sent/70145b18b32f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clean.webp",
+    "uk": "media/uk/clean.mp3",
+    "us": "media/us/clean.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "exercise",
+   "word": "exercise",
+   "zh": "锻炼；练习",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "锻炼；练习"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "锻炼",
+     "en": "Lily exercises every morning with Dad."
+    }
+   ],
+   "ipa": "/ˈeksəsaɪz/",
+   "chunks": [
+    "ex",
+    "er",
+    "cise"
+   ],
+   "emoji": "🤸",
+   "sentence": {
+    "en": "Exercise is good for children.",
+    "zh": "锻炼对孩子有好处。"
+   },
+   "sentences": [
+    {
+     "en": "Exercise is good for children.",
+     "zh": "锻炼对孩子有好处。",
+     "audio": "media/sent/5b216893b9ac.mp3"
+    },
+    {
+     "en": "Lily exercises every morning with Dad.",
+     "zh": "Lily 每天早上和爸爸一起锻炼。",
+     "audio": "media/sent/7008c548b825.mp3"
+    },
+    {
+     "en": "Grandpa does his exercises in the garden.",
+     "zh": "爷爷在花园里做他的练习。",
+     "audio": "media/sent/996bf9638459.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/exercise.webp",
+    "uk": "media/uk/exercise.mp3",
+    "us": "media/us/exercise.mp3"
+   },
+   "avoid": [
+    "fit",
+    "health",
+    "well"
+   ]
+  },
+  {
+   "id": "fit",
+   "word": "fit",
+   "zh": "健康的；强壮的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "健康的；强壮的"
+    }
+   ],
+   "ipa": "/fɪt/",
+   "chunks": [
+    "fit"
+   ],
+   "emoji": "💪",
+   "sentence": {
+    "en": "Grandpa runs every day, so he is very fit.",
+    "zh": "爷爷每天跑步，所以他很健康。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa runs every day, so he is very fit.",
+     "zh": "爷爷每天跑步，所以他很健康。",
+     "audio": "media/sent/7147f8361099.mp3"
+    },
+    {
+     "en": "Swimming keeps Lily fit.",
+     "zh": "游泳让 Lily 保持健康。",
+     "audio": "media/sent/7b77a9eeb044.mp3"
+    },
+    {
+     "en": "Mum is fit and strong.",
+     "zh": "妈妈身体健康，很强壮。",
+     "audio": "media/sent/b1f1b9473afc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fit.webp",
+    "uk": "media/uk/fit.mp3",
+    "us": "media/us/fit.mp3"
+   },
+   "avoid": [
+    "exercise",
+    "health",
+    "well"
+   ]
+  },
+  {
+   "id": "well",
+   "word": "well",
+   "zh": "身体好的；很好地",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "身体好的；健康的",
+     "en": "I don't feel well."
+    },
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "好；很好地",
+     "en": "Lily sings very well."
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "well"
+   ],
+   "emoji": "😊",
+   "sentence": {
+    "en": "I don't feel well.",
+    "zh": "我感觉不舒服。"
+   },
+   "sentences": [
+    {
+     "en": "I don't feel well.",
+     "zh": "我感觉不舒服。",
+     "audio": "media/sent/82d2d35ccbd0.mp3"
+    },
+    {
+     "en": "Lily sings very well.",
+     "zh": "Lily 唱歌唱得很好。",
+     "audio": "media/sent/cc4e9ee71691.mp3"
+    },
+    {
+     "en": "Are you well today, Grandma?",
+     "zh": "Grandma，你今天身体好吗？",
+     "audio": "media/sent/63748bec2222.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/well.webp"
+   },
+   "avoid": [
+    "exercise",
+    "fit",
+    "health"
+   ]
+  },
+  {
+   "id": "feel",
+   "word": "feel",
+   "zh": "感觉；觉得",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "感觉；觉得"
+    }
+   ],
+   "ipa": "/fiːl/",
+   "chunks": [
+    "feel"
+   ],
+   "emoji": "😥",
+   "sentence": {
+    "en": "How do you feel today, Tom?",
+    "zh": "Tom，你今天感觉怎么样？"
+   },
+   "sentences": [
+    {
+     "en": "How do you feel today, Tom?",
+     "zh": "Tom，你今天感觉怎么样？",
+     "audio": "media/sent/7fc21b55c252.mp3"
+    },
+    {
+     "en": "I feel ill today.",
+     "zh": "我今天觉得不舒服。",
+     "audio": "media/sent/807225609b00.mp3"
+    },
+    {
+     "en": "Mum feels better now.",
+     "zh": "妈妈现在感觉好多了。",
+     "audio": "media/sent/a47a7374544f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/feel.webp",
+    "uk": "media/uk/feel.mp3",
+    "us": "media/us/feel.mp3"
+   },
+   "avoid": [
+    "check",
+    "hear"
+   ]
+  },
+  {
+   "id": "hear",
+   "word": "hear",
+   "zh": "听见",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "听见"
+    }
+   ],
+   "ipa": "/hɪə/",
+   "chunks": [
+    "hear"
+   ],
+   "emoji": "👂",
+   "sentence": {
+    "en": "I can hear a bird.",
+    "zh": "我能听见一只鸟在叫。"
+   },
+   "sentences": [
+    {
+     "en": "I can hear a bird.",
+     "zh": "我能听见一只鸟在叫。",
+     "audio": "media/sent/498e3bdfbae1.mp3"
+    },
+    {
+     "en": "Can you hear the music, Tom?",
+     "zh": "Tom，你能听见音乐吗？",
+     "audio": "media/sent/ae0ac076438d.mp3"
+    },
+    {
+     "en": "We can hear Max at the door.",
+     "zh": "我们能听见 Max 在门口。",
+     "audio": "media/sent/5ee36f51dda4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hear.webp",
+    "uk": "media/uk/hear.mp3",
+    "us": "media/us/hear.mp3"
+   },
+   "avoid": [
+    "check",
+    "feel"
+   ]
+  },
+  {
+   "id": "check",
+   "word": "check",
+   "zh": "检查；核对",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "检查；核对"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "check"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "The doctor checks my ears.",
+    "zh": "医生检查我的耳朵。"
+   },
+   "sentences": [
+    {
+     "en": "The doctor checks my ears.",
+     "zh": "医生检查我的耳朵。",
+     "audio": "media/sent/84aae57d0b1b.mp3"
+    },
+    {
+     "en": "Let's check the bike before we go.",
+     "zh": "我们出门前先检查一下自行车。",
+     "audio": "media/sent/783117d02ed2.mp3"
+    },
+    {
+     "en": "Mum checks Tom's temperature twice a day.",
+     "zh": "妈妈一天给 Tom 量两次体温。",
+     "audio": "media/sent/6d4f1d498ebc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/check.webp"
+   },
+   "avoid": [
+    "feel",
+    "hear",
+    "medicine",
+    "temperature"
+   ]
+  },
+  {
+   "id": "fall",
+   "word": "fall",
+   "zh": "摔倒；落下",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "摔倒；落下",
+     "en": "Tom falls off his bike."
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "摔倒；跌落",
+     "en": "Lily had a small fall, but she is fine."
+    }
+   ],
+   "ipa": "/fɔːl/",
+   "chunks": [
+    "fall"
+   ],
+   "emoji": "🍂",
+   "sentence": {
+    "en": "Tom falls off his bike.",
+    "zh": "Tom 从自行车上摔下来。"
+   },
+   "sentences": [
+    {
+     "en": "Tom falls off his bike.",
+     "zh": "Tom 从自行车上摔下来。",
+     "audio": "media/sent/cb44bde24837.mp3"
+    },
+    {
+     "en": "Leaves fall in autumn.",
+     "zh": "树叶在秋天落下。",
+     "audio": "media/sent/a74eebad8484.mp3"
+    },
+    {
+     "en": "Lily had a small fall, but she is fine.",
+     "zh": "Lily 摔了一小跤，但她没事。",
+     "audio": "media/sent/793b1dfd1f45.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fall.webp",
+    "uk": "media/uk/fall.mp3",
+    "us": "media/us/fall.mp3"
+   },
+   "avoid": [
+    "accident",
+    "hurt"
+   ]
+  },
+  {
+   "id": "lie-down",
+   "word": "lie down",
+   "zh": "躺下",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "躺下"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "lie",
+    "down"
+   ],
+   "emoji": "🛌",
+   "sentence": {
+    "en": "Lie down and rest, Tom.",
+    "zh": "Tom，躺下休息吧。"
+   },
+   "sentences": [
+    {
+     "en": "Lie down and rest, Tom.",
+     "zh": "Tom，躺下休息吧。",
+     "audio": "media/sent/a334e516d71d.mp3"
+    },
+    {
+     "en": "Tom lies down on the sofa.",
+     "zh": "Tom 躺在沙发上。",
+     "audio": "media/sent/7bb8c64940d2.mp3"
+    },
+    {
+     "en": "Mum lies down for an hour.",
+     "zh": "妈妈躺一个小时。",
+     "audio": "media/sent/861c7473bbb7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lie-down.webp"
+   },
+   "avoid": [
+    "break",
+    "rest",
+    "tired"
+   ]
+  },
+  {
+   "id": "rest",
+   "word": "rest",
+   "zh": "休息",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "休息"
+    }
+   ],
+   "ipa": "/rest/",
+   "chunks": [
+    "rest"
+   ],
+   "emoji": "😴",
+   "sentence": {
+    "en": "You are tired. Have a rest.",
+    "zh": "你累了，休息一下。"
+   },
+   "sentences": [
+    {
+     "en": "You are tired. Have a rest.",
+     "zh": "你累了，休息一下。",
+     "audio": "media/sent/b74302005293.mp3"
+    },
+    {
+     "en": "Lily rests on the sofa for an hour.",
+     "zh": "Lily 在沙发上休息一个小时。",
+     "audio": "media/sent/9a9ad08de4ad.mp3"
+    },
+    {
+     "en": "Rest helps your body get better.",
+     "zh": "休息帮助你的身体好起来。",
+     "audio": "media/sent/da98c900596a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rest.webp",
+    "uk": "media/uk/rest.mp3",
+    "us": "media/us/rest.mp3"
+   },
+   "avoid": [
+    "break",
+    "lie-down",
+    "tired"
+   ]
+  },
+  {
+   "id": "run",
+   "word": "run",
+   "zh": "跑",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "跑"
+    }
+   ],
+   "ipa": "/rʌn/",
+   "chunks": [
+    "run"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Grandpa runs every morning to stay fit.",
+    "zh": "爷爷每天早上跑步来保持健康。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa runs every morning to stay fit.",
+     "zh": "爷爷每天早上跑步来保持健康。",
+     "audio": "media/sent/b8c345da503c.mp3"
+    },
+    {
+     "en": "I run with Sam twice a week.",
+     "zh": "我一周和 Sam 跑两次步。",
+     "audio": "media/sent/c1669b425e65.mp3"
+    },
+    {
+     "en": "Running is good for your heart.",
+     "zh": "跑步对你的心脏有好处。",
+     "audio": "media/sent/2991e1020176.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/run.webp",
+    "uk": "media/uk/run.mp3",
+    "us": "media/us/run.mp3"
+   },
+   "avoid": [
+    "swim",
+    "walk"
+   ]
+  },
+  {
+   "id": "swim",
+   "word": "swim",
+   "zh": "游泳",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "游泳"
+    }
+   ],
+   "ipa": "/swɪm/",
+   "chunks": [
+    "swim"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Lily swims twice a week.",
+    "zh": "Lily 一周游泳两次。"
+   },
+   "sentences": [
+    {
+     "en": "Lily swims twice a week.",
+     "zh": "Lily 一周游泳两次。",
+     "audio": "media/sent/eedceb0bd3c8.mp3"
+    },
+    {
+     "en": "We swim in the pool with Dad.",
+     "zh": "我们和爸爸在泳池里游泳。",
+     "audio": "media/sent/2de05e5f24d2.mp3"
+    },
+    {
+     "en": "Swimming is good exercise.",
+     "zh": "游泳是很好的锻炼。",
+     "audio": "media/sent/91ca48ed250b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swim.webp",
+    "uk": "media/uk/swim.mp3",
+    "us": "media/us/swim.mp3"
+   },
+   "avoid": [
+    "run",
+    "walk"
+   ]
+  },
+  {
+   "id": "walk",
+   "word": "walk",
+   "zh": "散步；走",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "散步；走"
+    }
+   ],
+   "ipa": "/wɔːk/",
+   "chunks": [
+    "walk"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Lily walks to school every morning.",
+    "zh": "Lily 每天早上走路上学。"
+   },
+   "sentences": [
+    {
+     "en": "Lily walks to school every morning.",
+     "zh": "Lily 每天早上走路上学。",
+     "audio": "media/sent/77d61e7ef55e.mp3"
+    },
+    {
+     "en": "Grandpa and Dad walk in the park.",
+     "zh": "爷爷和爸爸在公园里散步。",
+     "audio": "media/sent/1cf34e20884d.mp3"
+    },
+    {
+     "en": "A short walk every day is good for you.",
+     "zh": "每天走一小段路对你有好处。",
+     "audio": "media/sent/1cdf981cb929.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/walk.webp",
+    "uk": "media/uk/walk.mp3",
+    "us": "media/us/walk.mp3"
+   },
+   "avoid": [
+    "run",
+    "swim"
+   ]
+  },
+  {
+   "id": "tired",
+   "word": "tired",
+   "zh": "累的；疲倦的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "累的；疲倦的"
+    }
+   ],
+   "ipa": "/ˈtaɪəd/",
+   "chunks": [
+    "tired"
+   ],
+   "emoji": "🥱",
+   "sentence": {
+    "en": "Tom is tired after his swim.",
+    "zh": "Tom 游泳后累了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is tired after his swim.",
+     "zh": "Tom 游泳后累了。",
+     "audio": "media/sent/cf6c23a10827.mp3"
+    },
+    {
+     "en": "I feel tired and I need a rest.",
+     "zh": "我觉得累，需要休息。",
+     "audio": "media/sent/2b532ec5e5e2.mp3"
+    },
+    {
+     "en": "Mum is tired in the evening, but happy.",
+     "zh": "妈妈晚上很累，但很开心。",
+     "audio": "media/sent/ae33b982a482.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tired.webp",
+    "uk": "media/uk/tired.mp3",
+    "us": "media/us/tired.mp3"
+   },
+   "avoid": [
+    "break",
+    "lie-down",
+    "rest"
+   ]
+  },
+  {
+   "id": "break",
+   "word": "break",
+   "zh": "课间休息；休息",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "课间休息；休息"
+    }
+   ],
+   "ipa": "/breɪk/",
+   "chunks": [
+    "break"
+   ],
+   "emoji": "⏸️",
+   "sentence": {
+    "en": "Take a break if you feel tired.",
+    "zh": "如果觉得累，就休息一下。"
+   },
+   "sentences": [
+    {
+     "en": "Take a break if you feel tired.",
+     "zh": "如果觉得累，就休息一下。",
+     "audio": "media/sent/bb6bbe83ba25.mp3"
+    },
+    {
+     "en": "We have a break after twenty minutes.",
+     "zh": "二十分钟后我们休息一下。",
+     "audio": "media/sent/c81d51f6da10.mp3"
+    },
+    {
+     "en": "A short break helps Lily learn better.",
+     "zh": "短暂的休息让 Lily 学得更认真。",
+     "audio": "media/sent/b7dd84d8f920.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/break.webp",
+    "uk": "media/uk/break.mp3",
+    "us": "media/us/break.mp3"
+   },
+   "avoid": [
+    "lie-down",
+    "rest",
+    "tired"
+   ]
+  },
+  {
+   "id": "cut",
+   "word": "cut",
+   "zh": "切；割破",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "切；割破"
+    }
+   ],
+   "ipa": "/kʌt/",
+   "chunks": [
+    "cut"
+   ],
+   "emoji": "🩹",
+   "sentence": {
+    "en": "I have a small cut on my finger.",
+    "zh": "我手指上有一个小口子。"
+   },
+   "sentences": [
+    {
+     "en": "I have a small cut on my finger.",
+     "zh": "我手指上有一个小口子。",
+     "audio": "media/sent/5c47fec539d2.mp3"
+    },
+    {
+     "en": "Tom cuts his finger with a knife.",
+     "zh": "Tom 用刀割破了手指。",
+     "audio": "media/sent/c5cc91658fcc.mp3"
+    },
+    {
+     "en": "The cut is small, and it is better now.",
+     "zh": "口子很小，现在已经好多了。",
+     "audio": "media/sent/42ed786b3efe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cut.webp",
+    "uk": "media/uk/cut.mp3",
+    "us": "media/us/cut.mp3"
+   },
+   "avoid": [
+    "hurt",
+    "pain"
+   ]
+  },
+  {
+   "id": "danger",
+   "word": "danger",
+   "zh": "危险",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "危险"
+    }
+   ],
+   "ipa": "/ˈdeɪndʒə/",
+   "chunks": [
+    "dan",
+    "ger"
+   ],
+   "emoji": "⚠️",
+   "sentence": {
+    "en": "Max runs to Lily when he sees danger.",
+    "zh": "Max 一看到危险就跑到 Lily 身边。"
+   },
+   "sentences": [
+    {
+     "en": "Max runs to Lily when he sees danger.",
+     "zh": "Max 一看到危险就跑到 Lily 身边。",
+     "audio": "media/sent/73d3864d0ab1.mp3"
+    },
+    {
+     "en": "Lily learns about danger at school.",
+     "zh": "Lily 在学校学习怎样面对危险。",
+     "audio": "media/sent/14c6ccba5112.mp3"
+    },
+    {
+     "en": "Grandpa tells us about the danger of fire.",
+     "zh": "爷爷给我们讲火的危险。",
+     "audio": "media/sent/7b8bf18b27cc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/danger.webp",
+    "uk": "media/uk/danger.mp3",
+    "us": "media/us/danger.mp3"
+   },
+   "avoid": [
+    "accident",
+    "dangerous"
+   ]
+  },
+  {
+   "id": "dangerous",
+   "word": "dangerous",
+   "zh": "危险的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "危险的"
+    }
+   ],
+   "ipa": "/ˈdeɪndʒərəs/",
+   "chunks": [
+    "dan",
+    "ger",
+    "ous"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "Fire is dangerous, so we stay away.",
+    "zh": "火是危险的，所以我们离远一点。"
+   },
+   "sentences": [
+    {
+     "en": "Fire is dangerous, so we stay away.",
+     "zh": "火是危险的，所以我们离远一点。",
+     "audio": "media/sent/343e4c100756.mp3"
+    },
+    {
+     "en": "That knife is dangerous, Tom.",
+     "zh": "Tom，那把刀很危险。",
+     "audio": "media/sent/36e6216fd5fd.mp3"
+    },
+    {
+     "en": "It is dangerous to run across the road.",
+     "zh": "跑着过马路很危险。",
+     "audio": "media/sent/43bf6a915888.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dangerous.webp",
+    "uk": "media/uk/dangerous.mp3",
+    "us": "media/us/dangerous.mp3"
+   },
+   "avoid": [
+    "accident",
+    "danger"
+   ]
+  },
+  {
+   "id": "dead",
+   "word": "dead",
+   "zh": "死的；枯死的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "死的；枯死的"
+    }
+   ],
+   "ipa": "/ded/",
+   "chunks": [
+    "dead"
+   ],
+   "emoji": "🥀",
+   "sentence": {
+    "en": "The flower is dead.",
+    "zh": "这朵花枯死了。"
+   },
+   "sentences": [
+    {
+     "en": "The flower is dead.",
+     "zh": "这朵花枯死了。",
+     "audio": "media/sent/8510f36e6e95.mp3"
+    },
+    {
+     "en": "These leaves are brown and dead.",
+     "zh": "这些叶子是棕色的，已经枯死了。",
+     "audio": "media/sent/b3f91f050acb.mp3"
+    },
+    {
+     "en": "Grandma cuts away the dead flowers.",
+     "zh": "奶奶把枯死的花剪掉。",
+     "audio": "media/sent/a6e18be66511.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dead.webp",
+    "uk": "media/uk/dead.mp3",
+    "us": "media/us/dead.mp3"
+   },
+   "avoid": [
+    "die"
+   ]
+  },
+  {
+   "id": "die",
+   "word": "die",
+   "zh": "死；枯死",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "死；枯死"
+    }
+   ],
+   "ipa": "/daɪ/",
+   "chunks": [
+    "die"
+   ],
+   "emoji": "🪴",
+   "sentence": {
+    "en": "Plants die without water.",
+    "zh": "植物没有水会枯死。"
+   },
+   "sentences": [
+    {
+     "en": "Plants die without water.",
+     "zh": "植物没有水会枯死。",
+     "audio": "media/sent/1fac1db02526.mp3"
+    },
+    {
+     "en": "The plant died because we forgot the water.",
+     "zh": "这株植物枯死了，因为我们忘了浇水。",
+     "audio": "media/sent/400026f5d0ca.mp3"
+    },
+    {
+     "en": "Flowers die quickly in hot weather.",
+     "zh": "天气热的时候花很快就会枯死。",
+     "audio": "media/sent/334e11b32594.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/die.webp",
+    "uk": "media/uk/die.mp3",
+    "us": "media/us/die.mp3"
+   },
+   "avoid": [
+    "dead"
+   ]
+  },
+  {
+   "id": "baby",
+   "word": "baby",
+   "zh": "婴儿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "婴儿"
+    }
+   ],
+   "ipa": "/ˈbeɪbi/",
+   "chunks": [
+    "ba",
+    "by"
+   ],
+   "emoji": "👶",
+   "sentence": {
+    "en": "The baby is healthy and strong.",
+    "zh": "这个宝宝健康又强壮。"
+   },
+   "sentences": [
+    {
+     "en": "The baby is healthy and strong.",
+     "zh": "这个宝宝健康又强壮。",
+     "audio": "media/sent/4b7e8c578ab9.mp3"
+    },
+    {
+     "en": "The nurse checks the baby every week.",
+     "zh": "护士每周给这个婴儿做检查。",
+     "audio": "media/sent/ab7951aeb0b7.mp3"
+    },
+    {
+     "en": "Mia has a new baby sister.",
+     "zh": "Mia 有了一个新的小妹妹。",
+     "audio": "media/sent/8b238344bff3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/baby.webp",
+    "uk": "media/uk/baby.mp3",
+    "us": "media/us/baby.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "problem",
+   "word": "problem",
+   "zh": "问题；麻烦",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "问题；麻烦"
+    }
+   ],
+   "ipa": "/ˈprɒbləm/",
+   "chunks": [
+    "prob",
+    "lem"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "What's the problem, Tom?",
+    "zh": "Tom，有什么问题吗？"
+   },
+   "sentences": [
+    {
+     "en": "What's the problem, Tom?",
+     "zh": "Tom，有什么问题吗？",
+     "audio": "media/sent/fd7f3d74b4dd.mp3"
+    },
+    {
+     "en": "There is no problem. You are fine.",
+     "zh": "没有问题，你没事。",
+     "audio": "media/sent/7b34102dc4ff.mp3"
+    },
+    {
+     "en": "Tom has a problem with his maths homework.",
+     "zh": "Tom 的数学作业遇到了问题。",
+     "audio": "media/sent/5badbe5690f7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/problem.webp",
+    "uk": "media/uk/problem.mp3",
+    "us": "media/us/problem.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

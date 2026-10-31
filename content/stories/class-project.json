@@ -1,0 +1,45 @@
+{
+ "id": "class-project",
+ "topic": "school",
+ "title": "The Class Project",
+ "zh": "班级课题",
+ "pages": [
+  {
+   "en": "Lily's class is doing a project about animals. Lily and Mia want to learn about penguins, so they go to the school library.",
+   "zh": "Lily 的班级在做一个关于动物的课题。Lily 和 Mia 想了解企鹅，于是她们去了学校图书馆。",
+   "scene": "Lily and her classmate Mia in a cosy school library pulling a big book about penguins off a bookshelf."
+  },
+  {
+   "en": "They find a big book with lots of information. Penguins can't fly, but they can swim very fast. Mia draws a penguin and Lily writes the notes.",
+   "zh": "她们找到一本有很多资料的大书。企鹅不会飞，但游得非常快。Mia 画了一只企鹅，Lily 做笔记。",
+   "scene": "Lily and Mia at a library table, a big open book with pictures of penguins swimming, Mia drawing a penguin and Lily writing notes, no readable writing."
+  },
+  {
+   "en": "On Thursday, they show their project to the class. Everyone likes the penguin picture. \"Very good work!\" says the teacher.",
+   "zh": "星期四，她们向全班展示课题。大家都喜欢那幅企鹅画。“做得非常好！”老师说。",
+   "scene": "Lily and Mia standing at the front of the classroom holding up a big colourful poster with a penguin drawing, classmates clapping, the teacher smiling, no writing."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The project is about penguins.",
+   "zh": "这个课题是关于企鹅的。",
+   "answer": true
+  },
+  {
+   "q": "Where do Lily and Mia find the book?",
+   "zh": "Lily 和 Mia 在哪里找到那本书？",
+   "options": [
+    "in the library",
+    "at home",
+    "in the park"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Penguins can fly.",
+   "zh": "企鹅会飞。",
+   "answer": false
+  }
+ ]
+}

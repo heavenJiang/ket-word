@@ -1,4 +1,4 @@
-import type { Accent, Word } from "../types";
+import type { Accent, Sentence, Word } from "../types";
 
 const base = import.meta.env.BASE_URL;
 let current: HTMLAudioElement | null = null;
@@ -21,17 +21,34 @@ export function speak(text: string, accent: Accent = "uk", rate = 0.85): void {
   speechSynthesis.speak(u);
 }
 
-/** Play the word's recording in the chosen accent, falling back to the other accent, then TTS. */
-export function playWord(w: Word, accent: Accent): void {
+/**
+ * Play the word's recording in the chosen accent, falling back to the other accent, then TTS.
+ * `slow` plays it at 70% speed (pitch kept), so a child can hear each sound.
+ */
+export function playWord(w: Word, accent: Accent, slow = false): void {
+  const rate = slow ? 0.55 : 0.8;
   const src = w.media[accent] ?? w.media[accent === "uk" ? "us" : "uk"];
-  if (!src) return speak(w.word, accent, 0.8);
+  if (!src) return speak(w.word, accent, rate);
   stop();
   current = new Audio(base + src);
-  current.play().catch(() => speak(w.word, accent, 0.8));
+  if (slow) current.playbackRate = 0.7;
+  current.play().catch(() => speak(w.word, accent, rate));
 }
 
 export function playSentence(w: Word, accent: Accent): void {
-  speak(w.sentence.en, accent, 0.8);
+  playText(w.sentences?.[0] ?? w.sentence, accent);
+}
+
+/**
+ * Read a sentence aloud: its recording when there is one, else the browser's voice. `slow` for a clearer listen.
+ * The recordings run at about 165 wpm; 0.85 brings them to KET listening pace (~140), slow to ~110.
+ */
+export function playText(s: Sentence, accent: Accent, slow = false): void {
+  if (!s.audio) return speak(s.en, accent, slow ? 0.6 : 0.8);
+  stop();
+  current = new Audio(base + s.audio);
+  current.playbackRate = slow ? 0.65 : 0.85;
+  current.play().catch(() => speak(s.en, accent, slow ? 0.6 : 0.8));
 }
 
 let ctx: AudioContext | null = null;
@@ -63,4 +80,29 @@ export function sfx(kind: "right" | "wrong" | "tap" | "done", enabled = true): v
   } catch {
     // audio not available: stay silent
   }
+}
+
+/**
+ * Read a story page aloud, reporting the character index of each word as it is spoken, so the
+ * reader can light it up. Uses the browser voice, which reports word boundaries; returns a stop function.
+ */
+export function readAloud(text: string, accent: Accent, onWord: (charIndex: number) => void, onEnd: () => void): () => void {
+  if (!("speechSynthesis" in window)) {
+    onEnd();
+    return () => {};
+  }
+  stop();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = accent === "uk" ? "en-GB" : "en-US";
+  u.rate = 0.8;
+  const voice = speechSynthesis.getVoices().find((v) => v.lang === u.lang);
+  if (voice) u.voice = voice;
+  u.onboundary = (e) => e.name === "word" && onWord(e.charIndex);
+  u.onend = onEnd;
+  u.onerror = onEnd;
+  speechSynthesis.speak(u);
+  return () => {
+    u.onend = null;
+    speechSynthesis.cancel();
+  };
 }

@@ -1,0 +1,36 @@
+{
+  "topic": "weather",
+  "reviewed": "2026-10-28",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad and the puppy Max. Weather words show the sky and what the family does in it.",
+  "confusable": [
+    ["cloud", "cloudy"],
+    ["fog", "foggy"],
+    ["sun", "sunny"],
+    ["wind", "windy"],
+    ["storm", "thunderstorm", "rain"],
+    ["hot", "warm", "sunny"],
+    ["cold", "ice", "snow"],
+    ["rain", "wet"],
+    ["weather", "cloud", "sun", "rain", "snow", "wind"]
+  ],
+  "words": [
+    { "id": "cloud", "zh": "云", "chunks": ["cloud"], "emoji": "☁️", "en": "There is a big white cloud in the sky.", "sz": "天上有一朵大白云。", "scene": "One big fluffy white cloud in a bright blue sky, a small bird flying past it.", "more": [["The cloud looks like a rabbit!", "那朵云像一只兔子！"], ["A grey cloud means rain.", "灰色的云表示要下雨了。"]] },
+    { "id": "cloudy", "zh": "多云的", "chunks": ["cloud", "y"], "emoji": "🌥️", "en": "It's cloudy today.", "sz": "今天多云。", "scene": "A small town street under a sky completely full of grey clouds, no sun, Lily looking up with her hands in her pockets.", "more": [["It's cloudy, but it isn't raining.", "天阴了，但没下雨。"], ["Is it cloudy in London today?", "伦敦今天多云吗？"]] },
+    { "id": "cold", "zh": "冷的；寒冷", "chunks": ["cold"], "emoji": "🥶", "en": "It's very cold today.", "sz": "今天很冷。", "scene": "Lily shivering on a snowy day, wrapped in a thick coat, hat and scarf, her breath making a little white cloud.", "more": [["Put on your coat. It's cold outside.", "穿上外套，外面冷。"], ["This milk is very cold.", "这牛奶很凉。"]], "senses": [[["adj"], "冷的；寒冷"], [["n"], "感冒", "Tom has a cold."]] },
+    { "id": "fog", "zh": "雾", "chunks": ["fog"], "emoji": "🌫️", "en": "We can't see the trees in the fog.", "sz": "雾里我们看不见那些树。", "scene": "A quiet park covered in thick white fog, trees fading into the mist, the shape of a lamp post just visible.", "more": [["There is a lot of fog this morning.", "今天早上雾很大。"], ["Drive slowly in the fog.", "雾天开车要慢。"]] },
+    { "id": "foggy", "zh": "有雾的", "chunks": ["fog", "gy"], "emoji": "🌫️", "en": "It's foggy, so Dad drives slowly.", "sz": "有雾，所以爸爸开得很慢。", "scene": "Dad driving a small car slowly along a country road on a foggy morning, the car's lights on, the road disappearing into white fog.", "more": [["It's a foggy morning.", "这是一个有雾的早晨。"], ["Is it foggy at the airport?", "机场有雾吗？"]] },
+    { "id": "hot", "zh": "热的；烫的", "chunks": ["hot"], "emoji": "🥵", "en": "It's very hot in summer.", "sz": "夏天很热。", "scene": "A blazing hot summer day, a big orange sun, Tom sitting in the shade eating a melting ice lolly, red cheeks.", "more": [["Be careful! The soup is hot.", "小心！汤很烫。"], ["It's too hot to play football.", "太热了，不能踢球。"]] },
+    { "id": "ice", "zh": "冰", "chunks": ["ice"], "emoji": "🧊", "en": "Put some ice in my juice, please.", "sz": "请在我的果汁里加点冰。", "more": [["There is ice on the lake.", "湖面上有冰。"], ["Can I have some ice in my cola?", "我的可乐能加点冰吗？"]] },
+    { "id": "rain", "zh": "雨；下雨", "chunks": ["rain"], "emoji": "🌧️", "en": "Take an umbrella. It's going to rain.", "sz": "带把伞，要下雨了。", "scene": "Heavy rain falling on a street, puddles splashing, Lily walking under a big yellow umbrella in red boots.", "more": [["I like the sound of the rain.", "我喜欢雨的声音。"], ["It often rains in England.", "英国经常下雨。"]] },
+    { "id": "snow", "zh": "雪；下雪", "chunks": ["snow"], "emoji": "❄️", "en": "The children are playing in the snow.", "sz": "孩子们在雪里玩。", "scene": "Lily and Tom building a snowman in a garden covered in deep white snow, snowflakes falling.", "more": [["It snows a lot in winter.", "冬天常下雪。"], ["Max loves running in the snow.", "Max 很爱在雪里跑。"]] },
+    { "id": "storm", "zh": "暴风雨", "chunks": ["storm"], "emoji": "🌪️", "en": "There is a big storm tonight.", "sz": "今晚有一场大暴风雨。", "scene": "A big storm at sea, huge dark waves, strong wind bending the palm trees on the beach, dark clouds, a lighthouse shining.", "more": [["The storm is very loud.", "暴风雨声音很大。"], ["Stay at home in a storm.", "暴风雨时待在家里。"]] },
+    { "id": "sun", "zh": "太阳", "chunks": ["sun"], "emoji": "☀️", "en": "The sun is very bright today.", "sz": "今天阳光很亮。", "scene": "A big bright yellow sun with a friendly face shining over green hills and flowers.", "more": [["The sun is very hot today.", "今天太阳很晒。"], ["The sun goes down in the evening.", "太阳傍晚落下。"]] },
+    { "id": "sunny", "zh": "晴朗的；阳光充足的", "chunks": ["sun", "ny"], "emoji": "🌞", "en": "It's sunny today. Let's go to the beach!", "sz": "今天天气晴朗，我们去海滩吧！", "scene": "A sunny day at the beach, bright blue sky with no clouds, Lily in sunglasses building a sandcastle.", "more": [["What a sunny day!", "多晴朗的一天！"], ["Our garden is very sunny.", "我们的花园阳光很好。"]] },
+    { "id": "thunderstorm", "zh": "雷雨", "chunks": ["thun", "der", "storm"], "emoji": "⛈️", "en": "Max is afraid of the thunderstorm.", "sz": "Max 害怕雷雨。", "scene": "A thunderstorm at night seen through a window, bright lightning in dark clouds and heavy rain, Max hiding under a blanket on the sofa.", "more": [["There's a thunderstorm. Close the window!", "打雷下雨了，关窗！"], ["We stay inside in a thunderstorm.", "雷雨天我们待在屋里。"]] },
+    { "id": "warm", "zh": "温暖的", "chunks": ["warm"], "emoji": "🧣", "en": "It's warm by the fire.", "sz": "火炉边很暖和。", "scene": "Lily and Max sitting cosily in front of a fireplace in the evening, warm orange light, a mug of hot chocolate.", "more": [["It's a warm day in spring.", "这是春天温暖的一天。"], ["Wear a warm coat.", "穿一件暖和的外套。"]] },
+    { "id": "weather", "zh": "天气", "chunks": ["weath", "er"], "emoji": "🌦️", "en": "What's the weather like today?", "sz": "今天天气怎么样？", "scene": "A friendly picture of four kinds of weather side by side in four small boxes: a sun, a cloud with rain, a snowflake and wind blowing leaves.", "more": [["The weather is nice today.", "今天天气很好。"], ["I don't like cold weather.", "我不喜欢冷天气。"]] },
+    { "id": "wet", "zh": "湿的", "chunks": ["wet"], "emoji": "💦", "en": "My shoes are wet.", "sz": "我的鞋湿了。", "scene": "Tom standing on the doormat dripping wet after the rain, water running from his hair and clothes, a puddle at his feet.", "more": [["Max is wet after his bath.", "Max 洗完澡湿漉漉的。"], ["Don't sit on the grass. It's wet.", "别坐在草地上，草是湿的。"]] },
+    { "id": "wind", "zh": "风", "chunks": ["wind"], "emoji": "🌬️", "en": "The wind is very strong today.", "sz": "今天风很大。", "scene": "A strong wind blowing leaves off a tree, a kite flying high, Lily holding her hat on her head, her hair blowing.", "more": [["The wind is cold today.", "今天的风很冷。"], ["Listen to the wind!", "听风声！"]] },
+    { "id": "windy", "zh": "有风的；刮风的", "chunks": ["wind", "y"], "emoji": "🪁", "en": "It's windy, so let's fly a kite!", "sz": "有风，我们放风筝吧！", "scene": "Lily and Tom flying a colourful kite high in the sky on a windy hill, grass and trees bending in the wind.", "more": [["It's too windy for an umbrella.", "风太大，打不了伞。"], ["Is it windy at the beach?", "海滩那边有风吗？"]] }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "lost-in-town",
+ "topic": "town",
+ "title": "Lost in Town",
+ "zh": "在城里走丢了",
+ "pages": [
+  {
+   "en": "Lily and Mia go to the city centre with Mia's dad. There is a big market in the square. Mia stops to look at some earrings.",
+   "zh": "Lily 和 Mia 跟着 Mia 的爸爸去市中心。广场上有个大集市。Mia 停下来看一些耳环。",
+   "scene": "A busy town square with market stalls, Lily and Mia walking with Mia's dad, Mia stopping to look at a stall with earrings."
+  },
+  {
+   "en": "When Lily turns round, Mia isn't there! Lily is worried. She looks round the corner and down the street, but she can't see Mia.",
+   "zh": "Lily 一转身，Mia 不见了！Lily 很着急。她看了看拐角，又看了看街道那头，可还是看不到 Mia。",
+   "scene": "Lily standing on a street corner looking worried, Mia's dad looking down a busy street full of people and shops."
+  },
+  {
+   "en": "Then she hears, \"Lily! I'm here!\" Mia is in the middle of the square with a police officer. \"Stay together!\" says Mia's dad, and they all laugh.",
+   "zh": "这时她听到：“Lily！我在这儿！”Mia 站在广场中间，身边有一位警察。“大家要待在一起！”Mia 的爸爸说，大家都笑了。",
+   "scene": "A fountain in a town square, Mia waving next to a friendly police officer, Lily running to her, Mia's dad looking happy."
+  }
+ ],
+ "questions": [
+  {
+   "q": "They go to the city centre.",
+   "zh": "他们去了市中心。",
+   "answer": true
+  },
+  {
+   "q": "Where is Mia at the end?",
+   "zh": "最后 Mia 在哪里？",
+   "options": [
+    "in the middle of the square",
+    "in the car",
+    "at school"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mia is with a teacher.",
+   "zh": "Mia 和一位老师在一起。",
+   "answer": false
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "film-night",
+ "topic": "media",
+ "title": "Film Night",
+ "zh": "电影之夜",
+ "pages": [
+  {
+   "en": "On Friday, the family has a film night at home. Tom wants a cartoon, but Lily wants an adventure film.",
+   "zh": "星期五，一家人在家里过电影之夜。Tom 想看动画片，可是 Lily 想看冒险片。",
+   "scene": "The living room in the evening, Tom holding a cartoon DVD and Lily holding an adventure DVD, both arguing playfully, Dad on the sofa."
+  },
+  {
+   "en": "\"Let's watch both!\" says Dad. First they watch a funny cartoon. Everyone laughs, and Max jumps up at the television.",
+   "zh": "“两部都看吧！”爸爸说。他们先看了一部搞笑的动画片。大家都笑了，Max 对着电视跳了起来。",
+   "scene": "The family on the sofa laughing at a cartoon on a big television, Max barking at the screen, a bowl of popcorn on the table."
+  },
+  {
+   "en": "Then they watch the adventure film. It is long, and at the end Tom is sleeping on the sofa. \"Good night, Tom,\" says Mum.",
+   "zh": "接着他们看那部冒险片。片子很长，看到最后，Tom 已经在沙发上睡着了。“晚安，Tom，”妈妈说。",
+   "scene": "Late evening, Tom asleep on the sofa under a blanket, Mum smiling down at him, Lily still watching the film, Max curled up at Tom's feet."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The family goes to the cinema.",
+   "zh": "一家人去了电影院。",
+   "answer": false
+  },
+  {
+   "q": "What do they watch first?",
+   "zh": "他们先看了什么？",
+   "options": [
+    "a cartoon",
+    "an adventure film",
+    "the news"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom is sleeping at the end.",
+   "zh": "最后 Tom 睡着了。",
+   "answer": true
+  }
+ ]
+}

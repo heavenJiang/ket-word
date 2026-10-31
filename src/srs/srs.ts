@@ -21,7 +21,7 @@ export interface WordProgress {
   skills: Partial<Record<Skill, CardState>>;
 }
 
-export { Rating };
+export { Rating, State };
 export type { Grade };
 
 const schedulers = new Map<number, ReturnType<typeof fsrs>>();

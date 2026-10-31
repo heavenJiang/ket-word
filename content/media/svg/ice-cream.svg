@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f4e5c8"/>
+  <circle cx="400" cy="100" r="56" fill="#e0a93f"/>
+  <!-- sea and beach -->
+  <rect y="300" width="512" height="90" fill="#5c7f7d"/>
+  <path d="M0 300 h512 v8 h-512z" fill="#9cb2ae"/>
+  <g stroke="#9cb2ae" stroke-width="4" stroke-linecap="round"><path d="M40 340 h50 M380 330 h70 M300 360 h40"/></g>
+  <path d="M0 390 Q256 362 512 390 V512 H0Z" fill="#f1cc92"/>
+  <path d="M360 300 l26 -60 l26 60z" fill="#f7ebd2"/><path d="M386 240 v68" stroke="#2e4244" stroke-width="3"/>
+  <!-- cone -->
+  <path d="M196 270 L256 470 L316 270Z" fill="#e0a93f"/>
+  <g stroke="#b28851" stroke-width="4"><path d="M206 300 L292 380 M218 340 L282 400 M226 270 L300 344 M286 270 L208 342 M300 300 L224 376 M306 330 L238 410"/></g>
+  <!-- strawberry scoop -->
+  <path d="M180 272 Q170 196 256 186 Q342 196 332 272 Q306 290 284 276 Q262 292 240 276 Q214 292 180 272Z" fill="#f2a7a0"/>
+  <path d="M200 226 Q228 196 270 198" stroke="#fbd3cf" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <g fill="#c45a2c"><circle cx="240" cy="236" r="5"/><circle cx="288" cy="226" r="5"/><circle cx="270" cy="256" r="4"/><circle cx="214" cy="256" r="4"/><circle cx="306" cy="252" r="4"/></g>
+  <!-- strawberry on top -->
+  <path d="M256 150 q-22 6 -18 30 q8 18 18 22 q10 -4 18 -22 q4 -24 -18 -30z" fill="#c45a2c"/>
+  <path d="M244 152 q12 -12 24 0 q-12 6 -24 0z" fill="#808968"/>
+  <g fill="#f1cc92"><circle cx="250" cy="170" r="2"/><circle cx="262" cy="176" r="2"/><circle cx="254" cy="186" r="2"/></g>
+  <!-- drip -->
+  <path d="M300 276 q4 22 -2 30 q-8 -4 -6 -28z" fill="#f2a7a0"/>
+</svg>

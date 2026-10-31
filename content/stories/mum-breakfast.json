@@ -1,0 +1,45 @@
+{
+ "id": "mum-breakfast",
+ "topic": "food",
+ "title": "Breakfast for Mum",
+ "zh": "给妈妈的早餐",
+ "pages": [
+  {
+   "en": "It's Mum's birthday. Lily and Tom want to make breakfast for her. They go into the kitchen very quietly.",
+   "zh": "今天是妈妈的生日。Lily 和 Tom 想给她做早餐。他们悄悄地走进厨房。",
+   "scene": "Lily and Tom tiptoeing quietly into the kitchen early in the morning, fingers on their lips."
+  },
+  {
+   "en": "Tom makes toast. Lily gets the butter, the jam and some orange juice from the fridge. Then she puts some fruit in a bowl.",
+   "zh": "Tom 做吐司。Lily 从冰箱里拿出黄油、果酱和一些橙汁，然后在碗里放了一些水果。",
+   "scene": "Tom making toast while Lily takes butter, jam and orange juice out of the open fridge, a bowl of fruit on the table."
+  },
+  {
+   "en": "They put everything on a big plate and carry it upstairs. \"Happy birthday, Mum!\" Mum is very happy. \"This is delicious. Thank you!\"",
+   "zh": "他们把所有东西放在一个大盘子上，端到楼上。“妈妈，生日快乐！”妈妈非常开心：“真好吃，谢谢你们！”",
+   "scene": "Mum sitting up in bed smiling, Lily and Tom holding a big plate with toast, jam, juice and fruit, a small card with a heart."
+  }
+ ],
+ "questions": [
+  {
+   "q": "It is Dad's birthday.",
+   "zh": "今天是爸爸的生日。",
+   "answer": false
+  },
+  {
+   "q": "What does Tom make?",
+   "zh": "Tom 做了什么？",
+   "options": [
+    "toast",
+    "pizza",
+    "soup"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mum likes the breakfast.",
+   "zh": "妈妈喜欢这份早餐。",
+   "answer": true
+  }
+ ]
+}

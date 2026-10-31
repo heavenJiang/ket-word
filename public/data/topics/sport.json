@@ -1,0 +1,4031 @@
+{
+ "id": "sport",
+ "words": [
+  {
+   "id": "badminton",
+   "word": "badminton",
+   "zh": "羽毛球（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "羽毛球（运动）"
+    }
+   ],
+   "ipa": "/ˈbædmɪntən/",
+   "chunks": [
+    "bad",
+    "min",
+    "ton"
+   ],
+   "emoji": "🏸",
+   "sentence": {
+    "en": "Lily plays badminton with Dad.",
+    "zh": "Lily 和爸爸打羽毛球。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays badminton with Dad.",
+     "zh": "Lily 和爸爸打羽毛球。",
+     "audio": "media/sent/8796a0a3687c.mp3"
+    },
+    {
+     "en": "Badminton is fun in the garden.",
+     "zh": "在花园里打羽毛球很有趣。",
+     "audio": "media/sent/59266370c1f0.mp3"
+    },
+    {
+     "en": "Can you play badminton?",
+     "zh": "你会打羽毛球吗？",
+     "audio": "media/sent/7e4999cf5ba4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/badminton.webp",
+    "uk": "media/uk/badminton.mp3",
+    "us": "media/us/badminton.mp3"
+   },
+   "avoid": [
+    "racket",
+    "table-tennis",
+    "tennis"
+   ]
+  },
+  {
+   "id": "ball",
+   "word": "ball",
+   "zh": "球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "球"
+    }
+   ],
+   "ipa": "/bɔːl/",
+   "chunks": [
+    "ball"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Max runs after the ball.",
+    "zh": "Max 追着球跑。"
+   },
+   "sentences": [
+    {
+     "en": "Max runs after the ball.",
+     "zh": "Max 追着球跑。",
+     "audio": "media/sent/abacf0e2771a.mp3"
+    },
+    {
+     "en": "Throw the ball to me!",
+     "zh": "把球扔给我！",
+     "audio": "media/sent/9aabf849d40c.mp3"
+    },
+    {
+     "en": "This ball is too small.",
+     "zh": "这个球太小了。",
+     "audio": "media/sent/eea2de7ad3c4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ball.webp",
+    "uk": "media/uk/ball.mp3",
+    "us": "media/us/ball.mp3"
+   },
+   "avoid": [
+    "basketball",
+    "catch",
+    "football",
+    "rugby",
+    "soccer",
+    "throw",
+    "volleyball"
+   ]
+  },
+  {
+   "id": "baseball",
+   "word": "baseball",
+   "zh": "棒球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "棒球"
+    }
+   ],
+   "ipa": "/ˈbeɪsbɔːl/",
+   "chunks": [
+    "base",
+    "ball"
+   ],
+   "emoji": "⚾",
+   "sentence": {
+    "en": "Sam plays baseball on Saturdays.",
+    "zh": "Sam 每个星期六打棒球。"
+   },
+   "sentences": [
+    {
+     "en": "Sam plays baseball on Saturdays.",
+     "zh": "Sam 每个星期六打棒球。",
+     "audio": "media/sent/18e2ed381de5.mp3"
+    },
+    {
+     "en": "Baseball is popular in America.",
+     "zh": "棒球在美国很流行。",
+     "audio": "media/sent/bbf41d606269.mp3"
+    },
+    {
+     "en": "I have a new baseball.",
+     "zh": "我有一个新棒球。",
+     "audio": "media/sent/344c93c5b777.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/baseball.webp",
+    "uk": "media/uk/baseball.mp3",
+    "us": "media/us/baseball.mp3"
+   },
+   "avoid": [
+    "bat",
+    "cricket",
+    "golf",
+    "hockey"
+   ]
+  },
+  {
+   "id": "basketball",
+   "word": "basketball",
+   "zh": "篮球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "篮球"
+    }
+   ],
+   "ipa": "/ˈbɑːskɪtbɔːl/",
+   "chunks": [
+    "bas",
+    "ket",
+    "ball"
+   ],
+   "emoji": "🏀",
+   "sentence": {
+    "en": "Tom wants to play basketball.",
+    "zh": "Tom 想打篮球。"
+   },
+   "sentences": [
+    {
+     "en": "Tom wants to play basketball.",
+     "zh": "Tom 想打篮球。",
+     "audio": "media/sent/77f501c62a79.mp3"
+    },
+    {
+     "en": "Basketball players are very tall.",
+     "zh": "篮球运动员都很高。",
+     "audio": "media/sent/7c8ad9be1e1e.mp3"
+    },
+    {
+     "en": "We play basketball after school.",
+     "zh": "我们放学后打篮球。",
+     "audio": "media/sent/e798ccd42a2c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/basketball.webp",
+    "uk": "media/uk/basketball.mp3",
+    "us": "media/us/basketball.mp3"
+   },
+   "avoid": [
+    "ball",
+    "volleyball"
+   ]
+  },
+  {
+   "id": "bat",
+   "word": "bat",
+   "zh": "球拍；球棒",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "球拍；球棒"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蝙蝠",
+     "en": "A bat flies at night."
+    }
+   ],
+   "ipa": "/bæt/",
+   "chunks": [
+    "bat"
+   ],
+   "emoji": "🏏",
+   "sentence": {
+    "en": "Hit the ball with the bat!",
+    "zh": "用球拍击球！"
+   },
+   "sentences": [
+    {
+     "en": "Hit the ball with the bat!",
+     "zh": "用球拍击球！",
+     "audio": "media/sent/9073defbe055.mp3"
+    },
+    {
+     "en": "Sam has a new cricket bat.",
+     "zh": "Sam 有一根新的板球拍。",
+     "audio": "media/sent/b8f66d315627.mp3"
+    },
+    {
+     "en": "Can I use your bat?",
+     "zh": "我能用你的球拍吗？",
+     "audio": "media/sent/5f66a756b6dc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bat.webp",
+    "uk": "media/uk/bat.mp3",
+    "us": "media/us/bat.mp3"
+   },
+   "avoid": [
+    "baseball",
+    "cricket",
+    "golf",
+    "hockey"
+   ]
+  },
+  {
+   "id": "bathing-suit",
+   "word": "bathing suit",
+   "zh": "泳衣",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "泳衣"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bath",
+    "ing",
+    "suit"
+   ],
+   "emoji": "🩱",
+   "sentence": {
+    "en": "Don't forget your bathing suit!",
+    "zh": "别忘了你的泳衣！"
+   },
+   "sentences": [
+    {
+     "en": "Don't forget your bathing suit!",
+     "zh": "别忘了你的泳衣！",
+     "audio": "media/sent/11a50a199b0c.mp3"
+    },
+    {
+     "en": "Lily has a new bathing suit.",
+     "zh": "Lily 有一件新泳衣。",
+     "audio": "media/sent/8b9c9976407d.mp3"
+    },
+    {
+     "en": "Put your bathing suit in your bag.",
+     "zh": "把泳衣放进包里。",
+     "audio": "media/sent/faf43c05a90a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bathing-suit.webp"
+   },
+   "avoid": [
+    "swim",
+    "swimming-costume",
+    "swimsuit"
+   ]
+  },
+  {
+   "id": "beach",
+   "word": "beach",
+   "zh": "海滩",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海滩"
+    }
+   ],
+   "ipa": "/biːtʃ/",
+   "chunks": [
+    "beach"
+   ],
+   "emoji": "🏖️",
+   "sentence": {
+    "en": "We play on the beach in summer.",
+    "zh": "夏天我们在海滩上玩。"
+   },
+   "sentences": [
+    {
+     "en": "We play on the beach in summer.",
+     "zh": "夏天我们在海滩上玩。",
+     "audio": "media/sent/8f0894ee4378.mp3"
+    },
+    {
+     "en": "The beach is very busy today.",
+     "zh": "今天海滩上人很多。",
+     "audio": "media/sent/bc5db8133964.mp3"
+    },
+    {
+     "en": "Max loves running on the beach.",
+     "zh": "Max 很爱在海滩上跑。",
+     "audio": "media/sent/c468e3809588.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/beach.webp",
+    "uk": "media/uk/beach.mp3",
+    "us": "media/us/beach.mp3"
+   },
+   "avoid": [
+    "sea",
+    "surf"
+   ]
+  },
+  {
+   "id": "bicycle",
+   "word": "bicycle",
+   "zh": "自行车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自行车"
+    }
+   ],
+   "ipa": "/ˈbaɪsɪkəl/",
+   "chunks": [
+    "bi",
+    "cy",
+    "cle"
+   ],
+   "emoji": "🚲",
+   "sentence": {
+    "en": "Lily rides her bicycle to school.",
+    "zh": "Lily 骑自行车上学。"
+   },
+   "sentences": [
+    {
+     "en": "Lily rides her bicycle to school.",
+     "zh": "Lily 骑自行车上学。",
+     "audio": "media/sent/7f0aff314a92.mp3"
+    },
+    {
+     "en": "My bicycle is blue.",
+     "zh": "我的自行车是蓝色的。",
+     "audio": "media/sent/95ca8a10808c.mp3"
+    },
+    {
+     "en": "Can you ride a bicycle?",
+     "zh": "你会骑自行车吗？",
+     "audio": "media/sent/6e4a63b0c615.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bicycle.webp",
+    "uk": "media/uk/bicycle.mp3",
+    "us": "media/us/bicycle.mp3"
+   },
+   "avoid": [
+    "bike",
+    "cycling"
+   ]
+  },
+  {
+   "id": "bike",
+   "word": "bike",
+   "zh": "自行车（口语）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自行车（口语）"
+    }
+   ],
+   "ipa": "/baɪk/",
+   "chunks": [
+    "bike"
+   ],
+   "emoji": "🚴",
+   "sentence": {
+    "en": "Tom has a new red bike.",
+    "zh": "Tom 有一辆新的红色自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has a new red bike.",
+     "zh": "Tom 有一辆新的红色自行车。",
+     "audio": "media/sent/c4434f5ae8d4.mp3"
+    },
+    {
+     "en": "Let's go for a bike ride.",
+     "zh": "我们去骑车吧。",
+     "audio": "media/sent/83eb600fe89c.mp3"
+    },
+    {
+     "en": "I go to school by bike.",
+     "zh": "我骑车上学。",
+     "audio": "media/sent/5fcddc97316c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bike.webp",
+    "uk": "media/uk/bike.mp3",
+    "us": "media/us/bike.mp3"
+   },
+   "avoid": [
+    "bicycle",
+    "cycling",
+    "ride",
+    "riding"
+   ]
+  },
+  {
+   "id": "boat",
+   "word": "boat",
+   "zh": "小船；船",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小船；船"
+    }
+   ],
+   "ipa": "/bəʊt/",
+   "chunks": [
+    "boat"
+   ],
+   "emoji": "⛵",
+   "sentence": {
+    "en": "We go on a boat on the lake.",
+    "zh": "我们在湖上坐船。"
+   },
+   "sentences": [
+    {
+     "en": "We go on a boat on the lake.",
+     "zh": "我们在湖上坐船。",
+     "audio": "media/sent/83ba1a2ba1f8.mp3"
+    },
+    {
+     "en": "The boat is red and white.",
+     "zh": "这条船是红白相间的。",
+     "audio": "media/sent/d0e9e5099e60.mp3"
+    },
+    {
+     "en": "Can we go by boat?",
+     "zh": "我们能坐船去吗？",
+     "audio": "media/sent/0cddb388e316.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/boat.webp",
+    "uk": "media/uk/boat.mp3",
+    "us": "media/us/boat.mp3"
+   },
+   "avoid": [
+    "fishing",
+    "sailing"
+   ]
+  },
+  {
+   "id": "catch",
+   "word": "catch",
+   "zh": "接住；抓住",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "接住；抓住"
+    }
+   ],
+   "ipa": "/kætʃ/",
+   "chunks": [
+    "catch"
+   ],
+   "emoji": "🙌",
+   "sentence": {
+    "en": "Catch the ball, Tom!",
+    "zh": "Tom，接球！"
+   },
+   "sentences": [
+    {
+     "en": "Catch the ball, Tom!",
+     "zh": "Tom，接球！",
+     "audio": "media/sent/58e69dcaf121.mp3"
+    },
+    {
+     "en": "Max can catch a ball in his mouth.",
+     "zh": "Max 能用嘴接住球。",
+     "audio": "media/sent/aae045455ae2.mp3"
+    },
+    {
+     "en": "Dad catches a big fish.",
+     "zh": "爸爸钓到了一条大鱼。",
+     "audio": "media/sent/1f56f35965a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/catch.webp",
+    "uk": "media/uk/catch.mp3",
+    "us": "media/us/catch.mp3"
+   },
+   "avoid": [
+    "ball",
+    "throw"
+   ]
+  },
+  {
+   "id": "climb",
+   "word": "climb",
+   "zh": "攀登；爬",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "攀登；爬"
+    }
+   ],
+   "ipa": "/klaɪm/",
+   "chunks": [
+    "climb"
+   ],
+   "emoji": "🧗",
+   "sentence": {
+    "en": "Lily likes to climb trees.",
+    "zh": "Lily 喜欢爬树。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes to climb trees.",
+     "zh": "Lily 喜欢爬树。",
+     "audio": "media/sent/1028986834ab.mp3"
+    },
+    {
+     "en": "We climb the mountain.",
+     "zh": "我们去爬山。",
+     "audio": "media/sent/1b60d9097f4b.mp3"
+    },
+    {
+     "en": "Can you climb this wall?",
+     "zh": "你能爬上这面墙吗？",
+     "audio": "media/sent/84445b4b57ac.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/climb.webp",
+    "uk": "media/uk/climb.mp3",
+    "us": "media/us/climb.mp3"
+   },
+   "avoid": [
+    "enter"
+   ]
+  },
+  {
+   "id": "club",
+   "word": "club",
+   "zh": "俱乐部",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "俱乐部"
+    }
+   ],
+   "ipa": "/klʌb/",
+   "chunks": [
+    "club"
+   ],
+   "emoji": "🏅",
+   "sentence": {
+    "en": "Tom is in the swimming club.",
+    "zh": "Tom 参加了游泳俱乐部。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is in the swimming club.",
+     "zh": "Tom 参加了游泳俱乐部。",
+     "audio": "media/sent/2ac31f173315.mp3"
+    },
+    {
+     "en": "Our football club meets on Friday.",
+     "zh": "我们的足球俱乐部周五聚会。",
+     "audio": "media/sent/1fc0ce7ccd88.mp3"
+    },
+    {
+     "en": "Do you want to join the club?",
+     "zh": "你想加入这个俱乐部吗？",
+     "audio": "media/sent/646ec09e7515.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/club.webp",
+    "uk": "media/uk/club.mp3",
+    "us": "media/us/club.mp3"
+   },
+   "avoid": [
+    "member",
+    "team"
+   ]
+  },
+  {
+   "id": "coach",
+   "word": "coach",
+   "zh": "教练；长途汽车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "教练"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "长途汽车",
+     "en": "We go to London by coach."
+    }
+   ],
+   "ipa": "/kəʊtʃ/",
+   "chunks": [
+    "coach"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Our football coach is very kind.",
+    "zh": "我们的足球教练人很好。"
+   },
+   "sentences": [
+    {
+     "en": "Our football coach is very kind.",
+     "zh": "我们的足球教练人很好。",
+     "audio": "media/sent/0889c3590675.mp3"
+    },
+    {
+     "en": "The coach helps us play better.",
+     "zh": "教练帮我们踢得更好。",
+     "audio": "media/sent/9c06aee57038.mp3"
+    },
+    {
+     "en": "We go to London by coach.",
+     "zh": "我们坐长途大巴去伦敦。",
+     "audio": "media/sent/04434cf5baa5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/coach.webp",
+    "uk": "media/uk/coach.mp3",
+    "us": "media/us/coach.mp3"
+   },
+   "avoid": [
+    "team"
+   ]
+  },
+  {
+   "id": "competition",
+   "word": "competition",
+   "zh": "比赛；竞赛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "比赛；竞赛"
+    }
+   ],
+   "ipa": "/ˌkɒmpəˈtɪʃən/",
+   "chunks": [
+    "com",
+    "pe",
+    "ti",
+    "tion"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "Lily wins a painting competition.",
+    "zh": "Lily 在一次绘画比赛中获胜。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wins a painting competition.",
+     "zh": "Lily 在一次绘画比赛中获胜。",
+     "audio": "media/sent/768eff9ec992.mp3"
+    },
+    {
+     "en": "There is a swimming competition today.",
+     "zh": "今天有一场游泳比赛。",
+     "audio": "media/sent/75526ca02b2c.mp3"
+    },
+    {
+     "en": "Do you want to enter the competition?",
+     "zh": "你想参加这个比赛吗？",
+     "audio": "media/sent/503724f80fe1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/competition.webp",
+    "uk": "media/uk/competition.mp3",
+    "us": "media/us/competition.mp3"
+   },
+   "avoid": [
+    "prize",
+    "race",
+    "win",
+    "winner"
+   ]
+  },
+  {
+   "id": "cricket",
+   "word": "cricket",
+   "zh": "板球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "板球"
+    }
+   ],
+   "ipa": "/ˈkrɪkɪt/",
+   "chunks": [
+    "crick",
+    "et"
+   ],
+   "emoji": "🏏",
+   "sentence": {
+    "en": "Cricket is popular in England.",
+    "zh": "板球在英格兰很流行。"
+   },
+   "sentences": [
+    {
+     "en": "Cricket is popular in England.",
+     "zh": "板球在英格兰很流行。",
+     "audio": "media/sent/cb9b76d0a455.mp3"
+    },
+    {
+     "en": "Dad watches cricket on television.",
+     "zh": "爸爸看电视上的板球比赛。",
+     "audio": "media/sent/7eec7d3fd24d.mp3"
+    },
+    {
+     "en": "We play cricket in summer.",
+     "zh": "我们夏天打板球。",
+     "audio": "media/sent/627e7f8d02ac.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cricket.webp",
+    "uk": "media/uk/cricket.mp3",
+    "us": "media/us/cricket.mp3"
+   },
+   "avoid": [
+    "baseball",
+    "bat",
+    "golf",
+    "hockey"
+   ]
+  },
+  {
+   "id": "cycling",
+   "word": "cycling",
+   "zh": "骑自行车（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "骑自行车（运动）"
+    }
+   ],
+   "ipa": "/ˈsaɪklɪŋ/",
+   "chunks": [
+    "cy",
+    "cling"
+   ],
+   "emoji": "🚴",
+   "sentence": {
+    "en": "Cycling is good for you.",
+    "zh": "骑车对身体好。"
+   },
+   "sentences": [
+    {
+     "en": "Cycling is good for you.",
+     "zh": "骑车对身体好。",
+     "audio": "media/sent/0eff795f0a29.mp3"
+    },
+    {
+     "en": "We go cycling on Sunday.",
+     "zh": "我们星期天去骑车。",
+     "audio": "media/sent/6256977224cf.mp3"
+    },
+    {
+     "en": "I love cycling in the park.",
+     "zh": "我喜欢在公园里骑车。",
+     "audio": "media/sent/e14ed613a370.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cycling.webp",
+    "uk": "media/uk/cycling.mp3",
+    "us": "media/us/cycling.mp3"
+   },
+   "avoid": [
+    "bicycle",
+    "bike"
+   ]
+  },
+  {
+   "id": "enter",
+   "word": "enter",
+   "zh": "进入；参加",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "进入；参加"
+    }
+   ],
+   "ipa": "/ˈentə/",
+   "chunks": [
+    "en",
+    "ter"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "Please enter the room quietly.",
+    "zh": "请轻轻进入房间。"
+   },
+   "sentences": [
+    {
+     "en": "Please enter the room quietly.",
+     "zh": "请轻轻进入房间。",
+     "audio": "media/sent/e54fd4581bc8.mp3"
+    },
+    {
+     "en": "Lily wants to enter the race.",
+     "zh": "Lily 想参加这场赛跑。",
+     "audio": "media/sent/e4e2434da256.mp3"
+    },
+    {
+     "en": "You can enter the park at nine.",
+     "zh": "九点可以进公园。",
+     "audio": "media/sent/eb556883e538.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/enter.webp",
+    "uk": "media/uk/enter.mp3",
+    "us": "media/us/enter.mp3"
+   },
+   "avoid": [
+    "climb"
+   ]
+  },
+  {
+   "id": "fishing",
+   "word": "fishing",
+   "zh": "钓鱼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钓鱼"
+    }
+   ],
+   "ipa": "/ˈfɪʃɪŋ/",
+   "chunks": [
+    "fish",
+    "ing"
+   ],
+   "emoji": "🎣",
+   "sentence": {
+    "en": "Grandpa goes fishing every Sunday.",
+    "zh": "爷爷每个星期天都去钓鱼。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa goes fishing every Sunday.",
+     "zh": "爷爷每个星期天都去钓鱼。",
+     "audio": "media/sent/fd029a65cb22.mp3"
+    },
+    {
+     "en": "Fishing is very quiet.",
+     "zh": "钓鱼很安静。",
+     "audio": "media/sent/8a6830fd5862.mp3"
+    },
+    {
+     "en": "Let's go fishing on the lake.",
+     "zh": "我们去湖上钓鱼吧。",
+     "audio": "media/sent/f053be1244af.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fishing.webp",
+    "uk": "media/uk/fishing.mp3",
+    "us": "media/us/fishing.mp3"
+   },
+   "avoid": [
+    "boat",
+    "sailing"
+   ]
+  },
+  {
+   "id": "football",
+   "word": "football",
+   "zh": "足球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "足球"
+    }
+   ],
+   "ipa": "/ˈfʊtbɔːl/",
+   "chunks": [
+    "foot",
+    "ball"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Tom plays football after school.",
+    "zh": "Tom 放学后踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "Tom plays football after school.",
+     "zh": "Tom 放学后踢足球。",
+     "audio": "media/sent/99e9ecb80905.mp3"
+    },
+    {
+     "en": "Football is my favourite sport.",
+     "zh": "足球是我最喜欢的运动。",
+     "audio": "media/sent/242174cf024c.mp3"
+    },
+    {
+     "en": "Where's my football?",
+     "zh": "我的足球在哪儿？",
+     "audio": "media/sent/337675d5a330.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/football.webp",
+    "uk": "media/uk/football.mp3",
+    "us": "media/us/football.mp3"
+   },
+   "avoid": [
+    "ball",
+    "goal",
+    "rugby",
+    "soccer"
+   ]
+  },
+  {
+   "id": "football-player",
+   "word": "football player",
+   "zh": "足球运动员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "足球运动员"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "foot",
+    "ball",
+    "play",
+    "er"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Sam wants to be a football player.",
+    "zh": "Sam 想当足球运动员。"
+   },
+   "sentences": [
+    {
+     "en": "Sam wants to be a football player.",
+     "zh": "Sam 想当足球运动员。",
+     "audio": "media/sent/c2c15f04da85.mp3"
+    },
+    {
+     "en": "He is a famous football player.",
+     "zh": "他是一位著名的足球运动员。",
+     "audio": "media/sent/cb8deb6ec22b.mp3"
+    },
+    {
+     "en": "The football player scores a goal.",
+     "zh": "那名足球运动员进了一个球。",
+     "audio": "media/sent/1d07013ed2d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/football-player.webp"
+   },
+   "avoid": [
+    "player",
+    "tennis-player",
+    "winner"
+   ]
+  },
+  {
+   "id": "game",
+   "word": "game",
+   "zh": "游戏；比赛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游戏；比赛"
+    }
+   ],
+   "ipa": "/ɡeɪm/",
+   "chunks": [
+    "game"
+   ],
+   "emoji": "🎲",
+   "sentence": {
+    "en": "Let's play a game!",
+    "zh": "我们来玩个游戏吧！"
+   },
+   "sentences": [
+    {
+     "en": "Let's play a game!",
+     "zh": "我们来玩个游戏吧！",
+     "audio": "media/sent/9e92e6a69acb.mp3"
+    },
+    {
+     "en": "We win the game!",
+     "zh": "我们赢了这场比赛！",
+     "audio": "media/sent/6e793c4980ee.mp3"
+    },
+    {
+     "en": "This game is very easy.",
+     "zh": "这个游戏很简单。",
+     "audio": "media/sent/210fd6f4b49e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/game.webp",
+    "uk": "media/uk/game.mp3",
+    "us": "media/us/game.mp3"
+   },
+   "avoid": [
+    "play",
+    "player",
+    "sport",
+    "team",
+    "v"
+   ]
+  },
+  {
+   "id": "goal",
+   "word": "goal",
+   "zh": "球门；进球；目标",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "球门；进球；目标"
+    }
+   ],
+   "ipa": "/ɡəʊl/",
+   "chunks": [
+    "goal"
+   ],
+   "emoji": "🥅",
+   "sentence": {
+    "en": "Tom scores a goal!",
+    "zh": "Tom 进了一个球！"
+   },
+   "sentences": [
+    {
+     "en": "Tom scores a goal!",
+     "zh": "Tom 进了一个球！",
+     "audio": "media/sent/e5b092e2dc5f.mp3"
+    },
+    {
+     "en": "The ball is in the goal.",
+     "zh": "球进门了。",
+     "audio": "media/sent/8b07e85ef9d3.mp3"
+    },
+    {
+     "en": "We win by two goals.",
+     "zh": "我们赢了两个球。",
+     "audio": "media/sent/fe417c40cda1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/goal.webp",
+    "uk": "media/uk/goal.mp3",
+    "us": "media/us/goal.mp3"
+   },
+   "avoid": [
+    "football"
+   ]
+  },
+  {
+   "id": "golf",
+   "word": "golf",
+   "zh": "高尔夫球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "高尔夫球"
+    }
+   ],
+   "ipa": "/ɡɒlf/",
+   "chunks": [
+    "golf"
+   ],
+   "emoji": "⛳",
+   "sentence": {
+    "en": "Grandpa plays golf on Saturday.",
+    "zh": "爷爷星期六打高尔夫球。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa plays golf on Saturday.",
+     "zh": "爷爷星期六打高尔夫球。",
+     "audio": "media/sent/cbd9870b5562.mp3"
+    },
+    {
+     "en": "Golf is a quiet sport.",
+     "zh": "高尔夫是一项安静的运动。",
+     "audio": "media/sent/b54574419cf3.mp3"
+    },
+    {
+     "en": "Can you play golf?",
+     "zh": "你会打高尔夫球吗？",
+     "audio": "media/sent/b9d34c573909.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/golf.webp",
+    "uk": "media/uk/golf.mp3",
+    "us": "media/us/golf.mp3"
+   },
+   "avoid": [
+    "baseball",
+    "bat",
+    "cricket",
+    "hockey"
+   ]
+  },
+  {
+   "id": "hockey",
+   "word": "hockey",
+   "zh": "曲棍球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "曲棍球"
+    }
+   ],
+   "ipa": "/ˈhɒki/",
+   "chunks": [
+    "hock",
+    "ey"
+   ],
+   "emoji": "🏑",
+   "sentence": {
+    "en": "Lily plays hockey at school.",
+    "zh": "Lily 在学校打曲棍球。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays hockey at school.",
+     "zh": "Lily 在学校打曲棍球。",
+     "audio": "media/sent/47bb769ffef9.mp3"
+    },
+    {
+     "en": "We have hockey on Wednesday.",
+     "zh": "我们星期三有曲棍球课。",
+     "audio": "media/sent/f18861331513.mp3"
+    },
+    {
+     "en": "Hockey is a fast game.",
+     "zh": "曲棍球是一项快节奏的运动。",
+     "audio": "media/sent/a994449bdf30.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hockey.webp",
+    "uk": "media/uk/hockey.mp3",
+    "us": "media/us/hockey.mp3"
+   },
+   "avoid": [
+    "baseball",
+    "bat",
+    "cricket",
+    "golf"
+   ]
+  },
+  {
+   "id": "kit",
+   "word": "kit",
+   "zh": "成套装备；运动服",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "成套装备；运动服"
+    }
+   ],
+   "ipa": "/kɪt/",
+   "chunks": [
+    "kit"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Don't forget your football kit!",
+    "zh": "别忘了你的足球服！"
+   },
+   "sentences": [
+    {
+     "en": "Don't forget your football kit!",
+     "zh": "别忘了你的足球服！",
+     "audio": "media/sent/12f25ee396ed.mp3"
+    },
+    {
+     "en": "My kit is in my bag.",
+     "zh": "我的运动装备在包里。",
+     "audio": "media/sent/4ad5e6ff3378.mp3"
+    },
+    {
+     "en": "Our team has a new red kit.",
+     "zh": "我们队有了新的红色队服。",
+     "audio": "media/sent/91f5f41d5473.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kit.webp",
+    "uk": "media/uk/kit.mp3",
+    "us": "media/us/kit.mp3"
+   },
+   "avoid": [
+    "trainer"
+   ]
+  },
+  {
+   "id": "luck",
+   "word": "luck",
+   "zh": "运气",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "运气"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "luck"
+   ],
+   "emoji": "🍀",
+   "sentence": {
+    "en": "Good luck in your test!",
+    "zh": "祝你考试好运！"
+   },
+   "sentences": [
+    {
+     "en": "Good luck in your test!",
+     "zh": "祝你考试好运！",
+     "audio": "media/sent/3197094899d8.mp3"
+    },
+    {
+     "en": "What bad luck!",
+     "zh": "运气真不好！",
+     "audio": "media/sent/ee308ed9044c.mp3"
+    },
+    {
+     "en": "Good luck, Tom!",
+     "zh": "祝你好运，Tom！",
+     "audio": "media/sent/83dce69150e6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/luck.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "member",
+   "word": "member",
+   "zh": "成员；会员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "成员；会员"
+    }
+   ],
+   "ipa": "/ˈmembə/",
+   "chunks": [
+    "mem",
+    "ber"
+   ],
+   "emoji": "🪪",
+   "sentence": {
+    "en": "Lily is a member of the swimming club.",
+    "zh": "Lily 是游泳俱乐部的会员。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is a member of the swimming club.",
+     "zh": "Lily 是游泳俱乐部的会员。",
+     "audio": "media/sent/ab08c2294b91.mp3"
+    },
+    {
+     "en": "How many members are in your team?",
+     "zh": "你们队有几名队员？",
+     "audio": "media/sent/b5208e0e53cb.mp3"
+    },
+    {
+     "en": "Every member gets a T-shirt.",
+     "zh": "每个会员都有一件T恤。",
+     "audio": "media/sent/f3f516ffeefe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/member.webp",
+    "uk": "media/uk/member.mp3",
+    "us": "media/us/member.mp3"
+   },
+   "avoid": [
+    "club",
+    "team"
+   ]
+  },
+  {
+   "id": "play",
+   "word": "play",
+   "zh": "玩；打（球）；演奏",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "玩；打（球）；演奏"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "戏剧",
+     "en": "We see a play at the theatre."
+    }
+   ],
+   "ipa": "/pleɪ/",
+   "chunks": [
+    "play"
+   ],
+   "emoji": "🎮",
+   "sentence": {
+    "en": "Let's play in the garden.",
+    "zh": "我们去花园里玩吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's play in the garden.",
+     "zh": "我们去花园里玩吧。",
+     "audio": "media/sent/2484ca82f943.mp3"
+    },
+    {
+     "en": "Can you play the piano?",
+     "zh": "你会弹钢琴吗？",
+     "audio": "media/sent/9c99957ebc5b.mp3"
+    },
+    {
+     "en": "Tom plays football every day.",
+     "zh": "Tom 每天踢足球。",
+     "audio": "media/sent/d451b0229a06.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/play.webp",
+    "uk": "media/uk/play.mp3",
+    "us": "media/us/play.mp3"
+   },
+   "avoid": [
+    "game",
+    "player"
+   ]
+  },
+  {
+   "id": "player",
+   "word": "player",
+   "zh": "选手；运动员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "选手；运动员"
+    }
+   ],
+   "ipa": "/ˈpleɪə/",
+   "chunks": [
+    "play",
+    "er"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "He is a very good player.",
+    "zh": "他是个很棒的选手。"
+   },
+   "sentences": [
+    {
+     "en": "He is a very good player.",
+     "zh": "他是个很棒的选手。",
+     "audio": "media/sent/493235211ee4.mp3"
+    },
+    {
+     "en": "There are eleven players in a team.",
+     "zh": "一个队有十一名队员。",
+     "audio": "media/sent/09d5a3acef02.mp3"
+    },
+    {
+     "en": "Who is the best player?",
+     "zh": "谁是最好的选手？",
+     "audio": "media/sent/524cd2ad21e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/player.webp",
+    "uk": "media/uk/player.mp3",
+    "us": "media/us/player.mp3"
+   },
+   "avoid": [
+    "football-player",
+    "game",
+    "play",
+    "tennis-player",
+    "winner"
+   ]
+  },
+  {
+   "id": "pool",
+   "word": "pool",
+   "zh": "游泳池；水池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游泳池；水池"
+    }
+   ],
+   "ipa": "/puːl/",
+   "chunks": [
+    "pool"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "The children swim in the pool.",
+    "zh": "孩子们在泳池里游泳。"
+   },
+   "sentences": [
+    {
+     "en": "The children swim in the pool.",
+     "zh": "孩子们在泳池里游泳。",
+     "audio": "media/sent/0f6bd910af21.mp3"
+    },
+    {
+     "en": "The pool is very cold today.",
+     "zh": "今天泳池的水很冷。",
+     "audio": "media/sent/b644a20bfb22.mp3"
+    },
+    {
+     "en": "Let's go to the pool!",
+     "zh": "我们去游泳池吧！",
+     "audio": "media/sent/a91161826c40.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pool.webp",
+    "uk": "media/uk/pool.mp3",
+    "us": "media/us/pool.mp3"
+   },
+   "avoid": [
+    "sports-centre",
+    "stadium",
+    "swim",
+    "swimming",
+    "swimming-pool"
+   ]
+  },
+  {
+   "id": "practice",
+   "word": "practice",
+   "zh": "练习（名词）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "练习（名词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tice"
+   ],
+   "emoji": "🎻",
+   "sentence": {
+    "en": "Football practice is on Tuesday.",
+    "zh": "足球训练在星期二。"
+   },
+   "sentences": [
+    {
+     "en": "Football practice is on Tuesday.",
+     "zh": "足球训练在星期二。",
+     "audio": "media/sent/1bb973dbb920.mp3"
+    },
+    {
+     "en": "Piano practice is every day.",
+     "zh": "钢琴每天都要练。",
+     "audio": "media/sent/93690ea5eeaa.mp3"
+    },
+    {
+     "en": "You need more practice.",
+     "zh": "你需要多练习。",
+     "audio": "media/sent/b0ba9fd0caf8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practice.webp",
+    "uk": "media/uk/practice.mp3",
+    "us": "media/us/practice.mp3"
+   },
+   "avoid": [
+    "practise"
+   ]
+  },
+  {
+   "id": "practise",
+   "word": "practise",
+   "zh": "练习（动词）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "练习（动词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tise"
+   ],
+   "emoji": "🎹",
+   "sentence": {
+    "en": "Lily practises the piano every day.",
+    "zh": "Lily 每天练钢琴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily practises the piano every day.",
+     "zh": "Lily 每天练钢琴。",
+     "audio": "media/sent/41eb468aae2f.mp3"
+    },
+    {
+     "en": "Practise your English with a friend.",
+     "zh": "和朋友一起练英语。",
+     "audio": "media/sent/ffd5df69df27.mp3"
+    },
+    {
+     "en": "Tom practises football in the garden.",
+     "zh": "Tom 在花园里练足球。",
+     "audio": "media/sent/d2b7fbd70e8e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practise.webp",
+    "uk": "media/uk/practise.mp3",
+    "us": "media/us/practise.mp3"
+   },
+   "avoid": [
+    "practice"
+   ]
+  },
+  {
+   "id": "prize",
+   "word": "prize",
+   "zh": "奖品；奖",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奖品；奖"
+    }
+   ],
+   "ipa": "/praɪz/",
+   "chunks": [
+    "prize"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Lily wins first prize.",
+    "zh": "Lily 获得了一等奖。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wins first prize.",
+     "zh": "Lily 获得了一等奖。",
+     "audio": "media/sent/430900e7335b.mp3"
+    },
+    {
+     "en": "The prize is a new bike.",
+     "zh": "奖品是一辆新自行车。",
+     "audio": "media/sent/bcf569c01d83.mp3"
+    },
+    {
+     "en": "Everyone gets a prize.",
+     "zh": "每个人都有奖品。",
+     "audio": "media/sent/702efd3a65e2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/prize.webp",
+    "uk": "media/uk/prize.mp3",
+    "us": "media/us/prize.mp3"
+   },
+   "avoid": [
+    "competition",
+    "race",
+    "win",
+    "winner"
+   ]
+  },
+  {
+   "id": "race",
+   "word": "race",
+   "zh": "赛跑；比赛",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "赛跑；比赛"
+    }
+   ],
+   "ipa": "/reɪs/",
+   "chunks": [
+    "race"
+   ],
+   "emoji": "🏁",
+   "sentence": {
+    "en": "Tom wins the race!",
+    "zh": "Tom 赢得了赛跑！"
+   },
+   "sentences": [
+    {
+     "en": "Tom wins the race!",
+     "zh": "Tom 赢得了赛跑！",
+     "audio": "media/sent/802867d19c74.mp3"
+    },
+    {
+     "en": "Let's have a race to the tree.",
+     "zh": "我们比赛跑到那棵树吧。",
+     "audio": "media/sent/d3b04734cd2e.mp3"
+    },
+    {
+     "en": "The race starts at ten o'clock.",
+     "zh": "比赛十点开始。",
+     "audio": "media/sent/9d1597d8918f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/race.webp",
+    "uk": "media/uk/race.mp3",
+    "us": "media/us/race.mp3"
+   },
+   "avoid": [
+    "competition",
+    "prize",
+    "run",
+    "walk",
+    "win",
+    "winner"
+   ]
+  },
+  {
+   "id": "racket",
+   "word": "racket",
+   "zh": "球拍",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "球拍"
+    }
+   ],
+   "ipa": "/ˈrækɪt/",
+   "chunks": [
+    "rack",
+    "et"
+   ],
+   "emoji": "🎾",
+   "sentence": {
+    "en": "Bring your tennis racket.",
+    "zh": "带上你的网球拍。"
+   },
+   "sentences": [
+    {
+     "en": "Bring your tennis racket.",
+     "zh": "带上你的网球拍。",
+     "audio": "media/sent/4543967d93ac.mp3"
+    },
+    {
+     "en": "My racket is new.",
+     "zh": "我的球拍是新的。",
+     "audio": "media/sent/fef72a5ae37e.mp3"
+    },
+    {
+     "en": "This racket is too heavy for me.",
+     "zh": "这个球拍我拿着太重了。",
+     "audio": "media/sent/2324ae9f663f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/racket.webp",
+    "uk": "media/uk/racket.mp3",
+    "us": "media/us/racket.mp3"
+   },
+   "avoid": [
+    "badminton",
+    "table-tennis",
+    "tennis"
+   ]
+  },
+  {
+   "id": "rest",
+   "word": "rest",
+   "zh": "休息",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "休息"
+    }
+   ],
+   "ipa": "/rest/",
+   "chunks": [
+    "rest"
+   ],
+   "emoji": "😴",
+   "sentence": {
+    "en": "Have a rest. You're tired.",
+    "zh": "休息一下，你累了。"
+   },
+   "sentences": [
+    {
+     "en": "Have a rest. You're tired.",
+     "zh": "休息一下，你累了。",
+     "audio": "media/sent/cf2097d6cf80.mp3"
+    },
+    {
+     "en": "Let's rest for five minutes.",
+     "zh": "我们休息五分钟吧。",
+     "audio": "media/sent/7c02d0f89e4c.mp3"
+    },
+    {
+     "en": "Grandpa has a rest after lunch.",
+     "zh": "爷爷午饭后休息一会儿。",
+     "audio": "media/sent/034fc06eace8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rest.webp",
+    "uk": "media/uk/rest.mp3",
+    "us": "media/us/rest.mp3"
+   },
+   "avoid": [
+    "tired"
+   ]
+  },
+  {
+   "id": "ride",
+   "word": "ride",
+   "zh": "骑；乘坐",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "骑；乘坐"
+    }
+   ],
+   "ipa": "/raɪd/",
+   "chunks": [
+    "ride"
+   ],
+   "emoji": "🐴",
+   "sentence": {
+    "en": "Lily can ride a horse.",
+    "zh": "Lily 会骑马。"
+   },
+   "sentences": [
+    {
+     "en": "Lily can ride a horse.",
+     "zh": "Lily 会骑马。",
+     "audio": "media/sent/99f69c84b169.mp3"
+    },
+    {
+     "en": "Can I ride your bike?",
+     "zh": "我能骑你的自行车吗？",
+     "audio": "media/sent/506952c6c47d.mp3"
+    },
+    {
+     "en": "We go for a ride in the car.",
+     "zh": "我们开车去兜风。",
+     "audio": "media/sent/43bf9ed30efc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ride.webp",
+    "uk": "media/uk/ride.mp3",
+    "us": "media/us/ride.mp3"
+   },
+   "avoid": [
+    "bike",
+    "riding"
+   ]
+  },
+  {
+   "id": "riding",
+   "word": "riding",
+   "zh": "骑马（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "骑马（运动）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "rid",
+    "ing"
+   ],
+   "emoji": "🏇",
+   "sentence": {
+    "en": "Lily goes riding every Saturday.",
+    "zh": "Lily 每个星期六去骑马。"
+   },
+   "sentences": [
+    {
+     "en": "Lily goes riding every Saturday.",
+     "zh": "Lily 每个星期六去骑马。",
+     "audio": "media/sent/faeef1acdb4f.mp3"
+    },
+    {
+     "en": "Riding is my favourite sport.",
+     "zh": "骑马是我最喜欢的运动。",
+     "audio": "media/sent/f195283a9083.mp3"
+    },
+    {
+     "en": "I have a riding lesson today.",
+     "zh": "我今天有骑马课。",
+     "audio": "media/sent/7c98af62af2d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/riding.webp"
+   },
+   "avoid": [
+    "bike",
+    "ride"
+   ]
+  },
+  {
+   "id": "rugby",
+   "word": "rugby",
+   "zh": "橄榄球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橄榄球"
+    }
+   ],
+   "ipa": "/ˈrʌɡbi/",
+   "chunks": [
+    "rug",
+    "by"
+   ],
+   "emoji": "🏉",
+   "sentence": {
+    "en": "Dad loves watching rugby.",
+    "zh": "爸爸很爱看橄榄球。"
+   },
+   "sentences": [
+    {
+     "en": "Dad loves watching rugby.",
+     "zh": "爸爸很爱看橄榄球。",
+     "audio": "media/sent/370aab5fd73a.mp3"
+    },
+    {
+     "en": "Rugby balls are not round.",
+     "zh": "橄榄球不是圆的。",
+     "audio": "media/sent/9a27f06ccdc2.mp3"
+    },
+    {
+     "en": "Sam plays rugby at school.",
+     "zh": "Sam 在学校打橄榄球。",
+     "audio": "media/sent/5e8bd31803a5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rugby.webp",
+    "uk": "media/uk/rugby.mp3",
+    "us": "media/us/rugby.mp3"
+   },
+   "avoid": [
+    "ball",
+    "football",
+    "soccer"
+   ]
+  },
+  {
+   "id": "run",
+   "word": "run",
+   "zh": "跑",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "跑"
+    }
+   ],
+   "ipa": "/rʌn/",
+   "chunks": [
+    "run"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Max can run very fast.",
+    "zh": "Max 跑得很快。"
+   },
+   "sentences": [
+    {
+     "en": "Max can run very fast.",
+     "zh": "Max 跑得很快。",
+     "audio": "media/sent/f124c46738a8.mp3"
+    },
+    {
+     "en": "Run to the gate!",
+     "zh": "跑到大门那里！",
+     "audio": "media/sent/087a1c537257.mp3"
+    },
+    {
+     "en": "I run in the park every morning.",
+     "zh": "我每天早上在公园跑步。",
+     "audio": "media/sent/0929b4041895.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/run.webp",
+    "uk": "media/uk/run.mp3",
+    "us": "media/us/run.mp3"
+   },
+   "avoid": [
+    "race",
+    "walk"
+   ]
+  },
+  {
+   "id": "sailing",
+   "word": "sailing",
+   "zh": "帆船运动",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "帆船运动"
+    }
+   ],
+   "ipa": "/ˈseɪlɪŋ/",
+   "chunks": [
+    "sail",
+    "ing"
+   ],
+   "emoji": "⛵",
+   "sentence": {
+    "en": "We go sailing in the summer.",
+    "zh": "我们夏天去玩帆船。"
+   },
+   "sentences": [
+    {
+     "en": "We go sailing in the summer.",
+     "zh": "我们夏天去玩帆船。",
+     "audio": "media/sent/873223cf5f2c.mp3"
+    },
+    {
+     "en": "Sailing is fun on a windy day.",
+     "zh": "有风的日子玩帆船很有趣。",
+     "audio": "media/sent/03e77938020b.mp3"
+    },
+    {
+     "en": "Uncle Ben loves sailing.",
+     "zh": "Ben 叔叔很爱玩帆船。",
+     "audio": "media/sent/908be40890da.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sailing.webp",
+    "uk": "media/uk/sailing.mp3",
+    "us": "media/us/sailing.mp3"
+   },
+   "avoid": [
+    "boat",
+    "fishing",
+    "surf",
+    "surfboard",
+    "surfboarding",
+    "windsurfing"
+   ]
+  },
+  {
+   "id": "sea",
+   "word": "sea",
+   "zh": "大海",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大海"
+    }
+   ],
+   "ipa": "/siː/",
+   "chunks": [
+    "sea"
+   ],
+   "emoji": "🌊",
+   "sentence": {
+    "en": "The sea is blue today.",
+    "zh": "今天大海是蓝色的。"
+   },
+   "sentences": [
+    {
+     "en": "The sea is blue today.",
+     "zh": "今天大海是蓝色的。",
+     "audio": "media/sent/72e5b582d235.mp3"
+    },
+    {
+     "en": "We swim in the sea.",
+     "zh": "我们在海里游泳。",
+     "audio": "media/sent/475e6979c7f8.mp3"
+    },
+    {
+     "en": "Fish live in the sea.",
+     "zh": "鱼生活在海里。",
+     "audio": "media/sent/de604bba9f3d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sea.webp",
+    "uk": "media/uk/sea.mp3",
+    "us": "media/us/sea.mp3"
+   },
+   "avoid": [
+    "beach",
+    "surf"
+   ]
+  },
+  {
+   "id": "skate",
+   "word": "skate",
+   "zh": "滑冰；溜冰",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "滑冰；溜冰"
+    }
+   ],
+   "ipa": "/skeɪt/",
+   "chunks": [
+    "skate"
+   ],
+   "emoji": "⛸️",
+   "sentence": {
+    "en": "Can you skate?",
+    "zh": "你会滑冰吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you skate?",
+     "zh": "你会滑冰吗？",
+     "audio": "media/sent/5af8677f0808.mp3"
+    },
+    {
+     "en": "We skate on the ice in winter.",
+     "zh": "冬天我们在冰上滑冰。",
+     "audio": "media/sent/09fa27314f04.mp3"
+    },
+    {
+     "en": "Tom is learning to skate.",
+     "zh": "Tom 在学滑冰。",
+     "audio": "media/sent/77705cf503fa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/skate.webp",
+    "uk": "media/uk/skate.mp3",
+    "us": "media/us/skate.mp3"
+   },
+   "avoid": [
+    "skateboard"
+   ]
+  },
+  {
+   "id": "skateboard",
+   "word": "skateboard",
+   "zh": "滑板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "滑板"
+    }
+   ],
+   "ipa": "/ˈskeɪtbɔːd/",
+   "chunks": [
+    "skate",
+    "board"
+   ],
+   "emoji": "🛹",
+   "sentence": {
+    "en": "Sam has a new skateboard.",
+    "zh": "Sam 有一块新滑板。"
+   },
+   "sentences": [
+    {
+     "en": "Sam has a new skateboard.",
+     "zh": "Sam 有一块新滑板。",
+     "audio": "media/sent/a28eb8a5ec24.mp3"
+    },
+    {
+     "en": "Can I try your skateboard?",
+     "zh": "我能试试你的滑板吗？",
+     "audio": "media/sent/9a20308b8aea.mp3"
+    },
+    {
+     "en": "The skateboard is very fast.",
+     "zh": "滑板很快。",
+     "audio": "media/sent/1cbddc8c48fc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/skateboard.webp",
+    "uk": "media/uk/skateboard.mp3",
+    "us": "media/us/skateboard.mp3"
+   },
+   "avoid": [
+    "skate"
+   ]
+  },
+  {
+   "id": "ski",
+   "word": "ski",
+   "zh": "滑雪",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "滑雪"
+    }
+   ],
+   "ipa": "/skiː/",
+   "chunks": [
+    "ski"
+   ],
+   "emoji": "⛷️",
+   "sentence": {
+    "en": "We ski in the mountains.",
+    "zh": "我们在山里滑雪。"
+   },
+   "sentences": [
+    {
+     "en": "We ski in the mountains.",
+     "zh": "我们在山里滑雪。",
+     "audio": "media/sent/3688c1647107.mp3"
+    },
+    {
+     "en": "Can you ski?",
+     "zh": "你会滑雪吗？",
+     "audio": "media/sent/40b2e7bc17d7.mp3"
+    },
+    {
+     "en": "Dad teaches me to ski.",
+     "zh": "爸爸教我滑雪。",
+     "audio": "media/sent/529180242c5c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ski.webp",
+    "uk": "media/uk/ski.mp3",
+    "us": "media/us/ski.mp3"
+   },
+   "avoid": [
+    "skiing",
+    "snowboard",
+    "snowboarding"
+   ]
+  },
+  {
+   "id": "skiing",
+   "word": "skiing",
+   "zh": "滑雪（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "滑雪（运动）"
+    }
+   ],
+   "ipa": "/ˈskiːɪŋ/",
+   "chunks": [
+    "ski",
+    "ing"
+   ],
+   "emoji": "🎿",
+   "sentence": {
+    "en": "We go skiing in winter.",
+    "zh": "我们冬天去滑雪。"
+   },
+   "sentences": [
+    {
+     "en": "We go skiing in winter.",
+     "zh": "我们冬天去滑雪。",
+     "audio": "media/sent/cbce84eeefbb.mp3"
+    },
+    {
+     "en": "Skiing is great fun.",
+     "zh": "滑雪非常好玩。",
+     "audio": "media/sent/f2f301452bb7.mp3"
+    },
+    {
+     "en": "I love skiing with my family.",
+     "zh": "我喜欢和家人一起滑雪。",
+     "audio": "media/sent/16e6e1edbed8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/skiing.webp",
+    "uk": "media/uk/skiing.mp3",
+    "us": "media/us/skiing.mp3"
+   },
+   "avoid": [
+    "ski",
+    "snowboard",
+    "snowboarding"
+   ]
+  },
+  {
+   "id": "snowboard",
+   "word": "snowboard",
+   "zh": "滑雪板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "滑雪板"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "snow",
+    "board"
+   ],
+   "emoji": "🏂",
+   "sentence": {
+    "en": "Sam has a red snowboard.",
+    "zh": "Sam 有一块红色滑雪板。"
+   },
+   "sentences": [
+    {
+     "en": "Sam has a red snowboard.",
+     "zh": "Sam 有一块红色滑雪板。",
+     "audio": "media/sent/a1a8cece5940.mp3"
+    },
+    {
+     "en": "My snowboard is in the car.",
+     "zh": "我的滑雪板在车里。",
+     "audio": "media/sent/ee886756fff6.mp3"
+    },
+    {
+     "en": "This snowboard is too long for me.",
+     "zh": "这块滑雪板我用太长了。",
+     "audio": "media/sent/6be4c4c3e3e9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/snowboard.webp"
+   },
+   "avoid": [
+    "ski",
+    "skiing",
+    "snowboarding"
+   ]
+  },
+  {
+   "id": "snowboarding",
+   "word": "snowboarding",
+   "zh": "单板滑雪（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "单板滑雪（运动）"
+    }
+   ],
+   "ipa": "/ˈsnəʊbɔːdɪŋ/",
+   "chunks": [
+    "snow",
+    "board",
+    "ing"
+   ],
+   "emoji": "🏂",
+   "sentence": {
+    "en": "Snowboarding is exciting.",
+    "zh": "单板滑雪很刺激。"
+   },
+   "sentences": [
+    {
+     "en": "Snowboarding is exciting.",
+     "zh": "单板滑雪很刺激。",
+     "audio": "media/sent/727015dc50f0.mp3"
+    },
+    {
+     "en": "My cousin loves snowboarding.",
+     "zh": "我表哥很爱单板滑雪。",
+     "audio": "media/sent/4b43966d9d64.mp3"
+    },
+    {
+     "en": "Let's try snowboarding!",
+     "zh": "我们试试单板滑雪吧！",
+     "audio": "media/sent/5dfca4a64f62.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/snowboarding.webp",
+    "uk": "media/uk/snowboarding.mp3",
+    "us": "media/us/snowboarding.mp3"
+   },
+   "avoid": [
+    "ski",
+    "skiing",
+    "snowboard"
+   ]
+  },
+  {
+   "id": "soccer",
+   "word": "soccer",
+   "zh": "足球（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "足球（美式）"
+    }
+   ],
+   "ipa": "/ˈsɒkə/",
+   "chunks": [
+    "soc",
+    "cer"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "In America, football is called soccer.",
+    "zh": "在美国，足球叫 soccer。"
+   },
+   "sentences": [
+    {
+     "en": "In America, football is called soccer.",
+     "zh": "在美国，足球叫 soccer。",
+     "audio": "media/sent/bd7dbe59838c.mp3"
+    },
+    {
+     "en": "We play soccer on Friday.",
+     "zh": "我们星期五踢足球。",
+     "audio": "media/sent/69a91d768adf.mp3"
+    },
+    {
+     "en": "Soccer is popular all over the world.",
+     "zh": "足球在全世界都很流行。",
+     "audio": "media/sent/2f03b3a9fa78.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/soccer.webp",
+    "uk": "media/uk/soccer.mp3",
+    "us": "media/us/soccer.mp3"
+   },
+   "avoid": [
+    "ball",
+    "football",
+    "rugby"
+   ]
+  },
+  {
+   "id": "sport",
+   "word": "sport",
+   "zh": "运动；体育",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "运动；体育"
+    }
+   ],
+   "ipa": "/spɔːt/",
+   "chunks": [
+    "sport"
+   ],
+   "emoji": "🏅",
+   "sentence": {
+    "en": "What's your favourite sport?",
+    "zh": "你最喜欢什么运动？"
+   },
+   "sentences": [
+    {
+     "en": "What's your favourite sport?",
+     "zh": "你最喜欢什么运动？",
+     "audio": "media/sent/df7da638bf00.mp3"
+    },
+    {
+     "en": "Sport is good for you.",
+     "zh": "运动对身体好。",
+     "audio": "media/sent/7998406fec1d.mp3"
+    },
+    {
+     "en": "We do sport every day at school.",
+     "zh": "我们在学校每天都做运动。",
+     "audio": "media/sent/259ee13230e4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sport.webp",
+    "uk": "media/uk/sport.mp3",
+    "us": "media/us/sport.mp3"
+   },
+   "avoid": [
+    "game",
+    "team",
+    "v"
+   ]
+  },
+  {
+   "id": "sports-centre",
+   "word": "sports centre",
+   "zh": "体育中心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体育中心"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sports",
+    "cen",
+    "tre"
+   ],
+   "emoji": "🏟️",
+   "sentence": {
+    "en": "We swim at the sports centre.",
+    "zh": "我们在体育中心游泳。"
+   },
+   "sentences": [
+    {
+     "en": "We swim at the sports centre.",
+     "zh": "我们在体育中心游泳。",
+     "audio": "media/sent/ac4946ff89fd.mp3"
+    },
+    {
+     "en": "The sports centre opens at nine.",
+     "zh": "体育中心九点开门。",
+     "audio": "media/sent/1322dd9a21d2.mp3"
+    },
+    {
+     "en": "Let's meet at the sports centre.",
+     "zh": "我们在体育中心见。",
+     "audio": "media/sent/7b100728b641.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sports-centre.webp"
+   },
+   "avoid": [
+    "pool",
+    "stadium"
+   ]
+  },
+  {
+   "id": "stadium",
+   "word": "stadium",
+   "zh": "体育场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体育场"
+    }
+   ],
+   "ipa": "/ˈsteɪdiəm/",
+   "chunks": [
+    "sta",
+    "di",
+    "um"
+   ],
+   "emoji": "🏟️",
+   "sentence": {
+    "en": "The stadium is full of people.",
+    "zh": "体育场里坐满了人。"
+   },
+   "sentences": [
+    {
+     "en": "The stadium is full of people.",
+     "zh": "体育场里坐满了人。",
+     "audio": "media/sent/46f615a377ef.mp3"
+    },
+    {
+     "en": "We watch football at the stadium.",
+     "zh": "我们在体育场看足球。",
+     "audio": "media/sent/441899ff7890.mp3"
+    },
+    {
+     "en": "The new stadium is very big.",
+     "zh": "新体育场很大。",
+     "audio": "media/sent/bf92e3105212.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stadium.webp",
+    "uk": "media/uk/stadium.mp3",
+    "us": "media/us/stadium.mp3"
+   },
+   "avoid": [
+    "pool",
+    "sports-centre",
+    "ticket"
+   ]
+  },
+  {
+   "id": "surf",
+   "word": "surf",
+   "zh": "冲浪",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "冲浪"
+    }
+   ],
+   "ipa": "/sɜːf/",
+   "chunks": [
+    "surf"
+   ],
+   "emoji": "🏄",
+   "sentence": {
+    "en": "Uncle Ben can surf.",
+    "zh": "Ben 叔叔会冲浪。"
+   },
+   "sentences": [
+    {
+     "en": "Uncle Ben can surf.",
+     "zh": "Ben 叔叔会冲浪。",
+     "audio": "media/sent/b02403659f6c.mp3"
+    },
+    {
+     "en": "I want to learn to surf.",
+     "zh": "我想学冲浪。",
+     "audio": "media/sent/c2fa1d6b6a32.mp3"
+    },
+    {
+     "en": "They surf in the sea every day.",
+     "zh": "他们每天都在海里冲浪。",
+     "audio": "media/sent/55d49ffa0c3c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/surf.webp",
+    "uk": "media/uk/surf.mp3",
+    "us": "media/us/surf.mp3"
+   },
+   "avoid": [
+    "beach",
+    "sailing",
+    "sea",
+    "surfboard",
+    "surfboarding",
+    "windsurfing"
+   ]
+  },
+  {
+   "id": "surfboard",
+   "word": "surfboard",
+   "zh": "冲浪板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冲浪板"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "surf",
+    "board"
+   ],
+   "emoji": "🏄",
+   "sentence": {
+    "en": "The surfboard is very long.",
+    "zh": "这块冲浪板很长。"
+   },
+   "sentences": [
+    {
+     "en": "The surfboard is very long.",
+     "zh": "这块冲浪板很长。",
+     "audio": "media/sent/8247f602bbd8.mp3"
+    },
+    {
+     "en": "Carry your surfboard to the sea.",
+     "zh": "把冲浪板扛到海里去。",
+     "audio": "media/sent/2b50565dd64b.mp3"
+    },
+    {
+     "en": "I have a blue surfboard.",
+     "zh": "我有一块蓝色冲浪板。",
+     "audio": "media/sent/870a0f5213d1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/surfboard.webp"
+   },
+   "avoid": [
+    "sailing",
+    "surf",
+    "surfboarding",
+    "windsurfing"
+   ]
+  },
+  {
+   "id": "surfboarding",
+   "word": "surfboarding",
+   "zh": "冲浪（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冲浪（运动）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "surf",
+    "board",
+    "ing"
+   ],
+   "emoji": "🌊",
+   "sentence": {
+    "en": "Surfboarding is fun in the summer.",
+    "zh": "夏天冲浪很好玩。"
+   },
+   "sentences": [
+    {
+     "en": "Surfboarding is fun in the summer.",
+     "zh": "夏天冲浪很好玩。",
+     "audio": "media/sent/373767bd34a3.mp3"
+    },
+    {
+     "en": "Do you like surfboarding?",
+     "zh": "你喜欢冲浪吗？",
+     "audio": "media/sent/e53211e08169.mp3"
+    },
+    {
+     "en": "We go surfboarding at the beach.",
+     "zh": "我们去海滩冲浪。",
+     "audio": "media/sent/acf2e8108b70.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/surfboarding.webp"
+   },
+   "avoid": [
+    "sailing",
+    "surf",
+    "surfboard",
+    "windsurfing"
+   ]
+  },
+  {
+   "id": "swim",
+   "word": "swim",
+   "zh": "游泳",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "游泳"
+    }
+   ],
+   "ipa": "/swɪm/",
+   "chunks": [
+    "swim"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Lily can swim very well.",
+    "zh": "Lily 游泳游得很好。"
+   },
+   "sentences": [
+    {
+     "en": "Lily can swim very well.",
+     "zh": "Lily 游泳游得很好。",
+     "audio": "media/sent/f2fe43e854ed.mp3"
+    },
+    {
+     "en": "Let's swim in the sea.",
+     "zh": "我们去海里游泳吧。",
+     "audio": "media/sent/f645f65ac702.mp3"
+    },
+    {
+     "en": "Fish swim in the river.",
+     "zh": "鱼在河里游。",
+     "audio": "media/sent/f56890ba26de.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swim.webp",
+    "uk": "media/uk/swim.mp3",
+    "us": "media/us/swim.mp3"
+   },
+   "avoid": [
+    "bathing-suit",
+    "pool",
+    "swimming",
+    "swimming-costume",
+    "swimming-pool",
+    "swimsuit"
+   ]
+  },
+  {
+   "id": "swimming",
+   "word": "swimming",
+   "zh": "游泳（运动）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游泳（运动）"
+    }
+   ],
+   "ipa": "/ˈswɪmɪŋ/",
+   "chunks": [
+    "swim",
+    "ming"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "Swimming is good exercise.",
+    "zh": "游泳是很好的锻炼。"
+   },
+   "sentences": [
+    {
+     "en": "Swimming is good exercise.",
+     "zh": "游泳是很好的锻炼。",
+     "audio": "media/sent/91ca48ed250b.mp3"
+    },
+    {
+     "en": "We go swimming on Saturday.",
+     "zh": "我们星期六去游泳。",
+     "audio": "media/sent/00f7c764a38c.mp3"
+    },
+    {
+     "en": "I love swimming in the sea.",
+     "zh": "我喜欢在海里游泳。",
+     "audio": "media/sent/768d704cf5b5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimming.webp",
+    "uk": "media/uk/swimming.mp3",
+    "us": "media/us/swimming.mp3"
+   },
+   "avoid": [
+    "pool",
+    "swim",
+    "swimming-pool"
+   ]
+  },
+  {
+   "id": "swimming-costume",
+   "word": "swimming costume",
+   "zh": "泳衣",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "泳衣"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "swim",
+    "ming",
+    "cos",
+    "tume"
+   ],
+   "emoji": "🩱",
+   "sentence": {
+    "en": "Lily puts on her swimming costume.",
+    "zh": "Lily 穿上她的泳衣。"
+   },
+   "sentences": [
+    {
+     "en": "Lily puts on her swimming costume.",
+     "zh": "Lily 穿上她的泳衣。",
+     "audio": "media/sent/53f7edc1643e.mp3"
+    },
+    {
+     "en": "Don't forget your swimming costume.",
+     "zh": "别忘了你的泳衣。",
+     "audio": "media/sent/28b6653e18f1.mp3"
+    },
+    {
+     "en": "My swimming costume is wet.",
+     "zh": "我的泳衣湿了。",
+     "audio": "media/sent/479d7e88f9f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimming-costume.webp"
+   },
+   "avoid": [
+    "bathing-suit",
+    "swim",
+    "swimsuit"
+   ]
+  },
+  {
+   "id": "swimming-pool",
+   "word": "swimming pool",
+   "zh": "游泳池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游泳池"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "swim",
+    "ming",
+    "pool"
+   ],
+   "emoji": "🏊",
+   "sentence": {
+    "en": "The swimming pool is near my school.",
+    "zh": "游泳池在我学校附近。"
+   },
+   "sentences": [
+    {
+     "en": "The swimming pool is near my school.",
+     "zh": "游泳池在我学校附近。",
+     "audio": "media/sent/549ca29bda70.mp3"
+    },
+    {
+     "en": "Is the swimming pool open today?",
+     "zh": "游泳池今天开放吗？",
+     "audio": "media/sent/cc22e14bd964.mp3"
+    },
+    {
+     "en": "There's a big swimming pool in the park.",
+     "zh": "公园里有一个大游泳池。",
+     "audio": "media/sent/76a2f48a2c1c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimming-pool.webp"
+   },
+   "avoid": [
+    "pool",
+    "swim",
+    "swimming"
+   ]
+  },
+  {
+   "id": "swimsuit",
+   "word": "swimsuit",
+   "zh": "泳衣",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "泳衣"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "swim",
+    "suit"
+   ],
+   "emoji": "🩱",
+   "sentence": {
+    "en": "I need a new swimsuit.",
+    "zh": "我需要一件新泳衣。"
+   },
+   "sentences": [
+    {
+     "en": "I need a new swimsuit.",
+     "zh": "我需要一件新泳衣。",
+     "audio": "media/sent/d0ae84261a95.mp3"
+    },
+    {
+     "en": "Put your swimsuit in your bag.",
+     "zh": "把泳衣放进包里。",
+     "audio": "media/sent/30a6976faa07.mp3"
+    },
+    {
+     "en": "This swimsuit is too small.",
+     "zh": "这件泳衣太小了。",
+     "audio": "media/sent/c0dcc01077c4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/swimsuit.webp"
+   },
+   "avoid": [
+    "bathing-suit",
+    "swim",
+    "swimming-costume"
+   ]
+  },
+  {
+   "id": "table-tennis",
+   "word": "table tennis",
+   "zh": "乒乓球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "乒乓球"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ta",
+    "ble",
+    "ten",
+    "nis"
+   ],
+   "emoji": "🏓",
+   "sentence": {
+    "en": "Do you play table tennis?",
+    "zh": "你打乒乓球吗？"
+   },
+   "sentences": [
+    {
+     "en": "Do you play table tennis?",
+     "zh": "你打乒乓球吗？",
+     "audio": "media/sent/47221c6b5712.mp3"
+    },
+    {
+     "en": "Table tennis is popular in China.",
+     "zh": "乒乓球在中国很流行。",
+     "audio": "media/sent/52f35f75236d.mp3"
+    },
+    {
+     "en": "I play table tennis with my brother.",
+     "zh": "我和弟弟一起打乒乓球。",
+     "audio": "media/sent/c96b0d882e19.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/table-tennis.webp"
+   },
+   "avoid": [
+    "badminton",
+    "racket",
+    "tennis"
+   ]
+  },
+  {
+   "id": "team",
+   "word": "team",
+   "zh": "队；团队",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "队；团队"
+    }
+   ],
+   "ipa": "/tiːm/",
+   "chunks": [
+    "team"
+   ],
+   "emoji": "👥",
+   "sentence": {
+    "en": "Our team wins the match!",
+    "zh": "我们队赢了比赛！"
+   },
+   "sentences": [
+    {
+     "en": "Our team wins the match!",
+     "zh": "我们队赢了比赛！",
+     "audio": "media/sent/efdb586728dc.mp3"
+    },
+    {
+     "en": "There are eleven players in a football team.",
+     "zh": "一支足球队有十一名队员。",
+     "audio": "media/sent/d9ecc6620821.mp3"
+    },
+    {
+     "en": "Tom is in the school team.",
+     "zh": "Tom 在校队里。",
+     "audio": "media/sent/18b640039a8c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/team.webp",
+    "uk": "media/uk/team.mp3",
+    "us": "media/us/team.mp3"
+   },
+   "avoid": [
+    "club",
+    "coach",
+    "game",
+    "member",
+    "sport",
+    "v"
+   ]
+  },
+  {
+   "id": "tennis",
+   "word": "tennis",
+   "zh": "网球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "网球"
+    }
+   ],
+   "ipa": "/ˈtenɪs/",
+   "chunks": [
+    "ten",
+    "nis"
+   ],
+   "emoji": "🎾",
+   "sentence": {
+    "en": "Mum plays tennis on Sunday.",
+    "zh": "妈妈星期天打网球。"
+   },
+   "sentences": [
+    {
+     "en": "Mum plays tennis on Sunday.",
+     "zh": "妈妈星期天打网球。",
+     "audio": "media/sent/afb852450692.mp3"
+    },
+    {
+     "en": "Tennis is my favourite sport.",
+     "zh": "网球是我最喜欢的运动。",
+     "audio": "media/sent/80fec2d0a8cb.mp3"
+    },
+    {
+     "en": "Let's play tennis in the park.",
+     "zh": "我们去公园打网球吧。",
+     "audio": "media/sent/6e4792e386b7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tennis.webp",
+    "uk": "media/uk/tennis.mp3",
+    "us": "media/us/tennis.mp3"
+   },
+   "avoid": [
+    "badminton",
+    "racket",
+    "table-tennis"
+   ]
+  },
+  {
+   "id": "tennis-player",
+   "word": "tennis player",
+   "zh": "网球运动员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "网球运动员"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ten",
+    "nis",
+    "play",
+    "er"
+   ],
+   "emoji": "🎾",
+   "sentence": {
+    "en": "She is a famous tennis player.",
+    "zh": "她是一位著名的网球运动员。"
+   },
+   "sentences": [
+    {
+     "en": "She is a famous tennis player.",
+     "zh": "她是一位著名的网球运动员。",
+     "audio": "media/sent/7063dae9b7ab.mp3"
+    },
+    {
+     "en": "The tennis player hits the ball hard.",
+     "zh": "那位网球运动员用力击球。",
+     "audio": "media/sent/62f4ac8d51f7.mp3"
+    },
+    {
+     "en": "I want to be a tennis player.",
+     "zh": "我想当网球运动员。",
+     "audio": "media/sent/fa6b964df5b9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tennis-player.webp"
+   },
+   "avoid": [
+    "football-player",
+    "player",
+    "winner"
+   ]
+  },
+  {
+   "id": "throw",
+   "word": "throw",
+   "zh": "扔；投；掷",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "扔；投；掷"
+    }
+   ],
+   "ipa": "/θrəʊ/",
+   "chunks": [
+    "throw"
+   ],
+   "emoji": "🤾",
+   "sentence": {
+    "en": "Throw the ball to Max!",
+    "zh": "把球扔给 Max！"
+   },
+   "sentences": [
+    {
+     "en": "Throw the ball to Max!",
+     "zh": "把球扔给 Max！",
+     "audio": "media/sent/25aa9648f2b3.mp3"
+    },
+    {
+     "en": "Don't throw your rubbish on the floor!",
+     "zh": "别把垃圾扔在地上！",
+     "audio": "media/sent/5717f4b0d529.mp3"
+    },
+    {
+     "en": "Can you throw it far?",
+     "zh": "你能扔得远吗？",
+     "audio": "media/sent/29608f73b84c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/throw.webp",
+    "uk": "media/uk/throw.mp3",
+    "us": "media/us/throw.mp3"
+   },
+   "avoid": [
+    "ball",
+    "catch"
+   ]
+  },
+  {
+   "id": "ticket",
+   "word": "ticket",
+   "zh": "票；入场券",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "票；入场券"
+    }
+   ],
+   "ipa": "/ˈtɪkɪt/",
+   "chunks": [
+    "tick",
+    "et"
+   ],
+   "emoji": "🎟️",
+   "sentence": {
+    "en": "I have two tickets for the football match.",
+    "zh": "我有两张足球比赛的票。"
+   },
+   "sentences": [
+    {
+     "en": "I have two tickets for the football match.",
+     "zh": "我有两张足球比赛的票。",
+     "audio": "media/sent/7d45dccfd148.mp3"
+    },
+    {
+     "en": "How much is a ticket?",
+     "zh": "一张票多少钱？",
+     "audio": "media/sent/82459ca61f9c.mp3"
+    },
+    {
+     "en": "Don't lose your ticket!",
+     "zh": "别把票弄丢了！",
+     "audio": "media/sent/38e29d61fa38.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ticket.webp",
+    "uk": "media/uk/ticket.mp3",
+    "us": "media/us/ticket.mp3"
+   },
+   "avoid": [
+    "stadium"
+   ]
+  },
+  {
+   "id": "tired",
+   "word": "tired",
+   "zh": "累的；疲倦的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "累的；疲倦的"
+    }
+   ],
+   "ipa": "/ˈtaɪəd/",
+   "chunks": [
+    "tired"
+   ],
+   "emoji": "🥱",
+   "sentence": {
+    "en": "I'm very tired after the race.",
+    "zh": "赛跑后我很累。"
+   },
+   "sentences": [
+    {
+     "en": "I'm very tired after the race.",
+     "zh": "赛跑后我很累。",
+     "audio": "media/sent/35c05c57e60a.mp3"
+    },
+    {
+     "en": "Max is tired after his walk.",
+     "zh": "Max 散完步累了。",
+     "audio": "media/sent/40a1ad20d911.mp3"
+    },
+    {
+     "en": "Are you tired? Go to bed.",
+     "zh": "你累了吗？去睡吧。",
+     "audio": "media/sent/82797b785646.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tired.webp",
+    "uk": "media/uk/tired.mp3",
+    "us": "media/us/tired.mp3"
+   },
+   "avoid": [
+    "rest"
+   ]
+  },
+  {
+   "id": "trainer",
+   "word": "trainer",
+   "zh": "运动鞋（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "运动鞋（英式）"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "教练；训练员",
+     "en": "The trainer helps the team."
+    }
+   ],
+   "ipa": "/ˈtreɪnə/",
+   "chunks": [
+    "train",
+    "er"
+   ],
+   "emoji": "👟",
+   "sentence": {
+    "en": "Lily wears trainers for sport.",
+    "zh": "Lily 运动时穿运动鞋。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wears trainers for sport.",
+     "zh": "Lily 运动时穿运动鞋。",
+     "audio": "media/sent/f56186b2c834.mp3"
+    },
+    {
+     "en": "Max has my trainer in his mouth!",
+     "zh": "Max 把我的运动鞋叼在嘴里！",
+     "audio": "media/sent/e9ca56d283b4.mp3"
+    },
+    {
+     "en": "I need new trainers for football.",
+     "zh": "我踢足球需要一双新运动鞋。",
+     "audio": "media/sent/9065bfec3963.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/trainer.webp",
+    "uk": "media/uk/trainer.mp3",
+    "us": "media/us/trainer.mp3"
+   },
+   "avoid": [
+    "kit"
+   ]
+  },
+  {
+   "id": "v",
+   "word": "v",
+   "zh": "对；对阵（versus）",
+   "pos": [
+    "prep"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep"
+     ],
+     "zh": "对；对阵（versus）"
+    }
+   ],
+   "ipa": "/ˈvɜːsəs/",
+   "chunks": [
+    "v"
+   ],
+   "emoji": "🆚",
+   "sentence": {
+    "en": "Today's game is Lily's school v Tom's school.",
+    "zh": "今天的比赛是 Lily 的学校对 Tom 的学校。"
+   },
+   "sentences": [
+    {
+     "en": "Today's game is Lily's school v Tom's school.",
+     "zh": "今天的比赛是 Lily 的学校对 Tom 的学校。",
+     "audio": "media/sent/9ae22e6e62ef.mp3"
+    },
+    {
+     "en": "It's red team v blue team.",
+     "zh": "红队对阵蓝队。",
+     "audio": "media/sent/186085c5ff5a.mp3"
+    },
+    {
+     "en": "Who won? England v France?",
+     "zh": "谁赢了？英格兰对法国那场？",
+     "audio": "media/sent/e253fc3b33f1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/v.webp",
+    "uk": "media/uk/v.mp3",
+    "us": "media/us/v.mp3"
+   },
+   "avoid": [
+    "game",
+    "sport",
+    "team"
+   ]
+  },
+  {
+   "id": "volleyball",
+   "word": "volleyball",
+   "zh": "排球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "排球"
+    }
+   ],
+   "ipa": "/ˈvɒlibɔːl/",
+   "chunks": [
+    "vol",
+    "ley",
+    "ball"
+   ],
+   "emoji": "🏐",
+   "sentence": {
+    "en": "We play volleyball on the beach.",
+    "zh": "我们在海滩上打排球。"
+   },
+   "sentences": [
+    {
+     "en": "We play volleyball on the beach.",
+     "zh": "我们在海滩上打排球。",
+     "audio": "media/sent/fe3cf557fc14.mp3"
+    },
+    {
+     "en": "Volleyball is a team sport.",
+     "zh": "排球是一项团队运动。",
+     "audio": "media/sent/cea0bc44b9be.mp3"
+    },
+    {
+     "en": "Can you play volleyball?",
+     "zh": "你会打排球吗？",
+     "audio": "media/sent/16039ca8167c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/volleyball.webp",
+    "uk": "media/uk/volleyball.mp3",
+    "us": "media/us/volleyball.mp3"
+   },
+   "avoid": [
+    "ball",
+    "basketball"
+   ]
+  },
+  {
+   "id": "walk",
+   "word": "walk",
+   "zh": "散步；走",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "散步；走"
+    }
+   ],
+   "ipa": "/wɔːk/",
+   "chunks": [
+    "walk"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Lily takes Max for a walk.",
+    "zh": "Lily 带 Max 去散步。"
+   },
+   "sentences": [
+    {
+     "en": "Lily takes Max for a walk.",
+     "zh": "Lily 带 Max 去散步。",
+     "audio": "media/sent/3626755997cb.mp3"
+    },
+    {
+     "en": "Let's walk to school.",
+     "zh": "我们走路去学校吧。",
+     "audio": "media/sent/5d63b17145af.mp3"
+    },
+    {
+     "en": "We walk in the park every evening.",
+     "zh": "我们每天晚上在公园散步。",
+     "audio": "media/sent/ce1b9df0f7fb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/walk.webp",
+    "uk": "media/uk/walk.mp3",
+    "us": "media/us/walk.mp3"
+   },
+   "avoid": [
+    "race",
+    "run"
+   ]
+  },
+  {
+   "id": "watch",
+   "word": "watch",
+   "zh": "手表",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手表"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "观看；注视",
+     "en": "We watch television after dinner."
+    }
+   ],
+   "ipa": "/wɒtʃ/",
+   "chunks": [
+    "watch"
+   ],
+   "emoji": "⌚",
+   "sentence": {
+    "en": "Grandpa gives me a watch.",
+    "zh": "爷爷送我一块手表。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa gives me a watch.",
+     "zh": "爷爷送我一块手表。",
+     "audio": "media/sent/50ea9c240d4d.mp3"
+    },
+    {
+     "en": "What time is it? Look at your watch.",
+     "zh": "几点了？看看你的手表。",
+     "audio": "media/sent/06cd180bd9be.mp3"
+    },
+    {
+     "en": "My watch is new.",
+     "zh": "我的手表是新的。",
+     "audio": "media/sent/5418aea8e8ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/watch.webp",
+    "uk": "media/uk/watch.mp3",
+    "us": "media/us/watch.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "win",
+   "word": "win",
+   "zh": "赢；获胜",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "赢；获胜"
+    }
+   ],
+   "ipa": "/wɪn/",
+   "chunks": [
+    "win"
+   ],
+   "emoji": "🥇",
+   "sentence": {
+    "en": "I want to win the race!",
+    "zh": "我想赢得这场赛跑！"
+   },
+   "sentences": [
+    {
+     "en": "I want to win the race!",
+     "zh": "我想赢得这场赛跑！",
+     "audio": "media/sent/196937b8bc9a.mp3"
+    },
+    {
+     "en": "Our team always wins.",
+     "zh": "我们队总是赢。",
+     "audio": "media/sent/a098045e4d70.mp3"
+    },
+    {
+     "en": "Who will win the game?",
+     "zh": "谁会赢得比赛？",
+     "audio": "media/sent/c89fe228a917.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/win.webp",
+    "uk": "media/uk/win.mp3",
+    "us": "media/us/win.mp3"
+   },
+   "avoid": [
+    "competition",
+    "prize",
+    "race",
+    "winner"
+   ]
+  },
+  {
+   "id": "windsurfing",
+   "word": "windsurfing",
+   "zh": "帆板运动",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "帆板运动"
+    }
+   ],
+   "ipa": "/ˈwɪndsɜːfɪŋ/",
+   "chunks": [
+    "wind",
+    "surf",
+    "ing"
+   ],
+   "emoji": "🏄",
+   "sentence": {
+    "en": "Windsurfing is difficult.",
+    "zh": "帆板运动很难。"
+   },
+   "sentences": [
+    {
+     "en": "Windsurfing is difficult.",
+     "zh": "帆板运动很难。",
+     "audio": "media/sent/34b79b991ac2.mp3"
+    },
+    {
+     "en": "Dad tries windsurfing on holiday.",
+     "zh": "爸爸度假时尝试了帆板运动。",
+     "audio": "media/sent/aa7fabf7cf21.mp3"
+    },
+    {
+     "en": "You need wind for windsurfing.",
+     "zh": "玩帆板需要有风。",
+     "audio": "media/sent/2a8b34b88706.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/windsurfing.webp",
+    "uk": "media/uk/windsurfing.mp3",
+    "us": "media/us/windsurfing.mp3"
+   },
+   "avoid": [
+    "sailing",
+    "surf",
+    "surfboard",
+    "surfboarding"
+   ]
+  },
+  {
+   "id": "winner",
+   "word": "winner",
+   "zh": "获胜者；冠军",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "获胜者；冠军"
+    }
+   ],
+   "ipa": "/ˈwɪnə/",
+   "chunks": [
+    "win",
+    "ner"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "Lily is the winner!",
+    "zh": "Lily 是冠军！"
+   },
+   "sentences": [
+    {
+     "en": "Lily is the winner!",
+     "zh": "Lily 是冠军！",
+     "audio": "media/sent/760fb49ef23e.mp3"
+    },
+    {
+     "en": "The winner gets a prize.",
+     "zh": "获胜者能得到奖品。",
+     "audio": "media/sent/17c5723325bd.mp3"
+    },
+    {
+     "en": "Who is the winner of the race?",
+     "zh": "谁是这场赛跑的冠军？",
+     "audio": "media/sent/82b3ca439061.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/winner.webp",
+    "uk": "media/uk/winner.mp3",
+    "us": "media/us/winner.mp3"
+   },
+   "avoid": [
+    "competition",
+    "football-player",
+    "player",
+    "prize",
+    "race",
+    "tennis-player",
+    "win"
+   ]
+  }
+ ]
+}

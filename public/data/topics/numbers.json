@@ -1,0 +1,1976 @@
+{
+ "id": "numbers",
+ "words": [
+  {
+   "id": "one",
+   "word": "one",
+   "zh": "一",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "一"
+    }
+   ],
+   "ipa": "/wʌn/",
+   "chunks": [
+    "one"
+   ],
+   "emoji": "1️⃣",
+   "sentence": {
+    "en": "I have one red balloon.",
+    "zh": "我有一个红气球。"
+   },
+   "sentences": [
+    {
+     "en": "I have one red balloon.",
+     "zh": "我有一个红气球。",
+     "audio": "media/sent/66bea49cbac7.mp3"
+    },
+    {
+     "en": "Tom has one toy car.",
+     "zh": "Tom 有一辆玩具车。",
+     "audio": "media/sent/5f681af4c2dd.mp3"
+    },
+    {
+     "en": "There is one apple in the bowl.",
+     "zh": "碗里有一个苹果。",
+     "audio": "media/sent/aeca24c15bde.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/one.webp",
+    "uk": "media/uk/one.mp3",
+    "us": "media/us/one.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "two",
+   "word": "two",
+   "zh": "二",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "二"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "two"
+   ],
+   "emoji": "2️⃣",
+   "sentence": {
+    "en": "Lily has two cats.",
+    "zh": "Lily 有两只猫。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has two cats.",
+     "zh": "Lily 有两只猫。",
+     "audio": "media/sent/838296f1f8a4.mp3"
+    },
+    {
+     "en": "Max runs after two birds.",
+     "zh": "Max 追着两只鸟跑。",
+     "audio": "media/sent/388372161b39.mp3"
+    },
+    {
+     "en": "We need two chairs for this table.",
+     "zh": "这张桌子需要两把椅子。",
+     "audio": "media/sent/cf6795e457ac.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/two.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "three",
+   "word": "three",
+   "zh": "三",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "三"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "three"
+   ],
+   "emoji": "3️⃣",
+   "sentence": {
+    "en": "There are three eggs.",
+    "zh": "有三个鸡蛋。"
+   },
+   "sentences": [
+    {
+     "en": "There are three eggs.",
+     "zh": "有三个鸡蛋。",
+     "audio": "media/sent/2a5b0958c092.mp3"
+    },
+    {
+     "en": "Sam has three pencils in his bag.",
+     "zh": "Sam 书包里有三支铅笔。",
+     "audio": "media/sent/9b04778c26a2.mp3"
+    },
+    {
+     "en": "Lily sees three stars tonight.",
+     "zh": "Lily 今晚看到三颗星星。",
+     "audio": "media/sent/f41e46d48241.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/three.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "four",
+   "word": "four",
+   "zh": "四",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "四"
+    }
+   ],
+   "ipa": "/fɔː/",
+   "chunks": [
+    "four"
+   ],
+   "emoji": "4️⃣",
+   "sentence": {
+    "en": "Dad has four books.",
+    "zh": "爸爸有四本书。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has four books.",
+     "zh": "爸爸有四本书。",
+     "audio": "media/sent/c17b1d862425.mp3"
+    },
+    {
+     "en": "The table has four legs.",
+     "zh": "桌子有四条腿。",
+     "audio": "media/sent/770c3bade2a3.mp3"
+    },
+    {
+     "en": "Tom found four leaves in autumn.",
+     "zh": "Tom 在秋天找到了四片叶子。",
+     "audio": "media/sent/4e41abab3287.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/four.webp",
+    "uk": "media/uk/four.mp3",
+    "us": "media/us/four.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "five",
+   "word": "five",
+   "zh": "五",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "五"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "five"
+   ],
+   "emoji": "5️⃣",
+   "sentence": {
+    "en": "Max has five toys in his bed.",
+    "zh": "Max 的窝里有五个玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Max has five toys in his bed.",
+     "zh": "Max 的窝里有五个玩具。",
+     "audio": "media/sent/fb1cdcfe7173.mp3"
+    },
+    {
+     "en": "Lily has five fingers on her hand.",
+     "zh": "Lily 一只手上有五根手指。",
+     "audio": "media/sent/c323c36667d9.mp3"
+    },
+    {
+     "en": "There are five apples in the box.",
+     "zh": "盒子里有五个苹果。",
+     "audio": "media/sent/e7cb9111eef6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/five.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "six",
+   "word": "six",
+   "zh": "六",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "六"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "six"
+   ],
+   "emoji": "6️⃣",
+   "sentence": {
+    "en": "Six ducks swim in the water.",
+    "zh": "六只鸭子在水里游泳。"
+   },
+   "sentences": [
+    {
+     "en": "Six ducks swim in the water.",
+     "zh": "六只鸭子在水里游泳。",
+     "audio": "media/sent/3dbae661502b.mp3"
+    },
+    {
+     "en": "Tom has six pens.",
+     "zh": "Tom 有六支钢笔。",
+     "audio": "media/sent/52d1d67a57f3.mp3"
+    },
+    {
+     "en": "We see six birds in the tree.",
+     "zh": "我们在树上看到六只鸟。",
+     "audio": "media/sent/31d5a7907ead.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/six.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "seven",
+   "word": "seven",
+   "zh": "七",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "七"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sev",
+    "en"
+   ],
+   "emoji": "7️⃣",
+   "sentence": {
+    "en": "There are seven days in a week.",
+    "zh": "一周有七天。"
+   },
+   "sentences": [
+    {
+     "en": "There are seven days in a week.",
+     "zh": "一周有七天。",
+     "audio": "media/sent/13cda664705d.mp3"
+    },
+    {
+     "en": "Sam has seven books in his bag.",
+     "zh": "Sam 书包里有七本书。",
+     "audio": "media/sent/683f8deb23ec.mp3"
+    },
+    {
+     "en": "Lily goes up seven stairs.",
+     "zh": "Lily 上七级楼梯。",
+     "audio": "media/sent/ea47d9a555fb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seven.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eight",
+   "word": "eight",
+   "zh": "八",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "八"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "eight"
+   ],
+   "emoji": "8️⃣",
+   "sentence": {
+    "en": "Eight spiders are in the web.",
+    "zh": "网里有八只蜘蛛。"
+   },
+   "sentences": [
+    {
+     "en": "Eight spiders are in the web.",
+     "zh": "网里有八只蜘蛛。",
+     "audio": "media/sent/b58cdd0b6cdd.mp3"
+    },
+    {
+     "en": "Tom has eight blocks in his box.",
+     "zh": "Tom 盒子里有八个积木。",
+     "audio": "media/sent/2ff7d81e86c7.mp3"
+    },
+    {
+     "en": "We eat eight grapes.",
+     "zh": "我们吃了八颗葡萄。",
+     "audio": "media/sent/8165e44580d2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eight.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "nine",
+   "word": "nine",
+   "zh": "九",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "九"
+    }
+   ],
+   "ipa": "/naɪn/",
+   "chunks": [
+    "nine"
+   ],
+   "emoji": "9️⃣",
+   "sentence": {
+    "en": "Lily is nine years old.",
+    "zh": "Lily 九岁了。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is nine years old.",
+     "zh": "Lily 九岁了。",
+     "audio": "media/sent/2b50496f38da.mp3"
+    },
+    {
+     "en": "There are nine flowers in the room.",
+     "zh": "房间里有九朵花。",
+     "audio": "media/sent/79cf702b54a9.mp3"
+    },
+    {
+     "en": "Sam sees nine clouds in the sky.",
+     "zh": "Sam 看到天上有九朵云。",
+     "audio": "media/sent/f67151f6ee1e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nine.webp",
+    "uk": "media/uk/nine.mp3",
+    "us": "media/us/nine.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ten",
+   "word": "ten",
+   "zh": "十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ten"
+   ],
+   "emoji": "🔟",
+   "sentence": {
+    "en": "I have ten fingers.",
+    "zh": "我有十根手指。"
+   },
+   "sentences": [
+    {
+     "en": "I have ten fingers.",
+     "zh": "我有十根手指。",
+     "audio": "media/sent/4fa890def07f.mp3"
+    },
+    {
+     "en": "Ten children swim in the pool.",
+     "zh": "十个孩子在泳池里游泳。",
+     "audio": "media/sent/4736a871c6cc.mp3"
+    },
+    {
+     "en": "There are ten eggs in the box.",
+     "zh": "盒子里有十个鸡蛋。",
+     "audio": "media/sent/3f7546aaa840.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ten.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eleven",
+   "word": "eleven",
+   "zh": "十一",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十一"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "e",
+    "lev",
+    "en"
+   ],
+   "emoji": "1️⃣1️⃣",
+   "sentence": {
+    "en": "Lily has eleven cards.",
+    "zh": "Lily 有十一张卡片。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has eleven cards.",
+     "zh": "Lily 有十一张卡片。",
+     "audio": "media/sent/f1b2942846d8.mp3"
+    },
+    {
+     "en": "Sam is eleven years old.",
+     "zh": "Sam 十一岁了。",
+     "audio": "media/sent/af980bdd4a02.mp3"
+    },
+    {
+     "en": "We see eleven birds in the tree.",
+     "zh": "我们在树上看到十一只鸟。",
+     "audio": "media/sent/bf0873b15116.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eleven.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "twelve",
+   "word": "twelve",
+   "zh": "十二",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十二"
+    }
+   ],
+   "ipa": "/twelv/",
+   "chunks": [
+    "twelve"
+   ],
+   "emoji": "1️⃣2️⃣",
+   "sentence": {
+    "en": "There are twelve months in a year.",
+    "zh": "一年有十二个月。"
+   },
+   "sentences": [
+    {
+     "en": "There are twelve months in a year.",
+     "zh": "一年有十二个月。",
+     "audio": "media/sent/eb32a94c3aae.mp3"
+    },
+    {
+     "en": "Tom has twelve pens.",
+     "zh": "Tom 有十二支钢笔。",
+     "audio": "media/sent/a0e9b89f9368.mp3"
+    },
+    {
+     "en": "We eat twelve apples today.",
+     "zh": "我们今天吃十二个苹果。",
+     "audio": "media/sent/6032399bdf48.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/twelve.webp",
+    "uk": "media/uk/twelve.mp3",
+    "us": "media/us/twelve.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "thirteen",
+   "word": "thirteen",
+   "zh": "十三",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十三"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "thir",
+    "teen"
+   ],
+   "emoji": "1️⃣3️⃣",
+   "sentence": {
+    "en": "Sam has thirteen balls.",
+    "zh": "Sam 有十三个球。"
+   },
+   "sentences": [
+    {
+     "en": "Sam has thirteen balls.",
+     "zh": "Sam 有十三个球。",
+     "audio": "media/sent/2b792d164ba9.mp3"
+    },
+    {
+     "en": "Mia's brother is thirteen years old.",
+     "zh": "Mia 的哥哥十三岁了。",
+     "audio": "media/sent/27711236f7dd.mp3"
+    },
+    {
+     "en": "There are thirteen stairs up.",
+     "zh": "上面有十三级楼梯。",
+     "audio": "media/sent/8c6f29655be7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thirteen.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fourteen",
+   "word": "fourteen",
+   "zh": "十四",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十四"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "four",
+    "teen"
+   ],
+   "emoji": "1️⃣4️⃣",
+   "sentence": {
+    "en": "There are fourteen pages in this book.",
+    "zh": "这本书有十四页。"
+   },
+   "sentences": [
+    {
+     "en": "There are fourteen pages in this book.",
+     "zh": "这本书有十四页。",
+     "audio": "media/sent/c7316200fe23.mp3"
+    },
+    {
+     "en": "Tom has fourteen cards.",
+     "zh": "Tom 有十四张卡片。",
+     "audio": "media/sent/aea4b1acec3c.mp3"
+    },
+    {
+     "en": "We see fourteen stars tonight.",
+     "zh": "我们今晚看到十四颗星星。",
+     "audio": "media/sent/71588c0bfc43.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fourteen.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fifteen",
+   "word": "fifteen",
+   "zh": "十五",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十五"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "fif",
+    "teen"
+   ],
+   "emoji": "1️⃣5️⃣",
+   "sentence": {
+    "en": "Lily has fifteen minutes left.",
+    "zh": "Lily 还有十五分钟。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has fifteen minutes left.",
+     "zh": "Lily 还有十五分钟。",
+     "audio": "media/sent/0e8bff16f123.mp3"
+    },
+    {
+     "en": "The film starts in fifteen minutes.",
+     "zh": "电影十五分钟后开始。",
+     "audio": "media/sent/1b9fae2e40a7.mp3"
+    },
+    {
+     "en": "There are fifteen eggs in the box.",
+     "zh": "盒子里有十五个鸡蛋。",
+     "audio": "media/sent/356744492f89.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fifteen.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sixteen",
+   "word": "sixteen",
+   "zh": "十六",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十六"
+    }
+   ],
+   "ipa": "/ˌsɪkˈstiːn/",
+   "chunks": [
+    "six",
+    "teen"
+   ],
+   "emoji": "1️⃣6️⃣",
+   "sentence": {
+    "en": "Tom has sixteen cards.",
+    "zh": "Tom 有十六张卡片。"
+   },
+   "sentences": [
+    {
+     "en": "Tom has sixteen cards.",
+     "zh": "Tom 有十六张卡片。",
+     "audio": "media/sent/cf5eb1277db0.mp3"
+    },
+    {
+     "en": "Lily sees sixteen birds in the tree.",
+     "zh": "Lily 看到树上有十六只鸟。",
+     "audio": "media/sent/144df70629cb.mp3"
+    },
+    {
+     "en": "We have sixteen cookies.",
+     "zh": "我们有十六块饼干。",
+     "audio": "media/sent/533c3e204140.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sixteen.webp",
+    "uk": "media/uk/sixteen.mp3",
+    "us": "media/us/sixteen.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "seventeen",
+   "word": "seventeen",
+   "zh": "十七",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十七"
+    }
+   ],
+   "ipa": "/ˌsevənˈtiːn/",
+   "chunks": [
+    "sev",
+    "en",
+    "teen"
+   ],
+   "emoji": "1️⃣7️⃣",
+   "sentence": {
+    "en": "There are seventeen stairs up.",
+    "zh": "上面有十七级楼梯。"
+   },
+   "sentences": [
+    {
+     "en": "There are seventeen stairs up.",
+     "zh": "上面有十七级楼梯。",
+     "audio": "media/sent/7f471a9943ec.mp3"
+    },
+    {
+     "en": "Mia's sister is seventeen.",
+     "zh": "Mia 的姐姐十七岁。",
+     "audio": "media/sent/e79c4cc2b8f8.mp3"
+    },
+    {
+     "en": "Tom has seventeen cards.",
+     "zh": "Tom 有十七张卡片。",
+     "audio": "media/sent/f6ba181b0c14.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seventeen.webp",
+    "uk": "media/uk/seventeen.mp3",
+    "us": "media/us/seventeen.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eighteen",
+   "word": "eighteen",
+   "zh": "十八",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十八"
+    }
+   ],
+   "ipa": "/ˌeɪˈtiːn/",
+   "chunks": [
+    "eigh",
+    "teen"
+   ],
+   "emoji": "1️⃣8️⃣",
+   "sentence": {
+    "en": "Lily has eighteen pens.",
+    "zh": "Lily 有十八支钢笔。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has eighteen pens.",
+     "zh": "Lily 有十八支钢笔。",
+     "audio": "media/sent/405b52ecb986.mp3"
+    },
+    {
+     "en": "Eighteen children are on the bus.",
+     "zh": "公共汽车上有十八个孩子。",
+     "audio": "media/sent/e701d8c50869.mp3"
+    },
+    {
+     "en": "There are eighteen eggs in the box.",
+     "zh": "盒子里有十八个鸡蛋。",
+     "audio": "media/sent/f742e434991d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eighteen.webp",
+    "uk": "media/uk/eighteen.mp3",
+    "us": "media/us/eighteen.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "nineteen",
+   "word": "nineteen",
+   "zh": "十九",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "十九"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "nine",
+    "teen"
+   ],
+   "emoji": "1️⃣9️⃣",
+   "sentence": {
+    "en": "Sam has nineteen balls.",
+    "zh": "Sam 有十九个球。"
+   },
+   "sentences": [
+    {
+     "en": "Sam has nineteen balls.",
+     "zh": "Sam 有十九个球。",
+     "audio": "media/sent/17c23c732537.mp3"
+    },
+    {
+     "en": "Grandpa has nineteen sheep.",
+     "zh": "爷爷有十九只羊。",
+     "audio": "media/sent/87677a49452a.mp3"
+    },
+    {
+     "en": "We see nineteen clouds today.",
+     "zh": "我们今天看到十九朵云。",
+     "audio": "media/sent/31c594783de9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nineteen.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "twenty",
+   "word": "twenty",
+   "zh": "二十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "二十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "twen",
+    "ty"
+   ],
+   "emoji": "2️⃣0️⃣",
+   "sentence": {
+    "en": "There are twenty days left.",
+    "zh": "还剩二十天。"
+   },
+   "sentences": [
+    {
+     "en": "There are twenty days left.",
+     "zh": "还剩二十天。",
+     "audio": "media/sent/9cad5f1b5281.mp3"
+    },
+    {
+     "en": "Tom has twenty cards.",
+     "zh": "Tom 有二十张卡片。",
+     "audio": "media/sent/276d73bfe42c.mp3"
+    },
+    {
+     "en": "Twenty children are in Lily's class.",
+     "zh": "Lily 班上有二十个孩子。",
+     "audio": "media/sent/c49623e40961.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/twenty.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "thirty",
+   "word": "thirty",
+   "zh": "三十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "三十"
+    }
+   ],
+   "ipa": "/ˈθɜːti/",
+   "chunks": [
+    "thir",
+    "ty"
+   ],
+   "emoji": "3️⃣0️⃣",
+   "sentence": {
+    "en": "Mum's friend is thirty years old.",
+    "zh": "妈妈的朋友三十岁了。"
+   },
+   "sentences": [
+    {
+     "en": "Mum's friend is thirty years old.",
+     "zh": "妈妈的朋友三十岁了。",
+     "audio": "media/sent/d2502aae565c.mp3"
+    },
+    {
+     "en": "There are thirty eggs in the box.",
+     "zh": "盒子里有三十个鸡蛋。",
+     "audio": "media/sent/e0f638c80043.mp3"
+    },
+    {
+     "en": "Mum waits thirty minutes for the bus.",
+     "zh": "妈妈等公交车等了三十分钟。",
+     "audio": "media/sent/ef662fe10b0f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thirty.webp",
+    "uk": "media/uk/thirty.mp3",
+    "us": "media/us/thirty.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "forty",
+   "word": "forty",
+   "zh": "四十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "四十"
+    }
+   ],
+   "ipa": "/ˈfɔːti/",
+   "chunks": [
+    "for",
+    "ty"
+   ],
+   "emoji": "4️⃣0️⃣",
+   "sentence": {
+    "en": "Dad drives at forty kilometres per hour.",
+    "zh": "爸爸以每小时四十公里的速度开车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drives at forty kilometres per hour.",
+     "zh": "爸爸以每小时四十公里的速度开车。",
+     "audio": "media/sent/98a6ab1f701b.mp3"
+    },
+    {
+     "en": "The beach is forty minutes away by car.",
+     "zh": "开车去海滩要四十分钟。",
+     "audio": "media/sent/1ef4358dab35.mp3"
+    },
+    {
+     "en": "We need forty cups for the party.",
+     "zh": "派对需要四十个杯子。",
+     "audio": "media/sent/b62587faf03d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/forty.webp",
+    "uk": "media/uk/forty.mp3",
+    "us": "media/us/forty.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fifty",
+   "word": "fifty",
+   "zh": "五十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "五十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "fif",
+    "ty"
+   ],
+   "emoji": "5️⃣0️⃣",
+   "sentence": {
+    "en": "Lily has fifty pictures in her book.",
+    "zh": "Lily 的书里有五十张图片。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has fifty pictures in her book.",
+     "zh": "Lily 的书里有五十张图片。",
+     "audio": "media/sent/2f21cc69254d.mp3"
+    },
+    {
+     "en": "Grandma pays fifty pounds for the coat.",
+     "zh": "奶奶花了五十英镑买这件外套。",
+     "audio": "media/sent/4f9a09dcdc1d.mp3"
+    },
+    {
+     "en": "Tom waits fifty seconds.",
+     "zh": "Tom 等了五十秒。",
+     "audio": "media/sent/f5e1ce8b8968.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fifty.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sixty",
+   "word": "sixty",
+   "zh": "六十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "六十"
+    }
+   ],
+   "ipa": "/ˈsɪksti/",
+   "chunks": [
+    "six",
+    "ty"
+   ],
+   "emoji": "6️⃣0️⃣",
+   "sentence": {
+    "en": "Grandma is sixty years old.",
+    "zh": "奶奶六十岁。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma is sixty years old.",
+     "zh": "奶奶六十岁。",
+     "audio": "media/sent/62449d09b218.mp3"
+    },
+    {
+     "en": "One hour has sixty minutes.",
+     "zh": "一小时有六十分钟。",
+     "audio": "media/sent/3f4df4fa34a7.mp3"
+    },
+    {
+     "en": "Dad runs sixty metres to catch the bus.",
+     "zh": "爸爸跑了六十米去赶公交车。",
+     "audio": "media/sent/4d028e48f99f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sixty.webp",
+    "uk": "media/uk/sixty.mp3",
+    "us": "media/us/sixty.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "seventy",
+   "word": "seventy",
+   "zh": "七十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "七十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sev",
+    "en",
+    "ty"
+   ],
+   "emoji": "7️⃣0️⃣",
+   "sentence": {
+    "en": "The film is seventy minutes long.",
+    "zh": "这部电影长七十分钟。"
+   },
+   "sentences": [
+    {
+     "en": "The film is seventy minutes long.",
+     "zh": "这部电影长七十分钟。",
+     "audio": "media/sent/a8289f3d1043.mp3"
+    },
+    {
+     "en": "Grandpa is seventy years old.",
+     "zh": "爷爷七十岁了。",
+     "audio": "media/sent/7b64860fa080.mp3"
+    },
+    {
+     "en": "There are seventy students in the hall.",
+     "zh": "大厅里有七十名学生。",
+     "audio": "media/sent/64cebc9130b6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seventy.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eighty",
+   "word": "eighty",
+   "zh": "八十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "八十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "eigh",
+    "ty"
+   ],
+   "emoji": "8️⃣0️⃣",
+   "sentence": {
+    "en": "Grandma's mum is eighty years old.",
+    "zh": "奶奶的妈妈八十岁了。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma's mum is eighty years old.",
+     "zh": "奶奶的妈妈八十岁了。",
+     "audio": "media/sent/ba1e8f97042e.mp3"
+    },
+    {
+     "en": "The bus carries eighty passengers.",
+     "zh": "这辆公交车载着八十名乘客。",
+     "audio": "media/sent/7cd94976510e.mp3"
+    },
+    {
+     "en": "Sam scores eighty points in the game.",
+     "zh": "Sam 在比赛中得了八十分。",
+     "audio": "media/sent/730813291f28.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eighty.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ninety",
+   "word": "ninety",
+   "zh": "九十",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "九十"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "nine",
+    "ty"
+   ],
+   "emoji": "9️⃣0️⃣",
+   "sentence": {
+    "en": "Grandpa's dad is ninety years old.",
+    "zh": "爷爷的爸爸九十岁了。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa's dad is ninety years old.",
+     "zh": "爷爷的爸爸九十岁了。",
+     "audio": "media/sent/9f02139b6660.mp3"
+    },
+    {
+     "en": "Tom runs ninety metres in the park.",
+     "zh": "Tom 在公园里跑了九十米。",
+     "audio": "media/sent/5fd10ba337a6.mp3"
+    },
+    {
+     "en": "There are ninety books on the shelf.",
+     "zh": "书架上有九十本书。",
+     "audio": "media/sent/10d5870aeee9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ninety.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "hundred",
+   "word": "hundred",
+   "zh": "百",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "百"
+    }
+   ],
+   "ipa": "/ˈhʌndrəd/",
+   "chunks": [
+    "hun",
+    "dred"
+   ],
+   "emoji": "💯",
+   "sentence": {
+    "en": "Lily reads a hundred books.",
+    "zh": "Lily 读了一百本书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads a hundred books.",
+     "zh": "Lily 读了一百本书。",
+     "audio": "media/sent/cd346c883362.mp3"
+    },
+    {
+     "en": "We walk a hundred metres to school.",
+     "zh": "我们走一百米去学校。",
+     "audio": "media/sent/320c7047b740.mp3"
+    },
+    {
+     "en": "Dad has a hundred photos in his bag.",
+     "zh": "爸爸包里有百张照片。",
+     "audio": "media/sent/1024da76bd23.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hundred.webp",
+    "uk": "media/uk/hundred.mp3",
+    "us": "media/us/hundred.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "thousand",
+   "word": "thousand",
+   "zh": "千",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "千"
+    }
+   ],
+   "ipa": "/ˈθaʊzənd/",
+   "chunks": [
+    "thou",
+    "sand"
+   ],
+   "emoji": "🔢",
+   "sentence": {
+    "en": "The city has a thousand lights.",
+    "zh": "城市有一千盏灯。"
+   },
+   "sentences": [
+    {
+     "en": "The city has a thousand lights.",
+     "zh": "城市有一千盏灯。",
+     "audio": "media/sent/a4e70490d6e4.mp3"
+    },
+    {
+     "en": "Sam reads a thousand words today.",
+     "zh": "Sam 今天读了一千个单词。",
+     "audio": "media/sent/7a33240d51a6.mp3"
+    },
+    {
+     "en": "The stadium holds a thousand people.",
+     "zh": "体育场能容纳一千人。",
+     "audio": "media/sent/e172a95d84e6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thousand.webp",
+    "uk": "media/uk/thousand.mp3",
+    "us": "media/us/thousand.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "first",
+   "word": "first",
+   "zh": "第一（的）；首先",
+   "pos": [
+    "adv",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv",
+      "adj"
+     ],
+     "zh": "第一（的）；首先"
+    }
+   ],
+   "ipa": "/fɜːst/",
+   "chunks": [
+    "first"
+   ],
+   "emoji": "🥇",
+   "sentence": {
+    "en": "Lily finishes first in the race.",
+    "zh": "Lily 在比赛中得第一名。"
+   },
+   "sentences": [
+    {
+     "en": "Lily finishes first in the race.",
+     "zh": "Lily 在比赛中得第一名。",
+     "audio": "media/sent/223975d28ca4.mp3"
+    },
+    {
+     "en": "Tom opens his present first.",
+     "zh": "Tom 首先打开他的礼物。",
+     "audio": "media/sent/d773df15514f.mp3"
+    },
+    {
+     "en": "This is my first day at school.",
+     "zh": "这是我上学的第一天。",
+     "audio": "media/sent/305a6064d602.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/first.webp",
+    "uk": "media/uk/first.mp3",
+    "us": "media/us/first.mp3"
+   },
+   "avoid": [
+    "second.2",
+    "third"
+   ]
+  },
+  {
+   "id": "second",
+   "word": "second",
+   "zh": "秒；第二（的）",
+   "pos": [
+    "adj",
+    "det",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det",
+      "n"
+     ],
+     "zh": "秒；第二（的）"
+    }
+   ],
+   "ipa": "/ˈsekənd/",
+   "chunks": [
+    "sec",
+    "ond"
+   ],
+   "emoji": "⏱️",
+   "sentence": {
+    "en": "Max waits two seconds.",
+    "zh": "Max 等了两秒。"
+   },
+   "sentences": [
+    {
+     "en": "Max waits two seconds.",
+     "zh": "Max 等了两秒。",
+     "audio": "media/sent/5e1d66b63546.mp3"
+    },
+    {
+     "en": "Wait ten seconds.",
+     "zh": "等十秒。",
+     "audio": "media/sent/74237a67bd33.mp3"
+    },
+    {
+     "en": "The light changes in one second.",
+     "zh": "灯一秒后变了。",
+     "audio": "media/sent/df945a4b2f81.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/second.webp",
+    "uk": "media/uk/second.mp3",
+    "us": "media/us/second.mp3"
+   },
+   "avoid": [
+    "second.2"
+   ]
+  },
+  {
+   "id": "second.2",
+   "word": "second",
+   "zh": "第二（的）",
+   "pos": [
+    "adj",
+    "det",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det"
+     ],
+     "zh": "第二（的）"
+    },
+    {
+     "pos": [
+      "adj",
+      "det",
+      "n"
+     ],
+     "zh": "秒；第二（的）"
+    }
+   ],
+   "ipa": "/ˈsekənd/",
+   "chunks": [
+    "sec",
+    "ond"
+   ],
+   "emoji": "🥈",
+   "sentence": {
+    "en": "Lily is second in the race.",
+    "zh": "Lily 在比赛中得第二名。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is second in the race.",
+     "zh": "Lily 在比赛中得第二名。",
+     "audio": "media/sent/eef76f2abef3.mp3"
+    },
+    {
+     "en": "This is my second book.",
+     "zh": "这是我的第二本书。",
+     "audio": "media/sent/f80985c90865.mp3"
+    },
+    {
+     "en": "Tom gets the second prize.",
+     "zh": "Tom 得了二等奖。",
+     "audio": "media/sent/d24af4e30ebe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/second.2.webp",
+    "uk": "media/uk/second.mp3",
+    "us": "media/us/second.mp3"
+   },
+   "of": "second",
+   "ofZh": "秒；第二（的）",
+   "avoid": [
+    "first",
+    "second",
+    "third"
+   ]
+  },
+  {
+   "id": "third",
+   "word": "third",
+   "zh": "第三（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第三（的）"
+    }
+   ],
+   "ipa": "/θɜːd/",
+   "chunks": [
+    "third"
+   ],
+   "emoji": "🥉",
+   "sentence": {
+    "en": "Mia is third in the game.",
+    "zh": "Mia 在游戏中得第三名。"
+   },
+   "sentences": [
+    {
+     "en": "Mia is third in the game.",
+     "zh": "Mia 在游戏中得第三名。",
+     "audio": "media/sent/697efea43487.mp3"
+    },
+    {
+     "en": "This is my third apple.",
+     "zh": "这是我的第三个苹果。",
+     "audio": "media/sent/0f71a7aa3c32.mp3"
+    },
+    {
+     "en": "Get off the bus at the third stop.",
+     "zh": "在第三站下车。",
+     "audio": "media/sent/24baef78b028.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/third.webp",
+    "uk": "media/uk/third.mp3",
+    "us": "media/us/third.mp3"
+   },
+   "avoid": [
+    "first",
+    "second.2"
+   ]
+  },
+  {
+   "id": "fourth",
+   "word": "fourth",
+   "zh": "第四（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第四（的）"
+    }
+   ],
+   "ipa": "/fɔːθ/",
+   "chunks": [
+    "fourth"
+   ],
+   "emoji": "4️⃣",
+   "sentence": {
+    "en": "Tom lives on the fourth floor.",
+    "zh": "Tom 住在四楼。"
+   },
+   "sentences": [
+    {
+     "en": "Tom lives on the fourth floor.",
+     "zh": "Tom 住在四楼。",
+     "audio": "media/sent/d0229c76bba3.mp3"
+    },
+    {
+     "en": "It is the fourth day of school.",
+     "zh": "这是上学的第四天。",
+     "audio": "media/sent/89a75897d95c.mp3"
+    },
+    {
+     "en": "Lily opens the fourth box.",
+     "zh": "Lily 打开第四个盒子。",
+     "audio": "media/sent/cef1b9e292ab.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fourth.webp",
+    "uk": "media/uk/fourth.mp3",
+    "us": "media/us/fourth.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fifth",
+   "word": "fifth",
+   "zh": "第五（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第五（的）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "fifth"
+   ],
+   "emoji": "5️⃣",
+   "sentence": {
+    "en": "Lily likes the fifth song.",
+    "zh": "Lily 喜欢第五首歌。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes the fifth song.",
+     "zh": "Lily 喜欢第五首歌。",
+     "audio": "media/sent/e7363a5815ae.mp3"
+    },
+    {
+     "en": "Tom has his fifth tooth today.",
+     "zh": "Tom 今天长了第五颗牙。",
+     "audio": "media/sent/c9eabd1249b1.mp3"
+    },
+    {
+     "en": "Grandma's birthday is on the fifth of May.",
+     "zh": "奶奶的生日在五月五日。",
+     "audio": "media/sent/9353894be7f1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fifth.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sixth",
+   "word": "sixth",
+   "zh": "第六（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第六（的）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sixth"
+   ],
+   "emoji": "6️⃣",
+   "sentence": {
+    "en": "Sam is sixth in the line.",
+    "zh": "Sam 排在队伍第六位。"
+   },
+   "sentences": [
+    {
+     "en": "Sam is sixth in the line.",
+     "zh": "Sam 排在队伍第六位。",
+     "audio": "media/sent/6de9e00005d0.mp3"
+    },
+    {
+     "en": "Tom has his sixth birthday party.",
+     "zh": "Tom 过六岁生日派对。",
+     "audio": "media/sent/ee59868773ca.mp3"
+    },
+    {
+     "en": "The bus comes at the sixth stop.",
+     "zh": "公交车在第六站来了。",
+     "audio": "media/sent/ba7ef8a2e8dc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sixth.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "seventh",
+   "word": "seventh",
+   "zh": "第七（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第七（的）"
+    }
+   ],
+   "ipa": "/ˈsevənθ/",
+   "chunks": [
+    "seventh"
+   ],
+   "emoji": "7️⃣",
+   "sentence": {
+    "en": "Lily has the seventh key.",
+    "zh": "Lily 有第七把钥匙。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has the seventh key.",
+     "zh": "Lily 有第七把钥匙。",
+     "audio": "media/sent/51edf7cba651.mp3"
+    },
+    {
+     "en": "It is the seventh day of the week.",
+     "zh": "这是一周的第七天。",
+     "audio": "media/sent/fc255920694a.mp3"
+    },
+    {
+     "en": "Tom walks to the seventh house.",
+     "zh": "Tom 走到第七栋房子。",
+     "audio": "media/sent/19dd9d30a24c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seventh.webp",
+    "uk": "media/uk/seventh.mp3",
+    "us": "media/us/seventh.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eighth",
+   "word": "eighth",
+   "zh": "第八（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第八（的）"
+    }
+   ],
+   "ipa": "/eɪtθ/",
+   "chunks": [
+    "eighth"
+   ],
+   "emoji": "8️⃣",
+   "sentence": {
+    "en": "Mia is eighth in the class.",
+    "zh": "Mia 在班上排第八。"
+   },
+   "sentences": [
+    {
+     "en": "Mia is eighth in the class.",
+     "zh": "Mia 在班上排第八。",
+     "audio": "media/sent/cd101f071143.mp3"
+    },
+    {
+     "en": "This is my eighth pencil.",
+     "zh": "这是我的第八支铅笔。",
+     "audio": "media/sent/e994f28ff1c3.mp3"
+    },
+    {
+     "en": "Mia's birthday is on the eighth of March.",
+     "zh": "Mia 的生日在三月八日。",
+     "audio": "media/sent/c706779bd2ce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eighth.webp",
+    "uk": "media/uk/eighth.mp3",
+    "us": "media/us/eighth.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ninth",
+   "word": "ninth",
+   "zh": "第九（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第九（的）"
+    }
+   ],
+   "ipa": "/naɪnθ/",
+   "chunks": [
+    "ninth"
+   ],
+   "emoji": "9️⃣",
+   "sentence": {
+    "en": "Tom is ninth in the line.",
+    "zh": "Tom 在队伍里排第九。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is ninth in the line.",
+     "zh": "Tom 在队伍里排第九。",
+     "audio": "media/sent/7335eeb6772f.mp3"
+    },
+    {
+     "en": "It is the ninth day of autumn.",
+     "zh": "这是秋天的第九天。",
+     "audio": "media/sent/0387a35507f8.mp3"
+    },
+    {
+     "en": "Lily finds the ninth star.",
+     "zh": "Lily 找到了第九颗星星。",
+     "audio": "media/sent/4ce740f18105.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ninth.webp",
+    "uk": "media/uk/ninth.mp3",
+    "us": "media/us/ninth.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "tenth",
+   "word": "tenth",
+   "zh": "第十（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第十（的）"
+    }
+   ],
+   "ipa": "/tenθ/",
+   "chunks": [
+    "tenth"
+   ],
+   "emoji": "🔟",
+   "sentence": {
+    "en": "Today is Sam's tenth birthday.",
+    "zh": "今天是 Sam 的十岁生日。"
+   },
+   "sentences": [
+    {
+     "en": "Today is Sam's tenth birthday.",
+     "zh": "今天是 Sam 的十岁生日。",
+     "audio": "media/sent/90756afdb415.mp3"
+    },
+    {
+     "en": "This is my tenth book.",
+     "zh": "这是我的第十本书。",
+     "audio": "media/sent/348e67d91f28.mp3"
+    },
+    {
+     "en": "Tom waits for the tenth bus.",
+     "zh": "Tom 等第十辆公交车。",
+     "audio": "media/sent/0e44b745032d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tenth.webp",
+    "uk": "media/uk/tenth.mp3",
+    "us": "media/us/tenth.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "eleventh",
+   "word": "eleventh",
+   "zh": "第十一（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第十一（的）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "e",
+    "lev",
+    "enth"
+   ],
+   "emoji": "1️⃣1️⃣",
+   "sentence": {
+    "en": "Sam lives on the eleventh floor.",
+    "zh": "Sam 住在十一楼。"
+   },
+   "sentences": [
+    {
+     "en": "Sam lives on the eleventh floor.",
+     "zh": "Sam 住在十一楼。",
+     "audio": "media/sent/a9e1c806cd8d.mp3"
+    },
+    {
+     "en": "It is the eleventh day of May.",
+     "zh": "这是五月十一日。",
+     "audio": "media/sent/9bc5884a8341.mp3"
+    },
+    {
+     "en": "My birthday is on the eleventh of June.",
+     "zh": "我的生日在六月十一日。",
+     "audio": "media/sent/1b66031b78ea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eleventh.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "twelfth",
+   "word": "twelfth",
+   "zh": "第十二（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第十二（的）"
+    }
+   ],
+   "ipa": "/twelfθ/",
+   "chunks": [
+    "twelfth"
+   ],
+   "emoji": "1️⃣2️⃣",
+   "sentence": {
+    "en": "Tom is twelfth in the game.",
+    "zh": "Tom 在比赛中排第十二。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is twelfth in the game.",
+     "zh": "Tom 在比赛中排第十二。",
+     "audio": "media/sent/bc3c580d46d2.mp3"
+    },
+    {
+     "en": "This is my twelfth picture.",
+     "zh": "这是我的第十二张图片。",
+     "audio": "media/sent/eeb6cd82ccc9.mp3"
+    },
+    {
+     "en": "December is the twelfth month of the year.",
+     "zh": "十二月是一年的第十二个月。",
+     "audio": "media/sent/8290625bbeda.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/twelfth.webp",
+    "uk": "media/uk/twelfth.mp3",
+    "us": "media/us/twelfth.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "twentieth",
+   "word": "twentieth",
+   "zh": "第二十（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第二十（的）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "twen",
+    "ti",
+    "eth"
+   ],
+   "emoji": "2️⃣0️⃣",
+   "sentence": {
+    "en": "Dad works on the twentieth floor.",
+    "zh": "爸爸在二十楼工作。"
+   },
+   "sentences": [
+    {
+     "en": "Dad works on the twentieth floor.",
+     "zh": "爸爸在二十楼工作。",
+     "audio": "media/sent/3b42387cc048.mp3"
+    },
+    {
+     "en": "It is the twentieth day of term.",
+     "zh": "这是学期的第二十天。",
+     "audio": "media/sent/e34f45fb56e2.mp3"
+    },
+    {
+     "en": "Grandpa's birthday is on the twentieth of July.",
+     "zh": "爷爷的生日在七月二十日。",
+     "audio": "media/sent/d0efd75033bd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/twentieth.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "thirtieth",
+   "word": "thirtieth",
+   "zh": "第三十（的）",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "第三十（的）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "thir",
+    "ti",
+    "eth"
+   ],
+   "emoji": "3️⃣0️⃣",
+   "sentence": {
+    "en": "Mia's aunt has her thirtieth birthday party today.",
+    "zh": "Mia 的阿姨今天开三十岁生日派对。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's aunt has her thirtieth birthday party today.",
+     "zh": "Mia 的阿姨今天开三十岁生日派对。",
+     "audio": "media/sent/87d9362e8c08.mp3"
+    },
+    {
+     "en": "June the thirtieth is the last day of June.",
+     "zh": "六月三十日是六月的最后一天。",
+     "audio": "media/sent/f1e9630a4e79.mp3"
+    },
+    {
+     "en": "Is your party on the thirtieth?",
+     "zh": "你的派对是在三十号吗？",
+     "audio": "media/sent/ee5a7172663e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thirtieth.webp"
+   },
+   "avoid": []
+  }
+ ]
+}

@@ -8,6 +8,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "动物"
+    }
+   ],
    "ipa": "/ˈænɪməl/",
    "chunks": [
     "an",
@@ -19,11 +27,38 @@
     "en": "Max is a happy animal.",
     "zh": "Max 是一只快乐的动物。"
    },
+   "sentences": [
+    {
+     "en": "Max is a happy animal.",
+     "zh": "Max 是一只快乐的动物。",
+     "audio": "media/sent/0a76550b7475.mp3"
+    },
+    {
+     "en": "A cow is a big animal.",
+     "zh": "奶牛是一种大动物。",
+     "audio": "media/sent/4871cbd7e034.mp3"
+    },
+    {
+     "en": "What is your favourite animal?",
+     "zh": "你最喜欢什么动物？",
+     "audio": "media/sent/5a56bf3febd0.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/animal.webp",
     "uk": "media/uk/animal.mp3",
     "us": "media/us/animal.mp3"
-   }
+   },
+   "avoid": [
+    "cat",
+    "cow",
+    "dog",
+    "puppy",
+    "rabbit",
+    "wild",
+    "wildlife",
+    "zoo"
+   ]
   },
   {
    "id": "bear",
@@ -31,6 +66,14 @@
    "zh": "熊",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "熊"
+    }
    ],
    "ipa": "/beə/",
    "chunks": [
@@ -41,10 +84,31 @@
     "en": "The big brown bear is sleeping.",
     "zh": "那只棕色的大熊在睡觉。"
    },
+   "sentences": [
+    {
+     "en": "The big brown bear is sleeping.",
+     "zh": "那只棕色的大熊在睡觉。",
+     "audio": "media/sent/b13d8e457d6a.mp3"
+    },
+    {
+     "en": "A bear lives in the forest.",
+     "zh": "熊住在森林里。",
+     "audio": "media/sent/ffd3bb286ff9.mp3"
+    },
+    {
+     "en": "The baby bear is eating honey.",
+     "zh": "小熊在吃蜂蜜。",
+     "audio": "media/sent/83eff4c91e1e.mp3"
+    }
+   ],
    "media": {
+    "img": "media/img/bear.webp",
     "uk": "media/uk/bear.mp3",
     "us": "media/us/bear.mp3"
-   }
+   },
+   "avoid": [
+    "polar-bear"
+   ]
   },
   {
    "id": "bee",
@@ -52,6 +116,14 @@
    "zh": "蜜蜂",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蜜蜂"
+    }
    ],
    "ipa": "/biː/",
    "chunks": [
@@ -62,11 +134,34 @@
     "en": "A bee is on the flower.",
     "zh": "一只蜜蜂在花上。"
    },
+   "sentences": [
+    {
+     "en": "A bee is on the flower.",
+     "zh": "一只蜜蜂在花上。",
+     "audio": "media/sent/f611198c327b.mp3"
+    },
+    {
+     "en": "The bee makes honey.",
+     "zh": "蜜蜂会酿蜂蜜。",
+     "audio": "media/sent/5d55647176a5.mp3"
+    },
+    {
+     "en": "Look! A bee is flying near the flowers.",
+     "zh": "看！一只蜜蜂在花旁边飞。",
+     "audio": "media/sent/9b142d2bb18b.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/bee.webp",
     "uk": "media/uk/bee.mp3",
     "us": "media/us/bee.mp3"
-   }
+   },
+   "avoid": [
+    "beetle",
+    "butterfly",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "beetle",
@@ -74,6 +169,14 @@
    "zh": "甲虫",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "甲虫"
+    }
    ],
    "ipa": "/ˈbiːtəl/",
    "chunks": [
@@ -85,11 +188,34 @@
     "en": "Lily finds a black beetle.",
     "zh": "Lily 发现了一只黑色的甲虫。"
    },
+   "sentences": [
+    {
+     "en": "Lily finds a black beetle.",
+     "zh": "Lily 发现了一只黑色的甲虫。",
+     "audio": "media/sent/c325ea570df8.mp3"
+    },
+    {
+     "en": "A beetle has six legs.",
+     "zh": "甲虫有六条腿。",
+     "audio": "media/sent/c7ecab3d9402.mp3"
+    },
+    {
+     "en": "A beetle is a small black insect.",
+     "zh": "甲虫是一种黑色的小昆虫。",
+     "audio": "media/sent/aa49594dbc33.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/beetle.webp",
     "uk": "media/uk/beetle.mp3",
     "us": "media/us/beetle.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "butterfly",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "bird",
@@ -97,6 +223,14 @@
    "zh": "鸟",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鸟"
+    }
    ],
    "ipa": "/bɜːd/",
    "chunks": [
@@ -107,11 +241,36 @@
     "en": "The bird can sing.",
     "zh": "这只鸟会唱歌。"
    },
+   "sentences": [
+    {
+     "en": "The bird can sing.",
+     "zh": "这只鸟会唱歌。",
+     "audio": "media/sent/244e4881e7f0.mp3"
+    },
+    {
+     "en": "A bird has two wings.",
+     "zh": "鸟有两只翅膀。",
+     "audio": "media/sent/24aca3431ac0.mp3"
+    },
+    {
+     "en": "There is a bird in the tree.",
+     "zh": "树上有一只鸟。",
+     "audio": "media/sent/604303d995bd.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/bird.webp",
     "uk": "media/uk/bird.mp3",
     "us": "media/us/bird.mp3"
-   }
+   },
+   "avoid": [
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "butterfly",
@@ -119,6 +278,14 @@
    "zh": "蝴蝶",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蝴蝶"
+    }
    ],
    "ipa": "/ˈbʌtəflaɪ/",
    "chunks": [
@@ -131,11 +298,34 @@
     "en": "Look at the pretty butterfly!",
     "zh": "看那只漂亮的蝴蝶！"
    },
+   "sentences": [
+    {
+     "en": "Look at the pretty butterfly!",
+     "zh": "看那只漂亮的蝴蝶！",
+     "audio": "media/sent/349b39539185.mp3"
+    },
+    {
+     "en": "The butterfly has blue wings.",
+     "zh": "这只蝴蝶有蓝色的翅膀。",
+     "audio": "media/sent/332138ff557b.mp3"
+    },
+    {
+     "en": "A butterfly is sitting on the flower.",
+     "zh": "一只蝴蝶停在花上。",
+     "audio": "media/sent/da2f33f73621.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/butterfly.webp",
     "uk": "media/uk/butterfly.mp3",
     "us": "media/us/butterfly.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "insect",
+    "spider"
+   ]
   },
   {
    "id": "camel",
@@ -143,6 +333,14 @@
    "zh": "骆驼",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "骆驼"
+    }
    ],
    "ipa": "/ˈkæməl/",
    "chunks": [
@@ -154,7 +352,27 @@
     "en": "A camel lives in the desert.",
     "zh": "骆驼生活在沙漠里。"
    },
-   "media": {}
+   "sentences": [
+    {
+     "en": "A camel lives in the desert.",
+     "zh": "骆驼生活在沙漠里。",
+     "audio": "media/sent/ae36a588bdd4.mp3"
+    },
+    {
+     "en": "A camel can walk for a long time without water.",
+     "zh": "骆驼不喝水也能走很久。",
+     "audio": "media/sent/e7d3cec860f8.mp3"
+    },
+    {
+     "en": "Lily rides a camel on holiday.",
+     "zh": "Lily 度假时骑了骆驼。",
+     "audio": "media/sent/ac1c09dc83e6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/camel.webp"
+   },
+   "avoid": []
   },
   {
    "id": "cat",
@@ -163,20 +381,54 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "猫"
+    }
+   ],
    "ipa": "/kæt/",
    "chunks": [
     "cat"
    ],
    "emoji": "🐱",
    "sentence": {
-    "en": "Max and the cat are friends.",
-    "zh": "Max 和小猫是朋友。"
+    "en": "The cat has green eyes.",
+    "zh": "这只猫有绿色的眼睛。"
    },
+   "sentences": [
+    {
+     "en": "The cat has green eyes.",
+     "zh": "这只猫有绿色的眼睛。",
+     "audio": "media/sent/2fb432e0bce7.mp3"
+    },
+    {
+     "en": "The cat is sleeping on the bed.",
+     "zh": "猫在床上睡觉。",
+     "audio": "media/sent/9f55bdc0c68e.mp3"
+    },
+    {
+     "en": "Our cat drinks milk.",
+     "zh": "我们的猫喝牛奶。",
+     "audio": "media/sent/898525732444.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/cat.webp",
     "uk": "media/uk/cat.mp3",
     "us": "media/us/cat.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "cow",
+    "dog",
+    "kitten",
+    "pet",
+    "puppy",
+    "rabbit"
+   ]
   },
   {
    "id": "chicken",
@@ -184,6 +436,14 @@
    "zh": "鸡；鸡肉",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鸡；鸡肉"
+    }
    ],
    "ipa": "/ˈtʃɪkɪn/",
    "chunks": [
@@ -195,11 +455,36 @@
     "en": "The chicken has a red head.",
     "zh": "这只鸡的头是红色的。"
    },
+   "sentences": [
+    {
+     "en": "The chicken has a red head.",
+     "zh": "这只鸡的头是红色的。",
+     "audio": "media/sent/e663a0a73695.mp3"
+    },
+    {
+     "en": "The chicken lives on a farm.",
+     "zh": "鸡住在农场上。",
+     "audio": "media/sent/9297a94a001a.mp3"
+    },
+    {
+     "en": "Mum cooks chicken for dinner.",
+     "zh": "妈妈晚饭做鸡肉。",
+     "audio": "media/sent/aa9321db36a6.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/chicken.webp",
     "uk": "media/uk/chicken.mp3",
     "us": "media/us/chicken.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "cow",
@@ -207,6 +492,14 @@
    "zh": "奶牛",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奶牛"
+    }
    ],
    "ipa": "/kaʊ/",
    "chunks": [
@@ -217,11 +510,35 @@
     "en": "We get milk from a cow.",
     "zh": "我们从奶牛那里得到牛奶。"
    },
+   "sentences": [
+    {
+     "en": "We get milk from a cow.",
+     "zh": "我们从奶牛那里得到牛奶。",
+     "audio": "media/sent/8a562e8f8d71.mp3"
+    },
+    {
+     "en": "The cow is eating grass.",
+     "zh": "奶牛在吃草。",
+     "audio": "media/sent/dedeb777def2.mp3"
+    },
+    {
+     "en": "A cow is black and white.",
+     "zh": "奶牛是黑白相间的。",
+     "audio": "media/sent/85804e4b22d2.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/cow.webp",
     "uk": "media/uk/cow.mp3",
     "us": "media/us/cow.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "cat",
+    "dog",
+    "puppy",
+    "rabbit"
+   ]
   },
   {
    "id": "crocodile",
@@ -229,6 +546,14 @@
    "zh": "鳄鱼",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鳄鱼"
+    }
    ],
    "ipa": "/ˈkrɒkədaɪl/",
    "chunks": [
@@ -241,11 +566,33 @@
     "en": "The crocodile has big teeth.",
     "zh": "鳄鱼有大大的牙齿。"
    },
+   "sentences": [
+    {
+     "en": "The crocodile has big teeth.",
+     "zh": "鳄鱼有大大的牙齿。",
+     "audio": "media/sent/a21b2d3bdd0a.mp3"
+    },
+    {
+     "en": "A crocodile lives in the river.",
+     "zh": "鳄鱼住在河里。",
+     "audio": "media/sent/31abfdc20470.mp3"
+    },
+    {
+     "en": "Don't swim near the crocodile!",
+     "zh": "别在鳄鱼旁边游泳！",
+     "audio": "media/sent/9b8fc523a9f2.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/crocodile.webp",
     "uk": "media/uk/crocodile.mp3",
     "us": "media/us/crocodile.mp3"
-   }
+   },
+   "avoid": [
+    "frog",
+    "snake",
+    "tortoise"
+   ]
   },
   {
    "id": "dinosaur",
@@ -253,6 +600,14 @@
    "zh": "恐龙",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "恐龙"
+    }
    ],
    "ipa": "/ˈdaɪnəsɔː/",
    "chunks": [
@@ -265,11 +620,29 @@
     "en": "Lily likes dinosaur books.",
     "zh": "Lily 喜欢恐龙书。"
    },
+   "sentences": [
+    {
+     "en": "Lily likes dinosaur books.",
+     "zh": "Lily 喜欢恐龙书。",
+     "audio": "media/sent/b2eb1eae00c2.mp3"
+    },
+    {
+     "en": "This dinosaur is very old.",
+     "zh": "这只恐龙非常古老。",
+     "audio": "media/sent/d4306342275c.mp3"
+    },
+    {
+     "en": "We see a big dinosaur at the museum.",
+     "zh": "我们在博物馆看到一只大恐龙。",
+     "audio": "media/sent/c44ae184f5d1.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/dinosaur.webp",
     "uk": "media/uk/dinosaur.mp3",
     "us": "media/us/dinosaur.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "dog",
@@ -277,6 +650,14 @@
    "zh": "狗",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "狗"
+    }
    ],
    "ipa": "/dɒɡ/",
    "chunks": [
@@ -287,11 +668,38 @@
     "en": "Max is a little dog.",
     "zh": "Max 是一只小狗。"
    },
+   "sentences": [
+    {
+     "en": "Max is a little dog.",
+     "zh": "Max 是一只小狗。",
+     "audio": "media/sent/aa9bd97bcdbe.mp3"
+    },
+    {
+     "en": "The dog is playing with a ball.",
+     "zh": "小狗在玩球。",
+     "audio": "media/sent/a94409b3d884.mp3"
+    },
+    {
+     "en": "Lily takes her dog to the park.",
+     "zh": "Lily 带她的狗去公园。",
+     "audio": "media/sent/97b04aaf70dd.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/dog.webp",
     "uk": "media/uk/dog.mp3",
     "us": "media/us/dog.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "cat",
+    "cow",
+    "kitten",
+    "pet",
+    "puppy",
+    "rabbit",
+    "tail"
+   ]
   },
   {
    "id": "dolphin",
@@ -299,6 +707,14 @@
    "zh": "海豚",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海豚"
+    }
    ],
    "ipa": "/ˈdɒlfɪn/",
    "chunks": [
@@ -310,11 +726,33 @@
     "en": "The dolphin can jump high.",
     "zh": "海豚能跳得很高。"
    },
+   "sentences": [
+    {
+     "en": "The dolphin can jump high.",
+     "zh": "海豚能跳得很高。",
+     "audio": "media/sent/b43e54d58ecc.mp3"
+    },
+    {
+     "en": "A dolphin is a clever animal.",
+     "zh": "海豚是一种聪明的动物。",
+     "audio": "media/sent/531a7b4dad12.mp3"
+    },
+    {
+     "en": "The dolphin swims in the sea.",
+     "zh": "海豚在海里游泳。",
+     "audio": "media/sent/208a151b3b2d.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/dolphin.webp",
     "uk": "media/uk/dolphin.mp3",
     "us": "media/us/dolphin.mp3"
-   }
+   },
+   "avoid": [
+    "fish",
+    "shark",
+    "whale"
+   ]
   },
   {
    "id": "duck",
@@ -322,6 +760,14 @@
    "zh": "鸭子",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鸭子"
+    }
    ],
    "ipa": "/dʌk/",
    "chunks": [
@@ -332,11 +778,36 @@
     "en": "A duck is swimming in the lake.",
     "zh": "一只鸭子在湖里游泳。"
    },
+   "sentences": [
+    {
+     "en": "A duck is swimming in the lake.",
+     "zh": "一只鸭子在湖里游泳。",
+     "audio": "media/sent/f69ce5f32e91.mp3"
+    },
+    {
+     "en": "The duck is swimming with its babies.",
+     "zh": "鸭子带着宝宝在游泳。",
+     "audio": "media/sent/0ccaa7f7236b.mp3"
+    },
+    {
+     "en": "We give bread to the duck.",
+     "zh": "我们给鸭子喂面包。",
+     "audio": "media/sent/fe23620dc63c.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/duck.webp",
     "uk": "media/uk/duck.mp3",
     "us": "media/us/duck.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "parrot",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "elephant",
@@ -344,6 +815,14 @@
    "zh": "大象",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大象"
+    }
    ],
    "ipa": "/ˈelɪfənt/",
    "chunks": [
@@ -356,11 +835,32 @@
     "en": "The elephant has a long nose.",
     "zh": "大象有长长的鼻子。"
    },
+   "sentences": [
+    {
+     "en": "The elephant has a long nose.",
+     "zh": "大象有长长的鼻子。",
+     "audio": "media/sent/e8e088ee39ca.mp3"
+    },
+    {
+     "en": "An elephant is very big and grey.",
+     "zh": "大象又大又灰。",
+     "audio": "media/sent/25c7ea1e6799.mp3"
+    },
+    {
+     "en": "The elephant drinks water with its nose.",
+     "zh": "大象用鼻子喝水。",
+     "audio": "media/sent/8c86bb21aa05.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/elephant.webp",
     "uk": "media/uk/elephant.mp3",
     "us": "media/us/elephant.mp3"
-   }
+   },
+   "avoid": [
+    "giraffe",
+    "zoo"
+   ]
   },
   {
    "id": "fish",
@@ -369,6 +869,20 @@
    "pos": [
     "n",
     "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鱼"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "钓鱼"
+    }
    ],
    "ipa": "/fɪʃ/",
    "chunks": [
@@ -379,11 +893,33 @@
     "en": "Lily has two orange fish.",
     "zh": "Lily 有两条橙色的鱼。"
    },
+   "sentences": [
+    {
+     "en": "Lily has two orange fish.",
+     "zh": "Lily 有两条橙色的鱼。",
+     "audio": "media/sent/585c52020a18.mp3"
+    },
+    {
+     "en": "A fish can swim but it can't walk.",
+     "zh": "鱼会游泳，但不会走路。",
+     "audio": "media/sent/b1eb3c3f05d4.mp3"
+    },
+    {
+     "en": "Fish is good for you.",
+     "zh": "吃鱼对身体好。",
+     "audio": "media/sent/6b2750e57732.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/fish.webp",
     "uk": "media/uk/fish.mp3",
     "us": "media/us/fish.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "shark",
+    "whale"
+   ]
   },
   {
    "id": "frog",
@@ -391,6 +927,14 @@
    "zh": "青蛙",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "青蛙"
+    }
    ],
    "ipa": "/frɒɡ/",
    "chunks": [
@@ -401,11 +945,33 @@
     "en": "The green frog can jump.",
     "zh": "绿色的青蛙会跳。"
    },
+   "sentences": [
+    {
+     "en": "The green frog can jump.",
+     "zh": "绿色的青蛙会跳。",
+     "audio": "media/sent/f8525a155577.mp3"
+    },
+    {
+     "en": "The frog lives near the water.",
+     "zh": "青蛙住在水边。",
+     "audio": "media/sent/d97feaa772f7.mp3"
+    },
+    {
+     "en": "A frog is small and green.",
+     "zh": "青蛙又小又绿。",
+     "audio": "media/sent/95ea3d60c13f.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/frog.webp",
     "uk": "media/uk/frog.mp3",
     "us": "media/us/frog.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "snake",
+    "tortoise"
+   ]
   },
   {
    "id": "giraffe",
@@ -413,6 +979,14 @@
    "zh": "长颈鹿",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "长颈鹿"
+    }
    ],
    "ipa": "/dʒəˈrɑːf/",
    "chunks": [
@@ -424,11 +998,32 @@
     "en": "The giraffe is very tall.",
     "zh": "长颈鹿非常高。"
    },
+   "sentences": [
+    {
+     "en": "The giraffe is very tall.",
+     "zh": "长颈鹿非常高。",
+     "audio": "media/sent/d6934ae1a3f3.mp3"
+    },
+    {
+     "en": "A giraffe has a very long neck.",
+     "zh": "长颈鹿的脖子很长。",
+     "audio": "media/sent/44899812e1b6.mp3"
+    },
+    {
+     "en": "The giraffe eats leaves from the tree.",
+     "zh": "长颈鹿吃树上的叶子。",
+     "audio": "media/sent/d334d91bb73f.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/giraffe.webp",
     "uk": "media/uk/giraffe.mp3",
     "us": "media/us/giraffe.mp3"
-   }
+   },
+   "avoid": [
+    "elephant",
+    "zoo"
+   ]
   },
   {
    "id": "goat",
@@ -436,6 +1031,14 @@
    "zh": "山羊",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "山羊"
+    }
    ],
    "ipa": "/ɡəʊt/",
    "chunks": [
@@ -446,11 +1049,31 @@
     "en": "The goat eats grass.",
     "zh": "山羊吃草。"
    },
+   "sentences": [
+    {
+     "en": "The goat eats grass.",
+     "zh": "山羊吃草。",
+     "audio": "media/sent/08f30a748ea2.mp3"
+    },
+    {
+     "en": "The goat lives on the farm.",
+     "zh": "山羊住在农场上。",
+     "audio": "media/sent/9568c430381f.mp3"
+    },
+    {
+     "en": "A goat can climb rocks.",
+     "zh": "山羊会爬岩石。",
+     "audio": "media/sent/93f843c6e9dc.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/goat.webp",
     "uk": "media/uk/goat.mp3",
     "us": "media/us/goat.mp3"
-   }
+   },
+   "avoid": [
+    "sheep"
+   ]
   },
   {
    "id": "horse",
@@ -458,6 +1081,14 @@
    "zh": "马",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "马"
+    }
    ],
    "ipa": "/hɔːs/",
    "chunks": [
@@ -468,11 +1099,31 @@
     "en": "Lily can ride a horse.",
     "zh": "Lily 会骑马。"
    },
+   "sentences": [
+    {
+     "en": "Lily can ride a horse.",
+     "zh": "Lily 会骑马。",
+     "audio": "media/sent/99f69c84b169.mp3"
+    },
+    {
+     "en": "The horse can run very fast.",
+     "zh": "马跑得很快。",
+     "audio": "media/sent/de18b34277c1.mp3"
+    },
+    {
+     "en": "A brown horse is in the field.",
+     "zh": "田野里有一匹棕色的马。",
+     "audio": "media/sent/38a1eb086891.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/horse.webp",
     "uk": "media/uk/horse.mp3",
     "us": "media/us/horse.mp3"
-   }
+   },
+   "avoid": [
+    "zebra"
+   ]
   },
   {
    "id": "insect",
@@ -481,6 +1132,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "昆虫"
+    }
+   ],
    "ipa": "/ˈɪnsekt/",
    "chunks": [
     "in",
@@ -488,14 +1147,37 @@
    ],
    "emoji": "🐞",
    "sentence": {
-    "en": "An ant is a small insect.",
-    "zh": "蚂蚁是一种小昆虫。"
+    "en": "A bee is an insect.",
+    "zh": "蜜蜂是一种昆虫。"
    },
+   "sentences": [
+    {
+     "en": "A bee is an insect.",
+     "zh": "蜜蜂是一种昆虫。",
+     "audio": "media/sent/04b74c6a1b37.mp3"
+    },
+    {
+     "en": "An insect has six legs.",
+     "zh": "昆虫有六条腿。",
+     "audio": "media/sent/6463a1df56b7.mp3"
+    },
+    {
+     "en": "Lily finds a small insect in the garden.",
+     "zh": "Lily 在花园里发现一只小昆虫。",
+     "audio": "media/sent/4c6c7669fc03.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/insect.webp",
     "uk": "media/uk/insect.mp3",
     "us": "media/us/insect.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "butterfly",
+    "spider"
+   ]
   },
   {
    "id": "kangaroo",
@@ -503,6 +1185,14 @@
    "zh": "袋鼠",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "袋鼠"
+    }
    ],
    "ipa": "/ˌkæŋɡəˈruː/",
    "chunks": [
@@ -515,11 +1205,29 @@
     "en": "The kangaroo has a baby.",
     "zh": "袋鼠有一个宝宝。"
    },
+   "sentences": [
+    {
+     "en": "The kangaroo has a baby.",
+     "zh": "袋鼠有一个宝宝。",
+     "audio": "media/sent/c6ce22d80a41.mp3"
+    },
+    {
+     "en": "A kangaroo can jump very high.",
+     "zh": "袋鼠能跳得很高。",
+     "audio": "media/sent/78cb91a82f76.mp3"
+    },
+    {
+     "en": "The kangaroo lives in Australia.",
+     "zh": "袋鼠住在澳大利亚。",
+     "audio": "media/sent/663546a401cd.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/kangaroo.webp",
     "uk": "media/uk/kangaroo.mp3",
     "us": "media/us/kangaroo.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "kitten",
@@ -527,6 +1235,14 @@
    "zh": "小猫",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小猫"
+    }
    ],
    "ipa": "/ˈkɪtn/",
    "chunks": [
@@ -538,7 +1254,32 @@
     "en": "The kitten is playing with Max.",
     "zh": "小猫在和 Max 玩。"
    },
-   "media": {}
+   "sentences": [
+    {
+     "en": "The kitten is playing with Max.",
+     "zh": "小猫在和 Max 玩。",
+     "audio": "media/sent/c59e8a44eec0.mp3"
+    },
+    {
+     "en": "A kitten is a baby cat.",
+     "zh": "小猫是猫的宝宝。",
+     "audio": "media/sent/fbcd7d1680ac.mp3"
+    },
+    {
+     "en": "The kitten is sleeping in a box.",
+     "zh": "小猫在盒子里睡觉。",
+     "audio": "media/sent/f74bf9f04e57.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kitten.webp"
+   },
+   "avoid": [
+    "cat",
+    "dog",
+    "pet",
+    "puppy"
+   ]
   },
   {
    "id": "lion",
@@ -546,6 +1287,14 @@
    "zh": "狮子",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "狮子"
+    }
    ],
    "ipa": "/ˈlaɪən/",
    "chunks": [
@@ -557,11 +1306,31 @@
     "en": "The lion is very strong.",
     "zh": "狮子非常强壮。"
    },
+   "sentences": [
+    {
+     "en": "The lion is very strong.",
+     "zh": "狮子非常强壮。",
+     "audio": "media/sent/6ce1ef94d730.mp3"
+    },
+    {
+     "en": "The lion is the king of the animals.",
+     "zh": "狮子是动物之王。",
+     "audio": "media/sent/73086173a7bf.mp3"
+    },
+    {
+     "en": "A lion has a big brown head of hair.",
+     "zh": "狮子有一头浓密的棕色鬃毛。",
+     "audio": "media/sent/53eca8d73b84.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/lion.webp",
     "uk": "media/uk/lion.mp3",
     "us": "media/us/lion.mp3"
-   }
+   },
+   "avoid": [
+    "wild"
+   ]
   },
   {
    "id": "monkey",
@@ -569,6 +1338,14 @@
    "zh": "猴子",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "猴子"
+    }
    ],
    "ipa": "/ˈmʌŋki/",
    "chunks": [
@@ -580,11 +1357,29 @@
     "en": "The monkey likes bananas.",
     "zh": "猴子喜欢香蕉。"
    },
+   "sentences": [
+    {
+     "en": "The monkey likes bananas.",
+     "zh": "猴子喜欢香蕉。",
+     "audio": "media/sent/3ce1880fb55c.mp3"
+    },
+    {
+     "en": "The monkey is climbing the tree.",
+     "zh": "猴子在爬树。",
+     "audio": "media/sent/10ba40a2f61a.mp3"
+    },
+    {
+     "en": "A monkey has a long tail.",
+     "zh": "猴子有一条长尾巴。",
+     "audio": "media/sent/d78826dcccd8.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/monkey.webp",
     "uk": "media/uk/monkey.mp3",
     "us": "media/us/monkey.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "mouse",
@@ -592,6 +1387,14 @@
    "zh": "老鼠；鼠标",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "老鼠；鼠标"
+    }
    ],
    "ipa": "/maʊs/",
    "chunks": [
@@ -602,11 +1405,29 @@
     "en": "A little mouse is under the bed.",
     "zh": "一只小老鼠在床底下。"
    },
+   "sentences": [
+    {
+     "en": "A little mouse is under the bed.",
+     "zh": "一只小老鼠在床底下。",
+     "audio": "media/sent/e80507637ea1.mp3"
+    },
+    {
+     "en": "The mouse likes cheese.",
+     "zh": "老鼠喜欢奶酪。",
+     "audio": "media/sent/034ecd5d99b0.mp3"
+    },
+    {
+     "en": "A mouse is very small.",
+     "zh": "老鼠很小。",
+     "audio": "media/sent/4f4ea6f2a104.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/mouse.webp",
     "uk": "media/uk/mouse.mp3",
     "us": "media/us/mouse.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "parrot",
@@ -614,6 +1435,14 @@
    "zh": "鹦鹉",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鹦鹉"
+    }
    ],
    "ipa": "/ˈpærət/",
    "chunks": [
@@ -625,11 +1454,36 @@
     "en": "The parrot can say hello.",
     "zh": "鹦鹉会说“你好”。"
    },
+   "sentences": [
+    {
+     "en": "The parrot can say hello.",
+     "zh": "鹦鹉会说“你好”。",
+     "audio": "media/sent/f60626785992.mp3"
+    },
+    {
+     "en": "My parrot is red, blue and yellow.",
+     "zh": "我的鹦鹉是红色、蓝色和黄色的。",
+     "audio": "media/sent/ad9b81217d46.mp3"
+    },
+    {
+     "en": "The parrot is sitting on Lily's arm.",
+     "zh": "鹦鹉停在 Lily 的胳膊上。",
+     "audio": "media/sent/822d21db62ff.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/parrot.webp",
     "uk": "media/uk/parrot.mp3",
     "us": "media/us/parrot.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "penguin",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "penguin",
@@ -637,6 +1491,14 @@
    "zh": "企鹅",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "企鹅"
+    }
    ],
    "ipa": "/ˈpeŋɡwɪn/",
    "chunks": [
@@ -648,11 +1510,36 @@
     "en": "A penguin can swim but can't fly.",
     "zh": "企鹅会游泳，但不会飞。"
    },
+   "sentences": [
+    {
+     "en": "A penguin can swim but can't fly.",
+     "zh": "企鹅会游泳，但不会飞。",
+     "audio": "media/sent/6bf507b09be9.mp3"
+    },
+    {
+     "en": "A penguin is black and white.",
+     "zh": "企鹅是黑白相间的。",
+     "audio": "media/sent/30b3d61647a8.mp3"
+    },
+    {
+     "en": "The penguin lives in a cold place.",
+     "zh": "企鹅住在寒冷的地方。",
+     "audio": "media/sent/8c6253cec1f7.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/penguin.webp",
     "uk": "media/uk/penguin.mp3",
     "us": "media/us/penguin.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "swan",
+    "wing"
+   ]
   },
   {
    "id": "pet",
@@ -660,6 +1547,14 @@
    "zh": "宠物",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "宠物"
+    }
    ],
    "ipa": "/pet/",
    "chunks": [
@@ -670,11 +1565,35 @@
     "en": "Max is Lily's pet.",
     "zh": "Max 是 Lily 的宠物。"
    },
+   "sentences": [
+    {
+     "en": "Max is Lily's pet.",
+     "zh": "Max 是 Lily 的宠物。",
+     "audio": "media/sent/7f1cd83e6619.mp3"
+    },
+    {
+     "en": "Do you have a pet?",
+     "zh": "你养宠物吗？",
+     "audio": "media/sent/fc0d2772eb11.mp3"
+    },
+    {
+     "en": "A rabbit is a good pet.",
+     "zh": "兔子是很好的宠物。",
+     "audio": "media/sent/b76ec6c7f458.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/pet.webp",
     "uk": "media/uk/pet.mp3",
     "us": "media/us/pet.mp3"
-   }
+   },
+   "avoid": [
+    "cat",
+    "dog",
+    "kitten",
+    "puppy",
+    "tail"
+   ]
   },
   {
    "id": "polar-bear",
@@ -682,6 +1601,14 @@
    "zh": "北极熊",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "北极熊"
+    }
    ],
    "ipa": "/ˌpəʊlə ˈbeə/",
    "chunks": [
@@ -694,7 +1621,29 @@
     "en": "A polar bear is white.",
     "zh": "北极熊是白色的。"
    },
-   "media": {}
+   "sentences": [
+    {
+     "en": "A polar bear is white.",
+     "zh": "北极熊是白色的。",
+     "audio": "media/sent/6d7b9a7b6438.mp3"
+    },
+    {
+     "en": "A polar bear lives on the ice.",
+     "zh": "北极熊住在冰上。",
+     "audio": "media/sent/5eadf3f4565f.mp3"
+    },
+    {
+     "en": "The polar bear is swimming in the cold sea.",
+     "zh": "北极熊在冰冷的海里游泳。",
+     "audio": "media/sent/646db47fa05f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/polar-bear.webp"
+   },
+   "avoid": [
+    "bear"
+   ]
   },
   {
    "id": "puppy",
@@ -703,6 +1652,14 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小狗"
+    }
+   ],
    "ipa": "/ˈpʌpi/",
    "chunks": [
     "pup",
@@ -710,14 +1667,41 @@
    ],
    "emoji": "🐕",
    "sentence": {
-    "en": "Max was a cute puppy.",
-    "zh": "Max 以前是一只可爱的小狗崽。"
+    "en": "Max was a very small puppy.",
+    "zh": "Max 以前是一只很小的小狗。"
    },
+   "sentences": [
+    {
+     "en": "Max was a very small puppy.",
+     "zh": "Max 以前是一只很小的小狗。",
+     "audio": "media/sent/b9950d5e5471.mp3"
+    },
+    {
+     "en": "A puppy is a baby dog.",
+     "zh": "小狗是狗的宝宝。",
+     "audio": "media/sent/40970506e0af.mp3"
+    },
+    {
+     "en": "The puppy wants to play.",
+     "zh": "小狗想玩。",
+     "audio": "media/sent/91b243b870a6.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/puppy.webp",
     "uk": "media/uk/puppy.mp3",
     "us": "media/us/puppy.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "cat",
+    "cow",
+    "dog",
+    "kitten",
+    "pet",
+    "rabbit",
+    "tail"
+   ]
   },
   {
    "id": "rabbit",
@@ -725,6 +1709,14 @@
    "zh": "兔子",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "兔子"
+    }
    ],
    "ipa": "/ˈræbɪt/",
    "chunks": [
@@ -736,11 +1728,35 @@
     "en": "The rabbit has long ears.",
     "zh": "兔子有长长的耳朵。"
    },
+   "sentences": [
+    {
+     "en": "The rabbit has long ears.",
+     "zh": "兔子有长长的耳朵。",
+     "audio": "media/sent/7677a3cc4d8b.mp3"
+    },
+    {
+     "en": "The rabbit eats a carrot.",
+     "zh": "兔子吃胡萝卜。",
+     "audio": "media/sent/69ff453a0976.mp3"
+    },
+    {
+     "en": "A rabbit can jump.",
+     "zh": "兔子会跳。",
+     "audio": "media/sent/e1abe41bb6be.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/rabbit.webp",
     "uk": "media/uk/rabbit.mp3",
     "us": "media/us/rabbit.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "cat",
+    "cow",
+    "dog",
+    "puppy"
+   ]
   },
   {
    "id": "shark",
@@ -748,6 +1764,14 @@
    "zh": "鲨鱼",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鲨鱼"
+    }
    ],
    "ipa": "/ʃɑːk/",
    "chunks": [
@@ -758,11 +1782,33 @@
     "en": "The shark lives in the sea.",
     "zh": "鲨鱼生活在大海里。"
    },
+   "sentences": [
+    {
+     "en": "The shark lives in the sea.",
+     "zh": "鲨鱼生活在大海里。",
+     "audio": "media/sent/9c90ed0dc891.mp3"
+    },
+    {
+     "en": "A shark has big teeth.",
+     "zh": "鲨鱼有大牙齿。",
+     "audio": "media/sent/b0207f76f828.mp3"
+    },
+    {
+     "en": "The shark is swimming fast.",
+     "zh": "鲨鱼游得很快。",
+     "audio": "media/sent/4a50a967a029.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/shark.webp",
     "uk": "media/uk/shark.mp3",
     "us": "media/us/shark.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "fish",
+    "whale"
+   ]
   },
   {
    "id": "sheep",
@@ -770,6 +1816,14 @@
    "zh": "绵羊",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "绵羊"
+    }
    ],
    "ipa": "/ʃiːp/",
    "chunks": [
@@ -780,11 +1834,31 @@
     "en": "The sheep is white and soft.",
     "zh": "绵羊又白又软。"
    },
+   "sentences": [
+    {
+     "en": "The sheep is white and soft.",
+     "zh": "绵羊又白又软。",
+     "audio": "media/sent/2c9b9608d600.mp3"
+    },
+    {
+     "en": "The sheep is eating grass on the hill.",
+     "zh": "绵羊在山坡上吃草。",
+     "audio": "media/sent/e134e7c433ff.mp3"
+    },
+    {
+     "en": "We get wool from a sheep.",
+     "zh": "我们从绵羊身上得到羊毛。",
+     "audio": "media/sent/1723aa94a11f.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/sheep.webp",
     "uk": "media/uk/sheep.mp3",
     "us": "media/us/sheep.mp3"
-   }
+   },
+   "avoid": [
+    "goat"
+   ]
   },
   {
    "id": "snake",
@@ -792,6 +1866,14 @@
    "zh": "蛇",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蛇"
+    }
    ],
    "ipa": "/sneɪk/",
    "chunks": [
@@ -802,11 +1884,33 @@
     "en": "The snake is long and green.",
     "zh": "这条蛇又长又绿。"
    },
+   "sentences": [
+    {
+     "en": "The snake is long and green.",
+     "zh": "这条蛇又长又绿。",
+     "audio": "media/sent/9732170ff235.mp3"
+    },
+    {
+     "en": "A snake has no legs.",
+     "zh": "蛇没有腿。",
+     "audio": "media/sent/015db765c931.mp3"
+    },
+    {
+     "en": "The snake is sleeping in the sun.",
+     "zh": "蛇在太阳下睡觉。",
+     "audio": "media/sent/d59ebb3662f2.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/snake.webp",
     "uk": "media/uk/snake.mp3",
     "us": "media/us/snake.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "frog",
+    "tortoise"
+   ]
   },
   {
    "id": "spider",
@@ -814,6 +1918,14 @@
    "zh": "蜘蛛",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蜘蛛"
+    }
    ],
    "ipa": "/ˈspaɪdə/",
    "chunks": [
@@ -825,11 +1937,34 @@
     "en": "A spider has eight legs.",
     "zh": "蜘蛛有八条腿。"
    },
+   "sentences": [
+    {
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "media/sent/0999713891cb.mp3"
+    },
+    {
+     "en": "The spider is making a web.",
+     "zh": "蜘蛛在结网。",
+     "audio": "media/sent/dcaffb3156bf.mp3"
+    },
+    {
+     "en": "Lily is not afraid of the spider.",
+     "zh": "Lily 不怕蜘蛛。",
+     "audio": "media/sent/42bbbe028b5d.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/spider.webp",
     "uk": "media/uk/spider.mp3",
     "us": "media/us/spider.mp3"
-   }
+   },
+   "avoid": [
+    "bee",
+    "beetle",
+    "butterfly",
+    "insect"
+   ]
   },
   {
    "id": "swan",
@@ -837,6 +1972,14 @@
    "zh": "天鹅",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "天鹅"
+    }
    ],
    "ipa": "/swɒn/",
    "chunks": [
@@ -847,11 +1990,36 @@
     "en": "The white swan is beautiful.",
     "zh": "白天鹅很美。"
    },
+   "sentences": [
+    {
+     "en": "The white swan is beautiful.",
+     "zh": "白天鹅很美。",
+     "audio": "media/sent/e4c5fb2d6a69.mp3"
+    },
+    {
+     "en": "A swan has a long neck.",
+     "zh": "天鹅的脖子很长。",
+     "audio": "media/sent/dc4d5ddbe97a.mp3"
+    },
+    {
+     "en": "The swan is swimming on the lake.",
+     "zh": "天鹅在湖上游泳。",
+     "audio": "media/sent/a15b0166bd80.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/swan.webp",
     "uk": "media/uk/swan.mp3",
     "us": "media/us/swan.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "wing"
+   ]
   },
   {
    "id": "tail",
@@ -860,20 +2028,50 @@
    "pos": [
     "n"
    ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "尾巴"
+    }
+   ],
    "ipa": "/teɪl/",
    "chunks": [
     "tail"
    ],
    "emoji": "🐕",
    "sentence": {
-    "en": "Max shakes his tail.",
-    "zh": "Max 摇着尾巴。"
+    "en": "Max has a long tail.",
+    "zh": "Max 有一条长尾巴。"
    },
+   "sentences": [
+    {
+     "en": "Max has a long tail.",
+     "zh": "Max 有一条长尾巴。",
+     "audio": "media/sent/1882579ad47f.mp3"
+    },
+    {
+     "en": "The monkey holds the tree with its tail.",
+     "zh": "猴子用尾巴抓住树。",
+     "audio": "media/sent/f372484da79d.mp3"
+    },
+    {
+     "en": "A happy dog moves its tail.",
+     "zh": "开心的狗会摇尾巴。",
+     "audio": "media/sent/27b4af766431.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/tail.webp",
     "uk": "media/uk/tail.mp3",
     "us": "media/us/tail.mp3"
-   }
+   },
+   "avoid": [
+    "dog",
+    "pet",
+    "puppy"
+   ]
   },
   {
    "id": "tiger",
@@ -881,6 +2079,14 @@
    "zh": "老虎",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "老虎"
+    }
    ],
    "ipa": "/ˈtaɪɡə/",
    "chunks": [
@@ -892,11 +2098,29 @@
     "en": "The tiger is orange and black.",
     "zh": "老虎是橙色和黑色的。"
    },
+   "sentences": [
+    {
+     "en": "The tiger is orange and black.",
+     "zh": "老虎是橙色和黑色的。",
+     "audio": "media/sent/fbcbb687312a.mp3"
+    },
+    {
+     "en": "A tiger is a big cat.",
+     "zh": "老虎是一种大猫。",
+     "audio": "media/sent/f454f861697c.mp3"
+    },
+    {
+     "en": "The tiger is sleeping under the tree.",
+     "zh": "老虎在树下睡觉。",
+     "audio": "media/sent/5c2d2c19015f.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/tiger.webp",
     "uk": "media/uk/tiger.mp3",
     "us": "media/us/tiger.mp3"
-   }
+   },
+   "avoid": []
   },
   {
    "id": "tortoise",
@@ -904,6 +2128,14 @@
    "zh": "乌龟（陆龟）",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "乌龟（陆龟）"
+    }
    ],
    "ipa": "/ˈtɔːtəs/",
    "chunks": [
@@ -915,11 +2147,33 @@
     "en": "The tortoise walks slowly.",
     "zh": "乌龟走得很慢。"
    },
+   "sentences": [
+    {
+     "en": "The tortoise walks slowly.",
+     "zh": "乌龟走得很慢。",
+     "audio": "media/sent/caef6ef5cdce.mp3"
+    },
+    {
+     "en": "A tortoise can live for a hundred years.",
+     "zh": "乌龟能活一百年。",
+     "audio": "media/sent/88a2337014a8.mp3"
+    },
+    {
+     "en": "The tortoise is eating grass.",
+     "zh": "乌龟在吃草。",
+     "audio": "media/sent/c24b8a74b61f.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/tortoise.webp",
     "uk": "media/uk/tortoise.mp3",
     "us": "media/us/tortoise.mp3"
-   }
+   },
+   "avoid": [
+    "crocodile",
+    "frog",
+    "snake"
+   ]
   },
   {
    "id": "whale",
@@ -927,6 +2181,14 @@
    "zh": "鲸鱼",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鲸鱼"
+    }
    ],
    "ipa": "/weɪl/",
    "chunks": [
@@ -937,11 +2199,33 @@
     "en": "A whale is very big.",
     "zh": "鲸鱼非常大。"
    },
+   "sentences": [
+    {
+     "en": "A whale is very big.",
+     "zh": "鲸鱼非常大。",
+     "audio": "media/sent/283b7b5fed23.mp3"
+    },
+    {
+     "en": "A whale lives in the sea.",
+     "zh": "鲸鱼住在海里。",
+     "audio": "media/sent/eb6e422bf047.mp3"
+    },
+    {
+     "en": "The whale is bigger than a boat.",
+     "zh": "鲸鱼比船还大。",
+     "audio": "media/sent/b98c5b8f0fb7.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/whale.webp",
     "uk": "media/uk/whale.mp3",
     "us": "media/us/whale.mp3"
-   }
+   },
+   "avoid": [
+    "dolphin",
+    "fish",
+    "shark"
+   ]
   },
   {
    "id": "wild",
@@ -949,6 +2233,14 @@
    "zh": "野生的",
    "pos": [
     "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "野生的"
+    }
    ],
    "ipa": "/waɪld/",
    "chunks": [
@@ -959,11 +2251,34 @@
     "en": "Lions are wild animals.",
     "zh": "狮子是野生动物。"
    },
+   "sentences": [
+    {
+     "en": "Lions are wild animals.",
+     "zh": "狮子是野生动物。",
+     "audio": "media/sent/1dddd1ccaf8a.mp3"
+    },
+    {
+     "en": "A tiger is a wild animal.",
+     "zh": "老虎是野生动物。",
+     "audio": "media/sent/c1377d6e8a50.mp3"
+    },
+    {
+     "en": "Wild horses live on the hills.",
+     "zh": "野马生活在山上。",
+     "audio": "media/sent/abf48146def2.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/wild.webp",
     "uk": "media/uk/wild.mp3",
     "us": "media/us/wild.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "lion",
+    "wildlife",
+    "zoo"
+   ]
   },
   {
    "id": "wildlife",
@@ -971,6 +2286,14 @@
    "zh": "野生动物",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "野生动物"
+    }
    ],
    "ipa": "/ˈwaɪldlaɪf/",
    "chunks": [
@@ -982,11 +2305,33 @@
     "en": "We see wildlife in the forest.",
     "zh": "我们在森林里看到野生动物。"
    },
+   "sentences": [
+    {
+     "en": "We see wildlife in the forest.",
+     "zh": "我们在森林里看到野生动物。",
+     "audio": "media/sent/d8d9ef7a7e80.mp3"
+    },
+    {
+     "en": "There is a lot of wildlife in the park.",
+     "zh": "公园里有很多野生动物。",
+     "audio": "media/sent/7ffb5e374114.mp3"
+    },
+    {
+     "en": "Lily loves watching wildlife.",
+     "zh": "Lily 喜欢观察野生动物。",
+     "audio": "media/sent/357f560428ea.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/wildlife.webp",
     "uk": "media/uk/wildlife.mp3",
     "us": "media/us/wildlife.mp3"
-   }
+   },
+   "avoid": [
+    "animal",
+    "wild",
+    "zoo"
+   ]
   },
   {
    "id": "wing",
@@ -994,6 +2339,14 @@
    "zh": "翅膀",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "翅膀"
+    }
    ],
    "ipa": "/wɪŋ/",
    "chunks": [
@@ -1004,11 +2357,36 @@
     "en": "A bird has two wings.",
     "zh": "鸟有两只翅膀。"
    },
+   "sentences": [
+    {
+     "en": "A bird has two wings.",
+     "zh": "鸟有两只翅膀。",
+     "audio": "media/sent/24aca3431ac0.mp3"
+    },
+    {
+     "en": "The butterfly has a big wing.",
+     "zh": "这只蝴蝶有一只大翅膀。",
+     "audio": "media/sent/a5148e937b3b.mp3"
+    },
+    {
+     "en": "A bird can't fly with a broken wing.",
+     "zh": "鸟翅膀断了就飞不了。",
+     "audio": "media/sent/ede895eb94a8.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/wing.webp",
     "uk": "media/uk/wing.mp3",
     "us": "media/us/wing.mp3"
-   }
+   },
+   "avoid": [
+    "bird",
+    "chicken",
+    "duck",
+    "parrot",
+    "penguin",
+    "swan"
+   ]
   },
   {
    "id": "zebra",
@@ -1016,6 +2394,14 @@
    "zh": "斑马",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "斑马"
+    }
    ],
    "ipa": "/ˈzebrə/",
    "chunks": [
@@ -1027,11 +2413,31 @@
     "en": "A zebra is black and white.",
     "zh": "斑马是黑白相间的。"
    },
+   "sentences": [
+    {
+     "en": "A zebra is black and white.",
+     "zh": "斑马是黑白相间的。",
+     "audio": "media/sent/68ec21ddbbd7.mp3"
+    },
+    {
+     "en": "A zebra looks like a horse.",
+     "zh": "斑马长得像马。",
+     "audio": "media/sent/92e5af4b4cd0.mp3"
+    },
+    {
+     "en": "The zebra lives in Africa.",
+     "zh": "斑马生活在非洲。",
+     "audio": "media/sent/0a45c023150e.mp3"
+    }
+   ],
    "media": {
     "img": "media/img/zebra.webp",
     "uk": "media/uk/zebra.mp3",
     "us": "media/us/zebra.mp3"
-   }
+   },
+   "avoid": [
+    "horse"
+   ]
   },
   {
    "id": "zoo",
@@ -1039,6 +2445,14 @@
    "zh": "动物园",
    "pos": [
     "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "动物园"
+    }
    ],
    "ipa": "/zuː/",
    "chunks": [
@@ -1049,7 +2463,33 @@
     "en": "Lily and Dad go to the zoo.",
     "zh": "Lily 和爸爸去动物园。"
    },
-   "media": {}
+   "sentences": [
+    {
+     "en": "Lily and Dad go to the zoo.",
+     "zh": "Lily 和爸爸去动物园。",
+     "audio": "media/sent/39136800304a.mp3"
+    },
+    {
+     "en": "We see lions at the zoo.",
+     "zh": "我们在动物园看狮子。",
+     "audio": "media/sent/7d0ecc6c5e44.mp3"
+    },
+    {
+     "en": "The zoo opens at nine o'clock.",
+     "zh": "动物园九点开门。",
+     "audio": "media/sent/8db8332d3893.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/zoo.webp"
+   },
+   "avoid": [
+    "animal",
+    "elephant",
+    "giraffe",
+    "wild",
+    "wildlife"
+   ]
   }
  ]
 }

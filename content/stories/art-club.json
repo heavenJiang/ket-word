@@ -1,0 +1,45 @@
+{
+ "id": "art-club",
+ "topic": "hobbies",
+ "title": "The Art Club",
+ "zh": "美术社",
+ "pages": [
+  {
+   "en": "Lily loves drawing. One day Mia says, \"Come and join our art club! We meet every Tuesday after school.\" Lily is very happy.",
+   "zh": "Lily 很喜欢画画。有一天 Mia 说：“来加入我们的美术社吧！我们每周二放学后活动。”Lily 非常高兴。",
+   "scene": "Lily and Mia talking happily in a school corridor, Mia holding a paintbrush and a big drawing, Lily smiling with her school bag."
+  },
+  {
+   "en": "At the club, every member paints a picture for the school festival. Lily paints Max in the park. Mia paints a big red boat.",
+   "zh": "在社团里，每个成员都要为学校艺术节画一幅画。Lily 画了在公园里的 Max，Mia 画了一艘红色的大船。",
+   "scene": "A bright art classroom, Lily and Mia painting at easels, Lily's painting showing a brown and white puppy on green grass, Mia's painting showing a big red boat."
+  },
+  {
+   "en": "At the festival, lots of people look at the pictures. Mum and Dad come too. \"Your picture is wonderful!\" says Dad. Lily wants to paint every day now.",
+   "zh": "艺术节上，很多人来看画。妈妈和爸爸也来了。“你的画太棒了！”爸爸说。现在 Lily 想每天都画画。",
+   "scene": "A school hall with paintings on the walls, Lily proudly standing next to her painting of a puppy, Mum and Dad smiling and clapping, other children and parents looking at the pictures."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The art club meets on Tuesday.",
+   "zh": "美术社每周二活动。",
+   "answer": true
+  },
+  {
+   "q": "What does Lily paint?",
+   "zh": "Lily 画了什么？",
+   "options": [
+    "Max",
+    "a boat",
+    "a tree"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mum and Dad don't come to the festival.",
+   "zh": "妈妈和爸爸没来艺术节。",
+   "answer": false
+  }
+ ]
+}

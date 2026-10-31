@@ -1,0 +1,1115 @@
+{
+ "id": "town",
+ "words": [
+  {
+   "id": "town",
+   "word": "town",
+   "zh": "城镇",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "城镇"
+    }
+   ],
+   "ipa": "/taʊn/",
+   "chunks": [
+    "town"
+   ],
+   "emoji": "🏘️",
+   "sentence": {
+    "en": "We live in a small town.",
+    "zh": "我们住在一个小城镇。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a small town.",
+     "zh": "我们住在一个小城镇。",
+     "audio": "media/sent/bbeda2414e08.mp3"
+    },
+    {
+     "en": "The town has a big market.",
+     "zh": "这个城镇有一个大市场。",
+     "audio": "media/sent/0815d4d8ce53.mp3"
+    },
+    {
+     "en": "Grandpa lives in the next town.",
+     "zh": "爷爷住在邻近的城镇。",
+     "audio": "media/sent/d3ab07681bab.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/town.webp",
+    "uk": "media/uk/town.mp3",
+    "us": "media/us/town.mp3"
+   },
+   "avoid": [
+    "city-centre",
+    "square"
+   ]
+  },
+  {
+   "id": "city-centre",
+   "word": "city centre",
+   "zh": "市中心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "市中心"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ci",
+    "ty",
+    "cen",
+    "tre"
+   ],
+   "emoji": "🏙️",
+   "sentence": {
+    "en": "Dad works in the city centre.",
+    "zh": "爸爸在市中心工作。"
+   },
+   "sentences": [
+    {
+     "en": "Dad works in the city centre.",
+     "zh": "爸爸在市中心工作。",
+     "audio": "media/sent/a8d51843ac51.mp3"
+    },
+    {
+     "en": "We take a bus to the city centre.",
+     "zh": "我们坐公共汽车去市中心。",
+     "audio": "media/sent/1069326a8360.mp3"
+    },
+    {
+     "en": "The city centre is very busy on Saturdays.",
+     "zh": "星期六的市中心非常繁忙。",
+     "audio": "media/sent/9d3461aec840.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/city-centre.webp"
+   },
+   "avoid": [
+    "square",
+    "town"
+   ]
+  },
+  {
+   "id": "square",
+   "word": "square",
+   "zh": "广场；方形的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "广场；方形的"
+    }
+   ],
+   "ipa": "/skweə/",
+   "chunks": [
+    "square"
+   ],
+   "emoji": "⛲",
+   "sentence": {
+    "en": "Lily runs in the town square.",
+    "zh": "Lily 在城镇广场上跑。"
+   },
+   "sentences": [
+    {
+     "en": "Lily runs in the town square.",
+     "zh": "Lily 在城镇广场上跑。",
+     "audio": "media/sent/53a754cf737f.mp3"
+    },
+    {
+     "en": "The window is a big square.",
+     "zh": "窗户是一个大方块。",
+     "audio": "media/sent/ee8a536a7366.mp3"
+    },
+    {
+     "en": "We meet in the square after school.",
+     "zh": "放学后我们在广场见面。",
+     "audio": "media/sent/43ec73a034ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/square.webp",
+    "uk": "media/uk/square.mp3",
+    "us": "media/us/square.mp3"
+   },
+   "avoid": [
+    "city-centre",
+    "corner",
+    "market",
+    "town"
+   ]
+  },
+  {
+   "id": "market",
+   "word": "market",
+   "zh": "市场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "市场"
+    }
+   ],
+   "ipa": "/ˈmɑːkɪt/",
+   "chunks": [
+    "mar",
+    "ket"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "Mum buys fruit at the market.",
+    "zh": "妈妈在市场买水果。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys fruit at the market.",
+     "zh": "妈妈在市场买水果。",
+     "audio": "media/sent/f67384232884.mp3"
+    },
+    {
+     "en": "The market opens on Sunday morning.",
+     "zh": "市场在星期天上午开门。",
+     "audio": "media/sent/086ac2ef022f.mp3"
+    },
+    {
+     "en": "We walk to the market every week.",
+     "zh": "我们每周都走去市场。",
+     "audio": "media/sent/b49861a6ab57.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/market.webp",
+    "uk": "media/uk/market.mp3",
+    "us": "media/us/market.mp3"
+   },
+   "avoid": [
+    "corner",
+    "square"
+   ]
+  },
+  {
+   "id": "corner",
+   "word": "corner",
+   "zh": "角落；拐角",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "角落；拐角"
+    }
+   ],
+   "ipa": "/ˈkɔːnə/",
+   "chunks": [
+    "cor",
+    "ner"
+   ],
+   "emoji": "📐",
+   "sentence": {
+    "en": "The shop is on the corner.",
+    "zh": "商店在拐角处。"
+   },
+   "sentences": [
+    {
+     "en": "The shop is on the corner.",
+     "zh": "商店在拐角处。",
+     "audio": "media/sent/0b605d7c606c.mp3"
+    },
+    {
+     "en": "Tom sits in the corner of the room.",
+     "zh": "Tom 坐在房间的角落里。",
+     "audio": "media/sent/a8f8b4f3ec9b.mp3"
+    },
+    {
+     "en": "Look at the corner of the page.",
+     "zh": "看这一页的角落。",
+     "audio": "media/sent/b5431d26c7c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/corner.webp",
+    "uk": "media/uk/corner.mp3",
+    "us": "media/us/corner.mp3"
+   },
+   "avoid": [
+    "bridge",
+    "market",
+    "square"
+   ]
+  },
+  {
+   "id": "street",
+   "word": "street",
+   "zh": "街道",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "街道"
+    }
+   ],
+   "ipa": "/striːt/",
+   "chunks": [
+    "street"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "We cross the street here.",
+    "zh": "我们在这里过街。"
+   },
+   "sentences": [
+    {
+     "en": "We cross the street here.",
+     "zh": "我们在这里过街。",
+     "audio": "media/sent/cb32aa78eafd.mp3"
+    },
+    {
+     "en": "Our house is on a quiet street.",
+     "zh": "我们的房子在一条安静的街道上。",
+     "audio": "media/sent/5fdf5f66983f.mp3"
+    },
+    {
+     "en": "The street is full of cars.",
+     "zh": "街道上满是汽车。",
+     "audio": "media/sent/06cce70ca8cb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/street.webp",
+    "uk": "media/uk/street.mp3",
+    "us": "media/us/street.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "road",
+    "roundabout"
+   ]
+  },
+  {
+   "id": "road",
+   "word": "road",
+   "zh": "路；公路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "路；公路"
+    }
+   ],
+   "ipa": "/rəʊd/",
+   "chunks": [
+    "road"
+   ],
+   "emoji": "🛣️",
+   "sentence": {
+    "en": "The car goes down the road.",
+    "zh": "汽车沿着这条路开。"
+   },
+   "sentences": [
+    {
+     "en": "The car goes down the road.",
+     "zh": "汽车沿着这条路开。",
+     "audio": "media/sent/064fd841713e.mp3"
+    },
+    {
+     "en": "Be careful when you cross the road.",
+     "zh": "过马路时要小心。",
+     "audio": "media/sent/3b8c4a11fc5a.mp3"
+    },
+    {
+     "en": "The road to Grandma's house is long.",
+     "zh": "去奶奶家的路很长。",
+     "audio": "media/sent/1a8f04933eb4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/road.webp",
+    "uk": "media/uk/road.mp3",
+    "us": "media/us/road.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "roundabout",
+    "street"
+   ]
+  },
+  {
+   "id": "bridge",
+   "word": "bridge",
+   "zh": "桥",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "桥"
+    }
+   ],
+   "ipa": "/brɪdʒ/",
+   "chunks": [
+    "bridge"
+   ],
+   "emoji": "🌉",
+   "sentence": {
+    "en": "The train goes over the bridge.",
+    "zh": "火车从桥上经过。"
+   },
+   "sentences": [
+    {
+     "en": "The train goes over the bridge.",
+     "zh": "火车从桥上经过。",
+     "audio": "media/sent/1aea0caf3d48.mp3"
+    },
+    {
+     "en": "We walk across the old bridge.",
+     "zh": "我们走过那座旧桥。",
+     "audio": "media/sent/2a4b4f66e3f2.mp3"
+    },
+    {
+     "en": "The bridge is very tall.",
+     "zh": "这座桥很高。",
+     "audio": "media/sent/bedd974cb3cf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bridge.webp",
+    "uk": "media/uk/bridge.mp3",
+    "us": "media/us/bridge.mp3"
+   },
+   "avoid": [
+    "corner"
+   ]
+  },
+  {
+   "id": "park",
+   "word": "park",
+   "zh": "公园",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "公园"
+    }
+   ],
+   "ipa": "/pɑːk/",
+   "chunks": [
+    "park"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "Lily plays in the park.",
+    "zh": "Lily 在公园里玩。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays in the park.",
+     "zh": "Lily 在公园里玩。",
+     "audio": "media/sent/6b868a4b0a67.mp3"
+    },
+    {
+     "en": "We have a picnic in the park.",
+     "zh": "我们在公园里野餐。",
+     "audio": "media/sent/ce6d06e647ff.mp3"
+    },
+    {
+     "en": "The ducks swim on the lake in the park.",
+     "zh": "鸭子在公园的湖里游泳。",
+     "audio": "media/sent/54a4acff49f6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/park.webp",
+    "uk": "media/uk/park.mp3",
+    "us": "media/us/park.mp3"
+   },
+   "avoid": [
+    "car-park",
+    "park.2",
+    "playground",
+    "zoo"
+   ]
+  },
+  {
+   "id": "park.2",
+   "word": "park",
+   "zh": "停（车）",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "停（车）"
+    },
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "公园"
+    }
+   ],
+   "ipa": "/pɑːk/",
+   "chunks": [
+    "park"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "Dad parks the car.",
+    "zh": "爸爸停车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad parks the car.",
+     "zh": "爸爸停车。",
+     "audio": "media/sent/b578a081aac5.mp3"
+    },
+    {
+     "en": "Can you park here?",
+     "zh": "你可以把车停在这里吗？",
+     "audio": "media/sent/4be8c9a4380e.mp3"
+    },
+    {
+     "en": "Please do not park on the grass.",
+     "zh": "请不要把车停在草地上。",
+     "audio": "media/sent/6fb04d120261.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/park.2.webp",
+    "uk": "media/uk/park.mp3",
+    "us": "media/us/park.mp3"
+   },
+   "of": "park",
+   "ofZh": "公园",
+   "avoid": [
+    "car-park",
+    "park"
+   ]
+  },
+  {
+   "id": "playground",
+   "word": "playground",
+   "zh": "游乐场；操场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游乐场；操场"
+    }
+   ],
+   "ipa": "/ˈpleɪɡraʊnd/",
+   "chunks": [
+    "play",
+    "ground"
+   ],
+   "emoji": "🛝",
+   "sentence": {
+    "en": "Tom plays in the playground.",
+    "zh": "Tom 在操场上玩。"
+   },
+   "sentences": [
+    {
+     "en": "Tom plays in the playground.",
+     "zh": "Tom 在操场上玩。",
+     "audio": "media/sent/e4a7c34fdfc7.mp3"
+    },
+    {
+     "en": "We meet at the playground after school.",
+     "zh": "放学后我们在游乐场见面。",
+     "audio": "media/sent/f46a5fe2bb1b.mp3"
+    },
+    {
+     "en": "The playground is big and fun.",
+     "zh": "这个游乐场又大又有趣。",
+     "audio": "media/sent/99f048bc485f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/playground.webp",
+    "uk": "media/uk/playground.mp3",
+    "us": "media/us/playground.mp3"
+   },
+   "avoid": [
+    "park",
+    "zoo"
+   ]
+  },
+  {
+   "id": "zoo",
+   "word": "zoo",
+   "zh": "动物园",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "动物园"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "zoo"
+   ],
+   "emoji": "🦁",
+   "sentence": {
+    "en": "We see pandas at the zoo.",
+    "zh": "我们在动物园看熊猫。"
+   },
+   "sentences": [
+    {
+     "en": "We see pandas at the zoo.",
+     "zh": "我们在动物园看熊猫。",
+     "audio": "media/sent/977e88ebce64.mp3"
+    },
+    {
+     "en": "Mum takes Tom to the zoo.",
+     "zh": "妈妈带 Tom 去动物园。",
+     "audio": "media/sent/2ae4b9ebe843.mp3"
+    },
+    {
+     "en": "The zoo is far from our house.",
+     "zh": "动物园离我们家很远。",
+     "audio": "media/sent/62c05567ae4b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/zoo.webp"
+   },
+   "avoid": [
+    "park",
+    "playground"
+   ]
+  },
+  {
+   "id": "car-park",
+   "word": "car park",
+   "zh": "停车场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "停车场"
+    }
+   ],
+   "ipa": "/ˈkɑː pɑːk/",
+   "chunks": [
+    "car",
+    "park"
+   ],
+   "emoji": "🅿️",
+   "sentence": {
+    "en": "Dad drives into the car park.",
+    "zh": "爸爸开车进停车场。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drives into the car park.",
+     "zh": "爸爸开车进停车场。",
+     "audio": "media/sent/ef5fa7a5351c.mp3"
+    },
+    {
+     "en": "The car park is very busy today.",
+     "zh": "今天停车场很繁忙。",
+     "audio": "media/sent/02ade7d10b0b.mp3"
+    },
+    {
+     "en": "We leave the car in the car park.",
+     "zh": "我们把车留在停车场里。",
+     "audio": "media/sent/48c632e58891.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/car-park.webp",
+    "uk": "media/uk/car-park.mp3",
+    "us": "media/us/car-park.mp3"
+   },
+   "avoid": [
+    "park",
+    "park.2",
+    "petrol-station"
+   ]
+  },
+  {
+   "id": "station",
+   "word": "station",
+   "zh": "车站；火车站",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车站；火车站"
+    }
+   ],
+   "ipa": "/ˈsteɪʃən/",
+   "chunks": [
+    "sta",
+    "tion"
+   ],
+   "emoji": "🚉",
+   "sentence": {
+    "en": "We wait for the train at the station.",
+    "zh": "我们在火车站等火车。"
+   },
+   "sentences": [
+    {
+     "en": "We wait for the train at the station.",
+     "zh": "我们在火车站等火车。",
+     "audio": "media/sent/8da7776b964a.mp3"
+    },
+    {
+     "en": "The station is near our school.",
+     "zh": "火车站在我们学校附近。",
+     "audio": "media/sent/6f3789f16584.mp3"
+    },
+    {
+     "en": "Dad buys tickets at the station.",
+     "zh": "爸爸在火车站买票。",
+     "audio": "media/sent/eaf1b9cbe122.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/station.webp",
+    "uk": "media/uk/station.mp3",
+    "us": "media/us/station.mp3"
+   },
+   "avoid": [
+    "airport",
+    "bus-station",
+    "bus-stop",
+    "underground"
+   ]
+  },
+  {
+   "id": "bus-station",
+   "word": "bus station",
+   "zh": "公共汽车站（总站）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公共汽车站（总站）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bus",
+    "sta",
+    "tion"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "We wait for the bus at the bus station.",
+    "zh": "我们在公共汽车站等车。"
+   },
+   "sentences": [
+    {
+     "en": "We wait for the bus at the bus station.",
+     "zh": "我们在公共汽车站等车。",
+     "audio": "media/sent/4a9406073fd9.mp3"
+    },
+    {
+     "en": "The bus station is very busy in the morning.",
+     "zh": "公共汽车站在早上很繁忙。",
+     "audio": "media/sent/e389030db7ef.mp3"
+    },
+    {
+     "en": "Lily runs to the bus station.",
+     "zh": "Lily 跑向公共汽车站。",
+     "audio": "media/sent/759888527952.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bus-station.webp"
+   },
+   "avoid": [
+    "bus-stop",
+    "station",
+    "underground"
+   ]
+  },
+  {
+   "id": "bus-stop",
+   "word": "bus stop",
+   "zh": "公共汽车站（站牌处）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公共汽车站（站牌处）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bus",
+    "stop"
+   ],
+   "emoji": "🚏",
+   "sentence": {
+    "en": "Mum waits at the bus stop.",
+    "zh": "妈妈在公共汽车站点等车。"
+   },
+   "sentences": [
+    {
+     "en": "Mum waits at the bus stop.",
+     "zh": "妈妈在公共汽车站点等车。",
+     "audio": "media/sent/c65418672881.mp3"
+    },
+    {
+     "en": "The bus stop is just around the corner.",
+     "zh": "公共汽车站点就在拐角处。",
+     "audio": "media/sent/91d3ecbe527b.mp3"
+    },
+    {
+     "en": "We walk to the bus stop every day.",
+     "zh": "我们每天步行去公共汽车站点。",
+     "audio": "media/sent/b1a1c940a0b4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bus-stop.webp"
+   },
+   "avoid": [
+    "bus-station",
+    "station",
+    "underground"
+   ]
+  },
+  {
+   "id": "underground",
+   "word": "underground",
+   "zh": "地铁；地下的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "地铁；地下的"
+    }
+   ],
+   "ipa": "/ˌʌndəˈɡraʊnd/",
+   "chunks": [
+    "un",
+    "der",
+    "ground"
+   ],
+   "emoji": "🚇",
+   "sentence": {
+    "en": "We take the underground to school.",
+    "zh": "我们坐地铁去学校。"
+   },
+   "sentences": [
+    {
+     "en": "We take the underground to school.",
+     "zh": "我们坐地铁去学校。",
+     "audio": "media/sent/cc93802a7f09.mp3"
+    },
+    {
+     "en": "The underground is fast and clean.",
+     "zh": "地铁又快又干净。",
+     "audio": "media/sent/a861dfdd7d64.mp3"
+    },
+    {
+     "en": "We wait on the underground platform.",
+     "zh": "我们在地铁月台等车。",
+     "audio": "media/sent/c9a03a5d7806.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/underground.webp",
+    "uk": "media/uk/underground.mp3",
+    "us": "media/us/underground.mp3"
+   },
+   "avoid": [
+    "bus-station",
+    "bus-stop",
+    "station"
+   ]
+  },
+  {
+   "id": "petrol-station",
+   "word": "petrol station",
+   "zh": "加油站",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "加油站"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pe",
+    "trol",
+    "sta",
+    "tion"
+   ],
+   "emoji": "⛽",
+   "sentence": {
+    "en": "Dad stops at the petrol station.",
+    "zh": "爸爸在加油站停车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stops at the petrol station.",
+     "zh": "爸爸在加油站停车。",
+     "audio": "media/sent/c6fea64a8764.mp3"
+    },
+    {
+     "en": "We buy drinks at the petrol station.",
+     "zh": "我们在加油站买饮料。",
+     "audio": "media/sent/690605f6429a.mp3"
+    },
+    {
+     "en": "Dad fills the car at the petrol station.",
+     "zh": "爸爸在加油站给车加油。",
+     "audio": "media/sent/f0883391eb45.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/petrol-station.webp"
+   },
+   "avoid": [
+    "car-park"
+   ]
+  },
+  {
+   "id": "motorway",
+   "word": "motorway",
+   "zh": "高速公路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "高速公路"
+    }
+   ],
+   "ipa": "/ˈməʊtəweɪ/",
+   "chunks": [
+    "mo",
+    "tor",
+    "way"
+   ],
+   "emoji": "🛣️",
+   "sentence": {
+    "en": "We drive on the motorway.",
+    "zh": "我们在高速公路上开车。"
+   },
+   "sentences": [
+    {
+     "en": "We drive on the motorway.",
+     "zh": "我们在高速公路上开车。",
+     "audio": "media/sent/144a85b35cc1.mp3"
+    },
+    {
+     "en": "The motorway is very busy today.",
+     "zh": "今天高速公路很繁忙。",
+     "audio": "media/sent/c3e2522a5446.mp3"
+    },
+    {
+     "en": "We take the next exit on the motorway.",
+     "zh": "我们在高速公路上走下一个出口。",
+     "audio": "media/sent/1860fb542ecb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/motorway.webp",
+    "uk": "media/uk/motorway.mp3",
+    "us": "media/us/motorway.mp3"
+   },
+   "avoid": [
+    "road",
+    "roundabout",
+    "street"
+   ]
+  },
+  {
+   "id": "roundabout",
+   "word": "roundabout",
+   "zh": "环岛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "环岛"
+    }
+   ],
+   "ipa": "/ˈraʊndəbaʊt/",
+   "chunks": [
+    "round",
+    "a",
+    "bout"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "Dad drives round the roundabout.",
+    "zh": "爸爸开车绕环岛行驶。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drives round the roundabout.",
+     "zh": "爸爸开车绕环岛行驶。",
+     "audio": "media/sent/8672ab0646a6.mp3"
+    },
+    {
+     "en": "Be careful at the roundabout.",
+     "zh": "在环岛处要小心。",
+     "audio": "media/sent/a60e5e0e98ee.mp3"
+    },
+    {
+     "en": "There are many cars on the roundabout.",
+     "zh": "环岛上有很多车。",
+     "audio": "media/sent/2198a2bfe8f5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/roundabout.webp",
+    "uk": "media/uk/roundabout.mp3",
+    "us": "media/us/roundabout.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "road",
+    "street"
+   ]
+  },
+  {
+   "id": "airport",
+   "word": "airport",
+   "zh": "机场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "机场"
+    }
+   ],
+   "ipa": "/ˈeəpɔːt/",
+   "chunks": [
+    "air",
+    "port"
+   ],
+   "emoji": "✈️",
+   "sentence": {
+    "en": "We go to the airport.",
+    "zh": "我们去机场。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the airport.",
+     "zh": "我们去机场。",
+     "audio": "media/sent/d69ae22dff90.mp3"
+    },
+    {
+     "en": "The airport is far from home.",
+     "zh": "机场离家很远。",
+     "audio": "media/sent/bd40d4d22439.mp3"
+    },
+    {
+     "en": "We look at the plane at the airport.",
+     "zh": "我们在机场看飞机。",
+     "audio": "media/sent/621f3f51197a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/airport.webp",
+    "uk": "media/uk/airport.mp3",
+    "us": "media/us/airport.mp3"
+   },
+   "avoid": [
+    "station"
+   ]
+  }
+ ]
+}

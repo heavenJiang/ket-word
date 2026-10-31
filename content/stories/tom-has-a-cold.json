@@ -1,0 +1,45 @@
+{
+ "id": "tom-has-a-cold",
+ "topic": "health",
+ "title": "Tom Has a Cold",
+ "zh": "Tom 感冒了",
+ "pages": [
+  {
+   "en": "One morning, Tom doesn't feel well. He has a cold and a high temperature. \"No school today,\" says Mum. \"Stay in bed and rest.\"",
+   "zh": "一天早上，Tom 觉得不舒服。他感冒了，还发了高烧。“今天不去上学了，”妈妈说，“待在床上好好休息。”",
+   "scene": "Tom in bed with a red nose and a blanket, looking tired, Mum sitting on the bed and touching his head, a glass of water on the table."
+  },
+  {
+   "en": "Mum takes Tom to see Dr Brown. The doctor checks his ears and his mouth. \"Drink lots of water and take this medicine,\" she says.",
+   "zh": "妈妈带 Tom 去看 Brown 医生。医生检查了他的耳朵和嘴巴。“多喝水，吃这个药，”她说。",
+   "scene": "A friendly doctor's room, a kind woman doctor in a white coat looking in Tom's ear, Tom sitting on Mum's knee, a bottle of medicine on the desk."
+  },
+  {
+   "en": "Lily reads Tom a story, and Max sits next to his bed. Three days later, Tom feels better. He runs in the garden with Max again!",
+   "zh": "Lily 给 Tom 读故事，Max 坐在他床边。三天后，Tom 好多了。他又和 Max 在花园里跑起来了！",
+   "scene": "A sunny garden, Tom running and laughing with Max, Lily waving from the back door, flowers and green grass."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Tom goes to school with a cold.",
+   "zh": "Tom 感冒了还去上学。",
+   "answer": false
+  },
+  {
+   "q": "Who does Tom see?",
+   "zh": "Tom 去看了谁？",
+   "options": [
+    "Dr Brown",
+    "the dentist",
+    "the nurse"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom feels better after three days.",
+   "zh": "三天后 Tom 好多了。",
+   "answer": true
+  }
+ ]
+}

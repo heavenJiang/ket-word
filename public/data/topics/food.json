@@ -1,0 +1,6098 @@
+{
+ "id": "food",
+ "words": [
+  {
+   "id": "apple",
+   "word": "apple",
+   "zh": "苹果",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "苹果"
+    }
+   ],
+   "ipa": "/ˈæpəl/",
+   "chunks": [
+    "ap",
+    "ple"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "Lily eats a red apple.",
+    "zh": "Lily 吃了一个红苹果。"
+   },
+   "sentences": [
+    {
+     "en": "Lily eats a red apple.",
+     "zh": "Lily 吃了一个红苹果。",
+     "audio": "media/sent/c06a3cdc3826.mp3"
+    },
+    {
+     "en": "An apple a day is good for you.",
+     "zh": "每天一个苹果对身体好。",
+     "audio": "media/sent/eb58f36509ac.mp3"
+    },
+    {
+     "en": "Lily puts an apple in her bag.",
+     "zh": "Lily 把一个苹果放进书包。",
+     "audio": "media/sent/6f1d651f313b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/apple.webp",
+    "uk": "media/uk/apple.mp3",
+    "us": "media/us/apple.mp3"
+   },
+   "avoid": [
+    "banana",
+    "fruit",
+    "grape",
+    "lemon",
+    "melon",
+    "orange",
+    "pear",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "bake",
+   "word": "bake",
+   "zh": "烘烤（面包、蛋糕）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "烘烤（面包、蛋糕）"
+    }
+   ],
+   "ipa": "/beɪk/",
+   "chunks": [
+    "bake"
+   ],
+   "emoji": "🧁",
+   "sentence": {
+    "en": "Mum and Lily bake a cake.",
+    "zh": "妈妈和 Lily 烤了一个蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Mum and Lily bake a cake.",
+     "zh": "妈妈和 Lily 烤了一个蛋糕。",
+     "audio": "media/sent/aebdb1c7e865.mp3"
+    },
+    {
+     "en": "Let's bake some bread.",
+     "zh": "我们来烤面包吧。",
+     "audio": "media/sent/83da9e17025e.mp3"
+    },
+    {
+     "en": "Grandma likes to bake on Saturday.",
+     "zh": "奶奶喜欢在星期六烘焙。",
+     "audio": "media/sent/ef870b71fe05.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bake.webp",
+    "uk": "media/uk/bake.mp3",
+    "us": "media/us/bake.mp3"
+   },
+   "avoid": [
+    "barbecue",
+    "fried",
+    "grilled",
+    "roast"
+   ]
+  },
+  {
+   "id": "banana",
+   "word": "banana",
+   "zh": "香蕉",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "香蕉"
+    }
+   ],
+   "ipa": "/bəˈnɑːnə/",
+   "chunks": [
+    "ba",
+    "na",
+    "na"
+   ],
+   "emoji": "🍌",
+   "sentence": {
+    "en": "A banana is long and yellow.",
+    "zh": "香蕉又长又黄。"
+   },
+   "sentences": [
+    {
+     "en": "A banana is long and yellow.",
+     "zh": "香蕉又长又黄。",
+     "audio": "media/sent/29072ef74bfb.mp3"
+    },
+    {
+     "en": "The monkey eats a banana.",
+     "zh": "猴子吃香蕉。",
+     "audio": "media/sent/838a61e862f2.mp3"
+    },
+    {
+     "en": "Lily has a banana for breakfast.",
+     "zh": "Lily 早餐吃一根香蕉。",
+     "audio": "media/sent/6eeff1cddc04.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/banana.webp",
+    "uk": "media/uk/banana.mp3",
+    "us": "media/us/banana.mp3"
+   },
+   "avoid": [
+    "apple",
+    "fruit",
+    "grape",
+    "lemon",
+    "melon",
+    "orange",
+    "pear",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "barbecue",
+   "word": "barbecue",
+   "zh": "烧烤",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "烧烤"
+    }
+   ],
+   "ipa": "/ˈbɑːbɪkjuː/",
+   "chunks": [
+    "bar",
+    "be",
+    "cue"
+   ],
+   "emoji": "🍢",
+   "sentence": {
+    "en": "We have a barbecue in the garden.",
+    "zh": "我们在花园里烧烤。"
+   },
+   "sentences": [
+    {
+     "en": "We have a barbecue in the garden.",
+     "zh": "我们在花园里烧烤。",
+     "audio": "media/sent/34ca3dd56537.mp3"
+    },
+    {
+     "en": "Dad cooks sausages on the barbecue.",
+     "zh": "爸爸在烧烤架上烤香肠。",
+     "audio": "media/sent/ec8468a3047a.mp3"
+    },
+    {
+     "en": "Let's have a barbecue on Sunday.",
+     "zh": "我们星期天烧烤吧。",
+     "audio": "media/sent/b58c91036838.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/barbecue.webp",
+    "uk": "media/uk/barbecue.mp3",
+    "us": "media/us/barbecue.mp3"
+   },
+   "avoid": [
+    "bake",
+    "fried",
+    "grilled",
+    "roast",
+    "sausage"
+   ]
+  },
+  {
+   "id": "biscuit",
+   "word": "biscuit",
+   "zh": "饼干（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "饼干（英式）"
+    }
+   ],
+   "ipa": "/ˈbɪskɪt/",
+   "chunks": [
+    "bis",
+    "cuit"
+   ],
+   "emoji": "🍪",
+   "sentence": {
+    "en": "Max likes dog biscuits.",
+    "zh": "Max 喜欢狗饼干。"
+   },
+   "sentences": [
+    {
+     "en": "Max likes dog biscuits.",
+     "zh": "Max 喜欢狗饼干。",
+     "audio": "media/sent/ff016e5af914.mp3"
+    },
+    {
+     "en": "Can I have a biscuit, please?",
+     "zh": "我可以吃一块饼干吗？",
+     "audio": "media/sent/9055efd90ee7.mp3"
+    },
+    {
+     "en": "Grandma gives Lily a chocolate biscuit.",
+     "zh": "奶奶给 Lily 一块巧克力饼干。",
+     "audio": "media/sent/c245fbbc092e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/biscuit.webp",
+    "uk": "media/uk/biscuit.mp3",
+    "us": "media/us/biscuit.mp3"
+   },
+   "avoid": [
+    "bowl",
+    "drink",
+    "food",
+    "meat",
+    "sausage",
+    "snack"
+   ]
+  },
+  {
+   "id": "boil",
+   "word": "boil",
+   "zh": "煮；烧开",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "煮；烧开"
+    }
+   ],
+   "ipa": "/bɔɪl/",
+   "chunks": [
+    "boil"
+   ],
+   "emoji": "♨️",
+   "sentence": {
+    "en": "Dad boils water for tea.",
+    "zh": "爸爸烧水泡茶。"
+   },
+   "sentences": [
+    {
+     "en": "Dad boils water for tea.",
+     "zh": "爸爸烧水泡茶。",
+     "audio": "media/sent/92344fe45197.mp3"
+    },
+    {
+     "en": "Boil the eggs for ten minutes.",
+     "zh": "把鸡蛋煮十分钟。",
+     "audio": "media/sent/5e35a6dcb632.mp3"
+    },
+    {
+     "en": "Water starts to boil at 100 degrees.",
+     "zh": "水在100度时开始沸腾。",
+     "audio": "media/sent/ad428e78f5f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/boil.webp",
+    "uk": "media/uk/boil.mp3",
+    "us": "media/us/boil.mp3"
+   },
+   "avoid": [
+    "boiled"
+   ]
+  },
+  {
+   "id": "boiled",
+   "word": "boiled",
+   "zh": "煮熟的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "煮熟的"
+    }
+   ],
+   "ipa": "/bɔɪld/",
+   "chunks": [
+    "boiled"
+   ],
+   "emoji": "🥚",
+   "sentence": {
+    "en": "I have a boiled egg for breakfast.",
+    "zh": "我早餐吃一个水煮蛋。"
+   },
+   "sentences": [
+    {
+     "en": "I have a boiled egg for breakfast.",
+     "zh": "我早餐吃一个水煮蛋。",
+     "audio": "media/sent/e2b732cab229.mp3"
+    },
+    {
+     "en": "Tom doesn't like boiled carrots.",
+     "zh": "Tom 不喜欢煮胡萝卜。",
+     "audio": "media/sent/d3727115e442.mp3"
+    },
+    {
+     "en": "We have boiled rice with the fish.",
+     "zh": "我们吃鱼配白米饭。",
+     "audio": "media/sent/761f5a1b8a74.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/boiled.webp"
+   },
+   "avoid": [
+    "boil",
+    "egg",
+    "fried",
+    "omelette"
+   ]
+  },
+  {
+   "id": "bottle",
+   "word": "bottle",
+   "zh": "瓶子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "瓶子"
+    }
+   ],
+   "ipa": "/ˈbɒtl/",
+   "chunks": [
+    "bot",
+    "tle"
+   ],
+   "emoji": "🍼",
+   "sentence": {
+    "en": "Lily has a bottle of water.",
+    "zh": "Lily 有一瓶水。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a bottle of water.",
+     "zh": "Lily 有一瓶水。",
+     "audio": "media/sent/cf48fdd52fb0.mp3"
+    },
+    {
+     "en": "There is milk in the bottle.",
+     "zh": "瓶子里有牛奶。",
+     "audio": "media/sent/6363f17364dd.mp3"
+    },
+    {
+     "en": "Don't forget your water bottle!",
+     "zh": "别忘了你的水瓶！",
+     "audio": "media/sent/d2afe094cbe1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bottle.webp",
+    "uk": "media/uk/bottle.mp3",
+    "us": "media/us/bottle.mp3"
+   },
+   "avoid": [
+    "cup",
+    "glass",
+    "milk",
+    "mineral-water"
+   ]
+  },
+  {
+   "id": "bowl",
+   "word": "bowl",
+   "zh": "碗",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "碗"
+    }
+   ],
+   "ipa": "/bəʊl/",
+   "chunks": [
+    "bowl"
+   ],
+   "emoji": "🥣",
+   "sentence": {
+    "en": "Max has a blue bowl.",
+    "zh": "Max 有一个蓝色的碗。"
+   },
+   "sentences": [
+    {
+     "en": "Max has a blue bowl.",
+     "zh": "Max 有一个蓝色的碗。",
+     "audio": "media/sent/40b4979ade98.mp3"
+    },
+    {
+     "en": "Lily eats her soup from a bowl.",
+     "zh": "Lily 用碗喝汤。",
+     "audio": "media/sent/e92b56614826.mp3"
+    },
+    {
+     "en": "Put the fruit in the big bowl.",
+     "zh": "把水果放进大碗里。",
+     "audio": "media/sent/f8feeba4fefc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bowl.webp",
+    "uk": "media/uk/bowl.mp3",
+    "us": "media/us/bowl.mp3"
+   },
+   "avoid": [
+    "biscuit",
+    "dish",
+    "drink",
+    "food",
+    "meat",
+    "plate",
+    "salt",
+    "sausage",
+    "soup"
+   ]
+  },
+  {
+   "id": "box",
+   "word": "box",
+   "zh": "盒子；箱子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "盒子；箱子"
+    }
+   ],
+   "ipa": "/bɒks/",
+   "chunks": [
+    "box"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "The cups are in a big box.",
+    "zh": "杯子装在一个大箱子里。"
+   },
+   "sentences": [
+    {
+     "en": "The cups are in a big box.",
+     "zh": "杯子装在一个大箱子里。",
+     "audio": "media/sent/a6f0afe94804.mp3"
+    },
+    {
+     "en": "The cake is in a box.",
+     "zh": "蛋糕在盒子里。",
+     "audio": "media/sent/674ba9b69531.mp3"
+    },
+    {
+     "en": "Lily opens the box of chocolates.",
+     "zh": "Lily 打开那盒巧克力。",
+     "audio": "media/sent/8db71331d4f7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/box.webp",
+    "uk": "media/uk/box.mp3",
+    "us": "media/us/box.mp3"
+   },
+   "avoid": [
+    "can",
+    "cup"
+   ]
+  },
+  {
+   "id": "bread",
+   "word": "bread",
+   "zh": "面包",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "面包"
+    }
+   ],
+   "ipa": "/bred/",
+   "chunks": [
+    "bread"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "We buy bread every morning.",
+    "zh": "我们每天早上买面包。"
+   },
+   "sentences": [
+    {
+     "en": "We buy bread every morning.",
+     "zh": "我们每天早上买面包。",
+     "audio": "media/sent/1a114edef7c2.mp3"
+    },
+    {
+     "en": "I'd like some bread and butter.",
+     "zh": "我想要点面包和黄油。",
+     "audio": "media/sent/70bd72bc5965.mp3"
+    },
+    {
+     "en": "Mum cuts the bread with a knife.",
+     "zh": "妈妈用刀切面包。",
+     "audio": "media/sent/27a4a6dbeccd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bread.webp",
+    "uk": "media/uk/bread.mp3",
+    "us": "media/us/bread.mp3"
+   },
+   "avoid": [
+    "butter",
+    "jam",
+    "knife",
+    "sandwich",
+    "slice",
+    "strawberry",
+    "toast"
+   ]
+  },
+  {
+   "id": "break",
+   "word": "break",
+   "zh": "课间休息；休息",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "课间休息；休息"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "打破；弄坏",
+     "en": "Who broke the window?"
+    }
+   ],
+   "ipa": "/breɪk/",
+   "chunks": [
+    "break"
+   ],
+   "emoji": "⏸️",
+   "sentence": {
+    "en": "We eat a snack at break.",
+    "zh": "我们课间吃点心。"
+   },
+   "sentences": [
+    {
+     "en": "We eat a snack at break.",
+     "zh": "我们课间吃点心。",
+     "audio": "media/sent/9884b63abbed.mp3"
+    },
+    {
+     "en": "We play football at break.",
+     "zh": "我们课间踢足球。",
+     "audio": "media/sent/061e9711a80b.mp3"
+    },
+    {
+     "en": "The morning break is twenty minutes.",
+     "zh": "上午的课间休息是二十分钟。",
+     "audio": "media/sent/ee0b04d3cda7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/break.webp",
+    "uk": "media/uk/break.mp3",
+    "us": "media/us/break.mp3"
+   },
+   "avoid": [
+    "break.2"
+   ]
+  },
+  {
+   "id": "break.2",
+   "word": "break",
+   "zh": "打破；弄坏",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "打破；弄坏"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "课间休息；休息"
+    }
+   ],
+   "ipa": "/breɪk/",
+   "chunks": [
+    "break"
+   ],
+   "emoji": "💥",
+   "sentence": {
+    "en": "Be careful! Don't break the glass.",
+    "zh": "小心！别打破杯子。"
+   },
+   "sentences": [
+    {
+     "en": "Be careful! Don't break the glass.",
+     "zh": "小心！别打破杯子。",
+     "audio": "media/sent/6c2da1752078.mp3"
+    },
+    {
+     "en": "Who broke the window?",
+     "zh": "谁打破了窗户？",
+     "audio": "media/sent/8f5cf6822c50.mp3"
+    },
+    {
+     "en": "Please don't break my new toy.",
+     "zh": "请别弄坏我的新玩具。",
+     "audio": "media/sent/e8ff6262e59f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/break.2.webp",
+    "uk": "media/uk/break.mp3",
+    "us": "media/us/break.mp3"
+   },
+   "of": "break",
+   "ofZh": "课间休息；休息",
+   "avoid": [
+    "break"
+   ]
+  },
+  {
+   "id": "breakfast",
+   "word": "breakfast",
+   "zh": "早餐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "早餐"
+    }
+   ],
+   "ipa": "/ˈbrekfəst/",
+   "chunks": [
+    "break",
+    "fast"
+   ],
+   "emoji": "🍳",
+   "sentence": {
+    "en": "Lily has breakfast at seven.",
+    "zh": "Lily 七点吃早餐。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has breakfast at seven.",
+     "zh": "Lily 七点吃早餐。",
+     "audio": "media/sent/bc127b8c462e.mp3"
+    },
+    {
+     "en": "What do you have for breakfast?",
+     "zh": "你早餐吃什么？",
+     "audio": "media/sent/9f9ddadd7486.mp3"
+    },
+    {
+     "en": "Breakfast is ready!",
+     "zh": "早餐好了！",
+     "audio": "media/sent/82e99c8dad4b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/breakfast.webp",
+    "uk": "media/uk/breakfast.mp3",
+    "us": "media/us/breakfast.mp3"
+   },
+   "avoid": [
+    "cereal",
+    "delicious",
+    "dinner",
+    "eat",
+    "food",
+    "hungry",
+    "juice",
+    "lunch",
+    "main-course",
+    "meal",
+    "orange",
+    "picnic",
+    "snack",
+    "toast"
+   ]
+  },
+  {
+   "id": "burger",
+   "word": "burger",
+   "zh": "汉堡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "汉堡"
+    }
+   ],
+   "ipa": "/ˈbɜːɡə/",
+   "chunks": [
+    "bur",
+    "ger"
+   ],
+   "emoji": "🍔",
+   "sentence": {
+    "en": "Dad makes a big burger.",
+    "zh": "爸爸做了一个大汉堡。"
+   },
+   "sentences": [
+    {
+     "en": "Dad makes a big burger.",
+     "zh": "爸爸做了一个大汉堡。",
+     "audio": "media/sent/8e5a2b518a63.mp3"
+    },
+    {
+     "en": "Tom wants a burger and chips.",
+     "zh": "Tom 想要一个汉堡和薯条。",
+     "audio": "media/sent/c2e1bf5d845c.mp3"
+    },
+    {
+     "en": "This burger is very big!",
+     "zh": "这个汉堡好大！",
+     "audio": "media/sent/74a3d93e0a2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/burger.webp",
+    "uk": "media/uk/burger.mp3",
+    "us": "media/us/burger.mp3"
+   },
+   "avoid": [
+    "chicken",
+    "meat",
+    "sausage",
+    "steak"
+   ]
+  },
+  {
+   "id": "butter",
+   "word": "butter",
+   "zh": "黄油",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "黄油"
+    }
+   ],
+   "ipa": "/ˈbʌtə/",
+   "chunks": [
+    "but",
+    "ter"
+   ],
+   "emoji": "🧈",
+   "sentence": {
+    "en": "I put butter on my bread.",
+    "zh": "我在面包上抹黄油。"
+   },
+   "sentences": [
+    {
+     "en": "I put butter on my bread.",
+     "zh": "我在面包上抹黄油。",
+     "audio": "media/sent/c6e1af221ede.mp3"
+    },
+    {
+     "en": "We need butter to make a cake.",
+     "zh": "做蛋糕需要黄油。",
+     "audio": "media/sent/824cad7ba431.mp3"
+    },
+    {
+     "en": "Put the butter in the fridge.",
+     "zh": "把黄油放进冰箱。",
+     "audio": "media/sent/9987478ea472.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/butter.webp",
+    "uk": "media/uk/butter.mp3",
+    "us": "media/us/butter.mp3"
+   },
+   "avoid": [
+    "bread",
+    "cheese",
+    "cream",
+    "knife",
+    "milk",
+    "yogurt"
+   ]
+  },
+  {
+   "id": "cafe",
+   "word": "cafe",
+   "zh": "咖啡馆；小餐馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "咖啡馆；小餐馆"
+    }
+   ],
+   "ipa": "/ˈkæfeɪ/",
+   "chunks": [
+    "ca",
+    "fe"
+   ],
+   "emoji": "☕",
+   "sentence": {
+    "en": "Mum and Lily meet at a cafe.",
+    "zh": "妈妈和 Lily 在咖啡馆见面。"
+   },
+   "sentences": [
+    {
+     "en": "Mum and Lily meet at a cafe.",
+     "zh": "妈妈和 Lily 在咖啡馆见面。",
+     "audio": "media/sent/3f9b7d206d60.mp3"
+    },
+    {
+     "en": "The cafe sells cakes and coffee.",
+     "zh": "这家咖啡馆卖蛋糕和咖啡。",
+     "audio": "media/sent/13f3eb06ce56.mp3"
+    },
+    {
+     "en": "Let's have lunch at the cafe.",
+     "zh": "我们去咖啡馆吃午饭吧。",
+     "audio": "media/sent/b878de03f821.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafe.webp",
+    "uk": "media/uk/cafe.mp3",
+    "us": "media/us/cafe.mp3"
+   },
+   "avoid": [
+    "cafeteria",
+    "cake",
+    "cup",
+    "dessert",
+    "dinner",
+    "lunch",
+    "menu",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "word": "cafeteria",
+   "zh": "自助餐厅；食堂",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "自助餐厅；食堂"
+    }
+   ],
+   "ipa": "/ˌkæfəˈtɪəriə/",
+   "chunks": [
+    "caf",
+    "e",
+    "te",
+    "ri",
+    "a"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We have lunch in the school cafeteria.",
+    "zh": "我们在学校食堂吃午饭。"
+   },
+   "sentences": [
+    {
+     "en": "We have lunch in the school cafeteria.",
+     "zh": "我们在学校食堂吃午饭。",
+     "audio": "media/sent/f44cee833d45.mp3"
+    },
+    {
+     "en": "The cafeteria opens at twelve.",
+     "zh": "食堂十二点开门。",
+     "audio": "media/sent/6cbc39ed8ef9.mp3"
+    },
+    {
+     "en": "Lily sits with her friends in the cafeteria.",
+     "zh": "Lily 和朋友们坐在食堂里。",
+     "audio": "media/sent/5f3b0b073ff9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cafeteria.webp",
+    "uk": "media/uk/cafeteria.mp3",
+    "us": "media/us/cafeteria.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "dessert",
+    "dinner",
+    "lunch",
+    "menu",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "cake",
+   "word": "cake",
+   "zh": "蛋糕",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蛋糕"
+    }
+   ],
+   "ipa": "/keɪk/",
+   "chunks": [
+    "cake"
+   ],
+   "emoji": "🎂",
+   "sentence": {
+    "en": "Happy birthday! Here is your cake.",
+    "zh": "生日快乐！这是你的蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Happy birthday! Here is your cake.",
+     "zh": "生日快乐！这是你的蛋糕。",
+     "audio": "media/sent/3dbe349e671d.mp3"
+    },
+    {
+     "en": "Grandma makes a chocolate cake.",
+     "zh": "奶奶做了一个巧克力蛋糕。",
+     "audio": "media/sent/156f4ff4a5b6.mp3"
+    },
+    {
+     "en": "Can I have some more cake?",
+     "zh": "我能再吃点蛋糕吗？",
+     "audio": "media/sent/71f903c5aa71.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cake.webp",
+    "uk": "media/uk/cake.mp3",
+    "us": "media/us/cake.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "candy",
+    "chocolate",
+    "cup",
+    "dessert",
+    "sweet"
+   ]
+  },
+  {
+   "id": "can",
+   "word": "can",
+   "zh": "罐头；易拉罐",
+   "pos": [
+    "n",
+    "mv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "罐头；易拉罐"
+    },
+    {
+     "pos": [
+      "mv"
+     ],
+     "zh": "能；会；可以",
+     "en": "I can ride a bike. Can I have one?"
+    }
+   ],
+   "ipa": "/kæn/",
+   "chunks": [
+    "can"
+   ],
+   "emoji": "🥫",
+   "sentence": {
+    "en": "Dad opens a can of soup.",
+    "zh": "爸爸打开一罐汤。"
+   },
+   "sentences": [
+    {
+     "en": "Dad opens a can of soup.",
+     "zh": "爸爸打开一罐汤。",
+     "audio": "media/sent/bb45cfacb03d.mp3"
+    },
+    {
+     "en": "There is a can of cola in the fridge.",
+     "zh": "冰箱里有一罐可乐。",
+     "audio": "media/sent/c9977d11d36b.mp3"
+    },
+    {
+     "en": "Open the can carefully.",
+     "zh": "小心地打开罐头。",
+     "audio": "media/sent/d6f782dc5652.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/can.webp",
+    "uk": "media/uk/can.mp3",
+    "us": "media/us/can.mp3"
+   },
+   "avoid": [
+    "box",
+    "can.2",
+    "cup"
+   ]
+  },
+  {
+   "id": "can.2",
+   "word": "can",
+   "zh": "能；会；可以",
+   "pos": [
+    "mv",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "mv"
+     ],
+     "zh": "能；会；可以"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "罐头；易拉罐"
+    }
+   ],
+   "ipa": "/kæn/",
+   "chunks": [
+    "can"
+   ],
+   "emoji": "💪",
+   "sentence": {
+    "en": "Lily can ride a bike.",
+    "zh": "Lily 会骑自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Lily can ride a bike.",
+     "zh": "Lily 会骑自行车。",
+     "audio": "media/sent/dc176fca1fbd.mp3"
+    },
+    {
+     "en": "Can I have a biscuit, please?",
+     "zh": "我可以吃一块饼干吗？",
+     "audio": "media/sent/9055efd90ee7.mp3"
+    },
+    {
+     "en": "Max can't fly, but he can run fast.",
+     "zh": "Max 不会飞，但他能跑得很快。",
+     "audio": "media/sent/ba1b061aec45.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/can.2.webp",
+    "uk": "media/uk/can.mp3",
+    "us": "media/us/can.mp3"
+   },
+   "of": "can",
+   "ofZh": "罐头；易拉罐",
+   "avoid": [
+    "can"
+   ]
+  },
+  {
+   "id": "candy",
+   "word": "candy",
+   "zh": "糖果（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "糖果（美式）"
+    }
+   ],
+   "ipa": "/ˈkændi/",
+   "chunks": [
+    "can",
+    "dy"
+   ],
+   "emoji": "🍬",
+   "sentence": {
+    "en": "Too much candy is bad for your teeth.",
+    "zh": "吃太多糖果对牙齿不好。"
+   },
+   "sentences": [
+    {
+     "en": "Too much candy is bad for your teeth.",
+     "zh": "吃太多糖果对牙齿不好。",
+     "audio": "media/sent/8a6ba072144b.mp3"
+    },
+    {
+     "en": "Tom eats too much candy.",
+     "zh": "Tom 吃太多糖果了。",
+     "audio": "media/sent/ea3b97071820.mp3"
+    },
+    {
+     "en": "This candy is very sweet.",
+     "zh": "这颗糖很甜。",
+     "audio": "media/sent/901f282c969e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/candy.webp",
+    "uk": "media/uk/candy.mp3",
+    "us": "media/us/candy.mp3"
+   },
+   "avoid": [
+    "cake",
+    "chocolate",
+    "dessert",
+    "sweet"
+   ]
+  },
+  {
+   "id": "carrot",
+   "word": "carrot",
+   "zh": "胡萝卜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "胡萝卜"
+    }
+   ],
+   "ipa": "/ˈkærət/",
+   "chunks": [
+    "car",
+    "rot"
+   ],
+   "emoji": "🥕",
+   "sentence": {
+    "en": "Rabbits like carrots.",
+    "zh": "兔子喜欢胡萝卜。"
+   },
+   "sentences": [
+    {
+     "en": "Rabbits like carrots.",
+     "zh": "兔子喜欢胡萝卜。",
+     "audio": "media/sent/b3a1b93db2ad.mp3"
+    },
+    {
+     "en": "The rabbit is eating a carrot.",
+     "zh": "兔子在吃胡萝卜。",
+     "audio": "media/sent/fca2b2fdc768.mp3"
+    },
+    {
+     "en": "Lily cuts a carrot for the soup.",
+     "zh": "Lily 切了一根胡萝卜做汤。",
+     "audio": "media/sent/6bcc82ff34ba.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/carrot.webp",
+    "uk": "media/uk/carrot.mp3",
+    "us": "media/us/carrot.mp3"
+   },
+   "avoid": [
+    "chilli",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "salad",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "cereal",
+   "word": "cereal",
+   "zh": "麦片",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "麦片"
+    }
+   ],
+   "ipa": "/ˈsɪəriəl/",
+   "chunks": [
+    "ce",
+    "re",
+    "al"
+   ],
+   "emoji": "🥣",
+   "sentence": {
+    "en": "Lily eats cereal with milk.",
+    "zh": "Lily 吃麦片配牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Lily eats cereal with milk.",
+     "zh": "Lily 吃麦片配牛奶。",
+     "audio": "media/sent/96275c624470.mp3"
+    },
+    {
+     "en": "Tom has cereal for breakfast.",
+     "zh": "Tom 早餐吃麦片。",
+     "audio": "media/sent/7661c17b8d9c.mp3"
+    },
+    {
+     "en": "Put some milk on your cereal.",
+     "zh": "在麦片里加点牛奶。",
+     "audio": "media/sent/d5328ecd21d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cereal.webp",
+    "uk": "media/uk/cereal.mp3",
+    "us": "media/us/cereal.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "delicious",
+    "eat",
+    "hungry",
+    "juice",
+    "milk",
+    "orange",
+    "snack",
+    "toast"
+   ]
+  },
+  {
+   "id": "cheese",
+   "word": "cheese",
+   "zh": "奶酪",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奶酪"
+    }
+   ],
+   "ipa": "/tʃiːz/",
+   "chunks": [
+    "cheese"
+   ],
+   "emoji": "🧀",
+   "sentence": {
+    "en": "The mouse wants the cheese.",
+    "zh": "老鼠想要那块奶酪。"
+   },
+   "sentences": [
+    {
+     "en": "The mouse wants the cheese.",
+     "zh": "老鼠想要那块奶酪。",
+     "audio": "media/sent/65580c02d238.mp3"
+    },
+    {
+     "en": "I'd like a cheese sandwich, please.",
+     "zh": "我想要一个奶酪三明治。",
+     "audio": "media/sent/a27e539731e9.mp3"
+    },
+    {
+     "en": "Pizza has cheese on it.",
+     "zh": "比萨上有奶酪。",
+     "audio": "media/sent/377da8ce7335.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cheese.webp",
+    "uk": "media/uk/cheese.mp3",
+    "us": "media/us/cheese.mp3"
+   },
+   "avoid": [
+    "butter",
+    "cream",
+    "milk",
+    "yogurt"
+   ]
+  },
+  {
+   "id": "chef",
+   "word": "chef",
+   "zh": "厨师；大厨",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厨师；大厨"
+    }
+   ],
+   "ipa": "/ʃef/",
+   "chunks": [
+    "chef"
+   ],
+   "emoji": "👨‍🍳",
+   "sentence": {
+    "en": "The chef has a tall white hat.",
+    "zh": "大厨戴着一顶高高的白帽子。"
+   },
+   "sentences": [
+    {
+     "en": "The chef has a tall white hat.",
+     "zh": "大厨戴着一顶高高的白帽子。",
+     "audio": "media/sent/c607b419b525.mp3"
+    },
+    {
+     "en": "The chef cooks in the kitchen.",
+     "zh": "厨师在厨房做饭。",
+     "audio": "media/sent/61e502db2279.mp3"
+    },
+    {
+     "en": "Lily wants to be a chef.",
+     "zh": "Lily 想当厨师。",
+     "audio": "media/sent/729312a41606.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chef.webp",
+    "uk": "media/uk/chef.mp3",
+    "us": "media/us/chef.mp3"
+   },
+   "avoid": [
+    "cook",
+    "cooker",
+    "kitchen"
+   ]
+  },
+  {
+   "id": "chicken",
+   "word": "chicken",
+   "zh": "鸡；鸡肉",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鸡；鸡肉"
+    }
+   ],
+   "ipa": "/ˈtʃɪkɪn/",
+   "chunks": [
+    "chick",
+    "en"
+   ],
+   "emoji": "🍗",
+   "sentence": {
+    "en": "We have chicken and rice for dinner.",
+    "zh": "我们晚饭吃鸡肉和米饭。"
+   },
+   "sentences": [
+    {
+     "en": "We have chicken and rice for dinner.",
+     "zh": "我们晚饭吃鸡肉和米饭。",
+     "audio": "media/sent/4ad125333658.mp3"
+    },
+    {
+     "en": "The chicken lives on a farm.",
+     "zh": "鸡住在农场上。",
+     "audio": "media/sent/9297a94a001a.mp3"
+    },
+    {
+     "en": "Mum cooks chicken for dinner.",
+     "zh": "妈妈晚饭做鸡肉。",
+     "audio": "media/sent/aa9321db36a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chicken.webp",
+    "uk": "media/uk/chicken.mp3",
+    "us": "media/us/chicken.mp3"
+   },
+   "avoid": [
+    "burger",
+    "curry",
+    "egg",
+    "meat",
+    "potato",
+    "rice",
+    "roast",
+    "sausage",
+    "steak"
+   ]
+  },
+  {
+   "id": "chilli",
+   "word": "chilli",
+   "zh": "辣椒",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "辣椒"
+    }
+   ],
+   "ipa": "/ˈtʃɪli/",
+   "chunks": [
+    "chil",
+    "li"
+   ],
+   "emoji": "🌶️",
+   "sentence": {
+    "en": "Chillies are very hot!",
+    "zh": "辣椒非常辣！"
+   },
+   "sentences": [
+    {
+     "en": "Chillies are very hot!",
+     "zh": "辣椒非常辣！",
+     "audio": "media/sent/5fad2a069a12.mp3"
+    },
+    {
+     "en": "Don't eat the chilli! It's very hot.",
+     "zh": "别吃辣椒！很辣。",
+     "audio": "media/sent/1dee4f95039e.mp3"
+    },
+    {
+     "en": "Dad puts a chilli in the curry.",
+     "zh": "爸爸往咖喱里放了一个辣椒。",
+     "audio": "media/sent/6c4211b1b295.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chilli.webp",
+    "uk": "media/uk/chilli.mp3",
+    "us": "media/us/chilli.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "salad",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "chips",
+   "word": "chips",
+   "zh": "炸薯条（英式）",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "炸薯条（英式）"
+    }
+   ],
+   "ipa": "/tʃɪps/",
+   "chunks": [
+    "chips"
+   ],
+   "emoji": "🍟",
+   "sentence": {
+    "en": "Can I have fish and chips, please?",
+    "zh": "请给我一份炸鱼薯条好吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I have fish and chips, please?",
+     "zh": "请给我一份炸鱼薯条好吗？",
+     "audio": "media/sent/b707cb8aca64.mp3"
+    },
+    {
+     "en": "Tom wants chips with his burger.",
+     "zh": "Tom 的汉堡要配薯条。",
+     "audio": "media/sent/beb886ebd0dd.mp3"
+    },
+    {
+     "en": "These chips are hot!",
+     "zh": "这些薯条很烫！",
+     "audio": "media/sent/8d9c2c05ea29.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chips.webp",
+    "uk": "media/uk/chips.mp3",
+    "us": "media/us/chips.mp3"
+   },
+   "avoid": [
+    "fish",
+    "potato",
+    "sauce",
+    "steak"
+   ]
+  },
+  {
+   "id": "chocolate",
+   "word": "chocolate",
+   "zh": "巧克力",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "巧克力"
+    }
+   ],
+   "ipa": "/ˈtʃɒklət/",
+   "chunks": [
+    "choc",
+    "o",
+    "late"
+   ],
+   "emoji": "🍫",
+   "sentence": {
+    "en": "Chocolate is not good for dogs, Max!",
+    "zh": "巧克力对狗不好哦，Max！"
+   },
+   "sentences": [
+    {
+     "en": "Chocolate is not good for dogs, Max!",
+     "zh": "巧克力对狗不好哦，Max！",
+     "audio": "media/sent/abe3a71b7700.mp3"
+    },
+    {
+     "en": "Lily loves chocolate ice cream.",
+     "zh": "Lily 很爱巧克力冰淇淋。",
+     "audio": "media/sent/8e1fa4123b20.mp3"
+    },
+    {
+     "en": "Grandma gives us a box of chocolate.",
+     "zh": "奶奶给了我们一盒巧克力。",
+     "audio": "media/sent/188907d8438b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chocolate.webp",
+    "uk": "media/uk/chocolate.mp3",
+    "us": "media/us/chocolate.mp3"
+   },
+   "avoid": [
+    "cake",
+    "candy",
+    "dessert",
+    "sweet"
+   ]
+  },
+  {
+   "id": "coffee",
+   "word": "coffee",
+   "zh": "咖啡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "咖啡"
+    }
+   ],
+   "ipa": "/ˈkɒfi/",
+   "chunks": [
+    "cof",
+    "fee"
+   ],
+   "emoji": "☕",
+   "sentence": {
+    "en": "Dad drinks coffee in the morning.",
+    "zh": "爸爸早上喝咖啡。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drinks coffee in the morning.",
+     "zh": "爸爸早上喝咖啡。",
+     "audio": "media/sent/f86fe4cdd379.mp3"
+    },
+    {
+     "en": "Mum likes coffee with milk.",
+     "zh": "妈妈喜欢加奶的咖啡。",
+     "audio": "media/sent/da3a292866c7.mp3"
+    },
+    {
+     "en": "Children don't drink coffee.",
+     "zh": "小孩不喝咖啡。",
+     "audio": "media/sent/12a5c4444bdf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/coffee.webp",
+    "uk": "media/uk/coffee.mp3",
+    "us": "media/us/coffee.mp3"
+   },
+   "avoid": [
+    "cup",
+    "drink",
+    "milk",
+    "sugar",
+    "tea"
+   ]
+  },
+  {
+   "id": "cola",
+   "word": "cola",
+   "zh": "可乐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "可乐"
+    }
+   ],
+   "ipa": "/ˈkəʊlə/",
+   "chunks": [
+    "co",
+    "la"
+   ],
+   "emoji": "🥤",
+   "sentence": {
+    "en": "Lily drinks cola at the party.",
+    "zh": "Lily 在聚会上喝可乐。"
+   },
+   "sentences": [
+    {
+     "en": "Lily drinks cola at the party.",
+     "zh": "Lily 在聚会上喝可乐。",
+     "audio": "media/sent/28a5505e4180.mp3"
+    },
+    {
+     "en": "A can of cola, please.",
+     "zh": "请给我一罐可乐。",
+     "audio": "media/sent/922e8bf1bcf9.mp3"
+    },
+    {
+     "en": "Too much cola is bad for your teeth.",
+     "zh": "喝太多可乐对牙齿不好。",
+     "audio": "media/sent/fe50f7404549.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cola.webp",
+    "uk": "media/uk/cola.mp3",
+    "us": "media/us/cola.mp3"
+   },
+   "avoid": [
+    "drink",
+    "juice",
+    "lemonade",
+    "mineral-water",
+    "thirsty"
+   ]
+  },
+  {
+   "id": "cook",
+   "word": "cook",
+   "zh": "做饭；厨师",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "做饭；烹调"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厨师"
+    }
+   ],
+   "ipa": "/kʊk/",
+   "chunks": [
+    "cook"
+   ],
+   "emoji": "🧑‍🍳",
+   "sentence": {
+    "en": "Dad likes to cook on Sundays.",
+    "zh": "爸爸喜欢在星期天做饭。"
+   },
+   "sentences": [
+    {
+     "en": "Dad likes to cook on Sundays.",
+     "zh": "爸爸喜欢在星期天做饭。",
+     "audio": "media/sent/1a468a516dd6.mp3"
+    },
+    {
+     "en": "Can you cook pasta?",
+     "zh": "你会煮意大利面吗？",
+     "audio": "media/sent/66a3ded32493.mp3"
+    },
+    {
+     "en": "Grandma is a very good cook.",
+     "zh": "奶奶是个很棒的厨师。",
+     "audio": "media/sent/9431a619bf31.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cook.webp",
+    "uk": "media/uk/cook.mp3",
+    "us": "media/us/cook.mp3"
+   },
+   "avoid": [
+    "chef",
+    "cooker",
+    "kitchen"
+   ]
+  },
+  {
+   "id": "cooker",
+   "word": "cooker",
+   "zh": "炉灶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "炉灶"
+    }
+   ],
+   "ipa": "/ˈkʊkə/",
+   "chunks": [
+    "cook",
+    "er"
+   ],
+   "emoji": "🔥",
+   "sentence": {
+    "en": "Don't put your hand on the cooker. It's hot!",
+    "zh": "别把手放在炉灶上，很烫！"
+   },
+   "sentences": [
+    {
+     "en": "Don't put your hand on the cooker. It's hot!",
+     "zh": "别把手放在炉灶上，很烫！",
+     "audio": "media/sent/92609370acbf.mp3"
+    },
+    {
+     "en": "We have a new cooker in the kitchen.",
+     "zh": "我们厨房里有个新炉灶。",
+     "audio": "media/sent/7b1a721fbcec.mp3"
+    },
+    {
+     "en": "The soup is on the cooker.",
+     "zh": "汤在炉灶上。",
+     "audio": "media/sent/c3e500ac4f3a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cooker.webp",
+    "uk": "media/uk/cooker.mp3",
+    "us": "media/us/cooker.mp3"
+   },
+   "avoid": [
+    "chef",
+    "cook",
+    "kitchen"
+   ]
+  },
+  {
+   "id": "cream",
+   "word": "cream",
+   "zh": "奶油；奶油色的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "奶油"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "奶油色的"
+    }
+   ],
+   "ipa": "/kriːm/",
+   "chunks": [
+    "cream"
+   ],
+   "emoji": "🍰",
+   "sentence": {
+    "en": "I like strawberries and cream.",
+    "zh": "我喜欢草莓配奶油。"
+   },
+   "sentences": [
+    {
+     "en": "I like strawberries and cream.",
+     "zh": "我喜欢草莓配奶油。",
+     "audio": "media/sent/3bb8563bd05f.mp3"
+    },
+    {
+     "en": "Would you like cream on your cake?",
+     "zh": "你的蛋糕要加奶油吗？",
+     "audio": "media/sent/bb8aabdab24e.mp3"
+    },
+    {
+     "en": "Lily puts cream in her coffee.",
+     "zh": "Lily 在咖啡里加奶油。",
+     "audio": "media/sent/b22ead157f89.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cream.webp",
+    "uk": "media/uk/cream.mp3",
+    "us": "media/us/cream.mp3"
+   },
+   "avoid": [
+    "butter",
+    "cheese",
+    "dessert",
+    "milk",
+    "strawberry",
+    "yogurt"
+   ]
+  },
+  {
+   "id": "cup",
+   "word": "cup",
+   "zh": "杯子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "杯子"
+    }
+   ],
+   "ipa": "/kʌp/",
+   "chunks": [
+    "cup"
+   ],
+   "emoji": "🍵",
+   "sentence": {
+    "en": "Would you like a cup of tea?",
+    "zh": "你想来一杯茶吗？"
+   },
+   "sentences": [
+    {
+     "en": "Would you like a cup of tea?",
+     "zh": "你想来一杯茶吗？",
+     "audio": "media/sent/4072a6c74f03.mp3"
+    },
+    {
+     "en": "Grandma has a cup of tea.",
+     "zh": "奶奶喝一杯茶。",
+     "audio": "media/sent/0dc38f53fa8d.mp3"
+    },
+    {
+     "en": "This cup is blue.",
+     "zh": "这个杯子是蓝色的。",
+     "audio": "media/sent/c1d592e3753e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cup.webp",
+    "uk": "media/uk/cup.mp3",
+    "us": "media/us/cup.mp3"
+   },
+   "avoid": [
+    "bottle",
+    "box",
+    "cafe",
+    "cake",
+    "can",
+    "coffee",
+    "glass",
+    "sugar",
+    "tea"
+   ]
+  },
+  {
+   "id": "curry",
+   "word": "curry",
+   "zh": "咖喱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "咖喱"
+    }
+   ],
+   "ipa": "/ˈkʌri/",
+   "chunks": [
+    "cur",
+    "ry"
+   ],
+   "emoji": "🍛",
+   "sentence": {
+    "en": "Mum makes chicken curry.",
+    "zh": "妈妈做了咖喱鸡。"
+   },
+   "sentences": [
+    {
+     "en": "Mum makes chicken curry.",
+     "zh": "妈妈做了咖喱鸡。",
+     "audio": "media/sent/19134bff8a19.mp3"
+    },
+    {
+     "en": "This curry is very hot!",
+     "zh": "这个咖喱很辣！",
+     "audio": "media/sent/7b3207d7956b.mp3"
+    },
+    {
+     "en": "We have curry and rice on Friday.",
+     "zh": "我们星期五吃咖喱饭。",
+     "audio": "media/sent/31af75cf674f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/curry.webp",
+    "uk": "media/uk/curry.mp3",
+    "us": "media/us/curry.mp3"
+   },
+   "avoid": [
+    "chicken",
+    "rice"
+   ]
+  },
+  {
+   "id": "cut",
+   "word": "cut",
+   "zh": "切；剪",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "切；剪"
+    }
+   ],
+   "ipa": "/kʌt/",
+   "chunks": [
+    "cut"
+   ],
+   "emoji": "✂️",
+   "sentence": {
+    "en": "Dad cuts the pizza.",
+    "zh": "爸爸切比萨。"
+   },
+   "sentences": [
+    {
+     "en": "Dad cuts the pizza.",
+     "zh": "爸爸切比萨。",
+     "audio": "media/sent/5f7ccff60d40.mp3"
+    },
+    {
+     "en": "Mum, can you cut my meat, please?",
+     "zh": "妈妈，你能帮我切肉吗？",
+     "audio": "media/sent/f850f4d4fff9.mp3"
+    },
+    {
+     "en": "Cut the cake into eight pieces.",
+     "zh": "把蛋糕切成八块。",
+     "audio": "media/sent/48a532a481ea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cut.webp",
+    "uk": "media/uk/cut.mp3",
+    "us": "media/us/cut.mp3"
+   },
+   "avoid": [
+    "knife",
+    "mushroom",
+    "pizza",
+    "slice"
+   ]
+  },
+  {
+   "id": "delicious",
+   "word": "delicious",
+   "zh": "美味的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "美味的"
+    }
+   ],
+   "ipa": "/dɪˈlɪʃəs/",
+   "chunks": [
+    "de",
+    "li",
+    "cious"
+   ],
+   "emoji": "😋",
+   "sentence": {
+    "en": "This soup is delicious!",
+    "zh": "这汤真好喝！"
+   },
+   "sentences": [
+    {
+     "en": "This soup is delicious!",
+     "zh": "这汤真好喝！",
+     "audio": "media/sent/cd065509272d.mp3"
+    },
+    {
+     "en": "Grandma's cake is delicious.",
+     "zh": "奶奶做的蛋糕很好吃。",
+     "audio": "media/sent/0a07afcc65a9.mp3"
+    },
+    {
+     "en": "What a delicious pizza!",
+     "zh": "多好吃的比萨啊！",
+     "audio": "media/sent/b3be817fa99e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/delicious.webp",
+    "uk": "media/uk/delicious.mp3",
+    "us": "media/us/delicious.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cereal",
+    "eat",
+    "hungry",
+    "snack"
+   ]
+  },
+  {
+   "id": "dessert",
+   "word": "dessert",
+   "zh": "甜点",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "甜点"
+    }
+   ],
+   "ipa": "/dɪˈzɜːt/",
+   "chunks": [
+    "des",
+    "sert"
+   ],
+   "emoji": "🍮",
+   "sentence": {
+    "en": "What's for dessert?",
+    "zh": "饭后甜点吃什么？"
+   },
+   "sentences": [
+    {
+     "en": "What's for dessert?",
+     "zh": "饭后甜点吃什么？",
+     "audio": "media/sent/93a7546242fd.mp3"
+    },
+    {
+     "en": "We have ice cream for dessert.",
+     "zh": "我们的甜点是冰淇淋。",
+     "audio": "media/sent/2582c59197ab.mp3"
+    },
+    {
+     "en": "Lily always wants dessert.",
+     "zh": "Lily 总是想吃甜点。",
+     "audio": "media/sent/482e32e8c867.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dessert.webp",
+    "uk": "media/uk/dessert.mp3",
+    "us": "media/us/dessert.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "cafeteria",
+    "cake",
+    "candy",
+    "chocolate",
+    "cream",
+    "dinner",
+    "lunch",
+    "menu",
+    "sweet",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "dinner",
+   "word": "dinner",
+   "zh": "晚饭；正餐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "晚饭；正餐"
+    }
+   ],
+   "ipa": "/ˈdɪnə/",
+   "chunks": [
+    "din",
+    "ner"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We have dinner at six.",
+    "zh": "我们六点吃晚饭。"
+   },
+   "sentences": [
+    {
+     "en": "We have dinner at six.",
+     "zh": "我们六点吃晚饭。",
+     "audio": "media/sent/e02e746771d1.mp3"
+    },
+    {
+     "en": "What's for dinner tonight?",
+     "zh": "今晚吃什么？",
+     "audio": "media/sent/174d2d5f10c4.mp3"
+    },
+    {
+     "en": "Dad cooks dinner on Sunday.",
+     "zh": "爸爸星期天做晚饭。",
+     "audio": "media/sent/d0824194e157.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dinner.webp",
+    "uk": "media/uk/dinner.mp3",
+    "us": "media/us/dinner.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cafe",
+    "cafeteria",
+    "dessert",
+    "food",
+    "lunch",
+    "main-course",
+    "meal",
+    "menu",
+    "picnic",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "dish",
+   "word": "dish",
+   "zh": "一道菜；盘子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一道菜；盘子"
+    }
+   ],
+   "ipa": "/dɪʃ/",
+   "chunks": [
+    "dish"
+   ],
+   "emoji": "🥘",
+   "sentence": {
+    "en": "Pizza is my favourite dish.",
+    "zh": "比萨是我最喜欢的菜。"
+   },
+   "sentences": [
+    {
+     "en": "Pizza is my favourite dish.",
+     "zh": "比萨是我最喜欢的菜。",
+     "audio": "media/sent/28e35325c8d0.mp3"
+    },
+    {
+     "en": "Curry is a hot dish.",
+     "zh": "咖喱是一道辣菜。",
+     "audio": "media/sent/d37717a5437d.mp3"
+    },
+    {
+     "en": "Put the dish on the table.",
+     "zh": "把盘子放在桌上。",
+     "audio": "media/sent/a70e728a63f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dish.webp",
+    "uk": "media/uk/dish.mp3",
+    "us": "media/us/dish.mp3"
+   },
+   "avoid": [
+    "bowl",
+    "plate"
+   ]
+  },
+  {
+   "id": "drink",
+   "word": "drink",
+   "zh": "喝；饮料",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "喝"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "饮料"
+    }
+   ],
+   "ipa": "/drɪŋk/",
+   "chunks": [
+    "drink"
+   ],
+   "emoji": "🧃",
+   "sentence": {
+    "en": "Max drinks lots of water.",
+    "zh": "Max 喝很多水。"
+   },
+   "sentences": [
+    {
+     "en": "Max drinks lots of water.",
+     "zh": "Max 喝很多水。",
+     "audio": "media/sent/1eaecd5911c4.mp3"
+    },
+    {
+     "en": "Can I have a drink, please?",
+     "zh": "我可以喝点饮料吗？",
+     "audio": "media/sent/781cf232dd1a.mp3"
+    },
+    {
+     "en": "Lily likes to drink orange juice.",
+     "zh": "Lily 喜欢喝橙汁。",
+     "audio": "media/sent/ca976a6b31e4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drink.webp",
+    "uk": "media/uk/drink.mp3",
+    "us": "media/us/drink.mp3"
+   },
+   "avoid": [
+    "biscuit",
+    "bowl",
+    "coffee",
+    "cola",
+    "food",
+    "juice",
+    "lemonade",
+    "meat",
+    "milk",
+    "mineral-water",
+    "sausage",
+    "tea",
+    "thirsty"
+   ]
+  },
+  {
+   "id": "eat",
+   "word": "eat",
+   "zh": "吃",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "吃"
+    }
+   ],
+   "ipa": "/iːt/",
+   "chunks": [
+    "eat"
+   ],
+   "emoji": "🍴",
+   "sentence": {
+    "en": "Let's eat!",
+    "zh": "我们开吃吧！"
+   },
+   "sentences": [
+    {
+     "en": "Let's eat!",
+     "zh": "我们开吃吧！",
+     "audio": "media/sent/0befddc924d3.mp3"
+    },
+    {
+     "en": "What do you want to eat?",
+     "zh": "你想吃什么？",
+     "audio": "media/sent/95c686b95355.mp3"
+    },
+    {
+     "en": "Max wants to eat my sandwich!",
+     "zh": "Max 想吃我的三明治！",
+     "audio": "media/sent/21c40590b941.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/eat.webp",
+    "uk": "media/uk/eat.mp3",
+    "us": "media/us/eat.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cereal",
+    "delicious",
+    "fork",
+    "hungry",
+    "pasta",
+    "snack"
+   ]
+  },
+  {
+   "id": "egg",
+   "word": "egg",
+   "zh": "蛋；鸡蛋",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蛋；鸡蛋"
+    }
+   ],
+   "ipa": "/eɡ/",
+   "chunks": [
+    "egg"
+   ],
+   "emoji": "🥚",
+   "sentence": {
+    "en": "The chicken has an egg.",
+    "zh": "这只鸡下了一个蛋。"
+   },
+   "sentences": [
+    {
+     "en": "The chicken has an egg.",
+     "zh": "这只鸡下了一个蛋。",
+     "audio": "media/sent/eae84c3858e6.mp3"
+    },
+    {
+     "en": "I'd like a boiled egg, please.",
+     "zh": "请给我一个水煮蛋。",
+     "audio": "media/sent/8dea8c4cf88a.mp3"
+    },
+    {
+     "en": "We need one egg for the cake.",
+     "zh": "做蛋糕需要一个鸡蛋。",
+     "audio": "media/sent/781a22f0c2f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/egg.webp",
+    "uk": "media/uk/egg.mp3",
+    "us": "media/us/egg.mp3"
+   },
+   "avoid": [
+    "boiled",
+    "chicken",
+    "fried",
+    "omelette"
+   ]
+  },
+  {
+   "id": "fish",
+   "word": "fish",
+   "zh": "鱼；鱼肉",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鱼；鱼肉"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "钓鱼"
+    }
+   ],
+   "ipa": "/fɪʃ/",
+   "chunks": [
+    "fish"
+   ],
+   "emoji": "🐟",
+   "sentence": {
+    "en": "We have fish for lunch today.",
+    "zh": "我们今天午饭吃鱼。"
+   },
+   "sentences": [
+    {
+     "en": "We have fish for lunch today.",
+     "zh": "我们今天午饭吃鱼。",
+     "audio": "media/sent/492366e61bc9.mp3"
+    },
+    {
+     "en": "A fish can swim but it can't walk.",
+     "zh": "鱼会游泳，但不会走路。",
+     "audio": "media/sent/b1eb3c3f05d4.mp3"
+    },
+    {
+     "en": "Fish is good for you.",
+     "zh": "吃鱼对身体好。",
+     "audio": "media/sent/6b2750e57732.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fish.webp",
+    "uk": "media/uk/fish.mp3",
+    "us": "media/us/fish.mp3"
+   },
+   "avoid": [
+    "chips",
+    "grilled",
+    "main-course",
+    "rice",
+    "sauce"
+   ]
+  },
+  {
+   "id": "food",
+   "word": "food",
+   "zh": "食物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "食物"
+    }
+   ],
+   "ipa": "/fuːd/",
+   "chunks": [
+    "food"
+   ],
+   "emoji": "🍱",
+   "sentence": {
+    "en": "Max loves his food.",
+    "zh": "Max 很爱吃它的狗粮。"
+   },
+   "sentences": [
+    {
+     "en": "Max loves his food.",
+     "zh": "Max 很爱吃它的狗粮。",
+     "audio": "media/sent/f10e59a2aefb.mp3"
+    },
+    {
+     "en": "Pizza is my favourite food.",
+     "zh": "比萨是我最爱吃的食物。",
+     "audio": "media/sent/23d35785d3cc.mp3"
+    },
+    {
+     "en": "We buy food at the supermarket.",
+     "zh": "我们在超市买食物。",
+     "audio": "media/sent/1039f87a62c6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/food.webp",
+    "uk": "media/uk/food.mp3",
+    "us": "media/us/food.mp3"
+   },
+   "avoid": [
+    "biscuit",
+    "bowl",
+    "breakfast",
+    "dinner",
+    "drink",
+    "lunch",
+    "main-course",
+    "meal",
+    "meat",
+    "picnic",
+    "sausage"
+   ]
+  },
+  {
+   "id": "fork",
+   "word": "fork",
+   "zh": "叉子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "叉子"
+    }
+   ],
+   "ipa": "/fɔːk/",
+   "chunks": [
+    "fork"
+   ],
+   "emoji": "🍴",
+   "sentence": {
+    "en": "Eat your pasta with a fork.",
+    "zh": "用叉子吃意大利面。"
+   },
+   "sentences": [
+    {
+     "en": "Eat your pasta with a fork.",
+     "zh": "用叉子吃意大利面。",
+     "audio": "media/sent/0bcb1605daa1.mp3"
+    },
+    {
+     "en": "Put the fork next to the plate.",
+     "zh": "把叉子放在盘子旁边。",
+     "audio": "media/sent/8ed285e71795.mp3"
+    },
+    {
+     "en": "Tom eats his chips with a fork.",
+     "zh": "Tom 用叉子吃薯条。",
+     "audio": "media/sent/ed2cd6ee82d5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fork.webp",
+    "uk": "media/uk/fork.mp3",
+    "us": "media/us/fork.mp3"
+   },
+   "avoid": [
+    "eat",
+    "knife",
+    "pasta"
+   ]
+  },
+  {
+   "id": "fridge",
+   "word": "fridge",
+   "zh": "冰箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰箱"
+    }
+   ],
+   "ipa": "/frɪdʒ/",
+   "chunks": [
+    "fridge"
+   ],
+   "emoji": "🧊",
+   "sentence": {
+    "en": "The milk is in the fridge.",
+    "zh": "牛奶在冰箱里。"
+   },
+   "sentences": [
+    {
+     "en": "The milk is in the fridge.",
+     "zh": "牛奶在冰箱里。",
+     "audio": "media/sent/bbc0d9ef27f1.mp3"
+    },
+    {
+     "en": "Put the butter in the fridge.",
+     "zh": "把黄油放进冰箱。",
+     "audio": "media/sent/9987478ea472.mp3"
+    },
+    {
+     "en": "There is cola in the fridge.",
+     "zh": "冰箱里有可乐。",
+     "audio": "media/sent/0fc70fc8627a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fridge.webp",
+    "uk": "media/uk/fridge.mp3",
+    "us": "media/us/fridge.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fried",
+   "word": "fried",
+   "zh": "油炸的；煎的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "油炸的；煎的"
+    }
+   ],
+   "ipa": "/fraɪd/",
+   "chunks": [
+    "fried"
+   ],
+   "emoji": "🍳",
+   "sentence": {
+    "en": "I like fried eggs.",
+    "zh": "我喜欢煎蛋。"
+   },
+   "sentences": [
+    {
+     "en": "I like fried eggs.",
+     "zh": "我喜欢煎蛋。",
+     "audio": "media/sent/2fd2c47b542a.mp3"
+    },
+    {
+     "en": "Dad makes fried rice.",
+     "zh": "爸爸做炒饭。",
+     "audio": "media/sent/b0ca9065cf6c.mp3"
+    },
+    {
+     "en": "Fried food is not very healthy.",
+     "zh": "油炸食物不太健康。",
+     "audio": "media/sent/28e20d40c98b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fried.webp",
+    "uk": "media/uk/fried.mp3",
+    "us": "media/us/fried.mp3"
+   },
+   "avoid": [
+    "bake",
+    "barbecue",
+    "boiled",
+    "egg",
+    "grilled",
+    "omelette",
+    "roast"
+   ]
+  },
+  {
+   "id": "fruit",
+   "word": "fruit",
+   "zh": "水果",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "水果"
+    }
+   ],
+   "ipa": "/fruːt/",
+   "chunks": [
+    "fruit"
+   ],
+   "emoji": "🍇",
+   "sentence": {
+    "en": "Fruit is good for you.",
+    "zh": "水果对你有好处。"
+   },
+   "sentences": [
+    {
+     "en": "Fruit is good for you.",
+     "zh": "水果对你有好处。",
+     "audio": "media/sent/263e685321e6.mp3"
+    },
+    {
+     "en": "Eat some fruit every day.",
+     "zh": "每天吃点水果。",
+     "audio": "media/sent/34184497ca6a.mp3"
+    },
+    {
+     "en": "Which fruit do you like best?",
+     "zh": "你最喜欢哪种水果？",
+     "audio": "media/sent/5cffccd4648e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fruit.webp",
+    "uk": "media/uk/fruit.mp3",
+    "us": "media/us/fruit.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "grape",
+    "lemon",
+    "melon",
+    "orange",
+    "pear",
+    "picnic",
+    "sandwich",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "garlic",
+   "word": "garlic",
+   "zh": "大蒜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "大蒜"
+    }
+   ],
+   "ipa": "/ˈɡɑːlɪk/",
+   "chunks": [
+    "gar",
+    "lic"
+   ],
+   "emoji": "🧄",
+   "sentence": {
+    "en": "Garlic is good in pasta sauce.",
+    "zh": "大蒜放在意面酱里很好吃。"
+   },
+   "sentences": [
+    {
+     "en": "Garlic is good in pasta sauce.",
+     "zh": "大蒜放在意面酱里很好吃。",
+     "audio": "media/sent/0833ae22dfc0.mp3"
+    },
+    {
+     "en": "Mum puts garlic in the pasta sauce.",
+     "zh": "妈妈在意面酱里放了大蒜。",
+     "audio": "media/sent/30656bf79ea2.mp3"
+    },
+    {
+     "en": "Max can't eat garlic.",
+     "zh": "Max 不能吃大蒜。",
+     "audio": "media/sent/72813badb359.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garlic.webp",
+    "uk": "media/uk/garlic.mp3",
+    "us": "media/us/garlic.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "salad",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "glass",
+   "word": "glass",
+   "zh": "玻璃杯；玻璃",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "玻璃杯；玻璃"
+    }
+   ],
+   "ipa": "/ɡlɑːs/",
+   "chunks": [
+    "glass"
+   ],
+   "emoji": "🥛",
+   "sentence": {
+    "en": "Lily drinks a glass of milk.",
+    "zh": "Lily 喝了一杯牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Lily drinks a glass of milk.",
+     "zh": "Lily 喝了一杯牛奶。",
+     "audio": "media/sent/6edcfa907397.mp3"
+    },
+    {
+     "en": "Can I have a glass of water?",
+     "zh": "我能喝一杯水吗？",
+     "audio": "media/sent/13ff40747553.mp3"
+    },
+    {
+     "en": "Be careful! The glass is full.",
+     "zh": "小心！杯子是满的。",
+     "audio": "media/sent/7ad8d66eee23.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/glass.webp",
+    "uk": "media/uk/glass.mp3",
+    "us": "media/us/glass.mp3"
+   },
+   "avoid": [
+    "bottle",
+    "cup",
+    "lemonade",
+    "milk",
+    "mineral-water"
+   ]
+  },
+  {
+   "id": "grape",
+   "word": "grape",
+   "zh": "葡萄",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "葡萄"
+    }
+   ],
+   "ipa": "/ɡreɪp/",
+   "chunks": [
+    "grape"
+   ],
+   "emoji": "🍇",
+   "sentence": {
+    "en": "These grapes are green and sweet.",
+    "zh": "这些葡萄是绿色的，很甜。"
+   },
+   "sentences": [
+    {
+     "en": "These grapes are green and sweet.",
+     "zh": "这些葡萄是绿色的，很甜。",
+     "audio": "media/sent/d44e8e2acf17.mp3"
+    },
+    {
+     "en": "Lily eats a green grape.",
+     "zh": "Lily 吃了一颗绿葡萄。",
+     "audio": "media/sent/ea7cb6ea1868.mp3"
+    },
+    {
+     "en": "Dogs can't eat a single grape.",
+     "zh": "狗一颗葡萄都不能吃。",
+     "audio": "media/sent/7fc03990327f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/grape.webp",
+    "uk": "media/uk/grape.mp3",
+    "us": "media/us/grape.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "fruit",
+    "lemon",
+    "melon",
+    "orange",
+    "pear",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "grilled",
+   "word": "grilled",
+   "zh": "烤的（用烤架）",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "烤的（用烤架）"
+    }
+   ],
+   "ipa": "/ɡrɪld/",
+   "chunks": [
+    "grilled"
+   ],
+   "emoji": "🍢",
+   "sentence": {
+    "en": "Dad likes grilled fish.",
+    "zh": "爸爸喜欢烤鱼。"
+   },
+   "sentences": [
+    {
+     "en": "Dad likes grilled fish.",
+     "zh": "爸爸喜欢烤鱼。",
+     "audio": "media/sent/fee11ccbe65d.mp3"
+    },
+    {
+     "en": "I'd like grilled chicken, please.",
+     "zh": "请给我烤鸡肉。",
+     "audio": "media/sent/51db4d7a14c7.mp3"
+    },
+    {
+     "en": "Grilled fish is healthy.",
+     "zh": "烤鱼很健康。",
+     "audio": "media/sent/b2d761418818.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/grilled.webp",
+    "uk": "media/uk/grilled.mp3",
+    "us": "media/us/grilled.mp3"
+   },
+   "avoid": [
+    "bake",
+    "barbecue",
+    "fish",
+    "fried",
+    "main-course",
+    "rice",
+    "roast",
+    "sausage"
+   ]
+  },
+  {
+   "id": "honey",
+   "word": "honey",
+   "zh": "蜂蜜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蜂蜜"
+    }
+   ],
+   "ipa": "/ˈhʌn.i/",
+   "chunks": [
+    "hon",
+    "ey"
+   ],
+   "emoji": "🍯",
+   "sentence": {
+    "en": "Bees make honey.",
+    "zh": "蜜蜂酿蜂蜜。"
+   },
+   "sentences": [
+    {
+     "en": "Bees make honey.",
+     "zh": "蜜蜂酿蜂蜜。",
+     "audio": "media/sent/521e79ac5cd3.mp3"
+    },
+    {
+     "en": "Lily puts honey on her toast.",
+     "zh": "Lily 在吐司上抹蜂蜜。",
+     "audio": "media/sent/510a909f49e0.mp3"
+    },
+    {
+     "en": "Bears love honey.",
+     "zh": "熊喜欢蜂蜜。",
+     "audio": "media/sent/721d49733c7d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/honey.webp",
+    "uk": "media/uk/honey.mp3",
+    "us": "media/us/honey.mp3"
+   },
+   "avoid": [
+    "jam",
+    "sauce"
+   ]
+  },
+  {
+   "id": "hungry",
+   "word": "hungry",
+   "zh": "饿的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "饿的"
+    }
+   ],
+   "ipa": "/ˈhʌŋɡri/",
+   "chunks": [
+    "hun",
+    "gry"
+   ],
+   "emoji": "🤤",
+   "sentence": {
+    "en": "I'm hungry. Can I have a snack?",
+    "zh": "我饿了。我能吃点零食吗？"
+   },
+   "sentences": [
+    {
+     "en": "I'm hungry. Can I have a snack?",
+     "zh": "我饿了。我能吃点零食吗？",
+     "audio": "media/sent/c2cf8e5fb37d.mp3"
+    },
+    {
+     "en": "The baby is hungry.",
+     "zh": "宝宝饿了。",
+     "audio": "media/sent/be9889944399.mp3"
+    },
+    {
+     "en": "Are you hungry? Dinner is ready.",
+     "zh": "你饿了吗？晚饭好了。",
+     "audio": "media/sent/29dc5338d9f0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hungry.webp",
+    "uk": "media/uk/hungry.mp3",
+    "us": "media/us/hungry.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cereal",
+    "delicious",
+    "eat",
+    "snack"
+   ]
+  },
+  {
+   "id": "ice",
+   "word": "ice",
+   "zh": "冰",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰"
+    }
+   ],
+   "ipa": "/aɪs/",
+   "chunks": [
+    "ice"
+   ],
+   "emoji": "🧊",
+   "sentence": {
+    "en": "Put some ice in my juice, please.",
+    "zh": "请在我的果汁里加点冰。"
+   },
+   "sentences": [
+    {
+     "en": "Put some ice in my juice, please.",
+     "zh": "请在我的果汁里加点冰。",
+     "audio": "media/sent/612690587194.mp3"
+    },
+    {
+     "en": "There is ice on the lake.",
+     "zh": "湖面上有冰。",
+     "audio": "media/sent/ca6427349e98.mp3"
+    },
+    {
+     "en": "Can I have some ice in my cola?",
+     "zh": "我的可乐能加点冰吗？",
+     "audio": "media/sent/249aacb9f88a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ice.webp",
+    "uk": "media/uk/ice.mp3",
+    "us": "media/us/ice.mp3"
+   },
+   "avoid": [
+    "ice-cream",
+    "juice"
+   ]
+  },
+  {
+   "id": "ice-cream",
+   "word": "ice cream",
+   "zh": "冰淇淋",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冰淇淋"
+    }
+   ],
+   "ipa": "/ˌaɪs ˈkriːm/",
+   "chunks": [
+    "ice",
+    "cream"
+   ],
+   "emoji": "🍦",
+   "sentence": {
+    "en": "Lily wants a strawberry ice cream.",
+    "zh": "Lily 想要一个草莓冰淇淋。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wants a strawberry ice cream.",
+     "zh": "Lily 想要一个草莓冰淇淋。",
+     "audio": "media/sent/aa3462f25e55.mp3"
+    },
+    {
+     "en": "Tom wants a chocolate ice cream.",
+     "zh": "Tom 想要一个巧克力冰淇淋。",
+     "audio": "media/sent/c3935ef6da68.mp3"
+    },
+    {
+     "en": "We eat ice cream on hot days.",
+     "zh": "热天我们吃冰淇淋。",
+     "audio": "media/sent/1f1c17c8196e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ice-cream.webp"
+   },
+   "avoid": [
+    "ice"
+   ]
+  },
+  {
+   "id": "jam",
+   "word": "jam",
+   "zh": "果酱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "果酱"
+    }
+   ],
+   "ipa": "/dʒæm/",
+   "chunks": [
+    "jam"
+   ],
+   "emoji": "🍓",
+   "sentence": {
+    "en": "I like bread and jam.",
+    "zh": "我喜欢面包配果酱。"
+   },
+   "sentences": [
+    {
+     "en": "I like bread and jam.",
+     "zh": "我喜欢面包配果酱。",
+     "audio": "media/sent/e7d805562283.mp3"
+    },
+    {
+     "en": "Grandma makes strawberry jam.",
+     "zh": "奶奶做草莓果酱。",
+     "audio": "media/sent/7c32af5c408b.mp3"
+    },
+    {
+     "en": "Put some jam on your bread.",
+     "zh": "在面包上抹点果酱。",
+     "audio": "media/sent/693dd2c9fd05.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/jam.webp",
+    "uk": "media/uk/jam.mp3",
+    "us": "media/us/jam.mp3"
+   },
+   "avoid": [
+    "bread",
+    "honey",
+    "sauce",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "juice",
+   "word": "juice",
+   "zh": "果汁",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "果汁"
+    }
+   ],
+   "ipa": "/dʒuːs/",
+   "chunks": [
+    "juice"
+   ],
+   "emoji": "🧃",
+   "sentence": {
+    "en": "Can I have orange juice?",
+    "zh": "我可以喝橙汁吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I have orange juice?",
+     "zh": "我可以喝橙汁吗？",
+     "audio": "media/sent/26c09d1b1f98.mp3"
+    },
+    {
+     "en": "Would you like apple juice?",
+     "zh": "你想喝苹果汁吗？",
+     "audio": "media/sent/4c5b20f0968e.mp3"
+    },
+    {
+     "en": "Lily drinks a glass of juice.",
+     "zh": "Lily 喝了一杯果汁。",
+     "audio": "media/sent/3629f775afd8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/juice.webp",
+    "uk": "media/uk/juice.mp3",
+    "us": "media/us/juice.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cereal",
+    "cola",
+    "drink",
+    "ice",
+    "lemon",
+    "lemonade",
+    "mineral-water",
+    "orange",
+    "thirsty",
+    "toast"
+   ]
+  },
+  {
+   "id": "kitchen",
+   "word": "kitchen",
+   "zh": "厨房",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厨房"
+    }
+   ],
+   "ipa": "/ˈkɪtʃɪn/",
+   "chunks": [
+    "kitch",
+    "en"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Mum is cooking in the kitchen.",
+    "zh": "妈妈在厨房做饭。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is cooking in the kitchen.",
+     "zh": "妈妈在厨房做饭。",
+     "audio": "media/sent/ac8546978c8a.mp3"
+    },
+    {
+     "en": "The kitchen is next to the dining room.",
+     "zh": "厨房在餐厅旁边。",
+     "audio": "media/sent/c428a64b82b3.mp3"
+    },
+    {
+     "en": "Dad is washing the plates in the kitchen.",
+     "zh": "爸爸在厨房洗盘子。",
+     "audio": "media/sent/f7480107adfc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kitchen.webp",
+    "uk": "media/uk/kitchen.mp3",
+    "us": "media/us/kitchen.mp3"
+   },
+   "avoid": [
+    "chef",
+    "cook",
+    "cooker"
+   ]
+  },
+  {
+   "id": "knife",
+   "word": "knife",
+   "zh": "刀；餐刀",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "刀；餐刀"
+    }
+   ],
+   "ipa": "/naɪf/",
+   "chunks": [
+    "knife"
+   ],
+   "emoji": "🔪",
+   "sentence": {
+    "en": "Be careful with the knife!",
+    "zh": "小心用刀！"
+   },
+   "sentences": [
+    {
+     "en": "Be careful with the knife!",
+     "zh": "小心用刀！",
+     "audio": "media/sent/85e664b261bd.mp3"
+    },
+    {
+     "en": "Dad cuts the bread with a knife.",
+     "zh": "爸爸用刀切面包。",
+     "audio": "media/sent/bc611601d8e4.mp3"
+    },
+    {
+     "en": "Put the knife next to the fork.",
+     "zh": "把刀放在叉子旁边。",
+     "audio": "media/sent/812817d47312.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/knife.webp",
+    "uk": "media/uk/knife.mp3",
+    "us": "media/us/knife.mp3"
+   },
+   "avoid": [
+    "bread",
+    "butter",
+    "cut",
+    "fork",
+    "slice",
+    "toast"
+   ]
+  },
+  {
+   "id": "lemon",
+   "word": "lemon",
+   "zh": "柠檬",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "柠檬"
+    }
+   ],
+   "ipa": "/ˈlemən/",
+   "chunks": [
+    "lem",
+    "on"
+   ],
+   "emoji": "🍋",
+   "sentence": {
+    "en": "A lemon is yellow.",
+    "zh": "柠檬是黄色的。"
+   },
+   "sentences": [
+    {
+     "en": "A lemon is yellow.",
+     "zh": "柠檬是黄色的。",
+     "audio": "media/sent/6cd8d970d212.mp3"
+    },
+    {
+     "en": "Put some lemon on the fish.",
+     "zh": "在鱼上挤点柠檬汁。",
+     "audio": "media/sent/20b0d862d966.mp3"
+    },
+    {
+     "en": "Grandma has tea with lemon.",
+     "zh": "奶奶喝加柠檬的茶。",
+     "audio": "media/sent/249f76517a17.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lemon.webp",
+    "uk": "media/uk/lemon.mp3",
+    "us": "media/us/lemon.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "fruit",
+    "grape",
+    "juice",
+    "lemonade",
+    "melon",
+    "orange",
+    "pear",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "lemonade",
+   "word": "lemonade",
+   "zh": "柠檬水；柠檬汽水",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "柠檬水；柠檬汽水"
+    }
+   ],
+   "ipa": "/ˌleməˈneɪd/",
+   "chunks": [
+    "lem",
+    "on",
+    "ade"
+   ],
+   "emoji": "🍋",
+   "sentence": {
+    "en": "We drink lemonade in summer.",
+    "zh": "我们夏天喝柠檬水。"
+   },
+   "sentences": [
+    {
+     "en": "We drink lemonade in summer.",
+     "zh": "我们夏天喝柠檬水。",
+     "audio": "media/sent/97ed69d22749.mp3"
+    },
+    {
+     "en": "A glass of lemonade, please.",
+     "zh": "请给我一杯柠檬水。",
+     "audio": "media/sent/0909cd7e6562.mp3"
+    },
+    {
+     "en": "Lily makes lemonade with Mum.",
+     "zh": "Lily 和妈妈一起做柠檬水。",
+     "audio": "media/sent/bd1a64b048d5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lemonade.webp"
+   },
+   "avoid": [
+    "cola",
+    "drink",
+    "glass",
+    "juice",
+    "lemon",
+    "mineral-water",
+    "orange",
+    "thirsty"
+   ]
+  },
+  {
+   "id": "lunch",
+   "word": "lunch",
+   "zh": "午饭",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "午饭"
+    }
+   ],
+   "ipa": "/lʌntʃ/",
+   "chunks": [
+    "lunch"
+   ],
+   "emoji": "🥪",
+   "sentence": {
+    "en": "What's for lunch today?",
+    "zh": "今天午饭吃什么？"
+   },
+   "sentences": [
+    {
+     "en": "What's for lunch today?",
+     "zh": "今天午饭吃什么？",
+     "audio": "media/sent/bd18fa19a555.mp3"
+    },
+    {
+     "en": "We have lunch at twelve o'clock.",
+     "zh": "我们十二点吃午饭。",
+     "audio": "media/sent/0cd06d76bab8.mp3"
+    },
+    {
+     "en": "Lily takes her lunch to school.",
+     "zh": "Lily 带午饭去学校。",
+     "audio": "media/sent/85114c7f4924.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lunch.webp",
+    "uk": "media/uk/lunch.mp3",
+    "us": "media/us/lunch.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "cafe",
+    "cafeteria",
+    "dessert",
+    "dinner",
+    "food",
+    "main-course",
+    "meal",
+    "menu",
+    "picnic",
+    "sandwich",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "main-course",
+   "word": "main course",
+   "zh": "主菜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "主菜"
+    }
+   ],
+   "ipa": "/ˌmeɪn ˈkɔːs/",
+   "chunks": [
+    "main",
+    "course"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "For the main course, I want pasta.",
+    "zh": "主菜我要意大利面。"
+   },
+   "sentences": [
+    {
+     "en": "For the main course, I want pasta.",
+     "zh": "主菜我要意大利面。",
+     "audio": "media/sent/ec239c4745e2.mp3"
+    },
+    {
+     "en": "The main course is chicken and rice.",
+     "zh": "主菜是鸡肉配米饭。",
+     "audio": "media/sent/3f6da795f8aa.mp3"
+    },
+    {
+     "en": "What would you like for your main course?",
+     "zh": "你的主菜想吃什么？",
+     "audio": "media/sent/8f33cf933b4a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/main-course.webp"
+   },
+   "avoid": [
+    "breakfast",
+    "dinner",
+    "fish",
+    "food",
+    "grilled",
+    "lunch",
+    "meal",
+    "picnic",
+    "rice"
+   ]
+  },
+  {
+   "id": "meal",
+   "word": "meal",
+   "zh": "一顿饭",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一顿饭"
+    }
+   ],
+   "ipa": "/miːl/",
+   "chunks": [
+    "meal"
+   ],
+   "emoji": "🍲",
+   "sentence": {
+    "en": "Breakfast is the first meal of the day.",
+    "zh": "早餐是一天的第一顿饭。"
+   },
+   "sentences": [
+    {
+     "en": "Breakfast is the first meal of the day.",
+     "zh": "早餐是一天的第一顿饭。",
+     "audio": "media/sent/dbc6cbd7abf5.mp3"
+    },
+    {
+     "en": "Dinner is my favourite meal.",
+     "zh": "晚饭是我最喜欢的一顿饭。",
+     "audio": "media/sent/6f9a7e88e0e7.mp3"
+    },
+    {
+     "en": "We have a big meal on Sunday.",
+     "zh": "我们星期天吃一顿大餐。",
+     "audio": "media/sent/f2aae8cc4919.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/meal.webp",
+    "uk": "media/uk/meal.mp3",
+    "us": "media/us/meal.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "dinner",
+    "food",
+    "lunch",
+    "main-course",
+    "picnic"
+   ]
+  },
+  {
+   "id": "meat",
+   "word": "meat",
+   "zh": "肉",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "肉"
+    }
+   ],
+   "ipa": "/miːt/",
+   "chunks": [
+    "meat"
+   ],
+   "emoji": "🥩",
+   "sentence": {
+    "en": "Max loves meat.",
+    "zh": "Max 爱吃肉。"
+   },
+   "sentences": [
+    {
+     "en": "Max loves meat.",
+     "zh": "Max 爱吃肉。",
+     "audio": "media/sent/a78af5a7065d.mp3"
+    },
+    {
+     "en": "Lily doesn't eat much meat.",
+     "zh": "Lily 不怎么吃肉。",
+     "audio": "media/sent/02eb6124faf8.mp3"
+    },
+    {
+     "en": "The meat is on the barbecue.",
+     "zh": "肉在烧烤架上。",
+     "audio": "media/sent/608cb08e713e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/meat.webp",
+    "uk": "media/uk/meat.mp3",
+    "us": "media/us/meat.mp3"
+   },
+   "avoid": [
+    "biscuit",
+    "bowl",
+    "burger",
+    "chicken",
+    "drink",
+    "food",
+    "sausage",
+    "steak"
+   ]
+  },
+  {
+   "id": "melon",
+   "word": "melon",
+   "zh": "甜瓜；瓜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "甜瓜；瓜"
+    }
+   ],
+   "ipa": "/ˈmelən/",
+   "chunks": [
+    "mel",
+    "on"
+   ],
+   "emoji": "🍈",
+   "sentence": {
+    "en": "This melon is very sweet.",
+    "zh": "这个瓜很甜。"
+   },
+   "sentences": [
+    {
+     "en": "This melon is very sweet.",
+     "zh": "这个瓜很甜。",
+     "audio": "media/sent/0fe7d1e05dfe.mp3"
+    },
+    {
+     "en": "This melon is big and sweet.",
+     "zh": "这个瓜又大又甜。",
+     "audio": "media/sent/6323f25a149c.mp3"
+    },
+    {
+     "en": "Let's have melon for dessert.",
+     "zh": "我们甜点吃瓜吧。",
+     "audio": "media/sent/d7f4f1077d09.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/melon.webp",
+    "uk": "media/uk/melon.mp3",
+    "us": "media/us/melon.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "fruit",
+    "grape",
+    "lemon",
+    "orange",
+    "pear",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "menu",
+   "word": "menu",
+   "zh": "菜单",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "菜单"
+    }
+   ],
+   "ipa": "/ˈmenjuː/",
+   "chunks": [
+    "men",
+    "u"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "Can we see the menu, please?",
+    "zh": "请给我们看看菜单好吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can we see the menu, please?",
+     "zh": "请给我们看看菜单好吗？",
+     "audio": "media/sent/27eb84587d77.mp3"
+    },
+    {
+     "en": "The menu has lots of dishes.",
+     "zh": "菜单上有很多菜。",
+     "audio": "media/sent/3d7c50d48fc8.mp3"
+    },
+    {
+     "en": "What's on the menu today?",
+     "zh": "今天菜单上有什么？",
+     "audio": "media/sent/7173c99abbc4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/menu.webp",
+    "uk": "media/uk/menu.mp3",
+    "us": "media/us/menu.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "cafeteria",
+    "dessert",
+    "dinner",
+    "lunch",
+    "waiter",
+    "waitress"
+   ]
+  },
+  {
+   "id": "milk",
+   "word": "milk",
+   "zh": "牛奶；奶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牛奶；奶"
+    }
+   ],
+   "ipa": "/mɪlk/",
+   "chunks": [
+    "milk"
+   ],
+   "emoji": "🥛",
+   "sentence": {
+    "en": "Cows give us milk.",
+    "zh": "奶牛给我们牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Cows give us milk.",
+     "zh": "奶牛给我们牛奶。",
+     "audio": "media/sent/9a755332683b.mp3"
+    },
+    {
+     "en": "Lily drinks a glass of milk.",
+     "zh": "Lily 喝了一杯牛奶。",
+     "audio": "media/sent/6edcfa907397.mp3"
+    },
+    {
+     "en": "We need milk for the cake.",
+     "zh": "做蛋糕需要牛奶。",
+     "audio": "media/sent/93e1b2d1acf8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/milk.webp",
+    "uk": "media/uk/milk.mp3",
+    "us": "media/us/milk.mp3"
+   },
+   "avoid": [
+    "bottle",
+    "butter",
+    "cereal",
+    "cheese",
+    "coffee",
+    "cream",
+    "drink",
+    "glass",
+    "tea",
+    "yogurt"
+   ]
+  },
+  {
+   "id": "mineral-water",
+   "word": "mineral water",
+   "zh": "矿泉水",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "矿泉水"
+    }
+   ],
+   "ipa": "/ˈmɪnərəl ˌwɔːtə/",
+   "chunks": [
+    "min",
+    "er",
+    "al",
+    "wa",
+    "ter"
+   ],
+   "emoji": "💧",
+   "sentence": {
+    "en": "A bottle of mineral water, please.",
+    "zh": "请来一瓶矿泉水。"
+   },
+   "sentences": [
+    {
+     "en": "A bottle of mineral water, please.",
+     "zh": "请来一瓶矿泉水。",
+     "audio": "media/sent/d157bfe22775.mp3"
+    },
+    {
+     "en": "I'd like some mineral water, please.",
+     "zh": "请给我一些矿泉水。",
+     "audio": "media/sent/13de33f2b988.mp3"
+    },
+    {
+     "en": "Mineral water is good for you.",
+     "zh": "矿泉水对身体好。",
+     "audio": "media/sent/da7965c6d920.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mineral-water.webp"
+   },
+   "avoid": [
+    "bottle",
+    "cola",
+    "drink",
+    "glass",
+    "juice",
+    "lemonade",
+    "thirsty"
+   ]
+  },
+  {
+   "id": "mushroom",
+   "word": "mushroom",
+   "zh": "蘑菇",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蘑菇"
+    }
+   ],
+   "ipa": "/ˈmʌʃruːm/",
+   "chunks": [
+    "mush",
+    "room"
+   ],
+   "emoji": "🍄",
+   "sentence": {
+    "en": "There are mushrooms on my pizza.",
+    "zh": "我的比萨上有蘑菇。"
+   },
+   "sentences": [
+    {
+     "en": "There are mushrooms on my pizza.",
+     "zh": "我的比萨上有蘑菇。",
+     "audio": "media/sent/493411aed7da.mp3"
+    },
+    {
+     "en": "Lily doesn't like mushroom soup.",
+     "zh": "Lily 不喜欢蘑菇汤。",
+     "audio": "media/sent/038555ac7a39.mp3"
+    },
+    {
+     "en": "There is a mushroom in the forest.",
+     "zh": "森林里有一个蘑菇。",
+     "audio": "media/sent/6dfb9d022bf6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mushroom.webp",
+    "uk": "media/uk/mushroom.mp3",
+    "us": "media/us/mushroom.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "cut",
+    "garlic",
+    "onion",
+    "pepper",
+    "pizza",
+    "potato",
+    "salad",
+    "slice",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "oil",
+   "word": "oil",
+   "zh": "油；食用油",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "油；食用油"
+    }
+   ],
+   "ipa": "/ɔɪl/",
+   "chunks": [
+    "oil"
+   ],
+   "emoji": "🫒",
+   "sentence": {
+    "en": "Dad cooks with a little oil.",
+    "zh": "爸爸做菜只放一点油。"
+   },
+   "sentences": [
+    {
+     "en": "Dad cooks with a little oil.",
+     "zh": "爸爸做菜只放一点油。",
+     "audio": "media/sent/f9627da6c194.mp3"
+    },
+    {
+     "en": "Put some oil on the salad.",
+     "zh": "在沙拉上加点油。",
+     "audio": "media/sent/795973abf876.mp3"
+    },
+    {
+     "en": "We need oil to make chips.",
+     "zh": "做薯条需要油。",
+     "audio": "media/sent/e5816d77dd04.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/oil.webp",
+    "uk": "media/uk/oil.mp3",
+    "us": "media/us/oil.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "omelette",
+   "word": "omelette",
+   "zh": "煎蛋饼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "煎蛋饼"
+    }
+   ],
+   "ipa": "/ˈɒmlət/",
+   "chunks": [
+    "om",
+    "e",
+    "lette"
+   ],
+   "emoji": "🍳",
+   "sentence": {
+    "en": "Dad makes an omelette with cheese.",
+    "zh": "爸爸做了一个奶酪煎蛋饼。"
+   },
+   "sentences": [
+    {
+     "en": "Dad makes an omelette with cheese.",
+     "zh": "爸爸做了一个奶酪煎蛋饼。",
+     "audio": "media/sent/afb8d65487bb.mp3"
+    },
+    {
+     "en": "An omelette is made with eggs.",
+     "zh": "煎蛋卷是用鸡蛋做的。",
+     "audio": "media/sent/11831f476426.mp3"
+    },
+    {
+     "en": "Lily has an omelette for lunch.",
+     "zh": "Lily 午饭吃煎蛋卷。",
+     "audio": "media/sent/d5d65f39af96.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/omelette.webp"
+   },
+   "avoid": [
+    "boiled",
+    "egg",
+    "fried"
+   ]
+  },
+  {
+   "id": "onion",
+   "word": "onion",
+   "zh": "洋葱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "洋葱"
+    }
+   ],
+   "ipa": "/ˈʌnjən/",
+   "chunks": [
+    "on",
+    "ion"
+   ],
+   "emoji": "🧅",
+   "sentence": {
+    "en": "Onions make me cry!",
+    "zh": "洋葱让我流眼泪！"
+   },
+   "sentences": [
+    {
+     "en": "Onions make me cry!",
+     "zh": "洋葱让我流眼泪！",
+     "audio": "media/sent/25dafd8f5ea1.mp3"
+    },
+    {
+     "en": "Mum cuts an onion for the soup.",
+     "zh": "妈妈切了一个洋葱做汤。",
+     "audio": "media/sent/e20d899b0ca4.mp3"
+    },
+    {
+     "en": "Max can't eat onion.",
+     "zh": "Max 不能吃洋葱。",
+     "audio": "media/sent/6906260a12e5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/onion.webp",
+    "uk": "media/uk/onion.mp3",
+    "us": "media/us/onion.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "garlic",
+    "mushroom",
+    "pepper",
+    "potato",
+    "salad",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "orange",
+   "word": "orange",
+   "zh": "橙子；橙色的",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "橙子"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "橙色的"
+    }
+   ],
+   "ipa": "/ˈɒrɪndʒ/",
+   "chunks": [
+    "or",
+    "ange"
+   ],
+   "emoji": "🍊",
+   "sentence": {
+    "en": "An orange is round.",
+    "zh": "橙子是圆的。"
+   },
+   "sentences": [
+    {
+     "en": "An orange is round.",
+     "zh": "橙子是圆的。",
+     "audio": "media/sent/702efc6a3949.mp3"
+    },
+    {
+     "en": "Lily has an orange T-shirt.",
+     "zh": "Lily 有一件橙色的T恤。",
+     "audio": "media/sent/6584bc5d7580.mp3"
+    },
+    {
+     "en": "Lily eats an orange after lunch.",
+     "zh": "Lily 午饭后吃了一个橙子。",
+     "audio": "media/sent/7e9d563dba67.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/orange.webp",
+    "uk": "media/uk/orange.mp3",
+    "us": "media/us/orange.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "breakfast",
+    "cereal",
+    "fruit",
+    "grape",
+    "juice",
+    "lemon",
+    "lemonade",
+    "melon",
+    "pear",
+    "strawberry",
+    "toast"
+   ]
+  },
+  {
+   "id": "pasta",
+   "word": "pasta",
+   "zh": "意大利面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "意大利面"
+    }
+   ],
+   "ipa": "/ˈpæstə/",
+   "chunks": [
+    "pas",
+    "ta"
+   ],
+   "emoji": "🍝",
+   "sentence": {
+    "en": "We have pasta on Fridays.",
+    "zh": "我们每周五吃意大利面。"
+   },
+   "sentences": [
+    {
+     "en": "We have pasta on Fridays.",
+     "zh": "我们每周五吃意大利面。",
+     "audio": "media/sent/264f6c2c53d8.mp3"
+    },
+    {
+     "en": "Tom loves pasta with cheese.",
+     "zh": "Tom 很爱吃加奶酪的意面。",
+     "audio": "media/sent/c9e589bd9198.mp3"
+    },
+    {
+     "en": "Dad cooks pasta for dinner.",
+     "zh": "爸爸晚饭煮意大利面。",
+     "audio": "media/sent/9e47e62f64dc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pasta.webp",
+    "uk": "media/uk/pasta.mp3",
+    "us": "media/us/pasta.mp3"
+   },
+   "avoid": [
+    "eat",
+    "fork"
+   ]
+  },
+  {
+   "id": "pear",
+   "word": "pear",
+   "zh": "梨",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "梨"
+    }
+   ],
+   "ipa": "/peə/",
+   "chunks": [
+    "pear"
+   ],
+   "emoji": "🍐",
+   "sentence": {
+    "en": "Lily gives Dad a pear.",
+    "zh": "Lily 给了爸爸一个梨。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gives Dad a pear.",
+     "zh": "Lily 给了爸爸一个梨。",
+     "audio": "media/sent/c31c6d30f717.mp3"
+    },
+    {
+     "en": "A pear is green or yellow.",
+     "zh": "梨是绿色或黄色的。",
+     "audio": "media/sent/f25335936aa1.mp3"
+    },
+    {
+     "en": "This pear is very sweet.",
+     "zh": "这个梨很甜。",
+     "audio": "media/sent/ec61f1d8147e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pear.webp",
+    "uk": "media/uk/pear.mp3",
+    "us": "media/us/pear.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "fruit",
+    "grape",
+    "lemon",
+    "melon",
+    "orange",
+    "strawberry"
+   ]
+  },
+  {
+   "id": "pepper",
+   "word": "pepper",
+   "zh": "胡椒；甜椒",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "胡椒；甜椒"
+    }
+   ],
+   "ipa": "/ˈpepə/",
+   "chunks": [
+    "pep",
+    "per"
+   ],
+   "emoji": "🫑",
+   "sentence": {
+    "en": "Can you pass the salt and pepper?",
+    "zh": "你能把盐和胡椒递过来吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you pass the salt and pepper?",
+     "zh": "你能把盐和胡椒递过来吗？",
+     "audio": "media/sent/7a925e39c4a8.mp3"
+    },
+    {
+     "en": "Put some salt and pepper on the meat.",
+     "zh": "在肉上撒点盐和胡椒。",
+     "audio": "media/sent/1ef85d05f610.mp3"
+    },
+    {
+     "en": "Dad likes black pepper on his eggs.",
+     "zh": "爸爸喜欢在鸡蛋上撒黑胡椒。",
+     "audio": "media/sent/16d707166d09.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pepper.webp",
+    "uk": "media/uk/pepper.mp3",
+    "us": "media/us/pepper.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "garlic",
+    "mushroom",
+    "onion",
+    "potato",
+    "salad",
+    "salt",
+    "sugar",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "picnic",
+   "word": "picnic",
+   "zh": "野餐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "野餐"
+    }
+   ],
+   "ipa": "/ˈpɪknɪk/",
+   "chunks": [
+    "pic",
+    "nic"
+   ],
+   "emoji": "🧺",
+   "sentence": {
+    "en": "Let's have a picnic in the park!",
+    "zh": "我们去公园野餐吧！"
+   },
+   "sentences": [
+    {
+     "en": "Let's have a picnic in the park!",
+     "zh": "我们去公园野餐吧！",
+     "audio": "media/sent/9eb9f8b86ec9.mp3"
+    },
+    {
+     "en": "We have a picnic by the lake.",
+     "zh": "我们在湖边野餐。",
+     "audio": "media/sent/92ef20c1f743.mp3"
+    },
+    {
+     "en": "Lily takes sandwiches to the picnic.",
+     "zh": "Lily 带三明治去野餐。",
+     "audio": "media/sent/2aad024fd905.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/picnic.webp",
+    "uk": "media/uk/picnic.mp3",
+    "us": "media/us/picnic.mp3"
+   },
+   "avoid": [
+    "breakfast",
+    "dinner",
+    "food",
+    "fruit",
+    "lunch",
+    "main-course",
+    "meal",
+    "sandwich"
+   ]
+  },
+  {
+   "id": "pizza",
+   "word": "pizza",
+   "zh": "比萨饼",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "比萨饼"
+    }
+   ],
+   "ipa": "/ˈpiːtsə/",
+   "chunks": [
+    "piz",
+    "za"
+   ],
+   "emoji": "🍕",
+   "sentence": {
+    "en": "Lily wants pizza for dinner.",
+    "zh": "Lily 晚饭想吃比萨。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wants pizza for dinner.",
+     "zh": "Lily 晚饭想吃比萨。",
+     "audio": "media/sent/2a9426b5b4ae.mp3"
+    },
+    {
+     "en": "Tom wants pizza for lunch.",
+     "zh": "Tom 午饭想吃比萨。",
+     "audio": "media/sent/378a169e8194.mp3"
+    },
+    {
+     "en": "This pizza has cheese and mushrooms on it.",
+     "zh": "这个比萨上有奶酪和蘑菇。",
+     "audio": "media/sent/17856fbb9e9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pizza.webp",
+    "uk": "media/uk/pizza.mp3",
+    "us": "media/us/pizza.mp3"
+   },
+   "avoid": [
+    "cut",
+    "mushroom",
+    "slice"
+   ]
+  },
+  {
+   "id": "plate",
+   "word": "plate",
+   "zh": "盘子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "盘子"
+    }
+   ],
+   "ipa": "/pleɪt/",
+   "chunks": [
+    "plate"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "Put the cake on a plate.",
+    "zh": "把蛋糕放在盘子上。"
+   },
+   "sentences": [
+    {
+     "en": "Put the cake on a plate.",
+     "zh": "把蛋糕放在盘子上。",
+     "audio": "media/sent/852b75c2c251.mp3"
+    },
+    {
+     "en": "Lily puts the cake on her plate.",
+     "zh": "Lily 把蛋糕放在盘子上。",
+     "audio": "media/sent/62a459007a52.mp3"
+    },
+    {
+     "en": "Can I have a clean plate, please?",
+     "zh": "能给我一个干净的盘子吗？",
+     "audio": "media/sent/fad45813be35.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/plate.webp",
+    "uk": "media/uk/plate.mp3",
+    "us": "media/us/plate.mp3"
+   },
+   "avoid": [
+    "bowl",
+    "dish"
+   ]
+  },
+  {
+   "id": "potato",
+   "word": "potato",
+   "zh": "土豆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "土豆"
+    }
+   ],
+   "ipa": "/pəˈteɪtəʊ/",
+   "chunks": [
+    "po",
+    "ta",
+    "to"
+   ],
+   "emoji": "🥔",
+   "sentence": {
+    "en": "Chips are made from potatoes.",
+    "zh": "薯条是用土豆做的。"
+   },
+   "sentences": [
+    {
+     "en": "Chips are made from potatoes.",
+     "zh": "薯条是用土豆做的。",
+     "audio": "media/sent/0bc39dd492bf.mp3"
+    },
+    {
+     "en": "Dad puts a potato in the soup.",
+     "zh": "爸爸往汤里放了一个土豆。",
+     "audio": "media/sent/5f7f0d6ea8da.mp3"
+    },
+    {
+     "en": "Would you like a baked potato?",
+     "zh": "你想要一个烤土豆吗？",
+     "audio": "media/sent/1c67d394f05d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/potato.webp",
+    "uk": "media/uk/potato.mp3",
+    "us": "media/us/potato.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chicken",
+    "chilli",
+    "chips",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "roast",
+    "salad",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "rice",
+   "word": "rice",
+   "zh": "米饭；大米",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "米饭；大米"
+    }
+   ],
+   "ipa": "/raɪs/",
+   "chunks": [
+    "rice"
+   ],
+   "emoji": "🍚",
+   "sentence": {
+    "en": "I eat rice every day.",
+    "zh": "我每天吃米饭。"
+   },
+   "sentences": [
+    {
+     "en": "I eat rice every day.",
+     "zh": "我每天吃米饭。",
+     "audio": "media/sent/7c058f753816.mp3"
+    },
+    {
+     "en": "We have fish and rice for dinner.",
+     "zh": "我们晚饭吃鱼和米饭。",
+     "audio": "media/sent/6ad53d5d370c.mp3"
+    },
+    {
+     "en": "Can I have some more rice?",
+     "zh": "我可以再要点米饭吗？",
+     "audio": "media/sent/4e935fd8286d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rice.webp",
+    "uk": "media/uk/rice.mp3",
+    "us": "media/us/rice.mp3"
+   },
+   "avoid": [
+    "chicken",
+    "curry",
+    "fish",
+    "grilled",
+    "main-course"
+   ]
+  },
+  {
+   "id": "roast",
+   "word": "roast",
+   "zh": "烤（肉）；烤制的",
+   "pos": [
+    "v",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "烤（肉）"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "烤制的"
+    }
+   ],
+   "ipa": "/rəʊst/",
+   "chunks": [
+    "roast"
+   ],
+   "emoji": "🍗",
+   "sentence": {
+    "en": "We have roast chicken on Sunday.",
+    "zh": "我们星期天吃烤鸡。"
+   },
+   "sentences": [
+    {
+     "en": "We have roast chicken on Sunday.",
+     "zh": "我们星期天吃烤鸡。",
+     "audio": "media/sent/8e28fbdf6b5d.mp3"
+    },
+    {
+     "en": "Grandma makes roast chicken on Sunday.",
+     "zh": "奶奶星期天做烤鸡。",
+     "audio": "media/sent/9cbf6e067c74.mp3"
+    },
+    {
+     "en": "Let's roast some potatoes.",
+     "zh": "我们烤点土豆吧。",
+     "audio": "media/sent/4022833660e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/roast.webp",
+    "uk": "media/uk/roast.mp3",
+    "us": "media/us/roast.mp3"
+   },
+   "avoid": [
+    "bake",
+    "barbecue",
+    "chicken",
+    "fried",
+    "grilled",
+    "potato"
+   ]
+  },
+  {
+   "id": "salad",
+   "word": "salad",
+   "zh": "沙拉",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "沙拉"
+    }
+   ],
+   "ipa": "/ˈsæləd/",
+   "chunks": [
+    "sal",
+    "ad"
+   ],
+   "emoji": "🥗",
+   "sentence": {
+    "en": "Mum makes a green salad.",
+    "zh": "妈妈做了一份蔬菜沙拉。"
+   },
+   "sentences": [
+    {
+     "en": "Mum makes a green salad.",
+     "zh": "妈妈做了一份蔬菜沙拉。",
+     "audio": "media/sent/0118c980f6be.mp3"
+    },
+    {
+     "en": "A salad is good for you.",
+     "zh": "沙拉对身体好。",
+     "audio": "media/sent/219783b87c44.mp3"
+    },
+    {
+     "en": "Lily makes a fruit salad.",
+     "zh": "Lily 做了一份水果沙拉。",
+     "audio": "media/sent/57ae46bf2f20.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/salad.webp",
+    "uk": "media/uk/salad.mp3",
+    "us": "media/us/salad.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "tomato",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "salt",
+   "word": "salt",
+   "zh": "盐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "盐"
+    }
+   ],
+   "ipa": "/sɔːlt/",
+   "chunks": [
+    "salt"
+   ],
+   "emoji": "🧂",
+   "sentence": {
+    "en": "The sea water has salt in it.",
+    "zh": "海水里有盐。"
+   },
+   "sentences": [
+    {
+     "en": "The sea water has salt in it.",
+     "zh": "海水里有盐。",
+     "audio": "media/sent/fc3f3b36b55e.mp3"
+    },
+    {
+     "en": "Don't put too much salt on your chips.",
+     "zh": "别在薯条上放太多盐。",
+     "audio": "media/sent/434e90d13e42.mp3"
+    },
+    {
+     "en": "Can you pass the salt, please?",
+     "zh": "能把盐递给我吗？",
+     "audio": "media/sent/7d11d82654dd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/salt.webp",
+    "uk": "media/uk/salt.mp3",
+    "us": "media/us/salt.mp3"
+   },
+   "avoid": [
+    "bowl",
+    "pepper",
+    "soup",
+    "sugar"
+   ]
+  },
+  {
+   "id": "sandwich",
+   "word": "sandwich",
+   "zh": "三明治",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "三明治"
+    }
+   ],
+   "ipa": "/ˈsænwɪdʒ/",
+   "chunks": [
+    "sand",
+    "wich"
+   ],
+   "emoji": "🥪",
+   "sentence": {
+    "en": "Lily takes a sandwich to school.",
+    "zh": "Lily 带三明治去学校。"
+   },
+   "sentences": [
+    {
+     "en": "Lily takes a sandwich to school.",
+     "zh": "Lily 带三明治去学校。",
+     "audio": "media/sent/9d827755731a.mp3"
+    },
+    {
+     "en": "I'd like a cheese sandwich.",
+     "zh": "我想要一个奶酪三明治。",
+     "audio": "media/sent/815940d9b7ac.mp3"
+    },
+    {
+     "en": "Tom eats his sandwich in the park.",
+     "zh": "Tom 在公园吃三明治。",
+     "audio": "media/sent/64c79b3d283e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sandwich.webp",
+    "uk": "media/uk/sandwich.mp3",
+    "us": "media/us/sandwich.mp3"
+   },
+   "avoid": [
+    "bread",
+    "fruit",
+    "lunch",
+    "picnic",
+    "toast"
+   ]
+  },
+  {
+   "id": "sauce",
+   "word": "sauce",
+   "zh": "酱；调味汁",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "酱；调味汁"
+    }
+   ],
+   "ipa": "/sɔːs/",
+   "chunks": [
+    "sauce"
+   ],
+   "emoji": "🥫",
+   "sentence": {
+    "en": "I want tomato sauce on my chips.",
+    "zh": "我的薯条要加番茄酱。"
+   },
+   "sentences": [
+    {
+     "en": "I want tomato sauce on my chips.",
+     "zh": "我的薯条要加番茄酱。",
+     "audio": "media/sent/4b1a2e5b869c.mp3"
+    },
+    {
+     "en": "This pasta sauce is delicious.",
+     "zh": "这个意面酱很好吃。",
+     "audio": "media/sent/b64cb98fa6a1.mp3"
+    },
+    {
+     "en": "Do you want sauce on your burger?",
+     "zh": "你的汉堡要加酱吗？",
+     "audio": "media/sent/3ab5b87f62a2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sauce.webp",
+    "uk": "media/uk/sauce.mp3",
+    "us": "media/us/sauce.mp3"
+   },
+   "avoid": [
+    "chips",
+    "fish",
+    "honey",
+    "jam"
+   ]
+  },
+  {
+   "id": "sausage",
+   "word": "sausage",
+   "zh": "香肠",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "香肠"
+    }
+   ],
+   "ipa": "/ˈsɒs.ɪdʒ/",
+   "chunks": [
+    "saus",
+    "age"
+   ],
+   "emoji": "🌭",
+   "sentence": {
+    "en": "Max wants my sausage!",
+    "zh": "Max 想要我的香肠！"
+   },
+   "sentences": [
+    {
+     "en": "Max wants my sausage!",
+     "zh": "Max 想要我的香肠！",
+     "audio": "media/sent/cd0850eb3705.mp3"
+    },
+    {
+     "en": "Dad cooks a sausage on the barbecue.",
+     "zh": "爸爸在烧烤架上烤香肠。",
+     "audio": "media/sent/192e80237e7a.mp3"
+    },
+    {
+     "en": "Tom has a sausage for breakfast.",
+     "zh": "Tom 早餐吃了一根香肠。",
+     "audio": "media/sent/0d8ead93768f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sausage.webp",
+    "uk": "media/uk/sausage.mp3",
+    "us": "media/us/sausage.mp3"
+   },
+   "avoid": [
+    "barbecue",
+    "biscuit",
+    "bowl",
+    "burger",
+    "chicken",
+    "drink",
+    "food",
+    "grilled",
+    "meat",
+    "steak"
+   ]
+  },
+  {
+   "id": "slice",
+   "word": "slice",
+   "zh": "一片；一块",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一片；一块"
+    }
+   ],
+   "ipa": "/slaɪs/",
+   "chunks": [
+    "slice"
+   ],
+   "emoji": "🍕",
+   "sentence": {
+    "en": "Can I have a slice of pizza?",
+    "zh": "我能吃一块比萨吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I have a slice of pizza?",
+     "zh": "我能吃一块比萨吗？",
+     "audio": "media/sent/fa35b3460e30.mp3"
+    },
+    {
+     "en": "Lily has a slice of bread.",
+     "zh": "Lily 吃了一片面包。",
+     "audio": "media/sent/eb3c3e1dfe0e.mp3"
+    },
+    {
+     "en": "Would you like a slice of cake?",
+     "zh": "你想来一块蛋糕吗？",
+     "audio": "media/sent/649e74d2947a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/slice.webp",
+    "uk": "media/uk/slice.mp3",
+    "us": "media/us/slice.mp3"
+   },
+   "avoid": [
+    "bread",
+    "cut",
+    "knife",
+    "mushroom",
+    "pizza",
+    "toast"
+   ]
+  },
+  {
+   "id": "snack",
+   "word": "snack",
+   "zh": "零食；小吃",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "零食；小吃"
+    }
+   ],
+   "ipa": "/snæk/",
+   "chunks": [
+    "snack"
+   ],
+   "emoji": "🍿",
+   "sentence": {
+    "en": "An apple is a good snack.",
+    "zh": "苹果是很好的零食。"
+   },
+   "sentences": [
+    {
+     "en": "An apple is a good snack.",
+     "zh": "苹果是很好的零食。",
+     "audio": "media/sent/f687f26355e9.mp3"
+    },
+    {
+     "en": "Tom has a snack after school.",
+     "zh": "Tom 放学后吃点零食。",
+     "audio": "media/sent/ffdec95bbe12.mp3"
+    },
+    {
+     "en": "A banana is a healthy snack.",
+     "zh": "香蕉是健康的零食。",
+     "audio": "media/sent/0c25af775d6b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/snack.webp",
+    "uk": "media/uk/snack.mp3",
+    "us": "media/us/snack.mp3"
+   },
+   "avoid": [
+    "biscuit",
+    "breakfast",
+    "cereal",
+    "delicious",
+    "eat",
+    "hungry"
+   ]
+  },
+  {
+   "id": "soup",
+   "word": "soup",
+   "zh": "汤",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "汤"
+    }
+   ],
+   "ipa": "/suːp/",
+   "chunks": [
+    "soup"
+   ],
+   "emoji": "🍲",
+   "sentence": {
+    "en": "Hot soup is nice on cold days.",
+    "zh": "冷天喝热汤很舒服。"
+   },
+   "sentences": [
+    {
+     "en": "Hot soup is nice on cold days.",
+     "zh": "冷天喝热汤很舒服。",
+     "audio": "media/sent/f7818c5845dd.mp3"
+    },
+    {
+     "en": "Grandma makes tomato soup.",
+     "zh": "奶奶做番茄汤。",
+     "audio": "media/sent/14c789d869ce.mp3"
+    },
+    {
+     "en": "Eat your soup before it gets cold.",
+     "zh": "趁汤还没凉快喝吧。",
+     "audio": "media/sent/d8b01054af31.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/soup.webp",
+    "uk": "media/uk/soup.mp3",
+    "us": "media/us/soup.mp3"
+   },
+   "avoid": [
+    "bowl",
+    "salt"
+   ]
+  },
+  {
+   "id": "steak",
+   "word": "steak",
+   "zh": "牛排",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "牛排"
+    }
+   ],
+   "ipa": "/steɪk/",
+   "chunks": [
+    "steak"
+   ],
+   "emoji": "🥩",
+   "sentence": {
+    "en": "Dad cooks a steak for dinner.",
+    "zh": "爸爸晚饭煎了一块牛排。"
+   },
+   "sentences": [
+    {
+     "en": "Dad cooks a steak for dinner.",
+     "zh": "爸爸晚饭煎了一块牛排。",
+     "audio": "media/sent/a2c9e63d0aea.mp3"
+    },
+    {
+     "en": "Dad likes his steak with chips.",
+     "zh": "爸爸吃牛排喜欢配薯条。",
+     "audio": "media/sent/0262e7ceb8a4.mp3"
+    },
+    {
+     "en": "This steak is very big!",
+     "zh": "这块牛排好大！",
+     "audio": "media/sent/f518c1bfecaf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/steak.webp",
+    "uk": "media/uk/steak.mp3",
+    "us": "media/us/steak.mp3"
+   },
+   "avoid": [
+    "burger",
+    "chicken",
+    "chips",
+    "meat",
+    "sausage"
+   ]
+  },
+  {
+   "id": "strawberry",
+   "word": "strawberry",
+   "zh": "草莓",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "草莓"
+    }
+   ],
+   "ipa": "/ˈstrɔːbəri/",
+   "chunks": [
+    "straw",
+    "ber",
+    "ry"
+   ],
+   "emoji": "🍓",
+   "sentence": {
+    "en": "Strawberries are red and sweet.",
+    "zh": "草莓又红又甜。"
+   },
+   "sentences": [
+    {
+     "en": "Strawberries are red and sweet.",
+     "zh": "草莓又红又甜。",
+     "audio": "media/sent/73a2167b2251.mp3"
+    },
+    {
+     "en": "Lily finds a big strawberry in the garden.",
+     "zh": "Lily 在花园里找到一颗大草莓。",
+     "audio": "media/sent/95ee9ade64e2.mp3"
+    },
+    {
+     "en": "I'd like a strawberry ice cream.",
+     "zh": "我想要一个草莓冰淇淋。",
+     "audio": "media/sent/4164c23499f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/strawberry.webp",
+    "uk": "media/uk/strawberry.mp3",
+    "us": "media/us/strawberry.mp3"
+   },
+   "avoid": [
+    "apple",
+    "banana",
+    "bread",
+    "cream",
+    "fruit",
+    "grape",
+    "jam",
+    "lemon",
+    "melon",
+    "orange",
+    "pear"
+   ]
+  },
+  {
+   "id": "sugar",
+   "word": "sugar",
+   "zh": "糖",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "糖"
+    }
+   ],
+   "ipa": "/ˈʃʊɡə/",
+   "chunks": [
+    "su",
+    "gar"
+   ],
+   "emoji": "🍬",
+   "sentence": {
+    "en": "No sugar in my tea, thanks.",
+    "zh": "我的茶不要加糖，谢谢。"
+   },
+   "sentences": [
+    {
+     "en": "No sugar in my tea, thanks.",
+     "zh": "我的茶不要加糖，谢谢。",
+     "audio": "media/sent/8fe57e8956aa.mp3"
+    },
+    {
+     "en": "Do you take sugar in your tea?",
+     "zh": "你的茶要加糖吗？",
+     "audio": "media/sent/4fa820d42478.mp3"
+    },
+    {
+     "en": "We need sugar to make a cake.",
+     "zh": "做蛋糕需要糖。",
+     "audio": "media/sent/af8cdb560462.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sugar.webp",
+    "uk": "media/uk/sugar.mp3",
+    "us": "media/us/sugar.mp3"
+   },
+   "avoid": [
+    "coffee",
+    "cup",
+    "pepper",
+    "salt",
+    "tea"
+   ]
+  },
+  {
+   "id": "sweet",
+   "word": "sweet",
+   "zh": "甜的；糖果（英式）",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "甜的"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "糖果（英式）"
+    }
+   ],
+   "ipa": "/swiːt/",
+   "chunks": [
+    "sweet"
+   ],
+   "emoji": "🍭",
+   "sentence": {
+    "en": "Honey is very sweet.",
+    "zh": "蜂蜜很甜。"
+   },
+   "sentences": [
+    {
+     "en": "Honey is very sweet.",
+     "zh": "蜂蜜很甜。",
+     "audio": "media/sent/65c057955689.mp3"
+    },
+    {
+     "en": "This apple is very sweet.",
+     "zh": "这个苹果很甜。",
+     "audio": "media/sent/b8ad22377a1e.mp3"
+    },
+    {
+     "en": "Can I have a sweet, please?",
+     "zh": "我可以吃一颗糖吗？",
+     "audio": "media/sent/1c873608121b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sweet.webp",
+    "uk": "media/uk/sweet.mp3",
+    "us": "media/us/sweet.mp3"
+   },
+   "avoid": [
+    "cake",
+    "candy",
+    "chocolate",
+    "dessert"
+   ]
+  },
+  {
+   "id": "tea",
+   "word": "tea",
+   "zh": "茶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "茶"
+    }
+   ],
+   "ipa": "/tiː/",
+   "chunks": [
+    "tea"
+   ],
+   "emoji": "🍵",
+   "sentence": {
+    "en": "Grandma likes a cup of tea.",
+    "zh": "奶奶喜欢喝杯茶。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma likes a cup of tea.",
+     "zh": "奶奶喜欢喝杯茶。",
+     "audio": "media/sent/f9122e39e819.mp3"
+    },
+    {
+     "en": "Would you like a cup of tea?",
+     "zh": "你想喝杯茶吗？",
+     "audio": "media/sent/4072a6c74f03.mp3"
+    },
+    {
+     "en": "Mum has tea with milk.",
+     "zh": "妈妈喝加奶的茶。",
+     "audio": "media/sent/410cc145ae32.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tea.webp",
+    "uk": "media/uk/tea.mp3",
+    "us": "media/us/tea.mp3"
+   },
+   "avoid": [
+    "coffee",
+    "cup",
+    "drink",
+    "milk",
+    "sugar"
+   ]
+  },
+  {
+   "id": "thirsty",
+   "word": "thirsty",
+   "zh": "口渴的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "口渴的"
+    }
+   ],
+   "ipa": "/ˈθɜːsti/",
+   "chunks": [
+    "thirst",
+    "y"
+   ],
+   "emoji": "🥵",
+   "sentence": {
+    "en": "I'm thirsty. Can I have some water?",
+    "zh": "我渴了。我能喝点水吗？"
+   },
+   "sentences": [
+    {
+     "en": "I'm thirsty. Can I have some water?",
+     "zh": "我渴了。我能喝点水吗？",
+     "audio": "media/sent/b9f098da7e43.mp3"
+    },
+    {
+     "en": "Max is thirsty after the walk.",
+     "zh": "Max 散步后口渴了。",
+     "audio": "media/sent/e044d2f16721.mp3"
+    },
+    {
+     "en": "Are you thirsty? Have some water.",
+     "zh": "你渴吗？喝点水吧。",
+     "audio": "media/sent/9a87f0d6431f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thirsty.webp",
+    "uk": "media/uk/thirsty.mp3",
+    "us": "media/us/thirsty.mp3"
+   },
+   "avoid": [
+    "cola",
+    "drink",
+    "juice",
+    "lemonade",
+    "mineral-water"
+   ]
+  },
+  {
+   "id": "toast",
+   "word": "toast",
+   "zh": "烤面包片；吐司",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "烤面包片；吐司"
+    }
+   ],
+   "ipa": "/təʊst/",
+   "chunks": [
+    "toast"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "I have toast and jam for breakfast.",
+    "zh": "我早餐吃吐司配果酱。"
+   },
+   "sentences": [
+    {
+     "en": "I have toast and jam for breakfast.",
+     "zh": "我早餐吃吐司配果酱。",
+     "audio": "media/sent/0da25bc916a9.mp3"
+    },
+    {
+     "en": "Lily puts butter on her toast.",
+     "zh": "Lily 在吐司上抹黄油。",
+     "audio": "media/sent/74c42507a3d7.mp3"
+    },
+    {
+     "en": "Would you like some toast?",
+     "zh": "你想吃点吐司吗？",
+     "audio": "media/sent/7d1ce1838600.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toast.webp",
+    "uk": "media/uk/toast.mp3",
+    "us": "media/us/toast.mp3"
+   },
+   "avoid": [
+    "bread",
+    "breakfast",
+    "cereal",
+    "juice",
+    "knife",
+    "orange",
+    "sandwich",
+    "slice"
+   ]
+  },
+  {
+   "id": "tomato",
+   "word": "tomato",
+   "zh": "西红柿；番茄",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "西红柿；番茄"
+    }
+   ],
+   "ipa": "/təˈmɑːtəʊ/",
+   "chunks": [
+    "to",
+    "ma",
+    "to"
+   ],
+   "emoji": "🍅",
+   "sentence": {
+    "en": "A tomato is red and round.",
+    "zh": "西红柿又红又圆。"
+   },
+   "sentences": [
+    {
+     "en": "A tomato is red and round.",
+     "zh": "西红柿又红又圆。",
+     "audio": "media/sent/bd92d78d9e6b.mp3"
+    },
+    {
+     "en": "Lily puts a tomato in the salad.",
+     "zh": "Lily 在沙拉里放了一个西红柿。",
+     "audio": "media/sent/32f078e32d42.mp3"
+    },
+    {
+     "en": "I'd like tomato soup, please.",
+     "zh": "请给我番茄汤。",
+     "audio": "media/sent/4ee2da3bc2b7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tomato.webp",
+    "uk": "media/uk/tomato.mp3",
+    "us": "media/us/tomato.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "salad",
+    "vegetable"
+   ]
+  },
+  {
+   "id": "vegetable",
+   "word": "vegetable",
+   "zh": "蔬菜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "蔬菜"
+    }
+   ],
+   "ipa": "/ˈvedʒtəbl/",
+   "chunks": [
+    "veg",
+    "e",
+    "ta",
+    "ble"
+   ],
+   "emoji": "🥦",
+   "sentence": {
+    "en": "Eat your vegetables, Lily!",
+    "zh": "把蔬菜吃了，Lily！"
+   },
+   "sentences": [
+    {
+     "en": "Eat your vegetables, Lily!",
+     "zh": "把蔬菜吃了，Lily！",
+     "audio": "media/sent/0a9d2bf40e35.mp3"
+    },
+    {
+     "en": "A carrot is a vegetable.",
+     "zh": "胡萝卜是一种蔬菜。",
+     "audio": "media/sent/b68525fe3775.mp3"
+    },
+    {
+     "en": "What is your favourite vegetable?",
+     "zh": "你最喜欢的蔬菜是什么？",
+     "audio": "media/sent/827e15c16db5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/vegetable.webp",
+    "uk": "media/uk/vegetable.mp3",
+    "us": "media/us/vegetable.mp3"
+   },
+   "avoid": [
+    "carrot",
+    "chilli",
+    "garlic",
+    "mushroom",
+    "onion",
+    "pepper",
+    "potato",
+    "salad",
+    "tomato"
+   ]
+  },
+  {
+   "id": "waiter",
+   "word": "waiter",
+   "zh": "（男）服务员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "（男）服务员"
+    }
+   ],
+   "ipa": "/ˈweɪtə/",
+   "chunks": [
+    "wait",
+    "er"
+   ],
+   "emoji": "🤵",
+   "sentence": {
+    "en": "The waiter brings our food.",
+    "zh": "服务员给我们上菜。"
+   },
+   "sentences": [
+    {
+     "en": "The waiter brings our food.",
+     "zh": "服务员给我们上菜。",
+     "audio": "media/sent/e87895dcbace.mp3"
+    },
+    {
+     "en": "The waiter gives us the menu.",
+     "zh": "服务员给我们菜单。",
+     "audio": "media/sent/3a3a9109435c.mp3"
+    },
+    {
+     "en": "Tom's dad is a waiter in a cafe.",
+     "zh": "Tom 的爸爸是咖啡馆的服务员。",
+     "audio": "media/sent/925939bae8d9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/waiter.webp",
+    "uk": "media/uk/waiter.mp3",
+    "us": "media/us/waiter.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "cafeteria",
+    "dessert",
+    "dinner",
+    "lunch",
+    "menu",
+    "waitress"
+   ]
+  },
+  {
+   "id": "waitress",
+   "word": "waitress",
+   "zh": "女服务员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女服务员"
+    }
+   ],
+   "ipa": "/ˈweɪtrəs/",
+   "chunks": [
+    "wait",
+    "ress"
+   ],
+   "emoji": "💁‍♀️",
+   "sentence": {
+    "en": "The waitress gives us the menu.",
+    "zh": "女服务员给了我们菜单。"
+   },
+   "sentences": [
+    {
+     "en": "The waitress gives us the menu.",
+     "zh": "女服务员给了我们菜单。",
+     "audio": "media/sent/5196bbe53a37.mp3"
+    },
+    {
+     "en": "The waitress brings our drinks.",
+     "zh": "女服务员端来了我们的饮料。",
+     "audio": "media/sent/96fec0434cfe.mp3"
+    },
+    {
+     "en": "Excuse me, waitress! Can we have the bill?",
+     "zh": "服务员，我们可以买单吗？",
+     "audio": "media/sent/e3a9936ae766.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/waitress.webp",
+    "uk": "media/uk/waitress.mp3",
+    "us": "media/us/waitress.mp3"
+   },
+   "avoid": [
+    "cafe",
+    "cafeteria",
+    "dessert",
+    "dinner",
+    "lunch",
+    "menu",
+    "waiter"
+   ]
+  },
+  {
+   "id": "wash-up",
+   "word": "wash up",
+   "zh": "洗碗",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "洗碗"
+    }
+   ],
+   "ipa": "/ˌwɒʃ ˈʌp/",
+   "chunks": [
+    "wash",
+    "up"
+   ],
+   "emoji": "🧽",
+   "sentence": {
+    "en": "Lily helps Dad wash up after dinner.",
+    "zh": "晚饭后 Lily 帮爸爸洗碗。"
+   },
+   "sentences": [
+    {
+     "en": "Lily helps Dad wash up after dinner.",
+     "zh": "晚饭后 Lily 帮爸爸洗碗。",
+     "audio": "media/sent/31a416b5907c.mp3"
+    },
+    {
+     "en": "Can you help me wash up?",
+     "zh": "你能帮我洗碗吗？",
+     "audio": "media/sent/71fd8b77f5d0.mp3"
+    },
+    {
+     "en": "Tom doesn't like to wash up.",
+     "zh": "Tom 不喜欢洗碗。",
+     "audio": "media/sent/01bc4e6aac87.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wash-up.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "yogurt",
+   "word": "yogurt",
+   "zh": "酸奶",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "酸奶"
+    }
+   ],
+   "ipa": "/ˈjɒɡət/",
+   "chunks": [
+    "yo",
+    "gurt"
+   ],
+   "emoji": "🥛",
+   "sentence": {
+    "en": "I have yogurt with fruit.",
+    "zh": "我吃酸奶拌水果。"
+   },
+   "sentences": [
+    {
+     "en": "I have yogurt with fruit.",
+     "zh": "我吃酸奶拌水果。",
+     "audio": "media/sent/e099f46f0bab.mp3"
+    },
+    {
+     "en": "Lily has yogurt for breakfast.",
+     "zh": "Lily 早餐吃酸奶。",
+     "audio": "media/sent/1b9f95d67fa5.mp3"
+    },
+    {
+     "en": "This strawberry yogurt is delicious.",
+     "zh": "这个草莓酸奶很好吃。",
+     "audio": "media/sent/a1403323834e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/yogurt.webp",
+    "uk": "media/uk/yogurt.mp3",
+    "us": "media/us/yogurt.mp3"
+   },
+   "avoid": [
+    "butter",
+    "cheese",
+    "cream",
+    "milk"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "market-day",
+ "topic": "shopping",
+ "title": "Market Day",
+ "zh": "赶集日",
+ "pages": [
+  {
+   "en": "Every Saturday there is a market in the square. Dad and Tom go to buy fruit and vegetables. The market is busy and noisy.",
+   "zh": "每个星期六，广场上都有集市。爸爸和 Tom 去买水果和蔬菜。集市上人很多，很热闹。",
+   "scene": "A busy outdoor market in a town square, stalls full of colourful fruit and vegetables, Dad and Tom walking with a basket."
+  },
+  {
+   "en": "Tom wants some strawberries. \"How much are they?\" Dad asks. \"Three pounds,\" says the man. \"That's a good price!\" says Dad.",
+   "zh": "Tom 想要草莓。“多少钱？”爸爸问。“三英镑，”那个男人说。“价格很公道！”爸爸说。",
+   "scene": "A fruit stall at a market, a smiling man holding a box of red strawberries, Tom pointing at them excitedly, Dad taking out his wallet."
+  },
+  {
+   "en": "At home, they make a big fruit salad for lunch. \"Shopping at the market is fun,\" says Tom. \"Can I come again next Saturday?\"",
+   "zh": "回到家，他们做了一大份水果沙拉当午饭。“在集市买东西真好玩，”Tom 说，“下个星期六我还能来吗？”",
+   "scene": "A kitchen table with a big bowl of colourful fruit salad, Tom eating happily, Dad, Mum and Lily sitting round the table."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The market is on Sunday.",
+   "zh": "集市在星期天。",
+   "answer": false
+  },
+  {
+   "q": "What does Tom want?",
+   "zh": "Tom 想要什么？",
+   "options": [
+    "strawberries",
+    "bananas",
+    "apples"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "They make a fruit salad.",
+   "zh": "他们做了水果沙拉。",
+   "answer": true
+  }
+ ]
+}

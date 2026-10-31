@@ -1,0 +1,50 @@
+{
+ "id": "lost-glasses",
+ "topic": "clothes",
+ "title": "Grandpa's Glasses",
+ "zh": "爷爷的眼镜",
+ "pages": [
+  {
+   "en": "Grandpa wants to read his book, but he can't find his glasses. \"Where are my glasses?\" he asks.",
+   "zh": "爷爷想看书，可是找不到他的眼镜了。“我的眼镜在哪儿？”他问。",
+   "scene": "Grandpa in his armchair holding a book far away at arm's length, squinting hard at it with bare eyes, a puzzled look, a question mark above his head."
+  },
+  {
+   "en": "Lily and Tom look everywhere. They look in his coat pocket, in his hat and under the chair. No glasses!",
+   "zh": "Lily 和 Tom 到处找。他们找了爷爷的外套口袋、帽子和椅子底下。没有眼镜！",
+   "scene": "Lily looking in a coat pocket on a hook, Tom looking under an armchair, Grandpa's hat upside down on the table."
+  },
+  {
+   "en": "Then Lily looks in Max's bed. Grandpa's glasses are there! \"Max!\" everyone laughs. Grandpa says, \"Thank you, Lily. Now I can read!\"",
+   "zh": "这时 Lily 往 Max 的狗窝里一看，爷爷的眼镜就在那儿！“Max！”大家都笑了。爷爷说：“谢谢你，Lily。现在我能看书了！”",
+   "scene": "A round dog bed with a pair of round glasses lying on its cushion, Max sitting next to it with a guilty look, Lily pointing at the glasses and laughing, Grandpa and Tom laughing behind her."
+  }
+ ],
+ "questions": [
+  {
+   "q": "What can't Grandpa find?",
+   "zh": "爷爷找不到什么？",
+   "options": [
+    "his glasses",
+    "his hat",
+    "his book"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where are the glasses?",
+   "zh": "眼镜在哪里？",
+   "options": [
+    "in Max's bed",
+    "in Grandpa's hat",
+    "under the chair"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily finds the glasses.",
+   "zh": "Lily 找到了眼镜。",
+   "answer": true
+  }
+ ]
+}
