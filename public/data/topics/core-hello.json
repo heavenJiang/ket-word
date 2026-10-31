@@ -136,6 +136,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "good 好 + bye 再见 = goodbye 再见"
+   },
    "avoid": []
   },
   {
@@ -183,6 +187,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "good 好 + afternoon 下午 = good afternoon 下午好"
+   },
    "avoid": []
   },
   {
@@ -230,6 +238,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "good 好 + evening 晚上 = good evening 晚上好"
+   },
    "avoid": []
   },
   {
@@ -276,6 +288,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "good 好 + morning 早上 = good morning 早上好"
+   },
    "avoid": []
   },
   {
@@ -321,6 +337,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "good 好 + night 夜晚 = good night 晚安"
+   },
    "avoid": []
   },
   {
@@ -551,6 +571,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "oh 哎呀 + dear 亲爱的 = oh dear! 天哪"
+   },
    "avoid": []
   },
   {
@@ -694,6 +718,10 @@
     "us": "media/us/please.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "please 像礼貌请求：p 是举手，lease 像借东西，借前说 please。"
+   },
    "avoid": []
   },
   {
@@ -742,6 +770,10 @@
     "us": "media/us/thanks.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "thank（感谢）+ s（复数）= thanks 谢谢"
+   },
    "avoid": []
   },
   {
@@ -786,6 +818,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "thank 感谢，thanks 谢谢：thanks 比 thank 多个 s。"
+   },
    "avoid": []
   },
   {
@@ -831,6 +867,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "thank 感谢 + you 你 = thank you 谢谢"
+   },
    "avoid": []
   },
   {
@@ -882,6 +922,10 @@
     "us": "media/us/welcome.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "welcome 里有 come 来，w 像张开手臂欢迎你来。"
+   },
    "avoid": []
   },
   {
@@ -970,6 +1014,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "Yeah! 是啊，yes 是的：Yeah! 结尾 h 像点头。"
+   },
    "avoid": []
   },
   {
@@ -1018,6 +1066,10 @@
     "uk": "media/uk/excuse.mp3",
     "us": "media/us/excuse.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "excuse 里有 use 用，先说 excuse me 再用东西。"
+   },
    "avoid": []
   },
   {
@@ -1064,6 +1116,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "story",
+    "text": "by the way 像走路：way 是路，顺便沿着路提一句。"
+   },
    "avoid": []
   },
   {
@@ -1109,6 +1165,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "guess 猜 + what 什么 = Guess what? 你猜怎么着"
+   },
    "avoid": []
   },
   {
@@ -1154,6 +1214,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "of 的 + course 路线 = of course 当然"
+   },
    "avoid": []
   },
   {
@@ -1199,6 +1263,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "poor 可怜的 + thing 小家伙 = poor thing 可怜的小家伙"
+   },
    "avoid": []
   },
   {
@@ -1247,6 +1315,10 @@
     "uk": "media/uk/pity.mp3",
     "us": "media/us/pity.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "pity 里有 pit 小坑，掉进小坑真可惜"
+   },
    "avoid": []
   },
   {
@@ -1293,6 +1365,10 @@
    "media": {
     "uk": "media/uk/shame.mp3",
     "us": "media/us/shame.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "shame 可惜，same 一样：same 的 s 后加 h 就害羞"
    },
    "avoid": []
   },
@@ -1343,6 +1419,10 @@
     "uk": "media/uk/certainly.mp3",
     "us": "media/us/certainly.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "certain（确定）+ ly（地）= certainly 当然"
+   },
    "avoid": []
   },
   {
@@ -1392,6 +1472,10 @@
     "us": "media/us/maybe.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "may 可以 + be 是 = maybe 也许"
+   },
    "avoid": []
   },
   {
@@ -1439,6 +1523,10 @@
    "media": {
     "uk": "media/uk/perhaps.mp3",
     "us": "media/us/perhaps.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "perhaps 也许：per 转一圈，haps 拍手，先想一想再决定"
    },
    "avoid": []
   },
@@ -1489,6 +1577,10 @@
     "uk": "media/uk/probably.mp3",
     "us": "media/us/probably.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "probably 很可能：probable 是可能，末尾 e 换 y 变也许"
+   },
    "avoid": []
   },
   {
@@ -1537,6 +1629,10 @@
    "media": {
     "uk": "media/uk/possibly.mp3",
     "us": "media/us/possibly.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "possibly 可能：possible 是可能，末尾 e 换 y 变也许"
    },
    "avoid": []
   },
@@ -1588,6 +1684,10 @@
     "uk": "media/uk/actually.mp3",
     "us": "media/us/actually.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "actual（实际的）+ ly（地）= actually 实际上"
+   },
    "avoid": []
   },
   {
@@ -1636,6 +1736,10 @@
    "media": {
     "uk": "media/uk/anyway.mp3",
     "us": "media/us/anyway.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "any 任何 + way 路 = anyway 反正"
    },
    "avoid": []
   },
@@ -1686,6 +1790,10 @@
     "uk": "media/uk/however.mp3",
     "us": "media/us/however.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "how 怎样 + ever 永远 = however 然而"
+   },
    "avoid": []
   },
   {
@@ -1735,6 +1843,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "alright 好的，all right 好的：alright 少一个 l"
+   },
    "avoid": []
   },
   {
@@ -1784,6 +1896,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "all 全部 + right 对 = all right 好的"
+   },
    "avoid": []
   },
   {
@@ -1829,6 +1945,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "at 在 + all 全部 = at all 根本"
+   },
    "avoid": []
   },
   {
@@ -1877,6 +1997,10 @@
    "media": {
     "uk": "media/uk/luckily.mp3",
     "us": "media/us/luckily.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "luckily 幸运地：luck 运气加小尾巴 ily，好运就来了"
    },
    "avoid": []
   },

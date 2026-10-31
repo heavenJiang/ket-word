@@ -99,6 +99,10 @@
     "uk": "media/uk/afterwards.mp3",
     "us": "media/us/afterwards.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "afterwards：after 是之后，s 像后来弯弯曲曲的路"
+   },
    "avoid": []
   },
   {
@@ -148,6 +152,10 @@
     "us": "media/us/again.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "again 里藏 gain 获得，再 gain 就是 again"
+   },
    "avoid": []
   },
   {
@@ -246,6 +254,10 @@
     "uk": "media/uk/already.mp3",
     "us": "media/us/already.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "already 里藏着 ready 准备好了，已经 ready"
+   },
    "avoid": []
   },
   {
@@ -295,6 +307,10 @@
     "us": "media/us/always.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "always 里 all 少一个 l，加 way 和 s 就是总是"
+   },
    "avoid": []
   },
   {
@@ -398,6 +414,10 @@
     "us": "media/us/beginning.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "beginning 比 begin 多一个 n 和 ing，注意双写 n"
+   },
    "avoid": []
   },
   {
@@ -447,6 +467,10 @@
     "us": "media/us/during.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "during 里有 ring：在……期间，听到铃响就下课"
+   },
    "avoid": []
   },
   {
@@ -498,6 +522,10 @@
     "us": "media/us/early.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "early 里有 ear 耳朵：听到鸟叫就早早起床"
+   },
    "avoid": []
   },
   {
@@ -548,6 +576,10 @@
     "us": "media/us/end.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "end 结束，and 和：把 and 的 a 换成 e 就是 end"
+   },
    "avoid": []
   },
   {
@@ -596,6 +628,10 @@
     "uk": "media/uk/ever.mp3",
     "us": "media/us/ever.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "ever 曾经，every 每个：every 比 ever 多一个 y"
+   },
    "avoid": []
   },
   {
@@ -643,6 +679,10 @@
    "media": {
     "uk": "media/uk/final.mp3",
     "us": "media/us/final.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "final 里有 fin 鱼鳍：最后一条鱼游到终点"
    },
    "avoid": []
   },
@@ -693,6 +733,10 @@
     "uk": "media/uk/finally.mp3",
     "us": "media/us/finally.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "final（最后）+ ly（……地）= finally 终于"
+   },
    "avoid": []
   },
   {
@@ -739,6 +783,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "first 第一 + of 的 + all 全部 = first of all 首先"
+   },
    "avoid": []
   },
   {
@@ -838,6 +886,10 @@
     "us": "media/us/late.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "late 晚的，date 日期：把 date 的 d 换成 l 就是 late"
+   },
    "avoid": []
   },
   {
@@ -887,6 +939,10 @@
     "us": "media/us/later.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "late 迟到，later 稍后：later 比 late 多一个 r"
+   },
    "avoid": []
   },
   {
@@ -934,6 +990,10 @@
    "media": {
     "uk": "media/uk/latest.mp3",
     "us": "media/us/latest.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "late 晚的，latest 最新：latest 比 late 多 st"
    },
    "avoid": []
   },
@@ -983,6 +1043,10 @@
     "uk": "media/uk/lunchtime.mp3",
     "us": "media/us/lunchtime.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "lunch 午餐 + time 时间 = lunchtime 午餐时间"
+   },
    "avoid": []
   },
   {
@@ -1030,6 +1094,10 @@
    "media": {
     "uk": "media/uk/midday.mp3",
     "us": "media/us/midday.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "midday 正午，midnight 午夜：day 白天，night 晚上"
    },
    "avoid": []
   },
@@ -1080,6 +1148,10 @@
     "us": "media/us/never.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "ever 曾经，never 从不：在 ever 前加 n 就是 never"
+   },
    "avoid": []
   },
   {
@@ -1128,6 +1200,10 @@
     "us": "media/us/now.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "now 现在，how 怎样：把 how 的 h 换成 n 就是 now"
+   },
    "avoid": []
   },
   {
@@ -1177,6 +1253,10 @@
     "us": "media/us/often.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "often 里有 ten 十：一天做十次，就是经常"
+   },
    "avoid": []
   },
   {
@@ -1225,6 +1305,10 @@
     "us": "media/us/once.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "one 一，once 一次：在 one 的 n 后加 c 就是 once"
+   },
    "avoid": []
   },
   {
@@ -1273,6 +1357,10 @@
    "media": {
     "uk": "media/uk/recently.mp3",
     "us": "media/us/recently.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "recent（最近的）+ ly（……地）= recently 最近"
    },
    "avoid": []
   },
@@ -1465,6 +1553,10 @@
     "uk": "media/uk/still.mp3",
     "us": "media/us/still.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "still 仍然，spill 洒：把 t 换成 p 就洒了"
+   },
    "avoid": []
   },
   {
@@ -1514,6 +1606,10 @@
     "uk": "media/uk/suddenly.mp3",
     "us": "media/us/suddenly.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "sudden（突然）+ ly（地）= suddenly 突然"
+   },
    "avoid": []
   },
   {
@@ -1558,6 +1654,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "then 然后，than 比：than 的 a 换成 e 就是 then"
+   },
    "avoid": []
   },
   {
@@ -1604,6 +1704,10 @@
    "media": {
     "uk": "media/uk/till.mp3",
     "us": "media/us/till.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "till 直到，tell 告诉：till 中间是 i，tell 中间是 e。"
    },
    "avoid": []
   },
@@ -1753,6 +1857,10 @@
     "us": "media/us/usually.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "usual（平常）+ ly（地）= usually 通常"
+   },
    "avoid": []
   },
   {
@@ -1802,6 +1910,10 @@
     "uk": "media/uk/usual.mp3",
     "us": "media/us/usual.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "usual 平常的，usually 通常：usually 比 usual 多了 ly。"
+   },
    "avoid": []
   },
   {
@@ -1848,6 +1960,10 @@
    "media": {
     "uk": "media/uk/yet.mp3",
     "us": "media/us/yet.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "yet 还没，yes 是：s 换成 t 就还没完成"
    },
    "avoid": []
   },
@@ -1900,6 +2016,10 @@
     "uk": "media/uk/immediately.mp3",
     "us": "media/us/immediately.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "immediate（立刻）+ ly（地）= immediately 立刻"
+   },
    "avoid": []
   },
   {
@@ -1946,6 +2066,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "story",
+    "text": "all the time：all 所有、time 时间，全都在就是一直"
+   },
    "avoid": []
   },
   {
@@ -1993,6 +2117,10 @@
    "media": {
     "uk": "media/uk/season.mp3",
     "us": "media/us/season.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "sea 海 + son 儿子 = season 季节"
    },
    "avoid": []
   },
@@ -2043,6 +2171,10 @@
     "uk": "media/uk/timetable.mp3",
     "us": "media/us/timetable.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "time 时间 + table 桌子 = timetable 时间表"
+   },
    "avoid": []
   },
   {
@@ -2091,6 +2223,10 @@
    "media": {
     "uk": "media/uk/anymore.mp3",
     "us": "media/us/anymore.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "any 任何 + more 更多 = anymore 不再"
    },
    "avoid": []
   },
@@ -2142,6 +2278,10 @@
     "us": "media/us/last.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "last 上一个，lost 迷路：a 换成 o 就迷路"
+   },
    "avoid": []
   },
   {
@@ -2192,6 +2332,10 @@
     "us": "media/us/next.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "next 下一个，text 文本：n 换成 t 就成文本"
+   },
    "avoid": []
   }
  ]

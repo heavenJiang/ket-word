@@ -50,6 +50,10 @@
     "us": "media/us/restaurant.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "restaurant 有 rest 休息和 ant 蚂蚁，吃饱有力气。"
+   },
    "avoid": [
     "cafe",
     "cafeteria",
@@ -209,6 +213,10 @@
     "img": "media/img/cafeteria.webp",
     "uk": "media/uk/cafeteria.mp3",
     "us": "media/us/cafeteria.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "cafeteria 自助餐厅比 cafe 咖啡馆多了 teria"
    },
    "avoid": [
     "cafe",
@@ -419,6 +427,10 @@
     "uk": "media/uk/garage.mp3",
     "us": "media/us/garage.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "garage：g 像车库门，ar 像车开进，age 像停好"
+   },
    "avoid": [
     "petrol-station"
    ]
@@ -627,6 +639,10 @@
    "media": {
     "img": "media/img/petrol-station.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "petrol 汽油 + station 站 = petrol station 加油站"
+   },
    "avoid": [
     "garage"
    ]
@@ -679,6 +695,10 @@
     "uk": "media/uk/post-office.mp3",
     "us": "media/us/post-office.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "post 邮 + office 办公室 = post office 邮局"
+   },
    "avoid": [
     "bank"
    ]
@@ -729,6 +749,10 @@
    "media": {
     "img": "media/img/sports-centre.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "sports 运动 + centre 中心 = sports centre 体育中心"
+   },
    "avoid": [
     "swimming-pool"
    ]
@@ -778,6 +802,10 @@
    ],
    "media": {
     "img": "media/img/swimming-pool.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "swimming 游泳 + pool 水池 = swimming pool 游泳池"
    },
    "avoid": [
     "sports-centre"
@@ -830,6 +858,10 @@
     "img": "media/img/theatre.webp",
     "uk": "media/uk/theatre.mp3",
     "us": "media/us/theatre.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "theatre 剧院：the 像幕布，at 像演员，re 像掌声"
    },
    "avoid": [
     "cinema",

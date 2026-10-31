@@ -152,6 +152,10 @@
    "media": {
     "img": "media/img/go-shopping.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "go 去 + shopping 购物 = go shopping 去购物"
+   },
    "avoid": [
     "shopper",
     "shopping"
@@ -207,6 +211,10 @@
     "us": "media/us/supermarket.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "super 超级 + market 市场 = supermarket 超市"
+   },
    "avoid": [
     "department-store",
     "shop",
@@ -260,6 +268,10 @@
    "media": {
     "img": "media/img/department-store.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "department 部门+store 商店=department store"
+   },
    "avoid": [
     "shop",
     "store",
@@ -311,6 +323,10 @@
     "img": "media/img/store.webp",
     "uk": "media/uk/store.mp3",
     "us": "media/us/store.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "store 商店，storm 风暴：store 尾 e，storm 尾 m。"
    },
    "avoid": [
     "bookshop",
@@ -367,6 +383,10 @@
     "us": "media/us/bookshop.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "book 书 + shop 商店 = bookshop 书店"
+   },
    "avoid": [
     "shop",
     "store"
@@ -418,6 +438,10 @@
    ],
    "media": {
     "img": "media/img/shop-assistant.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "shop 商店+assistant 助手=shop assistant 店员"
    },
    "avoid": [
     "assistant",
@@ -473,6 +497,10 @@
     "uk": "media/uk/assistant.mp3",
     "us": "media/us/assistant.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "assist（帮助）+ ant（……的人）= assistant 助手"
+   },
    "avoid": [
     "customer",
     "shop-assistant",
@@ -527,6 +555,10 @@
     "uk": "media/uk/customer.mp3",
     "us": "media/us/customer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "custom（习惯）+ er（人）= customer 顾客"
+   },
    "avoid": [
     "assistant",
     "shop-assistant",
@@ -577,6 +609,10 @@
    ],
    "media": {
     "img": "media/img/shopper.webp"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "shopper 购物者：shop 商店，两个 p 像两袋，er 是人。"
    },
    "avoid": [
     "assistant",
@@ -794,6 +830,10 @@
     "uk": "media/uk/cost.mp3",
     "us": "media/us/cost.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "cost 价钱，coat 外套：cost 中 s，coat 中 a。"
+   },
    "avoid": [
     "bill",
     "price",
@@ -954,6 +994,10 @@
     "us": "media/us/expensive.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "expensive 有 pen 笔，贵得买笔也珍惜。"
+   },
    "avoid": [
     "cheap",
     "for-sale"
@@ -1004,6 +1048,10 @@
    "media": {
     "img": "media/img/try-on.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "try 试 + on 穿 = try on 试穿"
+   },
    "avoid": [
     "buy"
    ]
@@ -1052,6 +1100,10 @@
    ],
    "media": {
     "img": "media/img/for-sale.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "for 给 + sale 出售 = for sale 出售"
    },
    "avoid": [
     "cheap",
@@ -1111,6 +1163,10 @@
     "uk": "media/uk/cash.mp3",
     "us": "media/us/cash.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "cash 现金，case 箱子：cash 尾 h，case 尾 e。"
+   },
    "avoid": [
     "change",
     "cheque",
@@ -1163,6 +1219,10 @@
    ],
    "media": {
     "img": "media/img/credit-card.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "credit 信用 + card 卡 = credit card 信用卡"
    },
    "avoid": [
     "cash",
@@ -1264,6 +1324,10 @@
     "uk": "media/uk/bill.mp3",
     "us": "media/us/bill.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bill 账单：别混 ball 球，bill 用 i 像小票"
+   },
    "avoid": [
     "cost",
     "price",
@@ -1316,6 +1380,10 @@
     "img": "media/img/receipt.webp",
     "uk": "media/uk/receipt.mp3",
     "us": "media/us/receipt.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "receive 收到，receipt 收据：结尾 ve 换成 pt。"
    },
    "avoid": [
     "bill",
@@ -1485,6 +1553,10 @@
     "uk": "media/uk/penny.mp3",
     "us": "media/us/penny.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "penny 里有 pen（笔），用笔把一便士记进存钱罐。"
+   },
    "avoid": [
     "cent",
     "dollar",
@@ -1537,6 +1609,10 @@
     "img": "media/img/pound.webp",
     "uk": "media/uk/pound.mp3",
     "us": "media/us/pound.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pound 英镑，round 圆：p 换成 r。"
    },
    "avoid": [
     "cent",
@@ -1819,6 +1895,10 @@
     "uk": "media/uk/closed.mp3",
     "us": "media/us/closed.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "closed 关着的，close 关：closed 多一个 d。"
+   },
    "avoid": [
     "close",
     "open"
@@ -1869,6 +1949,10 @@
     "img": "media/img/rent.webp",
     "uk": "media/uk/rent.mp3",
     "us": "media/us/rent.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "rent 租用，tent 帐篷：r 换成 t。"
    },
    "avoid": [
     "buy",
@@ -1974,6 +2058,10 @@
     "img": "media/img/advertisement.webp",
     "uk": "media/uk/advertisement.mp3",
     "us": "media/us/advertisement.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "advertise（做广告）+ment（名词）=advertisement广告"
    },
    "avoid": [
     "ad"

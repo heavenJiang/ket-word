@@ -204,6 +204,10 @@
     "us": "media/us/cooking.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "cook（做饭）+ ing（…的）= cooking 烹饪"
+   },
    "avoid": []
   },
   {
@@ -358,6 +362,10 @@
     "uk": "media/uk/event.mp3",
     "us": "media/us/event.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "event 活动，even 甚至：多一个 t，就是活动"
+   },
    "avoid": []
   },
   {
@@ -457,6 +465,10 @@
    ],
    "media": {
     "img": "media/img/ice-skating.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "ice 冰 + skating 滑 = ice skating 滑冰"
    },
    "avoid": [
     "skateboarding",
@@ -615,6 +627,10 @@
     "us": "media/us/reading.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "read（读）+ ing（…的）= reading 阅读"
+   },
    "avoid": [
     "activity"
    ]
@@ -663,6 +679,10 @@
    ],
    "media": {
     "img": "media/img/singing.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "sing（唱歌）+ ing（正在）= singing 唱歌"
    },
    "avoid": [
     "dancing",
@@ -717,6 +737,10 @@
     "img": "media/img/skateboarding.webp",
     "uk": "media/uk/skateboarding.mp3",
     "us": "media/us/skateboarding.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "skateboard（滑板）+ ing（正在）=skateboarding 滑板"
    },
    "avoid": [
     "ice-skating",
@@ -870,6 +894,10 @@
     "uk": "media/uk/surfing.mp3",
     "us": "media/us/surfing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "surf（冲浪）+ ing（正在）= surfing 冲浪"
+   },
    "avoid": [
     "diving"
    ]
@@ -920,6 +948,10 @@
     "img": "media/img/training.webp",
     "uk": "media/uk/training.mp3",
     "us": "media/us/training.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "train（训练）+ ing（正在）= training 训练"
    },
    "avoid": [
     "gym",
@@ -1028,6 +1060,10 @@
     "uk": "media/uk/score.mp3",
     "us": "media/us/score.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "score 分数，core 核心：多一个 s"
+   },
    "avoid": [
     "match",
     "training"
@@ -1078,6 +1114,10 @@
     "img": "media/img/stage.webp",
     "uk": "media/uk/stage.mp3",
     "us": "media/us/stage.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "stage 里有 age 时代：舞台属于精彩时代"
    },
    "avoid": [
     "dancing",
@@ -1184,6 +1224,10 @@
     "uk": "media/uk/selfie.mp3",
     "us": "media/us/selfie.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "selfie 自拍，self 自己：ie 像笑脸"
+   },
    "avoid": []
   },
   {
@@ -1233,6 +1277,10 @@
     "img": "media/img/performance.webp",
     "uk": "media/uk/performance.mp3",
     "us": "media/us/performance.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "performance 演出，perform 表演：多 ance"
    },
    "avoid": [
     "dancing",
@@ -1286,6 +1334,10 @@
    "media": {
     "uk": "media/uk/musical.mp3",
     "us": "media/us/musical.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "music（音乐）+ al（形容词）= musical 音乐的"
    },
    "avoid": []
   },
@@ -1390,6 +1442,10 @@
     "us": "media/us/painting.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "paint（绘画）+ ing（正在）= painting 绘画"
+   },
    "avoid": [
     "gallery"
    ]
@@ -1442,6 +1498,10 @@
     "uk": "media/uk/gallery.mp3",
     "us": "media/us/gallery.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "gallery 里有 all 全部：全部画作都在画廊里"
+   },
    "avoid": [
     "painting"
    ]
@@ -1492,6 +1552,10 @@
     "img": "media/img/surprise.webp",
     "uk": "media/uk/surprise.mp3",
     "us": "media/us/surprise.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "surprise 里有 rise 升起：惊喜悄悄升起"
    },
    "avoid": []
   },
@@ -1592,6 +1656,10 @@
     "uk": "media/uk/action.mp3",
     "us": "media/us/action.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "action 动作，nation 国家：ac 和 na 不同"
+   },
    "avoid": [
     "comedy",
     "movie"
@@ -1647,6 +1715,10 @@
     "us": "media/us/activity.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "activity 里有 act 行动：小 act 排队，活动就热闹"
+   },
    "avoid": [
     "reading"
    ]
@@ -1696,6 +1768,10 @@
    "media": {
     "img": "media/img/take-part.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "take 拿 + part 部分 = take part 参加"
+   },
    "avoid": []
   },
   {
@@ -1742,6 +1818,10 @@
    ],
    "media": {
     "img": "media/img/work-out.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "work 工作 + out 出去 = work out 锻炼"
    },
    "avoid": [
     "gym",

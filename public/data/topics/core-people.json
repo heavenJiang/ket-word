@@ -103,6 +103,10 @@
    "media": {
     "img": "media/img/boyfriend.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "boy 男孩 + friend 朋友 = boyfriend 男朋友"
+   },
    "avoid": [
     "get-married",
     "girlfriend",
@@ -153,6 +157,10 @@
    ],
    "media": {
     "img": "media/img/girlfriend.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "girl 女孩 + friend 朋友 = girlfriend 女朋友"
    },
    "avoid": [
     "boyfriend",
@@ -207,6 +215,10 @@
    "media": {
     "img": "media/img/business-person.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "business 商业 + person 人 = business person 商人"
+   },
    "avoid": []
   },
   {
@@ -257,6 +269,10 @@
     "img": "media/img/celebrity.webp",
     "uk": "media/uk/celebrity.mp3",
     "us": "media/us/celebrity.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "celebrity 名人，celebrate 庆祝：把 ate 换成 ity"
    },
    "avoid": [
     "fan",
@@ -311,6 +327,10 @@
     "uk": "media/uk/character.mp3",
     "us": "media/us/character.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "character 角色，chatter 闲聊：有 act 的是角色，没 act 的是闲聊"
+   },
    "avoid": []
   },
   {
@@ -358,6 +378,10 @@
     "img": "media/img/clown.webp",
     "uk": "media/uk/clown.mp3",
     "us": "media/us/clown.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "clown 小丑，cloud 云：clown 把 u d 换成 w n"
    },
    "avoid": []
   },
@@ -408,6 +432,10 @@
     "uk": "media/uk/colleague.mp3",
     "us": "media/us/colleague.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "colleague 同事比 college 学院多了 a 和 u。"
+   },
    "avoid": []
   },
   {
@@ -455,6 +483,10 @@
     "img": "media/img/crowd.webp",
     "uk": "media/uk/crowd.mp3",
     "us": "media/us/crowd.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "crowd 人群，crown 王冠：crowd 把 n 换成 d"
    },
    "avoid": [
     "people"
@@ -557,6 +589,10 @@
    "media": {
     "img": "media/img/headteacher.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "head 头 + teacher 老师 = headteacher 校长"
+   },
    "avoid": []
   },
   {
@@ -605,6 +641,10 @@
     "img": "media/img/housewife.webp",
     "uk": "media/uk/housewife.mp3",
     "us": "media/us/housewife.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "house 房子 + wife 妻子 = housewife 家庭主妇"
    },
    "avoid": []
   },
@@ -858,6 +898,10 @@
     "uk": "media/uk/partner.mp3",
     "us": "media/us/partner.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "partner 里 part 是部分，n e r 像三个人，合起来是搭档"
+   },
    "avoid": [
     "boyfriend",
     "girlfriend"
@@ -1019,6 +1063,10 @@
    "media": {
     "img": "media/img/schoolchild.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "school 学校 + child 小孩 = schoolchild 小学生"
+   },
    "avoid": [
     "kid"
    ]
@@ -1120,6 +1168,10 @@
     "uk": "media/uk/runner.mp3",
     "us": "media/us/runner.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "runner 里 run 是跑，两个 n 像两条腿在跑"
+   },
    "avoid": [
     "get-fit"
    ]
@@ -1169,6 +1221,10 @@
    ],
    "media": {
     "img": "media/img/movie-star.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "movie 电影 + star 明星 = movie star 电影明星"
    },
    "avoid": [
     "celebrity",
@@ -1221,6 +1277,10 @@
     "img": "media/img/speaker.webp",
     "uk": "media/uk/speaker.mp3",
     "us": "media/us/speaker.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "speak（说）+ er（发声的）= speaker 扬声器"
    },
    "avoid": []
   },
@@ -1422,6 +1482,10 @@
     "img": "media/img/aged.webp",
     "uk": "media/uk/aged.mp3",
     "us": "media/us/aged.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "aged 年老的，age 年龄：aged 比 age 多一个 d"
    },
    "avoid": [
     "age",
@@ -1676,6 +1740,10 @@
    "media": {
     "img": "media/img/first-name.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "first 第一 + name 名字 = first name 名字"
+   },
    "avoid": []
   },
   {
@@ -1728,6 +1796,10 @@
     "us": "media/us/nationality.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "national（国家的）+ ity（身份）= nationality 国籍"
+   },
    "avoid": []
   },
   {
@@ -1825,6 +1897,10 @@
    ],
    "media": {
     "img": "media/img/id-card.webp"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "ID card 像一张小卡片：ID 写身份，card 是卡片"
    },
    "avoid": [
     "id",
@@ -1931,6 +2007,10 @@
    "media": {
     "img": "media/img/grow-up.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "grow 长 + up 向上 = grow up 长大"
+   },
    "avoid": []
   },
   {
@@ -1978,6 +2058,10 @@
    ],
    "media": {
     "img": "media/img/get-married.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + married 已婚 = get married 结婚"
    },
    "avoid": [
     "boyfriend",
@@ -2028,6 +2112,10 @@
    ],
    "media": {
     "img": "media/img/get-fit.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + fit 健康 = get fit 健身"
    },
    "avoid": [
     "runner"
@@ -2080,6 +2168,10 @@
     "img": "media/img/career.webp",
     "uk": "media/uk/career.mp3",
     "us": "media/us/career.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "career 里藏着 care：对事业要用心 care"
    },
    "avoid": []
   },
@@ -2275,6 +2367,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "affix",
+    "text": "feeling（感觉）+ s（复数）= feelings 感受"
+   },
    "avoid": []
   },
   {
@@ -2322,6 +2418,10 @@
     "img": "media/img/toe.webp",
     "uk": "media/uk/toe.mp3",
     "us": "media/us/toe.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "toe 脚趾，too 也：oe 对 oo"
    },
    "avoid": [
     "headache",
@@ -2426,6 +2526,10 @@
     "img": "media/img/headache.webp",
     "uk": "media/uk/headache.mp3",
     "us": "media/us/headache.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "head 头 + ache 痛 = headache 头痛"
    },
    "avoid": [
     "mouth",

@@ -107,6 +107,10 @@
     "uk": "media/uk/bear.mp3",
     "us": "media/us/bear.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "bear 里有 ear 耳朵，大熊用耳朵听动静。"
+   },
    "avoid": [
     "polar-bear"
    ]
@@ -322,6 +326,10 @@
     "uk": "media/uk/butterfly.mp3",
     "us": "media/us/butterfly.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "butter 黄油 + fly 飞 = butterfly 蝴蝶"
+   },
    "avoid": [
     "bee",
     "beetle",
@@ -481,6 +489,10 @@
     "us": "media/us/chicken.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "chicken 里有 chick 小鸡，它在草地上叫。"
+   },
    "avoid": [
     "bird",
     "duck",
@@ -1284,6 +1296,10 @@
    "media": {
     "img": "media/img/kitten.webp"
    },
+   "hook": {
+    "kind": "story",
+    "text": "kitten 里有 ten 十，小猫玩十个线团。"
+   },
    "avoid": [
     "cat",
     "dog",
@@ -1655,6 +1671,10 @@
    "media": {
     "img": "media/img/polar-bear.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "polar 极地 + bear 熊 = polar bear 北极熊"
+   },
    "avoid": [
     "bear"
    ]
@@ -1818,6 +1838,10 @@
     "img": "media/img/shark.webp",
     "uk": "media/uk/shark.mp3",
     "us": "media/us/shark.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "shark 鲨鱼，sharp 锋利：p 换成 k 就是 shark。"
    },
    "avoid": [
     "dolphin",
@@ -2083,6 +2107,10 @@
     "uk": "media/uk/tail.mp3",
     "us": "media/us/tail.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "tail 尾巴，tall 高的：第三个 i 换成 l。"
+   },
    "avoid": [
     "dog",
     "pet",
@@ -2290,6 +2318,10 @@
     "uk": "media/uk/wild.mp3",
     "us": "media/us/wild.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "wild 野生的，mild 温和的：开头 w 换成 m 就变温和。"
+   },
    "avoid": [
     "animal",
     "lion",
@@ -2344,6 +2376,10 @@
     "uk": "media/uk/wildlife.mp3",
     "us": "media/us/wildlife.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "wild 野生的 + life 生活 = wildlife 野生动物"
+   },
    "avoid": [
     "animal",
     "wild",
@@ -2395,6 +2431,10 @@
     "img": "media/img/wing.webp",
     "uk": "media/uk/wing.mp3",
     "us": "media/us/wing.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "wing 翅膀，swing 摇荡：swing 多一个 s，像翅膀摇摆。"
    },
    "avoid": [
     "bird",

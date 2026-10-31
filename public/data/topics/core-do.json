@@ -248,6 +248,10 @@
     "uk": "media/uk/complete.mp3",
     "us": "media/us/complete.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "complete 完成，compete 比赛：complete 多一个 l"
+   },
    "avoid": [
     "finish"
    ]
@@ -403,6 +407,10 @@
     "uk": "media/uk/cover.mp3",
     "us": "media/us/cover.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "cover 覆盖，over 上面：cover 前面多一个 c"
+   },
    "avoid": []
   },
   {
@@ -453,6 +461,10 @@
     "img": "media/img/design.webp",
     "uk": "media/uk/design.mp3",
     "us": "media/us/design.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "design 里有 sign 标志：先画一个 sign，再设计图案"
    },
    "avoid": [
     "discover",
@@ -507,6 +519,10 @@
     "img": "media/img/discover.webp",
     "uk": "media/uk/discover.mp3",
     "us": "media/us/discover.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "dis（去掉）+ cover（覆盖）= discover 发现"
    },
    "avoid": [
     "design",
@@ -706,6 +722,10 @@
    "media": {
     "img": "media/img/fill-in.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "fill 填满 + in 里面 = fill in 填空"
+   },
    "avoid": [
     "fill"
    ]
@@ -857,6 +877,10 @@
     "uk": "media/uk/improve.mp3",
     "us": "media/us/improve.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "improve 里有 prove 证明，一次比一次证明更好"
+   },
    "avoid": []
   },
   {
@@ -906,6 +930,10 @@
     "us": "media/us/include.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "include 包括，exclude 排除：in 进，ex 出"
+   },
    "avoid": []
   },
   {
@@ -1261,6 +1289,10 @@
     "img": "media/img/perform.webp",
     "uk": "media/uk/perform.mp3",
     "us": "media/us/perform.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "perform：表演时，先 form 成形状，人人都摆好。"
    },
    "avoid": [
     "record"
@@ -1814,6 +1846,10 @@
     "uk": "media/uk/tidy.mp3",
     "us": "media/us/tidy.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "tidy 整洁，untidy 乱：前面多 un 不"
+   },
    "avoid": [
     "tidy-up",
     "wash",
@@ -1865,6 +1901,10 @@
    ],
    "media": {
     "img": "media/img/tidy-up.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "tidy 整理 + up 起来 = tidy up 收拾好"
    },
    "avoid": [
     "tidy",
@@ -1971,6 +2011,10 @@
    "media": {
     "img": "media/img/washing-up.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "washing 洗 + up 完 = washing-up 洗碗"
+   },
    "avoid": [
     "tidy",
     "tidy-up",
@@ -2021,6 +2065,10 @@
    ],
    "media": {
     "img": "media/img/break-down.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "break 坏 + down 倒下 = break down 出故障"
    },
    "avoid": []
   },
@@ -2121,6 +2169,10 @@
    "media": {
     "img": "media/img/look-after.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "look 看 + after 在后 = look after 照顾"
+   },
    "avoid": []
   },
   {
@@ -2168,6 +2220,10 @@
    "media": {
     "img": "media/img/look-for.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "look 看 + for 为了 = look for 寻找"
+   },
    "avoid": []
   },
   {
@@ -2214,6 +2270,10 @@
    ],
    "media": {
     "img": "media/img/look-out.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "look 看 + out 外面 = look out 小心"
    },
    "avoid": []
   },
@@ -2466,6 +2526,10 @@
    "media": {
     "img": "media/img/wake-up.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "wake 醒 + up 起来 = wake up 醒来"
+   },
    "avoid": [
     "wake"
    ]
@@ -2616,6 +2680,10 @@
    "media": {
     "img": "media/img/put-on.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "put 放 + on 上 = put on 穿上"
+   },
    "avoid": []
   },
   {
@@ -2662,6 +2730,10 @@
    ],
    "media": {
     "img": "media/img/turn-off.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "turn 转 + off 断开 = turn off 关掉"
    },
    "avoid": [
     "turn-on"
@@ -2711,6 +2783,10 @@
    ],
    "media": {
     "img": "media/img/turn-on.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "turn 转 + on 接通 = turn on 打开"
    },
    "avoid": [
     "turn-off"
@@ -2812,6 +2888,10 @@
    ],
    "media": {
     "img": "media/img/write-down.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "write 写 + down 向下 = write down 写下"
    },
    "avoid": [
     "copy",

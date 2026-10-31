@@ -100,6 +100,10 @@
    "media": {
     "img": "media/img/city-centre.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "city 城市 + centre 中心 = city centre 市中心"
+   },
    "avoid": [
     "square",
     "town"
@@ -418,6 +422,10 @@
     "uk": "media/uk/bridge.mp3",
     "us": "media/us/bridge.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bridge 桥，fridge 冰箱：b 和 f 不同，别把桥放进冰箱。"
+   },
    "avoid": [
     "corner"
    ]
@@ -586,6 +594,10 @@
     "uk": "media/uk/playground.mp3",
     "us": "media/us/playground.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "play 玩 + ground 地面 = playground 游乐场"
+   },
    "avoid": [
     "park",
     "zoo"
@@ -686,6 +698,10 @@
     "img": "media/img/car-park.webp",
     "uk": "media/uk/car-park.mp3",
     "us": "media/us/car-park.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "car 车 + park 停车 = car park 停车场"
    },
    "avoid": [
     "park",
@@ -794,6 +810,10 @@
    "media": {
     "img": "media/img/bus-station.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "bus 公交 + station 车站 = bus station 公共汽车站"
+   },
    "avoid": [
     "bus-stop",
     "station",
@@ -844,6 +864,10 @@
    ],
    "media": {
     "img": "media/img/bus-stop.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "bus 公交 + stop 停 = bus stop 公共汽车站"
    },
    "avoid": [
     "bus-station",
@@ -901,6 +925,10 @@
     "uk": "media/uk/underground.mp3",
     "us": "media/us/underground.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "under 下面 + ground 地面 = underground 地铁"
+   },
    "avoid": [
     "bus-station",
     "bus-stop",
@@ -954,6 +982,10 @@
    "media": {
     "img": "media/img/petrol-station.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "petrol 汽油 + station 站 = petrol station 加油站"
+   },
    "avoid": [
     "car-park"
    ]
@@ -1005,6 +1037,10 @@
     "img": "media/img/motorway.webp",
     "uk": "media/uk/motorway.mp3",
     "us": "media/us/motorway.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "motor 发动机 + way 路 = motorway 高速公路"
    },
    "avoid": [
     "road",
@@ -1060,6 +1096,10 @@
     "uk": "media/uk/roundabout.mp3",
     "us": "media/us/roundabout.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "round 转圈 + about 到处 = roundabout 环岛"
+   },
    "avoid": [
     "motorway",
     "road",
@@ -1114,6 +1154,10 @@
     "us": "media/us/airport.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "air 空中 + port 港口 = airport 机场"
+   },
    "avoid": [
     "station"
    ]

@@ -591,6 +591,10 @@
     "us": "media/us/friendly.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "friend（朋友）+ ly（像…的）= friendly 友好的"
+   },
    "avoid": [
     "friend",
     "guest",
@@ -702,6 +706,10 @@
    "media": {
     "img": "media/img/grandchild.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + child 孩子 = grandchild 孙辈"
+   },
    "avoid": [
     "grandad",
     "granddaughter",
@@ -759,6 +767,10 @@
    "media": {
     "img": "media/img/grandad.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "grandad和granddad都是爷爷或外公，grandad少一个d"
+   },
    "avoid": [
     "grandchild",
     "granddaughter",
@@ -815,6 +827,10 @@
     "img": "media/img/granddaughter.webp",
     "uk": "media/uk/granddaughter.mp3",
     "us": "media/us/granddaughter.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + daughter 女 = granddaughter 孙女"
    },
    "avoid": [
     "grandad",
@@ -877,6 +893,10 @@
     "us": "media/us/grandfather.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + father 爸爸 = grandfather 祖父"
+   },
    "avoid": [
     "grandad",
     "grandchild",
@@ -989,6 +1009,10 @@
     "us": "media/us/grandmother.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + mother 妈妈 = grandmother 祖母"
+   },
    "avoid": [
     "grandchild",
     "granddaughter",
@@ -1101,6 +1125,10 @@
     "us": "media/us/grandparent.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + parent 家长 = grandparent 祖辈"
+   },
    "avoid": [
     "grandad",
     "grandchild",
@@ -1159,6 +1187,10 @@
     "img": "media/img/grandson.webp",
     "uk": "media/uk/grandson.mp3",
     "us": "media/us/grandson.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "grand 祖 + son 儿子 = grandson 孙子"
    },
    "avoid": [
     "grandad",
@@ -1325,6 +1357,10 @@
     "uk": "media/uk/guest.mp3",
     "us": "media/us/guest.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "guest 客人，guess 猜：guest 尾 t，guess 尾 s"
+   },
    "avoid": [
     "friendly",
     "neighbour"
@@ -1375,6 +1411,10 @@
     "img": "media/img/guy.webp",
     "uk": "media/uk/guy.mp3",
     "us": "media/us/guy.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "guy 家伙，buy 买：g 像戴帽子的 guy，b 像购物袋"
    },
    "avoid": [
     "boy",
@@ -1430,6 +1470,10 @@
     "us": "media/us/husband.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "husband 末尾 band 像婚礼乐队"
+   },
    "avoid": [
     "married",
     "wife"
@@ -1819,6 +1863,10 @@
    "media": {
     "img": "media/img/mrs.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "Mr 先生，Mrs 太太：Mrs 多了 s，像裙摆"
+   },
    "avoid": [
     "miss",
     "miss.2",
@@ -1973,6 +2021,10 @@
     "uk": "media/uk/neighbour.mp3",
     "us": "media/us/neighbour.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "neighbour 里有 our（我们的），住在我们的旁边就是邻居"
+   },
    "avoid": [
     "friend",
     "friendly",
@@ -2087,6 +2139,10 @@
    ],
    "media": {
     "img": "media/img/penfriend.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "pen 笔 + friend 朋友 = penfriend 笔友"
    },
    "avoid": [
     "friend",
@@ -2251,6 +2307,10 @@
     "uk": "media/uk/surname.mp3",
     "us": "media/us/surname.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "surname 里有 name（名字），姓是一家人共有的名字"
+   },
    "avoid": [
     "family",
     "group",
@@ -2304,6 +2364,10 @@
     "img": "media/img/teenager.webp",
     "uk": "media/uk/teenager.mp3",
     "us": "media/us/teenager.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "teenager 里藏着 teen 和 age，最后 r 像一个小人"
    },
    "avoid": [
     "boy",

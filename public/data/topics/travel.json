@@ -49,6 +49,10 @@
     "us": "media/us/airport.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "air 空中 + port 港口 = airport 机场"
+   },
    "avoid": [
     "flight",
     "pilot",
@@ -156,6 +160,10 @@
     "uk": "media/uk/flight.mp3",
     "us": "media/us/flight.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "flight 航班，light 灯：flight 就是 light 前加 f"
+   },
    "avoid": [
     "airport",
     "pilot",
@@ -260,6 +268,10 @@
     "img": "media/img/pilot.webp",
     "uk": "media/uk/pilot.mp3",
     "us": "media/us/pilot.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "pilot 飞行员：p 像飞机，lot 很多，很多飞机飞上天。"
    },
    "avoid": [
     "airport",
@@ -368,6 +380,10 @@
     "uk": "media/uk/passport.mp3",
     "us": "media/us/passport.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "pass 通过 + port 港口 = passport 护照"
+   },
    "avoid": [
     "driving-licence",
     "ticket"
@@ -473,6 +489,10 @@
     "uk": "media/uk/suitcase.mp3",
     "us": "media/us/suitcase.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "suit 西装 + case 箱子 = suitcase 行李箱"
+   },
    "avoid": [
     "backpack",
     "case",
@@ -577,6 +597,10 @@
     "img": "media/img/backpack.webp",
     "uk": "media/uk/backpack.mp3",
     "us": "media/us/backpack.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "back 背 + pack 打包 = backpack 背包"
    },
    "avoid": [
     "case",
@@ -685,6 +709,10 @@
     "uk": "media/uk/passenger.mp3",
     "us": "media/us/passenger.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "passenger 里有 pass 经过，乘客经过上车"
+   },
    "avoid": [
     "tour-guide",
     "tourist",
@@ -786,6 +814,10 @@
     "img": "media/img/journey.webp",
     "uk": "media/uk/journey.mp3",
     "us": "media/us/journey.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "journey 里藏着 our 我们的，旅程是我们的旅行"
    },
    "avoid": [
     "tour",
@@ -891,6 +923,10 @@
     "img": "media/img/tour.webp",
     "uk": "media/uk/tour.mp3",
     "us": "media/us/tour.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "tour 里有 our 我们，t 像路，一起去旅游"
    },
    "avoid": [
     "journey",
@@ -999,6 +1035,10 @@
     "uk": "media/uk/tourist.mp3",
     "us": "media/us/tourist.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "tour（旅游）+ ist（人）= tourist 游客"
+   },
    "avoid": [
     "passenger",
     "tour-guide",
@@ -1049,6 +1089,10 @@
    ],
    "media": {
     "img": "media/img/tour-guide.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "tour 旅行 + guide 向导 = tour guide 导游"
    },
    "avoid": [
     "passenger",
@@ -1106,6 +1150,10 @@
    ],
    "media": {
     "img": "media/img/tourist-information-centre.webp"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "tourist information centre：tourist 游客问路"
    },
    "avoid": [
     "visit",
@@ -1221,6 +1269,10 @@
     "uk": "media/uk/visitor.mp3",
     "us": "media/us/visitor.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "visit（参观）+ or（人）= visitor 访客"
+   },
    "avoid": [
     "passenger",
     "tour-guide",
@@ -1328,6 +1380,10 @@
    "media": {
     "img": "media/img/bus-station.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "bus 公交 + station 车站 = bus station 公共汽车站"
+   },
    "avoid": [
     "bus-stop",
     "platform",
@@ -1378,6 +1434,10 @@
    ],
    "media": {
     "img": "media/img/bus-stop.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "bus 公交 + stop 停 = bus stop 公共汽车站"
    },
    "avoid": [
     "bus-station",
@@ -1437,6 +1497,10 @@
     "img": "media/img/coach.webp",
     "uk": "media/uk/coach.mp3",
     "us": "media/us/coach.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "coach 教练，couch 沙发：中间 a 像哨子，u 像软沙发。"
    },
    "avoid": [
     "bus",
@@ -1552,6 +1616,10 @@
     "uk": "media/uk/platform.mp3",
     "us": "media/us/platform.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "platform 站台：form 是形状，站台是平的形状"
+   },
    "avoid": [
     "bus-station",
     "bus-stop",
@@ -1604,6 +1672,10 @@
     "img": "media/img/railway.webp",
     "uk": "media/uk/railway.mp3",
     "us": "media/us/railway.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "rail 铁轨 + way 路 = railway 铁路"
    },
    "avoid": [
     "train",
@@ -1720,6 +1792,10 @@
     "img": "media/img/underground.webp",
     "uk": "media/uk/underground.mp3",
     "us": "media/us/underground.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "under 下面 + ground 地面 = underground 地铁"
    },
    "avoid": [
     "railway",
@@ -1992,6 +2068,10 @@
    "media": {
     "img": "media/img/motorbike.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "motor 发动机 + bike 自行车 = motorbike 摩托车"
+   },
    "avoid": [
     "car",
     "driver",
@@ -2150,6 +2230,10 @@
    "media": {
     "img": "media/img/petrol-station.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "petrol 汽油 + station 站 = petrol station 加油站"
+   },
    "avoid": [
     "garage",
     "petrol"
@@ -2201,6 +2285,10 @@
     "img": "media/img/garage.webp",
     "uk": "media/uk/garage.mp3",
     "us": "media/us/garage.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "garage：g 像车库门，ar 像车开进，age 像停好"
    },
    "avoid": [
     "petrol",
@@ -2255,6 +2343,10 @@
     "uk": "media/uk/mechanic.mp3",
     "us": "media/us/mechanic.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "mechanic 修理工，mechanics 学科：一个人没有 s，学科有 s。"
+   },
    "avoid": [
     "engineer",
     "repair"
@@ -2308,6 +2400,10 @@
     "uk": "media/uk/engineer.mp3",
     "us": "media/us/engineer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "engine（发动机）+ er（做…的人）= engineer 工程师"
+   },
    "avoid": [
     "mechanic",
     "repair"
@@ -2360,6 +2456,10 @@
     "uk": "media/uk/repair.mp3",
     "us": "media/us/repair.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "re（再）+ pair（配对）= repair 修理"
+   },
    "avoid": [
     "engineer",
     "mechanic"
@@ -2410,6 +2510,10 @@
     "img": "media/img/tyre.webp",
     "uk": "media/uk/tyre.mp3",
     "us": "media/us/tyre.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "tyre 英式轮胎，tire 美式：tyre 用y代替i"
    },
    "avoid": [
     "engine",
@@ -2567,6 +2671,10 @@
    ],
    "media": {
     "img": "media/img/driving-licence.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "driving 开车+licence 证=driving licence 驾照"
    },
    "avoid": [
     "passport",
@@ -2906,6 +3014,10 @@
     "uk": "media/uk/motorway.mp3",
     "us": "media/us/motorway.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "motor 发动机 + way 路 = motorway 高速公路"
+   },
    "avoid": [
     "road",
     "roundabout",
@@ -2959,6 +3071,10 @@
     "img": "media/img/roundabout.webp",
     "uk": "media/uk/roundabout.mp3",
     "us": "media/us/roundabout.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "round 转圈 + about 到处 = roundabout 环岛"
    },
    "avoid": [
     "motorway",
@@ -3064,6 +3180,10 @@
    "media": {
     "img": "media/img/traffic-light.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "traffic 交通+light 灯=traffic light 红绿灯"
+   },
    "avoid": [
     "stop",
     "traffic"
@@ -3114,6 +3234,10 @@
     "img": "media/img/bridge.webp",
     "uk": "media/uk/bridge.mp3",
     "us": "media/us/bridge.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "bridge 桥，fridge 冰箱：b 和 f 不同，别把桥放进冰箱。"
    },
    "avoid": [
     "map",
@@ -3566,6 +3690,10 @@
     "uk": "media/uk/return.mp3",
     "us": "media/us/return.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "re（再）+ turn（转）= return 返回"
+   },
    "avoid": [
     "far",
     "leave",
@@ -3740,6 +3868,10 @@
     "uk": "media/uk/delay.mp3",
     "us": "media/us/delay.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "day 一天，delay 在 d 后加 el：多绕一点就延误。"
+   },
    "avoid": [
     "delayed",
     "miss"
@@ -3790,6 +3922,10 @@
    ],
    "media": {
     "img": "media/img/delayed.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "delay（延误）+ ed（的）= delayed 延误的"
    },
    "avoid": [
     "delay",
@@ -4176,6 +4312,10 @@
     "uk": "media/uk/ship.mp3",
     "us": "media/us/ship.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "ship 船，sheep 羊：ship 用i，sheep 用ee"
+   },
    "avoid": [
     "boat",
     "sailing"
@@ -4227,6 +4367,10 @@
     "img": "media/img/sailing.webp",
     "uk": "media/uk/sailing.mp3",
     "us": "media/us/sailing.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "sail（航行）+ing（做）=sailing 帆船运动"
    },
    "avoid": [
     "boat",
@@ -4335,6 +4479,10 @@
     "uk": "media/uk/explorer.mp3",
     "us": "media/us/explorer.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "explorer 探险家，explore 探索：末尾多一个 r，像多一条路。"
+   },
    "avoid": [
     "country"
    ]
@@ -4394,6 +4542,10 @@
     "us": "media/us/country.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "country（国家/乡村），countryside（乡下）：加 side 就变乡下。"
+   },
    "avoid": [
     "explorer"
    ]

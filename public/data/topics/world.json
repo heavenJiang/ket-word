@@ -93,6 +93,10 @@
     "uk": "media/uk/antarctica.mp3",
     "us": "media/us/antarctica.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "Antarctica 南极：Ant蚂蚁+arctic北极+a都很冷"
+   },
    "avoid": []
   },
   {
@@ -282,6 +286,10 @@
    "media": {
     "img": "media/img/north-america.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "North 北+America 美洲=North America 北美洲"
+   },
    "avoid": [
     "america",
     "south-america"
@@ -330,6 +338,10 @@
    ],
    "media": {
     "img": "media/img/south-america.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "South 南+America 美洲=South America 南美洲"
    },
    "avoid": [
     "america",
@@ -424,6 +436,10 @@
    ],
    "media": {
     "img": "media/img/brazil.webp"
+   },
+   "hook": {
+    "kind": "sound",
+    "text": "Brazil 读起来就像「巴西」，它本来就是巴西"
    },
    "avoid": [
     "brazilian"
@@ -568,6 +584,10 @@
     "img": "media/img/ireland.webp",
     "uk": "media/uk/ireland.mp3",
     "us": "media/us/ireland.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "Ireland 里有 land（陆地），是海中的绿岛。"
    },
    "avoid": [
     "irish"
@@ -759,6 +779,10 @@
     "us": "media/us/england.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "England 英格兰：English 把 ish 换成 and 就成国家"
+   },
    "avoid": [
     "britain"
    ]
@@ -857,6 +881,10 @@
     "us": "media/us/america.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "America 美国：加 n 变 American，别少 n"
+   },
    "avoid": [
     "american",
     "north-america",
@@ -966,6 +994,10 @@
     "us": "media/us/chinese.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "Chinese 里有 chin（下巴），说中文要动下巴。"
+   },
    "avoid": [
     "china"
    ]
@@ -1012,6 +1044,10 @@
    ],
    "media": {
     "img": "media/img/brazilian.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "Brazil（巴西）+ ian（…的）= Brazilian 巴西的"
    },
    "avoid": [
     "brazil"
@@ -1061,6 +1097,10 @@
     "img": "media/img/canadian.webp",
     "uk": "media/uk/canadian.mp3",
     "us": "media/us/canadian.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "Canadian：Canada 末尾 a 换成 ian，就是加拿大人"
    },
    "avoid": [
     "canada"
@@ -1214,6 +1254,10 @@
     "img": "media/img/indian.webp",
     "uk": "media/uk/indian.mp3",
     "us": "media/us/indian.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "Indian 印度人：India 末尾加 n，别少 n"
    },
    "avoid": [
     "india"
@@ -1394,6 +1438,10 @@
     "us": "media/us/english.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "sound",
+    "text": "English 读起来像「英格利什」，就是英语。"
+   },
    "avoid": [
     "british"
    ]
@@ -1492,6 +1540,10 @@
     "us": "media/us/american.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "American 美国人：America 末尾加 n，别少 n"
+   },
    "avoid": [
     "america"
    ]
@@ -1542,6 +1594,10 @@
     "us": "media/us/australian.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "Australian 澳大利亚的/人，比 Australia 多一个 n"
+   },
    "avoid": [
     "australia"
    ]
@@ -1602,6 +1658,10 @@
     "us": "media/us/japanese.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "Japan（日本）+ ese（人）= Japanese 日本的/日语"
+   },
    "avoid": [
     "japan"
    ]

@@ -102,6 +102,10 @@
     "us": "media/us/aeroplane.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "aeroplane：ae 像机翼，plane 是飞机"
+   },
    "avoid": []
   },
   {
@@ -151,6 +155,10 @@
     "img": "media/img/capital.webp",
     "uk": "media/uk/capital.mp3",
     "us": "media/us/capital.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "capital 里有 cap：戴 cap 去首都"
    },
    "avoid": [
     "city"
@@ -254,6 +262,10 @@
     "uk": "media/uk/coast.mp3",
     "us": "media/us/coast.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "coast 海岸，coat 外套：coast 多一个 s"
+   },
    "avoid": [
     "harbour",
     "port"
@@ -305,6 +317,10 @@
     "uk": "media/uk/court.mp3",
     "us": "media/us/court.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "court 球场，course 课程：结尾 t 对 se"
+   },
    "avoid": []
   },
   {
@@ -353,6 +369,10 @@
     "img": "media/img/crossing.webp",
     "uk": "media/uk/crossing.mp3",
     "us": "media/us/crossing.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "cross（穿过）+ ing（做……）= crossing 人行横道"
    },
    "avoid": [
     "transport"
@@ -405,6 +425,10 @@
     "uk": "media/uk/drugstore.mp3",
     "us": "media/us/drugstore.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "drug 药 + store 商店 = drugstore 药店"
+   },
    "avoid": []
   },
   {
@@ -452,6 +476,10 @@
    ],
    "media": {
     "img": "media/img/gas-station.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "gas 汽油 + station 车站 = gas station 加油站"
    },
    "avoid": [
     "parking-lot"
@@ -556,6 +584,10 @@
     "uk": "media/uk/lorry.mp3",
     "us": "media/us/lorry.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "lorry 卡车，sorry 抱歉：首字母 l/s 不同。"
+   },
    "avoid": [
     "police-car"
    ]
@@ -607,6 +639,10 @@
    ],
    "media": {
     "img": "media/img/movie-theater.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "movie 电影 + theater 剧院 = movie theater 电影院"
    },
    "avoid": [
     "shopping-centre"
@@ -660,6 +696,10 @@
     "uk": "media/uk/parking-lot.mp3",
     "us": "media/us/parking-lot.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "parking 停车 + lot 场地 = parking lot 停车场"
+   },
    "avoid": [
     "gas-station"
    ]
@@ -709,6 +749,10 @@
    ],
    "media": {
     "img": "media/img/police-car.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "police 警察 + car 汽车 = police car 警车"
    },
    "avoid": [
     "lorry"
@@ -812,6 +856,10 @@
    "media": {
     "img": "media/img/shopping-centre.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "shopping购物+centre中心=shopping centre购物中心"
+   },
    "avoid": [
     "movie-theater"
    ]
@@ -861,6 +909,10 @@
     "img": "media/img/site.webp",
     "uk": "media/uk/site.mp3",
     "us": "media/us/site.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "site 网站，size 大小：别把 t/z 弄混。"
    },
    "avoid": [
     "place"
@@ -913,6 +965,10 @@
     "uk": "media/uk/transport.mp3",
     "us": "media/us/transport.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "transport 里有 port 港口，交通把货物运过港口"
+   },
    "avoid": [
     "crossing"
    ]
@@ -962,6 +1018,10 @@
    ],
    "media": {
     "img": "media/img/directions.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "direction 方向 + s（复数）= directions 路线指引"
    },
    "avoid": [
     "guidebook"
@@ -1013,6 +1073,10 @@
     "img": "media/img/guidebook.webp",
     "uk": "media/uk/guidebook.mp3",
     "us": "media/us/guidebook.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "guide 指南 + book 书 = guidebook 旅游手册"
    },
    "avoid": [
     "directions"
@@ -1215,6 +1279,10 @@
     "uk": "media/uk/ground.mp3",
     "us": "media/us/ground.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "ground 里有 round 圆，操场地面圆圆的"
+   },
    "avoid": [
     "place",
     "view"
@@ -1268,6 +1336,10 @@
     "uk": "media/uk/department.mp3",
     "us": "media/us/department.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "department 里有 part 部分，部门是一部分"
+   },
    "avoid": []
   },
   {
@@ -1316,6 +1388,10 @@
     "uk": "media/uk/discount.mp3",
     "us": "media/us/discount.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "discount 里有 count 数钱，少数一点就是折扣"
+   },
    "avoid": []
   },
   {
@@ -1363,6 +1439,10 @@
     "img": "media/img/sale.webp",
     "uk": "media/uk/sale.mp3",
     "us": "media/us/sale.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "sale 出售没有 i，sail 船帆有 i，e 是减价标签"
    },
    "avoid": []
   }

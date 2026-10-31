@@ -137,6 +137,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "have 有，save 救：把 s 换成 h 就有东西"
+   },
    "avoid": []
   },
   {
@@ -182,6 +186,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "can 能 + not 不 = cannot 不能"
+   },
    "avoid": []
   },
   {
@@ -226,6 +234,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "could 能，would 想要：把 w 换成 c"
+   },
    "avoid": []
   },
   {
@@ -270,6 +282,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "might 可能，night 夜晚：把 n 换成 m"
+   },
    "avoid": []
   },
   {
@@ -318,6 +334,10 @@
     "us": "media/us/must.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "must 必须，just 只是：把 j 换成 m"
+   },
    "avoid": []
   },
   {
@@ -412,6 +432,10 @@
     "uk": "media/uk/should.mp3",
     "us": "media/us/should.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "should 应该，could 能：把 c 换成 sh"
+   },
    "avoid": []
   },
   {
@@ -456,6 +480,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "will 将要，well 好：把 i 换成 e"
+   },
    "avoid": []
   },
   {
@@ -500,6 +528,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "would 想要，could 能：把 c 换成 w"
+   },
    "avoid": []
   },
   {
@@ -545,6 +577,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "have 有 + to 去 = have to 必须"
+   },
    "avoid": []
   },
   {
@@ -591,6 +627,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "story",
+    "text": "have got to：手里 have 有、got 拿到、to 去，必须"
+   },
    "avoid": []
   },
   {
@@ -639,6 +679,10 @@
     "us": "media/us/let.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "let 让，get 得到：把 g 换成 l"
+   },
    "avoid": []
   },
   {
@@ -736,6 +780,10 @@
     "us": "media/us/become.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "be 是 + come 来 = become 变成"
+   },
    "avoid": []
   },
   {
@@ -784,6 +832,10 @@
     "uk": "media/uk/belong.mp3",
     "us": "media/us/belong.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "be 是 + long 长 = belong 属于，长长久久属于。"
+   },
    "avoid": []
   },
   {
@@ -831,6 +883,10 @@
    "media": {
     "uk": "media/uk/bother.mp3",
     "us": "media/us/bother.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "bother 比 other 多个 b，别打扰 other 别人"
    },
    "avoid": []
   },
@@ -881,6 +937,10 @@
     "us": "media/us/happen.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "happen 发生，happy 开心：happen 用 en，happy 用 y"
+   },
    "avoid": []
   },
   {
@@ -930,6 +990,10 @@
    "media": {
     "uk": "media/uk/matter.mp3",
     "us": "media/us/matter.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "matter 事情，mother 妈妈：matter 两个t，mother有h"
    },
    "avoid": []
   },
@@ -1024,6 +1088,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "make 做 + sure 确定 = make sure 确保"
+   },
    "avoid": []
   },
   {
@@ -1120,6 +1188,10 @@
     "us": "media/us/try.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "try 尝试，dry 干：try 用 t，dry 用 d。"
+   },
    "avoid": []
   }
  ]

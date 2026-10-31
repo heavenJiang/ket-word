@@ -267,6 +267,10 @@
     "us": "media/us/country.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "country（国家/乡村），countryside（乡下）：加 side 就变乡下。"
+   },
    "avoid": [
     "countryside",
     "field",
@@ -321,6 +325,10 @@
     "uk": "media/uk/countryside.mp3",
     "us": "media/us/countryside.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "country（乡村）+ side（边）= countryside 乡下"
+   },
    "avoid": [
     "country",
     "field",
@@ -373,6 +381,10 @@
     "img": "media/img/desert.webp",
     "uk": "media/uk/desert.mp3",
     "us": "media/us/desert.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "desert 沙漠只有一个 s，dessert 甜点有两个 s，因为甜点想多吃一份"
    },
    "avoid": [
     "hot"
@@ -482,6 +494,10 @@
     "img": "media/img/explorer.webp",
     "uk": "media/uk/explorer.mp3",
     "us": "media/us/explorer.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "explorer 探险家，explore 探索：末尾多一个 r，像多一条路。"
    },
    "avoid": [
     "world"
@@ -690,6 +706,10 @@
     "img": "media/img/forest.webp",
     "uk": "media/uk/forest.mp3",
     "us": "media/us/forest.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "forest 开头是 for，为了种树成森林。"
    },
    "avoid": [
     "tree",
@@ -1001,6 +1021,10 @@
     "uk": "media/uk/island.mp3",
     "us": "media/us/island.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "island：s 像海水，把 land 陆地围成小岛。"
+   },
    "avoid": [
     "beach",
     "sea"
@@ -1051,6 +1075,10 @@
     "img": "media/img/lake.webp",
     "uk": "media/uk/lake.mp3",
     "us": "media/us/lake.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "lake 湖，like 喜欢：lake 中间是 a，like 中间是 i。"
    },
    "avoid": [
     "beach",
@@ -1160,6 +1188,10 @@
     "us": "media/us/mountain.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "mountain 开头是 mount，登山就是上高山。"
+   },
    "avoid": [
     "hill"
    ]
@@ -1547,6 +1579,10 @@
     "img": "media/img/space.webp",
     "uk": "media/uk/space.mp3",
     "us": "media/us/space.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "space 太空：s 像火箭，pace 是步子，走向星星。"
    },
    "avoid": [
     "air",
@@ -1993,6 +2029,10 @@
     "img": "media/img/wood.webp",
     "uk": "media/uk/wood.mp3",
     "us": "media/us/wood.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "wood 木头，good 好：wood 开头是 w，good 开头是 g。"
    },
    "avoid": [
     "forest",

@@ -625,6 +625,10 @@
     "uk": "media/uk/finger.mp3",
     "us": "media/us/finger.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "finger 里有 fin（鱼鳍），手指像小鱼鳍。"
+   },
    "avoid": [
     "arm",
     "hand"
@@ -967,6 +971,10 @@
     "uk": "media/uk/heart.mp3",
     "us": "media/us/heart.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "heart 比 hear 多一个 t，听见心跳。"
+   },
    "avoid": [
     "blood",
     "brain",
@@ -1018,6 +1026,10 @@
     "img": "media/img/brain.webp",
     "uk": "media/uk/brain.mp3",
     "us": "media/us/brain.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "brain 大脑，rain 雨：前面多一个 b。"
    },
    "avoid": [
     "blood",
@@ -1122,6 +1134,10 @@
     "img": "media/img/health.webp",
     "uk": "media/uk/health.mp3",
     "us": "media/us/health.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "health 健康，wealth 财富：开头的 h 换成 w，健康变财富"
    },
    "avoid": [
     "exercise",
@@ -1279,6 +1295,10 @@
     "uk": "media/uk/pain.mp3",
     "us": "media/us/pain.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "pain 疼，rain 雨：开头 p 和 r 不同。"
+   },
    "avoid": [
     "cut",
     "hurt",
@@ -1385,6 +1405,10 @@
    "media": {
     "img": "media/img/stomach-ache.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "stomach 胃 + ache 疼 = stomach ache 肚子疼"
+   },
    "avoid": [
     "pain",
     "toothache"
@@ -1436,6 +1460,10 @@
     "img": "media/img/toothache.webp",
     "uk": "media/uk/toothache.mp3",
     "us": "media/us/toothache.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "tooth 牙 + ache 疼 = toothache 牙疼"
    },
    "avoid": [
     "pain",
@@ -1830,6 +1858,10 @@
     "uk": "media/uk/nurse.mp3",
     "us": "media/us/nurse.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "nurse 护士，purse 钱包：n 照顾人，p 装钱"
+   },
    "avoid": [
     "dentist",
     "doctor",
@@ -1935,6 +1967,10 @@
     "img": "media/img/chemist.webp",
     "uk": "media/uk/chemist.mp3",
     "us": "media/us/chemist.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "chemist 药店，chemistry 化学：chemist 少 ry，是买药的店"
    },
    "avoid": [
     "ambulance",
@@ -2096,6 +2132,10 @@
     "uk": "media/uk/appointment.mp3",
     "us": "media/us/appointment.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "appointment 预约，disappointment 失望：去掉dis就是安排"
+   },
    "avoid": []
   },
   {
@@ -2201,6 +2241,10 @@
     "us": "media/us/toothbrush.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "tooth 牙 + brush 刷 = toothbrush 牙刷"
+   },
    "avoid": [
     "comb",
     "soap"
@@ -2302,6 +2346,10 @@
     "img": "media/img/comb.webp",
     "uk": "media/uk/comb.mp3",
     "us": "media/us/comb.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "comb 梳子，come 来：comb 用 b 梳头发，come 用 e 来"
    },
    "avoid": [
     "soap",
@@ -2534,6 +2582,10 @@
    "media": {
     "img": "media/img/well.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "well 好的，wall 墙：都有 ll，中间 e/a 不同"
+   },
    "avoid": [
     "exercise",
     "fit",
@@ -2688,6 +2740,10 @@
    "media": {
     "img": "media/img/check.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "check 检查，cheek 脸颊：check 少一个 e，要仔细核对"
+   },
    "avoid": [
     "feel",
     "hear",
@@ -2800,6 +2856,10 @@
    ],
    "media": {
     "img": "media/img/lie-down.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "lie 躺 + down 下 = lie down 躺下"
    },
    "avoid": [
     "break",
@@ -3229,6 +3289,10 @@
     "uk": "media/uk/danger.mp3",
     "us": "media/us/danger.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "danger 危险，dancer 舞者：g 警告，c 跳舞"
+   },
    "avoid": [
     "accident",
     "dangerous"
@@ -3283,6 +3347,10 @@
     "us": "media/us/dangerous.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "danger（危险）+ ous（充满…的）= dangerous 危险的"
+   },
    "avoid": [
     "accident",
     "danger"

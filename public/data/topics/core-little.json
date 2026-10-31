@@ -131,6 +131,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "the 特指，they 他们：they 多一个 y"
+   },
    "avoid": []
   },
   {
@@ -179,6 +183,10 @@
     "us": "media/us/and.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "and 和，end 末端：a 和 e 不同"
+   },
    "avoid": []
   },
   {
@@ -227,6 +235,10 @@
     "us": "media/us/but.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "but 但是，put 放：b 和 p 不同"
+   },
    "avoid": []
   },
   {
@@ -374,6 +386,10 @@
     "us": "media/us/because.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "be 是 + cause 原因 = because 因为"
+   },
    "avoid": []
   },
   {
@@ -420,6 +436,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "because 因为 + of 的 = because of 因为"
+   },
    "avoid": []
   },
   {
@@ -570,6 +590,10 @@
     "us": "media/us/than.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "than 比，then 那时：than 是 a，then 是 e"
+   },
    "avoid": []
   },
   {
@@ -614,6 +638,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "while 当…时，white 白色：l 和 t 不同"
+   },
    "avoid": []
   },
   {
@@ -663,6 +691,10 @@
    "media": {
     "uk": "media/uk/except.mp3",
     "us": "media/us/except.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "except 除…外，accept 接受：x 和 c 不同"
    },
    "avoid": []
   },
@@ -752,6 +784,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "for 为了，four 四：four 多一个 u"
+   },
    "avoid": []
   },
   {
@@ -800,6 +836,10 @@
     "us": "media/us/from.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "from 从…来，form 形状：r 和 o 换了位置"
+   },
    "avoid": []
   },
   {
@@ -941,6 +981,10 @@
     "us": "media/us/without.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "with 一起 + out 外面 = without 没有"
+   },
    "avoid": []
   },
   {
@@ -1035,6 +1079,10 @@
    "media": {
     "uk": "media/uk/per.mp3",
     "us": "media/us/per.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "per 每，pen 笔：r 和 n 不同"
    },
    "avoid": []
   },
@@ -1228,6 +1276,10 @@
     "us": "media/us/too.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "too 也，two 二：two 有 w，too 有 oo"
+   },
    "avoid": []
   },
   {
@@ -1275,6 +1327,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "as 如同 + well 好 = as well 也"
+   },
    "avoid": []
   },
   {
@@ -1369,6 +1425,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "instead 代替 + of 的 = instead of 代替"
+   },
    "avoid": []
   },
   {
@@ -1518,6 +1578,10 @@
     "us": "media/us/just.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "just 刚刚，must 必须：j 像钩子刚挂上，m 像大门必须进"
+   },
    "avoid": []
   },
   {

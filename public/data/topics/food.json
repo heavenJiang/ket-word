@@ -106,6 +106,10 @@
     "uk": "media/uk/bake.mp3",
     "us": "media/us/bake.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bake 烤，cake 蛋糕：都有 ake，b/c 不同"
+   },
    "avoid": [
     "barbecue",
     "fried",
@@ -221,6 +225,10 @@
     "uk": "media/uk/barbecue.mp3",
     "us": "media/us/barbecue.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "barbecue 里有 bar，像小吧台，外面烧烤"
+   },
    "avoid": [
     "bake",
     "fried",
@@ -331,6 +339,10 @@
     "uk": "media/uk/boil.mp3",
     "us": "media/us/boil.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "boil 煮，oil 油：boil 比 oil 多了 b"
+   },
    "avoid": [
     "boiled"
    ]
@@ -378,6 +390,10 @@
    ],
    "media": {
     "img": "media/img/boiled.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "boil（煮）+ ed（已经）= boiled 煮熟的"
    },
    "avoid": [
     "boil",
@@ -774,6 +790,10 @@
     "us": "media/us/breakfast.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "break 打破 + fast 禁食 = breakfast 早餐"
+   },
    "avoid": [
     "cereal",
     "delicious",
@@ -1011,6 +1031,10 @@
     "img": "media/img/cafeteria.webp",
     "uk": "media/uk/cafeteria.mp3",
     "us": "media/us/cafeteria.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "cafeteria 自助餐厅比 cafe 咖啡馆多了 teria"
    },
    "avoid": [
     "cafe",
@@ -1472,6 +1496,10 @@
     "uk": "media/uk/chef.mp3",
     "us": "media/us/chef.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "chef 厨师，chief 首领：chef 少个 i，专心做菜"
+   },
    "avoid": [
     "cook",
     "cooker",
@@ -1526,6 +1554,10 @@
     "us": "media/us/chicken.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "chicken 里有 chick 小鸡，它在草地上叫。"
+   },
    "avoid": [
     "burger",
     "curry",
@@ -1584,6 +1616,10 @@
     "img": "media/img/chilli.webp",
     "uk": "media/uk/chilli.mp3",
     "us": "media/us/chilli.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "chilli 辣椒，chilly 冷：最后 i 换成 y 就变冷"
    },
    "avoid": [
     "carrot",
@@ -1700,6 +1736,10 @@
     "us": "media/us/chocolate.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "sound",
+    "text": "chocolate 读起来就像「巧克力」"
+   },
    "avoid": [
     "cake",
     "candy",
@@ -1925,6 +1965,10 @@
     "img": "media/img/cooker.webp",
     "uk": "media/uk/cooker.mp3",
     "us": "media/us/cooker.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "cook（做饭）+ er（做东西的）= cooker 炉灶"
    },
    "avoid": [
     "chef",
@@ -2263,6 +2307,10 @@
     "uk": "media/uk/dessert.mp3",
     "us": "media/us/dessert.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "dessert 甜点有两个 s，desert 沙漠只有一个 s，甜点想多吃一份"
+   },
    "avoid": [
     "cafe",
     "cafeteria",
@@ -2386,6 +2434,10 @@
     "img": "media/img/dish.webp",
     "uk": "media/uk/dish.mp3",
     "us": "media/us/dish.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "dish 一道菜，fish 鱼：dish 把 f 换成 d"
    },
    "avoid": [
     "bowl",
@@ -2843,6 +2895,10 @@
     "uk": "media/uk/fried.mp3",
     "us": "media/us/fried.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "fried 煎的，friend 朋友：friend 多一个 n"
+   },
    "avoid": [
     "bake",
     "barbecue",
@@ -3130,6 +3186,10 @@
     "uk": "media/uk/grilled.mp3",
     "us": "media/us/grilled.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "grill（烤架）+ ed（已经）= grilled 烤过的"
+   },
    "avoid": [
     "bake",
     "barbecue",
@@ -3187,6 +3247,10 @@
     "img": "media/img/honey.webp",
     "uk": "media/uk/honey.mp3",
     "us": "media/us/honey.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "honey 蜂蜜，money 钱：honey 把 m 换成 h"
    },
    "avoid": [
     "jam",
@@ -3345,6 +3409,10 @@
    ],
    "media": {
     "img": "media/img/ice-cream.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "ice 冰 + cream 奶油 = ice cream 冰淇淋"
    },
    "avoid": [
     "ice"
@@ -3680,6 +3748,10 @@
    "media": {
     "img": "media/img/lemonade.webp"
    },
+   "hook": {
+    "kind": "story",
+    "text": "lemonade 里有 lemon，柠檬加水变柠檬水"
+   },
    "avoid": [
     "cola",
     "drink",
@@ -3798,6 +3870,10 @@
    ],
    "media": {
     "img": "media/img/main-course.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "main 主要的+course 一道=main course 主菜"
    },
    "avoid": [
     "breakfast",
@@ -4149,6 +4225,10 @@
    "media": {
     "img": "media/img/mineral-water.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "mineral 矿物质+water 水=mineral water 矿泉水"
+   },
    "avoid": [
     "bottle",
     "cola",
@@ -4205,6 +4285,10 @@
     "img": "media/img/mushroom.webp",
     "uk": "media/uk/mushroom.mp3",
     "us": "media/us/mushroom.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "mushroom 像蘑菇：sh 是伞柄，room 是伞下小房间"
    },
    "avoid": [
     "carrot",
@@ -4549,6 +4633,10 @@
     "img": "media/img/pear.webp",
     "uk": "media/uk/pear.mp3",
     "us": "media/us/pear.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "pear 像梨：p 是梨把，ear 是弯弯梨身"
    },
    "avoid": [
     "apple",
@@ -5238,6 +5326,10 @@
     "uk": "media/uk/sausage.mp3",
     "us": "media/us/sausage.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "sausage 像香肠：s 是肠头，age 是香喷喷的肉"
+   },
    "avoid": [
     "barbecue",
     "biscuit",
@@ -5296,6 +5388,10 @@
     "img": "media/img/slice.webp",
     "uk": "media/uk/slice.mp3",
     "us": "media/us/slice.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "slice 像切片：l 是刀，ice 是一小片"
    },
    "avoid": [
     "bread",
@@ -5516,6 +5612,10 @@
     "us": "media/us/strawberry.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "straw 稻草 + berry 浆果 = strawberry 草莓"
+   },
    "avoid": [
     "apple",
     "banana",
@@ -5750,6 +5850,10 @@
     "us": "media/us/thirsty.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "thirst（口渴）+ y（的）= thirsty 口渴的"
+   },
    "avoid": [
     "cola",
     "drink",
@@ -5926,6 +6030,10 @@
     "us": "media/us/vegetable.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "vegetable 里藏着 table（桌子），蔬菜都摆上桌。"
+   },
    "avoid": [
     "carrot",
     "chilli",
@@ -6098,6 +6206,10 @@
    ],
    "media": {
     "img": "media/img/wash-up.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "wash 洗 + up 完 = wash up 洗碗"
    },
    "avoid": []
   },
