@@ -166,6 +166,9 @@ def build_stories(content: dict, used_media: set[str]) -> list[dict]:
         for w in c["words"]:
             if not w.get("of"):  # second meanings share the word; taps go to the first meaning
                 lookup.setdefault(w["id"].replace("-", " "), w["id"])
+    # story pages recorded with Higgs (scripts/ket/gen_story_audio.py), with word timings for the read-along
+    rec_path = ROOT / "content/audio/stories.json"
+    recorded = json.loads(rec_path.read_text(encoding="utf-8")) if rec_path.exists() else {}
     out = []
     for path in sorted((ROOT / "content/stories").glob("*.json")):
         st = json.loads(path.read_text(encoding="utf-8"))
@@ -184,7 +187,11 @@ def build_stories(content: dict, used_media: set[str]) -> list[dict]:
                 (MEDIA / "img" / img.name).write_bytes(img.read_bytes())
                 media = f"media/img/{img.name}"
                 used_media.add(media)
-            pages.append({"en": page["en"], "zh": page["zh"], "segments": segs, "img": media})
+            voice = {}
+            if (rec := recorded.get(page["en"])) and (MEDIA / "story" / rec["file"]).exists():
+                voice = {"audio": f"media/story/{rec['file']}", "marks": rec["marks"]}
+                used_media.add(voice["audio"])
+            pages.append({"en": page["en"], "zh": page["zh"], "segments": segs, "img": media, **voice})
         out.append({"id": st["id"], "topic": st["topic"], "title": st["title"], "zh": st["zh"],
                     "pages": pages, "questions": st["questions"], "needs": list(needs)})
     return out

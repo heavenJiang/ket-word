@@ -115,6 +115,8 @@ content/stories/<id>.json           岛屿故事：页面文字、插图描述�
 
 运行：`WHISPER_MODEL=<faster-whisper small.en 目录> python3 scripts/ket/gen_audio.py`（需要 `pip install faster-whisper numpy` 和 ffmpeg；模型可从 hf-mirror.com 下载）。已录过且没改动的句子会跳过，改了句子或换了音色会重录。
 
+故事每页也用 Higgs 录音（`scripts/ket/gen_story_audio.py`，旁白音色，按句录、每句 Whisper 挑最好的一遍、句间停 0.35 秒），并用 Whisper 逐词时间戳生成 `marks`，阅读时按播放进度点亮正在读的词；清单在 `content/audio/stories.json`，文件在 `public/media/story/`。没有录音的页才退回浏览器语音。
+
 ## 授权与署名
 
 - 词表依据 Cambridge English *A2 Key and A2 Key for Schools Vocabulary List*（August 2025），© UCLES。
