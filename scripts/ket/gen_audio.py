@@ -2,6 +2,7 @@
 
 Usage:
     python3 scripts/ket/gen_audio.py [--only animals,food] [--limit 20]
+    python3 scripts/ket/gen_audio.py --redo "Grandpa stops smoking." --seed 7   # retake one, kept only if it scores better
 
 Voices and settings come from a listening test against ChatTTS (2026-10-29, see README): the server's
 defaults (temperature 0.3, top_p 0.95, top_k 50, quiet indoor scene) and one built-in voice per speaker.
@@ -11,7 +12,8 @@ MAX_TRIES is kept. content/audio/sentences.json records each sentence's file, vo
 files are reused, so runs resume and only new or edited sentences are recorded.
 
 Env: HIGGS_URL (default: the generation box on the LAN), WHISPER_MODEL (a faster-whisper model folder).
-Needs: pip install faster-whisper numpy; ffmpeg on PATH.
+Needs: pip install faster-whisper numpy "av<14" (newer av drops an argument faster-whisper passes); ffmpeg on PATH.
+    uv run --no-project --python 3.12 --with faster-whisper --with numpy --with "av<14" python scripts/ket/gen_audio.py
 """
 
 from __future__ import annotations
@@ -112,13 +114,13 @@ def name(text: str, speaker: str) -> str:
     return hashlib.sha1(key.encode()).hexdigest()[:12] + ".mp3"
 
 
-def record(text: str, speaker: str) -> dict:
+def record(text: str, speaker: str, seed: int = 42) -> dict:
     """Best of up to MAX_TRIES takes, judged by Whisper."""
     best: dict | None = None
     with tempfile.TemporaryDirectory() as tmp:
         for k in range(MAX_TRIES):
             wav = Path(tmp) / f"{k}.wav"
-            synth(text, speaker, 42 + k * 1000, wav)
+            synth(text, speaker, seed + k * 1000, wav)
             hyp = transcribe(wav)
             take = {"wav": wav, "hyp": hyp, "cer": cer(text, hyp), "tries": k + 1}
             if best is None or take["cer"] < best["cer"]:
@@ -134,6 +136,8 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", default="", help="comma-separated topics")
     ap.add_argument("--limit", type=int, default=0, help="record at most this many new sentences")
+    ap.add_argument("--redo", action="append", default=[], help="re-record this sentence (repeatable); the old take stays unless the new one scores better")
+    ap.add_argument("--seed", type=int, default=42, help="first seed; a new one gives --redo different takes")
     a = ap.parse_args()
     only = {x for x in a.only.split(",") if x}
     speakers = json.loads((AUDIO / "speakers.json").read_text(encoding="utf-8"))["speakers"]
@@ -151,12 +155,20 @@ def main() -> None:
                 have = manifest.get(en)
                 if en not in todo and not (have and have["file"] == name(en, speaker) and (OUT / have["file"]).exists()):
                     todo.append(en)
+    if a.redo:
+        todo = a.redo
     if a.limit:
         todo = todo[: a.limit]
     print(f"{len(todo)} sentences to record at {URL}")
     for i, en in enumerate(todo, 1):
         t = time.time()
-        rec = record(en, speakers.get(en, "narrator"))
+        old = manifest.get(en) if a.redo else None
+        keep = (OUT / old["file"]).read_bytes() if old and (OUT / old["file"]).exists() else None
+        rec = record(en, speakers.get(en, "narrator"), a.seed)
+        if keep and rec["file"] == old["file"] and rec["cer"] >= old["cer"]:
+            (OUT / old["file"]).write_bytes(keep)
+            print(f"  kept the old take (cer {old['cer']:.2f}; new {rec['cer']:.2f}, heard: {rec['heard']})")
+            rec = old
         manifest[en] = rec
         manifest_path.write_text(json.dumps(manifest, indent=1, ensure_ascii=False, sort_keys=True), encoding="utf-8")
         flag = "" if rec["cer"] <= GOOD_CER else f"  ⚠ heard: {rec['heard']}"
