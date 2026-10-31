@@ -66,7 +66,7 @@ export function OfflinePanel({ words, stories }: { words: Word[]; stories: Story
     <section className="card">
       <h3>离线使用</h3>
       <p className="muted small">
-        学过的图片和声音会自动保存。出门前可以一次下载全部（约 {Math.round(urls.length * 0.013)} MB），没有网络也能学。
+        学过的图片和声音会自动保存。出门前可以一次下载全部（约 {Math.round(urls.length * 0.016)} MB，建议连着 Wi-Fi），没有网络也能学。
         平板浏览器里选“添加到主屏幕”，就能像 App 一样打开。
       </p>
       <div className="bar">
