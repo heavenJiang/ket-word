@@ -3,10 +3,18 @@ import type { Accent, Sentence, Word } from "../types";
 const base = import.meta.env.BASE_URL;
 let current: HTMLAudioElement | null = null;
 
-function stop() {
+/** Stop whatever is playing, so two sounds never overlap. */
+export function stop() {
   current?.pause();
   current = null;
   if ("speechSynthesis" in window) speechSynthesis.cancel();
+}
+
+/** Play the child's own recording through the same single player as everything else. */
+export function playRecording(url: string): void {
+  stop();
+  current = new Audio(url);
+  current.play().catch(() => {});
 }
 
 /** Read text aloud with the browser's voice; used for sentences and words without a recording. */
