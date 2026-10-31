@@ -666,6 +666,7 @@
     "uk": "media/uk/sentence.mp3",
     "us": "media/us/sentence.mp3"
    },
+   "spell": true,
    "avoid": [
     "spelling",
     "vocabulary",
@@ -830,6 +831,7 @@
     "uk": "media/uk/word.mp3",
     "us": "media/us/word.mp3"
    },
+   "spell": true,
    "avoid": [
     "sentence",
     "spelling",
@@ -1030,6 +1032,7 @@
     "uk": "media/uk/example.mp3",
     "us": "media/us/example.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1077,6 +1080,7 @@
     "uk": "media/uk/fact.mp3",
     "us": "media/us/fact.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1173,6 +1177,7 @@
     "uk": "media/uk/mistake.mp3",
     "us": "media/us/mistake.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1320,6 +1325,7 @@
     "uk": "media/uk/list.mp3",
     "us": "media/us/list.mp3"
    },
+   "spell": true,
    "avoid": [
     "document",
     "notice",
@@ -1475,6 +1481,7 @@
     "uk": "media/uk/story.mp3",
     "us": "media/us/story.mp3"
    },
+   "spell": true,
    "avoid": [
     "page"
    ]
@@ -1526,6 +1533,7 @@
     "uk": "media/uk/writing.mp3",
     "us": "media/us/writing.mp3"
    },
+   "spell": true,
    "avoid": [
     "sentence",
     "spelling",
@@ -1677,6 +1685,7 @@
     "uk": "media/uk/money.mp3",
     "us": "media/us/money.mp3"
    },
+   "spell": true,
    "avoid": [
     "pence"
    ]
@@ -1826,6 +1835,7 @@
     "uk": "media/uk/help.mp3",
     "us": "media/us/help.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

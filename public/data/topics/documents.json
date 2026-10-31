@@ -101,6 +101,7 @@
     "uk": "media/uk/card.mp3",
     "us": "media/us/card.mp3"
    },
+   "spell": true,
    "avoid": [
     "letter",
     "postcard"
@@ -309,6 +310,7 @@
     "uk": "media/uk/newspaper.mp3",
     "us": "media/us/newspaper.mp3"
    },
+   "spell": true,
    "avoid": [
     "article",
     "magazine"
@@ -361,6 +363,7 @@
     "uk": "media/uk/notebook.mp3",
     "us": "media/us/notebook.mp3"
    },
+   "spell": true,
    "avoid": [
     "diary",
     "note"
@@ -413,6 +416,7 @@
     "uk": "media/uk/postcard.mp3",
     "us": "media/us/postcard.mp3"
    },
+   "spell": true,
    "avoid": [
     "card",
     "letter"
@@ -679,6 +683,7 @@
     "uk": "media/uk/book.mp3",
     "us": "media/us/book.mp3"
    },
+   "spell": true,
    "avoid": [
     "comic",
     "textbook"
@@ -839,6 +844,7 @@
     "uk": "media/uk/email.mp3",
     "us": "media/us/email.mp3"
    },
+   "spell": true,
    "avoid": [
     "message",
     "text"
@@ -891,6 +897,7 @@
     "uk": "media/uk/letter.mp3",
     "us": "media/us/letter.mp3"
    },
+   "spell": true,
    "avoid": [
     "card",
     "postcard"
@@ -944,6 +951,7 @@
     "uk": "media/uk/magazine.mp3",
     "us": "media/us/magazine.mp3"
    },
+   "spell": true,
    "avoid": [
     "article",
     "newspaper"
@@ -996,6 +1004,7 @@
     "uk": "media/uk/menu.mp3",
     "us": "media/us/menu.mp3"
    },
+   "spell": true,
    "avoid": [
     "bill"
    ]
@@ -1049,6 +1058,7 @@
     "uk": "media/uk/message.mp3",
     "us": "media/us/message.mp3"
    },
+   "spell": true,
    "avoid": [
     "email",
     "text"
@@ -1102,6 +1112,7 @@
     "uk": "media/uk/note.mp3",
     "us": "media/us/note.mp3"
    },
+   "spell": true,
    "avoid": [
     "diary",
     "notebook"
@@ -1310,6 +1321,7 @@
     "uk": "media/uk/ticket.mp3",
     "us": "media/us/ticket.mp3"
    },
+   "spell": true,
    "avoid": [
     "bill",
     "form"

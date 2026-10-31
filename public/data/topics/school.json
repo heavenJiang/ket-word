@@ -101,6 +101,7 @@
     "uk": "media/uk/beginner.mp3",
     "us": "media/us/beginner.mp3"
    },
+   "spell": true,
    "avoid": [
     "advanced",
     "classmate",
@@ -215,6 +216,7 @@
     "uk": "media/uk/blackboard.mp3",
     "us": "media/us/blackboard.mp3"
    },
+   "spell": true,
    "avoid": [
     "board"
    ]
@@ -323,6 +325,7 @@
     "uk": "media/uk/book.mp3",
     "us": "media/us/book.mp3"
    },
+   "spell": true,
    "avoid": [
     "book.2",
     "bookshelf",
@@ -550,6 +553,7 @@
     "uk": "media/uk/class.mp3",
     "us": "media/us/class.mp3"
    },
+   "spell": true,
    "avoid": [
     "classmate",
     "classroom",
@@ -661,6 +665,7 @@
     "uk": "media/uk/classroom.mp3",
     "us": "media/us/classroom.mp3"
    },
+   "spell": true,
    "avoid": [
     "class",
     "classmate",
@@ -822,6 +827,7 @@
     "uk": "media/uk/college.mp3",
     "us": "media/us/college.mp3"
    },
+   "spell": true,
    "avoid": [
     "diploma",
     "school",
@@ -874,6 +880,7 @@
     "uk": "media/uk/course.mp3",
     "us": "media/us/course.mp3"
    },
+   "spell": true,
    "avoid": [
     "class",
     "classmate",
@@ -927,6 +934,7 @@
     "uk": "media/uk/desk.mp3",
     "us": "media/us/desk.mp3"
    },
+   "spell": true,
    "avoid": [
     "eraser",
     "rubber",
@@ -982,6 +990,7 @@
     "uk": "media/uk/dictionary.mp3",
     "us": "media/us/dictionary.mp3"
    },
+   "spell": true,
    "avoid": [
     "book",
     "book.2",
@@ -1090,6 +1099,7 @@
     "uk": "media/uk/eraser.mp3",
     "us": "media/us/eraser.mp3"
    },
+   "spell": true,
    "avoid": [
     "desk",
     "rubber",
@@ -1200,6 +1210,7 @@
     "uk": "media/uk/geography.mp3",
     "us": "media/us/geography.mp3"
    },
+   "spell": true,
    "avoid": [
     "biology",
     "chemistry",
@@ -1258,6 +1269,7 @@
     "uk": "media/uk/history.mp3",
     "us": "media/us/history.mp3"
    },
+   "spell": true,
    "avoid": [
     "biology",
     "chemistry",
@@ -1315,6 +1327,7 @@
     "uk": "media/uk/homework.mp3",
     "us": "media/us/homework.mp3"
    },
+   "spell": true,
    "avoid": [
     "note",
     "project"
@@ -1369,6 +1382,7 @@
     "uk": "media/uk/information.mp3",
     "us": "media/us/information.mp3"
    },
+   "spell": true,
    "avoid": [
     "instructions"
    ]
@@ -1469,6 +1483,7 @@
     "uk": "media/uk/know.mp3",
     "us": "media/us/know.mp3"
    },
+   "spell": true,
    "avoid": [
     "remember"
    ]
@@ -1520,6 +1535,7 @@
     "uk": "media/uk/language.mp3",
     "us": "media/us/language.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1568,6 +1584,7 @@
     "uk": "media/uk/learn.mp3",
     "us": "media/us/learn.mp3"
    },
+   "spell": true,
    "avoid": [
     "read",
     "studies",
@@ -1621,6 +1638,7 @@
     "uk": "media/uk/lesson.mp3",
     "us": "media/us/lesson.mp3"
    },
+   "spell": true,
    "avoid": [
     "class",
     "classmate",
@@ -1729,6 +1747,7 @@
     "uk": "media/uk/library.mp3",
     "us": "media/us/library.mp3"
    },
+   "spell": true,
    "avoid": [
     "book",
     "book.2",
@@ -1840,6 +1859,7 @@
     "uk": "media/uk/maths.mp3",
     "us": "media/us/maths.mp3"
    },
+   "spell": true,
    "avoid": [
     "biology",
     "chemistry",
@@ -1898,6 +1918,7 @@
     "uk": "media/uk/note.mp3",
     "us": "media/us/note.mp3"
    },
+   "spell": true,
    "avoid": [
     "homework",
     "project"
@@ -2058,6 +2079,7 @@
     "uk": "media/uk/practise.mp3",
     "us": "media/us/practise.mp3"
    },
+   "spell": true,
    "avoid": [
     "practice"
    ]
@@ -2213,6 +2235,7 @@
     "uk": "media/uk/read.mp3",
     "us": "media/us/read.mp3"
    },
+   "spell": true,
    "avoid": [
     "learn",
     "studies",
@@ -2267,6 +2290,7 @@
     "uk": "media/uk/remember.mp3",
     "us": "media/us/remember.mp3"
    },
+   "spell": true,
    "avoid": [
     "know"
    ]
@@ -2371,6 +2395,7 @@
     "uk": "media/uk/ruler.mp3",
     "us": "media/us/ruler.mp3"
    },
+   "spell": true,
    "avoid": [
     "desk",
     "eraser",
@@ -2423,6 +2448,7 @@
     "uk": "media/uk/school.mp3",
     "us": "media/us/school.mp3"
    },
+   "spell": true,
    "avoid": [
     "college",
     "university"
@@ -2475,6 +2501,7 @@
     "uk": "media/uk/science.mp3",
     "us": "media/us/science.mp3"
    },
+   "spell": true,
    "avoid": [
     "biology",
     "chemistry",
@@ -2532,6 +2559,7 @@
     "uk": "media/uk/student.mp3",
     "us": "media/us/student.mp3"
    },
+   "spell": true,
    "avoid": [
     "beginner",
     "classmate",
@@ -2636,6 +2664,7 @@
     "uk": "media/uk/study.mp3",
     "us": "media/us/study.mp3"
    },
+   "spell": true,
    "avoid": [
     "learn",
     "read",
@@ -2745,6 +2774,7 @@
     "uk": "media/uk/teach.mp3",
     "us": "media/us/teach.mp3"
    },
+   "spell": true,
    "avoid": [
     "coach",
     "teacher"
@@ -2797,6 +2827,7 @@
     "uk": "media/uk/teacher.mp3",
     "us": "media/us/teacher.mp3"
    },
+   "spell": true,
    "avoid": [
     "coach",
     "teach"
@@ -2898,6 +2929,7 @@
     "uk": "media/uk/test.mp3",
     "us": "media/us/test.mp3"
    },
+   "spell": true,
    "avoid": [
     "examination",
     "mark"
@@ -2953,6 +2985,7 @@
     "uk": "media/uk/university.mp3",
     "us": "media/us/university.mp3"
    },
+   "spell": true,
    "avoid": [
     "college",
     "diploma",

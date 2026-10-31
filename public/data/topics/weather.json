@@ -103,6 +103,7 @@
     "uk": "media/uk/cloudy.mp3",
     "us": "media/us/cloudy.mp3"
    },
+   "spell": true,
    "avoid": [
     "cloud"
    ]
@@ -161,6 +162,7 @@
     "uk": "media/uk/cold.mp3",
     "us": "media/us/cold.mp3"
    },
+   "spell": true,
    "avoid": [
     "ice",
     "snow"
@@ -313,6 +315,7 @@
     "uk": "media/uk/hot.mp3",
     "us": "media/us/hot.mp3"
    },
+   "spell": true,
    "avoid": [
     "sunny",
     "warm"
@@ -364,6 +367,7 @@
     "uk": "media/uk/ice.mp3",
     "us": "media/us/ice.mp3"
    },
+   "spell": true,
    "avoid": [
     "cold",
     "snow"
@@ -417,6 +421,7 @@
     "uk": "media/uk/rain.mp3",
     "us": "media/us/rain.mp3"
    },
+   "spell": true,
    "avoid": [
     "cloud",
     "snow",
@@ -476,6 +481,7 @@
     "uk": "media/uk/snow.mp3",
     "us": "media/us/snow.mp3"
    },
+   "spell": true,
    "avoid": [
     "cloud",
     "cold",
@@ -583,6 +589,7 @@
     "uk": "media/uk/sun.mp3",
     "us": "media/us/sun.mp3"
    },
+   "spell": true,
    "avoid": [
     "cloud",
     "rain",
@@ -639,6 +646,7 @@
     "uk": "media/uk/sunny.mp3",
     "us": "media/us/sunny.mp3"
    },
+   "spell": true,
    "avoid": [
     "hot",
     "sun",
@@ -744,6 +752,7 @@
     "uk": "media/uk/warm.mp3",
     "us": "media/us/warm.mp3"
    },
+   "spell": true,
    "avoid": [
     "hot",
     "sunny"
@@ -796,6 +805,7 @@
     "uk": "media/uk/weather.mp3",
     "us": "media/us/weather.mp3"
    },
+   "spell": true,
    "avoid": [
     "cloud",
     "rain",
@@ -850,6 +860,7 @@
     "uk": "media/uk/wet.mp3",
     "us": "media/us/wet.mp3"
    },
+   "spell": true,
    "avoid": [
     "rain"
    ]

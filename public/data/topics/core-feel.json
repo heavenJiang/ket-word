@@ -205,6 +205,7 @@
     "uk": "media/uk/exciting.mp3",
     "us": "media/us/exciting.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1181,6 +1182,7 @@
     "uk": "media/uk/wonderful.mp3",
     "us": "media/us/wonderful.mp3"
    },
+   "spell": true,
    "avoid": [
     "awesome",
     "fantastic",
@@ -1385,6 +1387,7 @@
     "uk": "media/uk/healthy.mp3",
     "us": "media/us/healthy.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1790,6 +1793,7 @@
     "uk": "media/uk/dear.mp3",
     "us": "media/us/dear.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

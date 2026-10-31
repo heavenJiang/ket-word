@@ -153,6 +153,7 @@
     "uk": "media/uk/phone.mp3",
     "us": "media/us/phone.mp3"
    },
+   "spell": true,
    "avoid": [
     "cell-phone",
     "mobile",
@@ -209,6 +210,7 @@
     "uk": "media/uk/telephone.mp3",
     "us": "media/us/telephone.mp3"
    },
+   "spell": true,
    "avoid": [
     "cell-phone",
     "mobile",
@@ -316,6 +318,7 @@
     "uk": "media/uk/camera.mp3",
     "us": "media/us/camera.mp3"
    },
+   "spell": true,
    "avoid": [
     "digital-camera"
    ]
@@ -472,6 +475,7 @@
     "uk": "media/uk/computer.mp3",
     "us": "media/us/computer.mp3"
    },
+   "spell": true,
    "avoid": [
     "laptop",
     "pc"
@@ -525,6 +529,7 @@
     "uk": "media/uk/radio.mp3",
     "us": "media/us/radio.mp3"
    },
+   "spell": true,
    "avoid": [
     "television",
     "video"
@@ -579,6 +584,7 @@
     "uk": "media/uk/television.mp3",
     "us": "media/us/television.mp3"
    },
+   "spell": true,
    "avoid": [
     "radio",
     "video"
@@ -632,6 +638,7 @@
     "uk": "media/uk/video.mp3",
     "us": "media/us/video.mp3"
    },
+   "spell": true,
    "avoid": [
     "radio",
     "television"
@@ -940,6 +947,7 @@
     "uk": "media/uk/clock.mp3",
     "us": "media/us/clock.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1142,6 +1150,7 @@
     "uk": "media/uk/fridge.mp3",
     "us": "media/us/fridge.mp3"
    },
+   "spell": true,
    "avoid": [
     "cooker",
     "oven",
@@ -1353,6 +1362,7 @@
     "uk": "media/uk/light.mp3",
     "us": "media/us/light.mp3"
    },
+   "spell": true,
    "avoid": [
     "lamp"
    ]

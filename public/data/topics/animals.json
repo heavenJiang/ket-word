@@ -49,6 +49,7 @@
     "uk": "media/uk/animal.mp3",
     "us": "media/us/animal.mp3"
    },
+   "spell": true,
    "avoid": [
     "cat",
     "cow",
@@ -263,6 +264,7 @@
     "uk": "media/uk/bird.mp3",
     "us": "media/us/bird.mp3"
    },
+   "spell": true,
    "avoid": [
     "chicken",
     "duck",
@@ -420,6 +422,7 @@
     "uk": "media/uk/cat.mp3",
     "us": "media/us/cat.mp3"
    },
+   "spell": true,
    "avoid": [
     "animal",
     "cow",
@@ -477,6 +480,7 @@
     "uk": "media/uk/chicken.mp3",
     "us": "media/us/chicken.mp3"
    },
+   "spell": true,
    "avoid": [
     "bird",
     "duck",
@@ -532,6 +536,7 @@
     "uk": "media/uk/cow.mp3",
     "us": "media/us/cow.mp3"
    },
+   "spell": true,
    "avoid": [
     "animal",
     "cat",
@@ -690,6 +695,7 @@
     "uk": "media/uk/dog.mp3",
     "us": "media/us/dog.mp3"
    },
+   "spell": true,
    "avoid": [
     "animal",
     "cat",
@@ -857,6 +863,7 @@
     "uk": "media/uk/elephant.mp3",
     "us": "media/us/elephant.mp3"
    },
+   "spell": true,
    "avoid": [
     "giraffe",
     "zoo"
@@ -915,6 +922,7 @@
     "uk": "media/uk/fish.mp3",
     "us": "media/us/fish.mp3"
    },
+   "spell": true,
    "avoid": [
     "dolphin",
     "shark",
@@ -1020,6 +1028,7 @@
     "uk": "media/uk/giraffe.mp3",
     "us": "media/us/giraffe.mp3"
    },
+   "spell": true,
    "avoid": [
     "elephant",
     "zoo"
@@ -1121,6 +1130,7 @@
     "uk": "media/uk/horse.mp3",
     "us": "media/us/horse.mp3"
    },
+   "spell": true,
    "avoid": [
     "zebra"
    ]
@@ -1328,6 +1338,7 @@
     "uk": "media/uk/lion.mp3",
     "us": "media/us/lion.mp3"
    },
+   "spell": true,
    "avoid": [
     "wild"
    ]
@@ -1379,6 +1390,7 @@
     "uk": "media/uk/monkey.mp3",
     "us": "media/us/monkey.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1427,6 +1439,7 @@
     "uk": "media/uk/mouse.mp3",
     "us": "media/us/mouse.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1587,6 +1600,7 @@
     "uk": "media/uk/pet.mp3",
     "us": "media/us/pet.mp3"
    },
+   "spell": true,
    "avoid": [
     "cat",
     "dog",
@@ -1750,6 +1764,7 @@
     "uk": "media/uk/rabbit.mp3",
     "us": "media/us/rabbit.mp3"
    },
+   "spell": true,
    "avoid": [
     "animal",
     "cat",
@@ -1856,6 +1871,7 @@
     "uk": "media/uk/sheep.mp3",
     "us": "media/us/sheep.mp3"
    },
+   "spell": true,
    "avoid": [
     "goat"
    ]
@@ -2120,6 +2136,7 @@
     "uk": "media/uk/tiger.mp3",
     "us": "media/us/tiger.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

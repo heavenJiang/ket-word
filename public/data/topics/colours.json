@@ -54,6 +54,7 @@
     "uk": "media/uk/black.mp3",
     "us": "media/us/black.mp3"
    },
+   "spell": true,
    "avoid": [
     "dark"
    ]
@@ -111,6 +112,7 @@
     "uk": "media/uk/blue.mp3",
     "us": "media/us/blue.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -166,6 +168,7 @@
     "uk": "media/uk/brown.mp3",
     "us": "media/us/brown.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -214,6 +217,7 @@
     "uk": "media/uk/dark.mp3",
     "us": "media/us/dark.mp3"
    },
+   "spell": true,
    "avoid": [
     "black",
     "light",
@@ -320,6 +324,7 @@
     "uk": "media/uk/green.mp3",
     "us": "media/us/green.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -375,6 +380,7 @@
     "uk": "media/uk/grey.mp3",
     "us": "media/us/grey.mp3"
    },
+   "spell": true,
    "avoid": [
     "silver",
     "white"
@@ -434,6 +440,7 @@
     "uk": "media/uk/light.mp3",
     "us": "media/us/light.mp3"
    },
+   "spell": true,
    "avoid": [
     "dark",
     "light.2",
@@ -557,6 +564,7 @@
     "uk": "media/uk/orange.mp3",
     "us": "media/us/orange.mp3"
    },
+   "spell": true,
    "avoid": [
     "golden",
     "yellow"
@@ -661,6 +669,7 @@
     "uk": "media/uk/pink.mp3",
     "us": "media/us/pink.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -710,6 +719,7 @@
     "uk": "media/uk/purple.mp3",
     "us": "media/us/purple.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -758,6 +768,7 @@
     "uk": "media/uk/red.mp3",
     "us": "media/us/red.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -865,6 +876,7 @@
     "uk": "media/uk/white.mp3",
     "us": "media/us/white.mp3"
    },
+   "spell": true,
    "avoid": [
     "dark",
     "grey",
@@ -921,6 +933,7 @@
     "uk": "media/uk/yellow.mp3",
     "us": "media/us/yellow.mp3"
    },
+   "spell": true,
    "avoid": [
     "golden",
     "orange"

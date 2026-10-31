@@ -47,6 +47,7 @@
     "uk": "media/uk/come.mp3",
     "us": "media/us/come.mp3"
    },
+   "spell": true,
    "avoid": [
     "arrive",
     "come-back",
@@ -197,6 +198,7 @@
     "uk": "media/uk/arrive.mp3",
     "us": "media/us/arrive.mp3"
    },
+   "spell": true,
    "avoid": [
     "come",
     "come-back",
@@ -249,6 +251,7 @@
     "uk": "media/uk/bring.mp3",
     "us": "media/us/bring.mp3"
    },
+   "spell": true,
    "avoid": [
     "bring-back",
     "carry"
@@ -351,6 +354,7 @@
     "uk": "media/uk/carry.mp3",
     "us": "media/us/carry.mp3"
    },
+   "spell": true,
    "avoid": [
     "bring",
     "bring-back"
@@ -552,6 +556,7 @@
     "uk": "media/uk/follow.mp3",
     "us": "media/us/follow.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -600,6 +605,7 @@
     "uk": "media/uk/get.mp3",
     "us": "media/us/get.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1144,6 +1150,7 @@
     "uk": "media/uk/put.mp3",
     "us": "media/us/put.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1192,6 +1199,7 @@
     "uk": "media/uk/sit.mp3",
     "us": "media/us/sit.mp3"
    },
+   "spell": true,
    "avoid": [
     "sit-down"
    ]
@@ -1291,6 +1299,7 @@
     "uk": "media/uk/stand.mp3",
     "us": "media/us/stand.mp3"
    },
+   "spell": true,
    "avoid": [
     "get-up"
    ]
@@ -1341,6 +1350,7 @@
     "uk": "media/uk/turn.mp3",
     "us": "media/us/turn.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1583,6 +1593,7 @@
     "uk": "media/uk/wait.mp3",
     "us": "media/us/wait.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1780,6 +1791,7 @@
     "uk": "media/uk/walking.mp3",
     "us": "media/us/walking.mp3"
    },
+   "spell": true,
    "avoid": [
     "climbing",
     "running"

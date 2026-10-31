@@ -45,6 +45,7 @@
     "uk": "media/uk/africa.mp3",
     "us": "media/us/africa.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -138,6 +139,7 @@
     "uk": "media/uk/asia.mp3",
     "us": "media/us/asia.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -185,6 +187,7 @@
     "uk": "media/uk/australia.mp3",
     "us": "media/us/australia.mp3"
    },
+   "spell": true,
    "avoid": [
     "australian"
    ]
@@ -232,6 +235,7 @@
     "uk": "media/uk/europe.mp3",
     "us": "media/us/europe.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -375,6 +379,7 @@
     "uk": "media/uk/china.mp3",
     "us": "media/us/china.mp3"
    },
+   "spell": true,
    "avoid": [
     "chinese"
    ]
@@ -468,6 +473,7 @@
     "uk": "media/uk/canada.mp3",
     "us": "media/us/canada.mp3"
    },
+   "spell": true,
    "avoid": [
     "canadian"
    ]
@@ -514,6 +520,7 @@
     "uk": "media/uk/france.mp3",
     "us": "media/us/france.mp3"
    },
+   "spell": true,
    "avoid": [
     "french"
    ]
@@ -656,6 +663,7 @@
     "uk": "media/uk/italy.mp3",
     "us": "media/us/italy.mp3"
    },
+   "spell": true,
    "avoid": [
     "italian"
    ]
@@ -702,6 +710,7 @@
     "uk": "media/uk/spain.mp3",
     "us": "media/us/spain.mp3"
    },
+   "spell": true,
    "avoid": [
     "spanish"
    ]
@@ -749,6 +758,7 @@
     "uk": "media/uk/england.mp3",
     "us": "media/us/england.mp3"
    },
+   "spell": true,
    "avoid": [
     "britain"
    ]
@@ -796,6 +806,7 @@
     "uk": "media/uk/britain.mp3",
     "us": "media/us/britain.mp3"
    },
+   "spell": true,
    "avoid": [
     "england"
    ]
@@ -845,6 +856,7 @@
     "uk": "media/uk/america.mp3",
     "us": "media/us/america.mp3"
    },
+   "spell": true,
    "avoid": [
     "american",
     "north-america",
@@ -894,6 +906,7 @@
     "uk": "media/uk/japan.mp3",
     "us": "media/us/japan.mp3"
    },
+   "spell": true,
    "avoid": [
     "japanese"
    ]
@@ -952,6 +965,7 @@
     "uk": "media/uk/chinese.mp3",
     "us": "media/us/chinese.mp3"
    },
+   "spell": true,
    "avoid": [
     "china"
    ]
@@ -1105,6 +1119,7 @@
     "uk": "media/uk/french.mp3",
     "us": "media/us/french.mp3"
    },
+   "spell": true,
    "avoid": [
     "france"
    ]
@@ -1260,6 +1275,7 @@
     "uk": "media/uk/italian.mp3",
     "us": "media/us/italian.mp3"
    },
+   "spell": true,
    "avoid": [
     "italy"
    ]
@@ -1318,6 +1334,7 @@
     "uk": "media/uk/spanish.mp3",
     "us": "media/us/spanish.mp3"
    },
+   "spell": true,
    "avoid": [
     "spain"
    ]
@@ -1376,6 +1393,7 @@
     "uk": "media/uk/english.mp3",
     "us": "media/us/english.mp3"
    },
+   "spell": true,
    "avoid": [
     "british"
    ]
@@ -1423,6 +1441,7 @@
     "uk": "media/uk/british.mp3",
     "us": "media/us/british.mp3"
    },
+   "spell": true,
    "avoid": [
     "english"
    ]
@@ -1472,6 +1491,7 @@
     "uk": "media/uk/american.mp3",
     "us": "media/us/american.mp3"
    },
+   "spell": true,
    "avoid": [
     "america"
    ]
@@ -1521,6 +1541,7 @@
     "uk": "media/uk/australian.mp3",
     "us": "media/us/australian.mp3"
    },
+   "spell": true,
    "avoid": [
     "australia"
    ]
@@ -1580,6 +1601,7 @@
     "uk": "media/uk/japanese.mp3",
     "us": "media/us/japanese.mp3"
    },
+   "spell": true,
    "avoid": [
     "japan"
    ]

@@ -48,6 +48,7 @@
     "uk": "media/uk/address.mp3",
     "us": "media/us/address.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -203,6 +204,7 @@
     "uk": "media/uk/bath.mp3",
     "us": "media/us/bath.mp3"
    },
+   "spell": true,
    "avoid": [
     "bathroom",
     "bathtub",
@@ -258,6 +260,7 @@
     "uk": "media/uk/bathroom.mp3",
     "us": "media/us/bathroom.mp3"
    },
+   "spell": true,
    "avoid": [
     "bath",
     "bathtub",
@@ -363,6 +366,7 @@
     "uk": "media/uk/bed.mp3",
     "us": "media/us/bed.mp3"
    },
+   "spell": true,
    "avoid": [
     "bedroom",
     "blanket",
@@ -416,6 +420,7 @@
     "uk": "media/uk/bedroom.mp3",
     "us": "media/us/bedroom.mp3"
    },
+   "spell": true,
    "avoid": [
     "bed",
     "blanket",
@@ -729,6 +734,7 @@
     "uk": "media/uk/box.mp3",
     "us": "media/us/box.mp3"
    },
+   "spell": true,
    "avoid": [
     "cupboard",
     "drawer",
@@ -832,6 +838,7 @@
     "uk": "media/uk/chair.mp3",
     "us": "media/us/chair.mp3"
    },
+   "spell": true,
    "avoid": [
     "armchair",
     "furniture",
@@ -884,6 +891,7 @@
     "uk": "media/uk/clock.mp3",
     "us": "media/us/clock.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -934,6 +942,7 @@
     "uk": "media/uk/computer.mp3",
     "us": "media/us/computer.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1136,6 +1145,7 @@
     "uk": "media/uk/desk.mp3",
     "us": "media/us/desk.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1239,6 +1249,7 @@
     "uk": "media/uk/door.mp3",
     "us": "media/us/door.mp3"
    },
+   "spell": true,
    "avoid": [
     "entrance",
     "gate"
@@ -1291,6 +1302,7 @@
     "uk": "media/uk/downstairs.mp3",
     "us": "media/us/downstairs.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1554,6 +1566,7 @@
     "uk": "media/uk/flat.mp3",
     "us": "media/us/flat.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "home",
@@ -1606,6 +1619,7 @@
     "uk": "media/uk/floor.mp3",
     "us": "media/us/floor.mp3"
    },
+   "spell": true,
    "avoid": [
     "carpet"
    ]
@@ -1656,6 +1670,7 @@
     "uk": "media/uk/fridge.mp3",
     "us": "media/us/fridge.mp3"
    },
+   "spell": true,
    "avoid": [
     "refrigerator"
    ]
@@ -1812,6 +1827,7 @@
     "uk": "media/uk/garden.mp3",
     "us": "media/us/garden.mp3"
    },
+   "spell": true,
    "avoid": [
     "garage"
    ]
@@ -2073,6 +2089,7 @@
     "uk": "media/uk/home.mp3",
     "us": "media/us/home.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "flat",
@@ -2127,6 +2144,7 @@
     "uk": "media/uk/house.mp3",
     "us": "media/us/house.mp3"
    },
+   "spell": true,
    "avoid": [
     "apartment",
     "flat",
@@ -2180,6 +2198,7 @@
     "uk": "media/uk/key.mp3",
     "us": "media/us/key.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2229,6 +2248,7 @@
     "uk": "media/uk/kitchen.mp3",
     "us": "media/us/kitchen.mp3"
    },
+   "spell": true,
    "avoid": [
     "bedroom",
     "dining-room",
@@ -2342,6 +2362,7 @@
     "uk": "media/uk/light.mp3",
     "us": "media/us/light.mp3"
    },
+   "spell": true,
    "avoid": [
     "lamp"
    ]
@@ -2392,6 +2413,7 @@
     "uk": "media/uk/live.mp3",
     "us": "media/us/live.mp3"
    },
+   "spell": true,
    "avoid": [
     "home",
     "stay"
@@ -2707,6 +2729,7 @@
     "uk": "media/uk/room.mp3",
     "us": "media/us/room.mp3"
    },
+   "spell": true,
    "avoid": [
     "bedroom",
     "dining-room",
@@ -2916,6 +2939,7 @@
     "uk": "media/uk/shower.mp3",
     "us": "media/us/shower.mp3"
    },
+   "spell": true,
    "avoid": [
     "bath",
     "bathroom",
@@ -3075,6 +3099,7 @@
     "uk": "media/uk/sofa.mp3",
     "us": "media/us/sofa.mp3"
    },
+   "spell": true,
    "avoid": [
     "armchair",
     "chair",
@@ -3127,6 +3152,7 @@
     "uk": "media/uk/stay.mp3",
     "us": "media/us/stay.mp3"
    },
+   "spell": true,
    "avoid": [
     "home",
     "live"
@@ -3179,6 +3205,7 @@
     "uk": "media/uk/toilet.mp3",
     "us": "media/us/toilet.mp3"
    },
+   "spell": true,
    "avoid": [
     "bath",
     "sink"

@@ -178,6 +178,7 @@
     "uk": "media/uk/and.mp3",
     "us": "media/us/and.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -225,6 +226,7 @@
     "uk": "media/uk/but.mp3",
     "us": "media/us/but.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -272,6 +274,7 @@
     "uk": "media/uk/or.mp3",
     "us": "media/us/or.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -321,6 +324,7 @@
     "uk": "media/uk/so.mp3",
     "us": "media/us/so.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -369,6 +373,7 @@
     "uk": "media/uk/because.mp3",
     "us": "media/us/because.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -462,6 +467,7 @@
     "uk": "media/uk/if.mp3",
     "us": "media/us/if.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -513,6 +519,7 @@
     "uk": "media/uk/as.mp3",
     "us": "media/us/as.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -562,6 +569,7 @@
     "uk": "media/uk/than.mp3",
     "us": "media/us/than.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -791,6 +799,7 @@
     "uk": "media/uk/from.mp3",
     "us": "media/us/from.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -882,6 +891,7 @@
     "uk": "media/uk/with.mp3",
     "us": "media/us/with.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -930,6 +940,7 @@
     "uk": "media/uk/without.mp3",
     "us": "media/us/without.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -977,6 +988,7 @@
     "uk": "media/uk/by.mp3",
     "us": "media/us/by.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1167,6 +1179,7 @@
     "uk": "media/uk/also.mp3",
     "us": "media/us/also.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1214,6 +1227,7 @@
     "uk": "media/uk/too.mp3",
     "us": "media/us/too.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1455,6 +1469,7 @@
     "uk": "media/uk/like.mp3",
     "us": "media/us/like.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1502,6 +1517,7 @@
     "uk": "media/uk/just.mp3",
     "us": "media/us/just.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {

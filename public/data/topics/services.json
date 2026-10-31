@@ -49,6 +49,7 @@
     "uk": "media/uk/restaurant.mp3",
     "us": "media/us/restaurant.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafe",
     "cafeteria",
@@ -101,6 +102,7 @@
     "uk": "media/uk/bank.mp3",
     "us": "media/us/bank.mp3"
    },
+   "spell": true,
    "avoid": [
     "post-office"
    ]
@@ -152,6 +154,7 @@
     "uk": "media/uk/cafe.mp3",
     "us": "media/us/cafe.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafeteria",
     "restaurant"
@@ -260,6 +263,7 @@
     "uk": "media/uk/cinema.mp3",
     "us": "media/us/cinema.mp3"
    },
+   "spell": true,
    "avoid": [
     "museum",
     "theatre"
@@ -363,6 +367,7 @@
     "uk": "media/uk/doctor.mp3",
     "us": "media/us/doctor.mp3"
    },
+   "spell": true,
    "avoid": [
     "dentist"
    ]
@@ -465,6 +470,7 @@
     "uk": "media/uk/hotel.mp3",
     "us": "media/us/hotel.mp3"
    },
+   "spell": true,
    "avoid": [
     "restaurant"
    ]
@@ -517,6 +523,7 @@
     "uk": "media/uk/library.mp3",
     "us": "media/us/library.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -567,6 +574,7 @@
     "uk": "media/uk/museum.mp3",
     "us": "media/us/museum.mp3"
    },
+   "spell": true,
    "avoid": [
     "cinema",
     "theatre"

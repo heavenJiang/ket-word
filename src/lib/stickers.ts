@@ -33,7 +33,7 @@ const tiers = <T>(xs: [number, string, string][], make: (goal: number, emoji: st
 export function stickers(w: StickerWorld): Sticker[] {
   const { progress } = w;
   const met = w.words.filter((x) => progress.words[x.id]).length;
-  const gold = w.words.filter((x) => wordLevel(progress.words[x.id]) === 3).length;
+  const gold = w.words.filter((x) => wordLevel(progress.words[x.id], x.spell) === 3).length;
   const days = streak(progress.days, w.now);
   const bestDays = Math.max(days, progress.records?.streak ?? 0);
   const combo = progress.records?.combo ?? 0;
@@ -52,7 +52,7 @@ export function stickers(w: StickerWorld): Sticker[] {
       ],
       (goal, emoji, name): Sticker => ({ id: `words-${goal}`, emoji, name, how: `认识 ${goal} 个单词`, kind: "words", progress: [met, goal] }),
     ),
-    { id: "gold-1", emoji: "🥇", name: "第一张金卡", how: "一个词的认识、听懂、会拼都掌握", kind: "gold", progress: [gold, 1] },
+    { id: "gold-1", emoji: "🥇", name: "第一张金卡", how: "一个词的每一项（认识、听懂，常用词还有会拼）都掌握", kind: "gold", progress: [gold, 1] },
     { id: "gold-10", emoji: "🏆", name: "金卡收藏家", how: "集齐 10 张金卡", kind: "gold", progress: [gold, 10] },
     { id: "spell-10", emoji: "✏️", name: "拼写小能手", how: "牢牢会拼 10 个词", kind: "gold", progress: [spelled, 10] },
     ...tiers(
@@ -86,7 +86,7 @@ export function stickers(w: StickerWorld): Sticker[] {
           name: `征服${t.zh}岛`,
           how: `认识${t.zh}岛的全部 ${ws.length} 个词`,
           kind: "island",
-          progress: [ws.filter((x) => wordLevel(progress.words[x.id]) >= 2).length, ws.length],
+          progress: [ws.filter((x) => wordLevel(progress.words[x.id], x.spell) >= 2).length, ws.length],
         };
       }),
   ];

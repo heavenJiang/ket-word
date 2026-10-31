@@ -489,3 +489,10 @@ h3 {
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+
+/* study plan */
+.goal-line { margin: 10px 0 0; text-align: center; }
+.quick-check .notice { margin-bottom: 12px; }
+.forecast { background: var(--sky-soft); border-radius: 14px; padding: 10px 14px; font-size: 0.92rem; }
+.forecast p { margin: 4px 0; }
+.forecast-warn { background: var(--primary-soft); }

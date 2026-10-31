@@ -49,6 +49,7 @@
     "uk": "media/uk/afternoon.mp3",
     "us": "media/us/afternoon.mp3"
    },
+   "spell": true,
    "avoid": [
     "evening",
     "morning",
@@ -102,6 +103,7 @@
     "uk": "media/uk/a-m.mp3",
     "us": "media/us/a-m.mp3"
    },
+   "spell": true,
    "avoid": [
     "midnight",
     "noon",
@@ -155,6 +157,7 @@
     "uk": "media/uk/p-m.mp3",
     "us": "media/us/p-m.mp3"
    },
+   "spell": true,
    "avoid": [
     "a-m",
     "midnight",
@@ -208,6 +211,7 @@
     "uk": "media/uk/o-clock.mp3",
     "us": "media/us/o-clock.mp3"
    },
+   "spell": true,
    "avoid": [
     "clock",
     "half",
@@ -261,6 +265,7 @@
     "uk": "media/uk/clock.mp3",
     "us": "media/us/clock.mp3"
    },
+   "spell": true,
    "avoid": [
     "half",
     "o-clock",
@@ -314,6 +319,7 @@
     "uk": "media/uk/hour.mp3",
     "us": "media/us/hour.mp3"
    },
+   "spell": true,
    "avoid": [
     "minute",
     "moment",
@@ -367,6 +373,7 @@
     "uk": "media/uk/minute.mp3",
     "us": "media/us/minute.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "moment",
@@ -430,6 +437,7 @@
     "uk": "media/uk/second.mp3",
     "us": "media/us/second.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "minute",
@@ -549,6 +557,7 @@
     "uk": "media/uk/half.mp3",
     "us": "media/us/half.mp3"
    },
+   "spell": true,
    "avoid": [
     "clock",
     "o-clock",
@@ -668,6 +677,7 @@
     "uk": "media/uk/time.mp3",
     "us": "media/us/time.mp3"
    },
+   "spell": true,
    "avoid": [
     "clock",
     "half",
@@ -827,6 +837,7 @@
     "uk": "media/uk/morning.mp3",
     "us": "media/us/morning.mp3"
    },
+   "spell": true,
    "avoid": [
     "afternoon",
     "evening",
@@ -881,6 +892,7 @@
     "uk": "media/uk/evening.mp3",
     "us": "media/us/evening.mp3"
    },
+   "spell": true,
    "avoid": [
     "afternoon",
     "morning",
@@ -933,6 +945,7 @@
     "uk": "media/uk/night.mp3",
     "us": "media/us/night.mp3"
    },
+   "spell": true,
    "avoid": [
     "afternoon",
     "evening",
@@ -985,6 +998,7 @@
     "uk": "media/uk/day.mp3",
     "us": "media/us/day.mp3"
    },
+   "spell": true,
    "avoid": [
     "century",
     "month",
@@ -1041,6 +1055,7 @@
     "uk": "media/uk/today.mp3",
     "us": "media/us/today.mp3"
    },
+   "spell": true,
    "avoid": [
     "tomorrow",
     "tonight",
@@ -1097,6 +1112,7 @@
     "uk": "media/uk/tomorrow.mp3",
     "us": "media/us/tomorrow.mp3"
    },
+   "spell": true,
    "avoid": [
     "today",
     "tonight",
@@ -1152,6 +1168,7 @@
     "uk": "media/uk/tonight.mp3",
     "us": "media/us/tonight.mp3"
    },
+   "spell": true,
    "avoid": [
     "today",
     "tomorrow",
@@ -1206,6 +1223,7 @@
     "uk": "media/uk/yesterday.mp3",
     "us": "media/us/yesterday.mp3"
    },
+   "spell": true,
    "avoid": [
     "today",
     "tomorrow",
@@ -1259,6 +1277,7 @@
     "uk": "media/uk/monday.mp3",
     "us": "media/us/monday.mp3"
    },
+   "spell": true,
    "avoid": [
     "thursday",
     "tuesday",
@@ -1312,6 +1331,7 @@
     "uk": "media/uk/tuesday.mp3",
     "us": "media/us/tuesday.mp3"
    },
+   "spell": true,
    "avoid": [
     "monday",
     "thursday",
@@ -1366,6 +1386,7 @@
     "uk": "media/uk/wednesday.mp3",
     "us": "media/us/wednesday.mp3"
    },
+   "spell": true,
    "avoid": [
     "monday",
     "thursday",
@@ -1419,6 +1440,7 @@
     "uk": "media/uk/thursday.mp3",
     "us": "media/us/thursday.mp3"
    },
+   "spell": true,
    "avoid": [
     "friday",
     "monday",
@@ -1475,6 +1497,7 @@
     "uk": "media/uk/friday.mp3",
     "us": "media/us/friday.mp3"
    },
+   "spell": true,
    "avoid": [
     "saturday",
     "sunday",
@@ -1529,6 +1552,7 @@
     "uk": "media/uk/saturday.mp3",
     "us": "media/us/saturday.mp3"
    },
+   "spell": true,
    "avoid": [
     "friday",
     "sunday",
@@ -1582,6 +1606,7 @@
     "uk": "media/uk/sunday.mp3",
     "us": "media/us/sunday.mp3"
    },
+   "spell": true,
    "avoid": [
     "friday",
     "saturday",
@@ -1634,6 +1659,7 @@
     "uk": "media/uk/week.mp3",
     "us": "media/us/week.mp3"
    },
+   "spell": true,
    "avoid": [
     "century",
     "day",
@@ -1742,6 +1768,7 @@
     "uk": "media/uk/weekend.mp3",
     "us": "media/us/weekend.mp3"
    },
+   "spell": true,
    "avoid": [
     "week",
     "weekday"
@@ -1899,6 +1926,7 @@
     "uk": "media/uk/month.mp3",
     "us": "media/us/month.mp3"
    },
+   "spell": true,
    "avoid": [
     "century",
     "day",
@@ -2006,6 +2034,7 @@
     "uk": "media/uk/year.mp3",
     "us": "media/us/year.mp3"
    },
+   "spell": true,
    "avoid": [
     "century",
     "day",
@@ -2115,6 +2144,7 @@
     "uk": "media/uk/moment.mp3",
     "us": "media/us/moment.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "minute",
@@ -2220,6 +2250,7 @@
     "uk": "media/uk/date.mp3",
     "us": "media/us/date.mp3"
    },
+   "spell": true,
    "avoid": [
     "calendar",
     "diary"
@@ -2327,6 +2358,7 @@
     "uk": "media/uk/january.mp3",
     "us": "media/us/january.mp3"
    },
+   "spell": true,
    "avoid": [
     "april",
     "february",
@@ -2382,6 +2414,7 @@
     "uk": "media/uk/february.mp3",
     "us": "media/us/february.mp3"
    },
+   "spell": true,
    "avoid": [
     "april",
     "january",
@@ -2487,6 +2520,7 @@
     "uk": "media/uk/april.mp3",
     "us": "media/us/april.mp3"
    },
+   "spell": true,
    "avoid": [
     "february",
     "january",
@@ -2655,6 +2689,7 @@
     "uk": "media/uk/june.mp3",
     "us": "media/us/june.mp3"
    },
+   "spell": true,
    "avoid": [
     "august",
     "july",
@@ -2708,6 +2743,7 @@
     "uk": "media/uk/july.mp3",
     "us": "media/us/july.mp3"
    },
+   "spell": true,
    "avoid": [
     "august",
     "june",
@@ -2761,6 +2797,7 @@
     "uk": "media/uk/august.mp3",
     "us": "media/us/august.mp3"
    },
+   "spell": true,
    "avoid": [
     "july",
     "june",
@@ -2815,6 +2852,7 @@
     "uk": "media/uk/september.mp3",
     "us": "media/us/september.mp3"
    },
+   "spell": true,
    "avoid": [
     "december",
     "november",
@@ -2869,6 +2907,7 @@
     "uk": "media/uk/october.mp3",
     "us": "media/us/october.mp3"
    },
+   "spell": true,
    "avoid": [
     "december",
     "november",
@@ -2923,6 +2962,7 @@
     "uk": "media/uk/november.mp3",
     "us": "media/us/november.mp3"
    },
+   "spell": true,
    "avoid": [
     "december",
     "october",
@@ -2977,6 +3017,7 @@
     "uk": "media/uk/december.mp3",
     "us": "media/us/december.mp3"
    },
+   "spell": true,
    "avoid": [
     "november",
     "october",
@@ -3029,6 +3070,7 @@
     "uk": "media/uk/spring.mp3",
     "us": "media/us/spring.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "summer",
@@ -3082,6 +3124,7 @@
     "uk": "media/uk/summer.mp3",
     "us": "media/us/summer.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "spring",
@@ -3135,6 +3178,7 @@
     "uk": "media/uk/autumn.mp3",
     "us": "media/us/autumn.mp3"
    },
+   "spell": true,
    "avoid": [
     "spring",
     "summer",
@@ -3188,6 +3232,7 @@
     "uk": "media/uk/winter.mp3",
     "us": "media/us/winter.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "spring",
@@ -3241,6 +3286,7 @@
     "uk": "media/uk/birthday.mp3",
     "us": "media/us/birthday.mp3"
    },
+   "spell": true,
    "avoid": [
     "holiday"
    ]
@@ -3293,6 +3339,7 @@
     "uk": "media/uk/holiday.mp3",
     "us": "media/us/holiday.mp3"
    },
+   "spell": true,
    "avoid": [
     "birthday"
    ]
@@ -3397,6 +3444,7 @@
     "uk": "media/uk/meeting.mp3",
     "us": "media/us/meeting.mp3"
    },
+   "spell": true,
    "avoid": [
     "appointment",
     "working-hours"

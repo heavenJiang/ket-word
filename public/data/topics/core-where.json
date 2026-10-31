@@ -49,6 +49,7 @@
     "uk": "media/uk/about.mp3",
     "us": "media/us/about.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -100,6 +101,7 @@
     "uk": "media/uk/above.mp3",
     "us": "media/us/above.mp3"
    },
+   "spell": true,
    "avoid": [
     "over",
     "top",
@@ -365,6 +367,7 @@
     "uk": "media/uk/around.mp3",
     "us": "media/us/around.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -416,6 +419,7 @@
     "uk": "media/uk/behind.mp3",
     "us": "media/us/behind.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -467,6 +471,7 @@
     "uk": "media/uk/below.mp3",
     "us": "media/us/below.mp3"
    },
+   "spell": true,
    "avoid": [
     "bottom",
     "down",
@@ -573,6 +578,7 @@
     "uk": "media/uk/between.mp3",
     "us": "media/us/between.mp3"
    },
+   "spell": true,
    "avoid": [
     "among",
     "centre",
@@ -678,6 +684,7 @@
     "uk": "media/uk/down.mp3",
     "us": "media/us/down.mp3"
    },
+   "spell": true,
    "avoid": [
     "below",
     "bottom",
@@ -732,6 +739,7 @@
     "uk": "media/uk/in.mp3",
     "us": "media/us/in.mp3"
    },
+   "spell": true,
    "avoid": [
     "inside",
     "into"
@@ -836,6 +844,7 @@
     "uk": "media/uk/inside.mp3",
     "us": "media/us/inside.mp3"
    },
+   "spell": true,
    "avoid": [
     "in",
     "into"
@@ -888,6 +897,7 @@
     "uk": "media/uk/into.mp3",
     "us": "media/us/into.mp3"
    },
+   "spell": true,
    "avoid": [
     "in",
     "inside"
@@ -941,6 +951,7 @@
     "uk": "media/uk/near.mp3",
     "us": "media/us/near.mp3"
    },
+   "spell": true,
    "avoid": [
     "beside",
     "close-to",
@@ -1044,6 +1055,7 @@
     "uk": "media/uk/off.mp3",
     "us": "media/us/off.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1094,6 +1106,7 @@
     "uk": "media/uk/on.mp3",
     "us": "media/us/on.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1192,6 +1205,7 @@
     "uk": "media/uk/out.mp3",
     "us": "media/us/out.mp3"
    },
+   "spell": true,
    "avoid": [
     "out-of",
     "outdoors",
@@ -1298,6 +1312,7 @@
     "uk": "media/uk/outside.mp3",
     "us": "media/us/outside.mp3"
    },
+   "spell": true,
    "avoid": [
     "out",
     "out-of",
@@ -1353,6 +1368,7 @@
     "uk": "media/uk/over.mp3",
     "us": "media/us/over.mp3"
    },
+   "spell": true,
    "avoid": [
     "above",
     "across",
@@ -1461,6 +1477,7 @@
     "uk": "media/uk/under.mp3",
     "us": "media/us/under.mp3"
    },
+   "spell": true,
    "avoid": [
     "below",
     "bottom",
@@ -1515,6 +1532,7 @@
     "uk": "media/uk/up.mp3",
     "us": "media/us/up.mp3"
    },
+   "spell": true,
    "avoid": [
     "above",
     "over",
@@ -1568,6 +1586,7 @@
     "uk": "media/uk/upstairs.mp3",
     "us": "media/us/upstairs.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1871,6 +1890,7 @@
     "uk": "media/uk/there.mp3",
     "us": "media/us/there.mp3"
    },
+   "spell": true,
    "avoid": [
     "here"
    ]
@@ -1922,6 +1942,7 @@
     "uk": "media/uk/away.mp3",
     "us": "media/us/away.mp3"
    },
+   "spell": true,
    "avoid": [
     "further"
    ]
@@ -1972,6 +1993,7 @@
     "uk": "media/uk/front.mp3",
     "us": "media/us/front.mp3"
    },
+   "spell": true,
    "avoid": [
     "in-front-of"
    ]
@@ -2022,6 +2044,7 @@
     "uk": "media/uk/side.mp3",
     "us": "media/us/side.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2070,6 +2093,7 @@
     "uk": "media/uk/top.mp3",
     "us": "media/us/top.mp3"
    },
+   "spell": true,
    "avoid": [
     "above",
     "over",
@@ -2176,6 +2200,7 @@
     "uk": "media/uk/middle.mp3",
     "us": "media/us/middle.mp3"
    },
+   "spell": true,
    "avoid": [
     "among",
     "between",
@@ -2229,6 +2254,7 @@
     "uk": "media/uk/centre.mp3",
     "us": "media/us/centre.mp3"
    },
+   "spell": true,
    "avoid": [
     "among",
     "between",

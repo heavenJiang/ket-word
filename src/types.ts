@@ -31,6 +31,8 @@ export interface Word {
   /** For a second-meaning card (can.2 = "can" as in "I can swim"): the word it belongs to, and that word's meaning. */
   of?: string;
   ofZh?: string;
+  /** An everyday (A1) word the child also learns to spell; other words stop at meaning and listening. */
+  spell?: boolean;
   /** Words too alike to be fair wrong options for this one (plate / dish / bowl). */
   avoid?: string[];
 }

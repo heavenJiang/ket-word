@@ -1,9 +1,14 @@
+import { targets } from "../session/goal";
 import { review, type Grade, Rating, type WordProgress } from "../srs/srs";
-import type { Accent, Skill } from "../types";
+import { SKILLS, type Accent, type Skill } from "../types";
 
 export interface Settings {
+  /** New words a day when there is no goal date. */
   newPerDay: number;
-  reviewCap: number;
+  /** Planned study time a day, in minutes; reviews fill what new words leave. */
+  minutes: number;
+  /** Day to have every word learnt by ("2027-05-20"); the plan spreads the words over the days left. */
+  goal?: string;
   retention: number;
   accent: Accent;
   sound: boolean;
@@ -18,8 +23,18 @@ export interface DayLog {
   answered: number;
   correct: number;
   newWords: number;
+  /** Words the child already knew, passed by the quick check without being taught. */
+  known?: number;
   stars: number;
 }
+
+/**
+ * One graded answer: when, word, skill (index in SKILLS), FSRS grade, milliseconds to answer, and
+ * 0 review · 1 new word · 2 already known. Kept so the scheduler can later be fitted to this child.
+ */
+export type LogEntry = [t: number, wordId: string, skill: number, grade: number, ms: number, kind: 0 | 1 | 2];
+/** About 1.5 MB of storage at most; the oldest answers go first. */
+const LOG_MAX = 40_000;
 
 /** A story read to the end: how often, and the best quiz score. */
 export interface StoryLog {
@@ -41,13 +56,15 @@ export interface Progress {
   stickers: Record<string, number>;
   /** Personal bests that stickers look at: longest run of right answers, longest streak of days. */
   records: { combo: number; streak: number };
+  /** Every graded answer, oldest first. */
+  log?: LogEntry[];
 }
 
 const KEY = "ket-word:progress";
 
 export const DEFAULT_SETTINGS: Settings = {
   newPerDay: 8,
-  reviewCap: 30,
+  minutes: 25,
   retention: 0.9,
   accent: "uk",
   sound: true,
@@ -95,25 +112,36 @@ export function parseProgress(raw: string): Progress {
   return { ...emptyProgress(), ...p, settings: { ...DEFAULT_SETTINGS, ...p.settings } };
 }
 
-/** Daily plan options from the child's settings and what they already did today. */
-export function planOptions(p: Progress, now: number) {
+/**
+ * Daily plan options from the child's settings, goal and what they already did today.
+ * `unstarted` counts the words the child has not met yet.
+ */
+export function planOptions(p: Progress, now: number, unstarted: number) {
   const day = p.days[dayKey(now)];
+  const startedToday = (day?.newWords ?? 0) + (day?.known ?? 0);
+  const t = targets(p, now, unstarted + startedToday);
   return {
-    newPerDay: p.settings.newPerDay,
-    reviewCap: p.settings.reviewCap,
+    newPerDay: t.newPerDay,
+    reviewCap: t.reviewCap,
+    reviewCapAlone: t.reviewCapAlone,
     retention: p.settings.retention,
+    examAt: t.examAt,
     newToday: day?.newWords ?? 0,
-    // every graded answer is either a new word's first answer or a review
-    reviewedToday: day ? day.answered - day.newWords : 0,
+    // every graded answer is a new word's first answer, a known word's check, or a review
+    reviewedToday: day ? day.answered - startedToday : 0,
   };
 }
 
 const emptyDay = (): DayLog => ({ answered: 0, correct: 0, newWords: 0, stars: 0 });
 
-/** Apply one graded answer: update the skill's memory card and today's log. */
-export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number): Progress {
+/**
+ * Apply one graded answer: update the skill's memory card, today's log and the answer log.
+ * `known` marks a word passed by the quick check: started, but not counted as a new word taught today.
+ */
+export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number, ms = 0, known = false): Progress {
   const prev = p.words[wordId];
-  const isNew = !prev;
+  const isNew = !prev && !known;
+  const isKnown = !prev && known;
   const word: WordProgress = prev ?? { seen: now, skills: {} };
   const card = review(word.skills[skill], grade, now, p.settings.retention);
   const correct = grade !== Rating.Again;
@@ -126,15 +154,19 @@ export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Gr
       answered: day.answered + 1,
       correct: day.correct + (correct ? 1 : 0),
       newWords: day.newWords + (isNew ? 1 : 0),
+      known: (day.known ?? 0) + (isKnown ? 1 : 0),
       stars: day.stars + star,
     },
   };
+  const entry: LogEntry = [now, wordId, SKILLS.indexOf(skill), grade, Math.round(ms), isNew ? 1 : isKnown ? 2 : 0];
+  const log = [...(p.log ?? []), entry];
   return {
     ...p,
     records: { ...p.records, streak: Math.max(p.records.streak, streak(days, now)) },
     stars: p.stars + star,
     words: { ...p.words, [wordId]: { ...word, skills: { ...word.skills, [skill]: card } } },
     days,
+    log: log.length > LOG_MAX ? log.slice(-LOG_MAX) : log,
   };
 }
 

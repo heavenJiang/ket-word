@@ -102,6 +102,7 @@
     "uk": "media/uk/metre.mp3",
     "us": "media/us/metre.mp3"
    },
+   "spell": true,
    "avoid": [
     "centimetre",
     "kilometre"
@@ -471,6 +472,7 @@
     "uk": "media/uk/second.mp3",
     "us": "media/us/second.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "minute",
@@ -524,6 +526,7 @@
     "uk": "media/uk/minute.mp3",
     "us": "media/us/minute.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "moment",
@@ -576,6 +579,7 @@
     "uk": "media/uk/hour.mp3",
     "us": "media/us/hour.mp3"
    },
+   "spell": true,
    "avoid": [
     "minute",
     "moment",
@@ -628,6 +632,7 @@
     "uk": "media/uk/day.mp3",
     "us": "media/us/day.mp3"
    },
+   "spell": true,
    "avoid": [
     "week",
     "year"
@@ -679,6 +684,7 @@
     "uk": "media/uk/week.mp3",
     "us": "media/us/week.mp3"
    },
+   "spell": true,
    "avoid": [
     "day",
     "year"
@@ -730,6 +736,7 @@
     "uk": "media/uk/year.mp3",
     "us": "media/us/year.mp3"
    },
+   "spell": true,
    "avoid": [
     "day",
     "week"
@@ -782,6 +789,7 @@
     "uk": "media/uk/moment.mp3",
     "us": "media/us/moment.mp3"
    },
+   "spell": true,
    "avoid": [
     "hour",
     "minute",
@@ -838,6 +846,7 @@
     "uk": "media/uk/half.mp3",
     "us": "media/us/half.mp3"
    },
+   "spell": true,
    "avoid": [
     "quarter"
    ]

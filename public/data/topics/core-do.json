@@ -47,6 +47,7 @@
     "uk": "media/uk/add.mp3",
     "us": "media/us/add.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -96,6 +97,7 @@
     "uk": "media/uk/begin.mp3",
     "us": "media/us/begin.mp3"
    },
+   "spell": true,
    "avoid": [
     "start"
    ]
@@ -146,6 +148,7 @@
     "uk": "media/uk/build.mp3",
     "us": "media/us/build.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -653,6 +656,7 @@
     "uk": "media/uk/fill.mp3",
     "us": "media/us/fill.mp3"
    },
+   "spell": true,
    "avoid": [
     "fill-in"
    ]
@@ -753,6 +757,7 @@
     "uk": "media/uk/finish.mp3",
     "us": "media/us/finish.mp3"
    },
+   "spell": true,
    "avoid": [
     "complete"
    ]
@@ -900,6 +905,7 @@
     "uk": "media/uk/include.mp3",
     "us": "media/us/include.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1057,6 +1063,7 @@
     "uk": "media/uk/invite.mp3",
     "us": "media/us/invite.mp3"
    },
+   "spell": true,
    "avoid": [
     "invitation"
    ]
@@ -1307,6 +1314,7 @@
     "uk": "media/uk/plan.mp3",
     "us": "media/us/plan.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1504,6 +1512,7 @@
     "uk": "media/uk/relax.mp3",
     "us": "media/us/relax.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1553,6 +1562,7 @@
     "uk": "media/uk/repeat.mp3",
     "us": "media/us/repeat.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1750,6 +1760,7 @@
     "uk": "media/uk/start.mp3",
     "us": "media/us/start.mp3"
    },
+   "spell": true,
    "avoid": [
     "begin"
    ]
@@ -1907,6 +1918,7 @@
     "uk": "media/uk/wash.mp3",
     "us": "media/us/wash.mp3"
    },
+   "spell": true,
    "avoid": [
     "tidy",
     "tidy-up",
@@ -2058,6 +2070,7 @@
     "uk": "media/uk/look.mp3",
     "us": "media/us/look.mp3"
    },
+   "spell": true,
    "avoid": [
     "see"
    ]
@@ -2250,6 +2263,7 @@
     "uk": "media/uk/see.mp3",
     "us": "media/us/see.mp3"
    },
+   "spell": true,
    "avoid": [
     "look"
    ]
@@ -2301,6 +2315,7 @@
     "uk": "media/uk/listen.mp3",
     "us": "media/us/listen.mp3"
    },
+   "spell": true,
    "avoid": [
     "cry",
     "sound"
@@ -2352,6 +2367,7 @@
     "uk": "media/uk/sleep.mp3",
     "us": "media/us/sleep.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2400,6 +2416,7 @@
     "uk": "media/uk/wake.mp3",
     "us": "media/us/wake.mp3"
    },
+   "spell": true,
    "avoid": [
     "wake-up"
    ]
@@ -2499,6 +2516,7 @@
     "uk": "media/uk/meet.mp3",
     "us": "media/us/meet.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2547,6 +2565,7 @@
     "uk": "media/uk/sound.mp3",
     "us": "media/us/sound.mp3"
    },
+   "spell": true,
    "avoid": [
     "cry",
     "listen"
@@ -2743,6 +2762,7 @@
     "uk": "media/uk/write.mp3",
     "us": "media/us/write.mp3"
    },
+   "spell": true,
    "avoid": [
     "copy",
     "write-down"
@@ -2847,6 +2867,7 @@
     "uk": "media/uk/colour.mp3",
     "us": "media/us/colour.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2895,6 +2916,7 @@
     "uk": "media/uk/cry.mp3",
     "us": "media/us/cry.mp3"
    },
+   "spell": true,
    "avoid": [
     "listen",
     "sound"

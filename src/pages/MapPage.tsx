@@ -16,7 +16,7 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
   const { topics, progress, library, onPick } = props;
   const total = topics.reduce((n, t) => n + (t.core ? t.count : 0), 0);
   const emoji = (t: Topic) => t.emoji ?? ISLAND_EMOJI[t.id] ?? "🏝️";
-  const learned = (t: Topic) => (library.topics[t.id] ?? []).filter((w) => wordLevel(progress.words[w.id]) >= 2).length;
+  const learned = (t: Topic) => (library.topics[t.id] ?? []).filter((w) => wordLevel(progress.words[w.id], w.spell) >= 2).length;
 
   const open = topics.filter((t) => t.ready);
   const soon = topics.filter((t) => !t.ready);
@@ -46,17 +46,21 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
         })}
       </div>
 
-      <h3 className="soon-title">🔒 即将开放（{soon.length} 座）</h3>
-      <p className="muted small">
-        KET 官方全部 {topics.filter((t) => !t.core).length} 个话题和 {total} 个核心词都会陆续开放。
-      </p>
-      <div className="soon">
-        {soon.map((t) => (
-          <span key={t.id} className="soon-item">
-            {emoji(t)} {t.zh}
-          </span>
-        ))}
-      </div>
+      {soon.length > 0 && (
+        <>
+          <h3 className="soon-title">🔒 即将开放（{soon.length} 座）</h3>
+          <p className="muted small">
+            KET 官方全部 {topics.filter((t) => !t.core).length} 个话题和 {total} 个核心词都会陆续开放。
+          </p>
+          <div className="soon">
+            {soon.map((t) => (
+              <span key={t.id} className="soon-item">
+                {emoji(t)} {t.zh}
+              </span>
+            ))}
+          </div>
+        </>
+      )}
     </div>
   );
 }

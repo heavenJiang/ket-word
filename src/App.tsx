@@ -10,7 +10,8 @@ import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
 import { giveStickers, loadProgress, recordStory, saveProgress, type Progress } from "./store/progress";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
-import type { Story, Word } from "./types";
+import { learningOrder, nextIsland } from "./session/today";
+import type { Story, Topic } from "./types";
 import { Max } from "./ui/Max";
 
 type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers";
@@ -23,10 +24,6 @@ const NAV: { id: Page; icon: string; label: string }[] = [
   { id: "parent", icon: "👨‍👩‍👧", label: "家长" },
 ];
 
-/** Shortest, simplest words first: one-syllable everyday animals before "crocodile". */
-const learningOrder = (ws: Word[]) =>
-  [...ws].sort((a, b) => a.chunks.length - b.chunks.length || a.word.length - b.word.length);
-
 export function App() {
   const [progress, setProgressState] = useState<Progress>(loadProgress);
   const [index, setIndex] = useState<AppIndex | null>(null);
@@ -35,6 +32,8 @@ export function App() {
   const [error, setError] = useState<string | null>(null);
   const [stories, setStories] = useState<Story[]>([]);
   const [reading, setReading] = useState<Story | null>(null);
+  /** The island just finished, shown once on the home screen after moving on. */
+  const [finished, setFinished] = useState<Topic | undefined>();
 
   const setProgress = useCallback((f: (p: Progress) => Progress) => {
     setProgressState((p) => {
@@ -65,6 +64,16 @@ export function App() {
   );
   const fresh = newlyEarned(stickers, progress.stickers);
 
+  // every word on this island met: move on to the next island with new words
+  useEffect(() => {
+    if (!index || !library || page !== "home") return;
+    if ((library.topics[progress.topic] ?? []).some((w) => !progress.words[w.id])) return;
+    const to = nextIsland(index.topics, library, progress, progress.topic);
+    if (!to) return;
+    setFinished(index.topics.find((t) => t.id === progress.topic));
+    setProgress((p) => ({ ...p, topic: to }));
+  }, [index, library, progress, page, setProgress]);
+
   if (!progress.profile) return <Onboarding onDone={(name, age) => setProgress((p) => ({ ...p, profile: { name, age } }))} />;
   if (error) return <div className="page center">加载失败：{error}</div>;
   if (!index || !library || words.length === 0) return <div className="page center muted">正在打开单词岛…</div>;
@@ -83,7 +92,7 @@ export function App() {
     );
 
   if (page === "learn")
-    return <Learn words={words} library={library} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
+    return <Learn words={words} library={library} topics={index.topics} progress={progress} setProgress={setProgress} onExit={() => setPage("home")} />;
 
   return (
     <div className="shell">
@@ -92,8 +101,9 @@ export function App() {
           <Home
             progress={progress}
             topic={topic}
-            words={words}
+            topics={index.topics}
             library={library}
+            finished={finished}
             newStories={stories.filter((s) => !progress.stories[s.id] && missingFor(s, progress.words).length === 0).length}
             onStart={() => setPage("learn")}
             onMap={() => setPage("map")}
@@ -109,6 +119,7 @@ export function App() {
             library={library}
             onPick={(id) => {
               setProgress((p) => ({ ...p, topic: id }));
+              setFinished(undefined);
               setPage("home");
             }}
           />
@@ -116,7 +127,7 @@ export function App() {
         {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
         {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
-        {page === "parent" && <Parent words={library.all} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
+        {page === "parent" && <Parent words={library.all} library={library} topics={index.topics} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
       </main>
       {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
       <nav className="nav">

@@ -255,6 +255,8 @@ def main() -> None:
                 "sentences": [sentence(en, zh, recorded, used_media) for en, zh in [(w["en"], w["sz"]), *w.get("more", [])]],
                 "media": media,
                 **({"of": w["of"], "ofZh": by_word[w["of"]]["zh"]} if w.get("of") else {}),
+                # spelling is practised only for everyday words: A1 single words (a second meaning is spelled already)
+                **({"spell": True} if a and a.get("cefr") == "A1" and it["kind"] == "word" and not w.get("of") else {}),
                 "avoid": sorted(avoid.get(w["id"], ())),
             })
         # "picture": false marks a word no picture can show (the, because): its emoji stands in

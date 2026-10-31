@@ -48,6 +48,7 @@
     "uk": "media/uk/airport.mp3",
     "us": "media/us/airport.mp3"
    },
+   "spell": true,
    "avoid": [
     "flight",
     "pilot",
@@ -100,6 +101,7 @@
     "uk": "media/uk/plane.mp3",
     "us": "media/us/plane.mp3"
    },
+   "spell": true,
    "avoid": [
     "airport",
     "flight",
@@ -206,6 +208,7 @@
     "uk": "media/uk/fly.mp3",
     "us": "media/us/fly.mp3"
    },
+   "spell": true,
    "avoid": [
     "helicopter",
     "plane"
@@ -628,6 +631,7 @@
     "uk": "media/uk/ticket.mp3",
     "us": "media/us/ticket.mp3"
    },
+   "spell": true,
    "avoid": [
     "driving-licence",
     "passport"
@@ -733,6 +737,7 @@
     "uk": "media/uk/seat.mp3",
     "us": "media/us/seat.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -834,6 +839,7 @@
     "uk": "media/uk/trip.mp3",
     "us": "media/us/trip.mp3"
    },
+   "spell": true,
    "avoid": [
     "journey",
     "tour",
@@ -939,6 +945,7 @@
     "uk": "media/uk/travel.mp3",
     "us": "media/us/travel.mp3"
    },
+   "spell": true,
    "avoid": [
     "journey",
     "tour",
@@ -1160,6 +1167,7 @@
     "uk": "media/uk/visit.mp3",
     "us": "media/us/visit.mp3"
    },
+   "spell": true,
    "avoid": [
     "tourist-information-centre",
     "visitor"
@@ -1267,6 +1275,7 @@
     "uk": "media/uk/bus.mp3",
     "us": "media/us/bus.mp3"
    },
+   "spell": true,
    "avoid": [
     "coach",
     "taxi",
@@ -1489,6 +1498,7 @@
     "uk": "media/uk/train.mp3",
     "us": "media/us/train.mp3"
    },
+   "spell": true,
    "avoid": [
     "railway",
     "tram",
@@ -1648,6 +1658,7 @@
     "uk": "media/uk/station.mp3",
     "us": "media/us/station.mp3"
    },
+   "spell": true,
    "avoid": [
     "bus-station",
     "bus-stop",
@@ -1818,6 +1829,7 @@
     "uk": "media/uk/taxi.mp3",
     "us": "media/us/taxi.mp3"
    },
+   "spell": true,
    "avoid": [
     "bus",
     "car",
@@ -1874,6 +1886,7 @@
     "uk": "media/uk/driver.mp3",
     "us": "media/us/driver.mp3"
    },
+   "spell": true,
    "avoid": [
     "car",
     "motorbike",
@@ -1926,6 +1939,7 @@
     "uk": "media/uk/car.mp3",
     "us": "media/us/car.mp3"
    },
+   "spell": true,
    "avoid": [
     "driver",
     "motorbike",
@@ -2605,6 +2619,7 @@
     "uk": "media/uk/drive.mp3",
     "us": "media/us/drive.mp3"
    },
+   "spell": true,
    "avoid": [
     "park.2",
     "ride"
@@ -2664,6 +2679,7 @@
     "uk": "media/uk/park.mp3",
     "us": "media/us/park.mp3"
    },
+   "spell": true,
    "avoid": [
     "park.2"
    ]
@@ -2782,6 +2798,7 @@
     "uk": "media/uk/road.mp3",
     "us": "media/us/road.mp3"
    },
+   "spell": true,
    "avoid": [
     "motorway",
     "roundabout",
@@ -2834,6 +2851,7 @@
     "uk": "media/uk/street.mp3",
     "us": "media/us/street.mp3"
    },
+   "spell": true,
    "avoid": [
     "motorway",
     "road",
@@ -3148,6 +3166,7 @@
     "uk": "media/uk/map.mp3",
     "us": "media/us/map.mp3"
    },
+   "spell": true,
    "avoid": [
     "bridge",
     "way"
@@ -3199,6 +3218,7 @@
     "uk": "media/uk/way.mp3",
     "us": "media/us/way.mp3"
    },
+   "spell": true,
    "avoid": [
     "bridge",
     "map",
@@ -3255,6 +3275,7 @@
     "uk": "media/uk/left.mp3",
     "us": "media/us/left.mp3"
    },
+   "spell": true,
    "avoid": [
     "right.2"
    ]
@@ -3315,6 +3336,7 @@
     "uk": "media/uk/right.mp3",
     "us": "media/us/right.mp3"
    },
+   "spell": true,
    "avoid": [
     "right.2",
     "way"
@@ -3429,6 +3451,7 @@
     "uk": "media/uk/far.mp3",
     "us": "media/us/far.mp3"
    },
+   "spell": true,
    "avoid": [
     "leave",
     "move",
@@ -3481,6 +3504,7 @@
     "uk": "media/uk/leave.mp3",
     "us": "media/us/leave.mp3"
    },
+   "spell": true,
    "avoid": [
     "far",
     "move",
@@ -3594,6 +3618,7 @@
     "uk": "media/uk/move.mp3",
     "us": "media/us/move.mp3"
    },
+   "spell": true,
    "avoid": [
     "far",
     "leave",
@@ -3654,6 +3679,7 @@
     "uk": "media/uk/stop.mp3",
     "us": "media/us/stop.mp3"
    },
+   "spell": true,
    "avoid": [
     "traffic",
     "traffic-light"
@@ -3824,6 +3850,7 @@
     "uk": "media/uk/miss.mp3",
     "us": "media/us/miss.mp3"
    },
+   "spell": true,
    "avoid": [
     "delay",
     "delayed"
@@ -3883,6 +3910,7 @@
     "uk": "media/uk/light.mp3",
     "us": "media/us/light.mp3"
    },
+   "spell": true,
    "avoid": [
     "machine",
     "mirror",
@@ -3936,6 +3964,7 @@
     "uk": "media/uk/machine.mp3",
     "us": "media/us/machine.mp3"
    },
+   "spell": true,
    "avoid": [
     "light",
     "mirror",
@@ -4042,6 +4071,7 @@
     "uk": "media/uk/window.mp3",
     "us": "media/us/window.mp3"
    },
+   "spell": true,
    "avoid": [
     "light",
     "machine",
@@ -4094,6 +4124,7 @@
     "uk": "media/uk/boat.mp3",
     "us": "media/us/boat.mp3"
    },
+   "spell": true,
    "avoid": [
     "sailing",
     "ship"
@@ -4250,6 +4281,7 @@
     "uk": "media/uk/ride.mp3",
     "us": "media/us/ride.mp3"
    },
+   "spell": true,
    "avoid": [
     "drive",
     "park.2"
@@ -4361,6 +4393,7 @@
     "uk": "media/uk/country.mp3",
     "us": "media/us/country.mp3"
    },
+   "spell": true,
    "avoid": [
     "explorer"
    ]

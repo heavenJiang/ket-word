@@ -47,6 +47,7 @@
     "uk": "media/uk/band.mp3",
     "us": "media/us/band.mp3"
    },
+   "spell": true,
    "avoid": [
     "jazz",
     "rap",
@@ -202,6 +203,7 @@
     "uk": "media/uk/cooking.mp3",
     "us": "media/us/cooking.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -251,6 +253,7 @@
     "uk": "media/uk/dancing.mp3",
     "us": "media/us/dancing.mp3"
    },
+   "spell": true,
    "avoid": [
     "performance",
     "singing",
@@ -403,6 +406,7 @@
     "uk": "media/uk/gym.mp3",
     "us": "media/us/gym.mp3"
    },
+   "spell": true,
    "avoid": [
     "training",
     "work-out"
@@ -610,6 +614,7 @@
     "uk": "media/uk/reading.mp3",
     "us": "media/us/reading.mp3"
    },
+   "spell": true,
    "avoid": [
     "activity"
    ]
@@ -969,6 +974,7 @@
     "uk": "media/uk/match.mp3",
     "us": "media/us/match.mp3"
    },
+   "spell": true,
    "avoid": [
     "score",
     "training"
@@ -1330,6 +1336,7 @@
     "uk": "media/uk/movie.mp3",
     "us": "media/us/movie.mp3"
    },
+   "spell": true,
    "avoid": [
     "action",
     "comedy"
@@ -1382,6 +1389,7 @@
     "uk": "media/uk/painting.mp3",
     "us": "media/us/painting.mp3"
    },
+   "spell": true,
    "avoid": [
     "gallery"
    ]
@@ -1638,6 +1646,7 @@
     "uk": "media/uk/activity.mp3",
     "us": "media/us/activity.mp3"
    },
+   "spell": true,
    "avoid": [
     "reading"
    ]

@@ -1,7 +1,10 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import type { Library } from "../lib/data";
+import { forecast, type Forecast } from "../session/forecast";
+import { daysLeft, FINAL_DAYS } from "../session/goal";
 import { isMastered, retrievability, type CardState } from "../srs/srs";
 import { dayKey, parseProgress, type Progress } from "../store/progress";
-import { SKILLS, type Skill, type Story, type Word } from "../types";
+import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
 import { OfflinePanel } from "../ui/Offline";
 
 const SKILL_NAME: Record<Skill, string> = { meaning: "认识词义", listen: "听音辨词", spell: "拼写" };
@@ -25,13 +28,15 @@ function Gate({ onPass }: { onPass: () => void }) {
 
 export function Parent(props: {
   words: Word[];
+  library: Library;
+  topics: Topic[];
   progress: Progress;
   setProgress: (f: (p: Progress) => Progress) => void;
   credits: string;
   stories: Story[];
   source: string;
 }) {
-  const { words, progress, setProgress, credits, source, stories } = props;
+  const { words, library, topics, progress, setProgress, credits, source, stories } = props;
   const [ok, setOk] = useState(false);
   const file = useRef<HTMLInputElement>(null);
   const now = Date.now();
@@ -49,8 +54,9 @@ export function Parent(props: {
   const maxDay = Math.max(10, ...week.map((d) => d.answered));
 
   const skillStats = SKILLS.map((s) => {
-    const cards = words.map((w) => progress.words[w.id]?.skills[s]).filter(Boolean) as CardState[];
-    return { s, started: cards.length, mastered: cards.filter(isMastered).length };
+    const of = s === "spell" ? words.filter((w) => w.spell) : words;
+    const cards = of.map((w) => progress.words[w.id]?.skills[s]).filter(Boolean) as CardState[];
+    return { s, total: of.length, started: cards.length, mastered: cards.filter(isMastered).length };
   });
 
   /** Weakest skill memories right now: what to quiz at dinner tonight. */
@@ -111,13 +117,15 @@ export function Parent(props: {
 
       <section className="card">
         <h3>三项能力</h3>
-        <p className="muted small">每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。掌握 = 三周后仍有 90% 把握记得。</p>
-        {skillStats.map(({ s, started, mastered }) => (
+        <p className="muted small">
+          每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。拼写只练 {skillStats[2].total} 个日常常用词（A1 级），其余的词会认、会听就够 KET 用。掌握 = 三周后仍有 90% 把握记得。
+        </p>
+        {skillStats.map(({ s, total, started, mastered }) => (
           <div key={s} className="skill-row">
             <span>{SKILL_NAME[s]}</span>
             <div className="bar">
-              <div className="bar-fill bar-soft" style={{ width: `${(started / words.length) * 100}%` }} />
-              <div className="bar-fill bar-over" style={{ width: `${(mastered / words.length) * 100}%` }} />
+              <div className="bar-fill bar-soft" style={{ width: `${(started / total) * 100}%` }} />
+              <div className="bar-fill bar-over" style={{ width: `${(mastered / total) * 100}%` }} />
             </div>
             <span className="small">
               {mastered}/{started}
@@ -141,6 +149,8 @@ export function Parent(props: {
         </section>
       )}
 
+      <PlanPanel progress={progress} library={library} topics={topics} set={set} />
+
       <section className="card settings">
         <h3>设置</h3>
         <label>
@@ -157,14 +167,6 @@ export function Parent(props: {
             type="range" min={6} max={13} value={progress.profile?.age ?? 9}
             onChange={(e) => setProgress((p) => ({ ...p, profile: { name: p.profile?.name ?? "", age: Number(e.target.value) } }))}
           />
-        </label>
-        <label>
-          每天新词：{progress.settings.newPerDay} 个
-          <input type="range" min={4} max={16} value={progress.settings.newPerDay} onChange={(e) => set("newPerDay", Number(e.target.value))} />
-        </label>
-        <label>
-          每天复习上限：{progress.settings.reviewCap} 个
-          <input type="range" min={10} max={80} step={5} value={progress.settings.reviewCap} onChange={(e) => set("reviewCap", Number(e.target.value))} />
         </label>
         <label>
           发音
@@ -196,6 +198,105 @@ export function Parent(props: {
         <br />
         {credits}
       </p>
+    </div>
+  );
+}
+
+type Set = <K extends keyof Progress["settings"]>(k: K, v: Progress["settings"][K]) => void;
+
+/** "2027-05-20" for a date `months` from now. */
+function monthsAhead(now: number, months: number): string {
+  const d = new Date(now);
+  d.setMonth(d.getMonth() + months);
+  return dayKey(d.getTime());
+}
+
+const dateZh = (t: number) => {
+  const d = new Date(t);
+  return `${d.getFullYear()} 年 ${d.getMonth() + 1} 月 ${d.getDate()} 日`;
+};
+
+/**
+ * The study plan: a goal date and daily minutes. The app spreads the words not yet met over the days
+ * left and fills the rest of each day with reviews; the forecast plays that forward with the app's
+ * own planner, so a parent sees the daily time a goal really takes before committing to it.
+ */
+function PlanPanel({ progress, library, topics, set }: { progress: Progress; library: Library; topics: Topic[]; set: Set }) {
+  const { goal, minutes, newPerDay } = progress.settings;
+  const [f, setF] = useState<Forecast | "busy" | null>(null);
+  const now = Date.now();
+  const left = daysLeft(progress, now);
+  const met = library.all.filter((w) => progress.words[w.id]).length;
+
+  // a new goal or time makes the old forecast meaningless
+  useEffect(() => setF(null), [goal, minutes, newPerDay]);
+
+  const run = async () => {
+    setF("busy");
+    setF(await forecast(progress, library, topics, Date.now()));
+  };
+
+  return (
+    <section className="card settings">
+      <h3>学习计划</h3>
+      <p className="muted small">
+        定一个学完全部 {library.all.length} 个词的日期，应用把还没学的词平均分到剩下的日子里（最后 {FINAL_DAYS} 天只复习、不学新词），每天剩下的时间用来复习。每天都会重新分配，漏学几天也会自动摊开。已经会的词在学之前快速检查一下就能跳过。
+      </p>
+      <label>
+        学完日期
+        <input className="input" type="date" value={goal ?? ""} min={dayKey(now)} onChange={(e) => set("goal", e.target.value || undefined)} />
+      </label>
+      <div className="row">
+        {[4, 6, 9].map((m) => (
+          <button key={m} className="btn btn-small btn-ghost" onClick={() => set("goal", monthsAhead(now, m))}>
+            {m} 个月后
+          </button>
+        ))}
+        {goal && (
+          <button className="btn btn-small btn-ghost" onClick={() => set("goal", undefined)}>
+            不设日期
+          </button>
+        )}
+      </div>
+      {!goal && (
+        <label>
+          不设日期时，每天新词：{newPerDay} 个
+          <input type="range" min={4} max={20} value={newPerDay} onChange={(e) => set("newPerDay", Number(e.target.value))} />
+        </label>
+      )}
+      <label>
+        每天学习时间：{minutes} 分钟
+        <input type="range" min={10} max={45} step={5} value={minutes} onChange={(e) => set("minutes", Number(e.target.value))} />
+      </label>
+      <p className="muted small">
+        已认识 {met} / {library.all.length} 个词{left > 0 && `，离学完日期还有 ${left} 天`}。
+      </p>
+      <button className="btn" onClick={run} disabled={f === "busy"}>
+        {f === "busy" ? "正在推算…" : "推算这个计划"}
+      </button>
+      {f && f !== "busy" && <ForecastView f={f} minutes={minutes} goalDays={goal ? left : 0} now={now} />}
+    </section>
+  );
+}
+
+function ForecastView({ f, minutes, goalDays, now }: { f: Forecast; minutes: number; goalDays: number; now: number }) {
+  // the planner aims to have every word met before the last weeks, which are for reviewing
+  const late = goalDays > 0 && (f.finishDays === null || f.finishDays > goalDays);
+  const short = goalDays > 0 && !late && f.finishDays! > goalDays - FINAL_DAYS;
+  const over = f.busyMin > minutes * 1.2;
+  return (
+    <div className={`forecast ${late || over ? "forecast-warn" : ""}`}>
+      <p>
+        {f.finishDays === null ? "两年内学不完全部单词。" : `预计 ${dateZh(now + f.finishDays * 86_400_000)} 学完全部单词（${f.finishDays} 天）。`}
+      </p>
+      <p>
+        平时每天约 <b>{f.avgMin}</b> 分钟，最忙的日子约 <b>{f.busyMin}</b> 分钟。
+        {f.catchUpDays > 0 && ` 有 ${f.catchUpDays} 天复习占满时间，新词暂停。`}
+      </p>
+      {late && <p>⚠️ 按每天 {minutes} 分钟赶不上学完日期：可以把日期往后推，或者增加每天的时间。</p>}
+      {!late && over && <p>⚠️ 为了赶上日期，忙的日子会超过每天 {minutes} 分钟：可以把日期往后推一些。</p>}
+      {short && <p>⚠️ 学完离日期不到 {FINAL_DAYS} 天，考前冲刺复习的时间不够：可以增加每天的时间。</p>}
+      <p className="muted small">按孩子平时的答题速度推算；早就认识、被快速跳过的词没算进去，实际会更快一些。</p>
     </div>
   );
 }

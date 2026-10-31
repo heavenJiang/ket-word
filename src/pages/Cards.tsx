@@ -17,7 +17,7 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
   const words = byTopic[tab] ?? [];
   const [open, setOpen] = useState<Word | null>(null);
   const met = words.filter((w) => progress.words[w.id]).length;
-  const gold = words.filter((w) => wordLevel(progress.words[w.id]) === 3).length;
+  const gold = words.filter((w) => wordLevel(progress.words[w.id], w.spell) === 3).length;
   const accent = progress.settings.accent;
 
   return (
@@ -31,12 +31,12 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
         ))}
       </div>
       <p className="muted">
-        已收集 {met} / {words.length} 张 · 金卡 {gold} 张（认识 + 听懂 + 会拼都掌握）
+        已收集 {met} / {words.length} 张 · 金卡 {gold} 张（认识 + 听懂都掌握，常用词还要会拼）
       </p>
       <div className="album">
         {words.map((w) => {
           const p = progress.words[w.id];
-          const level = wordLevel(p);
+          const level = wordLevel(p, w.spell);
           return (
             <button key={w.id} className={`album-card level-${level}`} onClick={() => p && setOpen(w)} disabled={!p}>
               {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
@@ -44,7 +44,7 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
               {p && w.of && <span className="album-sense">新意思</span>}
               {p && (
                 <span className="album-badges">
-                  {SKILLS.map((s) => (
+                  {skillsOf(w).map((s) => (
                     <i key={s} className={isMastered(p.skills[s]) ? "on" : ""} />
                   ))}
                 </span>
@@ -67,7 +67,7 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
               <SentenceRow key={x.en} en={x.en} zh={x.zh} onPlay={() => playText(x, accent)} />
             ))}
             <div className="skill-badges">
-              {SKILLS.map((s) => (
+              {skillsOf(open).map((s) => (
                 <span key={s} className={`skill-badge ${isMastered(progress.words[open.id]?.skills[s]) ? "on" : ""}`}>
                   {SKILL_BADGE[s]}
                 </span>
@@ -82,3 +82,6 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
     </div>
   );
 }
+
+/** The skills a word is learnt in: spelling only for everyday words. */
+const skillsOf = (w: Word): Skill[] => SKILLS.filter((s) => s !== "spell" || w.spell);

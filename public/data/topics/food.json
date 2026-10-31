@@ -48,6 +48,7 @@
     "uk": "media/uk/apple.mp3",
     "us": "media/us/apple.mp3"
    },
+   "spell": true,
    "avoid": [
     "banana",
     "fruit",
@@ -160,6 +161,7 @@
     "uk": "media/uk/banana.mp3",
     "us": "media/us/banana.mp3"
    },
+   "spell": true,
    "avoid": [
     "apple",
     "fruit",
@@ -431,6 +433,7 @@
     "uk": "media/uk/bottle.mp3",
     "us": "media/us/bottle.mp3"
    },
+   "spell": true,
    "avoid": [
     "cup",
     "glass",
@@ -542,6 +545,7 @@
     "uk": "media/uk/box.mp3",
     "us": "media/us/box.mp3"
    },
+   "spell": true,
    "avoid": [
     "can",
     "cup"
@@ -593,6 +597,7 @@
     "uk": "media/uk/bread.mp3",
     "us": "media/us/bread.mp3"
    },
+   "spell": true,
    "avoid": [
     "butter",
     "jam",
@@ -657,6 +662,7 @@
     "uk": "media/uk/break.mp3",
     "us": "media/us/break.mp3"
    },
+   "spell": true,
    "avoid": [
     "break.2"
    ]
@@ -767,6 +773,7 @@
     "uk": "media/uk/breakfast.mp3",
     "us": "media/us/breakfast.mp3"
    },
+   "spell": true,
    "avoid": [
     "cereal",
     "delicious",
@@ -885,6 +892,7 @@
     "uk": "media/uk/butter.mp3",
     "us": "media/us/butter.mp3"
    },
+   "spell": true,
    "avoid": [
     "bread",
     "cheese",
@@ -941,6 +949,7 @@
     "uk": "media/uk/cafe.mp3",
     "us": "media/us/cafe.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafeteria",
     "cake",
@@ -1059,6 +1068,7 @@
     "uk": "media/uk/cake.mp3",
     "us": "media/us/cake.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafe",
     "candy",
@@ -1122,6 +1132,7 @@
     "uk": "media/uk/can.mp3",
     "us": "media/us/can.mp3"
    },
+   "spell": true,
    "avoid": [
     "box",
     "can.2",
@@ -1288,6 +1299,7 @@
     "uk": "media/uk/carrot.mp3",
     "us": "media/us/carrot.mp3"
    },
+   "spell": true,
    "avoid": [
     "chilli",
     "garlic",
@@ -1406,6 +1418,7 @@
     "uk": "media/uk/cheese.mp3",
     "us": "media/us/cheese.mp3"
    },
+   "spell": true,
    "avoid": [
     "butter",
     "cream",
@@ -1512,6 +1525,7 @@
     "uk": "media/uk/chicken.mp3",
     "us": "media/us/chicken.mp3"
    },
+   "spell": true,
    "avoid": [
     "burger",
     "curry",
@@ -1629,6 +1643,7 @@
     "uk": "media/uk/chips.mp3",
     "us": "media/us/chips.mp3"
    },
+   "spell": true,
    "avoid": [
     "fish",
     "potato",
@@ -1684,6 +1699,7 @@
     "uk": "media/uk/chocolate.mp3",
     "us": "media/us/chocolate.mp3"
    },
+   "spell": true,
    "avoid": [
     "cake",
     "candy",
@@ -1738,6 +1754,7 @@
     "uk": "media/uk/coffee.mp3",
     "us": "media/us/coffee.mp3"
    },
+   "spell": true,
    "avoid": [
     "cup",
     "drink",
@@ -1793,6 +1810,7 @@
     "uk": "media/uk/cola.mp3",
     "us": "media/us/cola.mp3"
    },
+   "spell": true,
    "avoid": [
     "drink",
     "juice",
@@ -1854,6 +1872,7 @@
     "uk": "media/uk/cook.mp3",
     "us": "media/us/cook.mp3"
    },
+   "spell": true,
    "avoid": [
     "chef",
     "cooker",
@@ -2021,6 +2040,7 @@
     "uk": "media/uk/cup.mp3",
     "us": "media/us/cup.mp3"
    },
+   "spell": true,
    "avoid": [
     "bottle",
     "box",
@@ -2131,6 +2151,7 @@
     "uk": "media/uk/cut.mp3",
     "us": "media/us/cut.mp3"
    },
+   "spell": true,
    "avoid": [
     "knife",
     "mushroom",
@@ -2186,6 +2207,7 @@
     "uk": "media/uk/delicious.mp3",
     "us": "media/us/delicious.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cereal",
@@ -2303,6 +2325,7 @@
     "uk": "media/uk/dinner.mp3",
     "us": "media/us/dinner.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cafe",
@@ -2422,6 +2445,7 @@
     "uk": "media/uk/drink.mp3",
     "us": "media/us/drink.mp3"
    },
+   "spell": true,
    "avoid": [
     "biscuit",
     "bowl",
@@ -2484,6 +2508,7 @@
     "uk": "media/uk/eat.mp3",
     "us": "media/us/eat.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cereal",
@@ -2540,6 +2565,7 @@
     "uk": "media/uk/egg.mp3",
     "us": "media/us/egg.mp3"
    },
+   "spell": true,
    "avoid": [
     "boiled",
     "chicken",
@@ -2600,6 +2626,7 @@
     "uk": "media/uk/fish.mp3",
     "us": "media/us/fish.mp3"
    },
+   "spell": true,
    "avoid": [
     "chips",
     "grilled",
@@ -2654,6 +2681,7 @@
     "uk": "media/uk/food.mp3",
     "us": "media/us/food.mp3"
    },
+   "spell": true,
    "avoid": [
     "biscuit",
     "bowl",
@@ -2766,6 +2794,7 @@
     "uk": "media/uk/fridge.mp3",
     "us": "media/us/fridge.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2870,6 +2899,7 @@
     "uk": "media/uk/fruit.mp3",
     "us": "media/us/fruit.mp3"
    },
+   "spell": true,
    "avoid": [
     "apple",
     "banana",
@@ -2988,6 +3018,7 @@
     "uk": "media/uk/glass.mp3",
     "us": "media/us/glass.mp3"
    },
+   "spell": true,
    "avoid": [
     "bottle",
     "cup",
@@ -3209,6 +3240,7 @@
     "uk": "media/uk/hungry.mp3",
     "us": "media/us/hungry.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cereal",
@@ -3263,6 +3295,7 @@
     "uk": "media/uk/ice.mp3",
     "us": "media/us/ice.mp3"
    },
+   "spell": true,
    "avoid": [
     "ice-cream",
     "juice"
@@ -3416,6 +3449,7 @@
     "uk": "media/uk/juice.mp3",
     "us": "media/us/juice.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cereal",
@@ -3477,6 +3511,7 @@
     "uk": "media/uk/kitchen.mp3",
     "us": "media/us/kitchen.mp3"
    },
+   "spell": true,
    "avoid": [
     "chef",
     "cook",
@@ -3529,6 +3564,7 @@
     "uk": "media/uk/knife.mp3",
     "us": "media/us/knife.mp3"
    },
+   "spell": true,
    "avoid": [
     "bread",
     "butter",
@@ -3701,6 +3737,7 @@
     "uk": "media/uk/lunch.mp3",
     "us": "media/us/lunch.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "cafe",
@@ -3820,6 +3857,7 @@
     "uk": "media/uk/meal.mp3",
     "us": "media/us/meal.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "dinner",
@@ -3875,6 +3913,7 @@
     "uk": "media/uk/meat.mp3",
     "us": "media/us/meat.mp3"
    },
+   "spell": true,
    "avoid": [
     "biscuit",
     "bowl",
@@ -3991,6 +4030,7 @@
     "uk": "media/uk/menu.mp3",
     "us": "media/us/menu.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafe",
     "cafeteria",
@@ -4047,6 +4087,7 @@
     "uk": "media/uk/milk.mp3",
     "us": "media/us/milk.mp3"
    },
+   "spell": true,
    "avoid": [
     "bottle",
     "butter",
@@ -4393,6 +4434,7 @@
     "uk": "media/uk/orange.mp3",
     "us": "media/us/orange.mp3"
    },
+   "spell": true,
    "avoid": [
     "apple",
     "banana",
@@ -4456,6 +4498,7 @@
     "uk": "media/uk/pasta.mp3",
     "us": "media/us/pasta.mp3"
    },
+   "spell": true,
    "avoid": [
     "eat",
     "fork"
@@ -4626,6 +4669,7 @@
     "uk": "media/uk/picnic.mp3",
     "us": "media/us/picnic.mp3"
    },
+   "spell": true,
    "avoid": [
     "breakfast",
     "dinner",
@@ -4684,6 +4728,7 @@
     "uk": "media/uk/pizza.mp3",
     "us": "media/us/pizza.mp3"
    },
+   "spell": true,
    "avoid": [
     "cut",
     "mushroom",
@@ -4736,6 +4781,7 @@
     "uk": "media/uk/plate.mp3",
     "us": "media/us/plate.mp3"
    },
+   "spell": true,
    "avoid": [
     "bowl",
     "dish"
@@ -4789,6 +4835,7 @@
     "uk": "media/uk/potato.mp3",
     "us": "media/us/potato.mp3"
    },
+   "spell": true,
    "avoid": [
     "carrot",
     "chicken",
@@ -4850,6 +4897,7 @@
     "uk": "media/uk/rice.mp3",
     "us": "media/us/rice.mp3"
    },
+   "spell": true,
    "avoid": [
     "chicken",
     "curry",
@@ -4967,6 +5015,7 @@
     "uk": "media/uk/salad.mp3",
     "us": "media/us/salad.mp3"
    },
+   "spell": true,
    "avoid": [
     "carrot",
     "chilli",
@@ -5025,6 +5074,7 @@
     "uk": "media/uk/salt.mp3",
     "us": "media/us/salt.mp3"
    },
+   "spell": true,
    "avoid": [
     "bowl",
     "pepper",
@@ -5079,6 +5129,7 @@
     "uk": "media/uk/sandwich.mp3",
     "us": "media/us/sandwich.mp3"
    },
+   "spell": true,
    "avoid": [
     "bread",
     "fruit",
@@ -5356,6 +5407,7 @@
     "uk": "media/uk/soup.mp3",
     "us": "media/us/soup.mp3"
    },
+   "spell": true,
    "avoid": [
     "bowl",
     "salt"
@@ -5463,6 +5515,7 @@
     "uk": "media/uk/strawberry.mp3",
     "us": "media/us/strawberry.mp3"
    },
+   "spell": true,
    "avoid": [
     "apple",
     "banana",
@@ -5524,6 +5577,7 @@
     "uk": "media/uk/sugar.mp3",
     "us": "media/us/sugar.mp3"
    },
+   "spell": true,
    "avoid": [
     "coffee",
     "cup",
@@ -5585,6 +5639,7 @@
     "uk": "media/uk/sweet.mp3",
     "us": "media/us/sweet.mp3"
    },
+   "spell": true,
    "avoid": [
     "cake",
     "candy",
@@ -5638,6 +5693,7 @@
     "uk": "media/uk/tea.mp3",
     "us": "media/us/tea.mp3"
    },
+   "spell": true,
    "avoid": [
     "coffee",
     "cup",
@@ -5693,6 +5749,7 @@
     "uk": "media/uk/thirsty.mp3",
     "us": "media/us/thirsty.mp3"
    },
+   "spell": true,
    "avoid": [
     "cola",
     "drink",
@@ -5806,6 +5863,7 @@
     "uk": "media/uk/tomato.mp3",
     "us": "media/us/tomato.mp3"
    },
+   "spell": true,
    "avoid": [
     "carrot",
     "chilli",
@@ -5867,6 +5925,7 @@
     "uk": "media/uk/vegetable.mp3",
     "us": "media/us/vegetable.mp3"
    },
+   "spell": true,
    "avoid": [
     "carrot",
     "chilli",
@@ -5926,6 +5985,7 @@
     "uk": "media/uk/waiter.mp3",
     "us": "media/us/waiter.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafe",
     "cafeteria",
@@ -5983,6 +6043,7 @@
     "uk": "media/uk/waitress.mp3",
     "us": "media/us/waitress.mp3"
    },
+   "spell": true,
    "avoid": [
     "cafe",
     "cafeteria",

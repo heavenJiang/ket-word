@@ -47,6 +47,7 @@
     "uk": "media/uk/air.mp3",
     "us": "media/us/air.mp3"
    },
+   "spell": true,
    "avoid": [
     "moon",
     "sky",
@@ -101,6 +102,7 @@
     "uk": "media/uk/autumn.mp3",
     "us": "media/us/autumn.mp3"
    },
+   "spell": true,
    "avoid": [
     "spring",
     "summer",
@@ -153,6 +155,7 @@
     "uk": "media/uk/beach.mp3",
     "us": "media/us/beach.mp3"
    },
+   "spell": true,
    "avoid": [
     "island",
     "lake",
@@ -263,6 +266,7 @@
     "uk": "media/uk/country.mp3",
     "us": "media/us/country.mp3"
    },
+   "spell": true,
    "avoid": [
     "countryside",
     "field",
@@ -424,6 +428,7 @@
     "uk": "media/uk/east.mp3",
     "us": "media/us/east.mp3"
    },
+   "spell": true,
    "avoid": [
     "north",
     "south",
@@ -580,6 +585,7 @@
     "uk": "media/uk/fire.mp3",
     "us": "media/us/fire.mp3"
    },
+   "spell": true,
    "avoid": [
     "hot"
    ]
@@ -631,6 +637,7 @@
     "uk": "media/uk/flower.mp3",
     "us": "media/us/flower.mp3"
    },
+   "spell": true,
    "avoid": [
     "grass",
     "grow",
@@ -735,6 +742,7 @@
     "uk": "media/uk/grass.mp3",
     "us": "media/us/grass.mp3"
    },
+   "spell": true,
    "avoid": [
     "flower",
     "grow",
@@ -787,6 +795,7 @@
     "uk": "media/uk/grow.mp3",
     "us": "media/us/grow.mp3"
    },
+   "spell": true,
    "avoid": [
     "flower",
     "grass",
@@ -839,6 +848,7 @@
     "uk": "media/uk/hill.mp3",
     "us": "media/us/hill.mp3"
    },
+   "spell": true,
    "avoid": [
     "mountain"
    ]
@@ -889,6 +899,7 @@
     "uk": "media/uk/hot.mp3",
     "us": "media/us/hot.mp3"
    },
+   "spell": true,
    "avoid": [
     "desert",
     "fire"
@@ -940,6 +951,7 @@
     "uk": "media/uk/ice.mp3",
     "us": "media/us/ice.mp3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1147,6 +1159,7 @@
     "uk": "media/uk/mountain.mp3",
     "us": "media/us/mountain.mp3"
    },
+   "spell": true,
    "avoid": [
     "hill"
    ]
@@ -1201,6 +1214,7 @@
     "uk": "media/uk/north.mp3",
     "us": "media/us/north.mp3"
    },
+   "spell": true,
    "avoid": [
     "east",
     "south",
@@ -1253,6 +1267,7 @@
     "uk": "media/uk/plant.mp3",
     "us": "media/us/plant.mp3"
    },
+   "spell": true,
    "avoid": [
     "flower",
     "grass",
@@ -1306,6 +1321,7 @@
     "uk": "media/uk/river.mp3",
     "us": "media/us/river.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "lake",
@@ -1359,6 +1375,7 @@
     "uk": "media/uk/sea.mp3",
     "us": "media/us/sea.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "island",
@@ -1413,6 +1430,7 @@
     "uk": "media/uk/sky.mp3",
     "us": "media/us/sky.mp3"
    },
+   "spell": true,
    "avoid": [
     "air",
     "moon",
@@ -1470,6 +1488,7 @@
     "uk": "media/uk/south.mp3",
     "us": "media/us/south.mp3"
    },
+   "spell": true,
    "avoid": [
     "east",
     "north",
@@ -1582,6 +1601,7 @@
     "uk": "media/uk/spring.mp3",
     "us": "media/us/spring.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "summer",
@@ -1641,6 +1661,7 @@
     "uk": "media/uk/star.mp3",
     "us": "media/us/star.mp3"
    },
+   "spell": true,
    "avoid": [
     "air",
     "moon",
@@ -1695,6 +1716,7 @@
     "uk": "media/uk/summer.mp3",
     "us": "media/us/summer.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "spring",
@@ -1747,6 +1769,7 @@
     "uk": "media/uk/tree.mp3",
     "us": "media/us/tree.mp3"
    },
+   "spell": true,
    "avoid": [
     "forest",
     "wood"
@@ -1799,6 +1822,7 @@
     "uk": "media/uk/water.mp3",
     "us": "media/us/water.mp3"
    },
+   "spell": true,
    "avoid": [
     "beach",
     "lake",
@@ -1856,6 +1880,7 @@
     "uk": "media/uk/west.mp3",
     "us": "media/us/west.mp3"
    },
+   "spell": true,
    "avoid": [
     "east",
     "north",
@@ -1909,6 +1934,7 @@
     "uk": "media/uk/winter.mp3",
     "us": "media/us/winter.mp3"
    },
+   "spell": true,
    "avoid": [
     "autumn",
     "spring",
@@ -2070,6 +2096,7 @@
     "uk": "media/uk/world.mp3",
     "us": "media/us/world.mp3"
    },
+   "spell": true,
    "avoid": [
     "country",
     "countryside",
