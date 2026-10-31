@@ -1,8 +1,8 @@
 import { minutesOn } from "../lib/effect";
 import { unitLabel, unitOf } from "../lib/route";
 import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
-import { todayPlan } from "../session/today";
-import { dayKey, streak, type Progress } from "../store/progress";
+import { extraCap, todayPlan } from "../session/today";
+import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic } from "../types";
 import { Max, type Pose } from "../ui/Max";
@@ -38,7 +38,8 @@ export function Home(props: {
   /** The monthly check-up is due. */
   checkupDue: boolean;
   onCheckup: () => void;
-  onStart: () => void;
+  /** Start the day's session; `more` asks for that many extra new words once the plan is done. */
+  onStart: (more?: number) => void;
   onMap: () => void;
   onStories: () => void;
   /** Stickers earned, out of all. */
@@ -57,6 +58,10 @@ export function Home(props: {
   const met = library.all.filter((w) => progress.words[w.id]).length;
   const left = daysLeft(progress, now);
   const unit = topic && unitOf(topic.id);
+  // after the plan: one more group, until the day's new words reach twice the plan
+  const newToday = today?.newWords ?? 0;
+  const planned = planOptions(progress, now, library.all.filter((w) => !progress.words[w.id]).length).newPerDay;
+  const moreOk = library.all.some((w) => !progress.words[w.id]) && newToday < extraCap(planned);
 
   return (
     <div className="page home">
@@ -105,7 +110,7 @@ export function Home(props: {
           <span>当前岛屿</span>
           <b>
             {topic ? `${topic.zh} · ${topic.en}` : "加载中…"}
-            {unit && <span className="muted small"> （{unitLabel(unit)}）</span>}
+            {unit && <span className="today-unit">{unitLabel(unit)}</span>}
           </b>
           <span className="muted">换一个 ›</span>
         </button>
@@ -128,14 +133,28 @@ export function Home(props: {
             {catchUp && (
               <p className="notice">欢迎回来！先把以前的单词找回来，新单词稍后再学（还有 {plan.backlog} 个排队中）。</p>
             )}
-            <button className="btn btn-primary btn-huge" onClick={onStart}>
+            <button className="btn btn-primary btn-huge" onClick={() => onStart()}>
               开始今天的冒险 🚀
             </button>
           </>
         ) : (
           <div className="center">
             <b>🎉 今天的任务完成啦！</b>
-            <p className="muted">明天再来，记得更牢。</p>
+            {moreOk ? (
+              <>
+                <p className="muted">还想多学一点？再认识一组新朋友吧：</p>
+                <div className="row row-center">
+                  {[4, 8].map((n) => (
+                    <button key={n} className="btn btn-primary" onClick={() => onStart(n)}>
+                      再学 {n} 个新词
+                    </button>
+                  ))}
+                </div>
+                <p className="muted small">多学的词明天起也要复习，之后几天复习会多一点。</p>
+              </>
+            ) : (
+              <p className="muted">{newToday > 0 ? "今天认识了很多新朋友，休息一下，明天记得更牢。" : "明天再来，记得更牢。"}</p>
+            )}
           </div>
         )}
         {left > 0 && (

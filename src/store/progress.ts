@@ -7,6 +7,8 @@ export interface Settings {
   newPerDay: number;
   /** Planned study time a day, in minutes; reviews fill what new words leave. */
   minutes: number;
+  /** At least this many new words a day even when the goal asks for fewer (a quick learner); 0 = as the goal says. */
+  minNew?: number;
   /** Day to have every word learnt by ("2027-05-20"); the plan spreads the words over the days left. */
   goal?: string;
   retention: number;

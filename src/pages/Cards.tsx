@@ -57,6 +57,9 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
       {open && (
         <div className="sheet" onClick={() => setOpen(null)}>
           <div className="card sheet-card" onClick={(e) => e.stopPropagation()}>
+            <button className="sheet-x" onClick={() => setOpen(null)} aria-label="关闭">
+              ✕
+            </button>
             <Picture word={open} size="lg" />
             <div className="intro-word">
               <Chunks word={open} />

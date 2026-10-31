@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Library } from "../lib/data";
 import { effect, MIN_ANSWERS, pct, type Rate } from "../lib/effect";
 import { forecast, type Forecast } from "../session/forecast";
-import { daysLeft, FINAL_DAYS } from "../session/goal";
+import { daysLeft, FINAL_DAYS, targets } from "../session/goal";
 import { isMastered, retrievability, type CardState } from "../srs/srs";
 import { dayKey, parseProgress, type Progress } from "../store/progress";
 import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
@@ -250,14 +250,16 @@ const dateZh = (t: number) => {
  * own planner, so a parent sees the daily time a goal really takes before committing to it.
  */
 function PlanPanel({ progress, library, topics, set }: { progress: Progress; library: Library; topics: Topic[]; set: Set }) {
-  const { goal, minutes, newPerDay } = progress.settings;
+  const { goal, minutes, newPerDay, minNew } = progress.settings;
   const [f, setF] = useState<Forecast | "busy" | null>(null);
   const now = Date.now();
   const left = daysLeft(progress, now);
   const met = library.all.filter((w) => progress.words[w.id]).length;
+  // the goal's own pace, before the parent's minimum
+  const pace = targets({ ...progress, settings: { ...progress.settings, minNew: 0 } }, now, library.all.length - met).newPerDay;
 
   // a new goal or time makes the old forecast meaningless
-  useEffect(() => setF(null), [goal, minutes, newPerDay]);
+  useEffect(() => setF(null), [goal, minutes, newPerDay, minNew]);
 
   const run = async () => {
     setF("busy");
@@ -290,6 +292,16 @@ function PlanPanel({ progress, library, topics, set }: { progress: Progress; lib
         <label>
           不设日期时，每天新词：{newPerDay} 个
           <input type="range" min={4} max={20} value={newPerDay} onChange={(e) => set("newPerDay", Number(e.target.value))} />
+        </label>
+      )}
+      {goal && (
+        <label>
+          每天新词至少：{minNew ? `${minNew} 个` : "按日期算"}
+          <span className="muted small">
+            {" "}
+            （按日期每天约 {pace} 个；孩子记得快可以调高，会提前学完）
+          </span>
+          <input type="range" min={0} max={30} step={2} value={minNew ?? 0} onChange={(e) => set("minNew", Number(e.target.value) || undefined)} />
         </label>
       )}
       <label>

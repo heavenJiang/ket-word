@@ -38,6 +38,13 @@ describe("targets", () => {
     expect(targets(withGoal(17), now, 100).newPerDay).toBe(10);
   });
 
+  it("takes at least the parent's minimum of new words, never more than are left", () => {
+    const p = withGoal(100 + FINAL_DAYS);
+    expect(targets({ ...p, settings: { ...p.settings, minNew: 16 } }, now, 1000).newPerDay).toBe(16);
+    expect(targets({ ...p, settings: { ...p.settings, minNew: 16 } }, now, 5).newPerDay).toBe(5);
+    expect(targets({ ...p, settings: { ...p.settings, minNew: 4 } }, now, 1000).newPerDay).toBe(10);
+  });
+
   it("uses the fixed number of new words without a goal", () => {
     const t = targets(emptyProgress(), now, 1000);
     expect(t.phase).toBe("free");

@@ -85,6 +85,21 @@ describe("buildPlan", () => {
   });
 });
 
+describe("one more group", () => {
+  it("adds that many new words once the day's are done, and caps the day at twice the plan", async () => {
+    const { todayPlan, extraCap } = await import("./today");
+    const { emptyProgress, recordGrade } = await import("../store/progress");
+    const words = order.map((id) => ({ id, word: id, zh: id, pos: [], ipa: "", chunks: [id], emoji: "", sentence: { en: "", zh: "" }, media: {} }) as Word);
+    const library = { topics: { t: words }, byId: new Map(words.map((w) => [w.id, w])), poolOf: new Map(), all: words };
+    const topics = [{ id: "t", en: "t", zh: "t", count: 20, ready: true }];
+    let p = { ...emptyProgress(), topic: "t" };
+    for (const id of order.slice(0, 8)) p = recordGrade(p, id, "meaning", Rating.Good, t0);
+    expect(todayPlan(library, topics, p, t0 + 60_000).newWords).toEqual([]);
+    expect(todayPlan(library, topics, p, t0 + 60_000, 4).newWords).toEqual(order.slice(8, 12));
+    expect(extraCap(8)).toBe(16);
+  });
+});
+
 describe("session", () => {
   it("teaches new words in groups, practises them unscored, and scores a recall at the end", () => {
     const s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 6 }), {}, seq());
