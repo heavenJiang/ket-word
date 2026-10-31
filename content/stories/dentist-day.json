@@ -1,0 +1,50 @@
+{
+ "id": "dentist-day",
+ "topic": "health",
+ "title": "A Visit to the Dentist",
+ "zh": "去看牙医",
+ "pages": [
+  {
+   "en": "Lily has a toothache. \"Too many sweets!\" says Mum. They make an appointment with the dentist for Monday afternoon.",
+   "zh": "Lily 牙疼了。“糖吃太多了！”妈妈说。她们约了星期一下午看牙医。",
+   "scene": "Lily sitting at the kitchen table holding her cheek, her face sad and in pain, not smiling, a bowl of sweets in front of her, Mum behind her talking on the phone."
+  },
+  {
+   "en": "Lily is a little afraid, but the dentist is very kind. He looks at her teeth and fixes the bad tooth. It doesn't hurt much.",
+   "zh": "Lily 有点害怕，可是牙医很和蔼。他看了她的牙，把坏牙补好了。不怎么疼。",
+   "scene": "A bright dentist's room, Lily sitting in the big dentist's chair with her mouth open, a kind dentist with a mirror smiling at her, Mum holding her hand."
+  },
+  {
+   "en": "At home, Lily gives Tom a new toothbrush. \"Brush your teeth twice a day,\" she says, \"and don't eat too many sweets!\" Tom laughs.",
+   "zh": "回到家，Lily 给了 Tom 一把新牙刷。“每天刷两次牙，”她说，“别吃太多糖！”Tom 笑了。",
+   "scene": "Lily and Tom brushing their teeth together at the bathroom sink, both with blue toothbrushes and white foam, smiling at each other in the mirror."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lily's toothache is from too many sweets.",
+   "zh": "Lily 牙疼是因为吃了太多糖。",
+   "answer": true
+  },
+  {
+   "q": "When is the appointment?",
+   "zh": "预约在什么时候？",
+   "options": [
+    "Monday afternoon",
+    "Friday morning",
+    "Sunday evening"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Lily give Tom?",
+   "zh": "Lily 给了 Tom 什么？",
+   "options": [
+    "a toothbrush",
+    "some sweets",
+    "a book"
+   ],
+   "answer": 0
+  }
+ ]
+}

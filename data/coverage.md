@@ -41,7 +41,26 @@
 | 动物 `animals` | 47 | 43 | 4 |
 | 数字 `numbers` | 43 | 21 | 22 |
 | 国家与大洲 `world` | 32 | 27 | 5 |
-| 核心词 `core` | 770 | 610 | 160 |
+| 我和你 `core-me` | 39 | 15 | 24 |
+| 有人和没人 `core-anyone` | 23 | 20 | 3 |
+| 小词 `core-little` | 36 | 22 | 14 |
+| 在哪里 `core-where` | 44 | 39 | 5 |
+| 什么时候 `core-when` | 45 | 42 | 3 |
+| 多少 `core-howmuch` | 48 | 43 | 5 |
+| 问候与礼貌 `core-hello` | 41 | 19 | 22 |
+| 动起来 `core-move` | 37 | 28 | 9 |
+| 给和拿 `core-give` | 25 | 21 | 4 |
+| 想和说 `core-think` | 37 | 37 | 0 |
+| 能和必须 `core-can` | 24 | 13 | 11 |
+| 忙着做事 `core-do` | 60 | 47 | 13 |
+| 好坏与心情 `core-feel` | 36 | 33 | 3 |
+| 什么样 `core-describe` | 59 | 53 | 6 |
+| 人们 `core-people` | 48 | 34 | 14 |
+| 身边的东西 `core-things` | 56 | 51 | 5 |
+| 玩乐与演出 `core-fun` | 34 | 29 | 5 |
+| 地方与出行 `core-places` | 27 | 22 | 5 |
+| 文字与网络 `core-words` | 38 | 31 | 7 |
+| 自然生物 `core-nature` | 13 | 11 | 2 |
 
 ## 未命中条目
 

@@ -1,0 +1,45 @@
+{
+ "id": "world-day",
+ "topic": "world",
+ "title": "Around the World Day",
+ "zh": "环游世界日",
+ "pages": [
+  {
+   "en": "Today is Around the World Day at school. Every class has a country. Lily's class has Italy, and Mia's class has Japan.",
+   "zh": "今天是学校的“环游世界日”。每个班都有一个国家。Lily 班上是意大利，Mia 班上是日本。",
+   "scene": "A colourful school hall with tables decorated with flags of many countries, Lily at a table with Italian flags and pizza, Mia at a table with Japanese cherry blossom pictures."
+  },
+  {
+   "en": "Lily makes a pizza and learns some Italian words. Mia wears Japanese clothes. Sam's class has Brazil, and they play football.",
+   "zh": "Lily 做了一个披萨，还学了几个意大利语单词。Mia 穿着日本的传统服装。Sam 班上是巴西，他们踢起了足球。",
+   "scene": "Lily putting tomato on a pizza, Mia in a pretty kimono, Sam kicking a football with friends in yellow and green shirts in the school yard."
+  },
+  {
+   "en": "At the end of the day, Lily looks at the big map of the world. \"I want to visit every country,\" she says.",
+   "zh": "一天结束时，Lily 看着那张大大的世界地图。“我想去每一个国家，”她说。",
+   "scene": "Lily standing in front of a big colourful map of the world on the school wall, pointing at the continents with a dreamy smile."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which country does Lily's class have?",
+   "zh": "Lily 班上是哪个国家？",
+   "options": [
+    "Italy",
+    "Japan",
+    "Brazil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mia wears Japanese clothes.",
+   "zh": "Mia 穿了日本服装。",
+   "answer": true
+  },
+  {
+   "q": "Sam's class plays chess.",
+   "zh": "Sam 班上下了国际象棋。",
+   "answer": false
+  }
+ ]
+}

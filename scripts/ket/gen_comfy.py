@@ -6,7 +6,8 @@ Usage:
     python3 scripts/ket/gen_comfy.py --sheet [--missing|--only]  # contact sheets -> .local/gen/qwen-image/sheet-<n>.png
     python3 scripts/ket/gen_comfy.py --pick bear=2,can=1          # chosen -> content/media/ai/<id>.webp
 
-Text-to-image from each word's "scene". Recurring characters (Lily, Max, Mum, Dad) are swapped for a
+Text-to-image from each word's "scene", which comes from content/topics/ and from content/drafts/ while
+an island is still being written. Recurring characters (Lily, Max, Mum, Dad) are swapped for a
 fixed look so they stay the same from picture to picture and their names never reach the prompt, which
 the model would happily letter into the image. Qwen-Image replaced FLUX.1-dev after a side-by-side test
 (2026-10-29): it follows the scene closely and keeps the cast's looks; the pictures picked before then
@@ -15,7 +16,8 @@ Candidates that already exist are skipped, so an interrupted run resumes; delete
 it. Every candidate must be reviewed on a contact sheet before --pick. build_app_data.py prefers
 content/media/ai over the hand-drawn SVG renders, which stay as fallback.
 
-Env: COMFY_URL (default: the generation box on the LAN), COMFY_UNET.
+Env: COMFY_URL (default: the generation box on the LAN), COMFY_UNET, COMFY_LORA (a Qwen-Image-Lightning
+LoRA: 8 steps at cfg 1 instead of 30 at cfg 4, about four times faster), COMFY_GEN (candidate folder).
 Needs Pillow (pip install pillow).
 """
 
@@ -36,11 +38,13 @@ from PIL import Image, ImageDraw
 
 ROOT = Path(__file__).resolve().parents[2]
 CONTENT = ROOT / "content/topics"
+DRAFTS = ROOT / "content/drafts"
 OUT = ROOT / "content/media/ai"
-GEN = ROOT / ".local/gen/qwen-image"  # FLUX candidates stay in .local/gen, so they are not mistaken for done
+GEN = Path(os.environ.get("COMFY_GEN", ROOT / ".local/gen/qwen-image"))  # candidates stay in .local/gen, so they are not mistaken for done
 
 URL = os.environ.get("COMFY_URL", "http://192.168.31.128:8188").rstrip("/")
 UNET = os.environ.get("COMFY_UNET", "qwen_image_2512_fp8_e4m3fn.safetensors")
+LORA = os.environ.get("COMFY_LORA", "")
 
 STYLE = (
     "Cute children's picture book illustration, soft gouache and coloured pencil, warm bright cheerful colours, "
@@ -49,10 +53,10 @@ STYLE = (
 )
 NEGATIVE = "text, letters, words, writing, watermark, signature, blurry, deformed hands, extra fingers, ugly"
 CAST = {
-    "Lily": "a cheerful 9-year-old girl with shoulder-length brown hair, a yellow t-shirt and blue dungarees",
+    "Lily": "a 9-year-old girl with shoulder-length brown hair, a yellow t-shirt and blue dungarees",
     "Max": "a small fluffy cream-coloured puppy with floppy ears and a red collar",
-    "Mum": "a grown-up woman in her late thirties, a smiling mother with dark hair in a bun and a green cardigan",
-    "Dad": "a grown-up man in his early forties, a smiling father with short brown hair, round glasses and a blue jumper",
+    "Mum": "a grown-up woman in her late thirties, a mother with dark hair in a bun and a green cardigan",
+    "Dad": "a grown-up man in his early forties, a father with short brown hair, round glasses and a blue jumper",
     "Tom": "a cheeky 6-year-old boy with messy brown hair and a red t-shirt",
     "Grandma": "a cheerful grandmother with curly grey hair in a bun, round glasses and a red cardigan",
     "Grandpa": "a jolly grandfather with white hair, a white moustache and a green knitted waistcoat",
@@ -63,7 +67,7 @@ CAST = {
 }
 # "Lily wearing a party dress": the look without the usual clothes, which would otherwise win.
 LOOK = {
-    "Lily": "a cheerful 9-year-old girl with shoulder-length brown hair",
+    "Lily": "a 9-year-old girl with shoulder-length brown hair",
     "Tom": "a cheeky 6-year-old boy with messy brown hair",
 }
 # Second and later mentions of a character use a short reference instead of the full look.
@@ -102,9 +106,13 @@ def call(path: str, data: bytes | None = None) -> bytes:
 
 
 def workflow(text: str, seed: int) -> dict:
+    steps, cfg = (8, 1.0) if LORA else (30, 4.0)
+    lora = {"lora": {"class_type": "LoraLoaderModelOnly",
+                     "inputs": {"model": ["unet", 0], "lora_name": LORA, "strength_model": 1.0}}} if LORA else {}
     return {
         "unet": {"class_type": "UNETLoader", "inputs": {"unet_name": UNET, "weight_dtype": "default"}},
-        "shift": {"class_type": "ModelSamplingAuraFlow", "inputs": {"model": ["unet", 0], "shift": 3.1}},
+        **lora,
+        "shift": {"class_type": "ModelSamplingAuraFlow", "inputs": {"model": ["lora" if LORA else "unet", 0], "shift": 3.1}},
         "clip": {"class_type": "CLIPLoader", "inputs": {"clip_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors", "type": "qwen_image"}},
         "vae": {"class_type": "VAELoader", "inputs": {"vae_name": "qwen_image_vae.safetensors"}},
         "pos": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["clip", 0], "text": text}},
@@ -112,7 +120,7 @@ def workflow(text: str, seed: int) -> dict:
         "latent": {"class_type": "EmptySD3LatentImage", "inputs": {"width": 1024, "height": 1024, "batch_size": 1}},
         "sample": {"class_type": "KSampler", "inputs": {
             "model": ["shift", 0], "positive": ["pos", 0], "negative": ["neg", 0], "latent_image": ["latent", 0],
-            "seed": seed, "steps": 30, "cfg": 4.0, "sampler_name": "euler", "scheduler": "simple", "denoise": 1.0}},
+            "seed": seed, "steps": steps, "cfg": cfg, "sampler_name": "euler", "scheduler": "simple", "denoise": 1.0}},
         "decode": {"class_type": "VAEDecode", "inputs": {"samples": ["sample", 0], "vae": ["vae", 0]}},
         "save": {"class_type": "SaveImage", "inputs": {"images": ["decode", 0], "filename_prefix": "ket-word"}},
     }
@@ -138,10 +146,10 @@ def to_webp(data: bytes, dest: Path) -> None:
 
 
 def words(only: set[str]) -> list[dict]:
-    """Words with a scene, each id once (chicken and fish are shared across topics), then story pages
-    as story-<story>-<page>."""
+    """Words with a scene, each id once (chicken and fish are shared across topics), then draft words,
+    then story pages as story-<story>-<page>."""
     seen: dict[str, dict] = {}
-    for p in sorted(CONTENT.glob("*.json")):
+    for p in sorted(CONTENT.glob("*.json")) + sorted(DRAFTS.glob("*.json")):
         for w in json.loads(p.read_text(encoding="utf-8"))["words"]:
             if w.get("scene") and w["id"] not in seen and (not only or w["id"] in only):
                 seen[w["id"]] = w
@@ -204,7 +212,7 @@ def main() -> None:
     GEN.mkdir(parents=True, exist_ok=True)
     if a.sheet:
         return sheet(todo)
-    print(f"{len(todo)} words x {a.n} candidates with {UNET} at {URL}")
+    print(f"{len(todo)} words x {a.n} candidates with {UNET}{' + ' + LORA if LORA else ''} at {URL}")
     for w in todo:
         for k in range(1, a.n + 1):
             dest = GEN / f"{w['id']}-{k}.webp"

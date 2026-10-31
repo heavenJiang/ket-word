@@ -7,7 +7,7 @@ import { Picture } from "../ui/Picture";
 type Side = "pic" | "word";
 
 /**
- * Pair each picture with its word, right after meeting a group. Not graded: it is one more
+ * Pair each picture (or, for a word with no picture, its meaning) with its word, right after meeting a group. Not graded: it is one more
  * easy retrieval of every new word, played as a game, before the scored questions start.
  */
 export function Match({ words, accent, sound, onDone }: { words: Word[]; accent: Accent; sound: boolean; onDone: () => void }) {
@@ -47,7 +47,7 @@ export function Match({ words, accent, sound, onDone }: { words: Word[]; accent:
         <div className="match-col">
           {pics.map((w) => (
             <button key={w.id} className={cls("pic", w)} onClick={() => tap("pic", w)}>
-              <Picture word={w} size="sm" />
+              {w.media.img ? <Picture word={w} size="sm" /> : <span className="match-zh">{w.zh}</span>}
             </button>
           ))}
         </div>

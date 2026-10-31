@@ -1,0 +1,39 @@
+{
+  "topic": "town",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Places in a town; each picture shows one clear place.",
+  "confusable": [
+    ["town", "city-centre", "square"],
+    ["market", "square", "corner"],
+    ["street", "road", "motorway", "roundabout"],
+    ["bridge", "corner"],
+    ["park", "park.2", "car-park"],
+    ["park", "playground", "zoo"],
+    ["station", "bus-station", "bus-stop", "underground"],
+    ["petrol-station", "car-park"],
+    ["airport", "station"]
+  ],
+  "words": [
+    { "id": "town", "zh": "城镇", "chunks": ["town"], "emoji": "🏘️", "en": "We live in a small town.", "sz": "我们住在一个小城镇。", "scene": "A small town with houses, a church and a river.", "more": [["The town has a big market.", "这个城镇有一个大市场。"], ["Grandpa lives in the next town.", "爷爷住在邻近的城镇。"]] },
+    { "id": "city-centre", "zh": "市中心", "chunks": ["ci", "ty", "cen", "tre"], "emoji": "🏙️", "en": "Dad works in the city centre.", "sz": "爸爸在市中心工作。", "scene": "A busy city centre with tall buildings, shops and people.", "more": [["We take a bus to the city centre.", "我们坐公共汽车去市中心。"], ["The city centre is very busy on Saturdays.", "星期六的市中心非常繁忙。"]] },
+    { "id": "square", "zh": "广场；方形的", "chunks": ["square"], "emoji": "⛲", "en": "Lily runs in the town square.", "sz": "Lily 在城镇广场上跑。", "scene": "A town square with a fountain and pigeons.", "more": [["The window is a big square.", "窗户是一个大方块。"], ["We meet in the square after school.", "放学后我们在广场见面。"]] },
+    { "id": "market", "zh": "市场", "chunks": ["mar", "ket"], "emoji": "🍎", "en": "Mum buys fruit at the market.", "sz": "妈妈在市场买水果。", "scene": "A busy outdoor market with fruit and vegetable stalls.", "more": [["The market opens on Sunday morning.", "市场在星期天上午开门。"], ["We walk to the market every week.", "我们每周都走去市场。"]] },
+    { "id": "corner", "zh": "角落；拐角", "chunks": ["cor", "ner"], "emoji": "📐", "en": "The shop is on the corner.", "sz": "商店在拐角处。", "scene": "A café on the corner of two streets.", "more": [["Tom sits in the corner of the room.", "Tom 坐在房间的角落里。"], ["Look at the corner of the page.", "看这一页的角落。"]] },
+    { "id": "street", "zh": "街道", "chunks": ["street"], "emoji": "🏪", "en": "We cross the street here.", "sz": "我们在这里过街。", "scene": "a busy town street with shops on both sides", "more": [["Our house is on a quiet street.", "我们的房子在一条安静的街道上。"], ["The street is full of cars.", "街道上满是汽车。"]] },
+    { "id": "road", "zh": "路；公路", "chunks": ["road"], "emoji": "🛣️", "en": "The car goes down the road.", "sz": "汽车沿着这条路开。", "scene": "A country road going between green fields, the family car driving along it and Lily looking out of the window", "more": [["Be careful when you cross the road.", "过马路时要小心。"], ["The road to Grandma's house is long.", "去奶奶家的路很长。"]] },
+    { "id": "bridge", "zh": "桥", "chunks": ["bridge"], "emoji": "🌉", "en": "The train goes over the bridge.", "sz": "火车从桥上经过。", "scene": "A long stone bridge over a wide river, a green train going across it, Lily watching from the grass", "more": [["We walk across the old bridge.", "我们走过那座旧桥。"], ["The bridge is very tall.", "这座桥很高。"]] },
+    { "id": "park", "zh": "公园", "chunks": ["park"], "emoji": "🌳", "en": "Lily plays in the park.", "sz": "Lily 在公园里玩。", "scene": "Lily, Tom and Sam playing football on the green grass of a park, big trees and a duck pond behind them, Max running after the ball.", "more": [["We have a picnic in the park.", "我们在公园里野餐。"], ["The ducks swim on the lake in the park.", "鸭子在公园的湖里游泳。"]] },
+    { "id": "park.2", "of": "park", "zh": "停（车）", "pos": ["v"], "chunks": ["park"], "emoji": "🚗", "en": "Dad parks the car.", "sz": "爸爸停车。", "scene": "Dad parking the family car carefully in a parking space outside a shop, reversing between white lines, Lily and Mum waiting on the pavement.", "more": [["Can you park here?", "你可以把车停在这里吗？"], ["Please do not park on the grass.", "请不要把车停在草地上。"]] },
+    { "id": "playground", "zh": "游乐场；操场", "chunks": ["play", "ground"], "emoji": "🛝", "en": "Tom plays in the playground.", "sz": "Tom 在操场上玩。", "scene": "Tom on the slide in a playground, Lily on the swings.", "more": [["We meet at the playground after school.", "放学后我们在游乐场见面。"], ["The playground is big and fun.", "这个游乐场又大又有趣。"]] },
+    { "id": "zoo", "zh": "动物园", "chunks": ["zoo"], "emoji": "🦁", "en": "We see pandas at the zoo.", "sz": "我们在动物园看熊猫。", "more": [["Mum takes Tom to the zoo.", "妈妈带 Tom 去动物园。"], ["The zoo is far from our house.", "动物园离我们家很远。"]] },
+    { "id": "car-park", "zh": "停车场", "chunks": ["car", "park"], "emoji": "🅿️", "en": "Dad drives into the car park.", "sz": "爸爸开车进停车场。", "scene": "a car park full of cars in rows.", "more": [["The car park is very busy today.", "今天停车场很繁忙。"], ["We leave the car in the car park.", "我们把车留在停车场里。"]] },
+    { "id": "station", "zh": "车站；火车站", "chunks": ["sta", "tion"], "emoji": "🚉", "en": "We wait for the train at the station.", "sz": "我们在火车站等火车。", "scene": "a big old railway station building with a clock.", "more": [["The station is near our school.", "火车站在我们学校附近。"], ["Dad buys tickets at the station.", "爸爸在火车站买票。"]] },
+    { "id": "bus-station", "zh": "公共汽车站（总站）", "chunks": ["bus", "sta", "tion"], "emoji": "🚌", "en": "We wait for the bus at the bus station.", "sz": "我们在公共汽车站等车。", "scene": "a big bus station building with many buses parked in rows.", "more": [["The bus station is very busy in the morning.", "公共汽车站在早上很繁忙。"], ["Lily runs to the bus station.", "Lily 跑向公共汽车站。"]] },
+    { "id": "bus-stop", "zh": "公共汽车站（站牌处）", "chunks": ["bus", "stop"], "emoji": "🚏", "en": "Mum waits at the bus stop.", "sz": "妈妈在公共汽车站点等车。", "scene": "Lily and Mum waiting at a bus stop pole by the road, no bus there yet.", "more": [["The bus stop is just around the corner.", "公共汽车站点就在拐角处。"], ["We walk to the bus stop every day.", "我们每天步行去公共汽车站点。"]] },
+    { "id": "underground", "zh": "地铁；地下的", "chunks": ["un", "der", "ground"], "emoji": "🚇", "en": "We take the underground to school.", "sz": "我们坐地铁去学校。", "scene": "an underground train arriving in a station under the city.", "more": [["The underground is fast and clean.", "地铁又快又干净。"], ["We wait on the underground platform.", "我们在地铁月台等车。"]] },
+    { "id": "petrol-station", "zh": "加油站", "chunks": ["pe", "trol", "sta", "tion"], "emoji": "⛽", "en": "Dad stops at the petrol station.", "sz": "爸爸在加油站停车。", "scene": "A petrol station at the side of a road, Dad standing beside the family car filling it with petrol from a green pump, a small shop behind.", "more": [["We buy drinks at the petrol station.", "我们在加油站买饮料。"], ["Dad fills the car at the petrol station.", "爸爸在加油站给车加油。"]] },
+    { "id": "motorway", "zh": "高速公路", "chunks": ["mo", "tor", "way"], "emoji": "🛣️", "en": "We drive on the motorway.", "sz": "我们在高速公路上开车。", "scene": "a wide motorway with many lanes of cars, seen from a bridge", "more": [["The motorway is very busy today.", "今天高速公路很繁忙。"], ["We take the next exit on the motorway.", "我们在高速公路上走下一个出口。"]] },
+    { "id": "roundabout", "zh": "环岛", "chunks": ["round", "a", "bout"], "emoji": "🔄", "en": "Dad drives round the roundabout.", "sz": "爸爸开车绕环岛行驶。", "scene": "cars driving round a roundabout with flowers in the middle, seen from above", "more": [["Be careful at the roundabout.", "在环岛处要小心。"], ["There are many cars on the roundabout.", "环岛上有很多车。"]] },
+    { "id": "airport", "zh": "机场", "chunks": ["air", "port"], "emoji": "✈️", "en": "We go to the airport.", "sz": "我们去机场。", "scene": "A modern airport building with big glass windows, a passenger plane on the ground in front of it, and Lily pulling a suitcase towards the door with Dad.", "more": [["The airport is far from home.", "机场离家很远。"], ["We look at the plane at the airport.", "我们在机场看飞机。"]] }
+  ]
+}

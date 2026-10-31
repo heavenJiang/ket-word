@@ -1,0 +1,2941 @@
+{
+ "id": "core-describe",
+ "words": [
+  {
+   "id": "available",
+   "word": "available",
+   "zh": "可用的；有空的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "可用的；有空的"
+    }
+   ],
+   "ipa": "/əˈveɪləbl/",
+   "chunks": [
+    "a",
+    "vail",
+    "a",
+    "ble"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "Is Dad available to help me?",
+    "zh": "爸爸有空帮我吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is Dad available to help me?",
+     "zh": "爸爸有空帮我吗？",
+     "audio": "media/sent/25aec0296ab0.mp3"
+    },
+    {
+     "en": "The blue pen is not available.",
+     "zh": "这支蓝色的笔没有了。",
+     "audio": "media/sent/5092382f1a7e.mp3"
+    },
+    {
+     "en": "Are you available on Sunday?",
+     "zh": "你星期天有空吗？",
+     "audio": "media/sent/295f249fc0dc.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/available.mp3",
+    "us": "media/us/available.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "bright",
+   "word": "bright",
+   "zh": "明亮的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "明亮的"
+    }
+   ],
+   "ipa": "/braɪt/",
+   "chunks": [
+    "bright"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "The kitchen is very bright.",
+    "zh": "厨房很明亮。"
+   },
+   "sentences": [
+    {
+     "en": "The kitchen is very bright.",
+     "zh": "厨房很明亮。",
+     "audio": "media/sent/c3aa6a9d4f87.mp3"
+    },
+    {
+     "en": "Lily wears a bright red coat.",
+     "zh": "Lily 穿着一件鲜红色的外套。",
+     "audio": "media/sent/3ceaf6c48840.mp3"
+    },
+    {
+     "en": "The stars are bright tonight.",
+     "zh": "今晚的星星很亮。",
+     "audio": "media/sent/e5dd154d0023.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bright.webp",
+    "uk": "media/uk/bright.mp3",
+    "us": "media/us/bright.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "broken",
+   "word": "broken",
+   "zh": "坏的；破损的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "坏的；破损的"
+    }
+   ],
+   "ipa": "/ˈbrəʊkən/",
+   "chunks": [
+    "bro",
+    "ken"
+   ],
+   "emoji": "🔧",
+   "sentence": {
+    "en": "My toy car is broken.",
+    "zh": "我的玩具车坏了。"
+   },
+   "sentences": [
+    {
+     "en": "My toy car is broken.",
+     "zh": "我的玩具车坏了。",
+     "audio": "media/sent/d1d2d98de7f6.mp3"
+    },
+    {
+     "en": "The window glass is broken.",
+     "zh": "窗户玻璃碎了。",
+     "audio": "media/sent/218aaf3c561a.mp3"
+    },
+    {
+     "en": "Dad fixes the broken chair.",
+     "zh": "爸爸修好了那把坏椅子。",
+     "audio": "media/sent/d783f46f62fe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/broken.webp",
+    "uk": "media/uk/broken.mp3",
+    "us": "media/us/broken.mp3"
+   },
+   "avoid": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "correct",
+   "word": "correct",
+   "zh": "正确的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "正确的"
+    }
+   ],
+   "ipa": "/kəˈrekt/",
+   "chunks": [
+    "cor",
+    "rect"
+   ],
+   "emoji": "✔️",
+   "sentence": {
+    "en": "The answer is correct.",
+    "zh": "答案是对的。"
+   },
+   "sentences": [
+    {
+     "en": "The answer is correct.",
+     "zh": "答案是对的。",
+     "audio": "media/sent/2d092bb41986.mp3"
+    },
+    {
+     "en": "Choose the correct answer.",
+     "zh": "选出正确答案。",
+     "audio": "media/sent/0575c8b6e186.mp3"
+    },
+    {
+     "en": "Is this the correct bus?",
+     "zh": "这是正确的公交车吗？",
+     "audio": "media/sent/1687207fde45.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/correct.mp3",
+    "us": "media/us/correct.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "crowded",
+   "word": "crowded",
+   "zh": "拥挤的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "拥挤的"
+    }
+   ],
+   "ipa": "/ˈkraʊdɪd/",
+   "chunks": [
+    "crow",
+    "ded"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "The bus is crowded today.",
+    "zh": "今天公交车很拥挤。"
+   },
+   "sentences": [
+    {
+     "en": "The bus is crowded today.",
+     "zh": "今天公交车很拥挤。",
+     "audio": "media/sent/181a181022cb.mp3"
+    },
+    {
+     "en": "The park was crowded on Saturday.",
+     "zh": "星期六公园很拥挤。",
+     "audio": "media/sent/f95d630e9a61.mp3"
+    },
+    {
+     "en": "I don't like crowded shops.",
+     "zh": "我不喜欢拥挤的商店。",
+     "audio": "media/sent/8505a0720da5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/crowded.webp",
+    "uk": "media/uk/crowded.mp3",
+    "us": "media/us/crowded.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "deep",
+   "word": "deep",
+   "zh": "深的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "深的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "deep"
+   ],
+   "emoji": "🌊",
+   "sentence": {
+    "en": "The pool is very deep.",
+    "zh": "这个池子很深。"
+   },
+   "sentences": [
+    {
+     "en": "The pool is very deep.",
+     "zh": "这个池子很深。",
+     "audio": "media/sent/4cbcb426e587.mp3"
+    },
+    {
+     "en": "Don't swim in the deep end.",
+     "zh": "不要在深水区游泳。",
+     "audio": "media/sent/c75022eeb135.mp3"
+    },
+    {
+     "en": "The sea is deep and blue.",
+     "zh": "大海又深又蓝。",
+     "audio": "media/sent/17936cb7e402.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/deep.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dirty",
+   "word": "dirty",
+   "zh": "脏的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "脏的"
+    }
+   ],
+   "ipa": "/ˈdɜːti/",
+   "chunks": [
+    "dir",
+    "ty"
+   ],
+   "emoji": "🧼",
+   "sentence": {
+    "en": "Tom's hands are dirty.",
+    "zh": "Tom 的手很脏。"
+   },
+   "sentences": [
+    {
+     "en": "Tom's hands are dirty.",
+     "zh": "Tom 的手很脏。",
+     "audio": "media/sent/5ca851b7f739.mp3"
+    },
+    {
+     "en": "Wash the dirty plate please.",
+     "zh": "请洗一下这个脏盘子。",
+     "audio": "media/sent/95587c051857.mp3"
+    },
+    {
+     "en": "Max has dirty feet.",
+     "zh": "Max 的脚很脏。",
+     "audio": "media/sent/d13c02cdc718.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dirty.webp",
+    "uk": "media/uk/dirty.mp3",
+    "us": "media/us/dirty.mp3"
+   },
+   "avoid": [
+    "broken"
+   ]
+  },
+  {
+   "id": "dry",
+   "word": "dry",
+   "zh": "干的；弄干",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "v"
+     ],
+     "zh": "干的；弄干"
+    }
+   ],
+   "ipa": "/draɪ/",
+   "chunks": [
+    "dry"
+   ],
+   "emoji": "🍞",
+   "sentence": {
+    "en": "The towel is dry.",
+    "zh": "毛巾是干的。"
+   },
+   "sentences": [
+    {
+     "en": "The towel is dry.",
+     "zh": "毛巾是干的。",
+     "audio": "media/sent/f187bd31503f.mp3"
+    },
+    {
+     "en": "Please dry your hands.",
+     "zh": "请把手擦干。",
+     "audio": "media/sent/8e1df75c2b39.mp3"
+    },
+    {
+     "en": "It is dry and hot today.",
+     "zh": "今天天气干燥又炎热。",
+     "audio": "media/sent/cc8b901db1a1.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/dry.mp3",
+    "us": "media/us/dry.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "easy",
+   "word": "easy",
+   "zh": "容易的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "容易的"
+    }
+   ],
+   "ipa": "/ˈiːzi/",
+   "chunks": [
+    "ea",
+    "sy"
+   ],
+   "emoji": "🧩",
+   "sentence": {
+    "en": "This puzzle is easy.",
+    "zh": "这个拼图很容易。"
+   },
+   "sentences": [
+    {
+     "en": "This puzzle is easy.",
+     "zh": "这个拼图很容易。",
+     "audio": "media/sent/5456bb742471.mp3"
+    },
+    {
+     "en": "The maths question was easy.",
+     "zh": "这道数学题很简单。",
+     "audio": "media/sent/53255189cc99.mp3"
+    },
+    {
+     "en": "Learning to ride a bike is not easy.",
+     "zh": "学骑自行车不容易。",
+     "audio": "media/sent/dec21e4d5d64.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/easy.webp",
+    "uk": "media/uk/easy.mp3",
+    "us": "media/us/easy.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "empty",
+   "word": "empty",
+   "zh": "空的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "空的"
+    }
+   ],
+   "ipa": "/ˈempti/",
+   "chunks": [
+    "emp",
+    "ty"
+   ],
+   "emoji": "🫙",
+   "sentence": {
+    "en": "The bottle is empty.",
+    "zh": "瓶子是空的。"
+   },
+   "sentences": [
+    {
+     "en": "The bottle is empty.",
+     "zh": "瓶子是空的。",
+     "audio": "media/sent/1d3f9eda9ee8.mp3"
+    },
+    {
+     "en": "My bag is empty now.",
+     "zh": "我的包现在是空的。",
+     "audio": "media/sent/2b780f4f3dcb.mp3"
+    },
+    {
+     "en": "The box is empty and light.",
+     "zh": "这个盒子是空的，很轻。",
+     "audio": "media/sent/feaea895551a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/empty.webp",
+    "uk": "media/uk/empty.mp3",
+    "us": "media/us/empty.mp3"
+   },
+   "avoid": [
+    "full"
+   ]
+  },
+  {
+   "id": "foreign",
+   "word": "foreign",
+   "zh": "外国的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "外国的"
+    }
+   ],
+   "ipa": "/ˈfɒrən/",
+   "chunks": [
+    "fo",
+    "reign"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "She speaks a foreign language.",
+    "zh": "她说一种外语。"
+   },
+   "sentences": [
+    {
+     "en": "She speaks a foreign language.",
+     "zh": "她说一种外语。",
+     "audio": "media/sent/01a6eb83af3e.mp3"
+    },
+    {
+     "en": "We visited a foreign country.",
+     "zh": "我们访问了一个外国。",
+     "audio": "media/sent/2bfa25b2bb29.mp3"
+    },
+    {
+     "en": "This is a foreign stamp.",
+     "zh": "这是一张外国邮票。",
+     "audio": "media/sent/3f56c1bb2f20.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/foreign.mp3",
+    "us": "media/us/foreign.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fresh",
+   "word": "fresh",
+   "zh": "新鲜的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "新鲜的"
+    }
+   ],
+   "ipa": "/freʃ/",
+   "chunks": [
+    "fresh"
+   ],
+   "emoji": "🥕",
+   "sentence": {
+    "en": "The vegetables are fresh.",
+    "zh": "这些蔬菜很新鲜。"
+   },
+   "sentences": [
+    {
+     "en": "The vegetables are fresh.",
+     "zh": "这些蔬菜很新鲜。",
+     "audio": "media/sent/22aed823f94d.mp3"
+    },
+    {
+     "en": "I want some fresh milk.",
+     "zh": "我想要一些鲜牛奶。",
+     "audio": "media/sent/c0ab5ff0fa74.mp3"
+    },
+    {
+     "en": "The air in the park is fresh.",
+     "zh": "公园里的空气很清新。",
+     "audio": "media/sent/2fb65b015537.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fresh.webp",
+    "uk": "media/uk/fresh.mp3",
+    "us": "media/us/fresh.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "full",
+   "word": "full",
+   "zh": "满的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "满的"
+    }
+   ],
+   "ipa": "/fʊl/",
+   "chunks": [
+    "full"
+   ],
+   "emoji": "🥛",
+   "sentence": {
+    "en": "The cup is full of tea.",
+    "zh": "杯子里装满了茶。"
+   },
+   "sentences": [
+    {
+     "en": "The cup is full of tea.",
+     "zh": "杯子里装满了茶。",
+     "audio": "media/sent/c9f50258d042.mp3"
+    },
+    {
+     "en": "My stomach is full.",
+     "zh": "我的肚子饱了。",
+     "audio": "media/sent/1b04538078df.mp3"
+    },
+    {
+     "en": "The bin is full of paper.",
+     "zh": "垃圾桶里装满了纸。",
+     "audio": "media/sent/5ec5c9986d9e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/full.webp",
+    "uk": "media/uk/full.mp3",
+    "us": "media/us/full.mp3"
+   },
+   "avoid": [
+    "empty"
+   ]
+  },
+  {
+   "id": "huge",
+   "word": "huge",
+   "zh": "巨大的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "巨大的"
+    }
+   ],
+   "ipa": "/hjuːdʒ/",
+   "chunks": [
+    "huge"
+   ],
+   "emoji": "🐘",
+   "sentence": {
+    "en": "That dog is huge!",
+    "zh": "那只狗真大！"
+   },
+   "sentences": [
+    {
+     "en": "That dog is huge!",
+     "zh": "那只狗真大！",
+     "audio": "media/sent/776b1d3524b2.mp3"
+    },
+    {
+     "en": "The tree is huge and old.",
+     "zh": "这棵树巨大又古老。",
+     "audio": "media/sent/aaccf855fff3.mp3"
+    },
+    {
+     "en": "We saw a huge building in London.",
+     "zh": "我们在伦敦看到一座巨大的建筑。",
+     "audio": "media/sent/65d6f0784f3b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/huge.webp",
+    "uk": "media/uk/huge.mp3",
+    "us": "media/us/huge.mp3"
+   },
+   "avoid": [
+    "large",
+    "long",
+    "wide"
+   ]
+  },
+  {
+   "id": "impossible",
+   "word": "impossible",
+   "zh": "不可能的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "不可能的"
+    }
+   ],
+   "ipa": "/ɪmˈpɒsəbəl/",
+   "chunks": [
+    "im",
+    "pos",
+    "si",
+    "ble"
+   ],
+   "emoji": "🚫",
+   "sentence": {
+    "en": "It is impossible to fly.",
+    "zh": "飞起来是不可能的。"
+   },
+   "sentences": [
+    {
+     "en": "It is impossible to fly.",
+     "zh": "飞起来是不可能的。",
+     "audio": "media/sent/890894138339.mp3"
+    },
+    {
+     "en": "Finishing in one day is impossible.",
+     "zh": "一天之内完成是不可能的。",
+     "audio": "media/sent/42ade79939a2.mp3"
+    },
+    {
+     "en": "This game looks impossible.",
+     "zh": "这个游戏看起来不可能赢。",
+     "audio": "media/sent/bb29e415bfad.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/impossible.mp3",
+    "us": "media/us/impossible.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "international",
+   "word": "international",
+   "zh": "国际的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "国际的"
+    }
+   ],
+   "ipa": "/ˌɪntəˈnæʃənəl/",
+   "chunks": [
+    "in",
+    "ter",
+    "na",
+    "tion",
+    "al"
+   ],
+   "emoji": "✈️",
+   "sentence": {
+    "en": "We go to the airport for an international flight.",
+    "zh": "我们去机场坐国际航班。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the airport for an international flight.",
+     "zh": "我们去机场坐国际航班。",
+     "audio": "media/sent/4e9598b7c104.mp3"
+    },
+    {
+     "en": "He works in an international company.",
+     "zh": "他在一家国际公司工作。",
+     "audio": "media/sent/586d7fddf91d.mp3"
+    },
+    {
+     "en": "This is an international hotel.",
+     "zh": "这是一家国际酒店。",
+     "audio": "media/sent/2644ff55b91e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/international.mp3",
+    "us": "media/us/international.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "large",
+   "word": "large",
+   "zh": "大的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "大的"
+    }
+   ],
+   "ipa": "/lɑːdʒ/",
+   "chunks": [
+    "large"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "This box is too large.",
+    "zh": "这个盒子太大了。"
+   },
+   "sentences": [
+    {
+     "en": "This box is too large.",
+     "zh": "这个盒子太大了。",
+     "audio": "media/sent/acce2d190483.mp3"
+    },
+    {
+     "en": "Lily has a large family.",
+     "zh": "Lily 有一个大家庭。",
+     "audio": "media/sent/228df594c027.mp3"
+    },
+    {
+     "en": "Would you like a large glass?",
+     "zh": "你想要一个大杯子吗？",
+     "audio": "media/sent/9229156cb2e3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/large.webp",
+    "uk": "media/uk/large.mp3",
+    "us": "media/us/large.mp3"
+   },
+   "avoid": [
+    "huge",
+    "long",
+    "wide"
+   ]
+  },
+  {
+   "id": "local",
+   "word": "local",
+   "zh": "当地的；本地的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "当地的；本地的"
+    }
+   ],
+   "ipa": "/ˈləʊkəl/",
+   "chunks": [
+    "lo",
+    "cal"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "We buy bread at the local shop.",
+    "zh": "我们在本地商店买面包。"
+   },
+   "sentences": [
+    {
+     "en": "We buy bread at the local shop.",
+     "zh": "我们在本地商店买面包。",
+     "audio": "media/sent/85804f70b675.mp3"
+    },
+    {
+     "en": "The local library is quiet.",
+     "zh": "本地的图书馆很安静。",
+     "audio": "media/sent/24247efd3829.mp3"
+    },
+    {
+     "en": "Sam likes the local park.",
+     "zh": "Sam 喜欢本地的公园。",
+     "audio": "media/sent/5e8ab23339c1.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/local.mp3",
+    "us": "media/us/local.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "long",
+   "word": "long",
+   "zh": "长的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "长的"
+    }
+   ],
+   "ipa": "/lɒŋ/",
+   "chunks": [
+    "long"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "The train is very long.",
+    "zh": "这列火车很长。"
+   },
+   "sentences": [
+    {
+     "en": "The train is very long.",
+     "zh": "这列火车很长。",
+     "audio": "media/sent/995005eb36bf.mp3"
+    },
+    {
+     "en": "This film is two hours long.",
+     "zh": "这部电影有两个小时长。",
+     "audio": "media/sent/b0c0cecfbe09.mp3"
+    },
+    {
+     "en": "Max has a long tail.",
+     "zh": "Max 有一条长尾巴。",
+     "audio": "media/sent/1882579ad47f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/long.webp",
+    "uk": "media/uk/long.mp3",
+    "us": "media/us/long.mp3"
+   },
+   "avoid": [
+    "huge",
+    "large",
+    "wide"
+   ]
+  },
+  {
+   "id": "loud",
+   "word": "loud",
+   "zh": "大声的；喧闹的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "大声的；喧闹的"
+    }
+   ],
+   "ipa": "/laʊd/",
+   "chunks": [
+    "loud"
+   ],
+   "emoji": "📢",
+   "sentence": {
+    "en": "The music is too loud.",
+    "zh": "音乐太吵了。"
+   },
+   "sentences": [
+    {
+     "en": "The music is too loud.",
+     "zh": "音乐太吵了。",
+     "audio": "media/sent/743bc114f2f3.mp3"
+    },
+    {
+     "en": "Don't be so loud!",
+     "zh": "别这么大声！",
+     "audio": "media/sent/4385a27e464f.mp3"
+    },
+    {
+     "en": "The dog makes a loud noise.",
+     "zh": "狗发出很大的声音。",
+     "audio": "media/sent/47d04ef84a65.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/loud.webp",
+    "uk": "media/uk/loud.mp3",
+    "us": "media/us/loud.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "low",
+   "word": "low",
+   "zh": "低的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "低的"
+    }
+   ],
+   "ipa": "/ləʊ/",
+   "chunks": [
+    "low"
+   ],
+   "emoji": "⬇️",
+   "sentence": {
+    "en": "The bridge is too low for the boat.",
+    "zh": "桥太低了，船过不去。"
+   },
+   "sentences": [
+    {
+     "en": "The bridge is too low for the boat.",
+     "zh": "桥太低了，船过不去。",
+     "audio": "media/sent/63a3ce147b93.mp3"
+    },
+    {
+     "en": "The sun is low in the sky.",
+     "zh": "太阳在天空中很低的位置（快要落山了）。",
+     "audio": "media/sent/08d5c7e8aa22.mp3"
+    },
+    {
+     "en": "The chair is too low for Dad.",
+     "zh": "这把椅子对爸爸来说太矮了。",
+     "audio": "media/sent/5cf07a460916.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/low.webp",
+    "uk": "media/uk/low.mp3",
+    "us": "media/us/low.mp3"
+   },
+   "avoid": [
+    "short"
+   ]
+  },
+  {
+   "id": "missing",
+   "word": "missing",
+   "zh": "失踪的；丢失的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "失踪的；丢失的"
+    }
+   ],
+   "ipa": "/ˈmɪsɪŋ/",
+   "chunks": [
+    "mis",
+    "sing"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "Tom is looking for his missing toy.",
+    "zh": "Tom 正在找他不见的玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is looking for his missing toy.",
+     "zh": "Tom 正在找他不见的玩具。",
+     "audio": "media/sent/f22b7398902f.mp3"
+    },
+    {
+     "en": "We have one page missing from the book.",
+     "zh": "书里少了一页。",
+     "audio": "media/sent/51c528d9f722.mp3"
+    },
+    {
+     "en": "The cat is missing. Let's find it!",
+     "zh": "猫不见了。我们去找它吧！",
+     "audio": "media/sent/f6117db730f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/missing.webp",
+    "uk": "media/uk/missing.mp3",
+    "us": "media/us/missing.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "natural",
+   "word": "natural",
+   "zh": "自然的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "自然的"
+    }
+   ],
+   "ipa": "/ˈnætʃərəl/",
+   "chunks": [
+    "nat",
+    "u",
+    "ral"
+   ],
+   "emoji": "🌿",
+   "sentence": {
+    "en": "We like natural food.",
+    "zh": "我们喜欢天然食物。"
+   },
+   "sentences": [
+    {
+     "en": "We like natural food.",
+     "zh": "我们喜欢天然食物。",
+     "audio": "media/sent/801663dda85f.mp3"
+    },
+    {
+     "en": "It is natural to feel happy.",
+     "zh": "感到快乐是很自然的。",
+     "audio": "media/sent/73461fcb1ef9.mp3"
+    },
+    {
+     "en": "This park has many natural plants.",
+     "zh": "这个公园里有很多天然植物。",
+     "audio": "media/sent/542ce6fced03.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/natural.mp3",
+    "us": "media/us/natural.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "national",
+   "word": "national",
+   "zh": "国家的；民族的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "国家的；民族的"
+    }
+   ],
+   "ipa": "/ˈnæʃənəl/",
+   "chunks": [
+    "na",
+    "tion",
+    "al"
+   ],
+   "emoji": "🏳️",
+   "sentence": {
+    "en": "They sing the national song.",
+    "zh": "他们唱国歌。"
+   },
+   "sentences": [
+    {
+     "en": "They sing the national song.",
+     "zh": "他们唱国歌。",
+     "audio": "media/sent/4d1f5edd813c.mp3"
+    },
+    {
+     "en": "This is our national holiday.",
+     "zh": "这是我们的国家假日。",
+     "audio": "media/sent/a8f5a4ab5688.mp3"
+    },
+    {
+     "en": "He plays for the national team.",
+     "zh": "他为国家队效力。",
+     "audio": "media/sent/768228b1f17f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/national.webp",
+    "uk": "media/uk/national.mp3",
+    "us": "media/us/national.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "new",
+   "word": "new",
+   "zh": "新的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "新的"
+    }
+   ],
+   "ipa": "/njuː/",
+   "chunks": [
+    "new"
+   ],
+   "emoji": "✨",
+   "sentence": {
+    "en": "Lily has a new bike.",
+    "zh": "Lily 有一辆新自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a new bike.",
+     "zh": "Lily 有一辆新自行车。",
+     "audio": "media/sent/0382556b5f38.mp3"
+    },
+    {
+     "en": "This is my new school.",
+     "zh": "这是我的新学校。",
+     "audio": "media/sent/4749da270a8a.mp3"
+    },
+    {
+     "en": "We got a new puppy named Max.",
+     "zh": "我们得到了一只名叫 Max 的新小狗。",
+     "audio": "media/sent/9d32e1b57b10.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/new.webp",
+    "uk": "media/uk/new.mp3",
+    "us": "media/us/new.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "normal",
+   "word": "normal",
+   "zh": "正常的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "正常的"
+    }
+   ],
+   "ipa": "/ˈnɔːməl/",
+   "chunks": [
+    "nor",
+    "mal"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "It's normal to feel sad.",
+    "zh": "感到难过是正常的。"
+   },
+   "sentences": [
+    {
+     "en": "It's normal to feel sad.",
+     "zh": "感到难过是正常的。",
+     "audio": "media/sent/e712b1b0502b.mp3"
+    },
+    {
+     "en": "The weather is normal for April.",
+     "zh": "四月的天气很正常。",
+     "audio": "media/sent/87e1f825d5e3.mp3"
+    },
+    {
+     "en": "Everything looks normal now.",
+     "zh": "现在一切看起来都很正常。",
+     "audio": "media/sent/ad49dfc293b7.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/normal.mp3",
+    "us": "media/us/normal.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "possible",
+   "word": "possible",
+   "zh": "可能的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "可能的"
+    }
+   ],
+   "ipa": "/ˈpɒsəbl/",
+   "chunks": [
+    "pos",
+    "si",
+    "ble"
+   ],
+   "emoji": "🤔",
+   "sentence": {
+    "en": "It is possible to learn.",
+    "zh": "学习是有可能的（只要努力）。"
+   },
+   "sentences": [
+    {
+     "en": "It is possible to learn.",
+     "zh": "学习是有可能的（只要努力）。",
+     "audio": "media/sent/ffa2fa4a91b4.mp3"
+    },
+    {
+     "en": "Rain is possible today.",
+     "zh": "今天可能会下雨。",
+     "audio": "media/sent/f4eee2503c44.mp3"
+    },
+    {
+     "en": "Is it possible to help me?",
+     "zh": "有可能帮帮我吗？",
+     "audio": "media/sent/579b5bb4760c.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/possible.mp3",
+    "us": "media/us/possible.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "round",
+   "word": "round",
+   "zh": "圆的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "圆的"
+    }
+   ],
+   "ipa": "/raʊnd/",
+   "chunks": [
+    "round"
+   ],
+   "emoji": "⭕",
+   "sentence": {
+    "en": "The moon is round.",
+    "zh": "月亮是圆的。"
+   },
+   "sentences": [
+    {
+     "en": "The moon is round.",
+     "zh": "月亮是圆的。",
+     "audio": "media/sent/90303fad5e2c.mp3"
+    },
+    {
+     "en": "This ball is very round.",
+     "zh": "这个球很圆。",
+     "audio": "media/sent/750fded362ff.mp3"
+    },
+    {
+     "en": "We sit at a round table.",
+     "zh": "我们坐在圆桌旁。",
+     "audio": "media/sent/05ce070e1b35.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/round.webp",
+    "uk": "media/uk/round.mp3",
+    "us": "media/us/round.mp3"
+   },
+   "avoid": [
+    "straight"
+   ]
+  },
+  {
+   "id": "same",
+   "word": "same",
+   "zh": "相同的",
+   "pos": [
+    "adj",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "pron"
+     ],
+     "zh": "相同的"
+    }
+   ],
+   "ipa": "/seɪm/",
+   "chunks": [
+    "same"
+   ],
+   "emoji": "👯",
+   "sentence": {
+    "en": "We have the same bag.",
+    "zh": "我们有相同的书包。"
+   },
+   "sentences": [
+    {
+     "en": "We have the same bag.",
+     "zh": "我们有相同的书包。",
+     "audio": "media/sent/2a09e0c69647.mp3"
+    },
+    {
+     "en": "Tom and Sam are in the same class.",
+     "zh": "Tom 和 Sam 在同一个班级。",
+     "audio": "media/sent/e9b0b379eac0.mp3"
+    },
+    {
+     "en": "I like the same colour as you.",
+     "zh": "我喜欢和你一样的颜色。",
+     "audio": "media/sent/14266296544d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/same.webp",
+    "uk": "media/uk/same.mp3",
+    "us": "media/us/same.mp3"
+   },
+   "avoid": [
+    "similar"
+   ]
+  },
+  {
+   "id": "short",
+   "word": "short",
+   "zh": "短的；矮的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "短的；矮的"
+    }
+   ],
+   "ipa": "/ʃɔːt/",
+   "chunks": [
+    "short"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Tom is short for his age.",
+    "zh": "Tom 在这个年纪个子比较矮。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is short for his age.",
+     "zh": "Tom 在这个年纪个子比较矮。",
+     "audio": "media/sent/2594ce7fd757.mp3"
+    },
+    {
+     "en": "The video is too short.",
+     "zh": "这个视频太短了。",
+     "audio": "media/sent/00eee9953101.mp3"
+    },
+    {
+     "en": "She has short hair.",
+     "zh": "她留着短发。",
+     "audio": "media/sent/2ec413940ea6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/short.webp",
+    "uk": "media/uk/short.mp3",
+    "us": "media/us/short.mp3"
+   },
+   "avoid": [
+    "low"
+   ]
+  },
+  {
+   "id": "similar",
+   "word": "similar",
+   "zh": "相似的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "相似的"
+    }
+   ],
+   "ipa": "/ˈsɪmələ/",
+   "chunks": [
+    "sim",
+    "i",
+    "lar"
+   ],
+   "emoji": "👬",
+   "sentence": {
+    "en": "These two dogs are similar.",
+    "zh": "这两只狗很相似。"
+   },
+   "sentences": [
+    {
+     "en": "These two dogs are similar.",
+     "zh": "这两只狗很相似。",
+     "audio": "media/sent/a9b41ebe7097.mp3"
+    },
+    {
+     "en": "Our ideas are similar.",
+     "zh": "我们的想法很相似。",
+     "audio": "media/sent/3451206a5929.mp3"
+    },
+    {
+     "en": "The two houses look similar.",
+     "zh": "这两栋房子看起来很像。",
+     "audio": "media/sent/228a4af6e868.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/similar.webp",
+    "uk": "media/uk/similar.mp3",
+    "us": "media/us/similar.mp3"
+   },
+   "avoid": [
+    "same"
+   ]
+  },
+  {
+   "id": "simple",
+   "word": "simple",
+   "zh": "简单的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "简单的"
+    }
+   ],
+   "ipa": "/ˈsɪmpəl/",
+   "chunks": [
+    "sim",
+    "ple"
+   ],
+   "emoji": "➕",
+   "sentence": {
+    "en": "The maths question is simple.",
+    "zh": "这道数学题很简单。"
+   },
+   "sentences": [
+    {
+     "en": "The maths question is simple.",
+     "zh": "这道数学题很简单。",
+     "audio": "media/sent/c98d6e686fd7.mp3"
+    },
+    {
+     "en": "Please make it simple.",
+     "zh": "请把它弄简单点。",
+     "audio": "media/sent/de221b61ec5e.mp3"
+    },
+    {
+     "en": "This is a simple game.",
+     "zh": "这是一个简单的游戏。",
+     "audio": "media/sent/c75a93b4b795.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/simple.mp3",
+    "us": "media/us/simple.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "smart",
+   "word": "smart",
+   "zh": "聪明的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "聪明的"
+    }
+   ],
+   "ipa": "/smɑːt/",
+   "chunks": [
+    "smart"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "Max is a smart dog.",
+    "zh": "Max 是一只聪明的狗。"
+   },
+   "sentences": [
+    {
+     "en": "Max is a smart dog.",
+     "zh": "Max 是一只聪明的狗。",
+     "audio": "media/sent/9ab23325e1c0.mp3"
+    },
+    {
+     "en": "Lily is very smart at school.",
+     "zh": "Lily 在学校很聪明。",
+     "audio": "media/sent/ffe409cc5fce.mp3"
+    },
+    {
+     "en": "That was a smart idea!",
+     "zh": "那是一个聪明的主意！",
+     "audio": "media/sent/6994d98a7f6d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/smart.webp",
+    "uk": "media/uk/smart.mp3",
+    "us": "media/us/smart.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "spare",
+   "word": "spare",
+   "zh": "备用的；多余的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "备用的；多余的"
+    }
+   ],
+   "ipa": "/speə/",
+   "chunks": [
+    "spare"
+   ],
+   "emoji": "🔑",
+   "sentence": {
+    "en": "Dad has a spare key.",
+    "zh": "爸爸有一把备用钥匙。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a spare key.",
+     "zh": "爸爸有一把备用钥匙。",
+     "audio": "media/sent/a8374c1c23e3.mp3"
+    },
+    {
+     "en": "Do you have a spare pen?",
+     "zh": "你有备用的笔吗？",
+     "audio": "media/sent/8903daafb78d.mp3"
+    },
+    {
+     "en": "We need a spare tyre for the car.",
+     "zh": "我们需要一个备用车胎。",
+     "audio": "media/sent/5ed5e9bf5d6f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spare.webp",
+    "uk": "media/uk/spare.mp3",
+    "us": "media/us/spare.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "striped",
+   "word": "striped",
+   "zh": "有条纹的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "有条纹的"
+    }
+   ],
+   "ipa": "/straɪpt/",
+   "chunks": [
+    "strip",
+    "ed"
+   ],
+   "emoji": "🦓",
+   "sentence": {
+    "en": "Tom wears a striped shirt.",
+    "zh": "Tom 穿着一件条纹衬衫。"
+   },
+   "sentences": [
+    {
+     "en": "Tom wears a striped shirt.",
+     "zh": "Tom 穿着一件条纹衬衫。",
+     "audio": "media/sent/c2edcf8c96ae.mp3"
+    },
+    {
+     "en": "The zebra is black and striped.",
+     "zh": "斑马是黑白条纹的。",
+     "audio": "media/sent/150733d41abc.mp3"
+    },
+    {
+     "en": "I like the striped socks.",
+     "zh": "我喜欢这双条纹袜子。",
+     "audio": "media/sent/30d5aa485882.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/striped.webp",
+    "uk": "media/uk/striped.mp3",
+    "us": "media/us/striped.mp3"
+   },
+   "avoid": [
+    "dressed"
+   ]
+  },
+  {
+   "id": "true",
+   "word": "true",
+   "zh": "真的；正确的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "真的；正确的"
+    }
+   ],
+   "ipa": "/truː/",
+   "chunks": [
+    "true"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "The story is true.",
+    "zh": "这个故事是真的。"
+   },
+   "sentences": [
+    {
+     "en": "The story is true.",
+     "zh": "这个故事是真的。",
+     "audio": "media/sent/cc20f281a132.mp3"
+    },
+    {
+     "en": "Is it true? Yes, it's true.",
+     "zh": "是真的吗？是的，是真的。",
+     "audio": "media/sent/472da73296bd.mp3"
+    },
+    {
+     "en": "This is the true answer.",
+     "zh": "这是正确的答案。",
+     "audio": "media/sent/cfb193298371.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/true.mp3",
+    "us": "media/us/true.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "unusual",
+   "word": "unusual",
+   "zh": "不寻常的；罕见的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "不寻常的；罕见的"
+    }
+   ],
+   "ipa": "/ʌnˈjuːʒuəl/",
+   "chunks": [
+    "un",
+    "u",
+    "su",
+    "al"
+   ],
+   "emoji": "❄️",
+   "sentence": {
+    "en": "Snow is unusual here.",
+    "zh": "这里下雪是不常见的。"
+   },
+   "sentences": [
+    {
+     "en": "Snow is unusual here.",
+     "zh": "这里下雪是不常见的。",
+     "audio": "media/sent/8103c7d82ab8.mp3"
+    },
+    {
+     "en": "This is an unusual plant.",
+     "zh": "这是一种不寻常的植物。",
+     "audio": "media/sent/bedc30be76a7.mp3"
+    },
+    {
+     "en": "He has an unusual hat.",
+     "zh": "他戴着一顶不寻常的帽子。",
+     "audio": "media/sent/3ee65dcd4075.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/unusual.webp",
+    "uk": "media/uk/unusual.mp3",
+    "us": "media/us/unusual.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "wide",
+   "word": "wide",
+   "zh": "宽的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "宽的"
+    }
+   ],
+   "ipa": "/waɪd/",
+   "chunks": [
+    "wide"
+   ],
+   "emoji": "↔️",
+   "sentence": {
+    "en": "The river is very wide.",
+    "zh": "这条河很宽。"
+   },
+   "sentences": [
+    {
+     "en": "The river is very wide.",
+     "zh": "这条河很宽。",
+     "audio": "media/sent/23f6871cbf05.mp3"
+    },
+    {
+     "en": "Please open your mouth wide.",
+     "zh": "请把嘴张大。",
+     "audio": "media/sent/abf5cab68ad2.mp3"
+    },
+    {
+     "en": "The road is not wide enough.",
+     "zh": "这条路不够宽。",
+     "audio": "media/sent/b260bc417e40.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wide.webp",
+    "uk": "media/uk/wide.mp3",
+    "us": "media/us/wide.mp3"
+   },
+   "avoid": [
+    "huge",
+    "large",
+    "long"
+   ]
+  },
+  {
+   "id": "wooden",
+   "word": "wooden",
+   "zh": "木制的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "木制的"
+    }
+   ],
+   "ipa": "/ˈwʊdən/",
+   "chunks": [
+    "wood",
+    "en"
+   ],
+   "emoji": "🪵",
+   "sentence": {
+    "en": "Lily has a wooden spoon.",
+    "zh": "Lily 有一把木勺子。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has a wooden spoon.",
+     "zh": "Lily 有一把木勺子。",
+     "audio": "media/sent/d3ec10a0ed1d.mp3"
+    },
+    {
+     "en": "This is a wooden chair.",
+     "zh": "这是一把木椅子。",
+     "audio": "media/sent/9c6fbc460bde.mp3"
+    },
+    {
+     "en": "We play with wooden blocks.",
+     "zh": "我们玩积木（木制方块）。",
+     "audio": "media/sent/03f3b405e636.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wooden.webp",
+    "uk": "media/uk/wooden.mp3",
+    "us": "media/us/wooden.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "worse",
+   "word": "worse",
+   "zh": "更糟的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "更糟的"
+    }
+   ],
+   "ipa": "/wɜːs/",
+   "chunks": [
+    "wor",
+    "se"
+   ],
+   "emoji": "📉",
+   "sentence": {
+    "en": "The weather is worse today.",
+    "zh": "今天天气更糟了。"
+   },
+   "sentences": [
+    {
+     "en": "The weather is worse today.",
+     "zh": "今天天气更糟了。",
+     "audio": "media/sent/9cc046be1b1f.mp3"
+    },
+    {
+     "en": "He feels worse after eating sweets.",
+     "zh": "他吃了甜食后感觉更不舒服了。",
+     "audio": "media/sent/e76addcf51de.mp3"
+    },
+    {
+     "en": "This film is worse than the last one.",
+     "zh": "这部电影比上一部更糟。",
+     "audio": "media/sent/f8502f5acd3a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/worse.mp3",
+    "us": "media/us/worse.mp3"
+   },
+   "avoid": [
+    "best",
+    "worst"
+   ]
+  },
+  {
+   "id": "worst",
+   "word": "worst",
+   "zh": "最差的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "最差的"
+    }
+   ],
+   "ipa": "/wɜːst/",
+   "chunks": [
+    "worst"
+   ],
+   "emoji": "👎",
+   "sentence": {
+    "en": "That was the worst film.",
+    "zh": "那是最差的电影。"
+   },
+   "sentences": [
+    {
+     "en": "That was the worst film.",
+     "zh": "那是最差的电影。",
+     "audio": "media/sent/32236bb1cfba.mp3"
+    },
+    {
+     "en": "Monday is the worst day.",
+     "zh": "星期一是糟糕的一天。",
+     "audio": "media/sent/4d0384960211.mp3"
+    },
+    {
+     "en": "This is my worst dream.",
+     "zh": "这是我最可怕的梦。",
+     "audio": "media/sent/afdf20bcf69a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/worst.mp3",
+    "us": "media/us/worst.mp3"
+   },
+   "avoid": [
+    "best",
+    "worse"
+   ]
+  },
+  {
+   "id": "best",
+   "word": "best",
+   "zh": "最好的；最好地",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "最好的；最好地"
+    }
+   ],
+   "ipa": "/best/",
+   "chunks": [
+    "best"
+   ],
+   "emoji": "🥇",
+   "sentence": {
+    "en": "Lily is the best player.",
+    "zh": "Lily 是最好的球员。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is the best player.",
+     "zh": "Lily 是最好的球员。",
+     "audio": "media/sent/71d60ff91ffd.mp3"
+    },
+    {
+     "en": "I like this song best.",
+     "zh": "我最喜欢这首歌。",
+     "audio": "media/sent/d536f07c8f1f.mp3"
+    },
+    {
+     "en": "Mum cooks the best food.",
+     "zh": "妈妈做的饭最好吃。",
+     "audio": "media/sent/5b4ca5c7fac6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/best.webp",
+    "uk": "media/uk/best.mp3",
+    "us": "media/us/best.mp3"
+   },
+   "avoid": [
+    "worse",
+    "worst"
+   ]
+  },
+  {
+   "id": "blond",
+   "word": "blond",
+   "zh": "金发的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "金发的"
+    }
+   ],
+   "ipa": "/blɒnd/",
+   "chunks": [
+    "blond"
+   ],
+   "emoji": "💇‍♀️",
+   "sentence": {
+    "en": "Mia has long blond hair.",
+    "zh": "Mia 有一头长长的金发。"
+   },
+   "sentences": [
+    {
+     "en": "Mia has long blond hair.",
+     "zh": "Mia 有一头长长的金发。",
+     "audio": "media/sent/cb9e14c61fb1.mp3"
+    },
+    {
+     "en": "The doll has blond hair.",
+     "zh": "这个娃娃是金头发。",
+     "audio": "media/sent/0cd1cd5750a7.mp3"
+    },
+    {
+     "en": "My cousin is blond.",
+     "zh": "我的表弟/表妹是金发的。",
+     "audio": "media/sent/b49c4e657cc4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/blond.webp",
+    "uk": "media/uk/blond.mp3",
+    "us": "media/us/blond.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "slim",
+   "word": "slim",
+   "zh": "苗条的；纤细的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "苗条的；纤细的"
+    }
+   ],
+   "ipa": "/slɪm/",
+   "chunks": [
+    "slim"
+   ],
+   "emoji": "🧘‍♀️",
+   "sentence": {
+    "en": "Mum is tall and slim.",
+    "zh": "妈妈又高又苗条。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is tall and slim.",
+     "zh": "妈妈又高又苗条。",
+     "audio": "media/sent/f72cbba990c5.mp3"
+    },
+    {
+     "en": "The cat has a slim body.",
+     "zh": "这只猫身体很纤细。",
+     "audio": "media/sent/1fe4e59afccd.mp3"
+    },
+    {
+     "en": "The cat is long and slim.",
+     "zh": "这只猫又长又苗条。",
+     "audio": "media/sent/accecd1e677b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/slim.webp",
+    "uk": "media/uk/slim.mp3",
+    "us": "media/us/slim.mp3"
+   },
+   "avoid": [
+    "fat",
+    "thin"
+   ]
+  },
+  {
+   "id": "fat",
+   "word": "fat",
+   "zh": "胖的；肥的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "胖的；肥的"
+    }
+   ],
+   "ipa": "/fæt/",
+   "chunks": [
+    "fat"
+   ],
+   "emoji": "🐷",
+   "sentence": {
+    "en": "The bear is very fat.",
+    "zh": "这只熊很胖。"
+   },
+   "sentences": [
+    {
+     "en": "The bear is very fat.",
+     "zh": "这只熊很胖。",
+     "audio": "media/sent/268414b36c1d.mp3"
+    },
+    {
+     "en": "Max eats too much food.",
+     "zh": "Max 吃太多了。",
+     "audio": "media/sent/09f95b6de0a2.mp3"
+    },
+    {
+     "en": "The cat is fat and lazy.",
+     "zh": "这只猫又胖又懒。",
+     "audio": "media/sent/3bd319554daf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fat.webp",
+    "uk": "media/uk/fat.mp3",
+    "us": "media/us/fat.mp3"
+   },
+   "avoid": [
+    "slim",
+    "thin"
+   ]
+  },
+  {
+   "id": "thin",
+   "word": "thin",
+   "zh": "瘦的；薄的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "瘦的；薄的"
+    }
+   ],
+   "ipa": "/θɪn/",
+   "chunks": [
+    "thin"
+   ],
+   "emoji": "🥗",
+   "sentence": {
+    "en": "The soup is very thin.",
+    "zh": "这汤很稀。"
+   },
+   "sentences": [
+    {
+     "en": "The soup is very thin.",
+     "zh": "这汤很稀。",
+     "audio": "media/sent/e478d4582ed0.mp3"
+    },
+    {
+     "en": "This paper is too thin.",
+     "zh": "这张纸太薄了。",
+     "audio": "media/sent/10117d1d7964.mp3"
+    },
+    {
+     "en": "The dog is thin and hungry.",
+     "zh": "这只狗又瘦又饿。",
+     "audio": "media/sent/570100ccb573.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thin.webp",
+    "uk": "media/uk/thin.mp3",
+    "us": "media/us/thin.mp3"
+   },
+   "avoid": [
+    "fat",
+    "slim"
+   ]
+  },
+  {
+   "id": "straight",
+   "word": "straight",
+   "zh": "直的；笔直地",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv"
+     ],
+     "zh": "直的；笔直地"
+    }
+   ],
+   "ipa": "/streɪt/",
+   "chunks": [
+    "straight"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Draw a straight line.",
+    "zh": "画一条直线。"
+   },
+   "sentences": [
+    {
+     "en": "Draw a straight line.",
+     "zh": "画一条直线。",
+     "audio": "media/sent/08d4e35c9011.mp3"
+    },
+    {
+     "en": "Walk straight down the road.",
+     "zh": "沿着路直走。",
+     "audio": "media/sent/e9079fc4317e.mp3"
+    },
+    {
+     "en": "His hair is straight.",
+     "zh": "他的头发是直的。",
+     "audio": "media/sent/2c64acd7209e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/straight.webp",
+    "uk": "media/uk/straight.mp3",
+    "us": "media/us/straight.mp3"
+   },
+   "avoid": [
+    "round"
+   ]
+  },
+  {
+   "id": "left-hand",
+   "word": "left-hand",
+   "zh": "左手的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "左手的"
+    }
+   ],
+   "ipa": "/ˌleft ˈhænd/",
+   "chunks": [
+    "left",
+    "hand"
+   ],
+   "emoji": "🤚",
+   "sentence": {
+    "en": "Write on the left-hand page.",
+    "zh": "写在左边那一页上。"
+   },
+   "sentences": [
+    {
+     "en": "Write on the left-hand page.",
+     "zh": "写在左边那一页上。",
+     "audio": "media/sent/de17c9182ec2.mp3"
+    },
+    {
+     "en": "The shop is on the left-hand side of the road.",
+     "zh": "商店在马路的左边。",
+     "audio": "media/sent/f98574bb4274.mp3"
+    },
+    {
+     "en": "Lily keeps her pens in the left-hand drawer.",
+     "zh": "Lily 把笔放在左边的抽屉里。",
+     "audio": "media/sent/62c6e9c18adb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/left-hand.webp",
+    "uk": "media/uk/left-hand.mp3",
+    "us": "media/us/left-hand.mp3"
+   },
+   "avoid": [
+    "right-hand"
+   ]
+  },
+  {
+   "id": "right-hand",
+   "word": "right hand",
+   "zh": "右手；右手边的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "右手；右手边的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "right",
+    "hand"
+   ],
+   "emoji": "✋",
+   "sentence": {
+    "en": "Lily writes with her right hand.",
+    "zh": "Lily 用右手写字。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes with her right hand.",
+     "zh": "Lily 用右手写字。",
+     "audio": "media/sent/1227a7ddfafa.mp3"
+    },
+    {
+     "en": "Put up your right hand.",
+     "zh": "举起你的右手。",
+     "audio": "media/sent/f7123f3d2e4d.mp3"
+    },
+    {
+     "en": "Hold the cup in your right hand.",
+     "zh": "用右手拿杯子。",
+     "audio": "media/sent/db2d76cae5af.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/right-hand.webp"
+   },
+   "avoid": [
+    "left-hand"
+   ]
+  },
+  {
+   "id": "olympic",
+   "word": "Olympic",
+   "zh": "奥林匹克的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "奥林匹克的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "o",
+    "lym",
+    "pic"
+   ],
+   "emoji": "🏅",
+   "sentence": {
+    "en": "The Olympic games are in summer.",
+    "zh": "奥运会在夏天举行。"
+   },
+   "sentences": [
+    {
+     "en": "The Olympic games are in summer.",
+     "zh": "奥运会在夏天举行。",
+     "audio": "media/sent/f4f3a62209d2.mp3"
+    },
+    {
+     "en": "He won an Olympic gold.",
+     "zh": "他赢得了奥运金牌。",
+     "audio": "media/sent/421a94b1d511.mp3"
+    },
+    {
+     "en": "We watch the Olympic race.",
+     "zh": "我们看奥运比赛。",
+     "audio": "media/sent/7bac4b27548d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/olympic.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dressed",
+   "word": "dressed",
+   "zh": "穿好衣服的；打扮好的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "穿好衣服的；打扮好的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "dressed"
+   ],
+   "emoji": "👗",
+   "sentence": {
+    "en": "Tom is dressed for school.",
+    "zh": "Tom 穿好了校服。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is dressed for school.",
+     "zh": "Tom 穿好了校服。",
+     "audio": "media/sent/f08830effc7e.mp3"
+    },
+    {
+     "en": "Lily is dressed up for the party.",
+     "zh": "Lily 打扮好去参加聚会了。",
+     "audio": "media/sent/33f0322a99af.mp3"
+    },
+    {
+     "en": "Get dressed quickly!",
+     "zh": "快穿好衣服！",
+     "audio": "media/sent/5961c4f03803.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dressed.webp"
+   },
+   "avoid": [
+    "striped"
+   ]
+  },
+  {
+   "id": "by-accident",
+   "word": "by accident",
+   "zh": "不小心；偶然",
+   "pos": [
+    "prep phr"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "prep phr"
+     ],
+     "zh": "不小心；偶然"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "by",
+    "ac",
+    "ci",
+    "dent"
+   ],
+   "emoji": "🤦‍♂️",
+   "sentence": {
+    "en": "I dropped it by accident.",
+    "zh": "我不小心把它弄掉了。"
+   },
+   "sentences": [
+    {
+     "en": "I dropped it by accident.",
+     "zh": "我不小心把它弄掉了。",
+     "audio": "media/sent/9089d2f46c7a.mp3"
+    },
+    {
+     "en": "He broke the plate by accident.",
+     "zh": "他不小心打碎了盘子。",
+     "audio": "media/sent/28718c384955.mp3"
+    },
+    {
+     "en": "I saw Sam by accident.",
+     "zh": "我偶然遇见了 Sam。",
+     "audio": "media/sent/4a73de2b88fd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/by-accident.webp"
+   },
+   "avoid": [
+    "badly"
+   ]
+  },
+  {
+   "id": "badly",
+   "word": "badly",
+   "zh": "严重地；很坏地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "严重地；很坏地"
+    }
+   ],
+   "ipa": "/ˈbædli/",
+   "chunks": [
+    "bad",
+    "ly"
+   ],
+   "emoji": "🤕",
+   "sentence": {
+    "en": "He hurt his leg badly.",
+    "zh": "他的腿伤得很重。"
+   },
+   "sentences": [
+    {
+     "en": "He hurt his leg badly.",
+     "zh": "他的腿伤得很重。",
+     "audio": "media/sent/6de9f557490b.mp3"
+    },
+    {
+     "en": "Tom slept badly last night.",
+     "zh": "Tom 昨晚没睡好。",
+     "audio": "media/sent/16eb97fcbc05.mp3"
+    },
+    {
+     "en": "She sings badly in the shower.",
+     "zh": "她在淋浴时唱得很糟糕。",
+     "audio": "media/sent/3fed1b00e40e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/badly.webp",
+    "uk": "media/uk/badly.mp3",
+    "us": "media/us/badly.mp3"
+   },
+   "avoid": [
+    "by-accident"
+   ]
+  },
+  {
+   "id": "carefully",
+   "word": "carefully",
+   "zh": "小心地；仔细地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "小心地；仔细地"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "care",
+    "ful",
+    "ly"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "Look at the map carefully.",
+    "zh": "仔细看看地图。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the map carefully.",
+     "zh": "仔细看看地图。",
+     "audio": "media/sent/bdadbfc8467c.mp3"
+    },
+    {
+     "en": "Carry the glass carefully.",
+     "zh": "小心地拿杯子。",
+     "audio": "media/sent/a4c1762ba1ab.mp3"
+    },
+    {
+     "en": "Tom listens to Mum carefully.",
+     "zh": "Tom 认真地听妈妈说话。",
+     "audio": "media/sent/5fa3a11655f4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/carefully.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "clearly",
+   "word": "clearly",
+   "zh": "清楚地；明显地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "清楚地；明显地"
+    }
+   ],
+   "ipa": "/ˈklɪəli/",
+   "chunks": [
+    "clear",
+    "ly"
+   ],
+   "emoji": "🗣️",
+   "sentence": {
+    "en": "Speak clearly, please.",
+    "zh": "请说清楚。"
+   },
+   "sentences": [
+    {
+     "en": "Speak clearly, please.",
+     "zh": "请说清楚。",
+     "audio": "media/sent/ebb7856b0503.mp3"
+    },
+    {
+     "en": "Write your name clearly.",
+     "zh": "把你的名字写清楚。",
+     "audio": "media/sent/f7b554cc63e3.mp3"
+    },
+    {
+     "en": "I can hear you clearly.",
+     "zh": "我能清楚地听到你。",
+     "audio": "media/sent/e67ac1aa157f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clearly.webp",
+    "uk": "media/uk/clearly.mp3",
+    "us": "media/us/clearly.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "easily",
+   "word": "easily",
+   "zh": "容易地；轻松地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "容易地；轻松地"
+    }
+   ],
+   "ipa": "/ˈiːzəli/",
+   "chunks": [
+    "ea",
+    "si",
+    "ly"
+   ],
+   "emoji": "😎",
+   "sentence": {
+    "en": "Sam does the puzzle easily.",
+    "zh": "Sam 轻松地完成了拼图。"
+   },
+   "sentences": [
+    {
+     "en": "Sam does the puzzle easily.",
+     "zh": "Sam 轻松地完成了拼图。",
+     "audio": "media/sent/288f29a1e534.mp3"
+    },
+    {
+     "en": "She rides her bike easily.",
+     "zh": "她骑车很轻松。",
+     "audio": "media/sent/e19bb7142ee8.mp3"
+    },
+    {
+     "en": "The door opens easily.",
+     "zh": "门很容易打开。",
+     "audio": "media/sent/c44884357023.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/easily.webp",
+    "uk": "media/uk/easily.mp3",
+    "us": "media/us/easily.mp3"
+   },
+   "avoid": [
+    "quickly"
+   ]
+  },
+  {
+   "id": "quickly",
+   "word": "quickly",
+   "zh": "快速地；很快地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "快速地；很快地"
+    }
+   ],
+   "ipa": "/ˈkwɪkli/",
+   "chunks": [
+    "quick",
+    "ly"
+   ],
+   "emoji": "⚡",
+   "sentence": {
+    "en": "Run quickly to the bus.",
+    "zh": "快跑去赶公交车。"
+   },
+   "sentences": [
+    {
+     "en": "Run quickly to the bus.",
+     "zh": "快跑去赶公交车。",
+     "audio": "media/sent/b882655a31fe.mp3"
+    },
+    {
+     "en": "Mum cooks dinner quickly.",
+     "zh": "妈妈很快做完了晚饭。",
+     "audio": "media/sent/b9bf2083a014.mp3"
+    },
+    {
+     "en": "The dog runs quickly in the park.",
+     "zh": "狗在公园里跑得快。",
+     "audio": "media/sent/5958761613e8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/quickly.webp",
+    "uk": "media/uk/quickly.mp3",
+    "us": "media/us/quickly.mp3"
+   },
+   "avoid": [
+    "easily"
+   ]
+  },
+  {
+   "id": "slowly",
+   "word": "slowly",
+   "zh": "缓慢地；慢慢地",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "缓慢地；慢慢地"
+    }
+   ],
+   "ipa": "/ˈsləʊli/",
+   "chunks": [
+    "slow",
+    "ly"
+   ],
+   "emoji": "🐢",
+   "sentence": {
+    "en": "The snail moves slowly.",
+    "zh": "蜗牛爬得很慢。"
+   },
+   "sentences": [
+    {
+     "en": "The snail moves slowly.",
+     "zh": "蜗牛爬得很慢。",
+     "audio": "media/sent/6db987dfce9c.mp3"
+    },
+    {
+     "en": "Drive slowly in the street.",
+     "zh": "在街上开慢点。",
+     "audio": "media/sent/f9b320274933.mp3"
+    },
+    {
+     "en": "Grandpa reads the newspaper slowly.",
+     "zh": "爷爷慢慢地看报纸。",
+     "audio": "media/sent/c2fa52b40a36.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/slowly.webp",
+    "uk": "media/uk/slowly.mp3",
+    "us": "media/us/slowly.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "together",
+   "word": "together",
+   "zh": "一起；共同",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "一起；共同"
+    }
+   ],
+   "ipa": "/təˈɡeðə/",
+   "chunks": [
+    "to",
+    "geth",
+    "er"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "We play football together.",
+    "zh": "我们一起踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "We play football together.",
+     "zh": "我们一起踢足球。",
+     "audio": "media/sent/95cef4e58890.mp3"
+    },
+    {
+     "en": "Mum and Dad cook dinner together.",
+     "zh": "爸爸妈妈一起做饭。",
+     "audio": "media/sent/f0bbac5943f4.mp3"
+    },
+    {
+     "en": "Let's go to school together.",
+     "zh": "我们一起去上学吧。",
+     "audio": "media/sent/32795935cfc0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/together.webp",
+    "uk": "media/uk/together.mp3",
+    "us": "media/us/together.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "lost-passport",
+ "topic": "travel",
+ "title": "Where Is the Passport?",
+ "zh": "护照在哪儿？",
+ "pages": [
+  {
+   "en": "The family is at the airport. They are flying to Spain for their holiday. But Mum can't find her passport! \"Oh no!\" she says.",
+   "zh": "一家人在机场。他们要坐飞机去西班牙度假。可是妈妈找不到她的护照了！“哎呀！”她说。",
+   "scene": "A bright busy airport, the family with suitcases, Mum looking worried and searching in her handbag, Lily and Tom watching."
+  },
+  {
+   "en": "Everyone looks in the bags and the suitcases. Lily checks Mum's coat. Tom looks under the seats. There is no passport.",
+   "zh": "大家在包和行李箱里找。Lily 检查妈妈的外套，Tom 往座位底下看。都没有护照。",
+   "scene": "An airport waiting area, Lily checking the pockets of a coat, Tom on his knees looking under a row of seats, Dad opening a suitcase."
+  },
+  {
+   "en": "Then Max's bag moves. Tom opens it, and there is the passport, under Max's toy! Everyone laughs. \"Now we can go!\" says Dad.",
+   "zh": "这时 Max 的包动了一下。Tom 打开一看，护照就在 Max 的玩具下面！大家都笑了。“现在我们可以走了！”爸爸说。",
+   "scene": "Tom holding up a passport (no writing) and laughing, a dog toy in his other hand, Mum, Dad and Lily laughing with relief at the airport."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The family is going to Spain.",
+   "zh": "这家人要去西班牙。",
+   "answer": true
+  },
+  {
+   "q": "Who can't find the passport?",
+   "zh": "谁找不到护照？",
+   "options": [
+    "Mum",
+    "Dad",
+    "Lily"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where is the passport?",
+   "zh": "护照在哪儿？",
+   "options": [
+    "in Max's bag",
+    "in Mum's coat",
+    "under the seat"
+   ],
+   "answer": 0
+  }
+ ]
+}

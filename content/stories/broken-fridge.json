@@ -1,0 +1,45 @@
+{
+ "id": "broken-fridge",
+ "topic": "appliances",
+ "title": "The Fridge Is Quiet",
+ "zh": "冰箱不响了",
+ "pages": [
+  {
+   "en": "One hot morning, Mum opens the fridge. The milk is warm and the light does not come on. \"Oh no! The fridge is broken,\" she says.",
+   "zh": "一个炎热的早上，妈妈打开冰箱。牛奶是温的，灯也不亮。“哎呀！冰箱坏了，”她说。",
+   "scene": "A sunny kitchen in the morning, Mum looking into an open fridge with no light inside, holding a bottle of milk, Lily and Tom watching from the table."
+  },
+  {
+   "en": "Dad looks at the lamp and the radio. Nothing works! \"There is no electricity in the house,\" he says.",
+   "zh": "爸爸看了看台灯和收音机。都不工作！“家里停电了，”他说。",
+   "scene": "Dad in the kitchen trying the switch of a dark lamp, a silent radio on the shelf, Max sitting next to him looking curious."
+  },
+  {
+   "en": "Lily and Tom put the food in a cool bag. At lunchtime the lights come on again, and the fridge works again. \"Yes!\" shouts Tom.",
+   "zh": "Lily 和 Tom 把食物放进保温袋。到了中午，灯又亮了，冰箱也重新工作了。“太好了！”Tom 大喊。",
+   "scene": "The kitchen with all the lights back on, the fridge humming with a soft glow inside, Tom jumping with his arms up, Lily laughing, Max wagging his tail."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The fridge is broken because there is no electricity.",
+   "zh": "冰箱坏了，是因为停电了。",
+   "answer": true
+  },
+  {
+   "q": "What does Dad look at first?",
+   "zh": "爸爸先看了什么？",
+   "options": [
+    "the lamp",
+    "the oven",
+    "the television"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The lights come on again in the evening.",
+   "zh": "灯到晚上才又亮了。",
+   "answer": false
+  }
+ ]
+}

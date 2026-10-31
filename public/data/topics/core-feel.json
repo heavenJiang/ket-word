@@ -1,0 +1,1845 @@
+{
+ "id": "core-feel",
+ "words": [
+  {
+   "id": "amazed",
+   "word": "amazed",
+   "zh": "惊讶的；惊叹的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "惊讶的；惊叹的"
+    }
+   ],
+   "ipa": "/əˈmeɪzd/",
+   "chunks": [
+    "a",
+    "mazed"
+   ],
+   "emoji": "😲",
+   "sentence": {
+    "en": "Lily is amazed by the show.",
+    "zh": "Lily 对这个表演感到惊叹。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is amazed by the show.",
+     "zh": "Lily 对这个表演感到惊叹。",
+     "audio": "media/sent/d2eec363fdaa.mp3"
+    },
+    {
+     "en": "Tom was amazed to see the big dinosaur.",
+     "zh": "Tom 看到那只大恐龙很惊讶。",
+     "audio": "media/sent/19a13a0caa2e.mp3"
+    },
+    {
+     "en": "I am amazed at your drawing.",
+     "zh": "你的画让我惊叹。",
+     "audio": "media/sent/d365674ccd24.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/amazed.webp",
+    "uk": "media/uk/amazed.mp3",
+    "us": "media/us/amazed.mp3"
+   },
+   "avoid": [
+    "surprised",
+    "surprising"
+   ]
+  },
+  {
+   "id": "awesome",
+   "word": "awesome",
+   "zh": "极好的；了不起的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "极好的；了不起的"
+    }
+   ],
+   "ipa": "/ˈɔːsəm/",
+   "chunks": [
+    "awe",
+    "some"
+   ],
+   "emoji": "😎",
+   "sentence": {
+    "en": "The new ride is awesome!",
+    "zh": "这个新的游乐项目太棒了！"
+   },
+   "sentences": [
+    {
+     "en": "The new ride is awesome!",
+     "zh": "这个新的游乐项目太棒了！",
+     "audio": "media/sent/e41eabc027ea.mp3"
+    },
+    {
+     "en": "You did an awesome job on your homework.",
+     "zh": "你的作业做得真棒。",
+     "audio": "media/sent/5cebd5f82567.mp3"
+    },
+    {
+     "en": "What an awesome view from the hill!",
+     "zh": "从山上看到的景色太美了！",
+     "audio": "media/sent/58f64e497336.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/awesome.webp",
+    "uk": "media/uk/awesome.mp3",
+    "us": "media/us/awesome.mp3"
+   },
+   "avoid": [
+    "fantastic",
+    "perfect",
+    "wonderful"
+   ]
+  },
+  {
+   "id": "awful",
+   "word": "awful",
+   "zh": "糟糕的；可怕的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "糟糕的；可怕的"
+    }
+   ],
+   "ipa": "/ˈɔːfəl/",
+   "chunks": [
+    "aw",
+    "ful"
+   ],
+   "emoji": "🤢",
+   "sentence": {
+    "en": "The weather is awful today.",
+    "zh": "今天天气很糟糕。"
+   },
+   "sentences": [
+    {
+     "en": "The weather is awful today.",
+     "zh": "今天天气很糟糕。",
+     "audio": "media/sent/3e514fd8b007.mp3"
+    },
+    {
+     "en": "Tom made an awful mistake in maths.",
+     "zh": "Tom 在数学上犯了一个严重的错误。",
+     "audio": "media/sent/b7153dc4c722.mp3"
+    },
+    {
+     "en": "The food is awful.",
+     "zh": "这食物难吃极了。",
+     "audio": "media/sent/11b65678bc54.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/awful.webp",
+    "uk": "media/uk/awful.mp3",
+    "us": "media/us/awful.mp3"
+   },
+   "avoid": [
+    "horrible"
+   ]
+  },
+  {
+   "id": "exciting",
+   "word": "exciting",
+   "zh": "令人兴奋的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "令人兴奋的"
+    }
+   ],
+   "ipa": "/ɪkˈsaɪtɪŋ/",
+   "chunks": [
+    "ex",
+    "cit",
+    "ing"
+   ],
+   "emoji": "🤩",
+   "sentence": {
+    "en": "The football match is very exciting.",
+    "zh": "足球比赛非常令人兴奋。"
+   },
+   "sentences": [
+    {
+     "en": "The football match is very exciting.",
+     "zh": "足球比赛非常令人兴奋。",
+     "audio": "media/sent/96431c4748fd.mp3"
+    },
+    {
+     "en": "We had an exciting day at the zoo.",
+     "zh": "我们在动物园度过了兴奋的一天。",
+     "audio": "media/sent/137e8ef0c5ac.mp3"
+    },
+    {
+     "en": "This book is an exciting story.",
+     "zh": "这本书是一个令人兴奋的故事。",
+     "audio": "media/sent/68c01fd9114b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/exciting.webp",
+    "uk": "media/uk/exciting.mp3",
+    "us": "media/us/exciting.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fantastic",
+   "word": "fantastic",
+   "zh": "极好的；精彩的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "极好的；精彩的"
+    }
+   ],
+   "ipa": "/fænˈtæstɪk/",
+   "chunks": [
+    "fan",
+    "tas",
+    "tic"
+   ],
+   "emoji": "✨",
+   "sentence": {
+    "en": "Our holiday was fantastic.",
+    "zh": "我们的假期非常精彩。"
+   },
+   "sentences": [
+    {
+     "en": "Our holiday was fantastic.",
+     "zh": "我们的假期非常精彩。",
+     "audio": "media/sent/eb2038f28f5f.mp3"
+    },
+    {
+     "en": "You look fantastic in that red dress.",
+     "zh": "你穿那条红裙子看起来棒极了。",
+     "audio": "media/sent/8ec6d840dca9.mp3"
+    },
+    {
+     "en": "The cake is fantastic.",
+     "zh": "这个蛋糕好极了。",
+     "audio": "media/sent/7c712643b2d2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fantastic.webp",
+    "uk": "media/uk/fantastic.mp3",
+    "us": "media/us/fantastic.mp3"
+   },
+   "avoid": [
+    "awesome",
+    "perfect",
+    "wonderful"
+   ]
+  },
+  {
+   "id": "frightened",
+   "word": "frightened",
+   "zh": "害怕的；受惊的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "害怕的；受惊的"
+    }
+   ],
+   "ipa": "/ˈfraɪtənd/",
+   "chunks": [
+    "fright",
+    "ened"
+   ],
+   "emoji": "😨",
+   "sentence": {
+    "en": "Tom is frightened of the dark.",
+    "zh": "Tom 害怕黑暗。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is frightened of the dark.",
+     "zh": "Tom 害怕黑暗。",
+     "audio": "media/sent/fe32380bc7bf.mp3"
+    },
+    {
+     "en": "The loud noise frightened Max.",
+     "zh": "巨大的噪音吓坏了 Max。",
+     "audio": "media/sent/0fef859521b5.mp3"
+    },
+    {
+     "en": "Don't be frightened of the dog.",
+     "zh": "不要害怕那只狗。",
+     "audio": "media/sent/25f03e9966a0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/frightened.webp",
+    "uk": "media/uk/frightened.mp3",
+    "us": "media/us/frightened.mp3"
+   },
+   "avoid": [
+    "horror",
+    "scared",
+    "scary"
+   ]
+  },
+  {
+   "id": "glad",
+   "word": "glad",
+   "zh": "高兴的；乐意的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "高兴的；乐意的"
+    }
+   ],
+   "ipa": "/ɡlæd/",
+   "chunks": [
+    "glad"
+   ],
+   "emoji": "😊",
+   "sentence": {
+    "en": "I am glad to see you.",
+    "zh": "很高兴见到你。"
+   },
+   "sentences": [
+    {
+     "en": "I am glad to see you.",
+     "zh": "很高兴见到你。",
+     "audio": "media/sent/5548a742e841.mp3"
+    },
+    {
+     "en": "Mum is glad Tom got a good mark.",
+     "zh": "妈妈很高兴 Tom 得了好分数。",
+     "audio": "media/sent/b08a2c932aca.mp3"
+    },
+    {
+     "en": "We are glad to help you.",
+     "zh": "我们乐意帮助你。",
+     "audio": "media/sent/68c5e8834bd9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/glad.webp",
+    "uk": "media/uk/glad.mp3",
+    "us": "media/us/glad.mp3"
+   },
+   "avoid": [
+    "pleased"
+   ]
+  },
+  {
+   "id": "horrible",
+   "word": "horrible",
+   "zh": "可怕的；极讨厌的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "可怕的；极讨厌的"
+    }
+   ],
+   "ipa": "/ˈhɒrəbl/",
+   "chunks": [
+    "hor",
+    "ri",
+    "ble"
+   ],
+   "emoji": "😖",
+   "sentence": {
+    "en": "The soup is horrible.",
+    "zh": "这汤难喝极了。"
+   },
+   "sentences": [
+    {
+     "en": "The soup is horrible.",
+     "zh": "这汤难喝极了。",
+     "audio": "media/sent/d4e7305a93da.mp3"
+    },
+    {
+     "en": "I had a horrible dream last night.",
+     "zh": "我昨晚做了一个可怕的梦。",
+     "audio": "media/sent/994f0948e7ae.mp3"
+    },
+    {
+     "en": "That film was horrible and boring.",
+     "zh": "那部电影既可怕又无聊。",
+     "audio": "media/sent/d5d9cd03f6ea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/horrible.webp",
+    "uk": "media/uk/horrible.mp3",
+    "us": "media/us/horrible.mp3"
+   },
+   "avoid": [
+    "awful"
+   ]
+  },
+  {
+   "id": "horror",
+   "word": "horror",
+   "zh": "恐怖（电影/故事）",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "恐怖（电影/故事）"
+    }
+   ],
+   "ipa": "/ˈhɒrə/",
+   "chunks": [
+    "hor",
+    "ror"
+   ],
+   "emoji": "👻",
+   "sentence": {
+    "en": "Dad likes watching horror films.",
+    "zh": "爸爸喜欢看恐怖电影。"
+   },
+   "sentences": [
+    {
+     "en": "Dad likes watching horror films.",
+     "zh": "爸爸喜欢看恐怖电影。",
+     "audio": "media/sent/6db2b6731deb.mp3"
+    },
+    {
+     "en": "She does not like horror stories.",
+     "zh": "她不喜欢恐怖故事。",
+     "audio": "media/sent/0fabf0d2cad4.mp3"
+    },
+    {
+     "en": "That was a real horror show!",
+     "zh": "那真是一场恐怖的表演！",
+     "audio": "media/sent/d515bd6388b3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/horror.webp",
+    "uk": "media/uk/horror.mp3",
+    "us": "media/us/horror.mp3"
+   },
+   "avoid": [
+    "frightened",
+    "scared",
+    "scary"
+   ]
+  },
+  {
+   "id": "mad",
+   "word": "mad",
+   "zh": "生气的；疯的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "生气的；疯的"
+    }
+   ],
+   "ipa": "/mæd/",
+   "chunks": [
+    "mad"
+   ],
+   "emoji": "😡",
+   "sentence": {
+    "en": "Dad is mad at Tom.",
+    "zh": "爸爸对 Tom 很生气。"
+   },
+   "sentences": [
+    {
+     "en": "Dad is mad at Tom.",
+     "zh": "爸爸对 Tom 很生气。",
+     "audio": "media/sent/3e97a4776298.mp3"
+    },
+    {
+     "en": "Are you mad with me?",
+     "zh": "你生我的气吗？",
+     "audio": "media/sent/4e18fd286d6d.mp3"
+    },
+    {
+     "en": "Mum gets mad when we are late.",
+     "zh": "我们迟到时妈妈会生气。",
+     "audio": "media/sent/c0a61acce650.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mad.webp",
+    "uk": "media/uk/mad.mp3",
+    "us": "media/us/mad.mp3"
+   },
+   "avoid": [
+    "serious"
+   ]
+  },
+  {
+   "id": "nervous",
+   "word": "nervous",
+   "zh": "紧张的；不安的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "紧张的；不安的"
+    }
+   ],
+   "ipa": "/ˈnɜːvəs/",
+   "chunks": [
+    "ner",
+    "vous"
+   ],
+   "emoji": "😰",
+   "sentence": {
+    "en": "Lily feels nervous before the test.",
+    "zh": "Lily 考试前感到紧张。"
+   },
+   "sentences": [
+    {
+     "en": "Lily feels nervous before the test.",
+     "zh": "Lily 考试前感到紧张。",
+     "audio": "media/sent/aa5bc98d21b5.mp3"
+    },
+    {
+     "en": "Max is nervous in the car.",
+     "zh": "Max 坐车时很紧张。",
+     "audio": "media/sent/9d7b9da47a93.mp3"
+    },
+    {
+     "en": "Don't be nervous. You will do fine.",
+     "zh": "别紧张。你会做好的。",
+     "audio": "media/sent/57a69ddd40c0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/nervous.webp",
+    "uk": "media/uk/nervous.mp3",
+    "us": "media/us/nervous.mp3"
+   },
+   "avoid": [
+    "shy"
+   ]
+  },
+  {
+   "id": "pleased",
+   "word": "pleased",
+   "zh": "高兴的；满意的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "高兴的；满意的"
+    }
+   ],
+   "ipa": "/pliːzd/",
+   "chunks": [
+    "pleased"
+   ],
+   "emoji": "😄",
+   "sentence": {
+    "en": "Mum is pleased with the clean room.",
+    "zh": "妈妈对整洁的房间很满意。"
+   },
+   "sentences": [
+    {
+     "en": "Mum is pleased with the clean room.",
+     "zh": "妈妈对整洁的房间很满意。",
+     "audio": "media/sent/5f12cd5497fc.mp3"
+    },
+    {
+     "en": "I am pleased to hear the good news.",
+     "zh": "听到这个好消息我很高兴。",
+     "audio": "media/sent/b3e0ec6f8a1d.mp3"
+    },
+    {
+     "en": "Grandpa was pleased with my gift.",
+     "zh": "爷爷对我的礼物很满意。",
+     "audio": "media/sent/9c99d5f2a793.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pleased.webp",
+    "uk": "media/uk/pleased.mp3",
+    "us": "media/us/pleased.mp3"
+   },
+   "avoid": [
+    "glad"
+   ]
+  },
+  {
+   "id": "polite",
+   "word": "polite",
+   "zh": "有礼貌的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "有礼貌的"
+    }
+   ],
+   "ipa": "/pəˈlaɪt/",
+   "chunks": [
+    "po",
+    "lite"
+   ],
+   "emoji": "🙇",
+   "sentence": {
+    "en": "Tom is always polite to guests.",
+    "zh": "Tom 对客人总是很有礼貌。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is always polite to guests.",
+     "zh": "Tom 对客人总是很有礼貌。",
+     "audio": "media/sent/08ddb57ae02a.mp3"
+    },
+    {
+     "en": "It is polite to say thank you.",
+     "zh": "说谢谢是有礼貌的。",
+     "audio": "media/sent/b08a2acb0cca.mp3"
+    },
+    {
+     "en": "Please be polite in the library.",
+     "zh": "在图书馆里请保持礼貌/安静。",
+     "audio": "media/sent/da71f2483293.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/polite.webp",
+    "uk": "media/uk/polite.mp3",
+    "us": "media/us/polite.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "popular",
+   "word": "popular",
+   "zh": "受欢迎的；流行的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "受欢迎的；流行的"
+    }
+   ],
+   "ipa": "/ˈpɒpjələ/",
+   "chunks": [
+    "pop",
+    "u",
+    "lar"
+   ],
+   "emoji": "🌟",
+   "sentence": {
+    "en": "This song is very popular.",
+    "zh": "这首歌很流行。"
+   },
+   "sentences": [
+    {
+     "en": "This song is very popular.",
+     "zh": "这首歌很流行。",
+     "audio": "media/sent/fef45a52c901.mp3"
+    },
+    {
+     "en": "Football is popular at our school.",
+     "zh": "足球在我们学校很受欢迎。",
+     "audio": "media/sent/b3c28904485f.mp3"
+    },
+    {
+     "en": "Mia has many friends because she is popular.",
+     "zh": "Mia 有很多朋友，因为她很受欢迎。",
+     "audio": "media/sent/94a15e877bae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/popular.webp",
+    "uk": "media/uk/popular.mp3",
+    "us": "media/us/popular.mp3"
+   },
+   "avoid": [
+    "successful",
+    "well-known"
+   ]
+  },
+  {
+   "id": "sad",
+   "word": "sad",
+   "zh": "悲伤的；难过的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "悲伤的；难过的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "sad"
+   ],
+   "emoji": "😢",
+   "sentence": {
+    "en": "Lily is sad because her balloon popped.",
+    "zh": "Lily 因为气球破了而难过。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is sad because her balloon popped.",
+     "zh": "Lily 因为气球破了而难过。",
+     "audio": "media/sent/30ac6a6eb6e7.mp3"
+    },
+    {
+     "en": "Don't be sad. It will be OK.",
+     "zh": "别难过。会好起来的。",
+     "audio": "media/sent/afec1d6bfaa3.mp3"
+    },
+    {
+     "en": "The dog looks sad when we leave.",
+     "zh": "我们离开时，狗看起来很伤心。",
+     "audio": "media/sent/8412d4ffb718.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sad.webp"
+   },
+   "avoid": [
+    "upset"
+   ]
+  },
+  {
+   "id": "scared",
+   "word": "scared",
+   "zh": "害怕的；受惊的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "害怕的；受惊的"
+    }
+   ],
+   "ipa": "/skeəd/",
+   "chunks": [
+    "scared"
+   ],
+   "emoji": "😱",
+   "sentence": {
+    "en": "Max is scared of the loud noise.",
+    "zh": "Max 害怕那个巨大的噪音。"
+   },
+   "sentences": [
+    {
+     "en": "Max is scared of the loud noise.",
+     "zh": "Max 害怕那个巨大的噪音。",
+     "audio": "media/sent/0674b6864225.mp3"
+    },
+    {
+     "en": "Are you scared of the spider?",
+     "zh": "你怕那只蜘蛛吗？",
+     "audio": "media/sent/dd3f11f3d3c8.mp3"
+    },
+    {
+     "en": "I was scared when I heard the noise.",
+     "zh": "我听到那个声音时很害怕。",
+     "audio": "media/sent/f2387b9ce5bd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/scared.webp",
+    "uk": "media/uk/scared.mp3",
+    "us": "media/us/scared.mp3"
+   },
+   "avoid": [
+    "frightened",
+    "horror",
+    "scary"
+   ]
+  },
+  {
+   "id": "scary",
+   "word": "scary",
+   "zh": "可怕的；吓人的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "可怕的；吓人的"
+    }
+   ],
+   "ipa": "/ˈskeəri/",
+   "chunks": [
+    "scar",
+    "y"
+   ],
+   "emoji": "🎃",
+   "sentence": {
+    "en": "That is a scary face.",
+    "zh": "那是一张可怕的脸。"
+   },
+   "sentences": [
+    {
+     "en": "That is a scary face.",
+     "zh": "那是一张可怕的脸。",
+     "audio": "media/sent/8ee1f1d2e394.mp3"
+    },
+    {
+     "en": "The old house looks scary at night.",
+     "zh": "那座老房子晚上看起来很吓人。",
+     "audio": "media/sent/b33b3a7925c1.mp3"
+    },
+    {
+     "en": "Don't tell scary stories before bed.",
+     "zh": "睡前不要讲吓人的故事。",
+     "audio": "media/sent/7a1b962efdce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/scary.webp",
+    "uk": "media/uk/scary.mp3",
+    "us": "media/us/scary.mp3"
+   },
+   "avoid": [
+    "frightened",
+    "horror",
+    "scared"
+   ]
+  },
+  {
+   "id": "serious",
+   "word": "serious",
+   "zh": "严肃的；认真的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "严肃的；认真的"
+    }
+   ],
+   "ipa": "/ˈsɪəriəs/",
+   "chunks": [
+    "se",
+    "ri",
+    "ous"
+   ],
+   "emoji": "😐",
+   "sentence": {
+    "en": "Dad is serious about doing homework.",
+    "zh": "爸爸对做作业很认真/严肃。"
+   },
+   "sentences": [
+    {
+     "en": "Dad is serious about doing homework.",
+     "zh": "爸爸对做作业很认真/严肃。",
+     "audio": "media/sent/adb920382f99.mp3"
+    },
+    {
+     "en": "The teacher has a serious look today.",
+     "zh": "老师今天表情很严肃。",
+     "audio": "media/sent/5cedf8e2e8a9.mp3"
+    },
+    {
+     "en": "This is a serious question.",
+     "zh": "这是一个严肃的问题。",
+     "audio": "media/sent/7eec8ab35b52.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/serious.webp",
+    "uk": "media/uk/serious.mp3",
+    "us": "media/us/serious.mp3"
+   },
+   "avoid": [
+    "mad"
+   ]
+  },
+  {
+   "id": "shy",
+   "word": "shy",
+   "zh": "害羞的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "害羞的"
+    }
+   ],
+   "ipa": "/ʃaɪ/",
+   "chunks": [
+    "shy"
+   ],
+   "emoji": "🙈",
+   "sentence": {
+    "en": "Tom is shy with new friends.",
+    "zh": "Tom 面对新朋友时很害羞。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is shy with new friends.",
+     "zh": "Tom 面对新朋友时很害羞。",
+     "audio": "media/sent/b245aecd21a3.mp3"
+    },
+    {
+     "en": "She feels shy when she sings.",
+     "zh": "她唱歌时感到害羞。",
+     "audio": "media/sent/e6d9c84a619f.mp3"
+    },
+    {
+     "en": "Don't be shy, come and play!",
+     "zh": "别害羞，来玩吧！",
+     "audio": "media/sent/282aee14d8c8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shy.webp",
+    "uk": "media/uk/shy.mp3",
+    "us": "media/us/shy.mp3"
+   },
+   "avoid": [
+    "nervous"
+   ]
+  },
+  {
+   "id": "surprised",
+   "word": "surprised",
+   "zh": "惊讶的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "惊讶的"
+    }
+   ],
+   "ipa": "/səˈpraɪzd/",
+   "chunks": [
+    "sur",
+    "prised"
+   ],
+   "emoji": "😲",
+   "sentence": {
+    "en": "Dad was surprised by the gift.",
+    "zh": "爸爸对这份礼物感到惊讶。"
+   },
+   "sentences": [
+    {
+     "en": "Dad was surprised by the gift.",
+     "zh": "爸爸对这份礼物感到惊讶。",
+     "audio": "media/sent/ac7075434531.mp3"
+    },
+    {
+     "en": "I am surprised to see you here!",
+     "zh": "我很惊讶在这里见到你！",
+     "audio": "media/sent/6dcb8c14b26c.mp3"
+    },
+    {
+     "en": "She looked surprised at the news.",
+     "zh": "她听到这个消息时看起来很惊讶。",
+     "audio": "media/sent/22095d620426.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/surprised.webp",
+    "uk": "media/uk/surprised.mp3",
+    "us": "media/us/surprised.mp3"
+   },
+   "avoid": [
+    "amazed",
+    "surprising"
+   ]
+  },
+  {
+   "id": "surprising",
+   "word": "surprising",
+   "zh": "令人惊讶的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "令人惊讶的"
+    }
+   ],
+   "ipa": "/səˈpraɪzɪŋ/",
+   "chunks": [
+    "sur",
+    "pris",
+    "ing"
+   ],
+   "emoji": "❗",
+   "sentence": {
+    "en": "The big rain was surprising.",
+    "zh": "这场大雨令人惊讶。"
+   },
+   "sentences": [
+    {
+     "en": "The big rain was surprising.",
+     "zh": "这场大雨令人惊讶。",
+     "audio": "media/sent/d753d16e05c9.mp3"
+    },
+    {
+     "en": "It is surprising how fast he runs.",
+     "zh": "他跑得多快真令人惊讶。",
+     "audio": "media/sent/81c087a4dbb1.mp3"
+    },
+    {
+     "en": "The answer was surprising to us.",
+     "zh": "这个答案令我们惊讶。",
+     "audio": "media/sent/d2b777508109.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/surprising.webp",
+    "uk": "media/uk/surprising.mp3",
+    "us": "media/us/surprising.mp3"
+   },
+   "avoid": [
+    "amazed",
+    "surprised"
+   ]
+  },
+  {
+   "id": "upset",
+   "word": "upset",
+   "zh": "难过的；心烦的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "难过的；心烦的"
+    }
+   ],
+   "ipa": "/ʌpˈset/",
+   "chunks": [
+    "up",
+    "set"
+   ],
+   "emoji": "😞",
+   "sentence": {
+    "en": "Tom is upset about his toy.",
+    "zh": "Tom 因为他的玩具而难过。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is upset about his toy.",
+     "zh": "Tom 因为他的玩具而难过。",
+     "audio": "media/sent/2d7882698723.mp3"
+    },
+    {
+     "en": "Mum was upset after work.",
+     "zh": "妈妈下班后心情不好。",
+     "audio": "media/sent/26b39bd0bb9f.mp3"
+    },
+    {
+     "en": "Don't be upset, it's OK now.",
+     "zh": "别难过，现在没事了。",
+     "audio": "media/sent/3c66d0608c11.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/upset.webp",
+    "uk": "media/uk/upset.mp3",
+    "us": "media/us/upset.mp3"
+   },
+   "avoid": [
+    "sad"
+   ]
+  },
+  {
+   "id": "wonderful",
+   "word": "wonderful",
+   "zh": "极好的；精彩的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "极好的；精彩的"
+    }
+   ],
+   "ipa": "/ˈwʌndəfəl/",
+   "chunks": [
+    "won",
+    "der",
+    "ful"
+   ],
+   "emoji": "🌟",
+   "sentence": {
+    "en": "We had a wonderful holiday.",
+    "zh": "我们度过了一个美好的假期。"
+   },
+   "sentences": [
+    {
+     "en": "We had a wonderful holiday.",
+     "zh": "我们度过了一个美好的假期。",
+     "audio": "media/sent/a6462b04a743.mp3"
+    },
+    {
+     "en": "The food at the party was wonderful.",
+     "zh": "派对上的食物很棒。",
+     "audio": "media/sent/57b40934bea0.mp3"
+    },
+    {
+     "en": "What a wonderful view!",
+     "zh": "多美的景色啊！",
+     "audio": "media/sent/f16689edcf6e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wonderful.webp",
+    "uk": "media/uk/wonderful.mp3",
+    "us": "media/us/wonderful.mp3"
+   },
+   "avoid": [
+    "awesome",
+    "fantastic",
+    "perfect"
+   ]
+  },
+  {
+   "id": "perfect",
+   "word": "perfect",
+   "zh": "完美的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "完美的"
+    }
+   ],
+   "ipa": "/ˈpɜːfɪkt/",
+   "chunks": [
+    "per",
+    "fect"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "The cake looks perfect.",
+    "zh": "这个蛋糕看起来完美。"
+   },
+   "sentences": [
+    {
+     "en": "The cake looks perfect.",
+     "zh": "这个蛋糕看起来完美。",
+     "audio": "media/sent/9c035031533d.mp3"
+    },
+    {
+     "en": "Today's weather is perfect for sports.",
+     "zh": "今天的天气非常适合运动。",
+     "audio": "media/sent/f7bbe4d4bf5f.mp3"
+    },
+    {
+     "en": "She made a perfect drawing.",
+     "zh": "她画了一幅完美的画。",
+     "audio": "media/sent/4c324f9715fd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/perfect.webp",
+    "uk": "media/uk/perfect.mp3",
+    "us": "media/us/perfect.mp3"
+   },
+   "avoid": [
+    "awesome",
+    "fantastic",
+    "wonderful"
+   ]
+  },
+  {
+   "id": "lazy",
+   "word": "lazy",
+   "zh": "懒惰的；懒散的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "懒惰的；懒散的"
+    }
+   ],
+   "ipa": "/ˈleɪzi/",
+   "chunks": [
+    "la",
+    "zy"
+   ],
+   "emoji": "😴",
+   "sentence": {
+    "en": "Max is a lazy dog.",
+    "zh": "Max 是一只懒狗。"
+   },
+   "sentences": [
+    {
+     "en": "Max is a lazy dog.",
+     "zh": "Max 是一只懒狗。",
+     "audio": "media/sent/df8732f88065.mp3"
+    },
+    {
+     "en": "Tom feels lazy on Sunday mornings.",
+     "zh": "Tom 在星期天早上感觉懒洋洋的。",
+     "audio": "media/sent/93fd97ae2cca.mp3"
+    },
+    {
+     "en": "Don't be lazy, help me please!",
+     "zh": "别偷懒，请帮帮我！",
+     "audio": "media/sent/e86fc24053d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lazy.webp",
+    "uk": "media/uk/lazy.mp3",
+    "us": "media/us/lazy.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "helpful",
+   "word": "helpful",
+   "zh": "乐于助人的；有用的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "乐于助人的；有用的"
+    }
+   ],
+   "ipa": "/ˈhelpfəl/",
+   "chunks": [
+    "help",
+    "ful"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Sam is very helpful at home.",
+    "zh": "Sam 在家很乐于助人。"
+   },
+   "sentences": [
+    {
+     "en": "Sam is very helpful at home.",
+     "zh": "Sam 在家很乐于助人。",
+     "audio": "media/sent/7951abfb9ee4.mp3"
+    },
+    {
+     "en": "This map is helpful for us.",
+     "zh": "这张地图对我们很有用。",
+     "audio": "media/sent/805cc9f234c7.mp3"
+    },
+    {
+     "en": "Thank you for being so helpful!",
+     "zh": "谢谢你这么乐于助人！",
+     "audio": "media/sent/f8cae2716e7c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/helpful.webp",
+    "uk": "media/uk/helpful.mp3",
+    "us": "media/us/helpful.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "healthy",
+   "word": "healthy",
+   "zh": "健康的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "健康的"
+    }
+   ],
+   "ipa": "/ˈhelθi/",
+   "chunks": [
+    "heal",
+    "thy"
+   ],
+   "emoji": "🥗",
+   "sentence": {
+    "en": "Fruit is good and healthy.",
+    "zh": "水果既好吃又健康。"
+   },
+   "sentences": [
+    {
+     "en": "Fruit is good and healthy.",
+     "zh": "水果既好吃又健康。",
+     "audio": "media/sent/2c22110be387.mp3"
+    },
+    {
+     "en": "Running keeps me healthy.",
+     "zh": "跑步让我保持健康。",
+     "audio": "media/sent/ae61c702a19b.mp3"
+    },
+    {
+     "en": "Grandma is old but very healthy.",
+     "zh": "奶奶年纪大了，但很健康。",
+     "audio": "media/sent/32af0591c2a3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/healthy.webp",
+    "uk": "media/uk/healthy.mp3",
+    "us": "media/us/healthy.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "comfortable",
+   "word": "comfortable",
+   "zh": "舒适的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "舒适的"
+    }
+   ],
+   "ipa": "/ˈkʌmftəbl/",
+   "chunks": [
+    "com",
+    "for",
+    "ta",
+    "ble"
+   ],
+   "emoji": "🛋️",
+   "sentence": {
+    "en": "This chair is comfortable.",
+    "zh": "这把椅子很舒适。"
+   },
+   "sentences": [
+    {
+     "en": "This chair is comfortable.",
+     "zh": "这把椅子很舒适。",
+     "audio": "media/sent/ea34ad06ee0d.mp3"
+    },
+    {
+     "en": "My shoes are not comfortable.",
+     "zh": "我的鞋子不舒服。",
+     "audio": "media/sent/c415c6bc9b4e.mp3"
+    },
+    {
+     "en": "The hotel bed was very comfortable.",
+     "zh": "酒店的床很舒适。",
+     "audio": "media/sent/d9ea206aabe3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/comfortable.webp",
+    "uk": "media/uk/comfortable.mp3",
+    "us": "media/us/comfortable.mp3"
+   },
+   "avoid": [
+    "relaxing"
+   ]
+  },
+  {
+   "id": "relaxing",
+   "word": "relaxing",
+   "zh": "放松的；令人放松的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "放松的；令人放松的"
+    }
+   ],
+   "ipa": "/rɪˈlæksɪŋ/",
+   "chunks": [
+    "re",
+    "lax",
+    "ing"
+   ],
+   "emoji": "🧘",
+   "sentence": {
+    "en": "Reading books is relaxing.",
+    "zh": "看书很放松。"
+   },
+   "sentences": [
+    {
+     "en": "Reading books is relaxing.",
+     "zh": "看书很放松。",
+     "audio": "media/sent/aff9ec65c21b.mp3"
+    },
+    {
+     "en": "The music sounds relaxing.",
+     "zh": "这音乐听起来令人放松。",
+     "audio": "media/sent/7311505b3abc.mp3"
+    },
+    {
+     "en": "We had a relaxing weekend.",
+     "zh": "我们度过了一个轻松的周末。",
+     "audio": "media/sent/74374c26ccab.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/relaxing.webp",
+    "uk": "media/uk/relaxing.mp3",
+    "us": "media/us/relaxing.mp3"
+   },
+   "avoid": [
+    "comfortable"
+   ]
+  },
+  {
+   "id": "successful",
+   "word": "successful",
+   "zh": "成功的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "成功的"
+    }
+   ],
+   "ipa": "/səkˈsesfəl/",
+   "chunks": [
+    "suc",
+    "cess",
+    "ful"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "The team was successful today.",
+    "zh": "球队今天很成功。"
+   },
+   "sentences": [
+    {
+     "en": "The team was successful today.",
+     "zh": "球队今天很成功。",
+     "audio": "media/sent/d22c7a6823f5.mp3"
+    },
+    {
+     "en": "She is a successful singer.",
+     "zh": "她是一位成功的歌手。",
+     "audio": "media/sent/fb2a5999e4cb.mp3"
+    },
+    {
+     "en": "The project was very successful.",
+     "zh": "这个项目非常成功。",
+     "audio": "media/sent/c7c728994691.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/successful.webp",
+    "uk": "media/uk/successful.mp3",
+    "us": "media/us/successful.mp3"
+   },
+   "avoid": [
+    "popular",
+    "well-known"
+   ]
+  },
+  {
+   "id": "attractive",
+   "word": "attractive",
+   "zh": "吸引人的；漂亮的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "吸引人的；漂亮的"
+    }
+   ],
+   "ipa": "/əˈtræktɪv/",
+   "chunks": [
+    "at",
+    "trac",
+    "tive"
+   ],
+   "emoji": "✨",
+   "sentence": {
+    "en": "The flowers are attractive.",
+    "zh": "这些花很吸引人。"
+   },
+   "sentences": [
+    {
+     "en": "The flowers are attractive.",
+     "zh": "这些花很吸引人。",
+     "audio": "media/sent/da782ba29a7d.mp3"
+    },
+    {
+     "en": "This is an attractive dress.",
+     "zh": "这是一件漂亮的裙子。",
+     "audio": "media/sent/d844097310e0.mp3"
+    },
+    {
+     "en": "The town looks very attractive.",
+     "zh": "这个小镇看起来很迷人。",
+     "audio": "media/sent/41f9f7bd78d3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/attractive.webp",
+    "uk": "media/uk/attractive.mp3",
+    "us": "media/us/attractive.mp3"
+   },
+   "avoid": [
+    "good-looking"
+   ]
+  },
+  {
+   "id": "good-looking",
+   "word": "good-looking",
+   "zh": "好看的；英俊的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "好看的；英俊的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "good",
+    "look",
+    "ing"
+   ],
+   "emoji": "😎",
+   "sentence": {
+    "en": "Uncle Ben is good-looking.",
+    "zh": "Ben 叔叔长得很好看。"
+   },
+   "sentences": [
+    {
+     "en": "Uncle Ben is good-looking.",
+     "zh": "Ben 叔叔长得很好看。",
+     "audio": "media/sent/dd476b8edf93.mp3"
+    },
+    {
+     "en": "That dog is very good-looking.",
+     "zh": "那只狗很漂亮。",
+     "audio": "media/sent/65a0eb96dcac.mp3"
+    },
+    {
+     "en": "He has a good-looking car.",
+     "zh": "他有一辆好看的车。",
+     "audio": "media/sent/e9732ec732bc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/good-looking.webp"
+   },
+   "avoid": [
+    "attractive"
+   ]
+  },
+  {
+   "id": "well-known",
+   "word": "well known",
+   "zh": "著名的；众所周知的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "著名的；众所周知的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "well",
+    "known"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "This park is well known.",
+    "zh": "这个公园很有名。"
+   },
+   "sentences": [
+    {
+     "en": "This park is well known.",
+     "zh": "这个公园很有名。",
+     "audio": "media/sent/c524c20ae729.mp3"
+    },
+    {
+     "en": "She is a well known teacher.",
+     "zh": "她是一位著名的老师。",
+     "audio": "media/sent/b1ede58ac5e9.mp3"
+    },
+    {
+     "en": "The bridge is well known here.",
+     "zh": "这座桥在这里很有名。",
+     "audio": "media/sent/bef207114d4f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/well-known.webp"
+   },
+   "avoid": [
+    "popular",
+    "successful"
+   ]
+  },
+  {
+   "id": "fair",
+   "word": "fair",
+   "zh": "公平的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "公平的"
+    }
+   ],
+   "ipa": "/feə/",
+   "chunks": [
+    "fair"
+   ],
+   "emoji": "⚖️",
+   "sentence": {
+    "en": "The game was fair.",
+    "zh": "比赛很公平。"
+   },
+   "sentences": [
+    {
+     "en": "The game was fair.",
+     "zh": "比赛很公平。",
+     "audio": "media/sent/2eb4da5b1d44.mp3"
+    },
+    {
+     "en": "It is not fair to lie.",
+     "zh": "撒谎是不公平的。",
+     "audio": "media/sent/f29080164dee.mp3"
+    },
+    {
+     "en": "Let's take turns. It's fair.",
+     "zh": "我们轮流来，这样才公平。",
+     "audio": "media/sent/aa12f81c60e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fair.webp",
+    "uk": "media/uk/fair.mp3",
+    "us": "media/us/fair.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dear",
+   "word": "dear",
+   "zh": "亲爱的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "亲爱的"
+    }
+   ],
+   "ipa": "/dɪə/",
+   "chunks": [
+    "dear"
+   ],
+   "emoji": "💌",
+   "sentence": {
+    "en": "Dear Grandma, how are you?",
+    "zh": "亲爱的奶奶，你好吗？"
+   },
+   "sentences": [
+    {
+     "en": "Dear Grandma, how are you?",
+     "zh": "亲爱的奶奶，你好吗？",
+     "audio": "media/sent/1a9e580ce830.mp3"
+    },
+    {
+     "en": "My dear friend Tom is here.",
+     "zh": "我亲爱的朋友 Tom 在这里。",
+     "audio": "media/sent/71c779191710.mp3"
+    },
+    {
+     "en": "Come here, my dear child.",
+     "zh": "过来，我亲爱的孩子。",
+     "audio": "media/sent/0624e1fafc30.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/dear.mp3",
+    "us": "media/us/dear.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "tasty",
+   "word": "tasty",
+   "zh": "美味的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "美味的"
+    }
+   ],
+   "ipa": "/ˈteɪsti/",
+   "chunks": [
+    "tas",
+    "ty"
+   ],
+   "emoji": "😋",
+   "sentence": {
+    "en": "These cookies are tasty.",
+    "zh": "这些饼干很美味。"
+   },
+   "sentences": [
+    {
+     "en": "These cookies are tasty.",
+     "zh": "这些饼干很美味。",
+     "audio": "media/sent/721ce8f1c4b8.mp3"
+    },
+    {
+     "en": "The soup is very tasty.",
+     "zh": "这汤很美味。",
+     "audio": "media/sent/f426f3f73b03.mp3"
+    },
+    {
+     "en": "Mum makes tasty meals.",
+     "zh": "妈妈做的饭很美味。",
+     "audio": "media/sent/33b9e29985fb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tasty.webp",
+    "uk": "media/uk/tasty.mp3",
+    "us": "media/us/tasty.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

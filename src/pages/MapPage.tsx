@@ -8,13 +8,14 @@ const ISLAND_EMOJI: Record<string, string> = {
   nature: "🌳", weather: "🌦️", time: "⏰", sport: "⚽", hobbies: "🎸", health: "💪", town: "🏙️",
   buildings: "🏛️", countryside: "🌾", shopping: "🛒", services: "🏥", travel: "✈️", jobs: "👩‍🚒",
   media: "🎬", tech: "💻", appliances: "📺", documents: "✉️", measure: "📏", feelings: "😊",
-  numbers: "🔢", world: "🌍", core: "⭐",
+  numbers: "🔢", world: "🌍",
 };
 
 /** The topic map: each KET topic is an island; islands open as their kid content is reviewed. */
 export function MapPage(props: { topics: Topic[]; progress: Progress; library: Library; onPick: (id: string) => void }) {
   const { topics, progress, library, onPick } = props;
-  const total = topics.reduce((n, t) => n + (t.id === "core" ? t.count : 0), 0);
+  const total = topics.reduce((n, t) => n + (t.core ? t.count : 0), 0);
+  const emoji = (t: Topic) => t.emoji ?? ISLAND_EMOJI[t.id] ?? "🏝️";
   const learned = (t: Topic) => (library.topics[t.id] ?? []).filter((w) => wordLevel(progress.words[w.id]) >= 2).length;
 
   const open = topics.filter((t) => t.ready);
@@ -31,7 +32,7 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
           return (
             <button key={t.id} className={`island ${on ? "island-on" : ""}`} onClick={() => onPick(t.id)}>
               {on && <span className="island-here">📍 在这里</span>}
-              <span className="island-emoji">{ISLAND_EMOJI[t.id] ?? "🏝️"}</span>
+              <span className="island-emoji">{emoji(t)}</span>
               <b>{t.zh}</b>
               <span className="island-en">{t.en}</span>
               <div className="bar bar-thin island-bar">
@@ -47,12 +48,12 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
 
       <h3 className="soon-title">🔒 即将开放（{soon.length} 座）</h3>
       <p className="muted small">
-        KET 官方全部 {topics.filter((t) => t.id !== "core").length} 个话题和 {total} 个核心词都会陆续开放。
+        KET 官方全部 {topics.filter((t) => !t.core).length} 个话题和 {total} 个核心词都会陆续开放。
       </p>
       <div className="soon">
         {soon.map((t) => (
           <span key={t.id} className="soon-item">
-            {ISLAND_EMOJI[t.id] ?? "🏝️"} {t.zh}
+            {emoji(t)} {t.zh}
           </span>
         ))}
       </div>

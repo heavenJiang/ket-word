@@ -1,0 +1,45 @@
+{
+ "id": "pocket-money",
+ "topic": "shopping",
+ "title": "Lily's Pocket Money",
+ "zh": "Lily 的零花钱",
+ "pages": [
+  {
+   "en": "Lily has ten pounds from Grandpa. She goes shopping with Mum in the town centre. \"What can I buy?\" she thinks.",
+   "zh": "爷爷给了 Lily 十英镑。她和妈妈去市中心购物。“我能买什么呢？”她想。",
+   "scene": "A busy shopping street, Lily walking with Mum and holding a small purse, shop windows full of toys, books and clothes."
+  },
+  {
+   "en": "In the toy shop, there is a big doll, but it is very expensive. In the bookshop, Lily finds a book about horses. It costs six pounds.",
+   "zh": "在玩具店里，有一个大娃娃，可是太贵了。在书店里，Lily 找到一本关于马的书，价格是六英镑。",
+   "scene": "Inside a cosy bookshop, Lily holding a book with a horse on the cover and smiling, Mum next to her, full shelves behind them."
+  },
+  {
+   "en": "Lily pays for the book, and the shop assistant gives her the change. Now she has four pounds. \"I can buy a present for Tom too!\" she says.",
+   "zh": "Lily 付钱买了书，店员找给她零钱。现在她还剩四英镑。“我还能给 Tom 买个礼物！”她说。",
+   "scene": "Lily paying at a bookshop counter, a friendly shop assistant giving her coins as change, Lily smiling with the book under her arm."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The doll is cheap.",
+   "zh": "那个娃娃很便宜。",
+   "answer": false
+  },
+  {
+   "q": "What does Lily buy?",
+   "zh": "Lily 买了什么？",
+   "options": [
+    "a book",
+    "a doll",
+    "a bike"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily has four pounds at the end.",
+   "zh": "最后 Lily 还剩四英镑。",
+   "answer": true
+  }
+ ]
+}

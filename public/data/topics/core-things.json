@@ -1,0 +1,2829 @@
+{
+ "id": "core-things",
+ "words": [
+  {
+   "id": "alarm-clock",
+   "word": "alarm clock",
+   "zh": "闹钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "闹钟"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "al",
+    "arm",
+    "clock"
+   ],
+   "emoji": "⏰",
+   "sentence": {
+    "en": "My alarm clock rings at seven.",
+    "zh": "我的闹钟七点响。"
+   },
+   "sentences": [
+    {
+     "en": "My alarm clock rings at seven.",
+     "zh": "我的闹钟七点响。",
+     "audio": "media/sent/f25a76716a22.mp3"
+    },
+    {
+     "en": "Lily sets her alarm clock for school.",
+     "zh": "Lily 为上学设好闹钟。",
+     "audio": "media/sent/f074392f5562.mp3"
+    },
+    {
+     "en": "Dad's alarm clock is very loud.",
+     "zh": "爸爸的闹钟很吵。",
+     "audio": "media/sent/a8993ba162ce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/alarm-clock.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "album",
+   "word": "album",
+   "zh": "相册；集邮册",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "相册；集邮册"
+    }
+   ],
+   "ipa": "/ˈælbəm/",
+   "chunks": [
+    "al",
+    "bum"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Grandma shows us her photo album.",
+    "zh": "奶奶给我们看她的相册。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma shows us her photo album.",
+     "zh": "奶奶给我们看她的相册。",
+     "audio": "media/sent/4c3b08e3b82c.mp3"
+    },
+    {
+     "en": "Sam puts his stamps in the album.",
+     "zh": "Sam 把邮票放进集邮册。",
+     "audio": "media/sent/7ad912e3adcb.mp3"
+    },
+    {
+     "en": "This album has old photos.",
+     "zh": "这本相册里有旧照片。",
+     "audio": "media/sent/858432c2b80b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/album.webp",
+    "uk": "media/uk/album.mp3",
+    "us": "media/us/album.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "balloon",
+   "word": "balloon",
+   "zh": "气球",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "气球"
+    }
+   ],
+   "ipa": "/bəˈluːn/",
+   "chunks": [
+    "bal",
+    "loon"
+   ],
+   "emoji": "🎈",
+   "sentence": {
+    "en": "Tom holds a red balloon.",
+    "zh": "Tom 拿着一个红气球。"
+   },
+   "sentences": [
+    {
+     "en": "Tom holds a red balloon.",
+     "zh": "Tom 拿着一个红气球。",
+     "audio": "media/sent/efd52687e753.mp3"
+    },
+    {
+     "en": "Don't pop the balloon!",
+     "zh": "别弄破气球！",
+     "audio": "media/sent/8c24ef5dfcd7.mp3"
+    },
+    {
+     "en": "Lily draws a blue balloon.",
+     "zh": "Lily 画了一个蓝气球。",
+     "audio": "media/sent/b6bbbcd04f28.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/balloon.webp",
+    "uk": "media/uk/balloon.mp3",
+    "us": "media/us/balloon.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "battery",
+   "word": "battery",
+   "zh": "电池",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电池"
+    }
+   ],
+   "ipa": "/ˈbætəri/",
+   "chunks": [
+    "bat",
+    "ter",
+    "y"
+   ],
+   "emoji": "🔋",
+   "sentence": {
+    "en": "Dad puts a new battery in.",
+    "zh": "爸爸装了一节新电池。"
+   },
+   "sentences": [
+    {
+     "en": "Dad puts a new battery in.",
+     "zh": "爸爸装了一节新电池。",
+     "audio": "media/sent/258c49e06a23.mp3"
+    },
+    {
+     "en": "The toy car needs a battery.",
+     "zh": "玩具车需要电池。",
+     "audio": "media/sent/e85e56b81cb2.mp3"
+    },
+    {
+     "en": "My toy car needs a new battery.",
+     "zh": "我的玩具车需要换新电池了。",
+     "audio": "media/sent/fae1f7ffa41a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/battery.webp",
+    "uk": "media/uk/battery.mp3",
+    "us": "media/us/battery.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "brush",
+   "word": "brush",
+   "zh": "刷子；刷",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "刷子；刷"
+    }
+   ],
+   "ipa": "/brʌʃ/",
+   "chunks": [
+    "brush"
+   ],
+   "emoji": "🪥",
+   "sentence": {
+    "en": "Lily brushes her teeth.",
+    "zh": "Lily 刷牙。"
+   },
+   "sentences": [
+    {
+     "en": "Lily brushes her teeth.",
+     "zh": "Lily 刷牙。",
+     "audio": "media/sent/a5a76250c2d4.mp3"
+    },
+    {
+     "en": "Max needs a brush for his fur.",
+     "zh": "Max 需要一把刷子梳毛。",
+     "audio": "media/sent/2064bd897518.mp3"
+    },
+    {
+     "en": "Mum uses a paint brush.",
+     "zh": "妈妈用油漆刷。",
+     "audio": "media/sent/f387f95e0fa6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/brush.webp",
+    "uk": "media/uk/brush.mp3",
+    "us": "media/us/brush.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "cabinet",
+   "word": "cabinet",
+   "zh": "柜子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "柜子"
+    }
+   ],
+   "ipa": "/ˈkæbɪnət/",
+   "chunks": [
+    "cab",
+    "i",
+    "net"
+   ],
+   "emoji": "🗄️",
+   "sentence": {
+    "en": "The cups are in the cabinet.",
+    "zh": "杯子在柜子里。"
+   },
+   "sentences": [
+    {
+     "en": "The cups are in the cabinet.",
+     "zh": "杯子在柜子里。",
+     "audio": "media/sent/a5c546d61843.mp3"
+    },
+    {
+     "en": "Mum opens the kitchen cabinet.",
+     "zh": "妈妈打开厨房柜子。",
+     "audio": "media/sent/c1331d9bccf1.mp3"
+    },
+    {
+     "en": "Grandma has a wooden cabinet.",
+     "zh": "奶奶有一个木柜子。",
+     "audio": "media/sent/19b22bf8f208.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cabinet.webp",
+    "uk": "media/uk/cabinet.mp3",
+    "us": "media/us/cabinet.mp3"
+   },
+   "avoid": [
+    "closet",
+    "wardrobe"
+   ]
+  },
+  {
+   "id": "ceiling",
+   "word": "ceiling",
+   "zh": "天花板",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "天花板"
+    }
+   ],
+   "ipa": "/ˈsiːlɪŋ/",
+   "chunks": [
+    "ceil",
+    "ing"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Look at the ceiling fan.",
+    "zh": "看那个吊扇。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the ceiling fan.",
+     "zh": "看那个吊扇。",
+     "audio": "media/sent/c2d264bd84a0.mp3"
+    },
+    {
+     "en": "There is a spider on the ceiling.",
+     "zh": "天花板上有一只蜘蛛。",
+     "audio": "media/sent/108b21dfd176.mp3"
+    },
+    {
+     "en": "The light is on the ceiling.",
+     "zh": "灯在天花板上。",
+     "audio": "media/sent/ed97dbfb0406.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ceiling.webp",
+    "uk": "media/uk/ceiling.mp3",
+    "us": "media/us/ceiling.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "closet",
+   "word": "closet",
+   "zh": "壁橱；衣橱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "壁橱；衣橱"
+    }
+   ],
+   "ipa": "/ˈklɒzɪt/",
+   "chunks": [
+    "clos",
+    "et"
+   ],
+   "emoji": "👗",
+   "sentence": {
+    "en": "My coat is in the closet.",
+    "zh": "我的外套在壁橱里。"
+   },
+   "sentences": [
+    {
+     "en": "My coat is in the closet.",
+     "zh": "我的外套在壁橱里。",
+     "audio": "media/sent/9270d723c2b1.mp3"
+    },
+    {
+     "en": "Lily puts her dress in the closet.",
+     "zh": "Lily 把裙子放进衣橱。",
+     "audio": "media/sent/075fae97a21e.mp3"
+    },
+    {
+     "en": "Tom is behind the closet door.",
+     "zh": "Tom 在壁橱门后面。",
+     "audio": "media/sent/36b1b251f957.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/closet.webp",
+    "uk": "media/uk/closet.mp3",
+    "us": "media/us/closet.mp3"
+   },
+   "avoid": [
+    "cabinet",
+    "wardrobe"
+   ]
+  },
+  {
+   "id": "doll",
+   "word": "doll",
+   "zh": "洋娃娃",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "洋娃娃"
+    }
+   ],
+   "ipa": "/dɒl/",
+   "chunks": [
+    "doll"
+   ],
+   "emoji": "🪆",
+   "sentence": {
+    "en": "Lily plays with her doll.",
+    "zh": "Lily 和她的洋娃娃玩。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays with her doll.",
+     "zh": "Lily 和她的洋娃娃玩。",
+     "audio": "media/sent/33548a2ac2cb.mp3"
+    },
+    {
+     "en": "This doll is very old.",
+     "zh": "这个洋娃娃很旧了。",
+     "audio": "media/sent/9b6cbc010f9b.mp3"
+    },
+    {
+     "en": "Mia has a new doll.",
+     "zh": "Mia 有一个新洋娃娃。",
+     "audio": "media/sent/7ad032791191.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/doll.webp",
+    "uk": "media/uk/doll.mp3",
+    "us": "media/us/doll.mp3"
+   },
+   "avoid": [
+    "toy"
+   ]
+  },
+  {
+   "id": "folder",
+   "word": "folder",
+   "zh": "文件夹",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "文件夹"
+    }
+   ],
+   "ipa": "/ˈfəʊldə/",
+   "chunks": [
+    "fol",
+    "der"
+   ],
+   "emoji": "📁",
+   "sentence": {
+    "en": "Put your work in the folder.",
+    "zh": "把你的作业放进文件夹。"
+   },
+   "sentences": [
+    {
+     "en": "Put your work in the folder.",
+     "zh": "把你的作业放进文件夹。",
+     "audio": "media/sent/4fa662c7e991.mp3"
+    },
+    {
+     "en": "Dad has a red folder.",
+     "zh": "爸爸有一个红文件夹。",
+     "audio": "media/sent/94677ca20d1b.mp3"
+    },
+    {
+     "en": "Lily writes 'Art' on her folder.",
+     "zh": "Lily 在她的文件夹上写‘美术’。",
+     "audio": "media/sent/ad0ffac86829.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/folder.webp",
+    "uk": "media/uk/folder.mp3",
+    "us": "media/us/folder.mp3"
+   },
+   "avoid": [
+    "paper",
+    "sheet"
+   ]
+  },
+  {
+   "id": "fur",
+   "word": "fur",
+   "zh": "毛；皮毛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "毛；皮毛"
+    }
+   ],
+   "ipa": "/fɜː/",
+   "chunks": [
+    "fur"
+   ],
+   "emoji": "🦊",
+   "sentence": {
+    "en": "Max has soft brown fur.",
+    "zh": "Max 有柔软的棕色毛。"
+   },
+   "sentences": [
+    {
+     "en": "Max has soft brown fur.",
+     "zh": "Max 有柔软的棕色毛。",
+     "audio": "media/sent/887a0b180d5f.mp3"
+    },
+    {
+     "en": "The cat cleans its fur.",
+     "zh": "猫梳理它的毛。",
+     "audio": "media/sent/c55817d3d6c9.mp3"
+    },
+    {
+     "en": "The rabbit has white fur.",
+     "zh": "兔子长着白色的毛。",
+     "audio": "media/sent/ac13ee650fa4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fur.webp",
+    "uk": "media/uk/fur.mp3",
+    "us": "media/us/fur.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "headphones",
+   "word": "headphones",
+   "zh": "耳机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "耳机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "head",
+    "phones"
+   ],
+   "emoji": "🎧",
+   "sentence": {
+    "en": "Sam listens with his headphones.",
+    "zh": "Sam 戴着耳机听。"
+   },
+   "sentences": [
+    {
+     "en": "Sam listens with his headphones.",
+     "zh": "Sam 戴着耳机听。",
+     "audio": "media/sent/17bec95bf049.mp3"
+    },
+    {
+     "en": "Lily puts on her headphones.",
+     "zh": "Lily 戴上她的耳机。",
+     "audio": "media/sent/2e029f6fc881.mp3"
+    },
+    {
+     "en": "These headphones are blue.",
+     "zh": "这些耳机是蓝色的。",
+     "audio": "media/sent/d41d9cbb5221.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/headphones.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "kite",
+   "word": "kite",
+   "zh": "风筝",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "风筝"
+    }
+   ],
+   "ipa": "/kaɪt/",
+   "chunks": [
+    "kite"
+   ],
+   "emoji": "🪁",
+   "sentence": {
+    "en": "Tom flies a kite.",
+    "zh": "Tom 放风筝。"
+   },
+   "sentences": [
+    {
+     "en": "Tom flies a kite.",
+     "zh": "Tom 放风筝。",
+     "audio": "media/sent/64f1e69c4b9a.mp3"
+    },
+    {
+     "en": "The kite is up in the tree.",
+     "zh": "风筝在树上。",
+     "audio": "media/sent/2ea5406e0526.mp3"
+    },
+    {
+     "en": "Lily makes a paper kite.",
+     "zh": "Lily 做了一个纸风筝。",
+     "audio": "media/sent/282c28dc5c34.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kite.webp",
+    "uk": "media/uk/kite.mp3",
+    "us": "media/us/kite.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "microphone",
+   "word": "microphone",
+   "zh": "麦克风；话筒",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "麦克风；话筒"
+    }
+   ],
+   "ipa": "/ˈmaɪkrəfəʊn/",
+   "chunks": [
+    "mi",
+    "cro",
+    "phone"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "Lily speaks into the microphone.",
+    "zh": "Lily 对着麦克风说话。"
+   },
+   "sentences": [
+    {
+     "en": "Lily speaks into the microphone.",
+     "zh": "Lily 对着麦克风说话。",
+     "audio": "media/sent/ce080ccd3871.mp3"
+    },
+    {
+     "en": "The singer holds the microphone.",
+     "zh": "歌手拿着麦克风。",
+     "audio": "media/sent/a3081dba7a8f.mp3"
+    },
+    {
+     "en": "Can you hear the microphone?",
+     "zh": "你能听到麦克风吗？",
+     "audio": "media/sent/2a8fab8633b9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/microphone.webp",
+    "uk": "media/uk/microphone.mp3",
+    "us": "media/us/microphone.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "mug",
+   "word": "mug",
+   "zh": "马克杯",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "马克杯"
+    }
+   ],
+   "ipa": "/mʌɡ/",
+   "chunks": [
+    "mug"
+   ],
+   "emoji": "☕",
+   "sentence": {
+    "en": "Dad drinks tea from a mug.",
+    "zh": "爸爸用马克杯喝茶。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drinks tea from a mug.",
+     "zh": "爸爸用马克杯喝茶。",
+     "audio": "media/sent/6d8512b5a008.mp3"
+    },
+    {
+     "en": "This is my favourite mug.",
+     "zh": "这是我最喜欢的杯子。",
+     "audio": "media/sent/b8b35d570c82.mp3"
+    },
+    {
+     "en": "Mum has a blue mug.",
+     "zh": "妈妈有一个蓝马克杯。",
+     "audio": "media/sent/6e7e0e2a47db.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mug.webp",
+    "uk": "media/uk/mug.mp3",
+    "us": "media/us/mug.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "pen",
+   "word": "pen",
+   "zh": "钢笔；圆珠笔",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钢笔；圆珠笔"
+    }
+   ],
+   "ipa": "/pen/",
+   "chunks": [
+    "pen"
+   ],
+   "emoji": "🖊️",
+   "sentence": {
+    "en": "Lily writes with a pen.",
+    "zh": "Lily 用笔写字。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes with a pen.",
+     "zh": "Lily 用笔写字。",
+     "audio": "media/sent/ffc119e5ea88.mp3"
+    },
+    {
+     "en": "Do you have a red pen?",
+     "zh": "你有红笔吗？",
+     "audio": "media/sent/a8477b807550.mp3"
+    },
+    {
+     "en": "Dad signs with his pen.",
+     "zh": "爸爸用他的笔签名。",
+     "audio": "media/sent/9553868cad52.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pen.webp",
+    "uk": "media/uk/pen.mp3",
+    "us": "media/us/pen.mp3"
+   },
+   "avoid": [
+    "pencil",
+    "pencil-case"
+   ]
+  },
+  {
+   "id": "pencil",
+   "word": "pencil",
+   "zh": "铅笔",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "铅笔"
+    }
+   ],
+   "ipa": "/ˈpensl/",
+   "chunks": [
+    "pen",
+    "cil"
+   ],
+   "emoji": "✏️",
+   "sentence": {
+    "en": "Tom draws with a pencil.",
+    "zh": "Tom 用铅笔画画。"
+   },
+   "sentences": [
+    {
+     "en": "Tom draws with a pencil.",
+     "zh": "Tom 用铅笔画画。",
+     "audio": "media/sent/62a4e8fb57f8.mp3"
+    },
+    {
+     "en": "My pencil is short.",
+     "zh": "我的铅笔很短。",
+     "audio": "media/sent/900e0f68c921.mp3"
+    },
+    {
+     "en": "Lily uses a new pencil.",
+     "zh": "Lily 用了一支新铅笔。",
+     "audio": "media/sent/b5b14532f48f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pencil.webp",
+    "uk": "media/uk/pencil.mp3",
+    "us": "media/us/pencil.mp3"
+   },
+   "avoid": [
+    "pen",
+    "pencil-case"
+   ]
+  },
+  {
+   "id": "pencil-case",
+   "word": "pencil case",
+   "zh": "铅笔盒；笔袋",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "铅笔盒；笔袋"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pen",
+    "cil",
+    "case"
+   ],
+   "emoji": "✏️",
+   "sentence": {
+    "en": "My pencil case is blue.",
+    "zh": "我的铅笔盒是蓝色的。"
+   },
+   "sentences": [
+    {
+     "en": "My pencil case is blue.",
+     "zh": "我的铅笔盒是蓝色的。",
+     "audio": "media/sent/bb9c7b1f276d.mp3"
+    },
+    {
+     "en": "Lily puts pens in her pencil case.",
+     "zh": "Lily 把笔放进铅笔盒。",
+     "audio": "media/sent/4e0d2a3b4753.mp3"
+    },
+    {
+     "en": "Where is my pencil case?",
+     "zh": "我的铅笔盒在哪里？",
+     "audio": "media/sent/edecfbf556d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pencil-case.webp"
+   },
+   "avoid": [
+    "pen",
+    "pencil"
+   ]
+  },
+  {
+   "id": "perfume",
+   "word": "perfume",
+   "zh": "香水",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "香水"
+    }
+   ],
+   "ipa": "/ˈpɜːfjuːm/",
+   "chunks": [
+    "per",
+    "fume"
+   ],
+   "emoji": "🌸",
+   "sentence": {
+    "en": "Mum wears nice perfume.",
+    "zh": "妈妈喷了好闻的香水。"
+   },
+   "sentences": [
+    {
+     "en": "Mum wears nice perfume.",
+     "zh": "妈妈喷了好闻的香水。",
+     "audio": "media/sent/2b0de2fb484a.mp3"
+    },
+    {
+     "en": "Grandma likes this perfume.",
+     "zh": "奶奶喜欢这个香水。",
+     "audio": "media/sent/a97a7cadd0d4.mp3"
+    },
+    {
+     "en": "This perfume is sweet.",
+     "zh": "这香水很甜。",
+     "audio": "media/sent/b7eafee090a1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/perfume.webp",
+    "uk": "media/uk/perfume.mp3",
+    "us": "media/us/perfume.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "plastic",
+   "word": "plastic",
+   "zh": "塑料（的）",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "塑料（的）"
+    }
+   ],
+   "ipa": "/ˈplæstɪk/",
+   "chunks": [
+    "plas",
+    "tic"
+   ],
+   "emoji": "🥤",
+   "sentence": {
+    "en": "This bottle is made of plastic.",
+    "zh": "这个瓶子是塑料做的。"
+   },
+   "sentences": [
+    {
+     "en": "This bottle is made of plastic.",
+     "zh": "这个瓶子是塑料做的。",
+     "audio": "media/sent/54d095c74be3.mp3"
+    },
+    {
+     "en": "We use plastic bags for shopping.",
+     "zh": "我们购物时用塑料袋。",
+     "audio": "media/sent/942a5739cc81.mp3"
+    },
+    {
+     "en": "Please don't throw away plastic.",
+     "zh": "请不要扔掉塑料垃圾。",
+     "audio": "media/sent/2afbb64875d2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/plastic.webp",
+    "uk": "media/uk/plastic.mp3",
+    "us": "media/us/plastic.mp3"
+   },
+   "avoid": [
+    "gold",
+    "leather",
+    "metal"
+   ]
+  },
+  {
+   "id": "poster",
+   "word": "poster",
+   "zh": "海报",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海报"
+    }
+   ],
+   "ipa": "/ˈpəʊstə/",
+   "chunks": [
+    "pos",
+    "ter"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "Lily draws a poster for the school play.",
+    "zh": "Lily 为学校的演出画了一张海报。"
+   },
+   "sentences": [
+    {
+     "en": "Lily draws a poster for the school play.",
+     "zh": "Lily 为学校的演出画了一张海报。",
+     "audio": "media/sent/fd26b1c1ed61.mp3"
+    },
+    {
+     "en": "There is a new film poster in the shop window.",
+     "zh": "商店橱窗里有一张新电影海报。",
+     "audio": "media/sent/f3985d5835c8.mp3"
+    },
+    {
+     "en": "We put up posters for the party.",
+     "zh": "我们为派对张贴海报。",
+     "audio": "media/sent/c430eb2ff9af.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/poster.webp",
+    "uk": "media/uk/poster.mp3",
+    "us": "media/us/poster.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "puzzle",
+   "word": "puzzle",
+   "zh": "拼图；谜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "拼图；谜"
+    }
+   ],
+   "ipa": "/ˈpʌzl/",
+   "chunks": [
+    "puz",
+    "zle"
+   ],
+   "emoji": "🧩",
+   "sentence": {
+    "en": "Tom is doing a puzzle.",
+    "zh": "Tom 正在玩拼图。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is doing a puzzle.",
+     "zh": "Tom 正在玩拼图。",
+     "audio": "media/sent/5b975dda5300.mp3"
+    },
+    {
+     "en": "This puzzle is very difficult.",
+     "zh": "这个拼图很难。",
+     "audio": "media/sent/39d41e6b1665.mp3"
+    },
+    {
+     "en": "Can you help me with this puzzle?",
+     "zh": "你能帮我做这个拼图吗？",
+     "audio": "media/sent/69d896f7d19a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/puzzle.webp",
+    "uk": "media/uk/puzzle.mp3",
+    "us": "media/us/puzzle.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "scissors",
+   "word": "scissors",
+   "zh": "剪刀",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "剪刀"
+    }
+   ],
+   "ipa": "/ˈsɪzəz/",
+   "chunks": [
+    "scis",
+    "sors"
+   ],
+   "emoji": "✂️",
+   "sentence": {
+    "en": "Lily cuts the paper with scissors.",
+    "zh": "Lily 用剪刀剪纸。"
+   },
+   "sentences": [
+    {
+     "en": "Lily cuts the paper with scissors.",
+     "zh": "Lily 用剪刀剪纸。",
+     "audio": "media/sent/27c0bca645d1.mp3"
+    },
+    {
+     "en": "Be careful with the scissors, Tom!",
+     "zh": "Tom，小心剪刀！",
+     "audio": "media/sent/12d299ee6539.mp3"
+    },
+    {
+     "en": "Where are my scissors?",
+     "zh": "我的剪刀在哪里？",
+     "audio": "media/sent/0d19403bde68.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/scissors.webp",
+    "uk": "media/uk/scissors.mp3",
+    "us": "media/us/scissors.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "scooter",
+   "word": "scooter",
+   "zh": "滑板车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "滑板车"
+    }
+   ],
+   "ipa": "/ˈskuːtə/",
+   "chunks": [
+    "scoo",
+    "ter"
+   ],
+   "emoji": "🛴",
+   "sentence": {
+    "en": "Sam rides his scooter to school.",
+    "zh": "Sam 骑滑板车去上学。"
+   },
+   "sentences": [
+    {
+     "en": "Sam rides his scooter to school.",
+     "zh": "Sam 骑滑板车去上学。",
+     "audio": "media/sent/ba452617b2e3.mp3"
+    },
+    {
+     "en": "I like my new blue scooter.",
+     "zh": "我喜欢我的新蓝色滑板车。",
+     "audio": "media/sent/f9a4b9036ff4.mp3"
+    },
+    {
+     "en": "Be careful when you ride your scooter.",
+     "zh": "骑滑板车时要小心。",
+     "audio": "media/sent/eb21a5a9acbe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/scooter.webp",
+    "uk": "media/uk/scooter.mp3",
+    "us": "media/us/scooter.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "shampoo",
+   "word": "shampoo",
+   "zh": "洗发水；洗头",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "洗发水；洗头"
+    }
+   ],
+   "ipa": "/ʃæmˈpuː/",
+   "chunks": [
+    "sham",
+    "poo"
+   ],
+   "emoji": "🧴",
+   "sentence": {
+    "en": "Mum uses strawberry shampoo.",
+    "zh": "妈妈用草莓味洗发水。"
+   },
+   "sentences": [
+    {
+     "en": "Mum uses strawberry shampoo.",
+     "zh": "妈妈用草莓味洗发水。",
+     "audio": "media/sent/80f3637fa903.mp3"
+    },
+    {
+     "en": "Tom washes his hair with shampoo.",
+     "zh": "Tom 用洗发水洗头发。",
+     "audio": "media/sent/d5a32e59ac68.mp3"
+    },
+    {
+     "en": "The shampoo is sweet and good.",
+     "zh": "洗发水很甜，很好用。",
+     "audio": "media/sent/6de4c8b4574e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shampoo.webp",
+    "uk": "media/uk/shampoo.mp3",
+    "us": "media/us/shampoo.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sheet",
+   "word": "sheet",
+   "zh": "床单；一张纸",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "床单；一张纸"
+    }
+   ],
+   "ipa": "/ʃiːt/",
+   "chunks": [
+    "sheet"
+   ],
+   "emoji": "🛏️",
+   "sentence": {
+    "en": "Dad changes the bed sheet.",
+    "zh": "爸爸换床单。"
+   },
+   "sentences": [
+    {
+     "en": "Dad changes the bed sheet.",
+     "zh": "爸爸换床单。",
+     "audio": "media/sent/c37d904807b9.mp3"
+    },
+    {
+     "en": "Write your name on this sheet of paper.",
+     "zh": "在这张纸上写下你的名字。",
+     "audio": "media/sent/9845006a7e30.mp3"
+    },
+    {
+     "en": "The blue sheet is soft and warm.",
+     "zh": "蓝色的床单柔软又暖和。",
+     "audio": "media/sent/2ecb71b2b9a7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sheet.webp",
+    "uk": "media/uk/sheet.mp3",
+    "us": "media/us/sheet.mp3"
+   },
+   "avoid": [
+    "folder",
+    "paper"
+   ]
+  },
+  {
+   "id": "spoon",
+   "word": "spoon",
+   "zh": "勺子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "勺子"
+    }
+   ],
+   "ipa": "/spuːn/",
+   "chunks": [
+    "spoon"
+   ],
+   "emoji": "🥄",
+   "sentence": {
+    "en": "Tom eats soup with a spoon.",
+    "zh": "Tom 用勺子喝汤。"
+   },
+   "sentences": [
+    {
+     "en": "Tom eats soup with a spoon.",
+     "zh": "Tom 用勺子喝汤。",
+     "audio": "media/sent/c340d0132ad3.mp3"
+    },
+    {
+     "en": "Use a spoon for the ice cream.",
+     "zh": "吃冰淇淋请用勺子。",
+     "audio": "media/sent/92220eb2ed49.mp3"
+    },
+    {
+     "en": "There is a big wooden spoon on the table.",
+     "zh": "桌上有一把大木勺。",
+     "audio": "media/sent/1d4d4243e50d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spoon.webp",
+    "uk": "media/uk/spoon.mp3",
+    "us": "media/us/spoon.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "stamp",
+   "word": "stamp",
+   "zh": "邮票；跺脚",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "邮票；跺脚"
+    }
+   ],
+   "ipa": "/stæmp/",
+   "chunks": [
+    "stamp"
+   ],
+   "emoji": "📮",
+   "sentence": {
+    "en": "Mum puts a stamp on the letter.",
+    "zh": "妈妈在信上贴了一张邮票。"
+   },
+   "sentences": [
+    {
+     "en": "Mum puts a stamp on the letter.",
+     "zh": "妈妈在信上贴了一张邮票。",
+     "audio": "media/sent/7dad4eaea9ea.mp3"
+    },
+    {
+     "en": "I collect old stamps in my book.",
+     "zh": "我在书里收集旧邮票。",
+     "audio": "media/sent/51cced12ebc8.mp3"
+    },
+    {
+     "en": "This stamp has a bird on it.",
+     "zh": "这张邮票上有一只鸟。",
+     "audio": "media/sent/8e464b07d34a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stamp.webp",
+    "uk": "media/uk/stamp.mp3",
+    "us": "media/us/stamp.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "stairs",
+   "word": "stairs",
+   "zh": "楼梯",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "楼梯"
+    }
+   ],
+   "ipa": "/steəz/",
+   "chunks": [
+    "stairs"
+   ],
+   "emoji": "🪜",
+   "sentence": {
+    "en": "Lily goes up the stairs to her room.",
+    "zh": "Lily 上楼梯去她的房间。"
+   },
+   "sentences": [
+    {
+     "en": "Lily goes up the stairs to her room.",
+     "zh": "Lily 上楼梯去她的房间。",
+     "audio": "media/sent/9c83f0364ccc.mp3"
+    },
+    {
+     "en": "Be careful on the stairs!",
+     "zh": "在楼梯上要当心！",
+     "audio": "media/sent/714e61e3385d.mp3"
+    },
+    {
+     "en": "Our house has two flights of stairs.",
+     "zh": "我们家有两层楼梯。",
+     "audio": "media/sent/17d5e5e47bd3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stairs.webp",
+    "uk": "media/uk/stairs.mp3",
+    "us": "media/us/stairs.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "table",
+   "word": "table",
+   "zh": "桌子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "桌子"
+    }
+   ],
+   "ipa": "/ˈteɪbəl/",
+   "chunks": [
+    "ta",
+    "ble"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We sit at the table for dinner.",
+    "zh": "我们坐在桌边吃晚饭。"
+   },
+   "sentences": [
+    {
+     "en": "We sit at the table for dinner.",
+     "zh": "我们坐在桌边吃晚饭。",
+     "audio": "media/sent/36a4b074f95e.mp3"
+    },
+    {
+     "en": "Put your homework on the table.",
+     "zh": "把作业放在桌子上。",
+     "audio": "media/sent/ef185edc32cc.mp3"
+    },
+    {
+     "en": "The glass is on the small round table.",
+     "zh": "玻璃杯在小圆桌上。",
+     "audio": "media/sent/343e641791fe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/table.webp",
+    "uk": "media/uk/table.mp3",
+    "us": "media/us/table.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "toy",
+   "word": "toy",
+   "zh": "玩具",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "玩具"
+    }
+   ],
+   "ipa": "/tɔɪ/",
+   "chunks": [
+    "toy"
+   ],
+   "emoji": "🧸",
+   "sentence": {
+    "en": "Tom plays with his favourite toy.",
+    "zh": "Tom 玩他最喜欢的玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Tom plays with his favourite toy.",
+     "zh": "Tom 玩他最喜欢的玩具。",
+     "audio": "media/sent/2cd4a706f8fe.mp3"
+    },
+    {
+     "en": "This is my new toy train.",
+     "zh": "这是我的新玩具火车。",
+     "audio": "media/sent/b01b35d0f748.mp3"
+    },
+    {
+     "en": "Put your toys in the box, please.",
+     "zh": "请把玩具放进箱子里。",
+     "audio": "media/sent/da42f898c673.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toy.webp",
+    "uk": "media/uk/toy.mp3",
+    "us": "media/us/toy.mp3"
+   },
+   "avoid": [
+    "doll"
+   ]
+  },
+  {
+   "id": "violin",
+   "word": "violin",
+   "zh": "小提琴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小提琴"
+    }
+   ],
+   "ipa": "/ˌvaɪəˈlɪn/",
+   "chunks": [
+    "vio",
+    "lin"
+   ],
+   "emoji": "🎻",
+   "sentence": {
+    "en": "Lily practises the violin every day.",
+    "zh": "Lily 每天练习小提琴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily practises the violin every day.",
+     "zh": "Lily 每天练习小提琴。",
+     "audio": "media/sent/025ccc7616fb.mp3"
+    },
+    {
+     "en": "The violin is very beautiful.",
+     "zh": "这架小提琴很漂亮。",
+     "audio": "media/sent/eb9933fe354d.mp3"
+    },
+    {
+     "en": "My uncle plays the violin in a band.",
+     "zh": "我叔叔在一个乐队里拉小提琴。",
+     "audio": "media/sent/8942078ba1e5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/violin.webp",
+    "uk": "media/uk/violin.mp3",
+    "us": "media/us/violin.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "wall",
+   "word": "wall",
+   "zh": "墙",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "墙"
+    }
+   ],
+   "ipa": "/wɔːl/",
+   "chunks": [
+    "wall"
+   ],
+   "emoji": "🧱",
+   "sentence": {
+    "en": "There is a picture on the wall.",
+    "zh": "墙上有一幅画。"
+   },
+   "sentences": [
+    {
+     "en": "There is a picture on the wall.",
+     "zh": "墙上有一幅画。",
+     "audio": "media/sent/d691f8e2f7f9.mp3"
+    },
+    {
+     "en": "Don't draw on the wall, Tom!",
+     "zh": "Tom，不要在墙上画画！",
+     "audio": "media/sent/cac2c4c52660.mp3"
+    },
+    {
+     "en": "The garden wall is high and strong.",
+     "zh": "花园的墙又高又结实。",
+     "audio": "media/sent/77e1833afaee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wall.webp",
+    "uk": "media/uk/wall.mp3",
+    "us": "media/us/wall.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "wardrobe",
+   "word": "wardrobe",
+   "zh": "衣柜；衣橱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "衣柜；衣橱"
+    }
+   ],
+   "ipa": "/ˈwɔːdrəʊb/",
+   "chunks": [
+    "war",
+    "drobe"
+   ],
+   "emoji": "👗",
+   "sentence": {
+    "en": "Mum puts her coat in the wardrobe.",
+    "zh": "妈妈把外套放进衣柜里。"
+   },
+   "sentences": [
+    {
+     "en": "Mum puts her coat in the wardrobe.",
+     "zh": "妈妈把外套放进衣柜里。",
+     "audio": "media/sent/1349413b33d1.mp3"
+    },
+    {
+     "en": "My shoes are on the bottom of the wardrobe.",
+     "zh": "我的鞋子在衣柜底部。",
+     "audio": "media/sent/efb2cbaf7bd1.mp3"
+    },
+    {
+     "en": "The wardrobe is in the bedroom.",
+     "zh": "衣柜在卧室里。",
+     "audio": "media/sent/17c6f7579424.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wardrobe.webp",
+    "uk": "media/uk/wardrobe.mp3",
+    "us": "media/us/wardrobe.mp3"
+   },
+   "avoid": [
+    "cabinet",
+    "closet"
+   ]
+  },
+  {
+   "id": "paper",
+   "word": "paper",
+   "zh": "纸（的）",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "纸（的）"
+    }
+   ],
+   "ipa": "/ˈpeɪpə/",
+   "chunks": [
+    "pa",
+    "per"
+   ],
+   "emoji": "📄",
+   "sentence": {
+    "en": "Lily writes a letter on paper.",
+    "zh": "Lily 在纸上写信。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes a letter on paper.",
+     "zh": "Lily 在纸上写信。",
+     "audio": "media/sent/7a95f2e2d888.mp3"
+    },
+    {
+     "en": "Please use the old newspaper.",
+     "zh": "请用旧报纸。",
+     "audio": "media/sent/d7a72941688a.mp3"
+    },
+    {
+     "en": "This bag is made of brown paper.",
+     "zh": "这个袋子是棕色纸做的。",
+     "audio": "media/sent/ba8d2a225701.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/paper.webp",
+    "uk": "media/uk/paper.mp3",
+    "us": "media/us/paper.mp3"
+   },
+   "avoid": [
+    "folder",
+    "sheet"
+   ]
+  },
+  {
+   "id": "metal",
+   "word": "metal",
+   "zh": "金属（的）",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "金属（的）"
+    }
+   ],
+   "ipa": "/ˈmetl/",
+   "chunks": [
+    "me",
+    "tal"
+   ],
+   "emoji": "🔩",
+   "sentence": {
+    "en": "The bike is made of metal.",
+    "zh": "自行车是金属做的。"
+   },
+   "sentences": [
+    {
+     "en": "The bike is made of metal.",
+     "zh": "自行车是金属做的。",
+     "audio": "media/sent/47d7a0214b72.mp3"
+    },
+    {
+     "en": "This spoon is made of metal.",
+     "zh": "这把勺子是金属做的。",
+     "audio": "media/sent/65a81d8b8297.mp3"
+    },
+    {
+     "en": "This metal box is very strong.",
+     "zh": "这个金属盒子很结实。",
+     "audio": "media/sent/fb1535e233ad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/metal.webp",
+    "uk": "media/uk/metal.mp3",
+    "us": "media/us/metal.mp3"
+   },
+   "avoid": [
+    "gold",
+    "leather",
+    "plastic"
+   ]
+  },
+  {
+   "id": "leather",
+   "word": "leather",
+   "zh": "皮革（的）",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "皮革（的）"
+    }
+   ],
+   "ipa": "/ˈleðə/",
+   "chunks": [
+    "lea",
+    "ther"
+   ],
+   "emoji": "👜",
+   "sentence": {
+    "en": "Dad has a brown leather bag.",
+    "zh": "爸爸有一个棕色皮包。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a brown leather bag.",
+     "zh": "爸爸有一个棕色皮包。",
+     "audio": "media/sent/d3b84b4728dd.mp3"
+    },
+    {
+     "en": "These shoes are made of leather.",
+     "zh": "这双鞋是皮革做的。",
+     "audio": "media/sent/8a49bbf22732.mp3"
+    },
+    {
+     "en": "The leather sofa is soft and comfortable.",
+     "zh": "这张皮沙发柔软舒适。",
+     "audio": "media/sent/546e4f9528a3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/leather.webp",
+    "uk": "media/uk/leather.mp3",
+    "us": "media/us/leather.mp3"
+   },
+   "avoid": [
+    "gold",
+    "metal",
+    "plastic"
+   ]
+  },
+  {
+   "id": "gold",
+   "word": "gold",
+   "zh": "金（的）；金色",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "adj"
+     ],
+     "zh": "金（的）；金色"
+    }
+   ],
+   "ipa": "/ɡəʊld/",
+   "chunks": [
+    "gold"
+   ],
+   "emoji": "🥇",
+   "sentence": {
+    "en": "Lily got a gold cup.",
+    "zh": "Lily 得到了一个金杯。"
+   },
+   "sentences": [
+    {
+     "en": "Lily got a gold cup.",
+     "zh": "Lily 得到了一个金杯。",
+     "audio": "media/sent/4386aeb7d6c5.mp3"
+    },
+    {
+     "en": "The ring is made of real gold.",
+     "zh": "这枚戒指是真金做的。",
+     "audio": "media/sent/bac544b10277.mp3"
+    },
+    {
+     "en": "Grandma has a gold watch.",
+     "zh": "奶奶有一块金表。",
+     "audio": "media/sent/ec9eee7f8164.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gold.webp",
+    "uk": "media/uk/gold.mp3",
+    "us": "media/us/gold.mp3"
+   },
+   "avoid": [
+    "leather",
+    "metal",
+    "plastic"
+   ]
+  },
+  {
+   "id": "stuff",
+   "word": "stuff",
+   "zh": "东西；物品",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "东西；物品"
+    }
+   ],
+   "ipa": "/stʌf/",
+   "chunks": [
+    "stuff"
+   ],
+   "emoji": "🧸",
+   "sentence": {
+    "en": "Lily puts her stuff in the box.",
+    "zh": "Lily 把她的东西放进盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "Lily puts her stuff in the box.",
+     "zh": "Lily 把她的东西放进盒子里。",
+     "audio": "media/sent/517af1f3d647.mp3"
+    },
+    {
+     "en": "Tom's stuff is everywhere!",
+     "zh": "Tom 的东西到处都是！",
+     "audio": "media/sent/b77c20f8bf9b.mp3"
+    },
+    {
+     "en": "I don't need that old stuff.",
+     "zh": "我不需要那些旧东西。",
+     "audio": "media/sent/c6edccc3f56b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stuff.webp",
+    "uk": "media/uk/stuff.mp3",
+    "us": "media/us/stuff.mp3"
+   },
+   "avoid": [
+    "set",
+    "thing"
+   ]
+  },
+  {
+   "id": "thing",
+   "word": "thing",
+   "zh": "东西；事物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "东西；事物"
+    }
+   ],
+   "ipa": "/θɪŋ/",
+   "chunks": [
+    "thing"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "What is this thing?",
+    "zh": "这是什么东西？"
+   },
+   "sentences": [
+    {
+     "en": "What is this thing?",
+     "zh": "这是什么东西？",
+     "audio": "media/sent/0bcf841fa367.mp3"
+    },
+    {
+     "en": "This is my favourite thing.",
+     "zh": "这是我最喜欢的东西。",
+     "audio": "media/sent/9543e016cad9.mp3"
+    },
+    {
+     "en": "Mum bought a new thing for the kitchen.",
+     "zh": "妈妈给厨房买了一个新东西。",
+     "audio": "media/sent/a9c81b3b293a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/thing.webp",
+    "uk": "media/uk/thing.mp3",
+    "us": "media/us/thing.mp3"
+   },
+   "avoid": [
+    "set",
+    "stuff"
+   ]
+  },
+  {
+   "id": "equipment",
+   "word": "equipment",
+   "zh": "设备；器材",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "设备；器材"
+    }
+   ],
+   "ipa": "/ɪˈkwɪpmənt/",
+   "chunks": [
+    "e",
+    "quip",
+    "ment"
+   ],
+   "emoji": "🏗️",
+   "sentence": {
+    "en": "We need sports equipment for games.",
+    "zh": "我们比赛需要体育器材。"
+   },
+   "sentences": [
+    {
+     "en": "We need sports equipment for games.",
+     "zh": "我们比赛需要体育器材。",
+     "audio": "media/sent/955b3cd419b1.mp3"
+    },
+    {
+     "en": "The men bring big equipment to fix the road.",
+     "zh": "工人们带来大型设备修路。",
+     "audio": "media/sent/f5a217efb412.mp3"
+    },
+    {
+     "en": "The doctor's equipment is clean.",
+     "zh": "医生的设备很干净。",
+     "audio": "media/sent/f2c068ef3036.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/equipment.webp",
+    "uk": "media/uk/equipment.mp3",
+    "us": "media/us/equipment.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "model",
+   "word": "model",
+   "zh": "模型",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "模型"
+    }
+   ],
+   "ipa": "/ˈmɒdəl/",
+   "chunks": [
+    "mod",
+    "el"
+   ],
+   "emoji": "✈️",
+   "sentence": {
+    "en": "Sam has a model plane.",
+    "zh": "Sam 有一个飞机模型。"
+   },
+   "sentences": [
+    {
+     "en": "Sam has a model plane.",
+     "zh": "Sam 有一个飞机模型。",
+     "audio": "media/sent/ec1a01f11ff6.mp3"
+    },
+    {
+     "en": "Lily made a model house.",
+     "zh": "Lily 做了一个房子模型。",
+     "audio": "media/sent/2d4e8f33c641.mp3"
+    },
+    {
+     "en": "The model car is very fast.",
+     "zh": "这个汽车模型非常快。",
+     "audio": "media/sent/8edf5aad65c2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/model.webp",
+    "uk": "media/uk/model.mp3",
+    "us": "media/us/model.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "bean",
+   "word": "bean",
+   "zh": "豆子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "豆子"
+    }
+   ],
+   "ipa": "/biːn/",
+   "chunks": [
+    "bean"
+   ],
+   "emoji": "🫘",
+   "sentence": {
+    "en": "Tom eats a green bean.",
+    "zh": "Tom 吃了一颗绿豆。"
+   },
+   "sentences": [
+    {
+     "en": "Tom eats a green bean.",
+     "zh": "Tom 吃了一颗绿豆。",
+     "audio": "media/sent/e69ce235d7d6.mp3"
+    },
+    {
+     "en": "Beans are good for you.",
+     "zh": "豆子对你有好处。",
+     "audio": "media/sent/c61814578f45.mp3"
+    },
+    {
+     "en": "I like brown beans in soup.",
+     "zh": "我喜欢汤里的褐豆。",
+     "audio": "media/sent/dd79cb7e182c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bean.webp",
+    "uk": "media/uk/bean.mp3",
+    "us": "media/us/bean.mp3"
+   },
+   "avoid": [
+    "cookie",
+    "mango"
+   ]
+  },
+  {
+   "id": "cookie",
+   "word": "cookie",
+   "zh": "曲奇；饼干",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "曲奇；饼干"
+    }
+   ],
+   "ipa": "/ˈkʊki/",
+   "chunks": [
+    "cook",
+    "ie"
+   ],
+   "emoji": "🍪",
+   "sentence": {
+    "en": "Mum bakes a chocolate cookie.",
+    "zh": "妈妈烤了一块巧克力曲奇。"
+   },
+   "sentences": [
+    {
+     "en": "Mum bakes a chocolate cookie.",
+     "zh": "妈妈烤了一块巧克力曲奇。",
+     "audio": "media/sent/e82cb9ec9a49.mp3"
+    },
+    {
+     "en": "Max wants a cookie!",
+     "zh": "Max 想要一块饼干！",
+     "audio": "media/sent/6023ff4d3578.mp3"
+    },
+    {
+     "en": "This cookie is sweet and good.",
+     "zh": "这块曲奇又甜又好吃。",
+     "audio": "media/sent/38a28827f561.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cookie.webp",
+    "uk": "media/uk/cookie.mp3",
+    "us": "media/us/cookie.mp3"
+   },
+   "avoid": [
+    "bean",
+    "mango"
+   ]
+  },
+  {
+   "id": "mango",
+   "word": "mango",
+   "zh": "芒果",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "芒果"
+    }
+   ],
+   "ipa": "/ˈmæŋɡəʊ/",
+   "chunks": [
+    "man",
+    "go"
+   ],
+   "emoji": "🥭",
+   "sentence": {
+    "en": "Lily likes the yellow mango.",
+    "zh": "Lily 喜欢这个黄芒果。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes the yellow mango.",
+     "zh": "Lily 喜欢这个黄芒果。",
+     "audio": "media/sent/bde20ca4fe0d.mp3"
+    },
+    {
+     "en": "The mango is very good.",
+     "zh": "这个芒果很好吃。",
+     "audio": "media/sent/5f757d031bed.mp3"
+    },
+    {
+     "en": "We buy mangoes in summer.",
+     "zh": "我们在夏天买芒果。",
+     "audio": "media/sent/4a4ec7c10860.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mango.webp",
+    "uk": "media/uk/mango.mp3",
+    "us": "media/us/mango.mp3"
+   },
+   "avoid": [
+    "bean",
+    "cookie"
+   ]
+  },
+  {
+   "id": "french-fries",
+   "word": "French fries",
+   "zh": "薯条",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "薯条"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "french",
+    "fries"
+   ],
+   "emoji": "🍟",
+   "sentence": {
+    "en": "Dad orders French fries.",
+    "zh": "爸爸点了薯条。"
+   },
+   "sentences": [
+    {
+     "en": "Dad orders French fries.",
+     "zh": "爸爸点了薯条。",
+     "audio": "media/sent/16aa854f1ebe.mp3"
+    },
+    {
+     "en": "I eat French fries now.",
+     "zh": "我现在吃薯条。",
+     "audio": "media/sent/ef239133c389.mp3"
+    },
+    {
+     "en": "French fries are hot and nice.",
+     "zh": "薯条又热又好吃。",
+     "audio": "media/sent/0dd5d3b96e63.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/french-fries.webp"
+   },
+   "avoid": [
+    "fast-food"
+   ]
+  },
+  {
+   "id": "fast-food",
+   "word": "fast food",
+   "zh": "快餐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "快餐"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "fast",
+    "food"
+   ],
+   "emoji": "🍔",
+   "sentence": {
+    "en": "We have fast food on Saturday.",
+    "zh": "我们星期六吃快餐。"
+   },
+   "sentences": [
+    {
+     "en": "We have fast food on Saturday.",
+     "zh": "我们星期六吃快餐。",
+     "audio": "media/sent/1eead9679743.mp3"
+    },
+    {
+     "en": "Fast food is quick to eat.",
+     "zh": "快餐吃得很快。",
+     "audio": "media/sent/3a2d63ff0ff2.mp3"
+    },
+    {
+     "en": "Mum says fast food is not healthy.",
+     "zh": "妈妈说快餐不健康。",
+     "audio": "media/sent/067752a80eb1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fast-food.webp"
+   },
+   "avoid": [
+    "french-fries"
+   ]
+  },
+  {
+   "id": "supper",
+   "word": "supper",
+   "zh": "晚餐；夜宵",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "晚餐；夜宵"
+    }
+   ],
+   "ipa": "/ˈsʌpə/",
+   "chunks": [
+    "sup",
+    "per"
+   ],
+   "emoji": "🥣",
+   "sentence": {
+    "en": "We eat soup for supper.",
+    "zh": "我们晚餐喝汤。"
+   },
+   "sentences": [
+    {
+     "en": "We eat soup for supper.",
+     "zh": "我们晚餐喝汤。",
+     "audio": "media/sent/34a6b032b4ce.mp3"
+    },
+    {
+     "en": "Supper is ready!",
+     "zh": "晚饭好了！",
+     "audio": "media/sent/be76792d3722.mp3"
+    },
+    {
+     "en": "Tom wants toast for supper.",
+     "zh": "Tom 晚餐想吃吐司。",
+     "audio": "media/sent/5179d6d480b8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/supper.webp",
+    "uk": "media/uk/supper.mp3",
+    "us": "media/us/supper.mp3"
+   },
+   "avoid": [
+    "ingredient",
+    "recipe"
+   ]
+  },
+  {
+   "id": "recipe",
+   "word": "recipe",
+   "zh": "食谱；菜谱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "食谱；菜谱"
+    }
+   ],
+   "ipa": "/ˈresəpi/",
+   "chunks": [
+    "rec",
+    "i",
+    "pe"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Mum reads a cake recipe.",
+    "zh": "妈妈读蛋糕食谱。"
+   },
+   "sentences": [
+    {
+     "en": "Mum reads a cake recipe.",
+     "zh": "妈妈读蛋糕食谱。",
+     "audio": "media/sent/d9768c751c49.mp3"
+    },
+    {
+     "en": "This recipe is easy.",
+     "zh": "这个食谱很简单。",
+     "audio": "media/sent/2cb1ddbe7173.mp3"
+    },
+    {
+     "en": "Grandma has an old recipe.",
+     "zh": "奶奶有一个旧食谱。",
+     "audio": "media/sent/4df36c6729d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/recipe.webp",
+    "uk": "media/uk/recipe.mp3",
+    "us": "media/us/recipe.mp3"
+   },
+   "avoid": [
+    "ingredient",
+    "supper"
+   ]
+  },
+  {
+   "id": "ingredient",
+   "word": "ingredient",
+   "zh": "原料；食材",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "原料；食材"
+    }
+   ],
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "chunks": [
+    "in",
+    "gre",
+    "di",
+    "ent"
+   ],
+   "emoji": "🥕",
+   "sentence": {
+    "en": "Carrots are an ingredient.",
+    "zh": "胡萝卜是一种食材。"
+   },
+   "sentences": [
+    {
+     "en": "Carrots are an ingredient.",
+     "zh": "胡萝卜是一种食材。",
+     "audio": "media/sent/d30a1f3920bf.mp3"
+    },
+    {
+     "en": "Sugar is a sweet ingredient.",
+     "zh": "糖是一种甜的原料。",
+     "audio": "media/sent/8a044a649324.mp3"
+    },
+    {
+     "en": "We need all the ingredients for pizza.",
+     "zh": "我们需要做披萨的所有食材。",
+     "audio": "media/sent/1a9a354b997b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ingredient.webp",
+    "uk": "media/uk/ingredient.mp3",
+    "us": "media/us/ingredient.mp3"
+   },
+   "avoid": [
+    "recipe",
+    "supper"
+   ]
+  },
+  {
+   "id": "line",
+   "word": "line",
+   "zh": "线；行",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "线；行"
+    }
+   ],
+   "ipa": "/laɪn/",
+   "chunks": [
+    "line"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Draw a straight line.",
+    "zh": "画一条直线。"
+   },
+   "sentences": [
+    {
+     "en": "Draw a straight line.",
+     "zh": "画一条直线。",
+     "audio": "media/sent/08d4e35c9011.mp3"
+    },
+    {
+     "en": "Stand in the line, please.",
+     "zh": "请排队站好。",
+     "audio": "media/sent/5b7d9a7f6cc2.mp3"
+    },
+    {
+     "en": "We wait in a long line for the bus.",
+     "zh": "我们排长队等公共汽车。",
+     "audio": "media/sent/f2992c61c88b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/line.webp",
+    "uk": "media/uk/line.mp3",
+    "us": "media/us/line.mp3"
+   },
+   "avoid": [
+    "circle",
+    "stripes"
+   ]
+  },
+  {
+   "id": "circle",
+   "word": "circle",
+   "zh": "圆圈；圆形",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "圆圈；圆形"
+    }
+   ],
+   "ipa": "/ˈsɜːkəl/",
+   "chunks": [
+    "cir",
+    "cle"
+   ],
+   "emoji": "⭕",
+   "sentence": {
+    "en": "Tom draws a big circle.",
+    "zh": "Tom 画了一个大圆圈。"
+   },
+   "sentences": [
+    {
+     "en": "Tom draws a big circle.",
+     "zh": "Tom 画了一个大圆圈。",
+     "audio": "media/sent/7b2ad42824b0.mp3"
+    },
+    {
+     "en": "The moon is a circle.",
+     "zh": "月亮是圆形的。",
+     "audio": "media/sent/3442f573e220.mp3"
+    },
+    {
+     "en": "We sit in a circle for story time.",
+     "zh": "我们围坐成一圈听故事。",
+     "audio": "media/sent/6ff2c70ead84.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/circle.webp",
+    "uk": "media/uk/circle.mp3",
+    "us": "media/us/circle.mp3"
+   },
+   "avoid": [
+    "line",
+    "stripes"
+   ]
+  },
+  {
+   "id": "stripes",
+   "word": "stripes",
+   "zh": "条纹",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "条纹"
+    }
+   ],
+   "ipa": "/straɪps/",
+   "chunks": [
+    "stripes"
+   ],
+   "emoji": "🦓",
+   "sentence": {
+    "en": "The zebra has black stripes.",
+    "zh": "斑马有黑色条纹。"
+   },
+   "sentences": [
+    {
+     "en": "The zebra has black stripes.",
+     "zh": "斑马有黑色条纹。",
+     "audio": "media/sent/6d4d4eed8a57.mp3"
+    },
+    {
+     "en": "Mum wears a shirt with blue stripes.",
+     "zh": "妈妈穿一件蓝色条纹衬衫。",
+     "audio": "media/sent/25f7282257a2.mp3"
+    },
+    {
+     "en": "I like the red stripes on my socks.",
+     "zh": "我喜欢我袜子上的红色条纹。",
+     "audio": "media/sent/303ead3613e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stripes.webp",
+    "uk": "media/uk/stripes.mp3",
+    "us": "media/us/stripes.mp3"
+   },
+   "avoid": [
+    "circle",
+    "line"
+   ]
+  },
+  {
+   "id": "noise",
+   "word": "noise",
+   "zh": "噪音；响声",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "噪音；响声"
+    }
+   ],
+   "ipa": "/nɔɪz/",
+   "chunks": [
+    "noise"
+   ],
+   "emoji": "🔊",
+   "sentence": {
+    "en": "The car makes a loud noise.",
+    "zh": "那辆车发出很大的噪音。"
+   },
+   "sentences": [
+    {
+     "en": "The car makes a loud noise.",
+     "zh": "那辆车发出很大的噪音。",
+     "audio": "media/sent/584974f30f4a.mp3"
+    },
+    {
+     "en": "Please make less noise!",
+     "zh": "请小声点！",
+     "audio": "media/sent/c520efccfd04.mp3"
+    },
+    {
+     "en": "I hear a strange noise.",
+     "zh": "我听到一个奇怪的响声。",
+     "audio": "media/sent/c86df6656011.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/noise.webp",
+    "uk": "media/uk/noise.mp3",
+    "us": "media/us/noise.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "make-up",
+   "word": "make-up",
+   "zh": "化妆品",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "化妆品"
+    }
+   ],
+   "ipa": "/ˈmeɪk ʌp/",
+   "chunks": [
+    "make",
+    "up"
+   ],
+   "emoji": "💄",
+   "sentence": {
+    "en": "Mum puts on her make-up.",
+    "zh": "妈妈化妆。"
+   },
+   "sentences": [
+    {
+     "en": "Mum puts on her make-up.",
+     "zh": "妈妈化妆。",
+     "audio": "media/sent/38b464fd4a24.mp3"
+    },
+    {
+     "en": "Grandma doesn't wear much make-up.",
+     "zh": "奶奶不化太多妆。",
+     "audio": "media/sent/bf52bf598049.mp3"
+    },
+    {
+     "en": "Her make-up looks nice today.",
+     "zh": "她今天的妆容很好看。",
+     "audio": "media/sent/1a91a1d0863e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/make-up.webp",
+    "uk": "media/uk/make-up.mp3",
+    "us": "media/us/make-up.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "set",
+   "word": "set",
+   "zh": "一套；一组",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "一套；一组"
+    }
+   ],
+   "ipa": "/set/",
+   "chunks": [
+    "set"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "We have a set of cups.",
+    "zh": "我们有一套杯子。"
+   },
+   "sentences": [
+    {
+     "en": "We have a set of cups.",
+     "zh": "我们有一套杯子。",
+     "audio": "media/sent/853937b2f5b2.mp3"
+    },
+    {
+     "en": "Sam has a new set of pens.",
+     "zh": "Sam 有一套新钢笔。",
+     "audio": "media/sent/f33bb9029d6f.mp3"
+    },
+    {
+     "en": "This is my tea set.",
+     "zh": "这是我的茶具套装。",
+     "audio": "media/sent/fbfb4bcf0172.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/set.webp",
+    "uk": "media/uk/set.mp3",
+    "us": "media/us/set.mp3"
+   },
+   "avoid": [
+    "stuff",
+    "thing"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "busy-saturday",
+ "topic": "time",
+ "title": "A Busy Saturday",
+ "zh": "忙碌的星期六",
+ "pages": [
+  {
+   "en": "At eight o'clock in the morning, Lily wakes up. Today is Saturday, so there is no school. At half past nine, she has her swimming lesson with Dad.",
+   "zh": "早上八点，Lily 醒了。今天是星期六，不用上学。九点半，她和爸爸去上游泳课。",
+   "scene": "A sunny bedroom in the morning, Lily stretching and smiling in bed, a big round clock on the wall with its hands at eight o'clock."
+  },
+  {
+   "en": "In the afternoon, Lily and Mia make a cake with Grandma. It takes one hour. Tom wants to eat it now, but Grandma says, \"Wait a minute!\"",
+   "zh": "下午，Lily 和 Mia 跟奶奶一起做蛋糕，花了一个小时。Tom 现在就想吃，可是奶奶说：“等一会儿！”",
+   "scene": "A warm kitchen in the afternoon, Lily and Mia mixing cake in a big bowl with Grandma, Tom reaching for the bowl, Grandma smiling and holding up one finger."
+  },
+  {
+   "en": "In the evening, the family eats the cake after dinner. At nine o'clock, Lily goes to bed. \"What a busy day!\" she says. \"See you tomorrow!\"",
+   "zh": "晚上，一家人吃完晚饭后吃蛋糕。九点钟，Lily 上床睡觉。“真是忙碌的一天！”她说，“明天见！”",
+   "scene": "Lily in bed at night, smiling and waving goodnight, the moon and stars outside the window, a clock on the wall with its hands at nine o'clock."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lily has a swimming lesson on Saturday morning.",
+   "zh": "Lily 星期六上午有游泳课。",
+   "answer": true
+  },
+  {
+   "q": "Who makes the cake with Lily?",
+   "zh": "谁和 Lily 一起做蛋糕？",
+   "options": [
+    "Mia and Grandma",
+    "Tom and Dad",
+    "Mum and Sam"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily goes to bed at eight o'clock.",
+   "zh": "Lily 八点上床睡觉。",
+   "answer": false
+  }
+ ]
+}

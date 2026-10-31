@@ -1,0 +1,45 @@
+{
+ "id": "school-concert",
+ "topic": "media",
+ "title": "The School Concert",
+ "zh": "学校音乐会",
+ "pages": [
+  {
+   "en": "There is a concert at school tonight. Lily plays the piano and Mia plays the keyboard. Sam has a big drum.",
+   "zh": "今晚学校有一场音乐会。Lily 弹钢琴，Mia 弹电子琴，Sam 打一面大鼓。",
+   "scene": "A school hall with a small stage, Lily at a piano, Mia at a keyboard, Sam with a big drum, chairs in rows for the audience."
+  },
+  {
+   "en": "Before the show, Lily feels nervous. \"I can't remember the song!\" she says. \"You can do it,\" says Mia. \"We practise every day.\"",
+   "zh": "演出前，Lily 很紧张。“我想不起来那首歌了！”她说。“你能行的，”Mia 说，“我们每天都在练习。”",
+   "scene": "Backstage behind a red curtain, Lily looking worried with her hands on her face, Mia smiling and holding her arm kindly."
+  },
+  {
+   "en": "The music starts and Lily's hands know the song. At the end, everyone shouts \"Well done!\" Mum, Dad and Tom are very happy.",
+   "zh": "音乐响起，Lily 的手记得这首歌。演出结束时，大家都喊：“太棒了！”妈妈、爸爸和 Tom 都非常高兴。",
+   "scene": "Lily, Mia and Sam bowing on the stage, the audience clapping, Mum, Dad and Tom in the front row clapping and smiling."
+  }
+ ],
+ "questions": [
+  {
+   "q": "What does Mia play?",
+   "zh": "Mia 演奏什么？",
+   "options": [
+    "the keyboard",
+    "the guitar",
+    "the drum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily feels nervous before the show.",
+   "zh": "演出前 Lily 很紧张。",
+   "answer": true
+  },
+  {
+   "q": "Lily forgets the song in the concert.",
+   "zh": "Lily 在音乐会上忘了那首歌。",
+   "answer": false
+  }
+ ]
+}

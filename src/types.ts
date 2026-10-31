@@ -42,6 +42,9 @@ export interface Topic {
   count: number;
   /** Kid content has been written and reviewed for this topic. */
   ready: boolean;
+  /** A core-word island (words on no KET topic list) brings its own emoji. */
+  core?: boolean;
+  emoji?: string;
 }
 
 /**

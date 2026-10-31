@@ -1,0 +1,1319 @@
+{
+ "id": "documents",
+ "words": [
+  {
+   "id": "article",
+   "word": "article",
+   "zh": "文章",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "文章"
+    }
+   ],
+   "ipa": "/ˈɑːtɪkəl/",
+   "chunks": [
+    "ar",
+    "ti",
+    "cle"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "Dad reads an article.",
+    "zh": "爸爸读一篇文章。"
+   },
+   "sentences": [
+    {
+     "en": "Dad reads an article.",
+     "zh": "爸爸读一篇文章。",
+     "audio": "media/sent/96dfb27da4b9.mp3"
+    },
+    {
+     "en": "This article is about animals.",
+     "zh": "这篇文章是关于动物的。",
+     "audio": "media/sent/69ea311ccfd7.mp3"
+    },
+    {
+     "en": "Mum writes an article for school.",
+     "zh": "妈妈为学校写一篇文章。",
+     "audio": "media/sent/c9060ab61821.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/article.webp",
+    "uk": "media/uk/article.mp3",
+    "us": "media/us/article.mp3"
+   },
+   "avoid": [
+    "magazine",
+    "newspaper",
+    "project"
+   ]
+  },
+  {
+   "id": "card",
+   "word": "card",
+   "zh": "卡片；贺卡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "卡片；贺卡"
+    }
+   ],
+   "ipa": "/kɑːd/",
+   "chunks": [
+    "card"
+   ],
+   "emoji": "💌",
+   "sentence": {
+    "en": "Lily opens a birthday card.",
+    "zh": "Lily 打开一张生日贺卡。"
+   },
+   "sentences": [
+    {
+     "en": "Lily opens a birthday card.",
+     "zh": "Lily 打开一张生日贺卡。",
+     "audio": "media/sent/3e5787aa7aea.mp3"
+    },
+    {
+     "en": "I send a card to Grandma.",
+     "zh": "我给奶奶寄一张卡片。",
+     "audio": "media/sent/e9c0a57429a3.mp3"
+    },
+    {
+     "en": "Tom draws on a card for Mum.",
+     "zh": "Tom 给妈妈画一张卡片。",
+     "audio": "media/sent/0d4152e96f81.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/card.webp",
+    "uk": "media/uk/card.mp3",
+    "us": "media/us/card.mp3"
+   },
+   "avoid": [
+    "letter",
+    "postcard"
+   ]
+  },
+  {
+   "id": "comic",
+   "word": "comic",
+   "zh": "漫画书",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "漫画书"
+    }
+   ],
+   "ipa": "/ˈkɒmɪk/",
+   "chunks": [
+    "com",
+    "ic"
+   ],
+   "emoji": "💥",
+   "sentence": {
+    "en": "Tom reads a comic.",
+    "zh": "Tom 看一本漫画书。"
+   },
+   "sentences": [
+    {
+     "en": "Tom reads a comic.",
+     "zh": "Tom 看一本漫画书。",
+     "audio": "media/sent/00ac3bbcfb33.mp3"
+    },
+    {
+     "en": "This comic is very funny.",
+     "zh": "这本漫画很有趣。",
+     "audio": "media/sent/0aad88687327.mp3"
+    },
+    {
+     "en": "Sam likes the new comic.",
+     "zh": "Sam 喜欢这本新漫画书。",
+     "audio": "media/sent/68b04e7ee5b7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/comic.webp",
+    "uk": "media/uk/comic.mp3",
+    "us": "media/us/comic.mp3"
+   },
+   "avoid": [
+    "book",
+    "textbook"
+   ]
+  },
+  {
+   "id": "form",
+   "word": "form",
+   "zh": "表格",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "表格"
+    }
+   ],
+   "ipa": "/fɔːm/",
+   "chunks": [
+    "form"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Mum fills in a form.",
+    "zh": "妈妈填一张表格。"
+   },
+   "sentences": [
+    {
+     "en": "Mum fills in a form.",
+     "zh": "妈妈填一张表格。",
+     "audio": "media/sent/3696a5c43911.mp3"
+    },
+    {
+     "en": "Please write your name on the form.",
+     "zh": "请在表格上写你的名字。",
+     "audio": "media/sent/500af97cff7f.mp3"
+    },
+    {
+     "en": "Dad signs the form now.",
+     "zh": "爸爸现在在表格上签名。",
+     "audio": "media/sent/5b6ed0233745.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/form.webp",
+    "uk": "media/uk/form.mp3",
+    "us": "media/us/form.mp3"
+   },
+   "avoid": [
+    "bill",
+    "ticket"
+   ]
+  },
+  {
+   "id": "licence",
+   "word": "licence",
+   "zh": "执照；许可证",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "执照；许可证"
+    }
+   ],
+   "ipa": "/ˈlaɪsəns/",
+   "chunks": [
+    "li",
+    "cence"
+   ],
+   "emoji": "🪪",
+   "sentence": {
+    "en": "Dad has a driving licence.",
+    "zh": "爸爸有驾照。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a driving licence.",
+     "zh": "爸爸有驾照。",
+     "audio": "media/sent/eee936099454.mp3"
+    },
+    {
+     "en": "Mum shows her licence.",
+     "zh": "妈妈出示她的执照。",
+     "audio": "media/sent/64bea17375b7.mp3"
+    },
+    {
+     "en": "The police ask for the licence.",
+     "zh": "警察要看执照。",
+     "audio": "media/sent/13dbebdd202d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/licence.webp",
+    "uk": "media/uk/licence.mp3",
+    "us": "media/us/licence.mp3"
+   },
+   "avoid": [
+    "diploma",
+    "passport"
+   ]
+  },
+  {
+   "id": "newspaper",
+   "word": "newspaper",
+   "zh": "报纸",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "报纸"
+    }
+   ],
+   "ipa": "/ˈnjuːzpeɪpə/",
+   "chunks": [
+    "news",
+    "pa",
+    "per"
+   ],
+   "emoji": "🗞️",
+   "sentence": {
+    "en": "Grandpa reads the newspaper.",
+    "zh": "爷爷读报纸。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa reads the newspaper.",
+     "zh": "爷爷读报纸。",
+     "audio": "media/sent/746e0274eab9.mp3"
+    },
+    {
+     "en": "Dad buys a newspaper every day.",
+     "zh": "爸爸每天买一份报纸。",
+     "audio": "media/sent/0934407f5052.mp3"
+    },
+    {
+     "en": "The newspaper is on the table.",
+     "zh": "报纸在桌子上。",
+     "audio": "media/sent/b77cddde3e33.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/newspaper.webp",
+    "uk": "media/uk/newspaper.mp3",
+    "us": "media/us/newspaper.mp3"
+   },
+   "avoid": [
+    "article",
+    "magazine"
+   ]
+  },
+  {
+   "id": "notebook",
+   "word": "notebook",
+   "zh": "笔记本",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "笔记本"
+    }
+   ],
+   "ipa": "/ˈnəʊtbʊk/",
+   "chunks": [
+    "note",
+    "book"
+   ],
+   "emoji": "📔",
+   "sentence": {
+    "en": "Lily writes in her notebook.",
+    "zh": "Lily 在笔记本上写字。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes in her notebook.",
+     "zh": "Lily 在笔记本上写字。",
+     "audio": "media/sent/7b5017309488.mp3"
+    },
+    {
+     "en": "Tom draws in his notebook.",
+     "zh": "Tom 在他的笔记本上画画。",
+     "audio": "media/sent/1119adf815c3.mp3"
+    },
+    {
+     "en": "I put my notebook in my bag.",
+     "zh": "我把笔记本放进书包里。",
+     "audio": "media/sent/aa78471963c3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/notebook.webp",
+    "uk": "media/uk/notebook.mp3",
+    "us": "media/us/notebook.mp3"
+   },
+   "avoid": [
+    "diary",
+    "note"
+   ]
+  },
+  {
+   "id": "postcard",
+   "word": "postcard",
+   "zh": "明信片",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "明信片"
+    }
+   ],
+   "ipa": "/ˈpəʊstkɑːd/",
+   "chunks": [
+    "post",
+    "card"
+   ],
+   "emoji": "📮",
+   "sentence": {
+    "en": "Grandma sends a postcard.",
+    "zh": "奶奶寄一张明信片。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma sends a postcard.",
+     "zh": "奶奶寄一张明信片。",
+     "audio": "media/sent/3666c4cde35a.mp3"
+    },
+    {
+     "en": "We buy a postcard at the beach.",
+     "zh": "我们在海滩买了一张明信片。",
+     "audio": "media/sent/b29830829f9c.mp3"
+    },
+    {
+     "en": "The postcard shows the sea.",
+     "zh": "这张明信片展示了大海。",
+     "audio": "media/sent/db866d42d4f4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/postcard.webp",
+    "uk": "media/uk/postcard.mp3",
+    "us": "media/us/postcard.mp3"
+   },
+   "avoid": [
+    "card",
+    "letter"
+   ]
+  },
+  {
+   "id": "textbook",
+   "word": "textbook",
+   "zh": "课本；教科书",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "课本；教科书"
+    }
+   ],
+   "ipa": "/ˈtekstbʊk/",
+   "chunks": [
+    "text",
+    "book"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily reads her textbook.",
+    "zh": "Lily 读她的课本。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads her textbook.",
+     "zh": "Lily 读她的课本。",
+     "audio": "media/sent/6ecdbdb5fe51.mp3"
+    },
+    {
+     "en": "Tom takes his textbook home.",
+     "zh": "Tom 把他的课本带回家。",
+     "audio": "media/sent/c7464ba4447d.mp3"
+    },
+    {
+     "en": "The textbook has nice pictures.",
+     "zh": "这本课本有漂亮的图片。",
+     "audio": "media/sent/18beda612a40.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/textbook.webp",
+    "uk": "media/uk/textbook.mp3",
+    "us": "media/us/textbook.mp3"
+   },
+   "avoid": [
+    "book",
+    "comic"
+   ]
+  },
+  {
+   "id": "ad",
+   "word": "ad",
+   "zh": "广告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告"
+    }
+   ],
+   "ipa": "/æd/",
+   "chunks": [
+    "ad"
+   ],
+   "emoji": "📢",
+   "sentence": {
+    "en": "Look at the big ad.",
+    "zh": "看这个大广告。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the big ad.",
+     "zh": "看这个大广告。",
+     "audio": "media/sent/cc1ff3acb277.mp3"
+    },
+    {
+     "en": "Mum sees an ad for shoes.",
+     "zh": "妈妈看到一个鞋子的广告。",
+     "audio": "media/sent/be0f79e1d938.mp3"
+    },
+    {
+     "en": "This ad is very funny.",
+     "zh": "这个广告很有趣。",
+     "audio": "media/sent/5fed6b9dc703.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ad.webp",
+    "uk": "media/uk/ad.mp3",
+    "us": "media/us/ad.mp3"
+   },
+   "avoid": [
+    "advertisement"
+   ]
+  },
+  {
+   "id": "advertisement",
+   "word": "advertisement",
+   "zh": "广告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告"
+    }
+   ],
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "chunks": [
+    "ad",
+    "ver",
+    "tise",
+    "ment"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Tom watches an advertisement.",
+    "zh": "Tom 看一个广告。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches an advertisement.",
+     "zh": "Tom 看一个广告。",
+     "audio": "media/sent/ff9464c06183.mp3"
+    },
+    {
+     "en": "The advertisement is on the screen.",
+     "zh": "这个广告在屏幕上。",
+     "audio": "media/sent/2bf8f5a7032d.mp3"
+    },
+    {
+     "en": "Mum changes the channel during the advertisement.",
+     "zh": "妈妈在广告时间换台。",
+     "audio": "media/sent/d489dce2d7d0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/advertisement.webp",
+    "uk": "media/uk/advertisement.mp3",
+    "us": "media/us/advertisement.mp3"
+   },
+   "avoid": [
+    "ad"
+   ]
+  },
+  {
+   "id": "bill",
+   "word": "bill",
+   "zh": "账单",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "账单"
+    }
+   ],
+   "ipa": "/bɪl/",
+   "chunks": [
+    "bill"
+   ],
+   "emoji": "🧾",
+   "sentence": {
+    "en": "Dad pays the bill.",
+    "zh": "爸爸付账。"
+   },
+   "sentences": [
+    {
+     "en": "Dad pays the bill.",
+     "zh": "爸爸付账。",
+     "audio": "media/sent/e9ffbd67d9cd.mp3"
+    },
+    {
+     "en": "Mum asks for the bill.",
+     "zh": "妈妈要账单。",
+     "audio": "media/sent/98885f977645.mp3"
+    },
+    {
+     "en": "The bill is on the table.",
+     "zh": "账单在桌子上。",
+     "audio": "media/sent/a3006817e360.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bill.webp",
+    "uk": "media/uk/bill.mp3",
+    "us": "media/us/bill.mp3"
+   },
+   "avoid": [
+    "form",
+    "menu",
+    "ticket"
+   ]
+  },
+  {
+   "id": "book",
+   "word": "book",
+   "zh": "书；预订",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "预订",
+     "en": "Dad books a table for dinner."
+    }
+   ],
+   "ipa": "/bʊk/",
+   "chunks": [
+    "book"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Lily reads a book about horses.",
+    "zh": "Lily 在读一本关于马的书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads a book about horses.",
+     "zh": "Lily 在读一本关于马的书。",
+     "audio": "media/sent/0091ebe5f45a.mp3"
+    },
+    {
+     "en": "Please open your book at page ten.",
+     "zh": "请把书翻到第十页。",
+     "audio": "media/sent/5368f7226cb5.mp3"
+    },
+    {
+     "en": "Grandpa gives Tom a book of animal stories.",
+     "zh": "爷爷送给 Tom 一本动物故事书。",
+     "audio": "media/sent/e8a04b4e5817.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/book.webp",
+    "uk": "media/uk/book.mp3",
+    "us": "media/us/book.mp3"
+   },
+   "avoid": [
+    "comic",
+    "textbook"
+   ]
+  },
+  {
+   "id": "diary",
+   "word": "diary",
+   "zh": "日记；日记本",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "日记；日记本"
+    }
+   ],
+   "ipa": "/ˈdaɪəri/",
+   "chunks": [
+    "di",
+    "ar",
+    "y"
+   ],
+   "emoji": "📔",
+   "sentence": {
+    "en": "Lily writes in her diary every night.",
+    "zh": "Lily 每晚都写日记。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes in her diary every night.",
+     "zh": "Lily 每晚都写日记。",
+     "audio": "media/sent/48aadab780fa.mp3"
+    },
+    {
+     "en": "I keep my diary under my bed.",
+     "zh": "我把日记本藏在床底下。",
+     "audio": "media/sent/0d1b89912b65.mp3"
+    },
+    {
+     "en": "Grandma reads her old diary.",
+     "zh": "奶奶读她的旧日记。",
+     "audio": "media/sent/201d1ef9afcc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/diary.webp",
+    "uk": "media/uk/diary.mp3",
+    "us": "media/us/diary.mp3"
+   },
+   "avoid": [
+    "note",
+    "notebook"
+   ]
+  },
+  {
+   "id": "diploma",
+   "word": "diploma",
+   "zh": "毕业证书；文凭",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "毕业证书；文凭"
+    }
+   ],
+   "ipa": "/dɪˈpləʊmə/",
+   "chunks": [
+    "di",
+    "plo",
+    "ma"
+   ],
+   "emoji": "🎓",
+   "sentence": {
+    "en": "Mum puts her diploma in a box.",
+    "zh": "妈妈把她的文凭放进盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "Mum puts her diploma in a box.",
+     "zh": "妈妈把她的文凭放进盒子里。",
+     "audio": "media/sent/58946a7c1ecf.mp3"
+    },
+    {
+     "en": "Sam's uncle has a diploma from college.",
+     "zh": "Sam 的叔叔有大学文凭。",
+     "audio": "media/sent/ef76d51f8ace.mp3"
+    },
+    {
+     "en": "We celebrate the diploma with a cake.",
+     "zh": "我们用蛋糕庆祝拿到文凭。",
+     "audio": "media/sent/5bfb6f9a18b8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/diploma.webp",
+    "uk": "media/uk/diploma.mp3",
+    "us": "media/us/diploma.mp3"
+   },
+   "avoid": [
+    "licence",
+    "passport"
+   ]
+  },
+  {
+   "id": "email",
+   "word": "email",
+   "zh": "电子邮件",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "电子邮件"
+    }
+   ],
+   "ipa": "/ˈiːmeɪl/",
+   "chunks": [
+    "e",
+    "mail"
+   ],
+   "emoji": "📧",
+   "sentence": {
+    "en": "Dad sends an email to his boss.",
+    "zh": "爸爸给老板发了一封电子邮件。"
+   },
+   "sentences": [
+    {
+     "en": "Dad sends an email to his boss.",
+     "zh": "爸爸给老板发了一封电子邮件。",
+     "audio": "media/sent/8d8ae361a816.mp3"
+    },
+    {
+     "en": "Please check your email for news.",
+     "zh": "请查看电子邮件获取消息。",
+     "audio": "media/sent/7cf7e1212b24.mp3"
+    },
+    {
+     "en": "Lily writes an email to Grandma.",
+     "zh": "Lily 给奶奶写了一封电子邮件。",
+     "audio": "media/sent/9e6aa0619c42.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/email.webp",
+    "uk": "media/uk/email.mp3",
+    "us": "media/us/email.mp3"
+   },
+   "avoid": [
+    "message",
+    "text"
+   ]
+  },
+  {
+   "id": "letter",
+   "word": "letter",
+   "zh": "信；字母",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "信；字母"
+    }
+   ],
+   "ipa": "/ˈletə/",
+   "chunks": [
+    "let",
+    "ter"
+   ],
+   "emoji": "✉️",
+   "sentence": {
+    "en": "Tom writes a letter to Grandpa.",
+    "zh": "Tom 给爷爷写了一封信。"
+   },
+   "sentences": [
+    {
+     "en": "Tom writes a letter to Grandpa.",
+     "zh": "Tom 给爷爷写了一封信。",
+     "audio": "media/sent/cfa181601106.mp3"
+    },
+    {
+     "en": "The first letter is A.",
+     "zh": "第一个字母是 A。",
+     "audio": "media/sent/ba17573286bd.mp3"
+    },
+    {
+     "en": "Mum opens the blue letter.",
+     "zh": "妈妈打开了那封蓝色的信。",
+     "audio": "media/sent/adc9ed7ec545.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/letter.webp",
+    "uk": "media/uk/letter.mp3",
+    "us": "media/us/letter.mp3"
+   },
+   "avoid": [
+    "card",
+    "postcard"
+   ]
+  },
+  {
+   "id": "magazine",
+   "word": "magazine",
+   "zh": "杂志",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "杂志"
+    }
+   ],
+   "ipa": "/ˌmæɡəˈziːn/",
+   "chunks": [
+    "ma",
+    "ga",
+    "zine"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "Mum reads a magazine in the kitchen.",
+    "zh": "妈妈在厨房读杂志。"
+   },
+   "sentences": [
+    {
+     "en": "Mum reads a magazine in the kitchen.",
+     "zh": "妈妈在厨房读杂志。",
+     "audio": "media/sent/b774d0595e71.mp3"
+    },
+    {
+     "en": "This magazine has nice photos.",
+     "zh": "这本杂志有漂亮的照片。",
+     "audio": "media/sent/132cc7dc41ed.mp3"
+    },
+    {
+     "en": "Dad buys a sports magazine.",
+     "zh": "爸爸买一本体育杂志。",
+     "audio": "media/sent/48936fbb4c92.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/magazine.webp",
+    "uk": "media/uk/magazine.mp3",
+    "us": "media/us/magazine.mp3"
+   },
+   "avoid": [
+    "article",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "menu",
+   "word": "menu",
+   "zh": "菜单",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "菜单"
+    }
+   ],
+   "ipa": "/ˈmenjuː/",
+   "chunks": [
+    "me",
+    "nu"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "The waiter gives us the menu.",
+    "zh": "服务员把菜单给我们。"
+   },
+   "sentences": [
+    {
+     "en": "The waiter gives us the menu.",
+     "zh": "服务员把菜单给我们。",
+     "audio": "media/sent/3a3a9109435c.mp3"
+    },
+    {
+     "en": "Lily looks at the menu in the cafe.",
+     "zh": "Lily 在咖啡馆看菜单。",
+     "audio": "media/sent/b06fb02cf064.mp3"
+    },
+    {
+     "en": "Dad chooses fish from the menu.",
+     "zh": "爸爸从菜单上选了鱼。",
+     "audio": "media/sent/48722d29d87c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/menu.webp",
+    "uk": "media/uk/menu.mp3",
+    "us": "media/us/menu.mp3"
+   },
+   "avoid": [
+    "bill"
+   ]
+  },
+  {
+   "id": "message",
+   "word": "message",
+   "zh": "消息；留言",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "消息；留言"
+    }
+   ],
+   "ipa": "/ˈmesɪdʒ/",
+   "chunks": [
+    "mes",
+    "sage"
+   ],
+   "emoji": "💬",
+   "sentence": {
+    "en": "Mum leaves a message on the phone.",
+    "zh": "妈妈在电话上留了言。"
+   },
+   "sentences": [
+    {
+     "en": "Mum leaves a message on the phone.",
+     "zh": "妈妈在电话上留了言。",
+     "audio": "media/sent/7a0ba44b9797.mp3"
+    },
+    {
+     "en": "Tom has a message for Lily.",
+     "zh": "Tom 有给 Lily 的留言。",
+     "audio": "media/sent/8a92eb68b901.mp3"
+    },
+    {
+     "en": "Can I leave a message here?",
+     "zh": "我可以在这儿留言吗？",
+     "audio": "media/sent/c821a63e7416.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/message.webp",
+    "uk": "media/uk/message.mp3",
+    "us": "media/us/message.mp3"
+   },
+   "avoid": [
+    "email",
+    "text"
+   ]
+  },
+  {
+   "id": "note",
+   "word": "note",
+   "zh": "笔记；便条",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "笔记；便条"
+    }
+   ],
+   "ipa": "/nəʊt/",
+   "chunks": [
+    "note"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Lily writes a note for her friend.",
+    "zh": "Lily 给朋友写了一张便条。"
+   },
+   "sentences": [
+    {
+     "en": "Lily writes a note for her friend.",
+     "zh": "Lily 给朋友写了一张便条。",
+     "audio": "media/sent/d379e8f5e0dc.mp3"
+    },
+    {
+     "en": "Dad keeps his notes in a box.",
+     "zh": "爸爸把笔记放在盒子里。",
+     "audio": "media/sent/bf1842ec3d47.mp3"
+    },
+    {
+     "en": "Please read this short note.",
+     "zh": "请读这张短便条。",
+     "audio": "media/sent/f5c457c1102d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/note.webp",
+    "uk": "media/uk/note.mp3",
+    "us": "media/us/note.mp3"
+   },
+   "avoid": [
+    "diary",
+    "notebook"
+   ]
+  },
+  {
+   "id": "passport",
+   "word": "passport",
+   "zh": "护照",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "护照"
+    }
+   ],
+   "ipa": "/ˈpɑːspɔːt/",
+   "chunks": [
+    "pass",
+    "port"
+   ],
+   "emoji": "🛂",
+   "sentence": {
+    "en": "Mum shows her passport at the airport.",
+    "zh": "妈妈在机场出示她的护照。"
+   },
+   "sentences": [
+    {
+     "en": "Mum shows her passport at the airport.",
+     "zh": "妈妈在机场出示她的护照。",
+     "audio": "media/sent/a6486c5356d4.mp3"
+    },
+    {
+     "en": "Where is Dad's passport?",
+     "zh": "爸爸的护照在哪儿？",
+     "audio": "media/sent/e071b23b5e30.mp3"
+    },
+    {
+     "en": "We need passports for the trip.",
+     "zh": "我们需要护照去旅行。",
+     "audio": "media/sent/c7deee2b84cc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/passport.webp",
+    "uk": "media/uk/passport.mp3",
+    "us": "media/us/passport.mp3"
+   },
+   "avoid": [
+    "diploma",
+    "licence"
+   ]
+  },
+  {
+   "id": "project",
+   "word": "project",
+   "zh": "项目；课题",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "项目；课题"
+    }
+   ],
+   "ipa": "/ˈprɒdʒekt/; /prəˈdʒekt/",
+   "chunks": [
+    "pro",
+    "ject"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily works on a school project.",
+    "zh": "Lily 做一个学校项目。"
+   },
+   "sentences": [
+    {
+     "en": "Lily works on a school project.",
+     "zh": "Lily 做一个学校项目。",
+     "audio": "media/sent/94fc230657dd.mp3"
+    },
+    {
+     "en": "Our project is about plants.",
+     "zh": "我们的项目是关于植物的。",
+     "audio": "media/sent/cdb8c485ba06.mp3"
+    },
+    {
+     "en": "Sam helps with the big project.",
+     "zh": "Sam 帮忙做大项目。",
+     "audio": "media/sent/1b6bdafb8881.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/project.webp",
+    "uk": "media/uk/project.mp3",
+    "us": "media/us/project.mp3"
+   },
+   "avoid": [
+    "article"
+   ]
+  },
+  {
+   "id": "text",
+   "word": "text",
+   "zh": "短信；文字",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "短信；文字"
+    }
+   ],
+   "ipa": "/tekst/",
+   "chunks": [
+    "text"
+   ],
+   "emoji": "📱",
+   "sentence": {
+    "en": "Mia sends a text to Lily.",
+    "zh": "Mia 给 Lily 发了一条短信。"
+   },
+   "sentences": [
+    {
+     "en": "Mia sends a text to Lily.",
+     "zh": "Mia 给 Lily 发了一条短信。",
+     "audio": "media/sent/46d5f97502a0.mp3"
+    },
+    {
+     "en": "Read the text in your book.",
+     "zh": "读一读你书里的文字。",
+     "audio": "media/sent/3165f3500ec9.mp3"
+    },
+    {
+     "en": "Dad answers the text quickly.",
+     "zh": "爸爸很快回复了短信。",
+     "audio": "media/sent/654436ec3539.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/text.webp",
+    "uk": "media/uk/text.mp3",
+    "us": "media/us/text.mp3"
+   },
+   "avoid": [
+    "email",
+    "message"
+   ]
+  },
+  {
+   "id": "ticket",
+   "word": "ticket",
+   "zh": "票；入场券",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "票；入场券"
+    }
+   ],
+   "ipa": "/ˈtɪkɪt/",
+   "chunks": [
+    "tick",
+    "et"
+   ],
+   "emoji": "🎫",
+   "sentence": {
+    "en": "Tom shows his ticket to the man.",
+    "zh": "Tom 把票给那个人看。"
+   },
+   "sentences": [
+    {
+     "en": "Tom shows his ticket to the man.",
+     "zh": "Tom 把票给那个人看。",
+     "audio": "media/sent/de58d853ff20.mp3"
+    },
+    {
+     "en": "We buy tickets for the film.",
+     "zh": "我们买电影票。",
+     "audio": "media/sent/23fc437fcb02.mp3"
+    },
+    {
+     "en": "Lily keeps her train ticket safe.",
+     "zh": "Lily 把火车票保管好。",
+     "audio": "media/sent/348b4a5436e9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ticket.webp",
+    "uk": "media/uk/ticket.mp3",
+    "us": "media/us/ticket.mp3"
+   },
+   "avoid": [
+    "bill",
+    "form"
+   ]
+  }
+ ]
+}

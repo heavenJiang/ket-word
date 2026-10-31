@@ -1,0 +1,1367 @@
+{
+ "id": "core-places",
+ "words": [
+  {
+   "id": "accommodation",
+   "word": "accommodation",
+   "zh": "住处；住宿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "住处；住宿"
+    }
+   ],
+   "ipa": "/əˌkɒməˈdeɪʃən/",
+   "chunks": [
+    "ac",
+    "com",
+    "mo",
+    "da",
+    "tion"
+   ],
+   "emoji": "🏨",
+   "sentence": {
+    "en": "We need cheap accommodation.",
+    "zh": "我们需要便宜的住处。"
+   },
+   "sentences": [
+    {
+     "en": "We need cheap accommodation.",
+     "zh": "我们需要便宜的住处。",
+     "audio": "media/sent/4ceac427f40c.mp3"
+    },
+    {
+     "en": "Our hotel has good accommodation.",
+     "zh": "我们的酒店住宿条件很好。",
+     "audio": "media/sent/027ec1d6d3ba.mp3"
+    },
+    {
+     "en": "They found accommodation for the night.",
+     "zh": "他们找到了当晚的住处。",
+     "audio": "media/sent/1c7eb3b1b88b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/accommodation.webp",
+    "uk": "media/uk/accommodation.mp3",
+    "us": "media/us/accommodation.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "aeroplane",
+   "word": "aeroplane",
+   "zh": "飞机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "飞机"
+    }
+   ],
+   "ipa": "/ˈeərəpleɪn/",
+   "chunks": [
+    "ae",
+    "ro",
+    "plane"
+   ],
+   "emoji": "✈️",
+   "sentence": {
+    "en": "Look at the aeroplane in the sky!",
+    "zh": "看天上的那架飞机！"
+   },
+   "sentences": [
+    {
+     "en": "Look at the aeroplane in the sky!",
+     "zh": "看天上的那架飞机！",
+     "audio": "media/sent/f24a50baf1d5.mp3"
+    },
+    {
+     "en": "The aeroplane is very big.",
+     "zh": "这架飞机很大。",
+     "audio": "media/sent/d081ee79b4ac.mp3"
+    },
+    {
+     "en": "We travel by aeroplane to London.",
+     "zh": "我们坐飞机去伦敦。",
+     "audio": "media/sent/3671a49577c9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/aeroplane.webp",
+    "uk": "media/uk/aeroplane.mp3",
+    "us": "media/us/aeroplane.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "capital",
+   "word": "capital",
+   "zh": "首都",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "首都"
+    }
+   ],
+   "ipa": "/ˈkæpɪtəl/",
+   "chunks": [
+    "cap",
+    "i",
+    "tal"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "London is the capital of England.",
+    "zh": "伦敦是英格兰的首都。"
+   },
+   "sentences": [
+    {
+     "en": "London is the capital of England.",
+     "zh": "伦敦是英格兰的首都。",
+     "audio": "media/sent/598a5615cd9a.mp3"
+    },
+    {
+     "en": "We live in the capital city.",
+     "zh": "我们住在首都城市。",
+     "audio": "media/sent/d89dda2b9e50.mp3"
+    },
+    {
+     "en": "The capital is very busy.",
+     "zh": "这座城市很繁忙。",
+     "audio": "media/sent/79ffb916f062.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/capital.webp",
+    "uk": "media/uk/capital.mp3",
+    "us": "media/us/capital.mp3"
+   },
+   "avoid": [
+    "city"
+   ]
+  },
+  {
+   "id": "city",
+   "word": "city",
+   "zh": "城市",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "城市"
+    }
+   ],
+   "ipa": "/ˈsɪti/",
+   "chunks": [
+    "ci",
+    "ty"
+   ],
+   "emoji": "🏙️",
+   "sentence": {
+    "en": "Our city has many tall buildings.",
+    "zh": "我们的城市有很多高楼。"
+   },
+   "sentences": [
+    {
+     "en": "Our city has many tall buildings.",
+     "zh": "我们的城市有很多高楼。",
+     "audio": "media/sent/402f10795055.mp3"
+    },
+    {
+     "en": "I live in a big city.",
+     "zh": "我住在一个大城市。",
+     "audio": "media/sent/4e688c3c8b1e.mp3"
+    },
+    {
+     "en": "Grandma lives far from the city.",
+     "zh": "奶奶住在离城市很远的地方。",
+     "audio": "media/sent/69e3b35b7534.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/city.webp",
+    "uk": "media/uk/city.mp3",
+    "us": "media/us/city.mp3"
+   },
+   "avoid": [
+    "capital"
+   ]
+  },
+  {
+   "id": "coast",
+   "word": "coast",
+   "zh": "海岸；海滨",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "海岸；海滨"
+    }
+   ],
+   "ipa": "/kəʊst/",
+   "chunks": [
+    "coast"
+   ],
+   "emoji": "🏖️",
+   "sentence": {
+    "en": "We walk along the coast.",
+    "zh": "我们沿着海岸散步。"
+   },
+   "sentences": [
+    {
+     "en": "We walk along the coast.",
+     "zh": "我们沿着海岸散步。",
+     "audio": "media/sent/1a869fc0dcdd.mp3"
+    },
+    {
+     "en": "The coast is beautiful in summer.",
+     "zh": "夏天海岸很美。",
+     "audio": "media/sent/3a4422fafad5.mp3"
+    },
+    {
+     "en": "They live near the coast.",
+     "zh": "他们住在海岸附近。",
+     "audio": "media/sent/da34e92ffe23.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/coast.webp",
+    "uk": "media/uk/coast.mp3",
+    "us": "media/us/coast.mp3"
+   },
+   "avoid": [
+    "harbour",
+    "port"
+   ]
+  },
+  {
+   "id": "court",
+   "word": "court",
+   "zh": "球场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "球场"
+    }
+   ],
+   "ipa": "/kɔːt/",
+   "chunks": [
+    "court"
+   ],
+   "emoji": "🎾",
+   "sentence": {
+    "en": "Lily plays tennis on the court.",
+    "zh": "Lily 在球场上打网球。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays tennis on the court.",
+     "zh": "Lily 在球场上打网球。",
+     "audio": "media/sent/2033800178a5.mp3"
+    },
+    {
+     "en": "The basketball court is full.",
+     "zh": "篮球场很热闹。",
+     "audio": "media/sent/8292b3c538cc.mp3"
+    },
+    {
+     "en": "We have football practice on the court.",
+     "zh": "我们在球场上进行足球训练。",
+     "audio": "media/sent/ce0937abd1e7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/court.webp",
+    "uk": "media/uk/court.mp3",
+    "us": "media/us/court.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "crossing",
+   "word": "crossing",
+   "zh": "人行横道；斑马线",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "人行横道；斑马线"
+    }
+   ],
+   "ipa": "/ˈkrɒsɪŋ/",
+   "chunks": [
+    "cross",
+    "ing"
+   ],
+   "emoji": "🚦",
+   "sentence": {
+    "en": "Wait at the crossing.",
+    "zh": "在人行横道处等待。"
+   },
+   "sentences": [
+    {
+     "en": "Wait at the crossing.",
+     "zh": "在人行横道处等待。",
+     "audio": "media/sent/8077e89f0bb2.mp3"
+    },
+    {
+     "en": "Look left and right at the crossing.",
+     "zh": "在人行横道处向左看和向右看。",
+     "audio": "media/sent/88f92fa435c1.mp3"
+    },
+    {
+     "en": "The traffic lights are near the crossing.",
+     "zh": "交通灯在人行横道附近。",
+     "audio": "media/sent/7d53d042212a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/crossing.webp",
+    "uk": "media/uk/crossing.mp3",
+    "us": "media/us/crossing.mp3"
+   },
+   "avoid": [
+    "transport"
+   ]
+  },
+  {
+   "id": "drugstore",
+   "word": "drugstore",
+   "zh": "药店；杂货店（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "药店；杂货店（美式）"
+    }
+   ],
+   "ipa": "/ˈdrʌɡstɔː/",
+   "chunks": [
+    "drug",
+    "store"
+   ],
+   "emoji": "💊",
+   "sentence": {
+    "en": "Dad goes to the drugstore.",
+    "zh": "爸爸去药店。"
+   },
+   "sentences": [
+    {
+     "en": "Dad goes to the drugstore.",
+     "zh": "爸爸去药店。",
+     "audio": "media/sent/5e3d01020bcd.mp3"
+    },
+    {
+     "en": "There is a drugstore next to the bank.",
+     "zh": "银行旁边有一家药店。",
+     "audio": "media/sent/ac0fb6452ff7.mp3"
+    },
+    {
+     "en": "Buy some soap at the drugstore.",
+     "zh": "在药店买一些肥皂。",
+     "audio": "media/sent/a31fca1b79b0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drugstore.webp",
+    "uk": "media/uk/drugstore.mp3",
+    "us": "media/us/drugstore.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "gas-station",
+   "word": "gas station",
+   "zh": "加油站（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "加油站（美式）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "gas",
+    "sta",
+    "tion"
+   ],
+   "emoji": "⛽",
+   "sentence": {
+    "en": "Dad stops at the gas station.",
+    "zh": "爸爸在加油站停车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stops at the gas station.",
+     "zh": "爸爸在加油站停车。",
+     "audio": "media/sent/d703e8914895.mp3"
+    },
+    {
+     "en": "The gas station is closed now.",
+     "zh": "加油站现在关门了。",
+     "audio": "media/sent/28bce32f4b3a.mp3"
+    },
+    {
+     "en": "We need petrol at the gas station.",
+     "zh": "我们需要在加油站加汽油。",
+     "audio": "media/sent/8c153c5bf504.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gas-station.webp"
+   },
+   "avoid": [
+    "parking-lot"
+   ]
+  },
+  {
+   "id": "harbour",
+   "word": "harbour",
+   "zh": "港口；海港（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "港口；海港（英式）"
+    }
+   ],
+   "ipa": "/ˈhɑːbə/",
+   "chunks": [
+    "har",
+    "bour"
+   ],
+   "emoji": "⚓",
+   "sentence": {
+    "en": "The boats are in the harbour.",
+    "zh": "船只在港口里。"
+   },
+   "sentences": [
+    {
+     "en": "The boats are in the harbour.",
+     "zh": "船只在港口里。",
+     "audio": "media/sent/df306ef6bad4.mp3"
+    },
+    {
+     "en": "We watched the ships leave the harbour.",
+     "zh": "我们看着船只离开港口。",
+     "audio": "media/sent/f4bcf8a38a5f.mp3"
+    },
+    {
+     "en": "The harbour is very quiet at night.",
+     "zh": "港口在夜里很安静。",
+     "audio": "media/sent/3c5ca82e49da.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/harbour.webp",
+    "uk": "media/uk/harbour.mp3",
+    "us": "media/us/harbour.mp3"
+   },
+   "avoid": [
+    "coast",
+    "port"
+   ]
+  },
+  {
+   "id": "lorry",
+   "word": "lorry",
+   "zh": "卡车（英式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "卡车（英式）"
+    }
+   ],
+   "ipa": "/ˈlɒri/",
+   "chunks": [
+    "lor",
+    "ry"
+   ],
+   "emoji": "🚛",
+   "sentence": {
+    "en": "A big lorry drives past.",
+    "zh": "一辆大卡车驶过。"
+   },
+   "sentences": [
+    {
+     "en": "A big lorry drives past.",
+     "zh": "一辆大卡车驶过。",
+     "audio": "media/sent/ede2b69e3333.mp3"
+    },
+    {
+     "en": "The lorry carries heavy boxes.",
+     "zh": "这辆卡车装着很重的箱子。",
+     "audio": "media/sent/765642b011ab.mp3"
+    },
+    {
+     "en": "That blue lorry is very long.",
+     "zh": "那辆蓝色卡车很长。",
+     "audio": "media/sent/76b564721d39.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lorry.webp",
+    "uk": "media/uk/lorry.mp3",
+    "us": "media/us/lorry.mp3"
+   },
+   "avoid": [
+    "police-car"
+   ]
+  },
+  {
+   "id": "movie-theater",
+   "word": "movie theater",
+   "zh": "电影院（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电影院（美式）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "mov",
+    "ie",
+    "the",
+    "a",
+    "ter"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We go to the movie theater.",
+    "zh": "我们去电影院。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the movie theater.",
+     "zh": "我们去电影院。",
+     "audio": "media/sent/c06141bf9eeb.mp3"
+    },
+    {
+     "en": "The movie theater is big.",
+     "zh": "这家电影院很大。",
+     "audio": "media/sent/dcc9c154a26c.mp3"
+    },
+    {
+     "en": "We eat chips at the movie theater.",
+     "zh": "我们在电影院吃薯片。",
+     "audio": "media/sent/30b47e84e612.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/movie-theater.webp"
+   },
+   "avoid": [
+    "shopping-centre"
+   ]
+  },
+  {
+   "id": "parking-lot",
+   "word": "parking lot",
+   "zh": "停车场（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "停车场（美式）"
+    }
+   ],
+   "ipa": "/ˈpɑːkɪŋ lɒt/",
+   "chunks": [
+    "par",
+    "king",
+    "lot"
+   ],
+   "emoji": "🅿️",
+   "sentence": {
+    "en": "Dad parks the car in the parking lot.",
+    "zh": "爸爸把车停在停车场。"
+   },
+   "sentences": [
+    {
+     "en": "Dad parks the car in the parking lot.",
+     "zh": "爸爸把车停在停车场。",
+     "audio": "media/sent/b8091f5b719b.mp3"
+    },
+    {
+     "en": "The parking lot is full.",
+     "zh": "停车场满了。",
+     "audio": "media/sent/1acb06bc6b58.mp3"
+    },
+    {
+     "en": "Find a space in the parking lot.",
+     "zh": "在停车场找一个车位。",
+     "audio": "media/sent/5dc44f355307.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/parking-lot.webp",
+    "uk": "media/uk/parking-lot.mp3",
+    "us": "media/us/parking-lot.mp3"
+   },
+   "avoid": [
+    "gas-station"
+   ]
+  },
+  {
+   "id": "police-car",
+   "word": "police car",
+   "zh": "警车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "警车"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "po",
+    "lice",
+    "car"
+   ],
+   "emoji": "🚓",
+   "sentence": {
+    "en": "A police car drives by.",
+    "zh": "一辆警车驶过。"
+   },
+   "sentences": [
+    {
+     "en": "A police car drives by.",
+     "zh": "一辆警车驶过。",
+     "audio": "media/sent/8e15f7e5b42d.mp3"
+    },
+    {
+     "en": "The police car is very fast.",
+     "zh": "这辆警车很快。",
+     "audio": "media/sent/16e31ab5a9e6.mp3"
+    },
+    {
+     "en": "Sam likes the big police car.",
+     "zh": "Sam 喜欢那辆大警车。",
+     "audio": "media/sent/00dcef1ba608.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/police-car.webp"
+   },
+   "avoid": [
+    "lorry"
+   ]
+  },
+  {
+   "id": "port",
+   "word": "port",
+   "zh": "港口",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "港口"
+    }
+   ],
+   "ipa": "/pɔːt/",
+   "chunks": [
+    "port"
+   ],
+   "emoji": "⚓",
+   "sentence": {
+    "en": "Big ships come into the busy port.",
+    "zh": "大船驶进繁忙的港口。"
+   },
+   "sentences": [
+    {
+     "en": "Big ships come into the busy port.",
+     "zh": "大船驶进繁忙的港口。",
+     "audio": "media/sent/503dc81bdb82.mp3"
+    },
+    {
+     "en": "We saw many boats in the port.",
+     "zh": "我们在港口看到了很多船。",
+     "audio": "media/sent/031b4a6104c4.mp3"
+    },
+    {
+     "en": "The ship left the port this morning.",
+     "zh": "这艘船今天早上离开了港口。",
+     "audio": "media/sent/d53a9442b59f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/port.webp",
+    "uk": "media/uk/port.mp3",
+    "us": "media/us/port.mp3"
+   },
+   "avoid": [
+    "coast",
+    "harbour"
+   ]
+  },
+  {
+   "id": "shopping-centre",
+   "word": "shopping centre",
+   "zh": "购物中心",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "购物中心"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "shop",
+    "ping",
+    "cen",
+    "tre"
+   ],
+   "emoji": "🛍️",
+   "sentence": {
+    "en": "Mum goes to the shopping centre.",
+    "zh": "妈妈去购物中心。"
+   },
+   "sentences": [
+    {
+     "en": "Mum goes to the shopping centre.",
+     "zh": "妈妈去购物中心。",
+     "audio": "media/sent/10e02384a226.mp3"
+    },
+    {
+     "en": "The shopping centre is very big.",
+     "zh": "这个购物中心很大。",
+     "audio": "media/sent/b356742ad9b2.mp3"
+    },
+    {
+     "en": "We buy clothes at the shopping centre.",
+     "zh": "我们在购物中心买衣服。",
+     "audio": "media/sent/202f5474a8ee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shopping-centre.webp"
+   },
+   "avoid": [
+    "movie-theater"
+   ]
+  },
+  {
+   "id": "site",
+   "word": "site",
+   "zh": "网站；地点",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "网站；地点"
+    }
+   ],
+   "ipa": "/saɪt/",
+   "chunks": [
+    "site"
+   ],
+   "emoji": "🌐",
+   "sentence": {
+    "en": "They are building a house on this site.",
+    "zh": "他们正在这块地上盖房子。"
+   },
+   "sentences": [
+    {
+     "en": "They are building a house on this site.",
+     "zh": "他们正在这块地上盖房子。",
+     "audio": "media/sent/e0ae1101d3c7.mp3"
+    },
+    {
+     "en": "This is a good site for games.",
+     "zh": "这是一个适合玩游戏的好网站。",
+     "audio": "media/sent/018bf9e92923.mp3"
+    },
+    {
+     "en": "The school is on a quiet site.",
+     "zh": "学校在一个安静的地方。",
+     "audio": "media/sent/61c0ff39edf8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/site.webp",
+    "uk": "media/uk/site.mp3",
+    "us": "media/us/site.mp3"
+   },
+   "avoid": [
+    "place"
+   ]
+  },
+  {
+   "id": "transport",
+   "word": "transport",
+   "zh": "交通；交通工具",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "交通；交通工具"
+    }
+   ],
+   "ipa": "/ˈtrænspɔːt/",
+   "chunks": [
+    "trans",
+    "port"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "The bus is cheap transport.",
+    "zh": "公共汽车是便宜的交通工具。"
+   },
+   "sentences": [
+    {
+     "en": "The bus is cheap transport.",
+     "zh": "公共汽车是便宜的交通工具。",
+     "audio": "media/sent/69fca8a58e9f.mp3"
+    },
+    {
+     "en": "The train is fast transport.",
+     "zh": "火车是一种快速的交通工具。",
+     "audio": "media/sent/7ddd0e800be8.mp3"
+    },
+    {
+     "en": "There is no transport here late at night.",
+     "zh": "深夜这里没有交通工具。",
+     "audio": "media/sent/1a055c33e9bd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/transport.webp",
+    "uk": "media/uk/transport.mp3",
+    "us": "media/us/transport.mp3"
+   },
+   "avoid": [
+    "crossing"
+   ]
+  },
+  {
+   "id": "directions",
+   "word": "directions",
+   "zh": "方向；路线指引",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "方向；路线指引"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "di",
+    "rec",
+    "tions"
+   ],
+   "emoji": "🧭",
+   "sentence": {
+    "en": "Can you give me directions?",
+    "zh": "你能给我指路吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can you give me directions?",
+     "zh": "你能给我指路吗？",
+     "audio": "media/sent/d9d3b1105a1e.mp3"
+    },
+    {
+     "en": "I need directions to the park.",
+     "zh": "我需要去公园的路线指引。",
+     "audio": "media/sent/d8345b7acb8b.mp3"
+    },
+    {
+     "en": "Follow these directions carefully.",
+     "zh": "仔细跟着这些指引走。",
+     "audio": "media/sent/af7d4d94f46f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/directions.webp"
+   },
+   "avoid": [
+    "guidebook"
+   ]
+  },
+  {
+   "id": "guidebook",
+   "word": "guidebook",
+   "zh": "指南；旅游手册",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "指南；旅游手册"
+    }
+   ],
+   "ipa": "/ˈɡaɪdbʊk/",
+   "chunks": [
+    "guide",
+    "book"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Mum reads a guidebook.",
+    "zh": "妈妈在读一本旅游指南。"
+   },
+   "sentences": [
+    {
+     "en": "Mum reads a guidebook.",
+     "zh": "妈妈在读一本旅游指南。",
+     "audio": "media/sent/d670bed56e2c.mp3"
+    },
+    {
+     "en": "This guidebook has good photos.",
+     "zh": "这本指南有很多好看的照片。",
+     "audio": "media/sent/76246863ac3e.mp3"
+    },
+    {
+     "en": "We found the hotel in the guidebook.",
+     "zh": "我们在指南里找到了那家酒店。",
+     "audio": "media/sent/21b1f1d1e3e8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/guidebook.webp",
+    "uk": "media/uk/guidebook.mp3",
+    "us": "media/us/guidebook.mp3"
+   },
+   "avoid": [
+    "directions"
+   ]
+  },
+  {
+   "id": "mile",
+   "word": "mile",
+   "zh": "英里",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "英里"
+    }
+   ],
+   "ipa": "/maɪl/",
+   "chunks": [
+    "mile"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Dad runs one mile every day.",
+    "zh": "爸爸每天跑一英里。"
+   },
+   "sentences": [
+    {
+     "en": "Dad runs one mile every day.",
+     "zh": "爸爸每天跑一英里。",
+     "audio": "media/sent/953fd47f85e2.mp3"
+    },
+    {
+     "en": "The shop is half a mile away.",
+     "zh": "商店在半英里外。",
+     "audio": "media/sent/b313c33eeb19.mp3"
+    },
+    {
+     "en": "We walked two miles to the lake.",
+     "zh": "我们走了两英里到湖边。",
+     "audio": "media/sent/dfa775e34ad4.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/mile.mp3",
+    "us": "media/us/mile.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "view",
+   "word": "view",
+   "zh": "景色；视野",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "景色；视野"
+    }
+   ],
+   "ipa": "/vjuː/",
+   "chunks": [
+    "view"
+   ],
+   "emoji": "🏞️",
+   "sentence": {
+    "en": "The view from the hill is great.",
+    "zh": "从山上看到的景色很棒。"
+   },
+   "sentences": [
+    {
+     "en": "The view from the hill is great.",
+     "zh": "从山上看到的景色很棒。",
+     "audio": "media/sent/075223f6efc6.mp3"
+    },
+    {
+     "en": "I like the view from my window.",
+     "zh": "我喜欢我窗外的景色。",
+     "audio": "media/sent/fe514458cbb5.mp3"
+    },
+    {
+     "en": "The sea view is very blue.",
+     "zh": "海景非常蓝。",
+     "audio": "media/sent/2b7f1a93f1e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/view.webp",
+    "uk": "media/uk/view.mp3",
+    "us": "media/us/view.mp3"
+   },
+   "avoid": [
+    "ground",
+    "place"
+   ]
+  },
+  {
+   "id": "place",
+   "word": "place",
+   "zh": "地方；地点",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地方；地点"
+    }
+   ],
+   "ipa": "/pleɪs/",
+   "chunks": [
+    "place"
+   ],
+   "emoji": "📍",
+   "sentence": {
+    "en": "This is a nice place for a picnic.",
+    "zh": "这是一个适合野餐的好地方。"
+   },
+   "sentences": [
+    {
+     "en": "This is a nice place for a picnic.",
+     "zh": "这是一个适合野餐的好地方。",
+     "audio": "media/sent/5ed0fbbbcb0d.mp3"
+    },
+    {
+     "en": "Let's go to my favourite place.",
+     "zh": "我们去我最喜欢的地方吧。",
+     "audio": "media/sent/c7dc64ab7e76.mp3"
+    },
+    {
+     "en": "Is this the right place for the bus?",
+     "zh": "这是坐公交车的正确地点吗？",
+     "audio": "media/sent/9e086cbdf967.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/place.webp",
+    "uk": "media/uk/place.mp3",
+    "us": "media/us/place.mp3"
+   },
+   "avoid": [
+    "ground",
+    "site",
+    "view"
+   ]
+  },
+  {
+   "id": "ground",
+   "word": "ground",
+   "zh": "地面；操场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地面；操场"
+    }
+   ],
+   "ipa": "/ɡraʊnd/",
+   "chunks": [
+    "ground"
+   ],
+   "emoji": "🌱",
+   "sentence": {
+    "en": "The ball is on the ground.",
+    "zh": "球在地上。"
+   },
+   "sentences": [
+    {
+     "en": "The ball is on the ground.",
+     "zh": "球在地上。",
+     "audio": "media/sent/2156767707bf.mp3"
+    },
+    {
+     "en": "Don't sit on the cold ground.",
+     "zh": "不要坐在冰冷的地面上。",
+     "audio": "media/sent/53c0b29f8d4b.mp3"
+    },
+    {
+     "en": "We play games on the school ground.",
+     "zh": "我们在学校操场上玩游戏。",
+     "audio": "media/sent/d0afaa84f136.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ground.webp",
+    "uk": "media/uk/ground.mp3",
+    "us": "media/us/ground.mp3"
+   },
+   "avoid": [
+    "place",
+    "view"
+   ]
+  },
+  {
+   "id": "department",
+   "word": "department",
+   "zh": "部门；专柜",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "部门；专柜"
+    }
+   ],
+   "ipa": "/dɪˈpɑːtmənt/",
+   "chunks": [
+    "de",
+    "part",
+    "ment"
+   ],
+   "emoji": "🏢",
+   "sentence": {
+    "en": "Dad works in the sales department.",
+    "zh": "爸爸在销售部工作。"
+   },
+   "sentences": [
+    {
+     "en": "Dad works in the sales department.",
+     "zh": "爸爸在销售部工作。",
+     "audio": "media/sent/16ee4f28b81a.mp3"
+    },
+    {
+     "en": "The toy department is downstairs.",
+     "zh": "玩具专柜在楼下。",
+     "audio": "media/sent/e11feaeed334.mp3"
+    },
+    {
+     "en": "Which department are you in?",
+     "zh": "你在哪个部门？",
+     "audio": "media/sent/55c227e753b0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/department.webp",
+    "uk": "media/uk/department.mp3",
+    "us": "media/us/department.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "discount",
+   "word": "discount",
+   "zh": "折扣；优惠",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "折扣；优惠"
+    }
+   ],
+   "ipa": "/ˈdɪskaʊnt/",
+   "chunks": [
+    "dis",
+    "count"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "Mum gets a discount at the shop.",
+    "zh": "妈妈在商店得到了折扣。"
+   },
+   "sentences": [
+    {
+     "en": "Mum gets a discount at the shop.",
+     "zh": "妈妈在商店得到了折扣。",
+     "audio": "media/sent/6b34e2feb55a.mp3"
+    },
+    {
+     "en": "Students get a small discount.",
+     "zh": "学生可以享受一点折扣。",
+     "audio": "media/sent/42b05fbf8045.mp3"
+    },
+    {
+     "en": "Is there a discount on this book?",
+     "zh": "这本书有折扣吗？",
+     "audio": "media/sent/099afa78fe9d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/discount.mp3",
+    "us": "media/us/discount.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "sale",
+   "word": "sale",
+   "zh": "出售；减价活动",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "出售；减价活动"
+    }
+   ],
+   "ipa": "/seɪl/",
+   "chunks": [
+    "sale"
+   ],
+   "emoji": "💰",
+   "sentence": {
+    "en": "There is a big sale in the town.",
+    "zh": "镇上正在举行大减价。"
+   },
+   "sentences": [
+    {
+     "en": "There is a big sale in the town.",
+     "zh": "镇上正在举行大减价。",
+     "audio": "media/sent/105db1e812fe.mp3"
+    },
+    {
+     "en": "The shoes are on sale today.",
+     "zh": "这些鞋子今天减价出售。",
+     "audio": "media/sent/dd98a1f34421.mp3"
+    },
+    {
+     "en": "We like shopping during the sale.",
+     "zh": "我们喜欢在减价活动期间购物。",
+     "audio": "media/sent/fdb4e5065ce5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sale.webp",
+    "uk": "media/uk/sale.mp3",
+    "us": "media/us/sale.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

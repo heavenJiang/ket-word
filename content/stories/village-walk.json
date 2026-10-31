@@ -1,0 +1,45 @@
+{
+ "id": "village-walk",
+ "topic": "countryside",
+ "title": "A Walk to the Village",
+ "zh": "走路去村子",
+ "pages": [
+  {
+   "en": "Grandpa lives near a small village in the hills. One morning, he takes Lily, Tom and Max for a walk along the path by the river.",
+   "zh": "爷爷住在山里一个小村子附近。一天早上，他带 Lily、Tom 和 Max 沿着河边的小路去散步。",
+   "scene": "A green valley in the morning, Grandpa walking with Lily and Tom on a path beside a river, Max running ahead, hills behind them."
+  },
+  {
+   "en": "They walk through a field of cows and into a wood. Tom sees a rabbit, and Max wants to catch it. \"No, Max!\" says Lily.",
+   "zh": "他们穿过一片有奶牛的田野，走进一片树林。Tom 看见了一只兔子，Max 想去抓它。“不行，Max！”Lily 说。",
+   "scene": "A sunny wood, Tom pointing at a rabbit under a tree, Lily holding Max back gently on his lead, Grandpa smiling, a field of cows behind them."
+  },
+  {
+   "en": "At last they get to the village. They have lunch at a little cafe and look at the lake. \"I love the countryside,\" says Lily.",
+   "zh": "终于，他们到了村子。他们在一家小咖啡馆吃午饭，看着湖水。“我爱乡村，”Lily 说。",
+   "scene": "A small village cafe beside a lake, Grandpa, Lily and Tom eating lunch at an outside table, Max lying under the table, hills and blue sky."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Grandpa lives in a big city.",
+   "zh": "爷爷住在大城市里。",
+   "answer": false
+  },
+  {
+   "q": "What does Tom see in the wood?",
+   "zh": "Tom 在树林里看到了什么？",
+   "options": [
+    "a rabbit",
+    "a horse",
+    "a cat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "They have lunch at a cafe.",
+   "zh": "他们在一家咖啡馆吃午饭。",
+   "answer": true
+  }
+ ]
+}

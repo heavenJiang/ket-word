@@ -1,0 +1,45 @@
+{
+ "id": "hotel-lift",
+ "topic": "buildings",
+ "title": "The Hotel Lift",
+ "zh": "酒店的电梯",
+ "pages": [
+  {
+   "en": "On holiday, the family stays in a big hotel. Their room is on the tenth floor. \"Let's take the lift,\" says Mum.",
+   "zh": "度假时，一家人住在一家大酒店里。他们的房间在十楼。“我们坐电梯吧，”妈妈说。",
+   "scene": "A big hotel lobby, the family with suitcases waiting at the lift, the doors opening, a receptionist smiling behind the desk."
+  },
+  {
+   "en": "Tom loves the lift. He wants to go up and down all day! The lift stops on every floor. \"Tom!\" says Lily, and everyone laughs.",
+   "zh": "Tom 很喜欢电梯。他想一整天坐着电梯上上下下！电梯每层都停。“Tom！”Lily 说，大家都笑了。",
+   "scene": "Inside a hotel lift, Tom reaching up to press many buttons, Lily laughing with her hand on her head, Mum and Dad smiling (no numbers on the buttons)."
+  },
+  {
+   "en": "At last they get to their room. From the window, they can see the sea, a castle and the old town. \"What a great building!\" says Dad.",
+   "zh": "终于到房间了。从窗户望出去，能看到大海、一座城堡和老城区。“这栋楼真棒！”爸爸说。",
+   "scene": "A hotel room window with a wonderful view of the blue sea, an old castle on a hill and the roofs of an old town, the family looking out."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The room is on the tenth floor.",
+   "zh": "房间在十楼。",
+   "answer": true
+  },
+  {
+   "q": "What does Tom want to do in the lift?",
+   "zh": "Tom 想在电梯里做什么？",
+   "options": [
+    "go up and down all day",
+    "sleep",
+    "read"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "They can see a castle from the window.",
+   "zh": "从窗户能看到一座城堡。",
+   "answer": true
+  }
+ ]
+}

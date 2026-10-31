@@ -1,0 +1,1968 @@
+{
+ "id": "shopping",
+ "words": [
+  {
+   "id": "shop",
+   "word": "shop",
+   "zh": "商店；购物",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "商店；购物"
+    }
+   ],
+   "ipa": "/ʃɒp/",
+   "chunks": [
+    "shop"
+   ],
+   "emoji": "🛍️",
+   "sentence": {
+    "en": "We go to the shop for milk.",
+    "zh": "我们去商店买牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the shop for milk.",
+     "zh": "我们去商店买牛奶。",
+     "audio": "media/sent/5e630340c00d.mp3"
+    },
+    {
+     "en": "I like to shop for clothes.",
+     "zh": "我喜欢买衣服。",
+     "audio": "media/sent/24d11a20b9bc.mp3"
+    },
+    {
+     "en": "The new shop is near our house.",
+     "zh": "新商店在我们家附近。",
+     "audio": "media/sent/65558abd0e42.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shop.webp",
+    "uk": "media/uk/shop.mp3",
+    "us": "media/us/shop.mp3"
+   },
+   "avoid": [
+    "bookshop",
+    "department-store",
+    "store",
+    "supermarket"
+   ]
+  },
+  {
+   "id": "shopping",
+   "word": "shopping",
+   "zh": "购物；买的东西",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "购物；买的东西"
+    }
+   ],
+   "ipa": "/ˈʃɒpɪŋ/",
+   "chunks": [
+    "shop",
+    "ping"
+   ],
+   "emoji": "🛒",
+   "sentence": {
+    "en": "We do the shopping on Saturdays.",
+    "zh": "我们星期六去购物。"
+   },
+   "sentences": [
+    {
+     "en": "We do the shopping on Saturdays.",
+     "zh": "我们星期六去购物。",
+     "audio": "media/sent/d4a454b8dacd.mp3"
+    },
+    {
+     "en": "The shopping is heavy!",
+     "zh": "买的东西很重！",
+     "audio": "media/sent/8685223931d8.mp3"
+    },
+    {
+     "en": "I help Mum with the shopping.",
+     "zh": "我帮妈妈购物。",
+     "audio": "media/sent/357a84bfe02f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shopping.webp",
+    "uk": "media/uk/shopping.mp3",
+    "us": "media/us/shopping.mp3"
+   },
+   "avoid": [
+    "go-shopping",
+    "shopper"
+   ]
+  },
+  {
+   "id": "go-shopping",
+   "word": "go shopping",
+   "zh": "去购物",
+   "pos": [],
+   "senses": [
+    {
+     "pos": [],
+     "zh": "去购物"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "go",
+    "shop",
+    "ping"
+   ],
+   "emoji": "🛒",
+   "sentence": {
+    "en": "Let's go shopping after school.",
+    "zh": "放学后我们去购物吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's go shopping after school.",
+     "zh": "放学后我们去购物吧。",
+     "audio": "media/sent/07bb99f89510.mp3"
+    },
+    {
+     "en": "We go shopping for fruit.",
+     "zh": "我们去买水果。",
+     "audio": "media/sent/eee231c8b6d2.mp3"
+    },
+    {
+     "en": "Dad likes to go shopping.",
+     "zh": "爸爸喜欢去购物。",
+     "audio": "media/sent/492c6b99a529.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/go-shopping.webp"
+   },
+   "avoid": [
+    "shopper",
+    "shopping"
+   ]
+  },
+  {
+   "id": "supermarket",
+   "word": "supermarket",
+   "zh": "超市",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "超市"
+    }
+   ],
+   "ipa": "/ˈsuːpəmɑːkɪt/",
+   "chunks": [
+    "su",
+    "per",
+    "mar",
+    "ket"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "The supermarket is big.",
+    "zh": "超市很大。"
+   },
+   "sentences": [
+    {
+     "en": "The supermarket is big.",
+     "zh": "超市很大。",
+     "audio": "media/sent/9958768e42ba.mp3"
+    },
+    {
+     "en": "We buy food at the supermarket.",
+     "zh": "我们在超市买食物。",
+     "audio": "media/sent/1039f87a62c6.mp3"
+    },
+    {
+     "en": "There are many people in the supermarket.",
+     "zh": "超市里有很多人。",
+     "audio": "media/sent/b79f578bb610.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/supermarket.webp",
+    "uk": "media/uk/supermarket.mp3",
+    "us": "media/us/supermarket.mp3"
+   },
+   "avoid": [
+    "department-store",
+    "shop",
+    "store"
+   ]
+  },
+  {
+   "id": "department-store",
+   "word": "department store",
+   "zh": "百货商店",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "百货商店"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "de",
+    "part",
+    "ment",
+    "store"
+   ],
+   "emoji": "🏬",
+   "sentence": {
+    "en": "We visit the department store.",
+    "zh": "我们参观百货商店。"
+   },
+   "sentences": [
+    {
+     "en": "We visit the department store.",
+     "zh": "我们参观百货商店。",
+     "audio": "media/sent/569a1c2081e0.mp3"
+    },
+    {
+     "en": "The department store has toys.",
+     "zh": "百货商店有玩具。",
+     "audio": "media/sent/4342a85b0d79.mp3"
+    },
+    {
+     "en": "Sam's aunt works in a department store.",
+     "zh": "Sam 的阿姨在百货商店工作。",
+     "audio": "media/sent/bd2685fbfbac.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/department-store.webp"
+   },
+   "avoid": [
+    "shop",
+    "store",
+    "supermarket"
+   ]
+  },
+  {
+   "id": "store",
+   "word": "store",
+   "zh": "商店（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "商店（美式）"
+    }
+   ],
+   "ipa": "/stɔː/",
+   "chunks": [
+    "store"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "I go to the corner store.",
+    "zh": "我去街角商店。"
+   },
+   "sentences": [
+    {
+     "en": "I go to the corner store.",
+     "zh": "我去街角商店。",
+     "audio": "media/sent/48c9bdda23a8.mp3"
+    },
+    {
+     "en": "The store sells newspapers.",
+     "zh": "这家商店卖报纸。",
+     "audio": "media/sent/269090b15d2e.mp3"
+    },
+    {
+     "en": "Sam runs to the store.",
+     "zh": "Sam 跑去商店。",
+     "audio": "media/sent/1476fc92851b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/store.webp",
+    "uk": "media/uk/store.mp3",
+    "us": "media/us/store.mp3"
+   },
+   "avoid": [
+    "bookshop",
+    "department-store",
+    "shop",
+    "supermarket"
+   ]
+  },
+  {
+   "id": "bookshop",
+   "word": "bookshop",
+   "zh": "书店",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书店"
+    }
+   ],
+   "ipa": "/ˈbʊkʃɒp/",
+   "chunks": [
+    "book",
+    "shop"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily loves the bookshop.",
+    "zh": "Lily 喜欢这家书店。"
+   },
+   "sentences": [
+    {
+     "en": "Lily loves the bookshop.",
+     "zh": "Lily 喜欢这家书店。",
+     "audio": "media/sent/0f999a1e2bd9.mp3"
+    },
+    {
+     "en": "We read books in the bookshop.",
+     "zh": "我们在书店看书。",
+     "audio": "media/sent/0dba56182f6b.mp3"
+    },
+    {
+     "en": "The bookshop is quiet.",
+     "zh": "书店很安静。",
+     "audio": "media/sent/ff57a228c74b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bookshop.webp",
+    "uk": "media/uk/bookshop.mp3",
+    "us": "media/us/bookshop.mp3"
+   },
+   "avoid": [
+    "shop",
+    "store"
+   ]
+  },
+  {
+   "id": "shop-assistant",
+   "word": "shop assistant",
+   "zh": "店员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "店员"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "shop",
+    "as",
+    "sis",
+    "tant"
+   ],
+   "emoji": "👕",
+   "sentence": {
+    "en": "The shop assistant helps me.",
+    "zh": "店员帮助我。"
+   },
+   "sentences": [
+    {
+     "en": "The shop assistant helps me.",
+     "zh": "店员帮助我。",
+     "audio": "media/sent/0b1d777ae79b.mp3"
+    },
+    {
+     "en": "Ask the shop assistant for help.",
+     "zh": "向店员求助。",
+     "audio": "media/sent/901129184fb4.mp3"
+    },
+    {
+     "en": "The shop assistant is nice.",
+     "zh": "店员很友好。",
+     "audio": "media/sent/53a788755168.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shop-assistant.webp"
+   },
+   "avoid": [
+    "assistant",
+    "customer",
+    "shopper"
+   ]
+  },
+  {
+   "id": "assistant",
+   "word": "assistant",
+   "zh": "助手；店员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "助手；店员"
+    }
+   ],
+   "ipa": "/əˈsɪstənt/",
+   "chunks": [
+    "as",
+    "sis",
+    "tant"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "The assistant brings new shoes.",
+    "zh": "助手拿来新鞋。"
+   },
+   "sentences": [
+    {
+     "en": "The assistant brings new shoes.",
+     "zh": "助手拿来新鞋。",
+     "audio": "media/sent/f2056653233f.mp3"
+    },
+    {
+     "en": "My teacher's assistant is kind.",
+     "zh": "我老师的助手很善良。",
+     "audio": "media/sent/f34e05e515f4.mp3"
+    },
+    {
+     "en": "The assistant cleans the table.",
+     "zh": "助手打扫桌子。",
+     "audio": "media/sent/9b437f41402e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/assistant.webp",
+    "uk": "media/uk/assistant.mp3",
+    "us": "media/us/assistant.mp3"
+   },
+   "avoid": [
+    "customer",
+    "shop-assistant",
+    "shopper"
+   ]
+  },
+  {
+   "id": "customer",
+   "word": "customer",
+   "zh": "顾客",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "顾客"
+    }
+   ],
+   "ipa": "/ˈkʌstəmə/",
+   "chunks": [
+    "cus",
+    "to",
+    "mer"
+   ],
+   "emoji": "💳",
+   "sentence": {
+    "en": "The customer pays for coffee.",
+    "zh": "顾客付咖啡钱。"
+   },
+   "sentences": [
+    {
+     "en": "The customer pays for coffee.",
+     "zh": "顾客付咖啡钱。",
+     "audio": "media/sent/bbf4c87c18b0.mp3"
+    },
+    {
+     "en": "A new customer comes in.",
+     "zh": "一位新顾客进来了。",
+     "audio": "media/sent/44ffef2fa9ef.mp3"
+    },
+    {
+     "en": "We are customers at the shop.",
+     "zh": "我们是商店的顾客。",
+     "audio": "media/sent/c863cb02d2c7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/customer.webp",
+    "uk": "media/uk/customer.mp3",
+    "us": "media/us/customer.mp3"
+   },
+   "avoid": [
+    "assistant",
+    "shop-assistant",
+    "shopper"
+   ]
+  },
+  {
+   "id": "shopper",
+   "word": "shopper",
+   "zh": "购物者",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "购物者"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "shop",
+    "per"
+   ],
+   "emoji": "🛍️",
+   "sentence": {
+    "en": "The shopper has red bags.",
+    "zh": "这位购物者拿着红色的袋子。"
+   },
+   "sentences": [
+    {
+     "en": "The shopper has red bags.",
+     "zh": "这位购物者拿着红色的袋子。",
+     "audio": "media/sent/3bb21438e295.mp3"
+    },
+    {
+     "en": "Every shopper needs money.",
+     "zh": "每位购物者都需要钱。",
+     "audio": "media/sent/2d5db3cd6b62.mp3"
+    },
+    {
+     "en": "A happy shopper walks home.",
+     "zh": "一位开心的购物者走回家。",
+     "audio": "media/sent/fabd5d3431f2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/shopper.webp"
+   },
+   "avoid": [
+    "assistant",
+    "customer",
+    "go-shopping",
+    "shop-assistant",
+    "shopping"
+   ]
+  },
+  {
+   "id": "buy",
+   "word": "buy",
+   "zh": "买",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "买"
+    }
+   ],
+   "ipa": "/baɪ/",
+   "chunks": [
+    "buy"
+   ],
+   "emoji": "🛒",
+   "sentence": {
+    "en": "Mum buys bread every day.",
+    "zh": "妈妈每天买面包。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys bread every day.",
+     "zh": "妈妈每天买面包。",
+     "audio": "media/sent/64d9461cd698.mp3"
+    },
+    {
+     "en": "I want to buy a pen.",
+     "zh": "我想买一支笔。",
+     "audio": "media/sent/034607b0cd69.mp3"
+    },
+    {
+     "en": "Dad buys apples for Grandma.",
+     "zh": "爸爸给奶奶买苹果。",
+     "audio": "media/sent/3db57ff3d1b9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/buy.webp",
+    "uk": "media/uk/buy.mp3",
+    "us": "media/us/buy.mp3"
+   },
+   "avoid": [
+    "pay",
+    "rent",
+    "spend",
+    "try-on"
+   ]
+  },
+  {
+   "id": "pay",
+   "word": "pay",
+   "zh": "付钱",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "付钱"
+    }
+   ],
+   "ipa": "/peɪ/",
+   "chunks": [
+    "pay"
+   ],
+   "emoji": "💳",
+   "sentence": {
+    "en": "Dad pays with a card.",
+    "zh": "爸爸刷卡付钱。"
+   },
+   "sentences": [
+    {
+     "en": "Dad pays with a card.",
+     "zh": "爸爸刷卡付钱。",
+     "audio": "media/sent/559056c4b8d5.mp3"
+    },
+    {
+     "en": "Please pay for the juice.",
+     "zh": "请付果汁的钱。",
+     "audio": "media/sent/4aaa6cc59815.mp3"
+    },
+    {
+     "en": "Lily pays for her ice cream.",
+     "zh": "Lily 付冰激凌的钱。",
+     "audio": "media/sent/4e7554159d46.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pay.webp",
+    "uk": "media/uk/pay.mp3",
+    "us": "media/us/pay.mp3"
+   },
+   "avoid": [
+    "buy",
+    "rent",
+    "spend"
+   ]
+  },
+  {
+   "id": "spend",
+   "word": "spend",
+   "zh": "花（钱、时间）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "花（钱、时间）"
+    }
+   ],
+   "ipa": "/spend/",
+   "chunks": [
+    "spend"
+   ],
+   "emoji": "💰",
+   "sentence": {
+    "en": "Lily spends her money on books.",
+    "zh": "Lily 把钱花在书上。"
+   },
+   "sentences": [
+    {
+     "en": "Lily spends her money on books.",
+     "zh": "Lily 把钱花在书上。",
+     "audio": "media/sent/23ebd5250753.mp3"
+    },
+    {
+     "en": "We spend time in the park.",
+     "zh": "我们在公园花时间。",
+     "audio": "media/sent/977ff4d37c33.mp3"
+    },
+    {
+     "en": "Don't spend all your money!",
+     "zh": "别把所有钱都花掉！",
+     "audio": "media/sent/7df156538fb7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spend.webp",
+    "uk": "media/uk/spend.mp3",
+    "us": "media/us/spend.mp3"
+   },
+   "avoid": [
+    "buy",
+    "pay",
+    "rent"
+   ]
+  },
+  {
+   "id": "cost",
+   "word": "cost",
+   "zh": "价钱为；费用",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "价钱为；费用"
+    }
+   ],
+   "ipa": "/kɒst/",
+   "chunks": [
+    "cost"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "How much does it cost?",
+    "zh": "它多少钱？"
+   },
+   "sentences": [
+    {
+     "en": "How much does it cost?",
+     "zh": "它多少钱？",
+     "audio": "media/sent/0709db4ea013.mp3"
+    },
+    {
+     "en": "The book costs five pounds.",
+     "zh": "这本书五英镑。",
+     "audio": "media/sent/3b4b386e8814.mp3"
+    },
+    {
+     "en": "The ticket is not expensive; it doesn't cost much.",
+     "zh": "票不贵，花费不多。",
+     "audio": "media/sent/2166f9d94a3a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cost.webp",
+    "uk": "media/uk/cost.mp3",
+    "us": "media/us/cost.mp3"
+   },
+   "avoid": [
+    "bill",
+    "price",
+    "receipt"
+   ]
+  },
+  {
+   "id": "price",
+   "word": "price",
+   "zh": "价格",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "价格"
+    }
+   ],
+   "ipa": "/praɪs/",
+   "chunks": [
+    "price"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "The price is too high.",
+    "zh": "价格太高了。"
+   },
+   "sentences": [
+    {
+     "en": "The price is too high.",
+     "zh": "价格太高了。",
+     "audio": "media/sent/ddd33fac83b3.mp3"
+    },
+    {
+     "en": "Look at the price.",
+     "zh": "看这个价格。",
+     "audio": "media/sent/de216390d776.mp3"
+    },
+    {
+     "en": "What is the price of the apple?",
+     "zh": "苹果的价格是多少？",
+     "audio": "media/sent/893c910a159e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/price.webp",
+    "uk": "media/uk/price.mp3",
+    "us": "media/us/price.mp3"
+   },
+   "avoid": [
+    "bill",
+    "cost",
+    "receipt"
+   ]
+  },
+  {
+   "id": "cheap",
+   "word": "cheap",
+   "zh": "便宜的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "便宜的"
+    }
+   ],
+   "ipa": "/tʃiːp/",
+   "chunks": [
+    "cheap"
+   ],
+   "emoji": "💸",
+   "sentence": {
+    "en": "This hat is very cheap.",
+    "zh": "这顶帽子很便宜。"
+   },
+   "sentences": [
+    {
+     "en": "This hat is very cheap.",
+     "zh": "这顶帽子很便宜。",
+     "audio": "media/sent/0d003c13fc5a.mp3"
+    },
+    {
+     "en": "The bread is cheap today.",
+     "zh": "今天面包很便宜。",
+     "audio": "media/sent/bd071d31cd80.mp3"
+    },
+    {
+     "en": "I found a cheap pen.",
+     "zh": "我找到一支便宜的笔。",
+     "audio": "media/sent/725087a2ce1e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cheap.webp",
+    "uk": "media/uk/cheap.mp3",
+    "us": "media/us/cheap.mp3"
+   },
+   "avoid": [
+    "expensive",
+    "for-sale"
+   ]
+  },
+  {
+   "id": "expensive",
+   "word": "expensive",
+   "zh": "昂贵的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "昂贵的"
+    }
+   ],
+   "ipa": "/ɪkˈspensɪv/",
+   "chunks": [
+    "ex",
+    "pen",
+    "sive"
+   ],
+   "emoji": "💎",
+   "sentence": {
+    "en": "The watch is expensive.",
+    "zh": "这块手表很贵。"
+   },
+   "sentences": [
+    {
+     "en": "The watch is expensive.",
+     "zh": "这块手表很贵。",
+     "audio": "media/sent/84dee1f73102.mp3"
+    },
+    {
+     "en": "That coat is too expensive.",
+     "zh": "那件外套太贵了。",
+     "audio": "media/sent/62ed19258ef8.mp3"
+    },
+    {
+     "en": "Gold rings are expensive.",
+     "zh": "金戒指很贵。",
+     "audio": "media/sent/2d461740bbf4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/expensive.webp",
+    "uk": "media/uk/expensive.mp3",
+    "us": "media/us/expensive.mp3"
+   },
+   "avoid": [
+    "cheap",
+    "for-sale"
+   ]
+  },
+  {
+   "id": "try-on",
+   "word": "try on",
+   "zh": "试穿",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "试穿"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "try",
+    "on"
+   ],
+   "emoji": "👗",
+   "sentence": {
+    "en": "Can I try on these shoes?",
+    "zh": "我可以试穿这双鞋吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I try on these shoes?",
+     "zh": "我可以试穿这双鞋吗？",
+     "audio": "media/sent/5aef55e3e0f7.mp3"
+    },
+    {
+     "en": "Try on this jacket. It's nice.",
+     "zh": "试穿一下这件夹克，挺好看的。",
+     "audio": "media/sent/0773c0e98e9b.mp3"
+    },
+    {
+     "en": "Mum tries on a new dress.",
+     "zh": "妈妈试穿一条新裙子。",
+     "audio": "media/sent/a316de1fe957.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/try-on.webp"
+   },
+   "avoid": [
+    "buy"
+   ]
+  },
+  {
+   "id": "for-sale",
+   "word": "for sale",
+   "zh": "待售；出售",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "待售；出售"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "for",
+    "sale"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "That house is for sale.",
+    "zh": "那栋房子在出售。"
+   },
+   "sentences": [
+    {
+     "en": "That house is for sale.",
+     "zh": "那栋房子在出售。",
+     "audio": "media/sent/1c3624384d2f.mp3"
+    },
+    {
+     "en": "The old bike is for sale.",
+     "zh": "这辆旧自行车在出售。",
+     "audio": "media/sent/a591834f8539.mp3"
+    },
+    {
+     "en": "Is this toy car for sale?",
+     "zh": "这个玩具车在出售吗？",
+     "audio": "media/sent/fe58b4c64e7e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/for-sale.webp"
+   },
+   "avoid": [
+    "cheap",
+    "expensive"
+   ]
+  },
+  {
+   "id": "cash",
+   "word": "cash",
+   "zh": "现金；兑现",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "现金"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "兑现"
+    }
+   ],
+   "ipa": "/kæʃ/",
+   "chunks": [
+    "cash"
+   ],
+   "emoji": "💵",
+   "sentence": {
+    "en": "Grandma pays for the strawberries in cash.",
+    "zh": "奶奶用现金买草莓。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma pays for the strawberries in cash.",
+     "zh": "奶奶用现金买草莓。",
+     "audio": "media/sent/9832165000ce.mp3"
+    },
+    {
+     "en": "I only have cash in my pocket.",
+     "zh": "我口袋里只有现金。",
+     "audio": "media/sent/a01a7a254528.mp3"
+    },
+    {
+     "en": "Dad went to the bank to cash a cheque.",
+     "zh": "爸爸去银行兑现了一张支票。",
+     "audio": "media/sent/682fdcfdec35.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cash.webp",
+    "uk": "media/uk/cash.mp3",
+    "us": "media/us/cash.mp3"
+   },
+   "avoid": [
+    "change",
+    "cheque",
+    "credit-card",
+    "receipt"
+   ]
+  },
+  {
+   "id": "credit-card",
+   "word": "credit card",
+   "zh": "信用卡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "信用卡"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "cred",
+    "it",
+    "card"
+   ],
+   "emoji": "💳",
+   "sentence": {
+    "en": "Mum pays with a credit card.",
+    "zh": "妈妈用信用卡付款。"
+   },
+   "sentences": [
+    {
+     "en": "Mum pays with a credit card.",
+     "zh": "妈妈用信用卡付款。",
+     "audio": "media/sent/66a841e0469a.mp3"
+    },
+    {
+     "en": "Do you have a credit card?",
+     "zh": "你有信用卡吗？",
+     "audio": "media/sent/64b3b3a0dafc.mp3"
+    },
+    {
+     "en": "Dad lost his credit card yesterday.",
+     "zh": "爸爸昨天弄丢了信用卡。",
+     "audio": "media/sent/cecba7c6d9eb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/credit-card.webp"
+   },
+   "avoid": [
+    "cash",
+    "cheque"
+   ]
+  },
+  {
+   "id": "cheque",
+   "word": "cheque",
+   "zh": "支票",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "支票"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "cheque"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Grandpa writes a cheque for the rent.",
+    "zh": "爷爷写了一张支票付房租。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa writes a cheque for the rent.",
+     "zh": "爷爷写了一张支票付房租。",
+     "audio": "media/sent/8f6f05f358f8.mp3"
+    },
+    {
+     "en": "Can you pay by cheque?",
+     "zh": "你能用支票支付吗？",
+     "audio": "media/sent/1cf09412c8bd.mp3"
+    },
+    {
+     "en": "The bank gave Dad a new cheque book.",
+     "zh": "银行给了爸爸一本新的支票簿。",
+     "audio": "media/sent/7d89dc5d56b2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cheque.webp"
+   },
+   "avoid": [
+    "cash",
+    "credit-card"
+   ]
+  },
+  {
+   "id": "bill",
+   "word": "bill",
+   "zh": "账单",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "账单"
+    }
+   ],
+   "ipa": "/bɪl/",
+   "chunks": [
+    "bill"
+   ],
+   "emoji": "🧾",
+   "sentence": {
+    "en": "The waiter brings Dad the bill.",
+    "zh": "服务员给爸爸送来了账单。"
+   },
+   "sentences": [
+    {
+     "en": "The waiter brings Dad the bill.",
+     "zh": "服务员给爸爸送来了账单。",
+     "audio": "media/sent/0f550d89b4db.mp3"
+    },
+    {
+     "en": "Can I have the bill, please?",
+     "zh": "请给我账单好吗？",
+     "audio": "media/sent/33118206feac.mp3"
+    },
+    {
+     "en": "The electricity bill is high this month.",
+     "zh": "这个月的电费账单很高。",
+     "audio": "media/sent/0e4c19f7c3e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bill.webp",
+    "uk": "media/uk/bill.mp3",
+    "us": "media/us/bill.mp3"
+   },
+   "avoid": [
+    "cost",
+    "price",
+    "receipt"
+   ]
+  },
+  {
+   "id": "receipt",
+   "word": "receipt",
+   "zh": "收据",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "收据"
+    }
+   ],
+   "ipa": "/rɪˈsiːt/",
+   "chunks": [
+    "re",
+    "ceipt"
+   ],
+   "emoji": "🧾",
+   "sentence": {
+    "en": "Lily gets a receipt from the shop.",
+    "zh": "Lily 从商店拿到了一张收据。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gets a receipt from the shop.",
+     "zh": "Lily 从商店拿到了一张收据。",
+     "audio": "media/sent/c36078243603.mp3"
+    },
+    {
+     "en": "Keep the receipt, Tom.",
+     "zh": "Tom，留着这张收据。",
+     "audio": "media/sent/72f18af9765a.mp3"
+    },
+    {
+     "en": "Mum puts the receipt in her bag.",
+     "zh": "妈妈把收据放进了包里。",
+     "audio": "media/sent/5dbfcdba27b9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/receipt.webp",
+    "uk": "media/uk/receipt.mp3",
+    "us": "media/us/receipt.mp3"
+   },
+   "avoid": [
+    "bill",
+    "cash",
+    "change",
+    "cost",
+    "price"
+   ]
+  },
+  {
+   "id": "change",
+   "word": "change",
+   "zh": "零钱；变化",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "零钱；变化"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "改变；换"
+    }
+   ],
+   "ipa": "/tʃeɪndʒ/",
+   "chunks": [
+    "change"
+   ],
+   "emoji": "🪙",
+   "sentence": {
+    "en": "The shop assistant gives Lily her change.",
+    "zh": "店员把找零给了 Lily。"
+   },
+   "sentences": [
+    {
+     "en": "The shop assistant gives Lily her change.",
+     "zh": "店员把找零给了 Lily。",
+     "audio": "media/sent/aafb54a11120.mp3"
+    },
+    {
+     "en": "Can you change this note, please?",
+     "zh": "请能把这张纸币换开吗？",
+     "audio": "media/sent/744f6223d93a.mp3"
+    },
+    {
+     "en": "There is a big change in the weather today.",
+     "zh": "今天天气变化很大。",
+     "audio": "media/sent/387135c8e5ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/change.webp",
+    "uk": "media/uk/change.mp3",
+    "us": "media/us/change.mp3"
+   },
+   "avoid": [
+    "cash",
+    "receipt"
+   ]
+  },
+  {
+   "id": "cent",
+   "word": "cent",
+   "zh": "分（货币单位）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "分（货币单位）"
+    }
+   ],
+   "ipa": "/sent/",
+   "chunks": [
+    "cent"
+   ],
+   "emoji": "🪙",
+   "sentence": {
+    "en": "The sweet costs fifty cents.",
+    "zh": "这颗糖要五十美分。"
+   },
+   "sentences": [
+    {
+     "en": "The sweet costs fifty cents.",
+     "zh": "这颗糖要五十美分。",
+     "audio": "media/sent/7e79516c7d88.mp3"
+    },
+    {
+     "en": "Tom finds a cent on the floor.",
+     "zh": "Tom 在地上捡到一美分。",
+     "audio": "media/sent/eb13014135ce.mp3"
+    },
+    {
+     "en": "One dollar is one hundred cents.",
+     "zh": "一美元是一百美分。",
+     "audio": "media/sent/9d7782241b50.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cent.webp",
+    "uk": "media/uk/cent.mp3",
+    "us": "media/us/cent.mp3"
+   },
+   "avoid": [
+    "dollar",
+    "euro",
+    "penny",
+    "pound"
+   ]
+  },
+  {
+   "id": "penny",
+   "word": "penny",
+   "zh": "便士",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "便士"
+    }
+   ],
+   "ipa": "/ˈpeni/",
+   "chunks": [
+    "pen",
+    "ny"
+   ],
+   "emoji": "🪙",
+   "sentence": {
+    "en": "Tom saves a penny in his bank.",
+    "zh": "Tom 把一便士存进他的储蓄罐。"
+   },
+   "sentences": [
+    {
+     "en": "Tom saves a penny in his bank.",
+     "zh": "Tom 把一便士存进他的储蓄罐。",
+     "audio": "media/sent/c6d31a765b89.mp3"
+    },
+    {
+     "en": "Grandma gave me a new penny.",
+     "zh": "奶奶给了我一枚新的一便士硬币。",
+     "audio": "media/sent/a204bb454dd9.mp3"
+    },
+    {
+     "en": "One pound is one hundred pennies.",
+     "zh": "一英镑是一百便士。",
+     "audio": "media/sent/ca59fddb05ac.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/penny.webp",
+    "uk": "media/uk/penny.mp3",
+    "us": "media/us/penny.mp3"
+   },
+   "avoid": [
+    "cent",
+    "dollar",
+    "euro",
+    "pound"
+   ]
+  },
+  {
+   "id": "pound",
+   "word": "pound",
+   "zh": "英镑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "英镑"
+    }
+   ],
+   "ipa": "/paʊnd/",
+   "chunks": [
+    "pound"
+   ],
+   "emoji": "💷",
+   "sentence": {
+    "en": "The book costs ten pounds.",
+    "zh": "这本书要十英镑。"
+   },
+   "sentences": [
+    {
+     "en": "The book costs ten pounds.",
+     "zh": "这本书要十英镑。",
+     "audio": "media/sent/7a24e10b2471.mp3"
+    },
+    {
+     "en": "Dad has some pounds in his wallet.",
+     "zh": "爸爸钱包里有一些英镑。",
+     "audio": "media/sent/3acaf8afb35f.mp3"
+    },
+    {
+     "en": "One pound is one hundred pence.",
+     "zh": "一英镑是一百便士。",
+     "audio": "media/sent/aeb3f12b39d1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pound.webp",
+    "uk": "media/uk/pound.mp3",
+    "us": "media/us/pound.mp3"
+   },
+   "avoid": [
+    "cent",
+    "dollar",
+    "euro",
+    "penny"
+   ]
+  },
+  {
+   "id": "dollar",
+   "word": "dollar",
+   "zh": "美元",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "美元"
+    }
+   ],
+   "ipa": "/ˈdɒlə/",
+   "chunks": [
+    "dol",
+    "lar"
+   ],
+   "emoji": "💵",
+   "sentence": {
+    "en": "Sam pays five dollars for the ice cream.",
+    "zh": "Sam 付了五美元买冰淇淋。"
+   },
+   "sentences": [
+    {
+     "en": "Sam pays five dollars for the ice cream.",
+     "zh": "Sam 付了五美元买冰淇淋。",
+     "audio": "media/sent/d1adb230b174.mp3"
+    },
+    {
+     "en": "Sam has a dollar in his pocket.",
+     "zh": "Sam 口袋里有一美元。",
+     "audio": "media/sent/7bb549ab3e05.mp3"
+    },
+    {
+     "en": "Sam's uncle pays in dollars in America.",
+     "zh": "Sam 的叔叔在美国用美元付钱。",
+     "audio": "media/sent/bb89f413dc24.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dollar.webp",
+    "uk": "media/uk/dollar.mp3",
+    "us": "media/us/dollar.mp3"
+   },
+   "avoid": [
+    "cent",
+    "euro",
+    "penny",
+    "pound"
+   ]
+  },
+  {
+   "id": "euro",
+   "word": "euro",
+   "zh": "欧元",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "欧元"
+    }
+   ],
+   "ipa": "/ˈjʊərəʊ/",
+   "chunks": [
+    "eu",
+    "ro"
+   ],
+   "emoji": "💶",
+   "sentence": {
+    "en": "Mum pays in euros at the market.",
+    "zh": "妈妈在市场用欧元付款。"
+   },
+   "sentences": [
+    {
+     "en": "Mum pays in euros at the market.",
+     "zh": "妈妈在市场用欧元付款。",
+     "audio": "media/sent/b8a06296d99a.mp3"
+    },
+    {
+     "en": "The ticket is twenty euros.",
+     "zh": "这张票二十欧元。",
+     "audio": "media/sent/f3eaeebeb9db.mp3"
+    },
+    {
+     "en": "Tom finds a euro under his chair.",
+     "zh": "Tom 在椅子底下找到一枚欧元。",
+     "audio": "media/sent/fff3b85a564d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/euro.webp",
+    "uk": "media/uk/euro.mp3",
+    "us": "media/us/euro.mp3"
+   },
+   "avoid": [
+    "cent",
+    "dollar",
+    "penny",
+    "pound"
+   ]
+  },
+  {
+   "id": "open",
+   "word": "open",
+   "zh": "开着的；打开",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "开着的；营业的"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "打开"
+    }
+   ],
+   "ipa": "/ˈəʊpən/",
+   "chunks": [
+    "o",
+    "pen"
+   ],
+   "emoji": "🏪",
+   "sentence": {
+    "en": "The shop is open at nine o'clock.",
+    "zh": "商店九点开门。"
+   },
+   "sentences": [
+    {
+     "en": "The shop is open at nine o'clock.",
+     "zh": "商店九点开门。",
+     "audio": "media/sent/be673c006169.mp3"
+    },
+    {
+     "en": "Please open the window, Tom.",
+     "zh": "Tom，请打开窗户。",
+     "audio": "media/sent/ec73df028c1c.mp3"
+    },
+    {
+     "en": "Is the park open on Sunday?",
+     "zh": "公园星期日开门吗？",
+     "audio": "media/sent/3eacf94e62a9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/open.webp",
+    "uk": "media/uk/open.mp3",
+    "us": "media/us/open.mp3"
+   },
+   "avoid": [
+    "close",
+    "closed"
+   ]
+  },
+  {
+   "id": "close",
+   "word": "close",
+   "zh": "关；近的",
+   "pos": [
+    "v",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "关；关闭"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "近的；亲密的"
+    }
+   ],
+   "ipa": "/kləʊz/, /kləʊs/",
+   "chunks": [
+    "close"
+   ],
+   "emoji": "🚪",
+   "sentence": {
+    "en": "The shop closes at five o'clock.",
+    "zh": "商店五点关门。"
+   },
+   "sentences": [
+    {
+     "en": "The shop closes at five o'clock.",
+     "zh": "商店五点关门。",
+     "audio": "media/sent/986011db4dc3.mp3"
+    },
+    {
+     "en": "Close the door, please.",
+     "zh": "请关门。",
+     "audio": "media/sent/6f1abf2e372f.mp3"
+    },
+    {
+     "en": "My school is close to my home.",
+     "zh": "我的学校离我家很近。",
+     "audio": "media/sent/70763f92ea04.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/close.webp",
+    "uk": "media/uk/close.mp3",
+    "us": "media/us/close.mp3"
+   },
+   "avoid": [
+    "closed",
+    "open"
+   ]
+  },
+  {
+   "id": "closed",
+   "word": "closed",
+   "zh": "关门的；关着的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "关门的；关着的"
+    }
+   ],
+   "ipa": "/kləʊzd/",
+   "chunks": [
+    "closed"
+   ],
+   "emoji": "🔒",
+   "sentence": {
+    "en": "The shop is closed today.",
+    "zh": "商店今天关门了。"
+   },
+   "sentences": [
+    {
+     "en": "The shop is closed today.",
+     "zh": "商店今天关门了。",
+     "audio": "media/sent/24855625e5d9.mp3"
+    },
+    {
+     "en": "Sorry, we are closed now.",
+     "zh": "对不起，我们现在不营业了。",
+     "audio": "media/sent/e87c49fc90f4.mp3"
+    },
+    {
+     "en": "The window is closed. It's cold outside.",
+     "zh": "窗户关着。外面很冷。",
+     "audio": "media/sent/c5ca9fc82611.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/closed.webp",
+    "uk": "media/uk/closed.mp3",
+    "us": "media/us/closed.mp3"
+   },
+   "avoid": [
+    "close",
+    "open"
+   ]
+  },
+  {
+   "id": "rent",
+   "word": "rent",
+   "zh": "租用",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "租用"
+    }
+   ],
+   "ipa": "/rent/",
+   "chunks": [
+    "rent"
+   ],
+   "emoji": "🚲",
+   "sentence": {
+    "en": "We rent bikes on holiday.",
+    "zh": "我们在假期租自行车。"
+   },
+   "sentences": [
+    {
+     "en": "We rent bikes on holiday.",
+     "zh": "我们在假期租自行车。",
+     "audio": "media/sent/083c15b28842.mp3"
+    },
+    {
+     "en": "Can I rent this film, please?",
+     "zh": "请问我可以租这部电影吗？",
+     "audio": "media/sent/c756a41d46db.mp3"
+    },
+    {
+     "en": "Grandpa rents a boat for the weekend.",
+     "zh": "爷爷租了一条船过周末。",
+     "audio": "media/sent/f838028d469e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rent.webp",
+    "uk": "media/uk/rent.mp3",
+    "us": "media/us/rent.mp3"
+   },
+   "avoid": [
+    "buy",
+    "pay",
+    "spend"
+   ]
+  },
+  {
+   "id": "ad",
+   "word": "ad",
+   "zh": "广告（advertisement 的简写）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告（advertisement 的简写）"
+    }
+   ],
+   "ipa": "/æd/",
+   "chunks": [
+    "ad"
+   ],
+   "emoji": "📢",
+   "sentence": {
+    "en": "Lily sees a big ad on the bus stop.",
+    "zh": "Lily 在公交车站看到了一个大广告。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sees a big ad on the bus stop.",
+     "zh": "Lily 在公交车站看到了一个大广告。",
+     "audio": "media/sent/c6ad2b398b6e.mp3"
+    },
+    {
+     "en": "This ad is very funny.",
+     "zh": "这个广告很有趣。",
+     "audio": "media/sent/5fed6b9dc703.mp3"
+    },
+    {
+     "en": "Dad read an ad in the newspaper.",
+     "zh": "爸爸在报纸上读了一则广告。",
+     "audio": "media/sent/e177b5b15b68.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ad.webp",
+    "uk": "media/uk/ad.mp3",
+    "us": "media/us/ad.mp3"
+   },
+   "avoid": [
+    "advertisement"
+   ]
+  },
+  {
+   "id": "advertisement",
+   "word": "advertisement",
+   "zh": "广告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告"
+    }
+   ],
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "chunks": [
+    "ad",
+    "ver",
+    "tise",
+    "ment"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Tom watches an advertisement on the television.",
+    "zh": "Tom 在电视上看广告。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches an advertisement on the television.",
+     "zh": "Tom 在电视上看广告。",
+     "audio": "media/sent/10c4eb873cec.mp3"
+    },
+    {
+     "en": "There is a long advertisement before the film.",
+     "zh": "电影前有一个长广告。",
+     "audio": "media/sent/cd2f54b37f78.mp3"
+    },
+    {
+     "en": "Mum saw an advertisement for new shoes.",
+     "zh": "妈妈看到了新鞋子的广告。",
+     "audio": "media/sent/6edc91fda338.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/advertisement.webp",
+    "uk": "media/uk/advertisement.mp3",
+    "us": "media/us/advertisement.mp3"
+   },
+   "avoid": [
+    "ad"
+   ]
+  }
+ ]
+}

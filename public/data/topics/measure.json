@@ -1,0 +1,897 @@
+{
+ "id": "measure",
+ "words": [
+  {
+   "id": "centimetre",
+   "word": "centimetre",
+   "zh": "厘米",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "厘米"
+    }
+   ],
+   "ipa": "/ˈsentɪmiːtə/",
+   "chunks": [
+    "cen",
+    "ti",
+    "me",
+    "tre"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "The ruler is thirty centimetres long.",
+    "zh": "尺子长三十厘米。"
+   },
+   "sentences": [
+    {
+     "en": "The ruler is thirty centimetres long.",
+     "zh": "尺子长三十厘米。",
+     "audio": "media/sent/c959dbe94157.mp3"
+    },
+    {
+     "en": "My pencil is fifteen centimetres long.",
+     "zh": "我的铅笔有十五厘米长。",
+     "audio": "media/sent/716d0400d4e4.mp3"
+    },
+    {
+     "en": "The baby snail is one centimetre long.",
+     "zh": "小蜗牛只有一厘米长。",
+     "audio": "media/sent/f9a94e734cad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/centimetre.webp",
+    "uk": "media/uk/centimetre.mp3",
+    "us": "media/us/centimetre.mp3"
+   },
+   "avoid": [
+    "kilometre",
+    "metre"
+   ]
+  },
+  {
+   "id": "metre",
+   "word": "metre",
+   "zh": "米（长度）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "米（长度）"
+    }
+   ],
+   "ipa": "/ˈmiːtə/",
+   "chunks": [
+    "me",
+    "tre"
+   ],
+   "emoji": "📐",
+   "sentence": {
+    "en": "The wall is two metres high.",
+    "zh": "这堵墙两米高。"
+   },
+   "sentences": [
+    {
+     "en": "The wall is two metres high.",
+     "zh": "这堵墙两米高。",
+     "audio": "media/sent/5c6fdadccfe3.mp3"
+    },
+    {
+     "en": "Max runs one hundred metres very fast.",
+     "zh": "Max 跑一百米跑得很快。",
+     "audio": "media/sent/e4afb6b17925.mp3"
+    },
+    {
+     "en": "The water in the small pool is one metre deep.",
+     "zh": "小泳池的水有一米深。",
+     "audio": "media/sent/f690dba08313.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/metre.webp",
+    "uk": "media/uk/metre.mp3",
+    "us": "media/us/metre.mp3"
+   },
+   "avoid": [
+    "centimetre",
+    "kilometre"
+   ]
+  },
+  {
+   "id": "kilometre",
+   "word": "kilometre",
+   "zh": "千米；公里",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "千米；公里"
+    }
+   ],
+   "ipa": "/ˈkɪləmiːtə/",
+   "chunks": [
+    "ki",
+    "lo",
+    "me",
+    "tre"
+   ],
+   "emoji": "🛣️",
+   "sentence": {
+    "en": "The school is one kilometre away.",
+    "zh": "学校离这儿一公里。"
+   },
+   "sentences": [
+    {
+     "en": "The school is one kilometre away.",
+     "zh": "学校离这儿一公里。",
+     "audio": "media/sent/b10bb17c45d8.mp3"
+    },
+    {
+     "en": "We walk two kilometres in the park.",
+     "zh": "我们在公园走两公里。",
+     "audio": "media/sent/1ef02cebbdb7.mp3"
+    },
+    {
+     "en": "Dad drives ten kilometres to work.",
+     "zh": "爸爸开车十公里去上班。",
+     "audio": "media/sent/027786f267ff.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kilometre.webp",
+    "uk": "media/uk/kilometre.mp3",
+    "us": "media/us/kilometre.mp3"
+   },
+   "avoid": [
+    "centimetre",
+    "metre"
+   ]
+  },
+  {
+   "id": "gram",
+   "word": "gram",
+   "zh": "克",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "克"
+    }
+   ],
+   "ipa": "/ɡræm/",
+   "chunks": [
+    "gram"
+   ],
+   "emoji": "⚖️",
+   "sentence": {
+    "en": "I need one hundred grams of food.",
+    "zh": "我需要一百克食物。"
+   },
+   "sentences": [
+    {
+     "en": "I need one hundred grams of food.",
+     "zh": "我需要一百克食物。",
+     "audio": "media/sent/857d65d423f1.mp3"
+    },
+    {
+     "en": "This egg is fifty grams.",
+     "zh": "这个鸡蛋重五十克。",
+     "audio": "media/sent/8b2c0e5c1523.mp3"
+    },
+    {
+     "en": "A small sweet is about one gram.",
+     "zh": "一颗小糖大约一克重。",
+     "audio": "media/sent/543399e232cc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gram.webp",
+    "uk": "media/uk/gram.mp3",
+    "us": "media/us/gram.mp3"
+   },
+   "avoid": [
+    "kilogramme"
+   ]
+  },
+  {
+   "id": "kilogramme",
+   "word": "kilogramme",
+   "zh": "千克；公斤",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "千克；公斤"
+    }
+   ],
+   "ipa": "/ˈkɪləɡræm/",
+   "chunks": [
+    "ki",
+    "lo",
+    "gram",
+    "me"
+   ],
+   "emoji": "🥔",
+   "sentence": {
+    "en": "Mum buys one kilogramme of potatoes.",
+    "zh": "妈妈买一公斤土豆。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys one kilogramme of potatoes.",
+     "zh": "妈妈买一公斤土豆。",
+     "audio": "media/sent/b3e7d8f165ff.mp3"
+    },
+    {
+     "en": "Sam is thirty kilogrammes.",
+     "zh": "Sam 体重三十公斤。",
+     "audio": "media/sent/23f5a69df813.mp3"
+    },
+    {
+     "en": "This bag of rice is two kilogrammes.",
+     "zh": "这袋米有两公斤。",
+     "audio": "media/sent/8870e369c008.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kilogramme.webp",
+    "uk": "media/uk/kilogramme.mp3",
+    "us": "media/us/kilogramme.mp3"
+   },
+   "avoid": [
+    "gram",
+    "litre"
+   ]
+  },
+  {
+   "id": "litre",
+   "word": "litre",
+   "zh": "升",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "升"
+    }
+   ],
+   "ipa": "/ˈliːtə/",
+   "chunks": [
+    "li",
+    "tre"
+   ],
+   "emoji": "🥛",
+   "sentence": {
+    "en": "Please buy a litre of milk.",
+    "zh": "请买一升牛奶。"
+   },
+   "sentences": [
+    {
+     "en": "Please buy a litre of milk.",
+     "zh": "请买一升牛奶。",
+     "audio": "media/sent/cb5abbb4f627.mp3"
+    },
+    {
+     "en": "Tom drinks half a litre of water.",
+     "zh": "Tom 喝半升水。",
+     "audio": "media/sent/d2fb78753267.mp3"
+    },
+    {
+     "en": "The big bottle holds two litres of juice.",
+     "zh": "大瓶子能装两升果汁。",
+     "audio": "media/sent/c4d5b8fa325e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/litre.webp",
+    "uk": "media/uk/litre.mp3",
+    "us": "media/us/litre.mp3"
+   },
+   "avoid": [
+    "kilogramme"
+   ]
+  },
+  {
+   "id": "degree",
+   "word": "degree",
+   "zh": "度（温度）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "度（温度）"
+    }
+   ],
+   "ipa": "/dɪˈɡriː/",
+   "chunks": [
+    "de",
+    "gree"
+   ],
+   "emoji": "🌡️",
+   "sentence": {
+    "en": "It is twenty degrees today.",
+    "zh": "今天二十度。"
+   },
+   "sentences": [
+    {
+     "en": "It is twenty degrees today.",
+     "zh": "今天二十度。",
+     "audio": "media/sent/eb49ffb2a4b3.mp3"
+    },
+    {
+     "en": "Water gets very hot at one hundred degrees.",
+     "zh": "水到一百度就非常烫了。",
+     "audio": "media/sent/9094c234c250.mp3"
+    },
+    {
+     "en": "Today is one degree warmer than yesterday.",
+     "zh": "今天比昨天暖和一度。",
+     "audio": "media/sent/bfd6c36ffe01.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/degree.webp",
+    "uk": "media/uk/degree.mp3",
+    "us": "media/us/degree.mp3"
+   },
+   "avoid": [
+    "temperature"
+   ]
+  },
+  {
+   "id": "temperature",
+   "word": "temperature",
+   "zh": "体温；温度",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "体温；温度"
+    }
+   ],
+   "ipa": "/ˈtemprətʃə/",
+   "chunks": [
+    "tem",
+    "per",
+    "a",
+    "ture"
+   ],
+   "emoji": "🌡️",
+   "sentence": {
+    "en": "Mum checks Tom's temperature.",
+    "zh": "妈妈检查 Tom 的体温。"
+   },
+   "sentences": [
+    {
+     "en": "Mum checks Tom's temperature.",
+     "zh": "妈妈检查 Tom 的体温。",
+     "audio": "media/sent/bd439a9b6b87.mp3"
+    },
+    {
+     "en": "The room temperature is high.",
+     "zh": "房间温度很高。",
+     "audio": "media/sent/32f19907f94a.mp3"
+    },
+    {
+     "en": "My temperature is normal now.",
+     "zh": "我现在体温正常。",
+     "audio": "media/sent/2f1812e68c88.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/temperature.webp",
+    "uk": "media/uk/temperature.mp3",
+    "us": "media/us/temperature.mp3"
+   },
+   "avoid": [
+    "degree"
+   ]
+  },
+  {
+   "id": "second",
+   "word": "second",
+   "zh": "秒；第二（的）",
+   "pos": [
+    "adj",
+    "det",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "det",
+      "n"
+     ],
+     "zh": "秒；第二（的）"
+    }
+   ],
+   "ipa": "/ˈsekənd/",
+   "chunks": [
+    "se",
+    "cond"
+   ],
+   "emoji": "⏱️",
+   "sentence": {
+    "en": "Lily can swim under the water for ten seconds.",
+    "zh": "Lily 能在水下游十秒钟。"
+   },
+   "sentences": [
+    {
+     "en": "Lily can swim under the water for ten seconds.",
+     "zh": "Lily 能在水下游十秒钟。",
+     "audio": "media/sent/92654b1e8c52.mp3"
+    },
+    {
+     "en": "Wait one second, please.",
+     "zh": "请等一秒。",
+     "audio": "media/sent/b27c7a8e227a.mp3"
+    },
+    {
+     "en": "Max runs to the gate in five seconds.",
+     "zh": "Max 五秒钟就跑到了大门口。",
+     "audio": "media/sent/da0db4571689.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/second.webp",
+    "uk": "media/uk/second.mp3",
+    "us": "media/us/second.mp3"
+   },
+   "avoid": [
+    "hour",
+    "minute",
+    "moment"
+   ]
+  },
+  {
+   "id": "minute",
+   "word": "minute",
+   "zh": "分钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "分钟"
+    }
+   ],
+   "ipa": "/ˈmɪnɪt/, /maɪˈnjuːt/",
+   "chunks": [
+    "min",
+    "ute"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "We wait for five minutes.",
+    "zh": "我们等五分钟。"
+   },
+   "sentences": [
+    {
+     "en": "We wait for five minutes.",
+     "zh": "我们等五分钟。",
+     "audio": "media/sent/13f3742240b2.mp3"
+    },
+    {
+     "en": "Lily reads for ten minutes.",
+     "zh": "Lily 读十分钟书。",
+     "audio": "media/sent/a43e640043c1.mp3"
+    },
+    {
+     "en": "The bus comes in one minute.",
+     "zh": "公交车一分钟后到。",
+     "audio": "media/sent/64677b219d48.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/minute.webp",
+    "uk": "media/uk/minute.mp3",
+    "us": "media/us/minute.mp3"
+   },
+   "avoid": [
+    "hour",
+    "moment",
+    "second"
+   ]
+  },
+  {
+   "id": "hour",
+   "word": "hour",
+   "zh": "小时",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小时"
+    }
+   ],
+   "ipa": "/ˈaʊə/",
+   "chunks": [
+    "hour"
+   ],
+   "emoji": "🕐",
+   "sentence": {
+    "en": "The film is two hours long.",
+    "zh": "电影两小时长。"
+   },
+   "sentences": [
+    {
+     "en": "The film is two hours long.",
+     "zh": "电影两小时长。",
+     "audio": "media/sent/e65ee79cc39c.mp3"
+    },
+    {
+     "en": "We play for one hour.",
+     "zh": "我们玩一个小时。",
+     "audio": "media/sent/7131e0f20509.mp3"
+    },
+    {
+     "en": "Dad works eight hours every day.",
+     "zh": "爸爸每天工作八小时。",
+     "audio": "media/sent/027fcc085999.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hour.webp",
+    "uk": "media/uk/hour.mp3",
+    "us": "media/us/hour.mp3"
+   },
+   "avoid": [
+    "minute",
+    "moment",
+    "second"
+   ]
+  },
+  {
+   "id": "day",
+   "word": "day",
+   "zh": "天；白天",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "天；白天"
+    }
+   ],
+   "ipa": "/deɪ/",
+   "chunks": [
+    "day"
+   ],
+   "emoji": "☀️",
+   "sentence": {
+    "en": "We go to school every day.",
+    "zh": "我们每天去上学。"
+   },
+   "sentences": [
+    {
+     "en": "We go to school every day.",
+     "zh": "我们每天去上学。",
+     "audio": "media/sent/da39238387d4.mp3"
+    },
+    {
+     "en": "It rains all day long.",
+     "zh": "雨下了一整天。",
+     "audio": "media/sent/4d1a25cfb351.mp3"
+    },
+    {
+     "en": "Today is a sunny day.",
+     "zh": "今天是晴天。",
+     "audio": "media/sent/fab83815b439.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/day.webp",
+    "uk": "media/uk/day.mp3",
+    "us": "media/us/day.mp3"
+   },
+   "avoid": [
+    "week",
+    "year"
+   ]
+  },
+  {
+   "id": "week",
+   "word": "week",
+   "zh": "周；星期",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "周；星期"
+    }
+   ],
+   "ipa": "/wiːk/",
+   "chunks": [
+    "week"
+   ],
+   "emoji": "🗓️",
+   "sentence": {
+    "en": "We have swimming this week.",
+    "zh": "这周我们有游泳课。"
+   },
+   "sentences": [
+    {
+     "en": "We have swimming this week.",
+     "zh": "这周我们有游泳课。",
+     "audio": "media/sent/b5a8267fa156.mp3"
+    },
+    {
+     "en": "Lily cleans her room once a week.",
+     "zh": "Lily 每周打扫一次房间。",
+     "audio": "media/sent/6f0ae3e503cc.mp3"
+    },
+    {
+     "en": "We go swimming every week.",
+     "zh": "我们每周都去游泳。",
+     "audio": "media/sent/3496671c29ee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/week.webp",
+    "uk": "media/uk/week.mp3",
+    "us": "media/us/week.mp3"
+   },
+   "avoid": [
+    "day",
+    "year"
+   ]
+  },
+  {
+   "id": "year",
+   "word": "year",
+   "zh": "年",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "年"
+    }
+   ],
+   "ipa": "/jɪə/",
+   "chunks": [
+    "year"
+   ],
+   "emoji": "🎂",
+   "sentence": {
+    "en": "Lily is nine years old.",
+    "zh": "Lily 九岁。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is nine years old.",
+     "zh": "Lily 九岁。",
+     "audio": "media/sent/2b50496f38da.mp3"
+    },
+    {
+     "en": "Happy New Year, Tom!",
+     "zh": "Tom，新年快乐！",
+     "audio": "media/sent/4b249cbd30c7.mp3"
+    },
+    {
+     "en": "We visit Grandma every year.",
+     "zh": "我们每年去看奶奶。",
+     "audio": "media/sent/ba8178cf9be0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/year.webp",
+    "uk": "media/uk/year.mp3",
+    "us": "media/us/year.mp3"
+   },
+   "avoid": [
+    "day",
+    "week"
+   ]
+  },
+  {
+   "id": "moment",
+   "word": "moment",
+   "zh": "片刻；一会儿",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "片刻；一会儿"
+    }
+   ],
+   "ipa": "/ˈməʊmənt/",
+   "chunks": [
+    "mo",
+    "ment"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "Wait a moment, please.",
+    "zh": "请稍等片刻。"
+   },
+   "sentences": [
+    {
+     "en": "Wait a moment, please.",
+     "zh": "请稍等片刻。",
+     "audio": "media/sent/908e995918e9.mp3"
+    },
+    {
+     "en": "I will be back in a moment.",
+     "zh": "我一会儿就回来。",
+     "audio": "media/sent/4e2b30e9fe25.mp3"
+    },
+    {
+     "en": "Think for a moment, Lily.",
+     "zh": "Lily，想一会儿。",
+     "audio": "media/sent/87065e237132.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/moment.webp",
+    "uk": "media/uk/moment.mp3",
+    "us": "media/us/moment.mp3"
+   },
+   "avoid": [
+    "hour",
+    "minute",
+    "second"
+   ]
+  },
+  {
+   "id": "half",
+   "word": "half",
+   "zh": "一半；半",
+   "pos": [
+    "det",
+    "n",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "n",
+      "pron"
+     ],
+     "zh": "一半；半"
+    }
+   ],
+   "ipa": "/hɑːf/",
+   "chunks": [
+    "half"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "Lily eats half an apple.",
+    "zh": "Lily 吃半个苹果。"
+   },
+   "sentences": [
+    {
+     "en": "Lily eats half an apple.",
+     "zh": "Lily 吃半个苹果。",
+     "audio": "media/sent/5f1211263d41.mp3"
+    },
+    {
+     "en": "It is half past six.",
+     "zh": "现在六点半。",
+     "audio": "media/sent/79a8c7abb794.mp3"
+    },
+    {
+     "en": "Tom gives Sam half his cake.",
+     "zh": "Tom 给 Sam 一半蛋糕。",
+     "audio": "media/sent/7cefc8d5ae4b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/half.webp",
+    "uk": "media/uk/half.mp3",
+    "us": "media/us/half.mp3"
+   },
+   "avoid": [
+    "quarter"
+   ]
+  },
+  {
+   "id": "quarter",
+   "word": "quarter",
+   "zh": "四分之一；一刻钟",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "四分之一；一刻钟"
+    }
+   ],
+   "ipa": "/ˈkwɔːtə/",
+   "chunks": [
+    "quar",
+    "ter"
+   ],
+   "emoji": "🍕",
+   "sentence": {
+    "en": "It is a quarter past three.",
+    "zh": "现在三点一刻。"
+   },
+   "sentences": [
+    {
+     "en": "It is a quarter past three.",
+     "zh": "现在三点一刻。",
+     "audio": "media/sent/818c638a078c.mp3"
+    },
+    {
+     "en": "Lily eats one quarter of the pizza.",
+     "zh": "Lily 吃四分之一披萨。",
+     "audio": "media/sent/9e74f92febb8.mp3"
+    },
+    {
+     "en": "We wait for a quarter of an hour.",
+     "zh": "我们等一刻钟。",
+     "audio": "media/sent/962bf43d753f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/quarter.webp",
+    "uk": "media/uk/quarter.mp3",
+    "us": "media/us/quarter.mp3"
+   },
+   "avoid": [
+    "half"
+   ]
+  }
+ ]
+}

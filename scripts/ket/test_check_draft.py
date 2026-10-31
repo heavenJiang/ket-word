@@ -56,10 +56,13 @@ def test_no_gap_sentence(tmp_path):
 
 
 def test_needs_scene_without_picture(tmp_path):
-    w = copy.deepcopy(AFTERNOON)
-    del w["scene"]
-    code, out = run(tmp_path, [w], "--partial")
-    assert code == 1 and "afternoon" in out and "scene" in out
+    w = {  # hello is an emoji-only card, so it has no picture in content/media to fall back on
+        "id": "hello", "zh": "你好", "chunks": ["hel", "lo"], "emoji": "👋",
+        "en": "Hello, Mia! Are you OK?", "sz": "Mia，你好！你没事吧？",
+        "more": [["Hello, Grandpa. How are you?", "爷爷，你好。你好吗？"], ["The phone rings. Hello? Who is it?", "电话响了。喂？是谁呀？"]],
+    }
+    code, out = run(tmp_path, [w], "--partial", name="core-hello")
+    assert code == 1 and "hello" in out and "scene" in out
 
 
 def test_chunks_must_spell_word(tmp_path):
@@ -85,3 +88,13 @@ def test_gen_comfy_reads_drafts():
     assert got[0]["scene"].startswith("Lily talking happily on a phone")
     # a word in both an open topic and a draft is listed once, from the open topic
     assert len([w for w in gen_comfy.words(set()) if w["id"] == "clock"]) == 1
+
+
+def test_no_picture_card_needs_no_scene(tmp_path):
+    the = {"id": "the", "zh": "这；那（定冠词）", "chunks": ["the"], "emoji": "👉", "picture": False,
+           "en": "Tom finds the ball under the bed.", "sz": "Tom 在床底下找到了那个球。",
+           "more": [["Close the door, please.", "请关上门。"], ["Max is in the garden.", "Max 在花园里。"]]}
+    code, out = run(tmp_path, [the], "--partial", name="core-little")
+    assert code == 0, out
+    code, out = run(tmp_path, [{**the, "scene": "a ball under a bed"}], "--partial", name="core-little")
+    assert code == 1 and "keep one" in out

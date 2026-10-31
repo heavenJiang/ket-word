@@ -1,0 +1,45 @@
+{
+ "id": "postcard-from-sam",
+ "topic": "documents",
+ "title": "A Postcard from Sam",
+ "zh": "Sam 寄来的明信片",
+ "pages": [
+  {
+   "en": "One morning, a postcard comes in the post. There is a picture of a beach on it. \"It's from Sam!\" says Lily.",
+   "zh": "一天早上，邮差送来一张明信片，上面印着海滩的图片。“是 Sam 寄来的！”Lily 说。",
+   "scene": "Lily picking up a postcard with a beach picture from the doormat by the front door, Max sniffing it, morning light."
+  },
+  {
+   "en": "Sam is on holiday with his family. He writes: \"The sea is warm and I can swim every day. I want to send you a letter too.\"",
+   "zh": "Sam 正和家人一起度假。他写道：“海水很暖和，我每天都能游泳。我还想给你们写封信。”",
+   "scene": "Sam swimming happily in a blue sea near a sunny beach, his family on towels on the sand."
+  },
+  {
+   "en": "Lily finds a pen and a nice card. She writes to Sam about Max and school. Then she puts it in an envelope and posts it.",
+   "zh": "Lily 找来一支笔和一张漂亮的卡片。她给 Sam 写了 Max 和学校的事，然后把卡片装进信封寄了出去。",
+   "scene": "Lily putting an envelope into a red post box on the street, Mum and Max beside her, a sunny day."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The postcard has a picture of a mountain.",
+   "zh": "明信片上是一座山的图片。",
+   "answer": false
+  },
+  {
+   "q": "What can Sam do every day?",
+   "zh": "Sam 每天都能做什么？",
+   "options": [
+    "swim",
+    "ski",
+    "ride a horse"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily writes to Sam.",
+   "zh": "Lily 给 Sam 写了回信。",
+   "answer": true
+  }
+ ]
+}
