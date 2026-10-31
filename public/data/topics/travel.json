@@ -1,0 +1,4419 @@
+{
+ "id": "travel",
+ "words": [
+  {
+   "id": "airport",
+   "word": "airport",
+   "zh": "机场",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "机场"
+    }
+   ],
+   "ipa": "/ˈeəpɔːt/",
+   "chunks": [
+    "air",
+    "port"
+   ],
+   "emoji": "🛫",
+   "sentence": {
+    "en": "The airport is very big.",
+    "zh": "机场很大。"
+   },
+   "sentences": [
+    {
+     "en": "The airport is very big.",
+     "zh": "机场很大。",
+     "audio": "media/sent/393546065252.mp3"
+    },
+    {
+     "en": "Dad drives us to the airport.",
+     "zh": "爸爸开车送我们去机场。",
+     "audio": "media/sent/0c6fdadc383e.mp3"
+    },
+    {
+     "en": "Our plane leaves the airport at nine.",
+     "zh": "我们的飞机九点离开机场。",
+     "audio": "media/sent/2571431bf1be.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/airport.webp",
+    "uk": "media/uk/airport.mp3",
+    "us": "media/us/airport.mp3"
+   },
+   "avoid": [
+    "flight",
+    "pilot",
+    "plane"
+   ]
+  },
+  {
+   "id": "plane",
+   "word": "plane",
+   "zh": "飞机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "飞机"
+    }
+   ],
+   "ipa": "/pleɪn/",
+   "chunks": [
+    "plane"
+   ],
+   "emoji": "✈️",
+   "sentence": {
+    "en": "The plane goes up into the sky.",
+    "zh": "飞机飞上天空。"
+   },
+   "sentences": [
+    {
+     "en": "The plane goes up into the sky.",
+     "zh": "飞机飞上天空。",
+     "audio": "media/sent/4eb1e612c531.mp3"
+    },
+    {
+     "en": "We travel by plane to Spain.",
+     "zh": "我们坐飞机去西班牙。",
+     "audio": "media/sent/ed13ee775fb0.mp3"
+    },
+    {
+     "en": "Look, a big plane in the sky!",
+     "zh": "看，天上有一架大飞机！",
+     "audio": "media/sent/70bdb38f073a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/plane.webp",
+    "uk": "media/uk/plane.mp3",
+    "us": "media/us/plane.mp3"
+   },
+   "avoid": [
+    "airport",
+    "flight",
+    "fly",
+    "helicopter",
+    "pilot"
+   ]
+  },
+  {
+   "id": "flight",
+   "word": "flight",
+   "zh": "航班；飞行",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "航班；飞行"
+    }
+   ],
+   "ipa": "/flaɪt/",
+   "chunks": [
+    "flight"
+   ],
+   "emoji": "🛬",
+   "sentence": {
+    "en": "Our flight is at seven in the morning.",
+    "zh": "我们的航班在早上七点。"
+   },
+   "sentences": [
+    {
+     "en": "Our flight is at seven in the morning.",
+     "zh": "我们的航班在早上七点。",
+     "audio": "media/sent/9d4ab46d293c.mp3"
+    },
+    {
+     "en": "The flight takes two hours.",
+     "zh": "这个航班要两个小时。",
+     "audio": "media/sent/b4b0544f730e.mp3"
+    },
+    {
+     "en": "Our flight to Spain is quick.",
+     "zh": "我们去西班牙的航班很快。",
+     "audio": "media/sent/2381a3070a43.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/flight.webp",
+    "uk": "media/uk/flight.mp3",
+    "us": "media/us/flight.mp3"
+   },
+   "avoid": [
+    "airport",
+    "pilot",
+    "plane"
+   ]
+  },
+  {
+   "id": "fly",
+   "word": "fly",
+   "zh": "坐飞机；飞",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "坐飞机；飞"
+    }
+   ],
+   "ipa": "/flaɪ/",
+   "chunks": [
+    "fly"
+   ],
+   "emoji": "🪽",
+   "sentence": {
+    "en": "We fly to Spain in July.",
+    "zh": "我们七月坐飞机去西班牙。"
+   },
+   "sentences": [
+    {
+     "en": "We fly to Spain in July.",
+     "zh": "我们七月坐飞机去西班牙。",
+     "audio": "media/sent/3ab01c91b010.mp3"
+    },
+    {
+     "en": "Mum flies to London on Monday.",
+     "zh": "妈妈星期一坐飞机去伦敦。",
+     "audio": "media/sent/5abd34e537fd.mp3"
+    },
+    {
+     "en": "Tom likes flying in a plane.",
+     "zh": "Tom 喜欢坐飞机。",
+     "audio": "media/sent/5e2a79d39966.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fly.webp",
+    "uk": "media/uk/fly.mp3",
+    "us": "media/us/fly.mp3"
+   },
+   "avoid": [
+    "helicopter",
+    "plane"
+   ]
+  },
+  {
+   "id": "pilot",
+   "word": "pilot",
+   "zh": "飞行员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "飞行员"
+    }
+   ],
+   "ipa": "/ˈpaɪlət/",
+   "chunks": [
+    "pi",
+    "lot"
+   ],
+   "emoji": "👩‍✈️",
+   "sentence": {
+    "en": "The pilot flies our plane.",
+    "zh": "飞行员开我们的飞机。"
+   },
+   "sentences": [
+    {
+     "en": "The pilot flies our plane.",
+     "zh": "飞行员开我们的飞机。",
+     "audio": "media/sent/e949b8a12f14.mp3"
+    },
+    {
+     "en": "The pilot says hello to us.",
+     "zh": "飞行员和我们打招呼。",
+     "audio": "media/sent/0e0f61bc6d29.mp3"
+    },
+    {
+     "en": "Lily wants to be a pilot.",
+     "zh": "Lily 想当飞行员。",
+     "audio": "media/sent/0375842168a9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pilot.webp",
+    "uk": "media/uk/pilot.mp3",
+    "us": "media/us/pilot.mp3"
+   },
+   "avoid": [
+    "airport",
+    "flight",
+    "plane"
+   ]
+  },
+  {
+   "id": "helicopter",
+   "word": "helicopter",
+   "zh": "直升机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "直升机"
+    }
+   ],
+   "ipa": "/ˈhelɪkɒptə/",
+   "chunks": [
+    "he",
+    "li",
+    "cop",
+    "ter"
+   ],
+   "emoji": "🚁",
+   "sentence": {
+    "en": "A red helicopter is in the sky.",
+    "zh": "天上有一架红色直升机。"
+   },
+   "sentences": [
+    {
+     "en": "A red helicopter is in the sky.",
+     "zh": "天上有一架红色直升机。",
+     "audio": "media/sent/a15b495ce89e.mp3"
+    },
+    {
+     "en": "The helicopter comes down on the hill.",
+     "zh": "直升机降落在小山上。",
+     "audio": "media/sent/e844a1346a4b.mp3"
+    },
+    {
+     "en": "That helicopter is very loud.",
+     "zh": "那架直升机很吵。",
+     "audio": "media/sent/b019cf108b1c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/helicopter.webp",
+    "uk": "media/uk/helicopter.mp3",
+    "us": "media/us/helicopter.mp3"
+   },
+   "avoid": [
+    "fly",
+    "plane"
+   ]
+  },
+  {
+   "id": "passport",
+   "word": "passport",
+   "zh": "护照",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "护照"
+    }
+   ],
+   "ipa": "/ˈpɑːspɔːt/",
+   "chunks": [
+    "pass",
+    "port"
+   ],
+   "emoji": "🛂",
+   "sentence": {
+    "en": "Mum shows her passport.",
+    "zh": "妈妈出示她的护照。"
+   },
+   "sentences": [
+    {
+     "en": "Mum shows her passport.",
+     "zh": "妈妈出示她的护照。",
+     "audio": "media/sent/6ea7dab120fa.mp3"
+    },
+    {
+     "en": "Where's your passport, Dad?",
+     "zh": "爸爸，你的护照在哪儿？",
+     "audio": "media/sent/7f3cd6ea7de2.mp3"
+    },
+    {
+     "en": "Our passports are in the bag.",
+     "zh": "我们的护照在包里。",
+     "audio": "media/sent/659f7af272d7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/passport.webp",
+    "uk": "media/uk/passport.mp3",
+    "us": "media/us/passport.mp3"
+   },
+   "avoid": [
+    "driving-licence",
+    "ticket"
+   ]
+  },
+  {
+   "id": "luggage",
+   "word": "luggage",
+   "zh": "行李",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "行李"
+    }
+   ],
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "chunks": [
+    "lug",
+    "gage"
+   ],
+   "emoji": "🧳",
+   "sentence": {
+    "en": "Our luggage goes on the plane.",
+    "zh": "我们的行李装上飞机。"
+   },
+   "sentences": [
+    {
+     "en": "Our luggage goes on the plane.",
+     "zh": "我们的行李装上飞机。",
+     "audio": "media/sent/c9bd4e56c5c5.mp3"
+    },
+    {
+     "en": "Dad carries the heavy luggage.",
+     "zh": "爸爸提着很重的行李。",
+     "audio": "media/sent/dfd3c987e9d0.mp3"
+    },
+    {
+     "en": "Where is our luggage?",
+     "zh": "我们的行李在哪儿？",
+     "audio": "media/sent/7a3b256b3429.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/luggage.webp",
+    "uk": "media/uk/luggage.mp3",
+    "us": "media/us/luggage.mp3"
+   },
+   "avoid": [
+    "backpack",
+    "case",
+    "suitcase"
+   ]
+  },
+  {
+   "id": "suitcase",
+   "word": "suitcase",
+   "zh": "行李箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "行李箱"
+    }
+   ],
+   "ipa": "/ˈsuːtkeɪs/",
+   "chunks": [
+    "suit",
+    "case"
+   ],
+   "emoji": "🧳",
+   "sentence": {
+    "en": "Lily's suitcase is big and red.",
+    "zh": "Lily 的行李箱又大又红。"
+   },
+   "sentences": [
+    {
+     "en": "Lily's suitcase is big and red.",
+     "zh": "Lily 的行李箱又大又红。",
+     "audio": "media/sent/a80078f65d15.mp3"
+    },
+    {
+     "en": "Dad puts the suitcase in the car.",
+     "zh": "爸爸把行李箱放进汽车里。",
+     "audio": "media/sent/fd2c6c2e0b1d.mp3"
+    },
+    {
+     "en": "I pack my clothes in my suitcase.",
+     "zh": "我把衣服装进行李箱里。",
+     "audio": "media/sent/0b5c8b34b760.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/suitcase.webp",
+    "uk": "media/uk/suitcase.mp3",
+    "us": "media/us/suitcase.mp3"
+   },
+   "avoid": [
+    "backpack",
+    "case",
+    "luggage"
+   ]
+  },
+  {
+   "id": "case",
+   "word": "case",
+   "zh": "箱子；手提箱",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "箱子；手提箱"
+    }
+   ],
+   "ipa": "/keɪs/",
+   "chunks": [
+    "case"
+   ],
+   "emoji": "💼",
+   "sentence": {
+    "en": "Dad has a small brown case.",
+    "zh": "爸爸有一个棕色的小箱子。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a small brown case.",
+     "zh": "爸爸有一个棕色的小箱子。",
+     "audio": "media/sent/ef942b114733.mp3"
+    },
+    {
+     "en": "Our case is under the seat.",
+     "zh": "我们的箱子在座位下面。",
+     "audio": "media/sent/d7bbc724d5f4.mp3"
+    },
+    {
+     "en": "This case is heavy!",
+     "zh": "这个箱子很重！",
+     "audio": "media/sent/d8be44d9cfd9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/case.webp",
+    "uk": "media/uk/case.mp3",
+    "us": "media/us/case.mp3"
+   },
+   "avoid": [
+    "backpack",
+    "luggage",
+    "suitcase"
+   ]
+  },
+  {
+   "id": "backpack",
+   "word": "backpack",
+   "zh": "背包；双肩包",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "背包；双肩包"
+    }
+   ],
+   "ipa": "/ˈbækpæk/",
+   "chunks": [
+    "back",
+    "pack"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Lily wears her backpack on the trip.",
+    "zh": "Lily 旅行时背着她的背包。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wears her backpack on the trip.",
+     "zh": "Lily 旅行时背着她的背包。",
+     "audio": "media/sent/6a18a99cecbe.mp3"
+    },
+    {
+     "en": "Sam has a green backpack.",
+     "zh": "Sam 有一个绿色的背包。",
+     "audio": "media/sent/ccf46e0f4da9.mp3"
+    },
+    {
+     "en": "Put the map in your backpack.",
+     "zh": "把地图放进你的背包里。",
+     "audio": "media/sent/59f5fd556dad.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/backpack.webp",
+    "uk": "media/uk/backpack.mp3",
+    "us": "media/us/backpack.mp3"
+   },
+   "avoid": [
+    "case",
+    "luggage",
+    "suitcase"
+   ]
+  },
+  {
+   "id": "ticket",
+   "word": "ticket",
+   "zh": "票；入场券",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "票；入场券"
+    }
+   ],
+   "ipa": "/ˈtɪkɪt/",
+   "chunks": [
+    "tick",
+    "et"
+   ],
+   "emoji": "🎟️",
+   "sentence": {
+    "en": "Mum has the tickets for the train.",
+    "zh": "妈妈有火车票。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has the tickets for the train.",
+     "zh": "妈妈有火车票。",
+     "audio": "media/sent/c9cf4a633067.mp3"
+    },
+    {
+     "en": "Where's your ticket, Dad?",
+     "zh": "爸爸，你的票在哪儿？",
+     "audio": "media/sent/923cf5f19b3e.mp3"
+    },
+    {
+     "en": "We show our tickets on the bus.",
+     "zh": "我们在公共汽车上出示车票。",
+     "audio": "media/sent/1b3e31861a0e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ticket.webp",
+    "uk": "media/uk/ticket.mp3",
+    "us": "media/us/ticket.mp3"
+   },
+   "avoid": [
+    "driving-licence",
+    "passport"
+   ]
+  },
+  {
+   "id": "passenger",
+   "word": "passenger",
+   "zh": "乘客",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "乘客"
+    }
+   ],
+   "ipa": "/ˈpæsɪndʒə/",
+   "chunks": [
+    "pas",
+    "sen",
+    "ger"
+   ],
+   "emoji": "🧍",
+   "sentence": {
+    "en": "Every passenger has a seat.",
+    "zh": "每位乘客都有一个座位。"
+   },
+   "sentences": [
+    {
+     "en": "Every passenger has a seat.",
+     "zh": "每位乘客都有一个座位。",
+     "audio": "media/sent/cd33dcbfec76.mp3"
+    },
+    {
+     "en": "The passenger next to Mum is kind.",
+     "zh": "妈妈旁边的乘客很和善。",
+     "audio": "media/sent/5003298afaeb.mp3"
+    },
+    {
+     "en": "Tom is a happy passenger.",
+     "zh": "Tom 是个快乐的乘客。",
+     "audio": "media/sent/4c0709b22098.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/passenger.webp",
+    "uk": "media/uk/passenger.mp3",
+    "us": "media/us/passenger.mp3"
+   },
+   "avoid": [
+    "tour-guide",
+    "tourist",
+    "visitor"
+   ]
+  },
+  {
+   "id": "seat",
+   "word": "seat",
+   "zh": "座位",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "座位"
+    }
+   ],
+   "ipa": "/siːt/",
+   "chunks": [
+    "seat"
+   ],
+   "emoji": "💺",
+   "sentence": {
+    "en": "I have a seat next to Tom.",
+    "zh": "我有一个座位，在 Tom 旁边。"
+   },
+   "sentences": [
+    {
+     "en": "I have a seat next to Tom.",
+     "zh": "我有一个座位，在 Tom 旁边。",
+     "audio": "media/sent/e91ce37dad18.mp3"
+    },
+    {
+     "en": "Tom sleeps in his seat.",
+     "zh": "Tom 在他的座位上睡着了。",
+     "audio": "media/sent/a80cd5a45de3.mp3"
+    },
+    {
+     "en": "Please take a seat, Mum.",
+     "zh": "妈妈，请坐。",
+     "audio": "media/sent/4229b8765d69.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/seat.webp",
+    "uk": "media/uk/seat.mp3",
+    "us": "media/us/seat.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "journey",
+   "word": "journey",
+   "zh": "旅程（较长的）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "旅程（较长的）"
+    }
+   ],
+   "ipa": "/ˈdʒɜːni/",
+   "chunks": [
+    "jour",
+    "ney"
+   ],
+   "emoji": "🚂",
+   "sentence": {
+    "en": "Our journey takes five hours.",
+    "zh": "我们的旅程要五个小时。"
+   },
+   "sentences": [
+    {
+     "en": "Our journey takes five hours.",
+     "zh": "我们的旅程要五个小时。",
+     "audio": "media/sent/c3f220159313.mp3"
+    },
+    {
+     "en": "The journey by train is long.",
+     "zh": "坐火车的旅程很长。",
+     "audio": "media/sent/9415036a5af3.mp3"
+    },
+    {
+     "en": "We sing songs on the journey.",
+     "zh": "我们在旅途中唱歌。",
+     "audio": "media/sent/7e09ebac758f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/journey.webp",
+    "uk": "media/uk/journey.mp3",
+    "us": "media/us/journey.mp3"
+   },
+   "avoid": [
+    "tour",
+    "travel",
+    "trip"
+   ]
+  },
+  {
+   "id": "trip",
+   "word": "trip",
+   "zh": "旅行；出行（短途）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "旅行；出行（短途）"
+    }
+   ],
+   "ipa": "/trɪp/",
+   "chunks": [
+    "trip"
+   ],
+   "emoji": "🧺",
+   "sentence": {
+    "en": "We go on a trip to the beach.",
+    "zh": "我们去海滩玩了一天。"
+   },
+   "sentences": [
+    {
+     "en": "We go on a trip to the beach.",
+     "zh": "我们去海滩玩了一天。",
+     "audio": "media/sent/17969c1f297d.mp3"
+    },
+    {
+     "en": "Dad plans a trip for Sunday.",
+     "zh": "爸爸为星期天安排了一次出行。",
+     "audio": "media/sent/84eca36c989f.mp3"
+    },
+    {
+     "en": "The trip to Grandma's is short.",
+     "zh": "去奶奶家的路不远。",
+     "audio": "media/sent/8acdb45b8d75.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/trip.webp",
+    "uk": "media/uk/trip.mp3",
+    "us": "media/us/trip.mp3"
+   },
+   "avoid": [
+    "journey",
+    "tour",
+    "travel"
+   ]
+  },
+  {
+   "id": "tour",
+   "word": "tour",
+   "zh": "旅游；参观",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "旅游；参观"
+    }
+   ],
+   "ipa": "/tʊə/",
+   "chunks": [
+    "tour"
+   ],
+   "emoji": "🗺️",
+   "sentence": {
+    "en": "We take a tour of the old castle.",
+    "zh": "我们参观了那座古老的城堡。"
+   },
+   "sentences": [
+    {
+     "en": "We take a tour of the old castle.",
+     "zh": "我们参观了那座古老的城堡。",
+     "audio": "media/sent/3349fe2ee689.mp3"
+    },
+    {
+     "en": "The tour of the museum is fun.",
+     "zh": "参观博物馆很有趣。",
+     "audio": "media/sent/45ac63a4e2fa.mp3"
+    },
+    {
+     "en": "Grandma joins our tour at two.",
+     "zh": "两点钟奶奶加入我们的参观。",
+     "audio": "media/sent/724158581061.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tour.webp",
+    "uk": "media/uk/tour.mp3",
+    "us": "media/us/tour.mp3"
+   },
+   "avoid": [
+    "journey",
+    "travel",
+    "trip"
+   ]
+  },
+  {
+   "id": "travel",
+   "word": "travel",
+   "zh": "旅行",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "旅行"
+    }
+   ],
+   "ipa": "/ˈtrævl/",
+   "chunks": [
+    "tra",
+    "vel"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "We travel by train to London.",
+    "zh": "我们坐火车去伦敦。"
+   },
+   "sentences": [
+    {
+     "en": "We travel by train to London.",
+     "zh": "我们坐火车去伦敦。",
+     "audio": "media/sent/02da3acb92e8.mp3"
+    },
+    {
+     "en": "I like travelling with my family.",
+     "zh": "我喜欢和家人一起旅行。",
+     "audio": "media/sent/21674f682d71.mp3"
+    },
+    {
+     "en": "Mum loves to travel by boat.",
+     "zh": "妈妈喜欢坐船旅行。",
+     "audio": "media/sent/34b776fe5bde.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/travel.webp",
+    "uk": "media/uk/travel.mp3",
+    "us": "media/us/travel.mp3"
+   },
+   "avoid": [
+    "journey",
+    "tour",
+    "trip"
+   ]
+  },
+  {
+   "id": "tourist",
+   "word": "tourist",
+   "zh": "游客",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游客"
+    }
+   ],
+   "ipa": "/ˈtʊərɪst/",
+   "chunks": [
+    "tour",
+    "ist"
+   ],
+   "emoji": "📸",
+   "sentence": {
+    "en": "That tourist takes a photo.",
+    "zh": "那位游客在拍照。"
+   },
+   "sentences": [
+    {
+     "en": "That tourist takes a photo.",
+     "zh": "那位游客在拍照。",
+     "audio": "media/sent/2a74c4615d15.mp3"
+    },
+    {
+     "en": "There are many tourists here in summer.",
+     "zh": "夏天这里有很多游客。",
+     "audio": "media/sent/bdaba1bb93e3.mp3"
+    },
+    {
+     "en": "The tourist asks Dad for help.",
+     "zh": "那位游客向爸爸求助。",
+     "audio": "media/sent/59e2f9b05f98.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tourist.webp",
+    "uk": "media/uk/tourist.mp3",
+    "us": "media/us/tourist.mp3"
+   },
+   "avoid": [
+    "passenger",
+    "tour-guide",
+    "visitor"
+   ]
+  },
+  {
+   "id": "tour-guide",
+   "word": "tour guide",
+   "zh": "导游",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "导游"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "tour",
+    "guide"
+   ],
+   "emoji": "🚩",
+   "sentence": {
+    "en": "Our tour guide is very kind.",
+    "zh": "我们的导游很和善。"
+   },
+   "sentences": [
+    {
+     "en": "Our tour guide is very kind.",
+     "zh": "我们的导游很和善。",
+     "audio": "media/sent/06d944be4e82.mp3"
+    },
+    {
+     "en": "The tour guide shows us the old castle.",
+     "zh": "导游带我们看那座古老的城堡。",
+     "audio": "media/sent/58bae6027f42.mp3"
+    },
+    {
+     "en": "Dad talks to our tour guide.",
+     "zh": "爸爸和我们的导游说话。",
+     "audio": "media/sent/b8e382fd68a1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tour-guide.webp"
+   },
+   "avoid": [
+    "passenger",
+    "tourist",
+    "visitor"
+   ]
+  },
+  {
+   "id": "tourist-information-centre",
+   "word": "tourist information centre",
+   "zh": "游客问讯处",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "游客问讯处"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "tour",
+    "ist",
+    "in",
+    "for",
+    "ma",
+    "tion",
+    "cen",
+    "tre"
+   ],
+   "emoji": "ℹ️",
+   "sentence": {
+    "en": "Mum asks at the tourist information centre.",
+    "zh": "妈妈在游客问讯处问路。"
+   },
+   "sentences": [
+    {
+     "en": "Mum asks at the tourist information centre.",
+     "zh": "妈妈在游客问讯处问路。",
+     "audio": "media/sent/c1d7a1e67013.mp3"
+    },
+    {
+     "en": "The tourist information centre is near the station.",
+     "zh": "游客问讯处在车站附近。",
+     "audio": "media/sent/ff99e5e57617.mp3"
+    },
+    {
+     "en": "We get a map at the tourist information centre.",
+     "zh": "我们在游客问讯处拿了一张地图。",
+     "audio": "media/sent/04beb1c91fd7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tourist-information-centre.webp"
+   },
+   "avoid": [
+    "visit",
+    "visitor"
+   ]
+  },
+  {
+   "id": "visit",
+   "word": "visit",
+   "zh": "拜访；参观",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "拜访；参观"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "拜访；参观",
+     "en": "Our visit to the museum is fun."
+    }
+   ],
+   "ipa": "/ˈvɪzɪt/",
+   "chunks": [
+    "vis",
+    "it"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "We visit Grandma on Sunday.",
+    "zh": "我们星期天去看奶奶。"
+   },
+   "sentences": [
+    {
+     "en": "We visit Grandma on Sunday.",
+     "zh": "我们星期天去看奶奶。",
+     "audio": "media/sent/91c62b25c524.mp3"
+    },
+    {
+     "en": "Lily visits her friend Mia.",
+     "zh": "Lily 去拜访她的朋友 Mia。",
+     "audio": "media/sent/11a32dffa841.mp3"
+    },
+    {
+     "en": "We visit the old castle in the morning.",
+     "zh": "我们上午参观那座古老的城堡。",
+     "audio": "media/sent/4a4117ed8318.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/visit.webp",
+    "uk": "media/uk/visit.mp3",
+    "us": "media/us/visit.mp3"
+   },
+   "avoid": [
+    "tourist-information-centre",
+    "visitor"
+   ]
+  },
+  {
+   "id": "visitor",
+   "word": "visitor",
+   "zh": "参观者；访客",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "参观者；访客"
+    }
+   ],
+   "ipa": "/ˈvɪzɪtə/",
+   "chunks": [
+    "vis",
+    "i",
+    "tor"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "Every visitor likes the dinosaur.",
+    "zh": "每位参观者都喜欢那只恐龙。"
+   },
+   "sentences": [
+    {
+     "en": "Every visitor likes the dinosaur.",
+     "zh": "每位参观者都喜欢那只恐龙。",
+     "audio": "media/sent/ad463e51fa6f.mp3"
+    },
+    {
+     "en": "The museum is full of visitors on Saturday.",
+     "zh": "博物馆星期六满是参观者。",
+     "audio": "media/sent/831f071b31bd.mp3"
+    },
+    {
+     "en": "Who is that visitor at the door?",
+     "zh": "门口那位访客是谁？",
+     "audio": "media/sent/6478332cbe46.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/visitor.webp",
+    "uk": "media/uk/visitor.mp3",
+    "us": "media/us/visitor.mp3"
+   },
+   "avoid": [
+    "passenger",
+    "tour-guide",
+    "tourist",
+    "tourist-information-centre",
+    "visit"
+   ]
+  },
+  {
+   "id": "bus",
+   "word": "bus",
+   "zh": "公共汽车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公共汽车"
+    }
+   ],
+   "ipa": "/bʌs/",
+   "chunks": [
+    "bus"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "We go to school by bus.",
+    "zh": "我们坐公共汽车上学。"
+   },
+   "sentences": [
+    {
+     "en": "We go to school by bus.",
+     "zh": "我们坐公共汽车上学。",
+     "audio": "media/sent/611482739087.mp3"
+    },
+    {
+     "en": "The bus comes at eight.",
+     "zh": "公共汽车八点钟来。",
+     "audio": "media/sent/3013236cb0af.mp3"
+    },
+    {
+     "en": "Dad waits for the bus in the rain.",
+     "zh": "爸爸在雨里等公共汽车。",
+     "audio": "media/sent/90b88cac7ac4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bus.webp",
+    "uk": "media/uk/bus.mp3",
+    "us": "media/us/bus.mp3"
+   },
+   "avoid": [
+    "coach",
+    "taxi",
+    "tram"
+   ]
+  },
+  {
+   "id": "bus-station",
+   "word": "bus station",
+   "zh": "公共汽车站（总站）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公共汽车站（总站）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bus",
+    "sta",
+    "tion"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "We meet Dad at the bus station.",
+    "zh": "我们在公共汽车总站和爸爸碰面。"
+   },
+   "sentences": [
+    {
+     "en": "We meet Dad at the bus station.",
+     "zh": "我们在公共汽车总站和爸爸碰面。",
+     "audio": "media/sent/ea9de46113fd.mp3"
+    },
+    {
+     "en": "The bus station is next to the railway.",
+     "zh": "公共汽车站就在铁路旁边。",
+     "audio": "media/sent/36083e6286f9.mp3"
+    },
+    {
+     "en": "Mum buys our tickets at the bus station.",
+     "zh": "妈妈在公共汽车站买我们的票。",
+     "audio": "media/sent/8243a18ed502.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bus-station.webp"
+   },
+   "avoid": [
+    "bus-stop",
+    "platform",
+    "station"
+   ]
+  },
+  {
+   "id": "bus-stop",
+   "word": "bus stop",
+   "zh": "公共汽车站（站牌处）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公共汽车站（站牌处）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "bus",
+    "stop"
+   ],
+   "emoji": "🚏",
+   "sentence": {
+    "en": "We wait at the bus stop.",
+    "zh": "我们在公共汽车站的站牌那儿等。"
+   },
+   "sentences": [
+    {
+     "en": "We wait at the bus stop.",
+     "zh": "我们在公共汽车站的站牌那儿等。",
+     "audio": "media/sent/61d64637ac77.mp3"
+    },
+    {
+     "en": "The bus stop is near our school.",
+     "zh": "公共汽车站的站牌就在我们学校附近。",
+     "audio": "media/sent/e15fe9de304f.mp3"
+    },
+    {
+     "en": "Tom runs to the bus stop.",
+     "zh": "Tom 跑到公共汽车站的站牌那儿。",
+     "audio": "media/sent/60db283f6d95.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bus-stop.webp"
+   },
+   "avoid": [
+    "bus-station",
+    "platform",
+    "station"
+   ]
+  },
+  {
+   "id": "coach",
+   "word": "coach",
+   "zh": "教练；长途汽车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "教练"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "长途汽车",
+     "en": "We go to London by coach."
+    }
+   ],
+   "ipa": "/kəʊtʃ/",
+   "chunks": [
+    "coach"
+   ],
+   "emoji": "🚌",
+   "sentence": {
+    "en": "We go to London by coach.",
+    "zh": "我们坐长途大巴去伦敦。"
+   },
+   "sentences": [
+    {
+     "en": "We go to London by coach.",
+     "zh": "我们坐长途大巴去伦敦。",
+     "audio": "media/sent/04434cf5baa5.mp3"
+    },
+    {
+     "en": "Our coach stops at the petrol station.",
+     "zh": "我们的长途汽车在加油站停一下。",
+     "audio": "media/sent/27ec1314f19a.mp3"
+    },
+    {
+     "en": "The coach is big and blue.",
+     "zh": "这辆长途汽车又大又蓝。",
+     "audio": "media/sent/226dd76b074f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/coach.webp",
+    "uk": "media/uk/coach.mp3",
+    "us": "media/us/coach.mp3"
+   },
+   "avoid": [
+    "bus",
+    "taxi",
+    "tram"
+   ]
+  },
+  {
+   "id": "train",
+   "word": "train",
+   "zh": "火车",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "火车"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "训练",
+     "en": "Sam trains with his football team."
+    }
+   ],
+   "ipa": "/treɪn/",
+   "chunks": [
+    "train"
+   ],
+   "emoji": "🚆",
+   "sentence": {
+    "en": "Our train is at nine o'clock.",
+    "zh": "我们的火车九点开。"
+   },
+   "sentences": [
+    {
+     "en": "Our train is at nine o'clock.",
+     "zh": "我们的火车九点开。",
+     "audio": "media/sent/0bff21c2d47d.mp3"
+    },
+    {
+     "en": "The train is slow today.",
+     "zh": "火车今天很慢。",
+     "audio": "media/sent/d7a797ca40f9.mp3"
+    },
+    {
+     "en": "We see the sea from the train.",
+     "zh": "我们从火车上能看到大海。",
+     "audio": "media/sent/a2379d909915.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/train.webp",
+    "uk": "media/uk/train.mp3",
+    "us": "media/us/train.mp3"
+   },
+   "avoid": [
+    "railway",
+    "tram",
+    "underground"
+   ]
+  },
+  {
+   "id": "platform",
+   "word": "platform",
+   "zh": "站台",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "站台"
+    }
+   ],
+   "ipa": "/ˈplætfɔːm/",
+   "chunks": [
+    "plat",
+    "form"
+   ],
+   "emoji": "🚉",
+   "sentence": {
+    "en": "Our train is on platform four.",
+    "zh": "我们的火车在四号站台。"
+   },
+   "sentences": [
+    {
+     "en": "Our train is on platform four.",
+     "zh": "我们的火车在四号站台。",
+     "audio": "media/sent/74821b490cf6.mp3"
+    },
+    {
+     "en": "Mum waits for us on the platform.",
+     "zh": "妈妈在站台上等我们。",
+     "audio": "media/sent/65b0221895ae.mp3"
+    },
+    {
+     "en": "Be careful on the platform, Tom.",
+     "zh": "Tom，在站台上小心点。",
+     "audio": "media/sent/d538248b991e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/platform.webp",
+    "uk": "media/uk/platform.mp3",
+    "us": "media/us/platform.mp3"
+   },
+   "avoid": [
+    "bus-station",
+    "bus-stop",
+    "station"
+   ]
+  },
+  {
+   "id": "railway",
+   "word": "railway",
+   "zh": "铁路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "铁路"
+    }
+   ],
+   "ipa": "/ˈreɪlweɪ/",
+   "chunks": [
+    "rail",
+    "way"
+   ],
+   "emoji": "🛤️",
+   "sentence": {
+    "en": "The railway goes over a tall bridge.",
+    "zh": "铁路从一座高桥上通过。"
+   },
+   "sentences": [
+    {
+     "en": "The railway goes over a tall bridge.",
+     "zh": "铁路从一座高桥上通过。",
+     "audio": "media/sent/f39eae2d8154.mp3"
+    },
+    {
+     "en": "We walk beside the railway line.",
+     "zh": "我们沿着铁路边走。",
+     "audio": "media/sent/ccdd3c032d22.mp3"
+    },
+    {
+     "en": "The railway station is very old.",
+     "zh": "那个火车站很老了。",
+     "audio": "media/sent/5e0441346d64.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/railway.webp",
+    "uk": "media/uk/railway.mp3",
+    "us": "media/us/railway.mp3"
+   },
+   "avoid": [
+    "train",
+    "tram",
+    "underground"
+   ]
+  },
+  {
+   "id": "station",
+   "word": "station",
+   "zh": "车站；火车站",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车站；火车站"
+    }
+   ],
+   "ipa": "/ˈsteɪʃən/",
+   "chunks": [
+    "sta",
+    "tion"
+   ],
+   "emoji": "🚉",
+   "sentence": {
+    "en": "Dad meets us at the station.",
+    "zh": "爸爸在车站接我们。"
+   },
+   "sentences": [
+    {
+     "en": "Dad meets us at the station.",
+     "zh": "爸爸在车站接我们。",
+     "audio": "media/sent/6224319ca983.mp3"
+    },
+    {
+     "en": "Our train leaves from this station.",
+     "zh": "我们的火车从这个站开。",
+     "audio": "media/sent/eeded6f0e3cd.mp3"
+    },
+    {
+     "en": "The station is near our hotel.",
+     "zh": "车站就在我们旅馆附近。",
+     "audio": "media/sent/c77b2a6e9c45.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/station.webp",
+    "uk": "media/uk/station.mp3",
+    "us": "media/us/station.mp3"
+   },
+   "avoid": [
+    "bus-station",
+    "bus-stop",
+    "platform"
+   ]
+  },
+  {
+   "id": "underground",
+   "word": "underground",
+   "zh": "地铁",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地铁"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "地下的",
+     "en": "Ants live in an underground home."
+    }
+   ],
+   "ipa": "/ˌʌndəˈɡraʊnd/",
+   "chunks": [
+    "un",
+    "der",
+    "ground"
+   ],
+   "emoji": "🚇",
+   "sentence": {
+    "en": "We go to the city by underground.",
+    "zh": "我们坐地铁去市中心。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the city by underground.",
+     "zh": "我们坐地铁去市中心。",
+     "audio": "media/sent/24cba13c66b2.mp3"
+    },
+    {
+     "en": "The underground is fast in London.",
+     "zh": "地铁在伦敦很快。",
+     "audio": "media/sent/99a6af2100c5.mp3"
+    },
+    {
+     "en": "Mum looks at the underground map.",
+     "zh": "妈妈看着地铁图。",
+     "audio": "media/sent/be463502ba17.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/underground.webp",
+    "uk": "media/uk/underground.mp3",
+    "us": "media/us/underground.mp3"
+   },
+   "avoid": [
+    "railway",
+    "train",
+    "tram"
+   ]
+  },
+  {
+   "id": "tram",
+   "word": "tram",
+   "zh": "有轨电车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "有轨电车"
+    }
+   ],
+   "ipa": "/træm/",
+   "chunks": [
+    "tram"
+   ],
+   "emoji": "🚊",
+   "sentence": {
+    "en": "The tram goes slowly along the street.",
+    "zh": "有轨电车沿着街道慢慢开。"
+   },
+   "sentences": [
+    {
+     "en": "The tram goes slowly along the street.",
+     "zh": "有轨电车沿着街道慢慢开。",
+     "audio": "media/sent/1ecee157d129.mp3"
+    },
+    {
+     "en": "Lily says hello to the tram driver.",
+     "zh": "Lily 向有轨电车司机问好。",
+     "audio": "media/sent/0819d758a759.mp3"
+    },
+    {
+     "en": "We get off the tram near the park.",
+     "zh": "我们在公园附近下电车。",
+     "audio": "media/sent/c51732a14cde.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tram.webp",
+    "uk": "media/uk/tram.mp3",
+    "us": "media/us/tram.mp3"
+   },
+   "avoid": [
+    "bus",
+    "coach",
+    "railway",
+    "taxi",
+    "train",
+    "underground"
+   ]
+  },
+  {
+   "id": "taxi",
+   "word": "taxi",
+   "zh": "出租车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "出租车"
+    }
+   ],
+   "ipa": "/ˈtæksi/",
+   "chunks": [
+    "tax",
+    "i"
+   ],
+   "emoji": "🚕",
+   "sentence": {
+    "en": "Mum calls a taxi for us.",
+    "zh": "妈妈给我们叫了一辆出租车。"
+   },
+   "sentences": [
+    {
+     "en": "Mum calls a taxi for us.",
+     "zh": "妈妈给我们叫了一辆出租车。",
+     "audio": "media/sent/cac321495106.mp3"
+    },
+    {
+     "en": "We go home by taxi at night.",
+     "zh": "我们晚上坐出租车回家。",
+     "audio": "media/sent/95249f8eb51a.mp3"
+    },
+    {
+     "en": "The taxi driver knows the way.",
+     "zh": "出租车司机认得路。",
+     "audio": "media/sent/840473826740.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/taxi.webp",
+    "uk": "media/uk/taxi.mp3",
+    "us": "media/us/taxi.mp3"
+   },
+   "avoid": [
+    "bus",
+    "car",
+    "coach",
+    "driver",
+    "motorbike",
+    "tram"
+   ]
+  },
+  {
+   "id": "driver",
+   "word": "driver",
+   "zh": "司机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "司机"
+    }
+   ],
+   "ipa": "/ˈdraɪvə/",
+   "chunks": [
+    "driv",
+    "er"
+   ],
+   "emoji": "🧑‍✈️",
+   "sentence": {
+    "en": "The bus driver says hello.",
+    "zh": "公共汽车司机和我们打招呼。"
+   },
+   "sentences": [
+    {
+     "en": "The bus driver says hello.",
+     "zh": "公共汽车司机和我们打招呼。",
+     "audio": "media/sent/68ae97a825a8.mp3"
+    },
+    {
+     "en": "Dad is a careful driver.",
+     "zh": "爸爸是位小心的司机。",
+     "audio": "media/sent/9c64413a8e4f.mp3"
+    },
+    {
+     "en": "The taxi driver helps Mum with the bags.",
+     "zh": "出租车司机帮妈妈拿行李。",
+     "audio": "media/sent/a3f40ceb540a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/driver.webp",
+    "uk": "media/uk/driver.mp3",
+    "us": "media/us/driver.mp3"
+   },
+   "avoid": [
+    "car",
+    "motorbike",
+    "taxi"
+   ]
+  },
+  {
+   "id": "car",
+   "word": "car",
+   "zh": "小汽车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小汽车"
+    }
+   ],
+   "ipa": "/kɑː/",
+   "chunks": [
+    "car"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "We go to Grandma's by car.",
+    "zh": "我们坐汽车去奶奶家。"
+   },
+   "sentences": [
+    {
+     "en": "We go to Grandma's by car.",
+     "zh": "我们坐汽车去奶奶家。",
+     "audio": "media/sent/23de9dba1f88.mp3"
+    },
+    {
+     "en": "Dad washes the car on Sunday.",
+     "zh": "爸爸星期天洗车。",
+     "audio": "media/sent/2dc033b819c8.mp3"
+    },
+    {
+     "en": "Tom sleeps in the back of the car.",
+     "zh": "Tom 在汽车后座睡着了。",
+     "audio": "media/sent/68f2b7679b17.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/car.webp",
+    "uk": "media/uk/car.mp3",
+    "us": "media/us/car.mp3"
+   },
+   "avoid": [
+    "driver",
+    "motorbike",
+    "taxi"
+   ]
+  },
+  {
+   "id": "motorbike",
+   "word": "motorbike",
+   "zh": "摩托车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "摩托车"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "mo",
+    "tor",
+    "bike"
+   ],
+   "emoji": "🏍️",
+   "sentence": {
+    "en": "The red motorbike is very fast.",
+    "zh": "那辆红色摩托车很快。"
+   },
+   "sentences": [
+    {
+     "en": "The red motorbike is very fast.",
+     "zh": "那辆红色摩托车很快。",
+     "audio": "media/sent/9359036a7eec.mp3"
+    },
+    {
+     "en": "Our neighbour has a big motorbike.",
+     "zh": "我们的邻居有一辆大摩托车。",
+     "audio": "media/sent/b2b7067a7f18.mp3"
+    },
+    {
+     "en": "The motorbike is very loud.",
+     "zh": "那辆摩托车声音很大。",
+     "audio": "media/sent/74239a2d1a77.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/motorbike.webp"
+   },
+   "avoid": [
+    "car",
+    "driver",
+    "taxi"
+   ]
+  },
+  {
+   "id": "engine",
+   "word": "engine",
+   "zh": "发动机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "发动机"
+    }
+   ],
+   "ipa": "/ˈendʒɪn/",
+   "chunks": [
+    "en",
+    "gine"
+   ],
+   "emoji": "🔧",
+   "sentence": {
+    "en": "The car engine is very loud.",
+    "zh": "汽车发动机的声音很大。"
+   },
+   "sentences": [
+    {
+     "en": "The car engine is very loud.",
+     "zh": "汽车发动机的声音很大。",
+     "audio": "media/sent/78016ecc00f3.mp3"
+    },
+    {
+     "en": "Dad starts the engine.",
+     "zh": "爸爸发动了发动机。",
+     "audio": "media/sent/6810b225bb44.mp3"
+    },
+    {
+     "en": "Be careful. The engine is hot.",
+     "zh": "小心，发动机很烫。",
+     "audio": "media/sent/194e5d983b9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/engine.webp",
+    "uk": "media/uk/engine.mp3",
+    "us": "media/us/engine.mp3"
+   },
+   "avoid": [
+    "oil",
+    "tyre",
+    "wheel"
+   ]
+  },
+  {
+   "id": "petrol",
+   "word": "petrol",
+   "zh": "汽油",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "汽油"
+    }
+   ],
+   "ipa": "/ˈpetrəl/",
+   "chunks": [
+    "pet",
+    "rol"
+   ],
+   "emoji": "⛽",
+   "sentence": {
+    "en": "We need petrol for the car.",
+    "zh": "我们的汽车需要汽油。"
+   },
+   "sentences": [
+    {
+     "en": "We need petrol for the car.",
+     "zh": "我们的汽车需要汽油。",
+     "audio": "media/sent/e23a07965334.mp3"
+    },
+    {
+     "en": "Dad puts petrol in the car.",
+     "zh": "爸爸给汽车加汽油。",
+     "audio": "media/sent/4aa9ec39fc24.mp3"
+    },
+    {
+     "en": "The petrol here is expensive.",
+     "zh": "这里的汽油很贵。",
+     "audio": "media/sent/c72eaa8ec604.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/petrol.webp",
+    "uk": "media/uk/petrol.mp3",
+    "us": "media/us/petrol.mp3"
+   },
+   "avoid": [
+    "garage",
+    "petrol-station"
+   ]
+  },
+  {
+   "id": "petrol-station",
+   "word": "petrol station",
+   "zh": "加油站",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "加油站"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pet",
+    "rol",
+    "sta",
+    "tion"
+   ],
+   "emoji": "⛽",
+   "sentence": {
+    "en": "Dad stops at the petrol station.",
+    "zh": "爸爸在加油站停一下。"
+   },
+   "sentences": [
+    {
+     "en": "Dad stops at the petrol station.",
+     "zh": "爸爸在加油站停一下。",
+     "audio": "media/sent/c6fea64a8764.mp3"
+    },
+    {
+     "en": "The petrol station is next to the bus station.",
+     "zh": "加油站就在公共汽车站旁边。",
+     "audio": "media/sent/9d95c9bf7f17.mp3"
+    },
+    {
+     "en": "We buy milk at the petrol station.",
+     "zh": "我们在加油站买牛奶。",
+     "audio": "media/sent/300ed1dca8c6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/petrol-station.webp"
+   },
+   "avoid": [
+    "garage",
+    "petrol"
+   ]
+  },
+  {
+   "id": "garage",
+   "word": "garage",
+   "zh": "车库",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车库"
+    }
+   ],
+   "ipa": "/ˈɡærɑːʒ/",
+   "chunks": [
+    "ga",
+    "rage"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "We keep our bikes in the garage.",
+    "zh": "我们把自行车放在车库里。"
+   },
+   "sentences": [
+    {
+     "en": "We keep our bikes in the garage.",
+     "zh": "我们把自行车放在车库里。",
+     "audio": "media/sent/e1c05e071a77.mp3"
+    },
+    {
+     "en": "Dad opens the garage door.",
+     "zh": "爸爸打开车库门。",
+     "audio": "media/sent/28d11c3e3f46.mp3"
+    },
+    {
+     "en": "Max sleeps in the garage.",
+     "zh": "Max 在车库里睡觉。",
+     "audio": "media/sent/6e2454b12cd6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/garage.webp",
+    "uk": "media/uk/garage.mp3",
+    "us": "media/us/garage.mp3"
+   },
+   "avoid": [
+    "petrol",
+    "petrol-station"
+   ]
+  },
+  {
+   "id": "mechanic",
+   "word": "mechanic",
+   "zh": "修理工；机械师",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "修理工；机械师"
+    }
+   ],
+   "ipa": "/məˈkænɪk/",
+   "chunks": [
+    "mech",
+    "a",
+    "nic"
+   ],
+   "emoji": "🛠️",
+   "sentence": {
+    "en": "The mechanic helps Dad.",
+    "zh": "修理工帮爸爸。"
+   },
+   "sentences": [
+    {
+     "en": "The mechanic helps Dad.",
+     "zh": "修理工帮爸爸。",
+     "audio": "media/sent/4bee06f344c5.mp3"
+    },
+    {
+     "en": "The mechanic changes our tyre.",
+     "zh": "修理工给我们换轮胎。",
+     "audio": "media/sent/d17c6958ae0a.mp3"
+    },
+    {
+     "en": "Our mechanic works in a garage.",
+     "zh": "我们的修理工在车库里工作。",
+     "audio": "media/sent/e97b78aee697.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mechanic.webp",
+    "uk": "media/uk/mechanic.mp3",
+    "us": "media/us/mechanic.mp3"
+   },
+   "avoid": [
+    "engineer",
+    "repair"
+   ]
+  },
+  {
+   "id": "engineer",
+   "word": "engineer",
+   "zh": "工程师",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "工程师"
+    }
+   ],
+   "ipa": "/ˌendʒɪˈnɪə/",
+   "chunks": [
+    "en",
+    "gi",
+    "neer"
+   ],
+   "emoji": "👷",
+   "sentence": {
+    "en": "Lily wants to be an engineer.",
+    "zh": "Lily 想当工程师。"
+   },
+   "sentences": [
+    {
+     "en": "Lily wants to be an engineer.",
+     "zh": "Lily 想当工程师。",
+     "audio": "media/sent/745c254957cb.mp3"
+    },
+    {
+     "en": "Sam's aunt is an engineer.",
+     "zh": "Sam 的姑妈是工程师。",
+     "audio": "media/sent/11a01b293649.mp3"
+    },
+    {
+     "en": "An engineer looks at the old bridge.",
+     "zh": "一位工程师在查看那座老桥。",
+     "audio": "media/sent/c902893f7112.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/engineer.webp",
+    "uk": "media/uk/engineer.mp3",
+    "us": "media/us/engineer.mp3"
+   },
+   "avoid": [
+    "mechanic",
+    "repair"
+   ]
+  },
+  {
+   "id": "repair",
+   "word": "repair",
+   "zh": "修理",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "修理"
+    }
+   ],
+   "ipa": "/rɪˈpeə/",
+   "chunks": [
+    "re",
+    "pair"
+   ],
+   "emoji": "🔧",
+   "sentence": {
+    "en": "Dad repairs Tom's bike.",
+    "zh": "爸爸修 Tom 的自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Dad repairs Tom's bike.",
+     "zh": "爸爸修 Tom 的自行车。",
+     "audio": "media/sent/97ad89141d4b.mp3"
+    },
+    {
+     "en": "Mum can repair the old bike.",
+     "zh": "妈妈会修那辆旧自行车。",
+     "audio": "media/sent/cdf40a80aee2.mp3"
+    },
+    {
+     "en": "Can you repair my toy car?",
+     "zh": "你能修一下我的玩具汽车吗？",
+     "audio": "media/sent/e3d435df725d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/repair.webp",
+    "uk": "media/uk/repair.mp3",
+    "us": "media/us/repair.mp3"
+   },
+   "avoid": [
+    "engineer",
+    "mechanic"
+   ]
+  },
+  {
+   "id": "tyre",
+   "word": "tyre",
+   "zh": "轮胎",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "轮胎"
+    }
+   ],
+   "ipa": "/ˈtaɪə/",
+   "chunks": [
+    "tyre"
+   ],
+   "emoji": "🛞",
+   "sentence": {
+    "en": "Our car has a new tyre.",
+    "zh": "我们的汽车有一个新轮胎。"
+   },
+   "sentences": [
+    {
+     "en": "Our car has a new tyre.",
+     "zh": "我们的汽车有一个新轮胎。",
+     "audio": "media/sent/494e4078c098.mp3"
+    },
+    {
+     "en": "Look, Dad is changing the tyre.",
+     "zh": "看，爸爸在换轮胎。",
+     "audio": "media/sent/b2ee00ef508f.mp3"
+    },
+    {
+     "en": "The bike tyre is small.",
+     "zh": "自行车的轮胎很小。",
+     "audio": "media/sent/f1cef06c8699.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/tyre.webp",
+    "uk": "media/uk/tyre.mp3",
+    "us": "media/us/tyre.mp3"
+   },
+   "avoid": [
+    "engine",
+    "oil",
+    "wheel"
+   ]
+  },
+  {
+   "id": "wheel",
+   "word": "wheel",
+   "zh": "轮子；车轮",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "轮子；车轮"
+    }
+   ],
+   "ipa": "/wiːl/",
+   "chunks": [
+    "wheel"
+   ],
+   "emoji": "🛞",
+   "sentence": {
+    "en": "Dad puts a new wheel on the car.",
+    "zh": "爸爸给汽车装上一个新车轮。"
+   },
+   "sentences": [
+    {
+     "en": "Dad puts a new wheel on the car.",
+     "zh": "爸爸给汽车装上一个新车轮。",
+     "audio": "media/sent/1f7a33489c81.mp3"
+    },
+    {
+     "en": "Lily's bike has two big wheels.",
+     "zh": "Lily 的自行车有两个大轮子。",
+     "audio": "media/sent/e8a22c50ca2e.mp3"
+    },
+    {
+     "en": "This toy car has four wheels.",
+     "zh": "这个玩具汽车有四个轮子。",
+     "audio": "media/sent/b3469e22daf0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wheel.webp",
+    "uk": "media/uk/wheel.mp3",
+    "us": "media/us/wheel.mp3"
+   },
+   "avoid": [
+    "engine",
+    "oil",
+    "tyre"
+   ]
+  },
+  {
+   "id": "oil",
+   "word": "oil",
+   "zh": "油；食用油",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "油；食用油"
+    }
+   ],
+   "ipa": "/ɔɪl/",
+   "chunks": [
+    "oil"
+   ],
+   "emoji": "🛢️",
+   "sentence": {
+    "en": "Dad checks the oil in the car.",
+    "zh": "爸爸检查汽车里的油。"
+   },
+   "sentences": [
+    {
+     "en": "Dad checks the oil in the car.",
+     "zh": "爸爸检查汽车里的油。",
+     "audio": "media/sent/3fa1371fcb11.mp3"
+    },
+    {
+     "en": "The mechanic puts oil on the chain.",
+     "zh": "修理工给链条上油。",
+     "audio": "media/sent/c3d90336bc62.mp3"
+    },
+    {
+     "en": "Tom helps Dad with the oil.",
+     "zh": "Tom 帮爸爸拿油。",
+     "audio": "media/sent/700bf1c1da54.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/oil.webp",
+    "uk": "media/uk/oil.mp3",
+    "us": "media/us/oil.mp3"
+   },
+   "avoid": [
+    "engine",
+    "tyre",
+    "wheel"
+   ]
+  },
+  {
+   "id": "driving-licence",
+   "word": "driving licence",
+   "zh": "驾照",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "驾照"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "driv",
+    "ing",
+    "li",
+    "cence"
+   ],
+   "emoji": "🪪",
+   "sentence": {
+    "en": "Dad has a new driving licence.",
+    "zh": "爸爸有了新驾照。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has a new driving licence.",
+     "zh": "爸爸有了新驾照。",
+     "audio": "media/sent/ed07f934fb57.mp3"
+    },
+    {
+     "en": "Where is Mum's driving licence?",
+     "zh": "妈妈的驾照在哪儿？",
+     "audio": "media/sent/bd042161a545.mp3"
+    },
+    {
+     "en": "Mum is learning for her driving licence.",
+     "zh": "妈妈在为她的驾照学习。",
+     "audio": "media/sent/5cd1c1f8174c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/driving-licence.webp"
+   },
+   "avoid": [
+    "passport",
+    "ticket"
+   ]
+  },
+  {
+   "id": "drive",
+   "word": "drive",
+   "zh": "开车",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "开车"
+    }
+   ],
+   "ipa": "/draɪv/",
+   "chunks": [
+    "drive"
+   ],
+   "emoji": "🚙",
+   "sentence": {
+    "en": "Dad drives us to school.",
+    "zh": "爸爸开车送我们上学。"
+   },
+   "sentences": [
+    {
+     "en": "Dad drives us to school.",
+     "zh": "爸爸开车送我们上学。",
+     "audio": "media/sent/8746fccb95bb.mp3"
+    },
+    {
+     "en": "Mum drives to work every day.",
+     "zh": "妈妈每天开车去上班。",
+     "audio": "media/sent/361b209579f0.mp3"
+    },
+    {
+     "en": "We drive to Grandma's on Sunday.",
+     "zh": "我们星期天开车去奶奶家。",
+     "audio": "media/sent/a9f8803dbdaa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drive.webp",
+    "uk": "media/uk/drive.mp3",
+    "us": "media/us/drive.mp3"
+   },
+   "avoid": [
+    "park.2",
+    "ride"
+   ]
+  },
+  {
+   "id": "park",
+   "word": "park",
+   "zh": "公园",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公园"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "停车",
+     "en": "Dad parks the car."
+    }
+   ],
+   "ipa": "/pɑːk/",
+   "chunks": [
+    "park"
+   ],
+   "emoji": "🌳",
+   "sentence": {
+    "en": "The park is near our hotel.",
+    "zh": "公园就在我们旅馆附近。"
+   },
+   "sentences": [
+    {
+     "en": "The park is near our hotel.",
+     "zh": "公园就在我们旅馆附近。",
+     "audio": "media/sent/08f46a5ed0d3.mp3"
+    },
+    {
+     "en": "We walk through the park to the station.",
+     "zh": "我们穿过公园去车站。",
+     "audio": "media/sent/2fa914ae7510.mp3"
+    },
+    {
+     "en": "There is a big tree in the park.",
+     "zh": "公园里有一棵大树。",
+     "audio": "media/sent/6581c205a036.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/park.webp",
+    "uk": "media/uk/park.mp3",
+    "us": "media/us/park.mp3"
+   },
+   "avoid": [
+    "park.2"
+   ]
+  },
+  {
+   "id": "park.2",
+   "word": "park",
+   "zh": "停（车）",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "停（车）"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "公园"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "停车",
+     "en": "Dad parks the car."
+    }
+   ],
+   "ipa": "/pɑːk/",
+   "chunks": [
+    "park"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "We park the car near the beach.",
+    "zh": "我们把汽车停在海滩附近。"
+   },
+   "sentences": [
+    {
+     "en": "We park the car near the beach.",
+     "zh": "我们把汽车停在海滩附近。",
+     "audio": "media/sent/2a02d8f5679f.mp3"
+    },
+    {
+     "en": "Don't park the car by the road.",
+     "zh": "别把汽车停在路边。",
+     "audio": "media/sent/69fd3f502eae.mp3"
+    },
+    {
+     "en": "Mum can park the car here.",
+     "zh": "妈妈可以把汽车停在这里。",
+     "audio": "media/sent/52a23ae61ae7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/park.2.webp",
+    "uk": "media/uk/park.mp3",
+    "us": "media/us/park.mp3"
+   },
+   "of": "park",
+   "ofZh": "公园",
+   "avoid": [
+    "drive",
+    "park",
+    "ride"
+   ]
+  },
+  {
+   "id": "road",
+   "word": "road",
+   "zh": "路；公路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "路；公路"
+    }
+   ],
+   "ipa": "/rəʊd/",
+   "chunks": [
+    "road"
+   ],
+   "emoji": "🛣️",
+   "sentence": {
+    "en": "The road goes through the fields.",
+    "zh": "这条路穿过田地。"
+   },
+   "sentences": [
+    {
+     "en": "The road goes through the fields.",
+     "zh": "这条路穿过田地。",
+     "audio": "media/sent/ac7868e31e2f.mp3"
+    },
+    {
+     "en": "The road to the beach is long.",
+     "zh": "去海滩的路很长。",
+     "audio": "media/sent/1f631cb9bedd.mp3"
+    },
+    {
+     "en": "Dad drives slowly on the country road.",
+     "zh": "爸爸在乡间小路上开得很慢。",
+     "audio": "media/sent/1709e5ac2e6d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/road.webp",
+    "uk": "media/uk/road.mp3",
+    "us": "media/us/road.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "roundabout",
+    "street"
+   ]
+  },
+  {
+   "id": "street",
+   "word": "street",
+   "zh": "街道",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "街道"
+    }
+   ],
+   "ipa": "/striːt/",
+   "chunks": [
+    "street"
+   ],
+   "emoji": "🏙️",
+   "sentence": {
+    "en": "The street is full of shops.",
+    "zh": "这条街上满是商店。"
+   },
+   "sentences": [
+    {
+     "en": "The street is full of shops.",
+     "zh": "这条街上满是商店。",
+     "audio": "media/sent/5443e6a42ccc.mp3"
+    },
+    {
+     "en": "Lily crosses the busy street with Mum.",
+     "zh": "Lily 和妈妈过那条繁忙的街道。",
+     "audio": "media/sent/0c2901ee5c94.mp3"
+    },
+    {
+     "en": "Our school is on this street.",
+     "zh": "我们的学校在这条街上。",
+     "audio": "media/sent/5477d3686bb4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/street.webp",
+    "uk": "media/uk/street.mp3",
+    "us": "media/us/street.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "road",
+    "roundabout"
+   ]
+  },
+  {
+   "id": "motorway",
+   "word": "motorway",
+   "zh": "高速公路",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "高速公路"
+    }
+   ],
+   "ipa": "/ˈməʊtəweɪ/",
+   "chunks": [
+    "mo",
+    "tor",
+    "way"
+   ],
+   "emoji": "🛣️",
+   "sentence": {
+    "en": "The motorway is very wide.",
+    "zh": "高速公路很宽。"
+   },
+   "sentences": [
+    {
+     "en": "The motorway is very wide.",
+     "zh": "高速公路很宽。",
+     "audio": "media/sent/b88a23b7b992.mp3"
+    },
+    {
+     "en": "Dad drives on the motorway to London.",
+     "zh": "爸爸走高速公路去伦敦。",
+     "audio": "media/sent/925f0c0114e9.mp3"
+    },
+    {
+     "en": "Look, the motorway is full of cars.",
+     "zh": "看，高速公路上满是汽车。",
+     "audio": "media/sent/e21dd795d8ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/motorway.webp",
+    "uk": "media/uk/motorway.mp3",
+    "us": "media/us/motorway.mp3"
+   },
+   "avoid": [
+    "road",
+    "roundabout",
+    "street"
+   ]
+  },
+  {
+   "id": "roundabout",
+   "word": "roundabout",
+   "zh": "环岛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "环岛"
+    }
+   ],
+   "ipa": "/ˈraʊndəbaʊt/",
+   "chunks": [
+    "round",
+    "a",
+    "bout"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "Dad goes round the roundabout.",
+    "zh": "爸爸开车绕过环岛。"
+   },
+   "sentences": [
+    {
+     "en": "Dad goes round the roundabout.",
+     "zh": "爸爸开车绕过环岛。",
+     "audio": "media/sent/c657b9b5127e.mp3"
+    },
+    {
+     "en": "The roundabout has flowers in the middle.",
+     "zh": "环岛中间有花。",
+     "audio": "media/sent/e7bbf42d393b.mp3"
+    },
+    {
+     "en": "Is there a roundabout near the station?",
+     "zh": "车站附近有环岛吗？",
+     "audio": "media/sent/33d93e186462.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/roundabout.webp",
+    "uk": "media/uk/roundabout.mp3",
+    "us": "media/us/roundabout.mp3"
+   },
+   "avoid": [
+    "motorway",
+    "road",
+    "street"
+   ]
+  },
+  {
+   "id": "traffic",
+   "word": "traffic",
+   "zh": "交通；车流",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "交通；车流"
+    }
+   ],
+   "ipa": "/ˈtræfɪk/",
+   "chunks": [
+    "traf",
+    "fic"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "There is a lot of traffic today.",
+    "zh": "今天车流很多。"
+   },
+   "sentences": [
+    {
+     "en": "There is a lot of traffic today.",
+     "zh": "今天车流很多。",
+     "audio": "media/sent/ac2a07220819.mp3"
+    },
+    {
+     "en": "The traffic is slow on the motorway.",
+     "zh": "高速公路上的车流很慢。",
+     "audio": "media/sent/76c7a2fb446e.mp3"
+    },
+    {
+     "en": "Tom watches the traffic from our window.",
+     "zh": "Tom 从我们的窗户看车流。",
+     "audio": "media/sent/9c88bd1d0496.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/traffic.webp",
+    "uk": "media/uk/traffic.mp3",
+    "us": "media/us/traffic.mp3"
+   },
+   "avoid": [
+    "stop",
+    "traffic-light"
+   ]
+  },
+  {
+   "id": "traffic-light",
+   "word": "traffic light",
+   "zh": "红绿灯",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "红绿灯"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "traf",
+    "fic",
+    "light"
+   ],
+   "emoji": "🚥",
+   "sentence": {
+    "en": "The traffic light is red.",
+    "zh": "红绿灯是红色的。"
+   },
+   "sentences": [
+    {
+     "en": "The traffic light is red.",
+     "zh": "红绿灯是红色的。",
+     "audio": "media/sent/17a27c8e78cb.mp3"
+    },
+    {
+     "en": "Wait at the traffic light, Tom.",
+     "zh": "Tom，在红绿灯前等一等。",
+     "audio": "media/sent/306975bb108a.mp3"
+    },
+    {
+     "en": "The traffic light is green. We can go.",
+     "zh": "红绿灯是绿的，我们可以走了。",
+     "audio": "media/sent/49ce12d0b724.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/traffic-light.webp"
+   },
+   "avoid": [
+    "stop",
+    "traffic"
+   ]
+  },
+  {
+   "id": "bridge",
+   "word": "bridge",
+   "zh": "桥",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "桥"
+    }
+   ],
+   "ipa": "/brɪdʒ/",
+   "chunks": [
+    "bridge"
+   ],
+   "emoji": "🌉",
+   "sentence": {
+    "en": "Our train goes over a tall bridge.",
+    "zh": "我们的火车从一座高桥上通过。"
+   },
+   "sentences": [
+    {
+     "en": "Our train goes over a tall bridge.",
+     "zh": "我们的火车从一座高桥上通过。",
+     "audio": "media/sent/c0eceb217259.mp3"
+    },
+    {
+     "en": "The bridge is next to the station.",
+     "zh": "那座桥就在车站旁边。",
+     "audio": "media/sent/816adee66002.mp3"
+    },
+    {
+     "en": "Is that bridge old, Dad?",
+     "zh": "那座桥很旧吗，爸爸？",
+     "audio": "media/sent/9127d8762646.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/bridge.webp",
+    "uk": "media/uk/bridge.mp3",
+    "us": "media/us/bridge.mp3"
+   },
+   "avoid": [
+    "map",
+    "way"
+   ]
+  },
+  {
+   "id": "map",
+   "word": "map",
+   "zh": "地图",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "地图"
+    }
+   ],
+   "ipa": "/mæp/",
+   "chunks": [
+    "map"
+   ],
+   "emoji": "🗺️",
+   "sentence": {
+    "en": "Dad looks at the map.",
+    "zh": "爸爸看着地图。"
+   },
+   "sentences": [
+    {
+     "en": "Dad looks at the map.",
+     "zh": "爸爸看着地图。",
+     "audio": "media/sent/7bd1f33c3612.mp3"
+    },
+    {
+     "en": "Where is the beach on the map?",
+     "zh": "地图上海滩在哪儿？",
+     "audio": "media/sent/af3e77f9d02e.mp3"
+    },
+    {
+     "en": "Lily holds the map for Dad.",
+     "zh": "Lily 帮爸爸拿着地图。",
+     "audio": "media/sent/64c7c44f843e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/map.webp",
+    "uk": "media/uk/map.mp3",
+    "us": "media/us/map.mp3"
+   },
+   "avoid": [
+    "bridge",
+    "way"
+   ]
+  },
+  {
+   "id": "way",
+   "word": "way",
+   "zh": "路；方式",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "路；方式"
+    }
+   ],
+   "ipa": "/weɪ/",
+   "chunks": [
+    "way"
+   ],
+   "emoji": "🧭",
+   "sentence": {
+    "en": "Is this the way to the beach?",
+    "zh": "去海滩走这条路吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is this the way to the beach?",
+     "zh": "去海滩走这条路吗？",
+     "audio": "media/sent/3908d58a110d.mp3"
+    },
+    {
+     "en": "Which way do we go, Mum?",
+     "zh": "妈妈，我们走哪条路？",
+     "audio": "media/sent/375d24d818ad.mp3"
+    },
+    {
+     "en": "We ask the way at the shop.",
+     "zh": "我们在商店问路。",
+     "audio": "media/sent/310e01c8eb83.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/way.webp",
+    "uk": "media/uk/way.mp3",
+    "us": "media/us/way.mp3"
+   },
+   "avoid": [
+    "bridge",
+    "map",
+    "right"
+   ]
+  },
+  {
+   "id": "left",
+   "word": "left",
+   "zh": "左边（的）；向左",
+   "pos": [
+    "adj",
+    "adv",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "n"
+     ],
+     "zh": "左边（的）；向左"
+    }
+   ],
+   "ipa": "/left/",
+   "chunks": [
+    "left"
+   ],
+   "emoji": "⬅️",
+   "sentence": {
+    "en": "Turn left at the bridge.",
+    "zh": "在桥那儿向左转。"
+   },
+   "sentences": [
+    {
+     "en": "Turn left at the bridge.",
+     "zh": "在桥那儿向左转。",
+     "audio": "media/sent/8c7c73575cc3.mp3"
+    },
+    {
+     "en": "Mum sits on the left in the car.",
+     "zh": "妈妈坐在汽车里的左边。",
+     "audio": "media/sent/dcb89628198a.mp3"
+    },
+    {
+     "en": "Tom sits on my left.",
+     "zh": "Tom 坐在我左边。",
+     "audio": "media/sent/6951aba91993.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/left.webp",
+    "uk": "media/uk/left.mp3",
+    "us": "media/us/left.mp3"
+   },
+   "avoid": [
+    "right.2"
+   ]
+  },
+  {
+   "id": "right",
+   "word": "right",
+   "zh": "正确的；右边",
+   "pos": [
+    "adj",
+    "adv",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "正确的；对的"
+    },
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "n"
+     ],
+     "zh": "右边（的）；向右"
+    }
+   ],
+   "ipa": "/raɪt/",
+   "chunks": [
+    "right"
+   ],
+   "emoji": "✅",
+   "sentence": {
+    "en": "Is this the right way to the station?",
+    "zh": "去车站走这条路对吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is this the right way to the station?",
+     "zh": "去车站走这条路对吗？",
+     "audio": "media/sent/f639a1f822cd.mp3"
+    },
+    {
+     "en": "We are on the right bus.",
+     "zh": "我们坐对了公共汽车。",
+     "audio": "media/sent/d3bb8787e8df.mp3"
+    },
+    {
+     "en": "Dad takes the right road home.",
+     "zh": "爸爸走对了回家的路。",
+     "audio": "media/sent/ad9ab0692213.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/right.webp",
+    "uk": "media/uk/right.mp3",
+    "us": "media/us/right.mp3"
+   },
+   "avoid": [
+    "right.2",
+    "way"
+   ]
+  },
+  {
+   "id": "right.2",
+   "word": "right",
+   "zh": "右边（的）；向右",
+   "pos": [
+    "adj",
+    "adv",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "adv",
+      "n"
+     ],
+     "zh": "右边（的）；向右"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "正确的；对的"
+    }
+   ],
+   "ipa": "/raɪt/",
+   "chunks": [
+    "right"
+   ],
+   "emoji": "➡️",
+   "sentence": {
+    "en": "Turn right at the shop.",
+    "zh": "在商店那儿向右转。"
+   },
+   "sentences": [
+    {
+     "en": "Turn right at the shop.",
+     "zh": "在商店那儿向右转。",
+     "audio": "media/sent/e1367bc6efae.mp3"
+    },
+    {
+     "en": "Tom walks on Mum's right.",
+     "zh": "Tom 走在妈妈的右边。",
+     "audio": "media/sent/74dbccb94deb.mp3"
+    },
+    {
+     "en": "Our hotel is on the right.",
+     "zh": "我们的旅馆在右边。",
+     "audio": "media/sent/d0569e53163f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/right.2.webp",
+    "uk": "media/uk/right.mp3",
+    "us": "media/us/right.mp3"
+   },
+   "of": "right",
+   "ofZh": "正确的；右边",
+   "avoid": [
+    "left",
+    "right"
+   ]
+  },
+  {
+   "id": "far",
+   "word": "far",
+   "zh": "远",
+   "pos": [
+    "adv"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adv"
+     ],
+     "zh": "远"
+    }
+   ],
+   "ipa": "/fɑː/",
+   "chunks": [
+    "far"
+   ],
+   "emoji": "🔭",
+   "sentence": {
+    "en": "Is the station far?",
+    "zh": "车站远吗？"
+   },
+   "sentences": [
+    {
+     "en": "Is the station far?",
+     "zh": "车站远吗？",
+     "audio": "media/sent/5cd589e7d433.mp3"
+    },
+    {
+     "en": "Our school is not far from here.",
+     "zh": "我们学校离这儿不远。",
+     "audio": "media/sent/4bdab7fbdf7e.mp3"
+    },
+    {
+     "en": "The castle is very far away.",
+     "zh": "那座城堡非常远。",
+     "audio": "media/sent/433901cedcc6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/far.webp",
+    "uk": "media/uk/far.mp3",
+    "us": "media/us/far.mp3"
+   },
+   "avoid": [
+    "leave",
+    "move",
+    "return"
+   ]
+  },
+  {
+   "id": "leave",
+   "word": "leave",
+   "zh": "离开；出发",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "离开；出发"
+    }
+   ],
+   "ipa": "/liːv/",
+   "chunks": [
+    "leave"
+   ],
+   "emoji": "👋",
+   "sentence": {
+    "en": "The train leaves at ten.",
+    "zh": "火车十点出发。"
+   },
+   "sentences": [
+    {
+     "en": "The train leaves at ten.",
+     "zh": "火车十点出发。",
+     "audio": "media/sent/e1fd690ef666.mp3"
+    },
+    {
+     "en": "What time do we leave, Dad?",
+     "zh": "爸爸，我们几点出发？",
+     "audio": "media/sent/50c58465ef78.mp3"
+    },
+    {
+     "en": "We leave home at seven in the morning.",
+     "zh": "我们早上七点离开家。",
+     "audio": "media/sent/f6b76761ca90.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/leave.webp",
+    "uk": "media/uk/leave.mp3",
+    "us": "media/us/leave.mp3"
+   },
+   "avoid": [
+    "far",
+    "move",
+    "return"
+   ]
+  },
+  {
+   "id": "return",
+   "word": "return",
+   "zh": "返回；往返票",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "返回；归还"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "返回；往返票",
+     "en": "Mum buys a return ticket to London."
+    }
+   ],
+   "ipa": "/rɪˈtɜːn/",
+   "chunks": [
+    "re",
+    "turn"
+   ],
+   "emoji": "🔁",
+   "sentence": {
+    "en": "We return home on Sunday.",
+    "zh": "我们星期天回家。"
+   },
+   "sentences": [
+    {
+     "en": "We return home on Sunday.",
+     "zh": "我们星期天回家。",
+     "audio": "media/sent/ed161568b7b1.mp3"
+    },
+    {
+     "en": "Grandma returns to her village by bus.",
+     "zh": "奶奶坐公共汽车回她的村子。",
+     "audio": "media/sent/e344da30e1aa.mp3"
+    },
+    {
+     "en": "Mum buys a return ticket to London.",
+     "zh": "妈妈买了一张去伦敦的往返票。",
+     "audio": "media/sent/531e60ef4d4a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/return.webp",
+    "uk": "media/uk/return.mp3",
+    "us": "media/us/return.mp3"
+   },
+   "avoid": [
+    "far",
+    "leave",
+    "move"
+   ]
+  },
+  {
+   "id": "move",
+   "word": "move",
+   "zh": "移动；搬家",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "移动；搬家"
+    }
+   ],
+   "ipa": "/muːv/",
+   "chunks": [
+    "move"
+   ],
+   "emoji": "📦",
+   "sentence": {
+    "en": "We move to a new house.",
+    "zh": "我们搬到一栋新房子。"
+   },
+   "sentences": [
+    {
+     "en": "We move to a new house.",
+     "zh": "我们搬到一栋新房子。",
+     "audio": "media/sent/d6a3d4d87181.mp3"
+    },
+    {
+     "en": "Don't move, Tom! Max is under the box.",
+     "zh": "别动，Tom！Max 在箱子下面。",
+     "audio": "media/sent/51ceeffd7687.mp3"
+    },
+    {
+     "en": "Sam moves his toys into his new room.",
+     "zh": "Sam 把他的玩具搬进他的新房间。",
+     "audio": "media/sent/a9aac7f04abf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/move.webp",
+    "uk": "media/uk/move.mp3",
+    "us": "media/us/move.mp3"
+   },
+   "avoid": [
+    "far",
+    "leave",
+    "return"
+   ]
+  },
+  {
+   "id": "stop",
+   "word": "stop",
+   "zh": "停；车站",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "停；停止"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "车站；站",
+     "en": "Is this our stop, Mum?"
+    }
+   ],
+   "ipa": "/stɒp/",
+   "chunks": [
+    "stop"
+   ],
+   "emoji": "🛑",
+   "sentence": {
+    "en": "The bus stops here.",
+    "zh": "公共汽车在这一站停。"
+   },
+   "sentences": [
+    {
+     "en": "The bus stops here.",
+     "zh": "公共汽车在这一站停。",
+     "audio": "media/sent/e41c9967f8f5.mp3"
+    },
+    {
+     "en": "Is this our stop, Mum?",
+     "zh": "妈妈，这是我们的站吗？",
+     "audio": "media/sent/7ba672d1e1f7.mp3"
+    },
+    {
+     "en": "Dad stops the car and we get out.",
+     "zh": "爸爸停下车，我们下车。",
+     "audio": "media/sent/9e002f8dc756.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/stop.webp",
+    "uk": "media/uk/stop.mp3",
+    "us": "media/us/stop.mp3"
+   },
+   "avoid": [
+    "traffic",
+    "traffic-light"
+   ]
+  },
+  {
+   "id": "delay",
+   "word": "delay",
+   "zh": "延误；推迟",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "延误"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "延误；推迟",
+     "en": "The rain delays our train."
+    }
+   ],
+   "ipa": "/dɪˈleɪ/",
+   "chunks": [
+    "de",
+    "lay"
+   ],
+   "emoji": "⏳",
+   "sentence": {
+    "en": "There is a long delay at the station.",
+    "zh": "车站有很长的延误。"
+   },
+   "sentences": [
+    {
+     "en": "There is a long delay at the station.",
+     "zh": "车站有很长的延误。",
+     "audio": "media/sent/08390e1fbafb.mp3"
+    },
+    {
+     "en": "The delay is two hours.",
+     "zh": "延误了两个小时。",
+     "audio": "media/sent/3d758d44dd9b.mp3"
+    },
+    {
+     "en": "The rain delays our train.",
+     "zh": "下雨让我们的火车晚点了。",
+     "audio": "media/sent/27044368ba00.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/delay.webp",
+    "uk": "media/uk/delay.mp3",
+    "us": "media/us/delay.mp3"
+   },
+   "avoid": [
+    "delayed",
+    "miss"
+   ]
+  },
+  {
+   "id": "delayed",
+   "word": "delayed",
+   "zh": "延误的；晚点的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "延误的；晚点的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "de",
+    "lay",
+    "ed"
+   ],
+   "emoji": "🕐",
+   "sentence": {
+    "en": "Our flight is delayed.",
+    "zh": "我们的航班晚点了。"
+   },
+   "sentences": [
+    {
+     "en": "Our flight is delayed.",
+     "zh": "我们的航班晚点了。",
+     "audio": "media/sent/732d7602547f.mp3"
+    },
+    {
+     "en": "The train is delayed again.",
+     "zh": "火车又晚点了。",
+     "audio": "media/sent/cf6514c1a8bb.mp3"
+    },
+    {
+     "en": "The bus is delayed, so we are late.",
+     "zh": "公共汽车晚点了，我们迟到了。",
+     "audio": "media/sent/b4d1d3ecfdea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/delayed.webp"
+   },
+   "avoid": [
+    "delay",
+    "miss"
+   ]
+  },
+  {
+   "id": "miss",
+   "word": "Miss",
+   "zh": "想念；错过",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "想念；错过"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小姐（称呼）",
+     "en": "Miss Brown is our teacher."
+    }
+   ],
+   "ipa": "/mɪs/",
+   "chunks": [
+    "Miss"
+   ],
+   "emoji": "🥺",
+   "sentence": {
+    "en": "Hurry up! Don't miss the train.",
+    "zh": "快点！别错过火车。"
+   },
+   "sentences": [
+    {
+     "en": "Hurry up! Don't miss the train.",
+     "zh": "快点！别错过火车。",
+     "audio": "media/sent/7ddcef50cf94.mp3"
+    },
+    {
+     "en": "I miss Grandma when she goes home.",
+     "zh": "奶奶回家后我很想她。",
+     "audio": "media/sent/dd8a7d9aeada.mp3"
+    },
+    {
+     "en": "Don't miss the boat, Sam!",
+     "zh": "Sam，别错过船！",
+     "audio": "media/sent/b865ff5f287d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/miss.webp",
+    "uk": "media/uk/miss.mp3",
+    "us": "media/us/miss.mp3"
+   },
+   "avoid": [
+    "delay",
+    "delayed"
+   ]
+  },
+  {
+   "id": "light",
+   "word": "light",
+   "zh": "灯；光",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "灯；光"
+    },
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "浅色的；明亮的",
+     "en": "Lily has a light blue dress."
+    }
+   ],
+   "ipa": "/laɪt/",
+   "chunks": [
+    "light"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "The sky is light in the morning.",
+    "zh": "早上的天空很亮。"
+   },
+   "sentences": [
+    {
+     "en": "The sky is light in the morning.",
+     "zh": "早上的天空很亮。",
+     "audio": "media/sent/3fa4ecd8c571.mp3"
+    },
+    {
+     "en": "Turn on the light, Mia.",
+     "zh": "把灯打开，Mia。",
+     "audio": "media/sent/d7c387b6135a.mp3"
+    },
+    {
+     "en": "Dad reads in the light from the window.",
+     "zh": "爸爸在窗边的光线下看书。",
+     "audio": "media/sent/9698600eb700.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/light.webp",
+    "uk": "media/uk/light.mp3",
+    "us": "media/us/light.mp3"
+   },
+   "avoid": [
+    "machine",
+    "mirror",
+    "window"
+   ]
+  },
+  {
+   "id": "machine",
+   "word": "machine",
+   "zh": "机器",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "机器"
+    }
+   ],
+   "ipa": "/məˈʃiːn/",
+   "chunks": [
+    "ma",
+    "chine"
+   ],
+   "emoji": "⚙️",
+   "sentence": {
+    "en": "Mum buys a ticket at the machine.",
+    "zh": "妈妈在机器上买票。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys a ticket at the machine.",
+     "zh": "妈妈在机器上买票。",
+     "audio": "media/sent/eb30ceda8b0b.mp3"
+    },
+    {
+     "en": "The machine gives Dad his ticket.",
+     "zh": "那台机器把票给爸爸。",
+     "audio": "media/sent/9ab6d8c0361a.mp3"
+    },
+    {
+     "en": "Look, Sam puts money in the machine.",
+     "zh": "看，Sam 把钱放进机器里。",
+     "audio": "media/sent/618b5af40992.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/machine.webp",
+    "uk": "media/uk/machine.mp3",
+    "us": "media/us/machine.mp3"
+   },
+   "avoid": [
+    "light",
+    "mirror",
+    "window"
+   ]
+  },
+  {
+   "id": "mirror",
+   "word": "mirror",
+   "zh": "镜子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "镜子"
+    }
+   ],
+   "ipa": "/ˈmɪrə/",
+   "chunks": [
+    "mir",
+    "ror"
+   ],
+   "emoji": "🪞",
+   "sentence": {
+    "en": "Lily looks in the mirror.",
+    "zh": "Lily 照镜子。"
+   },
+   "sentences": [
+    {
+     "en": "Lily looks in the mirror.",
+     "zh": "Lily 照镜子。",
+     "audio": "media/sent/17a2e3bac5b3.mp3"
+    },
+    {
+     "en": "Tom makes a funny face at the mirror.",
+     "zh": "Tom 对着镜子做鬼脸。",
+     "audio": "media/sent/548b8cb46372.mp3"
+    },
+    {
+     "en": "Dad puts on his hat in front of the mirror.",
+     "zh": "爸爸在镜子前戴上帽子。",
+     "audio": "media/sent/546f86296aff.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mirror.webp",
+    "uk": "media/uk/mirror.mp3",
+    "us": "media/us/mirror.mp3"
+   },
+   "avoid": [
+    "light",
+    "machine",
+    "window"
+   ]
+  },
+  {
+   "id": "window",
+   "word": "window",
+   "zh": "窗户",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "窗户"
+    }
+   ],
+   "ipa": "/ˈwɪndəʊ/",
+   "chunks": [
+    "win",
+    "dow"
+   ],
+   "emoji": "🪟",
+   "sentence": {
+    "en": "Lily looks out of the train window.",
+    "zh": "Lily 望向火车窗外。"
+   },
+   "sentences": [
+    {
+     "en": "Lily looks out of the train window.",
+     "zh": "Lily 望向火车窗外。",
+     "audio": "media/sent/e7e34b705a8e.mp3"
+    },
+    {
+     "en": "Can I sit by the window, Dad?",
+     "zh": "爸爸，我能靠窗坐吗？",
+     "audio": "media/sent/383778b49c47.mp3"
+    },
+    {
+     "en": "Mum opens the car window.",
+     "zh": "妈妈打开汽车的车窗。",
+     "audio": "media/sent/de87088a6c2e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/window.webp",
+    "uk": "media/uk/window.mp3",
+    "us": "media/us/window.mp3"
+   },
+   "avoid": [
+    "light",
+    "machine",
+    "mirror"
+   ]
+  },
+  {
+   "id": "boat",
+   "word": "boat",
+   "zh": "小船；船",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小船；船"
+    }
+   ],
+   "ipa": "/bəʊt/",
+   "chunks": [
+    "boat"
+   ],
+   "emoji": "⛵",
+   "sentence": {
+    "en": "Can we go by boat, Grandpa?",
+    "zh": "爷爷，我们能坐船去吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can we go by boat, Grandpa?",
+     "zh": "爷爷，我们能坐船去吗？",
+     "audio": "media/sent/ea7cba9f67e8.mp3"
+    },
+    {
+     "en": "The small boat crosses the lake.",
+     "zh": "那条小船穿过湖面。",
+     "audio": "media/sent/a97dcacaec5a.mp3"
+    },
+    {
+     "en": "We take a boat to the island.",
+     "zh": "我们坐船到那座岛上去。",
+     "audio": "media/sent/8b1476fd79c4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/boat.webp",
+    "uk": "media/uk/boat.mp3",
+    "us": "media/us/boat.mp3"
+   },
+   "avoid": [
+    "sailing",
+    "ship"
+   ]
+  },
+  {
+   "id": "ship",
+   "word": "ship",
+   "zh": "（大）船；轮船",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "（大）船；轮船"
+    }
+   ],
+   "ipa": "/ʃɪp/",
+   "chunks": [
+    "ship"
+   ],
+   "emoji": "🚢",
+   "sentence": {
+    "en": "We see a big ship at sea.",
+    "zh": "我们在海上看到一艘大船。"
+   },
+   "sentences": [
+    {
+     "en": "We see a big ship at sea.",
+     "zh": "我们在海上看到一艘大船。",
+     "audio": "media/sent/64f656543c2b.mp3"
+    },
+    {
+     "en": "The ship goes to France in eight hours.",
+     "zh": "这艘船八个小时到法国。",
+     "audio": "media/sent/afa544dac744.mp3"
+    },
+    {
+     "en": "Dad watches the ship from the beach.",
+     "zh": "爸爸在海滩上看那艘船。",
+     "audio": "media/sent/ad81d345b59f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ship.webp",
+    "uk": "media/uk/ship.mp3",
+    "us": "media/us/ship.mp3"
+   },
+   "avoid": [
+    "boat",
+    "sailing"
+   ]
+  },
+  {
+   "id": "sailing",
+   "word": "sailing",
+   "zh": "帆船运动",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "帆船运动"
+    }
+   ],
+   "ipa": "/ˈseɪlɪŋ/",
+   "chunks": [
+    "sail",
+    "ing"
+   ],
+   "emoji": "⛵",
+   "sentence": {
+    "en": "We go sailing on Saturday.",
+    "zh": "我们星期六去玩帆船。"
+   },
+   "sentences": [
+    {
+     "en": "We go sailing on Saturday.",
+     "zh": "我们星期六去玩帆船。",
+     "audio": "media/sent/9852577212fd.mp3"
+    },
+    {
+     "en": "Sailing needs a lot of wind.",
+     "zh": "玩帆船需要很多风。",
+     "audio": "media/sent/85b45eab465f.mp3"
+    },
+    {
+     "en": "Lily learns sailing at the lake.",
+     "zh": "Lily 在湖边学玩帆船。",
+     "audio": "media/sent/e85d0f1cb55d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sailing.webp",
+    "uk": "media/uk/sailing.mp3",
+    "us": "media/us/sailing.mp3"
+   },
+   "avoid": [
+    "boat",
+    "ship"
+   ]
+  },
+  {
+   "id": "ride",
+   "word": "ride",
+   "zh": "骑；乘坐",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "骑；乘坐"
+    }
+   ],
+   "ipa": "/raɪd/",
+   "chunks": [
+    "ride"
+   ],
+   "emoji": "🐴",
+   "sentence": {
+    "en": "Sam gives Lily a ride on his bike.",
+    "zh": "Sam 让 Lily 骑他的自行车。"
+   },
+   "sentences": [
+    {
+     "en": "Sam gives Lily a ride on his bike.",
+     "zh": "Sam 让 Lily 骑他的自行车。",
+     "audio": "media/sent/2ce78cf54b85.mp3"
+    },
+    {
+     "en": "Dad takes Tom for a ride in the car.",
+     "zh": "爸爸带 Tom 坐汽车兜风。",
+     "audio": "media/sent/04963b70e72d.mp3"
+    },
+    {
+     "en": "Can we ride our bikes to the station?",
+     "zh": "我们能骑自行车去车站吗？",
+     "audio": "media/sent/8f224132d51d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ride.webp",
+    "uk": "media/uk/ride.mp3",
+    "us": "media/us/ride.mp3"
+   },
+   "avoid": [
+    "drive",
+    "park.2"
+   ]
+  },
+  {
+   "id": "explorer",
+   "word": "explorer",
+   "zh": "探险家",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "探险家"
+    }
+   ],
+   "ipa": "/ɪkˈsplɔːrə/",
+   "chunks": [
+    "ex",
+    "plor",
+    "er"
+   ],
+   "emoji": "🧭",
+   "sentence": {
+    "en": "The explorer draws a map.",
+    "zh": "那位探险家画了一张地图。"
+   },
+   "sentences": [
+    {
+     "en": "The explorer draws a map.",
+     "zh": "那位探险家画了一张地图。",
+     "audio": "media/sent/6b971c16a7da.mp3"
+    },
+    {
+     "en": "The explorer walks into the forest.",
+     "zh": "探险家走进了森林。",
+     "audio": "media/sent/b2fcce8659b1.mp3"
+    },
+    {
+     "en": "Do you want to be an explorer, Lily?",
+     "zh": "Lily，你想当探险家吗？",
+     "audio": "media/sent/69082d1b9cc5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/explorer.webp",
+    "uk": "media/uk/explorer.mp3",
+    "us": "media/us/explorer.mp3"
+   },
+   "avoid": [
+    "country"
+   ]
+  },
+  {
+   "id": "country",
+   "word": "country",
+   "zh": "国家；乡村",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "国家"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "乡村；乡下",
+     "en": "We drive to the country on Sunday."
+    }
+   ],
+   "ipa": "/ˈkʌntri/",
+   "chunks": [
+    "coun",
+    "try"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "We travel to another country.",
+    "zh": "我们到另一个国家去旅行。"
+   },
+   "sentences": [
+    {
+     "en": "We travel to another country.",
+     "zh": "我们到另一个国家去旅行。",
+     "audio": "media/sent/257fd9405c6a.mp3"
+    },
+    {
+     "en": "Which country do we fly to?",
+     "zh": "我们坐飞机去哪个国家？",
+     "audio": "media/sent/d9279ed726c2.mp3"
+    },
+    {
+     "en": "We drive to the country on Sunday.",
+     "zh": "我们星期天开车去乡下。",
+     "audio": "media/sent/317626c17222.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/country.webp",
+    "uk": "media/uk/country.mp3",
+    "us": "media/us/country.mp3"
+   },
+   "avoid": [
+    "explorer"
+   ]
+  },
+  {
+   "id": "ambulance",
+   "word": "ambulance",
+   "zh": "救护车",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "救护车"
+    }
+   ],
+   "ipa": "/ˈæmbjələns/",
+   "chunks": [
+    "am",
+    "bu",
+    "lance"
+   ],
+   "emoji": "🚑",
+   "sentence": {
+    "en": "The ambulance comes fast.",
+    "zh": "救护车来得很快。"
+   },
+   "sentences": [
+    {
+     "en": "The ambulance comes fast.",
+     "zh": "救护车来得很快。",
+     "audio": "media/sent/95060d1a58f4.mp3"
+    },
+    {
+     "en": "Listen! An ambulance is coming.",
+     "zh": "听！救护车来了。",
+     "audio": "media/sent/0c112dc4339b.mp3"
+    },
+    {
+     "en": "An ambulance helps sick people.",
+     "zh": "救护车帮助生病的人。",
+     "audio": "media/sent/d6175016b5b5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ambulance.webp",
+    "uk": "media/uk/ambulance.mp3",
+    "us": "media/us/ambulance.mp3"
+   },
+   "avoid": []
+  }
+ ]
+}

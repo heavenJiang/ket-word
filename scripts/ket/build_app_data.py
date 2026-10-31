@@ -82,15 +82,16 @@ def sentence(en: str, zh: str, recorded: dict, used_media: set[str]) -> dict:
     return out
 
 
-def check_content(tid: str, c: dict, items: list[dict]) -> None:
-    """Content must cover the topic's official words exactly, and groups must name real words."""
+def content_problems(tid: str, c: dict, items: list[dict], partial: bool = False) -> list[str]:
+    """What is wrong with one island's content (see check_content). partial: the island is still a draft
+    written a batch at a time, so it need not cover every official word of its topic yet."""
     ids = [w["id"] for w in c["words"]]
     official = {i["id"] for i in items if tid in i["topics"]}
     by_id = {i["id"]: i for i in items}
     problems = []
     if len(ids) != len(set(ids)):
         problems.append(f"duplicate ids: {sorted({x for x in ids if ids.count(x) > 1})}")
-    if missing := official - set(ids):
+    if not partial and (missing := official - set(ids)):
         problems.append(f"official words without content: {sorted(missing)}")
     # a second-meaning card (can.2, "of": "can") is not on the list itself; its parent word must be here
     cards = {w["id"]: w["of"] for w in c["words"] if w.get("of")}
@@ -112,7 +113,12 @@ def check_content(tid: str, c: dict, items: list[dict]) -> None:
             problems.append(f"{w['id']}: a second-meaning card needs its own picture (scene)")
         if "".join(w["chunks"]).lower() != word.lower().replace(" ", "").replace("-", ""):
             problems.append(f"{w['id']}: chunks {w['chunks']} do not spell the word")
-    if problems:
+    return problems
+
+
+def check_content(tid: str, c: dict, items: list[dict]) -> None:
+    """Stop the build if the island's content has problems."""
+    if problems := content_problems(tid, c, items):
         raise SystemExit(f"{tid}: " + "; ".join(problems))
 
 
@@ -226,7 +232,7 @@ def main() -> None:
                 used_media.add(media["img"])
             if a:
                 for kind in MEDIA_KINDS:
-                    if kind == "img" and (w.get("atlasImage") is False or "img" in media or w.get("of")):
+                    if kind == "img" and (w.get("atlasImage") is False or w.get("picture") is False or "img" in media or w.get("of")):
                         continue
                     path = fetch(a["id"], kind, w.get("of", w["id"]))  # a second meaning shares its word's recording
                     if path:
@@ -251,19 +257,14 @@ def main() -> None:
                 **({"of": w["of"], "ofZh": by_word[w["of"]]["zh"]} if w.get("of") else {}),
                 "avoid": sorted(avoid.get(w["id"], ())),
             })
-        if bare := [e["id"] for e in entries if "img" not in e["media"]]:
+        # "picture": false marks a word no picture can show (the, because): its emoji stands in
+        no_pic = {w["id"] for w in c["words"] if w.get("picture") is False}
+        if bare := [e["id"] for e in entries if "img" not in e["media"] and e["id"] not in no_pic]:
             raise SystemExit(f"{tid}: no illustration for {bare}; draw content/media/svg/<id>.svg "
                              "(render_svg.mjs) or generate one (gen_comfy.py / gen_images.py)")
         (OUT / "topics" / f"{tid}.json").write_text(
             json.dumps({"id": tid, "words": entries}, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{tid}: {len(entries)} words, {sum(1 for e in entries if 'img' in e['media'])} illustrated")
-
-    # drop word media no longer referenced, e.g. an illustration blocked after review
-    # (media/ui holds the app's own pictures, such as the mascot, and is left alone)
-    for f in MEDIA.rglob("*"):
-        if f.is_file() and f.relative_to(MEDIA).parts[0] != "ui" and f"media/{f.relative_to(MEDIA)}" not in used_media:
-            f.unlink()
-            print(f"  - removed {f.relative_to(ROOT)}")
 
     unknown, no_gap, total = check_sentences.check(list(content))
     s_unknown, _ = check_sentences.check_stories()
@@ -272,6 +273,14 @@ def main() -> None:
     stories = build_stories(content, used_media)
     (OUT / "stories.json").write_text(json.dumps(stories, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"stories: {len(stories)}")
+
+    # drop media no longer referenced, e.g. an illustration blocked after review; after the stories, which
+    # claim their pages' pictures (media/ui holds the app's own pictures, such as the mascot, and is left alone)
+    for f in MEDIA.rglob("*"):
+        if f.is_file() and f.relative_to(MEDIA).parts[0] != "ui" and f"media/{f.relative_to(MEDIA)}" not in used_media:
+            f.unlink()
+            print(f"  - removed {f.relative_to(ROOT)}")
+
     print(f"sentences: {total}, off the KET list: {len(unknown)}, words without a gap sentence: {len(no_gap)}"
           + ("  (run scripts/ket/check_sentences.py)" if unknown or no_gap else ""))
 

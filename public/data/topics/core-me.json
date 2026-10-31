@@ -1,0 +1,1795 @@
+{
+ "id": "core-me",
+ "words": [
+  {
+   "id": "i",
+   "word": "I",
+   "zh": "我",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "I"
+   ],
+   "emoji": "🙋",
+   "sentence": {
+    "en": "I like eating ice cream.",
+    "zh": "我喜欢吃冰淇淋。"
+   },
+   "sentences": [
+    {
+     "en": "I like eating ice cream.",
+     "zh": "我喜欢吃冰淇淋。",
+     "audio": "media/sent/ef44dfdee1e4.mp3"
+    },
+    {
+     "en": "I am nine years old.",
+     "zh": "我九岁了。",
+     "audio": "media/sent/1acce5c0c80a.mp3"
+    },
+    {
+     "en": "I can ride my bike.",
+     "zh": "我会骑自行车。",
+     "audio": "media/sent/5d936ceb73a9.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "me",
+   "word": "me",
+   "zh": "我（宾格）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我（宾格）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "me"
+   ],
+   "emoji": "🫵",
+   "sentence": {
+    "en": "Tom gives me a toy.",
+    "zh": "Tom 给我一个玩具。"
+   },
+   "sentences": [
+    {
+     "en": "Tom gives me a toy.",
+     "zh": "Tom 给我一个玩具。",
+     "audio": "media/sent/78f69ef5c14c.mp3"
+    },
+    {
+     "en": "Mum helps me with my homework.",
+     "zh": "妈妈帮我做作业。",
+     "audio": "media/sent/bc873a2f4c5b.mp3"
+    },
+    {
+     "en": "Max runs after me in the park.",
+     "zh": "Max 在公园里追我。",
+     "audio": "media/sent/e5af04ebc4e4.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "my",
+   "word": "my",
+   "zh": "我的",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "我的"
+    }
+   ],
+   "ipa": "/maɪ/",
+   "chunks": [
+    "my"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "This is my red bag.",
+    "zh": "这是我的红书包。"
+   },
+   "sentences": [
+    {
+     "en": "This is my red bag.",
+     "zh": "这是我的红书包。",
+     "audio": "media/sent/236cdc4b8bf9.mp3"
+    },
+    {
+     "en": "My brother Tom likes football.",
+     "zh": "我弟弟 Tom 喜欢足球。",
+     "audio": "media/sent/1664b5dee5ad.mp3"
+    },
+    {
+     "en": "I love my family.",
+     "zh": "我爱我的家人。",
+     "audio": "media/sent/84a3624de3d3.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/my.mp3",
+    "us": "media/us/my.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "mine",
+   "word": "mine",
+   "zh": "我的（东西）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我的（东西）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "mine"
+   ],
+   "emoji": "🧸",
+   "sentence": {
+    "en": "That bear is mine.",
+    "zh": "那只熊是我的。"
+   },
+   "sentences": [
+    {
+     "en": "That bear is mine.",
+     "zh": "那只熊是我的。",
+     "audio": "media/sent/9595556810a2.mp3"
+    },
+    {
+     "en": "This blue pen is mine.",
+     "zh": "这支蓝笔是我的。",
+     "audio": "media/sent/40f287192fb4.mp3"
+    },
+    {
+     "en": "The big ball is mine!",
+     "zh": "那个大球是我的！",
+     "audio": "media/sent/ff6af8a35896.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "myself",
+   "word": "myself",
+   "zh": "我自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我自己"
+    }
+   ],
+   "ipa": "/maɪˈself/",
+   "chunks": [
+    "my",
+    "self"
+   ],
+   "emoji": "🪞",
+   "sentence": {
+    "en": "I tie my shoes myself.",
+    "zh": "我自己系鞋带。"
+   },
+   "sentences": [
+    {
+     "en": "I tie my shoes myself.",
+     "zh": "我自己系鞋带。",
+     "audio": "media/sent/d0224eb6ff19.mp3"
+    },
+    {
+     "en": "I made this card myself.",
+     "zh": "这张卡片是我自己做的。",
+     "audio": "media/sent/d31d872f5647.mp3"
+    },
+    {
+     "en": "I washed my hands myself.",
+     "zh": "我自己洗了手。",
+     "audio": "media/sent/824f8d15fd9a.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/myself.mp3",
+    "us": "media/us/myself.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "you",
+   "word": "you",
+   "zh": "你",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "你"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "you"
+   ],
+   "emoji": "👉",
+   "sentence": {
+    "en": "Do you like apples?",
+    "zh": "你喜欢苹果吗？"
+   },
+   "sentences": [
+    {
+     "en": "Do you like apples?",
+     "zh": "你喜欢苹果吗？",
+     "audio": "media/sent/22f1d7200038.mp3"
+    },
+    {
+     "en": "You are my best friend.",
+     "zh": "你是我最好的朋友。",
+     "audio": "media/sent/13319a76b0e9.mp3"
+    },
+    {
+     "en": "Can you help me?",
+     "zh": "你能帮我吗？",
+     "audio": "media/sent/994e5c5312ca.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "your",
+   "word": "your",
+   "zh": "你的",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "你的"
+    }
+   ],
+   "ipa": "/jɔː/",
+   "chunks": [
+    "your"
+   ],
+   "emoji": "👂",
+   "sentence": {
+    "en": "Your hair is wet.",
+    "zh": "你的头发湿了。"
+   },
+   "sentences": [
+    {
+     "en": "Your hair is wet.",
+     "zh": "你的头发湿了。",
+     "audio": "media/sent/7990f7bd1ae5.mp3"
+    },
+    {
+     "en": "Is this your book?",
+     "zh": "这是你的书吗？",
+     "audio": "media/sent/35363c95037e.mp3"
+    },
+    {
+     "en": "Your dog is big.",
+     "zh": "你的狗很大。",
+     "audio": "media/sent/6dddec6888c6.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/your.mp3",
+    "us": "media/us/your.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "yours",
+   "word": "yours",
+   "zh": "你的（东西）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "你的（东西）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "yours"
+   ],
+   "emoji": "☂️",
+   "sentence": {
+    "en": "This umbrella is yours.",
+    "zh": "这把伞是你的。"
+   },
+   "sentences": [
+    {
+     "en": "This umbrella is yours.",
+     "zh": "这把伞是你的。",
+     "audio": "media/sent/218a0f1c8d21.mp3"
+    },
+    {
+     "en": "The red bike is yours.",
+     "zh": "那辆红自行车是你的。",
+     "audio": "media/sent/dd6f5e430cdd.mp3"
+    },
+    {
+     "en": "Is that pencil case yours?",
+     "zh": "那个铅笔盒是你的吗？",
+     "audio": "media/sent/cb6392db8676.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "yourself",
+   "word": "yourself",
+   "zh": "你自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "你自己"
+    }
+   ],
+   "ipa": "/jɔːˈself/",
+   "chunks": [
+    "your",
+    "self"
+   ],
+   "emoji": "🧼",
+   "sentence": {
+    "en": "Wash your hands yourself.",
+    "zh": "你自己洗手。"
+   },
+   "sentences": [
+    {
+     "en": "Wash your hands yourself.",
+     "zh": "你自己洗手。",
+     "audio": "media/sent/bd73130df7e5.mp3"
+    },
+    {
+     "en": "Draw a picture yourself.",
+     "zh": "你自己画一幅画。",
+     "audio": "media/sent/ea97b9264046.mp3"
+    },
+    {
+     "en": "Clean your room yourself.",
+     "zh": "你自己打扫房间。",
+     "audio": "media/sent/e0332b537185.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/yourself.mp3",
+    "us": "media/us/yourself.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "he",
+   "word": "he",
+   "zh": "他",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "he"
+   ],
+   "emoji": "👦",
+   "sentence": {
+    "en": "He is my brother Tom.",
+    "zh": "他是我弟弟 Tom。"
+   },
+   "sentences": [
+    {
+     "en": "He is my brother Tom.",
+     "zh": "他是我弟弟 Tom。",
+     "audio": "media/sent/976e4800659e.mp3"
+    },
+    {
+     "en": "He plays football well.",
+     "zh": "他足球踢得很好。",
+     "audio": "media/sent/7d0e18638c28.mp3"
+    },
+    {
+     "en": "He likes reading books.",
+     "zh": "他喜欢看书。",
+     "audio": "media/sent/ce0b6bfe6cdf.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "him",
+   "word": "him",
+   "zh": "他（宾格）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他（宾格）"
+    }
+   ],
+   "ipa": "/hɪm/",
+   "chunks": [
+    "him"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "I give him a gift.",
+    "zh": "我给他一个礼物。"
+   },
+   "sentences": [
+    {
+     "en": "I give him a gift.",
+     "zh": "我给他一个礼物。",
+     "audio": "media/sent/89071df19c8c.mp3"
+    },
+    {
+     "en": "Mum calls him for dinner.",
+     "zh": "妈妈叫他吃晚饭。",
+     "audio": "media/sent/f9d5910821d1.mp3"
+    },
+    {
+     "en": "Do you know him?",
+     "zh": "你认识他吗？",
+     "audio": "media/sent/f3324a18f83e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/him.mp3",
+    "us": "media/us/him.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "his",
+   "word": "his",
+   "zh": "他的；他的（东西）",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "他的；他的（东西）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "his"
+   ],
+   "emoji": "🧢",
+   "sentence": {
+    "en": "He wears his cap.",
+    "zh": "他戴着他的帽子。"
+   },
+   "sentences": [
+    {
+     "en": "He wears his cap.",
+     "zh": "他戴着他的帽子。",
+     "audio": "media/sent/24a9fedd3ba5.mp3"
+    },
+    {
+     "en": "This is his new bike.",
+     "zh": "这是他的新自行车。",
+     "audio": "media/sent/256d8a4f5e5a.mp3"
+    },
+    {
+     "en": "The blue bag is his.",
+     "zh": "那个蓝书包是他的。",
+     "audio": "media/sent/e567f9ea981b.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "himself",
+   "word": "himself",
+   "zh": "他自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他自己"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "him",
+    "self"
+   ],
+   "emoji": "🥪",
+   "sentence": {
+    "en": "Tom makes a sandwich himself.",
+    "zh": "Tom 自己做三明治。"
+   },
+   "sentences": [
+    {
+     "en": "Tom makes a sandwich himself.",
+     "zh": "Tom 自己做三明治。",
+     "audio": "media/sent/d4fa247134c7.mp3"
+    },
+    {
+     "en": "He gets dressed himself.",
+     "zh": "他自己穿衣服。",
+     "audio": "media/sent/4e0cd2f0cb40.mp3"
+    },
+    {
+     "en": "He fixed his bike himself.",
+     "zh": "他自己修好了自行车。",
+     "audio": "media/sent/75610ceea0a6.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "she",
+   "word": "she",
+   "zh": "她",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "她"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "she"
+   ],
+   "emoji": "👩",
+   "sentence": {
+    "en": "She is my teacher.",
+    "zh": "她是我的老师。"
+   },
+   "sentences": [
+    {
+     "en": "She is my teacher.",
+     "zh": "她是我的老师。",
+     "audio": "media/sent/116f313b433a.mp3"
+    },
+    {
+     "en": "She sings very well.",
+     "zh": "她唱歌很好听。",
+     "audio": "media/sent/36acf55a1e5c.mp3"
+    },
+    {
+     "en": "She lives in a big house.",
+     "zh": "她住在一个大房子里。",
+     "audio": "media/sent/f7ff8205d543.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "her",
+   "word": "her",
+   "zh": "她的；她（宾格）",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "她的；她（宾格）"
+    }
+   ],
+   "ipa": "/hə(r)/",
+   "chunks": [
+    "her"
+   ],
+   "emoji": "👗",
+   "sentence": {
+    "en": "I see her red dress.",
+    "zh": "我看见她的红裙子。"
+   },
+   "sentences": [
+    {
+     "en": "I see her red dress.",
+     "zh": "我看见她的红裙子。",
+     "audio": "media/sent/bf4bc511633d.mp3"
+    },
+    {
+     "en": "Tom loves his mum. He likes her.",
+     "zh": "Tom 爱他的妈妈。他喜欢她。",
+     "audio": "media/sent/dc894482c912.mp3"
+    },
+    {
+     "en": "Her hair is black.",
+     "zh": "她的头发是黑色的。",
+     "audio": "media/sent/739bcf712e82.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/her.mp3",
+    "us": "media/us/her.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "hers",
+   "word": "hers",
+   "zh": "她的（东西）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "她的（东西）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "hers"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "The paint is hers.",
+    "zh": "那些颜料是她的。"
+   },
+   "sentences": [
+    {
+     "en": "The paint is hers.",
+     "zh": "那些颜料是她的。",
+     "audio": "media/sent/92761f3971f0.mp3"
+    },
+    {
+     "en": "This cat is hers.",
+     "zh": "这只猫是她的。",
+     "audio": "media/sent/d2f58147bc69.mp3"
+    },
+    {
+     "en": "The yellow scarf is hers.",
+     "zh": "那条黄围巾是她的。",
+     "audio": "media/sent/a8d8c41236c5.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "herself",
+   "word": "herself",
+   "zh": "她自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "她自己"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "her",
+    "self"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Lily ties her shoes herself.",
+    "zh": "Lily 自己系鞋带。"
+   },
+   "sentences": [
+    {
+     "en": "Lily ties her shoes herself.",
+     "zh": "Lily 自己系鞋带。",
+     "audio": "media/sent/c189f0f97a78.mp3"
+    },
+    {
+     "en": "She cooked dinner herself.",
+     "zh": "她自己做了晚饭。",
+     "audio": "media/sent/e32289ec2ad9.mp3"
+    },
+    {
+     "en": "She went to the shop herself.",
+     "zh": "她自己去商店了。",
+     "audio": "media/sent/447a3f515a55.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "it",
+   "word": "it",
+   "zh": "它",
+   "pos": [
+    "pron",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron",
+      "n"
+     ],
+     "zh": "它"
+    }
+   ],
+   "ipa": "/ɪt/",
+   "chunks": [
+    "it"
+   ],
+   "emoji": "🐈",
+   "sentence": {
+    "en": "Look at the cat. It is black.",
+    "zh": "看那只猫。它是黑色的。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the cat. It is black.",
+     "zh": "看那只猫。它是黑色的。",
+     "audio": "media/sent/f11cae721d67.mp3"
+    },
+    {
+     "en": "I like this song. It is fun.",
+     "zh": "我喜欢这首歌。它很有趣。",
+     "audio": "media/sent/a3b9f2a8ebd4.mp3"
+    },
+    {
+     "en": "It is raining today.",
+     "zh": "今天在下雨。",
+     "audio": "media/sent/2b35e75b530e.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/it.mp3",
+    "us": "media/us/it.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "its",
+   "word": "its",
+   "zh": "它的",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "它的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "its"
+   ],
+   "emoji": "🐶",
+   "sentence": {
+    "en": "The bird opens its wings.",
+    "zh": "小鸟张开它的翅膀。"
+   },
+   "sentences": [
+    {
+     "en": "The bird opens its wings.",
+     "zh": "小鸟张开它的翅膀。",
+     "audio": "media/sent/81045a382606.mp3"
+    },
+    {
+     "en": "The tree has green leaves. Its leaves are big.",
+     "zh": "这棵树有绿叶。它的叶子很大。",
+     "audio": "media/sent/725037a7a9e8.mp3"
+    },
+    {
+     "en": "Open the box. Look at its colours.",
+     "zh": "打开盒子。看看它的颜色。",
+     "audio": "media/sent/edcdb95c8faf.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "itself",
+   "word": "itself",
+   "zh": "它自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "它自己"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "it",
+    "self"
+   ],
+   "emoji": "🤖",
+   "sentence": {
+    "en": "The cat washes itself after dinner.",
+    "zh": "猫吃完饭后给自己洗脸。"
+   },
+   "sentences": [
+    {
+     "en": "The cat washes itself after dinner.",
+     "zh": "猫吃完饭后给自己洗脸。",
+     "audio": "media/sent/7b6bfd824c9d.mp3"
+    },
+    {
+     "en": "The door closed by itself.",
+     "zh": "门自己关上了。",
+     "audio": "media/sent/afe69df3fc82.mp3"
+    },
+    {
+     "en": "The toy car moves by itself.",
+     "zh": "玩具车自己会动。",
+     "audio": "media/sent/cff8c83433ad.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "we",
+   "word": "we",
+   "zh": "我们",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我们"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "we"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "We live in a small house.",
+    "zh": "我们住在一个小房子里。"
+   },
+   "sentences": [
+    {
+     "en": "We live in a small house.",
+     "zh": "我们住在一个小房子里。",
+     "audio": "media/sent/658f97992f10.mp3"
+    },
+    {
+     "en": "We are going to the park.",
+     "zh": "我们要去公园。",
+     "audio": "media/sent/6a2eddc9574d.mp3"
+    },
+    {
+     "en": "We love ice cream.",
+     "zh": "我们喜欢冰淇淋。",
+     "audio": "media/sent/1a81c5b7b352.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "us",
+   "word": "us",
+   "zh": "我们（宾格）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我们（宾格）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "us"
+   ],
+   "emoji": "👂",
+   "sentence": {
+    "en": "Grandma tells us a story.",
+    "zh": "奶奶给我们讲故事。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma tells us a story.",
+     "zh": "奶奶给我们讲故事。",
+     "audio": "media/sent/32f5f36c6564.mp3"
+    },
+    {
+     "en": "Max follows us to school.",
+     "zh": "Max 跟着我们去学校。",
+     "audio": "media/sent/4a4b0912c710.mp3"
+    },
+    {
+     "en": "Mum buys us new shoes.",
+     "zh": "妈妈给我们买新鞋。",
+     "audio": "media/sent/2e64be49c2d9.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "our",
+   "word": "our",
+   "zh": "我们的",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "我们的"
+    }
+   ],
+   "ipa": "/aʊə/",
+   "chunks": [
+    "our"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "This is our dog, Max.",
+    "zh": "这是我们的狗，Max。"
+   },
+   "sentences": [
+    {
+     "en": "This is our dog, Max.",
+     "zh": "这是我们的狗，Max。",
+     "audio": "media/sent/dacc1f9ef669.mp3"
+    },
+    {
+     "en": "Our house has a big garden.",
+     "zh": "我们的房子有一个大花园。",
+     "audio": "media/sent/9d24c30165c9.mp3"
+    },
+    {
+     "en": "We clean our classroom every day.",
+     "zh": "我们每天打扫教室。",
+     "audio": "media/sent/0dae8665e451.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/our.mp3",
+    "us": "media/us/our.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "ours",
+   "word": "ours",
+   "zh": "我们的（东西）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我们的（东西）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ours"
+   ],
+   "emoji": "🔑",
+   "sentence": {
+    "en": "The red bike is ours.",
+    "zh": "那辆红色的自行车是我们的。"
+   },
+   "sentences": [
+    {
+     "en": "The red bike is ours.",
+     "zh": "那辆红色的自行车是我们的。",
+     "audio": "media/sent/9f1d222244e7.mp3"
+    },
+    {
+     "en": "That house with the blue door is ours.",
+     "zh": "那个蓝门的房子是我们的。",
+     "audio": "media/sent/31b6700d8bbc.mp3"
+    },
+    {
+     "en": "These toys are ours.",
+     "zh": "这些玩具是我们的。",
+     "audio": "media/sent/84d48af9e2f2.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "ourselves",
+   "word": "ourselves",
+   "zh": "我们自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "我们自己"
+    }
+   ],
+   "ipa": "/aʊəˈselvz/",
+   "chunks": [
+    "our",
+    "selves"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "We made the cake ourselves.",
+    "zh": "我们自己做了蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "We made the cake ourselves.",
+     "zh": "我们自己做了蛋糕。",
+     "audio": "media/sent/e73e115ab353.mp3"
+    },
+    {
+     "en": "We walk to school by ourselves.",
+     "zh": "我们自己走路去学校。",
+     "audio": "media/sent/cb621329a8c8.mp3"
+    },
+    {
+     "en": "We can dress ourselves.",
+     "zh": "我们可以自己穿衣服。",
+     "audio": "media/sent/627ee1b42fbb.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/ourselves.mp3",
+    "us": "media/us/ourselves.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "they",
+   "word": "they",
+   "zh": "他们；她们",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他们；她们"
+    }
+   ],
+   "ipa": "/ðeɪ/",
+   "chunks": [
+    "they"
+   ],
+   "emoji": "👥",
+   "sentence": {
+    "en": "They play football in the park.",
+    "zh": "他们在公园里踢足球。"
+   },
+   "sentences": [
+    {
+     "en": "They play football in the park.",
+     "zh": "他们在公园里踢足球。",
+     "audio": "media/sent/225a236ef143.mp3"
+    },
+    {
+     "en": "Look! They are flying kites.",
+     "zh": "看！他们在放风筝。",
+     "audio": "media/sent/f838066fd078.mp3"
+    },
+    {
+     "en": "They live in the country.",
+     "zh": "他们住在乡下。",
+     "audio": "media/sent/1ea238e76483.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/they.mp3",
+    "us": "media/us/they.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "them",
+   "word": "them",
+   "zh": "他们；她们（宾格）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他们；她们（宾格）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "them"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "I give them a gift.",
+    "zh": "我给他们一个礼物。"
+   },
+   "sentences": [
+    {
+     "en": "I give them a gift.",
+     "zh": "我给他们一个礼物。",
+     "audio": "media/sent/61d34b850d7f.mp3"
+    },
+    {
+     "en": "Dad drives them to school.",
+     "zh": "爸爸送他们去学校。",
+     "audio": "media/sent/e14660bd2c67.mp3"
+    },
+    {
+     "en": "We like them very much.",
+     "zh": "我们很喜欢他们。",
+     "audio": "media/sent/1f07d2bcd7dc.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "their",
+   "word": "their",
+   "zh": "他们的；她们的",
+   "pos": [
+    "det"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det"
+     ],
+     "zh": "他们的；她们的"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "their"
+   ],
+   "emoji": "🚲",
+   "sentence": {
+    "en": "They ride their bikes.",
+    "zh": "他们骑自行车。"
+   },
+   "sentences": [
+    {
+     "en": "They ride their bikes.",
+     "zh": "他们骑自行车。",
+     "audio": "media/sent/769b6f60a2c4.mp3"
+    },
+    {
+     "en": "Their dog is nice.",
+     "zh": "他们的狗很友好。",
+     "audio": "media/sent/37e1590c2269.mp3"
+    },
+    {
+     "en": "We visit their house.",
+     "zh": "我们去他们家。",
+     "audio": "media/sent/cc78f4104aaa.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "theirs",
+   "word": "theirs",
+   "zh": "他们的（东西）",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他们的（东西）"
+    }
+   ],
+   "ipa": "/ðeəz/",
+   "chunks": [
+    "theirs"
+   ],
+   "emoji": "🏡",
+   "sentence": {
+    "en": "That ball is theirs.",
+    "zh": "那个球是他们的。"
+   },
+   "sentences": [
+    {
+     "en": "That ball is theirs.",
+     "zh": "那个球是他们的。",
+     "audio": "media/sent/3fe3055c5635.mp3"
+    },
+    {
+     "en": "The blue car is theirs.",
+     "zh": "那辆蓝色的车是他们的。",
+     "audio": "media/sent/d8c5dbd7b8d2.mp3"
+    },
+    {
+     "en": "Those books are theirs.",
+     "zh": "那些书是他们的。",
+     "audio": "media/sent/a77658e82def.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/theirs.mp3",
+    "us": "media/us/theirs.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "themselves",
+   "word": "themselves",
+   "zh": "他们自己；她们自己",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "他们自己；她们自己"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "them",
+    "selves"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "They painted the wall themselves.",
+    "zh": "他们自己刷了墙。"
+   },
+   "sentences": [
+    {
+     "en": "They painted the wall themselves.",
+     "zh": "他们自己刷了墙。",
+     "audio": "media/sent/556ef1209d00.mp3"
+    },
+    {
+     "en": "They made lunch themselves.",
+     "zh": "他们自己做了午饭。",
+     "audio": "media/sent/be6458dd3190.mp3"
+    },
+    {
+     "en": "They know the way themselves.",
+     "zh": "他们自己认得路。",
+     "audio": "media/sent/e8c5a8060a99.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "each-other",
+   "word": "each other",
+   "zh": "互相；彼此",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "互相；彼此"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "each",
+    "o",
+    "ther"
+   ],
+   "emoji": "🤗",
+   "sentence": {
+    "en": "We help each other.",
+    "zh": "我们互相帮助。"
+   },
+   "sentences": [
+    {
+     "en": "We help each other.",
+     "zh": "我们互相帮助。",
+     "audio": "media/sent/5af6670e015a.mp3"
+    },
+    {
+     "en": "They talk to each other every day.",
+     "zh": "他们每天互相聊天。",
+     "audio": "media/sent/253b15a5847c.mp3"
+    },
+    {
+     "en": "Max and Tom love each other.",
+     "zh": "Max 和 Tom 彼此喜爱。",
+     "audio": "media/sent/70d6002ac4a5.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "who",
+   "word": "who",
+   "zh": "谁",
+   "pos": [
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "pron"
+     ],
+     "zh": "谁"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "who"
+   ],
+   "emoji": "🙋",
+   "sentence": {
+    "en": "Who is that boy?",
+    "zh": "那个男孩是谁？"
+   },
+   "sentences": [
+    {
+     "en": "Who is that boy?",
+     "zh": "那个男孩是谁？",
+     "audio": "media/sent/e5c876f4fdfa.mp3"
+    },
+    {
+     "en": "Who has my pen?",
+     "zh": "谁拿了我的钢笔？",
+     "audio": "media/sent/59f16d716e6e.mp3"
+    },
+    {
+     "en": "I don't know who he is.",
+     "zh": "我不知道他是谁。",
+     "audio": "media/sent/ee12062aa6fe.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "whose",
+   "word": "whose",
+   "zh": "谁的",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "谁的"
+    }
+   ],
+   "ipa": "/huːz/",
+   "chunks": [
+    "whose"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Whose bag is this?",
+    "zh": "这是谁的书包？"
+   },
+   "sentences": [
+    {
+     "en": "Whose bag is this?",
+     "zh": "这是谁的书包？",
+     "audio": "media/sent/f011862b4456.mp3"
+    },
+    {
+     "en": "Whose dog is that?",
+     "zh": "那是谁的狗？",
+     "audio": "media/sent/838d55b11fe3.mp3"
+    },
+    {
+     "en": "I know whose bike it is.",
+     "zh": "我知道那是谁的自行车。",
+     "audio": "media/sent/78e203ef89d5.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/whose.mp3",
+    "us": "media/us/whose.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "what",
+   "word": "what",
+   "zh": "什么",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "什么"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "what"
+   ],
+   "emoji": "❓",
+   "sentence": {
+    "en": "What is your name?",
+    "zh": "你叫什么名字？"
+   },
+   "sentences": [
+    {
+     "en": "What is your name?",
+     "zh": "你叫什么名字？",
+     "audio": "media/sent/620283bb23db.mp3"
+    },
+    {
+     "en": "What do you want to eat?",
+     "zh": "你想吃什么？",
+     "audio": "media/sent/95c686b95355.mp3"
+    },
+    {
+     "en": "Look at what Max did!",
+     "zh": "看 Max 做了什么！",
+     "audio": "media/sent/5302df5f1594.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "which",
+   "word": "which",
+   "zh": "哪一个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "哪一个"
+    }
+   ],
+   "ipa": "/wɪtʃ/",
+   "chunks": [
+    "which"
+   ],
+   "emoji": "👟",
+   "sentence": {
+    "en": "Which shoes do you like?",
+    "zh": "你喜欢哪双鞋？"
+   },
+   "sentences": [
+    {
+     "en": "Which shoes do you like?",
+     "zh": "你喜欢哪双鞋？",
+     "audio": "media/sent/7a390251978d.mp3"
+    },
+    {
+     "en": "Which book is yours?",
+     "zh": "哪本书是你的？",
+     "audio": "media/sent/b702d0cbbdf2.mp3"
+    },
+    {
+     "en": "I don't know which way to go.",
+     "zh": "我不知道该走哪条路。",
+     "audio": "media/sent/90321d838324.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/which.mp3",
+    "us": "media/us/which.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "this",
+   "word": "this",
+   "zh": "这个",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "这个"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "this"
+   ],
+   "emoji": "👉",
+   "sentence": {
+    "en": "This is my toy car.",
+    "zh": "这是我的玩具车。"
+   },
+   "sentences": [
+    {
+     "en": "This is my toy car.",
+     "zh": "这是我的玩具车。",
+     "audio": "media/sent/b9980fec1130.mp3"
+    },
+    {
+     "en": "This apple is sweet.",
+     "zh": "这个苹果很甜。",
+     "audio": "media/sent/6dbd8bf0f3da.mp3"
+    },
+    {
+     "en": "Is this your cat?",
+     "zh": "这是你的猫吗？",
+     "audio": "media/sent/5468b854dc76.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "that",
+   "word": "that",
+   "zh": "那个；那",
+   "pos": [
+    "conj",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "conj",
+      "pron"
+     ],
+     "zh": "那个；那"
+    }
+   ],
+   "ipa": "/ðæt/",
+   "chunks": [
+    "that"
+   ],
+   "emoji": "👉",
+   "sentence": {
+    "en": "That is a big dog!",
+    "zh": "那是一只大狗！"
+   },
+   "sentences": [
+    {
+     "en": "That is a big dog!",
+     "zh": "那是一只大狗！",
+     "audio": "media/sent/b19575000d6a.mp3"
+    },
+    {
+     "en": "I like that song.",
+     "zh": "我喜欢那首歌。",
+     "audio": "media/sent/167769ce50fe.mp3"
+    },
+    {
+     "en": "That day was very fun.",
+     "zh": "那天很有趣。",
+     "audio": "media/sent/6bee5a5f36df.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/that.mp3",
+    "us": "media/us/that.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "these",
+   "word": "these",
+   "zh": "这些",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "这些"
+    }
+   ],
+   "ipa": "/ðiːz/",
+   "chunks": [
+    "these"
+   ],
+   "emoji": "🍎",
+   "sentence": {
+    "en": "These apples are red.",
+    "zh": "这些苹果是红的。"
+   },
+   "sentences": [
+    {
+     "en": "These apples are red.",
+     "zh": "这些苹果是红的。",
+     "audio": "media/sent/6c353b542812.mp3"
+    },
+    {
+     "en": "Look at these flowers!",
+     "zh": "看这些花！",
+     "audio": "media/sent/c048d061c628.mp3"
+    },
+    {
+     "en": "These are my friends.",
+     "zh": "这些是我的朋友。",
+     "audio": "media/sent/95f36a748809.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/these.mp3",
+    "us": "media/us/these.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "those",
+   "word": "those",
+   "zh": "那些",
+   "pos": [
+    "det",
+    "pron"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "det",
+      "pron"
+     ],
+     "zh": "那些"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "those"
+   ],
+   "emoji": "☁️",
+   "sentence": {
+    "en": "Those clouds are grey.",
+    "zh": "那些云是灰色的。"
+   },
+   "sentences": [
+    {
+     "en": "Those clouds are grey.",
+     "zh": "那些云是灰色的。",
+     "audio": "media/sent/c1128b4e3b38.mp3"
+    },
+    {
+     "en": "Who are those people?",
+     "zh": "那些人是谁？",
+     "audio": "media/sent/7346d9be90fe.mp3"
+    },
+    {
+     "en": "I want those shoes.",
+     "zh": "我想要那些鞋子。",
+     "audio": "media/sent/69ccb1728d43.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  }
+ ]
+}

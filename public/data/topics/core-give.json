@@ -1,0 +1,1264 @@
+{
+ "id": "core-give",
+ "words": [
+  {
+   "id": "give",
+   "word": "give",
+   "zh": "给",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "给"
+    }
+   ],
+   "ipa": "/ɡɪv/",
+   "chunks": [
+    "give"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Lily gives a card to Grandma.",
+    "zh": "Lily 给奶奶一张卡片。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gives a card to Grandma.",
+     "zh": "Lily 给奶奶一张卡片。",
+     "audio": "media/sent/9dc602705394.mp3"
+    },
+    {
+     "en": "Please give me that book, Tom.",
+     "zh": "Tom，请把书给我。",
+     "audio": "media/sent/871fbb6c1a1a.mp3"
+    },
+    {
+     "en": "Dad gives Max a toy.",
+     "zh": "爸爸给 Max 一个玩具。",
+     "audio": "media/sent/13b8d3fe7988.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/give.webp",
+    "uk": "media/uk/give.mp3",
+    "us": "media/us/give.mp3"
+   },
+   "avoid": [
+    "give-back",
+    "offer",
+    "share"
+   ]
+  },
+  {
+   "id": "give-back",
+   "word": "give back",
+   "zh": "归还；还给",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "归还；还给"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "give",
+    "back"
+   ],
+   "emoji": "🔄",
+   "sentence": {
+    "en": "I give the pen back to Sam.",
+    "zh": "我把笔还给 Sam。"
+   },
+   "sentences": [
+    {
+     "en": "I give the pen back to Sam.",
+     "zh": "我把笔还给 Sam。",
+     "audio": "media/sent/2b6132c05bd8.mp3"
+    },
+    {
+     "en": "Please give back my book when you finish.",
+     "zh": "你看完后请把我的书还给我。",
+     "audio": "media/sent/5238c0020787.mp3"
+    },
+    {
+     "en": "Tom gives the cookie back to Mum.",
+     "zh": "Tom 把饼干还给妈妈。",
+     "audio": "media/sent/dc6e7c79cb82.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/give-back.webp"
+   },
+   "avoid": [
+    "give",
+    "offer",
+    "share"
+   ]
+  },
+  {
+   "id": "take",
+   "word": "take",
+   "zh": "拿；带",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "拿；带"
+    }
+   ],
+   "ipa": "/teɪk/",
+   "chunks": [
+    "take"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Take your umbrella, Lily.",
+    "zh": "Lily，带上你的雨伞。"
+   },
+   "sentences": [
+    {
+     "en": "Take your umbrella, Lily.",
+     "zh": "Lily，带上你的雨伞。",
+     "audio": "media/sent/6c364dc779a7.mp3"
+    },
+    {
+     "en": "Dad takes a photo of Max.",
+     "zh": "爸爸给 Max 拍照。",
+     "audio": "media/sent/8af85cce3174.mp3"
+    },
+    {
+     "en": "I take my bag to school.",
+     "zh": "我带书包去学校。",
+     "audio": "media/sent/8e2a2986e6c2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/take.webp",
+    "uk": "media/uk/take.mp3",
+    "us": "media/us/take.mp3"
+   },
+   "avoid": [
+    "pick-up"
+   ]
+  },
+  {
+   "id": "take-off",
+   "word": "take off",
+   "zh": "脱下；起飞",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "脱下；起飞"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "take",
+    "off"
+   ],
+   "emoji": "🧥",
+   "sentence": {
+    "en": "Tom takes off his coat.",
+    "zh": "Tom 脱下外套。"
+   },
+   "sentences": [
+    {
+     "en": "Tom takes off his coat.",
+     "zh": "Tom 脱下外套。",
+     "audio": "media/sent/9c66b2198fb9.mp3"
+    },
+    {
+     "en": "Please take off your shoes.",
+     "zh": "请脱鞋。",
+     "audio": "media/sent/4f643ef0f2bf.mp3"
+    },
+    {
+     "en": "The plane takes off at noon.",
+     "zh": "飞机中午起飞。",
+     "audio": "media/sent/bcf5d0812134.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/take-off.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "pick-up",
+   "word": "pick up",
+   "zh": "捡起；接",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "捡起；接"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pick",
+    "up"
+   ],
+   "emoji": "🚗",
+   "sentence": {
+    "en": "Dad picks up Lily from school.",
+    "zh": "爸爸从学校接 Lily。"
+   },
+   "sentences": [
+    {
+     "en": "Dad picks up Lily from school.",
+     "zh": "爸爸从学校接 Lily。",
+     "audio": "media/sent/a7b565fbad7e.mp3"
+    },
+    {
+     "en": "Pick up your ball, Tom!",
+     "zh": "Tom，捡起你的球！",
+     "audio": "media/sent/03d36bd4a517.mp3"
+    },
+    {
+     "en": "Mum picks up the phone.",
+     "zh": "妈妈接电话。",
+     "audio": "media/sent/1e844f6c7f89.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pick-up.webp"
+   },
+   "avoid": [
+    "take"
+   ]
+  },
+  {
+   "id": "lose",
+   "word": "lose",
+   "zh": "丢失；输",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "丢失；输"
+    }
+   ],
+   "ipa": "/luːz/",
+   "chunks": [
+    "lose"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "Don't lose your key, Dad.",
+    "zh": "爸爸，别弄丢你的钥匙。"
+   },
+   "sentences": [
+    {
+     "en": "Don't lose your key, Dad.",
+     "zh": "爸爸，别弄丢你的钥匙。",
+     "audio": "media/sent/c8dc286cfc24.mp3"
+    },
+    {
+     "en": "We play to win, not to lose.",
+     "zh": "我们玩是为了赢，不是为了输。",
+     "audio": "media/sent/830d949c9031.mp3"
+    },
+    {
+     "en": "Tom loses his hat in the wind.",
+     "zh": "Tom 的帽子被风吹丢了。",
+     "audio": "media/sent/4d869914b680.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lose.webp",
+    "uk": "media/uk/lose.mp3",
+    "us": "media/us/lose.mp3"
+   },
+   "avoid": [
+    "lost"
+   ]
+  },
+  {
+   "id": "lost",
+   "word": "lost",
+   "zh": "迷路的；丢失的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "迷路的；丢失的"
+    }
+   ],
+   "ipa": "/lɒst/",
+   "chunks": [
+    "lost"
+   ],
+   "emoji": "😟",
+   "sentence": {
+    "en": "Max looks lost in the park.",
+    "zh": "Max 在公园里看起来迷路了。"
+   },
+   "sentences": [
+    {
+     "en": "Max looks lost in the park.",
+     "zh": "Max 在公园里看起来迷路了。",
+     "audio": "media/sent/f20aa2cd2345.mp3"
+    },
+    {
+     "en": "I found my lost ball.",
+     "zh": "我找到了丢失的球。",
+     "audio": "media/sent/4f5ca0981cae.mp3"
+    },
+    {
+     "en": "Lily feels lost without her map.",
+     "zh": "没有地图，Lily 感到迷路了。",
+     "audio": "media/sent/6ec00e7f7f5a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lost.webp",
+    "uk": "media/uk/lost.mp3",
+    "us": "media/us/lost.mp3"
+   },
+   "avoid": [
+    "lose"
+   ]
+  },
+  {
+   "id": "find",
+   "word": "find",
+   "zh": "找到",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "找到"
+    }
+   ],
+   "ipa": "/faɪnd/",
+   "chunks": [
+    "find"
+   ],
+   "emoji": "✨",
+   "sentence": {
+    "en": "I find my red socks!",
+    "zh": "我找到了我的红袜子！"
+   },
+   "sentences": [
+    {
+     "en": "I find my red socks!",
+     "zh": "我找到了我的红袜子！",
+     "audio": "media/sent/131ed4169875.mp3"
+    },
+    {
+     "en": "Tom finds a ball on the street.",
+     "zh": "Tom 在街上找到一个球。",
+     "audio": "media/sent/dc0452bb0bb7.mp3"
+    },
+    {
+     "en": "Can you find the cat?",
+     "zh": "你能找到猫吗？",
+     "audio": "media/sent/1467bbcaf40b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/find.webp",
+    "uk": "media/uk/find.mp3",
+    "us": "media/us/find.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "find-out",
+   "word": "find out",
+   "zh": "查明；发现",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "查明；发现"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "find",
+    "out"
+   ],
+   "emoji": "🕵️",
+   "sentence": {
+    "en": "We find out the answer.",
+    "zh": "我们发现了答案。"
+   },
+   "sentences": [
+    {
+     "en": "We find out the answer.",
+     "zh": "我们发现了答案。",
+     "audio": "media/sent/2a3adf6439ce.mp3"
+    },
+    {
+     "en": "How did you find out?",
+     "zh": "你怎么发现的？",
+     "audio": "media/sent/26c8add0ff95.mp3"
+    },
+    {
+     "en": "Let's find out who ate the cake.",
+     "zh": "我们来看看是谁吃了蛋糕。",
+     "audio": "media/sent/2abe4d06f12f.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "keep",
+   "word": "keep",
+   "zh": "保持；保留",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "保持；保留"
+    }
+   ],
+   "ipa": "/kiːp/",
+   "chunks": [
+    "keep"
+   ],
+   "emoji": "🔒",
+   "sentence": {
+    "en": "Keep the door closed.",
+    "zh": "保持门关上。"
+   },
+   "sentences": [
+    {
+     "en": "Keep the door closed.",
+     "zh": "保持门关上。",
+     "audio": "media/sent/c777712e1f49.mp3"
+    },
+    {
+     "en": "Keep this box for me, please.",
+     "zh": "请帮我保存这个盒子。",
+     "audio": "media/sent/7469d0d7fb79.mp3"
+    },
+    {
+     "en": "Grandma keeps old photos in a box.",
+     "zh": "奶奶把旧照片保存在盒子里。",
+     "audio": "media/sent/ee1d6d735479.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/keep.mp3",
+    "us": "media/us/keep.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "send",
+   "word": "send",
+   "zh": "寄；发送",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "寄；发送"
+    }
+   ],
+   "ipa": "/send/",
+   "chunks": [
+    "send"
+   ],
+   "emoji": "✉️",
+   "sentence": {
+    "en": "Mum sends a letter to Aunt Kate.",
+    "zh": "妈妈给 Aunt Kate 寄信。"
+   },
+   "sentences": [
+    {
+     "en": "Mum sends a letter to Aunt Kate.",
+     "zh": "妈妈给 Aunt Kate 寄信。",
+     "audio": "media/sent/aab6eff78112.mp3"
+    },
+    {
+     "en": "I send an email to Sam.",
+     "zh": "我给 Sam 发电子邮件。",
+     "audio": "media/sent/cda1bff86345.mp3"
+    },
+    {
+     "en": "Grandma sends us a photo.",
+     "zh": "奶奶给我们寄来一张照片。",
+     "audio": "media/sent/c1357c428745.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/send.webp",
+    "uk": "media/uk/send.mp3",
+    "us": "media/us/send.mp3"
+   },
+   "avoid": [
+    "deliver",
+    "mail",
+    "post"
+   ]
+  },
+  {
+   "id": "receive",
+   "word": "receive",
+   "zh": "收到",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "收到"
+    }
+   ],
+   "ipa": "/rɪˈsiːv/",
+   "chunks": [
+    "re",
+    "ceive"
+   ],
+   "emoji": "📬",
+   "sentence": {
+    "en": "Lily receives a gift from Grandpa.",
+    "zh": "Lily 收到了 Grandpa 的礼物。"
+   },
+   "sentences": [
+    {
+     "en": "Lily receives a gift from Grandpa.",
+     "zh": "Lily 收到了 Grandpa 的礼物。",
+     "audio": "media/sent/5662a02a82a0.mp3"
+    },
+    {
+     "en": "We receive post every morning.",
+     "zh": "我们每天早上收到信件。",
+     "audio": "media/sent/ed18b73f25dc.mp3"
+    },
+    {
+     "en": "Did you receive my message?",
+     "zh": "你收到我的消息了吗？",
+     "audio": "media/sent/ad99b127a65c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/receive.webp",
+    "uk": "media/uk/receive.mp3",
+    "us": "media/us/receive.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "deliver",
+   "word": "deliver",
+   "zh": "递送；运送",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "递送；运送"
+    }
+   ],
+   "ipa": "/dɪˈlɪvə/",
+   "chunks": [
+    "de",
+    "liv",
+    "er"
+   ],
+   "emoji": "🛵",
+   "sentence": {
+    "en": "The shop delivers our new bed today.",
+    "zh": "商店今天把我们的新床送来。"
+   },
+   "sentences": [
+    {
+     "en": "The shop delivers our new bed today.",
+     "zh": "商店今天把我们的新床送来。",
+     "audio": "media/sent/cdbcc8d21698.mp3"
+    },
+    {
+     "en": "We deliver food to Grandma.",
+     "zh": "我们给奶奶送食物。",
+     "audio": "media/sent/40d3c2af0d23.mp3"
+    },
+    {
+     "en": "They deliver flowers on Monday.",
+     "zh": "他们星期一送花。",
+     "audio": "media/sent/6b1d40257be7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/deliver.webp",
+    "uk": "media/uk/deliver.mp3",
+    "us": "media/us/deliver.mp3"
+   },
+   "avoid": [
+    "mail",
+    "post",
+    "send"
+   ]
+  },
+  {
+   "id": "steal",
+   "word": "steal",
+   "zh": "偷",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "偷"
+    }
+   ],
+   "ipa": "/stiːl/",
+   "chunks": [
+    "ste",
+    "al"
+   ],
+   "emoji": "🕵️",
+   "sentence": {
+    "en": "A bird tries to steal Tom's sandwich.",
+    "zh": "一只鸟想偷 Tom 的三明治。"
+   },
+   "sentences": [
+    {
+     "en": "A bird tries to steal Tom's sandwich.",
+     "zh": "一只鸟想偷 Tom 的三明治。",
+     "audio": "media/sent/e11cee21d83a.mp3"
+    },
+    {
+     "en": "The monkey tried to steal Tom's banana.",
+     "zh": "猴子试图偷走 Tom 的香蕉。",
+     "audio": "media/sent/8d71fdfcfcc8.mp3"
+    },
+    {
+     "en": "It is wrong to steal things.",
+     "zh": "偷东西是不对的。",
+     "audio": "media/sent/83c3dff25ac7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/steal.webp",
+    "uk": "media/uk/steal.mp3",
+    "us": "media/us/steal.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "borrow",
+   "word": "borrow",
+   "zh": "借（入）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "借（入）"
+    }
+   ],
+   "ipa": "/ˈbɒrəʊ/",
+   "chunks": [
+    "bor",
+    "row"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Can I borrow your ruler?",
+    "zh": "我能借你的尺子吗？"
+   },
+   "sentences": [
+    {
+     "en": "Can I borrow your ruler?",
+     "zh": "我能借你的尺子吗？",
+     "audio": "media/sent/449e958f3dac.mp3"
+    },
+    {
+     "en": "I borrowed a book from the library.",
+     "zh": "我从图书馆借了一本书。",
+     "audio": "media/sent/a914e262eda1.mp3"
+    },
+    {
+     "en": "Max wants to borrow Dad's ball.",
+     "zh": "Max 想借爸爸的球。",
+     "audio": "media/sent/ee6dc0f13d4f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/borrow.webp",
+    "uk": "media/uk/borrow.mp3",
+    "us": "media/us/borrow.mp3"
+   },
+   "avoid": [
+    "lend"
+   ]
+  },
+  {
+   "id": "lend",
+   "word": "lend",
+   "zh": "借（出）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "借（出）"
+    }
+   ],
+   "ipa": "/lend/",
+   "chunks": [
+    "lend"
+   ],
+   "emoji": "🤲",
+   "sentence": {
+    "en": "Please lend me your bike.",
+    "zh": "请把你的自行车借给我。"
+   },
+   "sentences": [
+    {
+     "en": "Please lend me your bike.",
+     "zh": "请把你的自行车借给我。",
+     "audio": "media/sent/3abfa3bb2bc0.mp3"
+    },
+    {
+     "en": "Mum lends Dad her car keys.",
+     "zh": "妈妈把车钥匙借给爸爸。",
+     "audio": "media/sent/43411f6d2497.mp3"
+    },
+    {
+     "en": "Can you lend me a pen?",
+     "zh": "你能借我一支笔吗？",
+     "audio": "media/sent/39f3cb7003f7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/lend.webp",
+    "uk": "media/uk/lend.mp3",
+    "us": "media/us/lend.mp3"
+   },
+   "avoid": [
+    "borrow"
+   ]
+  },
+  {
+   "id": "share",
+   "word": "share",
+   "zh": "分享",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "分享"
+    }
+   ],
+   "ipa": "/ʃeə/",
+   "chunks": [
+    "share"
+   ],
+   "emoji": "🍰",
+   "sentence": {
+    "en": "Lily shares her cake with Tom.",
+    "zh": "Lily 和 Tom 分享她的蛋糕。"
+   },
+   "sentences": [
+    {
+     "en": "Lily shares her cake with Tom.",
+     "zh": "Lily 和 Tom 分享她的蛋糕。",
+     "audio": "media/sent/35eead4fcd3d.mp3"
+    },
+    {
+     "en": "We share toys at school.",
+     "zh": "我们在学校分享玩具。",
+     "audio": "media/sent/9470aa631cf9.mp3"
+    },
+    {
+     "en": "Tom shares his apple with Max.",
+     "zh": "Tom 把他的苹果分给 Max。",
+     "audio": "media/sent/5c4c3530342d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/share.webp",
+    "uk": "media/uk/share.mp3",
+    "us": "media/us/share.mp3"
+   },
+   "avoid": [
+    "give",
+    "give-back",
+    "offer"
+   ]
+  },
+  {
+   "id": "sell",
+   "word": "sell",
+   "zh": "卖；出售",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "卖；出售"
+    }
+   ],
+   "ipa": "/sel/",
+   "chunks": [
+    "sell"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "Grandma sells fresh eggs.",
+    "zh": "奶奶卖新鲜鸡蛋。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma sells fresh eggs.",
+     "zh": "奶奶卖新鲜鸡蛋。",
+     "audio": "media/sent/53c7af03eb1a.mp3"
+    },
+    {
+     "en": "The shop sells blue umbrellas.",
+     "zh": "这家店卖蓝色的雨伞。",
+     "audio": "media/sent/454852a4efdf.mp3"
+    },
+    {
+     "en": "We sell old books at school.",
+     "zh": "我们在学校卖旧书。",
+     "audio": "media/sent/67d358b9f6f4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sell.webp",
+    "uk": "media/uk/sell.mp3",
+    "us": "media/us/sell.mp3"
+   },
+   "avoid": [
+    "order"
+   ]
+  },
+  {
+   "id": "save",
+   "word": "save",
+   "zh": "存（钱）；储蓄",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "存（钱）；储蓄"
+    }
+   ],
+   "ipa": "/seɪv/",
+   "chunks": [
+    "save"
+   ],
+   "emoji": "🐷",
+   "sentence": {
+    "en": "Lily saves money in a box.",
+    "zh": "Lily 把钱存在盒子里。"
+   },
+   "sentences": [
+    {
+     "en": "Lily saves money in a box.",
+     "zh": "Lily 把钱存在盒子里。",
+     "audio": "media/sent/fc3899620528.mp3"
+    },
+    {
+     "en": "I want to save for a new bike.",
+     "zh": "我想存钱买一辆新自行车。",
+     "audio": "media/sent/66769304e9dd.mp3"
+    },
+    {
+     "en": "Tom saves his pocket money every week.",
+     "zh": "Tom 每周都存零花钱。",
+     "audio": "media/sent/ababc99f574b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/save.webp",
+    "uk": "media/uk/save.mp3",
+    "us": "media/us/save.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "offer",
+   "word": "offer",
+   "zh": "提供；给予",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "提供；给予"
+    }
+   ],
+   "ipa": "/ˈɒfə/",
+   "chunks": [
+    "of",
+    "fer"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "Mum offers me a cup of tea.",
+    "zh": "妈妈给我端来一杯茶。"
+   },
+   "sentences": [
+    {
+     "en": "Mum offers me a cup of tea.",
+     "zh": "妈妈给我端来一杯茶。",
+     "audio": "media/sent/06582ab65058.mp3"
+    },
+    {
+     "en": "Can I offer you a cookie?",
+     "zh": "请你吃块饼干好吗？",
+     "audio": "media/sent/4f1b4343ef5f.mp3"
+    },
+    {
+     "en": "He offers his seat to Grandma.",
+     "zh": "他把座位让给奶奶。",
+     "audio": "media/sent/177dd2d6181a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/offer.webp",
+    "uk": "media/uk/offer.mp3",
+    "us": "media/us/offer.mp3"
+   },
+   "avoid": [
+    "give",
+    "give-back",
+    "share"
+   ]
+  },
+  {
+   "id": "order",
+   "word": "order",
+   "zh": "订购；点（菜）",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "订购；点（菜）"
+    }
+   ],
+   "ipa": "/ˈɔːdə/",
+   "chunks": [
+    "or",
+    "der"
+   ],
+   "emoji": "🍽️",
+   "sentence": {
+    "en": "Dad orders fish and chips.",
+    "zh": "爸爸点了炸鱼和薯条。"
+   },
+   "sentences": [
+    {
+     "en": "Dad orders fish and chips.",
+     "zh": "爸爸点了炸鱼和薯条。",
+     "audio": "media/sent/3ff0110e1c49.mp3"
+    },
+    {
+     "en": "We order pizza for dinner.",
+     "zh": "我们点披萨当晚餐。",
+     "audio": "media/sent/af5715f86a69.mp3"
+    },
+    {
+     "en": "Mum orders new shoes online.",
+     "zh": "妈妈在网上订购新鞋。",
+     "audio": "media/sent/278862b7a799.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/order.webp",
+    "uk": "media/uk/order.mp3",
+    "us": "media/us/order.mp3"
+   },
+   "avoid": [
+    "sell"
+   ]
+  },
+  {
+   "id": "post",
+   "word": "post",
+   "zh": "邮寄；寄信",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "邮寄；寄信"
+    }
+   ],
+   "ipa": "/pəʊst/",
+   "chunks": [
+    "post"
+   ],
+   "emoji": "📬",
+   "sentence": {
+    "en": "Grandma posts a letter.",
+    "zh": "奶奶寄了一封信。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma posts a letter.",
+     "zh": "奶奶寄了一封信。",
+     "audio": "media/sent/5ec5f27fb405.mp3"
+    },
+    {
+     "en": "Lily posts a card to Sam.",
+     "zh": "Lily 给 Sam 寄了一张卡片。",
+     "audio": "media/sent/5c1ee68db3f7.mp3"
+    },
+    {
+     "en": "I post a card to Grandma every year.",
+     "zh": "我每年都给奶奶寄一张卡片。",
+     "audio": "media/sent/aa0a5d9de611.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/post.webp",
+    "uk": "media/uk/post.mp3",
+    "us": "media/us/post.mp3"
+   },
+   "avoid": [
+    "deliver",
+    "mail",
+    "send"
+   ]
+  },
+  {
+   "id": "mail",
+   "word": "mail",
+   "zh": "邮件；信件",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "邮件；信件"
+    }
+   ],
+   "ipa": "/meɪl/",
+   "chunks": [
+    "mail"
+   ],
+   "emoji": "📩",
+   "sentence": {
+    "en": "Check the mail, please.",
+    "zh": "请看看信箱。"
+   },
+   "sentences": [
+    {
+     "en": "Check the mail, please.",
+     "zh": "请看看信箱。",
+     "audio": "media/sent/dfa18d81da57.mp3"
+    },
+    {
+     "en": "The mail comes at ten o'clock.",
+     "zh": "邮件十点钟送来。",
+     "audio": "media/sent/92642b0cdd1b.mp3"
+    },
+    {
+     "en": "There is no mail today.",
+     "zh": "今天没有邮件。",
+     "audio": "media/sent/c527d1f35bab.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mail.webp",
+    "uk": "media/uk/mail.mp3",
+    "us": "media/us/mail.mp3"
+   },
+   "avoid": [
+    "deliver",
+    "post",
+    "send"
+   ]
+  },
+  {
+   "id": "gift",
+   "word": "gift",
+   "zh": "礼物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "礼物"
+    }
+   ],
+   "ipa": "/ɡɪft/",
+   "chunks": [
+    "gift"
+   ],
+   "emoji": "🎁",
+   "sentence": {
+    "en": "This gift is for you.",
+    "zh": "这个礼物是给你的。"
+   },
+   "sentences": [
+    {
+     "en": "This gift is for you.",
+     "zh": "这个礼物是给你的。",
+     "audio": "media/sent/4ce18ae58b29.mp3"
+    },
+    {
+     "en": "Mum bought a nice gift for Dad.",
+     "zh": "妈妈给爸爸买了一份很好的礼物。",
+     "audio": "media/sent/1de25029637f.mp3"
+    },
+    {
+     "en": "Open your birthday gift, please.",
+     "zh": "请打开你的生日礼物。",
+     "audio": "media/sent/32e93d91d5a2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/gift.webp",
+    "uk": "media/uk/gift.mp3",
+    "us": "media/us/gift.mp3"
+   },
+   "avoid": [
+    "present"
+   ]
+  },
+  {
+   "id": "present",
+   "word": "present",
+   "zh": "礼物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "礼物"
+    }
+   ],
+   "ipa": "/ˈprezənt/; /prɪˈzent/",
+   "chunks": [
+    "pre",
+    "sent"
+   ],
+   "emoji": "🎀",
+   "sentence": {
+    "en": "I love my new present.",
+    "zh": "我喜欢我的新礼物。"
+   },
+   "sentences": [
+    {
+     "en": "I love my new present.",
+     "zh": "我喜欢我的新礼物。",
+     "audio": "media/sent/9a6af56b5e0e.mp3"
+    },
+    {
+     "en": "Grandpa gave me a present.",
+     "zh": "爷爷给了我一份礼物。",
+     "audio": "media/sent/344e421d5a7f.mp3"
+    },
+    {
+     "en": "She opened her birthday presents.",
+     "zh": "她打开了她的生日礼物。",
+     "audio": "media/sent/7f473edfc0c7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/present.webp",
+    "uk": "media/uk/present.mp3",
+    "us": "media/us/present.mp3"
+   },
+   "avoid": [
+    "gift"
+   ]
+  }
+ ]
+}

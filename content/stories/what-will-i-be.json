@@ -1,0 +1,45 @@
+{
+ "id": "what-will-i-be",
+ "topic": "jobs",
+ "title": "What Will I Be?",
+ "zh": "我长大要做什么？",
+ "pages": [
+  {
+   "en": "At school, the teacher asks, \"What job do you want when you are older?\" Mia wants to be a singer. Sam wants to be a pilot.",
+   "zh": "在学校，老师问：“你们长大后想做什么工作？”Mia 想当歌手，Sam 想当飞行员。",
+   "scene": "A bright classroom, the teacher smiling at the front, Mia singing into a pretend microphone, Sam holding a toy plane, other children laughing."
+  },
+  {
+   "en": "Lily doesn't know. She likes drawing, animals and stories. At home she asks Dad, \"What job is good for me?\"",
+   "zh": "Lily 不知道。她喜欢画画、动物和故事。回到家，她问爸爸：“什么工作适合我？”",
+   "scene": "Lily sitting on the sofa next to Dad looking thoughtful, her drawings of animals on the table, Max with his head on her knee."
+  },
+  {
+   "en": "\"You can be a writer and an artist,\" says Dad. \"You can write and draw books about animals!\" Lily laughs. \"That's a great idea!\"",
+   "zh": "“你可以当作家，也可以当画家，”爸爸说，“你可以写书、画书，讲动物的故事！”Lily 笑了起来：“好主意！”",
+   "scene": "Lily at her desk happily drawing a picture book about a puppy, Dad looking over her shoulder and smiling, Max sitting by her chair."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Sam wants to be a pilot.",
+   "zh": "Sam 想当飞行员。",
+   "answer": true
+  },
+  {
+   "q": "Who does Lily ask at home?",
+   "zh": "Lily 在家问了谁？",
+   "options": [
+    "Dad",
+    "Mum",
+    "Grandma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily wants to write books about cars.",
+   "zh": "Lily 想写关于汽车的书。",
+   "answer": false
+  }
+ ]
+}

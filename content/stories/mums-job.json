@@ -1,0 +1,45 @@
+{
+ "id": "mums-job",
+ "topic": "jobs",
+ "title": "A Day at Mum's Work",
+ "zh": "去妈妈单位的一天",
+ "pages": [
+  {
+   "en": "Mum is a nurse at the hospital. Today Lily goes to work with her. Mum puts on her uniform and says hello to the other staff.",
+   "zh": "妈妈是医院的护士。今天 Lily 跟她去上班。妈妈穿上制服，和其他同事打招呼。",
+   "scene": "A bright friendly hospital corridor, Mum in a blue nurse's uniform waving to other nurses and doctors, Lily holding her hand and smiling."
+  },
+  {
+   "en": "Mum checks a boy's temperature and gives an old man his medicine. She is very busy, but she is always kind to people.",
+   "zh": "妈妈给一个男孩量体温，给一位老人送药。她很忙，但她对大家总是很和气。",
+   "scene": "Mum the nurse gently checking a smiling boy's temperature in a hospital bed, Lily watching, an old man drinking water in the next bed."
+  },
+  {
+   "en": "In the evening, Lily is tired but happy. \"Your job is very important, Mum,\" she says. \"I want to be a nurse too!\"",
+   "zh": "傍晚，Lily 累了，但很开心。“妈妈，你的工作非常重要，”她说，“我也想当护士！”",
+   "scene": "Lily and Mum walking out of the hospital in the evening light, holding hands, Lily looking up at Mum and smiling."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Mum is a doctor.",
+   "zh": "妈妈是医生。",
+   "answer": false
+  },
+  {
+   "q": "What does Mum check?",
+   "zh": "妈妈检查了什么？",
+   "options": [
+    "a boy's temperature",
+    "a car",
+    "a letter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lily wants to be a nurse.",
+   "zh": "Lily 想当护士。",
+   "answer": true
+  }
+ ]
+}

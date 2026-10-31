@@ -5,6 +5,7 @@ Usage:
 
 Reads:
     data/ket-wordlist.json              (from parse_wordlist.py)
+    data/core-islands.json              core words (on no topic list) split into small islands
     .local/word-atlas/word-atlas.json   (https://github.com/designfuchen/word-atlas, CC BY 4.0)
 Writes:
     data/ket-words.json                 one learnable item per headword
@@ -24,6 +25,7 @@ WORDLIST = ROOT / "data/ket-wordlist.json"
 ATLAS = ROOT / ".local/word-atlas/word-atlas.json"
 OUT = ROOT / "data/ket-words.json"
 REPORT = ROOT / "data/coverage.md"
+CORE = ROOT / "data/core-islands.json"
 
 # Kid-friendly topic ids and Chinese names, in learning-map order.
 TOPICS = {
@@ -227,17 +229,19 @@ def build() -> None:
             items.append(it)
             by_norm[norm(w)] = it
 
+    core = json.loads(CORE.read_text(encoding="utf-8"))["islands"]
+    island_of = {w: c["id"] for c in core for w in c["words"]}
     for it in items:
         if not it["topics"]:
-            it["topics"] = ["core"]
+            it["topics"] = [island_of[it["id"]]]  # KeyError: a new core word needs an island in core-islands.json
 
     topic_meta = [{"id": tid, "en": en, "zh": zh} for en, (tid, zh) in TOPICS.items()]
     topic_meta += [
         {"id": "animals", "en": "Animals", "zh": "动物"},
         {"id": "numbers", "en": "Numbers", "zh": "数字"},
         {"id": "world", "en": "Countries and Continents", "zh": "国家与大洲"},
-        {"id": "core", "en": "Core words", "zh": "核心词"},
     ]
+    topic_meta += [{"id": c["id"], "en": c["en"], "zh": c["zh"], "emoji": c["emoji"], "core": True} for c in core]
     OUT.write_text(json.dumps({
         "source": src["source"],
         "topics": topic_meta,

@@ -1,0 +1,1937 @@
+{
+ "id": "core-words",
+ "words": [
+  {
+   "id": "app",
+   "word": "app",
+   "zh": "应用程序；软件",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "应用程序；软件"
+    }
+   ],
+   "ipa": "/æp/",
+   "chunks": [
+    "app"
+   ],
+   "emoji": "📱",
+   "sentence": {
+    "en": "Lily plays a game on her app.",
+    "zh": "Lily 在她的应用上玩游戏。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays a game on her app.",
+     "zh": "Lily 在她的应用上玩游戏。",
+     "audio": "media/sent/82d15b71dfe6.mp3"
+    },
+    {
+     "en": "Dad uses a map app.",
+     "zh": "爸爸用地图软件。",
+     "audio": "media/sent/5d7487b80974.mp3"
+    },
+    {
+     "en": "Download this app for free.",
+     "zh": "免费下载这个应用。",
+     "audio": "media/sent/b31de39d9ec7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/app.webp",
+    "uk": "media/uk/app.mp3",
+    "us": "media/us/app.mp3"
+   },
+   "avoid": [
+    "program",
+    "technology"
+   ]
+  },
+  {
+   "id": "blog",
+   "word": "blog",
+   "zh": "博客；网络日志",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "博客；网络日志"
+    }
+   ],
+   "ipa": "/blɒɡ/",
+   "chunks": [
+    "blog"
+   ],
+   "emoji": "💻",
+   "sentence": {
+    "en": "Sam writes a blog about football.",
+    "zh": "Sam 写一个关于足球的博客。"
+   },
+   "sentences": [
+    {
+     "en": "Sam writes a blog about football.",
+     "zh": "Sam 写一个关于足球的博客。",
+     "audio": "media/sent/cea3373e40fb.mp3"
+    },
+    {
+     "en": "Mia reads my new blog post.",
+     "zh": "Mia 读我新的博客文章。",
+     "audio": "media/sent/6dda81057409.mp3"
+    },
+    {
+     "en": "I write in my blog every week.",
+     "zh": "我每周都写我的博客。",
+     "audio": "media/sent/9b300603face.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/blog.webp",
+    "uk": "media/uk/blog.mp3",
+    "us": "media/us/blog.mp3"
+   },
+   "avoid": [
+    "chatroom",
+    "social-media"
+   ]
+  },
+  {
+   "id": "channel",
+   "word": "channel",
+   "zh": "频道",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "频道"
+    }
+   ],
+   "ipa": "/ˈtʃænəl/",
+   "chunks": [
+    "chan",
+    "nel"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "We watch the sports channel.",
+    "zh": "我们看体育频道。"
+   },
+   "sentences": [
+    {
+     "en": "We watch the sports channel.",
+     "zh": "我们看体育频道。",
+     "audio": "media/sent/5b3fcac220b9.mp3"
+    },
+    {
+     "en": "Turn to the music channel.",
+     "zh": "转到音乐频道。",
+     "audio": "media/sent/1c2fd1e732af.mp3"
+    },
+    {
+     "en": "This is my favourite channel.",
+     "zh": "这是我最喜欢的频道。",
+     "audio": "media/sent/c804f9beb5de.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/channel.webp",
+    "uk": "media/uk/channel.mp3",
+    "us": "media/us/channel.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "chatroom",
+   "word": "chatroom",
+   "zh": "聊天室",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "聊天室"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "chat",
+    "room"
+   ],
+   "emoji": "💬",
+   "sentence": {
+    "en": "Mia talks in the chatroom.",
+    "zh": "Mia 在聊天室里说话。"
+   },
+   "sentences": [
+    {
+     "en": "Mia talks in the chatroom.",
+     "zh": "Mia 在聊天室里说话。",
+     "audio": "media/sent/36fefb5fb10f.mp3"
+    },
+    {
+     "en": "Join our class chatroom.",
+     "zh": "加入我们的班级聊天室。",
+     "audio": "media/sent/35b0822f32b6.mp3"
+    },
+    {
+     "en": "Be nice in the chatroom.",
+     "zh": "在聊天室要友好。",
+     "audio": "media/sent/78746d383970.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chatroom.webp"
+   },
+   "avoid": [
+    "blog",
+    "social-media"
+   ]
+  },
+  {
+   "id": "contact",
+   "word": "contact",
+   "zh": "联系；联系人",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "联系；联系人"
+    }
+   ],
+   "ipa": "/ˈkɒntækt/",
+   "chunks": [
+    "con",
+    "tact"
+   ],
+   "emoji": "📞",
+   "sentence": {
+    "en": "I will contact my teacher.",
+    "zh": "我会联系我的老师。"
+   },
+   "sentences": [
+    {
+     "en": "I will contact my teacher.",
+     "zh": "我会联系我的老师。",
+     "audio": "media/sent/5aebd86a5eea.mp3"
+    },
+    {
+     "en": "Add me as a contact.",
+     "zh": "把我加为联系人。",
+     "audio": "media/sent/5b0a31e7103d.mp3"
+    },
+    {
+     "en": "Dad contacts his office by email.",
+     "zh": "爸爸通过电子邮件联系他的办公室。",
+     "audio": "media/sent/cf3568e757cb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/contact.webp",
+    "uk": "media/uk/contact.mp3",
+    "us": "media/us/contact.mp3"
+   },
+   "avoid": [
+    "text-message"
+   ]
+  },
+  {
+   "id": "link",
+   "word": "link",
+   "zh": "链接",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "链接"
+    }
+   ],
+   "ipa": "/lɪŋk/",
+   "chunks": [
+    "link"
+   ],
+   "emoji": "🔗",
+   "sentence": {
+    "en": "Click the blue link.",
+    "zh": "点击蓝色链接。"
+   },
+   "sentences": [
+    {
+     "en": "Click the blue link.",
+     "zh": "点击蓝色链接。",
+     "audio": "media/sent/4d338766dc50.mp3"
+    },
+    {
+     "en": "Send me that link.",
+     "zh": "把那个链接发给我。",
+     "audio": "media/sent/175eb40f0c59.mp3"
+    },
+    {
+     "en": "This link opens the photo.",
+     "zh": "这个链接打开照片。",
+     "audio": "media/sent/78872659f87c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/link.webp",
+    "uk": "media/uk/link.mp3",
+    "us": "media/us/link.mp3"
+   },
+   "avoid": [
+    "upload",
+    "wifi"
+   ]
+  },
+  {
+   "id": "program",
+   "word": "program",
+   "zh": "程序；节目",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "程序；节目"
+    }
+   ],
+   "ipa": "/ˈprəʊɡræm/",
+   "chunks": [
+    "pro",
+    "gram"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "Dad writes a computer program.",
+    "zh": "爸爸写计算机程序。"
+   },
+   "sentences": [
+    {
+     "en": "Dad writes a computer program.",
+     "zh": "爸爸写计算机程序。",
+     "audio": "media/sent/f1889498a2bb.mp3"
+    },
+    {
+     "en": "The film program starts now.",
+     "zh": "电影节目现在开始。",
+     "audio": "media/sent/bf947c118002.mp3"
+    },
+    {
+     "en": "This app is a good program.",
+     "zh": "这个应用是个好程序。",
+     "audio": "media/sent/73ee53959b3c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/program.webp",
+    "uk": "media/uk/program.mp3",
+    "us": "media/us/program.mp3"
+   },
+   "avoid": [
+    "app",
+    "technology"
+   ]
+  },
+  {
+   "id": "social-media",
+   "word": "social media",
+   "zh": "社交媒体",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "社交媒体"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "so",
+    "cial",
+    "me",
+    "di",
+    "a"
+   ],
+   "emoji": "📲",
+   "sentence": {
+    "en": "Aunt Kate uses social media.",
+    "zh": "凯特阿姨使用社交媒体。"
+   },
+   "sentences": [
+    {
+     "en": "Aunt Kate uses social media.",
+     "zh": "凯特阿姨使用社交媒体。",
+     "audio": "media/sent/49e1a4d719c9.mp3"
+    },
+    {
+     "en": "Don't share photos on social media.",
+     "zh": "不要在社交媒体上分享照片。",
+     "audio": "media/sent/abf980f02a13.mp3"
+    },
+    {
+     "en": "My friends use social media too.",
+     "zh": "我的朋友们也用社交媒体。",
+     "audio": "media/sent/39c4a972e9f6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/social-media.webp"
+   },
+   "avoid": [
+    "blog",
+    "chatroom"
+   ]
+  },
+  {
+   "id": "technology",
+   "word": "technology",
+   "zh": "技术；科技",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "技术；科技"
+    }
+   ],
+   "ipa": "/tekˈnɒlədʒi/",
+   "chunks": [
+    "tech",
+    "nol",
+    "o",
+    "gy"
+   ],
+   "emoji": "🤖",
+   "sentence": {
+    "en": "New technology helps us learn.",
+    "zh": "新技术帮助我们学习。"
+   },
+   "sentences": [
+    {
+     "en": "New technology helps us learn.",
+     "zh": "新技术帮助我们学习。",
+     "audio": "media/sent/4103985f08b7.mp3"
+    },
+    {
+     "en": "Technology changes our lives.",
+     "zh": "技术改变我们的生活。",
+     "audio": "media/sent/bc171816df75.mp3"
+    },
+    {
+     "en": "He loves science and technology.",
+     "zh": "他热爱科学和技术。",
+     "audio": "media/sent/43a9c7124988.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/technology.webp",
+    "uk": "media/uk/technology.mp3",
+    "us": "media/us/technology.mp3"
+   },
+   "avoid": [
+    "app",
+    "program"
+   ]
+  },
+  {
+   "id": "text-message",
+   "word": "text message",
+   "zh": "短信",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "短信"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "text",
+    "mes",
+    "sage"
+   ],
+   "emoji": "💬",
+   "sentence": {
+    "en": "Send a text message to Sam.",
+    "zh": "给 Sam 发一条短信。"
+   },
+   "sentences": [
+    {
+     "en": "Send a text message to Sam.",
+     "zh": "给 Sam 发一条短信。",
+     "audio": "media/sent/ab6dd18f9bb6.mp3"
+    },
+    {
+     "en": "Mum reads my text message.",
+     "zh": "妈妈读我的短信。",
+     "audio": "media/sent/5dbb1592347d.mp3"
+    },
+    {
+     "en": "I got a funny text message.",
+     "zh": "我收到一条有趣的短信。",
+     "audio": "media/sent/b0153767e0bd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/text-message.webp"
+   },
+   "avoid": [
+    "contact"
+   ]
+  },
+  {
+   "id": "upload",
+   "word": "upload",
+   "zh": "上传",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "上传"
+    }
+   ],
+   "ipa": "/ˌʌpˈləʊd/",
+   "chunks": [
+    "up",
+    "load"
+   ],
+   "emoji": "☁️",
+   "sentence": {
+    "en": "Upload the photo now.",
+    "zh": "现在上传照片。"
+   },
+   "sentences": [
+    {
+     "en": "Upload the photo now.",
+     "zh": "现在上传照片。",
+     "audio": "media/sent/972c99fe6344.mp3"
+    },
+    {
+     "en": "Lily uploads her homework.",
+     "zh": "Lily 上传她的作业。",
+     "audio": "media/sent/f634d5ad6dd8.mp3"
+    },
+    {
+     "en": "Wait for the upload to finish.",
+     "zh": "等待上传完成。",
+     "audio": "media/sent/84921e75de32.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/upload.webp",
+    "uk": "media/uk/upload.mp3",
+    "us": "media/us/upload.mp3"
+   },
+   "avoid": [
+    "link",
+    "wifi"
+   ]
+  },
+  {
+   "id": "wifi",
+   "word": "wifi",
+   "zh": "无线网；WiFi",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "无线网；WiFi"
+    }
+   ],
+   "ipa": "/ˈwaɪ faɪ/",
+   "chunks": [
+    "wi",
+    "fi"
+   ],
+   "emoji": "📶",
+   "sentence": {
+    "en": "The wifi works well here.",
+    "zh": "这里的无线网工作得很好。"
+   },
+   "sentences": [
+    {
+     "en": "The wifi works well here.",
+     "zh": "这里的无线网工作得很好。",
+     "audio": "media/sent/82334d45e694.mp3"
+    },
+    {
+     "en": "Use the wifi for homework.",
+     "zh": "用无线网做作业。",
+     "audio": "media/sent/1efc4a97d480.mp3"
+    },
+    {
+     "en": "No wifi in this shop.",
+     "zh": "这家商店没有无线网。",
+     "audio": "media/sent/2c90686fc481.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/wifi.webp",
+    "uk": "media/uk/wifi.mp3",
+    "us": "media/us/wifi.mp3"
+   },
+   "avoid": [
+    "link",
+    "upload"
+   ]
+  },
+  {
+   "id": "sentence",
+   "word": "sentence",
+   "zh": "句子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "句子"
+    }
+   ],
+   "ipa": "/ˈsentəns/",
+   "chunks": [
+    "sen",
+    "tence"
+   ],
+   "emoji": "✏️",
+   "sentence": {
+    "en": "Write a long sentence.",
+    "zh": "写一个长句子。"
+   },
+   "sentences": [
+    {
+     "en": "Write a long sentence.",
+     "zh": "写一个长句子。",
+     "audio": "media/sent/87ef0f56516e.mp3"
+    },
+    {
+     "en": "This sentence is correct.",
+     "zh": "这个句子是正确的。",
+     "audio": "media/sent/5c1b989f73cf.mp3"
+    },
+    {
+     "en": "Read your sentence to me.",
+     "zh": "把句子读给我听。",
+     "audio": "media/sent/438154690d25.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sentence.webp",
+    "uk": "media/uk/sentence.mp3",
+    "us": "media/us/sentence.mp3"
+   },
+   "avoid": [
+    "spelling",
+    "vocabulary",
+    "word",
+    "writing"
+   ]
+  },
+  {
+   "id": "spelling",
+   "word": "spelling",
+   "zh": "拼写",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "拼写"
+    }
+   ],
+   "ipa": "/ˈspelɪŋ/",
+   "chunks": [
+    "spell",
+    "ing"
+   ],
+   "emoji": "🔤",
+   "sentence": {
+    "en": "Check your spelling carefully.",
+    "zh": "仔细检查你的拼写。"
+   },
+   "sentences": [
+    {
+     "en": "Check your spelling carefully.",
+     "zh": "仔细检查你的拼写。",
+     "audio": "media/sent/847dbf0e8498.mp3"
+    },
+    {
+     "en": "Spelling is hard for me.",
+     "zh": "拼写对我来说很难。",
+     "audio": "media/sent/1bae5f5aa66b.mp3"
+    },
+    {
+     "en": "Good spelling gets full marks.",
+     "zh": "好的拼写能得满分。",
+     "audio": "media/sent/6762f53556d6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/spelling.webp",
+    "uk": "media/uk/spelling.mp3",
+    "us": "media/us/spelling.mp3"
+   },
+   "avoid": [
+    "sentence",
+    "vocabulary",
+    "word",
+    "writing"
+   ]
+  },
+  {
+   "id": "vocabulary",
+   "word": "vocabulary",
+   "zh": "词汇；词汇量",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "词汇；词汇量"
+    }
+   ],
+   "ipa": "/vəˈkæbjələri/",
+   "chunks": [
+    "vo",
+    "cab",
+    "u",
+    "lar",
+    "y"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily learns new vocabulary.",
+    "zh": "Lily 学习新词汇。"
+   },
+   "sentences": [
+    {
+     "en": "Lily learns new vocabulary.",
+     "zh": "Lily 学习新词汇。",
+     "audio": "media/sent/b3ecdbb33121.mp3"
+    },
+    {
+     "en": "He has a big vocabulary.",
+     "zh": "他有很大的词汇量。",
+     "audio": "media/sent/5d02a3abbbb5.mp3"
+    },
+    {
+     "en": "Vocabulary helps you speak.",
+     "zh": "词汇帮助你说得更好。",
+     "audio": "media/sent/d5b0cb3925a0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/vocabulary.webp",
+    "uk": "media/uk/vocabulary.mp3",
+    "us": "media/us/vocabulary.mp3"
+   },
+   "avoid": [
+    "sentence",
+    "spelling",
+    "word",
+    "writing"
+   ]
+  },
+  {
+   "id": "word",
+   "word": "word",
+   "zh": "单词；词",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "单词；词"
+    }
+   ],
+   "ipa": "/wɜːd/",
+   "chunks": [
+    "word"
+   ],
+   "emoji": "🔤",
+   "sentence": {
+    "en": "I know every word.",
+    "zh": "我认识每个单词。"
+   },
+   "sentences": [
+    {
+     "en": "I know every word.",
+     "zh": "我认识每个单词。",
+     "audio": "media/sent/3ea28ee2e516.mp3"
+    },
+    {
+     "en": "What does this word mean?",
+     "zh": "这个单词是什么意思？",
+     "audio": "media/sent/8d602b21343f.mp3"
+    },
+    {
+     "en": "Say the word again, please.",
+     "zh": "请再说一遍这个单词。",
+     "audio": "media/sent/5b03d2c3cfda.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/word.webp",
+    "uk": "media/uk/word.mp3",
+    "us": "media/us/word.mp3"
+   },
+   "avoid": [
+    "sentence",
+    "spelling",
+    "vocabulary",
+    "writing"
+   ]
+  },
+  {
+   "id": "paragraph",
+   "word": "paragraph",
+   "zh": "段落",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "段落"
+    }
+   ],
+   "ipa": "/ˈpærəɡrɑːf/",
+   "chunks": [
+    "par",
+    "a",
+    "graph"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Write one short paragraph.",
+    "zh": "写一个短段落。"
+   },
+   "sentences": [
+    {
+     "en": "Write one short paragraph.",
+     "zh": "写一个短段落。",
+     "audio": "media/sent/01fe7bac8a41.mp3"
+    },
+    {
+     "en": "The first paragraph is easy.",
+     "zh": "第一段很容易。",
+     "audio": "media/sent/3a017c0c10e5.mp3"
+    },
+    {
+     "en": "Read the last paragraph.",
+     "zh": "读最后一段。",
+     "audio": "media/sent/9c7576acfea7.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/paragraph.mp3",
+    "us": "media/us/paragraph.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "title",
+   "word": "title",
+   "zh": "标题；题目",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "标题；题目"
+    }
+   ],
+   "ipa": "/ˈtaɪtəl/",
+   "chunks": [
+    "ti",
+    "tle"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "The book title is 'Max'.",
+    "zh": "书名是《Max》。"
+   },
+   "sentences": [
+    {
+     "en": "The book title is 'Max'.",
+     "zh": "书名是《Max》。",
+     "audio": "media/sent/538ac437972b.mp3"
+    },
+    {
+     "en": "Write your name and title.",
+     "zh": "写上你的名字和标题。",
+     "audio": "media/sent/fd536a443863.mp3"
+    },
+    {
+     "en": "I like the film's title.",
+     "zh": "我喜欢这部电影的标题。",
+     "audio": "media/sent/68dbfa469f09.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/title.mp3",
+    "us": "media/us/title.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "topic",
+   "word": "topic",
+   "zh": "话题；主题",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "话题；主题"
+    }
+   ],
+   "ipa": "/ˈtɒpɪk/",
+   "chunks": [
+    "top",
+    "ic"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "Our topic is animals.",
+    "zh": "我们的主题是动物。"
+   },
+   "sentences": [
+    {
+     "en": "Our topic is animals.",
+     "zh": "我们的主题是动物。",
+     "audio": "media/sent/657304dc6a80.mp3"
+    },
+    {
+     "en": "Choose a new topic.",
+     "zh": "选一个新话题。",
+     "audio": "media/sent/e912c4121405.mp3"
+    },
+    {
+     "en": "The topic is interesting today.",
+     "zh": "今天的话题很有趣。",
+     "audio": "media/sent/c030d833be68.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/topic.webp",
+    "uk": "media/uk/topic.mp3",
+    "us": "media/us/topic.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "example",
+   "word": "example",
+   "zh": "例子；示例",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "例子；示例"
+    }
+   ],
+   "ipa": "/ɪɡˈzɑːmpl/",
+   "chunks": [
+    "ex",
+    "am",
+    "ple"
+   ],
+   "emoji": "💡",
+   "sentence": {
+    "en": "Mum gives an example.",
+    "zh": "妈妈举了一个例子。"
+   },
+   "sentences": [
+    {
+     "en": "Mum gives an example.",
+     "zh": "妈妈举了一个例子。",
+     "audio": "media/sent/91f387a5f933.mp3"
+    },
+    {
+     "en": "Can you give me an example?",
+     "zh": "你能给我一个例子吗？",
+     "audio": "media/sent/e2fb8e435ee7.mp3"
+    },
+    {
+     "en": "This is a good example.",
+     "zh": "这是一个好例子。",
+     "audio": "media/sent/10684bc1f88b.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/example.mp3",
+    "us": "media/us/example.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "fact",
+   "word": "fact",
+   "zh": "事实",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "事实"
+    }
+   ],
+   "ipa": "/fækt/",
+   "chunks": [
+    "fact"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "It is a fact.",
+    "zh": "这是事实。"
+   },
+   "sentences": [
+    {
+     "en": "It is a fact.",
+     "zh": "这是事实。",
+     "audio": "media/sent/c7eed94e223f.mp3"
+    },
+    {
+     "en": "Tom learns facts about animals.",
+     "zh": "Tom 学习关于动物的事实。",
+     "audio": "media/sent/db5073d0c76f.mp3"
+    },
+    {
+     "en": "Here is a fact: a spider has eight legs.",
+     "zh": "告诉你一个事实：蜘蛛有八条腿。",
+     "audio": "media/sent/ffdd08655ae5.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/fact.mp3",
+    "us": "media/us/fact.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "grade",
+   "word": "grade",
+   "zh": "分数；等级",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "分数；等级"
+    }
+   ],
+   "ipa": "/ɡreɪd/",
+   "chunks": [
+    "grade"
+   ],
+   "emoji": "📝",
+   "sentence": {
+    "en": "Lily gets a good grade.",
+    "zh": "Lily 得到了一个好分数。"
+   },
+   "sentences": [
+    {
+     "en": "Lily gets a good grade.",
+     "zh": "Lily 得到了一个好分数。",
+     "audio": "media/sent/29fb9f11472f.mp3"
+    },
+    {
+     "en": "What grade did you get?",
+     "zh": "你得了几分？",
+     "audio": "media/sent/b9014add17d5.mp3"
+    },
+    {
+     "en": "Dad checks my maths grade.",
+     "zh": "爸爸检查我的数学分数。",
+     "audio": "media/sent/43df2255a095.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/grade.mp3",
+    "us": "media/us/grade.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "mistake",
+   "word": "mistake",
+   "zh": "错误",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "错误"
+    }
+   ],
+   "ipa": "/mɪˈsteɪk/",
+   "chunks": [
+    "mis",
+    "take"
+   ],
+   "emoji": "❌",
+   "sentence": {
+    "en": "Tom makes a mistake.",
+    "zh": "Tom 犯了一个错误。"
+   },
+   "sentences": [
+    {
+     "en": "Tom makes a mistake.",
+     "zh": "Tom 犯了一个错误。",
+     "audio": "media/sent/231be27ed7e0.mp3"
+    },
+    {
+     "en": "It's OK to make a mistake.",
+     "zh": "犯错没关系。",
+     "audio": "media/sent/be1785cc2cfb.mp3"
+    },
+    {
+     "en": "Mum finds a mistake in the list.",
+     "zh": "妈妈在清单里发现了一个错误。",
+     "audio": "media/sent/580a85876e13.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mistake.webp",
+    "uk": "media/uk/mistake.mp3",
+    "us": "media/us/mistake.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "details",
+   "word": "details",
+   "zh": "细节；详情",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "细节；详情"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "de",
+    "tails"
+   ],
+   "emoji": "🔍",
+   "sentence": {
+    "en": "Read the details carefully.",
+    "zh": "仔细阅读细节。"
+   },
+   "sentences": [
+    {
+     "en": "Read the details carefully.",
+     "zh": "仔细阅读细节。",
+     "audio": "media/sent/3e0bfae22099.mp3"
+    },
+    {
+     "en": "Mum explains the details to Dad.",
+     "zh": "妈妈向爸爸解释细节。",
+     "audio": "media/sent/7f2f235c702a.mp3"
+    },
+    {
+     "en": "The letter has many details.",
+     "zh": "这封信有很多细节。",
+     "audio": "media/sent/b89d1d7f4826.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "document",
+   "word": "document",
+   "zh": "文件；文档",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "文件；文档"
+    }
+   ],
+   "ipa": "/ˈdɒkjumənt/",
+   "chunks": [
+    "doc",
+    "u",
+    "ment"
+   ],
+   "emoji": "📄",
+   "sentence": {
+    "en": "Dad reads a document.",
+    "zh": "爸爸阅读一份文件。"
+   },
+   "sentences": [
+    {
+     "en": "Dad reads a document.",
+     "zh": "爸爸阅读一份文件。",
+     "audio": "media/sent/d8b9d6af2c10.mp3"
+    },
+    {
+     "en": "Save the document, please.",
+     "zh": "请保存这份文件。",
+     "audio": "media/sent/6a1992ca4e80.mp3"
+    },
+    {
+     "en": "Mum signs the important document.",
+     "zh": "妈妈在重要的文件上签字。",
+     "audio": "media/sent/61fa186679a4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/document.webp",
+    "uk": "media/uk/document.mp3",
+    "us": "media/us/document.mp3"
+   },
+   "avoid": [
+    "list",
+    "notice",
+    "page"
+   ]
+  },
+  {
+   "id": "list",
+   "word": "list",
+   "zh": "列表；清单",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "列表；清单"
+    }
+   ],
+   "ipa": "/lɪst/",
+   "chunks": [
+    "list"
+   ],
+   "emoji": "📋",
+   "sentence": {
+    "en": "Mum writes a shopping list.",
+    "zh": "妈妈写了一张购物清单。"
+   },
+   "sentences": [
+    {
+     "en": "Mum writes a shopping list.",
+     "zh": "妈妈写了一张购物清单。",
+     "audio": "media/sent/e2aa925df59a.mp3"
+    },
+    {
+     "en": "Look at the list, Tom.",
+     "zh": "看这张清单，Tom。",
+     "audio": "media/sent/d72d705c5898.mp3"
+    },
+    {
+     "en": "I have a long list of names.",
+     "zh": "我有一长串名字。",
+     "audio": "media/sent/0d17ae36a2e0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/list.webp",
+    "uk": "media/uk/list.mp3",
+    "us": "media/us/list.mp3"
+   },
+   "avoid": [
+    "document",
+    "notice",
+    "page"
+   ]
+  },
+  {
+   "id": "page",
+   "word": "page",
+   "zh": "页；页面",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "页；页面"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "page"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Turn to page ten.",
+    "zh": "翻到第十页。"
+   },
+   "sentences": [
+    {
+     "en": "Turn to page ten.",
+     "zh": "翻到第十页。",
+     "audio": "media/sent/9c2868d127c8.mp3"
+    },
+    {
+     "en": "Lily draws on this page.",
+     "zh": "Lily 在这一页上画画。",
+     "audio": "media/sent/fdf6cbdf4fd6.mp3"
+    },
+    {
+     "en": "The first page has a picture.",
+     "zh": "第一页有一张图片。",
+     "audio": "media/sent/71d581462d2f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/page.webp"
+   },
+   "avoid": [
+    "document",
+    "list",
+    "notice",
+    "story"
+   ]
+  },
+  {
+   "id": "sign",
+   "word": "sign",
+   "zh": "标志；牌子",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "标志；牌子"
+    }
+   ],
+   "ipa": "/saɪn/",
+   "chunks": [
+    "sign"
+   ],
+   "emoji": "🪧",
+   "sentence": {
+    "en": "Look at the stop sign.",
+    "zh": "看那个停车标志。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the stop sign.",
+     "zh": "看那个停车标志。",
+     "audio": "media/sent/351690238bef.mp3"
+    },
+    {
+     "en": "The sign says 'School'.",
+     "zh": "牌子上写着“学校”。",
+     "audio": "media/sent/fb87dfc29d09.mp3"
+    },
+    {
+     "en": "Grandpa fixes the garden sign.",
+     "zh": "爷爷修好了花园的牌子。",
+     "audio": "media/sent/c5843cfdd651.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sign.webp",
+    "uk": "media/uk/sign.mp3",
+    "us": "media/us/sign.mp3"
+   },
+   "avoid": [
+    "advert",
+    "notice"
+   ]
+  },
+  {
+   "id": "story",
+   "word": "story",
+   "zh": "故事",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "故事"
+    }
+   ],
+   "ipa": "/ˈstɔːri/",
+   "chunks": [
+    "sto",
+    "ry"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Mum reads a story at night.",
+    "zh": "妈妈晚上读故事。"
+   },
+   "sentences": [
+    {
+     "en": "Mum reads a story at night.",
+     "zh": "妈妈晚上读故事。",
+     "audio": "media/sent/40f9fbde4edf.mp3"
+    },
+    {
+     "en": "Lily writes a funny story.",
+     "zh": "Lily 写了一个有趣的故事。",
+     "audio": "media/sent/4db883e74c17.mp3"
+    },
+    {
+     "en": "Tell us a story, please.",
+     "zh": "请给我们讲一个故事。",
+     "audio": "media/sent/0fa9f4080cf4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/story.webp",
+    "uk": "media/uk/story.mp3",
+    "us": "media/us/story.mp3"
+   },
+   "avoid": [
+    "page"
+   ]
+  },
+  {
+   "id": "writing",
+   "word": "writing",
+   "zh": "书写；作文",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "书写；作文"
+    }
+   ],
+   "ipa": "/ˈraɪtɪŋ/",
+   "chunks": [
+    "wri",
+    "ting"
+   ],
+   "emoji": "✍️",
+   "sentence": {
+    "en": "Lily practises her writing.",
+    "zh": "Lily 练习她的书写。"
+   },
+   "sentences": [
+    {
+     "en": "Lily practises her writing.",
+     "zh": "Lily 练习她的书写。",
+     "audio": "media/sent/892a53bfa514.mp3"
+    },
+    {
+     "en": "Your writing is very clear.",
+     "zh": "你的书写很清楚。",
+     "audio": "media/sent/2b2b3ee54710.mp3"
+    },
+    {
+     "en": "Sam likes good writing.",
+     "zh": "Sam 喜欢好的写作。",
+     "audio": "media/sent/5f087470cf65.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/writing.webp",
+    "uk": "media/uk/writing.mp3",
+    "us": "media/us/writing.mp3"
+   },
+   "avoid": [
+    "sentence",
+    "spelling",
+    "vocabulary",
+    "word"
+   ]
+  },
+  {
+   "id": "review",
+   "word": "review",
+   "zh": "复习；评论",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "复习；评论"
+    }
+   ],
+   "ipa": "/rɪˈvjuː/",
+   "chunks": [
+    "re",
+    "view"
+   ],
+   "emoji": "⭐",
+   "sentence": {
+    "en": "Lily reviews her lessons.",
+    "zh": "Lily 复习她的功课。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reviews her lessons.",
+     "zh": "Lily 复习她的功课。",
+     "audio": "media/sent/9f0f5611eb0c.mp3"
+    },
+    {
+     "en": "Dad writes a review of the film.",
+     "zh": "爸爸写了一篇电影评论。",
+     "audio": "media/sent/c44b1c6b1479.mp3"
+    },
+    {
+     "en": "We need to review this part.",
+     "zh": "我们需要复习这部分。",
+     "audio": "media/sent/71e2d535235f.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/review.mp3",
+    "us": "media/us/review.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "difference",
+   "word": "difference",
+   "zh": "差别；不同",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "差别；不同"
+    }
+   ],
+   "ipa": "/ˈdɪfrəns/",
+   "chunks": [
+    "dif",
+    "fer",
+    "ence"
+   ],
+   "emoji": "⚖️",
+   "sentence": {
+    "en": "There is a big difference.",
+    "zh": "有很大的差别。"
+   },
+   "sentences": [
+    {
+     "en": "There is a big difference.",
+     "zh": "有很大的差别。",
+     "audio": "media/sent/8a09e1d9cc9b.mp3"
+    },
+    {
+     "en": "What's the difference between these two?",
+     "zh": "这两个有什么不同？",
+     "audio": "media/sent/8c672dae16c0.mp3"
+    },
+    {
+     "en": "Can you find the difference in these pictures?",
+     "zh": "你能找出这两幅图的不同吗？",
+     "audio": "media/sent/2de0921a0210.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/difference.mp3",
+    "us": "media/us/difference.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "money",
+   "word": "money",
+   "zh": "钱；货币",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钱；货币"
+    }
+   ],
+   "ipa": "/ˈmʌni/",
+   "chunks": [
+    "mon",
+    "ey"
+   ],
+   "emoji": "💰",
+   "sentence": {
+    "en": "Mum saves some money.",
+    "zh": "妈妈存了一些钱。"
+   },
+   "sentences": [
+    {
+     "en": "Mum saves some money.",
+     "zh": "妈妈存了一些钱。",
+     "audio": "media/sent/f9b05aaa9e87.mp3"
+    },
+    {
+     "en": "Do you have any money?",
+     "zh": "你有钱吗？",
+     "audio": "media/sent/761e207e662e.mp3"
+    },
+    {
+     "en": "Lily spends her pocket money.",
+     "zh": "Lily 花她的零花钱。",
+     "audio": "media/sent/1e3a6d16ffc1.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/money.webp",
+    "uk": "media/uk/money.mp3",
+    "us": "media/us/money.mp3"
+   },
+   "avoid": [
+    "pence"
+   ]
+  },
+  {
+   "id": "pence",
+   "word": "pence",
+   "zh": "便士（复数）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "便士（复数）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pen",
+    "ce"
+   ],
+   "emoji": "🪙",
+   "sentence": {
+    "en": "It costs fifty pence.",
+    "zh": "它值五十便士。"
+   },
+   "sentences": [
+    {
+     "en": "It costs fifty pence.",
+     "zh": "它值五十便士。",
+     "audio": "media/sent/9b3f9f015e08.mp3"
+    },
+    {
+     "en": "Give me ten pence, please.",
+     "zh": "请给我十便士。",
+     "audio": "media/sent/afd2ed259a9f.mp3"
+    },
+    {
+     "en": "The stamp is two pence.",
+     "zh": "邮票是两便士。",
+     "audio": "media/sent/e271bc5f1c69.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pence.webp"
+   },
+   "avoid": [
+    "money"
+   ]
+  },
+  {
+   "id": "trouble",
+   "word": "trouble",
+   "zh": "麻烦；困难",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "麻烦；困难"
+    }
+   ],
+   "ipa": "/ˈtrʌbəl/",
+   "chunks": [
+    "trou",
+    "ble"
+   ],
+   "emoji": "😟",
+   "sentence": {
+    "en": "Tom is in trouble.",
+    "zh": "Tom 遇到麻烦了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is in trouble.",
+     "zh": "Tom 遇到麻烦了。",
+     "audio": "media/sent/e5cd042b35ea.mp3"
+    },
+    {
+     "en": "Mum has trouble opening the box.",
+     "zh": "妈妈打不开盒子，有点麻烦。",
+     "audio": "media/sent/3905f6179a24.mp3"
+    },
+    {
+     "en": "Don't get into trouble at school.",
+     "zh": "在学校不要惹麻烦。",
+     "audio": "media/sent/50921e2adf42.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/trouble.mp3",
+    "us": "media/us/trouble.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "help",
+   "word": "help",
+   "zh": "帮助",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "帮助"
+    }
+   ],
+   "ipa": "/help/",
+   "chunks": [
+    "help"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Lily helps Mum cook.",
+    "zh": "Lily 帮妈妈做饭。"
+   },
+   "sentences": [
+    {
+     "en": "Lily helps Mum cook.",
+     "zh": "Lily 帮妈妈做饭。",
+     "audio": "media/sent/a628c176f997.mp3"
+    },
+    {
+     "en": "Can you help me, Tom?",
+     "zh": "Tom，你能帮我吗？",
+     "audio": "media/sent/eee05ceaeea7.mp3"
+    },
+    {
+     "en": "Thank you for your help.",
+     "zh": "谢谢你的帮助。",
+     "audio": "media/sent/37738eb6f1a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/help.webp",
+    "uk": "media/uk/help.mp3",
+    "us": "media/us/help.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "advert",
+   "word": "advert",
+   "zh": "广告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "ad",
+    "vert"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Lily watches a funny advert.",
+    "zh": "Lily 看一个有趣的广告。"
+   },
+   "sentences": [
+    {
+     "en": "Lily watches a funny advert.",
+     "zh": "Lily 看一个有趣的广告。",
+     "audio": "media/sent/411078cc9734.mp3"
+    },
+    {
+     "en": "Dad reads an advert in the paper.",
+     "zh": "爸爸在报纸上读了一则广告。",
+     "audio": "media/sent/6c37cbad9955.mp3"
+    },
+    {
+     "en": "The new advert is on the radio.",
+     "zh": "新广告在广播里。",
+     "audio": "media/sent/f4eda0a92171.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/advert.webp"
+   },
+   "avoid": [
+    "notice",
+    "sign"
+   ]
+  },
+  {
+   "id": "notice",
+   "word": "notice",
+   "zh": "通知；布告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "通知；布告"
+    }
+   ],
+   "ipa": "/ˈnəʊ.tɪs/",
+   "chunks": [
+    "no",
+    "tice"
+   ],
+   "emoji": "📢",
+   "sentence": {
+    "en": "Look at the notice on the wall.",
+    "zh": "看墙上的通知。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the notice on the wall.",
+     "zh": "看墙上的通知。",
+     "audio": "media/sent/a90f0f75dda4.mp3"
+    },
+    {
+     "en": "Mum reads the school notice.",
+     "zh": "妈妈读学校通知。",
+     "audio": "media/sent/4c1b1b002570.mp3"
+    },
+    {
+     "en": "There is a new notice in the office.",
+     "zh": "办公室里有一张新通知。",
+     "audio": "media/sent/f1a199e6288c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/notice.webp",
+    "uk": "media/uk/notice.mp3",
+    "us": "media/us/notice.mp3"
+   },
+   "avoid": [
+    "advert",
+    "document",
+    "list",
+    "page",
+    "sign"
+   ]
+  }
+ ]
+}

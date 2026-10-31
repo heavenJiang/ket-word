@@ -1,0 +1,145 @@
+{
+ "_doc": "Core words (on no KET topic list) split into small islands by meaning. build_words.py gives each word its island's topic id.",
+ "islands": [
+  {
+   "id": "core-me",
+   "en": "Me and You",
+   "zh": "我和你",
+   "emoji": "🙋",
+   "words": ["i", "me", "my", "mine", "myself", "you", "your", "yours", "yourself", "he", "him", "his", "himself", "she", "her", "hers", "herself", "it", "its", "itself", "we", "us", "our", "ours", "ourselves", "they", "them", "their", "theirs", "themselves", "each-other", "who", "whose", "what", "which", "this", "that", "these", "those"]
+  },
+  {
+   "id": "core-anyone",
+   "en": "Somebody and Nothing",
+   "zh": "有人和没人",
+   "emoji": "❓",
+   "words": ["anybody", "anyone", "anything", "anywhere", "nobody", "no-one", "nothing", "somebody", "someone", "something", "somewhere", "everybody", "everyone", "everything", "everywhere", "else", "other", "another", "own", "how", "why", "when", "where"]
+  },
+  {
+   "id": "core-little",
+   "en": "Little Words",
+   "zh": "小词",
+   "emoji": "🔗",
+   "words": ["a", "an", "the", "and", "but", "or", "so", "because", "because-of", "if", "as", "than", "while", "except", "of", "for", "from", "to", "with", "without", "by", "per", "plus", "minus", "also", "too", "as-well", "instead", "instead-of", "including", "like", "just", "only", "not", "yes", "no"]
+  },
+  {
+   "id": "core-where",
+   "en": "Where Is It?",
+   "zh": "在哪里",
+   "emoji": "📍",
+   "words": ["about", "above", "across", "against", "along", "among", "around", "behind", "below", "beside", "between", "close-to", "down", "in", "in-front-of", "inside", "into", "near", "next-to", "off", "on", "opposite", "out", "out-of", "outside", "over", "through", "under", "up", "upstairs", "indoors", "indoor", "outdoor", "outdoors", "here", "there", "away", "front", "side", "top", "bottom", "middle", "centre", "further"]
+  },
+  {
+   "id": "core-when",
+   "en": "When?",
+   "zh": "什么时候",
+   "emoji": "🕰️",
+   "words": ["after", "afterwards", "again", "ago", "already", "always", "before", "beginning", "during", "early", "end", "ever", "final", "finally", "first-of-all", "future", "late", "later", "latest", "lunchtime", "midday", "never", "now", "often", "once", "recently", "since", "sometimes", "soon", "still", "suddenly", "then", "till", "until", "twice", "usually", "usual", "yet", "immediately", "all-the-time", "season", "timetable", "anymore", "last", "next"]
+  },
+  {
+   "id": "core-howmuch",
+   "en": "How Many?",
+   "zh": "多少",
+   "emoji": "🧮",
+   "words": ["a-few", "all", "all-kinds-of", "all-sorts-of", "any", "both", "bit", "double", "each", "enough", "every", "few", "half-price", "least", "less", "little", "lots", "many", "million", "more", "most", "much", "number", "pair", "piece", "quite", "several", "single", "some", "such", "total", "very", "whole", "zero", "almost", "nearly", "even", "especially", "exactly", "really", "extra", "size", "length", "type", "sort", "variety", "various", "part"]
+  },
+  {
+   "id": "core-hello",
+   "en": "Hello and Thanks",
+   "zh": "问候与礼貌",
+   "emoji": "👋",
+   "words": ["bye", "congratulations", "goodbye", "good-afternoon", "good-evening", "good-morning", "good-night", "hello", "hey", "hi", "oh", "oh-dear", "ok", "pardon", "please", "thanks", "thank", "thank-you", "welcome", "wow", "yeah", "excuse", "by-the-way", "guess-what", "of-course", "poor-thing", "pity", "shame", "certainly", "maybe", "perhaps", "probably", "possibly", "actually", "anyway", "however", "alright", "all-right", "at-all", "luckily", "unfortunately"]
+  },
+  {
+   "id": "core-move",
+   "en": "On the Move",
+   "zh": "动起来",
+   "emoji": "🏃",
+   "words": ["come", "come-back", "go", "arrive", "bring", "bring-back", "carry", "cross", "drop", "fall-over", "follow", "get", "get-back", "get-off", "get-on", "get-up", "hit", "hold", "jump", "kick", "pull", "push", "put", "sit", "sit-down", "stand", "turn", "dive", "sail", "cycle", "hurry", "wait", "pass", "shut", "climbing", "walking", "running"]
+  },
+  {
+   "id": "core-give",
+   "en": "Give and Take",
+   "zh": "给和拿",
+   "emoji": "🎁",
+   "words": ["give", "give-back", "take", "take-off", "pick-up", "lose", "lost", "find", "find-out", "keep", "send", "receive", "deliver", "steal", "borrow", "lend", "share", "sell", "save", "offer", "order", "post", "mail", "gift", "present"]
+  },
+  {
+   "id": "core-think",
+   "en": "Think and Say",
+   "zh": "想和说",
+   "emoji": "💭",
+   "words": ["agree", "answer", "ask", "believe", "choose", "decide", "describe", "discuss", "explain", "forget", "guess", "hope", "mean", "mind", "prefer", "say", "seem", "shout", "speak", "spell", "suppose", "suggest", "tell", "think", "understand", "wish", "worry", "want", "need", "hate", "enjoy", "dream", "idea", "opinion", "reason", "question", "advice"]
+  },
+  {
+   "id": "core-can",
+   "en": "Can and Must",
+   "zh": "能和必须",
+   "emoji": "✅",
+   "words": ["be", "do", "have", "cannot", "could", "might", "must", "shall", "should", "will", "would", "have-to", "have-got-to", "let", "allow", "become", "belong", "bother", "happen", "matter", "make", "make-sure", "use", "try"]
+  },
+  {
+   "id": "core-do",
+   "en": "Busy Doing",
+   "zh": "忙着做事",
+   "emoji": "🛠️",
+   "words": ["add", "begin", "build", "celebrate", "complete", "continue", "copy", "cover", "design", "discover", "explore", "fail", "fill", "fill-in", "finish", "fix", "improve", "include", "invent", "invention", "invite", "invitation", "mix", "pack", "perform", "plan", "prepare", "print", "record", "relax", "repeat", "serve", "smoke", "smoking", "start", "tidy", "tidy-up", "wash", "washing-up", "break-down", "look", "look-after", "look-for", "look-out", "see", "listen", "sleep", "wake", "wake-up", "meet", "sound", "put-on", "turn-off", "turn-on", "write", "write-down", "colour", "cry", "experiment", "point"]
+  },
+  {
+   "id": "core-feel",
+   "en": "Good, Bad and Feelings",
+   "zh": "好坏与心情",
+   "emoji": "😃",
+   "words": ["amazed", "awesome", "awful", "exciting", "fantastic", "frightened", "glad", "horrible", "horror", "mad", "nervous", "pleased", "polite", "popular", "sad", "scared", "scary", "serious", "shy", "surprised", "surprising", "upset", "wonderful", "perfect", "lazy", "helpful", "healthy", "comfortable", "relaxing", "successful", "attractive", "good-looking", "well-known", "fair", "dear", "tasty"]
+  },
+  {
+   "id": "core-describe",
+   "en": "What Is It Like?",
+   "zh": "什么样",
+   "emoji": "✨",
+   "words": ["available", "bright", "broken", "correct", "crowded", "deep", "dirty", "dry", "easy", "empty", "foreign", "fresh", "full", "huge", "impossible", "international", "large", "local", "long", "loud", "low", "missing", "natural", "national", "new", "normal", "possible", "round", "same", "short", "similar", "simple", "smart", "spare", "striped", "true", "unusual", "wide", "wooden", "worse", "worst", "best", "blond", "slim", "fat", "thin", "straight", "left-hand", "right-hand", "olympic", "dressed", "by-accident", "badly", "carefully", "clearly", "easily", "quickly", "slowly", "together"]
+  },
+  {
+   "id": "core-people",
+   "en": "People",
+   "zh": "人们",
+   "emoji": "🧑‍🤝‍🧑",
+   "words": ["adult", "boyfriend", "girlfriend", "business-person", "celebrity", "character", "clown", "colleague", "crowd", "fan", "headteacher", "housewife", "kid", "man", "woman", "mom", "partner", "people", "person", "schoolchild", "scientist", "runner", "movie-star", "speaker", "police", "beard", "age", "aged", "birth", "born", "life", "name", "first-name", "nationality", "id", "id-card", "identification", "grow-up", "get-married", "get-fit", "career", "success", "experience", "memory", "feelings", "toe", "mouth", "headache"]
+  },
+  {
+   "id": "core-things",
+   "en": "Things Around Us",
+   "zh": "身边的东西",
+   "emoji": "🧸",
+   "words": ["alarm-clock", "album", "balloon", "battery", "brush", "cabinet", "ceiling", "closet", "doll", "folder", "fur", "headphones", "kite", "microphone", "mug", "pen", "pencil", "pencil-case", "perfume", "plastic", "poster", "puzzle", "scissors", "scooter", "shampoo", "sheet", "spoon", "stamp", "stairs", "table", "toy", "violin", "wall", "wardrobe", "paper", "metal", "leather", "gold", "stuff", "thing", "equipment", "model", "bean", "cookie", "mango", "french-fries", "fast-food", "supper", "recipe", "ingredient", "line", "circle", "stripes", "noise", "make-up", "set"]
+  },
+  {
+   "id": "core-fun",
+   "en": "Fun and Shows",
+   "zh": "玩乐与演出",
+   "emoji": "🎪",
+   "words": ["band", "circus", "comedy", "cooking", "dancing", "diving", "event", "gym", "ice-skating", "jazz", "rap", "reading", "singing", "skateboarding", "skating", "sightseeing", "surfing", "training", "match", "score", "stage", "tune", "selfie", "performance", "musical", "movie", "painting", "gallery", "surprise", "kiss", "action", "activity", "take-part", "work-out"]
+  },
+  {
+   "id": "core-places",
+   "en": "Places and Ways",
+   "zh": "地方与出行",
+   "emoji": "🗺️",
+   "words": ["accommodation", "aeroplane", "capital", "city", "coast", "court", "crossing", "drugstore", "gas-station", "harbour", "lorry", "movie-theater", "parking-lot", "police-car", "port", "shopping-centre", "site", "transport", "directions", "guidebook", "mile", "view", "place", "ground", "department", "discount", "sale"]
+  },
+  {
+   "id": "core-words",
+   "en": "Words and Screens",
+   "zh": "文字与网络",
+   "emoji": "📱",
+   "words": ["app", "blog", "channel", "chatroom", "contact", "link", "program", "social-media", "technology", "text-message", "upload", "wifi", "sentence", "spelling", "vocabulary", "word", "paragraph", "title", "topic", "example", "fact", "grade", "mistake", "details", "document", "list", "page", "sign", "story", "writing", "review", "difference", "money", "pence", "trouble", "help", "advert", "notice"]
+  },
+  {
+   "id": "core-nature",
+   "en": "Wild Things",
+   "zh": "自然生物",
+   "emoji": "🦎",
+   "words": ["creature", "donkey", "eagle", "hippo", "jellyfish", "lizard", "nest", "octopus", "panda", "snail", "extinct", "environment", "nature"]
+  }
+ ]
+}

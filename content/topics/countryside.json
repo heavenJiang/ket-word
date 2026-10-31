@@ -1,0 +1,37 @@
+{
+  "topic": "countryside",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Landscapes and places outside towns; each picture shows one clear landscape.",
+  "confusable": [
+    ["village", "area"],
+    ["farm", "field"],
+    ["forest", "wood", "rainforest"],
+    ["hill", "mountain", "island"],
+    ["path", "railway", "river"],
+    ["lake", "river", "sea", "ocean"],
+    ["beach", "sea", "island"],
+    ["sky", "mountain"],
+    ["campsite", "field"]
+  ],
+  "words": [
+    { "id": "village", "zh": "村庄", "chunks": ["vil", "lage"], "emoji": "🏡", "en": "We live in a small village.", "sz": "我们住在一个小村庄里。", "scene": "A small village with a few houses, a church and fields around it.", "more": [["There is no cinema in our village.", "我们村没有电影院。"], ["Grandma visits the village shop.", "奶奶去村里的商店。"]] },
+    { "id": "area", "zh": "地区；区域", "chunks": ["ar", "e", "a"], "emoji": "🗺️", "en": "There are lots of farms in this area.", "sz": "这个地区有很多农场。", "scene": "A map showing green fields and small houses clustered together, labelled as an agricultural zone.", "more": [["This is a quiet area.", "这是一个安静的区域。"], ["We walk in this area every day.", "我们每天在这个区域散步。"]] },
+    { "id": "farm", "zh": "农场", "chunks": ["farm"], "emoji": "🚜", "en": "Sam's uncle works on a farm.", "sz": "Sam 的叔叔在农场工作。", "scene": "A big farm with a white farmhouse and a red barn, cows and sheep in the green field, a tractor and low hills behind.", "more": [["The farm has many chickens.", "农场有很多鸡。"], ["Lily visits her uncle's farm.", "Lily 去她叔叔的农场。"]] },
+    { "id": "field", "zh": "田野；田地", "chunks": ["field"], "emoji": "🌾", "en": "The farmer walks across the field.", "sz": "农夫穿过田野。", "more": [["There is grass in the field.", "田里有草。"], ["Max runs through the tall grass in the field.", "Max 在田野的高草丛里跑。"]] },
+    { "id": "forest", "zh": "森林", "chunks": ["for", "est"], "emoji": "🌲", "en": "The forest is full of tall trees.", "sz": "森林里长满了高大的树。", "more": [["Birds sing in the forest.", "鸟儿在森林里唱歌。"], ["It is cool inside the forest.", "森林里面很凉快。"]] },
+    { "id": "wood", "zh": "木头；树林", "chunks": ["wood"], "emoji": "🪵", "en": "The chair is made of wood.", "sz": "椅子是木头做的。", "more": [["Dad cuts the wood for the fire.", "爸爸为炉火砍木头。"], ["We have a picnic in the wood.", "我们在树林里野餐。"]] },
+    { "id": "hill", "zh": "小山；山丘", "chunks": ["hill"], "emoji": "⛰️", "en": "The dog runs down the hill.", "sz": "狗从山上跑下来。", "more": [["There is a sheep on the hill.", "山上有一只羊。"], ["We sit on top of the hill.", "我们坐在山顶上。"]] },
+    { "id": "mountain", "zh": "山；高山", "chunks": ["moun", "tain"], "emoji": "🏔️", "en": "The mountain is covered in snow.", "sz": "山上覆盖着雪。", "more": [["We drive past the big mountain.", "我们开车经过那座大山。"], ["The air is cold on the mountain.", "山上的空气很冷。"]] },
+    { "id": "path", "zh": "小路", "chunks": ["path"], "emoji": "🚶", "en": "We walk along the path.", "sz": "我们沿着小路走。", "scene": "Lily and Max walking on a narrow path through a field.", "more": [["The path goes to the lake.", "这条路通向湖边。"], ["The path is very quiet.", "这条小路很安静。"]] },
+    { "id": "lake", "zh": "湖", "chunks": ["lake"], "emoji": "🏞️", "en": "The lake is very deep.", "sz": "这个湖很深。", "more": [["We look at the ducks on the lake.", "我们看湖上的鸭子。"], ["The water in the lake is clear.", "湖水很清澈。"]] },
+    { "id": "river", "zh": "河；江", "chunks": ["riv", "er"], "emoji": "🌊", "en": "The river is very long.", "sz": "这条河很长。", "more": [["We sit by the river.", "我们坐在河边。"], ["There is a bridge over the river.", "河上有一座桥。"]] },
+    { "id": "island", "zh": "岛屿", "chunks": ["is", "land"], "emoji": "🏝️", "en": "The island is in the middle of the sea.", "sz": "这座岛在海中央。", "more": [["We take a boat to the island.", "我们坐船去那座岛。"], ["There are no cars on this island.", "这座岛上没有汽车。"]] },
+    { "id": "beach", "zh": "海滩", "chunks": ["beach"], "emoji": "🏖️", "en": "Lily plays on the beach.", "sz": "Lily 在海滩上玩。", "more": [["The beach is warm today.", "今天海滩很暖和。"], ["We leave the beach at four o'clock.", "我们四点钟离开海滩。"]] },
+    { "id": "sea", "zh": "大海", "chunks": ["sea"], "emoji": "🌊", "en": "The sea is blue today.", "sz": "今天海是蓝色的。", "more": [["We can see the sea from here.", "我们从这里能看到大海。"], ["The sea is cold in spring.", "春天的海水很凉。"]] },
+    { "id": "ocean", "zh": "海洋", "chunks": ["o", "ce", "an"], "emoji": "🐋", "en": "The ocean is very big.", "sz": "海洋很大。", "scene": "a huge blue ocean, a whale jumping, no land in sight.", "more": [["Whales live in the ocean.", "鲸鱼生活在海洋里。"], ["The ship crosses the ocean.", "船横穿海洋。"]] },
+    { "id": "sky", "zh": "天空", "chunks": ["sky"], "emoji": "☁️", "en": "The sky is grey.", "sz": "天是灰色的。", "more": [["Look up at the sky!", "看天上！"], ["There are stars in the night sky.", "夜空里有星星。"]] },
+    { "id": "campsite", "zh": "露营地；营地", "chunks": ["camp", "site"], "emoji": "⛺", "en": "We sleep at the campsite.", "sz": "我们在露营地睡觉。", "scene": "A campsite with three tents on the grass among trees, two logs by a small fire, a quiet lake and low hills in the distance.", "more": [["The campsite is near the river.", "露营地就在河边。"], ["It is fun to stay at a campsite.", "住在露营地很有趣。"]] },
+    { "id": "railway", "zh": "铁路", "chunks": ["rail", "way"], "emoji": "🚂", "en": "The train goes on the railway.", "sz": "火车在铁路上行驶。", "scene": "a long railway line through green hills, a train far away.", "more": [["We stand near the railway.", "我们站在铁路附近。"], ["The new railway is very fast.", "这条新铁路很快。"]] },
+    { "id": "rainforest", "zh": "雨林", "chunks": ["rain", "for", "est"], "emoji": "🌴", "en": "Monkeys live in the rainforest.", "sz": "猴子住在雨林里。", "scene": "a green rainforest with tall trees, a parrot and a waterfall.", "more": [["The rainforest is very wet.", "雨林很潮湿。"], ["Many birds fly in the rainforest.", "许多鸟在雨林里飞。"]] }
+  ]
+}

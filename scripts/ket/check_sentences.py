@@ -71,13 +71,34 @@ def lemmas(tok: str) -> list[str]:
 
 
 def tokens(sentence: str) -> list[str]:
-    """Lower-case words; a possessive 's is dropped (Lily's → lily)."""
-    return [re.sub(r"'s$", "", t) if t not in IRREGULAR else t for t in re.findall(r"[a-z]+(?:[-'][a-z]+)*", sentence.lower())]
+    """Lower-case words; a possessive 's is dropped (Lily's → lily); a.m. and p.m. stay whole (a.m)."""
+    found = re.findall(r"\b[ap]\.m\b|[a-z]+(?:[-'][a-z]+)*", sentence.lower())
+    return [re.sub(r"'s$", "", t) if t not in IRREGULAR else t for t in found]
 
 
 def has_word(sentence: str, word: str) -> bool:
     """The fill-in-the-gap question needs the word itself (any case) as a whole word in the sentence."""
     return re.search(rf"(?<![\w-]){re.escape(word)}(?![\w-])", sentence, re.IGNORECASE) is not None
+
+
+def check_words(name: str, words: list[dict], vocab: set[str],
+                items: dict[str, dict]) -> tuple[list[str], list[str], int]:
+    """One island's sentences: words off the KET list, words with no gap sentence, and the sentence count.
+    `name` labels the reports (a topic id, or a draft's)."""
+    unknown: list[str] = []
+    no_gap: list[str] = []
+    total = 0
+    for w in words:
+        sentences = [w["en"], *(en for en, _ in w.get("more", []))]
+        total += len(sentences)
+        for s in sentences:
+            bad = [t for t in tokens(s) if t not in NAMES and not any(l in vocab for l in lemmas(t))]
+            if bad:
+                unknown.append(f"{name}/{w['id']}: {s}  ← {', '.join(sorted(set(bad)))}")
+        word = items[w.get("of", w["id"])]["word"]  # a second-meaning card (can.2) checks its word
+        if not any(has_word(s, word) for s in sentences):
+            no_gap.append(f"{name}/{w['id']}")
+    return unknown, no_gap, total
 
 
 def check(topics: list[str]) -> tuple[list[str], list[str], int]:
@@ -89,16 +110,10 @@ def check(topics: list[str]) -> tuple[list[str], list[str], int]:
     for path in sorted(CONTENT.glob("*.json")):
         if topics and path.stem not in topics:
             continue
-        for w in json.loads(path.read_text(encoding="utf-8"))["words"]:
-            sentences = [w["en"], *(en for en, _ in w.get("more", []))]
-            total += len(sentences)
-            for s in sentences:
-                bad = [t for t in tokens(s) if t not in NAMES and not any(l in vocab for l in lemmas(t))]
-                if bad:
-                    unknown.append(f"{path.stem}/{w['id']}: {s}  ← {', '.join(sorted(set(bad)))}")
-            word = items[w.get("of", w["id"])]["word"]  # a second-meaning card (can.2) checks its word
-            if not any(has_word(s, word) for s in sentences):
-                no_gap.append(f"{path.stem}/{w['id']}")
+        u, g, n = check_words(path.stem, json.loads(path.read_text(encoding="utf-8"))["words"], vocab, items)
+        unknown += u
+        no_gap += g
+        total += n
     return unknown, no_gap, total
 
 

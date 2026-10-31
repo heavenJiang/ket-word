@@ -1,0 +1,45 @@
+{
+ "id": "tom-is-brave",
+ "topic": "feelings",
+ "title": "Tom Is Brave",
+ "zh": "Tom 很勇敢",
+ "pages": [
+  {
+   "en": "It is a dark and noisy night. There is a terrible storm outside. Tom is afraid, so he goes to Lily's room.",
+   "zh": "这是一个又黑又吵的夜晚。外面有一场可怕的暴风雨。Tom 很害怕，就去了 Lily 的房间。",
+   "scene": "A dark bedroom at night, rain and lightning at the window, Tom standing at Lily's door holding his teddy bear, looking afraid."
+  },
+  {
+   "en": "\"Don't be afraid,\" says Lily. \"Let's read a funny story.\" She reads to him, and Tom starts to laugh. Max comes in too.",
+   "zh": "“别害怕，”Lily 说，“我们来读一个好笑的故事吧。”她读给他听，Tom 开始笑了。Max 也进来了。",
+   "scene": "Lily and Tom sitting together on her bed under a blanket with a small lamp on, Lily reading a book aloud, Tom laughing, Max coming in through the door."
+  },
+  {
+   "en": "In the morning, the sun is out. \"I was brave last night,\" says Tom. \"You were,\" says Lily, and they both laugh.",
+   "zh": "早上，太阳出来了。“我昨晚很勇敢，”Tom 说。“你确实很勇敢，”Lily 说，两个人都笑了。",
+   "scene": "A sunny bedroom in the morning, Lily and Tom laughing together on the bed, the sky blue outside the window, Max wagging his tail."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The storm is at night.",
+   "zh": "暴风雨发生在晚上。",
+   "answer": true
+  },
+  {
+   "q": "What does Lily read?",
+   "zh": "Lily 读了什么？",
+   "options": [
+    "a funny story",
+    "a letter",
+    "a magazine"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tom is sad in the morning.",
+   "zh": "Tom 早上很难过。",
+   "answer": false
+  }
+ ]
+}

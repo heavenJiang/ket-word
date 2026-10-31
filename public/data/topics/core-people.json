@@ -1,0 +1,2423 @@
+{
+ "id": "core-people",
+ "words": [
+  {
+   "id": "adult",
+   "word": "adult",
+   "zh": "成年人；成人的",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "n"
+     ],
+     "zh": "成年人；成人的"
+    }
+   ],
+   "ipa": "/ˈædʌlt/",
+   "chunks": [
+    "a",
+    "dult"
+   ],
+   "emoji": "👨‍🦳",
+   "sentence": {
+    "en": "Tom is not an adult yet.",
+    "zh": "Tom 还不是一个成年人。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is not an adult yet.",
+     "zh": "Tom 还不是一个成年人。",
+     "audio": "media/sent/a2d132674ee8.mp3"
+    },
+    {
+     "en": "Adults drink coffee in the morning.",
+     "zh": "成年人早上喝咖啡。",
+     "audio": "media/sent/e4fd273b6123.mp3"
+    },
+    {
+     "en": "This is an adult swimming pool.",
+     "zh": "这是成人游泳池。",
+     "audio": "media/sent/3f037adacecc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/adult.webp",
+    "uk": "media/uk/adult.mp3",
+    "us": "media/us/adult.mp3"
+   },
+   "avoid": [
+    "man",
+    "people",
+    "person",
+    "woman"
+   ]
+  },
+  {
+   "id": "boyfriend",
+   "word": "boyfriend",
+   "zh": "男朋友",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "男朋友"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "boy",
+    "friend"
+   ],
+   "emoji": "👦❤️",
+   "sentence": {
+    "en": "Mia's big sister has a new boyfriend.",
+    "zh": "Mia 的姐姐交了个新男朋友。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's big sister has a new boyfriend.",
+     "zh": "Mia 的姐姐交了个新男朋友。",
+     "audio": "media/sent/f4f7eb5de3aa.mp3"
+    },
+    {
+     "en": "Uncle Ben was Aunt Kate's boyfriend before they got married.",
+     "zh": "Ben 叔叔和 Kate 阿姨结婚前是她的男朋友。",
+     "audio": "media/sent/dd1664c2bab8.mp3"
+    },
+    {
+     "en": "Her boyfriend plays the guitar.",
+     "zh": "她的男朋友会弹吉他。",
+     "audio": "media/sent/8616e2fdb3ae.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/boyfriend.webp"
+   },
+   "avoid": [
+    "get-married",
+    "girlfriend",
+    "partner"
+   ]
+  },
+  {
+   "id": "girlfriend",
+   "word": "girlfriend",
+   "zh": "女朋友",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女朋友"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "girl",
+    "friend"
+   ],
+   "emoji": "👧❤️",
+   "sentence": {
+    "en": "Mia's big brother has a girlfriend.",
+    "zh": "Mia 的哥哥有女朋友了。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's big brother has a girlfriend.",
+     "zh": "Mia 的哥哥有女朋友了。",
+     "audio": "media/sent/6823f71be25d.mp3"
+    },
+    {
+     "en": "Aunt Kate was Uncle Ben's girlfriend before they got married.",
+     "zh": "Kate 阿姨和 Ben 叔叔结婚前是他的女朋友。",
+     "audio": "media/sent/39a402af01b0.mp3"
+    },
+    {
+     "en": "His girlfriend is a teacher.",
+     "zh": "他的女朋友是老师。",
+     "audio": "media/sent/fce579ee3a7a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/girlfriend.webp"
+   },
+   "avoid": [
+    "boyfriend",
+    "get-married",
+    "partner"
+   ]
+  },
+  {
+   "id": "business-person",
+   "word": "business person",
+   "zh": "商人；企业家",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "商人；企业家"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "busi",
+    "ness",
+    "per",
+    "son"
+   ],
+   "emoji": "💼",
+   "sentence": {
+    "en": "The man in the suit is a business person.",
+    "zh": "那个穿西装的男人是个商人。"
+   },
+   "sentences": [
+    {
+     "en": "The man in the suit is a business person.",
+     "zh": "那个穿西装的男人是个商人。",
+     "audio": "media/sent/13e644b98e0a.mp3"
+    },
+    {
+     "en": "Many business people work in London.",
+     "zh": "许多商人在伦敦工作。",
+     "audio": "media/sent/48678dc86654.mp3"
+    },
+    {
+     "en": "She wants to be a business person.",
+     "zh": "她想成为一名商人。",
+     "audio": "media/sent/5a5d96ef660a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/business-person.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "celebrity",
+   "word": "celebrity",
+   "zh": "名人",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "名人"
+    }
+   ],
+   "ipa": "/səˈlebrəti/",
+   "chunks": [
+    "cel",
+    "e",
+    "bri",
+    "ty"
+   ],
+   "emoji": "⭐",
+   "sentence": {
+    "en": "Lily sees a celebrity at the cinema.",
+    "zh": "Lily 在电影院看到一位名人。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sees a celebrity at the cinema.",
+     "zh": "Lily 在电影院看到一位名人。",
+     "audio": "media/sent/99e68cce0852.mp3"
+    },
+    {
+     "en": "This actor is a big celebrity.",
+     "zh": "这位演员是大名人。",
+     "audio": "media/sent/762dccc91f58.mp3"
+    },
+    {
+     "en": "The celebrity writes names for fans.",
+     "zh": "名人为粉丝写名字。",
+     "audio": "media/sent/97da306b6c12.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/celebrity.webp",
+    "uk": "media/uk/celebrity.mp3",
+    "us": "media/us/celebrity.mp3"
+   },
+   "avoid": [
+    "fan",
+    "movie-star"
+   ]
+  },
+  {
+   "id": "character",
+   "word": "character",
+   "zh": "角色；人物",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "角色；人物"
+    }
+   ],
+   "ipa": "/ˈkærəktə/",
+   "chunks": [
+    "char",
+    "ac",
+    "ter"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "Max is my favourite character.",
+    "zh": "Max 是我最喜欢的角色。"
+   },
+   "sentences": [
+    {
+     "en": "Max is my favourite character.",
+     "zh": "Max 是我最喜欢的角色。",
+     "audio": "media/sent/5acbe928ecb2.mp3"
+    },
+    {
+     "en": "Who is your favourite character?",
+     "zh": "你最喜欢的角色是谁？",
+     "audio": "media/sent/d35bc2099952.mp3"
+    },
+    {
+     "en": "The story has many interesting characters.",
+     "zh": "这个故事有很多有趣的角色。",
+     "audio": "media/sent/f2307c30a14a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/character.webp",
+    "uk": "media/uk/character.mp3",
+    "us": "media/us/character.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "clown",
+   "word": "clown",
+   "zh": "小丑",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小丑"
+    }
+   ],
+   "ipa": "/klaʊn/",
+   "chunks": [
+    "clown"
+   ],
+   "emoji": "🤡",
+   "sentence": {
+    "en": "The clown makes Tom laugh.",
+    "zh": "小丑逗得 Tom 大笑。"
+   },
+   "sentences": [
+    {
+     "en": "The clown makes Tom laugh.",
+     "zh": "小丑逗得 Tom 大笑。",
+     "audio": "media/sent/d860fd11ea6d.mp3"
+    },
+    {
+     "en": "I saw a funny clown today.",
+     "zh": "我今天看到了一个有趣的小丑。",
+     "audio": "media/sent/c009dd5a8014.mp3"
+    },
+    {
+     "en": "The clown wears a red hat.",
+     "zh": "小丑戴着一顶红帽子。",
+     "audio": "media/sent/040c0c842d23.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/clown.webp",
+    "uk": "media/uk/clown.mp3",
+    "us": "media/us/clown.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "colleague",
+   "word": "colleague",
+   "zh": "同事",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "同事"
+    }
+   ],
+   "ipa": "/ˈkɒliːɡ/",
+   "chunks": [
+    "col",
+    "league"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Mum has a kind colleague.",
+    "zh": "妈妈有一位善良的同事。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has a kind colleague.",
+     "zh": "妈妈有一位善良的同事。",
+     "audio": "media/sent/eadbc4e5c324.mp3"
+    },
+    {
+     "en": "Dad eats lunch with his colleagues.",
+     "zh": "爸爸和同事一起吃午饭。",
+     "audio": "media/sent/2dcdd9881848.mp3"
+    },
+    {
+     "en": "Mum's colleague visits us.",
+     "zh": "妈妈的同事来拜访我们。",
+     "audio": "media/sent/abf4b7650e7b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/colleague.webp",
+    "uk": "media/uk/colleague.mp3",
+    "us": "media/us/colleague.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "crowd",
+   "word": "crowd",
+   "zh": "人群",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "人群"
+    }
+   ],
+   "ipa": "/kraʊd/",
+   "chunks": [
+    "crowd"
+   ],
+   "emoji": "👥",
+   "sentence": {
+    "en": "There is a big crowd at the park.",
+    "zh": "公园里有一大群人。"
+   },
+   "sentences": [
+    {
+     "en": "There is a big crowd at the park.",
+     "zh": "公园里有一大群人。",
+     "audio": "media/sent/5c9e85f19cfe.mp3"
+    },
+    {
+     "en": "The crowd shouts for Lily.",
+     "zh": "人群为 Lily 欢呼。",
+     "audio": "media/sent/81003c6e86b3.mp3"
+    },
+    {
+     "en": "We walked through the crowd.",
+     "zh": "我们穿过人群。",
+     "audio": "media/sent/81acfd37dea6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/crowd.webp",
+    "uk": "media/uk/crowd.mp3",
+    "us": "media/us/crowd.mp3"
+   },
+   "avoid": [
+    "people"
+   ]
+  },
+  {
+   "id": "fan",
+   "word": "fan",
+   "zh": "粉丝；迷",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "粉丝；迷"
+    }
+   ],
+   "ipa": "/fæn/",
+   "chunks": [
+    "fan"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "Tom is a big fan of Max.",
+    "zh": "Tom 是 Max 的超级粉丝。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is a big fan of Max.",
+     "zh": "Tom 是 Max 的超级粉丝。",
+     "audio": "media/sent/43901b5e5bdf.mp3"
+    },
+    {
+     "en": "Lily is a football fan.",
+     "zh": "Lily 是个足球迷。",
+     "audio": "media/sent/ed35f34eda0b.mp3"
+    },
+    {
+     "en": "The fans sing for their team.",
+     "zh": "球迷们为他们的球队唱歌。",
+     "audio": "media/sent/c8c7d8f723c8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fan.webp",
+    "uk": "media/uk/fan.mp3",
+    "us": "media/us/fan.mp3"
+   },
+   "avoid": [
+    "celebrity",
+    "movie-star"
+   ]
+  },
+  {
+   "id": "headteacher",
+   "word": "headteacher",
+   "zh": "校长",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "校长"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "head",
+    "tea",
+    "cher"
+   ],
+   "emoji": "🏫",
+   "sentence": {
+    "en": "Our headteacher is very nice.",
+    "zh": "我们的校长人很好。"
+   },
+   "sentences": [
+    {
+     "en": "Our headteacher is very nice.",
+     "zh": "我们的校长人很好。",
+     "audio": "media/sent/44d82bcee717.mp3"
+    },
+    {
+     "en": "The headteacher speaks in the hall.",
+     "zh": "校长在大厅里讲话。",
+     "audio": "media/sent/879d3d41958c.mp3"
+    },
+    {
+     "en": "Lily says hello to the headteacher.",
+     "zh": "Lily 向校长问好。",
+     "audio": "media/sent/a6966db0a33b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/headteacher.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "housewife",
+   "word": "housewife",
+   "zh": "家庭主妇",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "家庭主妇"
+    }
+   ],
+   "ipa": "/ˈhaʊswaɪf/",
+   "chunks": [
+    "house",
+    "wife"
+   ],
+   "emoji": "🏠",
+   "sentence": {
+    "en": "Grandma was a housewife.",
+    "zh": "奶奶以前是家庭主妇。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma was a housewife.",
+     "zh": "奶奶以前是家庭主妇。",
+     "audio": "media/sent/6b6a691000d4.mp3"
+    },
+    {
+     "en": "My friend's mum is a housewife.",
+     "zh": "我朋友的妈妈是家庭主妇。",
+     "audio": "media/sent/d2e60cb5d3a2.mp3"
+    },
+    {
+     "en": "A housewife works hard at home.",
+     "zh": "家庭主妇在家里很辛苦。",
+     "audio": "media/sent/b2fe0d8b2fcd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/housewife.webp",
+    "uk": "media/uk/housewife.mp3",
+    "us": "media/us/housewife.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "kid",
+   "word": "kid",
+   "zh": "小孩",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小孩"
+    }
+   ],
+   "ipa": "/kɪd/",
+   "chunks": [
+    "kid"
+   ],
+   "emoji": "🧒",
+   "sentence": {
+    "en": "The kid plays with a ball.",
+    "zh": "那个小孩在玩球。"
+   },
+   "sentences": [
+    {
+     "en": "The kid plays with a ball.",
+     "zh": "那个小孩在玩球。",
+     "audio": "media/sent/bd6bd41a16e5.mp3"
+    },
+    {
+     "en": "Are you a good kid, Tom?",
+     "zh": "Tom，你是个好小孩吗？",
+     "audio": "media/sent/9774b8b24a0e.mp3"
+    },
+    {
+     "en": "Many kids go to school today.",
+     "zh": "今天很多小孩去上学。",
+     "audio": "media/sent/8405ce1c4664.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/kid.webp",
+    "uk": "media/uk/kid.mp3",
+    "us": "media/us/kid.mp3"
+   },
+   "avoid": [
+    "schoolchild"
+   ]
+  },
+  {
+   "id": "man",
+   "word": "man",
+   "zh": "男人；男士",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "男人；男士"
+    }
+   ],
+   "ipa": "/mæn/",
+   "chunks": [
+    "man"
+   ],
+   "emoji": "👨",
+   "sentence": {
+    "en": "The man opens the door.",
+    "zh": "那位男士开了门。"
+   },
+   "sentences": [
+    {
+     "en": "The man opens the door.",
+     "zh": "那位男士开了门。",
+     "audio": "media/sent/d99041822eff.mp3"
+    },
+    {
+     "en": "Dad is a nice man.",
+     "zh": "爸爸是个好人。",
+     "audio": "media/sent/6dac9f0bb604.mp3"
+    },
+    {
+     "en": "That man sells apples.",
+     "zh": "那位男士卖苹果。",
+     "audio": "media/sent/c419ee5a67d4.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/man.webp",
+    "uk": "media/uk/man.mp3",
+    "us": "media/us/man.mp3"
+   },
+   "avoid": [
+    "adult",
+    "people",
+    "person",
+    "woman"
+   ]
+  },
+  {
+   "id": "woman",
+   "word": "woman",
+   "zh": "女人；女士",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "女人；女士"
+    }
+   ],
+   "ipa": "/ˈwʊmən/",
+   "chunks": [
+    "wo",
+    "man"
+   ],
+   "emoji": "👩",
+   "sentence": {
+    "en": "The woman drives the bus.",
+    "zh": "那位女士开公交车。"
+   },
+   "sentences": [
+    {
+     "en": "The woman drives the bus.",
+     "zh": "那位女士开公交车。",
+     "audio": "media/sent/9b4bdc1572b9.mp3"
+    },
+    {
+     "en": "Mum is a strong woman.",
+     "zh": "妈妈是个坚强的女人。",
+     "audio": "media/sent/1d1081069722.mp3"
+    },
+    {
+     "en": "The woman buys some milk.",
+     "zh": "那位女士买了一些牛奶。",
+     "audio": "media/sent/ef3222964dfb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/woman.webp",
+    "uk": "media/uk/woman.mp3",
+    "us": "media/us/woman.mp3"
+   },
+   "avoid": [
+    "adult",
+    "man",
+    "people",
+    "person"
+   ]
+  },
+  {
+   "id": "mom",
+   "word": "mom",
+   "zh": "妈妈（美式）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "妈妈（美式）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "mom"
+   ],
+   "emoji": "🇺🇸",
+   "sentence": {
+    "en": "In America, they say Mom.",
+    "zh": "在美国，人们叫妈妈为 Mom。"
+   },
+   "sentences": [
+    {
+     "en": "In America, they say Mom.",
+     "zh": "在美国，人们叫妈妈为 Mom。",
+     "audio": "media/sent/4fb5163ed6d4.mp3"
+    },
+    {
+     "en": "American children say Mom, not Mum.",
+     "zh": "美国孩子说 Mom，不说 Mum。",
+     "audio": "media/sent/949a1d42722f.mp3"
+    },
+    {
+     "en": "Mom is short for mother in America.",
+     "zh": "在美国，Mom 是母亲的简称。",
+     "audio": "media/sent/1ad394260496.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "partner",
+   "word": "partner",
+   "zh": "伙伴；搭档",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "伙伴；搭档"
+    }
+   ],
+   "ipa": "/ˈpɑːtnə/",
+   "chunks": [
+    "part",
+    "ner"
+   ],
+   "emoji": "🤝",
+   "sentence": {
+    "en": "Lily and Mia are dance partners.",
+    "zh": "Lily 和 Mia 是舞伴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily and Mia are dance partners.",
+     "zh": "Lily 和 Mia 是舞伴。",
+     "audio": "media/sent/345971493ada.mp3"
+    },
+    {
+     "en": "Tom needs a partner for the game.",
+     "zh": "Tom 需要一个搭档来玩游戏。",
+     "audio": "media/sent/2068e1100176.mp3"
+    },
+    {
+     "en": "Dad is my tennis partner today.",
+     "zh": "今天爸爸是我的网球搭档。",
+     "audio": "media/sent/52c54dd9637c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/partner.webp",
+    "uk": "media/uk/partner.mp3",
+    "us": "media/us/partner.mp3"
+   },
+   "avoid": [
+    "boyfriend",
+    "girlfriend"
+   ]
+  },
+  {
+   "id": "people",
+   "word": "people",
+   "zh": "人们；人",
+   "pos": [
+    "n pl"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n pl"
+     ],
+     "zh": "人们；人"
+    }
+   ],
+   "ipa": "/ˈpiːpəl/",
+   "chunks": [
+    "peo",
+    "ple"
+   ],
+   "emoji": "👨‍👩‍👧‍👦",
+   "sentence": {
+    "en": "Many people are at the park.",
+    "zh": "公园里有很多人在。"
+   },
+   "sentences": [
+    {
+     "en": "Many people are at the park.",
+     "zh": "公园里有很多人在。",
+     "audio": "media/sent/55caa2d1e8f3.mp3"
+    },
+    {
+     "en": "People love ice cream in summer.",
+     "zh": "夏天人们喜欢吃冰淇淋。",
+     "audio": "media/sent/aa4e52726479.mp3"
+    },
+    {
+     "en": "The train is full of people.",
+     "zh": "火车上挤满了人。",
+     "audio": "media/sent/15dc98793c52.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/people.webp",
+    "uk": "media/uk/people.mp3",
+    "us": "media/us/people.mp3"
+   },
+   "avoid": [
+    "adult",
+    "crowd",
+    "man",
+    "person",
+    "woman"
+   ]
+  },
+  {
+   "id": "person",
+   "word": "person",
+   "zh": "人；个人",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "人；个人"
+    }
+   ],
+   "ipa": "/ˈpɜːsən/",
+   "chunks": [
+    "per",
+    "son"
+   ],
+   "emoji": "🧍",
+   "sentence": {
+    "en": "He is a kind person.",
+    "zh": "他是一个善良的人。"
+   },
+   "sentences": [
+    {
+     "en": "He is a kind person.",
+     "zh": "他是一个善良的人。",
+     "audio": "media/sent/1fb49c8b6608.mp3"
+    },
+    {
+     "en": "Who is that person at the door?",
+     "zh": "门口那个人是谁？",
+     "audio": "media/sent/f9c338f5463d.mp3"
+    },
+    {
+     "en": "Mum is a busy person.",
+     "zh": "妈妈是个大忙人。",
+     "audio": "media/sent/d478fbc09ab9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/person.webp",
+    "uk": "media/uk/person.mp3",
+    "us": "media/us/person.mp3"
+   },
+   "avoid": [
+    "adult",
+    "man",
+    "people",
+    "woman"
+   ]
+  },
+  {
+   "id": "schoolchild",
+   "word": "schoolchild",
+   "zh": "小学生；学童",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "小学生；学童"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "school",
+    "child"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Lily is a happy schoolchild.",
+    "zh": "Lily 是一个快乐的小学生。"
+   },
+   "sentences": [
+    {
+     "en": "Lily is a happy schoolchild.",
+     "zh": "Lily 是一个快乐的小学生。",
+     "audio": "media/sent/23dcaa27c86b.mp3"
+    },
+    {
+     "en": "Every schoolchild needs a pen.",
+     "zh": "每个小学生都需要一支钢笔。",
+     "audio": "media/sent/e93f3a5ed2be.mp3"
+    },
+    {
+     "en": "Tom is not a schoolchild yet.",
+     "zh": "Tom 还不是一个小学生。",
+     "audio": "media/sent/a6f03a5bb8b6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/schoolchild.webp"
+   },
+   "avoid": [
+    "kid"
+   ]
+  },
+  {
+   "id": "scientist",
+   "word": "scientist",
+   "zh": "科学家",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "科学家"
+    }
+   ],
+   "ipa": "/ˈsaɪəntɪst/",
+   "chunks": [
+    "sci",
+    "en",
+    "tist"
+   ],
+   "emoji": "🔬",
+   "sentence": {
+    "en": "That woman is a scientist.",
+    "zh": "那位女士是一名科学家。"
+   },
+   "sentences": [
+    {
+     "en": "That woman is a scientist.",
+     "zh": "那位女士是一名科学家。",
+     "audio": "media/sent/3112cdabf969.mp3"
+    },
+    {
+     "en": "The scientist has many books.",
+     "zh": "这位科学家有很多书。",
+     "audio": "media/sent/f96a76d1b15c.mp3"
+    },
+    {
+     "en": "Lily wants to be a scientist.",
+     "zh": "Lily 想成为一名科学家。",
+     "audio": "media/sent/8591bbf11d9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/scientist.webp",
+    "uk": "media/uk/scientist.mp3",
+    "us": "media/us/scientist.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "runner",
+   "word": "runner",
+   "zh": "跑步者；赛跑运动员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "跑步者；赛跑运动员"
+    }
+   ],
+   "ipa": "/ˈrʌnə/",
+   "chunks": [
+    "run",
+    "ner"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "The runner is very fast.",
+    "zh": "这个跑步者非常快。"
+   },
+   "sentences": [
+    {
+     "en": "The runner is very fast.",
+     "zh": "这个跑步者非常快。",
+     "audio": "media/sent/78bdd1ab0c97.mp3"
+    },
+    {
+     "en": "Dad is a good runner.",
+     "zh": "爸爸是一个很好的跑步者。",
+     "audio": "media/sent/ddfdddca459e.mp3"
+    },
+    {
+     "en": "The young runner won the race.",
+     "zh": "那个年轻的赛跑运动员赢得了比赛。",
+     "audio": "media/sent/b50c6cfc3eea.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/runner.webp",
+    "uk": "media/uk/runner.mp3",
+    "us": "media/us/runner.mp3"
+   },
+   "avoid": [
+    "get-fit"
+   ]
+  },
+  {
+   "id": "movie-star",
+   "word": "movie star",
+   "zh": "电影明星",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电影明星"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "mov",
+    "ie",
+    "star"
+   ],
+   "emoji": "🌟",
+   "sentence": {
+    "en": "The movie star is in the film.",
+    "zh": "这位电影明星在电影里。"
+   },
+   "sentences": [
+    {
+     "en": "The movie star is in the film.",
+     "zh": "这位电影明星在电影里。",
+     "audio": "media/sent/5885e291b2b2.mp3"
+    },
+    {
+     "en": "Mia likes that movie star.",
+     "zh": "Mia 喜欢那位电影明星。",
+     "audio": "media/sent/be0f3f3baf01.mp3"
+    },
+    {
+     "en": "The movie star has many fans.",
+     "zh": "这位电影明星有很多粉丝。",
+     "audio": "media/sent/ab329721f690.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/movie-star.webp"
+   },
+   "avoid": [
+    "celebrity",
+    "fan"
+   ]
+  },
+  {
+   "id": "speaker",
+   "word": "speaker",
+   "zh": "扬声器；喇叭",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "扬声器；喇叭"
+    }
+   ],
+   "ipa": "/ˈspiːkə/",
+   "chunks": [
+    "speak",
+    "er"
+   ],
+   "emoji": "🔊",
+   "sentence": {
+    "en": "The music comes from the speaker.",
+    "zh": "音乐来自扬声器。"
+   },
+   "sentences": [
+    {
+     "en": "The music comes from the speaker.",
+     "zh": "音乐来自扬声器。",
+     "audio": "media/sent/7a2ae7279288.mp3"
+    },
+    {
+     "en": "Turn up the speaker, please.",
+     "zh": "请把扬声器的声音调大一点。",
+     "audio": "media/sent/0e1bd8d0fb49.mp3"
+    },
+    {
+     "en": "The big speaker is in the hall.",
+     "zh": "大厅里有一个大扬声器。",
+     "audio": "media/sent/205fe8f46d98.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/speaker.webp",
+    "uk": "media/uk/speaker.mp3",
+    "us": "media/us/speaker.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "police",
+   "word": "police",
+   "zh": "警察（总称）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "警察（总称）"
+    }
+   ],
+   "ipa": "/pəˈliːs/",
+   "chunks": [
+    "po",
+    "lice"
+   ],
+   "emoji": "👮",
+   "sentence": {
+    "en": "The police help us.",
+    "zh": "警察帮助我们。"
+   },
+   "sentences": [
+    {
+     "en": "The police help us.",
+     "zh": "警察帮助我们。",
+     "audio": "media/sent/f7195034692f.mp3"
+    },
+    {
+     "en": "Call the police if you are lost.",
+     "zh": "如果你迷路了就报警。",
+     "audio": "media/sent/d3bcaf7bdf36.mp3"
+    },
+    {
+     "en": "The police have a big dog.",
+     "zh": "警察有一只大狗。",
+     "audio": "media/sent/584fae3a1198.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/police.webp",
+    "uk": "media/uk/police.mp3",
+    "us": "media/us/police.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "beard",
+   "word": "beard",
+   "zh": "胡须；络腮胡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "胡须；络腮胡"
+    }
+   ],
+   "ipa": "/bɪəd/",
+   "chunks": [
+    "beard"
+   ],
+   "emoji": "🧔",
+   "sentence": {
+    "en": "Grandpa has a grey beard.",
+    "zh": "爷爷有灰色的胡子。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa has a grey beard.",
+     "zh": "爷爷有灰色的胡子。",
+     "audio": "media/sent/7e478e635ee8.mp3"
+    },
+    {
+     "en": "The man has no beard.",
+     "zh": "那个男人没有胡子。",
+     "audio": "media/sent/ed44840ba5f7.mp3"
+    },
+    {
+     "en": "Dad cuts his beard.",
+     "zh": "爸爸修剪他的胡子。",
+     "audio": "media/sent/1f465fe9b775.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/beard.webp",
+    "uk": "media/uk/beard.mp3",
+    "us": "media/us/beard.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "age",
+   "word": "age",
+   "zh": "年龄；年纪",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "年龄；年纪"
+    }
+   ],
+   "ipa": "/eɪdʒ/",
+   "chunks": [
+    "age"
+   ],
+   "emoji": "🎂",
+   "sentence": {
+    "en": "Tom is six years of age.",
+    "zh": "Tom 六岁了。"
+   },
+   "sentences": [
+    {
+     "en": "Tom is six years of age.",
+     "zh": "Tom 六岁了。",
+     "audio": "media/sent/f763f1e26df3.mp3"
+    },
+    {
+     "en": "What is your age?",
+     "zh": "你几岁？",
+     "audio": "media/sent/5f6bcc65917e.mp3"
+    },
+    {
+     "en": "Grandma has a young heart for her age.",
+     "zh": "奶奶虽然年纪大了，但心态很年轻。",
+     "audio": "media/sent/4d946d1827cb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/age.webp",
+    "uk": "media/uk/age.mp3",
+    "us": "media/us/age.mp3"
+   },
+   "avoid": [
+    "aged",
+    "birth",
+    "born"
+   ]
+  },
+  {
+   "id": "aged",
+   "word": "aged",
+   "zh": "…岁的；年老的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "…岁的；年老的"
+    }
+   ],
+   "ipa": "/eɪdʒd/",
+   "chunks": [
+    "a",
+    "ged"
+   ],
+   "emoji": "👴",
+   "sentence": {
+    "en": "The cat is aged ten.",
+    "zh": "这只猫十岁了。"
+   },
+   "sentences": [
+    {
+     "en": "The cat is aged ten.",
+     "zh": "这只猫十岁了。",
+     "audio": "media/sent/1eda6a5fa191.mp3"
+    },
+    {
+     "en": "My dog is aged three.",
+     "zh": "我的狗三岁了。",
+     "audio": "media/sent/d656bb674511.mp3"
+    },
+    {
+     "en": "Grandma's cat is aged fifteen.",
+     "zh": "奶奶的猫十五岁了。",
+     "audio": "media/sent/e5b4e76babbf.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/aged.webp",
+    "uk": "media/uk/aged.mp3",
+    "us": "media/us/aged.mp3"
+   },
+   "avoid": [
+    "age",
+    "birth",
+    "born"
+   ]
+  },
+  {
+   "id": "birth",
+   "word": "birth",
+   "zh": "出生",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "出生"
+    }
+   ],
+   "ipa": "/bɜːθ/",
+   "chunks": [
+    "birth"
+   ],
+   "emoji": "🍼",
+   "sentence": {
+    "en": "Tom's birth was in spring.",
+    "zh": "Tom 出生在春天。"
+   },
+   "sentences": [
+    {
+     "en": "Tom's birth was in spring.",
+     "zh": "Tom 出生在春天。",
+     "audio": "media/sent/67bb6ad91e6c.mp3"
+    },
+    {
+     "en": "The birth of a baby is happy news.",
+     "zh": "宝宝出生是好消息。",
+     "audio": "media/sent/2c2b66c1bf0c.mp3"
+    },
+    {
+     "en": "The panda's birth is happy news.",
+     "zh": "熊猫的出生是个好消息。",
+     "audio": "media/sent/0e5feb4da787.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/birth.webp",
+    "uk": "media/uk/birth.mp3",
+    "us": "media/us/birth.mp3"
+   },
+   "avoid": [
+    "age",
+    "aged",
+    "born"
+   ]
+  },
+  {
+   "id": "born",
+   "word": "born",
+   "zh": "出生",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "出生"
+    }
+   ],
+   "ipa": "/bɔːn/",
+   "chunks": [
+    "born"
+   ],
+   "emoji": "👶",
+   "sentence": {
+    "en": "Lily was born in July.",
+    "zh": "Lily 出生在七月。"
+   },
+   "sentences": [
+    {
+     "en": "Lily was born in July.",
+     "zh": "Lily 出生在七月。",
+     "audio": "media/sent/a8d7faa462d8.mp3"
+    },
+    {
+     "en": "Max was born in the garden.",
+     "zh": "Max 是在花园里出生的。",
+     "audio": "media/sent/d0d825640e25.mp3"
+    },
+    {
+     "en": "Tom was born in March.",
+     "zh": "Tom 是三月出生的。",
+     "audio": "media/sent/86a2bb281dee.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/born.webp",
+    "uk": "media/uk/born.mp3",
+    "us": "media/us/born.mp3"
+   },
+   "avoid": [
+    "age",
+    "aged",
+    "birth"
+   ]
+  },
+  {
+   "id": "life",
+   "word": "life",
+   "zh": "生活；生命",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "生活；生命"
+    }
+   ],
+   "ipa": "/laɪf/",
+   "chunks": [
+    "life"
+   ],
+   "emoji": "🌱",
+   "sentence": {
+    "en": "School life is fun.",
+    "zh": "学校生活很有趣。"
+   },
+   "sentences": [
+    {
+     "en": "School life is fun.",
+     "zh": "学校生活很有趣。",
+     "audio": "media/sent/7da9d548225c.mp3"
+    },
+    {
+     "en": "The flower has a short life.",
+     "zh": "这朵花生命很短。",
+     "audio": "media/sent/043a315cde3c.mp3"
+    },
+    {
+     "en": "We love our family life.",
+     "zh": "我们热爱我们的家庭生活。",
+     "audio": "media/sent/45f52acf0c6a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/life.webp",
+    "uk": "media/uk/life.mp3",
+    "us": "media/us/life.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "name",
+   "word": "name",
+   "zh": "名字",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "名字"
+    }
+   ],
+   "ipa": "/neɪm/",
+   "chunks": [
+    "name"
+   ],
+   "emoji": "🏷️",
+   "sentence": {
+    "en": "My name is Lily.",
+    "zh": "我的名字是 Lily。"
+   },
+   "sentences": [
+    {
+     "en": "My name is Lily.",
+     "zh": "我的名字是 Lily。",
+     "audio": "media/sent/f6f087fc9179.mp3"
+    },
+    {
+     "en": "What is your name?",
+     "zh": "你叫什么名字？",
+     "audio": "media/sent/620283bb23db.mp3"
+    },
+    {
+     "en": "The dog's name is Max.",
+     "zh": "这只狗的名字是 Max。",
+     "audio": "media/sent/3caedc783f6d.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/name.mp3",
+    "us": "media/us/name.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "first-name",
+   "word": "first name",
+   "zh": "名字",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "名字"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "first",
+    "name"
+   ],
+   "emoji": "👦",
+   "sentence": {
+    "en": "My first name is Lily.",
+    "zh": "我的名字是 Lily。"
+   },
+   "sentences": [
+    {
+     "en": "My first name is Lily.",
+     "zh": "我的名字是 Lily。",
+     "audio": "media/sent/ac3b3439b53a.mp3"
+    },
+    {
+     "en": "What's your first name?",
+     "zh": "你的名字是什么？",
+     "audio": "media/sent/20f70e81d403.mp3"
+    },
+    {
+     "en": "Write your first name here.",
+     "zh": "在这里写下你的名字。",
+     "audio": "media/sent/288bcc8b64e2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/first-name.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "nationality",
+   "word": "nationality",
+   "zh": "国籍",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "国籍"
+    }
+   ],
+   "ipa": "/ˌnæʃəˈnæləti/",
+   "chunks": [
+    "na",
+    "tion",
+    "al",
+    "i",
+    "ty"
+   ],
+   "emoji": "🌍",
+   "sentence": {
+    "en": "Mia's nationality is French.",
+    "zh": "Mia 的国籍是法国。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's nationality is French.",
+     "zh": "Mia 的国籍是法国。",
+     "audio": "media/sent/08270ff0735f.mp3"
+    },
+    {
+     "en": "Dad writes his nationality on the form.",
+     "zh": "爸爸在表格上填写国籍。",
+     "audio": "media/sent/e9dced789e91.mp3"
+    },
+    {
+     "en": "What is your nationality?",
+     "zh": "你是哪国人？",
+     "audio": "media/sent/4f3379a6f811.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/nationality.mp3",
+    "us": "media/us/nationality.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "id",
+   "word": "ID",
+   "zh": "身份证件",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "身份证件"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "I",
+    "D"
+   ],
+   "emoji": "🪪",
+   "sentence": {
+    "en": "Dad shows his ID to the man.",
+    "zh": "爸爸向那个人出示了他的身份证件。"
+   },
+   "sentences": [
+    {
+     "en": "Dad shows his ID to the man.",
+     "zh": "爸爸向那个人出示了他的身份证件。",
+     "audio": "media/sent/b9680aa7ae21.mp3"
+    },
+    {
+     "en": "You need ID to buy the ticket.",
+     "zh": "买票需要身份证件。",
+     "audio": "media/sent/e3761b1bd37a.mp3"
+    },
+    {
+     "en": "Please check my ID.",
+     "zh": "请检查我的身份证件。",
+     "audio": "media/sent/420e38474d44.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/id.webp"
+   },
+   "avoid": [
+    "id-card",
+    "identification"
+   ]
+  },
+  {
+   "id": "id-card",
+   "word": "ID card",
+   "zh": "身份证",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "身份证"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "I",
+    "D",
+    "card"
+   ],
+   "emoji": "🪪",
+   "sentence": {
+    "en": "Mum lost her ID card.",
+    "zh": "妈妈弄丢了她的身份证。"
+   },
+   "sentences": [
+    {
+     "en": "Mum lost her ID card.",
+     "zh": "妈妈弄丢了她的身份证。",
+     "audio": "media/sent/3d3a53f8745e.mp3"
+    },
+    {
+     "en": "Show me your ID card, please.",
+     "zh": "请出示你的身份证。",
+     "audio": "media/sent/5b1e338dcb1c.mp3"
+    },
+    {
+     "en": "The ID card has his name on it.",
+     "zh": "身份证上有他的名字。",
+     "audio": "media/sent/a3e5d8cb59cd.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/id-card.webp"
+   },
+   "avoid": [
+    "id",
+    "identification"
+   ]
+  },
+  {
+   "id": "identification",
+   "word": "identification",
+   "zh": "身份证明",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "身份证明"
+    }
+   ],
+   "ipa": "/aɪˌdentɪfɪˈkeɪʃən/",
+   "chunks": [
+    "i",
+    "den",
+    "ti",
+    "fi",
+    "ca",
+    "tion"
+   ],
+   "emoji": "🆔",
+   "sentence": {
+    "en": "The man asks for identification.",
+    "zh": "那个人要求出示身份证明。"
+   },
+   "sentences": [
+    {
+     "en": "The man asks for identification.",
+     "zh": "那个人要求出示身份证明。",
+     "audio": "media/sent/01f4d4d91f88.mp3"
+    },
+    {
+     "en": "Bring your identification with you.",
+     "zh": "带上你的身份证明。",
+     "audio": "media/sent/4c08402594e3.mp3"
+    },
+    {
+     "en": "She shows her identification to the police.",
+     "zh": "她向警察出示她的身份证明。",
+     "audio": "media/sent/4088c3479e98.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/identification.mp3",
+    "us": "media/us/identification.mp3"
+   },
+   "avoid": [
+    "id",
+    "id-card"
+   ]
+  },
+  {
+   "id": "grow-up",
+   "word": "grow up",
+   "zh": "长大",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "长大"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "grow",
+    "up"
+   ],
+   "emoji": "📏",
+   "sentence": {
+    "en": "Tom wants to grow up fast.",
+    "zh": "Tom 想快点长大。"
+   },
+   "sentences": [
+    {
+     "en": "Tom wants to grow up fast.",
+     "zh": "Tom 想快点长大。",
+     "audio": "media/sent/80f110146f5b.mp3"
+    },
+    {
+     "en": "Children grow up quickly.",
+     "zh": "孩子们长得很快。",
+     "audio": "media/sent/86a9329f89af.mp3"
+    },
+    {
+     "en": "I will grow up to be tall.",
+     "zh": "我长大后会很高。",
+     "audio": "media/sent/b2897c4cb428.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/grow-up.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "get-married",
+   "word": "get married",
+   "zh": "结婚",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "结婚"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "mar",
+    "ried"
+   ],
+   "emoji": "💍",
+   "sentence": {
+    "en": "Mia's sister will get married in June.",
+    "zh": "Mia 的姐姐六月要结婚了。"
+   },
+   "sentences": [
+    {
+     "en": "Mia's sister will get married in June.",
+     "zh": "Mia 的姐姐六月要结婚了。",
+     "audio": "media/sent/306a07a05dbf.mp3"
+    },
+    {
+     "en": "They want to get married next year.",
+     "zh": "他们想明年结婚。",
+     "audio": "media/sent/ba6896e37c2c.mp3"
+    },
+    {
+     "en": "Our neighbours are getting married.",
+     "zh": "我们的邻居要结婚了。",
+     "audio": "media/sent/33535013d189.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-married.webp"
+   },
+   "avoid": [
+    "boyfriend",
+    "girlfriend"
+   ]
+  },
+  {
+   "id": "get-fit",
+   "word": "get fit",
+   "zh": "健身；保持健康",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "健身；保持健康"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "get",
+    "fit"
+   ],
+   "emoji": "🏃",
+   "sentence": {
+    "en": "Dad runs to get fit.",
+    "zh": "爸爸跑步来保持健康。"
+   },
+   "sentences": [
+    {
+     "en": "Dad runs to get fit.",
+     "zh": "爸爸跑步来保持健康。",
+     "audio": "media/sent/2eacad33b9c3.mp3"
+    },
+    {
+     "en": "We swim to get fit.",
+     "zh": "我们游泳来健身。",
+     "audio": "media/sent/a66801a6f140.mp3"
+    },
+    {
+     "en": "Exercise helps you get fit.",
+     "zh": "运动帮助你保持健康。",
+     "audio": "media/sent/541c27ea3beb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/get-fit.webp"
+   },
+   "avoid": [
+    "runner"
+   ]
+  },
+  {
+   "id": "career",
+   "word": "career",
+   "zh": "职业生涯；事业",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "职业生涯；事业"
+    }
+   ],
+   "ipa": "/kəˈrɪə/",
+   "chunks": [
+    "ca",
+    "re",
+    "er"
+   ],
+   "emoji": "💼",
+   "sentence": {
+    "en": "Mum has a career in nursing.",
+    "zh": "妈妈从事护理职业。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has a career in nursing.",
+     "zh": "妈妈从事护理职业。",
+     "audio": "media/sent/c35fe839c2b2.mp3"
+    },
+    {
+     "en": "Dad loves his career in the office.",
+     "zh": "爸爸喜欢他在办公室的职业。",
+     "audio": "media/sent/cf748349391c.mp3"
+    },
+    {
+     "en": "She chose a career in teaching.",
+     "zh": "她选择了教书这个职业。",
+     "audio": "media/sent/c274d4aa3668.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/career.webp",
+    "uk": "media/uk/career.mp3",
+    "us": "media/us/career.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "success",
+   "word": "success",
+   "zh": "成功",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "成功"
+    }
+   ],
+   "ipa": "/səkˈses/",
+   "chunks": [
+    "suc",
+    "cess"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "The show was a big success.",
+    "zh": "这个演出很成功。"
+   },
+   "sentences": [
+    {
+     "en": "The show was a big success.",
+     "zh": "这个演出很成功。",
+     "audio": "media/sent/d5fadabac820.mp3"
+    },
+    {
+     "en": "Her hard work brings success.",
+     "zh": "她的努力带来了成功。",
+     "audio": "media/sent/c6311404a99a.mp3"
+    },
+    {
+     "en": "The party was a great success.",
+     "zh": "聚会非常成功。",
+     "audio": "media/sent/f9fe16643d4b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/success.webp",
+    "uk": "media/uk/success.mp3",
+    "us": "media/us/success.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "experience",
+   "word": "experience",
+   "zh": "经验；经历",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "经验；经历"
+    }
+   ],
+   "ipa": "/ɪkˈspɪəriəns/",
+   "chunks": [
+    "ex",
+    "pe",
+    "ri",
+    "ence"
+   ],
+   "emoji": "🎒",
+   "sentence": {
+    "en": "Dad has lots of experience.",
+    "zh": "爸爸有很多经验。"
+   },
+   "sentences": [
+    {
+     "en": "Dad has lots of experience.",
+     "zh": "爸爸有很多经验。",
+     "audio": "media/sent/33df5d1df38f.mp3"
+    },
+    {
+     "en": "It was a good experience.",
+     "zh": "这是一次很好的经历。",
+     "audio": "media/sent/22ae4986efa6.mp3"
+    },
+    {
+     "en": "She learns from her experience.",
+     "zh": "她从她的经验中学习。",
+     "audio": "media/sent/0a25370ef485.mp3"
+    }
+   ],
+   "media": {
+    "uk": "media/uk/experience.mp3",
+    "us": "media/us/experience.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "memory",
+   "word": "memory",
+   "zh": "记忆；回忆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "记忆；回忆"
+    }
+   ],
+   "ipa": "/ˈmeməri/",
+   "chunks": [
+    "mem",
+    "o",
+    "ry"
+   ],
+   "emoji": "🧠",
+   "sentence": {
+    "en": "I have a good memory.",
+    "zh": "我记性很好。"
+   },
+   "sentences": [
+    {
+     "en": "I have a good memory.",
+     "zh": "我记性很好。",
+     "audio": "media/sent/6b07137b4145.mp3"
+    },
+    {
+     "en": "This is my favourite memory.",
+     "zh": "这是我最喜欢的回忆。",
+     "audio": "media/sent/b39d67b39f33.mp3"
+    },
+    {
+     "en": "Grandma has a bad memory today.",
+     "zh": "奶奶今天记性不好。",
+     "audio": "media/sent/7bb88f561c9a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/memory.webp",
+    "uk": "media/uk/memory.mp3",
+    "us": "media/us/memory.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "feelings",
+   "word": "feelings",
+   "zh": "感情；感受",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "感情；感受"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "feel",
+    "ings"
+   ],
+   "emoji": "💖",
+   "sentence": {
+    "en": "Tell me about your feelings.",
+    "zh": "告诉我你的感受。"
+   },
+   "sentences": [
+    {
+     "en": "Tell me about your feelings.",
+     "zh": "告诉我你的感受。",
+     "audio": "media/sent/d4ea9e410874.mp3"
+    },
+    {
+     "en": "Lily draws her feelings.",
+     "zh": "Lily 画出她的感受。",
+     "audio": "media/sent/0cbee5ded030.mp3"
+    },
+    {
+     "en": "He has strong feelings for Max.",
+     "zh": "他对 Max 有强烈的感情。",
+     "audio": "media/sent/e38c655d873c.mp3"
+    }
+   ],
+   "media": {},
+   "avoid": []
+  },
+  {
+   "id": "toe",
+   "word": "toe",
+   "zh": "脚趾",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "脚趾"
+    }
+   ],
+   "ipa": "/təʊ/",
+   "chunks": [
+    "toe"
+   ],
+   "emoji": "🦶",
+   "sentence": {
+    "en": "Tom hurt his toe.",
+    "zh": "Tom 伤到了他的脚趾。"
+   },
+   "sentences": [
+    {
+     "en": "Tom hurt his toe.",
+     "zh": "Tom 伤到了他的脚趾。",
+     "audio": "media/sent/23c695236554.mp3"
+    },
+    {
+     "en": "My left toe is red.",
+     "zh": "我的左脚趾红了。",
+     "audio": "media/sent/b88bf6d91c06.mp3"
+    },
+    {
+     "en": "Move your toes!",
+     "zh": "动动你的脚趾！",
+     "audio": "media/sent/417119fd0fce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/toe.webp",
+    "uk": "media/uk/toe.mp3",
+    "us": "media/us/toe.mp3"
+   },
+   "avoid": [
+    "headache",
+    "mouth"
+   ]
+  },
+  {
+   "id": "mouth",
+   "word": "mouth",
+   "zh": "嘴；口",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "嘴；口"
+    }
+   ],
+   "ipa": "/maʊθ/ (n.); /maʊð/ (v.)",
+   "chunks": [
+    "mouth"
+   ],
+   "emoji": "👄",
+   "sentence": {
+    "en": "Open your mouth wide.",
+    "zh": "把嘴张大。"
+   },
+   "sentences": [
+    {
+     "en": "Open your mouth wide.",
+     "zh": "把嘴张大。",
+     "audio": "media/sent/f6fd03535044.mp3"
+    },
+    {
+     "en": "Max has a ball in his mouth.",
+     "zh": "Max 嘴里叼着一个球。",
+     "audio": "media/sent/936abdeba06d.mp3"
+    },
+    {
+     "en": "Don't talk with your mouth full.",
+     "zh": "嘴里有东西时别说话。",
+     "audio": "media/sent/ab9a2820f975.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/mouth.webp",
+    "uk": "media/uk/mouth.mp3",
+    "us": "media/us/mouth.mp3"
+   },
+   "avoid": [
+    "headache",
+    "toe"
+   ]
+  },
+  {
+   "id": "headache",
+   "word": "headache",
+   "zh": "头痛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "头痛"
+    }
+   ],
+   "ipa": "/ˈhedeɪk/",
+   "chunks": [
+    "head",
+    "ache"
+   ],
+   "emoji": "🤕",
+   "sentence": {
+    "en": "Mum has a headache.",
+    "zh": "妈妈头疼。"
+   },
+   "sentences": [
+    {
+     "en": "Mum has a headache.",
+     "zh": "妈妈头疼。",
+     "audio": "media/sent/d432560e0be3.mp3"
+    },
+    {
+     "en": "The noise gives me a headache.",
+     "zh": "噪音让我头痛。",
+     "audio": "media/sent/45718b4eedbb.mp3"
+    },
+    {
+     "en": "Take this for your headache.",
+     "zh": "吃这个治你的头痛。",
+     "audio": "media/sent/32a9a09644fa.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/headache.webp",
+    "uk": "media/uk/headache.mp3",
+    "us": "media/us/headache.mp3"
+   },
+   "avoid": [
+    "mouth",
+    "toe"
+   ]
+  }
+ ]
+}

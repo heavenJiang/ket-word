@@ -1,0 +1,45 @@
+{
+ "id": "train-to-grandma",
+ "topic": "travel",
+ "title": "The Train to Grandma's",
+ "zh": "坐火车去奶奶家",
+ "pages": [
+  {
+   "en": "On Saturday, Lily and Tom go to Grandma's house by train. At the station, Dad buys the tickets from a machine. \"Our train leaves from platform two,\" he says.",
+   "zh": "星期六，Lily 和 Tom 坐火车去奶奶家。在车站，爸爸从售票机买了票。“我们的火车从二号站台出发，”他说。",
+   "scene": "A big busy railway station, Dad buying tickets at a ticket machine, Lily and Tom holding their small backpacks and looking up at a big clock."
+  },
+  {
+   "en": "The train is late, so they wait on the platform. Then it comes! Lily sits by the window. She sees fields, cows and a long river.",
+   "zh": "火车晚点了，他们就在站台上等。然后火车来了！Lily 坐在窗边，她看见了田野、奶牛和一条长长的河。",
+   "scene": "Inside a train, Lily sitting by the window and smiling at green fields with cows and a long river, Tom next to her with a sandwich, Dad reading."
+  },
+  {
+   "en": "After two hours, they arrive. Grandma is waiting at the station. She is very happy to see them. \"Was the journey OK?\" she asks. \"It was great!\" says Tom.",
+   "zh": "两个小时后，他们到了。奶奶正在车站等着，见到他们非常高兴。“路上还好吗？”她问。“太棒了！”Tom 说。",
+   "scene": "A small country station, Grandma hugging Lily and Tom on the platform, Dad carrying a bag, the train behind them."
+  }
+ ],
+ "questions": [
+  {
+   "q": "They go to Grandma's by bus.",
+   "zh": "他们坐公共汽车去奶奶家。",
+   "answer": false
+  },
+  {
+   "q": "Where does Lily sit on the train?",
+   "zh": "Lily 在火车上坐在哪里？",
+   "options": [
+    "by the window",
+    "next to Grandma",
+    "on the floor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Grandma waits at the station.",
+   "zh": "奶奶在车站等着。",
+   "answer": true
+  }
+ ]
+}

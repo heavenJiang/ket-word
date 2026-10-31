@@ -35,8 +35,13 @@ export function Choice(props: {
   onAnswer: (a: Attempt) => void;
 }) {
   const { word, pool, accent, sound, onAnswer } = props;
-  // a gap question needs a sentence with the word in it; fall back to the meaning question without one
-  const kind: Kind = props.kind === "cloze" && gapSentences(word).length === 0 ? "pickMeaning" : props.kind;
+  // a gap question needs a sentence with the word in it; fall back to the meaning question without one.
+  // A word with no picture (the, because) is asked by its meaning, and heard alone rather than in a sentence.
+  const kind: Kind =
+    props.kind === "cloze" && gapSentences(word).length === 0 ? "pickMeaning"
+    : props.kind === "pickImage" && !word.media.img ? "pickMeaning"
+    : props.kind === "listenSentence" && !word.media.img ? "listenPick"
+    : props.kind;
   const sentence = useMemo<Sentence | null>(() => {
     if (kind === "cloze") return pick(gapSentences(word)) ?? null;
     if (kind === "listenSentence") return pick(sentencesOf(word));

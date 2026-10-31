@@ -1,0 +1,33 @@
+{
+  "topic": "measure",
+  "reviewed": "2026-10-30",
+  "cast": "Lily (girl, 9), her brother Tom (6), Mum, Dad, Grandma, Grandpa, Lily's classmate Mia, cousin Sam (10) and the puppy Max. Measuring length, weight, time, temperature and amounts; rulers, scales and thermometers have no readable numbers.",
+  "confusable": [
+    ["centimetre", "metre", "kilometre"],
+    ["gram", "kilogramme"],
+    ["degree", "temperature"],
+    ["second", "minute", "hour", "moment"],
+    ["day", "week", "year"],
+    ["half", "quarter"],
+    ["litre", "kilogramme"]
+  ],
+  "words": [
+    { "id": "centimetre", "zh": "厘米", "chunks": ["cen", "ti", "me", "tre"], "emoji": "📏", "en": "The ruler is thirty centimetres long.", "sz": "尺子长三十厘米。", "scene": "a ruler next to a small caterpillar", "more": [["My pencil is fifteen centimetres long.", "我的铅笔有十五厘米长。"], ["The baby snail is one centimetre long.", "小蜗牛只有一厘米长。"]] },
+    { "id": "metre", "zh": "米（长度）", "chunks": ["me", "tre"], "emoji": "📐", "en": "The wall is two metres high.", "sz": "这堵墙两米高。", "scene": "Dad measuring a wall with a long tape measure", "more": [["Max runs one hundred metres very fast.", "Max 跑一百米跑得很快。"], ["The water in the small pool is one metre deep.", "小泳池的水有一米深。"]] },
+    { "id": "kilometre", "zh": "千米；公里", "chunks": ["ki", "lo", "me", "tre"], "emoji": "🛣️", "en": "The school is one kilometre away.", "sz": "学校离这儿一公里。", "scene": "a long straight road across fields to the far hills", "more": [["We walk two kilometres in the park.", "我们在公园走两公里。"], ["Dad drives ten kilometres to work.", "爸爸开车十公里去上班。"]] },
+    { "id": "gram", "zh": "克", "chunks": ["gram"], "emoji": "⚖️", "en": "I need one hundred grams of food.", "sz": "我需要一百克食物。", "scene": "a few blueberries on a small kitchen scale", "more": [["This egg is fifty grams.", "这个鸡蛋重五十克。"], ["A small sweet is about one gram.", "一颗小糖大约一克重。"]] },
+    { "id": "kilogramme", "zh": "千克；公斤", "chunks": ["ki", "lo", "gram", "me"], "emoji": "🥔", "en": "Mum buys one kilogramme of potatoes.", "sz": "妈妈买一公斤土豆。", "scene": "a bag of potatoes on a kitchen scale", "more": [["Sam is thirty kilogrammes.", "Sam 体重三十公斤。"], ["This bag of rice is two kilogrammes.", "这袋米有两公斤。"]] },
+    { "id": "litre", "zh": "升", "chunks": ["li", "tre"], "emoji": "🥛", "en": "Please buy a litre of milk.", "sz": "请买一升牛奶。", "scene": "a big one-litre bottle of milk", "more": [["Tom drinks half a litre of water.", "Tom 喝半升水。"], ["The big bottle holds two litres of juice.", "大瓶子能装两升果汁。"]] },
+    { "id": "degree", "zh": "度（温度）", "chunks": ["de", "gree"], "emoji": "🌡️", "en": "It is twenty degrees today.", "sz": "今天二十度。", "scene": "a thermometer in the sun", "more": [["Water gets very hot at one hundred degrees.", "水到一百度就非常烫了。"], ["Today is one degree warmer than yesterday.", "今天比昨天暖和一度。"]] },
+    { "id": "temperature", "zh": "体温；温度", "chunks": ["tem", "per", "a", "ture"], "emoji": "🌡️", "en": "Mum checks Tom's temperature.", "sz": "妈妈检查 Tom 的体温。", "scene": "Mum sitting on the bed beside Tom, holding a small thermometer to check his temperature, Tom with a warm red face and sleepy eyes under a light blanket, a cup of water on the table.", "more": [["The room temperature is high.", "房间温度很高。"], ["My temperature is normal now.", "我现在体温正常。"]] },
+    { "id": "second", "zh": "秒；第二（的）", "chunks": ["se", "cond"], "emoji": "⏱️", "en": "Lily can swim under the water for ten seconds.", "sz": "Lily 能在水下游十秒钟。", "scene": "Tom holding his nose and sinking under the water of a swimming pool, his big sister Lily counting on her fingers at the side of the pool.", "more": [["Wait one second, please.", "请等一秒。"], ["Max runs to the gate in five seconds.", "Max 五秒钟就跑到了大门口。"]] },
+    { "id": "minute", "zh": "分钟", "chunks": ["min", "ute"], "emoji": "⏳", "en": "We wait for five minutes.", "sz": "我们等五分钟。", "scene": "Tom putting on his shoes by the front door while Lily waits holding her bag, a small egg timer ticking on the hall table.", "more": [["Lily reads for ten minutes.", "Lily 读十分钟书。"], ["The bus comes in one minute.", "公交车一分钟后到。"]] },
+    { "id": "hour", "zh": "小时", "chunks": ["hour"], "emoji": "🕐", "en": "The film is two hours long.", "sz": "电影两小时长。", "scene": "Lily and Tom sitting on the sofa watching television in the evening, a big hour-glass with sand running down standing on the table beside them.", "more": [["We play for one hour.", "我们玩一个小时。"], ["Dad works eight hours every day.", "爸爸每天工作八小时。"]] },
+    { "id": "day", "zh": "天；白天", "chunks": ["day"], "emoji": "☀️", "en": "We go to school every day.", "sz": "我们每天去上学。", "scene": "A bright daytime sky with a big sun over a small school building, children with bags walking through the gate.", "more": [["It rains all day long.", "雨下了一整天。"], ["Today is a sunny day.", "今天是晴天。"]] },
+    { "id": "week", "zh": "周；星期", "chunks": ["week"], "emoji": "🗓️", "en": "We have swimming this week.", "sz": "这周我们有游泳课。", "scene": "Lily standing in front of a kitchen wall calendar that shows one row of seven big squares, each square with a small picture: a school bag, a paintbrush, a swimming pool, a cake, a football, a bike and a sun; she points at the row.", "more": [["Lily cleans her room once a week.", "Lily 每周打扫一次房间。"], ["We go swimming every week.", "我们每周都去游泳。"]] },
+    { "id": "year", "zh": "年", "chunks": ["year"], "emoji": "🎂", "en": "Lily is nine years old.", "sz": "Lily 九岁。", "scene": "Lily standing with her back against the kitchen door frame while Mum marks her height on the frame with a pencil, a small birthday cake with one candle on the table beside them.", "more": [["Happy New Year, Tom!", "Tom，新年快乐！"], ["We visit Grandma every year.", "我们每年去看奶奶。"]] },
+    { "id": "moment", "zh": "片刻；一会儿", "chunks": ["mo", "ment"], "emoji": "⏳", "en": "Wait a moment, please.", "sz": "请稍等片刻。", "scene": "Mum on the phone holding up one finger to Tom, asking him to wait.", "more": [["I will be back in a moment.", "我一会儿就回来。"], ["Think for a moment, Lily.", "Lily，想一会儿。"]] },
+    { "id": "half", "zh": "一半；半", "chunks": ["half"], "emoji": "🍎", "en": "Lily eats half an apple.", "sz": "Lily 吃半个苹果。", "scene": "One red apple cut into two equal halves on a plate, half of it still in Lily's hand.", "more": [["It is half past six.", "现在六点半。"], ["Tom gives Sam half his cake.", "Tom 给 Sam 一半蛋糕。"]] },
+    { "id": "quarter", "zh": "四分之一；一刻钟", "chunks": ["quar", "ter"], "emoji": "🍕", "en": "It is a quarter past three.", "sz": "现在三点一刻。", "scene": "a pizza cut into four, one quarter taken away", "more": [["Lily eats one quarter of the pizza.", "Lily 吃四分之一披萨。"], ["We wait for a quarter of an hour.", "我们等一刻钟。"]] }
+  ]
+}

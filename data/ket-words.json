@@ -142,9 +142,144 @@
    "zh": "国家与大洲"
   },
   {
-   "id": "core",
-   "en": "Core words",
-   "zh": "核心词"
+   "id": "core-me",
+   "en": "Me and You",
+   "zh": "我和你",
+   "emoji": "🙋",
+   "core": true
+  },
+  {
+   "id": "core-anyone",
+   "en": "Somebody and Nothing",
+   "zh": "有人和没人",
+   "emoji": "❓",
+   "core": true
+  },
+  {
+   "id": "core-little",
+   "en": "Little Words",
+   "zh": "小词",
+   "emoji": "🔗",
+   "core": true
+  },
+  {
+   "id": "core-where",
+   "en": "Where Is It?",
+   "zh": "在哪里",
+   "emoji": "📍",
+   "core": true
+  },
+  {
+   "id": "core-when",
+   "en": "When?",
+   "zh": "什么时候",
+   "emoji": "🕰️",
+   "core": true
+  },
+  {
+   "id": "core-howmuch",
+   "en": "How Many?",
+   "zh": "多少",
+   "emoji": "🧮",
+   "core": true
+  },
+  {
+   "id": "core-hello",
+   "en": "Hello and Thanks",
+   "zh": "问候与礼貌",
+   "emoji": "👋",
+   "core": true
+  },
+  {
+   "id": "core-move",
+   "en": "On the Move",
+   "zh": "动起来",
+   "emoji": "🏃",
+   "core": true
+  },
+  {
+   "id": "core-give",
+   "en": "Give and Take",
+   "zh": "给和拿",
+   "emoji": "🎁",
+   "core": true
+  },
+  {
+   "id": "core-think",
+   "en": "Think and Say",
+   "zh": "想和说",
+   "emoji": "💭",
+   "core": true
+  },
+  {
+   "id": "core-can",
+   "en": "Can and Must",
+   "zh": "能和必须",
+   "emoji": "✅",
+   "core": true
+  },
+  {
+   "id": "core-do",
+   "en": "Busy Doing",
+   "zh": "忙着做事",
+   "emoji": "🛠️",
+   "core": true
+  },
+  {
+   "id": "core-feel",
+   "en": "Good, Bad and Feelings",
+   "zh": "好坏与心情",
+   "emoji": "😃",
+   "core": true
+  },
+  {
+   "id": "core-describe",
+   "en": "What Is It Like?",
+   "zh": "什么样",
+   "emoji": "✨",
+   "core": true
+  },
+  {
+   "id": "core-people",
+   "en": "People",
+   "zh": "人们",
+   "emoji": "🧑‍🤝‍🧑",
+   "core": true
+  },
+  {
+   "id": "core-things",
+   "en": "Things Around Us",
+   "zh": "身边的东西",
+   "emoji": "🧸",
+   "core": true
+  },
+  {
+   "id": "core-fun",
+   "en": "Fun and Shows",
+   "zh": "玩乐与演出",
+   "emoji": "🎪",
+   "core": true
+  },
+  {
+   "id": "core-places",
+   "en": "Places and Ways",
+   "zh": "地方与出行",
+   "emoji": "🗺️",
+   "core": true
+  },
+  {
+   "id": "core-words",
+   "en": "Words and Screens",
+   "zh": "文字与网络",
+   "emoji": "📱",
+   "core": true
+  },
+  {
+   "id": "core-nature",
+   "en": "Wild Things",
+   "zh": "自然生物",
+   "emoji": "🦎",
+   "core": true
   }
  ],
  "items": [
@@ -165,7 +300,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -191,7 +326,7 @@
     "I’ll be ready in a few minutes."
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": null,
    "source": "list"
@@ -240,7 +375,7 @@
     "a book about animals (prep)"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "about",
    "source": "list"
@@ -262,7 +397,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "above",
    "source": "list"
@@ -304,7 +439,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "accommodation",
    "source": "list"
@@ -329,7 +464,7 @@
     "He walked across the bridge."
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "across",
    "source": "list"
@@ -371,7 +506,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "action",
    "source": "list"
@@ -392,7 +527,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "activity",
    "source": "list"
@@ -435,7 +570,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "actually",
    "source": "list"
@@ -480,7 +615,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "add",
    "source": "list"
@@ -524,7 +659,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "adult",
    "source": "list"
@@ -587,7 +722,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -631,7 +766,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "advice",
    "source": "list"
@@ -652,7 +787,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "aeroplane",
    "source": "list"
@@ -695,7 +830,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "after",
    "source": "list"
@@ -737,7 +872,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "afterwards",
    "source": "list"
@@ -758,7 +893,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "again",
    "source": "list"
@@ -781,7 +916,7 @@
     "We watched England play against France."
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "against",
    "source": "list"
@@ -804,7 +939,7 @@
     "I don’t know his age."
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "age",
    "source": "list"
@@ -827,7 +962,7 @@
     "aged 10 – 16"
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "aged",
    "source": "list"
@@ -848,7 +983,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "ago",
    "source": "list"
@@ -872,7 +1007,7 @@
     "Don’t you agree, Sam?"
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "agree",
    "source": "list"
@@ -938,7 +1073,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": null,
    "source": "list"
@@ -959,7 +1094,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "album",
    "source": "list"
@@ -982,7 +1117,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "all",
    "source": "list"
@@ -1004,7 +1139,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": null,
    "source": "list"
@@ -1025,7 +1160,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "allow",
    "source": "list"
@@ -1049,7 +1184,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -1071,7 +1206,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": null,
    "source": "list"
@@ -1092,7 +1227,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": null,
    "source": "list"
@@ -1113,7 +1248,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "almost",
    "source": "list"
@@ -1156,7 +1291,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "along",
    "source": "list"
@@ -1177,7 +1312,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "already",
    "source": "list"
@@ -1200,7 +1335,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -1221,7 +1356,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "also",
    "source": "list"
@@ -1242,7 +1377,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "always",
    "source": "list"
@@ -1284,7 +1419,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "amazed",
    "source": "list"
@@ -1348,7 +1483,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "among",
    "source": "list"
@@ -1369,7 +1504,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -1390,7 +1525,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "and",
    "source": "list"
@@ -1454,7 +1589,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "another",
    "source": "list"
@@ -1476,7 +1611,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "answer",
    "source": "list"
@@ -1498,7 +1633,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "any",
    "source": "list"
@@ -1519,7 +1654,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "anybody",
    "source": "list"
@@ -1540,7 +1675,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "anymore",
    "source": "list"
@@ -1561,7 +1696,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "anyone",
    "source": "list"
@@ -1582,7 +1717,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "anything",
    "source": "list"
@@ -1603,7 +1738,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "anyway",
    "source": "list"
@@ -1624,7 +1759,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "anywhere",
    "source": "list"
@@ -1688,7 +1823,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "app",
    "source": "list"
@@ -1842,7 +1977,7 @@
     "to sit around the table (prep)"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "around",
    "source": "list"
@@ -1863,7 +1998,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "arrive",
    "source": "list"
@@ -1958,7 +2093,7 @@
     "as well as"
    ],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "as",
    "source": "list"
@@ -1979,7 +2114,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "ask",
    "source": "list"
@@ -2024,7 +2159,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -2068,7 +2203,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -2091,7 +2226,7 @@
     "The walls are an attractive colour."
    ],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "attractive",
    "source": "list"
@@ -2176,7 +2311,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "available",
    "source": "list"
@@ -2200,7 +2335,7 @@
     "It’s two kilometres away."
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "away",
    "source": "list"
@@ -2221,7 +2356,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "awesome",
    "source": "list"
@@ -2242,7 +2377,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "awful",
    "source": "list"
@@ -2352,7 +2487,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "badly",
    "source": "list"
@@ -2457,7 +2592,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "balloon",
    "source": "list"
@@ -2501,7 +2636,7 @@
     "The band are on tour this month."
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "band",
    "source": "list"
@@ -2719,7 +2854,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "battery",
    "source": "list"
@@ -2741,7 +2876,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -2786,7 +2921,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "bean",
    "source": "list"
@@ -2828,7 +2963,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "beard",
    "source": "list"
@@ -2870,7 +3005,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "because",
    "source": "list"
@@ -2891,7 +3026,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -2912,7 +3047,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "become",
    "source": "list"
@@ -3020,7 +3155,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "before",
    "source": "list"
@@ -3041,7 +3176,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "begin",
    "source": "list"
@@ -3083,7 +3218,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "beginning",
    "source": "list"
@@ -3105,7 +3240,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "behind",
    "source": "list"
@@ -3126,7 +3261,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "believe",
    "source": "list"
@@ -3149,7 +3284,7 @@
     "The bag belongs to me."
    ],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "belong",
    "source": "list"
@@ -3171,7 +3306,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "below",
    "source": "list"
@@ -3213,7 +3348,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "beside",
    "source": "list"
@@ -3235,7 +3370,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "best",
    "source": "list"
@@ -3278,7 +3413,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "between",
    "source": "list"
@@ -3453,7 +3588,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "birth",
    "source": "list"
@@ -3520,7 +3655,7 @@
     "I ’m feeling a bit tired."
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "bit",
    "source": "list"
@@ -3628,7 +3763,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "blog",
    "source": "list"
@@ -3650,7 +3785,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "blond",
    "source": "list"
@@ -4045,7 +4180,7 @@
     "I was born in Manchester."
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "born",
    "source": "list"
@@ -4068,7 +4203,7 @@
     "She borrowed a book from the library."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "borrow",
    "source": "list"
@@ -4111,7 +4246,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "both",
    "source": "list"
@@ -4134,7 +4269,7 @@
     "Sorry to bother you."
    ],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "bother",
    "source": "list"
@@ -4178,7 +4313,7 @@
     "at the bottom of the stairs"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "bottom",
    "source": "list"
@@ -4264,7 +4399,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -4398,7 +4533,7 @@
     "The car has broken down."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -4464,7 +4599,7 @@
     "bright pink"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "bright",
    "source": "list"
@@ -4508,7 +4643,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "bring",
    "source": "list"
@@ -4529,7 +4664,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -4550,7 +4685,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "broken",
    "source": "list"
@@ -4615,7 +4750,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "brush",
    "source": "list"
@@ -4636,7 +4771,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "build",
    "source": "list"
@@ -4783,7 +4918,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -4869,7 +5004,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "but",
    "source": "list"
@@ -4953,7 +5088,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "by",
    "source": "list"
@@ -4974,7 +5109,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -4995,7 +5130,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -5037,7 +5172,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -5058,7 +5193,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "cabinet",
    "source": "list"
@@ -5323,7 +5458,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "capital",
    "source": "list"
@@ -5393,7 +5528,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -5461,7 +5596,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "career",
    "source": "list"
@@ -5505,7 +5640,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -5589,7 +5724,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "carry",
    "source": "list"
@@ -5785,7 +5920,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "ceiling",
    "source": "list"
@@ -5828,7 +5963,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "celebrate",
    "source": "list"
@@ -5849,7 +5984,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "celebrity",
    "source": "list"
@@ -5892,7 +6027,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "centre",
    "source": "list"
@@ -5979,7 +6114,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "certainly",
    "source": "list"
@@ -6069,7 +6204,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "channel",
    "source": "list"
@@ -6092,7 +6227,7 @@
     "He was my favourite character in the film."
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "character",
    "source": "list"
@@ -6134,7 +6269,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -6432,7 +6567,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "choose",
    "source": "list"
@@ -6476,7 +6611,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "circle",
    "source": "list"
@@ -6497,7 +6632,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "circus",
    "source": "list"
@@ -6518,7 +6653,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "city",
    "source": "list"
@@ -6713,7 +6848,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "clearly",
    "source": "list"
@@ -6801,7 +6936,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "climbing",
    "source": "list"
@@ -6867,7 +7002,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": null,
    "source": "list"
@@ -6909,7 +7044,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "closet",
    "source": "list"
@@ -6993,7 +7128,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "clown",
    "source": "list"
@@ -7086,7 +7221,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "coast",
    "source": "list"
@@ -7172,7 +7307,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "colleague",
    "source": "list"
@@ -7237,7 +7372,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "colour",
    "source": "list"
@@ -7279,7 +7414,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "come",
    "source": "list"
@@ -7302,7 +7437,7 @@
     "We came back from our holiday yesterday."
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -7323,7 +7458,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "comedy",
    "source": "list"
@@ -7344,7 +7479,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "comfortable",
    "source": "list"
@@ -7431,7 +7566,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "complete",
    "source": "list"
@@ -7498,7 +7633,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -7520,7 +7655,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "contact",
    "source": "list"
@@ -7541,7 +7676,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "continue",
    "source": "list"
@@ -7629,7 +7764,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "cookie",
    "source": "list"
@@ -7650,7 +7785,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "cooking",
    "source": "list"
@@ -7695,7 +7830,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "copy",
    "source": "list"
@@ -7739,7 +7874,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "correct",
    "source": "list"
@@ -7809,7 +7944,7 @@
     "We could go to the cinema tonight."
    ],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -7900,7 +8035,7 @@
     "a tennis court"
    ],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "court",
    "source": "list"
@@ -7946,7 +8081,7 @@
     "There was a flower on the book’s cover."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "cover",
    "source": "list"
@@ -8013,7 +8148,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "creature",
    "source": "list"
@@ -8100,7 +8235,7 @@
     "Don’t cross the road here! (v)"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "cross",
    "source": "list"
@@ -8123,7 +8258,7 @@
     "Use the crossing to cross the street."
    ],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "crossing",
    "source": "list"
@@ -8144,7 +8279,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "crowd",
    "source": "list"
@@ -8165,7 +8300,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "crowded",
    "source": "list"
@@ -8188,7 +8323,7 @@
     "The baby’s crying."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "cry",
    "source": "list"
@@ -8337,7 +8472,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "cycle",
    "source": "list"
@@ -8467,7 +8602,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "dancing",
    "source": "list"
@@ -8640,7 +8775,7 @@
     "Dear Anne,"
    ],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "dear",
    "source": "list"
@@ -8682,7 +8817,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "decide",
    "source": "list"
@@ -8703,7 +8838,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -8815,7 +8950,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "deliver",
    "source": "list"
@@ -8859,7 +8994,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "department",
    "source": "list"
@@ -8902,7 +9037,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "describe",
    "source": "list"
@@ -8949,7 +9084,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "design",
    "source": "list"
@@ -9014,7 +9149,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -9100,7 +9235,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "difference",
    "source": "list"
@@ -9292,7 +9427,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": null,
    "source": "list"
@@ -9313,7 +9448,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "dirty",
    "source": "list"
@@ -9356,7 +9491,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "discount",
    "source": "list"
@@ -9377,7 +9512,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "discover",
    "source": "list"
@@ -9398,7 +9533,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "discuss",
    "source": "list"
@@ -9445,7 +9580,7 @@
     "I learnt to dive at the swimming pool."
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "dive",
    "source": "list"
@@ -9468,7 +9603,7 @@
     "I ’ve j oined a diving club."
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "diving",
    "source": "list"
@@ -9490,7 +9625,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -9534,7 +9669,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "document",
    "source": "list"
@@ -9576,7 +9711,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "doll",
    "source": "list"
@@ -9639,7 +9774,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "donkey",
    "source": "list"
@@ -9706,7 +9841,7 @@
     "a double room"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "double",
    "source": "list"
@@ -9728,7 +9863,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "down",
    "source": "list"
@@ -9881,7 +10016,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "dream",
    "source": "list"
@@ -9926,7 +10061,7 @@
     "Hurry, you need to get dressed!"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -10034,7 +10169,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "drop",
    "source": "list"
@@ -10055,7 +10190,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "drugstore",
    "source": "list"
@@ -10098,7 +10233,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "dry",
    "source": "list"
@@ -10140,7 +10275,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "during",
    "source": "list"
@@ -10212,7 +10347,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "each",
    "source": "list"
@@ -10233,7 +10368,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -10254,7 +10389,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "eagle",
    "source": "list"
@@ -10297,7 +10432,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "early",
    "source": "list"
@@ -10360,7 +10495,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "easily",
    "source": "list"
@@ -10404,7 +10539,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "easy",
    "source": "list"
@@ -10553,7 +10688,7 @@
     "Anything else?"
    ],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "else",
    "source": "list"
@@ -10598,7 +10733,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "empty",
    "source": "list"
@@ -10620,7 +10755,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "end",
    "source": "list"
@@ -10684,7 +10819,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "enjoy",
    "source": "list"
@@ -10707,7 +10842,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "enough",
    "source": "list"
@@ -10795,7 +10930,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "environment",
    "source": "list"
@@ -10818,7 +10953,7 @@
     "You need special equipment to go diving."
    ],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "equipment",
    "source": "list"
@@ -10860,7 +10995,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "especially",
    "source": "list"
@@ -10902,7 +11037,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "even",
    "source": "list"
@@ -10946,7 +11081,7 @@
     "The Olympic games is a great event."
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "event",
    "source": "list"
@@ -10967,7 +11102,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "ever",
    "source": "list"
@@ -10988,7 +11123,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "every",
    "source": "list"
@@ -11009,7 +11144,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "everybody",
    "source": "list"
@@ -11030,7 +11165,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "everyone",
    "source": "list"
@@ -11051,7 +11186,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "everything",
    "source": "list"
@@ -11072,7 +11207,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "everywhere",
    "source": "list"
@@ -11093,7 +11228,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "exactly",
    "source": "list"
@@ -11139,7 +11274,7 @@
     "for example"
    ],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "example",
    "source": "list"
@@ -11182,7 +11317,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "except",
    "source": "list"
@@ -11224,7 +11359,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "exciting",
    "source": "list"
@@ -11247,7 +11382,7 @@
     "Excuse me!"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "excuse",
    "source": "list"
@@ -11358,7 +11493,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "experience",
    "source": "list"
@@ -11381,7 +11516,7 @@
     "The science experiment was fun."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "experiment",
    "source": "list"
@@ -11402,7 +11537,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "explain",
    "source": "list"
@@ -11423,7 +11558,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "explore",
    "source": "list"
@@ -11469,7 +11604,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "extinct",
    "source": "list"
@@ -11490,7 +11625,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "extra",
    "source": "list"
@@ -11553,7 +11688,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "fact",
    "source": "list"
@@ -11596,7 +11731,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "fail",
    "source": "list"
@@ -11619,7 +11754,7 @@
     "She has fair hair."
    ],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "fair",
    "source": "list"
@@ -11665,7 +11800,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -11730,7 +11865,7 @@
     "She’s a football fan."
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "fan",
    "source": "list"
@@ -11751,7 +11886,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "fantastic",
    "source": "list"
@@ -11881,7 +12016,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": null,
    "source": "list"
@@ -11902,7 +12037,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "fat",
    "source": "list"
@@ -12009,7 +12144,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -12053,7 +12188,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "few",
    "source": "list"
@@ -12117,7 +12252,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "fill",
    "source": "list"
@@ -12140,7 +12275,7 @@
     "to fill in a form"
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -12183,7 +12318,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "final",
    "source": "list"
@@ -12204,7 +12339,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "finally",
    "source": "list"
@@ -12227,7 +12362,7 @@
     "I found my keys under the sofa."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "find",
    "source": "list"
@@ -12248,7 +12383,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": null,
    "source": "list"
@@ -12315,7 +12450,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "finish",
    "source": "list"
@@ -12383,7 +12518,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -12406,7 +12541,7 @@
     "First of all, you must wash your hands."
    ],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": null,
    "source": "list"
@@ -12495,7 +12630,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "fix",
    "source": "list"
@@ -12667,7 +12802,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "folder",
    "source": "list"
@@ -12692,7 +12827,7 @@
     "follow somebody on social media"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "follow",
    "source": "list"
@@ -12821,7 +12956,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -12863,7 +12998,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "foreign",
    "source": "list"
@@ -12906,7 +13041,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "forget",
    "source": "list"
@@ -12998,7 +13133,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": null,
    "source": "list"
@@ -13021,7 +13156,7 @@
     "fresh fruit"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "fresh",
    "source": "list"
@@ -13152,7 +13287,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "frightened",
    "source": "list"
@@ -13194,7 +13329,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "from",
    "source": "list"
@@ -13218,7 +13353,7 @@
     "Stand in front of me."
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "front",
    "source": "list"
@@ -13260,7 +13395,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "full",
    "source": "list"
@@ -13324,7 +13459,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "fur",
    "source": "list"
@@ -13366,7 +13501,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "further",
    "source": "list"
@@ -13387,7 +13522,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "future",
    "source": "list"
@@ -13408,7 +13543,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "gallery",
    "source": "list"
@@ -13538,7 +13673,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": null,
    "source": "list"
@@ -13601,7 +13736,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "get",
    "source": "list"
@@ -13624,7 +13759,7 @@
     "I need to take the bus to get back home."
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -13666,7 +13801,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -13687,7 +13822,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -13710,7 +13845,7 @@
     "to get off the bus"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -13733,7 +13868,7 @@
     "to get on the bus"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -13756,7 +13891,7 @@
     "to get up in the morning"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -13777,7 +13912,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "gift",
    "source": "list"
@@ -13840,7 +13975,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -13861,7 +13996,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "give",
    "source": "list"
@@ -13885,7 +14020,7 @@
     "I’ll give back your books tomorrow."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": null,
    "source": "list"
@@ -13928,7 +14063,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "glad",
    "source": "list"
@@ -14013,7 +14148,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -14077,7 +14212,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "gold",
    "source": "list"
@@ -14161,7 +14296,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14182,7 +14317,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14203,7 +14338,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14224,7 +14359,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": null,
    "source": "list"
@@ -14245,7 +14380,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14266,7 +14401,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14331,7 +14466,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "grade",
    "source": "list"
@@ -14733,7 +14868,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "ground",
    "source": "list"
@@ -14797,7 +14932,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -14818,7 +14953,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "guess",
    "source": "list"
@@ -14839,7 +14974,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -14924,7 +15059,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "guidebook",
    "source": "list"
@@ -14990,7 +15125,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "gym",
    "source": "list"
@@ -15056,7 +15191,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "half-price",
    "source": "list"
@@ -15140,7 +15275,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "happen",
    "source": "list"
@@ -15182,7 +15317,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "harbour",
    "source": "list"
@@ -15250,7 +15385,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "hate",
    "source": "list"
@@ -15272,7 +15407,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -15293,7 +15428,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -15314,7 +15449,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -15335,7 +15470,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -15379,7 +15514,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "headache",
    "source": "list"
@@ -15400,7 +15535,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": null,
    "source": "list"
@@ -15421,7 +15556,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -15463,7 +15598,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "healthy",
    "source": "list"
@@ -15594,7 +15729,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "hello",
    "source": "list"
@@ -15618,7 +15753,7 @@
     "Call me if you need any help."
    ],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "help",
    "source": "list"
@@ -15639,7 +15774,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "helpful",
    "source": "list"
@@ -15661,7 +15796,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "her",
    "source": "list"
@@ -15682,7 +15817,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": null,
    "source": "list"
@@ -15703,7 +15838,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -15726,7 +15861,7 @@
     "by herself"
    ],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -15747,7 +15882,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "hey",
    "source": "list"
@@ -15768,7 +15903,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -15832,7 +15967,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "him",
    "source": "list"
@@ -15855,7 +15990,7 @@
     "by himself"
    ],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -15897,7 +16032,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": null,
    "source": "list"
@@ -15919,7 +16054,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -15961,7 +16096,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "hit",
    "source": "list"
@@ -16024,7 +16159,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "hold",
    "source": "list"
@@ -16152,7 +16287,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "hope",
    "source": "list"
@@ -16173,7 +16308,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "horrible",
    "source": "list"
@@ -16194,7 +16329,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "horror",
    "source": "list"
@@ -16346,7 +16481,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "housewife",
    "source": "list"
@@ -16367,7 +16502,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": null,
    "source": "list"
@@ -16388,7 +16523,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "however",
    "source": "list"
@@ -16409,7 +16544,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "huge",
    "source": "list"
@@ -16452,7 +16587,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "hurry",
    "source": "list"
@@ -16515,7 +16650,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -16580,7 +16715,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": null,
    "source": "list"
@@ -16601,7 +16736,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -16622,7 +16757,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -16643,7 +16778,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "idea",
    "source": "list"
@@ -16664,7 +16799,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "identification",
    "source": "list"
@@ -16685,7 +16820,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "if",
    "source": "list"
@@ -16727,7 +16862,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "immediately",
    "source": "list"
@@ -16769,7 +16904,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "impossible",
    "source": "list"
@@ -16790,7 +16925,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "improve",
    "source": "list"
@@ -16812,7 +16947,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "in",
    "source": "list"
@@ -16833,7 +16968,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "include",
    "source": "list"
@@ -16854,7 +16989,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "including",
    "source": "list"
@@ -16875,7 +17010,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "indoor",
    "source": "list"
@@ -16896,7 +17031,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "indoors",
    "source": "list"
@@ -16939,7 +17074,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": null,
    "source": "list"
@@ -16960,7 +17095,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "ingredient",
    "source": "list"
@@ -17003,7 +17138,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "inside",
    "source": "list"
@@ -17024,7 +17159,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "instead",
    "source": "list"
@@ -17045,7 +17180,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -17151,7 +17286,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "international",
    "source": "list"
@@ -17193,7 +17328,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "into",
    "source": "list"
@@ -17214,7 +17349,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "invent",
    "source": "list"
@@ -17235,7 +17370,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "invention",
    "source": "list"
@@ -17256,7 +17391,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "invitation",
    "source": "list"
@@ -17277,7 +17412,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "invite",
    "source": "list"
@@ -17321,7 +17456,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "it",
    "source": "list"
@@ -17342,7 +17477,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -17363,7 +17498,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -17449,7 +17584,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "jazz",
    "source": "list"
@@ -17491,7 +17626,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "jellyfish",
    "source": "list"
@@ -17659,7 +17794,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "jump",
    "source": "list"
@@ -17725,7 +17860,7 @@
     "Just a moment."
    ],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "just",
    "source": "list"
@@ -17770,7 +17905,7 @@
     "Keep right!"
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "keep",
    "source": "list"
@@ -17841,7 +17976,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "kick",
    "source": "list"
@@ -17863,7 +17998,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "kid",
    "source": "list"
@@ -17977,7 +18112,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "kiss",
    "source": "list"
@@ -18042,7 +18177,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "kite",
    "source": "list"
@@ -18215,7 +18350,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "large",
    "source": "list"
@@ -18237,7 +18372,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "last",
    "source": "list"
@@ -18261,7 +18396,7 @@
     "The train is going to be late. (adj)"
    ],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "late",
    "source": "list"
@@ -18284,7 +18419,7 @@
     "I’ll see you later."
    ],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "later",
    "source": "list"
@@ -18305,7 +18440,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "latest",
    "source": "list"
@@ -18347,7 +18482,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "lazy",
    "source": "list"
@@ -18391,7 +18526,7 @@
     "at least"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "least",
    "source": "list"
@@ -18413,7 +18548,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "leather",
    "source": "list"
@@ -18486,7 +18621,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "left-hand",
    "source": "list"
@@ -18570,7 +18705,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "lend",
    "source": "list"
@@ -18595,7 +18730,7 @@
     "Can you swim a length of the pool?"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "length",
    "source": "list"
@@ -18618,7 +18753,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "less",
    "source": "list"
@@ -18664,7 +18799,7 @@
     "My parents let me go to the beach."
    ],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "let",
    "source": "list"
@@ -18800,7 +18935,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "life",
    "source": "list"
@@ -18876,7 +19011,7 @@
     "I’d like a drink. (v)"
    ],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "like",
    "source": "list"
@@ -18900,7 +19035,7 @@
     "the next line"
    ],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "line",
    "source": "list"
@@ -18925,7 +19060,7 @@
     "Click on the link."
    ],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "link",
    "source": "list"
@@ -18967,7 +19102,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "list",
    "source": "list"
@@ -18990,7 +19125,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "listen",
    "source": "list"
@@ -19032,7 +19167,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "little",
    "source": "list"
@@ -19095,7 +19230,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "lizard",
    "source": "list"
@@ -19116,7 +19251,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "local",
    "source": "list"
@@ -19137,7 +19272,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "long",
    "source": "list"
@@ -19161,7 +19296,7 @@
     "Don’t look now!"
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "look",
    "source": "list"
@@ -19182,7 +19317,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -19224,7 +19359,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -19247,7 +19382,7 @@
     "Look out – it’s going to fall!"
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -19268,7 +19403,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "lorry",
    "source": "list"
@@ -19292,7 +19427,7 @@
     "I’ve lost my passport."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "lose",
    "source": "list"
@@ -19313,7 +19448,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "lost",
    "source": "list"
@@ -19337,7 +19472,7 @@
     "a lot of homework."
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": null,
    "source": "list"
@@ -19358,7 +19493,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "loud",
    "source": "list"
@@ -19422,7 +19557,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "low",
    "source": "list"
@@ -19464,7 +19599,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "luckily",
    "source": "list"
@@ -19548,7 +19683,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "lunchtime",
    "source": "list"
@@ -19590,7 +19725,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "mad",
    "source": "list"
@@ -19634,7 +19769,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "mail",
    "source": "list"
@@ -19676,7 +19811,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "make",
    "source": "list"
@@ -19699,7 +19834,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -19720,7 +19855,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "make-up",
    "source": "list"
@@ -19741,7 +19876,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "man",
    "source": "list"
@@ -19783,7 +19918,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "mango",
    "source": "list"
@@ -19805,7 +19940,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "many",
    "source": "list"
@@ -19934,7 +20069,7 @@
     "football match"
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "match",
    "source": "list"
@@ -19981,7 +20116,7 @@
     "What’s the matter? (n)"
    ],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "matter",
    "source": "list"
@@ -20024,7 +20159,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "maybe",
    "source": "list"
@@ -20045,7 +20180,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -20087,7 +20222,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "mean",
    "source": "list"
@@ -20172,7 +20307,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "meet",
    "source": "list"
@@ -20262,7 +20397,7 @@
     "My computer has 100GB of memory."
    ],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "memory",
    "source": "list"
@@ -20329,7 +20464,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "metal",
    "source": "list"
@@ -20371,7 +20506,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "microphone",
    "source": "list"
@@ -20392,7 +20527,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "midday",
    "source": "list"
@@ -20415,7 +20550,7 @@
     "Bob’s the one in the middle of the photo."
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "middle",
    "source": "list"
@@ -20457,7 +20592,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -20478,7 +20613,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "mile",
    "source": "list"
@@ -20520,7 +20655,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "million",
    "source": "list"
@@ -20546,7 +20681,7 @@
     "Mind your head!"
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "mind",
    "source": "list"
@@ -20567,7 +20702,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -20609,7 +20744,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "minus",
    "source": "list"
@@ -20696,7 +20831,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "missing",
    "source": "list"
@@ -20717,7 +20852,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "mistake",
    "source": "list"
@@ -20738,7 +20873,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "mix",
    "source": "list"
@@ -20783,7 +20918,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "model",
    "source": "list"
@@ -20825,7 +20960,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -20891,7 +21026,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "money",
    "source": "list"
@@ -21000,7 +21135,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "more",
    "source": "list"
@@ -21045,7 +21180,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "most",
    "source": "list"
@@ -21177,7 +21312,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "mouth",
    "source": "list"
@@ -21219,7 +21354,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "movie",
    "source": "list"
@@ -21240,7 +21375,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -21261,7 +21396,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": null,
    "source": "list"
@@ -21348,7 +21483,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "much",
    "source": "list"
@@ -21369,7 +21504,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "mug",
    "source": "list"
@@ -21478,7 +21613,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "musical",
    "source": "list"
@@ -21522,7 +21657,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "must",
    "source": "list"
@@ -21543,7 +21678,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "my",
    "source": "list"
@@ -21566,7 +21701,7 @@
     "by myself"
    ],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "myself",
    "source": "list"
@@ -21587,7 +21722,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "name",
    "source": "list"
@@ -21608,7 +21743,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "national",
    "source": "list"
@@ -21629,7 +21764,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "nationality",
    "source": "list"
@@ -21650,7 +21785,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "nature",
    "source": "list"
@@ -21673,7 +21808,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "natural",
    "source": "list"
@@ -21695,7 +21830,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "near",
    "source": "list"
@@ -21716,7 +21851,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "nearly",
    "source": "list"
@@ -21779,7 +21914,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "need",
    "source": "list"
@@ -21821,7 +21956,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "nervous",
    "source": "list"
@@ -21842,7 +21977,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "nest",
    "source": "list"
@@ -21886,7 +22021,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "never",
    "source": "list"
@@ -21907,7 +22042,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "new",
    "source": "list"
@@ -21972,7 +22107,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "next",
    "source": "list"
@@ -21993,7 +22128,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": null,
    "source": "list"
@@ -22058,7 +22193,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -22079,7 +22214,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "nobody",
    "source": "list"
@@ -22100,7 +22235,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "noise",
    "source": "list"
@@ -22163,7 +22298,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": null,
    "source": "list"
@@ -22184,7 +22319,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "normal",
    "source": "list"
@@ -22249,7 +22384,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -22317,7 +22452,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "nothing",
    "source": "list"
@@ -22338,7 +22473,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "notice",
    "source": "list"
@@ -22380,7 +22515,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "now",
    "source": "list"
@@ -22401,7 +22536,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "number",
    "source": "list"
@@ -22507,7 +22642,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "octopus",
    "source": "list"
@@ -22549,7 +22684,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -22572,7 +22707,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -22593,7 +22728,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "off",
    "source": "list"
@@ -22615,7 +22750,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "offer",
    "source": "list"
@@ -22658,7 +22793,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "often",
    "source": "list"
@@ -22679,7 +22814,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -22700,7 +22835,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -22747,7 +22882,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -22789,7 +22924,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -22832,7 +22967,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "on",
    "source": "list"
@@ -22855,7 +22990,7 @@
     "only once"
    ],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "once",
    "source": "list"
@@ -22945,7 +23080,7 @@
     "the only one"
    ],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -23009,7 +23144,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "opinion",
    "source": "list"
@@ -23030,7 +23165,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "opposite",
    "source": "list"
@@ -23051,7 +23186,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "or",
    "source": "list"
@@ -23099,7 +23234,7 @@
     "You order your meal from the waiter."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "order",
    "source": "list"
@@ -23121,7 +23256,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "other",
    "source": "list"
@@ -23142,7 +23277,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "our",
    "source": "list"
@@ -23163,7 +23298,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -23184,7 +23319,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "ourselves",
    "source": "list"
@@ -23205,7 +23340,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "out",
    "source": "list"
@@ -23226,7 +23361,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "outdoor",
    "source": "list"
@@ -23247,7 +23382,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "outdoors",
    "source": "list"
@@ -23268,7 +23403,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": null,
    "source": "list"
@@ -23290,7 +23425,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "outside",
    "source": "list"
@@ -23337,7 +23472,7 @@
     "to travel all over the world (prep)"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "over",
    "source": "list"
@@ -23360,7 +23495,7 @@
     "They cook their own meals."
    ],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "own",
    "source": "list"
@@ -23383,7 +23518,7 @@
     "pack a suitcase"
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -23404,7 +23539,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -23491,7 +23626,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "painting",
    "source": "list"
@@ -23535,7 +23670,7 @@
     "a pair of shoes"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "pair",
    "source": "list"
@@ -23556,7 +23691,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": "panda",
    "source": "list"
@@ -23578,7 +23713,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "paper",
    "source": "list"
@@ -23599,7 +23734,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "paragraph",
    "source": "list"
@@ -23622,7 +23757,7 @@
     "Pardon?"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "pardon",
    "source": "list"
@@ -23688,7 +23823,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "parking-lot",
    "source": "list"
@@ -23732,7 +23867,7 @@
     "the best part of the day"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": null,
    "source": "list"
@@ -23753,7 +23888,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "partner",
    "source": "list"
@@ -23798,7 +23933,7 @@
     "to pass a driving test"
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "pass",
    "source": "list"
@@ -24016,7 +24151,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "pen",
    "source": "list"
@@ -24037,7 +24172,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -24058,7 +24193,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "pencil",
    "source": "list"
@@ -24079,7 +24214,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": null,
    "source": "list"
@@ -24163,7 +24298,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "people",
    "source": "list"
@@ -24205,7 +24340,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "per",
    "source": "list"
@@ -24226,7 +24361,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "perfect",
    "source": "list"
@@ -24249,7 +24384,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "perform",
    "source": "list"
@@ -24272,7 +24407,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "performance",
    "source": "list"
@@ -24293,7 +24428,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "perfume",
    "source": "list"
@@ -24314,7 +24449,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "perhaps",
    "source": "list"
@@ -24335,7 +24470,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "person",
    "source": "list"
@@ -24575,7 +24710,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": null,
    "source": "list"
@@ -24641,7 +24776,7 @@
     "a piece of cake"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "piece",
    "source": "list"
@@ -24728,7 +24863,7 @@
     "What a pity!"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "pity",
    "source": "list"
@@ -24775,7 +24910,7 @@
     "to take place"
    ],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "place",
    "source": "list"
@@ -24797,7 +24932,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "plan",
    "source": "list"
@@ -24863,7 +24998,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "plastic",
    "source": "list"
@@ -25022,7 +25157,7 @@
     "Please be quiet!"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "please",
    "source": "list"
@@ -25043,7 +25178,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "pleased",
    "source": "list"
@@ -25064,7 +25199,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "plus",
    "source": "list"
@@ -25127,7 +25262,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "point",
    "source": "list"
@@ -25169,7 +25304,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "police",
    "source": "list"
@@ -25190,7 +25325,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": null,
    "source": "list"
@@ -25253,7 +25388,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "polite",
    "source": "list"
@@ -25319,7 +25454,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -25363,7 +25498,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "popular",
    "source": "list"
@@ -25384,7 +25519,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "port",
    "source": "list"
@@ -25405,7 +25540,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "possible",
    "source": "list"
@@ -25426,7 +25561,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "possibly",
    "source": "list"
@@ -25452,7 +25587,7 @@
     "to post something online"
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "post",
    "source": "list"
@@ -25494,7 +25629,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "poster",
    "source": "list"
@@ -25635,7 +25770,7 @@
     "I’d prefer to come with you."
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "prefer",
    "source": "list"
@@ -25656,7 +25791,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "prepare",
    "source": "list"
@@ -25679,7 +25814,7 @@
     "a birthday present"
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "present",
    "source": "list"
@@ -25742,7 +25877,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "print",
    "source": "list"
@@ -25805,7 +25940,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "probably",
    "source": "list"
@@ -25849,7 +25984,7 @@
     "a computer program"
    ],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "program",
    "source": "list"
@@ -25918,7 +26053,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "pull",
    "source": "list"
@@ -26023,7 +26158,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "push",
    "source": "list"
@@ -26044,7 +26179,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "put",
    "source": "list"
@@ -26065,7 +26200,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -26086,7 +26221,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "puzzle",
    "source": "list"
@@ -26152,7 +26287,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "question",
    "source": "list"
@@ -26194,7 +26329,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "quickly",
    "source": "list"
@@ -26242,7 +26377,7 @@
     "quite old"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "quite",
    "source": "list"
@@ -26465,7 +26600,7 @@
     "rap music"
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "rap",
    "source": "list"
@@ -26508,7 +26643,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "reading",
    "source": "list"
@@ -26573,7 +26708,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "really",
    "source": "list"
@@ -26594,7 +26729,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "reason",
    "source": "list"
@@ -26636,7 +26771,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "receive",
    "source": "list"
@@ -26657,7 +26792,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "recently",
    "source": "list"
@@ -26699,7 +26834,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "recipe",
    "source": "list"
@@ -26722,7 +26857,7 @@
     "T hey’r e recording a new album."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "record",
    "source": "list"
@@ -26787,7 +26922,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "relax",
    "source": "list"
@@ -26808,7 +26943,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "relaxing",
    "source": "list"
@@ -26892,7 +27027,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "repeat",
    "source": "list"
@@ -26987,7 +27122,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "review",
    "source": "list"
@@ -27123,7 +27258,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": null,
    "source": "list"
@@ -27303,7 +27438,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "round",
    "source": "list"
@@ -27454,7 +27589,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "runner",
    "source": "list"
@@ -27475,7 +27610,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "running",
    "source": "list"
@@ -27496,7 +27631,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": null,
    "source": "list"
@@ -27538,7 +27673,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "sail",
    "source": "list"
@@ -27605,7 +27740,7 @@
     "I bought it in the sale."
    ],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "sale",
    "source": "list"
@@ -27651,7 +27786,7 @@
     "Your watch is the same as mine. (pron)"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "same",
    "source": "list"
@@ -27759,7 +27894,7 @@
     "to save time"
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "save",
    "source": "list"
@@ -27780,7 +27915,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "say",
    "source": "list"
@@ -27801,7 +27936,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "scared",
    "source": "list"
@@ -27843,7 +27978,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "scary",
    "source": "list"
@@ -27886,7 +28021,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": null,
    "source": "list"
@@ -27928,7 +28063,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "scientist",
    "source": "list"
@@ -27949,7 +28084,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "scissors",
    "source": "list"
@@ -27970,7 +28105,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "scooter",
    "source": "list"
@@ -27992,7 +28127,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "score",
    "source": "list"
@@ -28058,7 +28193,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "season",
    "source": "list"
@@ -28146,7 +28281,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "see",
    "source": "list"
@@ -28170,7 +28305,7 @@
     "It seemed like a good idea."
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "seem",
    "source": "list"
@@ -28191,7 +28326,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "selfie",
    "source": "list"
@@ -28212,7 +28347,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "sell",
    "source": "list"
@@ -28233,7 +28368,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "send",
    "source": "list"
@@ -28254,7 +28389,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "sentence",
    "source": "list"
@@ -28298,7 +28433,7 @@
     "She is a very serious person."
    ],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "serious",
    "source": "list"
@@ -28319,7 +28454,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "serve",
    "source": "list"
@@ -28340,7 +28475,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "set",
    "source": "list"
@@ -28362,7 +28497,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "several",
    "source": "list"
@@ -28383,7 +28518,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "shall",
    "source": "list"
@@ -28406,7 +28541,7 @@
     "What a shame!"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "shame",
    "source": "list"
@@ -28428,7 +28563,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "shampoo",
    "source": "list"
@@ -28455,7 +28590,7 @@
     "She shared her pictures online."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "share",
    "source": "list"
@@ -28497,7 +28632,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -28542,7 +28677,7 @@
     "a sheet of paper"
    ],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "sheet",
    "source": "list"
@@ -28737,7 +28872,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": null,
    "source": "list"
@@ -28760,7 +28895,7 @@
     "a short time"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "short",
    "source": "list"
@@ -28802,7 +28937,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "should",
    "source": "list"
@@ -28823,7 +28958,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "shout",
    "source": "list"
@@ -28891,7 +29026,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "shut",
    "source": "list"
@@ -28912,7 +29047,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "shy",
    "source": "list"
@@ -28956,7 +29091,7 @@
     "this side of the room"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "side",
    "source": "list"
@@ -28977,7 +29112,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "sightseeing",
    "source": "list"
@@ -28998,7 +29133,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "sign",
    "source": "list"
@@ -29041,7 +29176,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "similar",
    "source": "list"
@@ -29062,7 +29197,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "simple",
    "source": "list"
@@ -29083,7 +29218,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "since",
    "source": "list"
@@ -29147,7 +29282,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": null,
    "source": "list"
@@ -29168,7 +29303,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "single",
    "source": "list"
@@ -29231,7 +29366,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "sit",
    "source": "list"
@@ -29252,7 +29387,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": null,
    "source": "list"
@@ -29275,7 +29410,7 @@
     "internet site"
    ],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "site",
    "source": "list"
@@ -29317,7 +29452,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "size",
    "source": "list"
@@ -29380,7 +29515,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "skateboarding",
    "source": "list"
@@ -29401,7 +29536,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": null,
    "source": "list"
@@ -29507,7 +29642,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "sleep",
    "source": "list"
@@ -29549,7 +29684,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "slim",
    "source": "list"
@@ -29591,7 +29726,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "slowly",
    "source": "list"
@@ -29636,7 +29771,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "smart",
    "source": "list"
@@ -29657,7 +29792,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "smoke",
    "source": "list"
@@ -29678,7 +29813,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "smoking",
    "source": "list"
@@ -29720,7 +29855,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-nature"
    ],
    "atlas": null,
    "source": "list"
@@ -29831,7 +29966,7 @@
     "He wanted to go but he didn’t say so. (adv)"
    ],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "so",
    "source": "list"
@@ -29894,7 +30029,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -30000,7 +30135,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "some",
    "source": "list"
@@ -30021,7 +30156,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "somebody",
    "source": "list"
@@ -30042,7 +30177,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "someone",
    "source": "list"
@@ -30063,7 +30198,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "something",
    "source": "list"
@@ -30084,7 +30219,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "sometimes",
    "source": "list"
@@ -30105,7 +30240,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "somewhere",
    "source": "list"
@@ -30168,7 +30303,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "soon",
    "source": "list"
@@ -30214,7 +30349,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "sort",
    "source": "list"
@@ -30238,7 +30373,7 @@
     "To sound good/interesting/strange, etc."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "sound",
    "source": "list"
@@ -30326,7 +30461,7 @@
     "I read a lot in my spare time."
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "spare",
    "source": "list"
@@ -30347,7 +30482,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "speak",
    "source": "list"
@@ -30368,7 +30503,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "speaker",
    "source": "list"
@@ -30410,7 +30545,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "spell",
    "source": "list"
@@ -30431,7 +30566,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "spelling",
    "source": "list"
@@ -30497,7 +30632,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "spoon",
    "source": "list"
@@ -30651,7 +30786,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "stage",
    "source": "list"
@@ -30672,7 +30807,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "stairs",
    "source": "list"
@@ -30695,7 +30830,7 @@
     "Put a stamp on the envelope."
    ],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "stamp",
    "source": "list"
@@ -30718,7 +30853,7 @@
     "She was standing at the bus stop."
    ],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "stand",
    "source": "list"
@@ -30761,7 +30896,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "start",
    "source": "list"
@@ -30852,7 +30987,7 @@
     "Someone’s stolen my bag!"
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "steal",
    "source": "list"
@@ -30873,7 +31008,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "still",
    "source": "list"
@@ -31000,7 +31135,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "story",
    "source": "list"
@@ -31025,7 +31160,7 @@
     "Go straight on. (adv)"
    ],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "straight",
    "source": "list"
@@ -31112,7 +31247,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "striped",
    "source": "list"
@@ -31133,7 +31268,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "stripes",
    "source": "list"
@@ -31241,7 +31376,7 @@
     "That’s where I keep all my stuff."
    ],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "stuff",
    "source": "list"
@@ -31286,7 +31421,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "success",
    "source": "list"
@@ -31307,7 +31442,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "successful",
    "source": "list"
@@ -31328,7 +31463,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "such",
    "source": "list"
@@ -31349,7 +31484,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "suddenly",
    "source": "list"
@@ -31393,7 +31528,7 @@
     "I suggest having the meeting in the office."
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "suggest",
    "source": "list"
@@ -31586,7 +31721,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "supper",
    "source": "list"
@@ -31610,7 +31745,7 @@
     "I suppose you’re right."
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "suppose",
    "source": "list"
@@ -31719,7 +31854,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "surfing",
    "source": "list"
@@ -31761,7 +31896,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "surprise",
    "source": "list"
@@ -31782,7 +31917,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "surprised",
    "source": "list"
@@ -31803,7 +31938,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "surprising",
    "source": "list"
@@ -32003,7 +32138,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "table",
    "source": "list"
@@ -32092,7 +32227,7 @@
     "It takes three hours."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": "take",
    "source": "list"
@@ -32115,7 +32250,7 @@
     "She took off her shoes."
    ],
    "topics": [
-    "core"
+    "core-give"
    ],
    "atlas": null,
    "source": "list"
@@ -32136,7 +32271,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": null,
    "source": "list"
@@ -32200,7 +32335,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "tasty",
    "source": "list"
@@ -32327,7 +32462,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "technology",
    "source": "list"
@@ -32416,7 +32551,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "tell",
    "source": "list"
@@ -32632,7 +32767,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": null,
    "source": "list"
@@ -32654,7 +32789,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "than",
    "source": "list"
@@ -32675,7 +32810,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -32696,7 +32831,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "thanks",
    "source": "list"
@@ -32717,7 +32852,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -32739,7 +32874,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "that",
    "source": "list"
@@ -32760,7 +32895,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -32804,7 +32939,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -32825,7 +32960,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "theirs",
    "source": "list"
@@ -32846,7 +32981,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -32867,7 +33002,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -32888,7 +33023,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": null,
    "source": "list"
@@ -32909,7 +33044,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "there",
    "source": "list"
@@ -32931,7 +33066,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "these",
    "source": "list"
@@ -32952,7 +33087,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "they",
    "source": "list"
@@ -32973,7 +33108,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "thin",
    "source": "list"
@@ -32994,7 +33129,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "thing",
    "source": "list"
@@ -33015,7 +33150,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "think",
    "source": "list"
@@ -33058,7 +33193,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -33080,7 +33215,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -33101,7 +33236,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "through",
    "source": "list"
@@ -33210,7 +33345,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "tidy",
    "source": "list"
@@ -33231,7 +33366,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -33315,7 +33450,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "till",
    "source": "list"
@@ -33357,7 +33492,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "timetable",
    "source": "list"
@@ -33401,7 +33536,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "title",
    "source": "list"
@@ -33422,7 +33557,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -33486,7 +33621,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "toe",
    "source": "list"
@@ -33507,7 +33642,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "together",
    "source": "list"
@@ -33635,7 +33770,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "too",
    "source": "list"
@@ -33721,7 +33856,7 @@
     "the top of the page"
    ],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "top",
    "source": "list"
@@ -33742,7 +33877,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "topic",
    "source": "list"
@@ -33764,7 +33899,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "total",
    "source": "list"
@@ -33914,7 +34049,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "toy",
    "source": "list"
@@ -34007,7 +34142,7 @@
     "sport"
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "training",
    "source": "list"
@@ -34073,7 +34208,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "transport",
    "source": "list"
@@ -34157,7 +34292,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "trouble",
    "source": "list"
@@ -34199,7 +34334,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "true",
    "source": "list"
@@ -34220,7 +34355,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "try",
    "source": "list"
@@ -34307,7 +34442,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": "tune",
    "source": "list"
@@ -34328,7 +34463,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "turn",
    "source": "list"
@@ -34351,7 +34486,7 @@
     "Turn the TV off."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -34374,7 +34509,7 @@
     "Turn the heating on."
    ],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -34395,7 +34530,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "twice",
    "source": "list"
@@ -34416,7 +34551,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "type",
    "source": "list"
@@ -34500,7 +34635,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "under",
    "source": "list"
@@ -34544,7 +34679,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "understand",
    "source": "list"
@@ -34565,7 +34700,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "unfortunately",
    "source": "list"
@@ -34651,7 +34786,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "until",
    "source": "list"
@@ -34672,7 +34807,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "unusual",
    "source": "list"
@@ -34694,7 +34829,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "up",
    "source": "list"
@@ -34715,7 +34850,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "upload",
    "source": "list"
@@ -34736,7 +34871,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "upset",
    "source": "list"
@@ -34757,7 +34892,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-where"
    ],
    "atlas": "upstairs",
    "source": "list"
@@ -34778,7 +34913,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -34799,7 +34934,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": "use",
    "source": "list"
@@ -34841,7 +34976,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "usual",
    "source": "list"
@@ -34862,7 +34997,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "usually",
    "source": "list"
@@ -34907,7 +35042,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "variety",
    "source": "list"
@@ -34928,7 +35063,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "various",
    "source": "list"
@@ -34970,7 +35105,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "very",
    "source": "list"
@@ -35036,7 +35171,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-places"
    ],
    "atlas": "view",
    "source": "list"
@@ -35078,7 +35213,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "violin",
    "source": "list"
@@ -35142,7 +35277,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "vocabulary",
    "source": "list"
@@ -35184,7 +35319,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "wait",
    "source": "list"
@@ -35249,7 +35384,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "wake",
    "source": "list"
@@ -35270,7 +35405,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -35316,7 +35451,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-move"
    ],
    "atlas": "walking",
    "source": "list"
@@ -35337,7 +35472,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "wall",
    "source": "list"
@@ -35379,7 +35514,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "want",
    "source": "list"
@@ -35400,7 +35535,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-things"
    ],
    "atlas": "wardrobe",
    "source": "list"
@@ -35442,7 +35577,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "wash",
    "source": "list"
@@ -35484,7 +35619,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -35597,7 +35732,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -35834,7 +35969,7 @@
     "Welcome to London! (exclam)"
    ],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": "welcome",
    "source": "list"
@@ -35878,7 +36013,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": null,
    "source": "list"
@@ -35965,7 +36100,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -36007,7 +36142,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "when",
    "source": "list"
@@ -36028,7 +36163,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": null,
    "source": "list"
@@ -36050,7 +36185,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "which",
    "source": "list"
@@ -36071,7 +36206,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -36113,7 +36248,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -36138,7 +36273,7 @@
     "the whole of July (n)"
    ],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "whole",
    "source": "list"
@@ -36160,7 +36295,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "whose",
    "source": "list"
@@ -36181,7 +36316,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-anyone"
    ],
    "atlas": "why",
    "source": "list"
@@ -36202,7 +36337,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "wide",
    "source": "list"
@@ -36244,7 +36379,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "wifi",
    "source": "list"
@@ -36311,7 +36446,7 @@
    ],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -36503,7 +36638,7 @@
     "Best wishes"
    ],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "wish",
    "source": "list"
@@ -36524,7 +36659,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "with",
    "source": "list"
@@ -36545,7 +36680,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": "without",
    "source": "list"
@@ -36566,7 +36701,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-people"
    ],
    "atlas": "woman",
    "source": "list"
@@ -36587,7 +36722,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-feel"
    ],
    "atlas": "wonderful",
    "source": "list"
@@ -36630,7 +36765,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "wooden",
    "source": "list"
@@ -36672,7 +36807,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "word",
    "source": "list"
@@ -36717,7 +36852,7 @@
     "exercise"
    ],
    "topics": [
-    "core"
+    "core-fun"
    ],
    "atlas": null,
    "source": "list"
@@ -36822,7 +36957,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-think"
    ],
    "atlas": "worry",
    "source": "list"
@@ -36843,7 +36978,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "worse",
    "source": "list"
@@ -36864,7 +36999,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-describe"
    ],
    "atlas": "worst",
    "source": "list"
@@ -36885,7 +37020,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-can"
    ],
    "atlas": null,
    "source": "list"
@@ -36906,7 +37041,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -36927,7 +37062,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": "write",
    "source": "list"
@@ -36948,7 +37083,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-do"
    ],
    "atlas": null,
    "source": "list"
@@ -36990,7 +37125,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-words"
    ],
    "atlas": "writing",
    "source": "list"
@@ -37032,7 +37167,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-hello"
    ],
    "atlas": null,
    "source": "list"
@@ -37096,7 +37231,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-little"
    ],
    "atlas": null,
    "source": "list"
@@ -37140,7 +37275,7 @@
     "Has he arrived yet?"
    ],
    "topics": [
-    "core"
+    "core-when"
    ],
    "atlas": "yet",
    "source": "list"
@@ -37183,7 +37318,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -37225,7 +37360,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "your",
    "source": "list"
@@ -37246,7 +37381,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": null,
    "source": "list"
@@ -37267,7 +37402,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-me"
    ],
    "atlas": "yourself",
    "source": "list"
@@ -37309,7 +37444,7 @@
    "hints": [],
    "examples": [],
    "topics": [
-    "core"
+    "core-howmuch"
    ],
    "atlas": "zero",
    "source": "list"

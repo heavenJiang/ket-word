@@ -1,0 +1,3922 @@
+{
+ "id": "media",
+ "words": [
+  {
+   "id": "act",
+   "word": "act",
+   "zh": "表演；扮演",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "表演；扮演"
+    }
+   ],
+   "ipa": "/ækt/",
+   "chunks": [
+    "act"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "Lily acts in a school play.",
+    "zh": "Lily 在学校戏剧中表演。"
+   },
+   "sentences": [
+    {
+     "en": "Lily acts in a school play.",
+     "zh": "Lily 在学校戏剧中表演。",
+     "audio": "media/sent/d46cd18f0cb1.mp3"
+    },
+    {
+     "en": "Tom likes to act at home.",
+     "zh": "Tom 喜欢在家表演。",
+     "audio": "media/sent/6eae2de90330.mp3"
+    },
+    {
+     "en": "Can you act like a cat?",
+     "zh": "你能像猫一样表演吗？",
+     "audio": "media/sent/8493395e1fbe.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/act.webp",
+    "uk": "media/uk/act.mp3",
+    "us": "media/us/act.mp3"
+   },
+   "avoid": [
+    "actor",
+    "dancer",
+    "singer"
+   ]
+  },
+  {
+   "id": "actor",
+   "word": "actor",
+   "zh": "演员",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "演员"
+    }
+   ],
+   "ipa": "/ˈæktə/",
+   "chunks": [
+    "ac",
+    "tor"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "The actor wears a big hat.",
+    "zh": "那位演员戴着一顶大帽子。"
+   },
+   "sentences": [
+    {
+     "en": "The actor wears a big hat.",
+     "zh": "那位演员戴着一顶大帽子。",
+     "audio": "media/sent/04aea2645f6d.mp3"
+    },
+    {
+     "en": "Sam wants to be an actor.",
+     "zh": "Sam 想成为一名演员。",
+     "audio": "media/sent/049bebe80ee9.mp3"
+    },
+    {
+     "en": "The actor speaks very well.",
+     "zh": "那位演员说台词说得很好。",
+     "audio": "media/sent/367c4a10f5ca.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/actor.webp",
+    "uk": "media/uk/actor.mp3",
+    "us": "media/us/actor.mp3"
+   },
+   "avoid": [
+    "act",
+    "dancer",
+    "singer"
+   ]
+  },
+  {
+   "id": "adventure",
+   "word": "adventure",
+   "zh": "冒险",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "冒险"
+    }
+   ],
+   "ipa": "/ədˈventʃə/",
+   "chunks": [
+    "ad",
+    "ven",
+    "ture"
+   ],
+   "emoji": "🗺️",
+   "sentence": {
+    "en": "The trip is a big adventure.",
+    "zh": "这次旅行是一次大冒险。"
+   },
+   "sentences": [
+    {
+     "en": "The trip is a big adventure.",
+     "zh": "这次旅行是一次大冒险。",
+     "audio": "media/sent/6367efd9cab2.mp3"
+    },
+    {
+     "en": "We have fun adventures in the park.",
+     "zh": "我们在公园里进行有趣的冒险。",
+     "audio": "media/sent/ed0e9fd7cab5.mp3"
+    },
+    {
+     "en": "Max loves every adventure outside.",
+     "zh": "Max 喜欢外面的每一次冒险。",
+     "audio": "media/sent/a4f6610dfd50.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/adventure.webp",
+    "uk": "media/uk/adventure.mp3",
+    "us": "media/us/adventure.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "art",
+   "word": "art",
+   "zh": "艺术；美术",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "艺术；美术"
+    }
+   ],
+   "ipa": "/ɑːt/",
+   "chunks": [
+    "art"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "Lily has an art class today.",
+    "zh": "Lily 今天有美术课。"
+   },
+   "sentences": [
+    {
+     "en": "Lily has an art class today.",
+     "zh": "Lily 今天有美术课。",
+     "audio": "media/sent/0d7825db889c.mp3"
+    },
+    {
+     "en": "Art is my favourite lesson.",
+     "zh": "美术是我最喜欢的课。",
+     "audio": "media/sent/8c84ed6a7e33.mp3"
+    },
+    {
+     "en": "The teacher shows us some art.",
+     "zh": "老师给我们看了一些艺术作品。",
+     "audio": "media/sent/1abe68a641ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/art.webp",
+    "uk": "media/uk/art.mp3",
+    "us": "media/us/art.mp3"
+   },
+   "avoid": [
+    "drawing",
+    "paint",
+    "picture"
+   ]
+  },
+  {
+   "id": "board-game",
+   "word": "board game",
+   "zh": "棋盘游戏",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "棋盘游戏"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "board",
+    "game"
+   ],
+   "emoji": "🎲",
+   "sentence": {
+    "en": "We play a board game at home.",
+    "zh": "我们在家玩棋盘游戏。"
+   },
+   "sentences": [
+    {
+     "en": "We play a board game at home.",
+     "zh": "我们在家玩棋盘游戏。",
+     "audio": "media/sent/5afbf9472e9d.mp3"
+    },
+    {
+     "en": "This board game is very fun.",
+     "zh": "这个棋盘游戏很有趣。",
+     "audio": "media/sent/e55d8b3a577f.mp3"
+    },
+    {
+     "en": "Dad wins the board game.",
+     "zh": "爸爸赢了这场棋盘游戏。",
+     "audio": "media/sent/613acc87352a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/board-game.webp"
+   },
+   "avoid": [
+    "chess",
+    "video-game"
+   ]
+  },
+  {
+   "id": "cartoon",
+   "word": "cartoon",
+   "zh": "卡通片；动画片",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "卡通片；动画片"
+    }
+   ],
+   "ipa": "/kɑːˈtuːn/",
+   "chunks": [
+    "car",
+    "toon"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Tom watches a funny cartoon.",
+    "zh": "Tom 看一部有趣的动画片。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches a funny cartoon.",
+     "zh": "Tom 看一部有趣的动画片。",
+     "audio": "media/sent/8f21c950cad6.mp3"
+    },
+    {
+     "en": "I like this cartoon very much.",
+     "zh": "我非常喜欢这部动画片。",
+     "audio": "media/sent/7af75947a301.mp3"
+    },
+    {
+     "en": "The cartoon starts at five o'clock.",
+     "zh": "动画片五点钟开始。",
+     "audio": "media/sent/736f8d7b8d1d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cartoon.webp",
+    "uk": "media/uk/cartoon.mp3",
+    "us": "media/us/cartoon.mp3"
+   },
+   "avoid": [
+    "film",
+    "programme",
+    "video"
+   ]
+  },
+  {
+   "id": "chess",
+   "word": "chess",
+   "zh": "国际象棋",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "国际象棋"
+    }
+   ],
+   "ipa": "/tʃes/",
+   "chunks": [
+    "chess"
+   ],
+   "emoji": "♟️",
+   "sentence": {
+    "en": "Grandpa teaches Lily chess.",
+    "zh": "爷爷教 Lily 下国际象棋。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa teaches Lily chess.",
+     "zh": "爷爷教 Lily 下国际象棋。",
+     "audio": "media/sent/e290dca74bf5.mp3"
+    },
+    {
+     "en": "Chess is a quiet game.",
+     "zh": "国际象棋是一项安静的游戏。",
+     "audio": "media/sent/2a498608fc53.mp3"
+    },
+    {
+     "en": "Can you play chess with me?",
+     "zh": "你能和我下国际象棋吗？",
+     "audio": "media/sent/386954d276be.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/chess.webp",
+    "uk": "media/uk/chess.mp3",
+    "us": "media/us/chess.mp3"
+   },
+   "avoid": [
+    "board-game",
+    "video-game"
+   ]
+  },
+  {
+   "id": "classical",
+   "word": "classical",
+   "zh": "古典的",
+   "pos": [
+    "adj"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj"
+     ],
+     "zh": "古典的"
+    }
+   ],
+   "ipa": "/ˈklæsɪkəl/",
+   "chunks": [
+    "clas",
+    "si",
+    "cal"
+   ],
+   "emoji": "🎻",
+   "sentence": {
+    "en": "Mum likes classical music.",
+    "zh": "妈妈喜欢古典音乐。"
+   },
+   "sentences": [
+    {
+     "en": "Mum likes classical music.",
+     "zh": "妈妈喜欢古典音乐。",
+     "audio": "media/sent/85abe553156c.mp3"
+    },
+    {
+     "en": "Grandpa plays classical music on the piano.",
+     "zh": "爷爷用钢琴弹古典音乐。",
+     "audio": "media/sent/f9853cad854e.mp3"
+    },
+    {
+     "en": "Is this classical music?",
+     "zh": "这是古典音乐吗？",
+     "audio": "media/sent/a7f75bc9da91.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/classical.webp",
+    "uk": "media/uk/classical.mp3",
+    "us": "media/us/classical.mp3"
+   },
+   "avoid": [
+    "hip-hop",
+    "opera",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "concert",
+   "word": "concert",
+   "zh": "音乐会",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "音乐会"
+    }
+   ],
+   "ipa": "/ˈkɒnsət/",
+   "chunks": [
+    "con",
+    "cert"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "We go to a rock concert.",
+    "zh": "我们去听一场摇滚音乐会。"
+   },
+   "sentences": [
+    {
+     "en": "We go to a rock concert.",
+     "zh": "我们去听一场摇滚音乐会。",
+     "audio": "media/sent/d6eaa7dea4c6.mp3"
+    },
+    {
+     "en": "The concert is very loud.",
+     "zh": "这场音乐会非常响亮。",
+     "audio": "media/sent/7ef8b1ebc2c1.mp3"
+    },
+    {
+     "en": "Mia sings at the school concert.",
+     "zh": "Mia 在学校音乐会上唱歌。",
+     "audio": "media/sent/b3207df9a23b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/concert.webp",
+    "uk": "media/uk/concert.mp3",
+    "us": "media/us/concert.mp3"
+   },
+   "avoid": [
+    "disco",
+    "festival",
+    "show"
+   ]
+  },
+  {
+   "id": "dancer",
+   "word": "dancer",
+   "zh": "舞者",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "舞者"
+    }
+   ],
+   "ipa": "/ˈdɑːnsə/",
+   "chunks": [
+    "dan",
+    "cer"
+   ],
+   "emoji": "💃",
+   "sentence": {
+    "en": "The dancer wears pink shoes.",
+    "zh": "那位舞者穿着粉色的鞋子。"
+   },
+   "sentences": [
+    {
+     "en": "The dancer wears pink shoes.",
+     "zh": "那位舞者穿着粉色的鞋子。",
+     "audio": "media/sent/8b39bf3f13eb.mp3"
+    },
+    {
+     "en": "She is a good dancer.",
+     "zh": "她是一位优秀的舞者。",
+     "audio": "media/sent/92f229af4e05.mp3"
+    },
+    {
+     "en": "Lily wants to be a dancer.",
+     "zh": "Lily 想成为一名舞者。",
+     "audio": "media/sent/8d2af96d1335.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dancer.webp",
+    "uk": "media/uk/dancer.mp3",
+    "us": "media/us/dancer.mp3"
+   },
+   "avoid": [
+    "act",
+    "actor",
+    "singer"
+   ]
+  },
+  {
+   "id": "drawing",
+   "word": "drawing",
+   "zh": "图画；素描",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "图画；素描"
+    }
+   ],
+   "ipa": "/ˈdrɔːɪŋ/",
+   "chunks": [
+    "draw",
+    "ing"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "Tom shows his drawing to Dad.",
+    "zh": "Tom 给爸爸看他的图画。"
+   },
+   "sentences": [
+    {
+     "en": "Tom shows his drawing to Dad.",
+     "zh": "Tom 给爸爸看他的图画。",
+     "audio": "media/sent/48c8279012c2.mp3"
+    },
+    {
+     "en": "This drawing is very nice.",
+     "zh": "这幅图画很漂亮。",
+     "audio": "media/sent/57e551481d34.mp3"
+    },
+    {
+     "en": "Lily makes a new drawing.",
+     "zh": "Lily 画了一幅新图画。",
+     "audio": "media/sent/550f5e7048c0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drawing.webp",
+    "uk": "media/uk/drawing.mp3",
+    "us": "media/us/drawing.mp3"
+   },
+   "avoid": [
+    "art",
+    "paint",
+    "picture"
+   ]
+  },
+  {
+   "id": "drum",
+   "word": "drum",
+   "zh": "鼓",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "鼓"
+    }
+   ],
+   "ipa": "/drʌm/",
+   "chunks": [
+    "drum"
+   ],
+   "emoji": "🥁",
+   "sentence": {
+    "en": "Sam plays the big drum.",
+    "zh": "Sam 打那个大鼓。"
+   },
+   "sentences": [
+    {
+     "en": "Sam plays the big drum.",
+     "zh": "Sam 打那个大鼓。",
+     "audio": "media/sent/5878eb828e56.mp3"
+    },
+    {
+     "en": "The drum is very loud.",
+     "zh": "鼓声很响。",
+     "audio": "media/sent/61d4b8641e63.mp3"
+    },
+    {
+     "en": "I have a small red drum.",
+     "zh": "我有一个红色的小鼓。",
+     "audio": "media/sent/d9aa0bd644c5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/drum.webp",
+    "uk": "media/uk/drum.mp3",
+    "us": "media/us/drum.mp3"
+   },
+   "avoid": [
+    "guitar",
+    "instrument",
+    "keyboard.2",
+    "piano"
+   ]
+  },
+  {
+   "id": "exhibition",
+   "word": "exhibition",
+   "zh": "展览",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "展览"
+    }
+   ],
+   "ipa": "/ˌeksɪˈbɪʃən/",
+   "chunks": [
+    "ex",
+    "hi",
+    "bi",
+    "tion"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "We see an art exhibition.",
+    "zh": "我们去看一个艺术展览。"
+   },
+   "sentences": [
+    {
+     "en": "We see an art exhibition.",
+     "zh": "我们去看一个艺术展览。",
+     "audio": "media/sent/39db376766fc.mp3"
+    },
+    {
+     "en": "The exhibition is free today.",
+     "zh": "这个展览今天是免费的。",
+     "audio": "media/sent/f4a1aca0d57a.mp3"
+    },
+    {
+     "en": "Grandma visits the photo exhibition.",
+     "zh": "奶奶去参观照片展览。",
+     "audio": "media/sent/ae3d4e5d35d7.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/exhibition.webp",
+    "uk": "media/uk/exhibition.mp3",
+    "us": "media/us/exhibition.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "museum",
+    "theatre"
+   ]
+  },
+  {
+   "id": "film",
+   "word": "film",
+   "zh": "电影",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "电影"
+    }
+   ],
+   "ipa": "/fɪlm/",
+   "chunks": [
+    "film"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We watch a film at the cinema.",
+    "zh": "我们在电影院看电影。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a film at the cinema.",
+     "zh": "我们在电影院看电影。",
+     "audio": "media/sent/b61ecb6bd0b2.mp3"
+    },
+    {
+     "en": "This film is very funny.",
+     "zh": "这部电影很有趣。",
+     "audio": "media/sent/e75ec6e6a4d5.mp3"
+    },
+    {
+     "en": "Tom likes films about animals.",
+     "zh": "Tom 喜欢关于动物的电影。",
+     "audio": "media/sent/981f5a3fddce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/film.webp",
+    "uk": "media/uk/film.mp3",
+    "us": "media/us/film.mp3"
+   },
+   "avoid": [
+    "cartoon",
+    "programme",
+    "video"
+   ]
+  },
+  {
+   "id": "fun",
+   "word": "fun",
+   "zh": "乐趣；有趣的",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "adj",
+      "n"
+     ],
+     "zh": "乐趣；有趣的"
+    }
+   ],
+   "ipa": "/fʌn/",
+   "chunks": [
+    "fun"
+   ],
+   "emoji": "🎉",
+   "sentence": {
+    "en": "Playing with Max is fun.",
+    "zh": "和 Max 玩很有趣。"
+   },
+   "sentences": [
+    {
+     "en": "Playing with Max is fun.",
+     "zh": "和 Max 玩很有趣。",
+     "audio": "media/sent/bdf657935eea.mp3"
+    },
+    {
+     "en": "The party was great fun.",
+     "zh": "聚会非常有趣。",
+     "audio": "media/sent/85afe78826cd.mp3"
+    },
+    {
+     "en": "Have fun at school!",
+     "zh": "在学校玩得开心！",
+     "audio": "media/sent/4cbe4173f0a6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/fun.webp",
+    "uk": "media/uk/fun.mp3",
+    "us": "media/us/fun.mp3"
+   },
+   "avoid": [
+    "laugh"
+   ]
+  },
+  {
+   "id": "hip-hop",
+   "word": "hip hop",
+   "zh": "嘻哈（音乐）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "嘻哈（音乐）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "hip",
+    "hop"
+   ],
+   "emoji": "🎧",
+   "sentence": {
+    "en": "Sam likes hip hop music.",
+    "zh": "Sam 喜欢嘻哈音乐。"
+   },
+   "sentences": [
+    {
+     "en": "Sam likes hip hop music.",
+     "zh": "Sam 喜欢嘻哈音乐。",
+     "audio": "media/sent/1f6791bc910a.mp3"
+    },
+    {
+     "en": "He dances to hip hop songs.",
+     "zh": "他随着嘻哈歌曲跳舞。",
+     "audio": "media/sent/e97652dbf5a6.mp3"
+    },
+    {
+     "en": "Hip hop is cool and fast.",
+     "zh": "嘻哈很酷而且节奏快。",
+     "audio": "media/sent/47cb78fdea15.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/hip-hop.webp"
+   },
+   "avoid": [
+    "classical",
+    "opera",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "instrument",
+   "word": "instrument",
+   "zh": "乐器",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "乐器"
+    }
+   ],
+   "ipa": "/ˈɪnstrəmənt/",
+   "chunks": [
+    "in",
+    "stru",
+    "ment"
+   ],
+   "emoji": "🎸",
+   "sentence": {
+    "en": "The piano is an instrument.",
+    "zh": "钢琴是一种乐器。"
+   },
+   "sentences": [
+    {
+     "en": "The piano is an instrument.",
+     "zh": "钢琴是一种乐器。",
+     "audio": "media/sent/3767336e19fd.mp3"
+    },
+    {
+     "en": "She plays this instrument well.",
+     "zh": "她演奏这种乐器很好。",
+     "audio": "media/sent/82ed72ae0a93.mp3"
+    },
+    {
+     "en": "I want to learn an instrument.",
+     "zh": "我想学习一种乐器。",
+     "audio": "media/sent/46f8fc4da3d2.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/instrument.webp",
+    "uk": "media/uk/instrument.mp3",
+    "us": "media/us/instrument.mp3"
+   },
+   "avoid": [
+    "drum",
+    "guitar",
+    "keyboard.2",
+    "piano"
+   ]
+  },
+  {
+   "id": "opera",
+   "word": "opera",
+   "zh": "歌剧",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "歌剧"
+    }
+   ],
+   "ipa": "/ˈɒpərə/",
+   "chunks": [
+    "op",
+    "e",
+    "ra"
+   ],
+   "emoji": "🎼",
+   "sentence": {
+    "en": "Grandma loves old opera.",
+    "zh": "奶奶喜欢老歌剧。"
+   },
+   "sentences": [
+    {
+     "en": "Grandma loves old opera.",
+     "zh": "奶奶喜欢老歌剧。",
+     "audio": "media/sent/6143f05a9f42.mp3"
+    },
+    {
+     "en": "The opera is very long.",
+     "zh": "这部歌剧很长。",
+     "audio": "media/sent/4b108a1c2045.mp3"
+    },
+    {
+     "en": "They sing the opera together.",
+     "zh": "他们一起唱这部歌剧。",
+     "audio": "media/sent/6e8b94838e02.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/opera.webp",
+    "uk": "media/uk/opera.mp3",
+    "us": "media/us/opera.mp3"
+   },
+   "avoid": [
+    "classical",
+    "hip-hop",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "keyboard",
+   "word": "keyboard",
+   "zh": "键盘（电脑）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "键盘（电脑）"
+    }
+   ],
+   "ipa": "/ˈkiːbɔːd/",
+   "chunks": [
+    "key",
+    "board"
+   ],
+   "emoji": "⌨️",
+   "sentence": {
+    "en": "Dad types on his keyboard.",
+    "zh": "爸爸在键盘上打字。"
+   },
+   "sentences": [
+    {
+     "en": "Dad types on his keyboard.",
+     "zh": "爸爸在键盘上打字。",
+     "audio": "media/sent/8b7042fd974f.mp3"
+    },
+    {
+     "en": "Lily uses the keyboard to write her story.",
+     "zh": "Lily 用键盘写她的故事。",
+     "audio": "media/sent/70011b34f3ea.mp3"
+    },
+    {
+     "en": "Please clean your keyboard.",
+     "zh": "请清理你的键盘。",
+     "audio": "media/sent/efed4916b344.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/keyboard.webp",
+    "uk": "media/uk/keyboard.mp3",
+    "us": "media/us/keyboard.mp3"
+   },
+   "avoid": [
+    "keyboard.2"
+   ]
+  },
+  {
+   "id": "keyboard.2",
+   "word": "keyboard",
+   "zh": "电子琴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电子琴"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "键盘（电脑）"
+    }
+   ],
+   "ipa": "/ˈkiːbɔːd/",
+   "chunks": [
+    "key",
+    "board"
+   ],
+   "emoji": "🎹",
+   "sentence": {
+    "en": "Mia plays her new keyboard.",
+    "zh": "Mia 弹奏她的新电子琴。"
+   },
+   "sentences": [
+    {
+     "en": "Mia plays her new keyboard.",
+     "zh": "Mia 弹奏她的新电子琴。",
+     "audio": "media/sent/51f75c0523c6.mp3"
+    },
+    {
+     "en": "This keyboard has many sounds.",
+     "zh": "这个电子琴有很多声音。",
+     "audio": "media/sent/9dd0eb68392c.mp3"
+    },
+    {
+     "en": "Sam likes to play the keyboard.",
+     "zh": "Sam 喜欢弹电子琴。",
+     "audio": "media/sent/80dce4d4a211.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/keyboard.2.webp",
+    "uk": "media/uk/keyboard.mp3",
+    "us": "media/us/keyboard.mp3"
+   },
+   "of": "keyboard",
+   "ofZh": "键盘（电脑）",
+   "avoid": [
+    "drum",
+    "guitar",
+    "instrument",
+    "keyboard",
+    "piano"
+   ]
+  },
+  {
+   "id": "laugh",
+   "word": "laugh",
+   "zh": "笑",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "笑"
+    }
+   ],
+   "ipa": "/lɑːf/",
+   "chunks": [
+    "laugh"
+   ],
+   "emoji": "😂",
+   "sentence": {
+    "en": "We laugh at the funny film.",
+    "zh": "我们看这部滑稽的电影时笑了。"
+   },
+   "sentences": [
+    {
+     "en": "We laugh at the funny film.",
+     "zh": "我们看这部滑稽的电影时笑了。",
+     "audio": "media/sent/d755692634c9.mp3"
+    },
+    {
+     "en": "Don't laugh at people.",
+     "zh": "不要嘲笑别人。",
+     "audio": "media/sent/c2c033e52f15.mp3"
+    },
+    {
+     "en": "Tom laughs when Max jumps.",
+     "zh": "Max 跳起来时 Tom 笑了。",
+     "audio": "media/sent/83d1ceb113de.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/laugh.webp",
+    "uk": "media/uk/laugh.mp3",
+    "us": "media/us/laugh.mp3"
+   },
+   "avoid": [
+    "fun"
+   ]
+  },
+  {
+   "id": "look-at",
+   "word": "look at",
+   "zh": "看",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "看"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "look",
+    "at"
+   ],
+   "emoji": "👀",
+   "sentence": {
+    "en": "Look at the butterfly!",
+    "zh": "看那只蝴蝶！"
+   },
+   "sentences": [
+    {
+     "en": "Look at the butterfly!",
+     "zh": "看那只蝴蝶！",
+     "audio": "media/sent/38448f1a20cf.mp3"
+    },
+    {
+     "en": "Please look at me, Tom.",
+     "zh": "请看着我，Tom。",
+     "audio": "media/sent/66a1a1c876c0.mp3"
+    },
+    {
+     "en": "Lily looks at the stars in the sky.",
+     "zh": "Lily 看天上的星星。",
+     "audio": "media/sent/a49cd1fec086.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/look-at.webp"
+   },
+   "avoid": [
+    "watch",
+    "watch.2"
+   ]
+  },
+  {
+   "id": "news",
+   "word": "news",
+   "zh": "新闻；消息",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "新闻；消息"
+    }
+   ],
+   "ipa": "/njuːz/",
+   "chunks": [
+    "news"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "Dad watches the evening news.",
+    "zh": "爸爸看晚间新闻。"
+   },
+   "sentences": [
+    {
+     "en": "Dad watches the evening news.",
+     "zh": "爸爸看晚间新闻。",
+     "audio": "media/sent/6ea4c3a730d6.mp3"
+    },
+    {
+     "en": "I read the sports news every day.",
+     "zh": "我每天看体育新闻。",
+     "audio": "media/sent/a1705270f1be.mp3"
+    },
+    {
+     "en": "What is the good news?",
+     "zh": "好消息是什么？",
+     "audio": "media/sent/5f9e66917fa5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/news.webp",
+    "uk": "media/uk/news.mp3",
+    "us": "media/us/news.mp3"
+   },
+   "avoid": [
+    "article",
+    "magazine",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "piano",
+   "word": "piano",
+   "zh": "钢琴",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "钢琴"
+    }
+   ],
+   "ipa": "/piˈænəʊ/",
+   "chunks": [
+    "pi",
+    "an",
+    "o"
+   ],
+   "emoji": "🎹",
+   "sentence": {
+    "en": "Lily plays the piano.",
+    "zh": "Lily 弹钢琴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily plays the piano.",
+     "zh": "Lily 弹钢琴。",
+     "audio": "media/sent/72cfe22c1fee.mp3"
+    },
+    {
+     "en": "The piano is in the living room.",
+     "zh": "钢琴在客厅里。",
+     "audio": "media/sent/1cc2ef8a16b3.mp3"
+    },
+    {
+     "en": "Can you play the piano?",
+     "zh": "你会弹钢琴吗？",
+     "audio": "media/sent/9c99957ebc5b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/piano.webp",
+    "uk": "media/uk/piano.mp3",
+    "us": "media/us/piano.mp3"
+   },
+   "avoid": [
+    "drum",
+    "guitar",
+    "instrument",
+    "keyboard.2"
+   ]
+  },
+  {
+   "id": "picture",
+   "word": "picture",
+   "zh": "图画；照片",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "图画；照片"
+    }
+   ],
+   "ipa": "/ˈpɪktʃə/",
+   "chunks": [
+    "pic",
+    "ture"
+   ],
+   "emoji": "🖼️",
+   "sentence": {
+    "en": "This picture is beautiful.",
+    "zh": "这张画真漂亮。"
+   },
+   "sentences": [
+    {
+     "en": "This picture is beautiful.",
+     "zh": "这张画真漂亮。",
+     "audio": "media/sent/8202494be864.mp3"
+    },
+    {
+     "en": "Lily draws a nice picture.",
+     "zh": "Lily 画了一张漂亮的图画。",
+     "audio": "media/sent/ae096070159f.mp3"
+    },
+    {
+     "en": "I have a photo. It is my favourite picture.",
+     "zh": "我有一张照片，它是我最喜欢的图片。",
+     "audio": "media/sent/83e7c1e18b9c.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/picture.webp",
+    "uk": "media/uk/picture.mp3",
+    "us": "media/us/picture.mp3"
+   },
+   "avoid": [
+    "art",
+    "drawing",
+    "paint",
+    "photo",
+    "photographer",
+    "photography"
+   ]
+  },
+  {
+   "id": "play",
+   "word": "play",
+   "zh": "玩；演奏",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "玩；演奏"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "戏剧",
+     "en": "We see a play at the theatre."
+    }
+   ],
+   "ipa": "/pleɪ/",
+   "chunks": [
+    "play"
+   ],
+   "emoji": "🎮",
+   "sentence": {
+    "en": "Let's play in the garden.",
+    "zh": "我们在花园里玩吧。"
+   },
+   "sentences": [
+    {
+     "en": "Let's play in the garden.",
+     "zh": "我们在花园里玩吧。",
+     "audio": "media/sent/2484ca82f943.mp3"
+    },
+    {
+     "en": "Can you play the piano?",
+     "zh": "你会弹钢琴吗？",
+     "audio": "media/sent/9c99957ebc5b.mp3"
+    },
+    {
+     "en": "Tom plays football every day.",
+     "zh": "Tom 每天踢足球。",
+     "audio": "media/sent/d451b0229a06.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/play.webp",
+    "uk": "media/uk/play.mp3",
+    "us": "media/us/play.mp3"
+   },
+   "avoid": [
+    "play.2"
+   ]
+  },
+  {
+   "id": "play.2",
+   "word": "play",
+   "zh": "戏剧",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "戏剧"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "玩；演奏"
+    }
+   ],
+   "ipa": "/pleɪ/",
+   "chunks": [
+    "play"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "The play is very good.",
+    "zh": "这出戏很好看。"
+   },
+   "sentences": [
+    {
+     "en": "The play is very good.",
+     "zh": "这出戏很好看。",
+     "audio": "media/sent/027bf9651315.mp3"
+    },
+    {
+     "en": "We see a play at the theatre.",
+     "zh": "我们在剧院看一场戏。",
+     "audio": "media/sent/b7ed51f582b6.mp3"
+    },
+    {
+     "en": "Lily acts in the school play.",
+     "zh": "Lily 在学校的话剧中表演。",
+     "audio": "media/sent/cc77e31eb175.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/play.2.webp",
+    "uk": "media/uk/play.mp3",
+    "us": "media/us/play.mp3"
+   },
+   "of": "play",
+   "ofZh": "玩；演奏",
+   "avoid": [
+    "play"
+   ]
+  },
+  {
+   "id": "pop",
+   "word": "pop",
+   "zh": "流行音乐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "流行音乐"
+    }
+   ],
+   "ipa": "/pɒp/",
+   "chunks": [
+    "pop"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "Lily likes pop music.",
+    "zh": "Lily 喜欢流行音乐。"
+   },
+   "sentences": [
+    {
+     "en": "Lily likes pop music.",
+     "zh": "Lily 喜欢流行音乐。",
+     "audio": "media/sent/15a37f5c9f6a.mp3"
+    },
+    {
+     "en": "This is a popular pop song.",
+     "zh": "这是一首流行的流行歌曲。",
+     "audio": "media/sent/c26b0342bccf.mp3"
+    },
+    {
+     "en": "Mia listens to pop on her phone.",
+     "zh": "Mia 在手机上看听流行音乐。",
+     "audio": "media/sent/0749747369cc.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/pop.webp",
+    "uk": "media/uk/pop.mp3",
+    "us": "media/us/pop.mp3"
+   },
+   "avoid": [
+    "classical",
+    "hip-hop",
+    "opera",
+    "rock"
+   ]
+  },
+  {
+   "id": "programme",
+   "word": "programme",
+   "zh": "节目",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "节目"
+    }
+   ],
+   "ipa": "/ˈprəʊɡræm/",
+   "chunks": [
+    "pro",
+    "gram",
+    "me"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "We watch a nature programme.",
+    "zh": "我们看一个自然类节目。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a nature programme.",
+     "zh": "我们看一个自然类节目。",
+     "audio": "media/sent/df11b12676db.mp3"
+    },
+    {
+     "en": "What is your favourite programme?",
+     "zh": "你最喜欢的节目是什么？",
+     "audio": "media/sent/1970ba9f59d6.mp3"
+    },
+    {
+     "en": "This science programme is interesting.",
+     "zh": "这个科学节目很有趣。",
+     "audio": "media/sent/7c423b164c90.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/programme.webp",
+    "uk": "media/uk/programme.mp3",
+    "us": "media/us/programme.mp3"
+   },
+   "avoid": [
+    "cartoon",
+    "film",
+    "video"
+   ]
+  },
+  {
+   "id": "rock",
+   "word": "rock",
+   "zh": "摇滚乐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "摇滚乐"
+    }
+   ],
+   "ipa": "/rɒk/",
+   "chunks": [
+    "rock"
+   ],
+   "emoji": "🎸",
+   "sentence": {
+    "en": "Dad listens to rock music.",
+    "zh": "爸爸听摇滚乐。"
+   },
+   "sentences": [
+    {
+     "en": "Dad listens to rock music.",
+     "zh": "爸爸听摇滚乐。",
+     "audio": "media/sent/409bb381b3c7.mp3"
+    },
+    {
+     "en": "Rock is loud and fast.",
+     "zh": "摇滚乐声音大且节奏快。",
+     "audio": "media/sent/ced63e5cc3fe.mp3"
+    },
+    {
+     "en": "Sam likes to play rock guitar.",
+     "zh": "Sam 喜欢弹摇滚吉他。",
+     "audio": "media/sent/3f6ce1f54a3a.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/rock.webp",
+    "uk": "media/uk/rock.mp3",
+    "us": "media/us/rock.mp3"
+   },
+   "avoid": [
+    "classical",
+    "hip-hop",
+    "opera",
+    "pop"
+   ]
+  },
+  {
+   "id": "show",
+   "word": "show",
+   "zh": "演出；给…看",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "演出；节目",
+     "en": "We watch a funny show."
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "给…看",
+     "en": "Show me your new shoes."
+    }
+   ],
+   "ipa": "/ʃəʊ/",
+   "chunks": [
+    "show"
+   ],
+   "emoji": "🎩",
+   "sentence": {
+    "en": "We watch a funny show.",
+    "zh": "我们看一场有趣的演出。"
+   },
+   "sentences": [
+    {
+     "en": "We watch a funny show.",
+     "zh": "我们看一场有趣的演出。",
+     "audio": "media/sent/1b5688b6dda4.mp3"
+    },
+    {
+     "en": "Show me your new shoes.",
+     "zh": "给我看看你的新鞋子。",
+     "audio": "media/sent/b29e13b81213.mp3"
+    },
+    {
+     "en": "Tom shows Grandma his drawing.",
+     "zh": "Tom 给奶奶看他的画。",
+     "audio": "media/sent/c579e7079771.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/show.webp",
+    "uk": "media/uk/show.mp3",
+    "us": "media/us/show.mp3"
+   },
+   "avoid": [
+    "concert",
+    "disco",
+    "festival"
+   ]
+  },
+  {
+   "id": "sing",
+   "word": "sing",
+   "zh": "唱歌",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "唱歌"
+    }
+   ],
+   "ipa": "/sɪŋ/",
+   "chunks": [
+    "sing"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "Lily can sing well.",
+    "zh": "Lily 唱得好。"
+   },
+   "sentences": [
+    {
+     "en": "Lily can sing well.",
+     "zh": "Lily 唱得好。",
+     "audio": "media/sent/82320a5f599d.mp3"
+    },
+    {
+     "en": "Mum sings in the kitchen.",
+     "zh": "妈妈在厨房里唱歌。",
+     "audio": "media/sent/44314bea6d48.mp3"
+    },
+    {
+     "en": "Let's sing a happy song.",
+     "zh": "我们唱一首快乐的歌吧。",
+     "audio": "media/sent/869f6f0df655.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/sing.webp",
+    "uk": "media/uk/sing.mp3",
+    "us": "media/us/sing.mp3"
+   },
+   "avoid": [
+    "music",
+    "musician",
+    "song"
+   ]
+  },
+  {
+   "id": "song",
+   "word": "song",
+   "zh": "歌曲",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "歌曲"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "song"
+   ],
+   "emoji": "🎵",
+   "sentence": {
+    "en": "This is a happy song.",
+    "zh": "这是一首快乐的歌。"
+   },
+   "sentences": [
+    {
+     "en": "This is a happy song.",
+     "zh": "这是一首快乐的歌。",
+     "audio": "media/sent/cf7278929ae4.mp3"
+    },
+    {
+     "en": "I know all the words of this song.",
+     "zh": "我知道这首歌所有的歌词。",
+     "audio": "media/sent/f5b9c20e3f2a.mp3"
+    },
+    {
+     "en": "Lily writes a new song.",
+     "zh": "Lily 写了一首新歌。",
+     "audio": "media/sent/0a53b09e5448.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/song.webp"
+   },
+   "avoid": [
+    "music",
+    "musician",
+    "sing"
+   ]
+  },
+  {
+   "id": "photography",
+   "word": "photography",
+   "zh": "摄影",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "摄影"
+    }
+   ],
+   "ipa": "/fəˈtɒɡrəfi/",
+   "chunks": [
+    "pho",
+    "tog",
+    "ra",
+    "phy"
+   ],
+   "emoji": "📷",
+   "sentence": {
+    "en": "Sam loves photography.",
+    "zh": "Sam 热爱摄影。"
+   },
+   "sentences": [
+    {
+     "en": "Sam loves photography.",
+     "zh": "Sam 热爱摄影。",
+     "audio": "media/sent/80c4aac6bfa3.mp3"
+    },
+    {
+     "en": "Photography is a fun hobby.",
+     "zh": "摄影是一个有趣的爱好。",
+     "audio": "media/sent/409cfa7e2db3.mp3"
+    },
+    {
+     "en": "Dad takes photos. He likes photography.",
+     "zh": "爸爸拍照。他喜欢摄影。",
+     "audio": "media/sent/ed22adea9010.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/photography.webp",
+    "uk": "media/uk/photography.mp3",
+    "us": "media/us/photography.mp3"
+   },
+   "avoid": [
+    "photo",
+    "photographer",
+    "picture"
+   ]
+  },
+  {
+   "id": "radio",
+   "word": "radio",
+   "zh": "收音机；广播",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "收音机；广播"
+    }
+   ],
+   "ipa": "/ˈreɪdiəʊ/",
+   "chunks": [
+    "ra",
+    "di",
+    "o"
+   ],
+   "emoji": "📻",
+   "sentence": {
+    "en": "Grandpa listens to the radio.",
+    "zh": "爷爷听收音机。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa listens to the radio.",
+     "zh": "爷爷听收音机。",
+     "audio": "media/sent/a454ae0c7d71.mp3"
+    },
+    {
+     "en": "The news is on the radio now.",
+     "zh": "新闻正在广播中。",
+     "audio": "media/sent/19da79a2652c.mp3"
+    },
+    {
+     "en": "Turn on the radio, please.",
+     "zh": "请打开收音机。",
+     "audio": "media/sent/6641a2a6db2b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/radio.webp",
+    "uk": "media/uk/radio.mp3",
+    "us": "media/us/radio.mp3"
+   },
+   "avoid": [
+    "screen",
+    "television"
+   ]
+  },
+  {
+   "id": "screen",
+   "word": "screen",
+   "zh": "屏幕",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "屏幕"
+    }
+   ],
+   "ipa": "/skriːn/",
+   "chunks": [
+    "screen"
+   ],
+   "emoji": "🖥️",
+   "sentence": {
+    "en": "Look at the big screen.",
+    "zh": "看这个大屏幕。"
+   },
+   "sentences": [
+    {
+     "en": "Look at the big screen.",
+     "zh": "看这个大屏幕。",
+     "audio": "media/sent/fe7cca34d25e.mp3"
+    },
+    {
+     "en": "The television screen is very clean.",
+     "zh": "电视屏幕很干净。",
+     "audio": "media/sent/1c01de1dab5a.mp3"
+    },
+    {
+     "en": "Lily draws on the tablet screen.",
+     "zh": "Lily 在平板屏幕上画画。",
+     "audio": "media/sent/5699b12d4758.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/screen.webp",
+    "uk": "media/uk/screen.mp3",
+    "us": "media/us/screen.mp3"
+   },
+   "avoid": [
+    "radio",
+    "television"
+   ]
+  },
+  {
+   "id": "advertisement",
+   "word": "advertisement",
+   "zh": "广告",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "广告"
+    }
+   ],
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "chunks": [
+    "ad",
+    "ver",
+    "tise",
+    "ment"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "Tom watches an advertisement.",
+    "zh": "Tom 看一个广告。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches an advertisement.",
+     "zh": "Tom 看一个广告。",
+     "audio": "media/sent/ff9464c06183.mp3"
+    },
+    {
+     "en": "This advertisement is very funny.",
+     "zh": "这个广告很有趣。",
+     "audio": "media/sent/f910a9efb778.mp3"
+    },
+    {
+     "en": "I see many advertisements in the paper.",
+     "zh": "我在报纸上看到很多广告。",
+     "audio": "media/sent/64b3f250a465.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/advertisement.webp",
+    "uk": "media/uk/advertisement.mp3",
+    "us": "media/us/advertisement.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "article",
+   "word": "article",
+   "zh": "文章",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "文章"
+    }
+   ],
+   "ipa": "/ˈɑːtɪkəl/",
+   "chunks": [
+    "ar",
+    "ti",
+    "cle"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "Dad reads an article in the paper.",
+    "zh": "爸爸在报纸上读一篇文章。"
+   },
+   "sentences": [
+    {
+     "en": "Dad reads an article in the paper.",
+     "zh": "爸爸在报纸上读一篇文章。",
+     "audio": "media/sent/d8da3af32042.mp3"
+    },
+    {
+     "en": "Lily writes an article about cats.",
+     "zh": "Lily 写一篇关于猫的文章。",
+     "audio": "media/sent/123ac098ea80.mp3"
+    },
+    {
+     "en": "This article is interesting.",
+     "zh": "这篇文章很有趣。",
+     "audio": "media/sent/8a8fbf292fe0.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/article.webp",
+    "uk": "media/uk/article.mp3",
+    "us": "media/us/article.mp3"
+   },
+   "avoid": [
+    "magazine",
+    "news",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "book",
+   "word": "book",
+   "zh": "书；预订",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "书；预订"
+    }
+   ],
+   "ipa": "/bʊk/",
+   "chunks": [
+    "book"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Lily reads a book about a funny dog.",
+    "zh": "Lily 在读一本关于一只搞笑小狗的书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads a book about a funny dog.",
+     "zh": "Lily 在读一本关于一只搞笑小狗的书。",
+     "audio": "media/sent/3b097f07539a.mp3"
+    },
+    {
+     "en": "The film is better than the book.",
+     "zh": "这部电影比原著还好看。",
+     "audio": "media/sent/5988d56987f7.mp3"
+    },
+    {
+     "en": "Grandma reads Tom a book before bed.",
+     "zh": "奶奶睡前给 Tom 读书。",
+     "audio": "media/sent/4ce0f482a655.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/book.webp",
+    "uk": "media/uk/book.mp3",
+    "us": "media/us/book.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "card",
+   "word": "card",
+   "zh": "卡片；贺卡",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "卡片；贺卡"
+    }
+   ],
+   "ipa": "/kɑːd/",
+   "chunks": [
+    "card"
+   ],
+   "emoji": "💌",
+   "sentence": {
+    "en": "Lily sends a birthday card to Sam.",
+    "zh": "Lily 给 Sam 寄一张生日贺卡。"
+   },
+   "sentences": [
+    {
+     "en": "Lily sends a birthday card to Sam.",
+     "zh": "Lily 给 Sam 寄一张生日贺卡。",
+     "audio": "media/sent/1d9938095eb5.mp3"
+    },
+    {
+     "en": "Grandma puts a card in the box.",
+     "zh": "奶奶把卡片放进盒子里。",
+     "audio": "media/sent/7d6af447be7f.mp3"
+    },
+    {
+     "en": "This is a nice card!",
+     "zh": "这是一张漂亮的卡片！",
+     "audio": "media/sent/1d47f0f5b3bb.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/card.webp",
+    "uk": "media/uk/card.mp3",
+    "us": "media/us/card.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "cd",
+   "word": "CD",
+   "zh": "光盘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "光盘"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "C",
+    "D"
+   ],
+   "emoji": "💿",
+   "sentence": {
+    "en": "Tom puts the CD in the player.",
+    "zh": "Tom 把光盘放进播放机。"
+   },
+   "sentences": [
+    {
+     "en": "Tom puts the CD in the player.",
+     "zh": "Tom 把光盘放进播放机。",
+     "audio": "media/sent/2c7ec4cde1fa.mp3"
+    },
+    {
+     "en": "Mum listens to a music CD.",
+     "zh": "妈妈听一张音乐光盘。",
+     "audio": "media/sent/ffb2c512a368.mp3"
+    },
+    {
+     "en": "This CD has ten songs.",
+     "zh": "这张光盘有十首歌。",
+     "audio": "media/sent/46d2abfb6ff5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cd.webp"
+   },
+   "avoid": [
+    "cd-player",
+    "dvd",
+    "dvd-player"
+   ]
+  },
+  {
+   "id": "cd-player",
+   "word": "CD player",
+   "zh": "CD 播放机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "CD 播放机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "C",
+    "D",
+    "play",
+    "er"
+   ],
+   "emoji": "🔊",
+   "sentence": {
+    "en": "The CD player plays loud music.",
+    "zh": "CD 播放机放出大声的音乐。"
+   },
+   "sentences": [
+    {
+     "en": "The CD player plays loud music.",
+     "zh": "CD 播放机放出大声的音乐。",
+     "audio": "media/sent/c4ab9e7da51b.mp3"
+    },
+    {
+     "en": "Dad fixes the old CD player.",
+     "zh": "爸爸修好了旧 CD 播放机。",
+     "audio": "media/sent/3e64a84c5ff8.mp3"
+    },
+    {
+     "en": "The CD player is on the shelf.",
+     "zh": "CD 播放机在架子上。",
+     "audio": "media/sent/0f40e1218df9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cd-player.webp"
+   },
+   "avoid": [
+    "cd",
+    "dvd",
+    "dvd-player"
+   ]
+  },
+  {
+   "id": "cinema",
+   "word": "cinema",
+   "zh": "电影院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电影院"
+    }
+   ],
+   "ipa": "/ˈsɪnəmə/",
+   "chunks": [
+    "ci",
+    "ne",
+    "ma"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "We go to the cinema on Saturday.",
+    "zh": "我们星期六去电影院。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the cinema on Saturday.",
+     "zh": "我们星期六去电影院。",
+     "audio": "media/sent/0a0780ead29a.mp3"
+    },
+    {
+     "en": "The new cinema is very big.",
+     "zh": "新电影院很大。",
+     "audio": "media/sent/cf7a1bf82581.mp3"
+    },
+    {
+     "en": "Mia waits outside the cinema.",
+     "zh": "Mia 在电影院外面等。",
+     "audio": "media/sent/e2a389d9e30f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/cinema.webp",
+    "uk": "media/uk/cinema.mp3",
+    "us": "media/us/cinema.mp3"
+   },
+   "avoid": [
+    "exhibition",
+    "museum",
+    "theatre"
+   ]
+  },
+  {
+   "id": "competition",
+   "word": "competition",
+   "zh": "比赛；竞赛",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "比赛；竞赛"
+    }
+   ],
+   "ipa": "/ˌkɒmpəˈtɪʃən/",
+   "chunks": [
+    "com",
+    "pe",
+    "ti",
+    "tion"
+   ],
+   "emoji": "🏆",
+   "sentence": {
+    "en": "Max runs in the dog competition.",
+    "zh": "Max 参加狗狗比赛。"
+   },
+   "sentences": [
+    {
+     "en": "Max runs in the dog competition.",
+     "zh": "Max 参加狗狗比赛。",
+     "audio": "media/sent/149cfbf10db6.mp3"
+    },
+    {
+     "en": "Lily joins a singing competition.",
+     "zh": "Lily 参加歌唱比赛。",
+     "audio": "media/sent/975c6d5778d4.mp3"
+    },
+    {
+     "en": "The competition starts at nine o'clock.",
+     "zh": "比赛九点开始。",
+     "audio": "media/sent/1eb810994463.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/competition.webp",
+    "uk": "media/uk/competition.mp3",
+    "us": "media/us/competition.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "dance",
+   "word": "dance",
+   "zh": "跳舞；舞蹈",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n",
+      "v"
+     ],
+     "zh": "跳舞；舞蹈"
+    }
+   ],
+   "ipa": "/dɑːns/",
+   "chunks": [
+    "dance"
+   ],
+   "emoji": "💃",
+   "sentence": {
+    "en": "Lily and Mia dance in the room.",
+    "zh": "Lily 和 Mia 在房间里跳舞。"
+   },
+   "sentences": [
+    {
+     "en": "Lily and Mia dance in the room.",
+     "zh": "Lily 和 Mia 在房间里跳舞。",
+     "audio": "media/sent/da4437dad94a.mp3"
+    },
+    {
+     "en": "Tom likes to dance at parties.",
+     "zh": "Tom 喜欢在聚会上跳舞。",
+     "audio": "media/sent/3bef8f2e75af.mp3"
+    },
+    {
+     "en": "The dance music is fast.",
+     "zh": "舞曲很快。",
+     "audio": "media/sent/799100c02ee6.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dance.webp",
+    "uk": "media/uk/dance.mp3",
+    "us": "media/us/dance.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "disco",
+   "word": "disco",
+   "zh": "迪斯科舞会",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "迪斯科舞会"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "dis",
+    "co"
+   ],
+   "emoji": "🪩",
+   "sentence": {
+    "en": "We have a school disco on Friday.",
+    "zh": "我们星期五有学校迪斯科舞会。"
+   },
+   "sentences": [
+    {
+     "en": "We have a school disco on Friday.",
+     "zh": "我们星期五有学校迪斯科舞会。",
+     "audio": "media/sent/7d3105a69b4e.mp3"
+    },
+    {
+     "en": "The disco has loud music.",
+     "zh": "迪斯科舞会有大声的音乐。",
+     "audio": "media/sent/044d67c4f1b4.mp3"
+    },
+    {
+     "en": "Lily dances at the disco.",
+     "zh": "Lily 在迪斯科舞会上跳舞。",
+     "audio": "media/sent/6babf95cd6ce.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/disco.webp"
+   },
+   "avoid": [
+    "concert",
+    "festival",
+    "show"
+   ]
+  },
+  {
+   "id": "draw",
+   "word": "draw",
+   "zh": "画",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "画"
+    }
+   ],
+   "ipa": "/drɔː/",
+   "chunks": [
+    "draw"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "Lily draws a horse in her book.",
+    "zh": "Lily 在她的本子里画一匹马。"
+   },
+   "sentences": [
+    {
+     "en": "Lily draws a horse in her book.",
+     "zh": "Lily 在她的本子里画一匹马。",
+     "audio": "media/sent/50d29ee2b8f1.mp3"
+    },
+    {
+     "en": "Can you draw a cat?",
+     "zh": "你会画猫吗？",
+     "audio": "media/sent/ca7ec3e18763.mp3"
+    },
+    {
+     "en": "Tom draws a sun in the sky.",
+     "zh": "Tom 在天上画一个太阳。",
+     "audio": "media/sent/286153a03a7e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/draw.webp",
+    "uk": "media/uk/draw.mp3",
+    "us": "media/us/draw.mp3"
+   },
+   "avoid": [
+    "paint",
+    "painter"
+   ]
+  },
+  {
+   "id": "dvd",
+   "word": "DVD",
+   "zh": "DVD 光盘",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 光盘"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D"
+   ],
+   "emoji": "📀",
+   "sentence": {
+    "en": "Mum buys a new DVD.",
+    "zh": "妈妈买了一张新 DVD。"
+   },
+   "sentences": [
+    {
+     "en": "Mum buys a new DVD.",
+     "zh": "妈妈买了一张新 DVD。",
+     "audio": "media/sent/588ce998cc66.mp3"
+    },
+    {
+     "en": "The DVD is in the box.",
+     "zh": "DVD 在盒子里。",
+     "audio": "media/sent/3702528e43ef.mp3"
+    },
+    {
+     "en": "We watch this DVD together.",
+     "zh": "我们一起看这张 DVD。",
+     "audio": "media/sent/1c9591476385.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd.webp"
+   },
+   "avoid": [
+    "cd",
+    "cd-player",
+    "dvd-player"
+   ]
+  },
+  {
+   "id": "dvd-player",
+   "word": "DVD player",
+   "zh": "DVD 播放机",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "DVD 播放机"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "D",
+    "V",
+    "D",
+    "play",
+    "er"
+   ],
+   "emoji": "📼",
+   "sentence": {
+    "en": "Dad turns on the DVD player.",
+    "zh": "爸爸打开 DVD 播放机。"
+   },
+   "sentences": [
+    {
+     "en": "Dad turns on the DVD player.",
+     "zh": "爸爸打开 DVD 播放机。",
+     "audio": "media/sent/5f81879fc574.mp3"
+    },
+    {
+     "en": "The DVD player has a red light.",
+     "zh": "DVD 播放机有一个红灯。",
+     "audio": "media/sent/f1748798557d.mp3"
+    },
+    {
+     "en": "Put the film in the DVD player.",
+     "zh": "把电影放进 DVD 播放机。",
+     "audio": "media/sent/95da3359bf18.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/dvd-player.webp"
+   },
+   "avoid": [
+    "cd",
+    "cd-player",
+    "dvd"
+   ]
+  },
+  {
+   "id": "festival",
+   "word": "festival",
+   "zh": "节日；（音乐、艺术）节",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "节日；（音乐、艺术）节"
+    }
+   ],
+   "ipa": "/ˈfestɪvəl/",
+   "chunks": [
+    "fes",
+    "ti",
+    "val"
+   ],
+   "emoji": "🎪",
+   "sentence": {
+    "en": "We go to the summer festival.",
+    "zh": "我们去夏日音乐节。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the summer festival.",
+     "zh": "我们去夏日音乐节。",
+     "audio": "media/sent/54d1ea649705.mp3"
+    },
+    {
+     "en": "The music festival is fun.",
+     "zh": "音乐节很有趣。",
+     "audio": "media/sent/17d00caaac76.mp3"
+    },
+    {
+     "en": "Grandma sells food at the festival.",
+     "zh": "奶奶在节日上卖食物。",
+     "audio": "media/sent/78c07e47a492.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/festival.webp",
+    "uk": "media/uk/festival.mp3",
+    "us": "media/us/festival.mp3"
+   },
+   "avoid": [
+    "concert",
+    "disco",
+    "show"
+   ]
+  },
+  {
+   "id": "go-out",
+   "word": "go out",
+   "zh": "出去玩；外出（娱乐）",
+   "pos": [
+    "phr v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "phr v"
+     ],
+     "zh": "出去玩；外出（娱乐）"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "go",
+    "out"
+   ],
+   "emoji": "🚶",
+   "sentence": {
+    "en": "Mum and Dad go out in the evening.",
+    "zh": "妈妈和爸爸晚上出去玩。"
+   },
+   "sentences": [
+    {
+     "en": "Mum and Dad go out in the evening.",
+     "zh": "妈妈和爸爸晚上出去玩。",
+     "audio": "media/sent/454578719e11.mp3"
+    },
+    {
+     "en": "We go out for dinner tonight.",
+     "zh": "我们今晚出去吃晚饭。",
+     "audio": "media/sent/a20b23b94f9c.mp3"
+    },
+    {
+     "en": "Do you want to go out with friends?",
+     "zh": "你想和朋友出去玩吗？",
+     "audio": "media/sent/7ad9a0c56b74.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/go-out.webp"
+   },
+   "avoid": []
+  },
+  {
+   "id": "group",
+   "word": "group",
+   "zh": "组；团体",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "组；团体"
+    }
+   ],
+   "ipa": "/ɡruːp/",
+   "chunks": [
+    "group"
+   ],
+   "emoji": "👥",
+   "sentence": {
+    "en": "Lily joins a singing group.",
+    "zh": "Lily 加入一个歌唱团体。"
+   },
+   "sentences": [
+    {
+     "en": "Lily joins a singing group.",
+     "zh": "Lily 加入一个歌唱团体。",
+     "audio": "media/sent/a8e87c63f8f6.mp3"
+    },
+    {
+     "en": "A group of boys play football.",
+     "zh": "一群男孩踢足球。",
+     "audio": "media/sent/b628a463ed11.mp3"
+    },
+    {
+     "en": "Tom is in the same group as Mia.",
+     "zh": "Tom 和 Mia 在同一组。",
+     "audio": "media/sent/086d76bede74.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/group.webp",
+    "uk": "media/uk/group.mp3",
+    "us": "media/us/group.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "guitar",
+   "word": "guitar",
+   "zh": "吉他",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "吉他"
+    }
+   ],
+   "ipa": "/ɡɪˈtɑː/",
+   "chunks": [
+    "gui",
+    "tar"
+   ],
+   "emoji": "🎸",
+   "sentence": {
+    "en": "Sam plays the guitar well.",
+    "zh": "Sam 弹吉他弹得很好。"
+   },
+   "sentences": [
+    {
+     "en": "Sam plays the guitar well.",
+     "zh": "Sam 弹吉他弹得很好。",
+     "audio": "media/sent/f8a4a070b208.mp3"
+    },
+    {
+     "en": "Lily wants to learn the guitar.",
+     "zh": "Lily 想学吉他。",
+     "audio": "media/sent/10cd21738226.mp3"
+    },
+    {
+     "en": "Sam's guitar is in its box.",
+     "zh": "Sam 的吉他放在盒子里。",
+     "audio": "media/sent/2e404a14532b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/guitar.webp",
+    "uk": "media/uk/guitar.mp3",
+    "us": "media/us/guitar.mp3"
+   },
+   "avoid": [
+    "drum",
+    "instrument",
+    "keyboard.2",
+    "piano"
+   ]
+  },
+  {
+   "id": "magazine",
+   "word": "magazine",
+   "zh": "杂志",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "杂志"
+    }
+   ],
+   "ipa": "/ˌmæɡəˈziːn/",
+   "chunks": [
+    "mag",
+    "a",
+    "zine"
+   ],
+   "emoji": "📖",
+   "sentence": {
+    "en": "Dad reads a magazine.",
+    "zh": "爸爸在看一本杂志。"
+   },
+   "sentences": [
+    {
+     "en": "Dad reads a magazine.",
+     "zh": "爸爸在看一本杂志。",
+     "audio": "media/sent/290bbc08542d.mp3"
+    },
+    {
+     "en": "This magazine is about cars.",
+     "zh": "这本杂志是关于汽车的。",
+     "audio": "media/sent/66f750f45edc.mp3"
+    },
+    {
+     "en": "Lily puts the magazine on the table.",
+     "zh": "Lily 把杂志放在桌子上。",
+     "audio": "media/sent/ef6a7e38e2ed.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/magazine.webp",
+    "uk": "media/uk/magazine.mp3",
+    "us": "media/us/magazine.mp3"
+   },
+   "avoid": [
+    "article",
+    "news",
+    "newspaper"
+   ]
+  },
+  {
+   "id": "museum",
+   "word": "museum",
+   "zh": "博物馆",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "博物馆"
+    }
+   ],
+   "ipa": "/mjuˈziːəm/",
+   "chunks": [
+    "mu",
+    "se",
+    "um"
+   ],
+   "emoji": "🏛️",
+   "sentence": {
+    "en": "We go to the museum.",
+    "zh": "我们去博物馆。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the museum.",
+     "zh": "我们去博物馆。",
+     "audio": "media/sent/9af24ccc18b2.mp3"
+    },
+    {
+     "en": "The museum is very big.",
+     "zh": "这个博物馆很大。",
+     "audio": "media/sent/a1da5c4bf3ff.mp3"
+    },
+    {
+     "en": "Sam likes the museum best.",
+     "zh": "Sam 最喜欢博物馆。",
+     "audio": "media/sent/d37ddbc2f4b5.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/museum.webp",
+    "uk": "media/uk/museum.mp3",
+    "us": "media/us/museum.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "exhibition",
+    "theatre"
+   ]
+  },
+  {
+   "id": "music",
+   "word": "music",
+   "zh": "音乐",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "音乐"
+    }
+   ],
+   "ipa": "/ˈmjuːzɪk/",
+   "chunks": [
+    "mu",
+    "sic"
+   ],
+   "emoji": "🎵",
+   "sentence": {
+    "en": "Lily listens to music.",
+    "zh": "Lily 在听音乐。"
+   },
+   "sentences": [
+    {
+     "en": "Lily listens to music.",
+     "zh": "Lily 在听音乐。",
+     "audio": "media/sent/91eda87147a8.mp3"
+    },
+    {
+     "en": "The music is very loud.",
+     "zh": "音乐很大声。",
+     "audio": "media/sent/ef8515b4b70d.mp3"
+    },
+    {
+     "en": "I like pop music.",
+     "zh": "我喜欢流行音乐。",
+     "audio": "media/sent/c3641a12ae8e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/music.webp",
+    "uk": "media/uk/music.mp3",
+    "us": "media/us/music.mp3"
+   },
+   "avoid": [
+    "musician",
+    "sing",
+    "song"
+   ]
+  },
+  {
+   "id": "musician",
+   "word": "musician",
+   "zh": "音乐家；乐手",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "音乐家；乐手"
+    }
+   ],
+   "ipa": "/mjuˈzɪʃən/",
+   "chunks": [
+    "mu",
+    "si",
+    "cian"
+   ],
+   "emoji": "🎻",
+   "sentence": {
+    "en": "Sam's aunt is a musician.",
+    "zh": "Sam 的阿姨是一名音乐家。"
+   },
+   "sentences": [
+    {
+     "en": "Sam's aunt is a musician.",
+     "zh": "Sam 的阿姨是一名音乐家。",
+     "audio": "media/sent/c540da8d16fc.mp3"
+    },
+    {
+     "en": "The musician plays the guitar.",
+     "zh": "那位乐手弹吉他。",
+     "audio": "media/sent/13164a03e69d.mp3"
+    },
+    {
+     "en": "Sam wants to be a musician.",
+     "zh": "Sam 想成为一名音乐家。",
+     "audio": "media/sent/398c08c40504.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/musician.webp",
+    "uk": "media/uk/musician.mp3",
+    "us": "media/us/musician.mp3"
+   },
+   "avoid": [
+    "music",
+    "sing",
+    "song"
+   ]
+  },
+  {
+   "id": "newspaper",
+   "word": "newspaper",
+   "zh": "报纸",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "报纸"
+    }
+   ],
+   "ipa": "/ˈnjuːzpeɪpə/",
+   "chunks": [
+    "news",
+    "pa",
+    "per"
+   ],
+   "emoji": "📰",
+   "sentence": {
+    "en": "Grandpa reads the newspaper.",
+    "zh": "爷爷在读报纸。"
+   },
+   "sentences": [
+    {
+     "en": "Grandpa reads the newspaper.",
+     "zh": "爷爷在读报纸。",
+     "audio": "media/sent/746e0274eab9.mp3"
+    },
+    {
+     "en": "Dad buys a newspaper.",
+     "zh": "爸爸买一份报纸。",
+     "audio": "media/sent/a685b5c8796a.mp3"
+    },
+    {
+     "en": "The newspaper is on the table.",
+     "zh": "报纸在桌子上。",
+     "audio": "media/sent/b77cddde3e33.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/newspaper.webp",
+    "uk": "media/uk/newspaper.mp3",
+    "us": "media/us/newspaper.mp3"
+   },
+   "avoid": [
+    "article",
+    "magazine",
+    "news"
+   ]
+  },
+  {
+   "id": "paint",
+   "word": "paint",
+   "zh": "画（颜料画）；刷漆",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v",
+      "n"
+     ],
+     "zh": "画（颜料画）；刷漆"
+    }
+   ],
+   "ipa": "/peɪnt/",
+   "chunks": [
+    "paint"
+   ],
+   "emoji": "🎨",
+   "sentence": {
+    "en": "Lily paints a boat.",
+    "zh": "Lily 画一艘船。"
+   },
+   "sentences": [
+    {
+     "en": "Lily paints a boat.",
+     "zh": "Lily 画一艘船。",
+     "audio": "media/sent/12a1095a7558.mp3"
+    },
+    {
+     "en": "Dad paints the wall white.",
+     "zh": "爸爸把墙刷成白色。",
+     "audio": "media/sent/0d1237f5bd7b.mp3"
+    },
+    {
+     "en": "The paint is wet.",
+     "zh": "油漆是湿的。",
+     "audio": "media/sent/96e8548d8945.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/paint.webp",
+    "uk": "media/uk/paint.mp3",
+    "us": "media/us/paint.mp3"
+   },
+   "avoid": [
+    "art",
+    "draw",
+    "drawing",
+    "painter",
+    "picture"
+   ]
+  },
+  {
+   "id": "painter",
+   "word": "painter",
+   "zh": "油漆工；画家",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "油漆工；画家"
+    }
+   ],
+   "ipa": "/ˈpeɪntə/",
+   "chunks": [
+    "paint",
+    "er"
+   ],
+   "emoji": "🖌️",
+   "sentence": {
+    "en": "The painter fixes the wall.",
+    "zh": "油漆工在修补墙壁。"
+   },
+   "sentences": [
+    {
+     "en": "The painter fixes the wall.",
+     "zh": "油漆工在修补墙壁。",
+     "audio": "media/sent/3aea6d60bb2c.mp3"
+    },
+    {
+     "en": "Our neighbour is a painter.",
+     "zh": "我们的邻居是一位画家。",
+     "audio": "media/sent/943ec8177812.mp3"
+    },
+    {
+     "en": "The painter works hard.",
+     "zh": "那位油漆工工作很努力。",
+     "audio": "media/sent/5f6039a394f9.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/painter.webp",
+    "uk": "media/uk/painter.mp3",
+    "us": "media/us/painter.mp3"
+   },
+   "avoid": [
+    "draw",
+    "paint"
+   ]
+  },
+  {
+   "id": "photo",
+   "word": "photo",
+   "zh": "照片",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "照片"
+    }
+   ],
+   "ipa": "/ˈfəʊtəʊ/",
+   "chunks": [
+    "pho",
+    "to"
+   ],
+   "emoji": "📸",
+   "sentence": {
+    "en": "Mum takes a photo.",
+    "zh": "妈妈拍了一张照片。"
+   },
+   "sentences": [
+    {
+     "en": "Mum takes a photo.",
+     "zh": "妈妈拍了一张照片。",
+     "audio": "media/sent/f9b50e3becc9.mp3"
+    },
+    {
+     "en": "This is my school photo.",
+     "zh": "这是我的学校照片。",
+     "audio": "media/sent/3cd88e505d29.mp3"
+    },
+    {
+     "en": "Look at the old photos.",
+     "zh": "看看这些旧照片。",
+     "audio": "media/sent/32c6fb353042.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/photo.webp",
+    "uk": "media/uk/photo.mp3",
+    "us": "media/us/photo.mp3"
+   },
+   "avoid": [
+    "photographer",
+    "photography",
+    "picture"
+   ]
+  },
+  {
+   "id": "photographer",
+   "word": "photographer",
+   "zh": "摄影师",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "摄影师"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "pho",
+    "tog",
+    "ra",
+    "pher"
+   ],
+   "emoji": "📷",
+   "sentence": {
+    "en": "The photographer takes photos.",
+    "zh": "那位摄影师在拍照。"
+   },
+   "sentences": [
+    {
+     "en": "The photographer takes photos.",
+     "zh": "那位摄影师在拍照。",
+     "audio": "media/sent/bae4f1095bf0.mp3"
+    },
+    {
+     "en": "Mia's mum is a good photographer.",
+     "zh": "Mia 的妈妈是一位很棒的摄影师。",
+     "audio": "media/sent/074d9aee34d9.mp3"
+    },
+    {
+     "en": "The photographer works hard.",
+     "zh": "那位摄影师工作很努力。",
+     "audio": "media/sent/6225c44b4d7e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/photographer.webp"
+   },
+   "avoid": [
+    "photo",
+    "photography",
+    "picture"
+   ]
+  },
+  {
+   "id": "practice",
+   "word": "practice",
+   "zh": "练习（名词）",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "练习（名词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tice"
+   ],
+   "emoji": "⚽",
+   "sentence": {
+    "en": "Tom goes to football practice.",
+    "zh": "Tom 去足球训练课。"
+   },
+   "sentences": [
+    {
+     "en": "Tom goes to football practice.",
+     "zh": "Tom 去足球训练课。",
+     "audio": "media/sent/c76c9f8e555b.mp3"
+    },
+    {
+     "en": "We have piano practice today.",
+     "zh": "我们今天有钢琴练习课。",
+     "audio": "media/sent/bcf8755439a1.mp3"
+    },
+    {
+     "en": "Practice makes perfect.",
+     "zh": "熟能生巧。",
+     "audio": "media/sent/6d6ab91d608b.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practice.webp",
+    "uk": "media/uk/practice.mp3",
+    "us": "media/us/practice.mp3"
+   },
+   "avoid": [
+    "practise"
+   ]
+  },
+  {
+   "id": "practise",
+   "word": "practise",
+   "zh": "练习（动词）",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "练习（动词）"
+    }
+   ],
+   "ipa": "/ˈpræktɪs/",
+   "chunks": [
+    "prac",
+    "tise"
+   ],
+   "emoji": "🎹",
+   "sentence": {
+    "en": "Lily practises the piano.",
+    "zh": "Lily 练习弹钢琴。"
+   },
+   "sentences": [
+    {
+     "en": "Lily practises the piano.",
+     "zh": "Lily 练习弹钢琴。",
+     "audio": "media/sent/2ae5f0535d45.mp3"
+    },
+    {
+     "en": "Sam practises swimming.",
+     "zh": "Sam 练习游泳。",
+     "audio": "media/sent/dabc8f5e937f.mp3"
+    },
+    {
+     "en": "You must practise your English.",
+     "zh": "你必须练习你的英语。",
+     "audio": "media/sent/64c99d305eb8.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/practise.webp",
+    "uk": "media/uk/practise.mp3",
+    "us": "media/us/practise.mp3"
+   },
+   "avoid": [
+    "practice"
+   ]
+  },
+  {
+   "id": "project",
+   "word": "project",
+   "zh": "项目；课题",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "项目；课题"
+    }
+   ],
+   "ipa": "/ˈprɒdʒekt/; /prəˈdʒekt/",
+   "chunks": [
+    "proj",
+    "ect"
+   ],
+   "emoji": "🔬",
+   "sentence": {
+    "en": "We do a school project.",
+    "zh": "我们做一个学校项目。"
+   },
+   "sentences": [
+    {
+     "en": "We do a school project.",
+     "zh": "我们做一个学校项目。",
+     "audio": "media/sent/34a3d81e2793.mp3"
+    },
+    {
+     "en": "Lily's project is about plants.",
+     "zh": "Lily 的课题是关于植物的。",
+     "audio": "media/sent/651365256676.mp3"
+    },
+    {
+     "en": "Tom shows his project to Dad.",
+     "zh": "Tom 向爸爸展示他的项目。",
+     "audio": "media/sent/4b2848c26d55.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/project.webp",
+    "uk": "media/uk/project.mp3",
+    "us": "media/us/project.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "read",
+   "word": "read",
+   "zh": "读；阅读",
+   "pos": [
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "读；阅读"
+    }
+   ],
+   "ipa": "/riːd/",
+   "chunks": [
+    "read"
+   ],
+   "emoji": "📚",
+   "sentence": {
+    "en": "Lily reads a book.",
+    "zh": "Lily 在读一本书。"
+   },
+   "sentences": [
+    {
+     "en": "Lily reads a book.",
+     "zh": "Lily 在读一本书。",
+     "audio": "media/sent/a5d0d98977ca.mp3"
+    },
+    {
+     "en": "Dad reads to Tom.",
+     "zh": "爸爸给 Tom 读书。",
+     "audio": "media/sent/9a9ae8d3d88d.mp3"
+    },
+    {
+     "en": "Can you read the sign?",
+     "zh": "你能读那个标志吗？",
+     "audio": "media/sent/5242b9abef69.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/read.webp",
+    "uk": "media/uk/read.mp3",
+    "us": "media/us/read.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "singer",
+   "word": "singer",
+   "zh": "歌手",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "歌手"
+    }
+   ],
+   "ipa": "/ˈsɪŋə/",
+   "chunks": [
+    "sing",
+    "er"
+   ],
+   "emoji": "🎤",
+   "sentence": {
+    "en": "The singer sings well.",
+    "zh": "那位歌手唱得很好。"
+   },
+   "sentences": [
+    {
+     "en": "The singer sings well.",
+     "zh": "那位歌手唱得很好。",
+     "audio": "media/sent/5b2cbd486ff3.mp3"
+    },
+    {
+     "en": "Mia wants to be a singer.",
+     "zh": "Mia 想成为一名歌手。",
+     "audio": "media/sent/2d7cc093f08b.mp3"
+    },
+    {
+     "en": "The singer wears a red dress.",
+     "zh": "那位歌手穿着红裙子。",
+     "audio": "media/sent/a3b00454079e.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/singer.webp",
+    "uk": "media/uk/singer.mp3",
+    "us": "media/us/singer.mp3"
+   },
+   "avoid": [
+    "act",
+    "actor",
+    "dancer"
+   ]
+  },
+  {
+   "id": "television",
+   "word": "television",
+   "zh": "电视",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电视"
+    }
+   ],
+   "ipa": "/ˈtelɪvɪʒən/",
+   "chunks": [
+    "tel",
+    "e",
+    "vi",
+    "sion"
+   ],
+   "emoji": "📺",
+   "sentence": {
+    "en": "We watch television.",
+    "zh": "我们看电视。"
+   },
+   "sentences": [
+    {
+     "en": "We watch television.",
+     "zh": "我们看电视。",
+     "audio": "media/sent/09291639d5c1.mp3"
+    },
+    {
+     "en": "Turn off the television.",
+     "zh": "关掉电视。",
+     "audio": "media/sent/922f585f52af.mp3"
+    },
+    {
+     "en": "The television is in the living room.",
+     "zh": "电视在客厅里。",
+     "audio": "media/sent/baf050bd7c03.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/television.webp",
+    "uk": "media/uk/television.mp3",
+    "us": "media/us/television.mp3"
+   },
+   "avoid": [
+    "radio",
+    "screen"
+   ]
+  },
+  {
+   "id": "theatre",
+   "word": "theatre",
+   "zh": "剧院",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "剧院"
+    }
+   ],
+   "ipa": "/ˈθɪətə/",
+   "chunks": [
+    "the",
+    "a",
+    "tre"
+   ],
+   "emoji": "🎭",
+   "sentence": {
+    "en": "We go to the theatre.",
+    "zh": "我们去剧院。"
+   },
+   "sentences": [
+    {
+     "en": "We go to the theatre.",
+     "zh": "我们去剧院。",
+     "audio": "media/sent/9839843e4861.mp3"
+    },
+    {
+     "en": "The theatre is very big.",
+     "zh": "这个剧院很大。",
+     "audio": "media/sent/f523ab110459.mp3"
+    },
+    {
+     "en": "Lily acts in the theatre.",
+     "zh": "Lily 在剧院表演。",
+     "audio": "media/sent/86cd090c7b29.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/theatre.webp",
+    "uk": "media/uk/theatre.mp3",
+    "us": "media/us/theatre.mp3"
+   },
+   "avoid": [
+    "cinema",
+    "exhibition",
+    "museum"
+   ]
+  },
+  {
+   "id": "ticket",
+   "word": "ticket",
+   "zh": "票；入场券",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "票；入场券"
+    }
+   ],
+   "ipa": "/ˈtɪkɪt/",
+   "chunks": [
+    "tick",
+    "et"
+   ],
+   "emoji": "🎫",
+   "sentence": {
+    "en": "Dad buys a ticket.",
+    "zh": "爸爸买了一张票。"
+   },
+   "sentences": [
+    {
+     "en": "Dad buys a ticket.",
+     "zh": "爸爸买了一张票。",
+     "audio": "media/sent/7e2358ea2d0c.mp3"
+    },
+    {
+     "en": "I have a bus ticket.",
+     "zh": "我有一张公交车票。",
+     "audio": "media/sent/68246e32128a.mp3"
+    },
+    {
+     "en": "Where is my cinema ticket?",
+     "zh": "我的电影票在哪里？",
+     "audio": "media/sent/803ce29e574f.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/ticket.webp",
+    "uk": "media/uk/ticket.mp3",
+    "us": "media/us/ticket.mp3"
+   },
+   "avoid": []
+  },
+  {
+   "id": "video",
+   "word": "video",
+   "zh": "录像；视频",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "录像；视频"
+    }
+   ],
+   "ipa": "/ˈvɪdiəʊ/",
+   "chunks": [
+    "vid",
+    "e",
+    "o"
+   ],
+   "emoji": "🎬",
+   "sentence": {
+    "en": "Tom watches a video.",
+    "zh": "Tom 在看一个视频。"
+   },
+   "sentences": [
+    {
+     "en": "Tom watches a video.",
+     "zh": "Tom 在看一个视频。",
+     "audio": "media/sent/27d78fae7f95.mp3"
+    },
+    {
+     "en": "The video is very funny.",
+     "zh": "这个视频很有趣。",
+     "audio": "media/sent/24322583ce2c.mp3"
+    },
+    {
+     "en": "Lily sends a video to Sam.",
+     "zh": "Lily 给 Sam 发一个视频。",
+     "audio": "media/sent/27c4b0778ae3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/video.webp",
+    "uk": "media/uk/video.mp3",
+    "us": "media/us/video.mp3"
+   },
+   "avoid": [
+    "cartoon",
+    "film",
+    "programme"
+   ]
+  },
+  {
+   "id": "video-game",
+   "word": "video game",
+   "zh": "电子游戏",
+   "pos": [
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "电子游戏"
+    }
+   ],
+   "ipa": "",
+   "chunks": [
+    "vid",
+    "e",
+    "o",
+    "game"
+   ],
+   "emoji": "🎮",
+   "sentence": {
+    "en": "Sam plays a video game.",
+    "zh": "Sam 在玩电子游戏。"
+   },
+   "sentences": [
+    {
+     "en": "Sam plays a video game.",
+     "zh": "Sam 在玩电子游戏。",
+     "audio": "media/sent/cbe3ed1ac9d1.mp3"
+    },
+    {
+     "en": "This video game is fun.",
+     "zh": "这个电子游戏很有趣。",
+     "audio": "media/sent/356777f2021b.mp3"
+    },
+    {
+     "en": "Tom doesn't play video games.",
+     "zh": "Tom 不玩电子游戏。",
+     "audio": "media/sent/925be3733ca3.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/video-game.webp"
+   },
+   "avoid": [
+    "board-game",
+    "chess"
+   ]
+  },
+  {
+   "id": "watch",
+   "word": "watch",
+   "zh": "手表",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手表"
+    },
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "观看；注视",
+     "en": "We watch television after dinner."
+    }
+   ],
+   "ipa": "/wɒtʃ/",
+   "chunks": [
+    "watch"
+   ],
+   "emoji": "⌚",
+   "sentence": {
+    "en": "Dad wears a watch.",
+    "zh": "爸爸戴着一块手表。"
+   },
+   "sentences": [
+    {
+     "en": "Dad wears a watch.",
+     "zh": "爸爸戴着一块手表。",
+     "audio": "media/sent/c226fe7dac3d.mp3"
+    },
+    {
+     "en": "My watch is blue.",
+     "zh": "我的手表是蓝色的。",
+     "audio": "media/sent/efbbaa184b20.mp3"
+    },
+    {
+     "en": "Grandpa gives me a watch.",
+     "zh": "爷爷给我一块手表。",
+     "audio": "media/sent/50ea9c240d4d.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/watch.webp",
+    "uk": "media/uk/watch.mp3",
+    "us": "media/us/watch.mp3"
+   },
+   "avoid": [
+    "look-at",
+    "watch.2"
+   ]
+  },
+  {
+   "id": "watch.2",
+   "word": "watch",
+   "zh": "观看；注视",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "senses": [
+    {
+     "pos": [
+      "v"
+     ],
+     "zh": "观看；注视"
+    },
+    {
+     "pos": [
+      "n"
+     ],
+     "zh": "手表"
+    }
+   ],
+   "ipa": "/wɒtʃ/",
+   "chunks": [
+    "watch"
+   ],
+   "emoji": "👀",
+   "sentence": {
+    "en": "We watch the birds.",
+    "zh": "我们在看鸟。"
+   },
+   "sentences": [
+    {
+     "en": "We watch the birds.",
+     "zh": "我们在看鸟。",
+     "audio": "media/sent/0c5f25b8fdc5.mp3"
+    },
+    {
+     "en": "Lily watches Tom play.",
+     "zh": "Lily 看着 Tom 玩。",
+     "audio": "media/sent/381ba30db7cd.mp3"
+    },
+    {
+     "en": "Do not watch television too much.",
+     "zh": "不要看太多电视。",
+     "audio": "media/sent/50904c464a59.mp3"
+    }
+   ],
+   "media": {
+    "img": "media/img/watch.2.webp",
+    "uk": "media/uk/watch.mp3",
+    "us": "media/us/watch.mp3"
+   },
+   "of": "watch",
+   "ofZh": "手表",
+   "avoid": [
+    "look-at",
+    "watch"
+   ]
+  }
+ ]
+}
