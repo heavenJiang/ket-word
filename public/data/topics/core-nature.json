@@ -48,6 +48,10 @@
     "uk": "media/uk/creature.mp3",
     "us": "media/us/creature.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "creature 生物，create 创造：末尾 e 换成 ure 就活了"
+   },
    "avoid": [
     "extinct",
     "lizard"
@@ -99,6 +103,10 @@
     "img": "media/img/donkey.webp",
     "uk": "media/uk/donkey.mp3",
     "us": "media/us/donkey.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "donkey 驴，monkey 猴：开头 d 像长耳朵，别记成 m"
    },
    "avoid": []
   },
@@ -345,6 +353,10 @@
     "uk": "media/uk/nest.mp3",
     "us": "media/us/nest.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "nest 鸟巢，net 网：多一个 s，鸟窝更稳"
+   },
    "avoid": []
   },
   {
@@ -490,6 +502,10 @@
    "media": {
     "img": "media/img/snail.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "snail 蜗牛，nail 指甲：nail 前加 s，慢慢爬"
+   },
    "avoid": []
   },
   {
@@ -591,6 +607,10 @@
     "img": "media/img/environment.webp",
     "uk": "media/uk/environment.mp3",
     "us": "media/us/environment.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "environment 里藏着 iron 铁，环境像铁一样重要"
    },
    "avoid": [
     "nature"

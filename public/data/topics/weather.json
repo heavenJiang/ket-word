@@ -47,6 +47,10 @@
     "uk": "media/uk/cloud.mp3",
     "us": "media/us/cloud.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "cloud 里藏着loud（大声），云多雷声大"
+   },
    "avoid": [
     "cloudy",
     "rain",
@@ -264,6 +268,10 @@
     "img": "media/img/foggy.webp",
     "uk": "media/uk/foggy.mp3",
     "us": "media/us/foggy.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "foggy 有雾的，fog 是雾：foggy 多一个g和y"
    },
    "avoid": [
     "fog"
@@ -701,6 +709,10 @@
     "uk": "media/uk/thunderstorm.mp3",
     "us": "media/us/thunderstorm.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "thunder 雷+storm 暴风雨=thunderstorm 雷雨"
+   },
    "avoid": [
     "rain",
     "storm"
@@ -806,6 +818,10 @@
     "us": "media/us/weather.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "weather 天气，whether 是否：中间 ea 和 he 不同。"
+   },
    "avoid": [
     "cloud",
     "rain",
@@ -911,6 +927,10 @@
     "uk": "media/uk/wind.mp3",
     "us": "media/us/wind.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "wind 风，window 窗：window 比 wind 多ow"
+   },
    "avoid": [
     "cloud",
     "rain",
@@ -966,6 +986,10 @@
     "img": "media/img/windy.webp",
     "uk": "media/uk/windy.mp3",
     "us": "media/us/windy.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "wind（风）+ y（有）= windy 有风的"
    },
    "avoid": [
     "wind"

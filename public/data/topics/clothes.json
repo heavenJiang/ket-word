@@ -48,6 +48,10 @@
     "uk": "media/uk/backpack.mp3",
     "us": "media/us/backpack.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "back 背 + pack 打包 = backpack 背包"
+   },
    "avoid": [
     "bag",
     "handbag",
@@ -154,6 +158,10 @@
    ],
    "media": {
     "img": "media/img/bathing-suit.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "bathing 洗澡 + suit 套装 = bathing suit 泳衣"
    },
    "avoid": [
     "costume",
@@ -463,6 +471,10 @@
     "uk": "media/uk/chain.mp3",
     "us": "media/us/chain.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "chain 链子有 n，chair 椅子有 r：链子一圈圈"
+   },
    "avoid": [
     "bracelet",
     "earring",
@@ -518,6 +530,10 @@
     "us": "media/us/clothes.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "clothes 衣服，cloth 布：clothes 多 e s，布做成衣服"
+   },
    "avoid": [
     "fashion",
     "get-dressed",
@@ -623,6 +639,10 @@
     "img": "media/img/costume.webp",
     "uk": "media/uk/costume.mp3",
     "us": "media/us/costume.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "costume 戏服，cost 花费：多 u m e，装扮要成本"
    },
    "avoid": [
     "bathing-suit",
@@ -736,6 +756,10 @@
    "media": {
     "img": "media/img/earring.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "ear 耳朵 + ring 环 = earring 耳环"
+   },
    "avoid": [
     "bracelet",
     "chain",
@@ -843,6 +867,10 @@
    "media": {
     "img": "media/img/get-dressed.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "get 变 + dressed 穿好 = get dressed 穿衣服"
+   },
    "avoid": [
     "clothes",
     "fashion",
@@ -898,6 +926,10 @@
     "us": "media/us/glasses.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "glass（玻璃）+ es（复数）= glasses 眼镜"
+   },
    "avoid": [
     "sunglasses"
    ]
@@ -948,6 +980,10 @@
     "uk": "media/uk/glove.mp3",
     "us": "media/us/glove.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "glove 手套：g 是拇指，love 让手暖暖的"
+   },
    "avoid": []
   },
   {
@@ -996,6 +1032,10 @@
     "img": "media/img/handbag.webp",
     "uk": "media/uk/handbag.mp3",
     "us": "media/us/handbag.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "hand 手 + bag 包 = handbag 手提包"
    },
    "avoid": [
     "backpack",
@@ -1260,6 +1300,10 @@
     "uk": "media/uk/jewellery.mp3",
     "us": "media/us/jewellery.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "jewellery 珠宝，jewel 宝石：多 l e r y，很多宝石"
+   },
    "avoid": [
     "bracelet",
     "chain",
@@ -1315,6 +1359,10 @@
     "uk": "media/uk/jumper.mp3",
     "us": "media/us/jumper.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "jump（跳）+ er（……的）= jumper 毛衣，穿上跳一跳"
+   },
    "avoid": [
     "hoodie",
     "sweater"
@@ -1365,6 +1413,10 @@
     "img": "media/img/kit.webp",
     "uk": "media/uk/kit.mp3",
     "us": "media/us/kit.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "kit 装备，kite 风筝：差一个 e，别把装备放飞了"
    },
    "avoid": [
     "costume",
@@ -1576,6 +1628,10 @@
     "img": "media/img/raincoat.webp",
     "uk": "media/uk/raincoat.mp3",
     "us": "media/us/raincoat.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "rain 雨 + coat 外套 = raincoat 雨衣"
    },
    "avoid": [
     "coat",
@@ -1914,6 +1970,10 @@
     "uk": "media/uk/trainer.mp3",
     "us": "media/us/trainer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "train（训练）+ er（做…的）= trainer 运动鞋"
+   },
    "avoid": [
     "boot",
     "shoe",
@@ -1965,6 +2025,10 @@
     "img": "media/img/shorts.webp",
     "uk": "media/uk/shorts.mp3",
     "us": "media/us/shorts.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "short（短的）+ s（复数）= shorts 短裤"
    },
    "avoid": [
     "jeans",
@@ -2175,6 +2239,10 @@
     "uk": "media/uk/sunglasses.mp3",
     "us": "media/us/sunglasses.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "sun 太阳 + glasses 眼镜 = sunglasses 太阳镜"
+   },
    "avoid": [
     "glasses"
    ]
@@ -2227,6 +2295,10 @@
     "us": "media/us/sweater.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "sweat（汗）+ er（做…的）= sweater 毛衣"
+   },
    "avoid": [
     "hoodie",
     "jumper"
@@ -2279,6 +2351,10 @@
    "media": {
     "img": "media/img/swimming-costume.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "swimming游泳+costume装=swimming costume 泳衣"
+   },
    "avoid": [
     "bathing-suit",
     "costume",
@@ -2329,6 +2405,10 @@
    ],
    "media": {
     "img": "media/img/swimsuit.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "swim 游泳 + suit 套装 = swimsuit 泳衣"
    },
    "avoid": [
     "bathing-suit",
@@ -2439,6 +2519,10 @@
    "media": {
     "img": "media/img/tights.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "tight（紧的）+ s（复数）= tights 连裤袜"
+   },
    "avoid": [
     "jeans",
     "shorts",
@@ -2543,6 +2627,10 @@
    ],
    "media": {
     "img": "media/img/try-on.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "try 试 + on 穿 = try on 试穿"
    },
    "avoid": [
     "clothes",
@@ -2704,6 +2792,10 @@
     "img": "media/img/uniform.webp",
     "uk": "media/uk/uniform.mp3",
     "us": "media/us/uniform.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "uniform：u 像校服领口，form 是形状，全班统一形状穿校服。"
    },
    "avoid": [
     "costume",

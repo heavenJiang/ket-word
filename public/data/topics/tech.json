@@ -50,6 +50,10 @@
    "media": {
     "img": "media/img/give-somebody-a-call.webp"
    },
+   "hook": {
+    "kind": "story",
+    "text": "give somebody a call：把call递给somebody。"
+   },
    "avoid": []
   },
   {
@@ -146,6 +150,10 @@
     "uk": "media/uk/dot.mp3",
     "us": "media/us/dot.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "dot 点：和 dog 狗只差最后 t/g，点不是狗"
+   },
    "avoid": [
     "at"
    ]
@@ -198,6 +206,10 @@
     "uk": "media/uk/click.mp3",
     "us": "media/us/click.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "click 点击：和 clock 时钟只差中间 i/o，点一下像滴答"
+   },
    "avoid": []
   },
   {
@@ -245,6 +257,10 @@
     "img": "media/img/chat.webp",
     "uk": "media/uk/chat.mp3",
     "us": "media/us/chat.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "chat 聊天：和 cat 猫多一个 h，猫也爱聊天"
    },
    "avoid": [
     "call",
@@ -356,6 +372,10 @@
     "img": "media/img/download.webp",
     "uk": "media/uk/download.mp3",
     "us": "media/us/download.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "down 下 + load 装 = download 下载"
    },
    "avoid": [
     "online"
@@ -575,6 +595,10 @@
     "us": "media/us/internet.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "internet：像一张net，把中间的人连起来。"
+   },
    "avoid": [
     "net",
     "web",
@@ -684,6 +708,10 @@
     "uk": "media/uk/online.mp3",
     "us": "media/us/online.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "on 上 + line 线 = online 在线"
+   },
    "avoid": [
     "digital",
     "download"
@@ -736,6 +764,10 @@
     "uk": "media/uk/password.mp3",
     "us": "media/us/password.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "pass 过 + word 词 = password 密码"
+   },
    "avoid": [
     "file",
     "software"
@@ -787,6 +819,10 @@
     "img": "media/img/keyboard.webp",
     "uk": "media/uk/keyboard.mp3",
     "us": "media/us/keyboard.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "key 键 + board 板 = keyboard 键盘"
    },
    "avoid": [
     "mouse",
@@ -894,6 +930,10 @@
     "uk": "media/uk/printer.mp3",
     "us": "media/us/printer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "print（打印）+ er（做…的）= printer 打印机"
+   },
    "avoid": [
     "keyboard",
     "mouse",
@@ -999,6 +1039,10 @@
     "uk": "media/uk/software.mp3",
     "us": "media/us/software.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "software 软件：和 hardware 硬件对照，soft 是软"
+   },
    "avoid": [
     "file",
     "password"
@@ -1050,6 +1094,10 @@
     "img": "media/img/tablet.webp",
     "uk": "media/uk/tablet.mp3",
     "us": "media/us/tablet.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "tablet 平板：和 table 桌子多一个 t，像小桌子"
    },
    "avoid": [
     "computer",
@@ -1110,6 +1158,10 @@
     "img": "media/img/text.webp",
     "uk": "media/uk/text.mp3",
     "us": "media/us/text.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "text 短信，next 下一个：把 next 的 n 换成 t"
    },
    "avoid": [
     "email",
@@ -1214,6 +1266,10 @@
    "media": {
     "img": "media/img/web-page.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "web 网 + page 页 = web page 网页"
+   },
    "avoid": [
     "internet",
     "net",
@@ -1269,6 +1325,10 @@
     "us": "media/us/website.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "web 网 + site 站点 = website 网站"
+   },
    "avoid": [
     "internet",
     "net",
@@ -1424,6 +1484,10 @@
    ],
    "media": {
     "img": "media/img/by-post.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "by 通过 + post 邮寄 = by post/by-post 通过邮寄"
    },
    "avoid": []
   },
@@ -1585,6 +1649,10 @@
     "img": "media/img/photography.webp",
     "uk": "media/uk/photography.mp3",
     "us": "media/us/photography.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "photo（照片）+ graph（图）+ y（后缀）= photography 摄影"
    },
    "avoid": [
     "camera",
@@ -1793,6 +1861,10 @@
    "media": {
     "img": "media/img/cd-player.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "CD 光盘 + player 播放器 = CD player CD 播放机"
+   },
    "avoid": [
     "dvd-player"
    ]
@@ -1841,6 +1913,10 @@
    ],
    "media": {
     "img": "media/img/cell-phone.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "cell 小格子 + phone 电话 = cell phone 手机"
    },
    "avoid": [
     "mobile",
@@ -1897,6 +1973,10 @@
     "us": "media/us/computer.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "computer电脑里有put（放），把东西放进去。"
+   },
    "avoid": [
     "laptop",
     "pc",
@@ -1952,6 +2032,10 @@
    "media": {
     "img": "media/img/digital-camera.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "digital 数码 + camera 相机 = digital camera 数码相机"
+   },
    "avoid": [
     "camera",
     "photo",
@@ -2004,6 +2088,10 @@
    "media": {
     "img": "media/img/dvd.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
+   },
    "avoid": [
     "cd"
    ]
@@ -2055,6 +2143,10 @@
    ],
    "media": {
     "img": "media/img/dvd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
    },
    "avoid": [
     "cd-player"
@@ -2379,6 +2471,10 @@
     "us": "media/us/telephone.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "telephone有phone听声音，television有vision看画面。"
+   },
    "avoid": [
     "cell-phone",
     "mobile",

@@ -49,6 +49,10 @@
     "uk": "media/uk/badminton.mp3",
     "us": "media/us/badminton.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "badminton 里有 bad（坏），但羽毛球很好玩。"
+   },
    "avoid": [
     "racket",
     "table-tennis",
@@ -159,6 +163,10 @@
     "uk": "media/uk/baseball.mp3",
     "us": "media/us/baseball.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "base 垒 + ball 球 = baseball 棒球"
+   },
    "avoid": [
     "bat",
     "cricket",
@@ -215,6 +223,10 @@
     "us": "media/us/basketball.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "basket 篮子 + ball 球 = basketball 篮球"
+   },
    "avoid": [
     "ball",
     "volleyball"
@@ -325,6 +337,10 @@
    ],
    "media": {
     "img": "media/img/bathing-suit.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "bathing 洗澡 + suit 套装 = bathing suit 泳衣"
    },
    "avoid": [
     "swim",
@@ -752,6 +768,10 @@
     "uk": "media/uk/coach.mp3",
     "us": "media/us/coach.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "coach 教练，couch 沙发：中间 a 像哨子，u 像软沙发。"
+   },
    "avoid": [
     "team"
    ]
@@ -1016,6 +1036,10 @@
     "uk": "media/uk/fishing.mp3",
     "us": "media/us/fishing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "fish（鱼）+ ing（做）= fishing 钓鱼"
+   },
    "avoid": [
     "boat",
     "sailing"
@@ -1069,6 +1093,10 @@
     "us": "media/us/football.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "foot 脚 + ball 球 = football 足球"
+   },
    "avoid": [
     "ball",
     "goal",
@@ -1122,6 +1150,10 @@
    ],
    "media": {
     "img": "media/img/football-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "football足球+player运动员=football player 球员"
    },
    "avoid": [
     "player",
@@ -1229,6 +1261,10 @@
     "img": "media/img/goal.webp",
     "uk": "media/uk/goal.mp3",
     "us": "media/us/goal.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "goal 球门，goat 山羊：l 换成 t。"
    },
    "avoid": [
     "football"
@@ -1387,6 +1423,10 @@
     "uk": "media/uk/kit.mp3",
     "us": "media/us/kit.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "kit 装备，kite 风筝：差一个 e，别把装备放飞了"
+   },
    "avoid": [
     "trainer"
    ]
@@ -1434,6 +1474,10 @@
    ],
    "media": {
     "img": "media/img/luck.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "luck 运气，duck 鸭子：l 换成 d。"
    },
    "avoid": []
   },
@@ -1708,6 +1752,10 @@
     "uk": "media/uk/practice.mp3",
     "us": "media/us/practice.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "practice（名词）用 c，practise（动词）用 s，别弄混。"
+   },
    "avoid": [
     "practise"
    ]
@@ -1760,6 +1808,10 @@
     "us": "media/us/practise.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "practise（动词）用 s，practice（名词）用 c，别弄混。"
+   },
    "avoid": [
     "practice"
    ]
@@ -1809,6 +1861,10 @@
     "img": "media/img/prize.webp",
     "uk": "media/uk/prize.mp3",
     "us": "media/us/prize.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "prize 奖品，price 价格：z 换成 c。"
    },
    "avoid": [
     "competition",
@@ -1865,6 +1921,10 @@
     "uk": "media/uk/race.mp3",
     "us": "media/us/race.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "race 赛跑，rice 米饭：第二个字母 a 对 i"
+   },
    "avoid": [
     "competition",
     "prize",
@@ -1920,6 +1980,10 @@
     "img": "media/img/racket.webp",
     "uk": "media/uk/racket.mp3",
     "us": "media/us/racket.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "racket 球拍，rocket 火箭：第二个字母 a 对 o"
    },
    "avoid": [
     "badminton",
@@ -2236,6 +2300,10 @@
     "uk": "media/uk/sailing.mp3",
     "us": "media/us/sailing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "sail（航行）+ing（做）=sailing 帆船运动"
+   },
    "avoid": [
     "boat",
     "fishing",
@@ -2394,6 +2462,10 @@
     "uk": "media/uk/skateboard.mp3",
     "us": "media/us/skateboard.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "skate 滑冰+board 板=skateboard 滑板"
+   },
    "avoid": [
     "skate"
    ]
@@ -2443,6 +2515,10 @@
     "img": "media/img/ski.webp",
     "uk": "media/uk/ski.mp3",
     "us": "media/us/ski.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "ski 滑雪，sky 天空：结尾 i 对 y"
    },
    "avoid": [
     "skiing",
@@ -2497,6 +2573,10 @@
     "uk": "media/uk/skiing.mp3",
     "us": "media/us/skiing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "ski（滑雪）+ing（做）=skiing 滑雪运动"
+   },
    "avoid": [
     "ski",
     "snowboard",
@@ -2547,6 +2627,10 @@
    ],
    "media": {
     "img": "media/img/snowboard.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "snow 雪+board 板=snowboard 滑雪板"
    },
    "avoid": [
     "ski",
@@ -2601,6 +2685,10 @@
     "img": "media/img/snowboarding.webp",
     "uk": "media/uk/snowboarding.mp3",
     "us": "media/us/snowboarding.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "snowboard（滑雪板）+ing（做）=snowboarding 单板滑雪"
    },
    "avoid": [
     "ski",
@@ -2759,6 +2847,10 @@
    ],
    "media": {
     "img": "media/img/sports-centre.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "sports 运动 + centre 中心 = sports centre 体育中心"
    },
    "avoid": [
     "pool",
@@ -2919,6 +3011,10 @@
    "media": {
     "img": "media/img/surfboard.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "surf 冲浪+board 板=surfboard 冲浪板"
+   },
    "avoid": [
     "sailing",
     "surf",
@@ -2971,6 +3067,10 @@
    ],
    "media": {
     "img": "media/img/surfboarding.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "surfboard（冲浪板）+ing（做）=surfboarding 冲浪运动"
    },
    "avoid": [
     "sailing",
@@ -3138,6 +3238,10 @@
    "media": {
     "img": "media/img/swimming-costume.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "swimming游泳+costume装=swimming costume 泳衣"
+   },
    "avoid": [
     "bathing-suit",
     "swim",
@@ -3190,6 +3294,10 @@
    "media": {
     "img": "media/img/swimming-pool.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "swimming 游泳 + pool 水池 = swimming pool 游泳池"
+   },
    "avoid": [
     "pool",
     "swim",
@@ -3240,6 +3348,10 @@
    ],
    "media": {
     "img": "media/img/swimsuit.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "swim 游泳 + suit 套装 = swimsuit 泳衣"
    },
    "avoid": [
     "bathing-suit",
@@ -3293,6 +3405,10 @@
    ],
    "media": {
     "img": "media/img/table-tennis.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "table 桌子+tennis 网球=table tennis 乒乓球"
    },
    "avoid": [
     "badminton",
@@ -3457,6 +3573,10 @@
    "media": {
     "img": "media/img/tennis-player.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "tennis 网球 + player 运动员 = tennis player 网球运动员"
+   },
    "avoid": [
     "football-player",
     "player",
@@ -3508,6 +3628,10 @@
     "img": "media/img/throw.webp",
     "uk": "media/uk/throw.mp3",
     "us": "media/us/throw.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "throw 扔，grow 长：开头 th 对 g"
    },
    "avoid": [
     "ball",
@@ -3671,6 +3795,10 @@
     "uk": "media/uk/trainer.mp3",
     "us": "media/us/trainer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "train（训练）+ er（做…的）= trainer 运动鞋"
+   },
    "avoid": [
     "kit"
    ]
@@ -3774,6 +3902,10 @@
     "img": "media/img/volleyball.webp",
     "uk": "media/uk/volleyball.mp3",
     "us": "media/us/volleyball.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "volleyball 想象球在网前来回飞，ball 就是球"
    },
    "avoid": [
     "ball",
@@ -3992,6 +4124,10 @@
     "img": "media/img/windsurfing.webp",
     "uk": "media/uk/windsurfing.mp3",
     "us": "media/us/windsurfing.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "wind 风+surfing 冲浪=windsurfing 帆板运动"
    },
    "avoid": [
     "sailing",

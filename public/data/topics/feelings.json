@@ -46,6 +46,10 @@
    "media": {
     "img": "media/img/happy.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "happy 快乐，unhappy 不快乐：加 un 就不快乐"
+   },
    "avoid": [
     "excited",
     "unhappy"
@@ -98,6 +102,10 @@
     "img": "media/img/unhappy.webp",
     "uk": "media/uk/unhappy.mp3",
     "us": "media/us/unhappy.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "un（不）+ happy（开心）= unhappy 不开心的"
    },
    "avoid": [
     "excited",
@@ -364,6 +372,10 @@
     "us": "media/us/excited.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "excited 兴奋的，excite 使兴奋：excite 后加 d"
+   },
    "avoid": [
     "happy",
     "unhappy"
@@ -412,6 +424,10 @@
    ],
    "media": {
     "img": "media/img/bored.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "bored 无聊的，board 板：board 的 a 变 r、r 变 e"
    },
    "avoid": [
     "boring"
@@ -519,6 +535,10 @@
     "us": "media/us/interested.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "interest（兴趣）+ ed（的）= interested 感兴趣的"
+   },
    "avoid": [
     "interesting"
    ]
@@ -573,6 +593,10 @@
     "us": "media/us/interesting.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "interest（兴趣）+ ing（的）= interesting 有趣的"
+   },
    "avoid": [
     "interested"
    ]
@@ -888,6 +912,10 @@
     "uk": "media/uk/careful.mp3",
     "us": "media/us/careful.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "care（小心）+ ful（充满……的）= careful 小心的"
+   },
    "avoid": [
     "afraid",
     "brave"
@@ -942,6 +970,10 @@
     "uk": "media/uk/alone.mp3",
     "us": "media/us/alone.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "alone 独自，along 沿着：along 把 g 换 e"
+   },
    "avoid": [
     "able",
     "sure"
@@ -993,6 +1025,10 @@
     "img": "media/img/able.webp",
     "uk": "media/uk/able.mp3",
     "us": "media/us/able.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "able 能够，table 桌子：able 少个 t，却能搬起 table"
    },
    "avoid": [
     "alone",
@@ -1422,6 +1458,10 @@
     "uk": "media/uk/lovely.mp3",
     "us": "media/us/lovely.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "love（爱）+ ly（的）= lovely 可爱的"
+   },
    "avoid": [
     "beautiful",
     "great",
@@ -1476,6 +1516,10 @@
     "img": "media/img/pleasant.webp",
     "uk": "media/uk/pleasant.mp3",
     "us": "media/us/pleasant.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pleasant 愉快，pleased 高兴：ant 和 ed 不同"
    },
    "avoid": [
     "great",
@@ -1753,6 +1797,10 @@
     "us": "media/us/terrible.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "terrible 糟糕，horrible 可怕：都有 ible，前头不同"
+   },
    "avoid": [
     "bad",
     "strange"
@@ -1807,6 +1855,10 @@
     "us": "media/us/favourite.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "favourite 有 u，favorite 没有 u，英式美式不同"
+   },
    "avoid": [
     "important",
     "special"
@@ -1910,6 +1962,10 @@
     "img": "media/img/strange.webp",
     "uk": "media/uk/strange.mp3",
     "us": "media/us/strange.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "stranger 陌生人比 strange 多了 r；strange 奇怪的"
    },
    "avoid": [
     "bad",
@@ -2079,6 +2135,10 @@
     "us": "media/us/friendly.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "friend（朋友）+ ly（像…的）= friendly 友好的"
+   },
    "avoid": [
     "clever",
     "funny",
@@ -2726,6 +2786,10 @@
     "uk": "media/uk/noisy.mp3",
     "us": "media/us/noisy.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "noisy 吵闹，noise 噪音：noisy 比 noise 少 e 加 y"
+   },
    "avoid": [
     "quiet"
    ]
@@ -2778,6 +2842,10 @@
     "us": "media/us/quiet.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "quiet 安静，quite 相当：quiet 的 e 在 t 前"
+   },
    "avoid": [
     "noisy"
    ]
@@ -3154,6 +3222,10 @@
     "us": "media/us/wrong.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "wrong 错的，wring 拧：o 错 i 拧，只差一个字母"
+   },
    "avoid": [
     "right",
     "sure"
@@ -3263,6 +3335,10 @@
     "us": "media/us/difficult.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "difficult 困难的，difficulty 困难：最后多一个 y"
+   },
    "avoid": [
     "clear",
     "different",
@@ -3314,6 +3390,10 @@
     "img": "media/img/clear.webp",
     "uk": "media/uk/clear.mp3",
     "us": "media/us/clear.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "clear 清楚，clean 干净：都有 cl，ear/ean 不同"
    },
    "avoid": [
     "different",
@@ -3477,6 +3557,10 @@
     "us": "media/us/important.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "important 重要：结尾 ant 蚂蚁，搬着重要的货"
+   },
    "avoid": [
     "famous",
     "favourite",
@@ -3970,6 +4054,10 @@
    ],
    "media": {
     "img": "media/img/well.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "well 好的，wall 墙：都有 ll，中间 e/a 不同"
    },
    "avoid": [
     "married",

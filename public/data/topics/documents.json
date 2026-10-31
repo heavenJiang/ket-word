@@ -49,6 +49,10 @@
     "uk": "media/uk/article.mp3",
     "us": "media/us/article.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "article 文章：art 是艺术，写成一篇好文章"
+   },
    "avoid": [
     "magazine",
     "newspaper",
@@ -205,6 +209,10 @@
     "uk": "media/uk/form.mp3",
     "us": "media/us/form.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "form 表格：别混 from 来自，form 的 o 在 r 前"
+   },
    "avoid": [
     "bill",
     "ticket"
@@ -311,6 +319,10 @@
     "us": "media/us/newspaper.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "news 新闻 + paper 纸 = newspaper 报纸"
+   },
    "avoid": [
     "article",
     "magazine"
@@ -364,6 +376,10 @@
     "us": "media/us/notebook.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "note 笔记 + book 本子 = notebook 笔记本"
+   },
    "avoid": [
     "diary",
     "note"
@@ -417,6 +433,10 @@
     "us": "media/us/postcard.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "post 邮 + card 卡片 = postcard 明信片"
+   },
    "avoid": [
     "card",
     "letter"
@@ -468,6 +488,10 @@
     "img": "media/img/textbook.webp",
     "uk": "media/uk/textbook.mp3",
     "us": "media/us/textbook.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "text 课文 + book 本子 = textbook 课本"
    },
    "avoid": [
     "book",
@@ -573,6 +597,10 @@
     "uk": "media/uk/advertisement.mp3",
     "us": "media/us/advertisement.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "advertise（做广告）+ment（名词）=advertisement广告"
+   },
    "avoid": [
     "ad"
    ]
@@ -622,6 +650,10 @@
     "img": "media/img/bill.webp",
     "uk": "media/uk/bill.mp3",
     "us": "media/us/bill.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "bill 账单：别混 ball 球，bill 用 i 像小票"
    },
    "avoid": [
     "form",
@@ -1165,6 +1197,10 @@
     "uk": "media/uk/passport.mp3",
     "us": "media/us/passport.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "pass 通过 + port 港口 = passport 护照"
+   },
    "avoid": [
     "diploma",
     "licence"
@@ -1217,6 +1253,10 @@
     "uk": "media/uk/project.mp3",
     "us": "media/us/project.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "project 项目，protect 保护：pro 后 j 不是 t"
+   },
    "avoid": [
     "article"
    ]
@@ -1268,6 +1308,10 @@
     "img": "media/img/text.webp",
     "uk": "media/uk/text.mp3",
     "us": "media/us/text.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "text 短信，next 下一个：把 next 的 n 换成 t"
    },
    "avoid": [
     "email",

@@ -1,0 +1,3310 @@
+{
+ "a-few": {
+  "kind": "split",
+  "text": "a 一 + few 少 = a few 几个"
+ },
+ "able": {
+  "kind": "contrast",
+  "text": "able 能够，table 桌子：able 少个 t，却能搬起 table"
+ },
+ "about": {
+  "kind": "contrast",
+  "text": "about 大约，above 上面：abo 同，ut 换 ve 就往上"
+ },
+ "across": {
+  "kind": "split",
+  "text": "a 一个 + cross 穿过 = across 穿过"
+ },
+ "action": {
+  "kind": "contrast",
+  "text": "action 动作，nation 国家：ac 和 na 不同"
+ },
+ "activity": {
+  "kind": "story",
+  "text": "activity 里有 act 行动：小 act 排队，活动就热闹"
+ },
+ "actually": {
+  "kind": "affix",
+  "text": "actual（实际的）+ ly（地）= actually 实际上"
+ },
+ "advanced": {
+  "kind": "contrast",
+  "text": "advanced比advance多d，进了一步就高级"
+ },
+ "advertisement": {
+  "kind": "affix",
+  "text": "advertise（做广告）+ment（名词）=advertisement广告"
+ },
+ "advice": {
+  "kind": "story",
+  "text": "advice 里有 ice 冰：冷静听 advice"
+ },
+ "aeroplane": {
+  "kind": "story",
+  "text": "aeroplane：ae 像机翼，plane 是飞机"
+ },
+ "afternoon": {
+  "kind": "split",
+  "text": "after 之后 + noon 中午 = afternoon 下午"
+ },
+ "afterwards": {
+  "kind": "story",
+  "text": "afterwards：after 是之后，s 像后来弯弯曲曲的路"
+ },
+ "again": {
+  "kind": "story",
+  "text": "again 里藏 gain 获得，再 gain 就是 again"
+ },
+ "against": {
+  "kind": "contrast",
+  "text": "against 比 again 多了 st，像站在门边靠着或反对。"
+ },
+ "aged": {
+  "kind": "contrast",
+  "text": "aged 年老的，age 年龄：aged 比 age 多一个 d"
+ },
+ "airport": {
+  "kind": "split",
+  "text": "air 空中 + port 港口 = airport 机场"
+ },
+ "alarm-clock": {
+  "kind": "split",
+  "text": "alarm 警报 + clock 钟 = alarm clock 闹钟"
+ },
+ "all-kinds-of": {
+  "kind": "contrast",
+  "text": "all kinds of：kinds 比 kind 多一个 s，表示各种各样的"
+ },
+ "all-right": {
+  "kind": "split",
+  "text": "all 全部 + right 对 = all right 好的"
+ },
+ "all-sorts-of": {
+  "kind": "contrast",
+  "text": "all sorts of：sorts 比 sort 多一个 s，表示各种各样的"
+ },
+ "all-the-time": {
+  "kind": "story",
+  "text": "all the time：all 所有、time 时间，全都在就是一直"
+ },
+ "almost": {
+  "kind": "story",
+  "text": "almost 里的 most 是最多，差一点就到最多。"
+ },
+ "alone": {
+  "kind": "contrast",
+  "text": "alone 独自，along 沿着：along 把 g 换 e"
+ },
+ "along": {
+  "kind": "contrast",
+  "text": "along 沿着，alone 独自：along 把 e 换成 g，沿着路走。"
+ },
+ "already": {
+  "kind": "story",
+  "text": "already 里藏着 ready 准备好了，已经 ready"
+ },
+ "alright": {
+  "kind": "contrast",
+  "text": "alright 好的，all right 好的：alright 少一个 l"
+ },
+ "always": {
+  "kind": "story",
+  "text": "always 里 all 少一个 l，加 way 和 s 就是总是"
+ },
+ "america": {
+  "kind": "contrast",
+  "text": "America 美国：加 n 变 American，别少 n"
+ },
+ "american": {
+  "kind": "contrast",
+  "text": "American 美国人：America 末尾加 n，别少 n"
+ },
+ "among": {
+  "kind": "contrast",
+  "text": "among 之中有m，along 沿着有l；m像many许多，在中间。"
+ },
+ "and": {
+  "kind": "contrast",
+  "text": "and 和，end 末端：a 和 e 不同"
+ },
+ "another": {
+  "kind": "split",
+  "text": "an 一个 + other 其他 = another 又一个"
+ },
+ "antarctica": {
+  "kind": "story",
+  "text": "Antarctica 南极：Ant蚂蚁+arctic北极+a都很冷"
+ },
+ "anybody": {
+  "kind": "split",
+  "text": "any（任何）+ body（身体）= anybody 任何人"
+ },
+ "anymore": {
+  "kind": "split",
+  "text": "any 任何 + more 更多 = anymore 不再"
+ },
+ "anyone": {
+  "kind": "split",
+  "text": "any（任何）+ one（一个）= anyone 任何人"
+ },
+ "anything": {
+  "kind": "split",
+  "text": "any（任何）+ thing（东西）= anything 任何东西"
+ },
+ "anyway": {
+  "kind": "split",
+  "text": "any 任何 + way 路 = anyway 反正"
+ },
+ "anywhere": {
+  "kind": "split",
+  "text": "any（任何）+ where（哪里）= anywhere 任何地方"
+ },
+ "apartment": {
+  "kind": "story",
+  "text": "apartment：a 是门，part 是房间，合起来是公寓"
+ },
+ "apartment-building": {
+  "kind": "split",
+  "text": "apartment公寓+building楼=apartment building"
+ },
+ "appointment": {
+  "kind": "contrast",
+  "text": "appointment 预约，disappointment 失望：去掉dis就是安排"
+ },
+ "armchair": {
+  "kind": "split",
+  "text": "arm 手臂 + chair 椅子 = armchair 扶手椅"
+ },
+ "article": {
+  "kind": "story",
+  "text": "article 文章：art 是艺术，写成一篇好文章"
+ },
+ "as-well": {
+  "kind": "split",
+  "text": "as 如同 + well 好 = as well 也"
+ },
+ "assistant": {
+  "kind": "affix",
+  "text": "assist（帮助）+ ant（……的人）= assistant 助手"
+ },
+ "at-all": {
+  "kind": "split",
+  "text": "at 在 + all 全部 = at all 根本"
+ },
+ "attractive": {
+  "kind": "affix",
+  "text": "attract（吸引）+ ive（…的）= attractive 吸引人的"
+ },
+ "australian": {
+  "kind": "contrast",
+  "text": "Australian 澳大利亚的/人，比 Australia 多一个 n"
+ },
+ "available": {
+  "kind": "story",
+  "text": "available 里有 able 能：爸爸有空就能帮你。"
+ },
+ "awesome": {
+  "kind": "story",
+  "text": "awesome 像 a+we+some：我们有些好事，哇，极好的！"
+ },
+ "backpack": {
+  "kind": "split",
+  "text": "back 背 + pack 打包 = backpack 背包"
+ },
+ "badly": {
+  "kind": "affix",
+  "text": "bad（坏）+ ly（地）= badly 严重地"
+ },
+ "badminton": {
+  "kind": "story",
+  "text": "badminton 里有 bad（坏），但羽毛球很好玩。"
+ },
+ "bake": {
+  "kind": "contrast",
+  "text": "bake 烤，cake 蛋糕：都有 ake，b/c 不同"
+ },
+ "balloon": {
+  "kind": "story",
+  "text": "balloon 里有 ball 球，两个 o 像圆气球"
+ },
+ "barbecue": {
+  "kind": "story",
+  "text": "barbecue 里有 bar，像小吧台，外面烧烤"
+ },
+ "baseball": {
+  "kind": "split",
+  "text": "base 垒 + ball 球 = baseball 棒球"
+ },
+ "basketball": {
+  "kind": "split",
+  "text": "basket 篮子 + ball 球 = basketball 篮球"
+ },
+ "bathing-suit": {
+  "kind": "split",
+  "text": "bathing 洗澡 + suit 套装 = bathing suit 泳衣"
+ },
+ "bathroom": {
+  "kind": "split",
+  "text": "bath 洗澡 + room 房间 = bathroom 浴室"
+ },
+ "bear": {
+  "kind": "story",
+  "text": "bear 里有 ear 耳朵，大熊用耳朵听动静。"
+ },
+ "because": {
+  "kind": "split",
+  "text": "be 是 + cause 原因 = because 因为"
+ },
+ "because-of": {
+  "kind": "split",
+  "text": "because 因为 + of 的 = because of 因为"
+ },
+ "become": {
+  "kind": "split",
+  "text": "be 是 + come 来 = become 变成"
+ },
+ "bedroom": {
+  "kind": "split",
+  "text": "bed 床 + room 房间 = bedroom 卧室"
+ },
+ "beginner": {
+  "kind": "contrast",
+  "text": "beginner比begin多ner，新手反复开始"
+ },
+ "beginning": {
+  "kind": "contrast",
+  "text": "beginning 比 begin 多一个 n 和 ing，注意双写 n"
+ },
+ "believe": {
+  "kind": "story",
+  "text": "believe 相信：中间藏着 lie，别信谎言才相信"
+ },
+ "belong": {
+  "kind": "split",
+  "text": "be 是 + long 长 = belong 属于，长长久久属于。"
+ },
+ "beside": {
+  "kind": "split",
+  "text": "be（是）+ side（边）= beside 在旁边"
+ },
+ "bill": {
+  "kind": "contrast",
+  "text": "bill 账单：别混 ball 球，bill 用 i 像小票"
+ },
+ "bin": {
+  "kind": "contrast",
+  "text": "bin 垃圾桶，pin 别针：bin 用 b，pin 用 p"
+ },
+ "biology": {
+  "kind": "story",
+  "text": "biology 里有 log 木头，生物课研究树和木头"
+ },
+ "birthday": {
+  "kind": "split",
+  "text": "birth 出生 + day 天 = birthday 生日"
+ },
+ "bit": {
+  "kind": "contrast",
+  "text": "bit 比 bite 少一个 e，咬一口后剩一点就是 bit"
+ },
+ "blackboard": {
+  "kind": "split",
+  "text": "black黑+board板=blackboard黑板"
+ },
+ "blanket": {
+  "kind": "story",
+  "text": "blanket 里有 blank 空白，像盖着一条白毯子"
+ },
+ "block": {
+  "kind": "contrast",
+  "text": "block 大楼，clock 时钟：b 换 c 是钟表"
+ },
+ "blog": {
+  "kind": "contrast",
+  "text": "blog 博客，blow 吹：末尾是 g，不是 w。"
+ },
+ "board": {
+  "kind": "story",
+  "text": "board像写字板：b、d是板边，oar像一行字"
+ },
+ "board-game": {
+  "kind": "split",
+  "text": "board 棋盘 + game 游戏 = board game 棋盘游戏"
+ },
+ "boil": {
+  "kind": "contrast",
+  "text": "boil 煮，oil 油：boil 比 oil 多了 b"
+ },
+ "boiled": {
+  "kind": "affix",
+  "text": "boil（煮）+ ed（已经）= boiled 煮熟的"
+ },
+ "bookcase": {
+  "kind": "split",
+  "text": "book 书 + case 柜子 = bookcase 书柜"
+ },
+ "bookshelf": {
+  "kind": "split",
+  "text": "book 书 + shelf 架子 = bookshelf 书架"
+ },
+ "bookshop": {
+  "kind": "split",
+  "text": "book 书 + shop 商店 = bookshop 书店"
+ },
+ "bookstore": {
+  "kind": "split",
+  "text": "book 书 + store 商店 = bookstore 书店"
+ },
+ "bored": {
+  "kind": "contrast",
+  "text": "bored 无聊的，board 板：board 的 a 变 r、r 变 e"
+ },
+ "borrow": {
+  "kind": "contrast",
+  "text": "borrow 借来，lend 借出：Can I borrow…? Can you lend me…?"
+ },
+ "boss": {
+  "kind": "contrast",
+  "text": "boss 老板：loss 里的 l 换成 b，就成 boss。"
+ },
+ "bother": {
+  "kind": "contrast",
+  "text": "bother 比 other 多个 b，别打扰 other 别人"
+ },
+ "bottom": {
+  "kind": "contrast",
+  "text": "bottom 底部，button 按钮：bottom 最后 m 像猫趴下面。"
+ },
+ "boyfriend": {
+  "kind": "split",
+  "text": "boy 男孩 + friend 朋友 = boyfriend 男朋友"
+ },
+ "brain": {
+  "kind": "contrast",
+  "text": "brain 大脑，rain 雨：前面多一个 b。"
+ },
+ "brazil": {
+  "kind": "sound",
+  "text": "Brazil 读起来就像「巴西」，它本来就是巴西"
+ },
+ "brazilian": {
+  "kind": "affix",
+  "text": "Brazil（巴西）+ ian（…的）= Brazilian 巴西的"
+ },
+ "break-down": {
+  "kind": "split",
+  "text": "break 坏 + down 倒下 = break down 出故障"
+ },
+ "breakfast": {
+  "kind": "split",
+  "text": "break 打破 + fast 禁食 = breakfast 早餐"
+ },
+ "bridge": {
+  "kind": "contrast",
+  "text": "bridge 桥，fridge 冰箱：b 和 f 不同，别把桥放进冰箱。"
+ },
+ "bright": {
+  "kind": "contrast",
+  "text": "bright 明亮，right 右边：bright 多个 b，光在右边亮起来。"
+ },
+ "bring-back": {
+  "kind": "split",
+  "text": "bring 带来 + back 回来 = bring back 带回"
+ },
+ "brush": {
+  "kind": "contrast",
+  "text": "brush 刷子，blush 脸红：brush 有 r，blush 有 l。"
+ },
+ "building": {
+  "kind": "affix",
+  "text": "build（建造）+ ing（名词后缀）= building 楼房"
+ },
+ "bus-station": {
+  "kind": "split",
+  "text": "bus 公交 + station 车站 = bus station 公共汽车站"
+ },
+ "bus-stop": {
+  "kind": "split",
+  "text": "bus 公交 + stop 停 = bus stop 公共汽车站"
+ },
+ "business-person": {
+  "kind": "split",
+  "text": "business 商业 + person 人 = business person 商人"
+ },
+ "businessman": {
+  "kind": "split",
+  "text": "business 生意+man 男人 = businessman 男商人"
+ },
+ "businesswoman": {
+  "kind": "split",
+  "text": "business 生意+woman 女人 = businesswoman 女商人"
+ },
+ "but": {
+  "kind": "contrast",
+  "text": "but 但是，put 放：b 和 p 不同"
+ },
+ "butterfly": {
+  "kind": "split",
+  "text": "butter 黄油 + fly 飞 = butterfly 蝴蝶"
+ },
+ "by-accident": {
+  "kind": "split",
+  "text": "by 经过 + accident 事故 = by accident 不小心"
+ },
+ "by-post": {
+  "kind": "split",
+  "text": "by 通过 + post 邮寄 = by post/by-post 通过邮寄"
+ },
+ "by-the-way": {
+  "kind": "story",
+  "text": "by the way 像走路：way 是路，顺便沿着路提一句。"
+ },
+ "cabinet": {
+  "kind": "contrast",
+  "text": "cabinet 柜子，cabin 小屋：多了 et，像小屋加了柜子。"
+ },
+ "cafeteria": {
+  "kind": "contrast",
+  "text": "cafeteria 自助餐厅比 cafe 咖啡馆多了 teria"
+ },
+ "calendar": {
+  "kind": "story",
+  "text": "calendar 日历：里面藏着 end（结束），日子一页页翻过去。"
+ },
+ "camp": {
+  "kind": "contrast",
+  "text": "camp 露营，cap 帽子：camp 比 cap 多一个 m"
+ },
+ "camping": {
+  "kind": "affix",
+  "text": "camp（露营）+ ing（做……）= camping 露营"
+ },
+ "campsite": {
+  "kind": "split",
+  "text": "camp 露营 + site 地点 = campsite 营地"
+ },
+ "canadian": {
+  "kind": "contrast",
+  "text": "Canadian：Canada 末尾 a 换成 ian，就是加拿大人"
+ },
+ "cannot": {
+  "kind": "split",
+  "text": "can 能 + not 不 = cannot 不能"
+ },
+ "capital": {
+  "kind": "story",
+  "text": "capital 里有 cap：戴 cap 去首都"
+ },
+ "car-park": {
+  "kind": "split",
+  "text": "car 车 + park 停车 = car park 停车场"
+ },
+ "career": {
+  "kind": "story",
+  "text": "career 里藏着 care：对事业要用心 care"
+ },
+ "careful": {
+  "kind": "affix",
+  "text": "care（小心）+ ful（充满……的）= careful 小心的"
+ },
+ "carefully": {
+  "kind": "affix",
+  "text": "careful（小心）+ ly（地）= carefully 小心地"
+ },
+ "carpet": {
+  "kind": "split",
+  "text": "car 车 + pet 宠物 = carpet 地毯"
+ },
+ "cash": {
+  "kind": "contrast",
+  "text": "cash 现金，case 箱子：cash 尾 h，case 尾 e。"
+ },
+ "cd-player": {
+  "kind": "split",
+  "text": "CD 光盘 + player 播放器 = CD player CD 播放机"
+ },
+ "celebrity": {
+  "kind": "contrast",
+  "text": "celebrity 名人，celebrate 庆祝：把 ate 换成 ity"
+ },
+ "cell-phone": {
+  "kind": "split",
+  "text": "cell 小格子 + phone 电话 = cell phone 手机"
+ },
+ "centimetre": {
+  "kind": "contrast",
+  "text": "centimetre 厘米：比 metre 多 c e n t i，小小刻度"
+ },
+ "century": {
+  "kind": "contrast",
+  "text": "century 世纪比 cent 多 ury，一百年叫世纪"
+ },
+ "certainly": {
+  "kind": "affix",
+  "text": "certain（确定）+ ly（地）= certainly 当然"
+ },
+ "chain": {
+  "kind": "contrast",
+  "text": "chain 链子有 n，chair 椅子有 r：链子一圈圈"
+ },
+ "character": {
+  "kind": "contrast",
+  "text": "character 角色，chatter 闲聊：有 act 的是角色，没 act 的是闲聊"
+ },
+ "chat": {
+  "kind": "contrast",
+  "text": "chat 聊天：和 cat 猫多一个 h，猫也爱聊天"
+ },
+ "chatroom": {
+  "kind": "split",
+  "text": "chat 聊天 + room 房间 = chatroom 聊天室"
+ },
+ "check": {
+  "kind": "contrast",
+  "text": "check 检查，cheek 脸颊：check 少一个 e，要仔细核对"
+ },
+ "chef": {
+  "kind": "contrast",
+  "text": "chef 厨师，chief 首领：chef 少个 i，专心做菜"
+ },
+ "chemist": {
+  "kind": "contrast",
+  "text": "chemist 药店，chemistry 化学：chemist 少 ry，是买药的店"
+ },
+ "chemistry": {
+  "kind": "story",
+  "text": "chemistry末尾有try，化学要不断try"
+ },
+ "chicken": {
+  "kind": "story",
+  "text": "chicken 里有 chick 小鸡，它在草地上叫。"
+ },
+ "chilli": {
+  "kind": "contrast",
+  "text": "chilli 辣椒，chilly 冷：最后 i 换成 y 就变冷"
+ },
+ "chinese": {
+  "kind": "story",
+  "text": "Chinese 里有 chin（下巴），说中文要动下巴。"
+ },
+ "chocolate": {
+  "kind": "sound",
+  "text": "chocolate 读起来就像「巧克力」"
+ },
+ "city-centre": {
+  "kind": "split",
+  "text": "city 城市 + centre 中心 = city centre 市中心"
+ },
+ "classical": {
+  "kind": "affix",
+  "text": "classic（经典）+ al（形容词后缀）= classical 古典的"
+ },
+ "classmate": {
+  "kind": "split",
+  "text": "class班+mate同伴=classmate同学"
+ },
+ "classroom": {
+  "kind": "split",
+  "text": "class班+room房间=classroom教室"
+ },
+ "cleaner": {
+  "kind": "affix",
+  "text": "clean（打扫）+ er（人）= cleaner 清洁工"
+ },
+ "clear": {
+  "kind": "contrast",
+  "text": "clear 清楚，clean 干净：都有 cl，ear/ean 不同"
+ },
+ "clearly": {
+  "kind": "affix",
+  "text": "clear（清楚）+ ly（地）= clearly 清楚地"
+ },
+ "click": {
+  "kind": "contrast",
+  "text": "click 点击：和 clock 时钟只差中间 i/o，点一下像滴答"
+ },
+ "climbing": {
+  "kind": "affix",
+  "text": "climb（爬）+ ing（正在）= climbing 正在攀爬"
+ },
+ "close-to": {
+  "kind": "split",
+  "text": "close 近 + to 到 = close to 靠近"
+ },
+ "closed": {
+  "kind": "contrast",
+  "text": "closed 关着的，close 关：closed 多一个 d。"
+ },
+ "closet": {
+  "kind": "contrast",
+  "text": "closet 衣橱，closed 关上的：把 d 换成 t。"
+ },
+ "clothes": {
+  "kind": "contrast",
+  "text": "clothes 衣服，cloth 布：clothes 多 e s，布做成衣服"
+ },
+ "cloud": {
+  "kind": "story",
+  "text": "cloud 里藏着loud（大声），云多雷声大"
+ },
+ "clown": {
+  "kind": "contrast",
+  "text": "clown 小丑，cloud 云：clown 把 u d 换成 w n"
+ },
+ "coach": {
+  "kind": "contrast",
+  "text": "coach 教练，couch 沙发：中间 a 像哨子，u 像软沙发。"
+ },
+ "coast": {
+  "kind": "contrast",
+  "text": "coast 海岸，coat 外套：coast 多一个 s"
+ },
+ "colleague": {
+  "kind": "contrast",
+  "text": "colleague 同事比 college 学院多了 a 和 u。"
+ },
+ "collect": {
+  "kind": "contrast",
+  "text": "collect 收集，correct 正确：l 装东西，r 改错"
+ },
+ "comb": {
+  "kind": "contrast",
+  "text": "comb 梳子，come 来：comb 用 b 梳头发，come 用 e 来"
+ },
+ "come-back": {
+  "kind": "split",
+  "text": "come 来 + back 回来 = come back 回来"
+ },
+ "comfortable": {
+  "kind": "affix",
+  "text": "comfort（舒适）+ able（能…）= comfortable 舒适的"
+ },
+ "company": {
+  "kind": "story",
+  "text": "company 公司：m 像人，any 任何人围坐，就是一家公司。"
+ },
+ "complete": {
+  "kind": "contrast",
+  "text": "complete 完成，compete 比赛：complete 多一个 l"
+ },
+ "computer": {
+  "kind": "story",
+  "text": "computer电脑里有put（放），把东西放进去。"
+ },
+ "contact": {
+  "kind": "contrast",
+  "text": "contact 联系，contract 合同：contract 多一个 r。"
+ },
+ "cooker": {
+  "kind": "affix",
+  "text": "cook（做饭）+ er（做东西的）= cooker 炉灶"
+ },
+ "cooking": {
+  "kind": "affix",
+  "text": "cook（做饭）+ ing（…的）= cooking 烹饪"
+ },
+ "correct": {
+  "kind": "contrast",
+  "text": "correct 正确，collect 收集：rr 对 ll"
+ },
+ "cost": {
+  "kind": "contrast",
+  "text": "cost 价钱，coat 外套：cost 中 s，coat 中 a。"
+ },
+ "costume": {
+  "kind": "contrast",
+  "text": "costume 戏服，cost 花费：多 u m e，装扮要成本"
+ },
+ "could": {
+  "kind": "contrast",
+  "text": "could 能，would 想要：把 w 换成 c"
+ },
+ "country": {
+  "kind": "contrast",
+  "text": "country（国家/乡村），countryside（乡下）：加 side 就变乡下。"
+ },
+ "countryside": {
+  "kind": "split",
+  "text": "country（乡村）+ side（边）= countryside 乡下"
+ },
+ "court": {
+  "kind": "contrast",
+  "text": "court 球场，course 课程：结尾 t 对 se"
+ },
+ "cover": {
+  "kind": "contrast",
+  "text": "cover 覆盖，over 上面：cover 前面多一个 c"
+ },
+ "creature": {
+  "kind": "contrast",
+  "text": "creature 生物，create 创造：末尾 e 换成 ure 就活了"
+ },
+ "credit-card": {
+  "kind": "split",
+  "text": "credit 信用 + card 卡 = credit card 信用卡"
+ },
+ "cross": {
+  "kind": "contrast",
+  "text": "cross 横穿，across 经过：across 多一个 a，像从起点穿过。"
+ },
+ "crossing": {
+  "kind": "affix",
+  "text": "cross（穿过）+ ing（做……）= crossing 人行横道"
+ },
+ "crowd": {
+  "kind": "contrast",
+  "text": "crowd 人群，crown 王冠：crowd 把 n 换成 d"
+ },
+ "crowded": {
+  "kind": "affix",
+  "text": "crowd 人群 + ed（…的）= crowded 拥挤的"
+ },
+ "cupboard": {
+  "kind": "split",
+  "text": "cup 杯 + board 板 = cupboard 橱柜"
+ },
+ "curtain": {
+  "kind": "contrast",
+  "text": "curtain 窗帘：把 certain 的 e 换成 u，拉上窗帘。"
+ },
+ "customer": {
+  "kind": "affix",
+  "text": "custom（习惯）+ er（人）= customer 顾客"
+ },
+ "dancer": {
+  "kind": "contrast",
+  "text": "dancer 舞者，dance 跳舞：dancer 多个 r，像一个人。"
+ },
+ "danger": {
+  "kind": "contrast",
+  "text": "danger 危险，dancer 舞者：g 警告，c 跳舞"
+ },
+ "dangerous": {
+  "kind": "affix",
+  "text": "danger（危险）+ ous（充满…的）= dangerous 危险的"
+ },
+ "dear": {
+  "kind": "contrast",
+  "text": "dear 亲爱的：把 bear 的 b 换成 d，就变 dear"
+ },
+ "delay": {
+  "kind": "contrast",
+  "text": "day 一天，delay 在 d 后加 el：多绕一点就延误。"
+ },
+ "delayed": {
+  "kind": "affix",
+  "text": "delay（延误）+ ed（的）= delayed 延误的"
+ },
+ "department": {
+  "kind": "story",
+  "text": "department 里有 part 部分，部门是一部分"
+ },
+ "department-store": {
+  "kind": "split",
+  "text": "department 部门+store 商店=department store"
+ },
+ "desert": {
+  "kind": "contrast",
+  "text": "desert 沙漠只有一个 s，dessert 甜点有两个 s，因为甜点想多吃一份"
+ },
+ "design": {
+  "kind": "story",
+  "text": "design 里有 sign 标志：先画一个 sign，再设计图案"
+ },
+ "dessert": {
+  "kind": "contrast",
+  "text": "dessert 甜点有两个 s，desert 沙漠只有一个 s，甜点想多吃一份"
+ },
+ "details": {
+  "kind": "affix",
+  "text": "detail（细节）+ s（复数）= details 细节"
+ },
+ "difficult": {
+  "kind": "contrast",
+  "text": "difficult 困难的，difficulty 困难：最后多一个 y"
+ },
+ "digital-camera": {
+  "kind": "split",
+  "text": "digital 数码 + camera 相机 = digital camera 数码相机"
+ },
+ "dining-room": {
+  "kind": "split",
+  "text": "dining 吃饭 + room 房间 = dining room 餐厅"
+ },
+ "directions": {
+  "kind": "affix",
+  "text": "direction 方向 + s（复数）= directions 路线指引"
+ },
+ "discount": {
+  "kind": "story",
+  "text": "discount 里有 count 数钱，少数一点就是折扣"
+ },
+ "discover": {
+  "kind": "affix",
+  "text": "dis（去掉）+ cover（覆盖）= discover 发现"
+ },
+ "dish": {
+  "kind": "contrast",
+  "text": "dish 一道菜，fish 鱼：dish 把 f 换成 d"
+ },
+ "dive": {
+  "kind": "contrast",
+  "text": "dive 跳水，drive 开车：dive 少了 r，身体直直入水。"
+ },
+ "donkey": {
+  "kind": "contrast",
+  "text": "donkey 驴，monkey 猴：开头 d 像长耳朵，别记成 m"
+ },
+ "dot": {
+  "kind": "contrast",
+  "text": "dot 点：和 dog 狗只差最后 t/g，点不是狗"
+ },
+ "download": {
+  "kind": "split",
+  "text": "down 下 + load 装 = download 下载"
+ },
+ "downstairs": {
+  "kind": "split",
+  "text": "down 下 + stairs 楼梯 = downstairs 在楼下"
+ },
+ "drawer": {
+  "kind": "affix",
+  "text": "draw（拉）+ er（东西）= drawer 抽屉"
+ },
+ "drawing": {
+  "kind": "affix",
+  "text": "draw（画）+ ing（进行）= drawing 图画"
+ },
+ "dressed": {
+  "kind": "affix",
+  "text": "dress（穿）+ ed（已经）= dressed 穿好衣服的"
+ },
+ "driving-licence": {
+  "kind": "split",
+  "text": "driving 开车+licence 证=driving licence 驾照"
+ },
+ "drugstore": {
+  "kind": "split",
+  "text": "drug 药 + store 商店 = drugstore 药店"
+ },
+ "dry": {
+  "kind": "contrast",
+  "text": "dry 干的，try 尝试：dry 用 d，try 用 t。"
+ },
+ "during": {
+  "kind": "story",
+  "text": "during 里有 ring：在……期间，听到铃响就下课"
+ },
+ "dvd": {
+  "kind": "contrast",
+  "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
+ },
+ "dvd-player": {
+  "kind": "split",
+  "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
+ },
+ "each": {
+  "kind": "contrast",
+  "text": "each 每个，beach 海滩：beach 多一个 b，每个都想去海滩"
+ },
+ "each-other": {
+  "kind": "split",
+  "text": "each 每个 + other 另一个 = each other 互相"
+ },
+ "early": {
+  "kind": "story",
+  "text": "early 里有 ear 耳朵：听到鸟叫就早早起床"
+ },
+ "earn": {
+  "kind": "contrast",
+  "text": "earn 挣钱：learn 学习去掉 l，就成 earn。"
+ },
+ "earring": {
+  "kind": "split",
+  "text": "ear 耳朵 + ring 环 = earring 耳环"
+ },
+ "eighth": {
+  "kind": "story",
+  "text": "eighth 第八：eight 八后面加 h，t 不用写两遍。"
+ },
+ "eighty": {
+  "kind": "affix",
+  "text": "eight（八）+ y（十）= eighty 八十"
+ },
+ "electric": {
+  "kind": "contrast",
+  "text": "electric 电动，electronic 电子：electric 短，基础"
+ },
+ "electricity": {
+  "kind": "affix",
+  "text": "electric（电的）+ ity（名词后缀）= electricity 电"
+ },
+ "eleven": {
+  "kind": "contrast",
+  "text": "eleven 十一：开头 el，不是 seven 的 s。"
+ },
+ "eleventh": {
+  "kind": "affix",
+  "text": "eleven十一+th序数=eleventh第十一"
+ },
+ "end": {
+  "kind": "contrast",
+  "text": "end 结束，and 和：把 and 的 a 换成 e 就是 end"
+ },
+ "engineer": {
+  "kind": "affix",
+  "text": "engine（发动机）+ er（做…的人）= engineer 工程师"
+ },
+ "england": {
+  "kind": "contrast",
+  "text": "England 英格兰：English 把 ish 换成 and 就成国家"
+ },
+ "english": {
+  "kind": "sound",
+  "text": "English 读起来像「英格利什」，就是英语。"
+ },
+ "enjoy": {
+  "kind": "affix",
+  "text": "en（使）+ joy（快乐）= enjoy 享受"
+ },
+ "environment": {
+  "kind": "story",
+  "text": "environment 里藏着 iron 铁，环境像铁一样重要"
+ },
+ "equipment": {
+  "kind": "affix",
+  "text": "equip（装备）+ ment（名词后缀）= equipment 设备"
+ },
+ "especially": {
+  "kind": "contrast",
+  "text": "especially 尤其，special 特别：前加 e，后加 ly。"
+ },
+ "evening": {
+  "kind": "contrast",
+  "text": "evening 傍晚比 even 多了 ing，表示这段时间"
+ },
+ "event": {
+  "kind": "contrast",
+  "text": "event 活动，even 甚至：多一个 t，就是活动"
+ },
+ "ever": {
+  "kind": "contrast",
+  "text": "ever 曾经，every 每个：every 比 ever 多一个 y"
+ },
+ "every": {
+  "kind": "contrast",
+  "text": "every 每一个，very 很：every 多一个 e，每个都很棒"
+ },
+ "everybody": {
+  "kind": "split",
+  "text": "every（每个）+ body（身体）= everybody 每个人"
+ },
+ "everyone": {
+  "kind": "split",
+  "text": "every（每个）+ one（一个）= everyone 每个人"
+ },
+ "everything": {
+  "kind": "split",
+  "text": "every（每个）+ thing（东西）= everything 所有东西"
+ },
+ "everywhere": {
+  "kind": "split",
+  "text": "every（每个）+ where（哪里）= everywhere 到处"
+ },
+ "exactly": {
+  "kind": "affix",
+  "text": "exact（准确）+ ly（副词）= exactly 正好"
+ },
+ "examination": {
+  "kind": "contrast",
+  "text": "examination比exam多ination，大考试要细看"
+ },
+ "except": {
+  "kind": "contrast",
+  "text": "except 除…外，accept 接受：x 和 c 不同"
+ },
+ "excited": {
+  "kind": "contrast",
+  "text": "excited 兴奋的，excite 使兴奋：excite 后加 d"
+ },
+ "excuse": {
+  "kind": "story",
+  "text": "excuse 里有 use 用，先说 excuse me 再用东西。"
+ },
+ "exit": {
+  "kind": "contrast",
+  "text": "exit 出口，exist 存在：exit 比 exist 少一个 s"
+ },
+ "expensive": {
+  "kind": "story",
+  "text": "expensive 有 pen 笔，贵得买笔也珍惜。"
+ },
+ "explain": {
+  "kind": "story",
+  "text": "explain 解释：ex 像疑问，plain 像明白，老师把疑问说明白"
+ },
+ "explorer": {
+  "kind": "contrast",
+  "text": "explorer 探险家，explore 探索：末尾多一个 r，像多一条路。"
+ },
+ "factory": {
+  "kind": "contrast",
+  "text": "factory 工厂比 fact 事实多了 ory"
+ },
+ "fair": {
+  "kind": "contrast",
+  "text": "fair 公平的：把 chair 的 ch 换成 f，就变 fair"
+ },
+ "fall-over": {
+  "kind": "story",
+  "text": "fall over：fall 像身子落下，over 像翻过去一点。"
+ },
+ "fantastic": {
+  "kind": "story",
+  "text": "fantastic 里有 fan 扇子，像观众摇扇子叫好"
+ },
+ "fast-food": {
+  "kind": "split",
+  "text": "fast 快 + food 食物 = fast food 快餐"
+ },
+ "favourite": {
+  "kind": "contrast",
+  "text": "favourite 有 u，favorite 没有 u，英式美式不同"
+ },
+ "feelings": {
+  "kind": "affix",
+  "text": "feeling（感觉）+ s（复数）= feelings 感受"
+ },
+ "fifth": {
+  "kind": "contrast",
+  "text": "fifth 第五，fifty 五十：th 收尾不是 y。"
+ },
+ "fill-in": {
+  "kind": "split",
+  "text": "fill 填满 + in 里面 = fill in 填空"
+ },
+ "final": {
+  "kind": "story",
+  "text": "final 里有 fin 鱼鳍：最后一条鱼游到终点"
+ },
+ "finally": {
+  "kind": "affix",
+  "text": "final（最后）+ ly（……地）= finally 终于"
+ },
+ "find-out": {
+  "kind": "split",
+  "text": "find 找 + out 出来 = find out 查明"
+ },
+ "finger": {
+  "kind": "story",
+  "text": "finger 里有 fin（鱼鳍），手指像小鱼鳍。"
+ },
+ "first-name": {
+  "kind": "split",
+  "text": "first 第一 + name 名字 = first name 名字"
+ },
+ "first-of-all": {
+  "kind": "split",
+  "text": "first 第一 + of 的 + all 全部 = first of all 首先"
+ },
+ "fishing": {
+  "kind": "affix",
+  "text": "fish（鱼）+ ing（做）= fishing 钓鱼"
+ },
+ "flight": {
+  "kind": "contrast",
+  "text": "flight 航班，light 灯：flight 就是 light 前加 f"
+ },
+ "foggy": {
+  "kind": "contrast",
+  "text": "foggy 有雾的，fog 是雾：foggy 多一个g和y"
+ },
+ "folder": {
+  "kind": "affix",
+  "text": "fold（折）+ er（做…的东西）= folder 文件夹"
+ },
+ "football": {
+  "kind": "split",
+  "text": "foot 脚 + ball 球 = football 足球"
+ },
+ "football-player": {
+  "kind": "split",
+  "text": "football足球+player运动员=football player 球员"
+ },
+ "footballer": {
+  "kind": "affix",
+  "text": "football（足球）+ er（做…的人）= footballer 足球运动员"
+ },
+ "for": {
+  "kind": "contrast",
+  "text": "for 为了，four 四：four 多一个 u"
+ },
+ "for-sale": {
+  "kind": "split",
+  "text": "for 给 + sale 出售 = for sale 出售"
+ },
+ "forest": {
+  "kind": "story",
+  "text": "forest 开头是 for，为了种树成森林。"
+ },
+ "forget": {
+  "kind": "split",
+  "text": "for 为了 + get 得到 = forget 忘记（为了新的，忘了旧的）"
+ },
+ "form": {
+  "kind": "contrast",
+  "text": "form 表格：别混 from 来自，form 的 o 在 r 前"
+ },
+ "fourteen": {
+  "kind": "affix",
+  "text": "four（四）+ teen（十几）= fourteen 十四"
+ },
+ "french-fries": {
+  "kind": "split",
+  "text": "French 法国 + fries 薯条 = French fries 薯条"
+ },
+ "fresh": {
+  "kind": "contrast",
+  "text": "fresh 新鲜，flesh 肉：fresh 用 r，flesh 用 l。"
+ },
+ "fried": {
+  "kind": "contrast",
+  "text": "fried 煎的，friend 朋友：friend 多一个 n"
+ },
+ "friendly": {
+  "kind": "affix",
+  "text": "friend（朋友）+ ly（像…的）= friendly 友好的"
+ },
+ "frightened": {
+  "kind": "story",
+  "text": "frightened 里有 right 右边，右边一动就害怕"
+ },
+ "from": {
+  "kind": "contrast",
+  "text": "from 从…来，form 形状：r 和 o 换了位置"
+ },
+ "furniture": {
+  "kind": "story",
+  "text": "furniture 家具：开头 fur 像毛皮，后面 niture 像许多家具"
+ },
+ "further": {
+  "kind": "story",
+  "text": "further 里有 fur 毛，像毛茸茸小动物走得更远。"
+ },
+ "gallery": {
+  "kind": "story",
+  "text": "gallery 里有 all 全部：全部画作都在画廊里"
+ },
+ "garage": {
+  "kind": "story",
+  "text": "garage：g 像车库门，ar 像车开进，age 像停好"
+ },
+ "gas-station": {
+  "kind": "split",
+  "text": "gas 汽油 + station 车站 = gas station 加油站"
+ },
+ "get-back": {
+  "kind": "split",
+  "text": "get 得到 + back 回来 = get back 返回"
+ },
+ "get-dressed": {
+  "kind": "split",
+  "text": "get 变 + dressed 穿好 = get dressed 穿衣服"
+ },
+ "get-fit": {
+  "kind": "split",
+  "text": "get 得到 + fit 健康 = get fit 健身"
+ },
+ "get-married": {
+  "kind": "split",
+  "text": "get 得到 + married 已婚 = get married 结婚"
+ },
+ "get-off": {
+  "kind": "split",
+  "text": "get 得到 + off 离开 = get off 下车"
+ },
+ "get-on": {
+  "kind": "split",
+  "text": "get 得到 + on 在……上 = get on 上车"
+ },
+ "get-up": {
+  "kind": "split",
+  "text": "get 得到 + up 向上 = get up 起床"
+ },
+ "gift": {
+  "kind": "contrast",
+  "text": "gift 礼物，give 给：结尾不是 ve，是 ft，像打包礼物"
+ },
+ "girlfriend": {
+  "kind": "split",
+  "text": "girl 女孩 + friend 朋友 = girlfriend 女朋友"
+ },
+ "give-back": {
+  "kind": "split",
+  "text": "give 给 + back 回来 = give back 归还"
+ },
+ "give-somebody-a-call": {
+  "kind": "story",
+  "text": "give somebody a call：把call递给somebody。"
+ },
+ "glad": {
+  "kind": "contrast",
+  "text": "glad 高兴，sad 难过：g 像笑脸，s 像叹气"
+ },
+ "glasses": {
+  "kind": "affix",
+  "text": "glass（玻璃）+ es（复数）= glasses 眼镜"
+ },
+ "glove": {
+  "kind": "story",
+  "text": "glove 手套：g 是拇指，love 让手暖暖的"
+ },
+ "go-out": {
+  "kind": "split",
+  "text": "go 去 + out 外面 = go out 出去玩"
+ },
+ "go-shopping": {
+  "kind": "split",
+  "text": "go 去 + shopping 购物 = go shopping 去购物"
+ },
+ "goal": {
+  "kind": "contrast",
+  "text": "goal 球门，goat 山羊：l 换成 t。"
+ },
+ "golden": {
+  "kind": "affix",
+  "text": "gold（金）+ en（……的）= golden 金色的"
+ },
+ "good-afternoon": {
+  "kind": "split",
+  "text": "good 好 + afternoon 下午 = good afternoon 下午好"
+ },
+ "good-evening": {
+  "kind": "split",
+  "text": "good 好 + evening 晚上 = good evening 晚上好"
+ },
+ "good-morning": {
+  "kind": "split",
+  "text": "good 好 + morning 早上 = good morning 早上好"
+ },
+ "good-night": {
+  "kind": "split",
+  "text": "good 好 + night 夜晚 = good night 晚安"
+ },
+ "goodbye": {
+  "kind": "split",
+  "text": "good 好 + bye 再见 = goodbye 再见"
+ },
+ "grandad": {
+  "kind": "contrast",
+  "text": "grandad和granddad都是爷爷或外公，grandad少一个d"
+ },
+ "grandchild": {
+  "kind": "split",
+  "text": "grand 祖 + child 孩子 = grandchild 孙辈"
+ },
+ "granddaughter": {
+  "kind": "split",
+  "text": "grand 祖 + daughter 女 = granddaughter 孙女"
+ },
+ "grandfather": {
+  "kind": "split",
+  "text": "grand 祖 + father 爸爸 = grandfather 祖父"
+ },
+ "grandmother": {
+  "kind": "split",
+  "text": "grand 祖 + mother 妈妈 = grandmother 祖母"
+ },
+ "grandparent": {
+  "kind": "split",
+  "text": "grand 祖 + parent 家长 = grandparent 祖辈"
+ },
+ "grandson": {
+  "kind": "split",
+  "text": "grand 祖 + son 儿子 = grandson 孙子"
+ },
+ "grilled": {
+  "kind": "affix",
+  "text": "grill（烤架）+ ed（已经）= grilled 烤过的"
+ },
+ "grocery-store": {
+  "kind": "split",
+  "text": "grocery 杂货 + store 商店 = grocery store 杂货店"
+ },
+ "ground": {
+  "kind": "story",
+  "text": "ground 里有 round 圆，操场地面圆圆的"
+ },
+ "grow-up": {
+  "kind": "split",
+  "text": "grow 长 + up 向上 = grow up 长大"
+ },
+ "guess": {
+  "kind": "contrast",
+  "text": "guess 猜末尾是 ss，guest 客人末尾是 t。"
+ },
+ "guess-what": {
+  "kind": "split",
+  "text": "guess 猜 + what 什么 = Guess what? 你猜怎么着"
+ },
+ "guest": {
+  "kind": "contrast",
+  "text": "guest 客人，guess 猜：guest 尾 t，guess 尾 s"
+ },
+ "guest-house": {
+  "kind": "split",
+  "text": "guest 客人 + house 房子 = guest-house 小旅馆"
+ },
+ "guidebook": {
+  "kind": "split",
+  "text": "guide 指南 + book 书 = guidebook 旅游手册"
+ },
+ "guy": {
+  "kind": "contrast",
+  "text": "guy 家伙，buy 买：g 像戴帽子的 guy，b 像购物袋"
+ },
+ "half-price": {
+  "kind": "split",
+  "text": "half 半 + price 价格 = half-price 半价的"
+ },
+ "hall": {
+  "kind": "story",
+  "text": "hall 像门厅：h 是门框，all 是里面所有人"
+ },
+ "handbag": {
+  "kind": "split",
+  "text": "hand 手 + bag 包 = handbag 手提包"
+ },
+ "happen": {
+  "kind": "contrast",
+  "text": "happen 发生，happy 开心：happen 用 en，happy 用 y"
+ },
+ "happy": {
+  "kind": "contrast",
+  "text": "happy 快乐，unhappy 不快乐：加 un 就不快乐"
+ },
+ "hate": {
+  "kind": "contrast",
+  "text": "hate 讨厌，hat 帽子：hate 多一个 e"
+ },
+ "have": {
+  "kind": "contrast",
+  "text": "have 有，save 救：把 s 换成 h 就有东西"
+ },
+ "have-got-to": {
+  "kind": "story",
+  "text": "have got to：手里 have 有、got 拿到、to 去，必须"
+ },
+ "have-to": {
+  "kind": "split",
+  "text": "have 有 + to 去 = have to 必须"
+ },
+ "headache": {
+  "kind": "split",
+  "text": "head 头 + ache 痛 = headache 头痛"
+ },
+ "headteacher": {
+  "kind": "split",
+  "text": "head 头 + teacher 老师 = headteacher 校长"
+ },
+ "health": {
+  "kind": "contrast",
+  "text": "health 健康，wealth 财富：开头的 h 换成 w，健康变财富"
+ },
+ "healthy": {
+  "kind": "affix",
+  "text": "health（健康）+ y（…的）= healthy 健康的"
+ },
+ "heart": {
+  "kind": "contrast",
+  "text": "heart 比 hear 多一个 t，听见心跳。"
+ },
+ "heating": {
+  "kind": "affix",
+  "text": "heat（热）+ ing（过程）= heating 供暖"
+ },
+ "helpful": {
+  "kind": "affix",
+  "text": "help（帮助）+ ful（充满……的）= helpful 乐于助人的"
+ },
+ "her": {
+  "kind": "contrast",
+  "text": "her 她的/她，here 这里：here 比 her 多一个 e"
+ },
+ "here": {
+  "kind": "contrast",
+  "text": "here 这里，there 那里：here 用 h 指自己。"
+ },
+ "hers": {
+  "kind": "affix",
+  "text": "her（她的）+ s（表示东西）= hers 她的东西"
+ },
+ "herself": {
+  "kind": "split",
+  "text": "her 她的 + self 自己 = herself 她自己"
+ },
+ "him": {
+  "kind": "contrast",
+  "text": "him 他（宾格），his 他的：him 用 m，his 用 s"
+ },
+ "himself": {
+  "kind": "split",
+  "text": "him 他 + self 自己 = himself 他自己"
+ },
+ "hip-hop": {
+  "kind": "sound",
+  "text": "hip hop 读起来就像「嘻哈」，边说边跳。"
+ },
+ "his": {
+  "kind": "contrast",
+  "text": "his 他的，him 他：his 的 s 像挂钩，挂上‘他的’"
+ },
+ "history": {
+  "kind": "story",
+  "text": "history开头his他的，历史就是他的故事"
+ },
+ "holiday": {
+  "kind": "contrast",
+  "text": "holiday 假期，holy 神圣：holy 的 y 换成 i 加 day"
+ },
+ "homework": {
+  "kind": "split",
+  "text": "home家+work工作=homework家庭作业"
+ },
+ "honey": {
+  "kind": "contrast",
+  "text": "honey 蜂蜜，money 钱：honey 把 m 换成 h"
+ },
+ "horrible": {
+  "kind": "contrast",
+  "text": "horrible 可怕，horror 恐怖：结尾 ible 对 or"
+ },
+ "horror": {
+  "kind": "contrast",
+  "text": "horror 恐怖，horrible 可怕：结尾 or 对 ible"
+ },
+ "housewife": {
+  "kind": "split",
+  "text": "house 房子 + wife 妻子 = housewife 家庭主妇"
+ },
+ "how": {
+  "kind": "contrast",
+  "text": "how 怎么，now 现在：把 n 换成 h 就变成怎么"
+ },
+ "however": {
+  "kind": "split",
+  "text": "how 怎样 + ever 永远 = however 然而"
+ },
+ "huge": {
+  "kind": "contrast",
+  "text": "huge 巨大，hug 拥抱：huge 多 e，拥抱变成大大的。"
+ },
+ "hundred": {
+  "kind": "story",
+  "text": "hundred 百：末尾有 red 红，一百个红气球。"
+ },
+ "husband": {
+  "kind": "story",
+  "text": "husband 末尾 band 像婚礼乐队"
+ },
+ "ice-cream": {
+  "kind": "split",
+  "text": "ice 冰 + cream 奶油 = ice cream 冰淇淋"
+ },
+ "ice-skating": {
+  "kind": "split",
+  "text": "ice 冰 + skating 滑 = ice skating 滑冰"
+ },
+ "id-card": {
+  "kind": "story",
+  "text": "ID card 像一张小卡片：ID 写身份，card 是卡片"
+ },
+ "immediately": {
+  "kind": "affix",
+  "text": "immediate（立刻）+ ly（地）= immediately 立刻"
+ },
+ "important": {
+  "kind": "story",
+  "text": "important 重要：结尾 ant 蚂蚁，搬着重要的货"
+ },
+ "impossible": {
+  "kind": "affix",
+  "text": "im（不）+ possible（可能）= impossible 不可能的"
+ },
+ "improve": {
+  "kind": "story",
+  "text": "improve 里有 prove 证明，一次比一次证明更好"
+ },
+ "include": {
+  "kind": "contrast",
+  "text": "include 包括，exclude 排除：in 进，ex 出"
+ },
+ "indian": {
+  "kind": "contrast",
+  "text": "Indian 印度人：India 末尾加 n，别少 n"
+ },
+ "indoor": {
+  "kind": "split",
+  "text": "in 在 + door 门 = indoor 室内的"
+ },
+ "instead-of": {
+  "kind": "split",
+  "text": "instead 代替 + of 的 = instead of 代替"
+ },
+ "instructions": {
+  "kind": "affix",
+  "text": "instruction（说明）+ s（多个）= instructions 说明"
+ },
+ "interested": {
+  "kind": "affix",
+  "text": "interest（兴趣）+ ed（的）= interested 感兴趣的"
+ },
+ "interesting": {
+  "kind": "affix",
+  "text": "interest（兴趣）+ ing（的）= interesting 有趣的"
+ },
+ "international": {
+  "kind": "story",
+  "text": "international：i 像一面旗，national 是国家，连成国际。"
+ },
+ "internet": {
+  "kind": "story",
+  "text": "internet：像一张net，把中间的人连起来。"
+ },
+ "ireland": {
+  "kind": "story",
+  "text": "Ireland 里有 land（陆地），是海中的绿岛。"
+ },
+ "island": {
+  "kind": "story",
+  "text": "island：s 像海水，把 land 陆地围成小岛。"
+ },
+ "its": {
+  "kind": "affix",
+  "text": "it（它）+ s（表示所属）= its 它的"
+ },
+ "itself": {
+  "kind": "split",
+  "text": "it 它 + self 自己 = itself 它自己"
+ },
+ "japanese": {
+  "kind": "affix",
+  "text": "Japan（日本）+ ese（人）= Japanese 日本的/日语"
+ },
+ "jewellery": {
+  "kind": "contrast",
+  "text": "jewellery 珠宝，jewel 宝石：多 l e r y，很多宝石"
+ },
+ "journalist": {
+  "kind": "affix",
+  "text": "journal（报刊）+ ist（做…的人）= journalist 记者"
+ },
+ "journey": {
+  "kind": "story",
+  "text": "journey 里藏着 our 我们的，旅程是我们的旅行"
+ },
+ "jumper": {
+  "kind": "affix",
+  "text": "jump（跳）+ er（……的）= jumper 毛衣，穿上跳一跳"
+ },
+ "just": {
+  "kind": "contrast",
+  "text": "just 刚刚，must 必须：j 像钩子刚挂上，m 像大门必须进"
+ },
+ "keyboard": {
+  "kind": "split",
+  "text": "key 键 + board 板 = keyboard 键盘"
+ },
+ "kilometre": {
+  "kind": "contrast",
+  "text": "kilometre 千米：比 metre 多 k i l o，路更长"
+ },
+ "kit": {
+  "kind": "contrast",
+  "text": "kit 装备，kite 风筝：差一个 e，别把装备放飞了"
+ },
+ "kitten": {
+  "kind": "story",
+  "text": "kitten 里有 ten 十，小猫玩十个线团。"
+ },
+ "lake": {
+  "kind": "contrast",
+  "text": "lake 湖，like 喜欢：lake 中间是 a，like 中间是 i。"
+ },
+ "language": {
+  "kind": "story",
+  "text": "language 里有 age 年龄，陪我们长大。"
+ },
+ "last": {
+  "kind": "contrast",
+  "text": "last 上一个，lost 迷路：a 换成 o 就迷路"
+ },
+ "late": {
+  "kind": "contrast",
+  "text": "late 晚的，date 日期：把 date 的 d 换成 l 就是 late"
+ },
+ "later": {
+  "kind": "contrast",
+  "text": "late 迟到，later 稍后：later 比 late 多一个 r"
+ },
+ "latest": {
+  "kind": "contrast",
+  "text": "late 晚的，latest 最新：latest 比 late 多 st"
+ },
+ "least": {
+  "kind": "contrast",
+  "text": "least 最少，less 更少；least 中间有个 a，像到了最少的角落"
+ },
+ "leather": {
+  "kind": "contrast",
+  "text": "leather 皮革，weather 天气：l 像皮绳，w 像风。"
+ },
+ "left-hand": {
+  "kind": "split",
+  "text": "left 左 + hand 手 = left-hand 左手的"
+ },
+ "lemonade": {
+  "kind": "story",
+  "text": "lemonade 里有 lemon，柠檬加水变柠檬水"
+ },
+ "lend": {
+  "kind": "contrast",
+  "text": "lend 借出（给出去），borrow 借来（拿进来）：Can you lend me…?"
+ },
+ "less": {
+  "kind": "contrast",
+  "text": "less 更少，least 最少；less 没有 a，还没到最少"
+ },
+ "let": {
+  "kind": "contrast",
+  "text": "let 让，get 得到：把 g 换成 l"
+ },
+ "level": {
+  "kind": "story",
+  "text": "level 像天平：两边 l，中间 eve 平衡。"
+ },
+ "lie-down": {
+  "kind": "split",
+  "text": "lie 躺 + down 下 = lie down 躺下"
+ },
+ "lift": {
+  "kind": "contrast",
+  "text": "lift 电梯，left 左边：lift 用 i，left 用 e"
+ },
+ "living-room": {
+  "kind": "split",
+  "text": "living 生活 + room 房间 = living room 客厅"
+ },
+ "look-after": {
+  "kind": "split",
+  "text": "look 看 + after 在后 = look after 照顾"
+ },
+ "look-at": {
+  "kind": "split",
+  "text": "look 看 + at 向 = look at 看"
+ },
+ "look-for": {
+  "kind": "split",
+  "text": "look 看 + for 为了 = look for 寻找"
+ },
+ "look-out": {
+  "kind": "split",
+  "text": "look 看 + out 外面 = look out 小心"
+ },
+ "lorry": {
+  "kind": "contrast",
+  "text": "lorry 卡车，sorry 抱歉：首字母 l/s 不同。"
+ },
+ "lost": {
+  "kind": "contrast",
+  "text": "lost 迷路的，比 lot 多一个 s，多走一步就迷路"
+ },
+ "lots": {
+  "kind": "affix",
+  "text": "lot（许多）+ s（复数）= lots 许多"
+ },
+ "loud": {
+  "kind": "contrast",
+  "text": "loud 大声，cloud 云：loud 没有 c，cloud 有 c"
+ },
+ "lovely": {
+  "kind": "affix",
+  "text": "love（爱）+ ly（的）= lovely 可爱的"
+ },
+ "luck": {
+  "kind": "contrast",
+  "text": "luck 运气，duck 鸭子：l 换成 d。"
+ },
+ "luckily": {
+  "kind": "story",
+  "text": "luckily 幸运地：luck 运气加小尾巴 ily，好运就来了"
+ },
+ "lunchtime": {
+  "kind": "split",
+  "text": "lunch 午餐 + time 时间 = lunchtime 午餐时间"
+ },
+ "mad": {
+  "kind": "contrast",
+  "text": "mad 生气，sad 难过：m 像鼓腮，s 像叹气"
+ },
+ "main-course": {
+  "kind": "split",
+  "text": "main 主要的+course 一道=main course 主菜"
+ },
+ "make-sure": {
+  "kind": "split",
+  "text": "make 做 + sure 确定 = make sure 确保"
+ },
+ "make-up": {
+  "kind": "split",
+  "text": "make 做 + up 上 = make-up 化妆品"
+ },
+ "manager": {
+  "kind": "contrast",
+  "text": "manager 经理：manage 管理，多一个 r 就是经理。"
+ },
+ "mango": {
+  "kind": "split",
+  "text": "man 男人 + go 去 = mango 芒果"
+ },
+ "many": {
+  "kind": "contrast",
+  "text": "many 许多，money 钱：many 有 a，money 有 o"
+ },
+ "march": {
+  "kind": "story",
+  "text": "March 三月：m 后面藏着 arch（拱门），春天拱门开花。"
+ },
+ "mark": {
+  "kind": "contrast",
+  "text": "mark 分数，park 公园：p 换 m 像记号。"
+ },
+ "matter": {
+  "kind": "contrast",
+  "text": "matter 事情，mother 妈妈：matter 两个t，mother有h"
+ },
+ "maybe": {
+  "kind": "split",
+  "text": "may 可以 + be 是 = maybe 也许"
+ },
+ "mechanic": {
+  "kind": "contrast",
+  "text": "mechanic 修理工，mechanics 学科：一个人没有 s，学科有 s。"
+ },
+ "meeting": {
+  "kind": "affix",
+  "text": "meet（见面）+ ing（进行）= meeting 会议"
+ },
+ "metal": {
+  "kind": "contrast",
+  "text": "metal 金属和 medal 奖牌：metal 有 t，medal 有 d"
+ },
+ "microphone": {
+  "kind": "story",
+  "text": "microphone：像小话筒，中间有 phone 电话，声音变很大"
+ },
+ "midday": {
+  "kind": "contrast",
+  "text": "midday 正午，midnight 午夜：day 白天，night 晚上"
+ },
+ "midnight": {
+  "kind": "story",
+  "text": "midnight 里有 night 夜晚，夜晚正中间就是午夜。"
+ },
+ "might": {
+  "kind": "contrast",
+  "text": "might 可能，night 夜晚：把 n 换成 m"
+ },
+ "million": {
+  "kind": "story",
+  "text": "million 里藏着一只 lion 狮子，一百万只狮子太壮观"
+ },
+ "mine": {
+  "kind": "contrast",
+  "text": "mine 我的，nine 九：mine 开头 m，nine 开头 n"
+ },
+ "mineral-water": {
+  "kind": "split",
+  "text": "mineral 矿物质+water 水=mineral water 矿泉水"
+ },
+ "missing": {
+  "kind": "affix",
+  "text": "miss（错过）+ ing（正在）= missing 丢失的"
+ },
+ "mistake": {
+  "kind": "affix",
+  "text": "mis（错）+ take（拿）= mistake 错误"
+ },
+ "monthly": {
+  "kind": "affix",
+  "text": "month（月）+ ly（每…）= monthly 每月的"
+ },
+ "more": {
+  "kind": "contrast",
+  "text": "more 更多，most 最：more 结尾是 e，most 结尾是 t"
+ },
+ "most": {
+  "kind": "contrast",
+  "text": "most 最，more 更多：most 结尾有 st，more 没有"
+ },
+ "motorbike": {
+  "kind": "split",
+  "text": "motor 发动机 + bike 自行车 = motorbike 摩托车"
+ },
+ "motorway": {
+  "kind": "split",
+  "text": "motor 发动机 + way 路 = motorway 高速公路"
+ },
+ "mountain": {
+  "kind": "story",
+  "text": "mountain 开头是 mount，登山就是上高山。"
+ },
+ "movie-star": {
+  "kind": "split",
+  "text": "movie 电影 + star 明星 = movie star 电影明星"
+ },
+ "movie-theater": {
+  "kind": "split",
+  "text": "movie 电影 + theater 剧院 = movie theater 电影院"
+ },
+ "mrs": {
+  "kind": "contrast",
+  "text": "Mr 先生，Mrs 太太：Mrs 多了 s，像裙摆"
+ },
+ "much": {
+  "kind": "contrast",
+  "text": "much 许多，such 这样：much 把 s 换成 m，许多这样"
+ },
+ "mushroom": {
+  "kind": "story",
+  "text": "mushroom 像蘑菇：sh 是伞柄，room 是伞下小房间"
+ },
+ "musical": {
+  "kind": "affix",
+  "text": "music（音乐）+ al（形容词）= musical 音乐的"
+ },
+ "musician": {
+  "kind": "affix",
+  "text": "music（音乐）+ ian（人）= musician 音乐家"
+ },
+ "must": {
+  "kind": "contrast",
+  "text": "must 必须，just 只是：把 j 换成 m"
+ },
+ "myself": {
+  "kind": "split",
+  "text": "my 我的 + self 自己 = myself 我自己"
+ },
+ "national": {
+  "kind": "affix",
+  "text": "nation（国家）+ al（的）= national 国家的"
+ },
+ "nationality": {
+  "kind": "affix",
+  "text": "national（国家的）+ ity（身份）= nationality 国籍"
+ },
+ "natural": {
+  "kind": "contrast",
+  "text": "natural：把 nature 的 e 换成 al，就是自然的。"
+ },
+ "nearly": {
+  "kind": "affix",
+  "text": "near（近）+ ly（副词）= nearly 几乎"
+ },
+ "neighbour": {
+  "kind": "story",
+  "text": "neighbour 里有 our（我们的），住在我们的旁边就是邻居"
+ },
+ "nervous": {
+  "kind": "contrast",
+  "text": "nervous 紧张，serious 严肃：n变s、v变i，别弄混"
+ },
+ "nest": {
+  "kind": "contrast",
+  "text": "nest 鸟巢，net 网：多一个 s，鸟窝更稳"
+ },
+ "never": {
+  "kind": "contrast",
+  "text": "ever 曾经，never 从不：在 ever 前加 n 就是 never"
+ },
+ "newspaper": {
+  "kind": "split",
+  "text": "news 新闻 + paper 纸 = newspaper 报纸"
+ },
+ "next": {
+  "kind": "contrast",
+  "text": "next 下一个，text 文本：n 换成 t 就成文本"
+ },
+ "next-to": {
+  "kind": "split",
+  "text": "next 下一个 + to 到 = next to 紧挨着"
+ },
+ "nineteen": {
+  "kind": "affix",
+  "text": "nine（九）+ teen（十几）= nineteen 十九"
+ },
+ "ninety": {
+  "kind": "affix",
+  "text": "nine（九）+ ty（十）= ninety 九十"
+ },
+ "ninth": {
+  "kind": "contrast",
+  "text": "ninth：nine去e加th，第九"
+ },
+ "no-one": {
+  "kind": "split",
+  "text": "no（没有）+ one（一个）= no one 没有人"
+ },
+ "nobody": {
+  "kind": "split",
+  "text": "no（没有）+ body（身体）= nobody 没有人"
+ },
+ "noise": {
+  "kind": "contrast",
+  "text": "noise 噪音比 nose 鼻子多一个 i，i 像细小的声音。"
+ },
+ "noisy": {
+  "kind": "contrast",
+  "text": "noisy 吵闹，noise 噪音：noisy 比 noise 少 e 加 y"
+ },
+ "noon": {
+  "kind": "contrast",
+  "text": "noon 中午没有 m，moon 月亮有 m"
+ },
+ "normal": {
+  "kind": "affix",
+  "text": "norm（标准）+ al（的）= normal 正常的"
+ },
+ "north-america": {
+  "kind": "split",
+  "text": "North 北+America 美洲=North America 北美洲"
+ },
+ "notebook": {
+  "kind": "split",
+  "text": "note 笔记 + book 本子 = notebook 笔记本"
+ },
+ "nothing": {
+  "kind": "split",
+  "text": "no（没有）+ thing（东西）= nothing 没有东西"
+ },
+ "notice": {
+  "kind": "split",
+  "text": "not 不 + ice 冰 = notice 通知"
+ },
+ "now": {
+  "kind": "contrast",
+  "text": "now 现在，how 怎样：把 how 的 h 换成 n 就是 now"
+ },
+ "number": {
+  "kind": "contrast",
+  "text": "number 号码，member 成员：number 开头是 n，member 开头是 m"
+ },
+ "nurse": {
+  "kind": "contrast",
+  "text": "nurse 护士，purse 钱包：n 照顾人，p 装钱"
+ },
+ "occupation": {
+  "kind": "story",
+  "text": "occupation 职业：o 像工牌，cup 是上班喝水，记职业。"
+ },
+ "of-course": {
+  "kind": "split",
+  "text": "of 的 + course 路线 = of course 当然"
+ },
+ "often": {
+  "kind": "story",
+  "text": "often 里有 ten 十：一天做十次，就是经常"
+ },
+ "oh-dear": {
+  "kind": "split",
+  "text": "oh 哎呀 + dear 亲爱的 = oh dear! 天哪"
+ },
+ "olympic": {
+  "kind": "contrast",
+  "text": "Olympic 奥林匹克的，Olympics 多一个 s，是比赛"
+ },
+ "once": {
+  "kind": "contrast",
+  "text": "one 一，once 一次：在 one 的 n 后加 c 就是 once"
+ },
+ "online": {
+  "kind": "split",
+  "text": "on 上 + line 线 = online 在线"
+ },
+ "opinion": {
+  "kind": "contrast",
+  "text": "opinion 意见，onion 洋葱：opinion 多 pi"
+ },
+ "other": {
+  "kind": "story",
+  "text": "other 里有 her：一个她站在后面，就是其他人"
+ },
+ "our": {
+  "kind": "contrast",
+  "text": "our 我们的，hour 小时：hour 多一个 h，our 没有 h"
+ },
+ "ours": {
+  "kind": "affix",
+  "text": "our（我们的）+ s（表示东西们）= ours 我们的东西"
+ },
+ "out-of": {
+  "kind": "split",
+  "text": "out 出 + of 的 = out of 从……出来"
+ },
+ "outdoor": {
+  "kind": "split",
+  "text": "out 外 + door 门 = outdoor 户外的"
+ },
+ "outside": {
+  "kind": "split",
+  "text": "out 外 + side 边 = outside 在外面"
+ },
+ "oven": {
+  "kind": "contrast",
+  "text": "oven 烤箱，open 打开：oven 用 v，open 用 p"
+ },
+ "own": {
+  "kind": "contrast",
+  "text": "own 自己的，down 向下：去掉 d 就变成自己的"
+ },
+ "page": {
+  "kind": "contrast",
+  "text": "page 比 age 多一个 p，像给年龄翻一页。"
+ },
+ "pain": {
+  "kind": "contrast",
+  "text": "pain 疼，rain 雨：开头 p 和 r 不同。"
+ },
+ "painter": {
+  "kind": "affix",
+  "text": "paint（涂画）+ er（做…的人）= painter 油漆工/画家"
+ },
+ "painting": {
+  "kind": "affix",
+  "text": "paint（绘画）+ ing（正在）= painting 绘画"
+ },
+ "pair": {
+  "kind": "contrast",
+  "text": "pair 一双，pear 梨：pair 中间是 i，pear 中间是 e"
+ },
+ "pale": {
+  "kind": "contrast",
+  "text": "pale 苍白的，sale 卖：s 换 p 就 pale"
+ },
+ "parking-lot": {
+  "kind": "split",
+  "text": "parking 停车 + lot 场地 = parking lot 停车场"
+ },
+ "part": {
+  "kind": "contrast",
+  "text": "part 部分，past 过去：中间 r 和 s 不同"
+ },
+ "partner": {
+  "kind": "story",
+  "text": "partner 里 part 是部分，n e r 像三个人，合起来是搭档"
+ },
+ "pass": {
+  "kind": "contrast",
+  "text": "pass 经过，past 过去：pass 有两个 s，像走过两条路。"
+ },
+ "passenger": {
+  "kind": "story",
+  "text": "passenger 里有 pass 经过，乘客经过上车"
+ },
+ "passport": {
+  "kind": "split",
+  "text": "pass 通过 + port 港口 = passport 护照"
+ },
+ "password": {
+  "kind": "split",
+  "text": "pass 过 + word 词 = password 密码"
+ },
+ "past": {
+  "kind": "contrast",
+  "text": "past 经过有 t，pass 通过有 ss"
+ },
+ "pear": {
+  "kind": "story",
+  "text": "pear 像梨：p 是梨把，ear 是弯弯梨身"
+ },
+ "pence": {
+  "kind": "contrast",
+  "text": "pence 是 penny 复数：第二个 n 变 c，y 变 e。"
+ },
+ "pencil-case": {
+  "kind": "split",
+  "text": "pencil 铅笔 + case 盒子 = pencil case 铅笔盒"
+ },
+ "penfriend": {
+  "kind": "split",
+  "text": "pen 笔 + friend 朋友 = penfriend 笔友"
+ },
+ "penny": {
+  "kind": "story",
+  "text": "penny 里有 pen（笔），用笔把一便士记进存钱罐。"
+ },
+ "per": {
+  "kind": "contrast",
+  "text": "per 每，pen 笔：r 和 n 不同"
+ },
+ "perform": {
+  "kind": "story",
+  "text": "perform：表演时，先 form 成形状，人人都摆好。"
+ },
+ "performance": {
+  "kind": "contrast",
+  "text": "performance 演出，perform 表演：多 ance"
+ },
+ "perhaps": {
+  "kind": "story",
+  "text": "perhaps 也许：per 转一圈，haps 拍手，先想一想再决定"
+ },
+ "petrol-station": {
+  "kind": "split",
+  "text": "petrol 汽油 + station 站 = petrol station 加油站"
+ },
+ "photographer": {
+  "kind": "affix",
+  "text": "photograph（拍照）+er（做的人）=photographer 摄影师"
+ },
+ "photography": {
+  "kind": "affix",
+  "text": "photo（照片）+ graph（图）+ y（后缀）= photography 摄影"
+ },
+ "physics": {
+  "kind": "contrast",
+  "text": "physics 物理，physical 身体：物理用 ics，身体用 al。"
+ },
+ "pick-up": {
+  "kind": "split",
+  "text": "pick 摘 + up 向上 = pick up 捡起"
+ },
+ "piece": {
+  "kind": "contrast",
+  "text": "piece 一片，peace 和平：piece 中间是 i，peace 中间是 e"
+ },
+ "pillow": {
+  "kind": "contrast",
+  "text": "pillow 枕头，pill 药丸：pillow 比 pill 多 ow，枕着睡很香"
+ },
+ "pilot": {
+  "kind": "story",
+  "text": "pilot 飞行员：p 像飞机，lot 很多，很多飞机飞上天。"
+ },
+ "pity": {
+  "kind": "story",
+  "text": "pity 里有 pit 小坑，掉进小坑真可惜"
+ },
+ "platform": {
+  "kind": "story",
+  "text": "platform 站台：form 是形状，站台是平的形状"
+ },
+ "playground": {
+  "kind": "split",
+  "text": "play 玩 + ground 地面 = playground 游乐场"
+ },
+ "pleasant": {
+  "kind": "contrast",
+  "text": "pleasant 愉快，pleased 高兴：ant 和 ed 不同"
+ },
+ "please": {
+  "kind": "story",
+  "text": "please 像礼貌请求：p 是举手，lease 像借东西，借前说 please。"
+ },
+ "pleased": {
+  "kind": "contrast",
+  "text": "pleased 满意，please 请：pleased 比 please 多一个 d"
+ },
+ "polar-bear": {
+  "kind": "split",
+  "text": "polar 极地 + bear 熊 = polar bear 北极熊"
+ },
+ "police-car": {
+  "kind": "split",
+  "text": "police 警察 + car 汽车 = police car 警车"
+ },
+ "police-officer": {
+  "kind": "split",
+  "text": "police 警察+officer 官员=police officer 警察"
+ },
+ "police-station": {
+  "kind": "split",
+  "text": "police 警察 + station 站 = police station 警察局"
+ },
+ "poor-thing": {
+  "kind": "split",
+  "text": "poor 可怜的 + thing 小家伙 = poor thing 可怜的小家伙"
+ },
+ "popular": {
+  "kind": "story",
+  "text": "popular 受欢迎：pop 像爆米花，u l a r 像排长队"
+ },
+ "possible": {
+  "kind": "contrast",
+  "text": "possible 可能的，impossible 多 im 表示不。"
+ },
+ "possibly": {
+  "kind": "contrast",
+  "text": "possibly 可能：possible 是可能，末尾 e 换 y 变也许"
+ },
+ "post": {
+  "kind": "contrast",
+  "text": "post 邮寄，past 过去：把 a 换成 o，信就寄出"
+ },
+ "post-office": {
+  "kind": "split",
+  "text": "post 邮 + office 办公室 = post office 邮局"
+ },
+ "postcard": {
+  "kind": "split",
+  "text": "post 邮 + card 卡片 = postcard 明信片"
+ },
+ "poster": {
+  "kind": "affix",
+  "text": "post（张贴）+ er（做…的东西）= poster 海报"
+ },
+ "pound": {
+  "kind": "contrast",
+  "text": "pound 英镑，round 圆：p 换成 r。"
+ },
+ "practice": {
+  "kind": "contrast",
+  "text": "practice（名词）用 c，practise（动词）用 s，别弄混。"
+ },
+ "practise": {
+  "kind": "contrast",
+  "text": "practise（动词）用 s，practice（名词）用 c，别弄混。"
+ },
+ "printer": {
+  "kind": "affix",
+  "text": "print（打印）+ er（做…的）= printer 打印机"
+ },
+ "prize": {
+  "kind": "contrast",
+  "text": "prize 奖品，price 价格：z 换成 c。"
+ },
+ "probably": {
+  "kind": "contrast",
+  "text": "probably 很可能：probable 是可能，末尾 e 换 y 变也许"
+ },
+ "programme": {
+  "kind": "contrast",
+  "text": "programme 是英式拼写，program 是美式拼写，都是节目"
+ },
+ "project": {
+  "kind": "contrast",
+  "text": "project 项目，protect 保护：pro 后 j 不是 t"
+ },
+ "pull": {
+  "kind": "contrast",
+  "text": "pull 拉，push 推：pull 用 ll，push 用 sh。"
+ },
+ "put-on": {
+  "kind": "split",
+  "text": "put 放 + on 上 = put on 穿上"
+ },
+ "quickly": {
+  "kind": "affix",
+  "text": "quick（快）+ ly（地）= quickly 快速地"
+ },
+ "quiet": {
+  "kind": "contrast",
+  "text": "quiet 安静，quite 相当：quiet 的 e 在 t 前"
+ },
+ "quite": {
+  "kind": "contrast",
+  "text": "quite 相当，quiet 安静：quite 的 e 在 t 后"
+ },
+ "quiz": {
+  "kind": "contrast",
+  "text": "quiz 小测验，quick 快速：quiz 用 z 收尾，quick 用 ck"
+ },
+ "race": {
+  "kind": "contrast",
+  "text": "race 赛跑，rice 米饭：第二个字母 a 对 i"
+ },
+ "racket": {
+  "kind": "contrast",
+  "text": "racket 球拍，rocket 火箭：第二个字母 a 对 o"
+ },
+ "railway": {
+  "kind": "split",
+  "text": "rail 铁轨 + way 路 = railway 铁路"
+ },
+ "raincoat": {
+  "kind": "split",
+  "text": "rain 雨 + coat 外套 = raincoat 雨衣"
+ },
+ "rainforest": {
+  "kind": "split",
+  "text": "rain 雨 + forest 森林 = rainforest 雨林"
+ },
+ "reading": {
+  "kind": "affix",
+  "text": "read（读）+ ing（…的）= reading 阅读"
+ },
+ "really": {
+  "kind": "affix",
+  "text": "real（真实）+ ly（副词）= really 真的"
+ },
+ "reason": {
+  "kind": "contrast",
+  "text": "reason 原因，season 季节：reason 用 r 想原因"
+ },
+ "receipt": {
+  "kind": "contrast",
+  "text": "receive 收到，receipt 收据：结尾 ve 换成 pt。"
+ },
+ "recently": {
+  "kind": "affix",
+  "text": "recent（最近的）+ ly（……地）= recently 最近"
+ },
+ "receptionist": {
+  "kind": "affix",
+  "text": "reception（接待）+ ist（人）= receptionist 接待员"
+ },
+ "relaxing": {
+  "kind": "affix",
+  "text": "relax（放松）+ ing（…的）= relaxing 令人放松的"
+ },
+ "remember": {
+  "kind": "affix",
+  "text": "re（再）+ member（成员）= remember 记得：再见面就记得"
+ },
+ "rent": {
+  "kind": "contrast",
+  "text": "rent 租用，tent 帐篷：r 换成 t。"
+ },
+ "repair": {
+  "kind": "affix",
+  "text": "re（再）+ pair（配对）= repair 修理"
+ },
+ "restaurant": {
+  "kind": "story",
+  "text": "restaurant 有 rest 休息和 ant 蚂蚁，吃饱有力气。"
+ },
+ "return": {
+  "kind": "affix",
+  "text": "re（再）+ turn（转）= return 返回"
+ },
+ "review": {
+  "kind": "affix",
+  "text": "re（再）+ view（看）= review 复习"
+ },
+ "right-hand": {
+  "kind": "split",
+  "text": "right 右 + hand 手 = right hand 右手"
+ },
+ "round": {
+  "kind": "contrast",
+  "text": "round 圆的，ground 地面：round 没有 g，ground 有 g"
+ },
+ "roundabout": {
+  "kind": "split",
+  "text": "round 转圈 + about 到处 = roundabout 环岛"
+ },
+ "rubbish": {
+  "kind": "contrast",
+  "text": "rubbish 垃圾，rub 擦：rubbish 比 rub 多 bish，擦擦就干净"
+ },
+ "runner": {
+  "kind": "story",
+  "text": "runner 里 run 是跑，两个 n 像两条腿在跑"
+ },
+ "running": {
+  "kind": "story",
+  "text": "running 像跑步：run 后面多一个 n，像两步跑"
+ },
+ "sad": {
+  "kind": "contrast",
+  "text": "sad 难过，mad 生气：s 像叹气，m 像鼓腮"
+ },
+ "safe": {
+  "kind": "contrast",
+  "text": "safe 安全，save 救：safe 用 f，save 用 v，安全最重要"
+ },
+ "sail": {
+  "kind": "contrast",
+  "text": "sail 航行，sale 卖：sail 有 i 像桅杆，sale 没有 i。"
+ },
+ "sailing": {
+  "kind": "affix",
+  "text": "sail（航行）+ing（做）=sailing 帆船运动"
+ },
+ "sale": {
+  "kind": "contrast",
+  "text": "sale 出售没有 i，sail 船帆有 i，e 是减价标签"
+ },
+ "saturday": {
+  "kind": "story",
+  "text": "Saturday 里有 day，周六是一周里能玩的一天。"
+ },
+ "sausage": {
+  "kind": "story",
+  "text": "sausage 像香肠：s 是肠头，age 是香喷喷的肉"
+ },
+ "save": {
+  "kind": "contrast",
+  "text": "save 存钱，have 有：把 h 换成 s，钱就存下来"
+ },
+ "scared": {
+  "kind": "contrast",
+  "text": "scared 害怕，scare 吓：scared 比 scare 多一个 d"
+ },
+ "scary": {
+  "kind": "contrast",
+  "text": "scary 吓人，scare 吓：scary 比 scare 少 e 多 y"
+ },
+ "schoolchild": {
+  "kind": "split",
+  "text": "school 学校 + child 小孩 = schoolchild 小学生"
+ },
+ "science": {
+  "kind": "contrast",
+  "text": "science 科学，scene 场景：science 多 i、c。"
+ },
+ "score": {
+  "kind": "contrast",
+  "text": "score 分数，core 核心：多一个 s"
+ },
+ "season": {
+  "kind": "split",
+  "text": "sea 海 + son 儿子 = season 季节"
+ },
+ "secretary": {
+  "kind": "story",
+  "text": "secretary 里藏着 secret 秘密，秘书替老板保守秘密。"
+ },
+ "seem": {
+  "kind": "story",
+  "text": "seem 像 see，后面 m 像两扇门，好像推开看看。"
+ },
+ "selfie": {
+  "kind": "contrast",
+  "text": "selfie 自拍，self 自己：ie 像笑脸"
+ },
+ "sentence": {
+  "kind": "story",
+  "text": "sentence 里藏着 ten，十个词就是一个句子。"
+ },
+ "seventeen": {
+  "kind": "affix",
+  "text": "seven（七）+ teen（十几）= seventeen 十七"
+ },
+ "seventh": {
+  "kind": "affix",
+  "text": "seven（七）+ th（第）= seventh 第七"
+ },
+ "seventy": {
+  "kind": "affix",
+  "text": "seven（七）+ ty（十）= seventy 七十"
+ },
+ "shame": {
+  "kind": "contrast",
+  "text": "shame 可惜，same 一样：same 的 s 后加 h 就害羞"
+ },
+ "shampoo": {
+  "kind": "sound",
+  "text": "shampoo 洗发水像「香波」，香香泡泡。"
+ },
+ "shark": {
+  "kind": "contrast",
+  "text": "shark 鲨鱼，sharp 锋利：p 换成 k 就是 shark。"
+ },
+ "she": {
+  "kind": "contrast",
+  "text": "she 她，he 他：she 比 he 多 s，像女生扎辫子"
+ },
+ "sheet": {
+  "kind": "contrast",
+  "text": "sheet 床单，sheep 绵羊：结尾 t 不是 p。"
+ },
+ "ship": {
+  "kind": "contrast",
+  "text": "ship 船，sheep 羊：ship 用i，sheep 用ee"
+ },
+ "shop-assistant": {
+  "kind": "split",
+  "text": "shop 商店+assistant 助手=shop assistant 店员"
+ },
+ "shopper": {
+  "kind": "story",
+  "text": "shopper 购物者：shop 商店，两个 p 像两袋，er 是人。"
+ },
+ "shopping-centre": {
+  "kind": "split",
+  "text": "shopping购物+centre中心=shopping centre购物中心"
+ },
+ "shorts": {
+  "kind": "affix",
+  "text": "short（短的）+ s（复数）= shorts 短裤"
+ },
+ "should": {
+  "kind": "contrast",
+  "text": "should 应该，could 能：把 c 换成 sh"
+ },
+ "sign": {
+  "kind": "contrast",
+  "text": "sign 标志，sing 唱歌：sign 结尾 g n，sing 结尾 n g。"
+ },
+ "simple": {
+  "kind": "contrast",
+  "text": "simple 简单，sample 样品：simple 用 i，sample 用 a"
+ },
+ "singing": {
+  "kind": "affix",
+  "text": "sing（唱歌）+ ing（正在）= singing 唱歌"
+ },
+ "single": {
+  "kind": "contrast",
+  "text": "single 单个，simple 简单：ng 和 mp 不同。"
+ },
+ "sink": {
+  "kind": "story",
+  "text": "sink 水槽：s 是水龙头，ink 是倒掉的墨水"
+ },
+ "sit-down": {
+  "kind": "split",
+  "text": "sit 坐 + down 向下 = sit down 坐下"
+ },
+ "site": {
+  "kind": "contrast",
+  "text": "site 网站，size 大小：别把 t/z 弄混。"
+ },
+ "sitting-room": {
+  "kind": "split",
+  "text": "sitting 坐着 + room 房间 = sitting room 起居室"
+ },
+ "sixteen": {
+  "kind": "affix",
+  "text": "six（六）+ teen（十几）= sixteen 十六"
+ },
+ "sixth": {
+  "kind": "affix",
+  "text": "six（六）+ th（第）= sixth 第六"
+ },
+ "skateboard": {
+  "kind": "split",
+  "text": "skate 滑冰+board 板=skateboard 滑板"
+ },
+ "skateboarding": {
+  "kind": "affix",
+  "text": "skateboard（滑板）+ ing（正在）=skateboarding 滑板"
+ },
+ "ski": {
+  "kind": "contrast",
+  "text": "ski 滑雪，sky 天空：结尾 i 对 y"
+ },
+ "skiing": {
+  "kind": "affix",
+  "text": "ski（滑雪）+ing（做）=skiing 滑雪运动"
+ },
+ "slice": {
+  "kind": "story",
+  "text": "slice 像切片：l 是刀，ice 是一小片"
+ },
+ "snail": {
+  "kind": "contrast",
+  "text": "snail 蜗牛，nail 指甲：nail 前加 s，慢慢爬"
+ },
+ "snowboard": {
+  "kind": "split",
+  "text": "snow 雪+board 板=snowboard 滑雪板"
+ },
+ "snowboarding": {
+  "kind": "affix",
+  "text": "snowboard（滑雪板）+ing（做）=snowboarding 单板滑雪"
+ },
+ "social-media": {
+  "kind": "split",
+  "text": "social 社交 + media 媒体 = social media 社交媒体"
+ },
+ "software": {
+  "kind": "contrast",
+  "text": "software 软件：和 hardware 硬件对照，soft 是软"
+ },
+ "somebody": {
+  "kind": "split",
+  "text": "some（一些）+ body（身体）= somebody 某人"
+ },
+ "someone": {
+  "kind": "split",
+  "text": "some（一些）+ one（一个）= someone 某人"
+ },
+ "something": {
+  "kind": "split",
+  "text": "some（一些）+ thing（东西）= something 某物"
+ },
+ "somewhere": {
+  "kind": "split",
+  "text": "some（一些）+ where（哪里）= somewhere 某处"
+ },
+ "sort": {
+  "kind": "contrast",
+  "text": "sort 种类，short 矮：sort 少一个 h。"
+ },
+ "south-america": {
+  "kind": "split",
+  "text": "South 南+America 美洲=South America 南美洲"
+ },
+ "space": {
+  "kind": "story",
+  "text": "space 太空：s 像火箭，pace 是步子，走向星星。"
+ },
+ "spare": {
+  "kind": "contrast",
+  "text": "spare 备用，share 分享：spare 用 p，share 用 h"
+ },
+ "speaker": {
+  "kind": "affix",
+  "text": "speak（说）+ er（发声的）= speaker 扬声器"
+ },
+ "spelling": {
+  "kind": "affix",
+  "text": "spell（拼写）+ ing（正在）= spelling 拼写"
+ },
+ "sports-centre": {
+  "kind": "split",
+  "text": "sports 运动 + centre 中心 = sports centre 体育中心"
+ },
+ "staff": {
+  "kind": "contrast",
+  "text": "staff 员工：stuff 东西里的 u 换成 a，就成 staff。"
+ },
+ "stage": {
+  "kind": "story",
+  "text": "stage 里有 age 时代：舞台属于精彩时代"
+ },
+ "stamp": {
+  "kind": "contrast",
+  "text": "stamp 邮票和 stump 树桩：stamp 有 a，stump 有 u"
+ },
+ "steal": {
+  "kind": "contrast",
+  "text": "steal 偷，steel 钢：a 像悄悄拿，e 像钢铁"
+ },
+ "still": {
+  "kind": "contrast",
+  "text": "still 仍然，spill 洒：把 t 换成 p 就洒了"
+ },
+ "stomach-ache": {
+  "kind": "split",
+  "text": "stomach 胃 + ache 疼 = stomach ache 肚子疼"
+ },
+ "store": {
+  "kind": "contrast",
+  "text": "store 商店，storm 风暴：store 尾 e，storm 尾 m。"
+ },
+ "strange": {
+  "kind": "contrast",
+  "text": "stranger 陌生人比 strange 多了 r；strange 奇怪的"
+ },
+ "strawberry": {
+  "kind": "split",
+  "text": "straw 稻草 + berry 浆果 = strawberry 草莓"
+ },
+ "striped": {
+  "kind": "affix",
+  "text": "strip（条）+ ed（的）= striped 有条纹的"
+ },
+ "stuff": {
+  "kind": "contrast",
+  "text": "stuff 东西和 staff 员工：stuff 有 u，staff 有 a"
+ },
+ "subject": {
+  "kind": "contrast",
+  "text": "subject 科目，object 物体：sub 对 ob。"
+ },
+ "successful": {
+  "kind": "affix",
+  "text": "success（成功）+ ful（充满…）= successful 成功的"
+ },
+ "such": {
+  "kind": "contrast",
+  "text": "such 如此，much 很多：s 和 m 不同。"
+ },
+ "suddenly": {
+  "kind": "affix",
+  "text": "sudden（突然）+ ly（地）= suddenly 突然"
+ },
+ "suitcase": {
+  "kind": "split",
+  "text": "suit 西装 + case 箱子 = suitcase 行李箱"
+ },
+ "sunglasses": {
+  "kind": "split",
+  "text": "sun 太阳 + glasses 眼镜 = sunglasses 太阳镜"
+ },
+ "supermarket": {
+  "kind": "split",
+  "text": "super 超级 + market 市场 = supermarket 超市"
+ },
+ "surfboard": {
+  "kind": "split",
+  "text": "surf 冲浪+board 板=surfboard 冲浪板"
+ },
+ "surfboarding": {
+  "kind": "affix",
+  "text": "surfboard（冲浪板）+ing（做）=surfboarding 冲浪运动"
+ },
+ "surfing": {
+  "kind": "affix",
+  "text": "surf（冲浪）+ ing（正在）= surfing 冲浪"
+ },
+ "surname": {
+  "kind": "story",
+  "text": "surname 里有 name（名字），姓是一家人共有的名字"
+ },
+ "surprise": {
+  "kind": "story",
+  "text": "surprise 里有 rise 升起：惊喜悄悄升起"
+ },
+ "sweater": {
+  "kind": "affix",
+  "text": "sweat（汗）+ er（做…的）= sweater 毛衣"
+ },
+ "swimming-costume": {
+  "kind": "split",
+  "text": "swimming游泳+costume装=swimming costume 泳衣"
+ },
+ "swimming-pool": {
+  "kind": "split",
+  "text": "swimming 游泳 + pool 水池 = swimming pool 游泳池"
+ },
+ "swimsuit": {
+  "kind": "split",
+  "text": "swim 游泳 + suit 套装 = swimsuit 泳衣"
+ },
+ "table-tennis": {
+  "kind": "split",
+  "text": "table 桌子+tennis 网球=table tennis 乒乓球"
+ },
+ "tablet": {
+  "kind": "contrast",
+  "text": "tablet 平板：和 table 桌子多一个 t，像小桌子"
+ },
+ "tail": {
+  "kind": "contrast",
+  "text": "tail 尾巴，tall 高的：第三个 i 换成 l。"
+ },
+ "take-off": {
+  "kind": "split",
+  "text": "take 拿 + off 离开 = take off 脱下"
+ },
+ "take-part": {
+  "kind": "split",
+  "text": "take 拿 + part 部分 = take part 参加"
+ },
+ "teacher": {
+  "kind": "affix",
+  "text": "teach（教）+ er（人）= teacher 老师"
+ },
+ "teenager": {
+  "kind": "story",
+  "text": "teenager 里藏着 teen 和 age，最后 r 像一个小人"
+ },
+ "telephone": {
+  "kind": "contrast",
+  "text": "telephone有phone听声音，television有vision看画面。"
+ },
+ "television": {
+  "kind": "contrast",
+  "text": "television有vision看画面，telephone有phone听声音。"
+ },
+ "tennis-player": {
+  "kind": "split",
+  "text": "tennis 网球 + player 运动员 = tennis player 网球运动员"
+ },
+ "tent": {
+  "kind": "contrast",
+  "text": "tent 帐篷，ten 十：tent 比 ten 多一个 t"
+ },
+ "tenth": {
+  "kind": "affix",
+  "text": "ten十+th序数=tenth第十"
+ },
+ "terrible": {
+  "kind": "contrast",
+  "text": "terrible 糟糕，horrible 可怕：都有 ible，前头不同"
+ },
+ "text": {
+  "kind": "contrast",
+  "text": "text 短信，next 下一个：把 next 的 n 换成 t"
+ },
+ "text-message": {
+  "kind": "split",
+  "text": "text 文本 + message 信息 = text message 短信"
+ },
+ "textbook": {
+  "kind": "split",
+  "text": "text 课文 + book 本子 = textbook 课本"
+ },
+ "than": {
+  "kind": "contrast",
+  "text": "than 比，then 那时：than 是 a，then 是 e"
+ },
+ "thank": {
+  "kind": "contrast",
+  "text": "thank 感谢，thanks 谢谢：thanks 比 thank 多个 s。"
+ },
+ "thank-you": {
+  "kind": "split",
+  "text": "thank 感谢 + you 你 = thank you 谢谢"
+ },
+ "thanks": {
+  "kind": "affix",
+  "text": "thank（感谢）+ s（复数）= thanks 谢谢"
+ },
+ "that": {
+  "kind": "contrast",
+  "text": "that 那个，than 比：that 结尾 t，than 结尾 n"
+ },
+ "the": {
+  "kind": "contrast",
+  "text": "the 特指，they 他们：they 多一个 y"
+ },
+ "theatre": {
+  "kind": "story",
+  "text": "theatre 剧院：the 像幕布，at 像演员，re 像掌声"
+ },
+ "their": {
+  "kind": "contrast",
+  "text": "their 他们的，there 那里：their 中间有 i，there 没有 i"
+ },
+ "theirs": {
+  "kind": "affix",
+  "text": "their（他们的）+ s（表示东西们）= theirs 他们的东西"
+ },
+ "them": {
+  "kind": "contrast",
+  "text": "them 他们，then 那时：them 结尾是 m，then 结尾是 n"
+ },
+ "then": {
+  "kind": "contrast",
+  "text": "then 然后，than 比：than 的 a 换成 e 就是 then"
+ },
+ "these": {
+  "kind": "contrast",
+  "text": "these 这些，this 这个：these 用 e 加 e，this 用 i"
+ },
+ "they": {
+  "kind": "contrast",
+  "text": "they 他们，them 他们：they 有 y，them 有 m"
+ },
+ "thin": {
+  "kind": "contrast",
+  "text": "thin 瘦的，thick 厚的：thick 把 n 换成 ck，就变厚"
+ },
+ "thirsty": {
+  "kind": "affix",
+  "text": "thirst（口渴）+ y（的）= thirsty 口渴的"
+ },
+ "this": {
+  "kind": "contrast",
+  "text": "this 这个，these 这些：this 用 i，these 用 e 加 e"
+ },
+ "those": {
+  "kind": "contrast",
+  "text": "those 那些远，these 这些近：those 用 o，these 用 e"
+ },
+ "thousand": {
+  "kind": "story",
+  "text": "thousand 千：末尾有 sand 沙，一千粒沙很多。"
+ },
+ "three": {
+  "kind": "contrast",
+  "text": "three 三，tree 树：three 多一个 h，像三棵树。"
+ },
+ "through": {
+  "kind": "contrast",
+  "text": "through 穿过，rough 粗糙：through 多 th 像穿过去。"
+ },
+ "throw": {
+  "kind": "contrast",
+  "text": "throw 扔，grow 长：开头 th 对 g"
+ },
+ "thunderstorm": {
+  "kind": "split",
+  "text": "thunder 雷+storm 暴风雨=thunderstorm 雷雨"
+ },
+ "thursday": {
+  "kind": "contrast",
+  "text": "Thursday 星期四比 Tuesday 多了 h 和 r，少了 e"
+ },
+ "tidy": {
+  "kind": "contrast",
+  "text": "tidy 整洁，untidy 乱：前面多 un 不"
+ },
+ "tidy-up": {
+  "kind": "split",
+  "text": "tidy 整理 + up 起来 = tidy up 收拾好"
+ },
+ "tights": {
+  "kind": "affix",
+  "text": "tight（紧的）+ s（复数）= tights 连裤袜"
+ },
+ "till": {
+  "kind": "contrast",
+  "text": "till 直到，tell 告诉：till 中间是 i，tell 中间是 e。"
+ },
+ "timetable": {
+  "kind": "split",
+  "text": "time 时间 + table 桌子 = timetable 时间表"
+ },
+ "toe": {
+  "kind": "contrast",
+  "text": "toe 脚趾，too 也：oe 对 oo"
+ },
+ "together": {
+  "kind": "story",
+  "text": "together 一起：to+get+her，大家都聚到一起"
+ },
+ "tonight": {
+  "kind": "split",
+  "text": "to 到 + night 夜晚 = tonight 今晚"
+ },
+ "too": {
+  "kind": "contrast",
+  "text": "too 也，two 二：two 有 w，too 有 oo"
+ },
+ "toothache": {
+  "kind": "split",
+  "text": "tooth 牙 + ache 疼 = toothache 牙疼"
+ },
+ "toothbrush": {
+  "kind": "split",
+  "text": "tooth 牙 + brush 刷 = toothbrush 牙刷"
+ },
+ "topic": {
+  "kind": "story",
+  "text": "topic 像山顶：top是顶端，点明主题。"
+ },
+ "tour": {
+  "kind": "story",
+  "text": "tour 里有 our 我们，t 像路，一起去旅游"
+ },
+ "tour-guide": {
+  "kind": "split",
+  "text": "tour 旅行 + guide 向导 = tour guide 导游"
+ },
+ "tourist": {
+  "kind": "affix",
+  "text": "tour（旅游）+ ist（人）= tourist 游客"
+ },
+ "tourist-information-centre": {
+  "kind": "story",
+  "text": "tourist information centre：tourist 游客问路"
+ },
+ "towel": {
+  "kind": "contrast",
+  "text": "towel 毛巾，tower 塔：towel 把 r 换成 l，擦擦就干"
+ },
+ "traffic-light": {
+  "kind": "split",
+  "text": "traffic 交通+light 灯=traffic light 红绿灯"
+ },
+ "trainer": {
+  "kind": "affix",
+  "text": "train（训练）+ er（做…的）= trainer 运动鞋"
+ },
+ "training": {
+  "kind": "affix",
+  "text": "train（训练）+ ing（正在）= training 训练"
+ },
+ "transport": {
+  "kind": "story",
+  "text": "transport 里有 port 港口，交通把货物运过港口"
+ },
+ "try": {
+  "kind": "contrast",
+  "text": "try 尝试，dry 干：try 用 t，dry 用 d。"
+ },
+ "try-on": {
+  "kind": "split",
+  "text": "try 试 + on 穿 = try on 试穿"
+ },
+ "tuesday": {
+  "kind": "contrast",
+  "text": "Tuesday 星期二没有 h，Thursday 星期四有 h"
+ },
+ "turn-off": {
+  "kind": "split",
+  "text": "turn 转 + off 断开 = turn off 关掉"
+ },
+ "turn-on": {
+  "kind": "split",
+  "text": "turn 转 + on 接通 = turn on 打开"
+ },
+ "two": {
+  "kind": "contrast",
+  "text": "two 二：w 像两只耳朵，别和 to、too 混。"
+ },
+ "tyre": {
+  "kind": "contrast",
+  "text": "tyre 英式轮胎，tire 美式：tyre 用y代替i"
+ },
+ "underground": {
+  "kind": "split",
+  "text": "under 下面 + ground 地面 = underground 地铁"
+ },
+ "understand": {
+  "kind": "split",
+  "text": "under 下面 + stand 站立 = understand 理解"
+ },
+ "unhappy": {
+  "kind": "affix",
+  "text": "un（不）+ happy（开心）= unhappy 不开心的"
+ },
+ "uniform": {
+  "kind": "story",
+  "text": "uniform：u 像校服领口，form 是形状，全班统一形状穿校服。"
+ },
+ "unusual": {
+  "kind": "affix",
+  "text": "un（不）+ usual（寻常的）= unusual 不寻常的"
+ },
+ "upload": {
+  "kind": "split",
+  "text": "up 向上 + load 装载 = upload 上传"
+ },
+ "upset": {
+  "kind": "split",
+  "text": "up 向上 + set 放 = upset 心烦的"
+ },
+ "upstairs": {
+  "kind": "split",
+  "text": "up 上 + stairs 楼梯 = upstairs 在楼上"
+ },
+ "usual": {
+  "kind": "contrast",
+  "text": "usual 平常的，usually 通常：usually 比 usual 多了 ly。"
+ },
+ "usually": {
+  "kind": "affix",
+  "text": "usual（平常）+ ly（地）= usually 通常"
+ },
+ "vegetable": {
+  "kind": "story",
+  "text": "vegetable 里藏着 table（桌子），蔬菜都摆上桌。"
+ },
+ "very": {
+  "kind": "contrast",
+  "text": "very 非常，every 每个：every 在 very 前加 e。"
+ },
+ "video-game": {
+  "kind": "split",
+  "text": "video 视频 + game 游戏 = video game 电子游戏"
+ },
+ "village": {
+  "kind": "story",
+  "text": "village 结尾是 age，小村庄有年纪。"
+ },
+ "visitor": {
+  "kind": "affix",
+  "text": "visit（参观）+ or（人）= visitor 访客"
+ },
+ "vocabulary": {
+  "kind": "story",
+  "text": "vocabulary 里有 cab，像柜子装单词。"
+ },
+ "volleyball": {
+  "kind": "story",
+  "text": "volleyball 想象球在网前来回飞，ball 就是球"
+ },
+ "wake-up": {
+  "kind": "split",
+  "text": "wake 醒 + up 起来 = wake up 醒来"
+ },
+ "walking": {
+  "kind": "affix",
+  "text": "walk（走）+ ing（正在）= walking 正在散步"
+ },
+ "wash-up": {
+  "kind": "split",
+  "text": "wash 洗 + up 完 = wash up 洗碗"
+ },
+ "washing-machine": {
+  "kind": "split",
+  "text": "washing 洗 + machine 机器 = washing machine 洗衣机"
+ },
+ "washing-up": {
+  "kind": "split",
+  "text": "washing 洗 + up 完 = washing-up 洗碗"
+ },
+ "weather": {
+  "kind": "contrast",
+  "text": "weather 天气，whether 是否：中间 ea 和 he 不同。"
+ },
+ "web-page": {
+  "kind": "split",
+  "text": "web 网 + page 页 = web page 网页"
+ },
+ "website": {
+  "kind": "split",
+  "text": "web 网 + site 站点 = website 网站"
+ },
+ "wednesday": {
+  "kind": "story",
+  "text": "Wednesday 周三：wed 结婚 + day 日，nes 像礼服"
+ },
+ "weekday": {
+  "kind": "split",
+  "text": "week 周 + day 天 = weekday 工作日"
+ },
+ "weekend": {
+  "kind": "split",
+  "text": "week 周 + end 结束 = weekend 周末"
+ },
+ "weekly": {
+  "kind": "affix",
+  "text": "week（周）+ ly（每…）= weekly 每周的"
+ },
+ "welcome": {
+  "kind": "story",
+  "text": "welcome 里有 come 来，w 像张开手臂欢迎你来。"
+ },
+ "well": {
+  "kind": "contrast",
+  "text": "well 好的，wall 墙：都有 ll，中间 e/a 不同"
+ },
+ "well-known": {
+  "kind": "split",
+  "text": "well 好 + known 知道 = well known 著名的"
+ },
+ "what": {
+  "kind": "contrast",
+  "text": "what 什么，that 那个：what 开头 w，that 开头 t"
+ },
+ "when": {
+  "kind": "contrast",
+  "text": "when 什么时候，then 那时：把 t 换成 w"
+ },
+ "where": {
+  "kind": "contrast",
+  "text": "where 哪里，there 那里：把 t 换成 w"
+ },
+ "which": {
+  "kind": "contrast",
+  "text": "which 哪一个，watch 观看：which有hi，watch有at"
+ },
+ "while": {
+  "kind": "contrast",
+  "text": "while 当…时，white 白色：l 和 t 不同"
+ },
+ "who": {
+  "kind": "contrast",
+  "text": "who 谁，whose 谁的：whose 比 who 多 se"
+ },
+ "whole": {
+  "kind": "contrast",
+  "text": "whole 整个，hole 洞：whole 多一个 w。"
+ },
+ "whose": {
+  "kind": "contrast",
+  "text": "whose 谁的，who 谁：whose 比 who 多 se"
+ },
+ "why": {
+  "kind": "contrast",
+  "text": "why 为什么，who 谁：把 o 换成 y 就变成问号"
+ },
+ "wild": {
+  "kind": "contrast",
+  "text": "wild 野生的，mild 温和的：开头 w 换成 m 就变温和。"
+ },
+ "wildlife": {
+  "kind": "split",
+  "text": "wild 野生的 + life 生活 = wildlife 野生动物"
+ },
+ "will": {
+  "kind": "contrast",
+  "text": "will 将要，well 好：把 i 换成 e"
+ },
+ "wind": {
+  "kind": "contrast",
+  "text": "wind 风，window 窗：window 比 wind 多ow"
+ },
+ "windsurfing": {
+  "kind": "split",
+  "text": "wind 风+surfing 冲浪=windsurfing 帆板运动"
+ },
+ "windy": {
+  "kind": "affix",
+  "text": "wind（风）+ y（有）= windy 有风的"
+ },
+ "wing": {
+  "kind": "contrast",
+  "text": "wing 翅膀，swing 摇荡：swing 多一个 s，像翅膀摇摆。"
+ },
+ "wish": {
+  "kind": "contrast",
+  "text": "wish 愿望，wash 洗：i 换成 a 才是洗，别混淆"
+ },
+ "without": {
+  "kind": "split",
+  "text": "with 一起 + out 外面 = without 没有"
+ },
+ "wonderful": {
+  "kind": "affix",
+  "text": "wonder（奇迹）+ ful（充满……的）= wonderful 极好的"
+ },
+ "wood": {
+  "kind": "contrast",
+  "text": "wood 木头，good 好：wood 开头是 w，good 开头是 g。"
+ },
+ "wooden": {
+  "kind": "affix",
+  "text": "wood（木头）+ en（的）= wooden 木制的"
+ },
+ "work-out": {
+  "kind": "split",
+  "text": "work 工作 + out 出去 = work out 锻炼"
+ },
+ "working-hours": {
+  "kind": "split",
+  "text": "working 工作 + hours 小时 = working hours 工作时间"
+ },
+ "worse": {
+  "kind": "contrast",
+  "text": "worse 更糟的，worst 最差的：worse 是 se，worst 是 st"
+ },
+ "worst": {
+  "kind": "contrast",
+  "text": "worst 最差的，worse 更糟的：worst 是 st，worse 是 se"
+ },
+ "would": {
+  "kind": "contrast",
+  "text": "would 想要，could 能：把 c 换成 w"
+ },
+ "write-down": {
+  "kind": "split",
+  "text": "write 写 + down 向下 = write down 写下"
+ },
+ "wrong": {
+  "kind": "contrast",
+  "text": "wrong 错的，wring 拧：o 错 i 拧，只差一个字母"
+ },
+ "yeah": {
+  "kind": "contrast",
+  "text": "Yeah! 是啊，yes 是的：Yeah! 结尾 h 像点头。"
+ },
+ "yesterday": {
+  "kind": "story",
+  "text": "yesterday 含 yes 和 day，昨天的事已发生"
+ },
+ "yet": {
+  "kind": "contrast",
+  "text": "yet 还没，yes 是：s 换成 t 就还没完成"
+ },
+ "your": {
+  "kind": "contrast",
+  "text": "your 你的，you 你：your 比 you 多一个 r"
+ },
+ "yours": {
+  "kind": "affix",
+  "text": "your（你的）+ s（表示东西）= yours 你的东西"
+ },
+ "yourself": {
+  "kind": "split",
+  "text": "your 你的 + self 自己 = yourself 你自己"
+ }
+}

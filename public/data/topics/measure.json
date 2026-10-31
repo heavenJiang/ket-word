@@ -50,6 +50,10 @@
     "uk": "media/uk/centimetre.mp3",
     "us": "media/us/centimetre.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "centimetre 厘米：比 metre 多 c e n t i，小小刻度"
+   },
    "avoid": [
     "kilometre",
     "metre"
@@ -156,6 +160,10 @@
     "img": "media/img/kilometre.webp",
     "uk": "media/uk/kilometre.mp3",
     "us": "media/us/kilometre.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "kilometre 千米：比 metre 多 k i l o，路更长"
    },
    "avoid": [
     "centimetre",

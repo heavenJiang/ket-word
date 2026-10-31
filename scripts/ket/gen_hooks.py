@@ -40,7 +40,7 @@ KINDS = ["split", "affix", "contrast", "story", "sound"]
 BANNED = ["死", "杀", "血", "鬼", "尸", "屁", "屎", "尿", "滚", "笨蛋", "傻"]
 AFFIXES = {"un", "re", "dis", "im", "in", "non", "pre", "mis", "over", "under", "er", "or", "ist", "ful", "less", "ly",
            "ness", "ment", "tion", "sion", "able", "ible", "y", "al", "ous", "ive", "en", "ing", "ed", "est", "ish",
-           "ship", "hood", "ian", "ese", "ty", "ity", "th", "teen", "s", "es"}
+           "ship", "hood", "ian", "ese", "ty", "ity", "th", "teen", "s", "es", "ant", "ent", "ance", "ence"}
 
 
 def known_words() -> set[str]:

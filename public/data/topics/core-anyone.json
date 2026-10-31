@@ -49,6 +49,10 @@
     "uk": "media/uk/anybody.mp3",
     "us": "media/us/anybody.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "any（任何）+ body（身体）= anybody 任何人"
+   },
    "avoid": []
   },
   {
@@ -99,6 +103,10 @@
     "us": "media/us/anyone.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "any（任何）+ one（一个）= anyone 任何人"
+   },
    "avoid": []
   },
   {
@@ -149,6 +157,10 @@
     "us": "media/us/anything.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "any（任何）+ thing（东西）= anything 任何东西"
+   },
    "avoid": []
   },
   {
@@ -197,6 +209,10 @@
    "media": {
     "uk": "media/uk/anywhere.mp3",
     "us": "media/us/anywhere.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "any（任何）+ where（哪里）= anywhere 任何地方"
    },
    "avoid": []
   },
@@ -247,6 +263,10 @@
     "uk": "media/uk/nobody.mp3",
     "us": "media/us/nobody.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "no（没有）+ body（身体）= nobody 没有人"
+   },
    "avoid": []
   },
   {
@@ -292,6 +312,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "no（没有）+ one（一个）= no one 没有人"
+   },
    "avoid": []
   },
   {
@@ -341,6 +365,10 @@
     "us": "media/us/nothing.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "no（没有）+ thing（东西）= nothing 没有东西"
+   },
    "avoid": []
   },
   {
@@ -391,6 +419,10 @@
     "us": "media/us/somebody.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "some（一些）+ body（身体）= somebody 某人"
+   },
    "avoid": []
   },
   {
@@ -440,6 +472,10 @@
     "us": "media/us/someone.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "some（一些）+ one（一个）= someone 某人"
+   },
    "avoid": []
   },
   {
@@ -489,6 +525,10 @@
     "us": "media/us/something.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "some（一些）+ thing（东西）= something 某物"
+   },
    "avoid": []
   },
   {
@@ -536,6 +576,10 @@
    "media": {
     "uk": "media/uk/somewhere.mp3",
     "us": "media/us/somewhere.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "some（一些）+ where（哪里）= somewhere 某处"
    },
    "avoid": []
   },
@@ -588,6 +632,10 @@
     "us": "media/us/everybody.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "every（每个）+ body（身体）= everybody 每个人"
+   },
    "avoid": []
   },
   {
@@ -638,6 +686,10 @@
     "us": "media/us/everyone.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "every（每个）+ one（一个）= everyone 每个人"
+   },
    "avoid": []
   },
   {
@@ -688,6 +740,10 @@
     "us": "media/us/everything.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "every（每个）+ thing（东西）= everything 所有东西"
+   },
    "avoid": []
   },
   {
@@ -736,6 +792,10 @@
    "media": {
     "uk": "media/uk/everywhere.mp3",
     "us": "media/us/everywhere.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "every（每个）+ where（哪里）= everywhere 到处"
    },
    "avoid": []
   },
@@ -836,6 +896,10 @@
     "us": "media/us/other.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "other 里有 her：一个她站在后面，就是其他人"
+   },
    "avoid": []
   },
   {
@@ -888,6 +952,10 @@
     "us": "media/us/another.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "an 一个 + other 其他 = another 又一个"
+   },
    "avoid": []
   },
   {
@@ -935,6 +1003,10 @@
     "uk": "media/uk/own.mp3",
     "us": "media/us/own.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "own 自己的，down 向下：去掉 d 就变成自己的"
+   },
    "avoid": []
   },
   {
@@ -979,6 +1051,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "how 怎么，now 现在：把 n 换成 h 就变成怎么"
+   },
    "avoid": []
   },
   {
@@ -1027,6 +1103,10 @@
     "us": "media/us/why.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "why 为什么，who 谁：把 o 换成 y 就变成问号"
+   },
    "avoid": []
   },
   {
@@ -1075,6 +1155,10 @@
     "us": "media/us/when.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "when 什么时候，then 那时：把 t 换成 w"
+   },
    "avoid": []
   },
   {
@@ -1119,6 +1203,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "where 哪里，there 那里：把 t 换成 w"
+   },
    "avoid": []
   }
  ]

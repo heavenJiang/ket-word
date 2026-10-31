@@ -98,6 +98,10 @@
     "uk": "media/uk/blog.mp3",
     "us": "media/us/blog.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "blog 博客，blow 吹：末尾是 g，不是 w。"
+   },
    "avoid": [
     "chatroom",
     "social-media"
@@ -197,6 +201,10 @@
    "media": {
     "img": "media/img/chatroom.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "chat 聊天 + room 房间 = chatroom 聊天室"
+   },
    "avoid": [
     "blog",
     "social-media"
@@ -250,6 +258,10 @@
     "img": "media/img/contact.webp",
     "uk": "media/uk/contact.mp3",
     "us": "media/us/contact.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "contact 联系，contract 合同：contract 多一个 r。"
    },
    "avoid": [
     "text-message"
@@ -406,6 +418,10 @@
    "media": {
     "img": "media/img/social-media.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "social 社交 + media 媒体 = social media 社交媒体"
+   },
    "avoid": [
     "blog",
     "chatroom"
@@ -511,6 +527,10 @@
    "media": {
     "img": "media/img/text-message.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "text 文本 + message 信息 = text message 短信"
+   },
    "avoid": [
     "contact"
    ]
@@ -561,6 +581,10 @@
     "img": "media/img/upload.webp",
     "uk": "media/uk/upload.mp3",
     "us": "media/us/upload.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "up 向上 + load 装载 = upload 上传"
    },
    "avoid": [
     "link",
@@ -667,6 +691,10 @@
     "us": "media/us/sentence.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "sentence 里藏着 ten，十个词就是一个句子。"
+   },
    "avoid": [
     "spelling",
     "vocabulary",
@@ -720,6 +748,10 @@
     "img": "media/img/spelling.webp",
     "uk": "media/uk/spelling.mp3",
     "us": "media/us/spelling.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "spell（拼写）+ ing（正在）= spelling 拼写"
    },
    "avoid": [
     "sentence",
@@ -777,6 +809,10 @@
     "img": "media/img/vocabulary.webp",
     "uk": "media/uk/vocabulary.mp3",
     "us": "media/us/vocabulary.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "vocabulary 里有 cab，像柜子装单词。"
    },
    "avoid": [
     "sentence",
@@ -983,6 +1019,10 @@
     "uk": "media/uk/topic.mp3",
     "us": "media/us/topic.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "topic 像山顶：top是顶端，点明主题。"
+   },
    "avoid": []
   },
   {
@@ -1178,6 +1218,10 @@
     "us": "media/us/mistake.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "mis（错）+ take（拿）= mistake 错误"
+   },
    "avoid": []
   },
   {
@@ -1223,6 +1267,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "affix",
+    "text": "detail（细节）+ s（复数）= details 细节"
+   },
    "avoid": []
   },
   {
@@ -1376,6 +1424,10 @@
    "media": {
     "img": "media/img/page.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "page 比 age 多一个 p，像给年龄翻一页。"
+   },
    "avoid": [
     "document",
     "list",
@@ -1428,6 +1480,10 @@
     "img": "media/img/sign.webp",
     "uk": "media/uk/sign.mp3",
     "us": "media/us/sign.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "sign 标志，sing 唱歌：sign 结尾 g n，sing 结尾 n g。"
    },
    "avoid": [
     "advert",
@@ -1587,6 +1643,10 @@
     "uk": "media/uk/review.mp3",
     "us": "media/us/review.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "re（再）+ view（看）= review 复习"
+   },
    "avoid": []
   },
   {
@@ -1734,6 +1794,10 @@
    ],
    "media": {
     "img": "media/img/pence.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pence 是 penny 复数：第二个 n 变 c，y 变 e。"
    },
    "avoid": [
     "money"
@@ -1934,6 +1998,10 @@
     "img": "media/img/notice.webp",
     "uk": "media/uk/notice.mp3",
     "us": "media/us/notice.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "not 不 + ice 冰 = notice 通知"
    },
    "avoid": [
     "advert",

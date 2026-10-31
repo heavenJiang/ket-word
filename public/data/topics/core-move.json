@@ -99,6 +99,10 @@
    "media": {
     "img": "media/img/come-back.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "come 来 + back 回来 = come back 回来"
+   },
    "avoid": [
     "arrive",
     "come",
@@ -302,6 +306,10 @@
    "media": {
     "img": "media/img/bring-back.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "bring 带来 + back 回来 = bring back 带回"
+   },
    "avoid": [
     "bring",
     "carry"
@@ -408,6 +416,10 @@
     "uk": "media/uk/cross.mp3",
     "us": "media/us/cross.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "cross 横穿，across 经过：across 多一个 a，像从起点穿过。"
+   },
    "avoid": []
   },
   {
@@ -504,6 +516,10 @@
    ],
    "media": {
     "img": "media/img/fall-over.webp"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "fall over：fall 像身子落下，over 像翻过去一点。"
    },
    "avoid": [
     "drop"
@@ -653,6 +669,10 @@
    "media": {
     "img": "media/img/get-back.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + back 回来 = get back 返回"
+   },
    "avoid": [
     "arrive",
     "come",
@@ -704,6 +724,10 @@
    "media": {
     "img": "media/img/get-off.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + off 离开 = get off 下车"
+   },
    "avoid": [
     "get-on"
    ]
@@ -753,6 +777,10 @@
    "media": {
     "img": "media/img/get-on.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + on 在……上 = get on 上车"
+   },
    "avoid": [
     "get-off"
    ]
@@ -801,6 +829,10 @@
    ],
    "media": {
     "img": "media/img/get-up.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "get 得到 + up 向上 = get up 起床"
    },
    "avoid": [
     "stand"
@@ -1050,6 +1082,10 @@
     "uk": "media/uk/pull.mp3",
     "us": "media/us/pull.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "pull 拉，push 推：pull 用 ll，push 用 sh。"
+   },
    "avoid": [
     "push"
    ]
@@ -1249,6 +1285,10 @@
    "media": {
     "img": "media/img/sit-down.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "sit 坐 + down 向下 = sit down 坐下"
+   },
    "avoid": [
     "sit"
    ]
@@ -1399,6 +1439,10 @@
     "uk": "media/uk/dive.mp3",
     "us": "media/us/dive.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "dive 跳水，drive 开车：dive 少了 r，身体直直入水。"
+   },
    "avoid": []
   },
   {
@@ -1446,6 +1490,10 @@
     "img": "media/img/sail.webp",
     "uk": "media/uk/sail.mp3",
     "us": "media/us/sail.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "sail 航行，sale 卖：sail 有 i 像桅杆，sale 没有 i。"
    },
    "avoid": []
   },
@@ -1642,6 +1690,10 @@
     "uk": "media/uk/pass.mp3",
     "us": "media/us/pass.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "pass 经过，past 过去：pass 有两个 s，像走过两条路。"
+   },
    "avoid": []
   },
   {
@@ -1739,6 +1791,10 @@
     "uk": "media/uk/climbing.mp3",
     "us": "media/us/climbing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "climb（爬）+ ing（正在）= climbing 正在攀爬"
+   },
    "avoid": [
     "running",
     "walking"
@@ -1792,6 +1848,10 @@
     "us": "media/us/walking.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "walk（走）+ ing（正在）= walking 正在散步"
+   },
    "avoid": [
     "climbing",
     "running"
@@ -1843,6 +1903,10 @@
     "img": "media/img/running.webp",
     "uk": "media/uk/running.mp3",
     "us": "media/us/running.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "running 像跑步：run 后面多一个 n，像两步跑"
    },
    "avoid": [
     "climbing",

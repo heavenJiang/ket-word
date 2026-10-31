@@ -92,6 +92,10 @@
    "media": {
     "img": "media/img/two.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "two 二：w 像两只耳朵，别和 to、too 混。"
+   },
    "avoid": []
   },
   {
@@ -133,6 +137,10 @@
    ],
    "media": {
     "img": "media/img/three.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "three 三，tree 树：three 多一个 h，像三棵树。"
    },
    "avoid": []
   },
@@ -479,6 +487,10 @@
    "media": {
     "img": "media/img/eleven.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "eleven 十一：开头 el，不是 seven 的 s。"
+   },
    "avoid": []
   },
   {
@@ -610,6 +622,10 @@
    "media": {
     "img": "media/img/fourteen.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "four（四）+ teen（十几）= fourteen 十四"
+   },
    "avoid": []
   },
   {
@@ -699,6 +715,10 @@
     "us": "media/us/sixteen.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "six（六）+ teen（十几）= sixteen 十六"
+   },
    "avoid": []
   },
   {
@@ -746,6 +766,10 @@
     "us": "media/us/seventeen.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "seven（七）+ teen（十几）= seventeen 十七"
+   },
    "avoid": []
   },
   {
@@ -834,6 +858,10 @@
    ],
    "media": {
     "img": "media/img/nineteen.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "nine（九）+ teen（十几）= nineteen 十九"
    },
    "avoid": []
   },
@@ -1103,6 +1131,10 @@
    "media": {
     "img": "media/img/seventy.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "seven（七）+ ty（十）= seventy 七十"
+   },
    "avoid": []
   },
   {
@@ -1146,6 +1178,10 @@
    "media": {
     "img": "media/img/eighty.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "eight（八）+ y（十）= eighty 八十"
+   },
    "avoid": []
   },
   {
@@ -1188,6 +1224,10 @@
    ],
    "media": {
     "img": "media/img/ninety.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "nine（九）+ ty（十）= ninety 九十"
    },
    "avoid": []
   },
@@ -1235,6 +1275,10 @@
     "us": "media/us/hundred.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "hundred 百：末尾有 red 红，一百个红气球。"
+   },
    "avoid": []
   },
   {
@@ -1279,6 +1323,10 @@
     "img": "media/img/thousand.webp",
     "uk": "media/uk/thousand.mp3",
     "us": "media/us/thousand.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "thousand 千：末尾有 sand 沙，一千粒沙很多。"
    },
    "avoid": []
   },
@@ -1591,6 +1639,10 @@
    "media": {
     "img": "media/img/fifth.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "fifth 第五，fifty 五十：th 收尾不是 y。"
+   },
    "avoid": []
   },
   {
@@ -1632,6 +1684,10 @@
    ],
    "media": {
     "img": "media/img/sixth.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "six（六）+ th（第）= sixth 第六"
    },
    "avoid": []
   },
@@ -1677,6 +1733,10 @@
     "uk": "media/uk/seventh.mp3",
     "us": "media/us/seventh.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "seven（七）+ th（第）= seventh 第七"
+   },
    "avoid": []
   },
   {
@@ -1720,6 +1780,10 @@
     "img": "media/img/eighth.webp",
     "uk": "media/uk/eighth.mp3",
     "us": "media/us/eighth.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "eighth 第八：eight 八后面加 h，t 不用写两遍。"
    },
    "avoid": []
   },
@@ -1765,6 +1829,10 @@
     "uk": "media/uk/ninth.mp3",
     "us": "media/us/ninth.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "ninth：nine去e加th，第九"
+   },
    "avoid": []
   },
   {
@@ -1809,6 +1877,10 @@
     "uk": "media/uk/tenth.mp3",
     "us": "media/us/tenth.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "ten十+th序数=tenth第十"
+   },
    "avoid": []
   },
   {
@@ -1852,6 +1924,10 @@
    ],
    "media": {
     "img": "media/img/eleventh.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "eleven十一+th序数=eleventh第十一"
    },
    "avoid": []
   },

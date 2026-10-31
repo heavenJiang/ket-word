@@ -100,6 +100,10 @@
     "uk": "media/uk/collect.mp3",
     "us": "media/us/collect.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "collect 收集，correct 正确：l 装东西，r 改错"
+   },
    "avoid": [
     "hobby"
    ]
@@ -488,6 +492,10 @@
     "uk": "media/uk/musician.mp3",
     "us": "media/us/musician.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "music（音乐）+ ian（人）= musician 音乐家"
+   },
    "avoid": [
     "dance",
     "guitar",
@@ -646,6 +654,10 @@
    "media": {
     "img": "media/img/cd-player.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "CD 光盘 + player 播放器 = CD player CD 播放机"
+   },
    "avoid": [
     "cd",
     "dvd",
@@ -698,6 +710,10 @@
    ],
    "media": {
     "img": "media/img/video-game.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "video 视频 + game 游戏 = video game 电子游戏"
    },
    "avoid": [
     "computer"
@@ -802,6 +818,10 @@
     "img": "media/img/quiz.webp",
     "uk": "media/uk/quiz.mp3",
     "us": "media/us/quiz.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "quiz 小测验，quick 快速：quiz 用 z 收尾，quick 用 ck"
    },
    "avoid": [
     "book",
@@ -1138,6 +1158,10 @@
     "uk": "media/uk/camp.mp3",
     "us": "media/us/camp.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "camp 露营，cap 帽子：camp 比 cap 多一个 m"
+   },
    "avoid": [
     "camping",
     "campsite",
@@ -1190,6 +1214,10 @@
     "img": "media/img/camping.webp",
     "uk": "media/uk/camping.mp3",
     "us": "media/us/camping.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "camp（露营）+ ing（做……）= camping 露营"
    },
    "avoid": [
     "camp",
@@ -1244,6 +1272,10 @@
     "uk": "media/uk/campsite.mp3",
     "us": "media/us/campsite.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "camp 露营 + site 地点 = campsite 营地"
+   },
    "avoid": [
     "camp",
     "camping",
@@ -1295,6 +1327,10 @@
     "img": "media/img/tent.webp",
     "uk": "media/uk/tent.mp3",
     "us": "media/us/tent.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "tent 帐篷，ten 十：tent 比 ten 多一个 t"
    },
    "avoid": [
     "camp",
@@ -1509,6 +1545,10 @@
    "media": {
     "img": "media/img/go-out.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "go 去 + out 外面 = go out 出去玩"
+   },
    "avoid": [
     "go-shopping",
     "holiday"
@@ -1555,6 +1595,10 @@
    ],
    "media": {
     "img": "media/img/go-shopping.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "go 去 + shopping 购物 = go shopping 去购物"
    },
    "avoid": [
     "go-out",
@@ -1610,6 +1654,10 @@
     "us": "media/us/holiday.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "holiday 假期，holy 神圣：holy 的 y 换成 i 加 day"
+   },
    "avoid": [
     "go-out",
     "go-shopping"
@@ -1716,6 +1764,10 @@
     "img": "media/img/barbecue.webp",
     "uk": "media/uk/barbecue.mp3",
     "us": "media/us/barbecue.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "barbecue 里有 bar，像小吧台，外面烧烤"
    },
    "avoid": [
     "festival",
@@ -2042,6 +2094,10 @@
     "us": "media/us/computer.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "computer电脑里有put（放），把东西放进去。"
+   },
    "avoid": [
     "video-game"
    ]
@@ -2091,6 +2147,10 @@
    ],
    "media": {
     "img": "media/img/dvd.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
    },
    "avoid": [
     "cd",
@@ -2145,6 +2205,10 @@
    ],
    "media": {
     "img": "media/img/dvd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
    },
    "avoid": [
     "cd",

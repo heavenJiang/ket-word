@@ -49,6 +49,10 @@
     "us": "media/us/village.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "village 结尾是 age，小村庄有年纪。"
+   },
    "avoid": [
     "area"
    ]
@@ -255,6 +259,10 @@
     "uk": "media/uk/forest.mp3",
     "us": "media/us/forest.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "forest 开头是 for，为了种树成森林。"
+   },
    "avoid": [
     "rainforest",
     "wood"
@@ -305,6 +313,10 @@
     "img": "media/img/wood.webp",
     "uk": "media/uk/wood.mp3",
     "us": "media/us/wood.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "wood 木头，good 好：wood 开头是 w，good 开头是 g。"
    },
    "avoid": [
     "forest",
@@ -411,6 +423,10 @@
     "us": "media/us/mountain.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "mountain 开头是 mount，登山就是上高山。"
+   },
    "avoid": [
     "hill",
     "island",
@@ -513,6 +529,10 @@
     "img": "media/img/lake.webp",
     "uk": "media/uk/lake.mp3",
     "us": "media/us/lake.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "lake 湖，like 喜欢：lake 中间是 a，like 中间是 i。"
    },
    "avoid": [
     "ocean",
@@ -622,6 +642,10 @@
     "img": "media/img/island.webp",
     "uk": "media/uk/island.mp3",
     "us": "media/us/island.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "island：s 像海水，把 land 陆地围成小岛。"
    },
    "avoid": [
     "beach",
@@ -889,6 +913,10 @@
     "uk": "media/uk/campsite.mp3",
     "us": "media/us/campsite.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "camp 露营 + site 地点 = campsite 营地"
+   },
    "avoid": [
     "field"
    ]
@@ -939,6 +967,10 @@
     "img": "media/img/railway.webp",
     "uk": "media/uk/railway.mp3",
     "us": "media/us/railway.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "rail 铁轨 + way 路 = railway 铁路"
    },
    "avoid": [
     "path",
@@ -992,6 +1024,10 @@
     "img": "media/img/rainforest.webp",
     "uk": "media/uk/rainforest.mp3",
     "us": "media/us/rainforest.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "rain 雨 + forest 森林 = rainforest 雨林"
    },
    "avoid": [
     "forest",

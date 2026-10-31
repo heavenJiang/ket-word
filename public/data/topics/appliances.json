@@ -46,6 +46,10 @@
    "media": {
     "img": "media/img/cell-phone.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "cell 小格子 + phone 电话 = cell phone 手机"
+   },
    "avoid": [
     "mobile",
     "phone",
@@ -211,6 +215,10 @@
     "us": "media/us/telephone.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "telephone有phone听声音，television有vision看画面。"
+   },
    "avoid": [
     "cell-phone",
     "mobile",
@@ -265,6 +273,10 @@
    ],
    "media": {
     "img": "media/img/digital-camera.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "digital 数码 + camera 相机 = digital camera 数码相机"
    },
    "avoid": [
     "camera"
@@ -476,6 +488,10 @@
     "us": "media/us/computer.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "computer电脑里有put（放），把东西放进去。"
+   },
    "avoid": [
     "laptop",
     "pc"
@@ -585,6 +601,10 @@
     "us": "media/us/television.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "television有vision看画面，telephone有phone听声音。"
+   },
    "avoid": [
     "radio",
     "video"
@@ -692,6 +712,10 @@
     "uk": "media/uk/electric.mp3",
     "us": "media/us/electric.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "electric 电动，electronic 电子：electric 短，基础"
+   },
    "avoid": [
     "electricity"
    ]
@@ -746,6 +770,10 @@
     "uk": "media/uk/electricity.mp3",
     "us": "media/us/electricity.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "electric（电的）+ ity（名词后缀）= electricity 电"
+   },
    "avoid": [
     "electric"
    ]
@@ -796,6 +824,10 @@
    ],
    "media": {
     "img": "media/img/washing-machine.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "washing 洗 + machine 机器 = washing machine 洗衣机"
    },
    "avoid": [
     "fridge"
@@ -897,6 +929,10 @@
    "media": {
     "img": "media/img/cd-player.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "CD 光盘 + player 播放器 = CD player CD 播放机"
+   },
    "avoid": [
     "dvd-player"
    ]
@@ -997,6 +1033,10 @@
     "uk": "media/uk/cooker.mp3",
     "us": "media/us/cooker.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "cook（做饭）+ er（做东西的）= cooker 炉灶"
+   },
    "avoid": [
     "fridge",
     "oven"
@@ -1047,6 +1087,10 @@
    ],
    "media": {
     "img": "media/img/dvd.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
    },
    "avoid": [
     "cd"
@@ -1099,6 +1143,10 @@
    ],
    "media": {
     "img": "media/img/dvd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
    },
    "avoid": [
     "cd-player"
@@ -1253,6 +1301,10 @@
     "img": "media/img/heating.webp",
     "uk": "media/uk/heating.mp3",
     "us": "media/us/heating.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "heat（热）+ ing（过程）= heating 供暖"
    },
    "avoid": [
     "gas"
@@ -1413,6 +1465,10 @@
     "img": "media/img/oven.webp",
     "uk": "media/uk/oven.mp3",
     "us": "media/us/oven.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "oven 烤箱，open 打开：oven 用 v，open 用 p"
    },
    "avoid": [
     "cooker",

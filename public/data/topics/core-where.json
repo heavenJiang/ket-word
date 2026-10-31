@@ -50,6 +50,10 @@
     "us": "media/us/about.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "about 大约，above 上面：abo 同，ut 换 ve 就往上"
+   },
    "avoid": []
   },
   {
@@ -157,6 +161,10 @@
     "uk": "media/uk/across.mp3",
     "us": "media/us/across.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "a 一个 + cross 穿过 = across 穿过"
+   },
    "avoid": [
     "along",
     "over",
@@ -210,6 +218,10 @@
     "uk": "media/uk/against.mp3",
     "us": "media/us/against.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "against 比 again 多了 st，像站在门边靠着或反对。"
+   },
    "avoid": []
   },
   {
@@ -258,6 +270,10 @@
     "img": "media/img/along.webp",
     "uk": "media/uk/along.mp3",
     "us": "media/us/along.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "along 沿着，alone 独自：along 把 e 换成 g，沿着路走。"
    },
    "avoid": [
     "across",
@@ -311,6 +327,10 @@
     "img": "media/img/among.webp",
     "uk": "media/uk/among.mp3",
     "us": "media/us/among.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "among 之中有m，along 沿着有l；m像many许多，在中间。"
    },
    "avoid": [
     "between",
@@ -525,6 +545,10 @@
     "uk": "media/uk/beside.mp3",
     "us": "media/us/beside.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "be（是）+ side（边）= beside 在旁边"
+   },
    "avoid": [
     "close-to",
     "near",
@@ -629,6 +653,10 @@
    ],
    "media": {
     "img": "media/img/close-to.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "close 近 + to 到 = close to 靠近"
    },
    "avoid": [
     "beside",
@@ -1003,6 +1031,10 @@
    "media": {
     "img": "media/img/next-to.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "next 下一个 + to 到 = next to 紧挨着"
+   },
    "avoid": [
     "beside",
     "close-to",
@@ -1257,6 +1289,10 @@
    "media": {
     "img": "media/img/out-of.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "out 出 + of 的 = out of 从……出来"
+   },
    "avoid": [
     "out",
     "outdoors",
@@ -1313,6 +1349,10 @@
     "us": "media/us/outside.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "out 外 + side 边 = outside 在外面"
+   },
    "avoid": [
     "out",
     "out-of",
@@ -1423,6 +1463,10 @@
     "img": "media/img/through.webp",
     "uk": "media/uk/through.mp3",
     "us": "media/us/through.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "through 穿过，rough 粗糙：through 多 th 像穿过去。"
    },
    "avoid": [
     "across",
@@ -1587,6 +1631,10 @@
     "us": "media/us/upstairs.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "up 上 + stairs 楼梯 = upstairs 在楼上"
+   },
    "avoid": []
   },
   {
@@ -1687,6 +1735,10 @@
     "uk": "media/uk/indoor.mp3",
     "us": "media/us/indoor.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "in 在 + door 门 = indoor 室内的"
+   },
    "avoid": [
     "indoors"
    ]
@@ -1737,6 +1789,10 @@
     "img": "media/img/outdoor.webp",
     "uk": "media/uk/outdoor.mp3",
     "us": "media/us/outdoor.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "out 外 + door 门 = outdoor 户外的"
    },
    "avoid": [
     "outdoors"
@@ -1839,6 +1895,10 @@
    ],
    "media": {
     "img": "media/img/here.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "here 这里，there 那里：here 用 h 指自己。"
    },
    "avoid": [
     "there"
@@ -2147,6 +2207,10 @@
     "uk": "media/uk/bottom.mp3",
     "us": "media/us/bottom.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bottom 底部，button 按钮：bottom 最后 m 像猫趴下面。"
+   },
    "avoid": [
     "below",
     "down",
@@ -2307,6 +2371,10 @@
     "img": "media/img/further.webp",
     "uk": "media/uk/further.mp3",
     "us": "media/us/further.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "further 里有 fur 毛，像毛茸茸小动物走得更远。"
    },
    "avoid": [
     "away"

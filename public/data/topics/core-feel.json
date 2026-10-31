@@ -100,6 +100,10 @@
     "uk": "media/uk/awesome.mp3",
     "us": "media/us/awesome.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "awesome 像 a+we+some：我们有些好事，哇，极好的！"
+   },
    "avoid": [
     "fantastic",
     "perfect",
@@ -256,6 +260,10 @@
     "uk": "media/uk/fantastic.mp3",
     "us": "media/us/fantastic.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "fantastic 里有 fan 扇子，像观众摇扇子叫好"
+   },
    "avoid": [
     "awesome",
     "perfect",
@@ -309,6 +317,10 @@
     "uk": "media/uk/frightened.mp3",
     "us": "media/us/frightened.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "frightened 里有 right 右边，右边一动就害怕"
+   },
    "avoid": [
     "horror",
     "scared",
@@ -360,6 +372,10 @@
     "img": "media/img/glad.webp",
     "uk": "media/uk/glad.mp3",
     "us": "media/us/glad.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "glad 高兴，sad 难过：g 像笑脸，s 像叹气"
    },
    "avoid": [
     "pleased"
@@ -413,6 +429,10 @@
     "uk": "media/uk/horrible.mp3",
     "us": "media/us/horrible.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "horrible 可怕，horror 恐怖：结尾 ible 对 or"
+   },
    "avoid": [
     "awful"
    ]
@@ -463,6 +483,10 @@
     "img": "media/img/horror.webp",
     "uk": "media/uk/horror.mp3",
     "us": "media/us/horror.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "horror 恐怖，horrible 可怕：结尾 or 对 ible"
    },
    "avoid": [
     "frightened",
@@ -516,6 +540,10 @@
     "uk": "media/uk/mad.mp3",
     "us": "media/us/mad.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "mad 生气，sad 难过：m 像鼓腮，s 像叹气"
+   },
    "avoid": [
     "serious"
    ]
@@ -567,6 +595,10 @@
     "uk": "media/uk/nervous.mp3",
     "us": "media/us/nervous.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "nervous 紧张，serious 严肃：n变s、v变i，别弄混"
+   },
    "avoid": [
     "shy"
    ]
@@ -616,6 +648,10 @@
     "img": "media/img/pleased.webp",
     "uk": "media/uk/pleased.mp3",
     "us": "media/us/pleased.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pleased 满意，please 请：pleased 比 please 多一个 d"
    },
    "avoid": [
     "glad"
@@ -718,6 +754,10 @@
     "uk": "media/uk/popular.mp3",
     "us": "media/us/popular.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "popular 受欢迎：pop 像爆米花，u l a r 像排长队"
+   },
    "avoid": [
     "successful",
     "well-known"
@@ -766,6 +806,10 @@
    ],
    "media": {
     "img": "media/img/sad.webp"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "sad 难过，mad 生气：s 像叹气，m 像鼓腮"
    },
    "avoid": [
     "upset"
@@ -816,6 +860,10 @@
     "img": "media/img/scared.webp",
     "uk": "media/uk/scared.mp3",
     "us": "media/us/scared.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "scared 害怕，scare 吓：scared 比 scare 多一个 d"
    },
    "avoid": [
     "frightened",
@@ -869,6 +917,10 @@
     "img": "media/img/scary.webp",
     "uk": "media/uk/scary.mp3",
     "us": "media/us/scary.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "scary 吓人，scare 吓：scary 比 scare 少 e 多 y"
    },
    "avoid": [
     "frightened",
@@ -1130,6 +1182,10 @@
     "uk": "media/uk/upset.mp3",
     "us": "media/us/upset.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "up 向上 + set 放 = upset 心烦的"
+   },
    "avoid": [
     "sad"
    ]
@@ -1183,6 +1239,10 @@
     "us": "media/us/wonderful.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "wonder（奇迹）+ ful（充满……的）= wonderful 极好的"
+   },
    "avoid": [
     "awesome",
     "fantastic",
@@ -1338,6 +1398,10 @@
     "uk": "media/uk/helpful.mp3",
     "us": "media/us/helpful.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "help（帮助）+ ful（充满……的）= helpful 乐于助人的"
+   },
    "avoid": []
   },
   {
@@ -1388,6 +1452,10 @@
     "us": "media/us/healthy.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "health（健康）+ y（…的）= healthy 健康的"
+   },
    "avoid": []
   },
   {
@@ -1438,6 +1506,10 @@
     "img": "media/img/comfortable.webp",
     "uk": "media/uk/comfortable.mp3",
     "us": "media/us/comfortable.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "comfort（舒适）+ able（能…）= comfortable 舒适的"
    },
    "avoid": [
     "relaxing"
@@ -1491,6 +1563,10 @@
     "uk": "media/uk/relaxing.mp3",
     "us": "media/us/relaxing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "relax（放松）+ ing（…的）= relaxing 令人放松的"
+   },
    "avoid": [
     "comfortable"
    ]
@@ -1542,6 +1618,10 @@
     "img": "media/img/successful.webp",
     "uk": "media/uk/successful.mp3",
     "us": "media/us/successful.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "success（成功）+ ful（充满…）= successful 成功的"
    },
    "avoid": [
     "popular",
@@ -1595,6 +1675,10 @@
     "img": "media/img/attractive.webp",
     "uk": "media/uk/attractive.mp3",
     "us": "media/us/attractive.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "attract（吸引）+ ive（…的）= attractive 吸引人的"
    },
    "avoid": [
     "good-looking"
@@ -1695,6 +1779,10 @@
    "media": {
     "img": "media/img/well-known.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "well 好 + known 知道 = well known 著名的"
+   },
    "avoid": [
     "popular",
     "successful"
@@ -1746,6 +1834,10 @@
     "uk": "media/uk/fair.mp3",
     "us": "media/us/fair.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "fair 公平的：把 chair 的 ch 换成 f，就变 fair"
+   },
    "avoid": []
   },
   {
@@ -1794,6 +1886,10 @@
     "us": "media/us/dear.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "dear 亲爱的：把 bear 的 b 换成 d，就变 dear"
+   },
    "avoid": []
   },
   {

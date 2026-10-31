@@ -99,6 +99,10 @@
     "uk": "media/uk/apartment.mp3",
     "us": "media/us/apartment.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "apartment：a 是门，part 是房间，合起来是公寓"
+   },
    "avoid": [
     "flat",
     "home",
@@ -151,6 +155,10 @@
     "img": "media/img/armchair.webp",
     "uk": "media/uk/armchair.mp3",
     "us": "media/us/armchair.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "arm 手臂 + chair 椅子 = armchair 扶手椅"
    },
    "avoid": [
     "chair",
@@ -261,6 +269,10 @@
     "us": "media/us/bathroom.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "bath 洗澡 + room 房间 = bathroom 浴室"
+   },
    "avoid": [
     "bath",
     "bathtub",
@@ -421,6 +433,10 @@
     "us": "media/us/bedroom.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "bed 床 + room 房间 = bedroom 卧室"
+   },
    "avoid": [
     "bed",
     "blanket",
@@ -479,6 +495,10 @@
     "uk": "media/uk/bin.mp3",
     "us": "media/us/bin.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bin 垃圾桶，pin 别针：bin 用 b，pin 用 p"
+   },
    "avoid": [
     "rubbish"
    ]
@@ -529,6 +549,10 @@
     "img": "media/img/blanket.webp",
     "uk": "media/uk/blanket.mp3",
     "us": "media/us/blanket.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "blanket 里有 blank 空白，像盖着一条白毯子"
    },
    "avoid": [
     "bed",
@@ -583,6 +607,10 @@
     "uk": "media/uk/bookcase.mp3",
     "us": "media/us/bookcase.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "book 书 + case 柜子 = bookcase 书柜"
+   },
    "avoid": [
     "bookshelf",
     "shelf"
@@ -634,6 +662,10 @@
     "img": "media/img/bookshelf.webp",
     "uk": "media/uk/bookshelf.mp3",
     "us": "media/us/bookshelf.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "book 书 + shelf 架子 = bookshelf 书架"
    },
    "avoid": [
     "bookcase",
@@ -787,6 +819,10 @@
     "img": "media/img/carpet.webp",
     "uk": "media/uk/carpet.mp3",
     "us": "media/us/carpet.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "car 车 + pet 宠物 = carpet 地毯"
    },
    "avoid": [
     "floor"
@@ -943,6 +979,10 @@
     "us": "media/us/computer.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "computer电脑里有put（放），把东西放进去。"
+   },
    "avoid": []
   },
   {
@@ -991,6 +1031,10 @@
     "img": "media/img/cooker.webp",
     "uk": "media/uk/cooker.mp3",
     "us": "media/us/cooker.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "cook（做饭）+ er（做东西的）= cooker 炉灶"
    },
    "avoid": [
     "gas",
@@ -1044,6 +1088,10 @@
     "uk": "media/uk/cupboard.mp3",
     "us": "media/us/cupboard.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "cup 杯 + board 板 = cupboard 橱柜"
+   },
    "avoid": [
     "box",
     "drawer",
@@ -1096,6 +1144,10 @@
     "img": "media/img/curtain.webp",
     "uk": "media/uk/curtain.mp3",
     "us": "media/us/curtain.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "curtain 窗帘：把 certain 的 e 换成 u，拉上窗帘。"
    },
    "avoid": []
   },
@@ -1193,6 +1245,10 @@
    ],
    "media": {
     "img": "media/img/dining-room.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "dining 吃饭 + room 房间 = dining room 餐厅"
    },
    "avoid": [
     "bedroom",
@@ -1303,6 +1359,10 @@
     "us": "media/us/downstairs.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "down 下 + stairs 楼梯 = downstairs 在楼下"
+   },
    "avoid": []
   },
   {
@@ -1351,6 +1411,10 @@
     "img": "media/img/drawer.webp",
     "uk": "media/uk/drawer.mp3",
     "us": "media/us/drawer.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "draw（拉）+ er（东西）= drawer 抽屉"
    },
    "avoid": [
     "box",
@@ -1404,6 +1468,10 @@
    "media": {
     "img": "media/img/dvd.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
+   },
    "avoid": [
     "dvd-player"
    ]
@@ -1455,6 +1523,10 @@
    ],
    "media": {
     "img": "media/img/dvd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
    },
    "avoid": [
     "dvd"
@@ -1723,6 +1795,10 @@
     "uk": "media/uk/furniture.mp3",
     "us": "media/us/furniture.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "furniture 家具：开头 fur 像毛皮，后面 niture 像许多家具"
+   },
    "avoid": [
     "armchair",
     "chair",
@@ -1775,6 +1851,10 @@
     "img": "media/img/garage.webp",
     "uk": "media/uk/garage.mp3",
     "us": "media/us/garage.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "garage：g 像车库门，ar 像车开进，age 像停好"
    },
    "avoid": [
     "garden"
@@ -1981,6 +2061,10 @@
     "uk": "media/uk/hall.mp3",
     "us": "media/us/hall.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "hall 像门厅：h 是门框，all 是里面所有人"
+   },
    "avoid": [
     "bedroom",
     "dining-room",
@@ -2036,6 +2120,10 @@
     "img": "media/img/heating.webp",
     "uk": "media/uk/heating.mp3",
     "us": "media/us/heating.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "heat（热）+ ing（过程）= heating 供暖"
    },
    "avoid": [
     "gas"
@@ -2465,6 +2553,10 @@
    "media": {
     "img": "media/img/living-room.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "living 生活 + room 房间 = living room 客厅"
+   },
    "avoid": [
     "bedroom",
     "dining-room",
@@ -2521,6 +2613,10 @@
     "uk": "media/uk/oven.mp3",
     "us": "media/us/oven.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "oven 烤箱，open 打开：oven 用 v，open 用 p"
+   },
    "avoid": [
     "cooker",
     "gas"
@@ -2572,6 +2668,10 @@
     "img": "media/img/pillow.webp",
     "uk": "media/uk/pillow.mp3",
     "us": "media/us/pillow.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pillow 枕头，pill 药丸：pillow 比 pill 多 ow，枕着睡很香"
    },
    "avoid": [
     "bed",
@@ -2786,6 +2886,10 @@
     "uk": "media/uk/rubbish.mp3",
     "us": "media/us/rubbish.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "rubbish 垃圾，rub 擦：rubbish 比 rub 多 bish，擦擦就干净"
+   },
    "avoid": [
     "bin"
    ]
@@ -2835,6 +2939,10 @@
     "img": "media/img/safe.webp",
     "uk": "media/uk/safe.mp3",
     "us": "media/us/safe.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "safe 安全，save 救：safe 用 f，save 用 v，安全最重要"
    },
    "avoid": []
   },
@@ -2992,6 +3100,10 @@
     "uk": "media/uk/sink.mp3",
     "us": "media/us/sink.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "sink 水槽：s 是水龙头，ink 是倒掉的墨水"
+   },
    "avoid": [
     "bath",
     "toilet"
@@ -3042,6 +3154,10 @@
    ],
    "media": {
     "img": "media/img/sitting-room.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "sitting 坐着 + room 房间 = sitting room 起居室"
    },
    "avoid": [
     "bedroom",
@@ -3257,6 +3373,10 @@
     "img": "media/img/towel.webp",
     "uk": "media/uk/towel.mp3",
     "us": "media/us/towel.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "towel 毛巾，tower 塔：towel 把 r 换成 l，擦擦就干"
    },
    "avoid": []
   }

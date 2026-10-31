@@ -47,6 +47,10 @@
    "media": {
     "img": "media/img/alarm-clock.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "alarm 警报 + clock 钟 = alarm clock 闹钟"
+   },
    "avoid": []
   },
   {
@@ -144,6 +148,10 @@
     "img": "media/img/balloon.webp",
     "uk": "media/uk/balloon.mp3",
     "us": "media/us/balloon.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "balloon 里有 ball 球，两个 o 像圆气球"
    },
    "avoid": []
   },
@@ -245,6 +253,10 @@
     "uk": "media/uk/brush.mp3",
     "us": "media/us/brush.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "brush 刷子，blush 脸红：brush 有 r，blush 有 l。"
+   },
    "avoid": []
   },
   {
@@ -294,6 +306,10 @@
     "img": "media/img/cabinet.webp",
     "uk": "media/uk/cabinet.mp3",
     "us": "media/us/cabinet.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "cabinet 柜子，cabin 小屋：多了 et，像小屋加了柜子。"
    },
    "avoid": [
     "closet",
@@ -396,6 +412,10 @@
     "uk": "media/uk/closet.mp3",
     "us": "media/us/closet.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "closet 衣橱，closed 关上的：把 d 换成 t。"
+   },
    "avoid": [
     "cabinet",
     "wardrobe"
@@ -497,6 +517,10 @@
     "img": "media/img/folder.webp",
     "uk": "media/uk/folder.mp3",
     "us": "media/us/folder.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "fold（折）+ er（做…的东西）= folder 文件夹"
    },
    "avoid": [
     "paper",
@@ -693,6 +717,10 @@
     "img": "media/img/microphone.webp",
     "uk": "media/uk/microphone.mp3",
     "us": "media/us/microphone.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "microphone：像小话筒，中间有 phone 电话，声音变很大"
    },
    "avoid": []
   },
@@ -895,6 +923,10 @@
    "media": {
     "img": "media/img/pencil-case.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "pencil 铅笔 + case 盒子 = pencil case 铅笔盒"
+   },
    "avoid": [
     "pen",
     "pencil"
@@ -1050,6 +1082,10 @@
     "img": "media/img/poster.webp",
     "uk": "media/uk/poster.mp3",
     "us": "media/us/poster.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "post（张贴）+ er（做…的东西）= poster 海报"
    },
    "avoid": []
   },
@@ -1249,6 +1285,10 @@
     "uk": "media/uk/shampoo.mp3",
     "us": "media/us/shampoo.mp3"
    },
+   "hook": {
+    "kind": "sound",
+    "text": "shampoo 洗发水像「香波」，香香泡泡。"
+   },
    "avoid": []
   },
   {
@@ -1296,6 +1336,10 @@
     "img": "media/img/sheet.webp",
     "uk": "media/uk/sheet.mp3",
     "us": "media/us/sheet.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "sheet 床单，sheep 绵羊：结尾 t 不是 p。"
    },
    "avoid": [
     "folder",
@@ -1395,6 +1439,10 @@
     "img": "media/img/stamp.webp",
     "uk": "media/uk/stamp.mp3",
     "us": "media/us/stamp.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "stamp 邮票和 stump 树桩：stamp 有 a，stump 有 u"
    },
    "avoid": []
   },
@@ -1801,6 +1849,10 @@
     "uk": "media/uk/metal.mp3",
     "us": "media/us/metal.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "metal 金属和 medal 奖牌：metal 有 t，medal 有 d"
+   },
    "avoid": [
     "gold",
     "leather",
@@ -1855,6 +1907,10 @@
     "img": "media/img/leather.webp",
     "uk": "media/uk/leather.mp3",
     "us": "media/us/leather.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "leather 皮革，weather 天气：l 像皮绳，w 像风。"
    },
    "avoid": [
     "gold",
@@ -1962,6 +2018,10 @@
     "uk": "media/uk/stuff.mp3",
     "us": "media/us/stuff.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "stuff 东西和 staff 员工：stuff 有 u，staff 有 a"
+   },
    "avoid": [
     "set",
     "thing"
@@ -2066,6 +2126,10 @@
     "img": "media/img/equipment.webp",
     "uk": "media/uk/equipment.mp3",
     "us": "media/us/equipment.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "equip（装备）+ ment（名词后缀）= equipment 设备"
    },
    "avoid": []
   },
@@ -2268,6 +2332,10 @@
     "uk": "media/uk/mango.mp3",
     "us": "media/us/mango.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "man 男人 + go 去 = mango 芒果"
+   },
    "avoid": [
     "bean",
     "cookie"
@@ -2318,6 +2386,10 @@
    "media": {
     "img": "media/img/french-fries.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "French 法国 + fries 薯条 = French fries 薯条"
+   },
    "avoid": [
     "fast-food"
    ]
@@ -2366,6 +2438,10 @@
    ],
    "media": {
     "img": "media/img/fast-food.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "fast 快 + food 食物 = fast food 快餐"
    },
    "avoid": [
     "french-fries"
@@ -2731,6 +2807,10 @@
     "uk": "media/uk/noise.mp3",
     "us": "media/us/noise.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "noise 噪音比 nose 鼻子多一个 i，i 像细小的声音。"
+   },
    "avoid": []
   },
   {
@@ -2779,6 +2859,10 @@
     "img": "media/img/make-up.webp",
     "uk": "media/uk/make-up.mp3",
     "us": "media/us/make-up.mp3"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "make 做 + up 上 = make-up 化妆品"
    },
    "avoid": []
   },

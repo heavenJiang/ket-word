@@ -208,6 +208,10 @@
     "us": "media/us/believe.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "believe 相信：中间藏着 lie，别信谎言才相信"
+   },
    "avoid": []
   },
   {
@@ -465,6 +469,10 @@
     "uk": "media/uk/explain.mp3",
     "us": "media/us/explain.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "explain 解释：ex 像疑问，plain 像明白，老师把疑问说明白"
+   },
    "avoid": [
     "describe",
     "discuss"
@@ -518,6 +526,10 @@
     "us": "media/us/forget.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "for 为了 + get 得到 = forget 忘记（为了新的，忘了旧的）"
+   },
    "avoid": []
   },
   {
@@ -565,6 +577,10 @@
     "img": "media/img/guess.webp",
     "uk": "media/uk/guess.mp3",
     "us": "media/us/guess.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "guess 猜末尾是 ss，guest 客人末尾是 t。"
    },
    "avoid": []
   },
@@ -863,6 +879,10 @@
     "img": "media/img/seem.webp",
     "uk": "media/uk/seem.mp3",
     "us": "media/us/seem.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "seem 像 see，后面 m 像两扇门，好像推开看看。"
    },
    "avoid": []
   },
@@ -1263,6 +1283,10 @@
     "us": "media/us/understand.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "under 下面 + stand 站立 = understand 理解"
+   },
    "avoid": []
   },
   {
@@ -1310,6 +1334,10 @@
     "img": "media/img/wish.webp",
     "uk": "media/uk/wish.mp3",
     "us": "media/us/wish.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "wish 愿望，wash 洗：i 换成 a 才是洗，别混淆"
    },
    "avoid": [
     "dream",
@@ -1512,6 +1540,10 @@
     "us": "media/us/hate.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "hate 讨厌，hat 帽子：hate 多一个 e"
+   },
    "avoid": []
   },
   {
@@ -1561,6 +1593,10 @@
     "us": "media/us/enjoy.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "en（使）+ joy（快乐）= enjoy 享受"
+   },
    "avoid": []
   },
   {
@@ -1713,6 +1749,10 @@
     "uk": "media/uk/opinion.mp3",
     "us": "media/us/opinion.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "opinion 意见，onion 洋葱：opinion 多 pi"
+   },
    "avoid": []
   },
   {
@@ -1762,6 +1802,10 @@
     "us": "media/us/reason.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "reason 原因，season 季节：reason 用 r 想原因"
+   },
    "avoid": []
   },
   {
@@ -1861,6 +1905,10 @@
    "media": {
     "uk": "media/uk/advice.mp3",
     "us": "media/us/advice.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "advice 里有 ice 冰：冷静听 advice"
    },
    "avoid": []
   }

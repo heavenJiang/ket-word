@@ -273,6 +273,10 @@
     "uk": "media/uk/golden.mp3",
     "us": "media/us/golden.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "gold（金）+ en（……的）= golden 金色的"
+   },
    "avoid": [
     "orange",
     "yellow"
@@ -615,6 +619,10 @@
     "img": "media/img/pale.webp",
     "uk": "media/uk/pale.mp3",
     "us": "media/us/pale.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "pale 苍白的，sale 卖：s 换 p 就 pale"
    },
    "avoid": [
     "dark",

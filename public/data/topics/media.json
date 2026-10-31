@@ -255,6 +255,10 @@
    "media": {
     "img": "media/img/board-game.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "board 棋盘 + game 游戏 = board game 棋盘游戏"
+   },
    "avoid": [
     "chess",
     "video-game"
@@ -412,6 +416,10 @@
     "uk": "media/uk/classical.mp3",
     "us": "media/us/classical.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "classic（经典）+ al（形容词后缀）= classical 古典的"
+   },
    "avoid": [
     "hip-hop",
     "opera",
@@ -519,6 +527,10 @@
     "uk": "media/uk/dancer.mp3",
     "us": "media/us/dancer.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "dancer 舞者，dance 跳舞：dancer 多个 r，像一个人。"
+   },
    "avoid": [
     "act",
     "actor",
@@ -571,6 +583,10 @@
     "img": "media/img/drawing.webp",
     "uk": "media/uk/drawing.mp3",
     "us": "media/us/drawing.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "draw（画）+ ing（进行）= drawing 图画"
    },
    "avoid": [
     "art",
@@ -839,6 +855,10 @@
    "media": {
     "img": "media/img/hip-hop.webp"
    },
+   "hook": {
+    "kind": "sound",
+    "text": "hip hop 读起来就像「嘻哈」，边说边跳。"
+   },
    "avoid": [
     "classical",
     "opera",
@@ -1003,6 +1023,10 @@
     "uk": "media/uk/keyboard.mp3",
     "us": "media/us/keyboard.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "key 键 + board 板 = keyboard 键盘"
+   },
    "avoid": [
     "keyboard.2"
    ]
@@ -1165,6 +1189,10 @@
    ],
    "media": {
     "img": "media/img/look-at.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "look 看 + at 向 = look at 看"
    },
    "avoid": [
     "watch",
@@ -1556,6 +1584,10 @@
     "uk": "media/uk/programme.mp3",
     "us": "media/us/programme.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "programme 是英式拼写，program 是美式拼写，都是节目"
+   },
    "avoid": [
     "cartoon",
     "film",
@@ -1829,6 +1861,10 @@
     "uk": "media/uk/photography.mp3",
     "us": "media/us/photography.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "photo（照片）+ graph（图）+ y（后缀）= photography 摄影"
+   },
    "avoid": [
     "photo",
     "photographer",
@@ -1989,6 +2025,10 @@
     "uk": "media/uk/advertisement.mp3",
     "us": "media/us/advertisement.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "advertise（做广告）+ment（名词）=advertisement广告"
+   },
    "avoid": []
   },
   {
@@ -2038,6 +2078,10 @@
     "img": "media/img/article.webp",
     "uk": "media/uk/article.mp3",
     "us": "media/us/article.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "article 文章：art 是艺术，写成一篇好文章"
    },
    "avoid": [
     "magazine",
@@ -2242,6 +2286,10 @@
    ],
    "media": {
     "img": "media/img/cd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "CD 光盘 + player 播放器 = CD player CD 播放机"
    },
    "avoid": [
     "cd",
@@ -2555,6 +2603,10 @@
    "media": {
     "img": "media/img/dvd.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "DVD 光盘，CD 光盘：DVD 有两个 D"
+   },
    "avoid": [
     "cd",
     "cd-player",
@@ -2608,6 +2660,10 @@
    ],
    "media": {
     "img": "media/img/dvd-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "DVD 光盘 + player 播放器 = DVD player DVD 播放机"
    },
    "avoid": [
     "cd",
@@ -2713,6 +2769,10 @@
    ],
    "media": {
     "img": "media/img/go-out.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "go 去 + out 外面 = go out 出去玩"
    },
    "avoid": []
   },
@@ -3032,6 +3092,10 @@
     "uk": "media/uk/musician.mp3",
     "us": "media/us/musician.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "music（音乐）+ ian（人）= musician 音乐家"
+   },
    "avoid": [
     "music",
     "sing",
@@ -3087,6 +3151,10 @@
     "us": "media/us/newspaper.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "news 新闻 + paper 纸 = newspaper 报纸"
+   },
    "avoid": [
     "article",
     "magazine",
@@ -3197,6 +3265,10 @@
     "uk": "media/uk/painter.mp3",
     "us": "media/us/painter.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "paint（涂画）+ er（做…的人）= painter 油漆工/画家"
+   },
    "avoid": [
     "draw",
     "paint"
@@ -3303,6 +3375,10 @@
    "media": {
     "img": "media/img/photographer.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "photograph（拍照）+er（做的人）=photographer 摄影师"
+   },
    "avoid": [
     "photo",
     "photography",
@@ -3356,6 +3432,10 @@
     "uk": "media/uk/practice.mp3",
     "us": "media/us/practice.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "practice（名词）用 c，practise（动词）用 s，别弄混。"
+   },
    "avoid": [
     "practise"
    ]
@@ -3408,6 +3488,10 @@
     "us": "media/us/practise.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "practise（动词）用 s，practice（名词）用 c，别弄混。"
+   },
    "avoid": [
     "practice"
    ]
@@ -3458,6 +3542,10 @@
     "img": "media/img/project.webp",
     "uk": "media/uk/project.mp3",
     "us": "media/us/project.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "project 项目，protect 保护：pro 后 j 不是 t"
    },
    "avoid": []
   },
@@ -3614,6 +3702,10 @@
     "us": "media/us/television.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "television有vision看画面，telephone有phone听声音。"
+   },
    "avoid": [
     "radio",
     "screen"
@@ -3666,6 +3758,10 @@
     "img": "media/img/theatre.webp",
     "uk": "media/uk/theatre.mp3",
     "us": "media/us/theatre.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "theatre 剧院：the 像幕布，at 像演员，re 像掌声"
    },
    "avoid": [
     "cinema",
@@ -3824,6 +3920,10 @@
    ],
    "media": {
     "img": "media/img/video-game.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "video 视频 + game 游戏 = video game 电子游戏"
    },
    "avoid": [
     "board-game",

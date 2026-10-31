@@ -99,6 +99,10 @@
    "media": {
     "img": "media/img/give-back.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "give 给 + back 回来 = give back 归还"
+   },
    "avoid": [
     "give",
     "offer",
@@ -201,6 +205,10 @@
    "media": {
     "img": "media/img/take-off.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "take 拿 + off 离开 = take off 脱下"
+   },
    "avoid": []
   },
   {
@@ -247,6 +255,10 @@
    ],
    "media": {
     "img": "media/img/pick-up.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "pick 摘 + up 向上 = pick up 捡起"
    },
    "avoid": [
     "take"
@@ -349,6 +361,10 @@
     "uk": "media/uk/lost.mp3",
     "us": "media/us/lost.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "lost 迷路的，比 lot 多一个 s，多走一步就迷路"
+   },
    "avoid": [
     "lose"
    ]
@@ -445,6 +461,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "find 找 + out 出来 = find out 查明"
+   },
    "avoid": []
   },
   {
@@ -698,6 +718,10 @@
     "uk": "media/uk/steal.mp3",
     "us": "media/us/steal.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "steal 偷，steel 钢：a 像悄悄拿，e 像钢铁"
+   },
    "avoid": []
   },
   {
@@ -746,6 +770,10 @@
     "img": "media/img/borrow.webp",
     "uk": "media/uk/borrow.mp3",
     "us": "media/us/borrow.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "borrow 借来，lend 借出：Can I borrow…? Can you lend me…?"
    },
    "avoid": [
     "lend"
@@ -796,6 +824,10 @@
     "img": "media/img/lend.webp",
     "uk": "media/uk/lend.mp3",
     "us": "media/us/lend.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "lend 借出（给出去），borrow 借来（拿进来）：Can you lend me…?"
    },
    "avoid": [
     "borrow"
@@ -949,6 +981,10 @@
     "img": "media/img/save.webp",
     "uk": "media/uk/save.mp3",
     "us": "media/us/save.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "save 存钱，have 有：把 h 换成 s，钱就存下来"
    },
    "avoid": []
   },
@@ -1108,6 +1144,10 @@
     "uk": "media/uk/post.mp3",
     "us": "media/us/post.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "post 邮寄，past 过去：把 a 换成 o，信就寄出"
+   },
    "avoid": [
     "deliver",
     "mail",
@@ -1211,6 +1251,10 @@
     "img": "media/img/gift.webp",
     "uk": "media/uk/gift.mp3",
     "us": "media/us/gift.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "gift 礼物，give 给：结尾不是 ve，是 ft，像打包礼物"
    },
    "avoid": [
     "present"

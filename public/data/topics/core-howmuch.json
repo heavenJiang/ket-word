@@ -48,6 +48,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "split",
+    "text": "a 一 + few 少 = a few 几个"
+   },
    "avoid": []
   },
   {
@@ -148,6 +152,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "all kinds of：kinds 比 kind 多一个 s，表示各种各样的"
+   },
    "avoid": []
   },
   {
@@ -196,6 +204,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "all sorts of：sorts 比 sort 多一个 s，表示各种各样的"
+   },
    "avoid": []
   },
   {
@@ -346,6 +358,10 @@
     "uk": "media/uk/bit.mp3",
     "us": "media/us/bit.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "bit 比 bite 少一个 e，咬一口后剩一点就是 bit"
+   },
    "avoid": []
   },
   {
@@ -444,6 +460,10 @@
     "us": "media/us/each.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "each 每个，beach 海滩：beach 多一个 b，每个都想去海滩"
+   },
    "avoid": []
   },
   {
@@ -547,6 +567,10 @@
     "us": "media/us/every.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "every 每一个，very 很：every 多一个 e，每个都很棒"
+   },
    "avoid": []
   },
   {
@@ -645,6 +669,10 @@
     "uk": "media/uk/half-price.mp3",
     "us": "media/us/half-price.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "half 半 + price 价格 = half-price 半价的"
+   },
    "avoid": []
   },
   {
@@ -691,6 +719,10 @@
    "media": {
     "uk": "media/uk/least.mp3",
     "us": "media/us/least.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "least 最少，less 更少；least 中间有个 a，像到了最少的角落"
    },
    "avoid": []
   },
@@ -742,6 +774,10 @@
    "media": {
     "uk": "media/uk/less.mp3",
     "us": "media/us/less.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "less 更少，least 最少；less 没有 a，还没到最少"
    },
    "avoid": []
   },
@@ -836,6 +872,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "affix",
+    "text": "lot（许多）+ s（复数）= lots 许多"
+   },
    "avoid": []
   },
   {
@@ -887,6 +927,10 @@
     "us": "media/us/many.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "many 许多，money 钱：many 有 a，money 有 o"
+   },
    "avoid": []
   },
   {
@@ -934,6 +978,10 @@
    "media": {
     "uk": "media/uk/million.mp3",
     "us": "media/us/million.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "million 里藏着一只 lion 狮子，一百万只狮子太壮观"
    },
    "avoid": []
   },
@@ -989,6 +1037,10 @@
     "us": "media/us/more.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "more 更多，most 最：more 结尾是 e，most 结尾是 t"
+   },
    "avoid": []
   },
   {
@@ -1043,6 +1095,10 @@
     "us": "media/us/most.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "most 最，more 更多：most 结尾有 st，more 没有"
+   },
    "avoid": []
   },
   {
@@ -1097,6 +1153,10 @@
     "us": "media/us/much.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "much 许多，such 这样：much 把 s 换成 m，许多这样"
+   },
    "avoid": []
   },
   {
@@ -1146,6 +1206,10 @@
     "us": "media/us/number.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "number 号码，member 成员：number 开头是 n，member 开头是 m"
+   },
    "avoid": []
   },
   {
@@ -1194,6 +1258,10 @@
     "us": "media/us/pair.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "pair 一双，pear 梨：pair 中间是 i，pear 中间是 e"
+   },
    "avoid": []
   },
   {
@@ -1242,6 +1310,10 @@
     "us": "media/us/piece.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "piece 一片，peace 和平：piece 中间是 i，peace 中间是 e"
+   },
    "avoid": []
   },
   {
@@ -1288,6 +1360,10 @@
    "media": {
     "uk": "media/uk/quite.mp3",
     "us": "media/us/quite.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "quite 相当，quiet 安静：quite 的 e 在 t 后"
    },
    "avoid": []
   },
@@ -1389,6 +1465,10 @@
     "us": "media/us/single.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "single 单个，simple 简单：ng 和 mp 不同。"
+   },
    "avoid": []
   },
   {
@@ -1485,6 +1565,10 @@
    "media": {
     "uk": "media/uk/such.mp3",
     "us": "media/us/such.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "such 如此，much 很多：s 和 m 不同。"
    },
    "avoid": []
   },
@@ -1585,6 +1669,10 @@
     "us": "media/us/very.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "very 非常，every 每个：every 在 very 前加 e。"
+   },
    "avoid": []
   },
   {
@@ -1633,6 +1721,10 @@
    "media": {
     "uk": "media/uk/whole.mp3",
     "us": "media/us/whole.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "whole 整个，hole 洞：whole 多一个 w。"
    },
    "avoid": []
   },
@@ -1731,6 +1823,10 @@
     "uk": "media/uk/almost.mp3",
     "us": "media/us/almost.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "almost 里的 most 是最多，差一点就到最多。"
+   },
    "avoid": []
   },
   {
@@ -1778,6 +1874,10 @@
    "media": {
     "uk": "media/uk/nearly.mp3",
     "us": "media/us/nearly.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "near（近）+ ly（副词）= nearly 几乎"
    },
    "avoid": []
   },
@@ -1878,6 +1978,10 @@
     "uk": "media/uk/especially.mp3",
     "us": "media/us/especially.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "especially 尤其，special 特别：前加 e，后加 ly。"
+   },
    "avoid": []
   },
   {
@@ -1926,6 +2030,10 @@
    "media": {
     "uk": "media/uk/exactly.mp3",
     "us": "media/us/exactly.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "exact（准确）+ ly（副词）= exactly 正好"
    },
    "avoid": []
   },
@@ -1977,6 +2085,10 @@
     "us": "media/us/really.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "real（真实）+ ly（副词）= really 真的"
+   },
    "avoid": []
   },
   {
@@ -2214,6 +2326,10 @@
     "uk": "media/uk/sort.mp3",
     "us": "media/us/sort.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "sort 种类，short 矮：sort 少一个 h。"
+   },
    "avoid": []
   },
   {
@@ -2357,6 +2473,10 @@
     }
    ],
    "media": {},
+   "hook": {
+    "kind": "contrast",
+    "text": "part 部分，past 过去：中间 r 和 s 不同"
+   },
    "avoid": []
   }
  ]

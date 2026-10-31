@@ -49,6 +49,10 @@
     "uk": "media/uk/available.mp3",
     "us": "media/us/available.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "available 里有 able 能：爸爸有空就能帮你。"
+   },
    "avoid": []
   },
   {
@@ -96,6 +100,10 @@
     "img": "media/img/bright.webp",
     "uk": "media/uk/bright.mp3",
     "us": "media/us/bright.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "bright 明亮，right 右边：bright 多个 b，光在右边亮起来。"
    },
    "avoid": []
   },
@@ -197,6 +205,10 @@
     "us": "media/us/correct.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "correct 正确，collect 收集：rr 对 ll"
+   },
    "avoid": []
   },
   {
@@ -245,6 +257,10 @@
     "img": "media/img/crowded.webp",
     "uk": "media/uk/crowded.mp3",
     "us": "media/us/crowded.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "crowd 人群 + ed（…的）= crowded 拥挤的"
    },
    "avoid": []
   },
@@ -392,6 +408,10 @@
    "media": {
     "uk": "media/uk/dry.mp3",
     "us": "media/us/dry.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "dry 干的，try 尝试：dry 用 d，try 用 t。"
    },
    "avoid": []
   },
@@ -590,6 +610,10 @@
     "uk": "media/uk/fresh.mp3",
     "us": "media/us/fresh.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "fresh 新鲜，flesh 肉：fresh 用 r，flesh 用 l。"
+   },
    "avoid": []
   },
   {
@@ -689,6 +713,10 @@
     "uk": "media/uk/huge.mp3",
     "us": "media/us/huge.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "huge 巨大，hug 拥抱：huge 多 e，拥抱变成大大的。"
+   },
    "avoid": [
     "large",
     "long",
@@ -743,6 +771,10 @@
     "uk": "media/uk/impossible.mp3",
     "us": "media/us/impossible.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "im（不）+ possible（可能）= impossible 不可能的"
+   },
    "avoid": []
   },
   {
@@ -793,6 +825,10 @@
    "media": {
     "uk": "media/uk/international.mp3",
     "us": "media/us/international.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "international：i 像一面旗，national 是国家，连成国际。"
    },
    "avoid": []
   },
@@ -996,6 +1032,10 @@
     "uk": "media/uk/loud.mp3",
     "us": "media/us/loud.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "loud 大声，cloud 云：loud 没有 c，cloud 有 c"
+   },
    "avoid": []
   },
   {
@@ -1096,6 +1136,10 @@
     "uk": "media/uk/missing.mp3",
     "us": "media/us/missing.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "miss（错过）+ ing（正在）= missing 丢失的"
+   },
    "avoid": []
   },
   {
@@ -1144,6 +1188,10 @@
    "media": {
     "uk": "media/uk/natural.mp3",
     "us": "media/us/natural.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "natural：把 nature 的 e 换成 al，就是自然的。"
    },
    "avoid": []
   },
@@ -1194,6 +1242,10 @@
     "img": "media/img/national.webp",
     "uk": "media/uk/national.mp3",
     "us": "media/us/national.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "nation（国家）+ al（的）= national 国家的"
    },
    "avoid": []
   },
@@ -1292,6 +1344,10 @@
     "uk": "media/uk/normal.mp3",
     "us": "media/us/normal.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "norm（标准）+ al（的）= normal 正常的"
+   },
    "avoid": []
   },
   {
@@ -1342,6 +1398,10 @@
     "us": "media/us/possible.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "contrast",
+    "text": "possible 可能的，impossible 多 im 表示不。"
+   },
    "avoid": []
   },
   {
@@ -1389,6 +1449,10 @@
     "img": "media/img/round.webp",
     "uk": "media/uk/round.mp3",
     "us": "media/us/round.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "round 圆的，ground 地面：round 没有 g，ground 有 g"
    },
    "avoid": [
     "straight"
@@ -1596,6 +1660,10 @@
     "uk": "media/uk/simple.mp3",
     "us": "media/us/simple.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "simple 简单，sample 样品：simple 用 i，sample 用 a"
+   },
    "avoid": []
   },
   {
@@ -1692,6 +1760,10 @@
     "uk": "media/uk/spare.mp3",
     "us": "media/us/spare.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "spare 备用，share 分享：spare 用 p，share 用 h"
+   },
    "avoid": []
   },
   {
@@ -1740,6 +1812,10 @@
     "img": "media/img/striped.webp",
     "uk": "media/uk/striped.mp3",
     "us": "media/us/striped.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "strip（条）+ ed（的）= striped 有条纹的"
    },
    "avoid": [
     "dressed"
@@ -1841,6 +1917,10 @@
     "img": "media/img/unusual.webp",
     "uk": "media/uk/unusual.mp3",
     "us": "media/us/unusual.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "un（不）+ usual（寻常的）= unusual 不寻常的"
    },
    "avoid": []
   },
@@ -1944,6 +2024,10 @@
     "uk": "media/uk/wooden.mp3",
     "us": "media/us/wooden.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "wood（木头）+ en（的）= wooden 木制的"
+   },
    "avoid": []
   },
   {
@@ -1991,6 +2075,10 @@
    "media": {
     "uk": "media/uk/worse.mp3",
     "us": "media/us/worse.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "worse 更糟的，worst 最差的：worse 是 se，worst 是 st"
    },
    "avoid": [
     "best",
@@ -2041,6 +2129,10 @@
    "media": {
     "uk": "media/uk/worst.mp3",
     "us": "media/us/worst.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "worst 最差的，worse 更糟的：worst 是 st，worse 是 se"
    },
    "avoid": [
     "best",
@@ -2297,6 +2389,10 @@
     "uk": "media/uk/thin.mp3",
     "us": "media/us/thin.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "thin 瘦的，thick 厚的：thick 把 n 换成 ck，就变厚"
+   },
    "avoid": [
     "fat",
     "slim"
@@ -2401,6 +2497,10 @@
     "uk": "media/uk/left-hand.mp3",
     "us": "media/us/left-hand.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "left 左 + hand 手 = left-hand 左手的"
+   },
    "avoid": [
     "right-hand"
    ]
@@ -2449,6 +2549,10 @@
    ],
    "media": {
     "img": "media/img/right-hand.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "right 右 + hand 手 = right hand 右手"
    },
    "avoid": [
     "left-hand"
@@ -2500,6 +2604,10 @@
    "media": {
     "img": "media/img/olympic.webp"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "Olympic 奥林匹克的，Olympics 多一个 s，是比赛"
+   },
    "avoid": []
   },
   {
@@ -2545,6 +2653,10 @@
    ],
    "media": {
     "img": "media/img/dressed.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "dress（穿）+ ed（已经）= dressed 穿好衣服的"
    },
    "avoid": [
     "striped"
@@ -2597,6 +2709,10 @@
    "media": {
     "img": "media/img/by-accident.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "by 经过 + accident 事故 = by accident 不小心"
+   },
    "avoid": [
     "badly"
    ]
@@ -2648,6 +2764,10 @@
     "uk": "media/uk/badly.mp3",
     "us": "media/us/badly.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "bad（坏）+ ly（地）= badly 严重地"
+   },
    "avoid": [
     "by-accident"
    ]
@@ -2698,6 +2818,10 @@
    "media": {
     "img": "media/img/carefully.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "careful（小心）+ ly（地）= carefully 小心地"
+   },
    "avoid": []
   },
   {
@@ -2746,6 +2870,10 @@
     "img": "media/img/clearly.webp",
     "uk": "media/uk/clearly.mp3",
     "us": "media/us/clearly.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "clear（清楚）+ ly（地）= clearly 清楚地"
    },
    "avoid": []
   },
@@ -2849,6 +2977,10 @@
     "us": "media/us/quickly.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "quick（快）+ ly（地）= quickly 快速地"
+   },
    "avoid": [
     "easily"
    ]
@@ -2952,6 +3084,10 @@
     "us": "media/us/together.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "together 一起：to+get+her，大家都聚到一起"
+   },
    "avoid": []
   }
  ]

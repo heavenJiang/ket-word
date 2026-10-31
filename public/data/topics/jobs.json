@@ -221,6 +221,10 @@
     "uk": "media/uk/occupation.mp3",
     "us": "media/us/occupation.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "occupation 职业：o 像工牌，cup 是上班喝水，记职业。"
+   },
    "avoid": [
     "job",
     "work",
@@ -330,6 +334,10 @@
     "us": "media/us/company.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "company 公司：m 像人，any 任何人围坐，就是一家公司。"
+   },
    "avoid": [
     "business",
     "factory",
@@ -437,6 +445,10 @@
     "uk": "media/uk/boss.mp3",
     "us": "media/us/boss.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "boss 老板：loss 里的 l 换成 b，就成 boss。"
+   },
    "avoid": [
     "manager",
     "staff"
@@ -490,6 +502,10 @@
     "uk": "media/uk/manager.mp3",
     "us": "media/us/manager.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "manager 经理：manage 管理，多一个 r 就是经理。"
+   },
    "avoid": [
     "boss",
     "staff"
@@ -540,6 +556,10 @@
     "img": "media/img/staff.webp",
     "uk": "media/uk/staff.mp3",
     "us": "media/us/staff.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "staff 员工：stuff 东西里的 u 换成 a，就成 staff。"
    },
    "avoid": [
     "boss",
@@ -595,6 +615,10 @@
     "uk": "media/uk/businessman.mp3",
     "us": "media/us/businessman.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "business 生意+man 男人 = businessman 男商人"
+   },
    "avoid": [
     "businesswoman",
     "receptionist",
@@ -648,6 +672,10 @@
    ],
    "media": {
     "img": "media/img/businesswoman.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "business 生意+woman 女人 = businesswoman 女商人"
    },
    "avoid": [
     "businessman",
@@ -704,6 +732,10 @@
     "uk": "media/uk/secretary.mp3",
     "us": "media/us/secretary.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "secretary 里藏着 secret 秘密，秘书替老板保守秘密。"
+   },
    "avoid": [
     "businessman",
     "businesswoman",
@@ -758,6 +790,10 @@
     "img": "media/img/receptionist.webp",
     "uk": "media/uk/receptionist.mp3",
     "us": "media/us/receptionist.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "reception（接待）+ ist（人）= receptionist 接待员"
    },
    "avoid": [
     "businessman",
@@ -815,6 +851,10 @@
     "us": "media/us/meeting.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "meet（见面）+ ing（进行）= meeting 会议"
+   },
    "avoid": [
     "break",
     "computer",
@@ -1158,6 +1198,10 @@
     "uk": "media/uk/earn.mp3",
     "us": "media/us/earn.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "earn 挣钱：learn 学习去掉 l，就成 earn。"
+   },
    "avoid": [
     "job",
     "work"
@@ -1314,6 +1358,10 @@
     "uk": "media/uk/nurse.mp3",
     "us": "media/us/nurse.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "nurse 护士，purse 钱包：n 照顾人，p 装钱"
+   },
    "avoid": [
     "chemist",
     "dentist",
@@ -1421,6 +1469,10 @@
     "uk": "media/uk/chemist.mp3",
     "us": "media/us/chemist.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "chemist 药店，chemistry 化学：chemist 少 ry，是买药的店"
+   },
    "avoid": [
     "doctor",
     "nurse"
@@ -1474,6 +1526,10 @@
     "us": "media/us/teacher.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "teach（教）+ er（人）= teacher 老师"
+   },
    "avoid": [
     "coach",
     "student"
@@ -1744,6 +1800,10 @@
     "uk": "media/uk/cleaner.mp3",
     "us": "media/us/cleaner.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "clean（打扫）+ er（人）= cleaner 清洁工"
+   },
    "avoid": [
     "customer",
     "shop-assistant",
@@ -1796,6 +1856,10 @@
    ],
    "media": {
     "img": "media/img/shop-assistant.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "shop 商店+assistant 助手=shop assistant 店员"
    },
    "avoid": [
     "cleaner",
@@ -1851,6 +1915,10 @@
     "uk": "media/uk/customer.mp3",
     "us": "media/us/customer.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "custom（习惯）+ er（人）= customer 顾客"
+   },
    "avoid": [
     "cleaner",
     "guest",
@@ -1904,6 +1972,10 @@
    "media": {
     "img": "media/img/shopper.webp"
    },
+   "hook": {
+    "kind": "story",
+    "text": "shopper 购物者：shop 商店，两个 p 像两袋，er 是人。"
+   },
    "avoid": [
     "cleaner",
     "customer",
@@ -1955,6 +2027,10 @@
     "img": "media/img/guest.webp",
     "uk": "media/uk/guest.mp3",
     "us": "media/us/guest.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "guest 客人，guess 猜：guest 尾 t，guess 尾 s"
    },
    "avoid": [
     "customer",
@@ -2008,6 +2084,10 @@
    ],
    "media": {
     "img": "media/img/police-officer.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "police 警察+officer 官员=police officer 警察"
    },
    "avoid": [
     "driver",
@@ -2114,6 +2194,10 @@
     "uk": "media/uk/pilot.mp3",
     "us": "media/us/pilot.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "pilot 飞行员：p 像飞机，lot 很多，很多飞机飞上天。"
+   },
    "avoid": [
     "driver",
     "police-officer"
@@ -2167,6 +2251,10 @@
     "uk": "media/uk/mechanic.mp3",
     "us": "media/us/mechanic.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "mechanic 修理工，mechanics 学科：一个人没有 s，学科有 s。"
+   },
    "avoid": [
     "engineer",
     "worker"
@@ -2219,6 +2307,10 @@
     "img": "media/img/engineer.webp",
     "uk": "media/uk/engineer.mp3",
     "us": "media/us/engineer.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "engine（发动机）+ er（做…的人）= engineer 工程师"
    },
    "avoid": [
     "mechanic",
@@ -2377,6 +2469,10 @@
     "img": "media/img/factory.webp",
     "uk": "media/uk/factory.mp3",
     "us": "media/us/factory.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "factory 工厂比 fact 事实多了 ory"
    },
    "avoid": [
     "business",
@@ -2540,6 +2636,10 @@
     "uk": "media/uk/painter.mp3",
     "us": "media/us/painter.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "paint（涂画）+ er（做…的人）= painter 油漆工/画家"
+   },
    "avoid": [
     "artist",
     "photographer"
@@ -2592,6 +2692,10 @@
     "img": "media/img/musician.webp",
     "uk": "media/uk/musician.mp3",
     "us": "media/us/musician.mp3"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "music（音乐）+ ian（人）= musician 音乐家"
    },
    "avoid": [
     "actor",
@@ -2697,6 +2801,10 @@
    ],
    "media": {
     "img": "media/img/photographer.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "photograph（拍照）+er（做的人）=photographer 摄影师"
    },
    "avoid": [
     "artist",
@@ -2804,6 +2912,10 @@
     "uk": "media/uk/journalist.mp3",
     "us": "media/us/journalist.mp3"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "journal（报刊）+ ist（做…的人）= journalist 记者"
+   },
    "avoid": [
     "explorer",
     "writer"
@@ -2856,6 +2968,10 @@
     "img": "media/img/explorer.webp",
     "uk": "media/uk/explorer.mp3",
     "us": "media/us/explorer.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "explorer 探险家，explore 探索：末尾多一个 r，像多一条路。"
    },
    "avoid": [
     "guide",
@@ -2910,6 +3026,10 @@
    "media": {
     "img": "media/img/footballer.webp"
    },
+   "hook": {
+    "kind": "affix",
+    "text": "football（足球）+ er（做…的人）= footballer 足球运动员"
+   },
    "avoid": [
     "coach",
     "football-player",
@@ -2962,6 +3082,10 @@
    ],
    "media": {
     "img": "media/img/football-player.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "football足球+player运动员=football player 球员"
    },
    "avoid": [
     "coach",
@@ -3016,6 +3140,10 @@
    "media": {
     "img": "media/img/tennis-player.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "tennis 网球 + player 运动员 = tennis player 网球运动员"
+   },
    "avoid": [
     "coach",
     "football-player",
@@ -3067,6 +3195,10 @@
     "img": "media/img/coach.webp",
     "uk": "media/uk/coach.mp3",
     "us": "media/us/coach.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "coach 教练，couch 沙发：中间 a 像哨子，u 像软沙发。"
    },
    "avoid": [
     "football-player",
@@ -3171,6 +3303,10 @@
    ],
    "media": {
     "img": "media/img/tour-guide.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "tour 旅行 + guide 向导 = tour guide 导游"
    },
    "avoid": [
     "explorer",
@@ -3325,6 +3461,10 @@
     "uk": "media/uk/uniform.mp3",
     "us": "media/us/uniform.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "uniform：u 像校服领口，form 是形状，全班统一形状穿校服。"
+   },
    "avoid": [
     "diploma",
     "instructions"
@@ -3375,6 +3515,10 @@
    ],
    "media": {
     "img": "media/img/instructions.webp"
+   },
+   "hook": {
+    "kind": "affix",
+    "text": "instruction（说明）+ s（多个）= instructions 说明"
    },
    "avoid": [
     "diploma",
@@ -3483,6 +3627,10 @@
     "us": "media/us/computer.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "story",
+    "text": "computer电脑里有put（放），把东西放进去。"
+   },
    "avoid": [
     "desk",
     "diary",

@@ -49,6 +49,10 @@
     "us": "media/us/building.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "affix",
+    "text": "build（建造）+ ing（名词后缀）= building 楼房"
+   },
    "avoid": [
     "apartment",
     "flat",
@@ -212,6 +216,10 @@
     "uk": "media/uk/apartment.mp3",
     "us": "media/us/apartment.mp3"
    },
+   "hook": {
+    "kind": "story",
+    "text": "apartment：a 是门，part 是房间，合起来是公寓"
+   },
    "avoid": [
     "apartment-building",
     "block",
@@ -268,6 +276,10 @@
    "media": {
     "img": "media/img/apartment-building.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "apartment公寓+building楼=apartment building"
+   },
    "avoid": [
     "apartment",
     "block",
@@ -320,6 +332,10 @@
     "uk": "media/uk/block.mp3",
     "us": "media/us/block.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "block 大楼，clock 时钟：b 换 c 是钟表"
+   },
    "avoid": [
     "apartment",
     "apartment-building",
@@ -371,6 +387,10 @@
     "img": "media/img/lift.webp",
     "uk": "media/uk/lift.mp3",
     "us": "media/us/lift.mp3"
+   },
+   "hook": {
+    "kind": "contrast",
+    "text": "lift 电梯，left 左边：lift 用 i，left 用 e"
    },
    "avoid": [
     "elevator"
@@ -527,6 +547,10 @@
     "uk": "media/uk/exit.mp3",
     "us": "media/us/exit.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "exit 出口，exist 存在：exit 比 exist 少一个 s"
+   },
    "avoid": [
     "entrance"
    ]
@@ -577,6 +601,10 @@
     "img": "media/img/garage.webp",
     "uk": "media/uk/garage.mp3",
     "us": "media/us/garage.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "garage：g 像车库门，ar 像车开进，age 像停好"
    },
    "avoid": [
     "house"
@@ -679,6 +707,10 @@
    ],
    "media": {
     "img": "media/img/guest-house.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "guest 客人 + house 房子 = guest-house 小旅馆"
    },
    "avoid": [
     "castle",
@@ -1059,6 +1091,10 @@
     "uk": "media/uk/factory.mp3",
     "us": "media/us/factory.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "factory 工厂比 fact 事实多了 ory"
+   },
    "avoid": [
     "bank",
     "office"
@@ -1166,6 +1202,10 @@
     "uk": "media/uk/post-office.mp3",
     "us": "media/us/post-office.mp3"
    },
+   "hook": {
+    "kind": "split",
+    "text": "post 邮 + office 办公室 = post office 邮局"
+   },
    "avoid": [
     "bank",
     "police-station"
@@ -1217,6 +1257,10 @@
    ],
    "media": {
     "img": "media/img/police-station.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "police 警察 + station 站 = police station 警察局"
    },
    "avoid": [
     "bank",
@@ -1430,6 +1474,10 @@
     "uk": "media/uk/cafeteria.mp3",
     "us": "media/us/cafeteria.mp3"
    },
+   "hook": {
+    "kind": "contrast",
+    "text": "cafeteria 自助餐厅比 cafe 咖啡馆多了 teria"
+   },
    "avoid": [
     "cafe"
    ]
@@ -1536,6 +1584,10 @@
     "img": "media/img/theatre.webp",
     "uk": "media/uk/theatre.mp3",
     "us": "media/us/theatre.mp3"
+   },
+   "hook": {
+    "kind": "story",
+    "text": "theatre 剧院：the 像幕布，at 像演员，re 像掌声"
    },
    "avoid": [
     "cinema",
@@ -1695,6 +1747,10 @@
    "media": {
     "img": "media/img/sports-centre.webp"
    },
+   "hook": {
+    "kind": "split",
+    "text": "sports 运动 + centre 中心 = sports centre 体育中心"
+   },
    "avoid": [
     "stadium",
     "swimming-pool"
@@ -1798,6 +1854,10 @@
    ],
    "media": {
     "img": "media/img/swimming-pool.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "swimming 游泳 + pool 水池 = swimming pool 游泳池"
    },
    "avoid": [
     "sports-centre",
@@ -1915,6 +1975,10 @@
     "us": "media/us/supermarket.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "super 超级 + market 市场 = supermarket 超市"
+   },
    "avoid": [
     "department-store",
     "grocery-store",
@@ -1969,6 +2033,10 @@
     "us": "media/us/bookshop.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "book 书 + shop 商店 = bookshop 书店"
+   },
    "avoid": [
     "bookstore",
     "library"
@@ -2022,6 +2090,10 @@
     "us": "media/us/bookstore.mp3"
    },
    "spell": true,
+   "hook": {
+    "kind": "split",
+    "text": "book 书 + store 商店 = bookstore 书店"
+   },
    "avoid": [
     "bookshop",
     "library"
@@ -2073,6 +2145,10 @@
    ],
    "media": {
     "img": "media/img/department-store.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "department 部门+store 商店=department store"
    },
    "avoid": [
     "grocery-store",
@@ -2126,6 +2202,10 @@
    ],
    "media": {
     "img": "media/img/grocery-store.webp"
+   },
+   "hook": {
+    "kind": "split",
+    "text": "grocery 杂货 + store 商店 = grocery store 杂货店"
    },
    "avoid": [
     "department-store",
