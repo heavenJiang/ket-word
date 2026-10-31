@@ -12,7 +12,7 @@ function mediaUrls(words: Word[], stories: Story[]): string[] {
     for (const m of [w.media.img, w.media.uk, w.media.us]) if (m) paths.add(m);
     for (const s of w.sentences ?? []) if (s.audio) paths.add(s.audio);
   }
-  for (const st of stories) for (const p of st.pages) if (p.img) paths.add(p.img);
+  for (const st of stories) for (const p of st.pages) for (const m of [p.img, p.audio]) if (m) paths.add(m);
   for (const pose of ["happy", "cheer", "think", "sleep", "wave", "stage2", "stage3", "stage4"]) paths.add(`media/ui/max-${pose}.webp`);
   return [...paths].map((p) => new URL(base + p, location.href).href);
 }

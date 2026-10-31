@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { playWord, readAloud, sfx } from "../lib/audio";
+import { playPage, playWord, readAloud, sfx } from "../lib/audio";
 import type { Library } from "../lib/data";
 import { STORY_STARS } from "../store/progress";
 import type { Accent, Story, StoryQuestion, Word } from "../types";
@@ -125,15 +125,13 @@ function StoryPageView(props: {
       return;
     }
     setReading(true);
-    stopRef.current = readAloud(
-      page.en,
-      accent,
-      (at) => setLit(segmentAt(starts, at)),
-      () => {
-        setReading(false);
-        setLit(null);
-      },
-    );
+    const onWord = (at: number) => setLit(segmentAt(starts, at));
+    const onEnd = () => {
+      setReading(false);
+      setLit(null);
+    };
+    // the recording when there is one; the browser's voice only for pages not recorded yet
+    stopRef.current = page.audio && page.marks ? playPage(page.audio, page.marks, page.en, accent, onWord, onEnd) : readAloud(page.en, accent, onWord, onEnd);
   };
 
   return (

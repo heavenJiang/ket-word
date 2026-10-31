@@ -91,6 +91,51 @@ export function sfx(kind: "right" | "wrong" | "tap" | "done", enabled = true): v
 }
 
 /**
+ * Play a story page's recording at the sentences' KET pace, reporting the character index of the word
+ * being said (from the page's word timings) so the reader can light it up; returns a stop function.
+ * Falls back to the browser voice if the recording cannot play.
+ */
+export function playPage(
+  src: string,
+  marks: [number, number][],
+  text: string,
+  accent: Accent,
+  onWord: (charIndex: number) => void,
+  onEnd: () => void,
+): () => void {
+  stop();
+  const a = new Audio(base + src);
+  a.playbackRate = 0.85;
+  current = a;
+  let raf = 0;
+  let last = -1;
+  let fallback: (() => void) | null = null;
+  const tick = () => {
+    // currentTime is in the recording's own seconds, whatever the playback rate
+    let k = -1;
+    while (k + 1 < marks.length && marks[k + 1][1] <= a.currentTime + 0.05) k++;
+    if (k !== last && k >= 0) onWord(marks[k][0]);
+    last = k;
+    raf = requestAnimationFrame(tick);
+  };
+  const end = () => {
+    cancelAnimationFrame(raf);
+    onEnd();
+  };
+  a.onended = end;
+  a.play().then(
+    () => (raf = requestAnimationFrame(tick)),
+    () => (fallback = readAloud(text, accent, onWord, onEnd)),
+  );
+  return () => {
+    cancelAnimationFrame(raf);
+    a.onended = null;
+    a.pause();
+    fallback?.();
+  };
+}
+
+/**
  * Read a story page aloud, reporting the character index of each word as it is spoken, so the
  * reader can light it up. Uses the browser voice, which reports word boundaries; returns a stop function.
  */

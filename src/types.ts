@@ -97,6 +97,10 @@ export interface StoryPage {
   /** The text as plain strings and tappable words ({t: "monkeys", id: "monkey"}). */
   segments: (string | { t: string; id: string })[];
   img: string | null;
+  /** Higgs Audio recording of the page; without one the browser's voice reads it. */
+  audio?: string;
+  /** [character index in `en`, second in the recording] for each word, to light it up as it is said. */
+  marks?: [number, number][];
 }
 
 /** True / false when `answer` is a boolean, else pick one of `options`. */
