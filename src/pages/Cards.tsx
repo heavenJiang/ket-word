@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { playText, playWord } from "../lib/audio";
 import { sentencesOf } from "../lib/sentence";
-import { isMastered, wordLevel } from "../srs/srs";
+import { isHard, isMastered, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
 import { SKILLS, type Skill, type Topic, type Word } from "../types";
-import { Chunks, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
+import { Chunks, HookCard, PhonicsKey, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
 const SKILL_BADGE: Record<Skill, string> = { meaning: "👀 认识", listen: "👂 听懂", spell: "✏️ 会拼" };
 
@@ -62,6 +62,8 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
               <Chunks word={open} />
               <SpeakButton onClick={() => playWord(open, accent)} label={`听 ${open.word}`} />
             </div>
+            <PhonicsKey word={open} />
+            {isHard(progress.words[open.id]) && <HookCard word={open} />}
             <Senses word={open} />
             {sentencesOf(open).map((x) => (
               <SentenceRow key={x.en} en={x.en} zh={x.zh} onPlay={() => playText(x, accent)} />

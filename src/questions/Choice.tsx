@@ -5,7 +5,7 @@ import { gapSentences, mentioned, sentencesOf, splitAt } from "../lib/sentence";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Sentence, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
-import { AnswerCard, Picture, SentenceRow, SlowButton, SpeakButton } from "../ui/Picture";
+import { AnswerCard, HookCard, Picture, SentenceRow, SlowButton, SpeakButton } from "../ui/Picture";
 
 type Kind = "pickImage" | "pickMeaning" | "pickWord" | "listenPick" | "cloze" | "listenSentence";
 
@@ -36,8 +36,10 @@ export function Choice(props: {
   onAnswer: (a: Attempt) => void;
   /** Quick check before teaching: an "I don't know" button, and a wrong answer moves straight on. */
   check?: boolean;
+  /** The child keeps forgetting this word: a miss shows its memory hook. */
+  hard?: boolean;
 }) {
-  const { word, pool, accent, sound, onAnswer, check } = props;
+  const { word, pool, accent, sound, onAnswer, check, hard } = props;
   // a gap question needs a sentence with the word in it; fall back to the meaning question without one.
   // A word with no picture (the, because) is asked by its meaning, and heard alone rather than in a sentence.
   const kind: Kind =
@@ -180,6 +182,7 @@ export function Choice(props: {
         <div className="reveal">
           <Max pose="think" size="sm" say="差一点点！记住它：" />
           <AnswerCard word={word} onSpeak={() => playWord(word, accent)} />
+          {hard && <HookCard word={word} />}
           {sentence && <SentenceCard sentence={sentence} accent={accent} />}
           <button className="btn btn-primary" onClick={() => onAnswer(result.current!)}>
             记住了！

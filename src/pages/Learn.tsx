@@ -9,7 +9,7 @@ import { Tiles } from "../questions/Tiles";
 import { answer, buildSession, current, isDone, advance, teach } from "../session/session";
 import { todayPlan } from "../session/today";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
-import { Rating, type Grade } from "../srs/srs";
+import { isHard, Rating, type Grade } from "../srs/srs";
 import { addStars, recordCombo, recordGrade, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
@@ -188,6 +188,7 @@ export function Learn(props: {
           sound={settings.sound}
           decoys={(progress.words[step.wordId]?.skills.spell?.s ?? 0) >= 7 ? 3 : 0}
           firstLetter={step.retry > 0}
+          hard={isHard(progress.words[step.wordId])}
           onAnswer={onAnswer}
         />
       ) : (
@@ -198,6 +199,7 @@ export function Learn(props: {
           kind={step.kind}
           accent={settings.accent}
           sound={settings.sound}
+          hard={isHard(progress.words[step.wordId])}
           onAnswer={onAnswer}
         />
       )}

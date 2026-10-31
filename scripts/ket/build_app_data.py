@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parents[2]
 WORDS = ROOT / "data/ket-words.json"
 CONTENT = ROOT / "content/topics"
 ATLAS = ROOT / ".local/word-atlas/word-atlas.json"
+HOOKS = ROOT / "content/hooks.json"
 OUT = ROOT / "public/data"
 MEDIA = ROOT / "public/media"
 # Our own illustrations, first match wins: picked AI images (gen_comfy.py / gen_images.py), then
@@ -199,6 +200,8 @@ def main() -> None:
     used_media: set[str] = set()
     recorded_path = ROOT / "content/audio/sentences.json"
     recorded = json.loads(recorded_path.read_text(encoding="utf-8")) if recorded_path.exists() else {}
+    # memory hooks for words a child keeps forgetting (scripts/ket/gen_hooks.py), shown only once a word proves hard
+    hooks = json.loads(HOOKS.read_text(encoding="utf-8")) if HOOKS.exists() else {}
     atlas_img = False  # credit Word Atlas for illustrations only while any are still in use
     topics_out = []
     for t in words["topics"]:
@@ -257,6 +260,7 @@ def main() -> None:
                 **({"of": w["of"], "ofZh": by_word[w["of"]]["zh"]} if w.get("of") else {}),
                 # spelling is practised only for everyday words: A1 single words (a second meaning is spelled already)
                 **({"spell": True} if a and a.get("cefr") == "A1" and it["kind"] == "word" and not w.get("of") else {}),
+                **({"hook": {"kind": hooks[w["id"]]["kind"], "text": hooks[w["id"]]["text"]}} if w["id"] in hooks else {}),
                 "avoid": sorted(avoid.get(w["id"], ())),
             })
         # "picture": false marks a word no picture can show (the, because): its emoji stands in
