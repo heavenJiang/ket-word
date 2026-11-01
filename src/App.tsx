@@ -8,7 +8,7 @@ import { Parent } from "./pages/Parent";
 import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { checkupWords, giveStickers, loadProgress, recordCheckup, recordStory, saveProgress, type Progress } from "./store/progress";
+import { checkupWords, giveStickers, loadProgress, recordCheckup, recordStory, saveProgress, ungraduate, type Progress } from "./store/progress";
 import { Checkup } from "./pages/Checkup";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
 import { learningOrder, nextIsland } from "./session/today";
@@ -104,6 +104,7 @@ export function App() {
         sound={progress.settings.sound}
         last={progress.checkups?.at(-1)}
         onDone={(r) => setProgress((p) => recordCheckup(p, r))}
+        onMiss={(id) => setProgress((p) => ungraduate(p, id, Date.now()))}
         onExit={() => setPage("home")}
       />
     );

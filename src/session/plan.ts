@@ -1,4 +1,4 @@
-import { retrievability, unlockedSkills, type WordProgress } from "../srs/srs";
+import { isGraduated, retrievability, unlockedSkills, type WordProgress } from "../srs/srs";
 import type { Skill } from "../types";
 
 export interface Task {
@@ -78,6 +78,14 @@ export function buildPlan(
         fresh = null;
         soon = null;
         break;
+      }
+      if (isGraduated(card)) {
+        // graduated: no daily reviews; only the exam sprint brings it back if it would be weak on the day
+        if (opt.examAt) {
+          const r = retrievability(card, opt.examAt, opt.retention);
+          if (r < opt.retention && (!soon || r < soon.r)) soon = { task: { wordId, skill }, r };
+        }
+        continue;
       }
       if (card.due < endOfDay) {
         const r = retrievability(card, now, opt.retention);

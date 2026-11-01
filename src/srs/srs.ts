@@ -34,8 +34,8 @@ const scheduler = (retention: number) => {
       // no same-day steps: relearning within a session is the session's job (retries, the final recall);
       // the memory model's first gap is a day at least, so a word comes back after a night's sleep
       enable_short_term: false,
-      // children forget long gaps more easily than adults; cap intervals at ~4 months
-      maximum_interval: 120,
+      // a year at most: a card this strong graduates (GRADUATE_S) before the cap matters much
+      maximum_interval: 365,
     });
     schedulers.set(retention, s);
   }
@@ -80,6 +80,17 @@ export function retrievability(c: CardState, now: number, retention = 0.9): numb
 /** Forgotten this many times after being learnt (in any skill): the word is hard, and its memory hook shows. */
 export const HARD_LAPSES = 2;
 export const isHard = (p?: WordProgress) => !!p && Object.values(p.skills).some((c) => c && c.lapses >= HARD_LAPSES);
+
+/**
+ * Graduated: still recalled with 90% odds half a year on. Such a card leaves the daily reviews (the
+ * exam sprint and a miss in the monthly check-up bring it back): reviewing it every few months would
+ * cost a child time for almost nothing, as long-term studies of school vocabulary suggest.
+ */
+export const GRADUATE_S = 180;
+export const isGraduated = (c?: CardState) => !!c && c.st === State.Review && c.s >= GRADUATE_S;
+/** Every skill the word is learnt in has graduated. */
+export const wordGraduated = (p: WordProgress | undefined, spell = true) =>
+  !!p && isGraduated(p.skills.meaning) && isGraduated(p.skills.listen) && (!spell || isGraduated(p.skills.spell));
 
 /** Long-term memory: still recalled with 90% odds three weeks after review. */
 export const MASTERED_STABILITY = 21;

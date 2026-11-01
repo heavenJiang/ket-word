@@ -206,3 +206,20 @@ describe("distractors", () => {
     expect(buildPlan(words, {}, t0, opt, words, gate(true)).newWords).toEqual(["can", "can.2", "cup"]);
   });
 });
+
+describe("graduation", () => {
+  const strong = (s: number, dueAgo: number): Record<string, WordProgress> => {
+    const c = { ...review(undefined, Rating.Good, t0), st: 2 as const, s, due: t0 - dueAgo * DAY, last: t0 - (s + dueAgo) * DAY };
+    return { w0: { seen: t0 - 400 * DAY, skills: { meaning: c, listen: c } } };
+  };
+
+  it("leaves a card strong for half a year out of the daily reviews", () => {
+    expect(buildPlan(["w0"], strong(60, 1), t0, { ...opt, newPerDay: 0 }).reviews).toHaveLength(1);
+    expect(buildPlan(["w0"], strong(200, 1), t0, { ...opt, newPerDay: 0 }).reviews).toHaveLength(0);
+  });
+
+  it("brings a graduated card back for the exam sprint when it would be weak on the day", () => {
+    const plan = buildPlan(["w0"], strong(200, 1), t0, { ...opt, newPerDay: 0, examAt: t0 + 400 * DAY });
+    expect(plan.reviews).toHaveLength(1);
+  });
+});

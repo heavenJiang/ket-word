@@ -59,3 +59,15 @@ describe("check-ups and stories", () => {
     expect(rereadDue(undefined, t0)).toBe(false);
   });
 });
+
+describe("check-up misses", () => {
+  it("send a graduated word back into the reviews, and leave the others alone", async () => {
+    const { ungraduate } = await import("../store/progress");
+    const card = { due: t0 + 100 * DAY, s: 200, d: 5, el: 0, sd: 200, ls: 0, reps: 6, lapses: 0, st: 2 as const, last: t0 - 100 * DAY };
+    const p = { ...emptyProgress(), words: { cat: { seen: t0 - 300 * DAY, skills: { meaning: card } }, dog: { seen: t0, skills: { meaning: { ...card, s: 20 } } } } };
+    const after = ungraduate(ungraduate(p, "cat", t0), "dog", t0);
+    expect(after.words.cat.skills.meaning!.s).toBeLessThan(200);
+    expect(after.words.cat.skills.meaning!.due).toBeLessThanOrEqual(t0 + 7 * DAY); // back within a week
+    expect(after.words.dog).toBe(p.words.dog);
+  });
+});

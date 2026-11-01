@@ -3,7 +3,7 @@ import type { Library } from "../lib/data";
 import { effect, MIN_ANSWERS, pct, type Rate } from "../lib/effect";
 import { forecast, type Forecast } from "../session/forecast";
 import { daysLeft, FINAL_DAYS, targets } from "../session/goal";
-import { isMastered, retrievability, type CardState } from "../srs/srs";
+import { isGraduated, isMastered, retrievability, type CardState } from "../srs/srs";
 import { dayKey, parseProgress, type Progress } from "../store/progress";
 import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
 import { OfflinePanel } from "../ui/Offline";
@@ -58,7 +58,7 @@ export function Parent(props: {
   const skillStats = SKILLS.map((s) => {
     const of = s === "spell" ? words.filter((w) => w.spell) : words;
     const cards = of.map((w) => progress.words[w.id]?.skills[s]).filter(Boolean) as CardState[];
-    return { s, total: of.length, started: cards.length, mastered: cards.filter(isMastered).length };
+    return { s, total: of.length, started: cards.length, mastered: cards.filter(isMastered).length, graduated: cards.filter(isGraduated).length };
   });
 
   /** Weakest skill memories right now: what to quiz at dinner tonight. */
@@ -129,9 +129,9 @@ export function Parent(props: {
           <section className="card">
             <h3>三项能力</h3>
             <p className="muted small">
-              每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。拼写只练 {skillStats[2].total} 个日常常用词（A1 级），其余的词会认、会听就够 KET 用。掌握 = 三周后仍有 90% 把握记得。
+              每个单词分开记忆“认识、听懂、会拼”，一眼看出哪项薄弱。拼写只练 {skillStats[2].total} 个日常常用词（A1 级），其余的词会认、会听就够 KET 用。掌握 = 三周后仍有 90% 把握记得；毕业 = 半年后仍有 90% 把握，不再天天复习（考前冲刺和月度小测答错时会回来）。
             </p>
-            {skillStats.map(({ s, total, started, mastered }) => (
+            {skillStats.map(({ s, total, started, mastered, graduated }) => (
               <div key={s} className="skill-row">
                 <span>{SKILL_NAME[s]}</span>
                 <div className="bar">
@@ -140,6 +140,7 @@ export function Parent(props: {
                 </div>
                 <span className="small">
                   {mastered}/{started}
+                  {graduated > 0 && <span className="muted"> · 🎓{graduated}</span>}
                 </span>
               </div>
             ))}

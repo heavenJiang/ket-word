@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { playText, playWord } from "../lib/audio";
 import { sentencesOf } from "../lib/sentence";
-import { isHard, isMastered, wordLevel } from "../srs/srs";
+import { isHard, isMastered, wordGraduated, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
 import { SKILLS, type Skill, type Topic, type Word } from "../types";
 import { Chunks, HookCard, PhonicsKey, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
@@ -42,6 +42,7 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
               {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
               <span className="album-word">{p ? w.word : "· · ·"}</span>
               {p && w.of && <span className="album-sense">新意思</span>}
+              {wordGraduated(p, w.spell) && <span className="album-grad" title="毕业：半年后仍记得，不用天天复习了">🎓</span>}
               {p && (
                 <span className="album-badges">
                   {skillsOf(w).map((s) => (

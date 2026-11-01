@@ -1,5 +1,5 @@
 import { targets } from "../session/goal";
-import { review, type Grade, Rating, type WordProgress } from "../srs/srs";
+import { isGraduated, review, type Grade, Rating, type WordProgress } from "../srs/srs";
 import { SKILLS, type Accent, type Skill } from "../types";
 
 export interface Settings {
@@ -88,6 +88,16 @@ export function checkupWords(p: Progress, now: number): string[] {
 }
 
 export const recordCheckup = (p: Progress, c: Checkup): Progress => ({ ...p, checkups: [...(p.checkups ?? []), c] });
+
+/**
+ * A check-up miss on a graduated word: the meaning was forgotten after all, so it is graded as
+ * forgotten, which brings the word back into the daily reviews. Words still in the reviews are left
+ * alone: the check-up only measures them.
+ */
+export function ungraduate(p: Progress, wordId: string, now: number): Progress {
+  const m = p.words[wordId]?.skills.meaning;
+  return isGraduated(m) ? recordGrade(p, wordId, "meaning", Rating.Again, now) : p;
+}
 
 const KEY = "ket-word:progress";
 

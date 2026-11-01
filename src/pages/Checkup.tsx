@@ -18,9 +18,11 @@ export function Checkup(props: {
   sound: boolean;
   last?: Result;
   onDone: (r: Result) => void;
+  /** A word missed in the check-up: a graduated one goes back into the reviews. */
+  onMiss: (wordId: string) => void;
   onExit: () => void;
 }) {
-  const { library, accent, sound, onDone, onExit } = props;
+  const { library, accent, sound, onDone, onMiss, onExit } = props;
   /** The previous result, kept from the start: once this one is saved it becomes the latest. */
   const [last] = useState(props.last);
   const [ids] = useState(() => shuffle(props.wordIds, Math.random).slice(0, CHECKUP_SIZE));
@@ -34,7 +36,7 @@ export function Checkup(props: {
         <p className="muted">
           {ids.length} 道题，看中文选英文，大约 3 分钟。
           <br />
-          只是看看进步，答错也不会影响你的单词卡。
+          只是看看进步。答错的词会悄悄回到复习里，过几天再见。
         </p>
         <button className="btn btn-primary btn-huge" onClick={() => setI(0)}>
           开始小测
@@ -82,6 +84,7 @@ export function Checkup(props: {
         sound={sound}
         onAnswer={(a) => {
           const r = right + (a.correct ? 1 : 0);
+          if (!a.correct) onMiss(w.id);
           setRight(r);
           if (i + 1 >= ids.length) onDone({ t: Date.now(), right: r, total: ids.length });
           setI(i + 1);
