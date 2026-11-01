@@ -23,7 +23,8 @@ describe("dayTasks", () => {
   it("counts only today's share when reviews pile up, not every waiting card", () => {
     const opt = { newPerDay: 8, reviewCap: 10, retention: 0.9, newToday: 0, reviewedToday: 0 };
     const plan = buildPlan(order, learned(order.slice(0, 18), t0), t0 + 3 * DAY, opt);
-    expect(plan.backlog).toBeGreaterThan(10);
+    // one question per word a day: 18 words due, 10 fit, 8 wait (more than half a day: catch-up)
+    expect(plan.backlog).toBeGreaterThan(5);
     expect(plan.newWords).toEqual([]);
     expect(dayTasks(plan, opt)).toEqual({ done: 0, left: 10 });
   });
