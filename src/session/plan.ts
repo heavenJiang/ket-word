@@ -56,21 +56,40 @@ export function buildPlan(
   const firstTime: Task[] = [];
   const early: { task: Task; r: number }[] = [];
   const today = new Date(now).setHours(0, 0, 0, 0);
+  // reviews are by the day: anything due before midnight counts today, whatever the hour of study
+  const endOfDay = today + 86_400_000;
   for (const wordId of order) {
     const p = progress[wordId];
     if (!p) continue;
     // a skill unlocked by today's practice waits until tomorrow, keeping the spacing
     const unlockedBeforeToday = (p.skills.meaning?.last ?? now) < today;
+    // one question per word per day: the skill closest to being forgotten; the others wait a day
+    let best: { task: Task; r: number } | null = null;
+    let fresh: Task | null = null;
+    let soon: { task: Task; r: number } | null = null;
     for (const skill of unlockedSkills(p, spells(wordId))) {
       const card = p.skills[skill];
       if (!card) {
-        if (unlockedBeforeToday) firstTime.push({ wordId, skill });
-      } else if (card.due <= now) due.push({ task: { wordId, skill }, r: retrievability(card, now, opt.retention) });
-      else if (opt.examAt && (card.last ?? 0) < today) {
+        if (unlockedBeforeToday && !fresh) fresh = { wordId, skill };
+        continue;
+      }
+      if ((card.last ?? 0) >= today) {
+        best = null; // already asked today: nothing more for this word
+        fresh = null;
+        soon = null;
+        break;
+      }
+      if (card.due < endOfDay) {
+        const r = retrievability(card, now, opt.retention);
+        if (!best || r < best.r) best = { task: { wordId, skill }, r };
+      } else if (opt.examAt) {
         const r = retrievability(card, opt.examAt, opt.retention);
-        if (r < opt.retention) early.push({ task: { wordId, skill }, r });
+        if (r < opt.retention && (!soon || r < soon.r)) soon = { task: { wordId, skill }, r };
       }
     }
+    if (best) due.push(best);
+    else if (fresh) firstTime.push(fresh);
+    else if (soon) early.push(soon);
   }
   due.sort((a, b) => a.r - b.r);
   early.sort((a, b) => a.r - b.r);

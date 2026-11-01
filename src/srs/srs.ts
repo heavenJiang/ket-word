@@ -31,9 +31,9 @@ const scheduler = (retention: number) => {
     s = fsrs({
       request_retention: retention,
       enable_fuzz: true,
-      enable_short_term: true,
-      learning_steps: ["1m", "10m"],
-      relearning_steps: ["10m"],
+      // no same-day steps: relearning within a session is the session's job (retries, the final recall);
+      // the memory model's first gap is a day at least, so a word comes back after a night's sleep
+      enable_short_term: false,
       // children forget long gaps more easily than adults; cap intervals at ~4 months
       maximum_interval: 120,
     });
@@ -87,15 +87,17 @@ export const isMastered = (c?: CardState) => !!c && c.st === State.Review && c.s
 
 /**
  * Skills unlock in order so a child never has to spell a word they cannot yet recognise:
- * meaning first, listening once the meaning has been answered, spelling once the meaning
- * has graduated to long-term review. Only everyday words (`spell`) are ever spelled.
+ * meaning first, listening once the meaning has been answered, spelling once the meaning has
+ * been recalled again on a later day. Only everyday words (`spell`) are ever spelled.
  */
 export function unlockedSkills(p: WordProgress | undefined, spell = true): Skill[] {
   if (!p) return [];
   const m = p.skills.meaning;
   const out: Skill[] = ["meaning"];
   if (m && m.reps >= 1) out.push("listen");
-  if (spell && m && m.st === State.Review) out.push("spell");
+  // spelling waits until the meaning has been recalled again on a later day, so a new word's first days
+  // are not three questions at once
+  if (spell && m && m.st === State.Review && m.reps >= 2) out.push("spell");
   return out;
 }
 

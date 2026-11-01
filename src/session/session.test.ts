@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { Rating, review, type CardState, type WordProgress } from "../srs/srs";
+import { Rating, review, unlockedSkills, type CardState, type WordProgress } from "../srs/srs";
 import { buildPlan } from "./plan";
 import { distractors } from "../lib/choice";
 import type { Word } from "../types";
@@ -33,11 +33,21 @@ describe("buildPlan", () => {
     expect(buildPlan(order, {}, t0, { ...opt, newToday: 6 }).newWords).toHaveLength(2);
   });
 
-  it("brings back due words, and newly unlocked skills, before new ones", () => {
-    const p = buildPlan(order, learned(["w0", "w1"]), t0 + DAY, opt);
-    expect(p.reviews.filter((t) => t.skill === "meaning").map((t) => t.wordId).sort()).toEqual(["w0", "w1"]);
-    expect(p.reviews.some((t) => t.skill === "listen")).toBe(true);
-    expect(p.newWords[0]).toBe("w2");
+  it("brings back newly unlocked skills and due words before new ones, one question per word a day", () => {
+    const next = buildPlan(order, learned(["w0", "w1"]), t0 + DAY, opt);
+    expect(next.reviews).toEqual([{ wordId: "w0", skill: "listen" }, { wordId: "w1", skill: "listen" }]);
+    expect(next.newWords[0]).toBe("w2");
+    // a good first answer comes back three days later: the meaning, with listening left for the next day
+    const later = buildPlan(order, learned(["w0", "w1"]), t0 + 3 * DAY, opt);
+    expect(later.reviews.map((t) => t.skill)).toEqual(["meaning", "meaning"]);
+  });
+
+  it("never asks a word twice in a day, and counts anything due before midnight as today's", () => {
+    const words = learned(["w0"]);
+    const due = words.w0.skills.meaning!.due;
+    const morning = new Date(due).setHours(7, 0, 0, 0);
+    expect(buildPlan(order, words, morning, opt).reviews).toEqual([{ wordId: "w0", skill: "meaning" }]);
+    expect(buildPlan(order, learned(["w0"], t0), t0 + 60_000, opt).reviews).toEqual([]);
   });
 
   it("waits until tomorrow before practising a skill unlocked today", () => {
@@ -59,9 +69,9 @@ describe("buildPlan", () => {
   });
 
   it("keeps adding new words while only a few reviews wait", () => {
-    const p = buildPlan(order, learned(order.slice(0, 6)), t0 + 3 * DAY, { ...opt, reviewCap: 10 });
+    const p = buildPlan(order, learned(order.slice(0, 6)), t0 + 3 * DAY, { ...opt, reviewCap: 4 });
     expect(p.backlog).toBeGreaterThan(0);
-    expect(p.backlog).toBeLessThanOrEqual(5);
+    expect(p.backlog).toBeLessThanOrEqual(2);
     expect(p.newWords).toHaveLength(8);
   });
 
@@ -70,10 +80,9 @@ describe("buildPlan", () => {
       const m = review(undefined, Rating.Good, t0);
       return { [id]: { seen: t0, skills: { meaning: review(m, Rating.Good, m.due + 1) } } };
     };
-    const at = t0 + 30 * DAY;
-    const skills = (spell: boolean) => buildPlan(["w0"], graduated("w0"), at, opt, [], undefined, () => spell).reviews.map((t) => t.skill);
-    expect(skills(true)).toContain("spell");
-    expect(skills(false)).not.toContain("spell");
+    const word = graduated("w0").w0;
+    expect(unlockedSkills(word, true)).toContain("spell");
+    expect(unlockedSkills(word, false)).not.toContain("spell");
   });
 
   it("near the exam, spends spare time on what would be weakest on the day", () => {
