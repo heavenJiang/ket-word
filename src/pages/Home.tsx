@@ -1,7 +1,7 @@
 import { minutesOn } from "../lib/effect";
 import { unitLabel, unitOf } from "../lib/route";
 import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
-import { extraCap, todayPlan } from "../session/today";
+import { dayTasks, extraCap, todayPlan } from "../session/today";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic } from "../types";
@@ -59,9 +59,11 @@ export function Home(props: {
   const left = daysLeft(progress, now);
   const unit = topic && unitOf(topic.id);
   // after the plan: one more group, until the day's new words reach twice the plan
-  const newToday = today?.newWords ?? 0;
-  const planned = planOptions(progress, now, library.all.filter((w) => !progress.words[w.id]).length).newPerDay;
-  const moreOk = library.all.some((w) => !progress.words[w.id]) && newToday < extraCap(planned);
+  const opts = planOptions(progress, now, library.all.filter((w) => !progress.words[w.id]).length);
+  const newToday = opts.newToday;
+  const moreOk = library.all.some((w) => !progress.words[w.id]) && newToday < extraCap(opts.newPerDay);
+  // the day is bounded by word counts, not by minutes: count today's tasks, done and still waiting (#2)
+  const tasks = dayTasks(plan, opts);
 
   return (
     <div className="page home">
@@ -164,7 +166,7 @@ export function Home(props: {
         )}
       </section>
 
-      <TodayRing progress={progress} now={now} />
+      <TodayRing progress={progress} now={now} done={tasks.done} left={tasks.left} />
 
       {checkupDue && (
         <button className="card story-banner" onClick={onCheckup}>
@@ -198,13 +200,15 @@ export function Home(props: {
 }
 
 /**
- * Today at a glance: minutes studied against the plan as a ring that fills up, and the week's study
- * days as a row of stamps, since keeping the chain going is what makes a child come back tomorrow.
+ * Today at a glance: a ring that fills up as the day's tasks are done, and the week's study days as a
+ * row of stamps, since keeping the chain going is what makes a child come back tomorrow. A day is
+ * bounded by word counts — the day's new words plus as many reviews as fit — so the ring counts tasks,
+ * not minutes: once they are done the day is done, however much of the time budget is unused (#2).
  */
-function TodayRing({ progress, now }: { progress: Progress; now: number }) {
-  const goal = progress.settings.minutes;
-  const done = minutesOn(progress, dayKey(now));
-  const share = Math.min(1, done / goal);
+function TodayRing({ progress, now, done, left }: { progress: Progress; now: number; done: number; left: number }) {
+  const total = done + left;
+  const share = total === 0 ? 1 : done / total;
+  const minutes = minutesOn(progress, dayKey(now));
   const r = 34;
   const c = 2 * Math.PI * r;
   const week = Array.from({ length: 7 }, (_, i) => {
@@ -213,18 +217,27 @@ function TodayRing({ progress, now }: { progress: Progress; now: number }) {
   });
   return (
     <section className="card today-ring">
-      <svg viewBox="0 0 84 84" className="ring" aria-label={`今天学了 ${done} 分钟，计划 ${goal} 分钟`}>
+      <svg viewBox="0 0 84 84" className="ring" aria-label={total === 0 ? "今天没有排任务" : `今天的任务已完成 ${done} 个，共 ${total} 个`}>
         <circle cx="42" cy="42" r={r} className="ring-bg" />
         <circle cx="42" cy="42" r={r} className="ring-fill" strokeDasharray={`${share * c} ${c}`} transform="rotate(-90 42 42)" />
         <text x="42" y="40" textAnchor="middle" className="ring-num">
-          {done}
+          {total === 0 ? "✓" : done}
         </text>
         <text x="42" y="56" textAnchor="middle" className="ring-unit">
-          / {goal} 分钟
+          {total === 0 ? "没有任务" : `/ ${total} 个`}
         </text>
       </svg>
       <div className="ring-side">
-        <b>{share >= 1 ? "今天的时间学够啦 🎉" : done > 0 ? `再学 ${goal - done} 分钟就完成今天的计划` : "今天还没开始，冲呀！"}</b>
+        <b>
+          {total === 0
+            ? "今天没有要学的任务，休息一下吧"
+            : left === 0
+              ? "今天的任务全部完成啦 🎉"
+              : done === 0
+                ? `今天有 ${total} 个任务，冲呀！`
+                : `还剩 ${left} 个任务就完成今天的计划`}
+        </b>
+        {minutes > 0 && <span className="muted small">今天已学约 {minutes} 分钟</span>}
         <div className="week-stamps">
           {week.map((d, i) => (
             <span key={i} className={`stamp ${d.on ? "stamp-on" : ""}`}>

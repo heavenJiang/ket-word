@@ -27,6 +27,16 @@ const extraOptions = (opt: ReturnType<typeof planOptions>, extra: number) =>
 export const extraCap = (planned: number) => Math.max(16, planned * 2);
 
 /**
+ * Today's work counted in tasks — a new word met or a review answered — instead of minutes. Both are
+ * capped by counts (the day's new words, and as many reviews as fit in the day), so a finished day
+ * has nothing left even when its minutes budget is barely used; the home page then says the day is
+ * done rather than asking for more time (#2).
+ */
+export function dayTasks(plan: Plan, opt: { newToday: number; reviewedToday: number }): { done: number; left: number } {
+  return { done: opt.newToday + opt.reviewedToday, left: plan.newWords.length + plan.reviews.length };
+}
+
+/**
  * Today's plan: reviews from every island, new words from the current island first and then the
  * islands after it on the course route, so a goal is never held up by an island running out of words.
  */
