@@ -10,10 +10,14 @@ export const NEW_WORD_SECS = 45;
 const DEFAULT_REVIEW_SECS = 10;
 /** The answer card after each question, on top of the time to answer. */
 const FEEDBACK_SECS = 4;
-/** Reviews always get at least this share of the day, however many new words the goal asks for. */
-const MIN_REVIEW_SHARE = 0.4;
-/** A goal never asks for more new words than this in a day. */
+/** A day never asks for more new words than this. */
 export const MAX_NEW_PER_DAY = 40;
+/**
+ * Most reviews in a day. Reviews are not cut by time (the day is its words, however long they take),
+ * but after days away a child should not open the app to 400 questions: past this the rest waits,
+ * and while more than half a day's worth waits, new words pause.
+ */
+export const REVIEW_SAFETY = 150;
 
 /** Seconds one review takes this child: the median of their recent answers plus the answer card. */
 export function secsPerReview(p: Progress): number {
@@ -40,30 +44,34 @@ export function daysLeft(p: Progress, now: number): number {
 export interface Targets {
   newPerDay: number;
   reviewCap: number;
-  /** Reviews that fit in the whole day, for a catch-up day with no new words. */
+  /** Reviews in a catch-up day with no new words (the same cap: the day is counted in words). */
   reviewCapAlone: number;
-  /** "learn" spreads new words over the days left, "final" only makes them stick; "free" has no goal. */
+  /** "learn" while words are left, "final" once all are met; "free" has no goal date. */
   phase: "learn" | "final" | "free";
+  /** The goal date once it is close (its last weeks): reviews aim at that day. */
   examAt?: number;
 }
 
 /**
- * Today's targets. With a goal, the words not yet started are spread evenly over the days left
- * (minus the last three weeks), recounted every day, so a missed day is shared out over the rest.
- * Reviews get whatever time the new words leave, never less than 40% of the day.
- * `remaining` counts the words not started before today.
+ * Today's targets: the parent's new words a day (until none are left), every review that is due up to
+ * the safety cap. Time is never a limit, only an estimate shown to the parent. A goal date, if set,
+ * only makes the last three weeks aim reviews at that day. `remaining` counts words not started
+ * before today.
  */
 export function targets(p: Progress, now: number, remaining: number): Targets {
-  const budget = p.settings.minutes * 60;
-  const per = secsPerReview(p);
-  const reviewCap = (n: number) => Math.max(Math.floor((budget * MIN_REVIEW_SHARE) / per), Math.floor((budget - n * NEW_WORD_SECS) / per));
+  const newPerDay = remaining === 0 ? 0 : Math.min(MAX_NEW_PER_DAY, remaining, p.settings.newPerDay);
   const left = daysLeft(p, now);
-  const reviewCapAlone = Math.floor(budget / per);
-  if (!left) return { newPerDay: p.settings.newPerDay, reviewCap: reviewCap(p.settings.newPerDay), reviewCapAlone, phase: "free" };
-  const examAt = left <= FINAL_DAYS ? goalAt(p) : undefined;
-  // behind schedule inside the last weeks: keep going, finishing a week before the goal
-  const days = left > FINAL_DAYS ? left - FINAL_DAYS : Math.max(1, left - 7);
-  // a quick learner may take more than the goal needs: the goal is then simply reached sooner
-  const n = remaining === 0 ? 0 : Math.min(MAX_NEW_PER_DAY, remaining, Math.max(Math.ceil(remaining / days), p.settings.minNew ?? 0));
-  return { newPerDay: n, reviewCap: reviewCap(n), reviewCapAlone, phase: n > 0 ? "learn" : "final", examAt };
+  const examAt = left && left <= FINAL_DAYS ? goalAt(p) : undefined;
+  const phase = !left ? "free" : newPerDay > 0 ? "learn" : "final";
+  return { newPerDay, reviewCap: REVIEW_SAFETY, reviewCapAlone: REVIEW_SAFETY, phase, examAt };
+}
+
+/**
+ * New words a day needed to meet every word by the goal date with three weeks to spare, or undefined
+ * without a goal (or when it is too close for that).
+ */
+export function paceFor(p: Progress, now: number, remaining: number): number | undefined {
+  const days = daysLeft(p, now) - FINAL_DAYS;
+  if (!p.settings.goal || days <= 0) return undefined;
+  return Math.min(MAX_NEW_PER_DAY, Math.ceil(remaining / days));
 }

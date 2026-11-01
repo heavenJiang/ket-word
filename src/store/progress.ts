@@ -3,13 +3,9 @@ import { isGraduated, review, type Grade, Rating, type WordProgress } from "../s
 import { SKILLS, type Accent, type Skill } from "../types";
 
 export interface Settings {
-  /** New words a day when there is no goal date. */
+  /** New words a day: the day's target; reviews follow from it, and time is only an estimate. */
   newPerDay: number;
-  /** Planned study time a day, in minutes; reviews fill what new words leave. */
-  minutes: number;
-  /** At least this many new words a day even when the goal asks for fewer (a quick learner); 0 = as the goal says. */
-  minNew?: number;
-  /** Day to have every word learnt by ("2027-05-20"); the plan spreads the words over the days left. */
+  /** Optional day to have every word learnt by ("2027-05-20"): suggests a pace, and its last weeks aim reviews at it. */
   goal?: string;
   retention: number;
   accent: Accent;
@@ -102,8 +98,7 @@ export function ungraduate(p: Progress, wordId: string, now: number): Progress {
 const KEY = "ket-word:progress";
 
 export const DEFAULT_SETTINGS: Settings = {
-  newPerDay: 8,
-  minutes: 25,
+  newPerDay: 10,
   retention: 0.9,
   accent: "uk",
   sound: true,

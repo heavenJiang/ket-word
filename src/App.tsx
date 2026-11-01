@@ -10,12 +10,13 @@ import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
 import { checkupWords, giveStickers, loadProgress, recordCheckup, recordStory, saveProgress, ungraduate, type Progress } from "./store/progress";
 import { Checkup } from "./pages/Checkup";
+import { Calendar } from "./pages/Calendar";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
 import { learningOrder, nextIsland } from "./session/today";
 import type { Story, Topic } from "./types";
 import { Max } from "./ui/Max";
 
-type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers" | "checkup";
+type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers" | "checkup" | "calendar";
 
 const NAV: { id: Page; icon: string; label: string }[] = [
   { id: "home", icon: "🏠", label: "首页" },
@@ -134,6 +135,7 @@ export function App() {
             onStories={() => setPage("stories")}
             stickers={[stickers.filter(isEarned).length, stickers.length]}
             onStickers={() => setPage("stickers")}
+            onCalendar={() => setPage("calendar")}
           />
         )}
         {page === "map" && (
@@ -149,6 +151,7 @@ export function App() {
           />
         )}
         {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
+        {page === "calendar" && <Calendar progress={progress} onBack={() => setPage("home")} />}
         {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
         {page === "parent" && <Parent words={library.all} library={library} topics={index.topics} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}

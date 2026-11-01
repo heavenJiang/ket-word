@@ -101,7 +101,8 @@ describe("one more group", () => {
     const words = order.map((id) => ({ id, word: id, zh: id, pos: [], ipa: "", chunks: [id], emoji: "", sentence: { en: "", zh: "" }, media: {} }) as Word);
     const library = { topics: { t: words }, byId: new Map(words.map((w) => [w.id, w])), poolOf: new Map(), all: words };
     const topics = [{ id: "t", en: "t", zh: "t", count: 20, ready: true }];
-    let p = { ...emptyProgress(), topic: "t" };
+    const base = emptyProgress();
+    let p = { ...base, topic: "t", settings: { ...base.settings, newPerDay: 8 } };
     for (const id of order.slice(0, 8)) p = recordGrade(p, id, "meaning", Rating.Good, t0);
     expect(todayPlan(library, topics, p, t0 + 60_000).newWords).toEqual([]);
     expect(todayPlan(library, topics, p, t0 + 60_000, 4).newWords).toEqual(order.slice(8, 12));

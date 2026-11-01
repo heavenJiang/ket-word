@@ -1,54 +1,39 @@
 import { describe, expect, it } from "vitest";
 import { emptyProgress, recordGrade, type Progress } from "../store/progress";
 import { Rating } from "../srs/srs";
-import { FINAL_DAYS, NEW_WORD_SECS, secsPerReview, targets } from "./goal";
+import { FINAL_DAYS, paceFor, REVIEW_SAFETY, secsPerReview, targets } from "./goal";
 
 const DAY = 86_400_000;
 const now = new Date(2026, 10, 1, 18).getTime();
-const withGoal = (days: number, minutes = 25): Progress => {
+const withGoal = (days: number, newPerDay = 10): Progress => {
   const p = emptyProgress();
   const d = new Date(now + (days - 1) * DAY);
   const goal = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-  return { ...p, settings: { ...p.settings, goal, minutes } };
+  return { ...p, settings: { ...p.settings, goal, newPerDay } };
 };
 
 describe("targets", () => {
-  it("spreads the words left over the days before the last three weeks", () => {
-    const t = targets(withGoal(100 + FINAL_DAYS), now, 1000);
-    expect(t.phase).toBe("learn");
-    expect(t.newPerDay).toBe(10);
-    expect(t.examAt).toBeUndefined();
+  it("asks for the parent's new words a day, 10 by default, never more than are left", () => {
+    expect(targets(emptyProgress(), now, 1000)).toMatchObject({ newPerDay: 10, phase: "free" });
+    expect(targets(emptyProgress(), now, 3).newPerDay).toBe(3);
+    expect(targets(withGoal(200, 14), now, 1000)).toMatchObject({ newPerDay: 14, phase: "learn" });
   });
 
-  it("gives reviews the time new words leave, and never less than 40% of it", () => {
-    const t = targets(withGoal(100 + FINAL_DAYS), now, 1000);
-    expect(t.reviewCap).toBe(Math.floor((25 * 60 - 10 * NEW_WORD_SECS) / 10));
-    const rushed = targets(withGoal(10 + FINAL_DAYS), now, 1000);
-    expect(rushed.reviewCap).toBe(Math.floor((25 * 60 * 0.4) / 10));
+  it("does not cut reviews by time, only past the safety cap for days away", () => {
+    expect(targets(emptyProgress(), now, 1000).reviewCap).toBe(REVIEW_SAFETY);
   });
 
-  it("takes no new words in the last weeks once everything is met, and aims reviews at the exam", () => {
-    const t = targets(withGoal(10), now, 0);
-    expect(t.phase).toBe("final");
-    expect(t.newPerDay).toBe(0);
-    expect(t.examAt).toBeGreaterThan(now);
+  it("aims reviews at the goal date in its last weeks, and stops new words once all are met", () => {
+    expect(targets(withGoal(100 + FINAL_DAYS), now, 1000).examAt).toBeUndefined();
+    const end = targets(withGoal(10), now, 0);
+    expect(end).toMatchObject({ phase: "final", newPerDay: 0 });
+    expect(end.examAt).toBeGreaterThan(now);
   });
 
-  it("keeps going when behind in the last weeks, finishing a week early", () => {
-    expect(targets(withGoal(17), now, 100).newPerDay).toBe(10);
-  });
-
-  it("takes at least the parent's minimum of new words, never more than are left", () => {
-    const p = withGoal(100 + FINAL_DAYS);
-    expect(targets({ ...p, settings: { ...p.settings, minNew: 16 } }, now, 1000).newPerDay).toBe(16);
-    expect(targets({ ...p, settings: { ...p.settings, minNew: 16 } }, now, 5).newPerDay).toBe(5);
-    expect(targets({ ...p, settings: { ...p.settings, minNew: 4 } }, now, 1000).newPerDay).toBe(10);
-  });
-
-  it("uses the fixed number of new words without a goal", () => {
-    const t = targets(emptyProgress(), now, 1000);
-    expect(t.phase).toBe("free");
-    expect(t.newPerDay).toBe(8);
+  it("works out the pace a goal date needs, leaving the last three weeks for reviews", () => {
+    expect(paceFor(withGoal(100 + FINAL_DAYS), now, 1000)).toBe(10);
+    expect(paceFor(emptyProgress(), now, 1000)).toBeUndefined();
+    expect(paceFor(withGoal(10), now, 1000)).toBeUndefined();
   });
 
   it("measures how long this child takes per review", () => {

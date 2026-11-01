@@ -45,8 +45,9 @@ export function Home(props: {
   /** Stickers earned, out of all. */
   stickers: [number, number];
   onStickers: () => void;
+  onCalendar: () => void;
 }) {
-  const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers } = props;
+  const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers, onCalendar } = props;
   const now = Date.now();
   const today = progress.days[dayKey(now)];
   const plan = todayPlan(library, topics, progress, now);
@@ -166,7 +167,7 @@ export function Home(props: {
         )}
       </section>
 
-      <TodayRing progress={progress} now={now} done={tasks.done} left={tasks.left} />
+      <TodayRing progress={progress} now={now} done={tasks.done} left={tasks.left} onCalendar={onCalendar} />
 
       {checkupDue && (
         <button className="card story-banner" onClick={onCheckup}>
@@ -205,7 +206,7 @@ export function Home(props: {
  * bounded by word counts — the day's new words plus as many reviews as fit — so the ring counts tasks,
  * not minutes: once they are done the day is done, however much of the time budget is unused (#2).
  */
-function TodayRing({ progress, now, done, left }: { progress: Progress; now: number; done: number; left: number }) {
+function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progress; now: number; done: number; left: number; onCalendar: () => void }) {
   const total = done + left;
   const share = total === 0 ? 1 : done / total;
   const minutes = minutesOn(progress, dayKey(now));
@@ -238,14 +239,17 @@ function TodayRing({ progress, now, done, left }: { progress: Progress; now: num
                 : `还剩 ${left} 个任务就完成今天的计划`}
         </b>
         {minutes > 0 && <span className="muted small">今天已学约 {minutes} 分钟</span>}
-        <div className="week-stamps">
+        <button className="week-stamps" onClick={onCalendar} aria-label="打开打卡日历">
           {week.map((d, i) => (
             <span key={i} className={`stamp ${d.on ? "stamp-on" : ""}`}>
               <i>{d.on ? "✓" : ""}</i>
               {d.label}
             </span>
           ))}
-        </div>
+        </button>
+        <button className="cal-link" onClick={onCalendar}>
+          📅 打卡日历 ›
+        </button>
       </div>
     </section>
   );

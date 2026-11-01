@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Library } from "../lib/data";
 import { effect, MIN_ANSWERS, pct, type Rate } from "../lib/effect";
 import { forecast, type Forecast } from "../session/forecast";
-import { daysLeft, FINAL_DAYS, targets } from "../session/goal";
+import { daysLeft, FINAL_DAYS, paceFor } from "../session/goal";
 import { isGraduated, isMastered, retrievability, type CardState } from "../srs/srs";
 import { dayKey, parseProgress, type Progress } from "../store/progress";
 import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
@@ -246,35 +246,51 @@ const dateZh = (t: number) => {
 };
 
 /**
- * The study plan: a goal date and daily minutes. The app spreads the words not yet met over the days
- * left and fills the rest of each day with reviews; the forecast plays that forward with the app's
- * own planner, so a parent sees the daily time a goal really takes before committing to it.
+ * The study plan is one number: new words a day. Reviews follow from what has been learnt, so the
+ * finish date and the daily time are worked out from it, by playing the plan forward with the app's
+ * own planner and memory model, and shown only as estimates. A goal date is optional: it suggests the
+ * pace that would meet it, and its last three weeks aim the reviews at that day.
  */
 function PlanPanel({ progress, library, topics, set }: { progress: Progress; library: Library; topics: Topic[]; set: Set }) {
-  const { goal, minutes, newPerDay, minNew } = progress.settings;
-  const [f, setF] = useState<Forecast | "busy" | null>(null);
+  const { goal, newPerDay } = progress.settings;
+  const [f, setF] = useState<Forecast | null>(null);
   const now = Date.now();
   const left = daysLeft(progress, now);
   const met = library.all.filter((w) => progress.words[w.id]).length;
-  // the goal's own pace, before the parent's minimum
-  const pace = targets({ ...progress, settings: { ...progress.settings, minNew: 0 } }, now, library.all.length - met).newPerDay;
+  const remaining = library.all.length - met;
+  const pace = paceFor(progress, now, remaining);
 
-  // a new goal or time makes the old forecast meaningless
-  useEffect(() => setF(null), [goal, minutes, newPerDay, minNew]);
-
-  const run = async () => {
-    setF("busy");
-    setF(await forecast(progress, library, topics, Date.now()));
-  };
+  // work the plan out again a moment after the parent stops moving the slider
+  useEffect(() => {
+    setF(null);
+    let live = true;
+    const t = setTimeout(async () => {
+      const out = await forecast(progress, library, topics, Date.now());
+      if (live) setF(out);
+    }, 600);
+    return () => {
+      live = false;
+      clearTimeout(t);
+    };
+  }, [newPerDay, goal]); // eslint-disable-line react-hooks/exhaustive-deps -- only the plan's inputs
 
   return (
     <section className="card settings">
       <h3>学习计划</h3>
       <p className="muted small">
-        定一个学完全部 {library.all.length} 个词的日期，应用把还没学的词平均分到剩下的日子里（最后 {FINAL_DAYS} 天只复习、不学新词），每天剩下的时间用来复习。每天都会重新分配，漏学几天也会自动摊开。
+        每天的任务就是学几个新词，加上到期的复习。复习不按时间截断，学完当天的词就算完成；下面的日期和分钟数是按孩子平时的答题速度推算的，只作参考。
       </p>
       <label>
-        学完日期
+        每天新词：<b>{newPerDay} 个</b>
+        <input type="range" min={4} max={30} value={newPerDay} onChange={(e) => set("newPerDay", Number(e.target.value))} />
+      </label>
+      <p className="muted small">
+        已认识 {met} / {library.all.length} 个词，还剩 {remaining} 个。
+      </p>
+      {f ? <ForecastView f={f} now={now} goalDays={goal ? left : 0} /> : <div className="forecast muted small">正在推算学完日期和每天用时…</div>}
+
+      <label>
+        学完日期（可选）
         <input className="input" type="date" value={goal ?? ""} min={dayKey(now)} onChange={(e) => set("goal", e.target.value || undefined)} />
       </label>
       <div className="row">
@@ -289,55 +305,39 @@ function PlanPanel({ progress, library, topics, set }: { progress: Progress; lib
           </button>
         )}
       </div>
-      {!goal && (
-        <label>
-          不设日期时，每天新词：{newPerDay} 个
-          <input type="range" min={4} max={20} value={newPerDay} onChange={(e) => set("newPerDay", Number(e.target.value))} />
-        </label>
+      {goal && pace !== undefined && (
+        <div className="forecast">
+          要在这天前学完、并留出最后 {FINAL_DAYS} 天冲刺复习，每天需要约 <b>{pace}</b> 个新词。
+          {pace !== newPerDay && (
+            <button className="btn btn-small" onClick={() => set("newPerDay", Math.max(4, pace))}>
+              改成每天 {Math.max(4, pace)} 个
+            </button>
+          )}
+        </div>
       )}
-      {goal && (
-        <label>
-          每天新词至少：{minNew ? `${minNew} 个` : "按日期算"}
-          <span className="muted small">
-            {" "}
-            （按日期每天约 {pace} 个；孩子记得快可以调高，会提前学完）
-          </span>
-          <input type="range" min={0} max={30} step={2} value={minNew ?? 0} onChange={(e) => set("minNew", Number(e.target.value) || undefined)} />
-        </label>
-      )}
-      <label>
-        每天学习时间：{minutes} 分钟
-        <input type="range" min={10} max={45} step={5} value={minutes} onChange={(e) => set("minutes", Number(e.target.value))} />
-      </label>
-      <p className="muted small">
-        已认识 {met} / {library.all.length} 个词{left > 0 && `，离学完日期还有 ${left} 天`}。
-      </p>
-      <button className="btn" onClick={run} disabled={f === "busy"}>
-        {f === "busy" ? "正在推算…" : "推算这个计划"}
-      </button>
-      {f && f !== "busy" && <ForecastView f={f} minutes={minutes} goalDays={goal ? left : 0} now={now} />}
+      {goal && pace === undefined && left > 0 && <p className="muted small">离学完日期不到 {FINAL_DAYS} 天：现在是考前冲刺，复习会对准这一天。</p>}
     </section>
   );
 }
 
-function ForecastView({ f, minutes, goalDays, now }: { f: Forecast; minutes: number; goalDays: number; now: number }) {
-  // the planner aims to have every word met before the last weeks, which are for reviewing
-  const late = goalDays > 0 && (f.finishDays === null || f.finishDays > goalDays);
-  const short = goalDays > 0 && !late && f.finishDays! > goalDays - FINAL_DAYS;
-  const over = f.busyMin > minutes * 1.2;
+function ForecastView({ f, goalDays, now }: { f: Forecast; goalDays: number; now: number }) {
+  const late = goalDays > 0 && (f.finishDays === null || f.finishDays > goalDays - FINAL_DAYS);
   return (
-    <div className={`forecast ${late || over ? "forecast-warn" : ""}`}>
+    <div className={`forecast ${late ? "forecast-warn" : ""}`}>
       <p>
-        {f.finishDays === null ? "两年内学不完全部单词。" : `预计 ${dateZh(now + f.finishDays * 86_400_000)} 学完全部单词（${f.finishDays} 天）。`}
+        {f.finishDays === null
+          ? "按这个速度两年内学不完全部单词。"
+          : f.finishDays === 0
+            ? "所有单词都已经认识了，接下来只需要复习。"
+            : `预计 ${dateZh(now + f.finishDays * 86_400_000)} 学完全部单词（约 ${f.finishDays} 天）。`}
       </p>
-      <p>
-        平时每天约 <b>{f.avgMin}</b> 分钟，最忙的日子约 <b>{f.busyMin}</b> 分钟。
-        {f.catchUpDays > 0 && ` 有 ${f.catchUpDays} 天复习占满时间，新词暂停。`}
-      </p>
-      {late && <p>⚠️ 按每天 {minutes} 分钟赶不上学完日期：可以把日期往后推，或者增加每天的时间。</p>}
-      {!late && over && <p>⚠️ 为了赶上日期，忙的日子会超过每天 {minutes} 分钟：可以把日期往后推一些。</p>}
-      {short && <p>⚠️ 学完离日期不到 {FINAL_DAYS} 天，考前冲刺复习的时间不够：可以增加每天的时间。</p>}
-      <p className="muted small">按孩子平时的答题速度推算。</p>
+      {f.avgMin > 0 && (
+        <p>
+          平时每天约 <b>{f.avgMin}</b> 分钟，最忙的日子约 <b>{f.busyMin}</b> 分钟（新词刚学完的那段时间复习最多）。
+          {f.catchUpDays > 0 && ` 有 ${f.catchUpDays} 天复习太多，新词会暂停一下。`}
+        </p>
+      )}
+      {late && <p>⚠️ 按这个速度赶不上学完日期（还要留 {FINAL_DAYS} 天冲刺）：可以每天多学几个，或者把日期往后推。</p>}
     </div>
   );
 }
@@ -403,7 +403,7 @@ function EffectPanel({ progress, now }: { progress: Progress; now: number }) {
             <b>每天实际用时</b>
             <span>{e.minutes === null ? "数据还不够" : `约 ${e.minutes} 分钟`}</span>
           </div>
-          <span className="muted small">最近 7 天里学过的日子，按答题用时估算 · 计划每天 {progress.settings.minutes} 分钟</span>
+          <span className="muted small">最近 7 天里学过的日子，按答题用时估算，只作参考</span>
         </li>
         <li>
           <div className="effect-head">
