@@ -44,7 +44,9 @@
     }
    ],
    "media": {
-    "img": "media/img/happy.webp"
+    "img": "media/img/happy.webp",
+    "uk": "media/word/happy.mp3",
+    "us": "media/word/happy.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -423,7 +425,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bored.webp"
+    "img": "media/img/bored.webp",
+    "uk": "media/word/bored.mp3",
+    "us": "media/word/bored.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -4053,7 +4057,9 @@
     }
    ],
    "media": {
-    "img": "media/img/well.webp"
+    "img": "media/img/well.webp",
+    "uk": "media/word/well.mp3",
+    "us": "media/word/well.mp3"
    },
    "hook": {
     "kind": "contrast",

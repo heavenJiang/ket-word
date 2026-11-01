@@ -65,7 +65,15 @@ export function spreadOut<T extends { wordId: string }>(xs: T[]): T[] {
   return a;
 }
 
-/** Reviews first, then the new words, taught as `newWordSteps` lays out. */
+/** Reviews between a group's unscored practice and its scored recall, so the recall comes after a pause. */
+export const RECALL_GAP = 6;
+
+/**
+ * New words come early, in small groups, so a child who stops after a round has still met them:
+ * each group is met, matched and practised once without scoring, then a few reviews, then the group
+ * is recalled once more and that answer is the one that counts (memory scored after a pause, not
+ * straight after seeing the word). The reviews left over come last.
+ */
 export function buildSession(
   plan: Plan,
   progress: Record<string, WordProgress>,
@@ -73,33 +81,31 @@ export function buildSession(
   /** Whether a word has a sentence that can take a gap; without it, no gap questions. */
   canGap: (wordId: string) => boolean = () => false,
 ): Session {
-  const steps: Step[] = [];
-  const reviews = spreadOut(shuffle(plan.reviews, rng));
-  for (const t of reviews) {
+  const reviews: Step[] = spreadOut(shuffle(plan.reviews, rng)).map((t) => {
     const card = progress[t.wordId]?.skills[t.skill];
-    const kind = kindFor(t.skill, card, 0, { gap: canGap(t.wordId), roll: rng() });
-    steps.push({ type: "q", wordId: t.wordId, skill: t.skill, kind, graded: true, retry: 0 });
+    return { type: "q", wordId: t.wordId, skill: t.skill, kind: kindFor(t.skill, card, 0, { gap: canGap(t.wordId), roll: rng() }), graded: true, retry: 0 };
+  });
+  const steps: Step[] = [];
+  for (let i = 0; i < plan.newWords.length; i += GROUP_SIZE) {
+    const group = plan.newWords.slice(i, i + GROUP_SIZE);
+    steps.push({ type: "intro", wordIds: group });
+    if (group.length > 1) steps.push({ type: "match", wordIds: group });
+    for (const wordId of shuffle(group, rng)) steps.push({ type: "q", wordId, skill: "meaning", kind: "pickImage", graded: false, retry: 0 });
+    steps.push(...reviews.splice(0, RECALL_GAP));
+    for (const { wordId } of spreadOut(shuffle(group.map((wordId) => ({ wordId })), rng)))
+      steps.push({ type: "q", wordId, skill: "meaning", kind: "pickMeaning", graded: true, retry: 0 });
   }
-  steps.push(...newWordSteps(plan.newWords, rng));
+  steps.push(...reviews);
   return { steps, index: 0, answered: [] };
 }
 
 /**
- * New words in small groups: meet them, play the match game, then practise each once without
- * scoring. At the very end every one of them is recalled once more, and that answer is the one that
- * counts, so memory is scored after a pause rather than straight after seeing the word.
+ * Whether a group of new words has been met but not yet recalled: a break now would lose it (the
+ * words count as learnt only once recalled), so a round does not end until the group is done.
  */
-export function newWordSteps(wordIds: string[], rng: () => number = Math.random): Step[] {
-  const add: Step[] = [];
-  for (let i = 0; i < wordIds.length; i += GROUP_SIZE) {
-    const group = wordIds.slice(i, i + GROUP_SIZE);
-    add.push({ type: "intro", wordIds: group });
-    if (group.length > 1) add.push({ type: "match", wordIds: group });
-    for (const wordId of shuffle(group, rng)) add.push({ type: "q", wordId, skill: "meaning", kind: "pickImage", graded: false, retry: 0 });
-  }
-  const recall = spreadOut(shuffle(wordIds.map((wordId) => ({ wordId })), rng));
-  for (const { wordId } of recall) add.push({ type: "q", wordId, skill: "meaning", kind: "pickMeaning", graded: true, retry: 0 });
-  return add;
+export function groupOpen(s: Session): boolean {
+  const met = new Set(s.steps.slice(0, s.index).flatMap((x) => (x.type === "intro" ? x.wordIds : [])));
+  return s.steps.slice(s.index).some((x) => x.type === "q" && x.graded && met.has(x.wordId) && !s.answered.includes(keyOf(x.wordId, x.skill)));
 }
 
 export const current = (s: Session): Step | undefined => s.steps[s.index];

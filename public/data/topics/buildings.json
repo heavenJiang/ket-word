@@ -274,7 +274,9 @@
     }
    ],
    "media": {
-    "img": "media/img/apartment-building.webp"
+    "img": "media/img/apartment-building.webp",
+    "uk": "media/word/apartment-building.mp3",
+    "us": "media/word/apartment-building.mp3"
    },
    "hook": {
     "kind": "split",
@@ -706,7 +708,9 @@
     }
    ],
    "media": {
-    "img": "media/img/guest-house.webp"
+    "img": "media/img/guest-house.webp",
+    "uk": "media/word/guest-house.mp3",
+    "us": "media/word/guest-house.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1256,7 +1260,9 @@
     }
    ],
    "media": {
-    "img": "media/img/police-station.webp"
+    "img": "media/img/police-station.webp",
+    "uk": "media/word/police-station.mp3",
+    "us": "media/word/police-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1693,7 +1699,9 @@
     }
    ],
    "media": {
-    "img": "media/img/disco.webp"
+    "img": "media/img/disco.webp",
+    "uk": "media/word/disco.mp3",
+    "us": "media/word/disco.mp3"
    },
    "avoid": [
     "cinema",
@@ -1745,7 +1753,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sports-centre.webp"
+    "img": "media/img/sports-centre.webp",
+    "uk": "media/word/sports-centre.mp3",
+    "us": "media/word/sports-centre.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1853,7 +1863,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimming-pool.webp"
+    "img": "media/img/swimming-pool.webp",
+    "uk": "media/word/swimming-pool.mp3",
+    "us": "media/word/swimming-pool.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2144,7 +2156,9 @@
     }
    ],
    "media": {
-    "img": "media/img/department-store.webp"
+    "img": "media/img/department-store.webp",
+    "uk": "media/word/department-store.mp3",
+    "us": "media/word/department-store.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2201,7 +2215,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grocery-store.webp"
+    "img": "media/img/grocery-store.webp",
+    "uk": "media/word/grocery-store.mp3",
+    "us": "media/word/grocery-store.mp3"
    },
    "hook": {
     "kind": "split",

@@ -652,7 +652,9 @@
     }
    ],
    "media": {
-    "img": "media/img/close-to.webp"
+    "img": "media/img/close-to.webp",
+    "uk": "media/word/close-to.mp3",
+    "us": "media/word/close-to.mp3"
    },
    "hook": {
     "kind": "split",
@@ -817,7 +819,9 @@
     }
    ],
    "media": {
-    "img": "media/img/in-front-of.webp"
+    "img": "media/img/in-front-of.webp",
+    "uk": "media/word/in-front-of.mp3",
+    "us": "media/word/in-front-of.mp3"
    },
    "avoid": [
     "front"
@@ -1029,7 +1033,9 @@
     }
    ],
    "media": {
-    "img": "media/img/next-to.webp"
+    "img": "media/img/next-to.webp",
+    "uk": "media/word/next-to.mp3",
+    "us": "media/word/next-to.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1287,7 +1293,9 @@
     }
    ],
    "media": {
-    "img": "media/img/out-of.webp"
+    "img": "media/img/out-of.webp",
+    "uk": "media/word/out-of.mp3",
+    "us": "media/word/out-of.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1894,7 +1902,9 @@
     }
    ],
    "media": {
-    "img": "media/img/here.webp"
+    "img": "media/img/here.webp",
+    "uk": "media/word/here.mp3",
+    "us": "media/word/here.mp3"
    },
    "hook": {
     "kind": "contrast",

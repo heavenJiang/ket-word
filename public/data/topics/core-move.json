@@ -97,7 +97,9 @@
     }
    ],
    "media": {
-    "img": "media/img/come-back.webp"
+    "img": "media/img/come-back.webp",
+    "uk": "media/word/come-back.mp3",
+    "us": "media/word/come-back.mp3"
    },
    "hook": {
     "kind": "split",
@@ -151,7 +153,9 @@
     }
    ],
    "media": {
-    "img": "media/img/go.webp"
+    "img": "media/img/go.webp",
+    "uk": "media/word/go.mp3",
+    "us": "media/word/go.mp3"
    },
    "avoid": []
   },
@@ -304,7 +308,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bring-back.webp"
+    "img": "media/img/bring-back.webp",
+    "uk": "media/word/bring-back.mp3",
+    "us": "media/word/bring-back.mp3"
    },
    "hook": {
     "kind": "split",
@@ -515,7 +521,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fall-over.webp"
+    "img": "media/img/fall-over.webp",
+    "uk": "media/word/fall-over.mp3",
+    "us": "media/word/fall-over.mp3"
    },
    "hook": {
     "kind": "story",
@@ -667,7 +675,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-back.webp"
+    "img": "media/img/get-back.webp",
+    "uk": "media/word/get-back.mp3",
+    "us": "media/word/get-back.mp3"
    },
    "hook": {
     "kind": "split",
@@ -722,7 +732,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-off.webp"
+    "img": "media/img/get-off.webp",
+    "uk": "media/word/get-off.mp3",
+    "us": "media/word/get-off.mp3"
    },
    "hook": {
     "kind": "split",
@@ -775,7 +787,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-on.webp"
+    "img": "media/img/get-on.webp",
+    "uk": "media/word/get-on.mp3",
+    "us": "media/word/get-on.mp3"
    },
    "hook": {
     "kind": "split",
@@ -828,7 +842,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-up.webp"
+    "img": "media/img/get-up.webp",
+    "uk": "media/word/get-up.mp3",
+    "us": "media/word/get-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1283,7 +1299,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sit-down.webp"
+    "img": "media/img/sit-down.webp",
+    "uk": "media/word/sit-down.mp3",
+    "us": "media/word/sit-down.mp3"
    },
    "hook": {
     "kind": "split",

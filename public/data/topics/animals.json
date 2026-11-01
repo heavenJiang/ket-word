@@ -380,7 +380,9 @@
     }
    ],
    "media": {
-    "img": "media/img/camel.webp"
+    "img": "media/img/camel.webp",
+    "uk": "media/word/camel.mp3",
+    "us": "media/word/camel.mp3"
    },
    "avoid": []
   },
@@ -1294,7 +1296,9 @@
     }
    ],
    "media": {
-    "img": "media/img/kitten.webp"
+    "img": "media/img/kitten.webp",
+    "uk": "media/word/kitten.mp3",
+    "us": "media/word/kitten.mp3"
    },
    "hook": {
     "kind": "story",
@@ -1669,7 +1673,9 @@
     }
    ],
    "media": {
-    "img": "media/img/polar-bear.webp"
+    "img": "media/img/polar-bear.webp",
+    "uk": "media/word/polar-bear.mp3",
+    "us": "media/word/polar-bear.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2538,7 +2544,9 @@
     }
    ],
    "media": {
-    "img": "media/img/zoo.webp"
+    "img": "media/img/zoo.webp",
+    "uk": "media/word/zoo.mp3",
+    "us": "media/word/zoo.mp3"
    },
    "avoid": [
     "animal",

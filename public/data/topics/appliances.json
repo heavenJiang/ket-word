@@ -44,7 +44,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cell-phone.webp"
+    "img": "media/img/cell-phone.webp",
+    "uk": "media/word/cell-phone.mp3",
+    "us": "media/word/cell-phone.mp3"
    },
    "hook": {
     "kind": "split",
@@ -272,7 +274,9 @@
     }
    ],
    "media": {
-    "img": "media/img/digital-camera.webp"
+    "img": "media/img/digital-camera.webp",
+    "uk": "media/word/digital-camera.mp3",
+    "us": "media/word/digital-camera.mp3"
    },
    "hook": {
     "kind": "split",
@@ -823,7 +827,9 @@
     }
    ],
    "media": {
-    "img": "media/img/washing-machine.webp"
+    "img": "media/img/washing-machine.webp",
+    "uk": "media/word/washing-machine.mp3",
+    "us": "media/word/washing-machine.mp3"
    },
    "hook": {
     "kind": "split",
@@ -876,7 +882,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cd.webp"
+    "img": "media/img/cd.webp",
+    "uk": "media/word/cd.mp3",
+    "us": "media/word/cd.mp3"
    },
    "avoid": [
     "dvd"
@@ -927,7 +935,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cd-player.webp"
+    "img": "media/img/cd-player.webp",
+    "uk": "media/word/cd-player.mp3",
+    "us": "media/word/cd-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1086,7 +1096,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd.webp"
+    "img": "media/img/dvd.webp",
+    "uk": "media/word/dvd.mp3",
+    "us": "media/word/dvd.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1142,7 +1154,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd-player.webp"
+    "img": "media/img/dvd-player.webp",
+    "uk": "media/word/dvd-player.mp3",
+    "us": "media/word/dvd-player.mp3"
    },
    "hook": {
     "kind": "split",

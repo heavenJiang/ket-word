@@ -44,7 +44,10 @@
      "audio": "media/sent/d9dfabf6332b.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/be.mp3",
+    "us": "media/word/be.mp3"
+   },
    "avoid": []
   },
   {
@@ -90,7 +93,10 @@
      "audio": "media/sent/e1c3c74a4d74.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/do.mp3",
+    "us": "media/word/do.mp3"
+   },
    "avoid": []
   },
   {
@@ -136,7 +142,10 @@
      "audio": "media/sent/577be1541eb6.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/have.mp3",
+    "us": "media/word/have.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "have 有，save 救：把 s 换成 h 就有东西"
@@ -185,7 +194,10 @@
      "audio": "media/sent/cc2ef8d82ac0.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/cannot.mp3",
+    "us": "media/word/cannot.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "can 能 + not 不 = cannot 不能"
@@ -233,7 +245,10 @@
      "audio": "media/sent/2a097c15c997.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/could.mp3",
+    "us": "media/word/could.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "could 能，would 想要：把 w 换成 c"
@@ -281,7 +296,10 @@
      "audio": "media/sent/e1948ee642cd.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/might.mp3",
+    "us": "media/word/might.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "might 可能，night 夜晚：把 n 换成 m"
@@ -479,7 +497,10 @@
      "audio": "media/sent/7b7629dc0095.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/will.mp3",
+    "us": "media/word/will.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "will 将要，well 好：把 i 换成 e"
@@ -527,7 +548,10 @@
      "audio": "media/sent/d8fa800bec9f.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/would.mp3",
+    "us": "media/word/would.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "would 想要，could 能：把 c 换成 w"
@@ -576,7 +600,10 @@
      "audio": "media/sent/c3c638f7bf50.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/have-to.mp3",
+    "us": "media/word/have-to.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "have 有 + to 去 = have to 必须"
@@ -626,7 +653,10 @@
      "audio": "media/sent/0841a1540d13.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/have-got-to.mp3",
+    "us": "media/word/have-got-to.mp3"
+   },
    "hook": {
     "kind": "story",
     "text": "have got to：手里 have 有、got 拿到、to 去，必须"
@@ -1087,7 +1117,10 @@
      "audio": "media/sent/e2fb0774cc08.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/make-sure.mp3",
+    "us": "media/word/make-sure.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "make 做 + sure 确定 = make sure 确保"

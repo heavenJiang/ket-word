@@ -389,7 +389,9 @@
     }
    ],
    "media": {
-    "img": "media/img/boiled.webp"
+    "img": "media/img/boiled.webp",
+    "uk": "media/word/boiled.mp3",
+    "us": "media/word/boiled.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -3408,7 +3410,9 @@
     }
    ],
    "media": {
-    "img": "media/img/ice-cream.webp"
+    "img": "media/img/ice-cream.webp",
+    "uk": "media/word/ice-cream.mp3",
+    "us": "media/word/ice-cream.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3746,7 +3750,9 @@
     }
    ],
    "media": {
-    "img": "media/img/lemonade.webp"
+    "img": "media/img/lemonade.webp",
+    "uk": "media/word/lemonade.mp3",
+    "us": "media/word/lemonade.mp3"
    },
    "hook": {
     "kind": "story",
@@ -3869,7 +3875,9 @@
     }
    ],
    "media": {
-    "img": "media/img/main-course.webp"
+    "img": "media/img/main-course.webp",
+    "uk": "media/word/main-course.mp3",
+    "us": "media/word/main-course.mp3"
    },
    "hook": {
     "kind": "split",
@@ -4223,7 +4231,9 @@
     }
    ],
    "media": {
-    "img": "media/img/mineral-water.webp"
+    "img": "media/img/mineral-water.webp",
+    "uk": "media/word/mineral-water.mp3",
+    "us": "media/word/mineral-water.mp3"
    },
    "hook": {
     "kind": "split",
@@ -4397,7 +4407,9 @@
     }
    ],
    "media": {
-    "img": "media/img/omelette.webp"
+    "img": "media/img/omelette.webp",
+    "uk": "media/word/omelette.mp3",
+    "us": "media/word/omelette.mp3"
    },
    "avoid": [
     "boiled",
@@ -6205,7 +6217,9 @@
     }
    ],
    "media": {
-    "img": "media/img/wash-up.webp"
+    "img": "media/img/wash-up.webp",
+    "uk": "media/word/wash-up.mp3",
+    "us": "media/word/wash-up.mp3"
    },
    "hook": {
     "kind": "split",

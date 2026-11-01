@@ -637,7 +637,9 @@
     }
    ],
    "media": {
-    "img": "media/img/petrol-station.webp"
+    "img": "media/img/petrol-station.webp",
+    "uk": "media/word/petrol-station.mp3",
+    "us": "media/word/petrol-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -747,7 +749,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sports-centre.webp"
+    "img": "media/img/sports-centre.webp",
+    "uk": "media/word/sports-centre.mp3",
+    "us": "media/word/sports-centre.mp3"
    },
    "hook": {
     "kind": "split",
@@ -801,7 +805,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimming-pool.webp"
+    "img": "media/img/swimming-pool.webp",
+    "uk": "media/word/swimming-pool.mp3",
+    "us": "media/word/swimming-pool.mp3"
    },
    "hook": {
     "kind": "split",

@@ -150,7 +150,9 @@
     }
    ],
    "media": {
-    "img": "media/img/go-shopping.webp"
+    "img": "media/img/go-shopping.webp",
+    "uk": "media/word/go-shopping.mp3",
+    "us": "media/word/go-shopping.mp3"
    },
    "hook": {
     "kind": "split",
@@ -266,7 +268,9 @@
     }
    ],
    "media": {
-    "img": "media/img/department-store.webp"
+    "img": "media/img/department-store.webp",
+    "uk": "media/word/department-store.mp3",
+    "us": "media/word/department-store.mp3"
    },
    "hook": {
     "kind": "split",
@@ -437,7 +441,9 @@
     }
    ],
    "media": {
-    "img": "media/img/shop-assistant.webp"
+    "img": "media/img/shop-assistant.webp",
+    "uk": "media/word/shop-assistant.mp3",
+    "us": "media/word/shop-assistant.mp3"
    },
    "hook": {
     "kind": "split",
@@ -608,7 +614,9 @@
     }
    ],
    "media": {
-    "img": "media/img/shopper.webp"
+    "img": "media/img/shopper.webp",
+    "uk": "media/word/shopper.mp3",
+    "us": "media/word/shopper.mp3"
    },
    "hook": {
     "kind": "story",
@@ -1046,7 +1054,9 @@
     }
    ],
    "media": {
-    "img": "media/img/try-on.webp"
+    "img": "media/img/try-on.webp",
+    "uk": "media/word/try-on.mp3",
+    "us": "media/word/try-on.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1099,7 +1109,9 @@
     }
    ],
    "media": {
-    "img": "media/img/for-sale.webp"
+    "img": "media/img/for-sale.webp",
+    "uk": "media/word/for-sale.mp3",
+    "us": "media/word/for-sale.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1218,7 +1230,9 @@
     }
    ],
    "media": {
-    "img": "media/img/credit-card.webp"
+    "img": "media/img/credit-card.webp",
+    "uk": "media/word/credit-card.mp3",
+    "us": "media/word/credit-card.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1271,7 +1285,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cheque.webp"
+    "img": "media/img/cheque.webp",
+    "uk": "media/word/cheque.mp3",
+    "us": "media/word/cheque.mp3"
    },
    "avoid": [
     "cash",

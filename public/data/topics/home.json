@@ -1244,7 +1244,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dining-room.webp"
+    "img": "media/img/dining-room.webp",
+    "uk": "media/word/dining-room.mp3",
+    "us": "media/word/dining-room.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1466,7 +1468,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd.webp"
+    "img": "media/img/dvd.webp",
+    "uk": "media/word/dvd.mp3",
+    "us": "media/word/dvd.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1522,7 +1526,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd-player.webp"
+    "img": "media/img/dvd-player.webp",
+    "uk": "media/word/dvd-player.mp3",
+    "us": "media/word/dvd-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2551,7 +2557,9 @@
     }
    ],
    "media": {
-    "img": "media/img/living-room.webp"
+    "img": "media/img/living-room.webp",
+    "uk": "media/word/living-room.mp3",
+    "us": "media/word/living-room.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3153,7 +3161,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sitting-room.webp"
+    "img": "media/img/sitting-room.webp",
+    "uk": "media/word/sitting-room.mp3",
+    "us": "media/word/sitting-room.mp3"
    },
    "hook": {
     "kind": "split",

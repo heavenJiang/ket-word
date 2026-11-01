@@ -619,7 +619,9 @@
     }
    ],
    "media": {
-    "img": "media/img/past.webp"
+    "img": "media/img/past.webp",
+    "uk": "media/word/past.mp3",
+    "us": "media/word/past.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1929,7 +1931,9 @@
     }
    ],
    "media": {
-    "img": "media/img/daily.webp"
+    "img": "media/img/daily.webp",
+    "uk": "media/word/daily.mp3",
+    "us": "media/word/daily.mp3"
    },
    "avoid": [
     "monthly",
@@ -2649,7 +2653,9 @@
     }
    ],
    "media": {
-    "img": "media/img/may.webp"
+    "img": "media/img/may.webp",
+    "uk": "media/word/may.mp3",
+    "us": "media/word/may.mp3"
    },
    "avoid": [
     "august",
@@ -2707,7 +2713,9 @@
     }
    ],
    "media": {
-    "img": "media/img/may.2.webp"
+    "img": "media/img/may.2.webp",
+    "uk": "media/word/may.mp3",
+    "us": "media/word/may.mp3"
    },
    "of": "may",
    "ofZh": "五月",
@@ -3582,7 +3590,9 @@
     }
    ],
    "media": {
-    "img": "media/img/working-hours.webp"
+    "img": "media/img/working-hours.webp",
+    "uk": "media/word/working-hours.mp3",
+    "us": "media/word/working-hours.mp3"
    },
    "hook": {
     "kind": "split",

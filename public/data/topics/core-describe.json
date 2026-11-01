@@ -306,7 +306,9 @@
     }
    ],
    "media": {
-    "img": "media/img/deep.webp"
+    "img": "media/img/deep.webp",
+    "uk": "media/word/deep.mp3",
+    "us": "media/word/deep.mp3"
    },
    "avoid": []
   },
@@ -2548,7 +2550,9 @@
     }
    ],
    "media": {
-    "img": "media/img/right-hand.webp"
+    "img": "media/img/right-hand.webp",
+    "uk": "media/word/right-hand.mp3",
+    "us": "media/word/right-hand.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2602,7 +2606,9 @@
     }
    ],
    "media": {
-    "img": "media/img/olympic.webp"
+    "img": "media/img/olympic.webp",
+    "uk": "media/word/olympic.mp3",
+    "us": "media/word/olympic.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -2652,7 +2658,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dressed.webp"
+    "img": "media/img/dressed.webp",
+    "uk": "media/word/dressed.mp3",
+    "us": "media/word/dressed.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -2707,7 +2715,9 @@
     }
    ],
    "media": {
-    "img": "media/img/by-accident.webp"
+    "img": "media/img/by-accident.webp",
+    "uk": "media/word/by-accident.mp3",
+    "us": "media/word/by-accident.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2816,7 +2826,9 @@
     }
    ],
    "media": {
-    "img": "media/img/carefully.webp"
+    "img": "media/img/carefully.webp",
+    "uk": "media/word/carefully.mp3",
+    "us": "media/word/carefully.mp3"
    },
    "hook": {
     "kind": "affix",

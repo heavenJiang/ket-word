@@ -336,7 +336,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bathing-suit.webp"
+    "img": "media/img/bathing-suit.webp",
+    "uk": "media/word/bathing-suit.mp3",
+    "us": "media/word/bathing-suit.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1149,7 +1151,9 @@
     }
    ],
    "media": {
-    "img": "media/img/football-player.webp"
+    "img": "media/img/football-player.webp",
+    "uk": "media/word/football-player.mp3",
+    "us": "media/word/football-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1473,7 +1477,9 @@
     }
    ],
    "media": {
-    "img": "media/img/luck.webp"
+    "img": "media/img/luck.webp",
+    "uk": "media/word/luck.mp3",
+    "us": "media/word/luck.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -2141,7 +2147,9 @@
     }
    ],
    "media": {
-    "img": "media/img/riding.webp"
+    "img": "media/img/riding.webp",
+    "uk": "media/word/riding.mp3",
+    "us": "media/word/riding.mp3"
    },
    "avoid": [
     "bike",
@@ -2626,7 +2634,9 @@
     }
    ],
    "media": {
-    "img": "media/img/snowboard.webp"
+    "img": "media/img/snowboard.webp",
+    "uk": "media/word/snowboard.mp3",
+    "us": "media/word/snowboard.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2846,7 +2856,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sports-centre.webp"
+    "img": "media/img/sports-centre.webp",
+    "uk": "media/word/sports-centre.mp3",
+    "us": "media/word/sports-centre.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3009,7 +3021,9 @@
     }
    ],
    "media": {
-    "img": "media/img/surfboard.webp"
+    "img": "media/img/surfboard.webp",
+    "uk": "media/word/surfboard.mp3",
+    "us": "media/word/surfboard.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3066,7 +3080,9 @@
     }
    ],
    "media": {
-    "img": "media/img/surfboarding.webp"
+    "img": "media/img/surfboarding.webp",
+    "uk": "media/word/surfboarding.mp3",
+    "us": "media/word/surfboarding.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -3236,7 +3252,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimming-costume.webp"
+    "img": "media/img/swimming-costume.webp",
+    "uk": "media/word/swimming-costume.mp3",
+    "us": "media/word/swimming-costume.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3292,7 +3310,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimming-pool.webp"
+    "img": "media/img/swimming-pool.webp",
+    "uk": "media/word/swimming-pool.mp3",
+    "us": "media/word/swimming-pool.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3347,7 +3367,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimsuit.webp"
+    "img": "media/img/swimsuit.webp",
+    "uk": "media/word/swimsuit.mp3",
+    "us": "media/word/swimsuit.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3404,7 +3426,9 @@
     }
    ],
    "media": {
-    "img": "media/img/table-tennis.webp"
+    "img": "media/img/table-tennis.webp",
+    "uk": "media/word/table-tennis.mp3",
+    "us": "media/word/table-tennis.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3571,7 +3595,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tennis-player.webp"
+    "img": "media/img/tennis-player.webp",
+    "uk": "media/word/tennis-player.mp3",
+    "us": "media/word/tennis-player.mp3"
    },
    "hook": {
     "kind": "split",

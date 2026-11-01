@@ -782,7 +782,10 @@
      "audio": "media/sent/45b1be3b697a.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/first-of-all.mp3",
+    "us": "media/word/first-of-all.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "first 第一 + of 的 + all 全部 = first of all 首先"
@@ -1653,7 +1656,10 @@
      "audio": "media/sent/21edbd99c756.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/then.mp3",
+    "us": "media/word/then.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "then 然后，than 比：than 的 a 换成 e 就是 then"
@@ -2065,7 +2071,10 @@
      "audio": "media/sent/ce7bc3737517.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/all-the-time.mp3",
+    "us": "media/word/all-the-time.mp3"
+   },
    "hook": {
     "kind": "story",
     "text": "all the time：all 所有、time 时间，全都在就是一直"

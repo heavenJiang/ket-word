@@ -105,7 +105,9 @@
     }
    ],
    "media": {
-    "img": "media/img/work.webp"
+    "img": "media/img/work.webp",
+    "uk": "media/word/work.mp3",
+    "us": "media/word/work.mp3"
    },
    "avoid": [
     "break",
@@ -671,7 +673,9 @@
     }
    ],
    "media": {
-    "img": "media/img/businesswoman.webp"
+    "img": "media/img/businesswoman.webp",
+    "uk": "media/word/businesswoman.mp3",
+    "us": "media/word/businesswoman.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1304,7 +1308,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dr.webp"
+    "img": "media/img/dr.webp",
+    "uk": "media/word/dr.mp3",
+    "us": "media/word/dr.mp3"
    },
    "avoid": [
     "dentist",
@@ -1855,7 +1861,9 @@
     }
    ],
    "media": {
-    "img": "media/img/shop-assistant.webp"
+    "img": "media/img/shop-assistant.webp",
+    "uk": "media/word/shop-assistant.mp3",
+    "us": "media/word/shop-assistant.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1970,7 +1978,9 @@
     }
    ],
    "media": {
-    "img": "media/img/shopper.webp"
+    "img": "media/img/shopper.webp",
+    "uk": "media/word/shopper.mp3",
+    "us": "media/word/shopper.mp3"
    },
    "hook": {
     "kind": "story",
@@ -2083,7 +2093,9 @@
     }
    ],
    "media": {
-    "img": "media/img/police-officer.webp"
+    "img": "media/img/police-officer.webp",
+    "uk": "media/word/police-officer.mp3",
+    "us": "media/word/police-officer.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2800,7 +2812,9 @@
     }
    ],
    "media": {
-    "img": "media/img/photographer.webp"
+    "img": "media/img/photographer.webp",
+    "uk": "media/word/photographer.mp3",
+    "us": "media/word/photographer.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -3024,7 +3038,9 @@
     }
    ],
    "media": {
-    "img": "media/img/footballer.webp"
+    "img": "media/img/footballer.webp",
+    "uk": "media/word/footballer.mp3",
+    "us": "media/word/footballer.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -3081,7 +3097,9 @@
     }
    ],
    "media": {
-    "img": "media/img/football-player.webp"
+    "img": "media/img/football-player.webp",
+    "uk": "media/word/football-player.mp3",
+    "us": "media/word/football-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3138,7 +3156,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tennis-player.webp"
+    "img": "media/img/tennis-player.webp",
+    "uk": "media/word/tennis-player.mp3",
+    "us": "media/word/tennis-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3302,7 +3322,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tour-guide.webp"
+    "img": "media/img/tour-guide.webp",
+    "uk": "media/word/tour-guide.mp3",
+    "us": "media/word/tour-guide.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3514,7 +3536,9 @@
     }
    ],
    "media": {
-    "img": "media/img/instructions.webp"
+    "img": "media/img/instructions.webp",
+    "uk": "media/word/instructions.mp3",
+    "us": "media/word/instructions.mp3"
    },
    "hook": {
     "kind": "affix",

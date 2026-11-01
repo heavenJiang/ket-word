@@ -48,7 +48,9 @@
     }
    ],
    "media": {
-    "img": "media/img/give-somebody-a-call.webp"
+    "img": "media/img/give-somebody-a-call.webp",
+    "uk": "media/word/give-somebody-a-call.mp3",
+    "us": "media/word/give-somebody-a-call.mp3"
    },
    "hook": {
     "kind": "story",
@@ -98,7 +100,9 @@
     }
    ],
    "media": {
-    "img": "media/img/at.webp"
+    "img": "media/img/at.webp",
+    "uk": "media/word/at.mp3",
+    "us": "media/word/at.mp3"
    },
    "avoid": [
     "dot"
@@ -1264,7 +1268,9 @@
     }
    ],
    "media": {
-    "img": "media/img/web-page.webp"
+    "img": "media/img/web-page.webp",
+    "uk": "media/word/web-page.mp3",
+    "us": "media/word/web-page.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1483,7 +1489,9 @@
     }
    ],
    "media": {
-    "img": "media/img/by-post.webp"
+    "img": "media/img/by-post.webp",
+    "uk": "media/word/by-post.mp3",
+    "us": "media/word/by-post.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1808,7 +1816,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cd.webp"
+    "img": "media/img/cd.webp",
+    "uk": "media/word/cd.mp3",
+    "us": "media/word/cd.mp3"
    },
    "avoid": [
     "dvd"
@@ -1859,7 +1869,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cd-player.webp"
+    "img": "media/img/cd-player.webp",
+    "uk": "media/word/cd-player.mp3",
+    "us": "media/word/cd-player.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1912,7 +1924,9 @@
     }
    ],
    "media": {
-    "img": "media/img/cell-phone.webp"
+    "img": "media/img/cell-phone.webp",
+    "uk": "media/word/cell-phone.mp3",
+    "us": "media/word/cell-phone.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2030,7 +2044,9 @@
     }
    ],
    "media": {
-    "img": "media/img/digital-camera.webp"
+    "img": "media/img/digital-camera.webp",
+    "uk": "media/word/digital-camera.mp3",
+    "us": "media/word/digital-camera.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2086,7 +2102,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd.webp"
+    "img": "media/img/dvd.webp",
+    "uk": "media/word/dvd.mp3",
+    "us": "media/word/dvd.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -2142,7 +2160,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dvd-player.webp"
+    "img": "media/img/dvd-player.webp",
+    "uk": "media/word/dvd-player.mp3",
+    "us": "media/word/dvd-player.mp3"
    },
    "hook": {
     "kind": "split",

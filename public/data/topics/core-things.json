@@ -45,7 +45,9 @@
     }
    ],
    "media": {
-    "img": "media/img/alarm-clock.webp"
+    "img": "media/img/alarm-clock.webp",
+    "uk": "media/word/alarm-clock.mp3",
+    "us": "media/word/alarm-clock.mp3"
    },
    "hook": {
     "kind": "split",
@@ -618,7 +620,9 @@
     }
    ],
    "media": {
-    "img": "media/img/headphones.webp"
+    "img": "media/img/headphones.webp",
+    "uk": "media/word/headphones.mp3",
+    "us": "media/word/headphones.mp3"
    },
    "avoid": []
   },
@@ -921,7 +925,9 @@
     }
    ],
    "media": {
-    "img": "media/img/pencil-case.webp"
+    "img": "media/img/pencil-case.webp",
+    "uk": "media/word/pencil-case.mp3",
+    "us": "media/word/pencil-case.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2384,7 +2390,9 @@
     }
    ],
    "media": {
-    "img": "media/img/french-fries.webp"
+    "img": "media/img/french-fries.webp",
+    "uk": "media/word/french-fries.mp3",
+    "us": "media/word/french-fries.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2437,7 +2445,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fast-food.webp"
+    "img": "media/img/fast-food.webp",
+    "uk": "media/word/fast-food.mp3",
+    "us": "media/word/fast-food.mp3"
    },
    "hook": {
     "kind": "split",

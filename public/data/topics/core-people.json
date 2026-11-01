@@ -101,7 +101,9 @@
     }
    ],
    "media": {
-    "img": "media/img/boyfriend.webp"
+    "img": "media/img/boyfriend.webp",
+    "uk": "media/word/boyfriend.mp3",
+    "us": "media/word/boyfriend.mp3"
    },
    "hook": {
     "kind": "split",
@@ -156,7 +158,9 @@
     }
    ],
    "media": {
-    "img": "media/img/girlfriend.webp"
+    "img": "media/img/girlfriend.webp",
+    "uk": "media/word/girlfriend.mp3",
+    "us": "media/word/girlfriend.mp3"
    },
    "hook": {
     "kind": "split",
@@ -213,7 +217,9 @@
     }
    ],
    "media": {
-    "img": "media/img/business-person.webp"
+    "img": "media/img/business-person.webp",
+    "uk": "media/word/business-person.mp3",
+    "us": "media/word/business-person.mp3"
    },
    "hook": {
     "kind": "split",
@@ -587,7 +593,9 @@
     }
    ],
    "media": {
-    "img": "media/img/headteacher.webp"
+    "img": "media/img/headteacher.webp",
+    "uk": "media/word/headteacher.mp3",
+    "us": "media/word/headteacher.mp3"
    },
    "hook": {
     "kind": "split",
@@ -848,7 +856,10 @@
      "audio": "media/sent/1ad394260496.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/mom.mp3",
+    "us": "media/word/mom.mp3"
+   },
    "avoid": []
   },
   {
@@ -1061,7 +1072,9 @@
     }
    ],
    "media": {
-    "img": "media/img/schoolchild.webp"
+    "img": "media/img/schoolchild.webp",
+    "uk": "media/word/schoolchild.mp3",
+    "us": "media/word/schoolchild.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1220,7 +1233,9 @@
     }
    ],
    "media": {
-    "img": "media/img/movie-star.webp"
+    "img": "media/img/movie-star.webp",
+    "uk": "media/word/movie-star.mp3",
+    "us": "media/word/movie-star.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1738,7 +1753,9 @@
     }
    ],
    "media": {
-    "img": "media/img/first-name.webp"
+    "img": "media/img/first-name.webp",
+    "uk": "media/word/first-name.mp3",
+    "us": "media/word/first-name.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1845,7 +1862,9 @@
     }
    ],
    "media": {
-    "img": "media/img/id.webp"
+    "img": "media/img/id.webp",
+    "uk": "media/word/id.mp3",
+    "us": "media/word/id.mp3"
    },
    "avoid": [
     "id-card",
@@ -1896,7 +1915,9 @@
     }
    ],
    "media": {
-    "img": "media/img/id-card.webp"
+    "img": "media/img/id-card.webp",
+    "uk": "media/word/id-card.mp3",
+    "us": "media/word/id-card.mp3"
    },
    "hook": {
     "kind": "story",
@@ -2005,7 +2026,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grow-up.webp"
+    "img": "media/img/grow-up.webp",
+    "uk": "media/word/grow-up.mp3",
+    "us": "media/word/grow-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2057,7 +2080,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-married.webp"
+    "img": "media/img/get-married.webp",
+    "uk": "media/word/get-married.mp3",
+    "us": "media/word/get-married.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2111,7 +2136,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-fit.webp"
+    "img": "media/img/get-fit.webp",
+    "uk": "media/word/get-fit.mp3",
+    "us": "media/word/get-fit.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2366,7 +2393,10 @@
      "audio": "media/sent/e38c655d873c.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/feelings.mp3",
+    "us": "media/word/feelings.mp3"
+   },
    "hook": {
     "kind": "affix",
     "text": "feeling（感觉）+ s（复数）= feelings 感受"

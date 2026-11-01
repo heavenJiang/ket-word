@@ -1483,7 +1483,9 @@
     }
    ],
    "media": {
-    "img": "media/img/instructions.webp"
+    "img": "media/img/instructions.webp",
+    "uk": "media/word/instructions.mp3",
+    "us": "media/word/instructions.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -2701,7 +2703,9 @@
     }
    ],
    "media": {
-    "img": "media/img/studies.webp"
+    "img": "media/img/studies.webp",
+    "uk": "media/word/studies.mp3",
+    "us": "media/word/studies.mp3"
    },
    "avoid": [
     "learn",

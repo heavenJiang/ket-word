@@ -42,7 +42,10 @@
      "audio": "media/sent/a05eedd0cf8f.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/a.mp3",
+    "us": "media/word/a.mp3"
+   },
    "avoid": []
   },
   {
@@ -86,7 +89,10 @@
      "audio": "media/sent/dccee8734650.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/an.mp3",
+    "us": "media/word/an.mp3"
+   },
    "avoid": []
   },
   {
@@ -130,7 +136,10 @@
      "audio": "media/sent/f32b30a0c2f4.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/the.mp3",
+    "us": "media/word/the.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "the 特指，they 他们：they 多一个 y"
@@ -435,7 +444,10 @@
      "audio": "media/sent/8d109233c988.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/because-of.mp3",
+    "us": "media/word/because-of.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "because 因为 + of 的 = because of 因为"
@@ -637,7 +649,10 @@
      "audio": "media/sent/42fda3abc6ce.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/while.mp3",
+    "us": "media/word/while.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "while 当…时，white 白色：l 和 t 不同"
@@ -739,7 +754,10 @@
      "audio": "media/sent/f24660bf02d5.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/of.mp3",
+    "us": "media/word/of.mp3"
+   },
    "avoid": []
   },
   {
@@ -783,7 +801,10 @@
      "audio": "media/sent/3be127f5d7da.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/for.mp3",
+    "us": "media/word/for.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "for 为了，four 四：four 多一个 u"
@@ -883,7 +904,10 @@
      "audio": "media/sent/63389b85b599.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/to.mp3",
+    "us": "media/word/to.mp3"
+   },
    "avoid": []
   },
   {
@@ -1326,7 +1350,10 @@
      "audio": "media/sent/dfde05d10db2.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/as-well.mp3",
+    "us": "media/word/as-well.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "as 如同 + well 好 = as well 也"
@@ -1424,7 +1451,10 @@
      "audio": "media/sent/4a469a7f41df.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/instead-of.mp3",
+    "us": "media/word/instead-of.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "instead 代替 + of 的 = instead of 代替"
@@ -1628,7 +1658,10 @@
      "audio": "media/sent/5b12d34c18ce.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/only.mp3",
+    "us": "media/word/only.mp3"
+   },
    "avoid": []
   },
   {
@@ -1672,7 +1705,10 @@
      "audio": "media/sent/1c080640bdc1.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/not.mp3",
+    "us": "media/word/not.mp3"
+   },
    "avoid": []
   },
   {
@@ -1716,7 +1752,10 @@
      "audio": "media/sent/511524a7c52a.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/yes.mp3",
+    "us": "media/word/yes.mp3"
+   },
    "avoid": []
   },
   {
@@ -1764,7 +1803,10 @@
      "audio": "media/sent/1931a4ef5ace.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/no.mp3",
+    "us": "media/word/no.mp3"
+   },
    "avoid": []
   }
  ]

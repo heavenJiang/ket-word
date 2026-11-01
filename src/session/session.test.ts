@@ -3,7 +3,7 @@ import { Rating, review, unlockedSkills, type CardState, type WordProgress } fro
 import { buildPlan } from "./plan";
 import { distractors } from "../lib/choice";
 import type { Word } from "../types";
-import { answer, buildSession, current, kindFor, MAX_RETRIES, RETRY_GAP, spreadOut, type Session } from "./session";
+import { answer, buildSession, current, groupOpen, keyOf, kindFor, MAX_RETRIES, RECALL_GAP, RETRY_GAP, spreadOut, type Session } from "./session";
 
 const DAY = 86_400_000;
 const t0 = Date.UTC(2026, 9, 1, 8);
@@ -111,15 +111,24 @@ describe("one more group", () => {
 });
 
 describe("session", () => {
-  it("teaches new words in groups, practises them unscored, and scores a recall at the end", () => {
-    const s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 6 }), {}, seq());
-    expect(s.steps[0]).toEqual({ type: "intro", wordIds: order.slice(0, 4) });
-    expect(s.steps[1]).toEqual({ type: "match", wordIds: order.slice(0, 4) });
-    expect(s.steps.slice(2, 6).every((x) => x.type === "q" && !x.graded)).toBe(true);
-    expect(s.steps[6]).toEqual({ type: "intro", wordIds: order.slice(4, 6) });
-    const recall = s.steps.slice(-6);
-    expect(recall.every((x) => x.type === "q" && x.graded && x.kind === "pickMeaning")).toBe(true);
-    expect(recall.map((x) => (x.type === "q" ? x.wordId : "")).sort()).toEqual(order.slice(0, 6));
+  it("teaches each group of new words early, with a few reviews before its scored recall", () => {
+    const words = learned(order.slice(10, 20));
+    const plan = buildPlan(order, words, t0 + 3 * DAY, { ...opt, newPerDay: 6 });
+    const s = buildSession(plan, words, seq());
+    const kinds = s.steps.map((x) => (x.type === "q" ? (x.graded ? (order.slice(0, 6).includes(x.wordId) ? "recall" : "review") : "practice") : x.type));
+    expect(kinds.slice(0, 6)).toEqual(["intro", "match", "practice", "practice", "practice", "practice"]);
+    expect(kinds.slice(6, 6 + RECALL_GAP)).toEqual(Array(RECALL_GAP).fill("review"));
+    expect(kinds.slice(6 + RECALL_GAP, 10 + RECALL_GAP)).toEqual(["recall", "recall", "recall", "recall"]);
+    expect(kinds[10 + RECALL_GAP]).toBe("intro");
+    expect(kinds.filter((k) => k === "recall")).toHaveLength(6);
+  });
+
+  it("keeps a group of new words open until it is recalled, so a break never loses it", () => {
+    const s = buildSession(buildPlan(order, {}, t0, { ...opt, newPerDay: 4 }), {}, seq());
+    expect(groupOpen({ ...s, index: 0 })).toBe(false);
+    expect(groupOpen({ ...s, index: 3 })).toBe(true);
+    const done = { ...s, index: s.steps.length, answered: order.slice(0, 4).map((id) => keyOf(id, "meaning")) };
+    expect(groupOpen(done)).toBe(false);
   });
 
   it("grades only the first answer and retries wrong ones later with another question type", () => {

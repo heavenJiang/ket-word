@@ -475,7 +475,9 @@
     }
    ],
    "media": {
-    "img": "media/img/gas-station.webp"
+    "img": "media/img/gas-station.webp",
+    "uk": "media/word/gas-station.mp3",
+    "us": "media/word/gas-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -638,7 +640,9 @@
     }
    ],
    "media": {
-    "img": "media/img/movie-theater.webp"
+    "img": "media/img/movie-theater.webp",
+    "uk": "media/word/movie-theater.mp3",
+    "us": "media/word/movie-theater.mp3"
    },
    "hook": {
     "kind": "split",
@@ -748,7 +752,9 @@
     }
    ],
    "media": {
-    "img": "media/img/police-car.webp"
+    "img": "media/img/police-car.webp",
+    "uk": "media/word/police-car.mp3",
+    "us": "media/word/police-car.mp3"
    },
    "hook": {
     "kind": "split",
@@ -854,7 +860,9 @@
     }
    ],
    "media": {
-    "img": "media/img/shopping-centre.webp"
+    "img": "media/img/shopping-centre.webp",
+    "uk": "media/word/shopping-centre.mp3",
+    "us": "media/word/shopping-centre.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1017,7 +1025,9 @@
     }
    ],
    "media": {
-    "img": "media/img/directions.webp"
+    "img": "media/img/directions.webp",
+    "uk": "media/word/directions.mp3",
+    "us": "media/word/directions.mp3"
    },
    "hook": {
     "kind": "affix",

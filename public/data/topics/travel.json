@@ -1088,7 +1088,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tour-guide.webp"
+    "img": "media/img/tour-guide.webp",
+    "uk": "media/word/tour-guide.mp3",
+    "us": "media/word/tour-guide.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1149,7 +1151,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tourist-information-centre.webp"
+    "img": "media/img/tourist-information-centre.webp",
+    "uk": "media/word/tourist-information-centre.mp3",
+    "us": "media/word/tourist-information-centre.mp3"
    },
    "hook": {
     "kind": "story",
@@ -1378,7 +1382,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bus-station.webp"
+    "img": "media/img/bus-station.webp",
+    "uk": "media/word/bus-station.mp3",
+    "us": "media/word/bus-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1433,7 +1439,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bus-stop.webp"
+    "img": "media/img/bus-stop.webp",
+    "uk": "media/word/bus-stop.mp3",
+    "us": "media/word/bus-stop.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2066,7 +2074,9 @@
     }
    ],
    "media": {
-    "img": "media/img/motorbike.webp"
+    "img": "media/img/motorbike.webp",
+    "uk": "media/word/motorbike.mp3",
+    "us": "media/word/motorbike.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2228,7 +2238,9 @@
     }
    ],
    "media": {
-    "img": "media/img/petrol-station.webp"
+    "img": "media/img/petrol-station.webp",
+    "uk": "media/word/petrol-station.mp3",
+    "us": "media/word/petrol-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2670,7 +2682,9 @@
     }
    ],
    "media": {
-    "img": "media/img/driving-licence.webp"
+    "img": "media/img/driving-licence.webp",
+    "uk": "media/word/driving-licence.mp3",
+    "us": "media/word/driving-licence.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3178,7 +3192,9 @@
     }
    ],
    "media": {
-    "img": "media/img/traffic-light.webp"
+    "img": "media/img/traffic-light.webp",
+    "uk": "media/word/traffic-light.mp3",
+    "us": "media/word/traffic-light.mp3"
    },
    "hook": {
     "kind": "split",
@@ -3921,7 +3937,9 @@
     }
    ],
    "media": {
-    "img": "media/img/delayed.webp"
+    "img": "media/img/delayed.webp",
+    "uk": "media/word/delayed.mp3",
+    "us": "media/word/delayed.mp3"
    },
    "hook": {
     "kind": "affix",

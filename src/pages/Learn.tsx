@@ -5,7 +5,7 @@ import { Intro } from "../questions/Intro";
 import { Match } from "../questions/Match";
 import { gapSentences } from "../lib/sentence";
 import { Tiles } from "../questions/Tiles";
-import { answer, buildSession, current, isDone, advance } from "../session/session";
+import { answer, buildSession, current, groupOpen, isDone, advance } from "../session/session";
 import { todayPlan } from "../session/today";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { isHard, Rating, type Grade } from "../srs/srs";
@@ -65,7 +65,8 @@ export function Learn(props: {
     }
     const n = round.n + 1;
     // a round ends after ROUND questions, unless the day is about to end anyway
-    const pause = n >= ROUND && questionsLeft(r.session) >= ROUND / 2;
+    // ...and never in the middle of a group of new words, which would be lost if the child stopped there
+    const pause = n >= ROUND && questionsLeft(r.session) >= ROUND / 2 && !groupOpen(r.session);
     setRound({ ...round, n, stars: round.stars + star, pause });
     if (pause) sfx("done", settings.sound);
     next(r.session);
@@ -185,7 +186,6 @@ export function Learn(props: {
           key={session.index}
           words={step.wordIds.map((id) => byId.get(id)!)}
           accent={settings.accent}
-          sound={settings.sound}
           onDone={() => next(advance(session))}
         />
       ) : step.type === "match" ? (

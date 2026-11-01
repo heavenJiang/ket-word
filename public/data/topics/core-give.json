@@ -97,7 +97,9 @@
     }
    ],
    "media": {
-    "img": "media/img/give-back.webp"
+    "img": "media/img/give-back.webp",
+    "uk": "media/word/give-back.mp3",
+    "us": "media/word/give-back.mp3"
    },
    "hook": {
     "kind": "split",
@@ -203,7 +205,9 @@
     }
    ],
    "media": {
-    "img": "media/img/take-off.webp"
+    "img": "media/img/take-off.webp",
+    "uk": "media/word/take-off.mp3",
+    "us": "media/word/take-off.mp3"
    },
    "hook": {
     "kind": "split",
@@ -254,7 +258,9 @@
     }
    ],
    "media": {
-    "img": "media/img/pick-up.webp"
+    "img": "media/img/pick-up.webp",
+    "uk": "media/word/pick-up.mp3",
+    "us": "media/word/pick-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -460,7 +466,10 @@
      "audio": "media/sent/2abe4d06f12f.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/find-out.mp3",
+    "us": "media/word/find-out.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "find 找 + out 出来 = find out 查明"

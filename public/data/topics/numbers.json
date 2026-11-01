@@ -90,7 +90,9 @@
     }
    ],
    "media": {
-    "img": "media/img/two.webp"
+    "img": "media/img/two.webp",
+    "uk": "media/word/two.mp3",
+    "us": "media/word/two.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -136,7 +138,9 @@
     }
    ],
    "media": {
-    "img": "media/img/three.webp"
+    "img": "media/img/three.webp",
+    "uk": "media/word/three.mp3",
+    "us": "media/word/three.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -227,7 +231,9 @@
     }
    ],
    "media": {
-    "img": "media/img/five.webp"
+    "img": "media/img/five.webp",
+    "uk": "media/word/five.mp3",
+    "us": "media/word/five.mp3"
    },
    "avoid": []
   },
@@ -269,7 +275,9 @@
     }
    ],
    "media": {
-    "img": "media/img/six.webp"
+    "img": "media/img/six.webp",
+    "uk": "media/word/six.mp3",
+    "us": "media/word/six.mp3"
    },
    "avoid": []
   },
@@ -312,7 +320,9 @@
     }
    ],
    "media": {
-    "img": "media/img/seven.webp"
+    "img": "media/img/seven.webp",
+    "uk": "media/word/seven.mp3",
+    "us": "media/word/seven.mp3"
    },
    "avoid": []
   },
@@ -354,7 +364,9 @@
     }
    ],
    "media": {
-    "img": "media/img/eight.webp"
+    "img": "media/img/eight.webp",
+    "uk": "media/word/eight.mp3",
+    "us": "media/word/eight.mp3"
    },
    "avoid": []
   },
@@ -441,7 +453,9 @@
     }
    ],
    "media": {
-    "img": "media/img/ten.webp"
+    "img": "media/img/ten.webp",
+    "uk": "media/word/ten.mp3",
+    "us": "media/word/ten.mp3"
    },
    "avoid": []
   },
@@ -485,7 +499,9 @@
     }
    ],
    "media": {
-    "img": "media/img/eleven.webp"
+    "img": "media/img/eleven.webp",
+    "uk": "media/word/eleven.mp3",
+    "us": "media/word/eleven.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -577,7 +593,9 @@
     }
    ],
    "media": {
-    "img": "media/img/thirteen.webp"
+    "img": "media/img/thirteen.webp",
+    "uk": "media/word/thirteen.mp3",
+    "us": "media/word/thirteen.mp3"
    },
    "avoid": []
   },
@@ -620,7 +638,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fourteen.webp"
+    "img": "media/img/fourteen.webp",
+    "uk": "media/word/fourteen.mp3",
+    "us": "media/word/fourteen.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -667,7 +687,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fifteen.webp"
+    "img": "media/img/fifteen.webp",
+    "uk": "media/word/fifteen.mp3",
+    "us": "media/word/fifteen.mp3"
    },
    "avoid": []
   },
@@ -857,7 +879,9 @@
     }
    ],
    "media": {
-    "img": "media/img/nineteen.webp"
+    "img": "media/img/nineteen.webp",
+    "uk": "media/word/nineteen.mp3",
+    "us": "media/word/nineteen.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -904,7 +928,9 @@
     }
    ],
    "media": {
-    "img": "media/img/twenty.webp"
+    "img": "media/img/twenty.webp",
+    "uk": "media/word/twenty.mp3",
+    "us": "media/word/twenty.mp3"
    },
    "avoid": []
   },
@@ -1039,7 +1065,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fifty.webp"
+    "img": "media/img/fifty.webp",
+    "uk": "media/word/fifty.mp3",
+    "us": "media/word/fifty.mp3"
    },
    "avoid": []
   },
@@ -1129,7 +1157,9 @@
     }
    ],
    "media": {
-    "img": "media/img/seventy.webp"
+    "img": "media/img/seventy.webp",
+    "uk": "media/word/seventy.mp3",
+    "us": "media/word/seventy.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -1176,7 +1206,9 @@
     }
    ],
    "media": {
-    "img": "media/img/eighty.webp"
+    "img": "media/img/eighty.webp",
+    "uk": "media/word/eighty.mp3",
+    "us": "media/word/eighty.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -1223,7 +1255,9 @@
     }
    ],
    "media": {
-    "img": "media/img/ninety.webp"
+    "img": "media/img/ninety.webp",
+    "uk": "media/word/ninety.mp3",
+    "us": "media/word/ninety.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -1637,7 +1671,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fifth.webp"
+    "img": "media/img/fifth.webp",
+    "uk": "media/word/fifth.mp3",
+    "us": "media/word/fifth.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1683,7 +1719,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sixth.webp"
+    "img": "media/img/sixth.webp",
+    "uk": "media/word/sixth.mp3",
+    "us": "media/word/sixth.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -1923,7 +1961,9 @@
     }
    ],
    "media": {
-    "img": "media/img/eleventh.webp"
+    "img": "media/img/eleventh.webp",
+    "uk": "media/word/eleventh.mp3",
+    "us": "media/word/eleventh.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -2015,7 +2055,9 @@
     }
    ],
    "media": {
-    "img": "media/img/twentieth.webp"
+    "img": "media/img/twentieth.webp",
+    "uk": "media/word/twentieth.mp3",
+    "us": "media/word/twentieth.mp3"
    },
    "avoid": []
   },
@@ -2059,7 +2101,9 @@
     }
    ],
    "media": {
-    "img": "media/img/thirtieth.webp"
+    "img": "media/img/thirtieth.webp",
+    "uk": "media/word/thirtieth.mp3",
+    "us": "media/word/thirtieth.mp3"
    },
    "avoid": []
   }

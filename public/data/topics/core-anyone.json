@@ -311,7 +311,10 @@
      "audio": "media/sent/f75e19a2f324.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/no-one.mp3",
+    "us": "media/word/no-one.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "no（没有）+ one（一个）= no one 没有人"
@@ -1050,7 +1053,10 @@
      "audio": "media/sent/7648c70022f7.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/how.mp3",
+    "us": "media/word/how.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "how 怎么，now 现在：把 n 换成 h 就变成怎么"
@@ -1202,7 +1208,10 @@
      "audio": "media/sent/08729377ea50.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/where.mp3",
+    "us": "media/word/where.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "where 哪里，there 那里：把 t 换成 w"

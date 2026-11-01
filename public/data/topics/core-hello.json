@@ -42,7 +42,10 @@
      "audio": "media/sent/a325f6054901.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/bye.mp3",
+    "us": "media/word/bye.mp3"
+   },
    "avoid": []
   },
   {
@@ -90,7 +93,10 @@
      "audio": "media/sent/2f01dd4b95cf.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/congratulations.mp3",
+    "us": "media/word/congratulations.mp3"
+   },
    "avoid": []
   },
   {
@@ -135,7 +141,10 @@
      "audio": "media/sent/575649c16c2a.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/goodbye.mp3",
+    "us": "media/word/goodbye.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "good 好 + bye 再见 = goodbye 再见"
@@ -186,7 +195,10 @@
      "audio": "media/sent/34901cb534ba.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/good-afternoon.mp3",
+    "us": "media/word/good-afternoon.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "good 好 + afternoon 下午 = good afternoon 下午好"
@@ -237,7 +249,10 @@
      "audio": "media/sent/79956264782c.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/good-evening.mp3",
+    "us": "media/word/good-evening.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "good 好 + evening 晚上 = good evening 晚上好"
@@ -287,7 +302,10 @@
      "audio": "media/sent/4dca905e35d1.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/good-morning.mp3",
+    "us": "media/word/good-morning.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "good 好 + morning 早上 = good morning 早上好"
@@ -336,7 +354,10 @@
      "audio": "media/sent/6ef749c3b47c.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/good-night.mp3",
+    "us": "media/word/good-night.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "good 好 + night 夜晚 = good night 晚安"
@@ -481,7 +502,10 @@
      "audio": "media/sent/a15be93adbef.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/hi.mp3",
+    "us": "media/word/hi.mp3"
+   },
    "avoid": []
   },
   {
@@ -525,7 +549,10 @@
      "audio": "media/sent/c621f06d22a8.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/oh.mp3",
+    "us": "media/word/oh.mp3"
+   },
    "avoid": []
   },
   {
@@ -570,7 +597,10 @@
      "audio": "media/sent/e6d7936914d2.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/oh-dear.mp3",
+    "us": "media/word/oh-dear.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "oh 哎呀 + dear 亲爱的 = oh dear! 天哪"
@@ -619,7 +649,10 @@
      "audio": "media/sent/8fcafa931bc0.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/ok.mp3",
+    "us": "media/word/ok.mp3"
+   },
    "avoid": []
   },
   {
@@ -817,7 +850,10 @@
      "audio": "media/sent/453a6fba9928.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/thank.mp3",
+    "us": "media/word/thank.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "thank 感谢，thanks 谢谢：thanks 比 thank 多个 s。"
@@ -866,7 +902,10 @@
      "audio": "media/sent/a0bf6ce7e5a0.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/thank-you.mp3",
+    "us": "media/word/thank-you.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "thank 感谢 + you 你 = thank you 谢谢"
@@ -969,7 +1008,10 @@
      "audio": "media/sent/ee2dec20da83.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/wow.mp3",
+    "us": "media/word/wow.mp3"
+   },
    "avoid": []
   },
   {
@@ -1013,7 +1055,10 @@
      "audio": "media/sent/9caae1a51972.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/yeah.mp3",
+    "us": "media/word/yeah.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "Yeah! 是啊，yes 是的：Yeah! 结尾 h 像点头。"
@@ -1115,7 +1160,10 @@
      "audio": "media/sent/03c440a8e5f5.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/by-the-way.mp3",
+    "us": "media/word/by-the-way.mp3"
+   },
    "hook": {
     "kind": "story",
     "text": "by the way 像走路：way 是路，顺便沿着路提一句。"
@@ -1164,7 +1212,10 @@
      "audio": "media/sent/d09bdb4ea607.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/guess-what.mp3",
+    "us": "media/word/guess-what.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "guess 猜 + what 什么 = Guess what? 你猜怎么着"
@@ -1213,7 +1264,10 @@
      "audio": "media/sent/2d8d29d104a3.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/of-course.mp3",
+    "us": "media/word/of-course.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "of 的 + course 路线 = of course 当然"
@@ -1262,7 +1316,10 @@
      "audio": "media/sent/b5a6648683a7.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/poor-thing.mp3",
+    "us": "media/word/poor-thing.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "poor 可怜的 + thing 小家伙 = poor thing 可怜的小家伙"
@@ -1842,7 +1899,10 @@
      "audio": "media/sent/365575be252c.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/alright.mp3",
+    "us": "media/word/alright.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "alright 好的，all right 好的：alright 少一个 l"
@@ -1895,7 +1955,10 @@
      "audio": "media/sent/9cfd8ebd8230.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/all-right.mp3",
+    "us": "media/word/all-right.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "all 全部 + right 对 = all right 好的"
@@ -1944,7 +2007,10 @@
      "audio": "media/sent/6c5c90067433.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/at-all.mp3",
+    "us": "media/word/at-all.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "at 在 + all 全部 = at all 根本"

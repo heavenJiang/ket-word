@@ -319,7 +319,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dad.webp"
+    "img": "media/img/dad.webp",
+    "uk": "media/word/dad.mp3",
+    "us": "media/word/dad.mp3"
    },
    "avoid": [
     "father",
@@ -704,7 +706,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grandchild.webp"
+    "img": "media/img/grandchild.webp",
+    "uk": "media/word/grandchild.mp3",
+    "us": "media/word/grandchild.mp3"
    },
    "hook": {
     "kind": "split",
@@ -765,7 +769,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grandad.webp"
+    "img": "media/img/grandad.webp",
+    "uk": "media/word/grandad.mp3",
+    "us": "media/word/grandad.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -949,7 +955,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grandma.webp"
+    "img": "media/img/grandma.webp",
+    "uk": "media/word/grandma.mp3",
+    "us": "media/word/grandma.mp3"
    },
    "avoid": [
     "grandchild",
@@ -1065,7 +1073,9 @@
     }
    ],
    "media": {
-    "img": "media/img/grandpa.webp"
+    "img": "media/img/grandpa.webp",
+    "uk": "media/word/grandpa.mp3",
+    "us": "media/word/grandpa.mp3"
    },
    "avoid": [
     "grandad",
@@ -1247,7 +1257,9 @@
     }
    ],
    "media": {
-    "img": "media/img/granny.webp"
+    "img": "media/img/granny.webp",
+    "uk": "media/word/granny.mp3",
+    "us": "media/word/granny.mp3"
    },
    "avoid": [
     "grandchild",
@@ -1810,7 +1822,9 @@
     }
    ],
    "media": {
-    "img": "media/img/mr.webp"
+    "img": "media/img/mr.webp",
+    "uk": "media/word/mr.mp3",
+    "us": "media/word/mr.mp3"
    },
    "avoid": [
     "miss",
@@ -1861,7 +1875,9 @@
     }
    ],
    "media": {
-    "img": "media/img/mrs.webp"
+    "img": "media/img/mrs.webp",
+    "uk": "media/word/mrs.mp3",
+    "us": "media/word/mrs.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1916,7 +1932,9 @@
     }
    ],
    "media": {
-    "img": "media/img/ms.webp"
+    "img": "media/img/ms.webp",
+    "uk": "media/word/ms.mp3",
+    "us": "media/word/ms.mp3"
    },
    "avoid": [
     "miss",
@@ -1967,7 +1985,9 @@
     }
    ],
    "media": {
-    "img": "media/img/mum.webp"
+    "img": "media/img/mum.webp",
+    "uk": "media/word/mum.mp3",
+    "us": "media/word/mum.mp3"
    },
    "avoid": [
     "mother",
@@ -2138,7 +2158,9 @@
     }
    ],
    "media": {
-    "img": "media/img/penfriend.webp"
+    "img": "media/img/penfriend.webp",
+    "uk": "media/word/penfriend.mp3",
+    "us": "media/word/penfriend.mp3"
    },
    "hook": {
     "kind": "split",

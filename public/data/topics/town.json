@@ -98,7 +98,9 @@
     }
    ],
    "media": {
-    "img": "media/img/city-centre.webp"
+    "img": "media/img/city-centre.webp",
+    "uk": "media/word/city-centre.mp3",
+    "us": "media/word/city-centre.mp3"
    },
    "hook": {
     "kind": "split",
@@ -645,7 +647,9 @@
     }
    ],
    "media": {
-    "img": "media/img/zoo.webp"
+    "img": "media/img/zoo.webp",
+    "uk": "media/word/zoo.mp3",
+    "us": "media/word/zoo.mp3"
    },
    "avoid": [
     "park",
@@ -808,7 +812,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bus-station.webp"
+    "img": "media/img/bus-station.webp",
+    "uk": "media/word/bus-station.mp3",
+    "us": "media/word/bus-station.mp3"
    },
    "hook": {
     "kind": "split",
@@ -863,7 +869,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bus-stop.webp"
+    "img": "media/img/bus-stop.webp",
+    "uk": "media/word/bus-stop.mp3",
+    "us": "media/word/bus-stop.mp3"
    },
    "hook": {
     "kind": "split",
@@ -980,7 +988,9 @@
     }
    ],
    "media": {
-    "img": "media/img/petrol-station.webp"
+    "img": "media/img/petrol-station.webp",
+    "uk": "media/word/petrol-station.mp3",
+    "us": "media/word/petrol-station.mp3"
    },
    "hook": {
     "kind": "split",

@@ -1403,7 +1403,9 @@
     }
    ],
    "media": {
-    "img": "media/img/stomach-ache.webp"
+    "img": "media/img/stomach-ache.webp",
+    "uk": "media/word/stomach-ache.mp3",
+    "us": "media/word/stomach-ache.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1804,7 +1806,9 @@
     }
    ],
    "media": {
-    "img": "media/img/dr.webp"
+    "img": "media/img/dr.webp",
+    "uk": "media/word/dr.mp3",
+    "us": "media/word/dr.mp3"
    },
    "avoid": [
     "dentist",
@@ -2580,7 +2584,9 @@
     }
    ],
    "media": {
-    "img": "media/img/well.webp"
+    "img": "media/img/well.webp",
+    "uk": "media/word/well.mp3",
+    "us": "media/word/well.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -2738,7 +2744,9 @@
     }
    ],
    "media": {
-    "img": "media/img/check.webp"
+    "img": "media/img/check.webp",
+    "uk": "media/word/check.mp3",
+    "us": "media/word/check.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -2855,7 +2863,9 @@
     }
    ],
    "media": {
-    "img": "media/img/lie-down.webp"
+    "img": "media/img/lie-down.webp",
+    "uk": "media/word/lie-down.mp3",
+    "us": "media/word/lie-down.mp3"
    },
    "hook": {
     "kind": "split",

@@ -805,7 +805,9 @@
     }
    ],
    "media": {
-    "img": "media/img/sad.webp"
+    "img": "media/img/sad.webp",
+    "uk": "media/word/sad.mp3",
+    "us": "media/word/sad.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1728,7 +1730,9 @@
     }
    ],
    "media": {
-    "img": "media/img/good-looking.webp"
+    "img": "media/img/good-looking.webp",
+    "uk": "media/word/good-looking.mp3",
+    "us": "media/word/good-looking.mp3"
    },
    "avoid": [
     "attractive"
@@ -1777,7 +1781,9 @@
     }
    ],
    "media": {
-    "img": "media/img/well-known.webp"
+    "img": "media/img/well-known.webp",
+    "uk": "media/word/well-known.mp3",
+    "us": "media/word/well-known.mp3"
    },
    "hook": {
     "kind": "split",

@@ -202,7 +202,9 @@
     }
    ],
    "media": {
-    "img": "media/img/hippo.webp"
+    "img": "media/img/hippo.webp",
+    "uk": "media/word/hippo.mp3",
+    "us": "media/word/hippo.mp3"
    },
    "avoid": []
   },
@@ -500,7 +502,9 @@
     }
    ],
    "media": {
-    "img": "media/img/snail.webp"
+    "img": "media/img/snail.webp",
+    "uk": "media/word/snail.mp3",
+    "us": "media/word/snail.mp3"
    },
    "hook": {
     "kind": "contrast",

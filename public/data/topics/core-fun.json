@@ -464,7 +464,9 @@
     }
    ],
    "media": {
-    "img": "media/img/ice-skating.webp"
+    "img": "media/img/ice-skating.webp",
+    "uk": "media/word/ice-skating.mp3",
+    "us": "media/word/ice-skating.mp3"
    },
    "hook": {
     "kind": "split",
@@ -678,7 +680,9 @@
     }
    ],
    "media": {
-    "img": "media/img/singing.webp"
+    "img": "media/img/singing.webp",
+    "uk": "media/word/singing.mp3",
+    "us": "media/word/singing.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -790,7 +794,9 @@
     }
    ],
    "media": {
-    "img": "media/img/skating.webp"
+    "img": "media/img/skating.webp",
+    "uk": "media/word/skating.mp3",
+    "us": "media/word/skating.mp3"
    },
    "avoid": [
     "ice-skating",
@@ -1766,7 +1772,9 @@
     }
    ],
    "media": {
-    "img": "media/img/take-part.webp"
+    "img": "media/img/take-part.webp",
+    "uk": "media/word/take-part.mp3",
+    "us": "media/word/take-part.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1817,7 +1825,9 @@
     }
    ],
    "media": {
-    "img": "media/img/work-out.webp"
+    "img": "media/img/work-out.webp",
+    "uk": "media/word/work-out.mp3",
+    "us": "media/word/work-out.mp3"
    },
    "hook": {
     "kind": "split",

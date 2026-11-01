@@ -47,7 +47,10 @@
      "audio": "media/sent/f0e1ec03c06a.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/a-few.mp3",
+    "us": "media/word/a-few.mp3"
+   },
    "hook": {
     "kind": "split",
     "text": "a 一 + few 少 = a few 几个"
@@ -151,7 +154,10 @@
      "audio": "media/sent/70cb7bf855a4.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/all-kinds-of.mp3",
+    "us": "media/word/all-kinds-of.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "all kinds of：kinds 比 kind 多一个 s，表示各种各样的"
@@ -203,7 +209,10 @@
      "audio": "media/sent/0b5d26114046.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/all-sorts-of.mp3",
+    "us": "media/word/all-sorts-of.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "all sorts of：sorts 比 sort 多一个 s，表示各种各样的"
@@ -871,7 +880,10 @@
      "audio": "media/sent/fc6b0402d94d.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/lots.mp3",
+    "us": "media/word/lots.mp3"
+   },
    "hook": {
     "kind": "affix",
     "text": "lot（许多）+ s（复数）= lots 许多"
@@ -2472,7 +2484,10 @@
      "audio": "media/sent/2603ca7455e4.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/part.mp3",
+    "us": "media/word/part.mp3"
+   },
    "hook": {
     "kind": "contrast",
     "text": "part 部分，past 过去：中间 r 和 s 不同"

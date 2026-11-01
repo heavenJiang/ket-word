@@ -249,6 +249,14 @@ def main() -> None:
                         media[kind] = path
                         atlas_img |= kind == "img"
                         used_media.add(path)
+            # a word Word Atlas cannot say: our own Higgs recording (gen_word_audio.py), for both accents
+            own_voice = ROOT / "content/media/word" / f"{w.get('of', w['id'])}.mp3"
+            if "uk" not in media and "us" not in media and own_voice.exists():
+                dst = MEDIA / "word" / own_voice.name
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                dst.write_bytes(own_voice.read_bytes())
+                media["uk"] = media["us"] = f"media/word/{own_voice.name}"
+                used_media.add(media["uk"])
             entries.append({
                 "id": w["id"],
                 "word": it["word"],

@@ -284,7 +284,9 @@
     }
    ],
    "media": {
-    "img": "media/img/north-america.webp"
+    "img": "media/img/north-america.webp",
+    "uk": "media/word/north-america.mp3",
+    "us": "media/word/north-america.mp3"
    },
    "hook": {
     "kind": "split",
@@ -337,7 +339,9 @@
     }
    ],
    "media": {
-    "img": "media/img/south-america.webp"
+    "img": "media/img/south-america.webp",
+    "uk": "media/word/south-america.mp3",
+    "us": "media/word/south-america.mp3"
    },
    "hook": {
     "kind": "split",
@@ -435,7 +439,9 @@
     }
    ],
    "media": {
-    "img": "media/img/brazil.webp"
+    "img": "media/img/brazil.webp",
+    "uk": "media/word/brazil.mp3",
+    "us": "media/word/brazil.mp3"
    },
    "hook": {
     "kind": "sound",
@@ -633,7 +639,9 @@
     }
    ],
    "media": {
-    "img": "media/img/india.webp"
+    "img": "media/img/india.webp",
+    "uk": "media/word/india.mp3",
+    "us": "media/word/india.mp3"
    },
    "avoid": [
     "indian"
@@ -1043,7 +1051,9 @@
     }
    ],
    "media": {
-    "img": "media/img/brazilian.webp"
+    "img": "media/img/brazilian.webp",
+    "uk": "media/word/brazilian.mp3",
+    "us": "media/word/brazilian.mp3"
    },
    "hook": {
     "kind": "affix",

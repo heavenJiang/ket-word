@@ -199,7 +199,9 @@
     }
    ],
    "media": {
-    "img": "media/img/chatroom.webp"
+    "img": "media/img/chatroom.webp",
+    "uk": "media/word/chatroom.mp3",
+    "us": "media/word/chatroom.mp3"
    },
    "hook": {
     "kind": "split",
@@ -416,7 +418,9 @@
     }
    ],
    "media": {
-    "img": "media/img/social-media.webp"
+    "img": "media/img/social-media.webp",
+    "uk": "media/word/social-media.mp3",
+    "us": "media/word/social-media.mp3"
    },
    "hook": {
     "kind": "split",
@@ -525,7 +529,9 @@
     }
    ],
    "media": {
-    "img": "media/img/text-message.webp"
+    "img": "media/img/text-message.webp",
+    "uk": "media/word/text-message.mp3",
+    "us": "media/word/text-message.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1266,7 +1272,10 @@
      "audio": "media/sent/b89d1d7f4826.mp3"
     }
    ],
-   "media": {},
+   "media": {
+    "uk": "media/word/details.mp3",
+    "us": "media/word/details.mp3"
+   },
    "hook": {
     "kind": "affix",
     "text": "detail（细节）+ s（复数）= details 细节"
@@ -1422,7 +1431,9 @@
     }
    ],
    "media": {
-    "img": "media/img/page.webp"
+    "img": "media/img/page.webp",
+    "uk": "media/word/page.mp3",
+    "us": "media/word/page.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1793,7 +1804,9 @@
     }
    ],
    "media": {
-    "img": "media/img/pence.webp"
+    "img": "media/img/pence.webp",
+    "uk": "media/word/pence.mp3",
+    "us": "media/word/pence.mp3"
    },
    "hook": {
     "kind": "contrast",
@@ -1945,7 +1958,9 @@
     }
    ],
    "media": {
-    "img": "media/img/advert.webp"
+    "img": "media/img/advert.webp",
+    "uk": "media/word/advert.mp3",
+    "us": "media/word/advert.mp3"
    },
    "avoid": [
     "notice",

@@ -720,7 +720,9 @@
     }
    ],
    "media": {
-    "img": "media/img/fill-in.webp"
+    "img": "media/img/fill-in.webp",
+    "uk": "media/word/fill-in.mp3",
+    "us": "media/word/fill-in.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1239,7 +1241,9 @@
     }
    ],
    "media": {
-    "img": "media/img/pack.webp"
+    "img": "media/img/pack.webp",
+    "uk": "media/word/pack.mp3",
+    "us": "media/word/pack.mp3"
    },
    "avoid": []
   },
@@ -1900,7 +1904,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tidy-up.webp"
+    "img": "media/img/tidy-up.webp",
+    "uk": "media/word/tidy-up.mp3",
+    "us": "media/word/tidy-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2009,7 +2015,9 @@
     }
    ],
    "media": {
-    "img": "media/img/washing-up.webp"
+    "img": "media/img/washing-up.webp",
+    "uk": "media/word/washing-up.mp3",
+    "us": "media/word/washing-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2064,7 +2072,9 @@
     }
    ],
    "media": {
-    "img": "media/img/break-down.webp"
+    "img": "media/img/break-down.webp",
+    "uk": "media/word/break-down.mp3",
+    "us": "media/word/break-down.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2167,7 +2177,9 @@
     }
    ],
    "media": {
-    "img": "media/img/look-after.webp"
+    "img": "media/img/look-after.webp",
+    "uk": "media/word/look-after.mp3",
+    "us": "media/word/look-after.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2218,7 +2230,9 @@
     }
    ],
    "media": {
-    "img": "media/img/look-for.webp"
+    "img": "media/img/look-for.webp",
+    "uk": "media/word/look-for.mp3",
+    "us": "media/word/look-for.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2269,7 +2283,9 @@
     }
    ],
    "media": {
-    "img": "media/img/look-out.webp"
+    "img": "media/img/look-out.webp",
+    "uk": "media/word/look-out.mp3",
+    "us": "media/word/look-out.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2524,7 +2540,9 @@
     }
    ],
    "media": {
-    "img": "media/img/wake-up.webp"
+    "img": "media/img/wake-up.webp",
+    "uk": "media/word/wake-up.mp3",
+    "us": "media/word/wake-up.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2678,7 +2696,9 @@
     }
    ],
    "media": {
-    "img": "media/img/put-on.webp"
+    "img": "media/img/put-on.webp",
+    "uk": "media/word/put-on.mp3",
+    "us": "media/word/put-on.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2729,7 +2749,9 @@
     }
    ],
    "media": {
-    "img": "media/img/turn-off.webp"
+    "img": "media/img/turn-off.webp",
+    "uk": "media/word/turn-off.mp3",
+    "us": "media/word/turn-off.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2782,7 +2804,9 @@
     }
    ],
    "media": {
-    "img": "media/img/turn-on.webp"
+    "img": "media/img/turn-on.webp",
+    "uk": "media/word/turn-on.mp3",
+    "us": "media/word/turn-on.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2887,7 +2911,9 @@
     }
    ],
    "media": {
-    "img": "media/img/write-down.webp"
+    "img": "media/img/write-down.webp",
+    "uk": "media/word/write-down.mp3",
+    "us": "media/word/write-down.mp3"
    },
    "hook": {
     "kind": "split",

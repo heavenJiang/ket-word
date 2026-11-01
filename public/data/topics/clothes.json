@@ -157,7 +157,9 @@
     }
    ],
    "media": {
-    "img": "media/img/bathing-suit.webp"
+    "img": "media/img/bathing-suit.webp",
+    "uk": "media/word/bathing-suit.mp3",
+    "us": "media/word/bathing-suit.mp3"
    },
    "hook": {
     "kind": "split",
@@ -754,7 +756,9 @@
     }
    ],
    "media": {
-    "img": "media/img/earring.webp"
+    "img": "media/img/earring.webp",
+    "uk": "media/word/earring.mp3",
+    "us": "media/word/earring.mp3"
    },
    "hook": {
     "kind": "split",
@@ -865,7 +869,9 @@
     }
    ],
    "media": {
-    "img": "media/img/get-dressed.webp"
+    "img": "media/img/get-dressed.webp",
+    "uk": "media/word/get-dressed.mp3",
+    "us": "media/word/get-dressed.mp3"
    },
    "hook": {
     "kind": "split",
@@ -1138,7 +1144,9 @@
     }
    ],
    "media": {
-    "img": "media/img/hoodie.webp"
+    "img": "media/img/hoodie.webp",
+    "uk": "media/word/hoodie.mp3",
+    "us": "media/word/hoodie.mp3"
    },
    "avoid": [
     "jumper",
@@ -2349,7 +2357,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimming-costume.webp"
+    "img": "media/img/swimming-costume.webp",
+    "uk": "media/word/swimming-costume.mp3",
+    "us": "media/word/swimming-costume.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2404,7 +2414,9 @@
     }
    ],
    "media": {
-    "img": "media/img/swimsuit.webp"
+    "img": "media/img/swimsuit.webp",
+    "uk": "media/word/swimsuit.mp3",
+    "us": "media/word/swimsuit.mp3"
    },
    "hook": {
     "kind": "split",
@@ -2517,7 +2529,9 @@
     }
    ],
    "media": {
-    "img": "media/img/tights.webp"
+    "img": "media/img/tights.webp",
+    "uk": "media/word/tights.mp3",
+    "us": "media/word/tights.mp3"
    },
    "hook": {
     "kind": "affix",
@@ -2626,7 +2640,9 @@
     }
    ],
    "media": {
-    "img": "media/img/try-on.webp"
+    "img": "media/img/try-on.webp",
+    "uk": "media/word/try-on.mp3",
+    "us": "media/word/try-on.mp3"
    },
    "hook": {
     "kind": "split",
