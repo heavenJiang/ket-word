@@ -30,23 +30,23 @@
     {
      "en": "A lizard is a small creature.",
      "zh": "蜥蜴是一种小生物。",
-     "audio": "media/sent/d9b020f45f87.mp3"
+     "audio": "media/sent/d9b020f45f87.mp3?v=188288da"
     },
     {
      "en": "Dinosaurs were huge creatures.",
      "zh": "恐龙是巨大的生物。",
-     "audio": "media/sent/a02cf471aa10.mp3"
+     "audio": "media/sent/a02cf471aa10.mp3?v=15882cb8"
     },
     {
      "en": "What is your favourite sea creature?",
      "zh": "你最喜欢的海洋生物是什么？",
-     "audio": "media/sent/d175882cc72c.mp3"
+     "audio": "media/sent/d175882cc72c.mp3?v=81194020"
     }
    ],
    "media": {
-    "img": "media/img/creature.webp",
-    "uk": "media/uk/creature.mp3",
-    "us": "media/us/creature.mp3"
+    "img": "media/img/creature.webp?v=3e5a84d7",
+    "uk": "media/uk/creature.mp3?v=6e2f9784",
+    "us": "media/us/creature.mp3?v=31c7a4c5"
    },
    "hook": {
     "kind": "contrast",
@@ -86,23 +86,23 @@
     {
      "en": "Sam rides a donkey.",
      "zh": "Sam 骑着一头驴。",
-     "audio": "media/sent/f8c51c67acb3.mp3"
+     "audio": "media/sent/f8c51c67acb3.mp3?v=b4a54747"
     },
     {
      "en": "The donkey eats some grass.",
      "zh": "这头驴在吃草。",
-     "audio": "media/sent/2783a628fcc0.mp3"
+     "audio": "media/sent/2783a628fcc0.mp3?v=c3675a5a"
     },
     {
      "en": "Grandpa has a brown donkey on the farm.",
      "zh": "爷爷农场里有一头棕色的驴。",
-     "audio": "media/sent/76a49920d4c5.mp3"
+     "audio": "media/sent/76a49920d4c5.mp3?v=496820e9"
     }
    ],
    "media": {
-    "img": "media/img/donkey.webp",
-    "uk": "media/uk/donkey.mp3",
-    "us": "media/us/donkey.mp3"
+    "img": "media/img/donkey.webp?v=64be8ebe",
+    "uk": "media/uk/donkey.mp3?v=eda5b0b4",
+    "us": "media/us/donkey.mp3?v=41a937b0"
    },
    "hook": {
     "kind": "contrast",
@@ -139,23 +139,23 @@
     {
      "en": "An eagle flies in the sky.",
      "zh": "一只鹰在天空中飞翔。",
-     "audio": "media/sent/c4d81fd31270.mp3"
+     "audio": "media/sent/c4d81fd31270.mp3?v=56e40306"
     },
     {
      "en": "The eagle has big feet.",
      "zh": "这只鹰有大脚。",
-     "audio": "media/sent/806d9c5f19cd.mp3"
+     "audio": "media/sent/806d9c5f19cd.mp3?v=2717c3d1"
     },
     {
      "en": "We saw an eagle near the mountains.",
      "zh": "我们在山附近看到了一只鹰。",
-     "audio": "media/sent/460a2604820c.mp3"
+     "audio": "media/sent/460a2604820c.mp3?v=7b237b89"
     }
    ],
    "media": {
-    "img": "media/img/eagle.webp",
-    "uk": "media/uk/eagle.mp3",
-    "us": "media/us/eagle.mp3"
+    "img": "media/img/eagle.webp?v=ce8d7a60",
+    "uk": "media/uk/eagle.mp3?v=b4bf652c",
+    "us": "media/us/eagle.mp3?v=194791b3"
    },
    "avoid": []
   },
@@ -188,23 +188,23 @@
     {
      "en": "The hippo is in the water.",
      "zh": "河马在水里。",
-     "audio": "media/sent/786e3d759a25.mp3"
+     "audio": "media/sent/786e3d759a25.mp3?v=8b3c4c36"
     },
     {
      "en": "Hippos have big mouths.",
      "zh": "河马有大嘴巴。",
-     "audio": "media/sent/b52a18d3f0cb.mp3"
+     "audio": "media/sent/b52a18d3f0cb.mp3?v=f5dcc18f"
     },
     {
      "en": "Look at that big hippo!",
      "zh": "看那只大河马！",
-     "audio": "media/sent/68b01cfc3bec.mp3"
+     "audio": "media/sent/68b01cfc3bec.mp3?v=d341ba18"
     }
    ],
    "media": {
-    "img": "media/img/hippo.webp",
-    "uk": "media/word/hippo.mp3",
-    "us": "media/word/hippo.mp3"
+    "img": "media/img/hippo.webp?v=c762c759",
+    "uk": "media/word/hippo.mp3?v=cd627c9a",
+    "us": "media/word/hippo.mp3?v=cd627c9a"
    },
    "avoid": []
   },
@@ -238,23 +238,23 @@
     {
      "en": "A jellyfish is in the sea.",
      "zh": "一只水母在海里。",
-     "audio": "media/sent/aa411e264e4e.mp3"
+     "audio": "media/sent/aa411e264e4e.mp3?v=d2d50cf9"
     },
     {
      "en": "Look at the jellyfish!",
      "zh": "看那只水母！",
-     "audio": "media/sent/f67a504143e1.mp3"
+     "audio": "media/sent/f67a504143e1.mp3?v=88350ef7"
     },
     {
      "en": "Jellyfish are soft animals.",
      "zh": "水母是柔软的动物。",
-     "audio": "media/sent/8457a6bd09a9.mp3"
+     "audio": "media/sent/8457a6bd09a9.mp3?v=4d6c2a08"
     }
    ],
    "media": {
-    "img": "media/img/jellyfish.webp",
-    "uk": "media/uk/jellyfish.mp3",
-    "us": "media/us/jellyfish.mp3"
+    "img": "media/img/jellyfish.webp?v=2342aad6",
+    "uk": "media/uk/jellyfish.mp3?v=9bf5574f",
+    "us": "media/us/jellyfish.mp3?v=49f0f958"
    },
    "avoid": []
   },
@@ -287,23 +287,23 @@
     {
      "en": "The lizard is green.",
      "zh": "这只蜥蜴是绿色的。",
-     "audio": "media/sent/8ab91ddb2ca0.mp3"
+     "audio": "media/sent/8ab91ddb2ca0.mp3?v=687b0252"
     },
     {
      "en": "Lizards like warm sunny days.",
      "zh": "蜥蜴喜欢温暖的晴天。",
-     "audio": "media/sent/f7a6bd1368cd.mp3"
+     "audio": "media/sent/f7a6bd1368cd.mp3?v=a4a32b6b"
     },
     {
      "en": "Is that a small lizard?",
      "zh": "那是一只小蜥蜴吗？",
-     "audio": "media/sent/fb4e399c3c1c.mp3"
+     "audio": "media/sent/fb4e399c3c1c.mp3?v=ee4323d1"
     }
    ],
    "media": {
-    "img": "media/img/lizard.webp",
-    "uk": "media/uk/lizard.mp3",
-    "us": "media/us/lizard.mp3"
+    "img": "media/img/lizard.webp?v=d9912a9d",
+    "uk": "media/uk/lizard.mp3?v=dda0fc4b",
+    "us": "media/us/lizard.mp3?v=edb08634"
    },
    "avoid": [
     "creature"
@@ -337,23 +337,23 @@
     {
      "en": "There is a bird in the nest.",
      "zh": "鸟巢里有一只鸟。",
-     "audio": "media/sent/8a58c09ae69f.mp3"
+     "audio": "media/sent/8a58c09ae69f.mp3?v=34151f1c"
     },
     {
      "en": "The birds built a new nest.",
      "zh": "鸟儿们建了一个新巢。",
-     "audio": "media/sent/1d936f52278d.mp3"
+     "audio": "media/sent/1d936f52278d.mp3?v=200ed3e3"
     },
     {
      "en": "Look at the nest in the tree!",
      "zh": "看树上的鸟巢！",
-     "audio": "media/sent/37f7513b3aa3.mp3"
+     "audio": "media/sent/37f7513b3aa3.mp3?v=c4437fc4"
     }
    ],
    "media": {
-    "img": "media/img/nest.webp",
-    "uk": "media/uk/nest.mp3",
-    "us": "media/us/nest.mp3"
+    "img": "media/img/nest.webp?v=56fa0def",
+    "uk": "media/uk/nest.mp3?v=5a341adf",
+    "us": "media/us/nest.mp3?v=4e3cb1a1"
    },
    "hook": {
     "kind": "contrast",
@@ -391,23 +391,23 @@
     {
      "en": "An octopus has eight arms.",
      "zh": "章鱼有八条手臂。",
-     "audio": "media/sent/1e02aca82fdf.mp3"
+     "audio": "media/sent/1e02aca82fdf.mp3?v=02b6072a"
     },
     {
      "en": "The octopus is under a rock.",
      "zh": "这只章鱼在岩石下面。",
-     "audio": "media/sent/499b305b0891.mp3"
+     "audio": "media/sent/499b305b0891.mp3?v=58be25c5"
     },
     {
      "en": "We saw an octopus at the zoo.",
      "zh": "我们在动物园看到了一只章鱼。",
-     "audio": "media/sent/d9d97c83b5c5.mp3"
+     "audio": "media/sent/d9d97c83b5c5.mp3?v=5187635c"
     }
    ],
    "media": {
-    "img": "media/img/octopus.webp",
-    "uk": "media/uk/octopus.mp3",
-    "us": "media/us/octopus.mp3"
+    "img": "media/img/octopus.webp?v=efe4ad51",
+    "uk": "media/uk/octopus.mp3?v=c9a2cdde",
+    "us": "media/us/octopus.mp3?v=827100ec"
    },
    "avoid": []
   },
@@ -440,23 +440,23 @@
     {
      "en": "Pandas eat plants.",
      "zh": "熊猫吃植物。",
-     "audio": "media/sent/ac5543fddf1d.mp3"
+     "audio": "media/sent/ac5543fddf1d.mp3?v=cbb47b01"
     },
     {
      "en": "Pandas live in China.",
      "zh": "熊猫生活在中国。",
-     "audio": "media/sent/ad5f64597115.mp3"
+     "audio": "media/sent/ad5f64597115.mp3?v=a497b2b6"
     },
     {
      "en": "This baby panda is nice.",
      "zh": "这只熊猫宝宝很好。",
-     "audio": "media/sent/06eec1dfb480.mp3"
+     "audio": "media/sent/06eec1dfb480.mp3?v=8892066b"
     }
    ],
    "media": {
-    "img": "media/img/panda.webp",
-    "uk": "media/uk/panda.mp3",
-    "us": "media/us/panda.mp3"
+    "img": "media/img/panda.webp?v=2c046602",
+    "uk": "media/uk/panda.mp3?v=a8070a17",
+    "us": "media/us/panda.mp3?v=6b2ab011"
    },
    "avoid": []
   },
@@ -488,23 +488,23 @@
     {
      "en": "The snail is very slow.",
      "zh": "这只蜗牛很慢。",
-     "audio": "media/sent/6a68f79c5646.mp3"
+     "audio": "media/sent/6a68f79c5646.mp3?v=e078cb3a"
     },
     {
      "en": "I found a snail in the garden.",
      "zh": "我在花园里发现了一只蜗牛。",
-     "audio": "media/sent/03a550a12559.mp3"
+     "audio": "media/sent/03a550a12559.mp3?v=789aac11"
     },
     {
      "en": "The snail carries its house on its back.",
      "zh": "蜗牛背着它的房子。",
-     "audio": "media/sent/7b5fb94d5a37.mp3"
+     "audio": "media/sent/7b5fb94d5a37.mp3?v=d583aa15"
     }
    ],
    "media": {
-    "img": "media/img/snail.webp",
-    "uk": "media/word/snail.mp3",
-    "us": "media/word/snail.mp3"
+    "img": "media/img/snail.webp?v=d74fdf80",
+    "uk": "media/word/snail.mp3?v=5165c26d",
+    "us": "media/word/snail.mp3?v=5165c26d"
    },
    "hook": {
     "kind": "contrast",
@@ -541,23 +541,23 @@
     {
      "en": "Dinosaurs are extinct now.",
      "zh": "恐龙现在已经灭绝了。",
-     "audio": "media/sent/e31e3b3577ef.mp3"
+     "audio": "media/sent/e31e3b3577ef.mp3?v=2704e7dc"
     },
     {
      "en": "Some animals are extinct.",
      "zh": "有些动物已经灭绝了。",
-     "audio": "media/sent/b4f1e343a9f8.mp3"
+     "audio": "media/sent/b4f1e343a9f8.mp3?v=638bcade"
     },
     {
      "en": "That bird is extinct.",
      "zh": "那只鸟已灭绝。",
-     "audio": "media/sent/afc4c664d9a6.mp3"
+     "audio": "media/sent/afc4c664d9a6.mp3?v=3d3389ad"
     }
    ],
    "media": {
-    "img": "media/img/extinct.webp",
-    "uk": "media/uk/extinct.mp3",
-    "us": "media/us/extinct.mp3"
+    "img": "media/img/extinct.webp?v=3cb786ad",
+    "uk": "media/uk/extinct.mp3?v=04c8ed26",
+    "us": "media/us/extinct.mp3?v=1bffedb2"
    },
    "avoid": [
     "creature"
@@ -594,23 +594,23 @@
     {
      "en": "We help the environment.",
      "zh": "我们帮助保护环境。",
-     "audio": "media/sent/3c232a4c82ee.mp3"
+     "audio": "media/sent/3c232a4c82ee.mp3?v=1901fbf5"
     },
     {
      "en": "Please keep our environment clean.",
      "zh": "请保持我们的环境清洁。",
-     "audio": "media/sent/019dbf39ba74.mp3"
+     "audio": "media/sent/019dbf39ba74.mp3?v=378a2b75"
     },
     {
      "en": "Trees are good for the environment.",
      "zh": "树木对环境有益。",
-     "audio": "media/sent/5e678b7a8b3b.mp3"
+     "audio": "media/sent/5e678b7a8b3b.mp3?v=43a752d0"
     }
    ],
    "media": {
-    "img": "media/img/environment.webp",
-    "uk": "media/uk/environment.mp3",
-    "us": "media/us/environment.mp3"
+    "img": "media/img/environment.webp?v=52fd1131",
+    "uk": "media/uk/environment.mp3?v=e3207a98",
+    "us": "media/us/environment.mp3?v=1df2460d"
    },
    "hook": {
     "kind": "story",
@@ -649,23 +649,23 @@
     {
      "en": "We walk in nature.",
      "zh": "我们在大自然中散步。",
-     "audio": "media/sent/8fe9cbdf776e.mp3"
+     "audio": "media/sent/8fe9cbdf776e.mp3?v=cec3c72b"
     },
     {
      "en": "I love learning about nature.",
      "zh": "我喜欢了解自然。",
-     "audio": "media/sent/4353dfd4fa5d.mp3"
+     "audio": "media/sent/4353dfd4fa5d.mp3?v=c7ec3524"
     },
     {
      "en": "The school trip is in nature.",
      "zh": "学校的郊游是在大自然中。",
-     "audio": "media/sent/e20e5ea7283d.mp3"
+     "audio": "media/sent/e20e5ea7283d.mp3?v=3c30175b"
     }
    ],
    "media": {
-    "img": "media/img/nature.webp",
-    "uk": "media/uk/nature.mp3",
-    "us": "media/us/nature.mp3"
+    "img": "media/img/nature.webp?v=bdaf8467",
+    "uk": "media/uk/nature.mp3?v=2b61db32",
+    "us": "media/us/nature.mp3?v=daac428f"
    },
    "avoid": [
     "environment"

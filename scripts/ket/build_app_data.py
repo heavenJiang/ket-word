@@ -15,6 +15,7 @@ Writes:
 
 from __future__ import annotations
 
+import hashlib
 import importlib.util
 import json
 import re
@@ -71,6 +72,18 @@ def senses_of(w: dict, it: dict, parent: dict | None = None) -> list[dict]:
     if w.get("senses"):
         return [{"pos": s[0], "zh": s[1], **({"en": s[2]} if len(s) > 2 else {})} for s in w["senses"]]
     return [{"pos": w.get("pos") or it["pos"], "zh": w["zh"]}]
+
+
+def stamp(x):
+    """Add a content hash to every media path ("media/img/cat.webp?v=1a2b3c4d"), so a redrawn picture or a
+    re-recorded sentence gets a new address and the app's offline cache (public/sw.js) fetches it again."""
+    if isinstance(x, dict):
+        return {k: stamp(v) for k, v in x.items()}
+    if isinstance(x, list):
+        return [stamp(v) for v in x]
+    if isinstance(x, str) and x.startswith("media/") and (f := MEDIA.parent / x).is_file():
+        return f"{x}?v={hashlib.sha1(f.read_bytes()).hexdigest()[:8]}"
+    return x
 
 
 def sentence(en: str, zh: str, recorded: dict, used_media: set[str]) -> dict:
@@ -284,15 +297,18 @@ def main() -> None:
             raise SystemExit(f"{tid}: no illustration for {bare}; draw content/media/svg/<id>.svg "
                              "(render_svg.mjs) or generate one (gen_comfy.py / gen_images.py)")
         (OUT / "topics" / f"{tid}.json").write_text(
-            json.dumps({"id": tid, "words": entries}, ensure_ascii=False, indent=1), encoding="utf-8")
+            json.dumps(stamp({"id": tid, "words": entries}), ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{tid}: {len(entries)} words, {sum(1 for e in entries if 'img' in e['media'])} illustrated")
 
     unknown, no_gap, total = check_sentences.check(list(content))
+    if unknown or no_gap:
+        raise SystemExit(f"{len(unknown)} sentences use words off the KET list, {len(no_gap)} words have no "
+                         "fill-in-the-gap sentence: run scripts/ket/check_sentences.py")
     s_unknown, _ = check_sentences.check_stories()
     if s_unknown:
         raise SystemExit("stories use words off the KET list:\n  " + "\n  ".join(s_unknown))
     stories = build_stories(content, used_media)
-    (OUT / "stories.json").write_text(json.dumps(stories, ensure_ascii=False, indent=1), encoding="utf-8")
+    (OUT / "stories.json").write_text(json.dumps(stamp(stories), ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"stories: {len(stories)}")
 
     # drop media no longer referenced, e.g. an illustration blocked after review; after the stories, which
@@ -302,8 +318,7 @@ def main() -> None:
             f.unlink()
             print(f"  - removed {f.relative_to(ROOT)}")
 
-    print(f"sentences: {total}, off the KET list: {len(unknown)}, words without a gap sentence: {len(no_gap)}"
-          + ("  (run scripts/ket/check_sentences.py)" if unknown or no_gap else ""))
+    print(f"sentences: {total}, all on the KET list, every word with a gap sentence")
 
     (OUT / "index.json").write_text(json.dumps({
         "source": words["source"],

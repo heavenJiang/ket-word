@@ -31,23 +31,23 @@
     {
      "en": "We play in the park in the afternoon.",
      "zh": "我们下午在公园玩。",
-     "audio": "media/sent/12b641b8aa65.mp3"
+     "audio": "media/sent/12b641b8aa65.mp3?v=c57be622"
     },
     {
      "en": "See you this afternoon!",
      "zh": "下午见！",
-     "audio": "media/sent/cf141aeb2482.mp3"
+     "audio": "media/sent/cf141aeb2482.mp3?v=aa70408c"
     },
     {
      "en": "Grandpa has a rest every afternoon.",
      "zh": "爷爷每天下午都休息一会儿。",
-     "audio": "media/sent/c1a9a9421233.mp3"
+     "audio": "media/sent/c1a9a9421233.mp3?v=d632932d"
     }
    ],
    "media": {
-    "img": "media/img/afternoon.webp",
-    "uk": "media/uk/afternoon.mp3",
-    "us": "media/us/afternoon.mp3"
+    "img": "media/img/afternoon.webp?v=292610b0",
+    "uk": "media/uk/afternoon.mp3?v=0d37f3e5",
+    "us": "media/us/afternoon.mp3?v=1f8466be"
    },
    "spell": true,
    "hook": {
@@ -89,23 +89,23 @@
     {
      "en": "School starts at 9 a.m.",
      "zh": "学校上午九点上课。",
-     "audio": "media/sent/b90163171a06.mp3"
+     "audio": "media/sent/b90163171a06.mp3?v=7c14e762"
     },
     {
      "en": "Tom gets up at 7 a.m.",
      "zh": "Tom 上午七点起床。",
-     "audio": "media/sent/8490e2f3e488.mp3"
+     "audio": "media/sent/8490e2f3e488.mp3?v=d877c88a"
     },
     {
      "en": "We have maths at 11 a.m.",
      "zh": "我们上午十一点上数学课。",
-     "audio": "media/sent/a84b90a636e3.mp3"
+     "audio": "media/sent/a84b90a636e3.mp3?v=467e1823"
     }
    ],
    "media": {
-    "img": "media/img/a-m.webp",
-    "uk": "media/uk/a-m.mp3",
-    "us": "media/us/a-m.mp3"
+    "img": "media/img/a-m.webp?v=c90d8508",
+    "uk": "media/uk/a-m.mp3?v=f4a6f3e3",
+    "us": "media/us/a-m.mp3?v=9e8280e6"
    },
    "spell": true,
    "avoid": [
@@ -143,23 +143,23 @@
     {
      "en": "Dinner is at 6 p.m.",
      "zh": "晚饭在晚上六点。",
-     "audio": "media/sent/455b7bcf0527.mp3"
+     "audio": "media/sent/455b7bcf0527.mp3?v=fadaa3a4"
     },
     {
      "en": "We watch a film at 3 p.m.",
      "zh": "我们下午三点看电影。",
-     "audio": "media/sent/5f1b25dcd46a.mp3"
+     "audio": "media/sent/5f1b25dcd46a.mp3?v=3d4a7042"
     },
     {
      "en": "The shop closes at 5 p.m.",
      "zh": "商店下午五点关门。",
-     "audio": "media/sent/614a27c4b199.mp3"
+     "audio": "media/sent/614a27c4b199.mp3?v=d2d4016c"
     }
    ],
    "media": {
-    "img": "media/img/p-m.webp",
-    "uk": "media/uk/p-m.mp3",
-    "us": "media/us/p-m.mp3"
+    "img": "media/img/p-m.webp?v=fd40adc7",
+    "uk": "media/uk/p-m.mp3?v=13439ca1",
+    "us": "media/us/p-m.mp3?v=851960c8"
    },
    "spell": true,
    "avoid": [
@@ -197,23 +197,23 @@
     {
      "en": "It's three o'clock.",
      "zh": "现在三点了。",
-     "audio": "media/sent/3350d746ffa3.mp3"
+     "audio": "media/sent/3350d746ffa3.mp3?v=bd8e9da8"
     },
     {
      "en": "Tom goes to bed at eight o'clock.",
      "zh": "Tom 八点钟上床睡觉。",
-     "audio": "media/sent/e99984427158.mp3"
+     "audio": "media/sent/e99984427158.mp3?v=15d7ac7c"
     },
     {
      "en": "The film starts at seven o'clock.",
      "zh": "电影七点钟开始。",
-     "audio": "media/sent/b135e8b1842e.mp3"
+     "audio": "media/sent/b135e8b1842e.mp3?v=fd512f75"
     }
    ],
    "media": {
-    "img": "media/img/o-clock.webp",
-    "uk": "media/uk/o-clock.mp3",
-    "us": "media/us/o-clock.mp3"
+    "img": "media/img/o-clock.webp?v=38defa4d",
+    "uk": "media/uk/o-clock.mp3?v=be027496",
+    "us": "media/us/o-clock.mp3?v=df370d0e"
    },
    "spell": true,
    "avoid": [
@@ -251,23 +251,23 @@
     {
      "en": "The clock says eight o'clock.",
      "zh": "钟上显示八点了。",
-     "audio": "media/sent/708189057be2.mp3"
+     "audio": "media/sent/708189057be2.mp3?v=2488e51e"
     },
     {
      "en": "Dad looks at the clock.",
      "zh": "爸爸看了看钟。",
-     "audio": "media/sent/ebb7678f603e.mp3"
+     "audio": "media/sent/ebb7678f603e.mp3?v=ccfe57f8"
     },
     {
      "en": "There is a clock in the kitchen.",
      "zh": "厨房里有一个钟。",
-     "audio": "media/sent/4feb05d250a0.mp3"
+     "audio": "media/sent/4feb05d250a0.mp3?v=a6fa5b16"
     }
    ],
    "media": {
-    "img": "media/img/clock.webp",
-    "uk": "media/uk/clock.mp3",
-    "us": "media/us/clock.mp3"
+    "img": "media/img/clock.webp?v=604682be",
+    "uk": "media/uk/clock.mp3?v=12c5385e",
+    "us": "media/us/clock.mp3?v=97d0ff73"
    },
    "spell": true,
    "avoid": [
@@ -305,23 +305,23 @@
     {
      "en": "The film is two hours long.",
      "zh": "这部电影有两个小时长。",
-     "audio": "media/sent/e65ee79cc39c.mp3"
+     "audio": "media/sent/e65ee79cc39c.mp3?v=b099eba2"
     },
     {
      "en": "We swim for an hour.",
      "zh": "我们游一个小时。",
-     "audio": "media/sent/d4ad71638e6f.mp3"
+     "audio": "media/sent/d4ad71638e6f.mp3?v=538ef78f"
     },
     {
      "en": "We have an hour for lunch.",
      "zh": "我们午饭有一个小时。",
-     "audio": "media/sent/f8dc39329eb8.mp3"
+     "audio": "media/sent/f8dc39329eb8.mp3?v=93624dac"
     }
    ],
    "media": {
-    "img": "media/img/hour.webp",
-    "uk": "media/uk/hour.mp3",
-    "us": "media/us/hour.mp3"
+    "img": "media/img/hour.webp?v=c9d6381f",
+    "uk": "media/uk/hour.mp3?v=898f94b2",
+    "us": "media/us/hour.mp3?v=effffba9"
    },
    "spell": true,
    "avoid": [
@@ -359,23 +359,23 @@
     {
      "en": "Wait a minute, please!",
      "zh": "请稍等一分钟！",
-     "audio": "media/sent/f8b44838ff6a.mp3"
+     "audio": "media/sent/f8b44838ff6a.mp3?v=30021029"
     },
     {
      "en": "Our lessons are forty minutes long.",
      "zh": "我们的课四十分钟长。",
-     "audio": "media/sent/cd56082d7036.mp3"
+     "audio": "media/sent/cd56082d7036.mp3?v=2e8d915e"
     },
     {
      "en": "I can swim fifty metres in one minute.",
      "zh": "我一分钟能游五十米。",
-     "audio": "media/sent/b244ba1b0585.mp3"
+     "audio": "media/sent/b244ba1b0585.mp3?v=efbcd6e2"
     }
    ],
    "media": {
-    "img": "media/img/minute.webp",
-    "uk": "media/uk/minute.mp3",
-    "us": "media/us/minute.mp3"
+    "img": "media/img/minute.webp?v=ea0b8b5c",
+    "uk": "media/uk/minute.mp3?v=0b576a75",
+    "us": "media/us/minute.mp3?v=960c39b3"
    },
    "spell": true,
    "avoid": [
@@ -423,23 +423,23 @@
     {
      "en": "One, two, three: that is three seconds!",
      "zh": "一、二、三：那是三秒！",
-     "audio": "media/sent/0ef0cded8df6.mp3"
+     "audio": "media/sent/0ef0cded8df6.mp3?v=28189804"
     },
     {
      "en": "Max runs ten metres in two seconds.",
      "zh": "Max 两秒就跑完十米。",
-     "audio": "media/sent/89f449c14459.mp3"
+     "audio": "media/sent/89f449c14459.mp3?v=3267590e"
     },
     {
      "en": "Wait a second, Tom!",
      "zh": "等一下，Tom！",
-     "audio": "media/sent/99586d35f63b.mp3"
+     "audio": "media/sent/99586d35f63b.mp3?v=6c5b954a"
     }
    ],
    "media": {
-    "img": "media/img/second.webp",
-    "uk": "media/uk/second.mp3",
-    "us": "media/us/second.mp3"
+    "img": "media/img/second.webp?v=99740a3a",
+    "uk": "media/uk/second.mp3?v=5f40f949",
+    "us": "media/us/second.mp3?v=050f3809"
    },
    "spell": true,
    "avoid": [
@@ -487,23 +487,23 @@
     {
      "en": "Lily is second in the race.",
      "zh": "Lily 赛跑得了第二名。",
-     "audio": "media/sent/eef76f2abef3.mp3"
+     "audio": "media/sent/eef76f2abef3.mp3?v=7efc2664"
     },
     {
      "en": "Sam is second in our class.",
      "zh": "Sam 在我们班排第二。",
-     "audio": "media/sent/d8371187230a.mp3"
+     "audio": "media/sent/d8371187230a.mp3?v=53adfec1"
     },
     {
      "en": "Tom gets the second prize.",
      "zh": "Tom 得了二等奖。",
-     "audio": "media/sent/d24af4e30ebe.mp3"
+     "audio": "media/sent/d24af4e30ebe.mp3?v=722585a2"
     }
    ],
    "media": {
-    "img": "media/img/second.2.webp",
-    "uk": "media/uk/second.mp3",
-    "us": "media/us/second.mp3"
+    "img": "media/img/second.2.webp?v=57b497b4",
+    "uk": "media/uk/second.mp3?v=5f40f949",
+    "us": "media/us/second.mp3?v=050f3809"
    },
    "of": "second",
    "ofZh": "秒",
@@ -543,23 +543,23 @@
     {
      "en": "I eat half an apple.",
      "zh": "我吃半个苹果。",
-     "audio": "media/sent/721fe88c9443.mp3"
+     "audio": "media/sent/721fe88c9443.mp3?v=69e3c1d9"
     },
     {
      "en": "Tom gets up at half past six.",
      "zh": "Tom 六点半起床。",
-     "audio": "media/sent/8545c2885698.mp3"
+     "audio": "media/sent/8545c2885698.mp3?v=9163d278"
     },
     {
      "en": "Tom eats half of the cake.",
      "zh": "Tom 吃了半个蛋糕。",
-     "audio": "media/sent/439a9627fd5b.mp3"
+     "audio": "media/sent/439a9627fd5b.mp3?v=4b2cae60"
     }
    ],
    "media": {
-    "img": "media/img/half.webp",
-    "uk": "media/uk/half.mp3",
-    "us": "media/us/half.mp3"
+    "img": "media/img/half.webp?v=819d28de",
+    "uk": "media/uk/half.mp3?v=05f39ce7",
+    "us": "media/us/half.mp3?v=7ce5da34"
    },
    "spell": true,
    "avoid": [
@@ -605,23 +605,23 @@
     {
      "en": "It's half past three.",
      "zh": "现在三点半了。",
-     "audio": "media/sent/7c5da36130eb.mp3"
+     "audio": "media/sent/7c5da36130eb.mp3?v=8a7e491d"
     },
     {
      "en": "It's ten past nine.",
      "zh": "现在九点过十分了。",
-     "audio": "media/sent/0b68ddf8a15a.mp3"
+     "audio": "media/sent/0b68ddf8a15a.mp3?v=688f72ba"
     },
     {
      "en": "Dad walks past the park.",
      "zh": "爸爸走过公园旁边。",
-     "audio": "media/sent/b7c183022f3b.mp3"
+     "audio": "media/sent/b7c183022f3b.mp3?v=ba77629d"
     }
    ],
    "media": {
-    "img": "media/img/past.webp",
-    "uk": "media/word/past.mp3",
-    "us": "media/word/past.mp3"
+    "img": "media/img/past.webp?v=7ed21370",
+    "uk": "media/word/past.mp3?v=d3e19980",
+    "us": "media/word/past.mp3?v=d3e19980"
    },
    "hook": {
     "kind": "contrast",
@@ -669,23 +669,23 @@
     {
      "en": "What time is it?",
      "zh": "现在几点了？",
-     "audio": "media/sent/5502102736dd.mp3"
+     "audio": "media/sent/5502102736dd.mp3?v=a316d594"
     },
     {
      "en": "It's time for dinner.",
      "zh": "该吃晚饭了。",
-     "audio": "media/sent/9fdec98c4875.mp3"
+     "audio": "media/sent/9fdec98c4875.mp3?v=9e0ce5b7"
     },
     {
      "en": "I go swimming three times a week.",
      "zh": "我一周去游泳三次。",
-     "audio": "media/sent/a1566b3b883d.mp3"
+     "audio": "media/sent/a1566b3b883d.mp3?v=07dbfbf6"
     }
    ],
    "media": {
-    "img": "media/img/time.webp",
-    "uk": "media/uk/time.mp3",
-    "us": "media/us/time.mp3"
+    "img": "media/img/time.webp?v=6c5588cb",
+    "uk": "media/uk/time.mp3?v=28575951",
+    "us": "media/us/time.mp3?v=a84ec504"
    },
    "spell": true,
    "avoid": [
@@ -724,23 +724,23 @@
     {
      "en": "The house is quiet at midnight.",
      "zh": "半夜里房子很安静。",
-     "audio": "media/sent/fccb697843f4.mp3"
+     "audio": "media/sent/fccb697843f4.mp3?v=5cad13f3"
     },
     {
      "en": "Grandpa reads until midnight.",
      "zh": "爷爷读到半夜。",
-     "audio": "media/sent/a432c0134f72.mp3"
+     "audio": "media/sent/a432c0134f72.mp3?v=1e20ed80"
     },
     {
      "en": "Lily wakes up at midnight and drinks some water.",
      "zh": "Lily 半夜醒来，喝了点水。",
-     "audio": "media/sent/d89dfc49d42b.mp3"
+     "audio": "media/sent/d89dfc49d42b.mp3?v=c0e5a0f7"
     }
    ],
    "media": {
-    "img": "media/img/midnight.webp",
-    "uk": "media/uk/midnight.mp3",
-    "us": "media/us/midnight.mp3"
+    "img": "media/img/midnight.webp?v=f57e6579",
+    "uk": "media/uk/midnight.mp3?v=2b3c710b",
+    "us": "media/us/midnight.mp3?v=702b2b41"
    },
    "hook": {
     "kind": "story",
@@ -780,23 +780,23 @@
     {
      "en": "We eat lunch at noon.",
      "zh": "我们中午十二点吃午饭。",
-     "audio": "media/sent/0948361b0719.mp3"
+     "audio": "media/sent/0948361b0719.mp3?v=2cefc0f9"
     },
     {
      "en": "The sun is high at noon.",
      "zh": "中午太阳升得高高的。",
-     "audio": "media/sent/6a7de9a417e8.mp3"
+     "audio": "media/sent/6a7de9a417e8.mp3?v=d0bd4479"
     },
     {
      "en": "We go home at noon.",
      "zh": "我们中午十二点回家。",
-     "audio": "media/sent/4934a72bfeff.mp3"
+     "audio": "media/sent/4934a72bfeff.mp3?v=9af2a0be"
     }
    ],
    "media": {
-    "img": "media/img/noon.webp",
-    "uk": "media/uk/noon.mp3",
-    "us": "media/us/noon.mp3"
+    "img": "media/img/noon.webp?v=5bcb029b",
+    "uk": "media/uk/noon.mp3?v=716be1a6",
+    "us": "media/us/noon.mp3?v=40db8b7b"
    },
    "hook": {
     "kind": "contrast",
@@ -837,23 +837,23 @@
     {
      "en": "I get up in the morning.",
      "zh": "我早上起床。",
-     "audio": "media/sent/4df8e264da6b.mp3"
+     "audio": "media/sent/4df8e264da6b.mp3?v=eed57a31"
     },
     {
      "en": "Mum makes breakfast every morning.",
      "zh": "妈妈每天早上做早饭。",
-     "audio": "media/sent/eed54bca7dbe.mp3"
+     "audio": "media/sent/eed54bca7dbe.mp3?v=7ee764b4"
     },
     {
      "en": "Good morning, Tom!",
      "zh": "早上好，Tom！",
-     "audio": "media/sent/7fddfd4cfba3.mp3"
+     "audio": "media/sent/7fddfd4cfba3.mp3?v=6472dd3b"
     }
    ],
    "media": {
-    "img": "media/img/morning.webp",
-    "uk": "media/uk/morning.mp3",
-    "us": "media/us/morning.mp3"
+    "img": "media/img/morning.webp?v=77f5e134",
+    "uk": "media/uk/morning.mp3?v=0cd7f081",
+    "us": "media/us/morning.mp3?v=88ff557f"
    },
    "spell": true,
    "avoid": [
@@ -892,23 +892,23 @@
     {
      "en": "We watch television in the evening.",
      "zh": "我们晚上看电视。",
-     "audio": "media/sent/68ab30db60f2.mp3"
+     "audio": "media/sent/68ab30db60f2.mp3?v=dacaea5c"
     },
     {
      "en": "Dad walks the dog in the evening.",
      "zh": "爸爸傍晚带狗散步。",
-     "audio": "media/sent/50a2eb25b20b.mp3"
+     "audio": "media/sent/50a2eb25b20b.mp3?v=422c556a"
     },
     {
      "en": "It's cool in the evening.",
      "zh": "傍晚很凉快。",
-     "audio": "media/sent/b2f9c523b79f.mp3"
+     "audio": "media/sent/b2f9c523b79f.mp3?v=7ab92659"
     }
    ],
    "media": {
-    "img": "media/img/evening.webp",
-    "uk": "media/uk/evening.mp3",
-    "us": "media/us/evening.mp3"
+    "img": "media/img/evening.webp?v=5b99a91a",
+    "uk": "media/uk/evening.mp3?v=c09cb8d8",
+    "us": "media/us/evening.mp3?v=aea75f4f"
    },
    "spell": true,
    "hook": {
@@ -949,23 +949,23 @@
     {
      "en": "Lily sleeps at night.",
      "zh": "Lily 晚上睡觉。",
-     "audio": "media/sent/428a4ba7176f.mp3"
+     "audio": "media/sent/428a4ba7176f.mp3?v=dc5c4d0a"
     },
     {
      "en": "The stars come out at night.",
      "zh": "星星在晚上出来。",
-     "audio": "media/sent/74ecc1f1ee02.mp3"
+     "audio": "media/sent/74ecc1f1ee02.mp3?v=d3940808"
     },
     {
      "en": "Good night, Tom!",
      "zh": "晚安，Tom！",
-     "audio": "media/sent/6a274130a194.mp3"
+     "audio": "media/sent/6a274130a194.mp3?v=0d92a0eb"
     }
    ],
    "media": {
-    "img": "media/img/night.webp",
-    "uk": "media/uk/night.mp3",
-    "us": "media/us/night.mp3"
+    "img": "media/img/night.webp?v=fc3a7643",
+    "uk": "media/uk/night.mp3?v=f4d43c93",
+    "us": "media/us/night.mp3?v=9423fd46"
    },
    "spell": true,
    "avoid": [
@@ -1002,23 +1002,23 @@
     {
      "en": "We go to school every day.",
      "zh": "我们每天上学。",
-     "audio": "media/sent/da39238387d4.mp3"
+     "audio": "media/sent/da39238387d4.mp3?v=7c8870f2"
     },
     {
      "en": "Sunday is a happy day.",
      "zh": "星期天是快乐的一天。",
-     "audio": "media/sent/b4f1951c1dd5.mp3"
+     "audio": "media/sent/b4f1951c1dd5.mp3?v=5e8823e0"
     },
     {
      "en": "There are seven days in a week.",
      "zh": "一周有七天。",
-     "audio": "media/sent/13cda664705d.mp3"
+     "audio": "media/sent/13cda664705d.mp3?v=901000e4"
     }
    ],
    "media": {
-    "img": "media/img/day.webp",
-    "uk": "media/uk/day.mp3",
-    "us": "media/us/day.mp3"
+    "img": "media/img/day.webp?v=b116876a",
+    "uk": "media/uk/day.mp3?v=c871529e",
+    "us": "media/us/day.mp3?v=da83d1b4"
    },
    "spell": true,
    "avoid": [
@@ -1059,23 +1059,23 @@
     {
      "en": "We have maths today.",
      "zh": "我们今天有数学课。",
-     "audio": "media/sent/8d93b007caaa.mp3"
+     "audio": "media/sent/8d93b007caaa.mp3?v=47a29521"
     },
     {
      "en": "Today is my birthday!",
      "zh": "今天是我的生日！",
-     "audio": "media/sent/941fc9856fdd.mp3"
+     "audio": "media/sent/941fc9856fdd.mp3?v=b2aee369"
     },
     {
      "en": "Mum buys fish today.",
      "zh": "妈妈今天买鱼。",
-     "audio": "media/sent/b67e64182314.mp3"
+     "audio": "media/sent/b67e64182314.mp3?v=dfe00e21"
     }
    ],
    "media": {
-    "img": "media/img/today.webp",
-    "uk": "media/uk/today.mp3",
-    "us": "media/us/today.mp3"
+    "img": "media/img/today.webp?v=3f20b00e",
+    "uk": "media/uk/today.mp3?v=448ff7f9",
+    "us": "media/us/today.mp3?v=f8b8056a"
    },
    "spell": true,
    "avoid": [
@@ -1116,23 +1116,23 @@
     {
      "en": "We visit Grandma tomorrow.",
      "zh": "我们明天去看奶奶。",
-     "audio": "media/sent/4dd02cafdd0a.mp3"
+     "audio": "media/sent/4dd02cafdd0a.mp3?v=451bda8a"
     },
     {
      "en": "Tomorrow is Sunday.",
      "zh": "明天是星期天。",
-     "audio": "media/sent/53a0be86bbb6.mp3"
+     "audio": "media/sent/53a0be86bbb6.mp3?v=ef9b5d03"
     },
     {
      "en": "Is it going to rain tomorrow?",
      "zh": "明天会下雨吗？",
-     "audio": "media/sent/15b00e0490cd.mp3"
+     "audio": "media/sent/15b00e0490cd.mp3?v=faca7d1c"
     }
    ],
    "media": {
-    "img": "media/img/tomorrow.webp",
-    "uk": "media/uk/tomorrow.mp3",
-    "us": "media/us/tomorrow.mp3"
+    "img": "media/img/tomorrow.webp?v=42b16c71",
+    "uk": "media/uk/tomorrow.mp3?v=b36f5fd7",
+    "us": "media/us/tomorrow.mp3?v=02bc7099"
    },
    "spell": true,
    "avoid": [
@@ -1172,23 +1172,23 @@
     {
      "en": "We watch a film tonight.",
      "zh": "我们今晚看电影。",
-     "audio": "media/sent/ad13eefe2dbd.mp3"
+     "audio": "media/sent/ad13eefe2dbd.mp3?v=8848f2d0"
     },
     {
      "en": "Grandma comes tonight.",
      "zh": "奶奶今晚来。",
-     "audio": "media/sent/30572552f4d7.mp3"
+     "audio": "media/sent/30572552f4d7.mp3?v=ea891e4b"
     },
     {
      "en": "I can't sleep tonight.",
      "zh": "我今晚睡不着。",
-     "audio": "media/sent/0b78beee5f73.mp3"
+     "audio": "media/sent/0b78beee5f73.mp3?v=20411299"
     }
    ],
    "media": {
-    "img": "media/img/tonight.webp",
-    "uk": "media/uk/tonight.mp3",
-    "us": "media/us/tonight.mp3"
+    "img": "media/img/tonight.webp?v=b0e2a78a",
+    "uk": "media/uk/tonight.mp3?v=490a98cf",
+    "us": "media/us/tonight.mp3?v=d9695aee"
    },
    "spell": true,
    "hook": {
@@ -1231,23 +1231,23 @@
     {
      "en": "It was Lily's party yesterday.",
      "zh": "昨天是 Lily 的聚会。",
-     "audio": "media/sent/0e1dd56fbd3a.mp3"
+     "audio": "media/sent/0e1dd56fbd3a.mp3?v=437ba633"
     },
     {
      "en": "We were at the zoo yesterday.",
      "zh": "我们昨天在动物园。",
-     "audio": "media/sent/cfda76b5f1c7.mp3"
+     "audio": "media/sent/cfda76b5f1c7.mp3?v=514fcd0c"
     },
     {
      "en": "Tom was sad yesterday, but he is happy now.",
      "zh": "Tom 昨天不开心，但现在开心了。",
-     "audio": "media/sent/80357a27b755.mp3"
+     "audio": "media/sent/80357a27b755.mp3?v=9d2b6555"
     }
    ],
    "media": {
-    "img": "media/img/yesterday.webp",
-    "uk": "media/uk/yesterday.mp3",
-    "us": "media/us/yesterday.mp3"
+    "img": "media/img/yesterday.webp?v=8c720910",
+    "uk": "media/uk/yesterday.mp3?v=fe65e2e4",
+    "us": "media/us/yesterday.mp3?v=0bfeffff"
    },
    "spell": true,
    "hook": {
@@ -1289,23 +1289,23 @@
     {
      "en": "School starts on Monday.",
      "zh": "学校星期一开学。",
-     "audio": "media/sent/c9d056cc69a0.mp3"
+     "audio": "media/sent/c9d056cc69a0.mp3?v=961d89af"
     },
     {
      "en": "We have maths on Monday.",
      "zh": "我们星期一有数学课。",
-     "audio": "media/sent/9deff9428c98.mp3"
+     "audio": "media/sent/9deff9428c98.mp3?v=6ffcc667"
     },
     {
      "en": "Grandma comes on Monday.",
      "zh": "奶奶星期一来我们家。",
-     "audio": "media/sent/2b112ec3c4c1.mp3"
+     "audio": "media/sent/2b112ec3c4c1.mp3?v=1fc012a7"
     }
    ],
    "media": {
-    "img": "media/img/monday.webp",
-    "uk": "media/uk/monday.mp3",
-    "us": "media/us/monday.mp3"
+    "img": "media/img/monday.webp?v=edbc67eb",
+    "uk": "media/uk/monday.mp3?v=5f9625b0",
+    "us": "media/us/monday.mp3?v=b9ec5ebf"
    },
    "spell": true,
    "avoid": [
@@ -1343,23 +1343,23 @@
     {
      "en": "Lily has art on Tuesday.",
      "zh": "Lily 星期二有美术课。",
-     "audio": "media/sent/b443246d04b6.mp3"
+     "audio": "media/sent/b443246d04b6.mp3?v=df88a6a3"
     },
     {
      "en": "Tom plays football on Tuesday.",
      "zh": "Tom 星期二踢足球。",
-     "audio": "media/sent/fabfa39dd3e9.mp3"
+     "audio": "media/sent/fabfa39dd3e9.mp3?v=b3f32813"
     },
     {
      "en": "We go to the library on Tuesday.",
      "zh": "我们星期二去图书馆。",
-     "audio": "media/sent/4925f439c9e5.mp3"
+     "audio": "media/sent/4925f439c9e5.mp3?v=4b9f7d8a"
     }
    ],
    "media": {
-    "img": "media/img/tuesday.webp",
-    "uk": "media/uk/tuesday.mp3",
-    "us": "media/us/tuesday.mp3"
+    "img": "media/img/tuesday.webp?v=c1cbe780",
+    "uk": "media/uk/tuesday.mp3?v=a8ea4b19",
+    "us": "media/us/tuesday.mp3?v=788e1222"
    },
    "spell": true,
    "hook": {
@@ -1402,23 +1402,23 @@
     {
      "en": "We have swimming on Wednesday.",
      "zh": "我们星期三有游泳课。",
-     "audio": "media/sent/dec5aa791665.mp3"
+     "audio": "media/sent/dec5aa791665.mp3?v=f65877ce"
     },
     {
      "en": "Wednesday is my swimming day.",
      "zh": "星期三是我的游泳日。",
-     "audio": "media/sent/649a60ee3ac6.mp3"
+     "audio": "media/sent/649a60ee3ac6.mp3?v=a36100e8"
     },
     {
      "en": "Dad cooks dinner on Wednesday.",
      "zh": "爸爸星期三做晚饭。",
-     "audio": "media/sent/d42219366f94.mp3"
+     "audio": "media/sent/d42219366f94.mp3?v=58eff8a1"
     }
    ],
    "media": {
-    "img": "media/img/wednesday.webp",
-    "uk": "media/uk/wednesday.mp3",
-    "us": "media/us/wednesday.mp3"
+    "img": "media/img/wednesday.webp?v=d36c0257",
+    "uk": "media/uk/wednesday.mp3?v=87cad279",
+    "us": "media/us/wednesday.mp3?v=d872d70e"
    },
    "spell": true,
    "hook": {
@@ -1460,23 +1460,23 @@
     {
      "en": "We bake a cake on Thursday.",
      "zh": "我们星期四烤蛋糕。",
-     "audio": "media/sent/ad95c935478a.mp3"
+     "audio": "media/sent/ad95c935478a.mp3?v=328de6e8"
     },
     {
      "en": "Tom has a piano lesson on Thursday.",
      "zh": "Tom 星期四有一节钢琴课。",
-     "audio": "media/sent/901cc27a34f6.mp3"
+     "audio": "media/sent/901cc27a34f6.mp3?v=344bbb08"
     },
     {
      "en": "Thursday is library day.",
      "zh": "星期四是去图书馆的日子。",
-     "audio": "media/sent/e9c4ad01bd38.mp3"
+     "audio": "media/sent/e9c4ad01bd38.mp3?v=c8da5890"
     }
    ],
    "media": {
-    "img": "media/img/thursday.webp",
-    "uk": "media/uk/thursday.mp3",
-    "us": "media/us/thursday.mp3"
+    "img": "media/img/thursday.webp?v=3c8174a3",
+    "uk": "media/uk/thursday.mp3?v=7a2caa56",
+    "us": "media/us/thursday.mp3?v=7e595379"
    },
    "spell": true,
    "hook": {
@@ -1521,23 +1521,23 @@
     {
      "en": "Sam plays football on Friday.",
      "zh": "Sam 星期五踢足球。",
-     "audio": "media/sent/2cc957b6c8a0.mp3"
+     "audio": "media/sent/2cc957b6c8a0.mp3?v=23cf171d"
     },
     {
      "en": "We watch a film at home on Friday.",
      "zh": "我们星期五在家看电影。",
-     "audio": "media/sent/8cd7002eb606.mp3"
+     "audio": "media/sent/8cd7002eb606.mp3?v=bc795518"
     },
     {
      "en": "Grandpa comes on Friday evening.",
      "zh": "爷爷星期五晚上来。",
-     "audio": "media/sent/c019d4221a0a.mp3"
+     "audio": "media/sent/c019d4221a0a.mp3?v=5d70bc1a"
     }
    ],
    "media": {
-    "img": "media/img/friday.webp",
-    "uk": "media/uk/friday.mp3",
-    "us": "media/us/friday.mp3"
+    "img": "media/img/friday.webp?v=5bedb243",
+    "uk": "media/uk/friday.mp3?v=03301206",
+    "us": "media/us/friday.mp3?v=3326acc2"
    },
    "spell": true,
    "avoid": [
@@ -1576,23 +1576,23 @@
     {
      "en": "We go cycling on Saturday.",
      "zh": "我们星期六去骑自行车。",
-     "audio": "media/sent/ad32d8b4257f.mp3"
+     "audio": "media/sent/ad32d8b4257f.mp3?v=1cd3ed22"
     },
     {
      "en": "I do my homework on Saturday.",
      "zh": "我星期六做作业。",
-     "audio": "media/sent/c3dfc99f842a.mp3"
+     "audio": "media/sent/c3dfc99f842a.mp3?v=59c5f67c"
     },
     {
      "en": "Sometimes we visit Grandma on Saturday.",
      "zh": "有时候我们星期六去看奶奶。",
-     "audio": "media/sent/57880a09aacc.mp3"
+     "audio": "media/sent/57880a09aacc.mp3?v=74a770eb"
     }
    ],
    "media": {
-    "img": "media/img/saturday.webp",
-    "uk": "media/uk/saturday.mp3",
-    "us": "media/us/saturday.mp3"
+    "img": "media/img/saturday.webp?v=7c84aa02",
+    "uk": "media/uk/saturday.mp3?v=62f664d1",
+    "us": "media/us/saturday.mp3?v=6785bc9f"
    },
    "spell": true,
    "hook": {
@@ -1634,23 +1634,23 @@
     {
      "en": "We go to the zoo on Sunday.",
      "zh": "我们星期天去动物园。",
-     "audio": "media/sent/7c3ce0f9e458.mp3"
+     "audio": "media/sent/7c3ce0f9e458.mp3?v=5991d832"
     },
     {
      "en": "Grandpa goes fishing on Sunday.",
      "zh": "爷爷星期天去钓鱼。",
-     "audio": "media/sent/d8cbef9b4cae.mp3"
+     "audio": "media/sent/d8cbef9b4cae.mp3?v=5f44545e"
     },
     {
      "en": "We go to bed early on Sunday.",
      "zh": "我们星期天早早睡觉。",
-     "audio": "media/sent/3f1f93c2ba62.mp3"
+     "audio": "media/sent/3f1f93c2ba62.mp3?v=ef840c11"
     }
    ],
    "media": {
-    "img": "media/img/sunday.webp",
-    "uk": "media/uk/sunday.mp3",
-    "us": "media/us/sunday.mp3"
+    "img": "media/img/sunday.webp?v=c927cf60",
+    "uk": "media/uk/sunday.mp3?v=b0c5b549",
+    "us": "media/us/sunday.mp3?v=e1160241"
    },
    "spell": true,
    "avoid": [
@@ -1687,23 +1687,23 @@
     {
      "en": "Mum works five days a week.",
      "zh": "妈妈一周工作五天。",
-     "audio": "media/sent/d9c775c485b8.mp3"
+     "audio": "media/sent/d9c775c485b8.mp3?v=c76e9710"
     },
     {
      "en": "This week we are in London.",
      "zh": "这个星期我们在伦敦。",
-     "audio": "media/sent/f2331112f184.mp3"
+     "audio": "media/sent/f2331112f184.mp3?v=c5e19be2"
     },
     {
      "en": "We play in the park once a week.",
      "zh": "我们一周去公园玩一次。",
-     "audio": "media/sent/f8230297ea5c.mp3"
+     "audio": "media/sent/f8230297ea5c.mp3?v=fad520fc"
     }
    ],
    "media": {
-    "img": "media/img/week.webp",
-    "uk": "media/uk/week.mp3",
-    "us": "media/us/week.mp3"
+    "img": "media/img/week.webp?v=344b7fb8",
+    "uk": "media/uk/week.mp3?v=9f870328",
+    "us": "media/us/week.mp3?v=bc8a52c1"
    },
    "spell": true,
    "avoid": [
@@ -1744,23 +1744,23 @@
     {
      "en": "Lily walks to school every weekday.",
      "zh": "Lily 每个工作日都走路去上学。",
-     "audio": "media/sent/e87442bf83bf.mp3"
+     "audio": "media/sent/e87442bf83bf.mp3?v=0ce84285"
     },
     {
      "en": "Mum drives to work on a weekday.",
      "zh": "妈妈工作日开车去上班。",
-     "audio": "media/sent/6f2e0e04db60.mp3"
+     "audio": "media/sent/6f2e0e04db60.mp3?v=5fe192d8"
     },
     {
      "en": "Saturday and Sunday are not weekdays.",
      "zh": "星期六和星期天不是工作日。",
-     "audio": "media/sent/3f4a619f3f0e.mp3"
+     "audio": "media/sent/3f4a619f3f0e.mp3?v=112f8ca9"
     }
    ],
    "media": {
-    "img": "media/img/weekday.webp",
-    "uk": "media/uk/weekday.mp3",
-    "us": "media/us/weekday.mp3"
+    "img": "media/img/weekday.webp?v=4f65adea",
+    "uk": "media/uk/weekday.mp3?v=ba98a358",
+    "us": "media/us/weekday.mp3?v=c53daeb0"
    },
    "hook": {
     "kind": "split",
@@ -1800,23 +1800,23 @@
     {
      "en": "We get up late at the weekend.",
      "zh": "我们周末起得晚。",
-     "audio": "media/sent/5ebe38552438.mp3"
+     "audio": "media/sent/5ebe38552438.mp3?v=c21a50dc"
     },
     {
      "en": "We visit Grandma at the weekend.",
      "zh": "我们周末去看奶奶。",
-     "audio": "media/sent/eda63089b52a.mp3"
+     "audio": "media/sent/eda63089b52a.mp3?v=b508962c"
     },
     {
      "en": "The shop is very busy at the weekend.",
      "zh": "商店周末很忙。",
-     "audio": "media/sent/80ea20dbd8ae.mp3"
+     "audio": "media/sent/80ea20dbd8ae.mp3?v=d5d92d8d"
     }
    ],
    "media": {
-    "img": "media/img/weekend.webp",
-    "uk": "media/uk/weekend.mp3",
-    "us": "media/us/weekend.mp3"
+    "img": "media/img/weekend.webp?v=47395a09",
+    "uk": "media/uk/weekend.mp3?v=ab88b720",
+    "us": "media/us/weekend.mp3?v=7c4d8fc6"
    },
    "spell": true,
    "hook": {
@@ -1859,23 +1859,23 @@
     {
      "en": "Lily goes to a weekly football club.",
      "zh": "Lily 每周参加一次足球小组。",
-     "audio": "media/sent/ece748bf53e8.mp3"
+     "audio": "media/sent/ece748bf53e8.mp3?v=1de61f37"
     },
     {
      "en": "Our class has a weekly test.",
      "zh": "我们班每周有一次小测验。",
-     "audio": "media/sent/ddca0f06050d.mp3"
+     "audio": "media/sent/ddca0f06050d.mp3?v=8adabc5b"
     },
     {
      "en": "Grandma rings us weekly.",
      "zh": "奶奶每周都给我们打电话。",
-     "audio": "media/sent/c1341c379357.mp3"
+     "audio": "media/sent/c1341c379357.mp3?v=384e59ab"
     }
    ],
    "media": {
-    "img": "media/img/weekly.webp",
-    "uk": "media/uk/weekly.mp3",
-    "us": "media/us/weekly.mp3"
+    "img": "media/img/weekly.webp?v=39078bec",
+    "uk": "media/uk/weekly.mp3?v=784838e0",
+    "us": "media/us/weekly.mp3?v=b68e726f"
    },
    "hook": {
     "kind": "affix",
@@ -1917,23 +1917,23 @@
     {
      "en": "Max has a daily walk.",
      "zh": "Max 每天都散步。",
-     "audio": "media/sent/3e395dd39f9f.mp3"
+     "audio": "media/sent/3e395dd39f9f.mp3?v=74448a98"
     },
     {
      "en": "Tom washes his hands daily.",
      "zh": "Tom 每天都洗手。",
-     "audio": "media/sent/a29b2a34b257.mp3"
+     "audio": "media/sent/a29b2a34b257.mp3?v=648b7e24"
     },
     {
      "en": "Dad has a daily walk after dinner.",
      "zh": "爸爸晚饭后每天都散一次步。",
-     "audio": "media/sent/de3e2cceb624.mp3"
+     "audio": "media/sent/de3e2cceb624.mp3?v=7eb2dbd0"
     }
    ],
    "media": {
-    "img": "media/img/daily.webp",
-    "uk": "media/word/daily.mp3",
-    "us": "media/word/daily.mp3"
+    "img": "media/img/daily.webp?v=25a349f0",
+    "uk": "media/word/daily.mp3?v=56493e7a",
+    "us": "media/word/daily.mp3?v=56493e7a"
    },
    "avoid": [
     "monthly",
@@ -1968,23 +1968,23 @@
     {
      "en": "We visit Grandma once a month.",
      "zh": "我们一个月去看一次奶奶。",
-     "audio": "media/sent/341b350a6911.mp3"
+     "audio": "media/sent/341b350a6911.mp3?v=17a2621e"
     },
     {
      "en": "Lily reads five books a month.",
      "zh": "Lily 一个月读五本书。",
-     "audio": "media/sent/a92de7b9217f.mp3"
+     "audio": "media/sent/a92de7b9217f.mp3?v=063f753c"
     },
     {
      "en": "There are twelve months in a year.",
      "zh": "一年有十二个月。",
-     "audio": "media/sent/eb32a94c3aae.mp3"
+     "audio": "media/sent/eb32a94c3aae.mp3?v=fb9c7122"
     }
    ],
    "media": {
-    "img": "media/img/month.webp",
-    "uk": "media/uk/month.mp3",
-    "us": "media/us/month.mp3"
+    "img": "media/img/month.webp?v=bb502c51",
+    "uk": "media/uk/month.mp3?v=37716ecc",
+    "us": "media/us/month.mp3?v=afa0cfc7"
    },
    "spell": true,
    "avoid": [
@@ -2025,23 +2025,23 @@
     {
      "en": "Our class has a monthly trip.",
      "zh": "我们班每月有一次外出参观。",
-     "audio": "media/sent/29af02955909.mp3"
+     "audio": "media/sent/29af02955909.mp3?v=ec552408"
     },
     {
      "en": "Mum buys a monthly magazine for Grandma.",
      "zh": "妈妈每月给奶奶买一本杂志。",
-     "audio": "media/sent/0947baec1006.mp3"
+     "audio": "media/sent/0947baec1006.mp3?v=19340955"
     },
     {
      "en": "The art club meets monthly.",
      "zh": "美术小组每月聚会一次。",
-     "audio": "media/sent/2ab3996f4837.mp3"
+     "audio": "media/sent/2ab3996f4837.mp3?v=d01719bd"
     }
    ],
    "media": {
-    "img": "media/img/monthly.webp",
-    "uk": "media/uk/monthly.mp3",
-    "us": "media/us/monthly.mp3"
+    "img": "media/img/monthly.webp?v=00e1eb80",
+    "uk": "media/uk/monthly.mp3?v=c5a04a95",
+    "us": "media/us/monthly.mp3?v=72aa8d49"
    },
    "hook": {
     "kind": "affix",
@@ -2080,23 +2080,23 @@
     {
      "en": "Lily is nine years old this year.",
      "zh": "Lily 今年九岁。",
-     "audio": "media/sent/2e33c16eab10.mp3"
+     "audio": "media/sent/2e33c16eab10.mp3?v=a595292c"
     },
     {
      "en": "Tom will be seven years old next year.",
      "zh": "Tom 明年就七岁了。",
-     "audio": "media/sent/1e545d1eede0.mp3"
+     "audio": "media/sent/1e545d1eede0.mp3?v=b18c2bf2"
     },
     {
      "en": "We have a big party once a year.",
      "zh": "我们一年开一次大聚会。",
-     "audio": "media/sent/fed5c25cf705.mp3"
+     "audio": "media/sent/fed5c25cf705.mp3?v=0b7cf7c7"
     }
    ],
    "media": {
-    "img": "media/img/year.webp",
-    "uk": "media/uk/year.mp3",
-    "us": "media/us/year.mp3"
+    "img": "media/img/year.webp?v=f36be097",
+    "uk": "media/uk/year.mp3?v=a9022f01",
+    "us": "media/us/year.mp3?v=28fde8c7"
    },
    "spell": true,
    "avoid": [
@@ -2136,23 +2136,23 @@
     {
      "en": "This castle is more than a century old.",
      "zh": "这座城堡有一百多年的历史了。",
-     "audio": "media/sent/964164e9ceea.mp3"
+     "audio": "media/sent/964164e9ceea.mp3?v=bd480e81"
     },
     {
      "en": "This shop is a century old.",
      "zh": "这家商店有一个世纪的历史了。",
-     "audio": "media/sent/872c9f817dd9.mp3"
+     "audio": "media/sent/872c9f817dd9.mp3?v=878863d5"
     },
     {
      "en": "A century has one hundred years.",
      "zh": "一个世纪有一百年。",
-     "audio": "media/sent/e62423a980bb.mp3"
+     "audio": "media/sent/e62423a980bb.mp3?v=70f09d00"
     }
    ],
    "media": {
-    "img": "media/img/century.webp",
-    "uk": "media/uk/century.mp3",
-    "us": "media/us/century.mp3"
+    "img": "media/img/century.webp?v=be8ea32b",
+    "uk": "media/uk/century.mp3?v=b5f82d61",
+    "us": "media/us/century.mp3?v=c5644228"
    },
    "hook": {
     "kind": "contrast",
@@ -2194,23 +2194,23 @@
     {
      "en": "Wait a moment, please.",
      "zh": "请稍等一会儿。",
-     "audio": "media/sent/908e995918e9.mp3"
+     "audio": "media/sent/908e995918e9.mp3?v=69e153b0"
     },
     {
      "en": "Mum is busy at the moment.",
      "zh": "妈妈这会儿正忙。",
-     "audio": "media/sent/da743d4f5614.mp3"
+     "audio": "media/sent/da743d4f5614.mp3?v=2f6dbab9"
     },
     {
      "en": "Dad has a rest for a moment in the garden.",
      "zh": "爸爸在花园里休息一会儿。",
-     "audio": "media/sent/67739f3cfc2f.mp3"
+     "audio": "media/sent/67739f3cfc2f.mp3?v=07d75c27"
     }
    ],
    "media": {
-    "img": "media/img/moment.webp",
-    "uk": "media/uk/moment.mp3",
-    "us": "media/us/moment.mp3"
+    "img": "media/img/moment.webp?v=f63df9ce",
+    "uk": "media/uk/moment.mp3?v=1c39b71b",
+    "us": "media/us/moment.mp3?v=a394a63b"
    },
    "spell": true,
    "avoid": [
@@ -2249,23 +2249,23 @@
     {
      "en": "Mum puts a new calendar on the wall.",
      "zh": "妈妈在墙上挂了一本新年历。",
-     "audio": "media/sent/0bc99f195093.mp3"
+     "audio": "media/sent/0bc99f195093.mp3?v=36ca54ef"
     },
     {
      "en": "There is a calendar in the kitchen.",
      "zh": "厨房里有一本年历。",
-     "audio": "media/sent/924f2294e090.mp3"
+     "audio": "media/sent/924f2294e090.mp3?v=885c39ed"
     },
     {
      "en": "Mum looks at the calendar every day.",
      "zh": "妈妈每天都看年历。",
-     "audio": "media/sent/21cf74caca4c.mp3"
+     "audio": "media/sent/21cf74caca4c.mp3?v=2b5e6e37"
     }
    ],
    "media": {
-    "img": "media/img/calendar.webp",
-    "uk": "media/uk/calendar.mp3",
-    "us": "media/us/calendar.mp3"
+    "img": "media/img/calendar.webp?v=f7c7ccb8",
+    "uk": "media/uk/calendar.mp3?v=69cab1fd",
+    "us": "media/us/calendar.mp3?v=538657cd"
    },
    "hook": {
     "kind": "story",
@@ -2304,23 +2304,23 @@
     {
      "en": "What's the date today?",
      "zh": "今天是几号？",
-     "audio": "media/sent/7ade97f98791.mp3"
+     "audio": "media/sent/7ade97f98791.mp3?v=5e827f55"
     },
     {
      "en": "Mum writes the date on the card.",
      "zh": "妈妈把日期写在卡片上。",
-     "audio": "media/sent/4e2cb2aede19.mp3"
+     "audio": "media/sent/4e2cb2aede19.mp3?v=73055f66"
     },
     {
      "en": "Lily knows the date of Grandma's birthday.",
      "zh": "Lily 知道奶奶生日的日期。",
-     "audio": "media/sent/04c7a1dde019.mp3"
+     "audio": "media/sent/04c7a1dde019.mp3?v=5945f896"
     }
    ],
    "media": {
-    "img": "media/img/date.webp",
-    "uk": "media/uk/date.mp3",
-    "us": "media/us/date.mp3"
+    "img": "media/img/date.webp?v=119cff9d",
+    "uk": "media/uk/date.mp3?v=f6cf4f8f",
+    "us": "media/us/date.mp3?v=0cdeaeb8"
    },
    "spell": true,
    "avoid": [
@@ -2358,23 +2358,23 @@
     {
      "en": "Lily writes in her diary every evening.",
      "zh": "Lily 每天晚上都写日记。",
-     "audio": "media/sent/33e2a87d4a3d.mp3"
+     "audio": "media/sent/33e2a87d4a3d.mp3?v=a3614fda"
     },
     {
      "en": "Dad keeps a diary about the weather.",
      "zh": "爸爸写日记记录天气。",
-     "audio": "media/sent/37787ea320b7.mp3"
+     "audio": "media/sent/37787ea320b7.mp3?v=0abc8516"
     },
     {
      "en": "Lily's diary is under her pillow.",
      "zh": "Lily 的日记本在她的枕头下面。",
-     "audio": "media/sent/7c775a633297.mp3"
+     "audio": "media/sent/7c775a633297.mp3?v=bcb9eb8b"
     }
    ],
    "media": {
-    "img": "media/img/diary.webp",
-    "uk": "media/uk/diary.mp3",
-    "us": "media/us/diary.mp3"
+    "img": "media/img/diary.webp?v=f35de1f8",
+    "uk": "media/uk/diary.mp3?v=8d67bc91",
+    "us": "media/us/diary.mp3?v=c5204470"
    },
    "avoid": [
     "calendar",
@@ -2412,23 +2412,23 @@
     {
      "en": "It is cold and dark in January.",
      "zh": "一月天又冷又黑。",
-     "audio": "media/sent/f7628d7a7f3b.mp3"
+     "audio": "media/sent/f7628d7a7f3b.mp3?v=641d74ba"
     },
     {
      "en": "Lily's birthday is in January.",
      "zh": "Lily 的生日在一月。",
-     "audio": "media/sent/b085a0fe1982.mp3"
+     "audio": "media/sent/b085a0fe1982.mp3?v=7df9a564"
     },
     {
      "en": "We visit Grandpa in January.",
      "zh": "我们一月去看爷爷。",
-     "audio": "media/sent/b1c75ebb68ed.mp3"
+     "audio": "media/sent/b1c75ebb68ed.mp3?v=23579e0f"
     }
    ],
    "media": {
-    "img": "media/img/january.webp",
-    "uk": "media/uk/january.mp3",
-    "us": "media/us/january.mp3"
+    "img": "media/img/january.webp?v=93709a1f",
+    "uk": "media/uk/january.mp3?v=fe3b54ae",
+    "us": "media/us/january.mp3?v=62fdc8ef"
    },
    "spell": true,
    "avoid": [
@@ -2468,23 +2468,23 @@
     {
      "en": "It is windy and wet in February.",
      "zh": "二月天又刮风又下雨。",
-     "audio": "media/sent/90c4fece64dd.mp3"
+     "audio": "media/sent/90c4fece64dd.mp3?v=37d50d60"
     },
     {
      "en": "Grandma visits us in February.",
      "zh": "奶奶二月来看我们。",
-     "audio": "media/sent/429eb3b4771d.mp3"
+     "audio": "media/sent/429eb3b4771d.mp3?v=318ad651"
     },
     {
      "en": "February is the shortest month.",
      "zh": "二月是最短的月份。",
-     "audio": "media/sent/5ab25ea55920.mp3"
+     "audio": "media/sent/5ab25ea55920.mp3?v=3cfd3032"
     }
    ],
    "media": {
-    "img": "media/img/february.webp",
-    "uk": "media/uk/february.mp3",
-    "us": "media/us/february.mp3"
+    "img": "media/img/february.webp?v=b267b229",
+    "uk": "media/uk/february.mp3?v=e9f6ae26",
+    "us": "media/us/february.mp3?v=88c9e062"
    },
    "spell": true,
    "avoid": [
@@ -2521,23 +2521,23 @@
     {
      "en": "In March, the first flowers come out.",
      "zh": "三月，第一批花儿开了。",
-     "audio": "media/sent/48f57ebf037e.mp3"
+     "audio": "media/sent/48f57ebf037e.mp3?v=1f09bc0f"
     },
     {
      "en": "We fly kites in the park in March.",
      "zh": "我们三月在公园里放风筝。",
-     "audio": "media/sent/4e918572b7a3.mp3"
+     "audio": "media/sent/4e918572b7a3.mp3?v=9369f66f"
     },
     {
      "en": "Mum cuts her hair in March.",
      "zh": "妈妈三月去剪头发。",
-     "audio": "media/sent/656b3f9ca25a.mp3"
+     "audio": "media/sent/656b3f9ca25a.mp3?v=ba815d9b"
     }
    ],
    "media": {
-    "img": "media/img/march.webp",
-    "uk": "media/uk/march.mp3",
-    "us": "media/us/march.mp3"
+    "img": "media/img/march.webp?v=b5ffde64",
+    "uk": "media/uk/march.mp3?v=d6bd6ee1",
+    "us": "media/us/march.mp3?v=58a68c4e"
    },
    "hook": {
     "kind": "story",
@@ -2578,23 +2578,23 @@
     {
      "en": "It often rains in April.",
      "zh": "四月经常下雨。",
-     "audio": "media/sent/419a5ed51009.mp3"
+     "audio": "media/sent/419a5ed51009.mp3?v=c47b4ee6"
     },
     {
      "en": "Lily wears her raincoat in April.",
      "zh": "Lily 四月穿她的雨衣。",
-     "audio": "media/sent/16d140c7a57f.mp3"
+     "audio": "media/sent/16d140c7a57f.mp3?v=346d77e1"
     },
     {
      "en": "The ducks play in the rain in April.",
      "zh": "四月鸭子在雨里玩。",
-     "audio": "media/sent/c8c756a8ca29.mp3"
+     "audio": "media/sent/c8c756a8ca29.mp3?v=546aab2d"
     }
    ],
    "media": {
-    "img": "media/img/april.webp",
-    "uk": "media/uk/april.mp3",
-    "us": "media/us/april.mp3"
+    "img": "media/img/april.webp?v=0c0e57c9",
+    "uk": "media/uk/april.mp3?v=cce634c5",
+    "us": "media/us/april.mp3?v=1a7fd635"
    },
    "spell": true,
    "avoid": [
@@ -2639,23 +2639,23 @@
     {
      "en": "We pick strawberries in May.",
      "zh": "我们五月采草莓。",
-     "audio": "media/sent/7bb3691fbb9c.mp3"
+     "audio": "media/sent/7bb3691fbb9c.mp3?v=29be70fc"
     },
     {
      "en": "The apple trees are pink in May.",
      "zh": "苹果树五月开粉色的花。",
-     "audio": "media/sent/5be023eee764.mp3"
+     "audio": "media/sent/5be023eee764.mp3?v=0a948a10"
     },
     {
      "en": "Our class goes to the farm in May.",
      "zh": "我们班五月去农场。",
-     "audio": "media/sent/955017522564.mp3"
+     "audio": "media/sent/955017522564.mp3?v=89bcfa34"
     }
    ],
    "media": {
-    "img": "media/img/may.webp",
-    "uk": "media/word/may.mp3",
-    "us": "media/word/may.mp3"
+    "img": "media/img/may.webp?v=c65a78f6",
+    "uk": "media/word/may.mp3?v=08a1bf78",
+    "us": "media/word/may.mp3?v=08a1bf78"
    },
    "avoid": [
     "august",
@@ -2699,23 +2699,23 @@
     {
      "en": "May I come in?",
      "zh": "我可以进来吗？",
-     "audio": "media/sent/2848dfb2b9e6.mp3"
+     "audio": "media/sent/2848dfb2b9e6.mp3?v=2be7f3ab"
     },
     {
      "en": "May I have some water, please?",
      "zh": "我可以喝点水吗？",
-     "audio": "media/sent/d7e7f417c3a3.mp3"
+     "audio": "media/sent/d7e7f417c3a3.mp3?v=92475ec8"
     },
     {
      "en": "It may rain this afternoon.",
      "zh": "今天下午可能会下雨。",
-     "audio": "media/sent/41fbaf0e36c9.mp3"
+     "audio": "media/sent/41fbaf0e36c9.mp3?v=5695d7f8"
     }
    ],
    "media": {
-    "img": "media/img/may.2.webp",
-    "uk": "media/word/may.mp3",
-    "us": "media/word/may.mp3"
+    "img": "media/img/may.2.webp?v=2a777888",
+    "uk": "media/word/may.mp3?v=08a1bf78",
+    "us": "media/word/may.mp3?v=08a1bf78"
    },
    "of": "may",
    "ofZh": "五月",
@@ -2751,23 +2751,23 @@
     {
      "en": "We swim in the lake in June.",
      "zh": "我们六月在湖里游泳。",
-     "audio": "media/sent/1a5f2f64820c.mp3"
+     "audio": "media/sent/1a5f2f64820c.mp3?v=d1249062"
     },
     {
      "en": "June is the start of summer.",
      "zh": "六月是夏天的开始。",
-     "audio": "media/sent/d49939fd0f95.mp3"
+     "audio": "media/sent/d49939fd0f95.mp3?v=fc3a13d7"
     },
     {
      "en": "Tom has his swimming lesson in June.",
      "zh": "Tom 六月有游泳课。",
-     "audio": "media/sent/a9952283ae8c.mp3"
+     "audio": "media/sent/a9952283ae8c.mp3?v=fbaf61f3"
     }
    ],
    "media": {
-    "img": "media/img/june.webp",
-    "uk": "media/uk/june.mp3",
-    "us": "media/us/june.mp3"
+    "img": "media/img/june.webp?v=53fcad47",
+    "uk": "media/uk/june.mp3?v=9a86501b",
+    "us": "media/us/june.mp3?v=0530b0aa"
    },
    "spell": true,
    "avoid": [
@@ -2805,23 +2805,23 @@
     {
      "en": "The summer holidays start in July.",
      "zh": "暑假七月开始。",
-     "audio": "media/sent/004e0626bddd.mp3"
+     "audio": "media/sent/004e0626bddd.mp3?v=a4b72c12"
     },
     {
      "en": "In July, the days are long.",
      "zh": "七月的白天很长。",
-     "audio": "media/sent/4383c5f87adf.mp3"
+     "audio": "media/sent/4383c5f87adf.mp3?v=583cf541"
     },
     {
      "en": "In July, we swim in the sea.",
      "zh": "七月我们在海里游泳。",
-     "audio": "media/sent/675d258a28c5.mp3"
+     "audio": "media/sent/675d258a28c5.mp3?v=ef47bd7e"
     }
    ],
    "media": {
-    "img": "media/img/july.webp",
-    "uk": "media/uk/july.mp3",
-    "us": "media/us/july.mp3"
+    "img": "media/img/july.webp?v=6b33d9db",
+    "uk": "media/uk/july.mp3?v=f1da4b7e",
+    "us": "media/us/july.mp3?v=24a534c5"
    },
    "spell": true,
    "avoid": [
@@ -2859,23 +2859,23 @@
     {
      "en": "We eat melon in the garden in August.",
      "zh": "八月我们在花园里吃瓜。",
-     "audio": "media/sent/47c0773dcedd.mp3"
+     "audio": "media/sent/47c0773dcedd.mp3?v=d4990fdf"
     },
     {
      "en": "We watch the stars in August.",
      "zh": "我们八月看星星。",
-     "audio": "media/sent/7ad92f3b34e6.mp3"
+     "audio": "media/sent/7ad92f3b34e6.mp3?v=afb2b648"
     },
     {
      "en": "August is very hot here.",
      "zh": "这里八月很热。",
-     "audio": "media/sent/cb325cdfcec6.mp3"
+     "audio": "media/sent/cb325cdfcec6.mp3?v=aec14365"
     }
    ],
    "media": {
-    "img": "media/img/august.webp",
-    "uk": "media/uk/august.mp3",
-    "us": "media/us/august.mp3"
+    "img": "media/img/august.webp?v=c2e0a226",
+    "uk": "media/uk/august.mp3?v=943ec4bc",
+    "us": "media/us/august.mp3?v=5e83598e"
    },
    "spell": true,
    "avoid": [
@@ -2914,23 +2914,23 @@
     {
      "en": "Our new school year starts in September.",
      "zh": "我们的新学年九月开始。",
-     "audio": "media/sent/f6457461d07f.mp3"
+     "audio": "media/sent/f6457461d07f.mp3?v=e0992672"
     },
     {
      "en": "In September, the evenings get dark early.",
      "zh": "九月傍晚很早就黑了。",
-     "audio": "media/sent/0a82a8f43fcd.mp3"
+     "audio": "media/sent/0a82a8f43fcd.mp3?v=d1f30b91"
     },
     {
      "en": "Sam starts his new school in September.",
      "zh": "Sam 九月上新学校。",
-     "audio": "media/sent/5684710277fe.mp3"
+     "audio": "media/sent/5684710277fe.mp3?v=030aa778"
     }
    ],
    "media": {
-    "img": "media/img/september.webp",
-    "uk": "media/uk/september.mp3",
-    "us": "media/us/september.mp3"
+    "img": "media/img/september.webp?v=aa873f44",
+    "uk": "media/uk/september.mp3?v=6a71137f",
+    "us": "media/us/september.mp3?v=0cf4e4da"
    },
    "spell": true,
    "avoid": [
@@ -2969,23 +2969,23 @@
     {
      "en": "In October, the leaves turn red and brown.",
      "zh": "十月树叶变红变棕。",
-     "audio": "media/sent/4bc8513e2bd7.mp3"
+     "audio": "media/sent/4bc8513e2bd7.mp3?v=0ade1298"
     },
     {
      "en": "We walk in the woods in October.",
      "zh": "我们十月在树林里散步。",
-     "audio": "media/sent/a4d3d11b113e.mp3"
+     "audio": "media/sent/a4d3d11b113e.mp3?v=1c83b38a"
     },
     {
      "en": "We have a sports day in October.",
      "zh": "十月我们开运动会。",
-     "audio": "media/sent/cbada1d6f14b.mp3"
+     "audio": "media/sent/cbada1d6f14b.mp3?v=f5991e49"
     }
    ],
    "media": {
-    "img": "media/img/october.webp",
-    "uk": "media/uk/october.mp3",
-    "us": "media/us/october.mp3"
+    "img": "media/img/october.webp?v=b1621228",
+    "uk": "media/uk/october.mp3?v=b2c78547",
+    "us": "media/us/october.mp3?v=ee14fdc9"
    },
    "spell": true,
    "avoid": [
@@ -3024,23 +3024,23 @@
     {
      "en": "November is cold and grey.",
      "zh": "十一月又冷又灰。",
-     "audio": "media/sent/f816ee2539d8.mp3"
+     "audio": "media/sent/f816ee2539d8.mp3?v=f2c69c84"
     },
     {
      "en": "In November, it gets dark very early.",
      "zh": "十一月天黑得很早。",
-     "audio": "media/sent/5fe6e479b067.mp3"
+     "audio": "media/sent/5fe6e479b067.mp3?v=d0091a39"
     },
     {
      "en": "Grandpa makes hot soup in November.",
      "zh": "爷爷十一月做热汤。",
-     "audio": "media/sent/3cf73ae53f54.mp3"
+     "audio": "media/sent/3cf73ae53f54.mp3?v=0121017e"
     }
    ],
    "media": {
-    "img": "media/img/november.webp",
-    "uk": "media/uk/november.mp3",
-    "us": "media/us/november.mp3"
+    "img": "media/img/november.webp?v=0c5f9fe5",
+    "uk": "media/uk/november.mp3?v=63f20f8f",
+    "us": "media/us/november.mp3?v=e5f5693a"
    },
    "spell": true,
    "avoid": [
@@ -3079,23 +3079,23 @@
     {
      "en": "In December, the nights are long and cold.",
      "zh": "十二月夜晚很长，天气很冷。",
-     "audio": "media/sent/06ca69876bd4.mp3"
+     "audio": "media/sent/06ca69876bd4.mp3?v=ea3f6256"
     },
     {
      "en": "December brings snow and cold nights.",
      "zh": "十二月带来下雪和寒冷的夜晚。",
-     "audio": "media/sent/11770a153448.mp3"
+     "audio": "media/sent/11770a153448.mp3?v=1e3ce3b8"
     },
     {
      "en": "Grandma sends a card in December.",
      "zh": "奶奶十二月寄一张卡片。",
-     "audio": "media/sent/891e76b6a98a.mp3"
+     "audio": "media/sent/891e76b6a98a.mp3?v=c5fb8a2f"
     }
    ],
    "media": {
-    "img": "media/img/december.webp",
-    "uk": "media/uk/december.mp3",
-    "us": "media/us/december.mp3"
+    "img": "media/img/december.webp?v=b3ac6f83",
+    "uk": "media/uk/december.mp3?v=5bf537bf",
+    "us": "media/us/december.mp3?v=20e6302a"
    },
    "spell": true,
    "avoid": [
@@ -3132,23 +3132,23 @@
     {
      "en": "We fly a kite in spring.",
      "zh": "我们春天放风筝。",
-     "audio": "media/sent/20f295ebf340.mp3"
+     "audio": "media/sent/20f295ebf340.mp3?v=44ab89f2"
     },
     {
      "en": "Tom rides his bike in spring.",
      "zh": "Tom 春天骑自行车。",
-     "audio": "media/sent/8ef030f2b979.mp3"
+     "audio": "media/sent/8ef030f2b979.mp3?v=b6e565b3"
     },
     {
      "en": "In spring, the birds sing all day.",
      "zh": "春天鸟儿整天叫。",
-     "audio": "media/sent/1f1cd35e230c.mp3"
+     "audio": "media/sent/1f1cd35e230c.mp3?v=5ae418db"
     }
    ],
    "media": {
-    "img": "media/img/spring.webp",
-    "uk": "media/uk/spring.mp3",
-    "us": "media/us/spring.mp3"
+    "img": "media/img/spring.webp?v=94934db1",
+    "uk": "media/uk/spring.mp3?v=431c3b22",
+    "us": "media/us/spring.mp3?v=8a446e56"
    },
    "spell": true,
    "avoid": [
@@ -3186,23 +3186,23 @@
     {
      "en": "We eat ice cream in summer.",
      "zh": "我们夏天吃冰激凌。",
-     "audio": "media/sent/e11e5a1b6143.mp3"
+     "audio": "media/sent/e11e5a1b6143.mp3?v=04e3e965"
     },
     {
      "en": "Lily swims every day in summer.",
      "zh": "Lily 夏天每天都游泳。",
-     "audio": "media/sent/ce1692f1d28f.mp3"
+     "audio": "media/sent/ce1692f1d28f.mp3?v=f585e8df"
     },
     {
      "en": "Grandma waters her plants in summer.",
      "zh": "奶奶夏天给她的花浇水。",
-     "audio": "media/sent/fc9e389d0d3b.mp3"
+     "audio": "media/sent/fc9e389d0d3b.mp3?v=3cd0e50c"
     }
    ],
    "media": {
-    "img": "media/img/summer.webp",
-    "uk": "media/uk/summer.mp3",
-    "us": "media/us/summer.mp3"
+    "img": "media/img/summer.webp?v=9b579d5a",
+    "uk": "media/uk/summer.mp3?v=7e5813f3",
+    "us": "media/us/summer.mp3?v=53175684"
    },
    "spell": true,
    "avoid": [
@@ -3240,23 +3240,23 @@
     {
      "en": "We collect apples in autumn.",
      "zh": "我们秋天采苹果。",
-     "audio": "media/sent/97e63e8dbf79.mp3"
+     "audio": "media/sent/97e63e8dbf79.mp3?v=c9b2485a"
     },
     {
      "en": "Tom jumps in the leaves in autumn.",
      "zh": "Tom 秋天跳叶子堆。",
-     "audio": "media/sent/47eba71d03b5.mp3"
+     "audio": "media/sent/47eba71d03b5.mp3?v=7d2da881"
     },
     {
      "en": "In autumn, the evenings are cool.",
      "zh": "秋天傍晚很凉。",
-     "audio": "media/sent/e90c955d4912.mp3"
+     "audio": "media/sent/e90c955d4912.mp3?v=e2b567b6"
     }
    ],
    "media": {
-    "img": "media/img/autumn.webp",
-    "uk": "media/uk/autumn.mp3",
-    "us": "media/us/autumn.mp3"
+    "img": "media/img/autumn.webp?v=354c462f",
+    "uk": "media/uk/autumn.mp3?v=4b04f662",
+    "us": "media/us/autumn.mp3?v=399052d9"
    },
    "spell": true,
    "avoid": [
@@ -3294,23 +3294,23 @@
     {
      "en": "We learn to skate in winter.",
      "zh": "我们冬天学滑冰。",
-     "audio": "media/sent/2125e0dd3c03.mp3"
+     "audio": "media/sent/2125e0dd3c03.mp3?v=fdd86b98"
     },
     {
      "en": "Max runs in the snow in winter.",
      "zh": "Max 冬天在雪里跑。",
-     "audio": "media/sent/26c6507c54ab.mp3"
+     "audio": "media/sent/26c6507c54ab.mp3?v=f6c94515"
     },
     {
      "en": "We drink hot soup in winter.",
      "zh": "冬天我们喝热汤。",
-     "audio": "media/sent/34094efe5ca9.mp3"
+     "audio": "media/sent/34094efe5ca9.mp3?v=3cebe15e"
     }
    ],
    "media": {
-    "img": "media/img/winter.webp",
-    "uk": "media/uk/winter.mp3",
-    "us": "media/us/winter.mp3"
+    "img": "media/img/winter.webp?v=579c4337",
+    "uk": "media/uk/winter.mp3?v=2cf7c5cb",
+    "us": "media/us/winter.mp3?v=fa5306e8"
    },
    "spell": true,
    "avoid": [
@@ -3348,23 +3348,23 @@
     {
      "en": "Lily has a birthday party.",
      "zh": "Lily 开生日聚会。",
-     "audio": "media/sent/229c569e2349.mp3"
+     "audio": "media/sent/229c569e2349.mp3?v=68f00564"
     },
     {
      "en": "Tom's birthday is in spring.",
      "zh": "Tom 的生日在春天。",
-     "audio": "media/sent/3572a4582446.mp3"
+     "audio": "media/sent/3572a4582446.mp3?v=72b9cdfd"
     },
     {
      "en": "This card is for Dad's birthday.",
      "zh": "这张卡片是给爸爸的生日的。",
-     "audio": "media/sent/b108b5b0cac7.mp3"
+     "audio": "media/sent/b108b5b0cac7.mp3?v=9d93aec6"
     }
    ],
    "media": {
-    "img": "media/img/birthday.webp",
-    "uk": "media/uk/birthday.mp3",
-    "us": "media/us/birthday.mp3"
+    "img": "media/img/birthday.webp?v=d4ec95ba",
+    "uk": "media/uk/birthday.mp3?v=4cd73072",
+    "us": "media/us/birthday.mp3?v=7b21cadd"
    },
    "spell": true,
    "hook": {
@@ -3405,23 +3405,23 @@
     {
      "en": "We don't go to school in the summer holiday.",
      "zh": "暑假我们不上学。",
-     "audio": "media/sent/d02a269c0349.mp3"
+     "audio": "media/sent/d02a269c0349.mp3?v=7609b565"
     },
     {
      "en": "We read ten books every holiday.",
      "zh": "每个假期我们都读十本书。",
-     "audio": "media/sent/d6bd0652ba75.mp3"
+     "audio": "media/sent/d6bd0652ba75.mp3?v=ede830d2"
     },
     {
      "en": "The shops are busy in the winter holiday.",
      "zh": "寒假里商店很忙。",
-     "audio": "media/sent/ece9474228d8.mp3"
+     "audio": "media/sent/ece9474228d8.mp3?v=6bad37d0"
     }
    ],
    "media": {
-    "img": "media/img/holiday.webp",
-    "uk": "media/uk/holiday.mp3",
-    "us": "media/us/holiday.mp3"
+    "img": "media/img/holiday.webp?v=ea074574",
+    "uk": "media/uk/holiday.mp3?v=7672893a",
+    "us": "media/us/holiday.mp3?v=7c0368df"
    },
    "spell": true,
    "hook": {
@@ -3462,23 +3462,23 @@
     {
      "en": "Mum has an appointment at three.",
      "zh": "妈妈三点有个预约。",
-     "audio": "media/sent/c430b0c87256.mp3"
+     "audio": "media/sent/c430b0c87256.mp3?v=80a89a6e"
     },
     {
      "en": "Dad calls to make an appointment.",
      "zh": "爸爸打电话去预约。",
-     "audio": "media/sent/561c46855c25.mp3"
+     "audio": "media/sent/561c46855c25.mp3?v=30546114"
     },
     {
      "en": "Mum is early for her appointment.",
      "zh": "妈妈的预约到得早。",
-     "audio": "media/sent/3f8f7e8528a7.mp3"
+     "audio": "media/sent/3f8f7e8528a7.mp3?v=9c6df4ee"
     }
    ],
    "media": {
-    "img": "media/img/appointment.webp",
-    "uk": "media/uk/appointment.mp3",
-    "us": "media/us/appointment.mp3"
+    "img": "media/img/appointment.webp?v=faabf666",
+    "uk": "media/uk/appointment.mp3?v=a48ecc32",
+    "us": "media/us/appointment.mp3?v=6023973c"
    },
    "hook": {
     "kind": "contrast",
@@ -3518,23 +3518,23 @@
     {
      "en": "Mum has a meeting after lunch.",
      "zh": "妈妈午饭后有会议。",
-     "audio": "media/sent/7e789e56cc63.mp3"
+     "audio": "media/sent/7e789e56cc63.mp3?v=1f404748"
     },
     {
      "en": "Dad is at a long meeting today.",
      "zh": "爸爸今天有一个很长的会议。",
-     "audio": "media/sent/827a924e0174.mp3"
+     "audio": "media/sent/827a924e0174.mp3?v=7707e104"
     },
     {
      "en": "The teachers have a meeting at five o'clock.",
      "zh": "老师们五点开会议。",
-     "audio": "media/sent/1c12fbc53504.mp3"
+     "audio": "media/sent/1c12fbc53504.mp3?v=dce45beb"
     }
    ],
    "media": {
-    "img": "media/img/meeting.webp",
-    "uk": "media/uk/meeting.mp3",
-    "us": "media/us/meeting.mp3"
+    "img": "media/img/meeting.webp?v=30d7880e",
+    "uk": "media/uk/meeting.mp3?v=2f5b70f2",
+    "us": "media/us/meeting.mp3?v=e90cbe8e"
    },
    "spell": true,
    "hook": {
@@ -3576,23 +3576,23 @@
     {
      "en": "Mum's working hours are short.",
      "zh": "妈妈的工作时间不长。",
-     "audio": "media/sent/f5a4bf91a922.mp3"
+     "audio": "media/sent/f5a4bf91a922.mp3?v=a9f566b9"
     },
     {
      "en": "Dad's working hours are long.",
      "zh": "爸爸的工作时间很长。",
-     "audio": "media/sent/652b59222b3e.mp3"
+     "audio": "media/sent/652b59222b3e.mp3?v=b4445ea3"
     },
     {
      "en": "The shop has long working hours in December.",
      "zh": "这家商店十二月的工作时间很长。",
-     "audio": "media/sent/304b972219a6.mp3"
+     "audio": "media/sent/304b972219a6.mp3?v=056ecb9c"
     }
    ],
    "media": {
-    "img": "media/img/working-hours.webp",
-    "uk": "media/word/working-hours.mp3",
-    "us": "media/word/working-hours.mp3"
+    "img": "media/img/working-hours.webp?v=a6deb1df",
+    "uk": "media/word/working-hours.mp3?v=73fa099b",
+    "us": "media/word/working-hours.mp3?v=73fa099b"
    },
    "hook": {
     "kind": "split",

@@ -8,7 +8,7 @@ import { Parent } from "./pages/Parent";
 import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { checkupWords, giveStickers, loadProgress, recordCheckup, recordStory, saveProgress, ungraduate, type Progress } from "./store/progress";
+import { checkupWords, giveStickers, loadProgress, persistStorage, recordCheckup, recordStory, saveProgress, unreadableProgress, ungraduate, type Progress } from "./store/progress";
 import { Checkup } from "./pages/Checkup";
 import { Calendar } from "./pages/Calendar";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
@@ -39,12 +39,20 @@ export function App() {
   /** The island just finished, shown once on the home screen after moving on. */
   const [finished, setFinished] = useState<Topic | undefined>();
 
+  /** The last save failed (storage full or blocked): answers now live only until the page closes. */
+  const [unsaved, setUnsaved] = useState(false);
+
   const setProgress = useCallback((f: (p: Progress) => Progress) => {
     setProgressState((p) => {
       const next = f(p);
-      saveProgress(next);
+      setUnsaved(!saveProgress(next));
       return next;
     });
+  }, []);
+
+  // without this Safari may clear the site's storage, and with it the progress, after days away
+  useEffect(() => {
+    persistStorage();
   }, []);
 
   useEffect(() => {
@@ -115,6 +123,17 @@ export function App() {
 
   return (
     <div className="shell">
+      {(unsaved || unreadableProgress()) && (
+        <div className="save-warn" role="alert">
+          {unsaved ? "⚠️ 进度没能保存到这台设备（存储空间满或被浏览器禁止）。" : "⚠️ 发现一份读不出来的旧进度。"}
+          请家长到“家长 → 备份”处理。
+          {page !== "parent" && (
+            <button className="btn btn-ghost" onClick={() => setPage("parent")}>
+              去处理
+            </button>
+          )}
+        </div>
+      )}
       <main>
         {page === "home" && (
           <Home

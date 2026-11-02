@@ -29,23 +29,23 @@
     {
      "en": "Kate has a new job.",
      "zh": "Kate 找到了一份新工作。",
-     "audio": "media/sent/f32b135d13d7.mp3"
+     "audio": "media/sent/f32b135d13d7.mp3?v=ed0d6076"
     },
     {
      "en": "Dad's job is in an office.",
      "zh": "爸爸的工作是在办公室里。",
-     "audio": "media/sent/7c52a6fcbf50.mp3"
+     "audio": "media/sent/7c52a6fcbf50.mp3?v=140c3746"
     },
     {
      "en": "Mum loves her job.",
      "zh": "妈妈很喜欢她的工作。",
-     "audio": "media/sent/43f9ee97791c.mp3"
+     "audio": "media/sent/43f9ee97791c.mp3?v=847ad23c"
     }
    ],
    "media": {
-    "img": "media/img/job.webp",
-    "uk": "media/uk/job.mp3",
-    "us": "media/us/job.mp3"
+    "img": "media/img/job.webp?v=f2fe54f8",
+    "uk": "media/uk/job.mp3?v=d64e5f40",
+    "us": "media/us/job.mp3?v=c8a4a22e"
    },
    "spell": true,
    "avoid": [
@@ -91,23 +91,23 @@
     {
      "en": "Mum goes to work by bus.",
      "zh": "妈妈坐公共汽车去上班。",
-     "audio": "media/sent/d5767057cb8d.mp3"
+     "audio": "media/sent/d5767057cb8d.mp3?v=133d1a16"
     },
     {
      "en": "Dad works in an office.",
      "zh": "爸爸在办公室里工作。",
-     "audio": "media/sent/e28c5a29c455.mp3"
+     "audio": "media/sent/e28c5a29c455.mp3?v=5203526a"
     },
     {
      "en": "Mum does not work on Sundays.",
      "zh": "妈妈星期天不工作。",
-     "audio": "media/sent/c8b22be00a42.mp3"
+     "audio": "media/sent/c8b22be00a42.mp3?v=7ed6e71b"
     }
    ],
    "media": {
-    "img": "media/img/work.webp",
-    "uk": "media/word/work.mp3",
-    "us": "media/word/work.mp3"
+    "img": "media/img/work.webp?v=f24b30a6",
+    "uk": "media/word/work.mp3?v=80c0bcd4",
+    "us": "media/word/work.mp3?v=80c0bcd4"
    },
    "avoid": [
     "break",
@@ -147,23 +147,23 @@
     {
      "en": "That worker wears a hard hat.",
      "zh": "那名工人戴着安全帽。",
-     "audio": "media/sent/a2ac93f25ea8.mp3"
+     "audio": "media/sent/a2ac93f25ea8.mp3?v=b4647304"
     },
     {
      "en": "Workers build big houses.",
      "zh": "工人们建造大房子。",
-     "audio": "media/sent/82571de81f78.mp3"
+     "audio": "media/sent/82571de81f78.mp3?v=342a0d14"
     },
     {
      "en": "Sam wants to be a worker.",
      "zh": "Sam 想当一名工人。",
-     "audio": "media/sent/c80c07634e4a.mp3"
+     "audio": "media/sent/c80c07634e4a.mp3?v=000031a6"
     }
    ],
    "media": {
-    "img": "media/img/worker.webp",
-    "uk": "media/uk/worker.mp3",
-    "us": "media/us/worker.mp3"
+    "img": "media/img/worker.webp?v=760d82eb",
+    "uk": "media/uk/worker.mp3?v=54079e19",
+    "us": "media/us/worker.mp3?v=dc14e422"
    },
    "spell": true,
    "avoid": [
@@ -205,23 +205,23 @@
     {
      "en": "What is your occupation?",
      "zh": "你的职业是什么？",
-     "audio": "media/sent/7de953cdfa47.mp3"
+     "audio": "media/sent/7de953cdfa47.mp3?v=5b90b811"
     },
     {
      "en": "Being a cook is a busy occupation.",
      "zh": "当厨师是很忙的职业。",
-     "audio": "media/sent/fff269d200d9.mp3"
+     "audio": "media/sent/fff269d200d9.mp3?v=43f93191"
     },
     {
      "en": "Lily talks about occupations at school.",
      "zh": "Lily 在学校谈论各种职业。",
-     "audio": "media/sent/ec0628e215cf.mp3"
+     "audio": "media/sent/ec0628e215cf.mp3?v=af74bdb9"
     }
    ],
    "media": {
-    "img": "media/img/occupation.webp",
-    "uk": "media/uk/occupation.mp3",
-    "us": "media/us/occupation.mp3"
+    "img": "media/img/occupation.webp?v=fc735045",
+    "uk": "media/uk/occupation.mp3?v=3277ed37",
+    "us": "media/us/occupation.mp3?v=8c2ba8f6"
    },
    "hook": {
     "kind": "story",
@@ -262,23 +262,23 @@
     {
      "en": "Dad works in a big office.",
      "zh": "爸爸在一间大办公室里工作。",
-     "audio": "media/sent/c783a308230e.mp3"
+     "audio": "media/sent/c783a308230e.mp3?v=b10b4d1c"
     },
     {
      "en": "Kate's office has a big window.",
      "zh": "Kate 的办公室有一扇大窗户。",
-     "audio": "media/sent/4b8d54fc5c25.mp3"
+     "audio": "media/sent/4b8d54fc5c25.mp3?v=f1dc2f35"
     },
     {
      "en": "Dad's office is on the third floor.",
      "zh": "爸爸的办公室在三楼。",
-     "audio": "media/sent/4663ca8a0980.mp3"
+     "audio": "media/sent/4663ca8a0980.mp3?v=19beb012"
     }
    ],
    "media": {
-    "img": "media/img/office.webp",
-    "uk": "media/uk/office.mp3",
-    "us": "media/us/office.mp3"
+    "img": "media/img/office.webp?v=3f54885a",
+    "uk": "media/uk/office.mp3?v=2543f101",
+    "us": "media/us/office.mp3?v=36df10b4"
    },
    "spell": true,
    "avoid": [
@@ -317,23 +317,23 @@
     {
      "en": "Sam's dad works for a big company.",
      "zh": "Sam 的爸爸在一家大公司工作。",
-     "audio": "media/sent/ead0dc86b8c4.mp3"
+     "audio": "media/sent/ead0dc86b8c4.mp3?v=be02dbb3"
     },
     {
      "en": "Dad's company has a new office.",
      "zh": "爸爸的公司有了新办公室。",
-     "audio": "media/sent/0770520b7ecd.mp3"
+     "audio": "media/sent/0770520b7ecd.mp3?v=31c766ab"
     },
     {
      "en": "The company makes red bicycles.",
      "zh": "这家公司制造红色的自行车。",
-     "audio": "media/sent/d8bd8699a850.mp3"
+     "audio": "media/sent/d8bd8699a850.mp3?v=b699b40a"
     }
    ],
    "media": {
-    "img": "media/img/company.webp",
-    "uk": "media/uk/company.mp3",
-    "us": "media/us/company.mp3"
+    "img": "media/img/company.webp?v=173b2a7c",
+    "uk": "media/uk/company.mp3?v=e5881dcc",
+    "us": "media/us/company.mp3?v=c3ae3d67"
    },
    "spell": true,
    "hook": {
@@ -376,23 +376,23 @@
     {
      "en": "Grandpa's business is a small shop.",
      "zh": "爷爷的生意是一家小商店。",
-     "audio": "media/sent/cb5e04271602.mp3"
+     "audio": "media/sent/cb5e04271602.mp3?v=2d8b8a5c"
     },
     {
      "en": "Grandma has a flower business.",
      "zh": "奶奶做花卉生意。",
-     "audio": "media/sent/8baa4d132f28.mp3"
+     "audio": "media/sent/8baa4d132f28.mp3?v=e1a68b89"
     },
     {
      "en": "The business sells milk and bread.",
      "zh": "这家店卖牛奶和面包。",
-     "audio": "media/sent/0f116b450ff8.mp3"
+     "audio": "media/sent/0f116b450ff8.mp3?v=ff86ef52"
     }
    ],
    "media": {
-    "img": "media/img/business.webp",
-    "uk": "media/uk/business.mp3",
-    "us": "media/us/business.mp3"
+    "img": "media/img/business.webp?v=fab61c0e",
+    "uk": "media/uk/business.mp3?v=5b197886",
+    "us": "media/us/business.mp3?v=563d3831"
    },
    "spell": true,
    "avoid": [
@@ -429,23 +429,23 @@
     {
      "en": "Mum's boss is very nice.",
      "zh": "妈妈的老板人很好。",
-     "audio": "media/sent/7e73c4e8422b.mp3"
+     "audio": "media/sent/7e73c4e8422b.mp3?v=7c629fb3"
     },
     {
      "en": "The boss talks to Dad in the office.",
      "zh": "老板在办公室里和爸爸说话。",
-     "audio": "media/sent/3ebcd5b08cc1.mp3"
+     "audio": "media/sent/3ebcd5b08cc1.mp3?v=2314e90a"
     },
     {
      "en": "Who is the boss of this shop?",
      "zh": "这家店的老板是谁？",
-     "audio": "media/sent/459f1dcad65c.mp3"
+     "audio": "media/sent/459f1dcad65c.mp3?v=5d14e18e"
     }
    ],
    "media": {
-    "img": "media/img/boss.webp",
-    "uk": "media/uk/boss.mp3",
-    "us": "media/us/boss.mp3"
+    "img": "media/img/boss.webp?v=df9fe9aa",
+    "uk": "media/uk/boss.mp3?v=f2c4078c",
+    "us": "media/us/boss.mp3?v=be406378"
    },
    "hook": {
     "kind": "contrast",
@@ -486,23 +486,23 @@
     {
      "en": "The hotel manager says hello to Dad.",
      "zh": "酒店经理和爸爸打招呼。",
-     "audio": "media/sent/bb0fe2b3247b.mp3"
+     "audio": "media/sent/bb0fe2b3247b.mp3?v=0d0f27c2"
     },
     {
      "en": "The manager works in a big hotel.",
      "zh": "经理在一家大酒店工作。",
-     "audio": "media/sent/8e61c46640c7.mp3"
+     "audio": "media/sent/8e61c46640c7.mp3?v=5a8b4c49"
     },
     {
      "en": "The manager gives us a nice room.",
      "zh": "经理给了我们一个漂亮的房间。",
-     "audio": "media/sent/ebea9a416221.mp3"
+     "audio": "media/sent/ebea9a416221.mp3?v=c49b20c7"
     }
    ],
    "media": {
-    "img": "media/img/manager.webp",
-    "uk": "media/uk/manager.mp3",
-    "us": "media/us/manager.mp3"
+    "img": "media/img/manager.webp?v=ae20fffa",
+    "uk": "media/uk/manager.mp3?v=03b51b98",
+    "us": "media/us/manager.mp3?v=f02b9297"
    },
    "hook": {
     "kind": "contrast",
@@ -541,23 +541,23 @@
     {
      "en": "The staff at the hotel are kind.",
      "zh": "那家酒店的员工很和善。",
-     "audio": "media/sent/c87ed105a5d2.mp3"
+     "audio": "media/sent/c87ed105a5d2.mp3?v=6fbab0c3"
     },
     {
      "en": "Grandma knows all the staff here.",
      "zh": "奶奶认识这里所有的员工。",
-     "audio": "media/sent/da5e0cc973fb.mp3"
+     "audio": "media/sent/da5e0cc973fb.mp3?v=a225387c"
     },
     {
      "en": "The staff at the shop work very hard.",
      "zh": "这家商店的员工工作非常努力。",
-     "audio": "media/sent/e6da5549fcad.mp3"
+     "audio": "media/sent/e6da5549fcad.mp3?v=4e59003b"
     }
    ],
    "media": {
-    "img": "media/img/staff.webp",
-    "uk": "media/uk/staff.mp3",
-    "us": "media/us/staff.mp3"
+    "img": "media/img/staff.webp?v=5a4ee1af",
+    "uk": "media/uk/staff.mp3?v=cbc8f627",
+    "us": "media/us/staff.mp3?v=c93f7570"
    },
    "hook": {
     "kind": "contrast",
@@ -599,23 +599,23 @@
     {
      "en": "The businessman carries a big bag.",
      "zh": "那位商人提着一个大包。",
-     "audio": "media/sent/f3db5d8ecb23.mp3"
+     "audio": "media/sent/f3db5d8ecb23.mp3?v=d550c6b3"
     },
     {
      "en": "That businessman works in a tall building.",
      "zh": "那位商人在一栋高楼里工作。",
-     "audio": "media/sent/8c38397caf3e.mp3"
+     "audio": "media/sent/8c38397caf3e.mp3?v=1f09e267"
     },
     {
      "en": "Sam sees the businessman at the hotel.",
      "zh": "Sam 在酒店看到那位商人。",
-     "audio": "media/sent/ca14307eb7dd.mp3"
+     "audio": "media/sent/ca14307eb7dd.mp3?v=648d4eb6"
     }
    ],
    "media": {
-    "img": "media/img/businessman.webp",
-    "uk": "media/uk/businessman.mp3",
-    "us": "media/us/businessman.mp3"
+    "img": "media/img/businessman.webp?v=cfeba1a2",
+    "uk": "media/uk/businessman.mp3?v=522bcbac",
+    "us": "media/us/businessman.mp3?v=cac76ffd"
    },
    "hook": {
     "kind": "split",
@@ -659,23 +659,23 @@
     {
      "en": "Mum's friend is a businesswoman.",
      "zh": "妈妈的朋友是一位商人。",
-     "audio": "media/sent/965d449e814d.mp3"
+     "audio": "media/sent/965d449e814d.mp3?v=ac4ddf24"
     },
     {
      "en": "That businesswoman has a new office.",
      "zh": "那位商人有一间新办公室。",
-     "audio": "media/sent/b3ba32933584.mp3"
+     "audio": "media/sent/b3ba32933584.mp3?v=27952caf"
     },
     {
      "en": "The businesswoman talks on the phone.",
      "zh": "那位商人在打电话。",
-     "audio": "media/sent/8eaccf01a842.mp3"
+     "audio": "media/sent/8eaccf01a842.mp3?v=a11be29b"
     }
    ],
    "media": {
-    "img": "media/img/businesswoman.webp",
-    "uk": "media/word/businesswoman.mp3",
-    "us": "media/word/businesswoman.mp3"
+    "img": "media/img/businesswoman.webp?v=671ef4b8",
+    "uk": "media/word/businesswoman.mp3?v=a7e61c75",
+    "us": "media/word/businesswoman.mp3?v=a7e61c75"
    },
    "hook": {
     "kind": "split",
@@ -718,23 +718,23 @@
     {
      "en": "Dad's secretary answers the phone.",
      "zh": "爸爸的秘书接电话。",
-     "audio": "media/sent/cd4243a7117b.mp3"
+     "audio": "media/sent/cd4243a7117b.mp3?v=2af3889a"
     },
     {
      "en": "The secretary works in a small office.",
      "zh": "秘书在一间小办公室里工作。",
-     "audio": "media/sent/9c00b4c98338.mp3"
+     "audio": "media/sent/9c00b4c98338.mp3?v=db80a90b"
     },
     {
      "en": "Can I see the secretary, please?",
      "zh": "我可以见一下秘书吗？",
-     "audio": "media/sent/87386c57d365.mp3"
+     "audio": "media/sent/87386c57d365.mp3?v=bba32c87"
     }
    ],
    "media": {
-    "img": "media/img/secretary.webp",
-    "uk": "media/uk/secretary.mp3",
-    "us": "media/us/secretary.mp3"
+    "img": "media/img/secretary.webp?v=8fa36fdc",
+    "uk": "media/uk/secretary.mp3?v=b4bc4d36",
+    "us": "media/us/secretary.mp3?v=99c5f69b"
    },
    "hook": {
     "kind": "story",
@@ -777,23 +777,23 @@
     {
      "en": "The receptionist gives Dad the key.",
      "zh": "接待员把钥匙给了爸爸。",
-     "audio": "media/sent/fd46d09147ef.mp3"
+     "audio": "media/sent/fd46d09147ef.mp3?v=91f99a4a"
     },
     {
      "en": "Ask the receptionist for a room.",
      "zh": "向接待员要一个房间。",
-     "audio": "media/sent/5484546024be.mp3"
+     "audio": "media/sent/5484546024be.mp3?v=06840bd5"
     },
     {
      "en": "The receptionist is always nice to guests.",
      "zh": "接待员对客人总是很和善。",
-     "audio": "media/sent/bcb5731041ae.mp3"
+     "audio": "media/sent/bcb5731041ae.mp3?v=6265839c"
     }
    ],
    "media": {
-    "img": "media/img/receptionist.webp",
-    "uk": "media/uk/receptionist.mp3",
-    "us": "media/us/receptionist.mp3"
+    "img": "media/img/receptionist.webp?v=afe10358",
+    "uk": "media/uk/receptionist.mp3?v=a79d0726",
+    "us": "media/us/receptionist.mp3?v=4f0998c0"
    },
    "hook": {
     "kind": "affix",
@@ -836,23 +836,23 @@
     {
      "en": "Dad has a meeting in the morning.",
      "zh": "爸爸上午有个会议。",
-     "audio": "media/sent/64a3f29a37dc.mp3"
+     "audio": "media/sent/64a3f29a37dc.mp3?v=298ba360"
     },
     {
      "en": "Mum is late for a meeting.",
      "zh": "妈妈开会迟到了。",
-     "audio": "media/sent/95993219d241.mp3"
+     "audio": "media/sent/95993219d241.mp3?v=a2e7b6e5"
     },
     {
      "en": "The staff have a meeting every Monday.",
      "zh": "员工们每周一开会。",
-     "audio": "media/sent/e7b9b72e23e0.mp3"
+     "audio": "media/sent/e7b9b72e23e0.mp3?v=c7e6a4eb"
     }
    ],
    "media": {
-    "img": "media/img/meeting.webp",
-    "uk": "media/uk/meeting.mp3",
-    "us": "media/us/meeting.mp3"
+    "img": "media/img/meeting.webp?v=30d7880e",
+    "uk": "media/uk/meeting.mp3?v=2f5b70f2",
+    "us": "media/us/meeting.mp3?v=e90cbe8e"
    },
    "spell": true,
    "hook": {
@@ -895,23 +895,23 @@
     {
      "en": "Dad sits at his desk all morning.",
      "zh": "爸爸整个上午都坐在他的书桌前。",
-     "audio": "media/sent/be8b040ca0c6.mp3"
+     "audio": "media/sent/be8b040ca0c6.mp3?v=9f48f5de"
     },
     {
      "en": "Mum puts her papers on the desk.",
      "zh": "妈妈把她的文件放在书桌上。",
-     "audio": "media/sent/7be998a7ca62.mp3"
+     "audio": "media/sent/7be998a7ca62.mp3?v=bf857ede"
     },
     {
      "en": "There is a lamp on Dad's desk.",
      "zh": "爸爸的书桌上有一盏台灯。",
-     "audio": "media/sent/0ebe0a334178.mp3"
+     "audio": "media/sent/0ebe0a334178.mp3?v=55e93f27"
     }
    ],
    "media": {
-    "img": "media/img/desk.webp",
-    "uk": "media/uk/desk.mp3",
-    "us": "media/us/desk.mp3"
+    "img": "media/img/desk.webp?v=4f02628f",
+    "uk": "media/uk/desk.mp3?v=01c7bcc7",
+    "us": "media/us/desk.mp3?v=8300305c"
    },
    "spell": true,
    "avoid": [
@@ -950,23 +950,23 @@
     {
      "en": "Mum checks her diary for the meeting.",
      "zh": "妈妈看看她的日记本，安排会议。",
-     "audio": "media/sent/f99f2d9a9e60.mp3"
+     "audio": "media/sent/f99f2d9a9e60.mp3?v=b06f2a5e"
     },
     {
      "en": "Grandma writes in her diary at night.",
      "zh": "奶奶晚上写日记。",
-     "audio": "media/sent/1c3b6563e29e.mp3"
+     "audio": "media/sent/1c3b6563e29e.mp3?v=5ac30281"
     },
     {
      "en": "Lily's diary is on her desk.",
      "zh": "Lily 的日记本在她的书桌上。",
-     "audio": "media/sent/59589e9d9a09.mp3"
+     "audio": "media/sent/59589e9d9a09.mp3?v=06c5c6a6"
     }
    ],
    "media": {
-    "img": "media/img/diary.webp",
-    "uk": "media/uk/diary.mp3",
-    "us": "media/us/diary.mp3"
+    "img": "media/img/diary.webp?v=f35de1f8",
+    "uk": "media/uk/diary.mp3?v=8d67bc91",
+    "us": "media/us/diary.mp3?v=c5204470"
    },
    "avoid": [
     "computer",
@@ -1011,23 +1011,23 @@
     {
      "en": "Mum reads an email at her desk.",
      "zh": "妈妈在她的书桌前看一封电子邮件。",
-     "audio": "media/sent/eca05f97d63c.mp3"
+     "audio": "media/sent/eca05f97d63c.mp3?v=d1e1f08b"
     },
     {
      "en": "Dad sends an email to the manager.",
      "zh": "爸爸发一封电子邮件给经理。",
-     "audio": "media/sent/0ac9a0784917.mp3"
+     "audio": "media/sent/0ac9a0784917.mp3?v=7cd6274a"
     },
     {
      "en": "Email Mum when you get home.",
      "zh": "到家后给妈妈发电子邮件。",
-     "audio": "media/sent/c205f6a53ee1.mp3"
+     "audio": "media/sent/c205f6a53ee1.mp3?v=c4430a77"
     }
    ],
    "media": {
-    "img": "media/img/email.webp",
-    "uk": "media/uk/email.mp3",
-    "us": "media/us/email.mp3"
+    "img": "media/img/email.webp?v=2d54ca17",
+    "uk": "media/uk/email.mp3?v=e6dcbe97",
+    "us": "media/us/email.mp3?v=75758902"
    },
    "spell": true,
    "avoid": [
@@ -1072,23 +1072,23 @@
     {
      "en": "Mum leaves a message for Dad.",
      "zh": "妈妈给爸爸留了一条消息。",
-     "audio": "media/sent/c983b0df46a1.mp3"
+     "audio": "media/sent/c983b0df46a1.mp3?v=0d258af6"
     },
     {
      "en": "Dad messages Mum at work.",
      "zh": "爸爸在工作时给妈妈发消息。",
-     "audio": "media/sent/c972a7b826f5.mp3"
+     "audio": "media/sent/c972a7b826f5.mp3?v=571ed474"
     },
     {
      "en": "Grandma has a message for Sam.",
      "zh": "奶奶有给 Sam 的口信。",
-     "audio": "media/sent/d750b1553931.mp3"
+     "audio": "media/sent/d750b1553931.mp3?v=bbc87275"
     }
    ],
    "media": {
-    "img": "media/img/message.webp",
-    "uk": "media/uk/message.mp3",
-    "us": "media/us/message.mp3"
+    "img": "media/img/message.webp?v=204a02a2",
+    "uk": "media/uk/message.mp3?v=a0fd8748",
+    "us": "media/us/message.mp3?v=eae54274"
    },
    "spell": true,
    "avoid": [
@@ -1132,23 +1132,23 @@
     {
      "en": "Lily writes a letter to Grandma.",
      "zh": "Lily 给奶奶写了一封信。",
-     "audio": "media/sent/e9d5e0cf5ccf.mp3"
+     "audio": "media/sent/e9d5e0cf5ccf.mp3?v=5d182099"
     },
     {
      "en": "Dad reads the letter at his desk.",
      "zh": "爸爸坐在他的书桌前读信。",
-     "audio": "media/sent/36992699853d.mp3"
+     "audio": "media/sent/36992699853d.mp3?v=dd8af94d"
     },
     {
      "en": "Grandma's letter comes on Monday.",
      "zh": "奶奶的信星期一寄到。",
-     "audio": "media/sent/5a6d7a1df78a.mp3"
+     "audio": "media/sent/5a6d7a1df78a.mp3?v=5fffa072"
     }
    ],
    "media": {
-    "img": "media/img/letter.webp",
-    "uk": "media/uk/letter.mp3",
-    "us": "media/us/letter.mp3"
+    "img": "media/img/letter.webp?v=6dddb76c",
+    "uk": "media/uk/letter.mp3?v=22fe715d",
+    "us": "media/us/letter.mp3?v=a0d8d8c4"
    },
    "spell": true,
    "avoid": [
@@ -1184,23 +1184,23 @@
     {
      "en": "Sam earns money by washing cars.",
      "zh": "Sam 靠洗车挣钱。",
-     "audio": "media/sent/0685ea453a1a.mp3"
+     "audio": "media/sent/0685ea453a1a.mp3?v=65ef4421"
     },
     {
      "en": "Mum works to earn money.",
      "zh": "妈妈工作挣钱。",
-     "audio": "media/sent/953722923fa3.mp3"
+     "audio": "media/sent/953722923fa3.mp3?v=fd7ee941"
     },
     {
      "en": "Grandpa does not earn money now.",
      "zh": "爷爷现在不挣钱了。",
-     "audio": "media/sent/04279f5a49f7.mp3"
+     "audio": "media/sent/04279f5a49f7.mp3?v=2a444b32"
     }
    ],
    "media": {
-    "img": "media/img/earn.webp",
-    "uk": "media/uk/earn.mp3",
-    "us": "media/us/earn.mp3"
+    "img": "media/img/earn.webp?v=fbf7dee8",
+    "uk": "media/uk/earn.mp3?v=fd341b1d",
+    "us": "media/us/earn.mp3?v=bc7e93fd"
    },
    "hook": {
     "kind": "contrast",
@@ -1240,23 +1240,23 @@
     {
      "en": "The doctor works in a big hospital.",
      "zh": "那位医生在一所大医院里工作。",
-     "audio": "media/sent/8c9b7b3b7d54.mp3"
+     "audio": "media/sent/8c9b7b3b7d54.mp3?v=928be699"
     },
     {
      "en": "That doctor is very kind.",
      "zh": "那位医生很和蔼。",
-     "audio": "media/sent/9433f3b1b0a1.mp3"
+     "audio": "media/sent/9433f3b1b0a1.mp3?v=26a65b6f"
     },
     {
      "en": "Sam wants to be a doctor.",
      "zh": "Sam 想当医生。",
-     "audio": "media/sent/4b60c74743bd.mp3"
+     "audio": "media/sent/4b60c74743bd.mp3?v=08fed2c8"
     }
    ],
    "media": {
-    "img": "media/img/doctor.webp",
-    "uk": "media/uk/doctor.mp3",
-    "us": "media/us/doctor.mp3"
+    "img": "media/img/doctor.webp?v=3f33b72f",
+    "uk": "media/uk/doctor.mp3?v=2a7b93ec",
+    "us": "media/us/doctor.mp3?v=77062ca3"
    },
    "spell": true,
    "avoid": [
@@ -1294,23 +1294,23 @@
     {
      "en": "Dr Brown works in a hospital.",
      "zh": "Brown 医生在医院里工作。",
-     "audio": "media/sent/ecbeea2a7f9f.mp3"
+     "audio": "media/sent/ecbeea2a7f9f.mp3?v=a77785e3"
     },
     {
      "en": "This is Dr Brown.",
      "zh": "这是 Brown 医生。",
-     "audio": "media/sent/83b13f6d5bfd.mp3"
+     "audio": "media/sent/83b13f6d5bfd.mp3?v=11bc90ca"
     },
     {
      "en": "Mum thanks Dr Brown.",
      "zh": "妈妈感谢 Brown 医生。",
-     "audio": "media/sent/4d5ad154ee11.mp3"
+     "audio": "media/sent/4d5ad154ee11.mp3?v=ce627738"
     }
    ],
    "media": {
-    "img": "media/img/dr.webp",
-    "uk": "media/word/dr.mp3",
-    "us": "media/word/dr.mp3"
+    "img": "media/img/dr.webp?v=4aa3b804",
+    "uk": "media/word/dr.mp3?v=46fafaa4",
+    "us": "media/word/dr.mp3?v=46fafaa4"
    },
    "avoid": [
     "dentist",
@@ -1346,23 +1346,23 @@
     {
      "en": "The nurse works at night.",
      "zh": "那位护士晚上工作。",
-     "audio": "media/sent/60b6a8185f4d.mp3"
+     "audio": "media/sent/60b6a8185f4d.mp3?v=c9123ba0"
     },
     {
      "en": "A nurse helps the doctor.",
      "zh": "护士帮助医生。",
-     "audio": "media/sent/f919a9e89e3a.mp3"
+     "audio": "media/sent/f919a9e89e3a.mp3?v=fccc888b"
     },
     {
      "en": "Lily's aunt is a nurse.",
      "zh": "Lily 的姑妈是护士。",
-     "audio": "media/sent/cde01291c2b9.mp3"
+     "audio": "media/sent/cde01291c2b9.mp3?v=115bd849"
     }
    ],
    "media": {
-    "img": "media/img/nurse.webp",
-    "uk": "media/uk/nurse.mp3",
-    "us": "media/us/nurse.mp3"
+    "img": "media/img/nurse.webp?v=163e370f",
+    "uk": "media/uk/nurse.mp3?v=77929dd7",
+    "us": "media/us/nurse.mp3?v=e01ed759"
    },
    "hook": {
     "kind": "contrast",
@@ -1404,23 +1404,23 @@
     {
      "en": "Our dentist is very friendly.",
      "zh": "我们的牙医很友好。",
-     "audio": "media/sent/b5eb44556bdd.mp3"
+     "audio": "media/sent/b5eb44556bdd.mp3?v=7b9bcf5c"
     },
     {
      "en": "Mum's friend is a dentist.",
      "zh": "妈妈的朋友是牙医。",
-     "audio": "media/sent/e5f461198ea1.mp3"
+     "audio": "media/sent/e5f461198ea1.mp3?v=af261d25"
     },
     {
      "en": "The dentist looks at Tom's teeth.",
      "zh": "牙医看看 Tom 的牙齿。",
-     "audio": "media/sent/461efc00a13e.mp3"
+     "audio": "media/sent/461efc00a13e.mp3?v=cd09cbd2"
     }
    ],
    "media": {
-    "img": "media/img/dentist.webp",
-    "uk": "media/uk/dentist.mp3",
-    "us": "media/us/dentist.mp3"
+    "img": "media/img/dentist.webp?v=72b56187",
+    "uk": "media/uk/dentist.mp3?v=c3298fc4",
+    "us": "media/us/dentist.mp3?v=73ae7add"
    },
    "avoid": [
     "doctor",
@@ -1457,23 +1457,23 @@
     {
      "en": "The chemist sells medicine.",
      "zh": "药店卖药。",
-     "audio": "media/sent/a09d9e221ddb.mp3"
+     "audio": "media/sent/a09d9e221ddb.mp3?v=2b8c9cdf"
     },
     {
      "en": "Grandma talks to the chemist.",
      "zh": "奶奶和药剂师说话。",
-     "audio": "media/sent/581528cb4dc0.mp3"
+     "audio": "media/sent/581528cb4dc0.mp3?v=5468d2f5"
     },
     {
      "en": "Sam's aunt works at the chemist's.",
      "zh": "Sam 的姑妈在药店工作。",
-     "audio": "media/sent/9361aceda4c3.mp3"
+     "audio": "media/sent/9361aceda4c3.mp3?v=c81d1f6a"
     }
    ],
    "media": {
-    "img": "media/img/chemist.webp",
-    "uk": "media/uk/chemist.mp3",
-    "us": "media/us/chemist.mp3"
+    "img": "media/img/chemist.webp?v=cad68c46",
+    "uk": "media/uk/chemist.mp3?v=f839bd11",
+    "us": "media/us/chemist.mp3?v=432d49ff"
    },
    "hook": {
     "kind": "contrast",
@@ -1513,23 +1513,23 @@
     {
      "en": "Lily's teacher works at our school.",
      "zh": "Lily 的老师在我们学校工作。",
-     "audio": "media/sent/600c41cb00c6.mp3"
+     "audio": "media/sent/600c41cb00c6.mp3?v=1433d626"
     },
     {
      "en": "Mia's mum is a teacher.",
      "zh": "Mia 的妈妈是老师。",
-     "audio": "media/sent/11feab3471e8.mp3"
+     "audio": "media/sent/11feab3471e8.mp3?v=20260c7a"
     },
     {
      "en": "Grandpa was a teacher.",
      "zh": "爷爷以前是老师。",
-     "audio": "media/sent/b70c29e0701c.mp3"
+     "audio": "media/sent/b70c29e0701c.mp3?v=0ee22a31"
     }
    ],
    "media": {
-    "img": "media/img/teacher.webp",
-    "uk": "media/uk/teacher.mp3",
-    "us": "media/us/teacher.mp3"
+    "img": "media/img/teacher.webp?v=4e70029c",
+    "uk": "media/uk/teacher.mp3?v=954670ac",
+    "us": "media/us/teacher.mp3?v=1fc4562e"
    },
    "spell": true,
    "hook": {
@@ -1570,23 +1570,23 @@
     {
      "en": "Sam is a good student at school.",
      "zh": "Sam 在学校是个好学生。",
-     "audio": "media/sent/249bdd67de0d.mp3"
+     "audio": "media/sent/249bdd67de0d.mp3?v=c1101e74"
     },
     {
      "en": "Our class has twenty students.",
      "zh": "我们班有二十个学生。",
-     "audio": "media/sent/e57d8d109056.mp3"
+     "audio": "media/sent/e57d8d109056.mp3?v=a1df3a5f"
     },
     {
      "en": "Tom wants to be a student.",
      "zh": "Tom 想当学生。",
-     "audio": "media/sent/64d96e9b688c.mp3"
+     "audio": "media/sent/64d96e9b688c.mp3?v=67f62d96"
     }
    ],
    "media": {
-    "img": "media/img/student.webp",
-    "uk": "media/uk/student.mp3",
-    "us": "media/us/student.mp3"
+    "img": "media/img/student.webp?v=08d00abe",
+    "uk": "media/uk/student.mp3?v=118dcaa8",
+    "us": "media/us/student.mp3?v=310ed615"
    },
    "spell": true,
    "avoid": [
@@ -1629,23 +1629,23 @@
     {
      "en": "The cook makes us a big breakfast.",
      "zh": "厨师给我们做一顿大早餐。",
-     "audio": "media/sent/fc987f7c82c7.mp3"
+     "audio": "media/sent/fc987f7c82c7.mp3?v=c9f97c4b"
     },
     {
      "en": "Dad cooks dinner on Sundays.",
      "zh": "爸爸星期天做晚饭。",
-     "audio": "media/sent/b5b4d0177d6d.mp3"
+     "audio": "media/sent/b5b4d0177d6d.mp3?v=eeea00cd"
     },
     {
      "en": "Can you cook eggs, Tom?",
      "zh": "Tom，你会煮鸡蛋吗？",
-     "audio": "media/sent/de5ef4b7a54e.mp3"
+     "audio": "media/sent/de5ef4b7a54e.mp3?v=85285b03"
     }
    ],
    "media": {
-    "img": "media/img/cook.webp",
-    "uk": "media/uk/cook.mp3",
-    "us": "media/us/cook.mp3"
+    "img": "media/img/cook.webp?v=ce0e374d",
+    "uk": "media/uk/cook.mp3?v=b38c711e",
+    "us": "media/us/cook.mp3?v=c66e642e"
    },
    "spell": true,
    "avoid": [
@@ -1682,23 +1682,23 @@
     {
      "en": "Tom's uncle is a waiter.",
      "zh": "Tom 的叔叔是服务员。",
-     "audio": "media/sent/44db84a7cc17.mp3"
+     "audio": "media/sent/44db84a7cc17.mp3?v=44bad540"
     },
     {
      "en": "The waiter works in a busy restaurant.",
      "zh": "那位服务员在一家繁忙的餐馆工作。",
-     "audio": "media/sent/48ae1f7b452f.mp3"
+     "audio": "media/sent/48ae1f7b452f.mp3?v=6356c537"
     },
     {
      "en": "The waiter brings us our drinks.",
      "zh": "服务员给我们端来饮料。",
-     "audio": "media/sent/70d24c6ec087.mp3"
+     "audio": "media/sent/70d24c6ec087.mp3?v=2142de6c"
     }
    ],
    "media": {
-    "img": "media/img/waiter.webp",
-    "uk": "media/uk/waiter.mp3",
-    "us": "media/us/waiter.mp3"
+    "img": "media/img/waiter.webp?v=38c24f8d",
+    "uk": "media/uk/waiter.mp3?v=9a9bb45d",
+    "us": "media/us/waiter.mp3?v=bd5bf36e"
    },
    "spell": true,
    "avoid": [
@@ -1735,23 +1735,23 @@
     {
      "en": "Mia's mum is a waitress.",
      "zh": "Mia 的妈妈是女服务员。",
-     "audio": "media/sent/f54bdbe599b4.mp3"
+     "audio": "media/sent/f54bdbe599b4.mp3?v=cc965a14"
     },
     {
      "en": "The waitress works in a cafe.",
      "zh": "那位女服务员在咖啡馆工作。",
-     "audio": "media/sent/fb5efec0f72d.mp3"
+     "audio": "media/sent/fb5efec0f72d.mp3?v=ddc833e9"
     },
     {
      "en": "The waitress takes the cups to the kitchen.",
      "zh": "女服务员把杯子拿到厨房。",
-     "audio": "media/sent/1bd5e659feb1.mp3"
+     "audio": "media/sent/1bd5e659feb1.mp3?v=3dfda520"
     }
    ],
    "media": {
-    "img": "media/img/waitress.webp",
-    "uk": "media/uk/waitress.mp3",
-    "us": "media/us/waitress.mp3"
+    "img": "media/img/waitress.webp?v=e95ff271",
+    "uk": "media/uk/waitress.mp3?v=76b701b2",
+    "us": "media/us/waitress.mp3?v=7081a051"
    },
    "spell": true,
    "avoid": [
@@ -1788,23 +1788,23 @@
     {
      "en": "The cleaner works at our school.",
      "zh": "清洁工在我们学校工作。",
-     "audio": "media/sent/5577c8faf657.mp3"
+     "audio": "media/sent/5577c8faf657.mp3?v=fc87a865"
     },
     {
      "en": "The cleaner cleans the floor.",
      "zh": "清洁工打扫地板。",
-     "audio": "media/sent/ee71e2e12fdb.mp3"
+     "audio": "media/sent/ee71e2e12fdb.mp3?v=696612f1"
     },
     {
      "en": "Lily says thank you to the cleaner.",
      "zh": "Lily 对清洁工说谢谢。",
-     "audio": "media/sent/5a635779933c.mp3"
+     "audio": "media/sent/5a635779933c.mp3?v=a8354e33"
     }
    ],
    "media": {
-    "img": "media/img/cleaner.webp",
-    "uk": "media/uk/cleaner.mp3",
-    "us": "media/us/cleaner.mp3"
+    "img": "media/img/cleaner.webp?v=6c47e032",
+    "uk": "media/uk/cleaner.mp3?v=837dccc0",
+    "us": "media/us/cleaner.mp3?v=c0b66673"
    },
    "hook": {
     "kind": "affix",
@@ -1847,23 +1847,23 @@
     {
      "en": "The shop assistant helps Mum.",
      "zh": "店员帮了妈妈。",
-     "audio": "media/sent/3bf5a41b5473.mp3"
+     "audio": "media/sent/3bf5a41b5473.mp3?v=ceee81ea"
     },
     {
      "en": "The shop assistant sells T-shirts.",
      "zh": "店员卖T恤。",
-     "audio": "media/sent/9afb15691385.mp3"
+     "audio": "media/sent/9afb15691385.mp3?v=a60086ca"
     },
     {
      "en": "Grandma talks to the shop assistant.",
      "zh": "奶奶和店员说话。",
-     "audio": "media/sent/575e467549ed.mp3"
+     "audio": "media/sent/575e467549ed.mp3?v=cbff6d4c"
     }
    ],
    "media": {
-    "img": "media/img/shop-assistant.webp",
-    "uk": "media/word/shop-assistant.mp3",
-    "us": "media/word/shop-assistant.mp3"
+    "img": "media/img/shop-assistant.webp?v=5422cc23",
+    "uk": "media/word/shop-assistant.mp3?v=153bc27a",
+    "us": "media/word/shop-assistant.mp3?v=153bc27a"
    },
    "hook": {
     "kind": "split",
@@ -1905,23 +1905,23 @@
     {
      "en": "That customer buys apples every week.",
      "zh": "那位顾客每周都买苹果。",
-     "audio": "media/sent/810cd32aa995.mp3"
+     "audio": "media/sent/810cd32aa995.mp3?v=c99db678"
     },
     {
      "en": "The shop assistant thanks the customer.",
      "zh": "店员感谢那位顾客。",
-     "audio": "media/sent/0a8c99e1847e.mp3"
+     "audio": "media/sent/0a8c99e1847e.mp3?v=59b1d697"
     },
     {
      "en": "There are many customers on Saturday.",
      "zh": "星期六有很多顾客。",
-     "audio": "media/sent/f9b30b82e389.mp3"
+     "audio": "media/sent/f9b30b82e389.mp3?v=5d2b640a"
     }
    ],
    "media": {
-    "img": "media/img/customer.webp",
-    "uk": "media/uk/customer.mp3",
-    "us": "media/us/customer.mp3"
+    "img": "media/img/customer.webp?v=2214de33",
+    "uk": "media/uk/customer.mp3?v=69ecbc6c",
+    "us": "media/us/customer.mp3?v=792d3c9f"
    },
    "hook": {
     "kind": "affix",
@@ -1964,23 +1964,23 @@
     {
      "en": "The shoppers carry many bags.",
      "zh": "购物者们提着很多袋子。",
-     "audio": "media/sent/2dc0d995b489.mp3"
+     "audio": "media/sent/2dc0d995b489.mp3?v=c8eb5049"
     },
     {
      "en": "Every shopper has a big red bag.",
      "zh": "每位购物者都有一个红色的大袋子。",
-     "audio": "media/sent/cb89caba34dc.mp3"
+     "audio": "media/sent/cb89caba34dc.mp3?v=2cf6d1cf"
     },
     {
      "en": "The shoppers walk slowly along the street.",
      "zh": "购物者们沿着街道慢慢走。",
-     "audio": "media/sent/def427d26e0a.mp3"
+     "audio": "media/sent/def427d26e0a.mp3?v=07f930b1"
     }
    ],
    "media": {
-    "img": "media/img/shopper.webp",
-    "uk": "media/word/shopper.mp3",
-    "us": "media/word/shopper.mp3"
+    "img": "media/img/shopper.webp?v=83c456cd",
+    "uk": "media/word/shopper.mp3?v=3785467e",
+    "us": "media/word/shopper.mp3?v=3785467e"
    },
    "hook": {
     "kind": "story",
@@ -2020,23 +2020,23 @@
     {
      "en": "The hotel has a new guest today.",
      "zh": "旅馆今天来了一位新客人。",
-     "audio": "media/sent/a3513192d3b0.mp3"
+     "audio": "media/sent/a3513192d3b0.mp3?v=f64e8020"
     },
     {
      "en": "Grandpa is our guest tonight.",
      "zh": "爷爷今晚是我们的客人。",
-     "audio": "media/sent/9ace245fa554.mp3"
+     "audio": "media/sent/9ace245fa554.mp3?v=3421ee6f"
     },
     {
      "en": "Every guest gets a cup of tea.",
      "zh": "每位客人都有一杯茶。",
-     "audio": "media/sent/7cf31512a591.mp3"
+     "audio": "media/sent/7cf31512a591.mp3?v=32f13ccc"
     }
    ],
    "media": {
-    "img": "media/img/guest.webp",
-    "uk": "media/uk/guest.mp3",
-    "us": "media/us/guest.mp3"
+    "img": "media/img/guest.webp?v=422b2fc2",
+    "uk": "media/uk/guest.mp3?v=6b825816",
+    "us": "media/us/guest.mp3?v=026c2098"
    },
    "hook": {
     "kind": "contrast",
@@ -2079,23 +2079,23 @@
     {
      "en": "A police officer helps us cross the road.",
      "zh": "一位警察帮我们过马路。",
-     "audio": "media/sent/f3963055818c.mp3"
+     "audio": "media/sent/f3963055818c.mp3?v=70f72724"
     },
     {
      "en": "The police officer says hello to Tom.",
      "zh": "那位警察和 Tom 打招呼。",
-     "audio": "media/sent/fb7a62468844.mp3"
+     "audio": "media/sent/fb7a62468844.mp3?v=6c9262fa"
     },
     {
      "en": "Sam wants to be a police officer.",
      "zh": "Sam 想当警察。",
-     "audio": "media/sent/57b1d1efcf3b.mp3"
+     "audio": "media/sent/57b1d1efcf3b.mp3?v=1823b604"
     }
    ],
    "media": {
-    "img": "media/img/police-officer.webp",
-    "uk": "media/word/police-officer.mp3",
-    "us": "media/word/police-officer.mp3"
+    "img": "media/img/police-officer.webp?v=508810b1",
+    "uk": "media/word/police-officer.mp3?v=28c58057",
+    "us": "media/word/police-officer.mp3?v=28c58057"
    },
    "hook": {
     "kind": "split",
@@ -2135,23 +2135,23 @@
     {
      "en": "Sam's uncle is a bus driver.",
      "zh": "Sam 的叔叔是公交车司机。",
-     "audio": "media/sent/b62d6bca0cd5.mp3"
+     "audio": "media/sent/b62d6bca0cd5.mp3?v=9fc2a7f3"
     },
     {
      "en": "The driver works every morning.",
      "zh": "那位司机每天早上工作。",
-     "audio": "media/sent/ef3fe69f403b.mp3"
+     "audio": "media/sent/ef3fe69f403b.mp3?v=47e08368"
     },
     {
      "en": "Grandpa was a taxi driver.",
      "zh": "爷爷以前是出租车司机。",
-     "audio": "media/sent/c1b6a10fdef1.mp3"
+     "audio": "media/sent/c1b6a10fdef1.mp3?v=233cff0e"
     }
    ],
    "media": {
-    "img": "media/img/driver.webp",
-    "uk": "media/uk/driver.mp3",
-    "us": "media/us/driver.mp3"
+    "img": "media/img/driver.webp?v=cbb146ca",
+    "uk": "media/uk/driver.mp3?v=7dd2a8e2",
+    "us": "media/us/driver.mp3?v=ce689205"
    },
    "spell": true,
    "avoid": [
@@ -2188,23 +2188,23 @@
     {
      "en": "Mum's friend is a pilot.",
      "zh": "妈妈的朋友是飞行员。",
-     "audio": "media/sent/cd0428921560.mp3"
+     "audio": "media/sent/cd0428921560.mp3?v=daf5fc3f"
     },
     {
      "en": "The pilot talks to us on the plane.",
      "zh": "飞行员在飞机上和我们说话。",
-     "audio": "media/sent/ba49dbb5d6a5.mp3"
+     "audio": "media/sent/ba49dbb5d6a5.mp3?v=2b858338"
     },
     {
      "en": "The pilot wears a blue cap.",
      "zh": "飞行员戴蓝色的帽子。",
-     "audio": "media/sent/9b3449f40222.mp3"
+     "audio": "media/sent/9b3449f40222.mp3?v=0f7c8102"
     }
    ],
    "media": {
-    "img": "media/img/pilot.webp",
-    "uk": "media/uk/pilot.mp3",
-    "us": "media/us/pilot.mp3"
+    "img": "media/img/pilot.webp?v=abc446e2",
+    "uk": "media/uk/pilot.mp3?v=565e4195",
+    "us": "media/us/pilot.mp3?v=eedf7a95"
    },
    "hook": {
     "kind": "story",
@@ -2245,23 +2245,23 @@
     {
      "en": "The mechanic works in a garage.",
      "zh": "修理工在车库里工作。",
-     "audio": "media/sent/a77e737e50ef.mp3"
+     "audio": "media/sent/a77e737e50ef.mp3?v=8203c4cf"
     },
     {
      "en": "Dad talks to the mechanic.",
      "zh": "爸爸和修理工说话。",
-     "audio": "media/sent/5b575e4cbfd8.mp3"
+     "audio": "media/sent/5b575e4cbfd8.mp3?v=a9dd1a17"
     },
     {
      "en": "The mechanic changes our car wheel.",
      "zh": "修理工给我们换汽车轮子。",
-     "audio": "media/sent/0c8259e4b805.mp3"
+     "audio": "media/sent/0c8259e4b805.mp3?v=498dc9a2"
     }
    ],
    "media": {
-    "img": "media/img/mechanic.webp",
-    "uk": "media/uk/mechanic.mp3",
-    "us": "media/us/mechanic.mp3"
+    "img": "media/img/mechanic.webp?v=6bb27b61",
+    "uk": "media/uk/mechanic.mp3?v=138ea609",
+    "us": "media/us/mechanic.mp3?v=ad0d2b22"
    },
    "hook": {
     "kind": "contrast",
@@ -2302,23 +2302,23 @@
     {
      "en": "The engineer checks the new bridge.",
      "zh": "工程师检查那座新桥。",
-     "audio": "media/sent/e89de05fd5dc.mp3"
+     "audio": "media/sent/e89de05fd5dc.mp3?v=f5beac75"
     },
     {
      "en": "Dad's sister is an engineer.",
      "zh": "爸爸的姐妹是工程师。",
-     "audio": "media/sent/c9fd0794d16e.mp3"
+     "audio": "media/sent/c9fd0794d16e.mp3?v=b3a80edb"
     },
     {
      "en": "The engineer wears a hard hat.",
      "zh": "工程师戴安全帽。",
-     "audio": "media/sent/6c6c96c786f4.mp3"
+     "audio": "media/sent/6c6c96c786f4.mp3?v=11ab944a"
     }
    ],
    "media": {
-    "img": "media/img/engineer.webp",
-    "uk": "media/uk/engineer.mp3",
-    "us": "media/us/engineer.mp3"
+    "img": "media/img/engineer.webp?v=18242dc4",
+    "uk": "media/uk/engineer.mp3?v=da825529",
+    "us": "media/us/engineer.mp3?v=bdd437d4"
    },
    "hook": {
     "kind": "affix",
@@ -2358,23 +2358,23 @@
     {
      "en": "The farmer gets up early every morning.",
      "zh": "那位农民每天早上早早起床。",
-     "audio": "media/sent/b35ae046ef9e.mp3"
+     "audio": "media/sent/b35ae046ef9e.mp3?v=a87ad885"
     },
     {
      "en": "The farmer has cows and sheep.",
      "zh": "那位农民有奶牛和绵羊。",
-     "audio": "media/sent/f1d9f9975db9.mp3"
+     "audio": "media/sent/f1d9f9975db9.mp3?v=0a699d8a"
     },
     {
      "en": "Sam talks to the farmer at the gate.",
      "zh": "Sam 在门口和农民说话。",
-     "audio": "media/sent/1e5c6c849c1b.mp3"
+     "audio": "media/sent/1e5c6c849c1b.mp3?v=b21a960d"
     }
    ],
    "media": {
-    "img": "media/img/farmer.webp",
-    "uk": "media/uk/farmer.mp3",
-    "us": "media/us/farmer.mp3"
+    "img": "media/img/farmer.webp?v=ac360f91",
+    "uk": "media/uk/farmer.mp3?v=77287be7",
+    "us": "media/us/farmer.mp3?v=fb5d0220"
    },
    "spell": true,
    "avoid": [
@@ -2410,23 +2410,23 @@
     {
      "en": "Grandpa has a big farm.",
      "zh": "爷爷有一个大农场。",
-     "audio": "media/sent/dabacb235b61.mp3"
+     "audio": "media/sent/dabacb235b61.mp3?v=2d887079"
     },
     {
      "en": "We visit Grandpa's farm on Saturday.",
      "zh": "我们星期六去爷爷的农场。",
-     "audio": "media/sent/f6fbaa16d1d3.mp3"
+     "audio": "media/sent/f6fbaa16d1d3.mp3?v=8ae10d86"
     },
     {
      "en": "The milk comes from this farm.",
      "zh": "这些牛奶来自这个农场。",
-     "audio": "media/sent/ea07115acadd.mp3"
+     "audio": "media/sent/ea07115acadd.mp3?v=67e53789"
     }
    ],
    "media": {
-    "img": "media/img/farm.webp",
-    "uk": "media/uk/farm.mp3",
-    "us": "media/us/farm.mp3"
+    "img": "media/img/farm.webp?v=7e2398cf",
+    "uk": "media/uk/farm.mp3?v=c99eb965",
+    "us": "media/us/farm.mp3?v=b3344662"
    },
    "spell": true,
    "avoid": [
@@ -2464,23 +2464,23 @@
     {
      "en": "Mia's dad works in a toy factory.",
      "zh": "Mia 的爸爸在一家玩具厂工作。",
-     "audio": "media/sent/8c3b4301b847.mp3"
+     "audio": "media/sent/8c3b4301b847.mp3?v=b51b446b"
     },
     {
      "en": "This factory makes toy cars.",
      "zh": "这家工厂生产玩具汽车。",
-     "audio": "media/sent/0e006a1fa0c0.mp3"
+     "audio": "media/sent/0e006a1fa0c0.mp3?v=5597f8c0"
     },
     {
      "en": "The factory is near the river.",
      "zh": "工厂在河边。",
-     "audio": "media/sent/7b024bcd0359.mp3"
+     "audio": "media/sent/7b024bcd0359.mp3?v=a842144a"
     }
    ],
    "media": {
-    "img": "media/img/factory.webp",
-    "uk": "media/uk/factory.mp3",
-    "us": "media/us/factory.mp3"
+    "img": "media/img/factory.webp?v=4d792685",
+    "uk": "media/uk/factory.mp3?v=ef98582c",
+    "us": "media/us/factory.mp3?v=3e4b8e78"
    },
    "hook": {
     "kind": "contrast",
@@ -2523,23 +2523,23 @@
     {
      "en": "That actor is on television.",
      "zh": "那名演员在电视上。",
-     "audio": "media/sent/4fa5a00b68f7.mp3"
+     "audio": "media/sent/4fa5a00b68f7.mp3?v=697a93cf"
     },
     {
      "en": "The actor wears a funny hat.",
      "zh": "那位演员戴一顶滑稽的帽子。",
-     "audio": "media/sent/ecc24c92831b.mp3"
+     "audio": "media/sent/ecc24c92831b.mp3?v=b579baa1"
     },
     {
      "en": "Lily wants to be an actor.",
      "zh": "Lily 想当一名演员。",
-     "audio": "media/sent/9795d5faf99b.mp3"
+     "audio": "media/sent/9795d5faf99b.mp3?v=eb9363e3"
     }
    ],
    "media": {
-    "img": "media/img/actor.webp",
-    "uk": "media/uk/actor.mp3",
-    "us": "media/us/actor.mp3"
+    "img": "media/img/actor.webp?v=2bef2396",
+    "uk": "media/uk/actor.mp3?v=cd2f0617",
+    "us": "media/us/actor.mp3?v=211d2dc4"
    },
    "spell": true,
    "avoid": [
@@ -2577,23 +2577,23 @@
     {
      "en": "The artist paints beautiful pictures.",
      "zh": "那位画家画漂亮的图画。",
-     "audio": "media/sent/919cfa69b2df.mp3"
+     "audio": "media/sent/919cfa69b2df.mp3?v=9d80d4b4"
     },
     {
      "en": "That artist works in a small room.",
      "zh": "那位画家在一个小房间里工作。",
-     "audio": "media/sent/7ae192c2da22.mp3"
+     "audio": "media/sent/7ae192c2da22.mp3?v=3864e35e"
     },
     {
      "en": "Sam likes this artist's pictures.",
      "zh": "Sam 喜欢这位画家的图画。",
-     "audio": "media/sent/1d08a083d7a9.mp3"
+     "audio": "media/sent/1d08a083d7a9.mp3?v=59a664b2"
     }
    ],
    "media": {
-    "img": "media/img/artist.webp",
-    "uk": "media/uk/artist.mp3",
-    "us": "media/us/artist.mp3"
+    "img": "media/img/artist.webp?v=99fb36f6",
+    "uk": "media/uk/artist.mp3?v=d724b156",
+    "us": "media/us/artist.mp3?v=bf3cf1ff"
    },
    "spell": true,
    "avoid": [
@@ -2630,23 +2630,23 @@
     {
      "en": "The painter paints the kitchen wall.",
      "zh": "油漆工粉刷厨房的墙。",
-     "audio": "media/sent/bbd782443549.mp3"
+     "audio": "media/sent/bbd782443549.mp3?v=02da0b11"
     },
     {
      "en": "The painter wears old clothes.",
      "zh": "那位油漆工穿着旧衣服。",
-     "audio": "media/sent/56fa38d9d2bb.mp3"
+     "audio": "media/sent/56fa38d9d2bb.mp3?v=a9405228"
     },
     {
      "en": "Dad asks the painter to paint the door.",
      "zh": "爸爸请油漆工油漆门。",
-     "audio": "media/sent/a3647b2fff00.mp3"
+     "audio": "media/sent/a3647b2fff00.mp3?v=de623a9b"
     }
    ],
    "media": {
-    "img": "media/img/painter.webp",
-    "uk": "media/uk/painter.mp3",
-    "us": "media/us/painter.mp3"
+    "img": "media/img/painter.webp?v=e2c9f256",
+    "uk": "media/uk/painter.mp3?v=49ef8a56",
+    "us": "media/us/painter.mp3?v=e0a1458f"
    },
    "hook": {
     "kind": "affix",
@@ -2687,23 +2687,23 @@
     {
      "en": "The musician plays the violin.",
      "zh": "那位乐手拉小提琴。",
-     "audio": "media/sent/0efc9d88c024.mp3"
+     "audio": "media/sent/0efc9d88c024.mp3?v=3a763d43"
     },
     {
      "en": "Mia's brother is a musician.",
      "zh": "Mia 的哥哥是音乐家。",
-     "audio": "media/sent/98f6a7d9e6e1.mp3"
+     "audio": "media/sent/98f6a7d9e6e1.mp3?v=cff6e681"
     },
     {
      "en": "That musician works in a theatre.",
      "zh": "那位音乐家在剧院里工作。",
-     "audio": "media/sent/4691cb2d882a.mp3"
+     "audio": "media/sent/4691cb2d882a.mp3?v=9a08a6d4"
     }
    ],
    "media": {
-    "img": "media/img/musician.webp",
-    "uk": "media/uk/musician.mp3",
-    "us": "media/us/musician.mp3"
+    "img": "media/img/musician.webp?v=04c82f97",
+    "uk": "media/uk/musician.mp3?v=c9305275",
+    "us": "media/us/musician.mp3?v=99cfd72f"
    },
    "hook": {
     "kind": "affix",
@@ -2743,23 +2743,23 @@
     {
      "en": "The singer sings very well.",
      "zh": "那位歌手唱得很好。",
-     "audio": "media/sent/0c2f6de50e51.mp3"
+     "audio": "media/sent/0c2f6de50e51.mp3?v=d9804999"
     },
     {
      "en": "Mia's sister wants to be a singer.",
      "zh": "Mia 的姐姐想当歌手。",
-     "audio": "media/sent/5bb7a6320c5f.mp3"
+     "audio": "media/sent/5bb7a6320c5f.mp3?v=ee7ff6d3"
     },
     {
      "en": "That singer has a small microphone.",
      "zh": "那位歌手有一个小话筒。",
-     "audio": "media/sent/be35333f7c97.mp3"
+     "audio": "media/sent/be35333f7c97.mp3?v=b46dc6cf"
     }
    ],
    "media": {
-    "img": "media/img/singer.webp",
-    "uk": "media/uk/singer.mp3",
-    "us": "media/us/singer.mp3"
+    "img": "media/img/singer.webp?v=1337d2fa",
+    "uk": "media/uk/singer.mp3?v=207061d5",
+    "us": "media/us/singer.mp3?v=a6337e1e"
    },
    "spell": true,
    "avoid": [
@@ -2798,23 +2798,23 @@
     {
      "en": "The photographer takes our photo.",
      "zh": "那位摄影师给我们拍照。",
-     "audio": "media/sent/72361556f8a4.mp3"
+     "audio": "media/sent/72361556f8a4.mp3?v=a625a98b"
     },
     {
      "en": "Mum asks the photographer to help.",
      "zh": "妈妈请摄影师帮忙。",
-     "audio": "media/sent/69fb37b77774.mp3"
+     "audio": "media/sent/69fb37b77774.mp3?v=e1663c4e"
     },
     {
      "en": "The photographer has a new camera.",
      "zh": "那位摄影师有一台新相机。",
-     "audio": "media/sent/feb17a70d75e.mp3"
+     "audio": "media/sent/feb17a70d75e.mp3?v=3e15e06f"
     }
    ],
    "media": {
-    "img": "media/img/photographer.webp",
-    "uk": "media/word/photographer.mp3",
-    "us": "media/word/photographer.mp3"
+    "img": "media/img/photographer.webp?v=eec59678",
+    "uk": "media/word/photographer.mp3?v=1611c22a",
+    "us": "media/word/photographer.mp3?v=1611c22a"
    },
    "hook": {
     "kind": "affix",
@@ -2854,23 +2854,23 @@
     {
      "en": "The writer writes stories for children.",
      "zh": "那位作家给孩子们写故事。",
-     "audio": "media/sent/21ddef3f1eae.mp3"
+     "audio": "media/sent/21ddef3f1eae.mp3?v=0c289ae4"
     },
     {
      "en": "Grandma reads a book by that writer.",
      "zh": "奶奶读那位作家写的一本书。",
-     "audio": "media/sent/ee54a8be3f9e.mp3"
+     "audio": "media/sent/ee54a8be3f9e.mp3?v=3f58c8c2"
     },
     {
      "en": "Sam wants to be a writer.",
      "zh": "Sam 想当一位作家。",
-     "audio": "media/sent/805377d81537.mp3"
+     "audio": "media/sent/805377d81537.mp3?v=745605fb"
     }
    ],
    "media": {
-    "img": "media/img/writer.webp",
-    "uk": "media/uk/writer.mp3",
-    "us": "media/us/writer.mp3"
+    "img": "media/img/writer.webp?v=07b0514b",
+    "uk": "media/uk/writer.mp3?v=04635f1d",
+    "us": "media/us/writer.mp3?v=19d3a5b9"
    },
    "spell": true,
    "avoid": [
@@ -2908,23 +2908,23 @@
     {
      "en": "The journalist writes for a newspaper.",
      "zh": "那位记者为报纸写稿。",
-     "audio": "media/sent/08f0b26de4a4.mp3"
+     "audio": "media/sent/08f0b26de4a4.mp3?v=ec2934c0"
     },
     {
      "en": "That journalist asks Dad questions.",
      "zh": "那位记者问爸爸问题。",
-     "audio": "media/sent/abaaeb360118.mp3"
+     "audio": "media/sent/abaaeb360118.mp3?v=1a6e68ce"
     },
     {
      "en": "The journalist works in a busy office.",
      "zh": "那位记者在一间繁忙的办公室里工作。",
-     "audio": "media/sent/9ddccf162488.mp3"
+     "audio": "media/sent/9ddccf162488.mp3?v=384f748e"
     }
    ],
    "media": {
-    "img": "media/img/journalist.webp",
-    "uk": "media/uk/journalist.mp3",
-    "us": "media/us/journalist.mp3"
+    "img": "media/img/journalist.webp?v=4c4cc651",
+    "uk": "media/uk/journalist.mp3?v=687b4847",
+    "us": "media/us/journalist.mp3?v=3c9d7247"
    },
    "hook": {
     "kind": "affix",
@@ -2965,23 +2965,23 @@
     {
      "en": "The explorer works in cold places.",
      "zh": "那位探险家在寒冷的地方工作。",
-     "audio": "media/sent/66cf58e7d056.mp3"
+     "audio": "media/sent/66cf58e7d056.mp3?v=f1461c8a"
     },
     {
      "en": "Grandpa reads books about explorers.",
      "zh": "爷爷读关于探险家的书。",
-     "audio": "media/sent/0c6a19e38623.mp3"
+     "audio": "media/sent/0c6a19e38623.mp3?v=3c529b9c"
     },
     {
      "en": "That explorer has a big map.",
      "zh": "那位探险家有一张大地图。",
-     "audio": "media/sent/22d8b50ccabe.mp3"
+     "audio": "media/sent/22d8b50ccabe.mp3?v=f308979a"
     }
    ],
    "media": {
-    "img": "media/img/explorer.webp",
-    "uk": "media/uk/explorer.mp3",
-    "us": "media/us/explorer.mp3"
+    "img": "media/img/explorer.webp?v=91f2d4c0",
+    "uk": "media/uk/explorer.mp3?v=4cc5220f",
+    "us": "media/us/explorer.mp3?v=4a01a99a"
    },
    "hook": {
     "kind": "contrast",
@@ -3024,23 +3024,23 @@
     {
      "en": "That footballer is very fast.",
      "zh": "那名足球运动员跑得很快。",
-     "audio": "media/sent/8266c89cf98f.mp3"
+     "audio": "media/sent/8266c89cf98f.mp3?v=c34a9c71"
     },
     {
      "en": "Sam watches the footballer play.",
      "zh": "Sam 看那名足球运动员踢球。",
-     "audio": "media/sent/e1329075c1b0.mp3"
+     "audio": "media/sent/e1329075c1b0.mp3?v=f42611c8"
     },
     {
      "en": "Lily's uncle is a famous footballer.",
      "zh": "Lily 的叔叔是著名的足球运动员。",
-     "audio": "media/sent/b9cbf8f5b766.mp3"
+     "audio": "media/sent/b9cbf8f5b766.mp3?v=95523d94"
     }
    ],
    "media": {
-    "img": "media/img/footballer.webp",
-    "uk": "media/word/footballer.mp3",
-    "us": "media/word/footballer.mp3"
+    "img": "media/img/footballer.webp?v=6933d722",
+    "uk": "media/word/footballer.mp3?v=cdb31b2b",
+    "us": "media/word/footballer.mp3?v=cdb31b2b"
    },
    "hook": {
     "kind": "affix",
@@ -3083,23 +3083,23 @@
     {
      "en": "Dad's friend is a football player.",
      "zh": "爸爸的朋友是足球运动员。",
-     "audio": "media/sent/d7ac89698aa1.mp3"
+     "audio": "media/sent/d7ac89698aa1.mp3?v=aa1dcc68"
     },
     {
      "en": "That football player plays every Saturday.",
      "zh": "那名足球运动员每星期六都踢球。",
-     "audio": "media/sent/8f36b59ab013.mp3"
+     "audio": "media/sent/8f36b59ab013.mp3?v=9eacea4a"
     },
     {
      "en": "Sam talks to the football player.",
      "zh": "Sam 和那名足球运动员说话。",
-     "audio": "media/sent/7f389078b9f0.mp3"
+     "audio": "media/sent/7f389078b9f0.mp3?v=479deac3"
     }
    ],
    "media": {
-    "img": "media/img/football-player.webp",
-    "uk": "media/word/football-player.mp3",
-    "us": "media/word/football-player.mp3"
+    "img": "media/img/football-player.webp?v=62c3a2db",
+    "uk": "media/word/football-player.mp3?v=910728f2",
+    "us": "media/word/football-player.mp3?v=910728f2"
    },
    "hook": {
     "kind": "split",
@@ -3142,23 +3142,23 @@
     {
      "en": "Sam's aunt is a tennis player.",
      "zh": "Sam 的姑妈是网球运动员。",
-     "audio": "media/sent/26b162986724.mp3"
+     "audio": "media/sent/26b162986724.mp3?v=6b157be3"
     },
     {
      "en": "The tennis player practises every morning.",
      "zh": "那名网球运动员每天早上练习。",
-     "audio": "media/sent/df4c52f89a9a.mp3"
+     "audio": "media/sent/df4c52f89a9a.mp3?v=931ac04b"
     },
     {
      "en": "Lily watches the tennis player on television.",
      "zh": "Lily 在电视上看那名网球运动员。",
-     "audio": "media/sent/815ea015a960.mp3"
+     "audio": "media/sent/815ea015a960.mp3?v=38a9aa53"
     }
    ],
    "media": {
-    "img": "media/img/tennis-player.webp",
-    "uk": "media/word/tennis-player.mp3",
-    "us": "media/word/tennis-player.mp3"
+    "img": "media/img/tennis-player.webp?v=d6518c38",
+    "uk": "media/word/tennis-player.mp3?v=436173f0",
+    "us": "media/word/tennis-player.mp3?v=436173f0"
    },
    "hook": {
     "kind": "split",
@@ -3198,23 +3198,23 @@
     {
      "en": "The coach teaches us football.",
      "zh": "教练教我们踢足球。",
-     "audio": "media/sent/939684a87e14.mp3"
+     "audio": "media/sent/939684a87e14.mp3?v=630c93d9"
     },
     {
      "en": "Our coach wears a blue jacket.",
      "zh": "我们的教练穿一件蓝色夹克。",
-     "audio": "media/sent/dc78c749c82e.mp3"
+     "audio": "media/sent/dc78c749c82e.mp3?v=0e04c334"
     },
     {
      "en": "The coach helps Sam play better.",
      "zh": "教练帮 Sam 踢得更好。",
-     "audio": "media/sent/2c8abdbe60c2.mp3"
+     "audio": "media/sent/2c8abdbe60c2.mp3?v=55c6ad48"
     }
    ],
    "media": {
-    "img": "media/img/coach.webp",
-    "uk": "media/uk/coach.mp3",
-    "us": "media/us/coach.mp3"
+    "img": "media/img/coach.webp?v=d7428876",
+    "uk": "media/uk/coach.mp3?v=57585fb9",
+    "us": "media/us/coach.mp3?v=539d45ae"
    },
    "hook": {
     "kind": "contrast",
@@ -3256,23 +3256,23 @@
     {
      "en": "The guide knows the hill well.",
      "zh": "那位向导很熟悉那座小山。",
-     "audio": "media/sent/395b0e06b48e.mp3"
+     "audio": "media/sent/395b0e06b48e.mp3?v=66a3321e"
     },
     {
      "en": "That guide works in the mountains.",
      "zh": "那位向导在山区工作。",
-     "audio": "media/sent/7c83961103df.mp3"
+     "audio": "media/sent/7c83961103df.mp3?v=30ea87e1"
     },
     {
      "en": "Ask the guide before we walk.",
      "zh": "我们走之前先问一下向导。",
-     "audio": "media/sent/ce41b8104680.mp3"
+     "audio": "media/sent/ce41b8104680.mp3?v=ebe5663d"
     }
    ],
    "media": {
-    "img": "media/img/guide.webp",
-    "uk": "media/uk/guide.mp3",
-    "us": "media/us/guide.mp3"
+    "img": "media/img/guide.webp?v=04208ce2",
+    "uk": "media/uk/guide.mp3?v=1a56fc55",
+    "us": "media/us/guide.mp3?v=e655fd3f"
    },
    "avoid": [
     "explorer",
@@ -3308,23 +3308,23 @@
     {
      "en": "The tour guide talks to us.",
      "zh": "那位导游和我们说话。",
-     "audio": "media/sent/ff830368617c.mp3"
+     "audio": "media/sent/ff830368617c.mp3?v=e5019966"
     },
     {
      "en": "Our tour guide knows the castle.",
      "zh": "我们的导游熟悉那座城堡。",
-     "audio": "media/sent/6e20f97a0334.mp3"
+     "audio": "media/sent/6e20f97a0334.mp3?v=f981499d"
     },
     {
      "en": "That tour guide works in a big city.",
      "zh": "那位导游在一个大城市工作。",
-     "audio": "media/sent/244f3c804d7b.mp3"
+     "audio": "media/sent/244f3c804d7b.mp3?v=ce14660d"
     }
    ],
    "media": {
-    "img": "media/img/tour-guide.webp",
-    "uk": "media/word/tour-guide.mp3",
-    "us": "media/word/tour-guide.mp3"
+    "img": "media/img/tour-guide.webp?v=25d80741",
+    "uk": "media/word/tour-guide.mp3?v=2ba6e562",
+    "us": "media/word/tour-guide.mp3?v=2ba6e562"
    },
    "hook": {
     "kind": "split",
@@ -3363,23 +3363,23 @@
     {
      "en": "The king wears a long red coat.",
      "zh": "那位国王穿着一件红色的长外套。",
-     "audio": "media/sent/f4736dcb3217.mp3"
+     "audio": "media/sent/f4736dcb3217.mp3?v=b257a30b"
     },
     {
      "en": "Grandma reads a story about a kind king.",
      "zh": "奶奶读一个关于善良国王的故事。",
-     "audio": "media/sent/e83df2d5c498.mp3"
+     "audio": "media/sent/e83df2d5c498.mp3?v=c82fd870"
     },
     {
      "en": "The king has a tall hat.",
      "zh": "国王有一顶高帽子。",
-     "audio": "media/sent/05da6e006e41.mp3"
+     "audio": "media/sent/05da6e006e41.mp3?v=079d0273"
     }
    ],
    "media": {
-    "img": "media/img/king.webp",
-    "uk": "media/uk/king.mp3",
-    "us": "media/us/king.mp3"
+    "img": "media/img/king.webp?v=d789b772",
+    "uk": "media/uk/king.mp3?v=a4c0dd50",
+    "us": "media/us/king.mp3?v=a1e64045"
    },
    "avoid": [
     "queen"
@@ -3413,23 +3413,23 @@
     {
      "en": "The queen wears a long dress.",
      "zh": "女王穿着一条长裙。",
-     "audio": "media/sent/a47ba19a48c7.mp3"
+     "audio": "media/sent/a47ba19a48c7.mp3?v=32fb4d1d"
     },
     {
      "en": "Grandma reads a story about a queen.",
      "zh": "奶奶读一个关于女王的故事。",
-     "audio": "media/sent/7f1bd73dc8d4.mp3"
+     "audio": "media/sent/7f1bd73dc8d4.mp3?v=5a2d97b0"
     },
     {
      "en": "That queen is kind to her people.",
      "zh": "那位女王对她的子民很好。",
-     "audio": "media/sent/008c1bd42629.mp3"
+     "audio": "media/sent/008c1bd42629.mp3?v=10ce486f"
     }
    ],
    "media": {
-    "img": "media/img/queen.webp",
-    "uk": "media/uk/queen.mp3",
-    "us": "media/us/queen.mp3"
+    "img": "media/img/queen.webp?v=47c175c6",
+    "uk": "media/uk/queen.mp3?v=411789af",
+    "us": "media/us/queen.mp3?v=2c669b94"
    },
    "avoid": [
     "king"
@@ -3465,23 +3465,23 @@
     {
      "en": "Nurses wear a white uniform.",
      "zh": "护士穿白色的制服。",
-     "audio": "media/sent/cade078299d2.mp3"
+     "audio": "media/sent/cade078299d2.mp3?v=7e4d7d6f"
     },
     {
      "en": "Dad's work uniform is blue.",
      "zh": "爸爸的工作制服是蓝色的。",
-     "audio": "media/sent/48ba579b0b93.mp3"
+     "audio": "media/sent/48ba579b0b93.mp3?v=58df5bd7"
     },
     {
      "en": "The driver puts on his uniform.",
      "zh": "那位司机穿上他的制服。",
-     "audio": "media/sent/0714049ae1ec.mp3"
+     "audio": "media/sent/0714049ae1ec.mp3?v=16d02cdb"
     }
    ],
    "media": {
-    "img": "media/img/uniform.webp",
-    "uk": "media/uk/uniform.mp3",
-    "us": "media/us/uniform.mp3"
+    "img": "media/img/uniform.webp?v=2e8ab923",
+    "uk": "media/uk/uniform.mp3?v=7fff88b6",
+    "us": "media/us/uniform.mp3?v=528088df"
    },
    "hook": {
     "kind": "story",
@@ -3522,23 +3522,23 @@
     {
      "en": "The cook follows the instructions.",
      "zh": "厨师照着说明做。",
-     "audio": "media/sent/8ab350b6a579.mp3"
+     "audio": "media/sent/8ab350b6a579.mp3?v=12787680"
     },
     {
      "en": "Ask the guide for instructions.",
      "zh": "向导游询问指示。",
-     "audio": "media/sent/f91fa8b50d92.mp3"
+     "audio": "media/sent/f91fa8b50d92.mp3?v=07d520b4"
     },
     {
      "en": "The instructions are easy to read.",
      "zh": "这些说明很容易读。",
-     "audio": "media/sent/3db5fa9edcfe.mp3"
+     "audio": "media/sent/3db5fa9edcfe.mp3?v=908f619b"
     }
    ],
    "media": {
-    "img": "media/img/instructions.webp",
-    "uk": "media/word/instructions.mp3",
-    "us": "media/word/instructions.mp3"
+    "img": "media/img/instructions.webp?v=d4f71db0",
+    "uk": "media/word/instructions.mp3?v=f7de4168",
+    "us": "media/word/instructions.mp3?v=f7de4168"
    },
    "hook": {
     "kind": "affix",
@@ -3579,23 +3579,23 @@
     {
      "en": "Mum got her diploma at college.",
      "zh": "妈妈在大学拿到了文凭。",
-     "audio": "media/sent/1b973d4f3a7c.mp3"
+     "audio": "media/sent/1b973d4f3a7c.mp3?v=84a1d2dd"
     },
     {
      "en": "The doctor shows us her diploma.",
      "zh": "那位医生给我们看她的文凭。",
-     "audio": "media/sent/f6b4b908fa40.mp3"
+     "audio": "media/sent/f6b4b908fa40.mp3?v=fda2a1b0"
     },
     {
      "en": "Dad's diploma is on the wall.",
      "zh": "爸爸的文凭挂在墙上。",
-     "audio": "media/sent/d74a71f38849.mp3"
+     "audio": "media/sent/d74a71f38849.mp3?v=52ef252c"
     }
    ],
    "media": {
-    "img": "media/img/diploma.webp",
-    "uk": "media/uk/diploma.mp3",
-    "us": "media/us/diploma.mp3"
+    "img": "media/img/diploma.webp?v=7ad51673",
+    "uk": "media/uk/diploma.mp3?v=d402af7c",
+    "us": "media/us/diploma.mp3?v=4d35cce2"
    },
    "avoid": [
     "instructions",
@@ -3632,23 +3632,23 @@
     {
      "en": "The writer works on a computer.",
      "zh": "那位作家在电脑上工作。",
-     "audio": "media/sent/1f2e2ec9edd2.mp3"
+     "audio": "media/sent/1f2e2ec9edd2.mp3?v=184c9fea"
     },
     {
      "en": "Mum sends emails on the computer.",
      "zh": "妈妈用电脑发电子邮件。",
-     "audio": "media/sent/b5dc7f198707.mp3"
+     "audio": "media/sent/b5dc7f198707.mp3?v=731b9d9e"
     },
     {
      "en": "The shop assistant uses two computers.",
      "zh": "那位店员用两台电脑。",
-     "audio": "media/sent/cb1b14d9bbb8.mp3"
+     "audio": "media/sent/cb1b14d9bbb8.mp3?v=bc48ac55"
     }
    ],
    "media": {
-    "img": "media/img/computer.webp",
-    "uk": "media/uk/computer.mp3",
-    "us": "media/us/computer.mp3"
+    "img": "media/img/computer.webp?v=093933f0",
+    "uk": "media/uk/computer.mp3?v=69f61136",
+    "us": "media/us/computer.mp3?v=6d237878"
    },
    "spell": true,
    "hook": {
@@ -3691,23 +3691,23 @@
     {
      "en": "Take a break if you feel tired.",
      "zh": "如果觉得累，就休息一下。",
-     "audio": "media/sent/bb6bbe83ba25.mp3"
+     "audio": "media/sent/bb6bbe83ba25.mp3?v=98f4efcb"
     },
     {
      "en": "Mum has a break at eleven.",
      "zh": "妈妈十一点休息一下。",
-     "audio": "media/sent/6e2bd6651586.mp3"
+     "audio": "media/sent/6e2bd6651586.mp3?v=134ef299"
     },
     {
      "en": "Sit down and have a break, Grandpa.",
      "zh": "坐下休息一下吧，爷爷。",
-     "audio": "media/sent/7cdf68c87e5a.mp3"
+     "audio": "media/sent/7cdf68c87e5a.mp3?v=a12c37a4"
     }
    ],
    "media": {
-    "img": "media/img/break.webp",
-    "uk": "media/uk/break.mp3",
-    "us": "media/us/break.mp3"
+    "img": "media/img/break.webp?v=ca0c5b66",
+    "uk": "media/uk/break.mp3?v=5fff7e39",
+    "us": "media/us/break.mp3?v=aa00dafd"
    },
    "spell": true,
    "avoid": [

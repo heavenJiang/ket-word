@@ -30,23 +30,23 @@
     {
      "en": "The airport is very big.",
      "zh": "机场很大。",
-     "audio": "media/sent/393546065252.mp3"
+     "audio": "media/sent/393546065252.mp3?v=e9ca59ad"
     },
     {
      "en": "Dad drives us to the airport.",
      "zh": "爸爸开车送我们去机场。",
-     "audio": "media/sent/0c6fdadc383e.mp3"
+     "audio": "media/sent/0c6fdadc383e.mp3?v=12b7b3e4"
     },
     {
      "en": "Our plane leaves the airport at nine.",
      "zh": "我们的飞机九点离开机场。",
-     "audio": "media/sent/2571431bf1be.mp3"
+     "audio": "media/sent/2571431bf1be.mp3?v=9623d125"
     }
    ],
    "media": {
-    "img": "media/img/airport.webp",
-    "uk": "media/uk/airport.mp3",
-    "us": "media/us/airport.mp3"
+    "img": "media/img/airport.webp?v=4eb5674f",
+    "uk": "media/uk/airport.mp3?v=82d0dbbd",
+    "us": "media/us/airport.mp3?v=7b994b14"
    },
    "spell": true,
    "hook": {
@@ -87,23 +87,23 @@
     {
      "en": "The plane goes up into the sky.",
      "zh": "飞机飞上天空。",
-     "audio": "media/sent/4eb1e612c531.mp3"
+     "audio": "media/sent/4eb1e612c531.mp3?v=528d3c25"
     },
     {
      "en": "We travel by plane to Spain.",
      "zh": "我们坐飞机去西班牙。",
-     "audio": "media/sent/ed13ee775fb0.mp3"
+     "audio": "media/sent/ed13ee775fb0.mp3?v=cc201f70"
     },
     {
      "en": "Look, a big plane in the sky!",
      "zh": "看，天上有一架大飞机！",
-     "audio": "media/sent/70bdb38f073a.mp3"
+     "audio": "media/sent/70bdb38f073a.mp3?v=e88e6bd5"
     }
    ],
    "media": {
-    "img": "media/img/plane.webp",
-    "uk": "media/uk/plane.mp3",
-    "us": "media/us/plane.mp3"
+    "img": "media/img/plane.webp?v=f5ea02a7",
+    "uk": "media/uk/plane.mp3?v=d2da1831",
+    "us": "media/us/plane.mp3?v=94e61249"
    },
    "spell": true,
    "avoid": [
@@ -142,23 +142,23 @@
     {
      "en": "Our flight is at seven in the morning.",
      "zh": "我们的航班在早上七点。",
-     "audio": "media/sent/9d4ab46d293c.mp3"
+     "audio": "media/sent/9d4ab46d293c.mp3?v=9ce0620a"
     },
     {
      "en": "The flight takes two hours.",
      "zh": "这个航班要两个小时。",
-     "audio": "media/sent/b4b0544f730e.mp3"
+     "audio": "media/sent/b4b0544f730e.mp3?v=eebe9d20"
     },
     {
      "en": "Our flight to Spain is quick.",
      "zh": "我们去西班牙的航班很快。",
-     "audio": "media/sent/2381a3070a43.mp3"
+     "audio": "media/sent/2381a3070a43.mp3?v=33e43f28"
     }
    ],
    "media": {
-    "img": "media/img/flight.webp",
-    "uk": "media/uk/flight.mp3",
-    "us": "media/us/flight.mp3"
+    "img": "media/img/flight.webp?v=f2f30761",
+    "uk": "media/uk/flight.mp3?v=9d3a8636",
+    "us": "media/us/flight.mp3?v=fd019c42"
    },
    "hook": {
     "kind": "contrast",
@@ -198,23 +198,23 @@
     {
      "en": "We fly to Spain in July.",
      "zh": "我们七月坐飞机去西班牙。",
-     "audio": "media/sent/3ab01c91b010.mp3"
+     "audio": "media/sent/3ab01c91b010.mp3?v=99e07b5f"
     },
     {
      "en": "Mum flies to London on Monday.",
      "zh": "妈妈星期一坐飞机去伦敦。",
-     "audio": "media/sent/5abd34e537fd.mp3"
+     "audio": "media/sent/5abd34e537fd.mp3?v=dc531109"
     },
     {
      "en": "Tom likes flying in a plane.",
      "zh": "Tom 喜欢坐飞机。",
-     "audio": "media/sent/5e2a79d39966.mp3"
+     "audio": "media/sent/5e2a79d39966.mp3?v=f78512d8"
     }
    ],
    "media": {
-    "img": "media/img/fly.webp",
-    "uk": "media/uk/fly.mp3",
-    "us": "media/us/fly.mp3"
+    "img": "media/img/fly.webp?v=3d0c422a",
+    "uk": "media/uk/fly.mp3?v=f9583585",
+    "us": "media/us/fly.mp3?v=9f8b5abc"
    },
    "spell": true,
    "avoid": [
@@ -251,23 +251,23 @@
     {
      "en": "The pilot flies our plane.",
      "zh": "飞行员开我们的飞机。",
-     "audio": "media/sent/e949b8a12f14.mp3"
+     "audio": "media/sent/e949b8a12f14.mp3?v=417a66f1"
     },
     {
      "en": "The pilot says hello to us.",
      "zh": "飞行员和我们打招呼。",
-     "audio": "media/sent/0e0f61bc6d29.mp3"
+     "audio": "media/sent/0e0f61bc6d29.mp3?v=a490749e"
     },
     {
      "en": "Lily wants to be a pilot.",
      "zh": "Lily 想当飞行员。",
-     "audio": "media/sent/0375842168a9.mp3"
+     "audio": "media/sent/0375842168a9.mp3?v=7dee74e2"
     }
    ],
    "media": {
-    "img": "media/img/pilot.webp",
-    "uk": "media/uk/pilot.mp3",
-    "us": "media/us/pilot.mp3"
+    "img": "media/img/pilot.webp?v=abc446e2",
+    "uk": "media/uk/pilot.mp3?v=565e4195",
+    "us": "media/us/pilot.mp3?v=eedf7a95"
    },
    "hook": {
     "kind": "story",
@@ -310,23 +310,23 @@
     {
      "en": "A red helicopter is in the sky.",
      "zh": "天上有一架红色直升机。",
-     "audio": "media/sent/a15b495ce89e.mp3"
+     "audio": "media/sent/a15b495ce89e.mp3?v=7ff6d49a"
     },
     {
      "en": "The helicopter comes down on the hill.",
      "zh": "直升机降落在小山上。",
-     "audio": "media/sent/e844a1346a4b.mp3"
+     "audio": "media/sent/e844a1346a4b.mp3?v=4f1f6c2c"
     },
     {
      "en": "That helicopter is very loud.",
      "zh": "那架直升机很吵。",
-     "audio": "media/sent/b019cf108b1c.mp3"
+     "audio": "media/sent/b019cf108b1c.mp3?v=e7303ff5"
     }
    ],
    "media": {
-    "img": "media/img/helicopter.webp",
-    "uk": "media/uk/helicopter.mp3",
-    "us": "media/us/helicopter.mp3"
+    "img": "media/img/helicopter.webp?v=1d64ff4e",
+    "uk": "media/uk/helicopter.mp3?v=2ccdabf7",
+    "us": "media/us/helicopter.mp3?v=1ea0e6af"
    },
    "avoid": [
     "fly",
@@ -362,23 +362,23 @@
     {
      "en": "Mum shows her passport.",
      "zh": "妈妈出示她的护照。",
-     "audio": "media/sent/6ea7dab120fa.mp3"
+     "audio": "media/sent/6ea7dab120fa.mp3?v=3b779b0d"
     },
     {
      "en": "Where's your passport, Dad?",
      "zh": "爸爸，你的护照在哪儿？",
-     "audio": "media/sent/7f3cd6ea7de2.mp3"
+     "audio": "media/sent/7f3cd6ea7de2.mp3?v=d514cdc7"
     },
     {
      "en": "Our passports are in the bag.",
      "zh": "我们的护照在包里。",
-     "audio": "media/sent/659f7af272d7.mp3"
+     "audio": "media/sent/659f7af272d7.mp3?v=3b9783bd"
     }
    ],
    "media": {
-    "img": "media/img/passport.webp",
-    "uk": "media/uk/passport.mp3",
-    "us": "media/us/passport.mp3"
+    "img": "media/img/passport.webp?v=0d137e6e",
+    "uk": "media/uk/passport.mp3?v=7e1b4189",
+    "us": "media/us/passport.mp3?v=101c3704"
    },
    "hook": {
     "kind": "split",
@@ -418,23 +418,23 @@
     {
      "en": "Our luggage goes on the plane.",
      "zh": "我们的行李装上飞机。",
-     "audio": "media/sent/c9bd4e56c5c5.mp3"
+     "audio": "media/sent/c9bd4e56c5c5.mp3?v=353586b8"
     },
     {
      "en": "Dad carries the heavy luggage.",
      "zh": "爸爸提着很重的行李。",
-     "audio": "media/sent/dfd3c987e9d0.mp3"
+     "audio": "media/sent/dfd3c987e9d0.mp3?v=3ba17234"
     },
     {
      "en": "Where is our luggage?",
      "zh": "我们的行李在哪儿？",
-     "audio": "media/sent/7a3b256b3429.mp3"
+     "audio": "media/sent/7a3b256b3429.mp3?v=5e04a3a5"
     }
    ],
    "media": {
-    "img": "media/img/luggage.webp",
-    "uk": "media/uk/luggage.mp3",
-    "us": "media/us/luggage.mp3"
+    "img": "media/img/luggage.webp?v=aeda664f",
+    "uk": "media/uk/luggage.mp3?v=f90cf26e",
+    "us": "media/us/luggage.mp3?v=28e5fe71"
    },
    "avoid": [
     "backpack",
@@ -471,23 +471,23 @@
     {
      "en": "Lily's suitcase is big and red.",
      "zh": "Lily 的行李箱又大又红。",
-     "audio": "media/sent/a80078f65d15.mp3"
+     "audio": "media/sent/a80078f65d15.mp3?v=09d19e5f"
     },
     {
      "en": "Dad puts the suitcase in the car.",
      "zh": "爸爸把行李箱放进汽车里。",
-     "audio": "media/sent/fd2c6c2e0b1d.mp3"
+     "audio": "media/sent/fd2c6c2e0b1d.mp3?v=5c9f7a99"
     },
     {
      "en": "I pack my clothes in my suitcase.",
      "zh": "我把衣服装进行李箱里。",
-     "audio": "media/sent/0b5c8b34b760.mp3"
+     "audio": "media/sent/0b5c8b34b760.mp3?v=7fd3a722"
     }
    ],
    "media": {
-    "img": "media/img/suitcase.webp",
-    "uk": "media/uk/suitcase.mp3",
-    "us": "media/us/suitcase.mp3"
+    "img": "media/img/suitcase.webp?v=20812599",
+    "uk": "media/uk/suitcase.mp3?v=c3486279",
+    "us": "media/us/suitcase.mp3?v=9da86628"
    },
    "hook": {
     "kind": "split",
@@ -527,23 +527,23 @@
     {
      "en": "Dad has a small brown case.",
      "zh": "爸爸有一个棕色的小箱子。",
-     "audio": "media/sent/ef942b114733.mp3"
+     "audio": "media/sent/ef942b114733.mp3?v=17a7df28"
     },
     {
      "en": "Our case is under the seat.",
      "zh": "我们的箱子在座位下面。",
-     "audio": "media/sent/d7bbc724d5f4.mp3"
+     "audio": "media/sent/d7bbc724d5f4.mp3?v=6776c025"
     },
     {
      "en": "This case is heavy!",
      "zh": "这个箱子很重！",
-     "audio": "media/sent/d8be44d9cfd9.mp3"
+     "audio": "media/sent/d8be44d9cfd9.mp3?v=49a713d7"
     }
    ],
    "media": {
-    "img": "media/img/case.webp",
-    "uk": "media/uk/case.mp3",
-    "us": "media/us/case.mp3"
+    "img": "media/img/case.webp?v=3e360758",
+    "uk": "media/uk/case.mp3?v=0fe0b53a",
+    "us": "media/us/case.mp3?v=74e66838"
    },
    "avoid": [
     "backpack",
@@ -580,23 +580,23 @@
     {
      "en": "Lily wears her backpack on the trip.",
      "zh": "Lily 旅行时背着她的背包。",
-     "audio": "media/sent/6a18a99cecbe.mp3"
+     "audio": "media/sent/6a18a99cecbe.mp3?v=393e9fd8"
     },
     {
      "en": "Sam has a green backpack.",
      "zh": "Sam 有一个绿色的背包。",
-     "audio": "media/sent/ccf46e0f4da9.mp3"
+     "audio": "media/sent/ccf46e0f4da9.mp3?v=fc4cf99c"
     },
     {
      "en": "Put the map in your backpack.",
      "zh": "把地图放进你的背包里。",
-     "audio": "media/sent/59f5fd556dad.mp3"
+     "audio": "media/sent/59f5fd556dad.mp3?v=5036eac6"
     }
    ],
    "media": {
-    "img": "media/img/backpack.webp",
-    "uk": "media/uk/backpack.mp3",
-    "us": "media/us/backpack.mp3"
+    "img": "media/img/backpack.webp?v=4c1924c5",
+    "uk": "media/uk/backpack.mp3?v=df0632f1",
+    "us": "media/us/backpack.mp3?v=1cba257c"
    },
    "hook": {
     "kind": "split",
@@ -637,23 +637,23 @@
     {
      "en": "Mum has the tickets for the train.",
      "zh": "妈妈有火车票。",
-     "audio": "media/sent/c9cf4a633067.mp3"
+     "audio": "media/sent/c9cf4a633067.mp3?v=c1e3230d"
     },
     {
      "en": "Where's your ticket, Dad?",
      "zh": "爸爸，你的票在哪儿？",
-     "audio": "media/sent/923cf5f19b3e.mp3"
+     "audio": "media/sent/923cf5f19b3e.mp3?v=06d2404a"
     },
     {
      "en": "We show our tickets on the bus.",
      "zh": "我们在公共汽车上出示车票。",
-     "audio": "media/sent/1b3e31861a0e.mp3"
+     "audio": "media/sent/1b3e31861a0e.mp3?v=323e4e71"
     }
    ],
    "media": {
-    "img": "media/img/ticket.webp",
-    "uk": "media/uk/ticket.mp3",
-    "us": "media/us/ticket.mp3"
+    "img": "media/img/ticket.webp?v=4d36be37",
+    "uk": "media/uk/ticket.mp3?v=839b077e",
+    "us": "media/us/ticket.mp3?v=a7eae53f"
    },
    "spell": true,
    "avoid": [
@@ -691,23 +691,23 @@
     {
      "en": "Every passenger has a seat.",
      "zh": "每位乘客都有一个座位。",
-     "audio": "media/sent/cd33dcbfec76.mp3"
+     "audio": "media/sent/cd33dcbfec76.mp3?v=ca992ffc"
     },
     {
      "en": "The passenger next to Mum is kind.",
      "zh": "妈妈旁边的乘客很和善。",
-     "audio": "media/sent/5003298afaeb.mp3"
+     "audio": "media/sent/5003298afaeb.mp3?v=2c5aa8b6"
     },
     {
      "en": "Tom is a happy passenger.",
      "zh": "Tom 是个快乐的乘客。",
-     "audio": "media/sent/4c0709b22098.mp3"
+     "audio": "media/sent/4c0709b22098.mp3?v=40ed989b"
     }
    ],
    "media": {
-    "img": "media/img/passenger.webp",
-    "uk": "media/uk/passenger.mp3",
-    "us": "media/us/passenger.mp3"
+    "img": "media/img/passenger.webp?v=d182e0cc",
+    "uk": "media/uk/passenger.mp3?v=d78d294f",
+    "us": "media/us/passenger.mp3?v=6e458f45"
    },
    "hook": {
     "kind": "story",
@@ -747,23 +747,23 @@
     {
      "en": "I have a seat next to Tom.",
      "zh": "我有一个座位，在 Tom 旁边。",
-     "audio": "media/sent/e91ce37dad18.mp3"
+     "audio": "media/sent/e91ce37dad18.mp3?v=d6e1dcb1"
     },
     {
      "en": "Tom sleeps in his seat.",
      "zh": "Tom 在他的座位上睡着了。",
-     "audio": "media/sent/a80cd5a45de3.mp3"
+     "audio": "media/sent/a80cd5a45de3.mp3?v=75d1272e"
     },
     {
      "en": "Please take a seat, Mum.",
      "zh": "妈妈，请坐。",
-     "audio": "media/sent/4229b8765d69.mp3"
+     "audio": "media/sent/4229b8765d69.mp3?v=bfe1867f"
     }
    ],
    "media": {
-    "img": "media/img/seat.webp",
-    "uk": "media/uk/seat.mp3",
-    "us": "media/us/seat.mp3"
+    "img": "media/img/seat.webp?v=3fff100e",
+    "uk": "media/uk/seat.mp3?v=226ab793",
+    "us": "media/us/seat.mp3?v=43b61102"
    },
    "spell": true,
    "avoid": []
@@ -797,23 +797,23 @@
     {
      "en": "Our journey takes five hours.",
      "zh": "我们的旅程要五个小时。",
-     "audio": "media/sent/c3f220159313.mp3"
+     "audio": "media/sent/c3f220159313.mp3?v=6c2b25d3"
     },
     {
      "en": "The journey by train is long.",
      "zh": "坐火车的旅程很长。",
-     "audio": "media/sent/9415036a5af3.mp3"
+     "audio": "media/sent/9415036a5af3.mp3?v=3d24b499"
     },
     {
      "en": "We sing songs on the journey.",
      "zh": "我们在旅途中唱歌。",
-     "audio": "media/sent/7e09ebac758f.mp3"
+     "audio": "media/sent/7e09ebac758f.mp3?v=f06be1e4"
     }
    ],
    "media": {
-    "img": "media/img/journey.webp",
-    "uk": "media/uk/journey.mp3",
-    "us": "media/us/journey.mp3"
+    "img": "media/img/journey.webp?v=f6e5f988",
+    "uk": "media/uk/journey.mp3?v=2764c2fe",
+    "us": "media/us/journey.mp3?v=4475d99b"
    },
    "hook": {
     "kind": "story",
@@ -853,23 +853,23 @@
     {
      "en": "We go on a trip to the beach.",
      "zh": "我们去海滩玩了一天。",
-     "audio": "media/sent/17969c1f297d.mp3"
+     "audio": "media/sent/17969c1f297d.mp3?v=86c52644"
     },
     {
      "en": "Dad plans a trip for Sunday.",
      "zh": "爸爸为星期天安排了一次出行。",
-     "audio": "media/sent/84eca36c989f.mp3"
+     "audio": "media/sent/84eca36c989f.mp3?v=ba8798d9"
     },
     {
      "en": "The trip to Grandma's is short.",
      "zh": "去奶奶家的路不远。",
-     "audio": "media/sent/8acdb45b8d75.mp3"
+     "audio": "media/sent/8acdb45b8d75.mp3?v=6e5cc0be"
     }
    ],
    "media": {
-    "img": "media/img/trip.webp",
-    "uk": "media/uk/trip.mp3",
-    "us": "media/us/trip.mp3"
+    "img": "media/img/trip.webp?v=0838caa5",
+    "uk": "media/uk/trip.mp3?v=dabe157b",
+    "us": "media/us/trip.mp3?v=dd1d99bc"
    },
    "spell": true,
    "avoid": [
@@ -906,23 +906,23 @@
     {
      "en": "We take a tour of the old castle.",
      "zh": "我们参观了那座古老的城堡。",
-     "audio": "media/sent/3349fe2ee689.mp3"
+     "audio": "media/sent/3349fe2ee689.mp3?v=fd9029db"
     },
     {
      "en": "The tour of the museum is fun.",
      "zh": "参观博物馆很有趣。",
-     "audio": "media/sent/45ac63a4e2fa.mp3"
+     "audio": "media/sent/45ac63a4e2fa.mp3?v=b50ac51a"
     },
     {
      "en": "Grandma joins our tour at two.",
      "zh": "两点钟奶奶加入我们的参观。",
-     "audio": "media/sent/724158581061.mp3"
+     "audio": "media/sent/724158581061.mp3?v=ffcff30e"
     }
    ],
    "media": {
-    "img": "media/img/tour.webp",
-    "uk": "media/uk/tour.mp3",
-    "us": "media/us/tour.mp3"
+    "img": "media/img/tour.webp?v=412063ba",
+    "uk": "media/uk/tour.mp3?v=d0ba549d",
+    "us": "media/us/tour.mp3?v=13e170b8"
    },
    "hook": {
     "kind": "story",
@@ -963,23 +963,23 @@
     {
      "en": "We travel by train to London.",
      "zh": "我们坐火车去伦敦。",
-     "audio": "media/sent/02da3acb92e8.mp3"
+     "audio": "media/sent/02da3acb92e8.mp3?v=d6a14049"
     },
     {
      "en": "I like travelling with my family.",
      "zh": "我喜欢和家人一起旅行。",
-     "audio": "media/sent/21674f682d71.mp3"
+     "audio": "media/sent/21674f682d71.mp3?v=d3f3cfe4"
     },
     {
      "en": "Mum loves to travel by boat.",
      "zh": "妈妈喜欢坐船旅行。",
-     "audio": "media/sent/34b776fe5bde.mp3"
+     "audio": "media/sent/34b776fe5bde.mp3?v=9d4c1ac0"
     }
    ],
    "media": {
-    "img": "media/img/travel.webp",
-    "uk": "media/uk/travel.mp3",
-    "us": "media/us/travel.mp3"
+    "img": "media/img/travel.webp?v=89b395df",
+    "uk": "media/uk/travel.mp3?v=b9d30649",
+    "us": "media/us/travel.mp3?v=49ab5aa0"
    },
    "spell": true,
    "avoid": [
@@ -1017,23 +1017,23 @@
     {
      "en": "That tourist takes a photo.",
      "zh": "那位游客在拍照。",
-     "audio": "media/sent/2a74c4615d15.mp3"
+     "audio": "media/sent/2a74c4615d15.mp3?v=3ce53dff"
     },
     {
      "en": "There are many tourists here in summer.",
      "zh": "夏天这里有很多游客。",
-     "audio": "media/sent/bdaba1bb93e3.mp3"
+     "audio": "media/sent/bdaba1bb93e3.mp3?v=1db72dbb"
     },
     {
      "en": "The tourist asks Dad for help.",
      "zh": "那位游客向爸爸求助。",
-     "audio": "media/sent/59e2f9b05f98.mp3"
+     "audio": "media/sent/59e2f9b05f98.mp3?v=868bac2d"
     }
    ],
    "media": {
-    "img": "media/img/tourist.webp",
-    "uk": "media/uk/tourist.mp3",
-    "us": "media/us/tourist.mp3"
+    "img": "media/img/tourist.webp?v=eb792638",
+    "uk": "media/uk/tourist.mp3?v=9404f566",
+    "us": "media/us/tourist.mp3?v=8c6195a7"
    },
    "hook": {
     "kind": "affix",
@@ -1074,23 +1074,23 @@
     {
      "en": "Our tour guide is very kind.",
      "zh": "我们的导游很和善。",
-     "audio": "media/sent/06d944be4e82.mp3"
+     "audio": "media/sent/06d944be4e82.mp3?v=d3a2264c"
     },
     {
      "en": "The tour guide shows us the old castle.",
      "zh": "导游带我们看那座古老的城堡。",
-     "audio": "media/sent/58bae6027f42.mp3"
+     "audio": "media/sent/58bae6027f42.mp3?v=48e0ea28"
     },
     {
      "en": "Dad talks to our tour guide.",
      "zh": "爸爸和我们的导游说话。",
-     "audio": "media/sent/b8e382fd68a1.mp3"
+     "audio": "media/sent/b8e382fd68a1.mp3?v=6bddd187"
     }
    ],
    "media": {
-    "img": "media/img/tour-guide.webp",
-    "uk": "media/word/tour-guide.mp3",
-    "us": "media/word/tour-guide.mp3"
+    "img": "media/img/tour-guide.webp?v=25d80741",
+    "uk": "media/word/tour-guide.mp3?v=2ba6e562",
+    "us": "media/word/tour-guide.mp3?v=2ba6e562"
    },
    "hook": {
     "kind": "split",
@@ -1137,23 +1137,23 @@
     {
      "en": "Mum asks at the tourist information centre.",
      "zh": "妈妈在游客问讯处问路。",
-     "audio": "media/sent/c1d7a1e67013.mp3"
+     "audio": "media/sent/c1d7a1e67013.mp3?v=023ac532"
     },
     {
      "en": "The tourist information centre is near the station.",
      "zh": "游客问讯处在车站附近。",
-     "audio": "media/sent/ff99e5e57617.mp3"
+     "audio": "media/sent/ff99e5e57617.mp3?v=68ba8822"
     },
     {
      "en": "We get a map at the tourist information centre.",
      "zh": "我们在游客问讯处拿了一张地图。",
-     "audio": "media/sent/04beb1c91fd7.mp3"
+     "audio": "media/sent/04beb1c91fd7.mp3?v=465b90c8"
     }
    ],
    "media": {
-    "img": "media/img/tourist-information-centre.webp",
-    "uk": "media/word/tourist-information-centre.mp3",
-    "us": "media/word/tourist-information-centre.mp3"
+    "img": "media/img/tourist-information-centre.webp?v=2bd2bcad",
+    "uk": "media/word/tourist-information-centre.mp3?v=9f1c4e8b",
+    "us": "media/word/tourist-information-centre.mp3?v=9f1c4e8b"
    },
    "hook": {
     "kind": "story",
@@ -1201,23 +1201,23 @@
     {
      "en": "We visit Grandma on Sunday.",
      "zh": "我们星期天去看奶奶。",
-     "audio": "media/sent/91c62b25c524.mp3"
+     "audio": "media/sent/91c62b25c524.mp3?v=b861e736"
     },
     {
      "en": "Lily visits her friend Mia.",
      "zh": "Lily 去拜访她的朋友 Mia。",
-     "audio": "media/sent/11a32dffa841.mp3"
+     "audio": "media/sent/11a32dffa841.mp3?v=d0aba63a"
     },
     {
      "en": "We visit the old castle in the morning.",
      "zh": "我们上午参观那座古老的城堡。",
-     "audio": "media/sent/4a4117ed8318.mp3"
+     "audio": "media/sent/4a4117ed8318.mp3?v=8ec77fdc"
     }
    ],
    "media": {
-    "img": "media/img/visit.webp",
-    "uk": "media/uk/visit.mp3",
-    "us": "media/us/visit.mp3"
+    "img": "media/img/visit.webp?v=b295efbb",
+    "uk": "media/uk/visit.mp3?v=c5b74eae",
+    "us": "media/us/visit.mp3?v=d3784952"
    },
    "spell": true,
    "avoid": [
@@ -1255,23 +1255,23 @@
     {
      "en": "Every visitor likes the dinosaur.",
      "zh": "每位参观者都喜欢那只恐龙。",
-     "audio": "media/sent/ad463e51fa6f.mp3"
+     "audio": "media/sent/ad463e51fa6f.mp3?v=ca4f0371"
     },
     {
      "en": "The museum is full of visitors on Saturday.",
      "zh": "博物馆星期六满是参观者。",
-     "audio": "media/sent/831f071b31bd.mp3"
+     "audio": "media/sent/831f071b31bd.mp3?v=acc770e2"
     },
     {
      "en": "Who is that visitor at the door?",
      "zh": "门口那位访客是谁？",
-     "audio": "media/sent/6478332cbe46.mp3"
+     "audio": "media/sent/6478332cbe46.mp3?v=840dad11"
     }
    ],
    "media": {
-    "img": "media/img/visitor.webp",
-    "uk": "media/uk/visitor.mp3",
-    "us": "media/us/visitor.mp3"
+    "img": "media/img/visitor.webp?v=d9aa47e5",
+    "uk": "media/uk/visitor.mp3?v=9c049637",
+    "us": "media/us/visitor.mp3?v=bc62aa5f"
    },
    "hook": {
     "kind": "affix",
@@ -1313,23 +1313,23 @@
     {
      "en": "We go to school by bus.",
      "zh": "我们坐公共汽车上学。",
-     "audio": "media/sent/611482739087.mp3"
+     "audio": "media/sent/611482739087.mp3?v=590713c5"
     },
     {
      "en": "The bus comes at eight.",
      "zh": "公共汽车八点钟来。",
-     "audio": "media/sent/3013236cb0af.mp3"
+     "audio": "media/sent/3013236cb0af.mp3?v=4e004c56"
     },
     {
      "en": "Dad waits for the bus in the rain.",
      "zh": "爸爸在雨里等公共汽车。",
-     "audio": "media/sent/90b88cac7ac4.mp3"
+     "audio": "media/sent/90b88cac7ac4.mp3?v=79f45145"
     }
    ],
    "media": {
-    "img": "media/img/bus.webp",
-    "uk": "media/uk/bus.mp3",
-    "us": "media/us/bus.mp3"
+    "img": "media/img/bus.webp?v=61fc9429",
+    "uk": "media/uk/bus.mp3?v=fb47a371",
+    "us": "media/us/bus.mp3?v=e52dc5a7"
    },
    "spell": true,
    "avoid": [
@@ -1368,23 +1368,23 @@
     {
      "en": "We meet Dad at the bus station.",
      "zh": "我们在公共汽车总站和爸爸碰面。",
-     "audio": "media/sent/ea9de46113fd.mp3"
+     "audio": "media/sent/ea9de46113fd.mp3?v=3f4fc42f"
     },
     {
      "en": "The bus station is next to the railway.",
      "zh": "公共汽车站就在铁路旁边。",
-     "audio": "media/sent/36083e6286f9.mp3"
+     "audio": "media/sent/36083e6286f9.mp3?v=6e584235"
     },
     {
      "en": "Mum buys our tickets at the bus station.",
      "zh": "妈妈在公共汽车站买我们的票。",
-     "audio": "media/sent/8243a18ed502.mp3"
+     "audio": "media/sent/8243a18ed502.mp3?v=a0496dd6"
     }
    ],
    "media": {
-    "img": "media/img/bus-station.webp",
-    "uk": "media/word/bus-station.mp3",
-    "us": "media/word/bus-station.mp3"
+    "img": "media/img/bus-station.webp?v=18792a90",
+    "uk": "media/word/bus-station.mp3?v=24e74865",
+    "us": "media/word/bus-station.mp3?v=24e74865"
    },
    "hook": {
     "kind": "split",
@@ -1425,23 +1425,23 @@
     {
      "en": "We wait at the bus stop.",
      "zh": "我们在公共汽车站的站牌那儿等。",
-     "audio": "media/sent/61d64637ac77.mp3"
+     "audio": "media/sent/61d64637ac77.mp3?v=7608c6c2"
     },
     {
      "en": "The bus stop is near our school.",
      "zh": "公共汽车站的站牌就在我们学校附近。",
-     "audio": "media/sent/e15fe9de304f.mp3"
+     "audio": "media/sent/e15fe9de304f.mp3?v=72369a13"
     },
     {
      "en": "Tom runs to the bus stop.",
      "zh": "Tom 跑到公共汽车站的站牌那儿。",
-     "audio": "media/sent/60db283f6d95.mp3"
+     "audio": "media/sent/60db283f6d95.mp3?v=185d7f49"
     }
    ],
    "media": {
-    "img": "media/img/bus-stop.webp",
-    "uk": "media/word/bus-stop.mp3",
-    "us": "media/word/bus-stop.mp3"
+    "img": "media/img/bus-stop.webp?v=45b9b3be",
+    "uk": "media/word/bus-stop.mp3?v=86ad0b42",
+    "us": "media/word/bus-stop.mp3?v=86ad0b42"
    },
    "hook": {
     "kind": "split",
@@ -1488,23 +1488,23 @@
     {
      "en": "We go to London by coach.",
      "zh": "我们坐长途大巴去伦敦。",
-     "audio": "media/sent/04434cf5baa5.mp3"
+     "audio": "media/sent/04434cf5baa5.mp3?v=313945cc"
     },
     {
      "en": "Our coach stops at the petrol station.",
      "zh": "我们的长途汽车在加油站停一下。",
-     "audio": "media/sent/27ec1314f19a.mp3"
+     "audio": "media/sent/27ec1314f19a.mp3?v=458ba8a9"
     },
     {
      "en": "The coach is big and blue.",
      "zh": "这辆长途汽车又大又蓝。",
-     "audio": "media/sent/226dd76b074f.mp3"
+     "audio": "media/sent/226dd76b074f.mp3?v=1996bfc2"
     }
    ],
    "media": {
-    "img": "media/img/coach.webp",
-    "uk": "media/uk/coach.mp3",
-    "us": "media/us/coach.mp3"
+    "img": "media/img/coach.webp?v=d7428876",
+    "uk": "media/uk/coach.mp3?v=57585fb9",
+    "us": "media/us/coach.mp3?v=539d45ae"
    },
    "hook": {
     "kind": "contrast",
@@ -1552,23 +1552,23 @@
     {
      "en": "Our train is at nine o'clock.",
      "zh": "我们的火车九点开。",
-     "audio": "media/sent/0bff21c2d47d.mp3"
+     "audio": "media/sent/0bff21c2d47d.mp3?v=b112c9f7"
     },
     {
      "en": "The train is slow today.",
      "zh": "火车今天很慢。",
-     "audio": "media/sent/d7a797ca40f9.mp3"
+     "audio": "media/sent/d7a797ca40f9.mp3?v=e6e697fc"
     },
     {
      "en": "We see the sea from the train.",
      "zh": "我们从火车上能看到大海。",
-     "audio": "media/sent/a2379d909915.mp3"
+     "audio": "media/sent/a2379d909915.mp3?v=0c9a972e"
     }
    ],
    "media": {
-    "img": "media/img/train.webp",
-    "uk": "media/uk/train.mp3",
-    "us": "media/us/train.mp3"
+    "img": "media/img/train.webp?v=bcd92034",
+    "uk": "media/uk/train.mp3?v=f9e45a82",
+    "us": "media/us/train.mp3?v=6962465e"
    },
    "spell": true,
    "avoid": [
@@ -1606,23 +1606,23 @@
     {
      "en": "Our train is on platform four.",
      "zh": "我们的火车在四号站台。",
-     "audio": "media/sent/74821b490cf6.mp3"
+     "audio": "media/sent/74821b490cf6.mp3?v=db4b3a71"
     },
     {
      "en": "Mum waits for us on the platform.",
      "zh": "妈妈在站台上等我们。",
-     "audio": "media/sent/65b0221895ae.mp3"
+     "audio": "media/sent/65b0221895ae.mp3?v=1683ff31"
     },
     {
      "en": "Be careful on the platform, Tom.",
      "zh": "Tom，在站台上小心点。",
-     "audio": "media/sent/d538248b991e.mp3"
+     "audio": "media/sent/d538248b991e.mp3?v=1ba8eae4"
     }
    ],
    "media": {
-    "img": "media/img/platform.webp",
-    "uk": "media/uk/platform.mp3",
-    "us": "media/us/platform.mp3"
+    "img": "media/img/platform.webp?v=727238f2",
+    "uk": "media/uk/platform.mp3?v=f11930de",
+    "us": "media/us/platform.mp3?v=0ac1fdf4"
    },
    "hook": {
     "kind": "story",
@@ -1663,23 +1663,23 @@
     {
      "en": "The railway goes over a tall bridge.",
      "zh": "铁路从一座高桥上通过。",
-     "audio": "media/sent/f39eae2d8154.mp3"
+     "audio": "media/sent/f39eae2d8154.mp3?v=7e525492"
     },
     {
      "en": "We walk beside the railway line.",
      "zh": "我们沿着铁路边走。",
-     "audio": "media/sent/ccdd3c032d22.mp3"
+     "audio": "media/sent/ccdd3c032d22.mp3?v=5c067bc0"
     },
     {
      "en": "The railway station is very old.",
      "zh": "那个火车站很老了。",
-     "audio": "media/sent/5e0441346d64.mp3"
+     "audio": "media/sent/5e0441346d64.mp3?v=e8805df2"
     }
    ],
    "media": {
-    "img": "media/img/railway.webp",
-    "uk": "media/uk/railway.mp3",
-    "us": "media/us/railway.mp3"
+    "img": "media/img/railway.webp?v=82b2f49d",
+    "uk": "media/uk/railway.mp3?v=5e313006",
+    "us": "media/us/railway.mp3?v=87fb9017"
    },
    "hook": {
     "kind": "split",
@@ -1720,23 +1720,23 @@
     {
      "en": "Dad meets us at the station.",
      "zh": "爸爸在车站接我们。",
-     "audio": "media/sent/6224319ca983.mp3"
+     "audio": "media/sent/6224319ca983.mp3?v=63ba5bf6"
     },
     {
      "en": "Our train leaves from this station.",
      "zh": "我们的火车从这个站开。",
-     "audio": "media/sent/eeded6f0e3cd.mp3"
+     "audio": "media/sent/eeded6f0e3cd.mp3?v=308072a2"
     },
     {
      "en": "The station is near our hotel.",
      "zh": "车站就在我们旅馆附近。",
-     "audio": "media/sent/c77b2a6e9c45.mp3"
+     "audio": "media/sent/c77b2a6e9c45.mp3?v=5571e350"
     }
    ],
    "media": {
-    "img": "media/img/station.webp",
-    "uk": "media/uk/station.mp3",
-    "us": "media/us/station.mp3"
+    "img": "media/img/station.webp?v=59f437b4",
+    "uk": "media/uk/station.mp3?v=b11364d0",
+    "us": "media/us/station.mp3?v=3eb2774a"
    },
    "spell": true,
    "avoid": [
@@ -1783,23 +1783,23 @@
     {
      "en": "We go to the city by underground.",
      "zh": "我们坐地铁去市中心。",
-     "audio": "media/sent/24cba13c66b2.mp3"
+     "audio": "media/sent/24cba13c66b2.mp3?v=5e3c3c8a"
     },
     {
      "en": "The underground is fast in London.",
      "zh": "地铁在伦敦很快。",
-     "audio": "media/sent/99a6af2100c5.mp3"
+     "audio": "media/sent/99a6af2100c5.mp3?v=d6eae28a"
     },
     {
      "en": "Mum looks at the underground map.",
      "zh": "妈妈看着地铁图。",
-     "audio": "media/sent/be463502ba17.mp3"
+     "audio": "media/sent/be463502ba17.mp3?v=d5b0bdf5"
     }
    ],
    "media": {
-    "img": "media/img/underground.webp",
-    "uk": "media/uk/underground.mp3",
-    "us": "media/us/underground.mp3"
+    "img": "media/img/underground.webp?v=ce6eb619",
+    "uk": "media/uk/underground.mp3?v=356706a2",
+    "us": "media/us/underground.mp3?v=a6df8634"
    },
    "hook": {
     "kind": "split",
@@ -1839,23 +1839,23 @@
     {
      "en": "The tram goes slowly along the street.",
      "zh": "有轨电车沿着街道慢慢开。",
-     "audio": "media/sent/1ecee157d129.mp3"
+     "audio": "media/sent/1ecee157d129.mp3?v=b936ac04"
     },
     {
      "en": "Lily says hello to the tram driver.",
      "zh": "Lily 向有轨电车司机问好。",
-     "audio": "media/sent/0819d758a759.mp3"
+     "audio": "media/sent/0819d758a759.mp3?v=7e3d8275"
     },
     {
      "en": "We get off the tram near the park.",
      "zh": "我们在公园附近下电车。",
-     "audio": "media/sent/c51732a14cde.mp3"
+     "audio": "media/sent/c51732a14cde.mp3?v=7b8e5876"
     }
    ],
    "media": {
-    "img": "media/img/tram.webp",
-    "uk": "media/uk/tram.mp3",
-    "us": "media/us/tram.mp3"
+    "img": "media/img/tram.webp?v=2e702458",
+    "uk": "media/uk/tram.mp3?v=25f2162e",
+    "us": "media/us/tram.mp3?v=a8eb1ff8"
    },
    "avoid": [
     "bus",
@@ -1895,23 +1895,23 @@
     {
      "en": "Mum calls a taxi for us.",
      "zh": "妈妈给我们叫了一辆出租车。",
-     "audio": "media/sent/cac321495106.mp3"
+     "audio": "media/sent/cac321495106.mp3?v=d71fe648"
     },
     {
      "en": "We go home by taxi at night.",
      "zh": "我们晚上坐出租车回家。",
-     "audio": "media/sent/95249f8eb51a.mp3"
+     "audio": "media/sent/95249f8eb51a.mp3?v=3be6dd3b"
     },
     {
      "en": "The taxi driver knows the way.",
      "zh": "出租车司机认得路。",
-     "audio": "media/sent/840473826740.mp3"
+     "audio": "media/sent/840473826740.mp3?v=2253d1ba"
     }
    ],
    "media": {
-    "img": "media/img/taxi.webp",
-    "uk": "media/uk/taxi.mp3",
-    "us": "media/us/taxi.mp3"
+    "img": "media/img/taxi.webp?v=eab95bb3",
+    "uk": "media/uk/taxi.mp3?v=afd41244",
+    "us": "media/us/taxi.mp3?v=ac121a80"
    },
    "spell": true,
    "avoid": [
@@ -1952,23 +1952,23 @@
     {
      "en": "The bus driver says hello.",
      "zh": "公共汽车司机和我们打招呼。",
-     "audio": "media/sent/68ae97a825a8.mp3"
+     "audio": "media/sent/68ae97a825a8.mp3?v=589f9cfb"
     },
     {
      "en": "Dad is a careful driver.",
      "zh": "爸爸是位小心的司机。",
-     "audio": "media/sent/9c64413a8e4f.mp3"
+     "audio": "media/sent/9c64413a8e4f.mp3?v=954f7a19"
     },
     {
      "en": "The taxi driver helps Mum with the bags.",
      "zh": "出租车司机帮妈妈拿行李。",
-     "audio": "media/sent/a3f40ceb540a.mp3"
+     "audio": "media/sent/a3f40ceb540a.mp3?v=ccc98ac1"
     }
    ],
    "media": {
-    "img": "media/img/driver.webp",
-    "uk": "media/uk/driver.mp3",
-    "us": "media/us/driver.mp3"
+    "img": "media/img/driver.webp?v=cbb146ca",
+    "uk": "media/uk/driver.mp3?v=7dd2a8e2",
+    "us": "media/us/driver.mp3?v=ce689205"
    },
    "spell": true,
    "avoid": [
@@ -2005,23 +2005,23 @@
     {
      "en": "We go to Grandma's by car.",
      "zh": "我们坐汽车去奶奶家。",
-     "audio": "media/sent/23de9dba1f88.mp3"
+     "audio": "media/sent/23de9dba1f88.mp3?v=aa0eed72"
     },
     {
      "en": "Dad washes the car on Sunday.",
      "zh": "爸爸星期天洗车。",
-     "audio": "media/sent/2dc033b819c8.mp3"
+     "audio": "media/sent/2dc033b819c8.mp3?v=da1acded"
     },
     {
      "en": "Tom sleeps in the back of the car.",
      "zh": "Tom 在汽车后座睡着了。",
-     "audio": "media/sent/68f2b7679b17.mp3"
+     "audio": "media/sent/68f2b7679b17.mp3?v=fa782343"
     }
    ],
    "media": {
-    "img": "media/img/car.webp",
-    "uk": "media/uk/car.mp3",
-    "us": "media/us/car.mp3"
+    "img": "media/img/car.webp?v=d6edd1c8",
+    "uk": "media/uk/car.mp3?v=36792e26",
+    "us": "media/us/car.mp3?v=c538eed3"
    },
    "spell": true,
    "avoid": [
@@ -2060,23 +2060,23 @@
     {
      "en": "The red motorbike is very fast.",
      "zh": "那辆红色摩托车很快。",
-     "audio": "media/sent/9359036a7eec.mp3"
+     "audio": "media/sent/9359036a7eec.mp3?v=94235f61"
     },
     {
      "en": "Our neighbour has a big motorbike.",
      "zh": "我们的邻居有一辆大摩托车。",
-     "audio": "media/sent/b2b7067a7f18.mp3"
+     "audio": "media/sent/b2b7067a7f18.mp3?v=b60542b6"
     },
     {
      "en": "The motorbike is very loud.",
      "zh": "那辆摩托车声音很大。",
-     "audio": "media/sent/74239a2d1a77.mp3"
+     "audio": "media/sent/74239a2d1a77.mp3?v=f55d8721"
     }
    ],
    "media": {
-    "img": "media/img/motorbike.webp",
-    "uk": "media/word/motorbike.mp3",
-    "us": "media/word/motorbike.mp3"
+    "img": "media/img/motorbike.webp?v=fb7b54cd",
+    "uk": "media/word/motorbike.mp3?v=933f60ef",
+    "us": "media/word/motorbike.mp3?v=933f60ef"
    },
    "hook": {
     "kind": "split",
@@ -2117,23 +2117,23 @@
     {
      "en": "The car engine is very loud.",
      "zh": "汽车发动机的声音很大。",
-     "audio": "media/sent/78016ecc00f3.mp3"
+     "audio": "media/sent/78016ecc00f3.mp3?v=717d8a0c"
     },
     {
      "en": "Dad starts the engine.",
      "zh": "爸爸发动了发动机。",
-     "audio": "media/sent/6810b225bb44.mp3"
+     "audio": "media/sent/6810b225bb44.mp3?v=088ed188"
     },
     {
      "en": "Be careful. The engine is hot.",
      "zh": "小心，发动机很烫。",
-     "audio": "media/sent/194e5d983b9a.mp3"
+     "audio": "media/sent/194e5d983b9a.mp3?v=a351f17e"
     }
    ],
    "media": {
-    "img": "media/img/engine.webp",
-    "uk": "media/uk/engine.mp3",
-    "us": "media/us/engine.mp3"
+    "img": "media/img/engine.webp?v=c685f75c",
+    "uk": "media/uk/engine.mp3?v=f287e3e8",
+    "us": "media/us/engine.mp3?v=4a1131c8"
    },
    "avoid": [
     "oil",
@@ -2170,23 +2170,23 @@
     {
      "en": "We need petrol for the car.",
      "zh": "我们的汽车需要汽油。",
-     "audio": "media/sent/e23a07965334.mp3"
+     "audio": "media/sent/e23a07965334.mp3?v=8e08e6d9"
     },
     {
      "en": "Dad puts petrol in the car.",
      "zh": "爸爸给汽车加汽油。",
-     "audio": "media/sent/4aa9ec39fc24.mp3"
+     "audio": "media/sent/4aa9ec39fc24.mp3?v=f01c9c56"
     },
     {
      "en": "The petrol here is expensive.",
      "zh": "这里的汽油很贵。",
-     "audio": "media/sent/c72eaa8ec604.mp3"
+     "audio": "media/sent/c72eaa8ec604.mp3?v=b9a98d04"
     }
    ],
    "media": {
-    "img": "media/img/petrol.webp",
-    "uk": "media/uk/petrol.mp3",
-    "us": "media/us/petrol.mp3"
+    "img": "media/img/petrol.webp?v=95b22028",
+    "uk": "media/uk/petrol.mp3?v=0725d2c8",
+    "us": "media/us/petrol.mp3?v=0766f072"
    },
    "avoid": [
     "garage",
@@ -2224,23 +2224,23 @@
     {
      "en": "Dad stops at the petrol station.",
      "zh": "爸爸在加油站停一下。",
-     "audio": "media/sent/c6fea64a8764.mp3"
+     "audio": "media/sent/c6fea64a8764.mp3?v=ba5a32aa"
     },
     {
      "en": "The petrol station is next to the bus station.",
      "zh": "加油站就在公共汽车站旁边。",
-     "audio": "media/sent/9d95c9bf7f17.mp3"
+     "audio": "media/sent/9d95c9bf7f17.mp3?v=2b0a69d9"
     },
     {
      "en": "We buy milk at the petrol station.",
      "zh": "我们在加油站买牛奶。",
-     "audio": "media/sent/300ed1dca8c6.mp3"
+     "audio": "media/sent/300ed1dca8c6.mp3?v=552e699d"
     }
    ],
    "media": {
-    "img": "media/img/petrol-station.webp",
-    "uk": "media/word/petrol-station.mp3",
-    "us": "media/word/petrol-station.mp3"
+    "img": "media/img/petrol-station.webp?v=63d57f2a",
+    "uk": "media/word/petrol-station.mp3?v=5866fa32",
+    "us": "media/word/petrol-station.mp3?v=5866fa32"
    },
    "hook": {
     "kind": "split",
@@ -2280,23 +2280,23 @@
     {
      "en": "We keep our bikes in the garage.",
      "zh": "我们把自行车放在车库里。",
-     "audio": "media/sent/e1c05e071a77.mp3"
+     "audio": "media/sent/e1c05e071a77.mp3?v=8f00aaab"
     },
     {
      "en": "Dad opens the garage door.",
      "zh": "爸爸打开车库门。",
-     "audio": "media/sent/28d11c3e3f46.mp3"
+     "audio": "media/sent/28d11c3e3f46.mp3?v=09d98cd5"
     },
     {
      "en": "Max sleeps in the garage.",
      "zh": "Max 在车库里睡觉。",
-     "audio": "media/sent/6e2454b12cd6.mp3"
+     "audio": "media/sent/6e2454b12cd6.mp3?v=e3072119"
     }
    ],
    "media": {
-    "img": "media/img/garage.webp",
-    "uk": "media/uk/garage.mp3",
-    "us": "media/us/garage.mp3"
+    "img": "media/img/garage.webp?v=37a32810",
+    "uk": "media/uk/garage.mp3?v=aa74e871",
+    "us": "media/us/garage.mp3?v=91f042a6"
    },
    "hook": {
     "kind": "story",
@@ -2337,23 +2337,23 @@
     {
      "en": "The mechanic helps Dad.",
      "zh": "修理工帮爸爸。",
-     "audio": "media/sent/4bee06f344c5.mp3"
+     "audio": "media/sent/4bee06f344c5.mp3?v=872fc9c4"
     },
     {
      "en": "The mechanic changes our tyre.",
      "zh": "修理工给我们换轮胎。",
-     "audio": "media/sent/d17c6958ae0a.mp3"
+     "audio": "media/sent/d17c6958ae0a.mp3?v=028d6586"
     },
     {
      "en": "Our mechanic works in a garage.",
      "zh": "我们的修理工在车库里工作。",
-     "audio": "media/sent/e97b78aee697.mp3"
+     "audio": "media/sent/e97b78aee697.mp3?v=459c2dc8"
     }
    ],
    "media": {
-    "img": "media/img/mechanic.webp",
-    "uk": "media/uk/mechanic.mp3",
-    "us": "media/us/mechanic.mp3"
+    "img": "media/img/mechanic.webp?v=6bb27b61",
+    "uk": "media/uk/mechanic.mp3?v=138ea609",
+    "us": "media/us/mechanic.mp3?v=ad0d2b22"
    },
    "hook": {
     "kind": "contrast",
@@ -2394,23 +2394,23 @@
     {
      "en": "Lily wants to be an engineer.",
      "zh": "Lily 想当工程师。",
-     "audio": "media/sent/745c254957cb.mp3"
+     "audio": "media/sent/745c254957cb.mp3?v=57c3da29"
     },
     {
      "en": "Sam's aunt is an engineer.",
      "zh": "Sam 的姑妈是工程师。",
-     "audio": "media/sent/11a01b293649.mp3"
+     "audio": "media/sent/11a01b293649.mp3?v=c5911be3"
     },
     {
      "en": "An engineer looks at the old bridge.",
      "zh": "一位工程师在查看那座老桥。",
-     "audio": "media/sent/c902893f7112.mp3"
+     "audio": "media/sent/c902893f7112.mp3?v=88112492"
     }
    ],
    "media": {
-    "img": "media/img/engineer.webp",
-    "uk": "media/uk/engineer.mp3",
-    "us": "media/us/engineer.mp3"
+    "img": "media/img/engineer.webp?v=18242dc4",
+    "uk": "media/uk/engineer.mp3?v=da825529",
+    "us": "media/us/engineer.mp3?v=bdd437d4"
    },
    "hook": {
     "kind": "affix",
@@ -2450,23 +2450,23 @@
     {
      "en": "Dad repairs Tom's bike.",
      "zh": "爸爸修 Tom 的自行车。",
-     "audio": "media/sent/97ad89141d4b.mp3"
+     "audio": "media/sent/97ad89141d4b.mp3?v=59a60811"
     },
     {
      "en": "Mum can repair the old bike.",
      "zh": "妈妈会修那辆旧自行车。",
-     "audio": "media/sent/cdf40a80aee2.mp3"
+     "audio": "media/sent/cdf40a80aee2.mp3?v=076a6cbd"
     },
     {
      "en": "Can you repair my toy car?",
      "zh": "你能修一下我的玩具汽车吗？",
-     "audio": "media/sent/e3d435df725d.mp3"
+     "audio": "media/sent/e3d435df725d.mp3?v=53f815b0"
     }
    ],
    "media": {
-    "img": "media/img/repair.webp",
-    "uk": "media/uk/repair.mp3",
-    "us": "media/us/repair.mp3"
+    "img": "media/img/repair.webp?v=9b9d7014",
+    "uk": "media/uk/repair.mp3?v=ec9a2479",
+    "us": "media/us/repair.mp3?v=793297fc"
    },
    "hook": {
     "kind": "affix",
@@ -2505,23 +2505,23 @@
     {
      "en": "Our car has a new tyre.",
      "zh": "我们的汽车有一个新轮胎。",
-     "audio": "media/sent/494e4078c098.mp3"
+     "audio": "media/sent/494e4078c098.mp3?v=cc8be0d8"
     },
     {
      "en": "Look, Dad is changing the tyre.",
      "zh": "看，爸爸在换轮胎。",
-     "audio": "media/sent/b2ee00ef508f.mp3"
+     "audio": "media/sent/b2ee00ef508f.mp3?v=ff77599a"
     },
     {
      "en": "The bike tyre is small.",
      "zh": "自行车的轮胎很小。",
-     "audio": "media/sent/f1cef06c8699.mp3"
+     "audio": "media/sent/f1cef06c8699.mp3?v=6bd4b2b1"
     }
    ],
    "media": {
-    "img": "media/img/tyre.webp",
-    "uk": "media/uk/tyre.mp3",
-    "us": "media/us/tyre.mp3"
+    "img": "media/img/tyre.webp?v=e95603aa",
+    "uk": "media/uk/tyre.mp3?v=3b86aa18",
+    "us": "media/us/tyre.mp3?v=d4da2337"
    },
    "hook": {
     "kind": "contrast",
@@ -2561,23 +2561,23 @@
     {
      "en": "Dad puts a new wheel on the car.",
      "zh": "爸爸给汽车装上一个新车轮。",
-     "audio": "media/sent/1f7a33489c81.mp3"
+     "audio": "media/sent/1f7a33489c81.mp3?v=2f7c51fe"
     },
     {
      "en": "Lily's bike has two big wheels.",
      "zh": "Lily 的自行车有两个大轮子。",
-     "audio": "media/sent/e8a22c50ca2e.mp3"
+     "audio": "media/sent/e8a22c50ca2e.mp3?v=cb350297"
     },
     {
      "en": "This toy car has four wheels.",
      "zh": "这个玩具汽车有四个轮子。",
-     "audio": "media/sent/b3469e22daf0.mp3"
+     "audio": "media/sent/b3469e22daf0.mp3?v=1db03cdc"
     }
    ],
    "media": {
-    "img": "media/img/wheel.webp",
-    "uk": "media/uk/wheel.mp3",
-    "us": "media/us/wheel.mp3"
+    "img": "media/img/wheel.webp?v=c8aebbbb",
+    "uk": "media/uk/wheel.mp3?v=43d383af",
+    "us": "media/us/wheel.mp3?v=18ef8da8"
    },
    "avoid": [
     "engine",
@@ -2613,23 +2613,23 @@
     {
      "en": "Dad checks the oil in the car.",
      "zh": "爸爸检查汽车里的油。",
-     "audio": "media/sent/3fa1371fcb11.mp3"
+     "audio": "media/sent/3fa1371fcb11.mp3?v=68aeff57"
     },
     {
      "en": "The mechanic puts oil on the chain.",
      "zh": "修理工给链条上油。",
-     "audio": "media/sent/c3d90336bc62.mp3"
+     "audio": "media/sent/c3d90336bc62.mp3?v=27f23818"
     },
     {
      "en": "Tom helps Dad with the oil.",
      "zh": "Tom 帮爸爸拿油。",
-     "audio": "media/sent/700bf1c1da54.mp3"
+     "audio": "media/sent/700bf1c1da54.mp3?v=268e6e75"
     }
    ],
    "media": {
-    "img": "media/img/oil.webp",
-    "uk": "media/uk/oil.mp3",
-    "us": "media/us/oil.mp3"
+    "img": "media/img/oil.webp?v=d942df32",
+    "uk": "media/uk/oil.mp3?v=e63b28fb",
+    "us": "media/us/oil.mp3?v=b4e591b6"
    },
    "avoid": [
     "engine",
@@ -2668,23 +2668,23 @@
     {
      "en": "Dad has a new driving licence.",
      "zh": "爸爸有了新驾照。",
-     "audio": "media/sent/ed07f934fb57.mp3"
+     "audio": "media/sent/ed07f934fb57.mp3?v=4171e90f"
     },
     {
      "en": "Where is Mum's driving licence?",
      "zh": "妈妈的驾照在哪儿？",
-     "audio": "media/sent/bd042161a545.mp3"
+     "audio": "media/sent/bd042161a545.mp3?v=c9aed37a"
     },
     {
      "en": "Mum is learning for her driving licence.",
      "zh": "妈妈在为她的驾照学习。",
-     "audio": "media/sent/5cd1c1f8174c.mp3"
+     "audio": "media/sent/5cd1c1f8174c.mp3?v=d4034718"
     }
    ],
    "media": {
-    "img": "media/img/driving-licence.webp",
-    "uk": "media/word/driving-licence.mp3",
-    "us": "media/word/driving-licence.mp3"
+    "img": "media/img/driving-licence.webp?v=8d3cafbf",
+    "uk": "media/word/driving-licence.mp3?v=e79f3475",
+    "us": "media/word/driving-licence.mp3?v=e79f3475"
    },
    "hook": {
     "kind": "split",
@@ -2723,23 +2723,23 @@
     {
      "en": "Dad drives us to school.",
      "zh": "爸爸开车送我们上学。",
-     "audio": "media/sent/8746fccb95bb.mp3"
+     "audio": "media/sent/8746fccb95bb.mp3?v=47db9ab6"
     },
     {
      "en": "Mum drives to work every day.",
      "zh": "妈妈每天开车去上班。",
-     "audio": "media/sent/361b209579f0.mp3"
+     "audio": "media/sent/361b209579f0.mp3?v=a87159b2"
     },
     {
      "en": "We drive to Grandma's on Sunday.",
      "zh": "我们星期天开车去奶奶家。",
-     "audio": "media/sent/a9f8803dbdaa.mp3"
+     "audio": "media/sent/a9f8803dbdaa.mp3?v=375eeac8"
     }
    ],
    "media": {
-    "img": "media/img/drive.webp",
-    "uk": "media/uk/drive.mp3",
-    "us": "media/us/drive.mp3"
+    "img": "media/img/drive.webp?v=7423118e",
+    "uk": "media/uk/drive.mp3?v=b5ff22ad",
+    "us": "media/us/drive.mp3?v=b5f95d98"
    },
    "spell": true,
    "avoid": [
@@ -2783,23 +2783,23 @@
     {
      "en": "The park is near our hotel.",
      "zh": "公园就在我们旅馆附近。",
-     "audio": "media/sent/08f46a5ed0d3.mp3"
+     "audio": "media/sent/08f46a5ed0d3.mp3?v=a9064ec6"
     },
     {
      "en": "We walk through the park to the station.",
      "zh": "我们穿过公园去车站。",
-     "audio": "media/sent/2fa914ae7510.mp3"
+     "audio": "media/sent/2fa914ae7510.mp3?v=4b71e823"
     },
     {
      "en": "There is a big tree in the park.",
      "zh": "公园里有一棵大树。",
-     "audio": "media/sent/6581c205a036.mp3"
+     "audio": "media/sent/6581c205a036.mp3?v=759d828e"
     }
    ],
    "media": {
-    "img": "media/img/park.webp",
-    "uk": "media/uk/park.mp3",
-    "us": "media/us/park.mp3"
+    "img": "media/img/park.webp?v=fb886ba2",
+    "uk": "media/uk/park.mp3?v=0440aa3d",
+    "us": "media/us/park.mp3?v=8d11aa8c"
    },
    "spell": true,
    "avoid": [
@@ -2848,23 +2848,23 @@
     {
      "en": "We park the car near the beach.",
      "zh": "我们把汽车停在海滩附近。",
-     "audio": "media/sent/2a02d8f5679f.mp3"
+     "audio": "media/sent/2a02d8f5679f.mp3?v=63f5c5a0"
     },
     {
      "en": "Don't park the car by the road.",
      "zh": "别把汽车停在路边。",
-     "audio": "media/sent/69fd3f502eae.mp3"
+     "audio": "media/sent/69fd3f502eae.mp3?v=5f9287e5"
     },
     {
      "en": "Mum can park the car here.",
      "zh": "妈妈可以把汽车停在这里。",
-     "audio": "media/sent/52a23ae61ae7.mp3"
+     "audio": "media/sent/52a23ae61ae7.mp3?v=72354d40"
     }
    ],
    "media": {
-    "img": "media/img/park.2.webp",
-    "uk": "media/uk/park.mp3",
-    "us": "media/us/park.mp3"
+    "img": "media/img/park.2.webp?v=b0d1ca7d",
+    "uk": "media/uk/park.mp3?v=0440aa3d",
+    "us": "media/us/park.mp3?v=8d11aa8c"
    },
    "of": "park",
    "ofZh": "公园",
@@ -2902,23 +2902,23 @@
     {
      "en": "The road goes through the fields.",
      "zh": "这条路穿过田地。",
-     "audio": "media/sent/ac7868e31e2f.mp3"
+     "audio": "media/sent/ac7868e31e2f.mp3?v=9afeb4a6"
     },
     {
      "en": "The road to the beach is long.",
      "zh": "去海滩的路很长。",
-     "audio": "media/sent/1f631cb9bedd.mp3"
+     "audio": "media/sent/1f631cb9bedd.mp3?v=1677ace7"
     },
     {
      "en": "Dad drives slowly on the country road.",
      "zh": "爸爸在乡间小路上开得很慢。",
-     "audio": "media/sent/1709e5ac2e6d.mp3"
+     "audio": "media/sent/1709e5ac2e6d.mp3?v=48222d9e"
     }
    ],
    "media": {
-    "img": "media/img/road.webp",
-    "uk": "media/uk/road.mp3",
-    "us": "media/us/road.mp3"
+    "img": "media/img/road.webp?v=98de302d",
+    "uk": "media/uk/road.mp3?v=e4334b9d",
+    "us": "media/us/road.mp3?v=1543117e"
    },
    "spell": true,
    "avoid": [
@@ -2955,23 +2955,23 @@
     {
      "en": "The street is full of shops.",
      "zh": "这条街上满是商店。",
-     "audio": "media/sent/5443e6a42ccc.mp3"
+     "audio": "media/sent/5443e6a42ccc.mp3?v=a187e108"
     },
     {
      "en": "Lily crosses the busy street with Mum.",
      "zh": "Lily 和妈妈过那条繁忙的街道。",
-     "audio": "media/sent/0c2901ee5c94.mp3"
+     "audio": "media/sent/0c2901ee5c94.mp3?v=0e0be925"
     },
     {
      "en": "Our school is on this street.",
      "zh": "我们的学校在这条街上。",
-     "audio": "media/sent/5477d3686bb4.mp3"
+     "audio": "media/sent/5477d3686bb4.mp3?v=6bc84380"
     }
    ],
    "media": {
-    "img": "media/img/street.webp",
-    "uk": "media/uk/street.mp3",
-    "us": "media/us/street.mp3"
+    "img": "media/img/street.webp?v=3a0f0884",
+    "uk": "media/uk/street.mp3?v=e8810ddd",
+    "us": "media/us/street.mp3?v=43443d2f"
    },
    "spell": true,
    "avoid": [
@@ -3010,23 +3010,23 @@
     {
      "en": "The motorway is very wide.",
      "zh": "高速公路很宽。",
-     "audio": "media/sent/b88a23b7b992.mp3"
+     "audio": "media/sent/b88a23b7b992.mp3?v=ddc093a5"
     },
     {
      "en": "Dad drives on the motorway to London.",
      "zh": "爸爸走高速公路去伦敦。",
-     "audio": "media/sent/925f0c0114e9.mp3"
+     "audio": "media/sent/925f0c0114e9.mp3?v=d09ddaab"
     },
     {
      "en": "Look, the motorway is full of cars.",
      "zh": "看，高速公路上满是汽车。",
-     "audio": "media/sent/e21dd795d8ca.mp3"
+     "audio": "media/sent/e21dd795d8ca.mp3?v=a4209da4"
     }
    ],
    "media": {
-    "img": "media/img/motorway.webp",
-    "uk": "media/uk/motorway.mp3",
-    "us": "media/us/motorway.mp3"
+    "img": "media/img/motorway.webp?v=c7479d55",
+    "uk": "media/uk/motorway.mp3?v=8ed3a13d",
+    "us": "media/us/motorway.mp3?v=a9ca274d"
    },
    "hook": {
     "kind": "split",
@@ -3068,23 +3068,23 @@
     {
      "en": "Dad goes round the roundabout.",
      "zh": "爸爸开车绕过环岛。",
-     "audio": "media/sent/c657b9b5127e.mp3"
+     "audio": "media/sent/c657b9b5127e.mp3?v=5add207e"
     },
     {
      "en": "The roundabout has flowers in the middle.",
      "zh": "环岛中间有花。",
-     "audio": "media/sent/e7bbf42d393b.mp3"
+     "audio": "media/sent/e7bbf42d393b.mp3?v=c0dd1617"
     },
     {
      "en": "Is there a roundabout near the station?",
      "zh": "车站附近有环岛吗？",
-     "audio": "media/sent/33d93e186462.mp3"
+     "audio": "media/sent/33d93e186462.mp3?v=8c2e9f85"
     }
    ],
    "media": {
-    "img": "media/img/roundabout.webp",
-    "uk": "media/uk/roundabout.mp3",
-    "us": "media/us/roundabout.mp3"
+    "img": "media/img/roundabout.webp?v=d6ad75e7",
+    "uk": "media/uk/roundabout.mp3?v=044480f2",
+    "us": "media/us/roundabout.mp3?v=ca6e7acf"
    },
    "hook": {
     "kind": "split",
@@ -3125,23 +3125,23 @@
     {
      "en": "There is a lot of traffic today.",
      "zh": "今天车流很多。",
-     "audio": "media/sent/ac2a07220819.mp3"
+     "audio": "media/sent/ac2a07220819.mp3?v=5491fd4e"
     },
     {
      "en": "The traffic is slow on the motorway.",
      "zh": "高速公路上的车流很慢。",
-     "audio": "media/sent/76c7a2fb446e.mp3"
+     "audio": "media/sent/76c7a2fb446e.mp3?v=a61a1bf0"
     },
     {
      "en": "Tom watches the traffic from our window.",
      "zh": "Tom 从我们的窗户看车流。",
-     "audio": "media/sent/9c88bd1d0496.mp3"
+     "audio": "media/sent/9c88bd1d0496.mp3?v=94f43183"
     }
    ],
    "media": {
-    "img": "media/img/traffic.webp",
-    "uk": "media/uk/traffic.mp3",
-    "us": "media/us/traffic.mp3"
+    "img": "media/img/traffic.webp?v=81e404b2",
+    "uk": "media/uk/traffic.mp3?v=d83250e8",
+    "us": "media/us/traffic.mp3?v=2301b7ea"
    },
    "avoid": [
     "stop",
@@ -3178,23 +3178,23 @@
     {
      "en": "The traffic light is red.",
      "zh": "红绿灯是红色的。",
-     "audio": "media/sent/17a27c8e78cb.mp3"
+     "audio": "media/sent/17a27c8e78cb.mp3?v=bb4a55de"
     },
     {
      "en": "Wait at the traffic light, Tom.",
      "zh": "Tom，在红绿灯前等一等。",
-     "audio": "media/sent/306975bb108a.mp3"
+     "audio": "media/sent/306975bb108a.mp3?v=559cc2b8"
     },
     {
      "en": "The traffic light is green. We can go.",
      "zh": "红绿灯是绿的，我们可以走了。",
-     "audio": "media/sent/49ce12d0b724.mp3"
+     "audio": "media/sent/49ce12d0b724.mp3?v=ddb65f1c"
     }
    ],
    "media": {
-    "img": "media/img/traffic-light.webp",
-    "uk": "media/word/traffic-light.mp3",
-    "us": "media/word/traffic-light.mp3"
+    "img": "media/img/traffic-light.webp?v=2cc5db18",
+    "uk": "media/word/traffic-light.mp3?v=29950d05",
+    "us": "media/word/traffic-light.mp3?v=29950d05"
    },
    "hook": {
     "kind": "split",
@@ -3233,23 +3233,23 @@
     {
      "en": "Our train goes over a tall bridge.",
      "zh": "我们的火车从一座高桥上通过。",
-     "audio": "media/sent/c0eceb217259.mp3"
+     "audio": "media/sent/c0eceb217259.mp3?v=83afe598"
     },
     {
      "en": "The bridge is next to the station.",
      "zh": "那座桥就在车站旁边。",
-     "audio": "media/sent/816adee66002.mp3"
+     "audio": "media/sent/816adee66002.mp3?v=3dad2815"
     },
     {
      "en": "Is that bridge old, Dad?",
      "zh": "那座桥很旧吗，爸爸？",
-     "audio": "media/sent/9127d8762646.mp3"
+     "audio": "media/sent/9127d8762646.mp3?v=f0de8cf5"
     }
    ],
    "media": {
-    "img": "media/img/bridge.webp",
-    "uk": "media/uk/bridge.mp3",
-    "us": "media/us/bridge.mp3"
+    "img": "media/img/bridge.webp?v=e7ffbc81",
+    "uk": "media/uk/bridge.mp3?v=69f36e8b",
+    "us": "media/us/bridge.mp3?v=a81d8bfd"
    },
    "hook": {
     "kind": "contrast",
@@ -3288,23 +3288,23 @@
     {
      "en": "Dad looks at the map.",
      "zh": "爸爸看着地图。",
-     "audio": "media/sent/7bd1f33c3612.mp3"
+     "audio": "media/sent/7bd1f33c3612.mp3?v=28740856"
     },
     {
      "en": "Where is the beach on the map?",
      "zh": "地图上海滩在哪儿？",
-     "audio": "media/sent/af3e77f9d02e.mp3"
+     "audio": "media/sent/af3e77f9d02e.mp3?v=570c4354"
     },
     {
      "en": "Lily holds the map for Dad.",
      "zh": "Lily 帮爸爸拿着地图。",
-     "audio": "media/sent/64c7c44f843e.mp3"
+     "audio": "media/sent/64c7c44f843e.mp3?v=b234f094"
     }
    ],
    "media": {
-    "img": "media/img/map.webp",
-    "uk": "media/uk/map.mp3",
-    "us": "media/us/map.mp3"
+    "img": "media/img/map.webp?v=209360a3",
+    "uk": "media/uk/map.mp3?v=e9b9cb4b",
+    "us": "media/us/map.mp3?v=299c2b27"
    },
    "spell": true,
    "avoid": [
@@ -3340,23 +3340,23 @@
     {
      "en": "Is this the way to the beach?",
      "zh": "去海滩走这条路吗？",
-     "audio": "media/sent/3908d58a110d.mp3"
+     "audio": "media/sent/3908d58a110d.mp3?v=27bd13c1"
     },
     {
      "en": "Which way do we go, Mum?",
      "zh": "妈妈，我们走哪条路？",
-     "audio": "media/sent/375d24d818ad.mp3"
+     "audio": "media/sent/375d24d818ad.mp3?v=db9ab651"
     },
     {
      "en": "We ask the way at the shop.",
      "zh": "我们在商店问路。",
-     "audio": "media/sent/310e01c8eb83.mp3"
+     "audio": "media/sent/310e01c8eb83.mp3?v=5c5cbd1e"
     }
    ],
    "media": {
-    "img": "media/img/way.webp",
-    "uk": "media/uk/way.mp3",
-    "us": "media/us/way.mp3"
+    "img": "media/img/way.webp?v=e21e56e7",
+    "uk": "media/uk/way.mp3?v=d7460fc9",
+    "us": "media/us/way.mp3?v=a23549ea"
    },
    "spell": true,
    "avoid": [
@@ -3397,23 +3397,23 @@
     {
      "en": "Turn left at the bridge.",
      "zh": "在桥那儿向左转。",
-     "audio": "media/sent/8c7c73575cc3.mp3"
+     "audio": "media/sent/8c7c73575cc3.mp3?v=d01f2f9a"
     },
     {
      "en": "Mum sits on the left in the car.",
      "zh": "妈妈坐在汽车里的左边。",
-     "audio": "media/sent/dcb89628198a.mp3"
+     "audio": "media/sent/dcb89628198a.mp3?v=f8188ff5"
     },
     {
      "en": "Tom sits on my left.",
      "zh": "Tom 坐在我左边。",
-     "audio": "media/sent/6951aba91993.mp3"
+     "audio": "media/sent/6951aba91993.mp3?v=056c8bfd"
     }
    ],
    "media": {
-    "img": "media/img/left.webp",
-    "uk": "media/uk/left.mp3",
-    "us": "media/us/left.mp3"
+    "img": "media/img/left.webp?v=0fdc2533",
+    "uk": "media/uk/left.mp3?v=c4c7cc64",
+    "us": "media/us/left.mp3?v=09cce94f"
    },
    "spell": true,
    "avoid": [
@@ -3458,23 +3458,23 @@
     {
      "en": "Is this the right way to the station?",
      "zh": "去车站走这条路对吗？",
-     "audio": "media/sent/f639a1f822cd.mp3"
+     "audio": "media/sent/f639a1f822cd.mp3?v=5d880c32"
     },
     {
      "en": "We are on the right bus.",
      "zh": "我们坐对了公共汽车。",
-     "audio": "media/sent/d3bb8787e8df.mp3"
+     "audio": "media/sent/d3bb8787e8df.mp3?v=518527fd"
     },
     {
      "en": "Dad takes the right road home.",
      "zh": "爸爸走对了回家的路。",
-     "audio": "media/sent/ad9ab0692213.mp3"
+     "audio": "media/sent/ad9ab0692213.mp3?v=c996b0c1"
     }
    ],
    "media": {
-    "img": "media/img/right.webp",
-    "uk": "media/uk/right.mp3",
-    "us": "media/us/right.mp3"
+    "img": "media/img/right.webp?v=cebcd6ec",
+    "uk": "media/uk/right.mp3?v=6964d682",
+    "us": "media/us/right.mp3?v=edfe52cf"
    },
    "spell": true,
    "avoid": [
@@ -3520,23 +3520,23 @@
     {
      "en": "Turn right at the shop.",
      "zh": "在商店那儿向右转。",
-     "audio": "media/sent/e1367bc6efae.mp3"
+     "audio": "media/sent/e1367bc6efae.mp3?v=c3cad76f"
     },
     {
      "en": "Tom walks on Mum's right.",
      "zh": "Tom 走在妈妈的右边。",
-     "audio": "media/sent/74dbccb94deb.mp3"
+     "audio": "media/sent/74dbccb94deb.mp3?v=1edc7340"
     },
     {
      "en": "Our hotel is on the right.",
      "zh": "我们的旅馆在右边。",
-     "audio": "media/sent/d0569e53163f.mp3"
+     "audio": "media/sent/d0569e53163f.mp3?v=b8debe1c"
     }
    ],
    "media": {
-    "img": "media/img/right.2.webp",
-    "uk": "media/uk/right.mp3",
-    "us": "media/us/right.mp3"
+    "img": "media/img/right.2.webp?v=d3098b4c",
+    "uk": "media/uk/right.mp3?v=6964d682",
+    "us": "media/us/right.mp3?v=edfe52cf"
    },
    "of": "right",
    "ofZh": "正确的；右边",
@@ -3573,23 +3573,23 @@
     {
      "en": "Is the station far?",
      "zh": "车站远吗？",
-     "audio": "media/sent/5cd589e7d433.mp3"
+     "audio": "media/sent/5cd589e7d433.mp3?v=4b62db5f"
     },
     {
      "en": "Our school is not far from here.",
      "zh": "我们学校离这儿不远。",
-     "audio": "media/sent/4bdab7fbdf7e.mp3"
+     "audio": "media/sent/4bdab7fbdf7e.mp3?v=46a8a084"
     },
     {
      "en": "The castle is very far away.",
      "zh": "那座城堡非常远。",
-     "audio": "media/sent/433901cedcc6.mp3"
+     "audio": "media/sent/433901cedcc6.mp3?v=9ec91917"
     }
    ],
    "media": {
-    "img": "media/img/far.webp",
-    "uk": "media/uk/far.mp3",
-    "us": "media/us/far.mp3"
+    "img": "media/img/far.webp?v=55d5dc9b",
+    "uk": "media/uk/far.mp3?v=62957700",
+    "us": "media/us/far.mp3?v=51b71800"
    },
    "spell": true,
    "avoid": [
@@ -3626,23 +3626,23 @@
     {
      "en": "The train leaves at ten.",
      "zh": "火车十点出发。",
-     "audio": "media/sent/e1fd690ef666.mp3"
+     "audio": "media/sent/e1fd690ef666.mp3?v=ebcd38a8"
     },
     {
      "en": "What time do we leave, Dad?",
      "zh": "爸爸，我们几点出发？",
-     "audio": "media/sent/50c58465ef78.mp3"
+     "audio": "media/sent/50c58465ef78.mp3?v=0b7ae535"
     },
     {
      "en": "We leave home at seven in the morning.",
      "zh": "我们早上七点离开家。",
-     "audio": "media/sent/f6b76761ca90.mp3"
+     "audio": "media/sent/f6b76761ca90.mp3?v=16085e6a"
     }
    ],
    "media": {
-    "img": "media/img/leave.webp",
-    "uk": "media/uk/leave.mp3",
-    "us": "media/us/leave.mp3"
+    "img": "media/img/leave.webp?v=8bdba1c1",
+    "uk": "media/uk/leave.mp3?v=fa8bd017",
+    "us": "media/us/leave.mp3?v=e4d36a68"
    },
    "spell": true,
    "avoid": [
@@ -3688,23 +3688,23 @@
     {
      "en": "We return home on Sunday.",
      "zh": "我们星期天回家。",
-     "audio": "media/sent/ed161568b7b1.mp3"
+     "audio": "media/sent/ed161568b7b1.mp3?v=8a354ecc"
     },
     {
      "en": "Grandma returns to her village by bus.",
      "zh": "奶奶坐公共汽车回她的村子。",
-     "audio": "media/sent/e344da30e1aa.mp3"
+     "audio": "media/sent/e344da30e1aa.mp3?v=1987dc28"
     },
     {
      "en": "Mum buys a return ticket to London.",
      "zh": "妈妈买了一张去伦敦的往返票。",
-     "audio": "media/sent/531e60ef4d4a.mp3"
+     "audio": "media/sent/531e60ef4d4a.mp3?v=9fe2d115"
     }
    ],
    "media": {
-    "img": "media/img/return.webp",
-    "uk": "media/uk/return.mp3",
-    "us": "media/us/return.mp3"
+    "img": "media/img/return.webp?v=078087b4",
+    "uk": "media/uk/return.mp3?v=bb4c2068",
+    "us": "media/us/return.mp3?v=2fe89575"
    },
    "hook": {
     "kind": "affix",
@@ -3744,23 +3744,23 @@
     {
      "en": "We move to a new house.",
      "zh": "我们搬到一栋新房子。",
-     "audio": "media/sent/d6a3d4d87181.mp3"
+     "audio": "media/sent/d6a3d4d87181.mp3?v=5e1cd96a"
     },
     {
      "en": "Don't move, Tom! Max is under the box.",
      "zh": "别动，Tom！Max 在箱子下面。",
-     "audio": "media/sent/51ceeffd7687.mp3"
+     "audio": "media/sent/51ceeffd7687.mp3?v=6065b2b0"
     },
     {
      "en": "Sam moves his toys into his new room.",
      "zh": "Sam 把他的玩具搬进他的新房间。",
-     "audio": "media/sent/a9aac7f04abf.mp3"
+     "audio": "media/sent/a9aac7f04abf.mp3?v=a353c462"
     }
    ],
    "media": {
-    "img": "media/img/move.webp",
-    "uk": "media/uk/move.mp3",
-    "us": "media/us/move.mp3"
+    "img": "media/img/move.webp?v=a4873af8",
+    "uk": "media/uk/move.mp3?v=8a884aaf",
+    "us": "media/us/move.mp3?v=cd95e3d5"
    },
    "spell": true,
    "avoid": [
@@ -3805,23 +3805,23 @@
     {
      "en": "The bus stops here.",
      "zh": "公共汽车在这一站停。",
-     "audio": "media/sent/e41c9967f8f5.mp3"
+     "audio": "media/sent/e41c9967f8f5.mp3?v=2ebbd1aa"
     },
     {
      "en": "Is this our stop, Mum?",
      "zh": "妈妈，这是我们的站吗？",
-     "audio": "media/sent/7ba672d1e1f7.mp3"
+     "audio": "media/sent/7ba672d1e1f7.mp3?v=82c6bd8f"
     },
     {
      "en": "Dad stops the car and we get out.",
      "zh": "爸爸停下车，我们下车。",
-     "audio": "media/sent/9e002f8dc756.mp3"
+     "audio": "media/sent/9e002f8dc756.mp3?v=2cb6c8a2"
     }
    ],
    "media": {
-    "img": "media/img/stop.webp",
-    "uk": "media/uk/stop.mp3",
-    "us": "media/us/stop.mp3"
+    "img": "media/img/stop.webp?v=2c6cd04c",
+    "uk": "media/uk/stop.mp3?v=625b1c82",
+    "us": "media/us/stop.mp3?v=7e5cbaf8"
    },
    "spell": true,
    "avoid": [
@@ -3866,23 +3866,23 @@
     {
      "en": "There is a long delay at the station.",
      "zh": "车站有很长的延误。",
-     "audio": "media/sent/08390e1fbafb.mp3"
+     "audio": "media/sent/08390e1fbafb.mp3?v=c946bf44"
     },
     {
      "en": "The delay is two hours.",
      "zh": "延误了两个小时。",
-     "audio": "media/sent/3d758d44dd9b.mp3"
+     "audio": "media/sent/3d758d44dd9b.mp3?v=638eadd3"
     },
     {
      "en": "The rain delays our train.",
      "zh": "下雨让我们的火车晚点了。",
-     "audio": "media/sent/27044368ba00.mp3"
+     "audio": "media/sent/27044368ba00.mp3?v=cb1c6937"
     }
    ],
    "media": {
-    "img": "media/img/delay.webp",
-    "uk": "media/uk/delay.mp3",
-    "us": "media/us/delay.mp3"
+    "img": "media/img/delay.webp?v=7d4372a0",
+    "uk": "media/uk/delay.mp3?v=720d2aaf",
+    "us": "media/us/delay.mp3?v=4aa3ef99"
    },
    "hook": {
     "kind": "contrast",
@@ -3923,23 +3923,23 @@
     {
      "en": "Our flight is delayed.",
      "zh": "我们的航班晚点了。",
-     "audio": "media/sent/732d7602547f.mp3"
+     "audio": "media/sent/732d7602547f.mp3?v=272a4966"
     },
     {
      "en": "The train is delayed again.",
      "zh": "火车又晚点了。",
-     "audio": "media/sent/cf6514c1a8bb.mp3"
+     "audio": "media/sent/cf6514c1a8bb.mp3?v=bae78325"
     },
     {
      "en": "The bus is delayed, so we are late.",
      "zh": "公共汽车晚点了，我们迟到了。",
-     "audio": "media/sent/b4d1d3ecfdea.mp3"
+     "audio": "media/sent/b4d1d3ecfdea.mp3?v=08ff990d"
     }
    ],
    "media": {
-    "img": "media/img/delayed.webp",
-    "uk": "media/word/delayed.mp3",
-    "us": "media/word/delayed.mp3"
+    "img": "media/img/delayed.webp?v=65731939",
+    "uk": "media/word/delayed.mp3?v=955027c6",
+    "us": "media/word/delayed.mp3?v=955027c6"
    },
    "hook": {
     "kind": "affix",
@@ -3986,23 +3986,23 @@
     {
      "en": "Hurry up! Don't miss the train.",
      "zh": "快点！别错过火车。",
-     "audio": "media/sent/7ddcef50cf94.mp3"
+     "audio": "media/sent/7ddcef50cf94.mp3?v=3852465d"
     },
     {
      "en": "I miss Grandma when she goes home.",
      "zh": "奶奶回家后我很想她。",
-     "audio": "media/sent/dd8a7d9aeada.mp3"
+     "audio": "media/sent/dd8a7d9aeada.mp3?v=77a483ec"
     },
     {
      "en": "Don't miss the boat, Sam!",
      "zh": "Sam，别错过船！",
-     "audio": "media/sent/b865ff5f287d.mp3"
+     "audio": "media/sent/b865ff5f287d.mp3?v=a52fe31c"
     }
    ],
    "media": {
-    "img": "media/img/miss.webp",
-    "uk": "media/uk/miss.mp3",
-    "us": "media/us/miss.mp3"
+    "img": "media/img/miss.webp?v=ba816599",
+    "uk": "media/uk/miss.mp3?v=6d0890bd",
+    "us": "media/us/miss.mp3?v=c8c9ad26"
    },
    "spell": true,
    "avoid": [
@@ -4046,23 +4046,23 @@
     {
      "en": "The sky is light in the morning.",
      "zh": "早上的天空很亮。",
-     "audio": "media/sent/3fa4ecd8c571.mp3"
+     "audio": "media/sent/3fa4ecd8c571.mp3?v=99f71e56"
     },
     {
      "en": "Turn on the light, Mia.",
      "zh": "把灯打开，Mia。",
-     "audio": "media/sent/d7c387b6135a.mp3"
+     "audio": "media/sent/d7c387b6135a.mp3?v=ef0254d2"
     },
     {
      "en": "Dad reads in the light from the window.",
      "zh": "爸爸在窗边的光线下看书。",
-     "audio": "media/sent/9698600eb700.mp3"
+     "audio": "media/sent/9698600eb700.mp3?v=39878344"
     }
    ],
    "media": {
-    "img": "media/img/light.webp",
-    "uk": "media/uk/light.mp3",
-    "us": "media/us/light.mp3"
+    "img": "media/img/light.webp?v=4e791705",
+    "uk": "media/uk/light.mp3?v=12d583da",
+    "us": "media/us/light.mp3?v=25c38e3a"
    },
    "spell": true,
    "avoid": [
@@ -4100,23 +4100,23 @@
     {
      "en": "Mum buys a ticket at the machine.",
      "zh": "妈妈在机器上买票。",
-     "audio": "media/sent/eb30ceda8b0b.mp3"
+     "audio": "media/sent/eb30ceda8b0b.mp3?v=c0912cb0"
     },
     {
      "en": "The machine gives Dad his ticket.",
      "zh": "那台机器把票给爸爸。",
-     "audio": "media/sent/9ab6d8c0361a.mp3"
+     "audio": "media/sent/9ab6d8c0361a.mp3?v=0330cf01"
     },
     {
      "en": "Look, Sam puts money in the machine.",
      "zh": "看，Sam 把钱放进机器里。",
-     "audio": "media/sent/618b5af40992.mp3"
+     "audio": "media/sent/618b5af40992.mp3?v=a7babf3b"
     }
    ],
    "media": {
-    "img": "media/img/machine.webp",
-    "uk": "media/uk/machine.mp3",
-    "us": "media/us/machine.mp3"
+    "img": "media/img/machine.webp?v=e3017887",
+    "uk": "media/uk/machine.mp3?v=20e89947",
+    "us": "media/us/machine.mp3?v=5dc24358"
    },
    "spell": true,
    "avoid": [
@@ -4154,23 +4154,23 @@
     {
      "en": "Lily looks in the mirror.",
      "zh": "Lily 照镜子。",
-     "audio": "media/sent/17a2e3bac5b3.mp3"
+     "audio": "media/sent/17a2e3bac5b3.mp3?v=5f13510a"
     },
     {
      "en": "Tom makes a funny face at the mirror.",
      "zh": "Tom 对着镜子做鬼脸。",
-     "audio": "media/sent/548b8cb46372.mp3"
+     "audio": "media/sent/548b8cb46372.mp3?v=5b60636c"
     },
     {
      "en": "Dad puts on his hat in front of the mirror.",
      "zh": "爸爸在镜子前戴上帽子。",
-     "audio": "media/sent/546f86296aff.mp3"
+     "audio": "media/sent/546f86296aff.mp3?v=920c6f77"
     }
    ],
    "media": {
-    "img": "media/img/mirror.webp",
-    "uk": "media/uk/mirror.mp3",
-    "us": "media/us/mirror.mp3"
+    "img": "media/img/mirror.webp?v=87d5c8fb",
+    "uk": "media/uk/mirror.mp3?v=a487ad95",
+    "us": "media/us/mirror.mp3?v=45f62ce4"
    },
    "avoid": [
     "light",
@@ -4207,23 +4207,23 @@
     {
      "en": "Lily looks out of the train window.",
      "zh": "Lily 望向火车窗外。",
-     "audio": "media/sent/e7e34b705a8e.mp3"
+     "audio": "media/sent/e7e34b705a8e.mp3?v=14a50693"
     },
     {
      "en": "Can I sit by the window, Dad?",
      "zh": "爸爸，我能靠窗坐吗？",
-     "audio": "media/sent/383778b49c47.mp3"
+     "audio": "media/sent/383778b49c47.mp3?v=2b58ceed"
     },
     {
      "en": "Mum opens the car window.",
      "zh": "妈妈打开汽车的车窗。",
-     "audio": "media/sent/de87088a6c2e.mp3"
+     "audio": "media/sent/de87088a6c2e.mp3?v=a5c113e1"
     }
    ],
    "media": {
-    "img": "media/img/window.webp",
-    "uk": "media/uk/window.mp3",
-    "us": "media/us/window.mp3"
+    "img": "media/img/window.webp?v=bb768216",
+    "uk": "media/uk/window.mp3?v=414d9664",
+    "us": "media/us/window.mp3?v=ceed813c"
    },
    "spell": true,
    "avoid": [
@@ -4260,23 +4260,23 @@
     {
      "en": "Can we go by boat, Grandpa?",
      "zh": "爷爷，我们能坐船去吗？",
-     "audio": "media/sent/ea7cba9f67e8.mp3"
+     "audio": "media/sent/ea7cba9f67e8.mp3?v=a93f88c0"
     },
     {
      "en": "The small boat crosses the lake.",
      "zh": "那条小船穿过湖面。",
-     "audio": "media/sent/a97dcacaec5a.mp3"
+     "audio": "media/sent/a97dcacaec5a.mp3?v=959de92f"
     },
     {
      "en": "We take a boat to the island.",
      "zh": "我们坐船到那座岛上去。",
-     "audio": "media/sent/8b1476fd79c4.mp3"
+     "audio": "media/sent/8b1476fd79c4.mp3?v=f0e4bdfb"
     }
    ],
    "media": {
-    "img": "media/img/boat.webp",
-    "uk": "media/uk/boat.mp3",
-    "us": "media/us/boat.mp3"
+    "img": "media/img/boat.webp?v=4d1d8ae2",
+    "uk": "media/uk/boat.mp3?v=14fc8d96",
+    "us": "media/us/boat.mp3?v=af440615"
    },
    "spell": true,
    "avoid": [
@@ -4312,23 +4312,23 @@
     {
      "en": "We see a big ship at sea.",
      "zh": "我们在海上看到一艘大船。",
-     "audio": "media/sent/64f656543c2b.mp3"
+     "audio": "media/sent/64f656543c2b.mp3?v=9ee4c775"
     },
     {
      "en": "The ship goes to France in eight hours.",
      "zh": "这艘船八个小时到法国。",
-     "audio": "media/sent/afa544dac744.mp3"
+     "audio": "media/sent/afa544dac744.mp3?v=9488e809"
     },
     {
      "en": "Dad watches the ship from the beach.",
      "zh": "爸爸在海滩上看那艘船。",
-     "audio": "media/sent/ad81d345b59f.mp3"
+     "audio": "media/sent/ad81d345b59f.mp3?v=b4b2996a"
     }
    ],
    "media": {
-    "img": "media/img/ship.webp",
-    "uk": "media/uk/ship.mp3",
-    "us": "media/us/ship.mp3"
+    "img": "media/img/ship.webp?v=e12aa3b1",
+    "uk": "media/uk/ship.mp3?v=bb59bd3e",
+    "us": "media/us/ship.mp3?v=0c4a28f4"
    },
    "hook": {
     "kind": "contrast",
@@ -4368,23 +4368,23 @@
     {
      "en": "We go sailing on Saturday.",
      "zh": "我们星期六去玩帆船。",
-     "audio": "media/sent/9852577212fd.mp3"
+     "audio": "media/sent/9852577212fd.mp3?v=09801372"
     },
     {
      "en": "Sailing needs a lot of wind.",
      "zh": "玩帆船需要很多风。",
-     "audio": "media/sent/85b45eab465f.mp3"
+     "audio": "media/sent/85b45eab465f.mp3?v=e91f06ea"
     },
     {
      "en": "Lily learns sailing at the lake.",
      "zh": "Lily 在湖边学玩帆船。",
-     "audio": "media/sent/e85d0f1cb55d.mp3"
+     "audio": "media/sent/e85d0f1cb55d.mp3?v=c752a13f"
     }
    ],
    "media": {
-    "img": "media/img/sailing.webp",
-    "uk": "media/uk/sailing.mp3",
-    "us": "media/us/sailing.mp3"
+    "img": "media/img/sailing.webp?v=973d8e95",
+    "uk": "media/uk/sailing.mp3?v=45dd77b4",
+    "us": "media/us/sailing.mp3?v=061efaa7"
    },
    "hook": {
     "kind": "affix",
@@ -4425,23 +4425,23 @@
     {
      "en": "Sam gives Lily a ride on his bike.",
      "zh": "Sam 让 Lily 骑他的自行车。",
-     "audio": "media/sent/2ce78cf54b85.mp3"
+     "audio": "media/sent/2ce78cf54b85.mp3?v=cb24dcdb"
     },
     {
      "en": "Dad takes Tom for a ride in the car.",
      "zh": "爸爸带 Tom 坐汽车兜风。",
-     "audio": "media/sent/04963b70e72d.mp3"
+     "audio": "media/sent/04963b70e72d.mp3?v=742a08ae"
     },
     {
      "en": "Can we ride our bikes to the station?",
      "zh": "我们能骑自行车去车站吗？",
-     "audio": "media/sent/8f224132d51d.mp3"
+     "audio": "media/sent/8f224132d51d.mp3?v=6c5a048a"
     }
    ],
    "media": {
-    "img": "media/img/ride.webp",
-    "uk": "media/uk/ride.mp3",
-    "us": "media/us/ride.mp3"
+    "img": "media/img/ride.webp?v=4278d9e7",
+    "uk": "media/uk/ride.mp3?v=f164c4f0",
+    "us": "media/us/ride.mp3?v=b4bfaf54"
    },
    "spell": true,
    "avoid": [
@@ -4479,23 +4479,23 @@
     {
      "en": "The explorer draws a map.",
      "zh": "那位探险家画了一张地图。",
-     "audio": "media/sent/6b971c16a7da.mp3"
+     "audio": "media/sent/6b971c16a7da.mp3?v=859a42c0"
     },
     {
      "en": "The explorer walks into the forest.",
      "zh": "探险家走进了森林。",
-     "audio": "media/sent/b2fcce8659b1.mp3"
+     "audio": "media/sent/b2fcce8659b1.mp3?v=66e80fc9"
     },
     {
      "en": "Do you want to be an explorer, Lily?",
      "zh": "Lily，你想当探险家吗？",
-     "audio": "media/sent/69082d1b9cc5.mp3"
+     "audio": "media/sent/69082d1b9cc5.mp3?v=c29d40e4"
     }
    ],
    "media": {
-    "img": "media/img/explorer.webp",
-    "uk": "media/uk/explorer.mp3",
-    "us": "media/us/explorer.mp3"
+    "img": "media/img/explorer.webp?v=91f2d4c0",
+    "uk": "media/uk/explorer.mp3?v=4cc5220f",
+    "us": "media/us/explorer.mp3?v=4a01a99a"
    },
    "hook": {
     "kind": "contrast",
@@ -4541,23 +4541,23 @@
     {
      "en": "We travel to another country.",
      "zh": "我们到另一个国家去旅行。",
-     "audio": "media/sent/257fd9405c6a.mp3"
+     "audio": "media/sent/257fd9405c6a.mp3?v=33b4d715"
     },
     {
      "en": "Which country do we fly to?",
      "zh": "我们坐飞机去哪个国家？",
-     "audio": "media/sent/d9279ed726c2.mp3"
+     "audio": "media/sent/d9279ed726c2.mp3?v=4f71a384"
     },
     {
      "en": "We drive to the country on Sunday.",
      "zh": "我们星期天开车去乡下。",
-     "audio": "media/sent/317626c17222.mp3"
+     "audio": "media/sent/317626c17222.mp3?v=af82c67c"
     }
    ],
    "media": {
-    "img": "media/img/country.webp",
-    "uk": "media/uk/country.mp3",
-    "us": "media/us/country.mp3"
+    "img": "media/img/country.webp?v=ece4f8ec",
+    "uk": "media/uk/country.mp3?v=451ed828",
+    "us": "media/us/country.mp3?v=6a502c8d"
    },
    "spell": true,
    "hook": {
@@ -4598,23 +4598,23 @@
     {
      "en": "The ambulance comes fast.",
      "zh": "救护车来得很快。",
-     "audio": "media/sent/95060d1a58f4.mp3"
+     "audio": "media/sent/95060d1a58f4.mp3?v=b9250451"
     },
     {
      "en": "Listen! An ambulance is coming.",
      "zh": "听！救护车来了。",
-     "audio": "media/sent/0c112dc4339b.mp3"
+     "audio": "media/sent/0c112dc4339b.mp3?v=b09782a9"
     },
     {
      "en": "An ambulance helps sick people.",
      "zh": "救护车帮助生病的人。",
-     "audio": "media/sent/d6175016b5b5.mp3"
+     "audio": "media/sent/d6175016b5b5.mp3?v=c64490ca"
     }
    ],
    "media": {
-    "img": "media/img/ambulance.webp",
-    "uk": "media/uk/ambulance.mp3",
-    "us": "media/us/ambulance.mp3"
+    "img": "media/img/ambulance.webp?v=0b468133",
+    "uk": "media/uk/ambulance.mp3?v=66fb1993",
+    "us": "media/us/ambulance.mp3?v=38968e7a"
    },
    "avoid": []
   }

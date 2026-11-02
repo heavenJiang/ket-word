@@ -30,23 +30,23 @@
     {
      "en": "Lily points to the parts of her body.",
      "zh": "Lily 指出她身体的各个部分。",
-     "audio": "media/sent/98d4e10db127.mp3"
+     "audio": "media/sent/98d4e10db127.mp3?v=7688116c"
     },
     {
      "en": "Tom draws a big body and a small head.",
      "zh": "Tom 画一个大身体和一个小小的头。",
-     "audio": "media/sent/256133501e35.mp3"
+     "audio": "media/sent/256133501e35.mp3?v=b4601a7d"
     },
     {
      "en": "Running is good exercise for your whole body.",
      "zh": "跑步对你的整个身体都是很好的锻炼。",
-     "audio": "media/sent/6f6883448e62.mp3"
+     "audio": "media/sent/6f6883448e62.mp3?v=d19e2bb6"
     }
    ],
    "media": {
-    "img": "media/img/body.webp",
-    "uk": "media/uk/body.mp3",
-    "us": "media/us/body.mp3"
+    "img": "media/img/body.webp?v=7e03cb97",
+    "uk": "media/uk/body.mp3?v=7dfd818d",
+    "us": "media/us/body.mp3?v=17eaf20b"
    },
    "spell": true,
    "avoid": [
@@ -83,23 +83,23 @@
     {
      "en": "Lily puts her hands on her head.",
      "zh": "Lily 把双手放在头上。",
-     "audio": "media/sent/75efee6a24dd.mp3"
+     "audio": "media/sent/75efee6a24dd.mp3?v=528d5de2"
     },
     {
      "en": "Grandpa puts his glasses on his head.",
      "zh": "爷爷把眼镜推到头上。",
-     "audio": "media/sent/b132c9f9db26.mp3"
+     "audio": "media/sent/b132c9f9db26.mp3?v=af912222"
     },
     {
      "en": "Dad wears a hat on his head in the sun.",
      "zh": "太阳下爸爸头上戴着帽子。",
-     "audio": "media/sent/51719c4f00d7.mp3"
+     "audio": "media/sent/51719c4f00d7.mp3?v=c6f3d7da"
     }
    ],
    "media": {
-    "img": "media/img/head.webp",
-    "uk": "media/uk/head.mp3",
-    "us": "media/us/head.mp3"
+    "img": "media/img/head.webp?v=bb4b4130",
+    "uk": "media/uk/head.mp3?v=ce79df23",
+    "us": "media/us/head.mp3?v=095c912f"
    },
    "spell": true,
    "avoid": [
@@ -136,23 +136,23 @@
     {
      "en": "Lily washes her face in the morning.",
      "zh": "Lily 早上洗脸。",
-     "audio": "media/sent/9f0758d6643b.mp3"
+     "audio": "media/sent/9f0758d6643b.mp3?v=41f0cbf6"
     },
     {
      "en": "Tom's face is red after his run.",
      "zh": "Tom 跑完步脸红红的。",
-     "audio": "media/sent/28f3228f3ce1.mp3"
+     "audio": "media/sent/28f3228f3ce1.mp3?v=baa0dd4c"
     },
     {
      "en": "Mum dries Tom's face with a towel.",
      "zh": "妈妈用毛巾给 Tom 擦干脸。",
-     "audio": "media/sent/1458505cd2eb.mp3"
+     "audio": "media/sent/1458505cd2eb.mp3?v=b38ea6c3"
     }
    ],
    "media": {
-    "img": "media/img/face.webp",
-    "uk": "media/uk/face.mp3",
-    "us": "media/us/face.mp3"
+    "img": "media/img/face.webp?v=a5f77efa",
+    "uk": "media/uk/face.mp3?v=fa443366",
+    "us": "media/us/face.mp3?v=3797a45d"
    },
    "spell": true,
    "avoid": [
@@ -189,23 +189,23 @@
     {
      "en": "Lily has long brown hair.",
      "zh": "Lily 有一头棕色的长发。",
-     "audio": "media/sent/818b9a92e676.mp3"
+     "audio": "media/sent/818b9a92e676.mp3?v=b9e0657d"
     },
     {
      "en": "Mum cuts Grandma's hair in the garden.",
      "zh": "妈妈在花园里给奶奶剪头发。",
-     "audio": "media/sent/6ea388fd211b.mp3"
+     "audio": "media/sent/6ea388fd211b.mp3?v=97672c93"
     },
     {
      "en": "Tom's hair is wet after his bath.",
      "zh": "Tom 洗完澡头发湿了。",
-     "audio": "media/sent/c70a59fbc712.mp3"
+     "audio": "media/sent/c70a59fbc712.mp3?v=7e3312d3"
     }
    ],
    "media": {
-    "img": "media/img/hair.webp",
-    "uk": "media/uk/hair.mp3",
-    "us": "media/us/hair.mp3"
+    "img": "media/img/hair.webp?v=80120017",
+    "uk": "media/uk/hair.mp3?v=eda5396a",
+    "us": "media/us/hair.mp3?v=03d6d363"
    },
    "spell": true,
    "avoid": []
@@ -238,23 +238,23 @@
     {
      "en": "Tom gets soap in his eye.",
      "zh": "Tom 的眼睛里进了肥皂。",
-     "audio": "media/sent/e3998b6d9f0d.mp3"
+     "audio": "media/sent/e3998b6d9f0d.mp3?v=8ef4b20f"
     },
     {
      "en": "Lily has big brown eyes.",
      "zh": "Lily 有一双棕色的大眼睛。",
-     "audio": "media/sent/0cb1b0a8f793.mp3"
+     "audio": "media/sent/0cb1b0a8f793.mp3?v=7032fbd4"
     },
     {
      "en": "Close your eyes, Tom. One, two, three!",
      "zh": "Tom，闭上眼睛。一、二、三！",
-     "audio": "media/sent/868187984f24.mp3"
+     "audio": "media/sent/868187984f24.mp3?v=956fa1c6"
     }
    ],
    "media": {
-    "img": "media/img/eye.webp",
-    "uk": "media/uk/eye.mp3",
-    "us": "media/us/eye.mp3"
+    "img": "media/img/eye.webp?v=835d351f",
+    "uk": "media/uk/eye.mp3?v=aad90207",
+    "us": "media/us/eye.mp3?v=fe206adf"
    },
    "spell": true,
    "avoid": [
@@ -291,23 +291,23 @@
     {
      "en": "Tom's ear hurts, so we see the doctor.",
      "zh": "Tom 的耳朵疼，所以我们去看医生。",
-     "audio": "media/sent/6ae9fd18f8ed.mp3"
+     "audio": "media/sent/6ae9fd18f8ed.mp3?v=e70b7308"
     },
     {
      "en": "Lily has small ears and long hair.",
      "zh": "Lily 有小耳朵和长头发。",
-     "audio": "media/sent/7f14deeef51d.mp3"
+     "audio": "media/sent/7f14deeef51d.mp3?v=12992eea"
     },
     {
      "en": "Max moves his ears when he hears a sound.",
      "zh": "Max 听到声音会动耳朵。",
-     "audio": "media/sent/98298bb2d938.mp3"
+     "audio": "media/sent/98298bb2d938.mp3?v=d59406af"
     }
    ],
    "media": {
-    "img": "media/img/ear.webp",
-    "uk": "media/uk/ear.mp3",
-    "us": "media/us/ear.mp3"
+    "img": "media/img/ear.webp?v=8d10de7e",
+    "uk": "media/uk/ear.mp3?v=eace8c99",
+    "us": "media/us/ear.mp3?v=4f0d5e88"
    },
    "spell": true,
    "avoid": [
@@ -344,23 +344,23 @@
     {
      "en": "Tom has a cold, so his nose is red.",
      "zh": "Tom 感冒了，所以他的鼻子红红的。",
-     "audio": "media/sent/755047df7848.mp3"
+     "audio": "media/sent/755047df7848.mp3?v=cfdc32c1"
     },
     {
      "en": "Lily has a small nose.",
      "zh": "Lily 有一个小鼻子。",
-     "audio": "media/sent/c055b61c8932.mp3"
+     "audio": "media/sent/c055b61c8932.mp3?v=4d3b1bbe"
     },
     {
      "en": "Max puts his cold nose on Tom's hand.",
      "zh": "Max 把他凉凉的鼻子贴在 Tom 的手上。",
-     "audio": "media/sent/fe611f0ad6d9.mp3"
+     "audio": "media/sent/fe611f0ad6d9.mp3?v=a20f2f06"
     }
    ],
    "media": {
-    "img": "media/img/nose.webp",
-    "uk": "media/uk/nose.mp3",
-    "us": "media/us/nose.mp3"
+    "img": "media/img/nose.webp?v=6349e080",
+    "uk": "media/uk/nose.mp3?v=f56f2c72",
+    "us": "media/us/nose.mp3?v=1b9753d4"
    },
    "spell": true,
    "avoid": [
@@ -397,23 +397,23 @@
     {
      "en": "Tom has a bad tooth.",
      "zh": "Tom 有一颗坏牙。",
-     "audio": "media/sent/5e763d6b8846.mp3"
+     "audio": "media/sent/5e763d6b8846.mp3?v=21a0b2d9"
     },
     {
      "en": "Tom brushes his teeth twice a day.",
      "zh": "Tom 一天刷两次牙。",
-     "audio": "media/sent/27c2ed6f692f.mp3"
+     "audio": "media/sent/27c2ed6f692f.mp3?v=d918f60a"
     },
     {
      "en": "A tooth falls out and Tom shows Mum.",
      "zh": "掉了一颗牙，Tom 拿给妈妈看。",
-     "audio": "media/sent/cf9c0aa3ac19.mp3"
+     "audio": "media/sent/cf9c0aa3ac19.mp3?v=5e7629c9"
     }
    ],
    "media": {
-    "img": "media/img/tooth.webp",
-    "uk": "media/uk/tooth.mp3",
-    "us": "media/us/tooth.mp3"
+    "img": "media/img/tooth.webp?v=3ecfd69e",
+    "uk": "media/uk/tooth.mp3?v=03ad2fc3",
+    "us": "media/us/tooth.mp3?v=608cc015"
    },
    "spell": true,
    "avoid": [
@@ -450,23 +450,23 @@
     {
      "en": "Mum ties a scarf round Tom's neck.",
      "zh": "妈妈给 Tom 的脖子围上围巾。",
-     "audio": "media/sent/d5e4049e86ab.mp3"
+     "audio": "media/sent/d5e4049e86ab.mp3?v=dbefea31"
     },
     {
      "en": "Lily turns her neck to look at the bird.",
      "zh": "Lily 转过头去看那只鸟。",
-     "audio": "media/sent/5db8582d06cb.mp3"
+     "audio": "media/sent/5db8582d06cb.mp3?v=4e3b91f6"
     },
     {
      "en": "Dad has a pain in his neck today.",
      "zh": "爸爸今天脖子疼。",
-     "audio": "media/sent/0da0b229ae39.mp3"
+     "audio": "media/sent/0da0b229ae39.mp3?v=94944d81"
     }
    ],
    "media": {
-    "img": "media/img/neck.webp",
-    "uk": "media/uk/neck.mp3",
-    "us": "media/us/neck.mp3"
+    "img": "media/img/neck.webp?v=602b9fea",
+    "uk": "media/uk/neck.mp3?v=cc4c63e6",
+    "us": "media/us/neck.mp3?v=c151b852"
    },
    "avoid": [
     "body",
@@ -502,23 +502,23 @@
     {
      "en": "Show me your arm, Tom!",
      "zh": "Tom，给我看看你的胳膊！",
-     "audio": "media/sent/bcc1d791bd2c.mp3"
+     "audio": "media/sent/bcc1d791bd2c.mp3?v=0899811f"
     },
     {
      "en": "Lily rides her bike with both arms out.",
      "zh": "Lily 两只胳膊伸开骑自行车。",
-     "audio": "media/sent/9156de6e6ed7.mp3"
+     "audio": "media/sent/9156de6e6ed7.mp3?v=aaa77ce0"
     },
     {
      "en": "Dad carries the shopping bag in his left arm.",
      "zh": "爸爸左胳膊挎着购物袋。",
-     "audio": "media/sent/5317b2120c4f.mp3"
+     "audio": "media/sent/5317b2120c4f.mp3?v=7a72f8bc"
     }
    ],
    "media": {
-    "img": "media/img/arm.webp",
-    "uk": "media/uk/arm.mp3",
-    "us": "media/us/arm.mp3"
+    "img": "media/img/arm.webp?v=6eadcdc0",
+    "uk": "media/uk/arm.mp3?v=a720bf01",
+    "us": "media/us/arm.mp3?v=9fe972aa"
    },
    "spell": true,
    "avoid": [
@@ -554,23 +554,23 @@
     {
      "en": "Lily washes her hands with soap.",
      "zh": "Lily 用肥皂洗手。",
-     "audio": "media/sent/328623f1e81c.mp3"
+     "audio": "media/sent/328623f1e81c.mp3?v=5b8cf079"
     },
     {
      "en": "Tom hurts his hand, but it is fine.",
      "zh": "Tom 的手受伤了，不过没事。",
-     "audio": "media/sent/725b649e7f26.mp3"
+     "audio": "media/sent/725b649e7f26.mp3?v=2370612a"
     },
     {
      "en": "Lily holds up one clean hand.",
      "zh": "Lily 举起一只干净的手。",
-     "audio": "media/sent/4f79f702a54c.mp3"
+     "audio": "media/sent/4f79f702a54c.mp3?v=65f179b3"
     }
    ],
    "media": {
-    "img": "media/img/hand.webp",
-    "uk": "media/uk/hand.mp3",
-    "us": "media/us/hand.mp3"
+    "img": "media/img/hand.webp?v=44e5fef2",
+    "uk": "media/uk/hand.mp3?v=3d351826",
+    "us": "media/us/hand.mp3?v=523d13fb"
    },
    "spell": true,
    "avoid": [
@@ -607,23 +607,23 @@
     {
      "en": "Tom has a small cut on his finger.",
      "zh": "Tom 的手指上有一个小口子。",
-     "audio": "media/sent/edf5cf920450.mp3"
+     "audio": "media/sent/edf5cf920450.mp3?v=06d49259"
     },
     {
      "en": "Lily has ten strong fingers.",
      "zh": "Lily 有十根结实的手指。",
-     "audio": "media/sent/5f26fb5a2d1b.mp3"
+     "audio": "media/sent/5f26fb5a2d1b.mp3?v=08c72a70"
     },
     {
      "en": "Tom points at the moon with one finger.",
      "zh": "Tom 用一根手指指着月亮。",
-     "audio": "media/sent/f24785b186fb.mp3"
+     "audio": "media/sent/f24785b186fb.mp3?v=90125538"
     }
    ],
    "media": {
-    "img": "media/img/finger.webp",
-    "uk": "media/uk/finger.mp3",
-    "us": "media/us/finger.mp3"
+    "img": "media/img/finger.webp?v=d25a9f32",
+    "uk": "media/uk/finger.mp3?v=fb6e79ca",
+    "us": "media/us/finger.mp3?v=584b2116"
    },
    "hook": {
     "kind": "story",
@@ -677,23 +677,23 @@
     {
      "en": "Lily lies on her back on the grass.",
      "zh": "Lily 仰躺在草地上。",
-     "audio": "media/sent/3a3921c2a615.mp3"
+     "audio": "media/sent/3a3921c2a615.mp3?v=c19b5030"
     },
     {
      "en": "Tom puts his bag on his back and walks out.",
      "zh": "Tom 把包背在背上就出门了。",
-     "audio": "media/sent/a9c737466187.mp3"
+     "audio": "media/sent/a9c737466187.mp3?v=ebaf5f7e"
     },
     {
      "en": "Dad carries little Tom on his back.",
      "zh": "爸爸把小 Tom 背在背上。",
-     "audio": "media/sent/9b145a61c146.mp3"
+     "audio": "media/sent/9b145a61c146.mp3?v=3d852242"
     }
    ],
    "media": {
-    "img": "media/img/back.webp",
-    "uk": "media/uk/back.mp3",
-    "us": "media/us/back.mp3"
+    "img": "media/img/back.webp?v=56cbf221",
+    "uk": "media/uk/back.mp3?v=ea22f56c",
+    "us": "media/us/back.mp3?v=75a50de8"
    },
    "spell": true,
    "avoid": [
@@ -744,23 +744,23 @@
     {
      "en": "Dad comes back at six.",
      "zh": "爸爸六点钟回来。",
-     "audio": "media/sent/0302fa0328f9.mp3"
+     "audio": "media/sent/0302fa0328f9.mp3?v=67a5f4c3"
     },
     {
      "en": "Mum goes back inside for the keys.",
      "zh": "妈妈回屋里去拿钥匙。",
-     "audio": "media/sent/fca7b16701bb.mp3"
+     "audio": "media/sent/fca7b16701bb.mp3?v=c11972c4"
     },
     {
      "en": "Lily puts her toys back in the box.",
      "zh": "Lily 把玩具放回盒子里。",
-     "audio": "media/sent/f0d3d48e59ea.mp3"
+     "audio": "media/sent/f0d3d48e59ea.mp3?v=bfaa367c"
     }
    ],
    "media": {
-    "img": "media/img/back.2.webp",
-    "uk": "media/uk/back.mp3",
-    "us": "media/us/back.mp3"
+    "img": "media/img/back.2.webp?v=5fdcf4f5",
+    "uk": "media/uk/back.mp3?v=ea22f56c",
+    "us": "media/us/back.mp3?v=75a50de8"
    },
    "of": "back",
    "ofZh": "背；后背",
@@ -796,23 +796,23 @@
     {
      "en": "Lily runs fast on her long legs.",
      "zh": "Lily 用她的长腿跑得很快。",
-     "audio": "media/sent/dffa57098fac.mp3"
+     "audio": "media/sent/dffa57098fac.mp3?v=92968cd4"
     },
     {
      "en": "Dad dries Max's legs after his bath.",
      "zh": "爸爸给 Max 擦干腿。",
-     "audio": "media/sent/aa266a2b9429.mp3"
+     "audio": "media/sent/aa266a2b9429.mp3?v=dace9b73"
     },
     {
      "en": "Tom hurts his leg, but he can still walk.",
      "zh": "Tom 的腿受伤了，但他还能走。",
-     "audio": "media/sent/f18da8186371.mp3"
+     "audio": "media/sent/f18da8186371.mp3?v=a6184c33"
     }
    ],
    "media": {
-    "img": "media/img/leg.webp",
-    "uk": "media/uk/leg.mp3",
-    "us": "media/us/leg.mp3"
+    "img": "media/img/leg.webp?v=bb843c2f",
+    "uk": "media/uk/leg.mp3?v=09cd70ed",
+    "us": "media/us/leg.mp3?v=cd8d12ab"
    },
    "spell": true,
    "avoid": [
@@ -848,23 +848,23 @@
     {
      "en": "Lily stands on one foot.",
      "zh": "Lily 一只脚站着。",
-     "audio": "media/sent/7a0ac34db7dc.mp3"
+     "audio": "media/sent/7a0ac34db7dc.mp3?v=5d40d5e2"
     },
     {
      "en": "Tom puts his feet in the cold water.",
      "zh": "Tom 把脚放进冷水里。",
-     "audio": "media/sent/c0e0aa877a2f.mp3"
+     "audio": "media/sent/c0e0aa877a2f.mp3?v=0d101fcc"
     },
     {
      "en": "Mum washes Tom's feet after the beach.",
      "zh": "去完海滩妈妈给 Tom 洗脚。",
-     "audio": "media/sent/44c12f09e335.mp3"
+     "audio": "media/sent/44c12f09e335.mp3?v=1942f4a7"
     }
    ],
    "media": {
-    "img": "media/img/foot.webp",
-    "uk": "media/uk/foot.mp3",
-    "us": "media/us/foot.mp3"
+    "img": "media/img/foot.webp?v=5b3cc792",
+    "uk": "media/uk/foot.mp3?v=00b0c080",
+    "us": "media/us/foot.mp3?v=81a2bb5b"
    },
    "spell": true,
    "avoid": [
@@ -901,23 +901,23 @@
     {
      "en": "Tom's stomach is full after dinner.",
      "zh": "晚饭后 Tom 的肚子饱了。",
-     "audio": "media/sent/7b63ae306186.mp3"
+     "audio": "media/sent/7b63ae306186.mp3?v=eeaa18ec"
     },
     {
      "en": "Tom lies down and holds his stomach.",
      "zh": "Tom 躺下，抱着肚子。",
-     "audio": "media/sent/00cb80c33731.mp3"
+     "audio": "media/sent/00cb80c33731.mp3?v=5e48214e"
     },
     {
      "en": "Is your stomach better now, Tom?",
      "zh": "Tom，你的肚子好些了吗？",
-     "audio": "media/sent/74afcc64abf2.mp3"
+     "audio": "media/sent/74afcc64abf2.mp3?v=2f32b1b9"
     }
    ],
    "media": {
-    "img": "media/img/stomach.webp",
-    "uk": "media/uk/stomach.mp3",
-    "us": "media/us/stomach.mp3"
+    "img": "media/img/stomach.webp?v=4a7e0dff",
+    "uk": "media/uk/stomach.mp3?v=3a443c93",
+    "us": "media/us/stomach.mp3?v=93dd101e"
    },
    "avoid": [
     "blood",
@@ -953,23 +953,23 @@
     {
      "en": "Lily listens to Dad's heart.",
      "zh": "Lily 听爸爸的心跳。",
-     "audio": "media/sent/40b28bef9eb2.mp3"
+     "audio": "media/sent/40b28bef9eb2.mp3?v=6ab79302"
     },
     {
      "en": "My heart goes very fast after a run.",
      "zh": "跑完步我的心跳得很快。",
-     "audio": "media/sent/e1f70321a5eb.mp3"
+     "audio": "media/sent/e1f70321a5eb.mp3?v=19f0007e"
     },
     {
      "en": "Tom draws a big red heart for Mum.",
      "zh": "Tom 给妈妈画一颗红色的大心。",
-     "audio": "media/sent/7d270545b27a.mp3"
+     "audio": "media/sent/7d270545b27a.mp3?v=5d151466"
     }
    ],
    "media": {
-    "img": "media/img/heart.webp",
-    "uk": "media/uk/heart.mp3",
-    "us": "media/us/heart.mp3"
+    "img": "media/img/heart.webp?v=34f7b41c",
+    "uk": "media/uk/heart.mp3?v=88b4a3dd",
+    "us": "media/us/heart.mp3?v=919a661c"
    },
    "hook": {
     "kind": "contrast",
@@ -1009,23 +1009,23 @@
     {
      "en": "Your brain helps you learn new words.",
      "zh": "你的大脑帮你学新单词。",
-     "audio": "media/sent/698d59fd48fc.mp3"
+     "audio": "media/sent/698d59fd48fc.mp3?v=9b7447e4"
     },
     {
      "en": "Lily's brain is busy at school.",
      "zh": "Lily 在学校时大脑一直在动。",
-     "audio": "media/sent/d110d4d88102.mp3"
+     "audio": "media/sent/d110d4d88102.mp3?v=b7c8b362"
     },
     {
      "en": "Sleep is good for Tom's brain.",
      "zh": "睡觉对 Tom 的大脑有好处。",
-     "audio": "media/sent/d3b7290bf750.mp3"
+     "audio": "media/sent/d3b7290bf750.mp3?v=37c4d7ed"
     }
    ],
    "media": {
-    "img": "media/img/brain.webp",
-    "uk": "media/uk/brain.mp3",
-    "us": "media/us/brain.mp3"
+    "img": "media/img/brain.webp?v=253ce005",
+    "uk": "media/uk/brain.mp3?v=d78d3639",
+    "us": "media/us/brain.mp3?v=94b76232"
    },
    "hook": {
     "kind": "contrast",
@@ -1065,23 +1065,23 @@
     {
      "en": "The nurse takes a little blood from Dad.",
      "zh": "护士取了一点爸爸的血去化验。",
-     "audio": "media/sent/245189c50cf7.mp3"
+     "audio": "media/sent/245189c50cf7.mp3?v=2d4163bf"
     },
     {
      "en": "Dad is not afraid of the blood test.",
      "zh": "爸爸不怕这个血化验。",
-     "audio": "media/sent/d37990d37147.mp3"
+     "audio": "media/sent/d37990d37147.mp3?v=803b02fb"
     },
     {
      "en": "There is a little blood on Tom's finger, but he is fine.",
      "zh": "Tom 的手指上有一点血，不过他没事。",
-     "audio": "media/sent/1327429cb87c.mp3"
+     "audio": "media/sent/1327429cb87c.mp3?v=b5cb2af8"
     }
    ],
    "media": {
-    "img": "media/img/blood.webp",
-    "uk": "media/uk/blood.mp3",
-    "us": "media/us/blood.mp3"
+    "img": "media/img/blood.webp?v=7c648bcf",
+    "uk": "media/uk/blood.mp3?v=ee22ccbf",
+    "us": "media/us/blood.mp3?v=3195054e"
    },
    "avoid": [
     "brain",
@@ -1117,23 +1117,23 @@
     {
      "en": "Fruit is good for your health.",
      "zh": "水果对健康有好处。",
-     "audio": "media/sent/264814610aaf.mp3"
+     "audio": "media/sent/264814610aaf.mp3?v=e98cc2fd"
     },
     {
      "en": "Running and walking keep us healthy.",
      "zh": "跑步和走路让我们保持健康。",
-     "audio": "media/sent/d6652d70112f.mp3"
+     "audio": "media/sent/d6652d70112f.mp3?v=790563ea"
     },
     {
      "en": "Mum looks after our health every day.",
      "zh": "妈妈每天照顾我们的健康。",
-     "audio": "media/sent/7da2c521008f.mp3"
+     "audio": "media/sent/7da2c521008f.mp3?v=d5578656"
     }
    ],
    "media": {
-    "img": "media/img/health.webp",
-    "uk": "media/uk/health.mp3",
-    "us": "media/us/health.mp3"
+    "img": "media/img/health.webp?v=19d20ffd",
+    "uk": "media/uk/health.mp3?v=5fe7781a",
+    "us": "media/us/health.mp3?v=83afe068"
    },
    "hook": {
     "kind": "contrast",
@@ -1173,23 +1173,23 @@
     {
      "en": "Lily is ill today.",
      "zh": "Lily 今天生病了。",
-     "audio": "media/sent/08441b1b9070.mp3"
+     "audio": "media/sent/08441b1b9070.mp3?v=0dfc36f8"
     },
     {
      "en": "Tom was ill last week.",
      "zh": "Tom 上星期生病了。",
-     "audio": "media/sent/adee052ca58e.mp3"
+     "audio": "media/sent/adee052ca58e.mp3?v=3b540768"
     },
     {
      "en": "Grandma is ill, so we visit her.",
      "zh": "奶奶生病了，所以我们去看她。",
-     "audio": "media/sent/6580acdae420.mp3"
+     "audio": "media/sent/6580acdae420.mp3?v=fa20c96a"
     }
    ],
    "media": {
-    "img": "media/img/ill.webp",
-    "uk": "media/uk/ill.mp3",
-    "us": "media/us/ill.mp3"
+    "img": "media/img/ill.webp?v=a1651db2",
+    "uk": "media/uk/ill.mp3?v=8032b910",
+    "us": "media/us/ill.mp3?v=fe6d3910"
    },
    "avoid": [
     "cold.2",
@@ -1225,23 +1225,23 @@
     {
      "en": "Tom feels sick.",
      "zh": "Tom 觉得恶心。",
-     "audio": "media/sent/a583e9f84587.mp3"
+     "audio": "media/sent/a583e9f84587.mp3?v=9336ff7a"
     },
     {
      "en": "Mum feels sick in the car.",
      "zh": "妈妈坐车会想吐。",
-     "audio": "media/sent/a3358230d82f.mp3"
+     "audio": "media/sent/a3358230d82f.mp3?v=8f9f15ff"
     },
     {
      "en": "When Tom is sick, Mum brings him soup.",
      "zh": "Tom 生病时，妈妈给他端汤。",
-     "audio": "media/sent/f2c4944062fa.mp3"
+     "audio": "media/sent/f2c4944062fa.mp3?v=0a253e7d"
     }
    ],
    "media": {
-    "img": "media/img/sick.webp",
-    "uk": "media/uk/sick.mp3",
-    "us": "media/us/sick.mp3"
+    "img": "media/img/sick.webp?v=4f00598a",
+    "uk": "media/uk/sick.mp3?v=3c2c8c1d",
+    "us": "media/us/sick.mp3?v=09f41bfb"
    },
    "avoid": [
     "cold.2",
@@ -1277,23 +1277,23 @@
     {
      "en": "Grandpa has a pain in his back.",
      "zh": "爷爷的背疼。",
-     "audio": "media/sent/1e7d174d6730.mp3"
+     "audio": "media/sent/1e7d174d6730.mp3?v=d87beb31"
     },
     {
      "en": "The pain is bad at night.",
      "zh": "晚上疼得厉害。",
-     "audio": "media/sent/e4e46df32577.mp3"
+     "audio": "media/sent/e4e46df32577.mp3?v=036c258a"
     },
     {
      "en": "The pain goes away quickly.",
      "zh": "疼痛很快就消了。",
-     "audio": "media/sent/9e4cf7e535a3.mp3"
+     "audio": "media/sent/9e4cf7e535a3.mp3?v=577860b1"
     }
    ],
    "media": {
-    "img": "media/img/pain.webp",
-    "uk": "media/uk/pain.mp3",
-    "us": "media/us/pain.mp3"
+    "img": "media/img/pain.webp?v=b956638f",
+    "uk": "media/uk/pain.mp3?v=f8bf4e1f",
+    "us": "media/us/pain.mp3?v=1fc9a14e"
    },
    "hook": {
     "kind": "contrast",
@@ -1334,23 +1334,23 @@
     {
      "en": "My leg hurts.",
      "zh": "我的腿疼。",
-     "audio": "media/sent/a192b87df6e1.mp3"
+     "audio": "media/sent/a192b87df6e1.mp3?v=9aac4f65"
     },
     {
      "en": "Lily fell off her bike and hurt her leg.",
      "zh": "Lily 从自行车上摔下来，伤了腿。",
-     "audio": "media/sent/5fde20d3dedd.mp3"
+     "audio": "media/sent/5fde20d3dedd.mp3?v=eb46b306"
     },
     {
      "en": "Did you hurt your arm, Tom?",
      "zh": "Tom，你的胳膊受伤了吗？",
-     "audio": "media/sent/e720d360377c.mp3"
+     "audio": "media/sent/e720d360377c.mp3?v=acf711ed"
     }
    ],
    "media": {
-    "img": "media/img/hurt.webp",
-    "uk": "media/uk/hurt.mp3",
-    "us": "media/us/hurt.mp3"
+    "img": "media/img/hurt.webp?v=c7c61987",
+    "uk": "media/uk/hurt.mp3?v=f3f34da5",
+    "us": "media/us/hurt.mp3?v=e0cf0011"
    },
    "avoid": [
     "accident",
@@ -1389,23 +1389,23 @@
     {
      "en": "Tom has a stomach ache.",
      "zh": "Tom 肚子疼。",
-     "audio": "media/sent/83b2fee46360.mp3"
+     "audio": "media/sent/83b2fee46360.mp3?v=087900ca"
     },
     {
      "en": "Lily has a bad stomach ache.",
      "zh": "Lily 肚子疼得厉害。",
-     "audio": "media/sent/f42017a53f2f.mp3"
+     "audio": "media/sent/f42017a53f2f.mp3?v=aa6423a2"
     },
     {
      "en": "I have a stomach ache after too many sweets.",
      "zh": "吃太多糖以后我肚子疼。",
-     "audio": "media/sent/a0ea455f1afb.mp3"
+     "audio": "media/sent/a0ea455f1afb.mp3?v=c80988f4"
     }
    ],
    "media": {
-    "img": "media/img/stomach-ache.webp",
-    "uk": "media/word/stomach-ache.mp3",
-    "us": "media/word/stomach-ache.mp3"
+    "img": "media/img/stomach-ache.webp?v=6125cc70",
+    "uk": "media/word/stomach-ache.mp3?v=fbffbc8a",
+    "us": "media/word/stomach-ache.mp3?v=fbffbc8a"
    },
    "hook": {
     "kind": "split",
@@ -1445,23 +1445,23 @@
     {
      "en": "Tom has a bad toothache.",
      "zh": "Tom 牙疼得厉害。",
-     "audio": "media/sent/2bc04d96b76e.mp3"
+     "audio": "media/sent/2bc04d96b76e.mp3?v=fd6cf0d9"
     },
     {
      "en": "Lily goes to the dentist because of a toothache.",
      "zh": "Lily 因为牙疼去看牙医。",
-     "audio": "media/sent/4a0be20ea888.mp3"
+     "audio": "media/sent/4a0be20ea888.mp3?v=69210cce"
     },
     {
      "en": "Too much sugar gives Lily a toothache.",
      "zh": "太多糖让 Lily 牙疼。",
-     "audio": "media/sent/b9ddf695a9b1.mp3"
+     "audio": "media/sent/b9ddf695a9b1.mp3?v=f7dd1662"
     }
    ],
    "media": {
-    "img": "media/img/toothache.webp",
-    "uk": "media/uk/toothache.mp3",
-    "us": "media/us/toothache.mp3"
+    "img": "media/img/toothache.webp?v=7b1863f6",
+    "uk": "media/uk/toothache.mp3?v=8a0cf50d",
+    "us": "media/us/toothache.mp3?v=fbd0ac70"
    },
    "hook": {
     "kind": "split",
@@ -1510,23 +1510,23 @@
     {
      "en": "Tom has a high temperature.",
      "zh": "Tom 体温很高。",
-     "audio": "media/sent/fe6fd17e774e.mp3"
+     "audio": "media/sent/fe6fd17e774e.mp3?v=ebd94f4e"
     },
     {
      "en": "Mum takes Tom's temperature twice a day.",
      "zh": "妈妈一天给 Tom 量两次体温。",
-     "audio": "media/sent/7b5cdccc0ce9.mp3"
+     "audio": "media/sent/7b5cdccc0ce9.mp3?v=fa5da8b8"
     },
     {
      "en": "The temperature outside is low today.",
      "zh": "今天外面的温度很低。",
-     "audio": "media/sent/0610cad615e2.mp3"
+     "audio": "media/sent/0610cad615e2.mp3?v=65588d1c"
     }
    ],
    "media": {
-    "img": "media/img/temperature.webp",
-    "uk": "media/uk/temperature.mp3",
-    "us": "media/us/temperature.mp3"
+    "img": "media/img/temperature.webp?v=efd64930",
+    "uk": "media/uk/temperature.mp3?v=fb0a688a",
+    "us": "media/us/temperature.mp3?v=bad862ee"
    },
    "avoid": [
     "check",
@@ -1572,23 +1572,23 @@
     {
      "en": "Wear warm clothes. It's cold outside.",
      "zh": "穿暖和的衣服，外面很冷。",
-     "audio": "media/sent/e85b287de8bf.mp3"
+     "audio": "media/sent/e85b287de8bf.mp3?v=d2ca4538"
     },
     {
      "en": "It's cold in the morning.",
      "zh": "早上很冷。",
-     "audio": "media/sent/31ec34123d61.mp3"
+     "audio": "media/sent/31ec34123d61.mp3?v=772d8dcd"
     },
     {
      "en": "Tom's hands are cold.",
      "zh": "Tom 的手很冷。",
-     "audio": "media/sent/6fe2456e2b81.mp3"
+     "audio": "media/sent/6fe2456e2b81.mp3?v=e3dfe688"
     }
    ],
    "media": {
-    "img": "media/img/cold.webp",
-    "uk": "media/uk/cold.mp3",
-    "us": "media/us/cold.mp3"
+    "img": "media/img/cold.webp?v=c351ac58",
+    "uk": "media/uk/cold.mp3?v=6659099b",
+    "us": "media/us/cold.mp3?v=502ebcdf"
    },
    "spell": true,
    "avoid": [
@@ -1630,23 +1630,23 @@
     {
      "en": "Tom has a cold.",
      "zh": "Tom 感冒了。",
-     "audio": "media/sent/6bef679605a0.mp3"
+     "audio": "media/sent/6bef679605a0.mp3?v=ec0340d7"
     },
     {
      "en": "Lily has a cold, so she stays at home.",
      "zh": "Lily 感冒了，所以她待在家里。",
-     "audio": "media/sent/a65b67798090.mp3"
+     "audio": "media/sent/a65b67798090.mp3?v=39a6b44a"
     },
     {
      "en": "Tom's cold goes away in two days.",
      "zh": "Tom 的感冒两天就好了。",
-     "audio": "media/sent/844b158b6695.mp3"
+     "audio": "media/sent/844b158b6695.mp3?v=665bd485"
     }
    ],
    "media": {
-    "img": "media/img/cold.2.webp",
-    "uk": "media/uk/cold.mp3",
-    "us": "media/us/cold.mp3"
+    "img": "media/img/cold.2.webp?v=6496674e",
+    "uk": "media/uk/cold.mp3?v=6659099b",
+    "us": "media/us/cold.mp3?v=502ebcdf"
    },
    "of": "cold",
    "ofZh": "冷的；寒冷",
@@ -1687,23 +1687,23 @@
     {
      "en": "Tom takes his medicine with water.",
      "zh": "Tom 用水把药吞下去。",
-     "audio": "media/sent/5be7d6bf0a71.mp3"
+     "audio": "media/sent/5be7d6bf0a71.mp3?v=cbcf7b35"
     },
     {
      "en": "Mum gives Tom some medicine.",
      "zh": "妈妈给 Tom 吃些药。",
-     "audio": "media/sent/94578fd1e263.mp3"
+     "audio": "media/sent/94578fd1e263.mp3?v=ac1bbd87"
     },
     {
      "en": "The medicine is sweet.",
      "zh": "这药是甜的。",
-     "audio": "media/sent/d442ae63cd05.mp3"
+     "audio": "media/sent/d442ae63cd05.mp3?v=93d34469"
     }
    ],
    "media": {
-    "img": "media/img/medicine.webp",
-    "uk": "media/uk/medicine.mp3",
-    "us": "media/us/medicine.mp3"
+    "img": "media/img/medicine.webp?v=8b4118c9",
+    "uk": "media/uk/medicine.mp3?v=681d34ab",
+    "us": "media/us/medicine.mp3?v=30fbc3df"
    },
    "avoid": [
     "check",
@@ -1739,23 +1739,23 @@
     {
      "en": "Mum takes Tom to the doctor.",
      "zh": "妈妈带 Tom 去看医生。",
-     "audio": "media/sent/296178c32470.mp3"
+     "audio": "media/sent/296178c32470.mp3?v=05138e3a"
     },
     {
      "en": "The doctor helps you get better.",
      "zh": "医生帮你好起来。",
-     "audio": "media/sent/0fb7b7a8c20e.mp3"
+     "audio": "media/sent/0fb7b7a8c20e.mp3?v=9d933d82"
     },
     {
      "en": "Lily wants to be a doctor.",
      "zh": "Lily 想当医生。",
-     "audio": "media/sent/274b4645afa7.mp3"
+     "audio": "media/sent/274b4645afa7.mp3?v=8aac9f53"
     }
    ],
    "media": {
-    "img": "media/img/doctor.webp",
-    "uk": "media/uk/doctor.mp3",
-    "us": "media/us/doctor.mp3"
+    "img": "media/img/doctor.webp?v=3f33b72f",
+    "uk": "media/uk/doctor.mp3?v=2a7b93ec",
+    "us": "media/us/doctor.mp3?v=77062ca3"
    },
    "spell": true,
    "avoid": [
@@ -1792,23 +1792,23 @@
     {
      "en": "Dr Brown is very kind.",
      "zh": "Brown 医生很和蔼。",
-     "audio": "media/sent/d1c74c79e30e.mp3"
+     "audio": "media/sent/d1c74c79e30e.mp3?v=e4d5888a"
     },
     {
      "en": "We see Dr Brown at eight.",
      "zh": "我们八点去看 Brown 医生。",
-     "audio": "media/sent/0f81ba66b889.mp3"
+     "audio": "media/sent/0f81ba66b889.mp3?v=1c2301b5"
     },
     {
      "en": "Dr Brown helps Grandma.",
      "zh": "Brown 医生帮助奶奶。",
-     "audio": "media/sent/c0abae686d6d.mp3"
+     "audio": "media/sent/c0abae686d6d.mp3?v=8a32748f"
     }
    ],
    "media": {
-    "img": "media/img/dr.webp",
-    "uk": "media/word/dr.mp3",
-    "us": "media/word/dr.mp3"
+    "img": "media/img/dr.webp?v=4aa3b804",
+    "uk": "media/word/dr.mp3?v=46fafaa4",
+    "us": "media/word/dr.mp3?v=46fafaa4"
    },
    "avoid": [
     "dentist",
@@ -1844,23 +1844,23 @@
     {
      "en": "The nurse takes Tom's temperature.",
      "zh": "护士给 Tom 量体温。",
-     "audio": "media/sent/0ff6bb9faf96.mp3"
+     "audio": "media/sent/0ff6bb9faf96.mp3?v=c89e7ea7"
     },
     {
      "en": "A nurse works in the hospital.",
      "zh": "护士在医院里工作。",
-     "audio": "media/sent/cc9795f85055.mp3"
+     "audio": "media/sent/cc9795f85055.mp3?v=29b8fd01"
     },
     {
      "en": "The nurse helps you get well.",
      "zh": "护士帮你好起来。",
-     "audio": "media/sent/36f68bd4c760.mp3"
+     "audio": "media/sent/36f68bd4c760.mp3?v=90770f50"
     }
    ],
    "media": {
-    "img": "media/img/nurse.webp",
-    "uk": "media/uk/nurse.mp3",
-    "us": "media/us/nurse.mp3"
+    "img": "media/img/nurse.webp?v=163e370f",
+    "uk": "media/uk/nurse.mp3?v=77929dd7",
+    "us": "media/us/nurse.mp3?v=e01ed759"
    },
    "hook": {
     "kind": "contrast",
@@ -1901,23 +1901,23 @@
     {
      "en": "We see the dentist twice a year.",
      "zh": "我们一年看两次牙医。",
-     "audio": "media/sent/cccf083fd386.mp3"
+     "audio": "media/sent/cccf083fd386.mp3?v=6d77c7b6"
     },
     {
      "en": "Tom is not afraid of the dentist.",
      "zh": "Tom 不怕牙医。",
-     "audio": "media/sent/9014f5361027.mp3"
+     "audio": "media/sent/9014f5361027.mp3?v=c8c7f85e"
     },
     {
      "en": "The dentist looks at Lily's teeth.",
      "zh": "牙医看看 Lily 的牙齿。",
-     "audio": "media/sent/0b3b710ef66c.mp3"
+     "audio": "media/sent/0b3b710ef66c.mp3?v=a5ee5071"
     }
    ],
    "media": {
-    "img": "media/img/dentist.webp",
-    "uk": "media/uk/dentist.mp3",
-    "us": "media/us/dentist.mp3"
+    "img": "media/img/dentist.webp?v=72b56187",
+    "uk": "media/uk/dentist.mp3?v=c3298fc4",
+    "us": "media/us/dentist.mp3?v=73ae7add"
    },
    "avoid": [
     "doctor",
@@ -1954,23 +1954,23 @@
     {
      "en": "Mum buys medicine at the chemist's.",
      "zh": "妈妈在药店买药。",
-     "audio": "media/sent/75b05ca033d3.mp3"
+     "audio": "media/sent/75b05ca033d3.mp3?v=f585defa"
     },
     {
      "en": "The chemist is near our house.",
      "zh": "药店在我们家附近。",
-     "audio": "media/sent/4a147229c286.mp3"
+     "audio": "media/sent/4a147229c286.mp3?v=c7457f5d"
     },
     {
      "en": "The chemist helps Mum.",
      "zh": "药剂师帮了妈妈的忙。",
-     "audio": "media/sent/d06273bb7715.mp3"
+     "audio": "media/sent/d06273bb7715.mp3?v=009e0da7"
     }
    ],
    "media": {
-    "img": "media/img/chemist.webp",
-    "uk": "media/uk/chemist.mp3",
-    "us": "media/us/chemist.mp3"
+    "img": "media/img/chemist.webp?v=cad68c46",
+    "uk": "media/uk/chemist.mp3?v=f839bd11",
+    "us": "media/us/chemist.mp3?v=432d49ff"
    },
    "hook": {
     "kind": "contrast",
@@ -2011,23 +2011,23 @@
     {
      "en": "Grandma is in hospital.",
      "zh": "奶奶在医院里。",
-     "audio": "media/sent/be5fd6b2c3ff.mp3"
+     "audio": "media/sent/be5fd6b2c3ff.mp3?v=54fb4fe4"
     },
     {
      "en": "Mum works in a hospital.",
      "zh": "妈妈在医院工作。",
-     "audio": "media/sent/d38419e97178.mp3"
+     "audio": "media/sent/d38419e97178.mp3?v=d6949591"
     },
     {
      "en": "Lily and Tom visit Grandma in hospital.",
      "zh": "Lily 和 Tom 去医院看奶奶。",
-     "audio": "media/sent/d2fbdd0a2574.mp3"
+     "audio": "media/sent/d2fbdd0a2574.mp3?v=d5bdef70"
     }
    ],
    "media": {
-    "img": "media/img/hospital.webp",
-    "uk": "media/uk/hospital.mp3",
-    "us": "media/us/hospital.mp3"
+    "img": "media/img/hospital.webp?v=96ef0dbe",
+    "uk": "media/uk/hospital.mp3?v=091e263e",
+    "us": "media/us/hospital.mp3?v=be0c0d5b"
    },
    "spell": true,
    "avoid": [
@@ -2065,23 +2065,23 @@
     {
      "en": "The ambulance is white and yellow.",
      "zh": "救护车是白色和黄色的。",
-     "audio": "media/sent/b7eccc24a917.mp3"
+     "audio": "media/sent/b7eccc24a917.mp3?v=ece7ee61"
     },
     {
      "en": "Listen! An ambulance is coming.",
      "zh": "听！救护车来了。",
-     "audio": "media/sent/0c112dc4339b.mp3"
+     "audio": "media/sent/0c112dc4339b.mp3?v=b09782a9"
     },
     {
      "en": "An ambulance can go very fast.",
      "zh": "救护车可以开得很快。",
-     "audio": "media/sent/af238dd11bcb.mp3"
+     "audio": "media/sent/af238dd11bcb.mp3?v=58266353"
     }
    ],
    "media": {
-    "img": "media/img/ambulance.webp",
-    "uk": "media/uk/ambulance.mp3",
-    "us": "media/us/ambulance.mp3"
+    "img": "media/img/ambulance.webp?v=0b468133",
+    "uk": "media/uk/ambulance.mp3?v=66fb1993",
+    "us": "media/us/ambulance.mp3?v=38968e7a"
    },
    "avoid": [
     "chemist",
@@ -2118,23 +2118,23 @@
     {
      "en": "Tom has an appointment with the dentist.",
      "zh": "Tom 约了牙医。",
-     "audio": "media/sent/c8ae780cc14e.mp3"
+     "audio": "media/sent/c8ae780cc14e.mp3?v=2bc9fa0d"
     },
     {
      "en": "Mum calls to make an appointment.",
      "zh": "妈妈打电话预约。",
-     "audio": "media/sent/933b9fb52e7a.mp3"
+     "audio": "media/sent/933b9fb52e7a.mp3?v=50779169"
     },
     {
      "en": "Tom's appointment is at two o'clock.",
      "zh": "Tom 的预约在两点钟。",
-     "audio": "media/sent/e10a7ea16435.mp3"
+     "audio": "media/sent/e10a7ea16435.mp3?v=3eec0489"
     }
    ],
    "media": {
-    "img": "media/img/appointment.webp",
-    "uk": "media/uk/appointment.mp3",
-    "us": "media/us/appointment.mp3"
+    "img": "media/img/appointment.webp?v=faabf666",
+    "uk": "media/uk/appointment.mp3?v=a48ecc32",
+    "us": "media/us/appointment.mp3?v=6023973c"
    },
    "hook": {
     "kind": "contrast",
@@ -2172,23 +2172,23 @@
     {
      "en": "Tom drops a glass of milk by accident.",
      "zh": "Tom 不小心打翻了一杯牛奶。",
-     "audio": "media/sent/55754d0e6bee.mp3"
+     "audio": "media/sent/55754d0e6bee.mp3?v=8de13467"
     },
     {
      "en": "Lily has an accident on her bike.",
      "zh": "Lily 骑自行车时出了意外。",
-     "audio": "media/sent/3fbcc82294d9.mp3"
+     "audio": "media/sent/3fbcc82294d9.mp3?v=2bfa7ec0"
     },
     {
      "en": "It was a small accident, and nobody was hurt.",
      "zh": "那是个小意外，没有人受伤。",
-     "audio": "media/sent/2dfd2e0d0643.mp3"
+     "audio": "media/sent/2dfd2e0d0643.mp3?v=1ab88de4"
     }
    ],
    "media": {
-    "img": "media/img/accident.webp",
-    "uk": "media/uk/accident.mp3",
-    "us": "media/us/accident.mp3"
+    "img": "media/img/accident.webp?v=b6ba38e3",
+    "uk": "media/uk/accident.mp3?v=e446f53b",
+    "us": "media/us/accident.mp3?v=2dba4009"
    },
    "avoid": [
     "danger",
@@ -2226,23 +2226,23 @@
     {
      "en": "Lily's toothbrush is blue and green.",
      "zh": "Lily 的牙刷是蓝绿相间的。",
-     "audio": "media/sent/d71c0e8f8ee3.mp3"
+     "audio": "media/sent/d71c0e8f8ee3.mp3?v=d08e2e70"
     },
     {
      "en": "Tom puts his toothbrush in the cup.",
      "zh": "Tom 把牙刷放在杯子里。",
-     "audio": "media/sent/f2c4a767d6c6.mp3"
+     "audio": "media/sent/f2c4a767d6c6.mp3?v=a573b0a1"
     },
     {
      "en": "Brush your teeth with your toothbrush, Tom!",
      "zh": "Tom，用你的牙刷刷牙！",
-     "audio": "media/sent/75a218f9b171.mp3"
+     "audio": "media/sent/75a218f9b171.mp3?v=9e3cc809"
     }
    ],
    "media": {
-    "img": "media/img/toothbrush.webp",
-    "uk": "media/uk/toothbrush.mp3",
-    "us": "media/us/toothbrush.mp3"
+    "img": "media/img/toothbrush.webp?v=b0189901",
+    "uk": "media/uk/toothbrush.mp3?v=238415b2",
+    "us": "media/us/toothbrush.mp3?v=f3a75b8a"
    },
    "spell": true,
    "hook": {
@@ -2282,23 +2282,23 @@
     {
      "en": "Wash your hands with soap, Tom!",
      "zh": "Tom，用肥皂洗手！",
-     "audio": "media/sent/913425f81241.mp3"
+     "audio": "media/sent/913425f81241.mp3?v=f055711e"
     },
     {
      "en": "Mum buys soap at the shop.",
      "zh": "妈妈在商店买肥皂。",
-     "audio": "media/sent/3d6d06414204.mp3"
+     "audio": "media/sent/3d6d06414204.mp3?v=9b30d2a5"
     },
     {
      "en": "The soap is next to the sink.",
      "zh": "肥皂在水池旁边。",
-     "audio": "media/sent/37ee076466ca.mp3"
+     "audio": "media/sent/37ee076466ca.mp3?v=6aeca6f6"
     }
    ],
    "media": {
-    "img": "media/img/soap.webp",
-    "uk": "media/uk/soap.mp3",
-    "us": "media/us/soap.mp3"
+    "img": "media/img/soap.webp?v=462cb54f",
+    "uk": "media/uk/soap.mp3?v=6ea2cf2e",
+    "us": "media/us/soap.mp3?v=969cc03e"
    },
    "avoid": [
     "comb",
@@ -2333,23 +2333,23 @@
     {
      "en": "Where is my comb, Mum?",
      "zh": "妈妈，我的梳子在哪儿？",
-     "audio": "media/sent/b0be7d743a34.mp3"
+     "audio": "media/sent/b0be7d743a34.mp3?v=93c52980"
     },
     {
      "en": "Lily has a new pink comb.",
      "zh": "Lily 有一把新的粉色梳子。",
-     "audio": "media/sent/97f998163880.mp3"
+     "audio": "media/sent/97f998163880.mp3?v=4e60ea77"
     },
     {
      "en": "Use a clean comb, Tom.",
      "zh": "Tom，用一把干净的梳子。",
-     "audio": "media/sent/5714f0aab941.mp3"
+     "audio": "media/sent/5714f0aab941.mp3?v=cc203dd7"
     }
    ],
    "media": {
-    "img": "media/img/comb.webp",
-    "uk": "media/uk/comb.mp3",
-    "us": "media/us/comb.mp3"
+    "img": "media/img/comb.webp?v=ce78008e",
+    "uk": "media/uk/comb.mp3?v=87ad8dbc",
+    "us": "media/us/comb.mp3?v=0431f34f"
    },
    "hook": {
     "kind": "contrast",
@@ -2397,23 +2397,23 @@
     {
      "en": "Tom's hands are clean.",
      "zh": "Tom 的手很干净。",
-     "audio": "media/sent/a99e47124228.mp3"
+     "audio": "media/sent/a99e47124228.mp3?v=e1b25a40"
     },
     {
      "en": "Lily helps Mum clean the kitchen.",
      "zh": "Lily 帮妈妈打扫厨房。",
-     "audio": "media/sent/a8c74aac1f94.mp3"
+     "audio": "media/sent/a8c74aac1f94.mp3?v=9cc19f49"
     },
     {
      "en": "Mum cleans the table after dinner.",
      "zh": "妈妈晚饭后擦桌子。",
-     "audio": "media/sent/70145b18b32f.mp3"
+     "audio": "media/sent/70145b18b32f.mp3?v=303d76c1"
     }
    ],
    "media": {
-    "img": "media/img/clean.webp",
-    "uk": "media/uk/clean.mp3",
-    "us": "media/us/clean.mp3"
+    "img": "media/img/clean.webp?v=4b8f3308",
+    "uk": "media/uk/clean.mp3?v=277ac7d0",
+    "us": "media/us/clean.mp3?v=69b0ff56"
    },
    "spell": true,
    "avoid": []
@@ -2456,23 +2456,23 @@
     {
      "en": "Exercise is good for children.",
      "zh": "锻炼对孩子有好处。",
-     "audio": "media/sent/5b216893b9ac.mp3"
+     "audio": "media/sent/5b216893b9ac.mp3?v=d00c4495"
     },
     {
      "en": "Lily exercises every morning with Dad.",
      "zh": "Lily 每天早上和爸爸一起锻炼。",
-     "audio": "media/sent/7008c548b825.mp3"
+     "audio": "media/sent/7008c548b825.mp3?v=0d3878d6"
     },
     {
      "en": "Grandpa does his exercises in the garden.",
      "zh": "爷爷在花园里做他的练习。",
-     "audio": "media/sent/996bf9638459.mp3"
+     "audio": "media/sent/996bf9638459.mp3?v=18fabdd2"
     }
    ],
    "media": {
-    "img": "media/img/exercise.webp",
-    "uk": "media/uk/exercise.mp3",
-    "us": "media/us/exercise.mp3"
+    "img": "media/img/exercise.webp?v=3b6ce600",
+    "uk": "media/uk/exercise.mp3?v=c0152230",
+    "us": "media/us/exercise.mp3?v=3cb1f15a"
    },
    "spell": true,
    "avoid": [
@@ -2509,23 +2509,23 @@
     {
      "en": "Grandpa runs every day, so he is very fit.",
      "zh": "爷爷每天跑步，所以他很健康。",
-     "audio": "media/sent/7147f8361099.mp3"
+     "audio": "media/sent/7147f8361099.mp3?v=5ef4ad4b"
     },
     {
      "en": "Swimming keeps Lily fit.",
      "zh": "游泳让 Lily 保持健康。",
-     "audio": "media/sent/7b77a9eeb044.mp3"
+     "audio": "media/sent/7b77a9eeb044.mp3?v=27f1e635"
     },
     {
      "en": "Mum is fit and strong.",
      "zh": "妈妈身体健康，很强壮。",
-     "audio": "media/sent/b1f1b9473afc.mp3"
+     "audio": "media/sent/b1f1b9473afc.mp3?v=32d09d30"
     }
    ],
    "media": {
-    "img": "media/img/fit.webp",
-    "uk": "media/uk/fit.mp3",
-    "us": "media/us/fit.mp3"
+    "img": "media/img/fit.webp?v=82a2cd9a",
+    "uk": "media/uk/fit.mp3?v=0897be83",
+    "us": "media/us/fit.mp3?v=8b5f6e26"
    },
    "avoid": [
     "exercise",
@@ -2570,23 +2570,23 @@
     {
      "en": "I don't feel well.",
      "zh": "我感觉不舒服。",
-     "audio": "media/sent/82d2d35ccbd0.mp3"
+     "audio": "media/sent/82d2d35ccbd0.mp3?v=c8ba6678"
     },
     {
      "en": "Lily sings very well.",
      "zh": "Lily 唱歌唱得很好。",
-     "audio": "media/sent/cc4e9ee71691.mp3"
+     "audio": "media/sent/cc4e9ee71691.mp3?v=828f2f5f"
     },
     {
      "en": "Are you well today, Grandma?",
      "zh": "Grandma，你今天身体好吗？",
-     "audio": "media/sent/63748bec2222.mp3"
+     "audio": "media/sent/63748bec2222.mp3?v=52ca56dd"
     }
    ],
    "media": {
-    "img": "media/img/well.webp",
-    "uk": "media/word/well.mp3",
-    "us": "media/word/well.mp3"
+    "img": "media/img/well.webp?v=04ff3356",
+    "uk": "media/word/well.mp3?v=f69caf50",
+    "us": "media/word/well.mp3?v=f69caf50"
    },
    "hook": {
     "kind": "contrast",
@@ -2626,23 +2626,23 @@
     {
      "en": "How do you feel today, Tom?",
      "zh": "Tom，你今天感觉怎么样？",
-     "audio": "media/sent/7fc21b55c252.mp3"
+     "audio": "media/sent/7fc21b55c252.mp3?v=56e4bdf6"
     },
     {
      "en": "I feel ill today.",
      "zh": "我今天觉得不舒服。",
-     "audio": "media/sent/807225609b00.mp3"
+     "audio": "media/sent/807225609b00.mp3?v=60ec2716"
     },
     {
      "en": "Mum feels better now.",
      "zh": "妈妈现在感觉好多了。",
-     "audio": "media/sent/a47a7374544f.mp3"
+     "audio": "media/sent/a47a7374544f.mp3?v=f8538fdb"
     }
    ],
    "media": {
-    "img": "media/img/feel.webp",
-    "uk": "media/uk/feel.mp3",
-    "us": "media/us/feel.mp3"
+    "img": "media/img/feel.webp?v=f02fc834",
+    "uk": "media/uk/feel.mp3?v=e49e1ec0",
+    "us": "media/us/feel.mp3?v=738bbfdc"
    },
    "spell": true,
    "avoid": [
@@ -2678,23 +2678,23 @@
     {
      "en": "I can hear a bird.",
      "zh": "我能听见一只鸟在叫。",
-     "audio": "media/sent/498e3bdfbae1.mp3"
+     "audio": "media/sent/498e3bdfbae1.mp3?v=fd6dbadd"
     },
     {
      "en": "Can you hear the music, Tom?",
      "zh": "Tom，你能听见音乐吗？",
-     "audio": "media/sent/ae0ac076438d.mp3"
+     "audio": "media/sent/ae0ac076438d.mp3?v=368899a4"
     },
     {
      "en": "We can hear Max at the door.",
      "zh": "我们能听见 Max 在门口。",
-     "audio": "media/sent/5ee36f51dda4.mp3"
+     "audio": "media/sent/5ee36f51dda4.mp3?v=e5cdcf90"
     }
    ],
    "media": {
-    "img": "media/img/hear.webp",
-    "uk": "media/uk/hear.mp3",
-    "us": "media/us/hear.mp3"
+    "img": "media/img/hear.webp?v=d7e65564",
+    "uk": "media/uk/hear.mp3?v=ae270726",
+    "us": "media/us/hear.mp3?v=7674ddb1"
    },
    "spell": true,
    "avoid": [
@@ -2730,23 +2730,23 @@
     {
      "en": "The doctor checks my ears.",
      "zh": "医生检查我的耳朵。",
-     "audio": "media/sent/84aae57d0b1b.mp3"
+     "audio": "media/sent/84aae57d0b1b.mp3?v=2089d59a"
     },
     {
      "en": "Let's check the bike before we go.",
      "zh": "我们出门前先检查一下自行车。",
-     "audio": "media/sent/783117d02ed2.mp3"
+     "audio": "media/sent/783117d02ed2.mp3?v=41d4f5d0"
     },
     {
      "en": "Mum checks Tom's temperature twice a day.",
      "zh": "妈妈一天给 Tom 量两次体温。",
-     "audio": "media/sent/6d4f1d498ebc.mp3"
+     "audio": "media/sent/6d4f1d498ebc.mp3?v=bec2431b"
     }
    ],
    "media": {
-    "img": "media/img/check.webp",
-    "uk": "media/word/check.mp3",
-    "us": "media/word/check.mp3"
+    "img": "media/img/check.webp?v=1854e53e",
+    "uk": "media/word/check.mp3?v=70e49557",
+    "us": "media/word/check.mp3?v=70e49557"
    },
    "hook": {
     "kind": "contrast",
@@ -2796,23 +2796,23 @@
     {
      "en": "Tom falls off his bike.",
      "zh": "Tom 从自行车上摔下来。",
-     "audio": "media/sent/cb44bde24837.mp3"
+     "audio": "media/sent/cb44bde24837.mp3?v=ab06495f"
     },
     {
      "en": "Leaves fall in autumn.",
      "zh": "树叶在秋天落下。",
-     "audio": "media/sent/a74eebad8484.mp3"
+     "audio": "media/sent/a74eebad8484.mp3?v=ea600bf1"
     },
     {
      "en": "Lily had a small fall, but she is fine.",
      "zh": "Lily 摔了一小跤，但她没事。",
-     "audio": "media/sent/793b1dfd1f45.mp3"
+     "audio": "media/sent/793b1dfd1f45.mp3?v=539b160a"
     }
    ],
    "media": {
-    "img": "media/img/fall.webp",
-    "uk": "media/uk/fall.mp3",
-    "us": "media/us/fall.mp3"
+    "img": "media/img/fall.webp?v=ba90b049",
+    "uk": "media/uk/fall.mp3?v=a361dcde",
+    "us": "media/us/fall.mp3?v=ca6d8637"
    },
    "spell": true,
    "avoid": [
@@ -2849,23 +2849,23 @@
     {
      "en": "Lie down and rest, Tom.",
      "zh": "Tom，躺下休息吧。",
-     "audio": "media/sent/a334e516d71d.mp3"
+     "audio": "media/sent/a334e516d71d.mp3?v=ba4a7e22"
     },
     {
      "en": "Tom lies down on the sofa.",
      "zh": "Tom 躺在沙发上。",
-     "audio": "media/sent/7bb8c64940d2.mp3"
+     "audio": "media/sent/7bb8c64940d2.mp3?v=1e2a4de0"
     },
     {
      "en": "Mum lies down for an hour.",
      "zh": "妈妈躺一个小时。",
-     "audio": "media/sent/861c7473bbb7.mp3"
+     "audio": "media/sent/861c7473bbb7.mp3?v=e9ae5f60"
     }
    ],
    "media": {
-    "img": "media/img/lie-down.webp",
-    "uk": "media/word/lie-down.mp3",
-    "us": "media/word/lie-down.mp3"
+    "img": "media/img/lie-down.webp?v=4c0a6468",
+    "uk": "media/word/lie-down.mp3?v=e5a1d390",
+    "us": "media/word/lie-down.mp3?v=e5a1d390"
    },
    "hook": {
     "kind": "split",
@@ -2907,23 +2907,23 @@
     {
      "en": "You are tired. Have a rest.",
      "zh": "你累了，休息一下。",
-     "audio": "media/sent/b74302005293.mp3"
+     "audio": "media/sent/b74302005293.mp3?v=5570dc1d"
     },
     {
      "en": "Lily rests on the sofa for an hour.",
      "zh": "Lily 在沙发上休息一个小时。",
-     "audio": "media/sent/9a9ad08de4ad.mp3"
+     "audio": "media/sent/9a9ad08de4ad.mp3?v=85847295"
     },
     {
      "en": "Rest helps your body get better.",
      "zh": "休息帮助你的身体好起来。",
-     "audio": "media/sent/da98c900596a.mp3"
+     "audio": "media/sent/da98c900596a.mp3?v=c5ffb0a0"
     }
    ],
    "media": {
-    "img": "media/img/rest.webp",
-    "uk": "media/uk/rest.mp3",
-    "us": "media/us/rest.mp3"
+    "img": "media/img/rest.webp?v=3560bd64",
+    "uk": "media/uk/rest.mp3?v=42803d7b",
+    "us": "media/us/rest.mp3?v=6122076e"
    },
    "spell": true,
    "avoid": [
@@ -2960,23 +2960,23 @@
     {
      "en": "Grandpa runs every morning to stay fit.",
      "zh": "爷爷每天早上跑步来保持健康。",
-     "audio": "media/sent/b8c345da503c.mp3"
+     "audio": "media/sent/b8c345da503c.mp3?v=412c6db4"
     },
     {
      "en": "I run with Sam twice a week.",
      "zh": "我一周和 Sam 跑两次步。",
-     "audio": "media/sent/c1669b425e65.mp3"
+     "audio": "media/sent/c1669b425e65.mp3?v=41157a7a"
     },
     {
      "en": "Running is good for your heart.",
      "zh": "跑步对你的心脏有好处。",
-     "audio": "media/sent/2991e1020176.mp3"
+     "audio": "media/sent/2991e1020176.mp3?v=eed6afdd"
     }
    ],
    "media": {
-    "img": "media/img/run.webp",
-    "uk": "media/uk/run.mp3",
-    "us": "media/us/run.mp3"
+    "img": "media/img/run.webp?v=30dd3fb6",
+    "uk": "media/uk/run.mp3?v=5b9b2873",
+    "us": "media/us/run.mp3?v=b9907ddd"
    },
    "spell": true,
    "avoid": [
@@ -3014,23 +3014,23 @@
     {
      "en": "Lily swims twice a week.",
      "zh": "Lily 一周游泳两次。",
-     "audio": "media/sent/eedceb0bd3c8.mp3"
+     "audio": "media/sent/eedceb0bd3c8.mp3?v=3eab7556"
     },
     {
      "en": "We swim in the pool with Dad.",
      "zh": "我们和爸爸在泳池里游泳。",
-     "audio": "media/sent/2de05e5f24d2.mp3"
+     "audio": "media/sent/2de05e5f24d2.mp3?v=cfa4283a"
     },
     {
      "en": "Swimming is good exercise.",
      "zh": "游泳是很好的锻炼。",
-     "audio": "media/sent/91ca48ed250b.mp3"
+     "audio": "media/sent/91ca48ed250b.mp3?v=0f8bfa49"
     }
    ],
    "media": {
-    "img": "media/img/swim.webp",
-    "uk": "media/uk/swim.mp3",
-    "us": "media/us/swim.mp3"
+    "img": "media/img/swim.webp?v=0af388d1",
+    "uk": "media/uk/swim.mp3?v=f301f831",
+    "us": "media/us/swim.mp3?v=94e244fd"
    },
    "spell": true,
    "avoid": [
@@ -3068,23 +3068,23 @@
     {
      "en": "Lily walks to school every morning.",
      "zh": "Lily 每天早上走路上学。",
-     "audio": "media/sent/77d61e7ef55e.mp3"
+     "audio": "media/sent/77d61e7ef55e.mp3?v=0aca215c"
     },
     {
      "en": "Grandpa and Dad walk in the park.",
      "zh": "爷爷和爸爸在公园里散步。",
-     "audio": "media/sent/1cf34e20884d.mp3"
+     "audio": "media/sent/1cf34e20884d.mp3?v=8c4f5fa6"
     },
     {
      "en": "A short walk every day is good for you.",
      "zh": "每天走一小段路对你有好处。",
-     "audio": "media/sent/1cdf981cb929.mp3"
+     "audio": "media/sent/1cdf981cb929.mp3?v=e8150083"
     }
    ],
    "media": {
-    "img": "media/img/walk.webp",
-    "uk": "media/uk/walk.mp3",
-    "us": "media/us/walk.mp3"
+    "img": "media/img/walk.webp?v=fa1bfc50",
+    "uk": "media/uk/walk.mp3?v=de269035",
+    "us": "media/us/walk.mp3?v=50ca6b73"
    },
    "spell": true,
    "avoid": [
@@ -3120,23 +3120,23 @@
     {
      "en": "Tom is tired after his swim.",
      "zh": "Tom 游泳后累了。",
-     "audio": "media/sent/cf6c23a10827.mp3"
+     "audio": "media/sent/cf6c23a10827.mp3?v=f25cdc37"
     },
     {
      "en": "I feel tired and I need a rest.",
      "zh": "我觉得累，需要休息。",
-     "audio": "media/sent/2b532ec5e5e2.mp3"
+     "audio": "media/sent/2b532ec5e5e2.mp3?v=dfd1a955"
     },
     {
      "en": "Mum is tired in the evening, but happy.",
      "zh": "妈妈晚上很累，但很开心。",
-     "audio": "media/sent/ae33b982a482.mp3"
+     "audio": "media/sent/ae33b982a482.mp3?v=4fc6c023"
     }
    ],
    "media": {
-    "img": "media/img/tired.webp",
-    "uk": "media/uk/tired.mp3",
-    "us": "media/us/tired.mp3"
+    "img": "media/img/tired.webp?v=9bcbf42f",
+    "uk": "media/uk/tired.mp3?v=02a982bd",
+    "us": "media/us/tired.mp3?v=c75455c6"
    },
    "spell": true,
    "avoid": [
@@ -3175,23 +3175,23 @@
     {
      "en": "Take a break if you feel tired.",
      "zh": "如果觉得累，就休息一下。",
-     "audio": "media/sent/bb6bbe83ba25.mp3"
+     "audio": "media/sent/bb6bbe83ba25.mp3?v=98f4efcb"
     },
     {
      "en": "We have a break after twenty minutes.",
      "zh": "二十分钟后我们休息一下。",
-     "audio": "media/sent/c81d51f6da10.mp3"
+     "audio": "media/sent/c81d51f6da10.mp3?v=434fb410"
     },
     {
      "en": "A short break helps Lily learn better.",
      "zh": "短暂的休息让 Lily 学得更认真。",
-     "audio": "media/sent/b7dd84d8f920.mp3"
+     "audio": "media/sent/b7dd84d8f920.mp3?v=b1b6c32f"
     }
    ],
    "media": {
-    "img": "media/img/break.webp",
-    "uk": "media/uk/break.mp3",
-    "us": "media/us/break.mp3"
+    "img": "media/img/break.webp?v=ca0c5b66",
+    "uk": "media/uk/break.mp3?v=5fff7e39",
+    "us": "media/us/break.mp3?v=aa00dafd"
    },
    "spell": true,
    "avoid": [
@@ -3228,23 +3228,23 @@
     {
      "en": "I have a small cut on my finger.",
      "zh": "我手指上有一个小口子。",
-     "audio": "media/sent/5c47fec539d2.mp3"
+     "audio": "media/sent/5c47fec539d2.mp3?v=f214eb5d"
     },
     {
      "en": "Tom cuts his finger with a knife.",
      "zh": "Tom 用刀割破了手指。",
-     "audio": "media/sent/c5cc91658fcc.mp3"
+     "audio": "media/sent/c5cc91658fcc.mp3?v=d29e81f2"
     },
     {
      "en": "The cut is small, and it is better now.",
      "zh": "口子很小，现在已经好多了。",
-     "audio": "media/sent/42ed786b3efe.mp3"
+     "audio": "media/sent/42ed786b3efe.mp3?v=2e0f6e77"
     }
    ],
    "media": {
-    "img": "media/img/cut.webp",
-    "uk": "media/uk/cut.mp3",
-    "us": "media/us/cut.mp3"
+    "img": "media/img/cut.webp?v=fd548b73",
+    "uk": "media/uk/cut.mp3?v=bca7cb1a",
+    "us": "media/us/cut.mp3?v=04e754b4"
    },
    "spell": true,
    "avoid": [
@@ -3281,23 +3281,23 @@
     {
      "en": "Max runs to Lily when he sees danger.",
      "zh": "Max 一看到危险就跑到 Lily 身边。",
-     "audio": "media/sent/73d3864d0ab1.mp3"
+     "audio": "media/sent/73d3864d0ab1.mp3?v=0102f78a"
     },
     {
      "en": "Lily learns about danger at school.",
      "zh": "Lily 在学校学习怎样面对危险。",
-     "audio": "media/sent/14c6ccba5112.mp3"
+     "audio": "media/sent/14c6ccba5112.mp3?v=dd9ffec9"
     },
     {
      "en": "Grandpa tells us about the danger of fire.",
      "zh": "爷爷给我们讲火的危险。",
-     "audio": "media/sent/7b8bf18b27cc.mp3"
+     "audio": "media/sent/7b8bf18b27cc.mp3?v=08acb8f9"
     }
    ],
    "media": {
-    "img": "media/img/danger.webp",
-    "uk": "media/uk/danger.mp3",
-    "us": "media/us/danger.mp3"
+    "img": "media/img/danger.webp?v=76a626e3",
+    "uk": "media/uk/danger.mp3?v=e598183f",
+    "us": "media/us/danger.mp3?v=fe856645"
    },
    "hook": {
     "kind": "contrast",
@@ -3338,23 +3338,23 @@
     {
      "en": "Fire is dangerous, so we stay away.",
      "zh": "火是危险的，所以我们离远一点。",
-     "audio": "media/sent/343e4c100756.mp3"
+     "audio": "media/sent/343e4c100756.mp3?v=6af12cea"
     },
     {
      "en": "That knife is dangerous, Tom.",
      "zh": "Tom，那把刀很危险。",
-     "audio": "media/sent/36e6216fd5fd.mp3"
+     "audio": "media/sent/36e6216fd5fd.mp3?v=6a57bde3"
     },
     {
      "en": "It is dangerous to run across the road.",
      "zh": "跑着过马路很危险。",
-     "audio": "media/sent/43bf6a915888.mp3"
+     "audio": "media/sent/43bf6a915888.mp3?v=522ad038"
     }
    ],
    "media": {
-    "img": "media/img/dangerous.webp",
-    "uk": "media/uk/dangerous.mp3",
-    "us": "media/us/dangerous.mp3"
+    "img": "media/img/dangerous.webp?v=a7acdfb1",
+    "uk": "media/uk/dangerous.mp3?v=8edbd35e",
+    "us": "media/us/dangerous.mp3?v=0a549314"
    },
    "spell": true,
    "hook": {
@@ -3394,23 +3394,23 @@
     {
      "en": "The flower is dead.",
      "zh": "这朵花枯死了。",
-     "audio": "media/sent/8510f36e6e95.mp3"
+     "audio": "media/sent/8510f36e6e95.mp3?v=c9f0bf04"
     },
     {
      "en": "These leaves are brown and dead.",
      "zh": "这些叶子是棕色的，已经枯死了。",
-     "audio": "media/sent/b3f91f050acb.mp3"
+     "audio": "media/sent/b3f91f050acb.mp3?v=e171c265"
     },
     {
      "en": "Grandma cuts away the dead flowers.",
      "zh": "奶奶把枯死的花剪掉。",
-     "audio": "media/sent/a6e18be66511.mp3"
+     "audio": "media/sent/a6e18be66511.mp3?v=8eb05b9f"
     }
    ],
    "media": {
-    "img": "media/img/dead.webp",
-    "uk": "media/uk/dead.mp3",
-    "us": "media/us/dead.mp3"
+    "img": "media/img/dead.webp?v=f6afe23f",
+    "uk": "media/uk/dead.mp3?v=75aef22c",
+    "us": "media/us/dead.mp3?v=50c601d9"
    },
    "avoid": [
     "die"
@@ -3444,23 +3444,23 @@
     {
      "en": "Plants die without water.",
      "zh": "植物没有水会枯死。",
-     "audio": "media/sent/1fac1db02526.mp3"
+     "audio": "media/sent/1fac1db02526.mp3?v=d3358fb0"
     },
     {
      "en": "The plant died because we forgot the water.",
      "zh": "这株植物枯死了，因为我们忘了浇水。",
-     "audio": "media/sent/400026f5d0ca.mp3"
+     "audio": "media/sent/400026f5d0ca.mp3?v=7cf9be83"
     },
     {
      "en": "Flowers die quickly in hot weather.",
      "zh": "天气热的时候花很快就会枯死。",
-     "audio": "media/sent/334e11b32594.mp3"
+     "audio": "media/sent/334e11b32594.mp3?v=efa82b6c"
     }
    ],
    "media": {
-    "img": "media/img/die.webp",
-    "uk": "media/uk/die.mp3",
-    "us": "media/us/die.mp3"
+    "img": "media/img/die.webp?v=e466bf33",
+    "uk": "media/uk/die.mp3?v=a51b73b3",
+    "us": "media/us/die.mp3?v=ffd81cd1"
    },
    "spell": true,
    "avoid": [
@@ -3496,23 +3496,23 @@
     {
      "en": "The baby is healthy and strong.",
      "zh": "这个宝宝健康又强壮。",
-     "audio": "media/sent/4b7e8c578ab9.mp3"
+     "audio": "media/sent/4b7e8c578ab9.mp3?v=76b3bd4e"
     },
     {
      "en": "The nurse checks the baby every week.",
      "zh": "护士每周给这个婴儿做检查。",
-     "audio": "media/sent/ab7951aeb0b7.mp3"
+     "audio": "media/sent/ab7951aeb0b7.mp3?v=5166c1ed"
     },
     {
      "en": "Mia has a new baby sister.",
      "zh": "Mia 有了一个新的小妹妹。",
-     "audio": "media/sent/8b238344bff3.mp3"
+     "audio": "media/sent/8b238344bff3.mp3?v=782e25c1"
     }
    ],
    "media": {
-    "img": "media/img/baby.webp",
-    "uk": "media/uk/baby.mp3",
-    "us": "media/us/baby.mp3"
+    "img": "media/img/baby.webp?v=9aa500fe",
+    "uk": "media/uk/baby.mp3?v=472356b4",
+    "us": "media/us/baby.mp3?v=19d624c4"
    },
    "spell": true,
    "avoid": []
@@ -3546,23 +3546,23 @@
     {
      "en": "What's the problem, Tom?",
      "zh": "Tom，有什么问题吗？",
-     "audio": "media/sent/fd7f3d74b4dd.mp3"
+     "audio": "media/sent/fd7f3d74b4dd.mp3?v=372f7de4"
     },
     {
      "en": "There is no problem. You are fine.",
      "zh": "没有问题，你没事。",
-     "audio": "media/sent/7b34102dc4ff.mp3"
+     "audio": "media/sent/7b34102dc4ff.mp3?v=3577dbe5"
     },
     {
      "en": "Tom has a problem with his maths homework.",
      "zh": "Tom 的数学作业遇到了问题。",
-     "audio": "media/sent/5badbe5690f7.mp3"
+     "audio": "media/sent/5badbe5690f7.mp3?v=76d5c1ae"
     }
    ],
    "media": {
-    "img": "media/img/problem.webp",
-    "uk": "media/uk/problem.mp3",
-    "us": "media/us/problem.mp3"
+    "img": "media/img/problem.webp?v=d4f58929",
+    "uk": "media/uk/problem.mp3?v=ad19bcc8",
+    "us": "media/us/problem.mp3?v=826557b3"
    },
    "spell": true,
    "avoid": []

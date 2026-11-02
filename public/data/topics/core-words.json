@@ -29,23 +29,23 @@
     {
      "en": "Lily plays a game on her app.",
      "zh": "Lily 在她的应用上玩游戏。",
-     "audio": "media/sent/82d15b71dfe6.mp3"
+     "audio": "media/sent/82d15b71dfe6.mp3?v=688cc300"
     },
     {
      "en": "Dad uses a map app.",
      "zh": "爸爸用地图软件。",
-     "audio": "media/sent/5d7487b80974.mp3"
+     "audio": "media/sent/5d7487b80974.mp3?v=3b0967fb"
     },
     {
      "en": "Download this app for free.",
      "zh": "免费下载这个应用。",
-     "audio": "media/sent/b31de39d9ec7.mp3"
+     "audio": "media/sent/b31de39d9ec7.mp3?v=2fb30bb3"
     }
    ],
    "media": {
-    "img": "media/img/app.webp",
-    "uk": "media/uk/app.mp3",
-    "us": "media/us/app.mp3"
+    "img": "media/img/app.webp?v=a7d11efc",
+    "uk": "media/uk/app.mp3?v=abdf870e",
+    "us": "media/us/app.mp3?v=2340a760"
    },
    "avoid": [
     "program",
@@ -80,23 +80,23 @@
     {
      "en": "Sam writes a blog about football.",
      "zh": "Sam 写一个关于足球的博客。",
-     "audio": "media/sent/cea3373e40fb.mp3"
+     "audio": "media/sent/cea3373e40fb.mp3?v=3909fd8f"
     },
     {
      "en": "Mia reads my new blog post.",
      "zh": "Mia 读我新的博客文章。",
-     "audio": "media/sent/6dda81057409.mp3"
+     "audio": "media/sent/6dda81057409.mp3?v=5fc9a17e"
     },
     {
      "en": "I write in my blog every week.",
      "zh": "我每周都写我的博客。",
-     "audio": "media/sent/9b300603face.mp3"
+     "audio": "media/sent/9b300603face.mp3?v=f3be316f"
     }
    ],
    "media": {
-    "img": "media/img/blog.webp",
-    "uk": "media/uk/blog.mp3",
-    "us": "media/us/blog.mp3"
+    "img": "media/img/blog.webp?v=bd487368",
+    "uk": "media/uk/blog.mp3?v=36bbfa0b",
+    "us": "media/us/blog.mp3?v=491f4af3"
    },
    "hook": {
     "kind": "contrast",
@@ -136,23 +136,23 @@
     {
      "en": "We watch the sports channel.",
      "zh": "我们看体育频道。",
-     "audio": "media/sent/5b3fcac220b9.mp3"
+     "audio": "media/sent/5b3fcac220b9.mp3?v=7e2f4378"
     },
     {
      "en": "Turn to the music channel.",
      "zh": "转到音乐频道。",
-     "audio": "media/sent/1c2fd1e732af.mp3"
+     "audio": "media/sent/1c2fd1e732af.mp3?v=dc4ccad3"
     },
     {
      "en": "This is my favourite channel.",
      "zh": "这是我最喜欢的频道。",
-     "audio": "media/sent/c804f9beb5de.mp3"
+     "audio": "media/sent/c804f9beb5de.mp3?v=777ed871"
     }
    ],
    "media": {
-    "img": "media/img/channel.webp",
-    "uk": "media/uk/channel.mp3",
-    "us": "media/us/channel.mp3"
+    "img": "media/img/channel.webp?v=cf104ab5",
+    "uk": "media/uk/channel.mp3?v=4e115e8f",
+    "us": "media/us/channel.mp3?v=acf7c067"
    },
    "avoid": []
   },
@@ -185,23 +185,23 @@
     {
      "en": "Mia talks in the chatroom.",
      "zh": "Mia 在聊天室里说话。",
-     "audio": "media/sent/36fefb5fb10f.mp3"
+     "audio": "media/sent/36fefb5fb10f.mp3?v=a853bd32"
     },
     {
      "en": "Join our class chatroom.",
      "zh": "加入我们的班级聊天室。",
-     "audio": "media/sent/35b0822f32b6.mp3"
+     "audio": "media/sent/35b0822f32b6.mp3?v=2b11cde8"
     },
     {
      "en": "Be nice in the chatroom.",
      "zh": "在聊天室要友好。",
-     "audio": "media/sent/78746d383970.mp3"
+     "audio": "media/sent/78746d383970.mp3?v=52966ed1"
     }
    ],
    "media": {
-    "img": "media/img/chatroom.webp",
-    "uk": "media/word/chatroom.mp3",
-    "us": "media/word/chatroom.mp3"
+    "img": "media/img/chatroom.webp?v=52134355",
+    "uk": "media/word/chatroom.mp3?v=fd3ddf52",
+    "us": "media/word/chatroom.mp3?v=fd3ddf52"
    },
    "hook": {
     "kind": "split",
@@ -243,23 +243,23 @@
     {
      "en": "I will contact my teacher.",
      "zh": "我会联系我的老师。",
-     "audio": "media/sent/5aebd86a5eea.mp3"
+     "audio": "media/sent/5aebd86a5eea.mp3?v=6b1d0919"
     },
     {
      "en": "Add me as a contact.",
      "zh": "把我加为联系人。",
-     "audio": "media/sent/5b0a31e7103d.mp3"
+     "audio": "media/sent/5b0a31e7103d.mp3?v=fc8d6340"
     },
     {
      "en": "Dad contacts his office by email.",
      "zh": "爸爸通过电子邮件联系他的办公室。",
-     "audio": "media/sent/cf3568e757cb.mp3"
+     "audio": "media/sent/cf3568e757cb.mp3?v=5ed8b950"
     }
    ],
    "media": {
-    "img": "media/img/contact.webp",
-    "uk": "media/uk/contact.mp3",
-    "us": "media/us/contact.mp3"
+    "img": "media/img/contact.webp?v=33e1e687",
+    "uk": "media/uk/contact.mp3?v=8a0d0eba",
+    "us": "media/us/contact.mp3?v=ce17c01e"
    },
    "hook": {
     "kind": "contrast",
@@ -297,23 +297,23 @@
     {
      "en": "Click the blue link.",
      "zh": "点击蓝色链接。",
-     "audio": "media/sent/4d338766dc50.mp3"
+     "audio": "media/sent/4d338766dc50.mp3?v=20b14f07"
     },
     {
      "en": "Send me that link.",
      "zh": "把那个链接发给我。",
-     "audio": "media/sent/175eb40f0c59.mp3"
+     "audio": "media/sent/175eb40f0c59.mp3?v=b75b8b28"
     },
     {
      "en": "This link opens the photo.",
      "zh": "这个链接打开照片。",
-     "audio": "media/sent/78872659f87c.mp3"
+     "audio": "media/sent/78872659f87c.mp3?v=e1d0293c"
     }
    ],
    "media": {
-    "img": "media/img/link.webp",
-    "uk": "media/uk/link.mp3",
-    "us": "media/us/link.mp3"
+    "img": "media/img/link.webp?v=4e775bdb",
+    "uk": "media/uk/link.mp3?v=7ea062e6",
+    "us": "media/us/link.mp3?v=239fb083"
    },
    "avoid": [
     "upload",
@@ -349,23 +349,23 @@
     {
      "en": "Dad writes a computer program.",
      "zh": "爸爸写计算机程序。",
-     "audio": "media/sent/f1889498a2bb.mp3"
+     "audio": "media/sent/f1889498a2bb.mp3?v=496878d9"
     },
     {
      "en": "The film program starts now.",
      "zh": "电影节目现在开始。",
-     "audio": "media/sent/bf947c118002.mp3"
+     "audio": "media/sent/bf947c118002.mp3?v=0a824f6c"
     },
     {
      "en": "This app is a good program.",
      "zh": "这个应用是个好程序。",
-     "audio": "media/sent/73ee53959b3c.mp3"
+     "audio": "media/sent/73ee53959b3c.mp3?v=75b3bc1c"
     }
    ],
    "media": {
-    "img": "media/img/program.webp",
-    "uk": "media/uk/program.mp3",
-    "us": "media/us/program.mp3"
+    "img": "media/img/program.webp?v=80464426",
+    "uk": "media/uk/program.mp3?v=7cc2315a",
+    "us": "media/us/program.mp3?v=cb215bd6"
    },
    "avoid": [
     "app",
@@ -404,23 +404,23 @@
     {
      "en": "Aunt Kate uses social media.",
      "zh": "凯特阿姨使用社交媒体。",
-     "audio": "media/sent/49e1a4d719c9.mp3"
+     "audio": "media/sent/49e1a4d719c9.mp3?v=8f962edb"
     },
     {
      "en": "Don't share photos on social media.",
      "zh": "不要在社交媒体上分享照片。",
-     "audio": "media/sent/abf980f02a13.mp3"
+     "audio": "media/sent/abf980f02a13.mp3?v=6f2298c6"
     },
     {
      "en": "My friends use social media too.",
      "zh": "我的朋友们也用社交媒体。",
-     "audio": "media/sent/39c4a972e9f6.mp3"
+     "audio": "media/sent/39c4a972e9f6.mp3?v=d0e49a4b"
     }
    ],
    "media": {
-    "img": "media/img/social-media.webp",
-    "uk": "media/word/social-media.mp3",
-    "us": "media/word/social-media.mp3"
+    "img": "media/img/social-media.webp?v=d749f5d9",
+    "uk": "media/word/social-media.mp3?v=4a18ff21",
+    "us": "media/word/social-media.mp3?v=4a18ff21"
    },
    "hook": {
     "kind": "split",
@@ -462,23 +462,23 @@
     {
      "en": "New technology helps us learn.",
      "zh": "新技术帮助我们学习。",
-     "audio": "media/sent/4103985f08b7.mp3"
+     "audio": "media/sent/4103985f08b7.mp3?v=c9ce9aa3"
     },
     {
      "en": "Technology changes our lives.",
      "zh": "技术改变我们的生活。",
-     "audio": "media/sent/bc171816df75.mp3"
+     "audio": "media/sent/bc171816df75.mp3?v=f1cd7e59"
     },
     {
      "en": "He loves science and technology.",
      "zh": "他热爱科学和技术。",
-     "audio": "media/sent/43a9c7124988.mp3"
+     "audio": "media/sent/43a9c7124988.mp3?v=2e7d79d0"
     }
    ],
    "media": {
-    "img": "media/img/technology.webp",
-    "uk": "media/uk/technology.mp3",
-    "us": "media/us/technology.mp3"
+    "img": "media/img/technology.webp?v=637d232f",
+    "uk": "media/uk/technology.mp3?v=c20ce743",
+    "us": "media/us/technology.mp3?v=4686a700"
    },
    "avoid": [
     "app",
@@ -515,23 +515,23 @@
     {
      "en": "Send a text message to Sam.",
      "zh": "给 Sam 发一条短信。",
-     "audio": "media/sent/ab6dd18f9bb6.mp3"
+     "audio": "media/sent/ab6dd18f9bb6.mp3?v=98c01d9e"
     },
     {
      "en": "Mum reads my text message.",
      "zh": "妈妈读我的短信。",
-     "audio": "media/sent/5dbb1592347d.mp3"
+     "audio": "media/sent/5dbb1592347d.mp3?v=c981a82d"
     },
     {
      "en": "I got a funny text message.",
      "zh": "我收到一条有趣的短信。",
-     "audio": "media/sent/b0153767e0bd.mp3"
+     "audio": "media/sent/b0153767e0bd.mp3?v=e3582986"
     }
    ],
    "media": {
-    "img": "media/img/text-message.webp",
-    "uk": "media/word/text-message.mp3",
-    "us": "media/word/text-message.mp3"
+    "img": "media/img/text-message.webp?v=fb348380",
+    "uk": "media/word/text-message.mp3?v=ca603ff8",
+    "us": "media/word/text-message.mp3?v=ca603ff8"
    },
    "hook": {
     "kind": "split",
@@ -570,23 +570,23 @@
     {
      "en": "Upload the photo now.",
      "zh": "现在上传照片。",
-     "audio": "media/sent/972c99fe6344.mp3"
+     "audio": "media/sent/972c99fe6344.mp3?v=a287b3bb"
     },
     {
      "en": "Lily uploads her homework.",
      "zh": "Lily 上传她的作业。",
-     "audio": "media/sent/f634d5ad6dd8.mp3"
+     "audio": "media/sent/f634d5ad6dd8.mp3?v=6420e978"
     },
     {
      "en": "Wait for the upload to finish.",
      "zh": "等待上传完成。",
-     "audio": "media/sent/84921e75de32.mp3"
+     "audio": "media/sent/84921e75de32.mp3?v=db8c17a5"
     }
    ],
    "media": {
-    "img": "media/img/upload.webp",
-    "uk": "media/uk/upload.mp3",
-    "us": "media/us/upload.mp3"
+    "img": "media/img/upload.webp?v=b57ca444",
+    "uk": "media/uk/upload.mp3?v=5a1e9c1d",
+    "us": "media/us/upload.mp3?v=0b3b7103"
    },
    "hook": {
     "kind": "split",
@@ -626,23 +626,23 @@
     {
      "en": "The wifi works well here.",
      "zh": "这里的无线网工作得很好。",
-     "audio": "media/sent/82334d45e694.mp3"
+     "audio": "media/sent/82334d45e694.mp3?v=23de3020"
     },
     {
      "en": "Use the wifi for homework.",
      "zh": "用无线网做作业。",
-     "audio": "media/sent/1efc4a97d480.mp3"
+     "audio": "media/sent/1efc4a97d480.mp3?v=8548598b"
     },
     {
      "en": "No wifi in this shop.",
      "zh": "这家商店没有无线网。",
-     "audio": "media/sent/2c90686fc481.mp3"
+     "audio": "media/sent/2c90686fc481.mp3?v=d99bcf95"
     }
    ],
    "media": {
-    "img": "media/img/wifi.webp",
-    "uk": "media/uk/wifi.mp3",
-    "us": "media/us/wifi.mp3"
+    "img": "media/img/wifi.webp?v=b5f4353a",
+    "uk": "media/uk/wifi.mp3?v=5c468b71",
+    "us": "media/us/wifi.mp3?v=436c372d"
    },
    "avoid": [
     "link",
@@ -678,23 +678,23 @@
     {
      "en": "Write a long sentence.",
      "zh": "写一个长句子。",
-     "audio": "media/sent/87ef0f56516e.mp3"
+     "audio": "media/sent/87ef0f56516e.mp3?v=6cbab17f"
     },
     {
      "en": "This sentence is correct.",
      "zh": "这个句子是正确的。",
-     "audio": "media/sent/5c1b989f73cf.mp3"
+     "audio": "media/sent/5c1b989f73cf.mp3?v=5008d8de"
     },
     {
      "en": "Read your sentence to me.",
      "zh": "把句子读给我听。",
-     "audio": "media/sent/438154690d25.mp3"
+     "audio": "media/sent/438154690d25.mp3?v=7c980de1"
     }
    ],
    "media": {
-    "img": "media/img/sentence.webp",
-    "uk": "media/uk/sentence.mp3",
-    "us": "media/us/sentence.mp3"
+    "img": "media/img/sentence.webp?v=80aa64d3",
+    "uk": "media/uk/sentence.mp3?v=31055045",
+    "us": "media/us/sentence.mp3?v=2c59e30b"
    },
    "spell": true,
    "hook": {
@@ -737,23 +737,23 @@
     {
      "en": "Check your spelling carefully.",
      "zh": "仔细检查你的拼写。",
-     "audio": "media/sent/847dbf0e8498.mp3"
+     "audio": "media/sent/847dbf0e8498.mp3?v=5a0de098"
     },
     {
      "en": "Spelling is hard for me.",
      "zh": "拼写对我来说很难。",
-     "audio": "media/sent/1bae5f5aa66b.mp3"
+     "audio": "media/sent/1bae5f5aa66b.mp3?v=6febca27"
     },
     {
      "en": "Good spelling gets full marks.",
      "zh": "好的拼写能得满分。",
-     "audio": "media/sent/6762f53556d6.mp3"
+     "audio": "media/sent/6762f53556d6.mp3?v=2839a5e2"
     }
    ],
    "media": {
-    "img": "media/img/spelling.webp",
-    "uk": "media/uk/spelling.mp3",
-    "us": "media/us/spelling.mp3"
+    "img": "media/img/spelling.webp?v=58961d02",
+    "uk": "media/uk/spelling.mp3?v=24a2710f",
+    "us": "media/us/spelling.mp3?v=c6b92d63"
    },
    "hook": {
     "kind": "affix",
@@ -798,23 +798,23 @@
     {
      "en": "Lily learns new vocabulary.",
      "zh": "Lily 学习新词汇。",
-     "audio": "media/sent/b3ecdbb33121.mp3"
+     "audio": "media/sent/b3ecdbb33121.mp3?v=aff549d4"
     },
     {
      "en": "He has a big vocabulary.",
      "zh": "他有很大的词汇量。",
-     "audio": "media/sent/5d02a3abbbb5.mp3"
+     "audio": "media/sent/5d02a3abbbb5.mp3?v=0a2d919d"
     },
     {
      "en": "Vocabulary helps you speak.",
      "zh": "词汇帮助你说得更好。",
-     "audio": "media/sent/d5b0cb3925a0.mp3"
+     "audio": "media/sent/d5b0cb3925a0.mp3?v=a37c61ee"
     }
    ],
    "media": {
-    "img": "media/img/vocabulary.webp",
-    "uk": "media/uk/vocabulary.mp3",
-    "us": "media/us/vocabulary.mp3"
+    "img": "media/img/vocabulary.webp?v=89047ff9",
+    "uk": "media/uk/vocabulary.mp3?v=89bd6734",
+    "us": "media/us/vocabulary.mp3?v=606a7dc3"
    },
    "hook": {
     "kind": "story",
@@ -855,23 +855,23 @@
     {
      "en": "I know every word.",
      "zh": "我认识每个单词。",
-     "audio": "media/sent/3ea28ee2e516.mp3"
+     "audio": "media/sent/3ea28ee2e516.mp3?v=fd9dd53c"
     },
     {
      "en": "What does this word mean?",
      "zh": "这个单词是什么意思？",
-     "audio": "media/sent/8d602b21343f.mp3"
+     "audio": "media/sent/8d602b21343f.mp3?v=3781357f"
     },
     {
      "en": "Say the word again, please.",
      "zh": "请再说一遍这个单词。",
-     "audio": "media/sent/5b03d2c3cfda.mp3"
+     "audio": "media/sent/5b03d2c3cfda.mp3?v=fd2d9d6b"
     }
    ],
    "media": {
-    "img": "media/img/word.webp",
-    "uk": "media/uk/word.mp3",
-    "us": "media/us/word.mp3"
+    "img": "media/img/word.webp?v=205bf992",
+    "uk": "media/uk/word.mp3?v=621d2d81",
+    "us": "media/us/word.mp3?v=8172c59a"
    },
    "spell": true,
    "avoid": [
@@ -911,22 +911,22 @@
     {
      "en": "Write one short paragraph.",
      "zh": "写一个短段落。",
-     "audio": "media/sent/01fe7bac8a41.mp3"
+     "audio": "media/sent/01fe7bac8a41.mp3?v=b54e3e86"
     },
     {
      "en": "The first paragraph is easy.",
      "zh": "第一段很容易。",
-     "audio": "media/sent/3a017c0c10e5.mp3"
+     "audio": "media/sent/3a017c0c10e5.mp3?v=02794b18"
     },
     {
      "en": "Read the last paragraph.",
      "zh": "读最后一段。",
-     "audio": "media/sent/9c7576acfea7.mp3"
+     "audio": "media/sent/9c7576acfea7.mp3?v=773e2d1b"
     }
    ],
    "media": {
-    "uk": "media/uk/paragraph.mp3",
-    "us": "media/us/paragraph.mp3"
+    "uk": "media/uk/paragraph.mp3?v=c85634bb",
+    "us": "media/us/paragraph.mp3?v=7bea5d1f"
    },
    "avoid": []
   },
@@ -959,22 +959,22 @@
     {
      "en": "The book title is 'Max'.",
      "zh": "书名是《Max》。",
-     "audio": "media/sent/538ac437972b.mp3"
+     "audio": "media/sent/538ac437972b.mp3?v=1a5b9d8e"
     },
     {
      "en": "Write your name and title.",
      "zh": "写上你的名字和标题。",
-     "audio": "media/sent/fd536a443863.mp3"
+     "audio": "media/sent/fd536a443863.mp3?v=3162b3ed"
     },
     {
      "en": "I like the film's title.",
      "zh": "我喜欢这部电影的标题。",
-     "audio": "media/sent/68dbfa469f09.mp3"
+     "audio": "media/sent/68dbfa469f09.mp3?v=4339be99"
     }
    ],
    "media": {
-    "uk": "media/uk/title.mp3",
-    "us": "media/us/title.mp3"
+    "uk": "media/uk/title.mp3?v=71cadf52",
+    "us": "media/us/title.mp3?v=eed926ca"
    },
    "avoid": []
   },
@@ -1007,23 +1007,23 @@
     {
      "en": "Our topic is animals.",
      "zh": "我们的主题是动物。",
-     "audio": "media/sent/657304dc6a80.mp3"
+     "audio": "media/sent/657304dc6a80.mp3?v=8893b8e4"
     },
     {
      "en": "Choose a new topic.",
      "zh": "选一个新话题。",
-     "audio": "media/sent/e912c4121405.mp3"
+     "audio": "media/sent/e912c4121405.mp3?v=c4d711a0"
     },
     {
      "en": "The topic is interesting today.",
      "zh": "今天的话题很有趣。",
-     "audio": "media/sent/c030d833be68.mp3"
+     "audio": "media/sent/c030d833be68.mp3?v=bedafd97"
     }
    ],
    "media": {
-    "img": "media/img/topic.webp",
-    "uk": "media/uk/topic.mp3",
-    "us": "media/us/topic.mp3"
+    "img": "media/img/topic.webp?v=e84f0056",
+    "uk": "media/uk/topic.mp3?v=5fe1b93b",
+    "us": "media/us/topic.mp3?v=8c42b099"
    },
    "hook": {
     "kind": "story",
@@ -1061,22 +1061,22 @@
     {
      "en": "Mum gives an example.",
      "zh": "妈妈举了一个例子。",
-     "audio": "media/sent/91f387a5f933.mp3"
+     "audio": "media/sent/91f387a5f933.mp3?v=d306a2cc"
     },
     {
      "en": "Can you give me an example?",
      "zh": "你能给我一个例子吗？",
-     "audio": "media/sent/e2fb8e435ee7.mp3"
+     "audio": "media/sent/e2fb8e435ee7.mp3?v=dd05adad"
     },
     {
      "en": "This is a good example.",
      "zh": "这是一个好例子。",
-     "audio": "media/sent/10684bc1f88b.mp3"
+     "audio": "media/sent/10684bc1f88b.mp3?v=9f2bfc28"
     }
    ],
    "media": {
-    "uk": "media/uk/example.mp3",
-    "us": "media/us/example.mp3"
+    "uk": "media/uk/example.mp3?v=492730ad",
+    "us": "media/us/example.mp3?v=0d32e207"
    },
    "spell": true,
    "avoid": []
@@ -1109,22 +1109,22 @@
     {
      "en": "It is a fact.",
      "zh": "这是事实。",
-     "audio": "media/sent/c7eed94e223f.mp3"
+     "audio": "media/sent/c7eed94e223f.mp3?v=7c6821c3"
     },
     {
      "en": "Tom learns facts about animals.",
      "zh": "Tom 学习关于动物的事实。",
-     "audio": "media/sent/db5073d0c76f.mp3"
+     "audio": "media/sent/db5073d0c76f.mp3?v=73fd35ba"
     },
     {
      "en": "Here is a fact: a spider has eight legs.",
      "zh": "告诉你一个事实：蜘蛛有八条腿。",
-     "audio": "media/sent/ffdd08655ae5.mp3"
+     "audio": "media/sent/ffdd08655ae5.mp3?v=e2c340b8"
     }
    ],
    "media": {
-    "uk": "media/uk/fact.mp3",
-    "us": "media/us/fact.mp3"
+    "uk": "media/uk/fact.mp3?v=8df961ae",
+    "us": "media/us/fact.mp3?v=a8a077a4"
    },
    "spell": true,
    "avoid": []
@@ -1157,22 +1157,22 @@
     {
      "en": "Lily gets a good grade.",
      "zh": "Lily 得到了一个好分数。",
-     "audio": "media/sent/29fb9f11472f.mp3"
+     "audio": "media/sent/29fb9f11472f.mp3?v=73411170"
     },
     {
      "en": "What grade did you get?",
      "zh": "你得了几分？",
-     "audio": "media/sent/b9014add17d5.mp3"
+     "audio": "media/sent/b9014add17d5.mp3?v=31370117"
     },
     {
      "en": "Dad checks my maths grade.",
      "zh": "爸爸检查我的数学分数。",
-     "audio": "media/sent/43df2255a095.mp3"
+     "audio": "media/sent/43df2255a095.mp3?v=3d80e8f7"
     }
    ],
    "media": {
-    "uk": "media/uk/grade.mp3",
-    "us": "media/us/grade.mp3"
+    "uk": "media/uk/grade.mp3?v=ec3bffe7",
+    "us": "media/us/grade.mp3?v=1b823c38"
    },
    "avoid": []
   },
@@ -1205,23 +1205,23 @@
     {
      "en": "Tom makes a mistake.",
      "zh": "Tom 犯了一个错误。",
-     "audio": "media/sent/231be27ed7e0.mp3"
+     "audio": "media/sent/231be27ed7e0.mp3?v=425ffeda"
     },
     {
      "en": "It's OK to make a mistake.",
      "zh": "犯错没关系。",
-     "audio": "media/sent/be1785cc2cfb.mp3"
+     "audio": "media/sent/be1785cc2cfb.mp3?v=3b23c03e"
     },
     {
      "en": "Mum finds a mistake in the list.",
      "zh": "妈妈在清单里发现了一个错误。",
-     "audio": "media/sent/580a85876e13.mp3"
+     "audio": "media/sent/580a85876e13.mp3?v=d9970e61"
     }
    ],
    "media": {
-    "img": "media/img/mistake.webp",
-    "uk": "media/uk/mistake.mp3",
-    "us": "media/us/mistake.mp3"
+    "img": "media/img/mistake.webp?v=e049ccc4",
+    "uk": "media/uk/mistake.mp3?v=a72ba25e",
+    "us": "media/us/mistake.mp3?v=3f9c0421"
    },
    "spell": true,
    "hook": {
@@ -1259,22 +1259,22 @@
     {
      "en": "Read the details carefully.",
      "zh": "仔细阅读细节。",
-     "audio": "media/sent/3e0bfae22099.mp3"
+     "audio": "media/sent/3e0bfae22099.mp3?v=b2d8732f"
     },
     {
      "en": "Mum explains the details to Dad.",
      "zh": "妈妈向爸爸解释细节。",
-     "audio": "media/sent/7f2f235c702a.mp3"
+     "audio": "media/sent/7f2f235c702a.mp3?v=50819317"
     },
     {
      "en": "The letter has many details.",
      "zh": "这封信有很多细节。",
-     "audio": "media/sent/b89d1d7f4826.mp3"
+     "audio": "media/sent/b89d1d7f4826.mp3?v=68c405de"
     }
    ],
    "media": {
-    "uk": "media/word/details.mp3",
-    "us": "media/word/details.mp3"
+    "uk": "media/word/details.mp3?v=25570f4a",
+    "us": "media/word/details.mp3?v=25570f4a"
    },
    "hook": {
     "kind": "affix",
@@ -1312,23 +1312,23 @@
     {
      "en": "Dad reads a document.",
      "zh": "爸爸阅读一份文件。",
-     "audio": "media/sent/d8b9d6af2c10.mp3"
+     "audio": "media/sent/d8b9d6af2c10.mp3?v=c0982e23"
     },
     {
      "en": "Save the document, please.",
      "zh": "请保存这份文件。",
-     "audio": "media/sent/6a1992ca4e80.mp3"
+     "audio": "media/sent/6a1992ca4e80.mp3?v=8d225e17"
     },
     {
      "en": "Mum signs the important document.",
      "zh": "妈妈在重要的文件上签字。",
-     "audio": "media/sent/61fa186679a4.mp3"
+     "audio": "media/sent/61fa186679a4.mp3?v=9d9f685e"
     }
    ],
    "media": {
-    "img": "media/img/document.webp",
-    "uk": "media/uk/document.mp3",
-    "us": "media/us/document.mp3"
+    "img": "media/img/document.webp?v=727d491e",
+    "uk": "media/uk/document.mp3?v=e7c5be4c",
+    "us": "media/us/document.mp3?v=06fd78a5"
    },
    "avoid": [
     "list",
@@ -1364,23 +1364,23 @@
     {
      "en": "Mum writes a shopping list.",
      "zh": "妈妈写了一张购物清单。",
-     "audio": "media/sent/e2aa925df59a.mp3"
+     "audio": "media/sent/e2aa925df59a.mp3?v=1794c663"
     },
     {
      "en": "Look at the list, Tom.",
      "zh": "看这张清单，Tom。",
-     "audio": "media/sent/d72d705c5898.mp3"
+     "audio": "media/sent/d72d705c5898.mp3?v=60ac7786"
     },
     {
      "en": "I have a long list of names.",
      "zh": "我有一长串名字。",
-     "audio": "media/sent/0d17ae36a2e0.mp3"
+     "audio": "media/sent/0d17ae36a2e0.mp3?v=b7317293"
     }
    ],
    "media": {
-    "img": "media/img/list.webp",
-    "uk": "media/uk/list.mp3",
-    "us": "media/us/list.mp3"
+    "img": "media/img/list.webp?v=a1020a07",
+    "uk": "media/uk/list.mp3?v=321ea99f",
+    "us": "media/us/list.mp3?v=59fd85e7"
    },
    "spell": true,
    "avoid": [
@@ -1417,23 +1417,23 @@
     {
      "en": "Turn to page ten.",
      "zh": "翻到第十页。",
-     "audio": "media/sent/9c2868d127c8.mp3"
+     "audio": "media/sent/9c2868d127c8.mp3?v=cfa933a8"
     },
     {
      "en": "Lily draws on this page.",
      "zh": "Lily 在这一页上画画。",
-     "audio": "media/sent/fdf6cbdf4fd6.mp3"
+     "audio": "media/sent/fdf6cbdf4fd6.mp3?v=38d0700e"
     },
     {
      "en": "The first page has a picture.",
      "zh": "第一页有一张图片。",
-     "audio": "media/sent/71d581462d2f.mp3"
+     "audio": "media/sent/71d581462d2f.mp3?v=817e4818"
     }
    ],
    "media": {
-    "img": "media/img/page.webp",
-    "uk": "media/word/page.mp3",
-    "us": "media/word/page.mp3"
+    "img": "media/img/page.webp?v=dad495a5",
+    "uk": "media/word/page.mp3?v=e4f2acf8",
+    "us": "media/word/page.mp3?v=e4f2acf8"
    },
    "hook": {
     "kind": "contrast",
@@ -1474,23 +1474,23 @@
     {
      "en": "Look at the stop sign.",
      "zh": "看那个停车标志。",
-     "audio": "media/sent/351690238bef.mp3"
+     "audio": "media/sent/351690238bef.mp3?v=ba4369d5"
     },
     {
      "en": "The sign says 'School'.",
      "zh": "牌子上写着“学校”。",
-     "audio": "media/sent/fb87dfc29d09.mp3"
+     "audio": "media/sent/fb87dfc29d09.mp3?v=49f58b88"
     },
     {
      "en": "Grandpa fixes the garden sign.",
      "zh": "爷爷修好了花园的牌子。",
-     "audio": "media/sent/c5843cfdd651.mp3"
+     "audio": "media/sent/c5843cfdd651.mp3?v=bdd81bdd"
     }
    ],
    "media": {
-    "img": "media/img/sign.webp",
-    "uk": "media/uk/sign.mp3",
-    "us": "media/us/sign.mp3"
+    "img": "media/img/sign.webp?v=076e6b1e",
+    "uk": "media/uk/sign.mp3?v=ea1da3f8",
+    "us": "media/us/sign.mp3?v=a8813765"
    },
    "hook": {
     "kind": "contrast",
@@ -1530,23 +1530,23 @@
     {
      "en": "Mum reads a story at night.",
      "zh": "妈妈晚上读故事。",
-     "audio": "media/sent/40f9fbde4edf.mp3"
+     "audio": "media/sent/40f9fbde4edf.mp3?v=de7d8b74"
     },
     {
      "en": "Lily writes a funny story.",
      "zh": "Lily 写了一个有趣的故事。",
-     "audio": "media/sent/4db883e74c17.mp3"
+     "audio": "media/sent/4db883e74c17.mp3?v=fe767e3f"
     },
     {
      "en": "Tell us a story, please.",
      "zh": "请给我们讲一个故事。",
-     "audio": "media/sent/0fa9f4080cf4.mp3"
+     "audio": "media/sent/0fa9f4080cf4.mp3?v=64b77b75"
     }
    ],
    "media": {
-    "img": "media/img/story.webp",
-    "uk": "media/uk/story.mp3",
-    "us": "media/us/story.mp3"
+    "img": "media/img/story.webp?v=3baf1fea",
+    "uk": "media/uk/story.mp3?v=6a048af7",
+    "us": "media/us/story.mp3?v=2eca748c"
    },
    "spell": true,
    "avoid": [
@@ -1582,23 +1582,23 @@
     {
      "en": "Lily practises her writing.",
      "zh": "Lily 练习她的书写。",
-     "audio": "media/sent/892a53bfa514.mp3"
+     "audio": "media/sent/892a53bfa514.mp3?v=1e3f4457"
     },
     {
      "en": "Your writing is very clear.",
      "zh": "你的书写很清楚。",
-     "audio": "media/sent/2b2b3ee54710.mp3"
+     "audio": "media/sent/2b2b3ee54710.mp3?v=efd92392"
     },
     {
      "en": "Sam likes good writing.",
      "zh": "Sam 喜欢好的写作。",
-     "audio": "media/sent/5f087470cf65.mp3"
+     "audio": "media/sent/5f087470cf65.mp3?v=a27b741e"
     }
    ],
    "media": {
-    "img": "media/img/writing.webp",
-    "uk": "media/uk/writing.mp3",
-    "us": "media/us/writing.mp3"
+    "img": "media/img/writing.webp?v=4b6adb06",
+    "uk": "media/uk/writing.mp3?v=baa91a42",
+    "us": "media/us/writing.mp3?v=453de855"
    },
    "spell": true,
    "avoid": [
@@ -1637,22 +1637,22 @@
     {
      "en": "Lily reviews her lessons.",
      "zh": "Lily 复习她的功课。",
-     "audio": "media/sent/9f0f5611eb0c.mp3"
+     "audio": "media/sent/9f0f5611eb0c.mp3?v=202fdca8"
     },
     {
      "en": "Dad writes a review of the film.",
      "zh": "爸爸写了一篇电影评论。",
-     "audio": "media/sent/c44b1c6b1479.mp3"
+     "audio": "media/sent/c44b1c6b1479.mp3?v=967262b6"
     },
     {
      "en": "We need to review this part.",
      "zh": "我们需要复习这部分。",
-     "audio": "media/sent/71e2d535235f.mp3"
+     "audio": "media/sent/71e2d535235f.mp3?v=1fb1b5f8"
     }
    ],
    "media": {
-    "uk": "media/uk/review.mp3",
-    "us": "media/us/review.mp3"
+    "uk": "media/uk/review.mp3?v=4cb26386",
+    "us": "media/us/review.mp3?v=6bb5a86a"
    },
    "hook": {
     "kind": "affix",
@@ -1690,22 +1690,22 @@
     {
      "en": "There is a big difference.",
      "zh": "有很大的差别。",
-     "audio": "media/sent/8a09e1d9cc9b.mp3"
+     "audio": "media/sent/8a09e1d9cc9b.mp3?v=99c3c29c"
     },
     {
      "en": "What's the difference between these two?",
      "zh": "这两个有什么不同？",
-     "audio": "media/sent/8c672dae16c0.mp3"
+     "audio": "media/sent/8c672dae16c0.mp3?v=53714fb4"
     },
     {
      "en": "Can you find the difference in these pictures?",
      "zh": "你能找出这两幅图的不同吗？",
-     "audio": "media/sent/2de0921a0210.mp3"
+     "audio": "media/sent/2de0921a0210.mp3?v=997a6693"
     }
    ],
    "media": {
-    "uk": "media/uk/difference.mp3",
-    "us": "media/us/difference.mp3"
+    "uk": "media/uk/difference.mp3?v=592be205",
+    "us": "media/us/difference.mp3?v=4716c68e"
    },
    "avoid": []
   },
@@ -1738,23 +1738,23 @@
     {
      "en": "Mum saves some money.",
      "zh": "妈妈存了一些钱。",
-     "audio": "media/sent/f9b05aaa9e87.mp3"
+     "audio": "media/sent/f9b05aaa9e87.mp3?v=a35f70a9"
     },
     {
      "en": "Do you have any money?",
      "zh": "你有钱吗？",
-     "audio": "media/sent/761e207e662e.mp3"
+     "audio": "media/sent/761e207e662e.mp3?v=7605a5fb"
     },
     {
      "en": "Lily spends her pocket money.",
      "zh": "Lily 花她的零花钱。",
-     "audio": "media/sent/1e3a6d16ffc1.mp3"
+     "audio": "media/sent/1e3a6d16ffc1.mp3?v=a0e19cd5"
     }
    ],
    "media": {
-    "img": "media/img/money.webp",
-    "uk": "media/uk/money.mp3",
-    "us": "media/us/money.mp3"
+    "img": "media/img/money.webp?v=3ca8fcc6",
+    "uk": "media/uk/money.mp3?v=fef3bab8",
+    "us": "media/us/money.mp3?v=2a54506c"
    },
    "spell": true,
    "avoid": [
@@ -1790,23 +1790,23 @@
     {
      "en": "It costs fifty pence.",
      "zh": "它值五十便士。",
-     "audio": "media/sent/9b3f9f015e08.mp3"
+     "audio": "media/sent/9b3f9f015e08.mp3?v=8fd885fe"
     },
     {
      "en": "Give me ten pence, please.",
      "zh": "请给我十便士。",
-     "audio": "media/sent/afd2ed259a9f.mp3"
+     "audio": "media/sent/afd2ed259a9f.mp3?v=c4bfbb9d"
     },
     {
      "en": "The stamp is two pence.",
      "zh": "邮票是两便士。",
-     "audio": "media/sent/e271bc5f1c69.mp3"
+     "audio": "media/sent/e271bc5f1c69.mp3?v=e955437e"
     }
    ],
    "media": {
-    "img": "media/img/pence.webp",
-    "uk": "media/word/pence.mp3",
-    "us": "media/word/pence.mp3"
+    "img": "media/img/pence.webp?v=a708fd31",
+    "uk": "media/word/pence.mp3?v=9d8b5f68",
+    "us": "media/word/pence.mp3?v=9d8b5f68"
    },
    "hook": {
     "kind": "contrast",
@@ -1845,22 +1845,22 @@
     {
      "en": "Tom is in trouble.",
      "zh": "Tom 遇到麻烦了。",
-     "audio": "media/sent/e5cd042b35ea.mp3"
+     "audio": "media/sent/e5cd042b35ea.mp3?v=2ec4194a"
     },
     {
      "en": "Mum has trouble opening the box.",
      "zh": "妈妈打不开盒子，有点麻烦。",
-     "audio": "media/sent/3905f6179a24.mp3"
+     "audio": "media/sent/3905f6179a24.mp3?v=2bc8dc86"
     },
     {
      "en": "Don't get into trouble at school.",
      "zh": "在学校不要惹麻烦。",
-     "audio": "media/sent/50921e2adf42.mp3"
+     "audio": "media/sent/50921e2adf42.mp3?v=cd732224"
     }
    ],
    "media": {
-    "uk": "media/uk/trouble.mp3",
-    "us": "media/us/trouble.mp3"
+    "uk": "media/uk/trouble.mp3?v=0809e7af",
+    "us": "media/us/trouble.mp3?v=c191deb9"
    },
    "avoid": []
   },
@@ -1894,23 +1894,23 @@
     {
      "en": "Lily helps Mum cook.",
      "zh": "Lily 帮妈妈做饭。",
-     "audio": "media/sent/a628c176f997.mp3"
+     "audio": "media/sent/a628c176f997.mp3?v=78a5ac46"
     },
     {
      "en": "Can you help me, Tom?",
      "zh": "Tom，你能帮我吗？",
-     "audio": "media/sent/eee05ceaeea7.mp3"
+     "audio": "media/sent/eee05ceaeea7.mp3?v=5d0cf22e"
     },
     {
      "en": "Thank you for your help.",
      "zh": "谢谢你的帮助。",
-     "audio": "media/sent/37738eb6f1a6.mp3"
+     "audio": "media/sent/37738eb6f1a6.mp3?v=640d5a4c"
     }
    ],
    "media": {
-    "img": "media/img/help.webp",
-    "uk": "media/uk/help.mp3",
-    "us": "media/us/help.mp3"
+    "img": "media/img/help.webp?v=1ce57b2c",
+    "uk": "media/uk/help.mp3?v=914a2764",
+    "us": "media/us/help.mp3?v=e1fbc56c"
    },
    "spell": true,
    "avoid": []
@@ -1944,23 +1944,23 @@
     {
      "en": "Lily watches a funny advert.",
      "zh": "Lily 看一个有趣的广告。",
-     "audio": "media/sent/411078cc9734.mp3"
+     "audio": "media/sent/411078cc9734.mp3?v=6877fba1"
     },
     {
      "en": "Dad reads an advert in the paper.",
      "zh": "爸爸在报纸上读了一则广告。",
-     "audio": "media/sent/6c37cbad9955.mp3"
+     "audio": "media/sent/6c37cbad9955.mp3?v=6d831563"
     },
     {
      "en": "The new advert is on the radio.",
      "zh": "新广告在广播里。",
-     "audio": "media/sent/f4eda0a92171.mp3"
+     "audio": "media/sent/f4eda0a92171.mp3?v=87e0fbce"
     }
    ],
    "media": {
-    "img": "media/img/advert.webp",
-    "uk": "media/word/advert.mp3",
-    "us": "media/word/advert.mp3"
+    "img": "media/img/advert.webp?v=9b449021",
+    "uk": "media/word/advert.mp3?v=721a2f3c",
+    "us": "media/word/advert.mp3?v=721a2f3c"
    },
    "avoid": [
     "notice",
@@ -1996,23 +1996,23 @@
     {
      "en": "Look at the notice on the wall.",
      "zh": "看墙上的通知。",
-     "audio": "media/sent/a90f0f75dda4.mp3"
+     "audio": "media/sent/a90f0f75dda4.mp3?v=5a6d804a"
     },
     {
      "en": "Mum reads the school notice.",
      "zh": "妈妈读学校通知。",
-     "audio": "media/sent/4c1b1b002570.mp3"
+     "audio": "media/sent/4c1b1b002570.mp3?v=b5c11bed"
     },
     {
      "en": "There is a new notice in the office.",
      "zh": "办公室里有一张新通知。",
-     "audio": "media/sent/f1a199e6288c.mp3"
+     "audio": "media/sent/f1a199e6288c.mp3?v=8cd7e696"
     }
    ],
    "media": {
-    "img": "media/img/notice.webp",
-    "uk": "media/uk/notice.mp3",
-    "us": "media/us/notice.mp3"
+    "img": "media/img/notice.webp?v=f24fa74d",
+    "uk": "media/uk/notice.mp3?v=a64e057f",
+    "us": "media/us/notice.mp3?v=9752e74b"
    },
    "hook": {
     "kind": "split",

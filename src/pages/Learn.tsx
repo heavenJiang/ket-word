@@ -5,7 +5,7 @@ import { Intro } from "../questions/Intro";
 import { Match } from "../questions/Match";
 import { gapSentences } from "../lib/sentence";
 import { Tiles } from "../questions/Tiles";
-import { answer, buildSession, current, groupOpen, isDone, advance } from "../session/session";
+import { answer, buildSession, current, isDone, advance, openWords, questionsLeft, roundEnds, ROUND } from "../session/session";
 import { todayPlan } from "../session/today";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { isHard, Rating, type Grade } from "../srs/srs";
@@ -17,8 +17,6 @@ import { Picture } from "../ui/Picture";
 
 /** Bonus stars for finishing a session. */
 const FINISH_BONUS = 3;
-/** Questions in a round: a long day is cut into short rounds, each ending with a small celebration. */
-const ROUND = 10;
 
 export function Learn(props: {
   /** The current island, in learning order: where new words come from. */
@@ -46,6 +44,9 @@ export function Learn(props: {
   const [finished, setFinished] = useState(false);
   /** This round so far: questions answered and stars won; `pause` shows the end-of-round screen. */
   const [round, setRound] = useState({ n: 0, stars: 0, num: 1, pause: false });
+  /** The child tapped ✕ while new words were met but not yet recalled: ask once before leaving. */
+  const [leaving, setLeaving] = useState(false);
+  const exit = () => (openWords(session).length ? setLeaving(true) : onExit());
 
   const step = current(session);
   const total = session.steps.length;
@@ -64,9 +65,7 @@ export function Learn(props: {
       setTally((t) => ({ right: t.right + (a.correct ? 1 : 0), total: t.total + 1, stars: t.stars + star }));
     }
     const n = round.n + 1;
-    // a round ends after ROUND questions, unless the day is about to end anyway
-    // ...and never in the middle of a group of new words, which would be lost if the child stopped there
-    const pause = n >= ROUND && questionsLeft(r.session) >= ROUND / 2 && !groupOpen(r.session);
+    const pause = roundEnds(n, r.session);
     setRound({ ...round, n, stars: round.stars + star, pause });
     if (pause) sfx("done", settings.sound);
     next(r.session);
@@ -161,11 +160,27 @@ export function Learn(props: {
     );
   }
 
+  if (leaving) {
+    const left = openWords(session).length;
+    return (
+      <div className="page center round-break">
+        <Max pose="think" size="lg" say={`还有 ${left} 个新词没复习完，做完这组再走吧？`} />
+        <p className="muted">现在离开的话，这几个新词下次要重新认识一遍。</p>
+        <button className="btn btn-primary btn-huge" onClick={() => setLeaving(false)}>
+          做完这组 💪
+        </button>
+        <button className="btn btn-ghost" onClick={onExit}>
+          还是先离开
+        </button>
+      </div>
+    );
+  }
+
   if (!step) return null;
   return (
     <div className="page learn">
       <div className="learn-top">
-        <button className="icon-btn" onClick={onExit} aria-label="退出">
+        <button className="icon-btn" onClick={exit} aria-label="退出">
           ✕
         </button>
         <div className="bar">
@@ -236,5 +251,3 @@ function Confetti() {
 
 const CONFETTI = ["#ff8a3d", "#4cb8ff", "#2fbf71", "#ffc531", "#ff5a8a"];
 
-/** Questions still ahead in the session. */
-const questionsLeft = (s: { steps: { type: string }[]; index: number }) => s.steps.slice(s.index).filter((x) => x.type === "q").length;

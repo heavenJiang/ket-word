@@ -29,22 +29,22 @@
     {
      "en": "Bye, Grandma! See you next week.",
      "zh": "奶奶再见！下周见。",
-     "audio": "media/sent/ba400e9304ef.mp3"
+     "audio": "media/sent/ba400e9304ef.mp3?v=cd42f5fa"
     },
     {
      "en": "Bye, Max! Go home now.",
      "zh": "Max，再见！回家吧。",
-     "audio": "media/sent/b19ec76615d6.mp3"
+     "audio": "media/sent/b19ec76615d6.mp3?v=0724c175"
     },
     {
      "en": "It's late. Bye, Mum!",
      "zh": "太晚了。妈妈，再见！",
-     "audio": "media/sent/a325f6054901.mp3"
+     "audio": "media/sent/a325f6054901.mp3?v=af3e6ac8"
     }
    ],
    "media": {
-    "uk": "media/word/bye.mp3",
-    "us": "media/word/bye.mp3"
+    "uk": "media/word/bye.mp3?v=a2f37253",
+    "us": "media/word/bye.mp3?v=a2f37253"
    },
    "avoid": []
   },
@@ -80,22 +80,22 @@
     {
      "en": "Congratulations! You won the game, Lily.",
      "zh": "恭喜你！你赢了比赛，Lily。",
-     "audio": "media/sent/1b5541c4f077.mp3"
+     "audio": "media/sent/1b5541c4f077.mp3?v=6e175062"
     },
     {
      "en": "\"Congratulations!\" says Grandpa to Sam.",
      "zh": "“恭喜你！”爷爷对 Sam 说。",
-     "audio": "media/sent/d3346c98841b.mp3"
+     "audio": "media/sent/d3346c98841b.mp3?v=75b18b41"
     },
     {
      "en": "Congratulations on your new house!",
      "zh": "恭喜你们搬新家！",
-     "audio": "media/sent/2f01dd4b95cf.mp3"
+     "audio": "media/sent/2f01dd4b95cf.mp3?v=bdce8fd9"
     }
    ],
    "media": {
-    "uk": "media/word/congratulations.mp3",
-    "us": "media/word/congratulations.mp3"
+    "uk": "media/word/congratulations.mp3?v=d2f77926",
+    "us": "media/word/congratulations.mp3?v=d2f77926"
    },
    "avoid": []
   },
@@ -128,22 +128,22 @@
     {
      "en": "Goodbye, Dad! Have a good day at work.",
      "zh": "爸爸再见！祝你工作顺利。",
-     "audio": "media/sent/cf1ba8d11b2f.mp3"
+     "audio": "media/sent/cf1ba8d11b2f.mp3?v=f5625cd8"
     },
     {
      "en": "She said goodbye to her friend Mia.",
      "zh": "她和朋友 Mia 说了再见。",
-     "audio": "media/sent/88700eb2639c.mp3"
+     "audio": "media/sent/88700eb2639c.mp3?v=b04b0d48"
     },
     {
      "en": "It's time to say goodbye.",
      "zh": "是时候说再见了。",
-     "audio": "media/sent/575649c16c2a.mp3"
+     "audio": "media/sent/575649c16c2a.mp3?v=ce81b585"
     }
    ],
    "media": {
-    "uk": "media/word/goodbye.mp3",
-    "us": "media/word/goodbye.mp3"
+    "uk": "media/word/goodbye.mp3?v=dd032a88",
+    "us": "media/word/goodbye.mp3?v=dd032a88"
    },
    "hook": {
     "kind": "split",
@@ -182,22 +182,22 @@
     {
      "en": "Good afternoon, everyone!",
      "zh": "大家下午好！",
-     "audio": "media/sent/7e289a20f7e0.mp3"
+     "audio": "media/sent/7e289a20f7e0.mp3?v=b43df274"
     },
     {
      "en": "We say good afternoon to our teacher.",
      "zh": "我们对老师说下午好。",
-     "audio": "media/sent/dbb4cc18a837.mp3"
+     "audio": "media/sent/dbb4cc18a837.mp3?v=0048ea80"
     },
     {
      "en": "Good afternoon, Mum. Here is your tea.",
      "zh": "妈妈，下午好。这是你的茶。",
-     "audio": "media/sent/34901cb534ba.mp3"
+     "audio": "media/sent/34901cb534ba.mp3?v=a102bd09"
     }
    ],
    "media": {
-    "uk": "media/word/good-afternoon.mp3",
-    "us": "media/word/good-afternoon.mp3"
+    "uk": "media/word/good-afternoon.mp3?v=bfb2cf4f",
+    "us": "media/word/good-afternoon.mp3?v=bfb2cf4f"
    },
    "hook": {
     "kind": "split",
@@ -236,22 +236,22 @@
     {
      "en": "Good evening, Grandma!",
      "zh": "奶奶，晚上好！",
-     "audio": "media/sent/1374e6a3f5b4.mp3"
+     "audio": "media/sent/1374e6a3f5b4.mp3?v=fa24f09d"
     },
     {
      "en": "Dad says good evening to our neighbour.",
      "zh": "爸爸跟邻居说晚上好。",
-     "audio": "media/sent/32cdc9193306.mp3"
+     "audio": "media/sent/32cdc9193306.mp3?v=0f2dabd8"
     },
     {
      "en": "Good evening, Sam. Let's play.",
      "zh": "Sam，晚上好。我们玩吧。",
-     "audio": "media/sent/79956264782c.mp3"
+     "audio": "media/sent/79956264782c.mp3?v=9aa87dc0"
     }
    ],
    "media": {
-    "uk": "media/word/good-evening.mp3",
-    "us": "media/word/good-evening.mp3"
+    "uk": "media/word/good-evening.mp3?v=f4d8278c",
+    "us": "media/word/good-evening.mp3?v=f4d8278c"
    },
    "hook": {
     "kind": "split",
@@ -289,22 +289,22 @@
     {
      "en": "Good morning, Lily! Wake up!",
      "zh": "Lily，早上好！起床啦！",
-     "audio": "media/sent/a7af327b653d.mp3"
+     "audio": "media/sent/a7af327b653d.mp3?v=ba157fe8"
     },
     {
      "en": "We say good morning at school.",
      "zh": "我们在学校说早上好。",
-     "audio": "media/sent/eb8c7357390a.mp3"
+     "audio": "media/sent/eb8c7357390a.mp3?v=edcc1344"
     },
     {
      "en": "Good morning, Tom. Breakfast is ready.",
      "zh": "Tom，早上好。早饭准备好了。",
-     "audio": "media/sent/4dca905e35d1.mp3"
+     "audio": "media/sent/4dca905e35d1.mp3?v=36576d11"
     }
    ],
    "media": {
-    "uk": "media/word/good-morning.mp3",
-    "us": "media/word/good-morning.mp3"
+    "uk": "media/word/good-morning.mp3?v=f1188335",
+    "us": "media/word/good-morning.mp3?v=f1188335"
    },
    "hook": {
     "kind": "split",
@@ -341,22 +341,22 @@
     {
      "en": "Good night, Max. Sleep well.",
      "zh": "Max，晚安。睡个好觉。",
-     "audio": "media/sent/88acc1e500e6.mp3"
+     "audio": "media/sent/88acc1e500e6.mp3?v=12eb6067"
     },
     {
      "en": "Dad says good night to us.",
      "zh": "爸爸对我们说晚安。",
-     "audio": "media/sent/58a91912ee78.mp3"
+     "audio": "media/sent/58a91912ee78.mp3?v=2f5409c3"
     },
     {
      "en": "Good night, Lily. See you tomorrow.",
      "zh": "Lily，晚安。明天见。",
-     "audio": "media/sent/6ef749c3b47c.mp3"
+     "audio": "media/sent/6ef749c3b47c.mp3?v=100923fc"
     }
    ],
    "media": {
-    "uk": "media/word/good-night.mp3",
-    "us": "media/word/good-night.mp3"
+    "uk": "media/word/good-night.mp3?v=8e91a829",
+    "us": "media/word/good-night.mp3?v=8e91a829"
    },
    "hook": {
     "kind": "split",
@@ -393,22 +393,22 @@
     {
      "en": "Hello, Mia! Are you OK?",
      "zh": "Mia，你好！你没事吧？",
-     "audio": "media/sent/7f9a6ae4c583.mp3"
+     "audio": "media/sent/7f9a6ae4c583.mp3?v=d87605c3"
     },
     {
      "en": "Hello, Grandpa. How are you?",
      "zh": "爷爷，你好。你好吗？",
-     "audio": "media/sent/1bdbd765e944.mp3"
+     "audio": "media/sent/1bdbd765e944.mp3?v=6bb09ffe"
     },
     {
      "en": "The phone rings. Hello? Who is it?",
      "zh": "电话响了。喂？是谁呀？",
-     "audio": "media/sent/b0609e59310f.mp3"
+     "audio": "media/sent/b0609e59310f.mp3?v=5d2f78e4"
     }
    ],
    "media": {
-    "uk": "media/uk/hello.mp3",
-    "us": "media/us/hello.mp3"
+    "uk": "media/uk/hello.mp3?v=8e626673",
+    "us": "media/us/hello.mp3?v=ad0dec8c"
    },
    "spell": true,
    "avoid": []
@@ -441,22 +441,22 @@
     {
      "en": "Hey, Tom! Come and play.",
      "zh": "Tom，嘿！来玩吧。",
-     "audio": "media/sent/ec675b9b7653.mp3"
+     "audio": "media/sent/ec675b9b7653.mp3?v=aaa70230"
     },
     {
      "en": "Hey, look at that bird!",
      "zh": "嘿，看那只鸟！",
-     "audio": "media/sent/695c34a1c976.mp3"
+     "audio": "media/sent/695c34a1c976.mp3?v=013c2950"
     },
     {
      "en": "Hey, Sam! Do you want some juice?",
      "zh": "Sam，嘿！你想喝点果汁吗？",
-     "audio": "media/sent/9da6d8e212ec.mp3"
+     "audio": "media/sent/9da6d8e212ec.mp3?v=b2466020"
     }
    ],
    "media": {
-    "uk": "media/uk/hey.mp3",
-    "us": "media/us/hey.mp3"
+    "uk": "media/uk/hey.mp3?v=2364d0b3",
+    "us": "media/us/hey.mp3?v=15bd158e"
    },
    "spell": true,
    "avoid": []
@@ -489,22 +489,22 @@
     {
      "en": "Hi, Lily! Do you like my new bag?",
      "zh": "Lily，嗨！你喜欢我的新书包吗？",
-     "audio": "media/sent/e04409107fe4.mp3"
+     "audio": "media/sent/e04409107fe4.mp3?v=98ca2ca4"
     },
     {
      "en": "Hi, Dad! I'm home!",
      "zh": "爸爸，嗨！我回来了！",
-     "audio": "media/sent/320856e7ec70.mp3"
+     "audio": "media/sent/320856e7ec70.mp3?v=3d00381c"
     },
     {
      "en": "She says hi to her friends.",
      "zh": "她和朋友们打招呼。",
-     "audio": "media/sent/a15be93adbef.mp3"
+     "audio": "media/sent/a15be93adbef.mp3?v=92a7671d"
     }
    ],
    "media": {
-    "uk": "media/word/hi.mp3",
-    "us": "media/word/hi.mp3"
+    "uk": "media/word/hi.mp3?v=49127e6f",
+    "us": "media/word/hi.mp3?v=49127e6f"
    },
    "avoid": []
   },
@@ -536,22 +536,22 @@
     {
      "en": "Oh no! I forgot my book.",
      "zh": "哦不！我忘记带书了。",
-     "audio": "media/sent/66c02952bd86.mp3"
+     "audio": "media/sent/66c02952bd86.mp3?v=d79967ca"
     },
     {
      "en": "Oh, look at that pretty flower!",
      "zh": "哦，看那朵漂亮的花！",
-     "audio": "media/sent/eb83b5f0a914.mp3"
+     "audio": "media/sent/eb83b5f0a914.mp3?v=7717abff"
     },
     {
      "en": "Oh, it's raining outside.",
      "zh": "哦，外面下雨了。",
-     "audio": "media/sent/c621f06d22a8.mp3"
+     "audio": "media/sent/c621f06d22a8.mp3?v=c5f65789"
     }
    ],
    "media": {
-    "uk": "media/word/oh.mp3",
-    "us": "media/word/oh.mp3"
+    "uk": "media/word/oh.mp3?v=e884d229",
+    "us": "media/word/oh.mp3?v=e884d229"
    },
    "avoid": []
   },
@@ -584,22 +584,22 @@
     {
      "en": "Oh dear! The soup is on the floor.",
      "zh": "哎呀！汤洒到地上了。",
-     "audio": "media/sent/bb5483a735c2.mp3"
+     "audio": "media/sent/bb5483a735c2.mp3?v=aa8c4986"
     },
     {
      "en": "Oh dear, I can't find my pen.",
      "zh": "天哪，我找不到我的钢笔了。",
-     "audio": "media/sent/2d64bd3b9917.mp3"
+     "audio": "media/sent/2d64bd3b9917.mp3?v=189b36c4"
     },
     {
      "en": "Oh dear! It's cold today.",
      "zh": "哎呀！今天好冷。",
-     "audio": "media/sent/e6d7936914d2.mp3"
+     "audio": "media/sent/e6d7936914d2.mp3?v=0167f92c"
     }
    ],
    "media": {
-    "uk": "media/word/oh-dear.mp3",
-    "us": "media/word/oh-dear.mp3"
+    "uk": "media/word/oh-dear.mp3?v=585089d9",
+    "us": "media/word/oh-dear.mp3?v=585089d9"
    },
    "hook": {
     "kind": "split",
@@ -636,22 +636,22 @@
     {
      "en": "Is the food OK?",
      "zh": "食物还可以吗？",
-     "audio": "media/sent/6c407accd080.mp3"
+     "audio": "media/sent/6c407accd080.mp3?v=38616f34"
     },
     {
      "en": "Let's go. Are you OK?",
      "zh": "我们走吧。你没事吧？",
-     "audio": "media/sent/8fce66c3dabd.mp3"
+     "audio": "media/sent/8fce66c3dabd.mp3?v=c8a46ca4"
     },
     {
      "en": "She says OK to the plan.",
      "zh": "她对这个计划表示同意。",
-     "audio": "media/sent/8fcafa931bc0.mp3"
+     "audio": "media/sent/8fcafa931bc0.mp3?v=29faa1de"
     }
    ],
    "media": {
-    "uk": "media/word/ok.mp3",
-    "us": "media/word/ok.mp3"
+    "uk": "media/word/ok.mp3?v=9fd2d477",
+    "us": "media/word/ok.mp3?v=9fd2d477"
    },
    "avoid": []
   },
@@ -684,22 +684,22 @@
     {
      "en": "Pardon? I did not hear you.",
      "zh": "什么？我没听见。",
-     "audio": "media/sent/b0436365f8b3.mp3"
+     "audio": "media/sent/b0436365f8b3.mp3?v=4ee6d23a"
     },
     {
      "en": "Pardon? Can you say that again?",
      "zh": "什么？你能再说一遍吗？",
-     "audio": "media/sent/cd4437fec11b.mp3"
+     "audio": "media/sent/cd4437fec11b.mp3?v=11f8a54a"
     },
     {
      "en": "Pardon me. Sorry!",
      "zh": "不好意思，抱歉！",
-     "audio": "media/sent/febd2b15eab9.mp3"
+     "audio": "media/sent/febd2b15eab9.mp3?v=9bfb6233"
     }
    ],
    "media": {
-    "uk": "media/uk/pardon.mp3",
-    "us": "media/us/pardon.mp3"
+    "uk": "media/uk/pardon.mp3?v=ca8154cd",
+    "us": "media/us/pardon.mp3?v=e9a10303"
    },
    "avoid": []
   },
@@ -733,22 +733,22 @@
     {
      "en": "Pass the salt, please.",
      "zh": "请把盐递过来。",
-     "audio": "media/sent/1decbe969785.mp3"
+     "audio": "media/sent/1decbe969785.mp3?v=b4900526"
     },
     {
      "en": "Please help me with this bag.",
      "zh": "请帮我提这个包。",
-     "audio": "media/sent/9b67b4986e2d.mp3"
+     "audio": "media/sent/9b67b4986e2d.mp3?v=c95ebf34"
     },
     {
      "en": "Can I have some water, please?",
      "zh": "请问我可以喝点水吗？",
-     "audio": "media/sent/0497b51495ac.mp3"
+     "audio": "media/sent/0497b51495ac.mp3?v=68eafe27"
     }
    ],
    "media": {
-    "uk": "media/uk/please.mp3",
-    "us": "media/us/please.mp3"
+    "uk": "media/uk/please.mp3?v=ab5b74f8",
+    "us": "media/us/please.mp3?v=67ecb59d"
    },
    "spell": true,
    "hook": {
@@ -785,22 +785,22 @@
     {
      "en": "Thanks for the lovely gift.",
      "zh": "谢谢你送的漂亮礼物。",
-     "audio": "media/sent/183608d79c83.mp3"
+     "audio": "media/sent/183608d79c83.mp3?v=6a0ff67b"
     },
     {
      "en": "Thanks for helping me clean up.",
      "zh": "谢谢你帮我收拾。",
-     "audio": "media/sent/007d87cbceab.mp3"
+     "audio": "media/sent/007d87cbceab.mp3?v=83ed631b"
     },
     {
      "en": "Many thanks to Grandma!",
      "zh": "非常感谢奶奶！",
-     "audio": "media/sent/0a7604801882.mp3"
+     "audio": "media/sent/0a7604801882.mp3?v=c58c6f7e"
     }
    ],
    "media": {
-    "uk": "media/uk/thanks.mp3",
-    "us": "media/us/thanks.mp3"
+    "uk": "media/uk/thanks.mp3?v=882f0467",
+    "us": "media/us/thanks.mp3?v=1e87b4f5"
    },
    "spell": true,
    "hook": {
@@ -837,22 +837,22 @@
     {
      "en": "I thank you for your help.",
      "zh": "我感谢你的帮助。",
-     "audio": "media/sent/8e4bb60cac3e.mp3"
+     "audio": "media/sent/8e4bb60cac3e.mp3?v=216fb063"
     },
     {
      "en": "We thank our teachers.",
      "zh": "我们感谢我们的老师。",
-     "audio": "media/sent/017be5f38df3.mp3"
+     "audio": "media/sent/017be5f38df3.mp3?v=b5e1fc0c"
     },
     {
      "en": "Thank your friend for the cake.",
      "zh": "谢谢你的朋友送的蛋糕。",
-     "audio": "media/sent/453a6fba9928.mp3"
+     "audio": "media/sent/453a6fba9928.mp3?v=3b49c999"
     }
    ],
    "media": {
-    "uk": "media/word/thank.mp3",
-    "us": "media/word/thank.mp3"
+    "uk": "media/word/thank.mp3?v=41c1b3c9",
+    "us": "media/word/thank.mp3?v=41c1b3c9"
    },
    "hook": {
     "kind": "contrast",
@@ -889,22 +889,22 @@
     {
      "en": "She said thank you to the doctor.",
      "zh": "她向医生说了谢谢。",
-     "audio": "media/sent/954a80961824.mp3"
+     "audio": "media/sent/954a80961824.mp3?v=6b128bc4"
     },
     {
      "en": "Say thank you to Grandma.",
      "zh": "跟奶奶说谢谢。",
-     "audio": "media/sent/344b61440931.mp3"
+     "audio": "media/sent/344b61440931.mp3?v=ef488848"
     },
     {
      "en": "A big thank you to Dad!",
      "zh": "给爸爸一个大大的谢谢！",
-     "audio": "media/sent/a0bf6ce7e5a0.mp3"
+     "audio": "media/sent/a0bf6ce7e5a0.mp3?v=d9b4aade"
     }
    ],
    "media": {
-    "uk": "media/word/thank-you.mp3",
-    "us": "media/word/thank-you.mp3"
+    "uk": "media/word/thank-you.mp3?v=3a29844e",
+    "us": "media/word/thank-you.mp3?v=3a29844e"
    },
    "hook": {
     "kind": "split",
@@ -943,22 +943,22 @@
     {
      "en": "Welcome to our home!",
      "zh": "欢迎来到我们家！",
-     "audio": "media/sent/0fadd4f35a10.mp3"
+     "audio": "media/sent/0fadd4f35a10.mp3?v=c415b818"
     },
     {
      "en": "You are welcome here.",
      "zh": "这里欢迎你。",
-     "audio": "media/sent/32014e7ce414.mp3"
+     "audio": "media/sent/32014e7ce414.mp3?v=4d22c5bc"
     },
     {
      "en": "Welcome to the park!",
      "zh": "欢迎来到公园！",
-     "audio": "media/sent/f517d9f9b375.mp3"
+     "audio": "media/sent/f517d9f9b375.mp3?v=8af936d5"
     }
    ],
    "media": {
-    "uk": "media/uk/welcome.mp3",
-    "us": "media/us/welcome.mp3"
+    "uk": "media/uk/welcome.mp3?v=a7847344",
+    "us": "media/us/welcome.mp3?v=c4669866"
    },
    "spell": true,
    "hook": {
@@ -995,22 +995,22 @@
     {
      "en": "Wow! Look at that kite.",
      "zh": "哇！看那个风筝。",
-     "audio": "media/sent/2bbf2af0f4f4.mp3"
+     "audio": "media/sent/2bbf2af0f4f4.mp3?v=8ab9a398"
     },
     {
      "en": "Wow, what a big cake!",
      "zh": "哇，好大的蛋糕！",
-     "audio": "media/sent/65f06fb5aba7.mp3"
+     "audio": "media/sent/65f06fb5aba7.mp3?v=b9eeb195"
     },
     {
      "en": "Wow! It's snowing.",
      "zh": "哇！下雪了。",
-     "audio": "media/sent/ee2dec20da83.mp3"
+     "audio": "media/sent/ee2dec20da83.mp3?v=80739a49"
     }
    ],
    "media": {
-    "uk": "media/word/wow.mp3",
-    "us": "media/word/wow.mp3"
+    "uk": "media/word/wow.mp3?v=04c5c835",
+    "us": "media/word/wow.mp3?v=04c5c835"
    },
    "avoid": []
   },
@@ -1042,22 +1042,22 @@
     {
      "en": "Yeah! Let's play.",
      "zh": "好啊！我们玩吧。",
-     "audio": "media/sent/324e6bf47db2.mp3"
+     "audio": "media/sent/324e6bf47db2.mp3?v=c410f35e"
     },
     {
      "en": "Yeah, I like it.",
      "zh": "是啊，我喜欢它。",
-     "audio": "media/sent/5285f2db87a6.mp3"
+     "audio": "media/sent/5285f2db87a6.mp3?v=8f612778"
     },
     {
      "en": "She says yeah to us.",
      "zh": "她对我们说是的。",
-     "audio": "media/sent/9caae1a51972.mp3"
+     "audio": "media/sent/9caae1a51972.mp3?v=714c7d7a"
     }
    ],
    "media": {
-    "uk": "media/word/yeah.mp3",
-    "us": "media/word/yeah.mp3"
+    "uk": "media/word/yeah.mp3?v=3548c391",
+    "us": "media/word/yeah.mp3?v=3548c391"
    },
    "hook": {
     "kind": "contrast",
@@ -1094,22 +1094,22 @@
     {
      "en": "Excuse me, can I pass?",
      "zh": "借过一下，我可以过去吗？",
-     "audio": "media/sent/c8923d395d72.mp3"
+     "audio": "media/sent/c8923d395d72.mp3?v=322bf0c5"
     },
     {
      "en": "Please excuse me for a minute.",
      "zh": "请允许我离开一会儿。",
-     "audio": "media/sent/bc3e83003b45.mp3"
+     "audio": "media/sent/bc3e83003b45.mp3?v=8f8b4d64"
     },
     {
      "en": "I am sorry. Excuse me!",
      "zh": "对不起。打扰了！",
-     "audio": "media/sent/c6f97abfe9c4.mp3"
+     "audio": "media/sent/c6f97abfe9c4.mp3?v=f0131d58"
     }
    ],
    "media": {
-    "uk": "media/uk/excuse.mp3",
-    "us": "media/us/excuse.mp3"
+    "uk": "media/uk/excuse.mp3?v=50f954fc",
+    "us": "media/us/excuse.mp3?v=ae050d02"
    },
    "hook": {
     "kind": "story",
@@ -1147,22 +1147,22 @@
     {
      "en": "By the way, I found your pen.",
      "zh": "顺便说一下，我找到了你的笔。",
-     "audio": "media/sent/34b8dd2c9b86.mp3"
+     "audio": "media/sent/34b8dd2c9b86.mp3?v=389a69b5"
     },
     {
      "en": "By the way, who is that boy?",
      "zh": "顺便问一下，那个男孩是谁？",
-     "audio": "media/sent/5562f5509bbb.mp3"
+     "audio": "media/sent/5562f5509bbb.mp3?v=cae52ecc"
     },
     {
      "en": "By the way, Mum is coming soon.",
      "zh": "顺便说一下，妈妈很快就要来了。",
-     "audio": "media/sent/03c440a8e5f5.mp3"
+     "audio": "media/sent/03c440a8e5f5.mp3?v=fc577ed1"
     }
    ],
    "media": {
-    "uk": "media/word/by-the-way.mp3",
-    "us": "media/word/by-the-way.mp3"
+    "uk": "media/word/by-the-way.mp3?v=e9396b63",
+    "us": "media/word/by-the-way.mp3?v=e9396b63"
    },
    "hook": {
     "kind": "story",
@@ -1199,22 +1199,22 @@
     {
      "en": "Guess what? We have a puppy!",
      "zh": "你猜怎么着？我们有一只小狗了！",
-     "audio": "media/sent/7c51b5df7691.mp3"
+     "audio": "media/sent/7c51b5df7691.mp3?v=656704ec"
     },
     {
      "en": "Guess what! Grandma is here.",
      "zh": "你猜怎么着！奶奶来了。",
-     "audio": "media/sent/e8faaf5013e9.mp3"
+     "audio": "media/sent/e8faaf5013e9.mp3?v=78f42018"
     },
     {
      "en": "Guess what? I got a good mark.",
      "zh": "你猜怎么着？我得了个好分数。",
-     "audio": "media/sent/d09bdb4ea607.mp3"
+     "audio": "media/sent/d09bdb4ea607.mp3?v=b90c1bf3"
     }
    ],
    "media": {
-    "uk": "media/word/guess-what.mp3",
-    "us": "media/word/guess-what.mp3"
+    "uk": "media/word/guess-what.mp3?v=5cf74080",
+    "us": "media/word/guess-what.mp3?v=5cf74080"
    },
    "hook": {
     "kind": "split",
@@ -1251,22 +1251,22 @@
     {
      "en": "Of course you can play outside.",
      "zh": "你当然可以在外面玩。",
-     "audio": "media/sent/f022279ee8f2.mp3"
+     "audio": "media/sent/f022279ee8f2.mp3?v=5b48b300"
     },
     {
      "en": "Yes, of course!",
      "zh": "是的，当然！",
-     "audio": "media/sent/9a283d359b24.mp3"
+     "audio": "media/sent/9a283d359b24.mp3?v=fd65d18e"
     },
     {
      "en": "Of course I know him.",
      "zh": "我当然认识他。",
-     "audio": "media/sent/2d8d29d104a3.mp3"
+     "audio": "media/sent/2d8d29d104a3.mp3?v=9fdd7ce3"
     }
    ],
    "media": {
-    "uk": "media/word/of-course.mp3",
-    "us": "media/word/of-course.mp3"
+    "uk": "media/word/of-course.mp3?v=abf7e509",
+    "us": "media/word/of-course.mp3?v=abf7e509"
    },
    "hook": {
     "kind": "split",
@@ -1303,22 +1303,22 @@
     {
      "en": "Oh, the poor thing!",
      "zh": "哦，真可怜！",
-     "audio": "media/sent/69269bec7a14.mp3"
+     "audio": "media/sent/69269bec7a14.mp3?v=d9b55b14"
     },
     {
      "en": "The bird is cold, the poor thing.",
      "zh": "这只鸟冻坏了，真可怜。",
-     "audio": "media/sent/bc3d09f1f128.mp3"
+     "audio": "media/sent/bc3d09f1f128.mp3?v=5dac0410"
     },
     {
      "en": "Max is wet, poor thing!",
      "zh": "Max 浑身湿透了，真可怜！",
-     "audio": "media/sent/b5a6648683a7.mp3"
+     "audio": "media/sent/b5a6648683a7.mp3?v=7fdbd795"
     }
    ],
    "media": {
-    "uk": "media/word/poor-thing.mp3",
-    "us": "media/word/poor-thing.mp3"
+    "uk": "media/word/poor-thing.mp3?v=f780ea17",
+    "us": "media/word/poor-thing.mp3?v=f780ea17"
    },
    "hook": {
     "kind": "split",
@@ -1355,22 +1355,22 @@
     {
      "en": "It's a pity it rains.",
      "zh": "真可惜，下雨了。",
-     "audio": "media/sent/99cc159fb5e9.mp3"
+     "audio": "media/sent/99cc159fb5e9.mp3?v=0155e4d3"
     },
     {
      "en": "What a pity!",
      "zh": "真遗憾！",
-     "audio": "media/sent/17eeb3a6e5e1.mp3"
+     "audio": "media/sent/17eeb3a6e5e1.mp3?v=c732cbc4"
     },
     {
      "en": "It's a pity you can't come.",
      "zh": "很遗憾你不能来。",
-     "audio": "media/sent/c4aa18e68121.mp3"
+     "audio": "media/sent/c4aa18e68121.mp3?v=a1849927"
     }
    ],
    "media": {
-    "uk": "media/uk/pity.mp3",
-    "us": "media/us/pity.mp3"
+    "uk": "media/uk/pity.mp3?v=31b0981a",
+    "us": "media/us/pity.mp3?v=d8d4482c"
    },
    "hook": {
     "kind": "story",
@@ -1406,22 +1406,22 @@
     {
      "en": "It's a shame to lose.",
      "zh": "输了真可惜。",
-     "audio": "media/sent/f7a3fa12458b.mp3"
+     "audio": "media/sent/f7a3fa12458b.mp3?v=9da5e287"
     },
     {
      "en": "What a shame! The park is closed.",
      "zh": "真可惜！公园关门了。",
-     "audio": "media/sent/aecbb8fa05db.mp3"
+     "audio": "media/sent/aecbb8fa05db.mp3?v=09a491ba"
     },
     {
      "en": "It's a shame you are ill.",
      "zh": "你生病了，真遗憾。",
-     "audio": "media/sent/622ca5530cf1.mp3"
+     "audio": "media/sent/622ca5530cf1.mp3?v=38b5bb5b"
     }
    ],
    "media": {
-    "uk": "media/uk/shame.mp3",
-    "us": "media/us/shame.mp3"
+    "uk": "media/uk/shame.mp3?v=4553be85",
+    "us": "media/us/shame.mp3?v=b0ae266f"
    },
    "hook": {
     "kind": "contrast",
@@ -1459,22 +1459,22 @@
     {
      "en": "Certainly! I will help you.",
      "zh": "当然！我会帮你的。",
-     "audio": "media/sent/8eaf194f94b1.mp3"
+     "audio": "media/sent/8eaf194f94b1.mp3?v=fc8842b7"
     },
     {
      "en": "Yes, certainly, come in.",
      "zh": "是的，当然可以，请进。",
-     "audio": "media/sent/8c4aa6fa9366.mp3"
+     "audio": "media/sent/8c4aa6fa9366.mp3?v=4d3b1c04"
     },
     {
      "en": "He will certainly be late.",
      "zh": "他肯定会迟到。",
-     "audio": "media/sent/6858cff43047.mp3"
+     "audio": "media/sent/6858cff43047.mp3?v=92c7211a"
     }
    ],
    "media": {
-    "uk": "media/uk/certainly.mp3",
-    "us": "media/us/certainly.mp3"
+    "uk": "media/uk/certainly.mp3?v=c03ffbaa",
+    "us": "media/us/certainly.mp3?v=49a59bb5"
    },
    "hook": {
     "kind": "affix",
@@ -1511,22 +1511,22 @@
     {
      "en": "Maybe it will rain tomorrow.",
      "zh": "也许明天会下雨。",
-     "audio": "media/sent/ff350b27a2f5.mp3"
+     "audio": "media/sent/ff350b27a2f5.mp3?v=05bcb731"
     },
     {
      "en": "Maybe Max is hungry.",
      "zh": "也许 Max 饿了。",
-     "audio": "media/sent/5e1b158ec8c7.mp3"
+     "audio": "media/sent/5e1b158ec8c7.mp3?v=f07e78a3"
     },
     {
      "en": "I don't know. Maybe.",
      "zh": "我不知道。也许吧。",
-     "audio": "media/sent/eccd6706a7c0.mp3"
+     "audio": "media/sent/eccd6706a7c0.mp3?v=81935041"
     }
    ],
    "media": {
-    "uk": "media/uk/maybe.mp3",
-    "us": "media/us/maybe.mp3"
+    "uk": "media/uk/maybe.mp3?v=5f9ec0c5",
+    "us": "media/us/maybe.mp3?v=a87dad26"
    },
    "spell": true,
    "hook": {
@@ -1564,22 +1564,22 @@
     {
      "en": "Perhaps we can go to the park.",
      "zh": "也许我们可以去公园。",
-     "audio": "media/sent/1cb40b86f908.mp3"
+     "audio": "media/sent/1cb40b86f908.mp3?v=13950e96"
     },
     {
      "en": "Perhaps it is too late.",
      "zh": "也许太晚了。",
-     "audio": "media/sent/d77ca5b80265.mp3"
+     "audio": "media/sent/d77ca5b80265.mp3?v=911fc337"
     },
     {
      "en": "She will perhaps come later.",
      "zh": "她也许会晚点来。",
-     "audio": "media/sent/cc66b2894cc1.mp3"
+     "audio": "media/sent/cc66b2894cc1.mp3?v=6865f5a1"
     }
    ],
    "media": {
-    "uk": "media/uk/perhaps.mp3",
-    "us": "media/us/perhaps.mp3"
+    "uk": "media/uk/perhaps.mp3?v=41ea4b64",
+    "us": "media/us/perhaps.mp3?v=ff7797ad"
    },
    "hook": {
     "kind": "story",
@@ -1617,22 +1617,22 @@
     {
      "en": "Dad is probably at work.",
      "zh": "爸爸很可能在工作。",
-     "audio": "media/sent/9e65275957a1.mp3"
+     "audio": "media/sent/9e65275957a1.mp3?v=7f68a678"
     },
     {
      "en": "It will probably be sunny.",
      "zh": "天气很可能会晴朗。",
-     "audio": "media/sent/4e69b9039236.mp3"
+     "audio": "media/sent/4e69b9039236.mp3?v=0f518230"
     },
     {
      "en": "Max is probably sleeping.",
      "zh": "Max 很可能在睡觉。",
-     "audio": "media/sent/81dbcbb6350c.mp3"
+     "audio": "media/sent/81dbcbb6350c.mp3?v=8ac4ce01"
     }
    ],
    "media": {
-    "uk": "media/uk/probably.mp3",
-    "us": "media/us/probably.mp3"
+    "uk": "media/uk/probably.mp3?v=e69922b9",
+    "us": "media/us/probably.mp3?v=10e09745"
    },
    "hook": {
     "kind": "contrast",
@@ -1670,22 +1670,22 @@
     {
      "en": "It is possibly under the bed.",
      "zh": "它可能在床底下。",
-     "audio": "media/sent/89da5057ec61.mp3"
+     "audio": "media/sent/89da5057ec61.mp3?v=4458ab83"
     },
     {
      "en": "Could you possibly help me?",
      "zh": "你能帮帮我吗？",
-     "audio": "media/sent/ec459318dbe3.mp3"
+     "audio": "media/sent/ec459318dbe3.mp3?v=e8138603"
     },
     {
      "en": "The key is possibly in the car.",
      "zh": "钥匙可能在车里。",
-     "audio": "media/sent/5041723efa1a.mp3"
+     "audio": "media/sent/5041723efa1a.mp3?v=9fea129d"
     }
    ],
    "media": {
-    "uk": "media/uk/possibly.mp3",
-    "us": "media/us/possibly.mp3"
+    "uk": "media/uk/possibly.mp3?v=c48de7fb",
+    "us": "media/us/possibly.mp3?v=380ca654"
    },
    "hook": {
     "kind": "contrast",
@@ -1724,22 +1724,22 @@
     {
      "en": "Actually, I like ice cream.",
      "zh": "其实，我喜欢冰淇淋。",
-     "audio": "media/sent/9c1fb41d56f9.mp3"
+     "audio": "media/sent/9c1fb41d56f9.mp3?v=c6ff404d"
     },
     {
      "en": "He is actually my brother.",
      "zh": "他实际上是我的兄弟。",
-     "audio": "media/sent/37eedc93de64.mp3"
+     "audio": "media/sent/37eedc93de64.mp3?v=e9a21595"
     },
     {
      "en": "It's not cold. Actually, it's hot.",
      "zh": "不冷。其实很热。",
-     "audio": "media/sent/acbcc8ae902b.mp3"
+     "audio": "media/sent/acbcc8ae902b.mp3?v=091bd611"
     }
    ],
    "media": {
-    "uk": "media/uk/actually.mp3",
-    "us": "media/us/actually.mp3"
+    "uk": "media/uk/actually.mp3?v=7ec9dbfb",
+    "us": "media/us/actually.mp3?v=0aa99b3a"
    },
    "hook": {
     "kind": "affix",
@@ -1777,22 +1777,22 @@
     {
      "en": "We are going anyway.",
      "zh": "我们无论如何都要去。",
-     "audio": "media/sent/fa9403de4de7.mp3"
+     "audio": "media/sent/fa9403de4de7.mp3?v=e3b2a733"
     },
     {
      "en": "Anyway, let's eat now.",
      "zh": "反正，我们现在吃饭吧。",
-     "audio": "media/sent/bb91955aaa13.mp3"
+     "audio": "media/sent/bb91955aaa13.mp3?v=1532061d"
     },
     {
      "en": "I'm not hungry, but I'll eat some cake anyway.",
      "zh": "我不饿，不过还是吃点蛋糕吧。",
-     "audio": "media/sent/4b199caedcb4.mp3"
+     "audio": "media/sent/4b199caedcb4.mp3?v=c967b70a"
     }
    ],
    "media": {
-    "uk": "media/uk/anyway.mp3",
-    "us": "media/us/anyway.mp3"
+    "uk": "media/uk/anyway.mp3?v=5ce0795b",
+    "us": "media/us/anyway.mp3?v=a72698ec"
    },
    "hook": {
     "kind": "split",
@@ -1830,22 +1830,22 @@
     {
      "en": "I like tea. However, I prefer juice.",
      "zh": "我喜欢茶。然而，我更喜欢果汁。",
-     "audio": "media/sent/a3ed1be1c76a.mp3"
+     "audio": "media/sent/a3ed1be1c76a.mp3?v=90b67016"
     },
     {
      "en": "It was cold. However, we played outside.",
      "zh": "天很冷。然而，我们在外面玩了。",
-     "audio": "media/sent/00610aa80f72.mp3"
+     "audio": "media/sent/00610aa80f72.mp3?v=4b7bdd26"
     },
     {
      "en": "He is small. However, he is strong.",
      "zh": "他个子小。然而，他很强壮。",
-     "audio": "media/sent/2434a70d1c97.mp3"
+     "audio": "media/sent/2434a70d1c97.mp3?v=e5c91ef1"
     }
    ],
    "media": {
-    "uk": "media/uk/however.mp3",
-    "us": "media/us/however.mp3"
+    "uk": "media/uk/however.mp3?v=1d942ef8",
+    "us": "media/us/however.mp3?v=31c51540"
    },
    "hook": {
     "kind": "split",
@@ -1886,22 +1886,22 @@
     {
      "en": "Are you alright, Tom?",
      "zh": "Tom，你没事吧？",
-     "audio": "media/sent/843b5cc8638b.mp3"
+     "audio": "media/sent/843b5cc8638b.mp3?v=f3a7e171"
     },
     {
      "en": "It's alright. Don't worry.",
      "zh": "没关系。别担心。",
-     "audio": "media/sent/82bc376d6329.mp3"
+     "audio": "media/sent/82bc376d6329.mp3?v=82109260"
     },
     {
      "en": "The film was alright.",
      "zh": "这部电影还不错。",
-     "audio": "media/sent/365575be252c.mp3"
+     "audio": "media/sent/365575be252c.mp3?v=a220ae5a"
     }
    ],
    "media": {
-    "uk": "media/word/alright.mp3",
-    "us": "media/word/alright.mp3"
+    "uk": "media/word/alright.mp3?v=c970c32f",
+    "us": "media/word/alright.mp3?v=c970c32f"
    },
    "hook": {
     "kind": "contrast",
@@ -1942,22 +1942,22 @@
     {
      "en": "Everything is all right.",
      "zh": "一切都很好。",
-     "audio": "media/sent/ad53021eedf4.mp3"
+     "audio": "media/sent/ad53021eedf4.mp3?v=063d69ef"
     },
     {
      "en": "Is your homework all right?",
      "zh": "你的作业没问题吧？",
-     "audio": "media/sent/656298d33d9b.mp3"
+     "audio": "media/sent/656298d33d9b.mp3?v=e4208306"
     },
     {
      "en": "She is feeling all right now.",
      "zh": "她现在感觉好多了。",
-     "audio": "media/sent/9cfd8ebd8230.mp3"
+     "audio": "media/sent/9cfd8ebd8230.mp3?v=86047c9d"
     }
    ],
    "media": {
-    "uk": "media/word/all-right.mp3",
-    "us": "media/word/all-right.mp3"
+    "uk": "media/word/all-right.mp3?v=aba4b2a1",
+    "us": "media/word/all-right.mp3?v=aba4b2a1"
    },
    "hook": {
     "kind": "split",
@@ -1994,22 +1994,22 @@
     {
      "en": "I don't like rain at all.",
      "zh": "我一点也不喜欢雨。",
-     "audio": "media/sent/f667cc29b35a.mp3"
+     "audio": "media/sent/f667cc29b35a.mp3?v=27c93c92"
     },
     {
      "en": "He doesn't eat vegetables at all.",
      "zh": "他根本不吃蔬菜。",
-     "audio": "media/sent/9828b0051e29.mp3"
+     "audio": "media/sent/9828b0051e29.mp3?v=c6889064"
     },
     {
      "en": "Do you like it at all?",
      "zh": "你有一点喜欢它吗？",
-     "audio": "media/sent/6c5c90067433.mp3"
+     "audio": "media/sent/6c5c90067433.mp3?v=e78aa78b"
     }
    ],
    "media": {
-    "uk": "media/word/at-all.mp3",
-    "us": "media/word/at-all.mp3"
+    "uk": "media/word/at-all.mp3?v=7b797d06",
+    "us": "media/word/at-all.mp3?v=7b797d06"
    },
    "hook": {
     "kind": "split",
@@ -2047,22 +2047,22 @@
     {
      "en": "Luckily, we found the key.",
      "zh": "幸运的是，我们找到了钥匙。",
-     "audio": "media/sent/ec6b8ce0eeec.mp3"
+     "audio": "media/sent/ec6b8ce0eeec.mp3?v=9610cd2d"
     },
     {
      "en": "Luckily, it stopped raining.",
      "zh": "幸好，雨停了。",
-     "audio": "media/sent/66bbeb7df4ec.mp3"
+     "audio": "media/sent/66bbeb7df4ec.mp3?v=d36c24c8"
     },
     {
      "en": "Luckily, Max came home.",
      "zh": "幸好 Max 回家了。",
-     "audio": "media/sent/2a7fb8acd5d8.mp3"
+     "audio": "media/sent/2a7fb8acd5d8.mp3?v=7cdf8516"
     }
    ],
    "media": {
-    "uk": "media/uk/luckily.mp3",
-    "us": "media/us/luckily.mp3"
+    "uk": "media/uk/luckily.mp3?v=3ce4b495",
+    "us": "media/us/luckily.mp3?v=3e6da59b"
    },
    "hook": {
     "kind": "story",
@@ -2102,22 +2102,22 @@
     {
      "en": "Unfortunately, the bus is late.",
      "zh": "不幸的是，公交车迟到了。",
-     "audio": "media/sent/2dcc3534c21a.mp3"
+     "audio": "media/sent/2dcc3534c21a.mp3?v=4aa77070"
     },
     {
      "en": "Unfortunately, it rained all day.",
      "zh": "可惜，下了一整天雨。",
-     "audio": "media/sent/2a82614031d8.mp3"
+     "audio": "media/sent/2a82614031d8.mp3?v=6abc361d"
     },
     {
      "en": "Unfortunately, the shop is closed.",
      "zh": "可惜商店关门了。",
-     "audio": "media/sent/a546dc201fd9.mp3"
+     "audio": "media/sent/a546dc201fd9.mp3?v=a36405bc"
     }
    ],
    "media": {
-    "uk": "media/uk/unfortunately.mp3",
-    "us": "media/us/unfortunately.mp3"
+    "uk": "media/uk/unfortunately.mp3?v=86f8293b",
+    "us": "media/us/unfortunately.mp3?v=6918b6a2"
    },
    "avoid": []
   }

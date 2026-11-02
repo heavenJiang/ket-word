@@ -30,23 +30,23 @@
     {
      "en": "Lily is happy on her birthday.",
      "zh": "Lily 生日那天很高兴。",
-     "audio": "media/sent/d23a8018f576.mp3"
+     "audio": "media/sent/d23a8018f576.mp3?v=63458363"
     },
     {
      "en": "Tom is happy to see Grandma.",
      "zh": "Tom 见到奶奶很高兴。",
-     "audio": "media/sent/c027820ff372.mp3"
+     "audio": "media/sent/c027820ff372.mp3?v=5a77ad23"
     },
     {
      "en": "We are very happy in the garden.",
      "zh": "我们在花园里很开心。",
-     "audio": "media/sent/fd15a8caa1ae.mp3"
+     "audio": "media/sent/fd15a8caa1ae.mp3?v=de814b30"
     }
    ],
    "media": {
-    "img": "media/img/happy.webp",
-    "uk": "media/word/happy.mp3",
-    "us": "media/word/happy.mp3"
+    "img": "media/img/happy.webp?v=3589df21",
+    "uk": "media/word/happy.mp3?v=68401021",
+    "us": "media/word/happy.mp3?v=68401021"
    },
    "hook": {
     "kind": "contrast",
@@ -87,23 +87,23 @@
     {
      "en": "Tom is unhappy about the rain.",
      "zh": "Tom 因为下雨很不开心。",
-     "audio": "media/sent/184fdfb7082d.mp3"
+     "audio": "media/sent/184fdfb7082d.mp3?v=caf6937f"
     },
     {
      "en": "Tom is unhappy when he loses his toy.",
      "zh": "Tom 的玩具不见了，他很不开心。",
-     "audio": "media/sent/4814e6565b9f.mp3"
+     "audio": "media/sent/4814e6565b9f.mp3?v=5edcdb9d"
     },
     {
      "en": "Don't be unhappy. I'll help you.",
      "zh": "别难过，我来帮你。",
-     "audio": "media/sent/ed3ae04c1709.mp3"
+     "audio": "media/sent/ed3ae04c1709.mp3?v=b918d5ef"
     }
    ],
    "media": {
-    "img": "media/img/unhappy.webp",
-    "uk": "media/uk/unhappy.mp3",
-    "us": "media/us/unhappy.mp3"
+    "img": "media/img/unhappy.webp?v=921a9f39",
+    "uk": "media/uk/unhappy.mp3?v=43002a27",
+    "us": "media/us/unhappy.mp3?v=53bcf4ca"
    },
    "hook": {
     "kind": "affix",
@@ -143,23 +143,23 @@
     {
      "en": "Lily is angry with Max.",
      "zh": "Lily 生 Max 的气。",
-     "audio": "media/sent/05cbf5a1fa53.mp3"
+     "audio": "media/sent/05cbf5a1fa53.mp3?v=18619021"
     },
     {
      "en": "Dad is not angry, only tired.",
      "zh": "爸爸没有生气，只是累了。",
-     "audio": "media/sent/b2b85c28d615.mp3"
+     "audio": "media/sent/b2b85c28d615.mp3?v=07d44db2"
     },
     {
      "en": "Don't be angry with your little brother.",
      "zh": "别生你弟弟的气。",
-     "audio": "media/sent/3723a3b07435.mp3"
+     "audio": "media/sent/3723a3b07435.mp3?v=cb5cca79"
     }
    ],
    "media": {
-    "img": "media/img/angry.webp",
-    "uk": "media/uk/angry.mp3",
-    "us": "media/us/angry.mp3"
+    "img": "media/img/angry.webp?v=a6c3fbdf",
+    "uk": "media/uk/angry.mp3?v=a0bbce14",
+    "us": "media/us/angry.mp3?v=5a465626"
    },
    "spell": true,
    "avoid": [
@@ -196,23 +196,23 @@
     {
      "en": "Tom is afraid of the storm.",
      "zh": "Tom 害怕暴风雨。",
-     "audio": "media/sent/57814639909a.mp3"
+     "audio": "media/sent/57814639909a.mp3?v=4b5473eb"
     },
     {
      "en": "Max is afraid of loud noises.",
      "zh": "Max 害怕大声的噪音。",
-     "audio": "media/sent/70cb27ab1bd5.mp3"
+     "audio": "media/sent/70cb27ab1bd5.mp3?v=49a25362"
     },
     {
      "en": "Are you afraid of the dark?",
      "zh": "你怕黑吗？",
-     "audio": "media/sent/7ae031a557a4.mp3"
+     "audio": "media/sent/7ae031a557a4.mp3?v=415239bb"
     }
    ],
    "media": {
-    "img": "media/img/afraid.webp",
-    "uk": "media/uk/afraid.mp3",
-    "us": "media/us/afraid.mp3"
+    "img": "media/img/afraid.webp?v=c44165cb",
+    "uk": "media/uk/afraid.mp3?v=632590dd",
+    "us": "media/us/afraid.mp3?v=75f596f8"
    },
    "spell": true,
    "avoid": [
@@ -250,23 +250,23 @@
     {
      "en": "Tom is brave at the dentist.",
      "zh": "Tom 在牙医那里很勇敢。",
-     "audio": "media/sent/ce5cb5786f87.mp3"
+     "audio": "media/sent/ce5cb5786f87.mp3?v=7ad429e3"
     },
     {
      "en": "Lily is brave in the deep water.",
      "zh": "Lily 在深水里很勇敢。",
-     "audio": "media/sent/29a2c5323a51.mp3"
+     "audio": "media/sent/29a2c5323a51.mp3?v=c4a34fa7"
     },
     {
      "en": "Be brave, Tom. You can do it!",
      "zh": "勇敢点，Tom。你能行！",
-     "audio": "media/sent/a307b21b594f.mp3"
+     "audio": "media/sent/a307b21b594f.mp3?v=02c7eeb8"
     }
    ],
    "media": {
-    "img": "media/img/brave.webp",
-    "uk": "media/uk/brave.mp3",
-    "us": "media/us/brave.mp3"
+    "img": "media/img/brave.webp?v=d61dabcf",
+    "uk": "media/uk/brave.mp3?v=4a7cec91",
+    "us": "media/us/brave.mp3?v=d8ed3191"
    },
    "avoid": [
     "afraid",
@@ -302,23 +302,23 @@
     {
      "en": "Mum is worried about Lily.",
      "zh": "妈妈很担心 Lily。",
-     "audio": "media/sent/c6736d68764d.mp3"
+     "audio": "media/sent/c6736d68764d.mp3?v=92feec46"
     },
     {
      "en": "Grandma is worried when Tom is late.",
      "zh": "Tom 回来晚了，奶奶很担心。",
-     "audio": "media/sent/3de8ccd4ef89.mp3"
+     "audio": "media/sent/3de8ccd4ef89.mp3?v=f2bb2f99"
     },
     {
      "en": "Don't be worried. Lily is safe at Mia's.",
      "zh": "别担心，Lily 在 Mia 家很安全。",
-     "audio": "media/sent/c1482af17653.mp3"
+     "audio": "media/sent/c1482af17653.mp3?v=16b8a728"
     }
    ],
    "media": {
-    "img": "media/img/worried.webp",
-    "uk": "media/uk/worried.mp3",
-    "us": "media/us/worried.mp3"
+    "img": "media/img/worried.webp?v=422e705c",
+    "uk": "media/uk/worried.mp3?v=e2c2f219",
+    "us": "media/us/worried.mp3?v=e2201fb3"
    },
    "avoid": [
     "afraid",
@@ -355,23 +355,23 @@
     {
      "en": "Lily is excited about the trip.",
      "zh": "Lily 对这次出行很兴奋。",
-     "audio": "media/sent/e9abba9de646.mp3"
+     "audio": "media/sent/e9abba9de646.mp3?v=bf054992"
     },
     {
      "en": "Sam is excited about the football match.",
      "zh": "Sam 对那场足球比赛很兴奋。",
-     "audio": "media/sent/ecec63dafdf9.mp3"
+     "audio": "media/sent/ecec63dafdf9.mp3?v=0eb52f63"
     },
     {
      "en": "The class is excited about the school trip.",
      "zh": "全班同学对学校郊游很兴奋。",
-     "audio": "media/sent/ca66c68c4c33.mp3"
+     "audio": "media/sent/ca66c68c4c33.mp3?v=72051f47"
     }
    ],
    "media": {
-    "img": "media/img/excited.webp",
-    "uk": "media/uk/excited.mp3",
-    "us": "media/us/excited.mp3"
+    "img": "media/img/excited.webp?v=6270339e",
+    "uk": "media/uk/excited.mp3?v=7ecc554e",
+    "us": "media/us/excited.mp3?v=b4d230a4"
    },
    "spell": true,
    "hook": {
@@ -411,23 +411,23 @@
     {
      "en": "Tom is bored when it rains.",
      "zh": "Tom 下雨时觉得无聊。",
-     "audio": "media/sent/e4857a54e3b1.mp3"
+     "audio": "media/sent/e4857a54e3b1.mp3?v=f2d3bb54"
     },
     {
      "en": "Tom is bored, so he draws a picture.",
      "zh": "Tom 觉得无聊，就画了一幅画。",
-     "audio": "media/sent/5bc6498475dc.mp3"
+     "audio": "media/sent/5bc6498475dc.mp3?v=657b98d4"
     },
     {
      "en": "Are you bored? Let's play a game!",
      "zh": "你无聊吗？我们玩个游戏吧！",
-     "audio": "media/sent/221ae93080da.mp3"
+     "audio": "media/sent/221ae93080da.mp3?v=92c438fd"
     }
    ],
    "media": {
-    "img": "media/img/bored.webp",
-    "uk": "media/word/bored.mp3",
-    "us": "media/word/bored.mp3"
+    "img": "media/img/bored.webp?v=5cc12638",
+    "uk": "media/word/bored.mp3?v=c95fbf65",
+    "us": "media/word/bored.mp3?v=c95fbf65"
    },
    "hook": {
     "kind": "contrast",
@@ -466,23 +466,23 @@
     {
      "en": "This film is boring.",
      "zh": "这部电影很无聊。",
-     "audio": "media/sent/dc966ffbf657.mp3"
+     "audio": "media/sent/dc966ffbf657.mp3?v=28bd91a3"
     },
     {
      "en": "The long wait is very boring.",
      "zh": "漫长的等待很无聊。",
-     "audio": "media/sent/b25547297152.mp3"
+     "audio": "media/sent/b25547297152.mp3?v=01d222f7"
     },
     {
      "en": "Maths is not boring at our school.",
      "zh": "在我们学校，数学一点也不无聊。",
-     "audio": "media/sent/62215c4b0d50.mp3"
+     "audio": "media/sent/62215c4b0d50.mp3?v=fd21ad05"
     }
    ],
    "media": {
-    "img": "media/img/boring.webp",
-    "uk": "media/uk/boring.mp3",
-    "us": "media/us/boring.mp3"
+    "img": "media/img/boring.webp?v=55ac31df",
+    "uk": "media/uk/boring.mp3?v=2c673a1d",
+    "us": "media/us/boring.mp3?v=2e96fdd7"
    },
    "spell": true,
    "avoid": [
@@ -520,23 +520,23 @@
     {
      "en": "Lily is interested in beetles.",
      "zh": "Lily 对甲虫感兴趣。",
-     "audio": "media/sent/5011ba736bea.mp3"
+     "audio": "media/sent/5011ba736bea.mp3?v=74cba35b"
     },
     {
      "en": "Mia is interested in birds, too.",
      "zh": "Mia 也对鸟感兴趣。",
-     "audio": "media/sent/f020efa51102.mp3"
+     "audio": "media/sent/f020efa51102.mp3?v=b2ba73b5"
     },
     {
      "en": "Tom is interested in every fish in the lake.",
      "zh": "Tom 对湖里的每一条鱼都感兴趣。",
-     "audio": "media/sent/6c71b4e32a0c.mp3"
+     "audio": "media/sent/6c71b4e32a0c.mp3?v=0d43e7e9"
     }
    ],
    "media": {
-    "img": "media/img/interested.webp",
-    "uk": "media/uk/interested.mp3",
-    "us": "media/us/interested.mp3"
+    "img": "media/img/interested.webp?v=a7051ef6",
+    "uk": "media/uk/interested.mp3?v=97e64738",
+    "us": "media/us/interested.mp3?v=ed2d9991"
    },
    "spell": true,
    "hook": {
@@ -578,23 +578,23 @@
     {
      "en": "This book is very interesting.",
      "zh": "这本书非常有趣。",
-     "audio": "media/sent/981c10d8aa20.mp3"
+     "audio": "media/sent/981c10d8aa20.mp3?v=6a6a47c1"
     },
     {
      "en": "Grandpa tells interesting stories.",
      "zh": "爷爷讲有趣的故事。",
-     "audio": "media/sent/27e979f21759.mp3"
+     "audio": "media/sent/27e979f21759.mp3?v=cb70a6ff"
     },
     {
      "en": "Max does interesting things in the park.",
      "zh": "Max 在公园里做有趣的事。",
-     "audio": "media/sent/83f1ac12235d.mp3"
+     "audio": "media/sent/83f1ac12235d.mp3?v=a9171f9d"
     }
    ],
    "media": {
-    "img": "media/img/interesting.webp",
-    "uk": "media/uk/interesting.mp3",
-    "us": "media/us/interesting.mp3"
+    "img": "media/img/interesting.webp?v=b9913722",
+    "uk": "media/uk/interesting.mp3?v=31807a6c",
+    "us": "media/us/interesting.mp3?v=b88667ee"
    },
    "spell": true,
    "hook": {
@@ -633,23 +633,23 @@
     {
      "en": "I'm tired, but I'm happy.",
      "zh": "我累了，但我很开心。",
-     "audio": "media/sent/96476cef3afa.mp3"
+     "audio": "media/sent/96476cef3afa.mp3?v=f576d927"
     },
     {
      "en": "Tom is tired but not unhappy.",
      "zh": "Tom 累了，但并没有不高兴。",
-     "audio": "media/sent/5139af3f64b8.mp3"
+     "audio": "media/sent/5139af3f64b8.mp3?v=8d454431"
     },
     {
      "en": "Are you tired? Sit down with Mum.",
      "zh": "你累了吗？和妈妈坐一会儿吧。",
-     "audio": "media/sent/dc3a97b10fbb.mp3"
+     "audio": "media/sent/dc3a97b10fbb.mp3?v=2e48b7be"
     }
    ],
    "media": {
-    "img": "media/img/tired.webp",
-    "uk": "media/uk/tired.mp3",
-    "us": "media/us/tired.mp3"
+    "img": "media/img/tired.webp?v=9bcbf42f",
+    "uk": "media/uk/tired.mp3?v=02a982bd",
+    "us": "media/us/tired.mp3?v=c75455c6"
    },
    "spell": true,
    "avoid": [
@@ -686,23 +686,23 @@
     {
      "en": "Tom is hungry before dinner.",
      "zh": "晚饭前 Tom 饿了。",
-     "audio": "media/sent/d5798de4375d.mp3"
+     "audio": "media/sent/d5798de4375d.mp3?v=4915e6b8"
     },
     {
      "en": "Lily feels hungry after swimming.",
      "zh": "Lily 游完泳觉得饿。",
-     "audio": "media/sent/d383a4b69e32.mp3"
+     "audio": "media/sent/d383a4b69e32.mp3?v=aa63e2f8"
     },
     {
      "en": "Are you hungry? Have a sandwich.",
      "zh": "你饿了吗？吃个三明治吧。",
-     "audio": "media/sent/3e342131e254.mp3"
+     "audio": "media/sent/3e342131e254.mp3?v=e826066b"
     }
    ],
    "media": {
-    "img": "media/img/hungry.webp",
-    "uk": "media/uk/hungry.mp3",
-    "us": "media/us/hungry.mp3"
+    "img": "media/img/hungry.webp?v=afe9a35c",
+    "uk": "media/uk/hungry.mp3?v=71e5fdd1",
+    "us": "media/us/hungry.mp3?v=15dfddb4"
    },
    "spell": true,
    "avoid": [
@@ -739,23 +739,23 @@
     {
      "en": "Tom says sorry to Lily.",
      "zh": "Tom 向 Lily 说对不起。",
-     "audio": "media/sent/66d2fa9b8d02.mp3"
+     "audio": "media/sent/66d2fa9b8d02.mp3?v=7ae516cf"
     },
     {
      "en": "I'm sorry, Lily. I broke your toy.",
      "zh": "对不起，Lily。我弄坏了你的玩具。",
-     "audio": "media/sent/e4036170a918.mp3"
+     "audio": "media/sent/e4036170a918.mp3?v=0390db41"
     },
     {
      "en": "Dad is sorry: the cake is not ready.",
      "zh": "爸爸很难过：蛋糕还没好。",
-     "audio": "media/sent/c8737d75f6eb.mp3"
+     "audio": "media/sent/c8737d75f6eb.mp3?v=18cb2d6e"
     }
    ],
    "media": {
-    "img": "media/img/sorry.webp",
-    "uk": "media/uk/sorry.mp3",
-    "us": "media/us/sorry.mp3"
+    "img": "media/img/sorry.webp?v=f0b4643b",
+    "uk": "media/uk/sorry.mp3?v=bf6483b2",
+    "us": "media/us/sorry.mp3?v=b27ea45c"
    },
    "spell": true,
    "avoid": [
@@ -792,23 +792,23 @@
     {
      "en": "Tom is lucky today!",
      "zh": "Tom 今天真幸运！",
-     "audio": "media/sent/ea55ec77f719.mp3"
+     "audio": "media/sent/ea55ec77f719.mp3?v=b11cd597"
     },
     {
      "en": "We are lucky: the sun is out.",
      "zh": "我们真幸运：太阳出来了。",
-     "audio": "media/sent/ec8d34054424.mp3"
+     "audio": "media/sent/ec8d34054424.mp3?v=1d108e23"
     },
     {
      "en": "Grandpa feels lucky in his new house.",
      "zh": "爷爷在他的新家里感到很幸运。",
-     "audio": "media/sent/4467c3c8dd9d.mp3"
+     "audio": "media/sent/4467c3c8dd9d.mp3?v=7ad75095"
     }
    ],
    "media": {
-    "img": "media/img/lucky.webp",
-    "uk": "media/uk/lucky.mp3",
-    "us": "media/us/lucky.mp3"
+    "img": "media/img/lucky.webp?v=a2923e95",
+    "uk": "media/uk/lucky.mp3?v=87214d91",
+    "us": "media/us/lucky.mp3?v=e9e9ea5f"
    },
    "spell": true,
    "avoid": [
@@ -845,23 +845,23 @@
     {
      "en": "Mum is busy in the kitchen.",
      "zh": "妈妈在厨房里很忙。",
-     "audio": "media/sent/d0e5561af94f.mp3"
+     "audio": "media/sent/d0e5561af94f.mp3?v=e4341bf5"
     },
     {
      "en": "Dad is busy at work today.",
      "zh": "爸爸今天工作很忙。",
-     "audio": "media/sent/ff6796691d93.mp3"
+     "audio": "media/sent/ff6796691d93.mp3?v=e1bf7cfa"
     },
     {
      "en": "The shop is very busy on Saturday.",
      "zh": "这家商店星期六很忙。",
-     "audio": "media/sent/4fcc941561d7.mp3"
+     "audio": "media/sent/4fcc941561d7.mp3?v=06543243"
     }
    ],
    "media": {
-    "img": "media/img/busy.webp",
-    "uk": "media/uk/busy.mp3",
-    "us": "media/us/busy.mp3"
+    "img": "media/img/busy.webp?v=f6472b01",
+    "uk": "media/uk/busy.mp3?v=c6e0dacc",
+    "us": "media/us/busy.mp3?v=70825f40"
    },
    "spell": true,
    "avoid": [
@@ -898,23 +898,23 @@
     {
      "en": "Be careful with the glass!",
      "zh": "拿杯子要小心！",
-     "audio": "media/sent/fe197a1ba4e4.mp3"
+     "audio": "media/sent/fe197a1ba4e4.mp3?v=95dd369d"
     },
     {
      "en": "Careful, Tom! That water is hot.",
      "zh": "小心，Tom！那水很烫。",
-     "audio": "media/sent/66b3a3b2baa5.mp3"
+     "audio": "media/sent/66b3a3b2baa5.mp3?v=c47614d9"
     },
     {
      "en": "Lily is careful with her little brother.",
      "zh": "Lily 带着小弟弟很小心。",
-     "audio": "media/sent/7fd61e5830f9.mp3"
+     "audio": "media/sent/7fd61e5830f9.mp3?v=5982ba78"
     }
    ],
    "media": {
-    "img": "media/img/careful.webp",
-    "uk": "media/uk/careful.mp3",
-    "us": "media/us/careful.mp3"
+    "img": "media/img/careful.webp?v=e9bceab3",
+    "uk": "media/uk/careful.mp3?v=1e3aabba",
+    "us": "media/us/careful.mp3?v=12cf09b0"
    },
    "hook": {
     "kind": "affix",
@@ -956,23 +956,23 @@
     {
      "en": "Lily reads alone in her room.",
      "zh": "Lily 独自在房间里读书。",
-     "audio": "media/sent/2bc0837bc8d9.mp3"
+     "audio": "media/sent/2bc0837bc8d9.mp3?v=1b4160f3"
     },
     {
      "en": "Tom walks to school alone, and he is happy.",
      "zh": "Tom 独自走路上学，他很开心。",
-     "audio": "media/sent/72c05c7c80eb.mp3"
+     "audio": "media/sent/72c05c7c80eb.mp3?v=e22250b7"
     },
     {
      "en": "Grandma likes to sit alone in the garden.",
      "zh": "奶奶喜欢独自坐在花园里。",
-     "audio": "media/sent/392352c32c55.mp3"
+     "audio": "media/sent/392352c32c55.mp3?v=b7e936a2"
     }
    ],
    "media": {
-    "img": "media/img/alone.webp",
-    "uk": "media/uk/alone.mp3",
-    "us": "media/us/alone.mp3"
+    "img": "media/img/alone.webp?v=c0440949",
+    "uk": "media/uk/alone.mp3?v=fccd6011",
+    "us": "media/us/alone.mp3?v=0bce2311"
    },
    "hook": {
     "kind": "contrast",
@@ -1012,23 +1012,23 @@
     {
      "en": "Tom is able to swim now.",
      "zh": "Tom 现在能游泳了。",
-     "audio": "media/sent/a8645a3901a6.mp3"
+     "audio": "media/sent/a8645a3901a6.mp3?v=0452d09c"
     },
     {
      "en": "Lily is able to read very well.",
      "zh": "Lily 能读得很好。",
-     "audio": "media/sent/0c9e71a22b53.mp3"
+     "audio": "media/sent/0c9e71a22b53.mp3?v=53345d9f"
     },
     {
      "en": "Are you able to ride a bike alone?",
      "zh": "你能独自骑自行车吗？",
-     "audio": "media/sent/bd13b33df830.mp3"
+     "audio": "media/sent/bd13b33df830.mp3?v=0e7ef87d"
     }
    ],
    "media": {
-    "img": "media/img/able.webp",
-    "uk": "media/uk/able.mp3",
-    "us": "media/us/able.mp3"
+    "img": "media/img/able.webp?v=c6f54894",
+    "uk": "media/uk/able.mp3?v=7b405130",
+    "us": "media/us/able.mp3?v=ba6ee825"
    },
    "hook": {
     "kind": "contrast",
@@ -1068,23 +1068,23 @@
     {
      "en": "Lily is ready for school.",
      "zh": "Lily 准备好上学了。",
-     "audio": "media/sent/2cd9073a5afd.mp3"
+     "audio": "media/sent/2cd9073a5afd.mp3?v=7afda0c1"
     },
     {
      "en": "Are you ready? Let's go!",
      "zh": "你准备好了吗？我们走吧！",
-     "audio": "media/sent/eb031d5e2609.mp3"
+     "audio": "media/sent/eb031d5e2609.mp3?v=dafd48ac"
     },
     {
      "en": "Tom puts on his coat. He is ready.",
      "zh": "Tom 穿上外套，他准备好了。",
-     "audio": "media/sent/c338c4dad363.mp3"
+     "audio": "media/sent/c338c4dad363.mp3?v=65031772"
     }
    ],
    "media": {
-    "img": "media/img/ready.webp",
-    "uk": "media/uk/ready.mp3",
-    "us": "media/us/ready.mp3"
+    "img": "media/img/ready.webp?v=df630b54",
+    "uk": "media/uk/ready.mp3?v=8ad05f49",
+    "us": "media/us/ready.mp3?v=430c06c1"
    },
    "spell": true,
    "avoid": [
@@ -1120,23 +1120,23 @@
     {
      "en": "Max is a good dog.",
      "zh": "Max 是一只好狗。",
-     "audio": "media/sent/78b110657dde.mp3"
+     "audio": "media/sent/78b110657dde.mp3?v=8bdac2de"
     },
     {
      "en": "Grandma's soup is very good.",
      "zh": "奶奶的汤很好喝。",
-     "audio": "media/sent/78f9ee144f7c.mp3"
+     "audio": "media/sent/78f9ee144f7c.mp3?v=452794a6"
     },
     {
      "en": "Be good on the bus, Tom!",
      "zh": "坐公交车时要乖哦，Tom！",
-     "audio": "media/sent/cfed80779e86.mp3"
+     "audio": "media/sent/cfed80779e86.mp3?v=fd7d54b6"
     }
    ],
    "media": {
-    "img": "media/img/good.webp",
-    "uk": "media/uk/good.mp3",
-    "us": "media/us/good.mp3"
+    "img": "media/img/good.webp?v=e2c5d9a2",
+    "uk": "media/uk/good.mp3?v=d9d28ca6",
+    "us": "media/us/good.mp3?v=f2f54323"
    },
    "spell": true,
    "avoid": [
@@ -1173,23 +1173,23 @@
     {
      "en": "Max, that is a bad idea!",
      "zh": "Max，那是个坏主意！",
-     "audio": "media/sent/a2adf5c0ea07.mp3"
+     "audio": "media/sent/a2adf5c0ea07.mp3?v=6b3a9f39"
     },
     {
      "en": "What bad weather!",
      "zh": "多糟糕的天气！",
-     "audio": "media/sent/83a7a14d7d96.mp3"
+     "audio": "media/sent/83a7a14d7d96.mp3?v=9498cb79"
     },
     {
      "en": "Don't be bad, Tom! Say sorry.",
      "zh": "Tom，别调皮！说对不起。",
-     "audio": "media/sent/c5297a118f1d.mp3"
+     "audio": "media/sent/c5297a118f1d.mp3?v=730f9c53"
     }
    ],
    "media": {
-    "img": "media/img/bad.webp",
-    "uk": "media/uk/bad.mp3",
-    "us": "media/us/bad.mp3"
+    "img": "media/img/bad.webp?v=3ecb5719",
+    "uk": "media/uk/bad.mp3?v=9b7537b8",
+    "us": "media/us/bad.mp3?v=4675d006"
    },
    "spell": true,
    "avoid": [
@@ -1231,23 +1231,23 @@
     {
      "en": "Tom feels better today.",
      "zh": "Tom 今天感觉好些了。",
-     "audio": "media/sent/22ab075a7937.mp3"
+     "audio": "media/sent/22ab075a7937.mp3?v=7159c941"
     },
     {
      "en": "Mum is better after her rest.",
      "zh": "妈妈休息以后好多了。",
-     "audio": "media/sent/cb78496b7875.mp3"
+     "audio": "media/sent/cb78496b7875.mp3?v=d37f9a5a"
     },
     {
      "en": "Tom runs better now.",
      "zh": "Tom 现在跑得好多了。",
-     "audio": "media/sent/5ac31d03f54d.mp3"
+     "audio": "media/sent/5ac31d03f54d.mp3?v=3b786a61"
     }
    ],
    "media": {
-    "img": "media/img/better.webp",
-    "uk": "media/uk/better.mp3",
-    "us": "media/us/better.mp3"
+    "img": "media/img/better.webp?v=9113314c",
+    "uk": "media/uk/better.mp3?v=999f808f",
+    "us": "media/us/better.mp3?v=79f85d00"
    },
    "spell": true,
    "avoid": [
@@ -1284,23 +1284,23 @@
     {
      "en": "I'm fine, thanks.",
      "zh": "我很好，谢谢。",
-     "audio": "media/sent/02e09f6c3912.mp3"
+     "audio": "media/sent/02e09f6c3912.mp3?v=c857e67d"
     },
     {
      "en": "It's fine today, so we can play in the park.",
      "zh": "今天天气晴朗，我们可以去公园玩。",
-     "audio": "media/sent/e9daf830672c.mp3"
+     "audio": "media/sent/e9daf830672c.mp3?v=eba47ced"
     },
     {
      "en": "Are you fine, Tom?",
      "zh": "Tom，你没事吧？",
-     "audio": "media/sent/cd15b07f8ad2.mp3"
+     "audio": "media/sent/cd15b07f8ad2.mp3?v=24bb7313"
     }
    ],
    "media": {
-    "img": "media/img/fine.webp",
-    "uk": "media/uk/fine.mp3",
-    "us": "media/us/fine.mp3"
+    "img": "media/img/fine.webp?v=86fb6ab0",
+    "uk": "media/uk/fine.mp3?v=b752c3fb",
+    "us": "media/us/fine.mp3?v=82fc8487"
    },
    "spell": true,
    "avoid": [
@@ -1337,23 +1337,23 @@
     {
      "en": "This game is great!",
      "zh": "这个游戏太棒了！",
-     "audio": "media/sent/6145c732e698.mp3"
+     "audio": "media/sent/6145c732e698.mp3?v=bd3b723f"
     },
     {
      "en": "Grandpa tells great stories.",
      "zh": "爷爷讲的故事很棒。",
-     "audio": "media/sent/5c774129abd1.mp3"
+     "audio": "media/sent/5c774129abd1.mp3?v=83dce9f3"
     },
     {
      "en": "It's a great day for football.",
      "zh": "今天是踢球的好日子。",
-     "audio": "media/sent/29e9c4b08510.mp3"
+     "audio": "media/sent/29e9c4b08510.mp3?v=c6d1149b"
     }
    ],
    "media": {
-    "img": "media/img/great.webp",
-    "uk": "media/uk/great.mp3",
-    "us": "media/us/great.mp3"
+    "img": "media/img/great.webp?v=9571d849",
+    "uk": "media/uk/great.mp3?v=3933c185",
+    "us": "media/us/great.mp3?v=3030ed9f"
    },
    "spell": true,
    "avoid": [
@@ -1390,23 +1390,23 @@
     {
      "en": "It's nice to see you, Mia!",
      "zh": "Mia，见到你真好！",
-     "audio": "media/sent/3fc70460cdf7.mp3"
+     "audio": "media/sent/3fc70460cdf7.mp3?v=4c619017"
     },
     {
      "en": "Tom has a nice new bike.",
      "zh": "Tom 有一辆很棒的新自行车。",
-     "audio": "media/sent/cb4787c683b2.mp3"
+     "audio": "media/sent/cb4787c683b2.mp3?v=974f7494"
     },
     {
      "en": "Grandma's garden is a nice place.",
      "zh": "奶奶的花园是个让人愉快的地方。",
-     "audio": "media/sent/887a040a5149.mp3"
+     "audio": "media/sent/887a040a5149.mp3?v=33f5e429"
     }
    ],
    "media": {
-    "img": "media/img/nice.webp",
-    "uk": "media/uk/nice.mp3",
-    "us": "media/us/nice.mp3"
+    "img": "media/img/nice.webp?v=e016b731",
+    "uk": "media/uk/nice.mp3?v=9eb8a4c0",
+    "us": "media/us/nice.mp3?v=83898400"
    },
    "spell": true,
    "avoid": [
@@ -1444,23 +1444,23 @@
     {
      "en": "Grandma's flowers are lovely.",
      "zh": "奶奶的花真好看。",
-     "audio": "media/sent/01df4b0438c1.mp3"
+     "audio": "media/sent/01df4b0438c1.mp3?v=59510401"
     },
     {
      "en": "What a lovely day!",
      "zh": "多美好的一天！",
-     "audio": "media/sent/5a7a5de22f4a.mp3"
+     "audio": "media/sent/5a7a5de22f4a.mp3?v=b94088f9"
     },
     {
      "en": "Mia's jumper is lovely.",
      "zh": "Mia 的毛衣真好看。",
-     "audio": "media/sent/06fb81d3d6f9.mp3"
+     "audio": "media/sent/06fb81d3d6f9.mp3?v=8ea99c3f"
     }
    ],
    "media": {
-    "img": "media/img/lovely.webp",
-    "uk": "media/uk/lovely.mp3",
-    "us": "media/us/lovely.mp3"
+    "img": "media/img/lovely.webp?v=a4d4c949",
+    "uk": "media/uk/lovely.mp3?v=c49ff7b3",
+    "us": "media/us/lovely.mp3?v=85bc46d9"
    },
    "hook": {
     "kind": "affix",
@@ -1503,23 +1503,23 @@
     {
      "en": "It's pleasant in the park.",
      "zh": "公园里真让人愉快。",
-     "audio": "media/sent/f547b321d01f.mp3"
+     "audio": "media/sent/f547b321d01f.mp3?v=0583bee3"
     },
     {
      "en": "We had a pleasant walk by the lake.",
      "zh": "我们沿着湖边走了一段，很愉快。",
-     "audio": "media/sent/50faec9b5e42.mp3"
+     "audio": "media/sent/50faec9b5e42.mp3?v=043bc72d"
     },
     {
      "en": "Grandma tells us pleasant stories.",
      "zh": "奶奶给我们讲令人愉快的故事。",
-     "audio": "media/sent/92eec364fb52.mp3"
+     "audio": "media/sent/92eec364fb52.mp3?v=2c5f5632"
     }
    ],
    "media": {
-    "img": "media/img/pleasant.webp",
-    "uk": "media/uk/pleasant.mp3",
-    "us": "media/us/pleasant.mp3"
+    "img": "media/img/pleasant.webp?v=dd9d83d1",
+    "uk": "media/uk/pleasant.mp3?v=b9a8a15a",
+    "us": "media/us/pleasant.mp3?v=90bb3084"
    },
    "hook": {
     "kind": "contrast",
@@ -1561,23 +1561,23 @@
     {
      "en": "This film is amazing!",
      "zh": "这部电影棒极了！",
-     "audio": "media/sent/c9b2808a3a0d.mp3"
+     "audio": "media/sent/c9b2808a3a0d.mp3?v=f05d245a"
     },
     {
      "en": "Lily's painting is amazing!",
      "zh": "Lily 的画真了不起！",
-     "audio": "media/sent/af41a893094c.mp3"
+     "audio": "media/sent/af41a893094c.mp3?v=9e07a4c4"
     },
     {
      "en": "Look at that amazing picture!",
      "zh": "看那张令人惊奇的图片！",
-     "audio": "media/sent/92fab4d4e452.mp3"
+     "audio": "media/sent/92fab4d4e452.mp3?v=c507ab8c"
     }
    ],
    "media": {
-    "img": "media/img/amazing.webp",
-    "uk": "media/uk/amazing.mp3",
-    "us": "media/us/amazing.mp3"
+    "img": "media/img/amazing.webp?v=22a3e8ee",
+    "uk": "media/uk/amazing.mp3?v=faa8df39",
+    "us": "media/us/amazing.mp3?v=c373879e"
    },
    "avoid": [
     "brilliant",
@@ -1614,23 +1614,23 @@
     {
      "en": "What a brilliant goal, Tom!",
      "zh": "Tom，多精彩的进球啊！",
-     "audio": "media/sent/2547a9e73246.mp3"
+     "audio": "media/sent/2547a9e73246.mp3?v=1b4d5290"
     },
     {
      "en": "Max has a brilliant idea!",
      "zh": "Max 想出了一个绝妙的主意！",
-     "audio": "media/sent/3617eb33cb8b.mp3"
+     "audio": "media/sent/3617eb33cb8b.mp3?v=d94ddc1b"
     },
     {
      "en": "Our project is brilliant.",
      "zh": "我们的项目棒极了。",
-     "audio": "media/sent/243cc269218e.mp3"
+     "audio": "media/sent/243cc269218e.mp3?v=34a03ad9"
     }
    ],
    "media": {
-    "img": "media/img/brilliant.webp",
-    "uk": "media/uk/brilliant.mp3",
-    "us": "media/us/brilliant.mp3"
+    "img": "media/img/brilliant.webp?v=35d4b712",
+    "uk": "media/uk/brilliant.mp3?v=b6a21349",
+    "us": "media/us/brilliant.mp3?v=7924fb50"
    },
    "avoid": [
     "amazing",
@@ -1668,23 +1668,23 @@
     {
      "en": "Lily's work is excellent.",
      "zh": "Lily 的作业非常棒。",
-     "audio": "media/sent/37940bf5e1aa.mp3"
+     "audio": "media/sent/37940bf5e1aa.mp3?v=d2e40637"
     },
     {
      "en": "Excellent work, Lily!",
      "zh": "Lily，你做得真好！",
-     "audio": "media/sent/11bb9271ab1d.mp3"
+     "audio": "media/sent/11bb9271ab1d.mp3?v=bc96282e"
     },
     {
      "en": "Tom is excellent at football.",
      "zh": "Tom 足球踢得特别棒。",
-     "audio": "media/sent/f152a64e02f3.mp3"
+     "audio": "media/sent/f152a64e02f3.mp3?v=9c19fb67"
     }
    ],
    "media": {
-    "img": "media/img/excellent.webp",
-    "uk": "media/uk/excellent.mp3",
-    "us": "media/us/excellent.mp3"
+    "img": "media/img/excellent.webp?v=545b9168",
+    "uk": "media/uk/excellent.mp3?v=627b57f7",
+    "us": "media/us/excellent.mp3?v=1aca0c5e"
    },
    "avoid": [
     "amazing",
@@ -1727,23 +1727,23 @@
     {
      "en": "It's cool in the autumn.",
      "zh": "秋天很凉爽。",
-     "audio": "media/sent/772cf9a806d1.mp3"
+     "audio": "media/sent/772cf9a806d1.mp3?v=2a61420c"
     },
     {
      "en": "That's a cool skateboard!",
      "zh": "那滑板真酷！",
-     "audio": "media/sent/d9544561a007.mp3"
+     "audio": "media/sent/d9544561a007.mp3?v=66cc4470"
     },
     {
      "en": "Cool! I like your sunglasses.",
      "zh": "真酷！我喜欢你的太阳镜。",
-     "audio": "media/sent/349d51fd7273.mp3"
+     "audio": "media/sent/349d51fd7273.mp3?v=1369d88b"
     }
    ],
    "media": {
-    "img": "media/img/cool.webp",
-    "uk": "media/uk/cool.mp3",
-    "us": "media/us/cool.mp3"
+    "img": "media/img/cool.webp?v=9df7c128",
+    "uk": "media/uk/cool.mp3?v=71e2f69e",
+    "us": "media/us/cool.mp3?v=899384e3"
    },
    "spell": true,
    "avoid": [
@@ -1782,23 +1782,23 @@
     {
      "en": "The storm is terrible tonight.",
      "zh": "今晚的暴风雨真可怕。",
-     "audio": "media/sent/ba689c9ca3b9.mp3"
+     "audio": "media/sent/ba689c9ca3b9.mp3?v=667ac7bf"
     },
     {
      "en": "The traffic is terrible today.",
      "zh": "今天交通糟透了。",
-     "audio": "media/sent/92d51039521f.mp3"
+     "audio": "media/sent/92d51039521f.mp3?v=abc7f7c1"
     },
     {
      "en": "What terrible weather!",
      "zh": "天气真糟糕！",
-     "audio": "media/sent/bb8a301a076f.mp3"
+     "audio": "media/sent/bb8a301a076f.mp3?v=964834dd"
     }
    ],
    "media": {
-    "img": "media/img/terrible.webp",
-    "uk": "media/uk/terrible.mp3",
-    "us": "media/us/terrible.mp3"
+    "img": "media/img/terrible.webp?v=0a9bf9ae",
+    "uk": "media/uk/terrible.mp3?v=d9d99dcd",
+    "us": "media/us/terrible.mp3?v=9a881b47"
    },
    "spell": true,
    "hook": {
@@ -1840,23 +1840,23 @@
     {
      "en": "Green is my favourite colour.",
      "zh": "绿色是我最喜欢的颜色。",
-     "audio": "media/sent/080c26f20efd.mp3"
+     "audio": "media/sent/080c26f20efd.mp3?v=7d569cbd"
     },
     {
      "en": "What's your favourite food?",
      "zh": "你最喜欢的食物是什么？",
-     "audio": "media/sent/6871d2ce7421.mp3"
+     "audio": "media/sent/6871d2ce7421.mp3?v=8027abd7"
     },
     {
      "en": "This is my favourite book.",
      "zh": "这是我最喜欢的书。",
-     "audio": "media/sent/f85f10b6a233.mp3"
+     "audio": "media/sent/f85f10b6a233.mp3?v=6a796722"
     }
    ],
    "media": {
-    "img": "media/img/favourite.webp",
-    "uk": "media/uk/favourite.mp3",
-    "us": "media/us/favourite.mp3"
+    "img": "media/img/favourite.webp?v=63938015",
+    "uk": "media/uk/favourite.mp3?v=5b35fc27",
+    "us": "media/us/favourite.mp3?v=ddbfbaa8"
    },
    "spell": true,
    "hook": {
@@ -1897,23 +1897,23 @@
     {
      "en": "Today is a special day!",
      "zh": "今天是特别的一天！",
-     "audio": "media/sent/3e871cf5d6d1.mp3"
+     "audio": "media/sent/3e871cf5d6d1.mp3?v=de522c27"
     },
     {
      "en": "It's a special birthday present.",
      "zh": "这是一份特别的生日礼物。",
-     "audio": "media/sent/0b62dc34ad67.mp3"
+     "audio": "media/sent/0b62dc34ad67.mp3?v=be16328f"
     },
     {
      "en": "Lily's red coat is special to her.",
      "zh": "Lily 的红外套对她来说很特别。",
-     "audio": "media/sent/0395b2091c5c.mp3"
+     "audio": "media/sent/0395b2091c5c.mp3?v=92ee1235"
     }
    ],
    "media": {
-    "img": "media/img/special.webp",
-    "uk": "media/uk/special.mp3",
-    "us": "media/us/special.mp3"
+    "img": "media/img/special.webp?v=115b18af",
+    "uk": "media/uk/special.mp3?v=e9634390",
+    "us": "media/us/special.mp3?v=3d745d92"
    },
    "spell": true,
    "avoid": [
@@ -1949,23 +1949,23 @@
     {
      "en": "That cloud looks strange.",
      "zh": "那朵云看起来真奇怪。",
-     "audio": "media/sent/8ac3fdde173f.mp3"
+     "audio": "media/sent/8ac3fdde173f.mp3?v=da875c38"
     },
     {
      "en": "Tom sees a strange bird in the garden.",
      "zh": "Tom 在花园里看见一只奇怪的鸟。",
-     "audio": "media/sent/0f1d3f0d7e47.mp3"
+     "audio": "media/sent/0f1d3f0d7e47.mp3?v=1cd097fd"
     },
     {
      "en": "Max hears a strange noise at night.",
      "zh": "Max 晚上听到一个奇怪的声音。",
-     "audio": "media/sent/c730026593e4.mp3"
+     "audio": "media/sent/c730026593e4.mp3?v=4b1b9af2"
     }
    ],
    "media": {
-    "img": "media/img/strange.webp",
-    "uk": "media/uk/strange.mp3",
-    "us": "media/us/strange.mp3"
+    "img": "media/img/strange.webp?v=07d6bc67",
+    "uk": "media/uk/strange.mp3?v=2a36d035",
+    "us": "media/us/strange.mp3?v=99acd262"
    },
    "hook": {
     "kind": "contrast",
@@ -2005,23 +2005,23 @@
     {
      "en": "Tom makes a funny face.",
      "zh": "Tom 做了个搞笑的鬼脸。",
-     "audio": "media/sent/49dc11429634.mp3"
+     "audio": "media/sent/49dc11429634.mp3?v=d7a9ac0a"
     },
     {
      "en": "This film is very funny.",
      "zh": "这部电影真好笑。",
-     "audio": "media/sent/e75ec6e6a4d5.mp3"
+     "audio": "media/sent/e75ec6e6a4d5.mp3?v=7b23c82c"
     },
     {
      "en": "Grandpa's hat looks funny.",
      "zh": "爷爷的帽子看起来很有趣。",
-     "audio": "media/sent/b269d21fe4de.mp3"
+     "audio": "media/sent/b269d21fe4de.mp3?v=788a3aa8"
     }
    ],
    "media": {
-    "img": "media/img/funny.webp",
-    "uk": "media/uk/funny.mp3",
-    "us": "media/us/funny.mp3"
+    "img": "media/img/funny.webp?v=bd731959",
+    "uk": "media/uk/funny.mp3?v=d0e4147e",
+    "us": "media/us/funny.mp3?v=f7c8b124"
    },
    "spell": true,
    "avoid": [
@@ -2066,23 +2066,23 @@
     {
      "en": "Lily is kind to Tom.",
      "zh": "Lily 对 Tom 很善良。",
-     "audio": "media/sent/1fc24c588c92.mp3"
+     "audio": "media/sent/1fc24c588c92.mp3?v=bbdf4d72"
     },
     {
      "en": "That woman is very kind.",
      "zh": "那位女士非常善良。",
-     "audio": "media/sent/3c987bef471c.mp3"
+     "audio": "media/sent/3c987bef471c.mp3?v=4f1af847"
     },
     {
      "en": "What kind of music do you like?",
      "zh": "你喜欢哪种音乐？",
-     "audio": "media/sent/17b7d7744e3f.mp3"
+     "audio": "media/sent/17b7d7744e3f.mp3?v=5c286be9"
     }
    ],
    "media": {
-    "img": "media/img/kind.webp",
-    "uk": "media/uk/kind.mp3",
-    "us": "media/us/kind.mp3"
+    "img": "media/img/kind.webp?v=297769eb",
+    "uk": "media/uk/kind.mp3?v=5ba387e3",
+    "us": "media/us/kind.mp3?v=79e055f8"
    },
    "spell": true,
    "avoid": [
@@ -2120,23 +2120,23 @@
     {
      "en": "Lily is friendly to everyone.",
      "zh": "Lily 对每个人都很友好。",
-     "audio": "media/sent/873b11a4ca1c.mp3"
+     "audio": "media/sent/873b11a4ca1c.mp3?v=19848fa0"
     },
     {
      "en": "Max is friendly to every dog.",
      "zh": "Max 对每只狗都很友善。",
-     "audio": "media/sent/391ccb7ba7cb.mp3"
+     "audio": "media/sent/391ccb7ba7cb.mp3?v=baf236ee"
     },
     {
      "en": "Tom is friendly at the new school.",
      "zh": "Tom 在新学校很友善。",
-     "audio": "media/sent/4fdcd909f17b.mp3"
+     "audio": "media/sent/4fdcd909f17b.mp3?v=9d7155c9"
     }
    ],
    "media": {
-    "img": "media/img/friendly.webp",
-    "uk": "media/uk/friendly.mp3",
-    "us": "media/us/friendly.mp3"
+    "img": "media/img/friendly.webp?v=621ce9cb",
+    "uk": "media/uk/friendly.mp3?v=3b1aab3e",
+    "us": "media/us/friendly.mp3?v=58f5e183"
    },
    "spell": true,
    "hook": {
@@ -2178,23 +2178,23 @@
     {
      "en": "Max is a clever dog.",
      "zh": "Max 是一只聪明的狗。",
-     "audio": "media/sent/87ff248c688f.mp3"
+     "audio": "media/sent/87ff248c688f.mp3?v=6ec743e4"
     },
     {
      "en": "Lily is clever with puzzles.",
      "zh": "Lily 很会拼图。",
-     "audio": "media/sent/b41eb7054c3f.mp3"
+     "audio": "media/sent/b41eb7054c3f.mp3?v=1a2e12ef"
     },
     {
      "en": "Tom has a clever answer.",
      "zh": "Tom 有一个聪明的回答。",
-     "audio": "media/sent/9889a92103b0.mp3"
+     "audio": "media/sent/9889a92103b0.mp3?v=1792ded4"
     }
    ],
    "media": {
-    "img": "media/img/clever.webp",
-    "uk": "media/uk/clever.mp3",
-    "us": "media/us/clever.mp3"
+    "img": "media/img/clever.webp?v=1ef28183",
+    "uk": "media/uk/clever.mp3?v=54be8cd4",
+    "us": "media/us/clever.mp3?v=998aac66"
    },
    "avoid": [
     "friendly",
@@ -2230,23 +2230,23 @@
     {
      "en": "That dog is very big.",
      "zh": "那只狗非常大。",
-     "audio": "media/sent/88999f9d9fc0.mp3"
+     "audio": "media/sent/88999f9d9fc0.mp3?v=1f098cd3"
     },
     {
      "en": "Max is a big dog now.",
      "zh": "Max 现在是一只大狗了。",
-     "audio": "media/sent/7966012b291e.mp3"
+     "audio": "media/sent/7966012b291e.mp3?v=ad1f621b"
     },
     {
      "en": "This box is too big for the car.",
      "zh": "这个箱子太大，装不进汽车。",
-     "audio": "media/sent/bc8415fdd299.mp3"
+     "audio": "media/sent/bc8415fdd299.mp3?v=d80f89d3"
     }
    ],
    "media": {
-    "img": "media/img/big.webp",
-    "uk": "media/uk/big.mp3",
-    "us": "media/us/big.mp3"
+    "img": "media/img/big.webp?v=584dea92",
+    "uk": "media/uk/big.mp3?v=12d3d565",
+    "us": "media/us/big.mp3?v=062c3341"
    },
    "spell": true,
    "avoid": [
@@ -2283,23 +2283,23 @@
     {
      "en": "This kitten is very small.",
      "zh": "这只小猫非常小。",
-     "audio": "media/sent/8a0f9c7c93b7.mp3"
+     "audio": "media/sent/8a0f9c7c93b7.mp3?v=8cdd11b2"
     },
     {
      "en": "Max's bed is too small for him.",
      "zh": "Max 的床对他来说太小了。",
-     "audio": "media/sent/4c38e1779613.mp3"
+     "audio": "media/sent/4c38e1779613.mp3?v=2dcd8933"
     },
     {
      "en": "These shoes are small, and Tom can't wear them.",
      "zh": "这双鞋很小，Tom 穿不了。",
-     "audio": "media/sent/86b763ccc61b.mp3"
+     "audio": "media/sent/86b763ccc61b.mp3?v=2e32eb6b"
     }
    ],
    "media": {
-    "img": "media/img/small.webp",
-    "uk": "media/uk/small.mp3",
-    "us": "media/us/small.mp3"
+    "img": "media/img/small.webp?v=b343e8ff",
+    "uk": "media/uk/small.mp3?v=43fa5e9b",
+    "us": "media/us/small.mp3?v=3d485108"
    },
    "spell": true,
    "avoid": [
@@ -2336,23 +2336,23 @@
     {
      "en": "Dad is very tall.",
      "zh": "爸爸很高。",
-     "audio": "media/sent/8130180293e5.mp3"
+     "audio": "media/sent/8130180293e5.mp3?v=57aca7e2"
     },
     {
      "en": "A tall tree is next to our house.",
      "zh": "我们家旁边有一棵高高的树。",
-     "audio": "media/sent/16a1f1950ac4.mp3"
+     "audio": "media/sent/16a1f1950ac4.mp3?v=d3f845b0"
     },
     {
      "en": "Tom wants to be tall like Dad.",
      "zh": "Tom 想像爸爸一样高。",
-     "audio": "media/sent/0e8da35efe57.mp3"
+     "audio": "media/sent/0e8da35efe57.mp3?v=f542b5ca"
     }
    ],
    "media": {
-    "img": "media/img/tall.webp",
-    "uk": "media/uk/tall.mp3",
-    "us": "media/us/tall.mp3"
+    "img": "media/img/tall.webp?v=e8a80d99",
+    "uk": "media/uk/tall.mp3?v=a7002b5e",
+    "us": "media/us/tall.mp3?v=b868204f"
    },
    "spell": true,
    "avoid": [
@@ -2389,23 +2389,23 @@
     {
      "en": "The kite flies very high.",
      "zh": "风筝飞得很高。",
-     "audio": "media/sent/70f597aa339f.mp3"
+     "audio": "media/sent/70f597aa339f.mp3?v=aae7d3d0"
     },
     {
      "en": "That mountain is very high.",
      "zh": "那座山很高。",
-     "audio": "media/sent/dd9474d1f534.mp3"
+     "audio": "media/sent/dd9474d1f534.mp3?v=ade841df"
     },
     {
      "en": "Lily puts the cup on a high shelf.",
      "zh": "Lily 把杯子放到很高的架子上。",
-     "audio": "media/sent/19bdf17986f2.mp3"
+     "audio": "media/sent/19bdf17986f2.mp3?v=df85af5f"
     }
    ],
    "media": {
-    "img": "media/img/high.webp",
-    "uk": "media/uk/high.mp3",
-    "us": "media/us/high.mp3"
+    "img": "media/img/high.webp?v=8ac4eaec",
+    "uk": "media/uk/high.mp3?v=89d5d239",
+    "us": "media/us/high.mp3?v=72c2f790"
    },
    "spell": true,
    "avoid": [
@@ -2443,23 +2443,23 @@
     {
      "en": "This box is very heavy.",
      "zh": "这个箱子非常重。",
-     "audio": "media/sent/77174ac6cc39.mp3"
+     "audio": "media/sent/77174ac6cc39.mp3?v=1e511e7b"
     },
     {
      "en": "Sam's school bag is heavy every day.",
      "zh": "Sam 的书包每天都很重。",
-     "audio": "media/sent/5d7a81377631.mp3"
+     "audio": "media/sent/5d7a81377631.mp3?v=c13e9c20"
     },
     {
      "en": "This bag is too heavy for Mum.",
      "zh": "这个袋子太重了，妈妈提不动。",
-     "audio": "media/sent/327ac3477436.mp3"
+     "audio": "media/sent/327ac3477436.mp3?v=411579b2"
     }
    ],
    "media": {
-    "img": "media/img/heavy.webp",
-    "uk": "media/uk/heavy.mp3",
-    "us": "media/us/heavy.mp3"
+    "img": "media/img/heavy.webp?v=7a279873",
+    "uk": "media/uk/heavy.mp3?v=eb29793f",
+    "us": "media/us/heavy.mp3?v=5f98e4ed"
    },
    "avoid": [
     "hard",
@@ -2495,23 +2495,23 @@
     {
      "en": "This pillow is very soft.",
      "zh": "这个枕头非常软。",
-     "audio": "media/sent/2033f9525f3c.mp3"
+     "audio": "media/sent/2033f9525f3c.mp3?v=2bb6246b"
     },
     {
      "en": "Max's fur is soft.",
      "zh": "Max 的毛很软。",
-     "audio": "media/sent/293ffbc291e8.mp3"
+     "audio": "media/sent/293ffbc291e8.mp3?v=19ba26b8"
     },
     {
      "en": "Grandma makes a soft blanket for Tom.",
      "zh": "奶奶给 Tom 织了一条柔软的毯子。",
-     "audio": "media/sent/1a01b2953e65.mp3"
+     "audio": "media/sent/1a01b2953e65.mp3?v=231363df"
     }
    ],
    "media": {
-    "img": "media/img/soft.webp",
-    "uk": "media/uk/soft.mp3",
-    "us": "media/us/soft.mp3"
+    "img": "media/img/soft.webp?v=b5dea41d",
+    "uk": "media/uk/soft.mp3?v=e82b3e2a",
+    "us": "media/us/soft.mp3?v=f887ba98"
    },
    "avoid": [
     "hard",
@@ -2554,23 +2554,23 @@
     {
      "en": "This bread is very hard.",
      "zh": "这个面包很硬。",
-     "audio": "media/sent/5c6a0008f6cf.mp3"
+     "audio": "media/sent/5c6a0008f6cf.mp3?v=7a0c3089"
     },
     {
      "en": "This question is hard for Tom.",
      "zh": "这个问题对 Tom 来说很难。",
-     "audio": "media/sent/3490e1d78c87.mp3"
+     "audio": "media/sent/3490e1d78c87.mp3?v=a6d8483f"
     },
     {
      "en": "Lily works hard at school.",
      "zh": "Lily 在学校学习很努力。",
-     "audio": "media/sent/0db324d9aee2.mp3"
+     "audio": "media/sent/0db324d9aee2.mp3?v=c0d4bd76"
     }
    ],
    "media": {
-    "img": "media/img/hard.webp",
-    "uk": "media/uk/hard.mp3",
-    "us": "media/us/hard.mp3"
+    "img": "media/img/hard.webp?v=9bf5d67a",
+    "uk": "media/uk/hard.mp3?v=10838882",
+    "us": "media/us/hard.mp3?v=9bff4568"
    },
    "spell": true,
    "avoid": [
@@ -2615,23 +2615,23 @@
     {
      "en": "That train is very fast.",
      "zh": "那列火车非常快。",
-     "audio": "media/sent/7215214ed1ee.mp3"
+     "audio": "media/sent/7215214ed1ee.mp3?v=2dde639b"
     },
     {
      "en": "Max runs fast in the garden.",
      "zh": "Max 在花园里跑得很快。",
-     "audio": "media/sent/379defc490b2.mp3"
+     "audio": "media/sent/379defc490b2.mp3?v=05f1fc80"
     },
     {
      "en": "Tom swims fast now.",
      "zh": "Tom 现在游泳很快。",
-     "audio": "media/sent/8716a33432a4.mp3"
+     "audio": "media/sent/8716a33432a4.mp3?v=4caf5a7d"
     }
    ],
    "media": {
-    "img": "media/img/fast.webp",
-    "uk": "media/uk/fast.mp3",
-    "us": "media/us/fast.mp3"
+    "img": "media/img/fast.webp?v=85d7bcdb",
+    "uk": "media/uk/fast.mp3?v=334e647f",
+    "us": "media/us/fast.mp3?v=295647a5"
    },
    "spell": true,
    "avoid": [
@@ -2667,23 +2667,23 @@
     {
      "en": "Be quick, Tom! The bus is coming.",
      "zh": "快点，Tom！公交车来了。",
-     "audio": "media/sent/57d4bdea28f7.mp3"
+     "audio": "media/sent/57d4bdea28f7.mp3?v=fe83991a"
     },
     {
      "en": "We had a quick game in the park.",
      "zh": "我们在公园里快速玩了一场。",
-     "audio": "media/sent/d15e8d8f5ee4.mp3"
+     "audio": "media/sent/d15e8d8f5ee4.mp3?v=e57462d2"
     },
     {
      "en": "Mum asks for a quick answer.",
      "zh": "妈妈想要一个快速的回答。",
-     "audio": "media/sent/2cdfe0453ce9.mp3"
+     "audio": "media/sent/2cdfe0453ce9.mp3?v=8eb99cc5"
     }
    ],
    "media": {
-    "img": "media/img/quick.webp",
-    "uk": "media/uk/quick.mp3",
-    "us": "media/us/quick.mp3"
+    "img": "media/img/quick.webp?v=2cd70796",
+    "uk": "media/uk/quick.mp3?v=dab3e1ee",
+    "us": "media/us/quick.mp3?v=a01eee90"
    },
    "spell": true,
    "avoid": [
@@ -2719,23 +2719,23 @@
     {
      "en": "The snail is very slow.",
      "zh": "这只蜗牛很慢。",
-     "audio": "media/sent/6a68f79c5646.mp3"
+     "audio": "media/sent/6a68f79c5646.mp3?v=e078cb3a"
     },
     {
      "en": "Tom is slow, but he tries hard.",
      "zh": "Tom 动作慢，但他很努力。",
-     "audio": "media/sent/000a2507f7fe.mp3"
+     "audio": "media/sent/000a2507f7fe.mp3?v=d089c953"
     },
     {
      "en": "Grandpa's bike is too slow.",
      "zh": "爷爷的自行车太慢了。",
-     "audio": "media/sent/f7e84bbca221.mp3"
+     "audio": "media/sent/f7e84bbca221.mp3?v=5c516704"
     }
    ],
    "media": {
-    "img": "media/img/slow.webp",
-    "uk": "media/uk/slow.mp3",
-    "us": "media/us/slow.mp3"
+    "img": "media/img/slow.webp?v=ac46044f",
+    "uk": "media/uk/slow.mp3?v=072f8cf7",
+    "us": "media/us/slow.mp3?v=0617dd58"
    },
    "spell": true,
    "avoid": [
@@ -2772,23 +2772,23 @@
     {
      "en": "Tom's drum is very noisy.",
      "zh": "Tom 的鼓非常吵。",
-     "audio": "media/sent/ab309df23565.mp3"
+     "audio": "media/sent/ab309df23565.mp3?v=16816909"
     },
     {
      "en": "The class is noisy today.",
      "zh": "今天班上很吵。",
-     "audio": "media/sent/7db8d7b57cf6.mp3"
+     "audio": "media/sent/7db8d7b57cf6.mp3?v=152ba68b"
     },
     {
      "en": "It is noisy in the shop.",
      "zh": "商店里很吵。",
-     "audio": "media/sent/6acf25212c93.mp3"
+     "audio": "media/sent/6acf25212c93.mp3?v=3acf1024"
     }
    ],
    "media": {
-    "img": "media/img/noisy.webp",
-    "uk": "media/uk/noisy.mp3",
-    "us": "media/us/noisy.mp3"
+    "img": "media/img/noisy.webp?v=17e3cced",
+    "uk": "media/uk/noisy.mp3?v=252a4cda",
+    "us": "media/us/noisy.mp3?v=29ab19e0"
    },
    "hook": {
     "kind": "contrast",
@@ -2827,23 +2827,23 @@
     {
      "en": "The library is very quiet.",
      "zh": "图书馆里非常安静。",
-     "audio": "media/sent/919be2337723.mp3"
+     "audio": "media/sent/919be2337723.mp3?v=c7c2589e"
     },
     {
      "en": "Be quiet, Tom. Grandma is resting.",
      "zh": "小声点，Tom。奶奶在休息。",
-     "audio": "media/sent/677409893500.mp3"
+     "audio": "media/sent/677409893500.mp3?v=214e3e83"
     },
     {
      "en": "Mum likes the quiet garden.",
      "zh": "妈妈喜欢安静的花园。",
-     "audio": "media/sent/67b804887c3d.mp3"
+     "audio": "media/sent/67b804887c3d.mp3?v=502bfdf6"
     }
    ],
    "media": {
-    "img": "media/img/quiet.webp",
-    "uk": "media/uk/quiet.mp3",
-    "us": "media/us/quiet.mp3"
+    "img": "media/img/quiet.webp?v=ec696dd9",
+    "uk": "media/uk/quiet.mp3?v=eb494692",
+    "us": "media/us/quiet.mp3?v=3462d2f5"
    },
    "spell": true,
    "hook": {
@@ -2882,23 +2882,23 @@
     {
      "en": "Grandpa's car is very old.",
      "zh": "爷爷的车很旧。",
-     "audio": "media/sent/37b14ed4e1a1.mp3"
+     "audio": "media/sent/37b14ed4e1a1.mp3?v=75a3c15a"
     },
     {
      "en": "That old tree is tall.",
      "zh": "那棵老树很高。",
-     "audio": "media/sent/6cbf698c3c10.mp3"
+     "audio": "media/sent/6cbf698c3c10.mp3?v=6f6f4fe6"
     },
     {
      "en": "I don't like these old shoes.",
      "zh": "我不喜欢这些旧鞋。",
-     "audio": "media/sent/a1a48a659869.mp3"
+     "audio": "media/sent/a1a48a659869.mp3?v=9df2bcea"
     }
    ],
    "media": {
-    "img": "media/img/old.webp",
-    "uk": "media/uk/old.mp3",
-    "us": "media/us/old.mp3"
+    "img": "media/img/old.webp?v=2d7f4c46",
+    "uk": "media/uk/old.mp3?v=8f8f7e18",
+    "us": "media/us/old.mp3?v=d9a5ff01"
    },
    "spell": true,
    "avoid": [
@@ -2934,23 +2934,23 @@
     {
      "en": "Max is a young dog.",
      "zh": "Max 是一只年幼的狗。",
-     "audio": "media/sent/1c512775f999.mp3"
+     "audio": "media/sent/1c512775f999.mp3?v=303f6b26"
     },
     {
      "en": "The young cats are small.",
      "zh": "那些幼小的小猫很小。",
-     "audio": "media/sent/212e6588e37a.mp3"
+     "audio": "media/sent/212e6588e37a.mp3?v=7e035851"
     },
     {
      "en": "All the young children play here.",
      "zh": "所有年幼的孩子都在这里玩。",
-     "audio": "media/sent/4499853ce1cf.mp3"
+     "audio": "media/sent/4499853ce1cf.mp3?v=b8b5375a"
     }
    ],
    "media": {
-    "img": "media/img/young.webp",
-    "uk": "media/uk/young.mp3",
-    "us": "media/us/young.mp3"
+    "img": "media/img/young.webp?v=550a516a",
+    "uk": "media/uk/young.mp3?v=196297ce",
+    "us": "media/us/young.mp3?v=a825f12c"
    },
    "spell": true,
    "avoid": [
@@ -2987,23 +2987,23 @@
     {
      "en": "This kitchen is very modern.",
      "zh": "这个厨房非常现代化。",
-     "audio": "media/sent/d4356e6f2fa6.mp3"
+     "audio": "media/sent/d4356e6f2fa6.mp3?v=4a679418"
     },
     {
      "en": "Our school is big and modern.",
      "zh": "我们的学校又大又现代化。",
-     "audio": "media/sent/6a1b433446d3.mp3"
+     "audio": "media/sent/6a1b433446d3.mp3?v=6f8a52d2"
     },
     {
      "en": "They live in a modern flat.",
      "zh": "他们住在一套现代化的公寓里。",
-     "audio": "media/sent/c4e833236121.mp3"
+     "audio": "media/sent/c4e833236121.mp3?v=86068e7d"
     }
    ],
    "media": {
-    "img": "media/img/modern.webp",
-    "uk": "media/uk/modern.mp3",
-    "us": "media/us/modern.mp3"
+    "img": "media/img/modern.webp?v=01b63526",
+    "uk": "media/uk/modern.mp3?v=11fea3f2",
+    "us": "media/us/modern.mp3?v=085f2fca"
    },
    "avoid": [
     "old",
@@ -3040,23 +3040,23 @@
     {
      "en": "The sea is beautiful today.",
      "zh": "今天的大海真美。",
-     "audio": "media/sent/0d08e2579130.mp3"
+     "audio": "media/sent/0d08e2579130.mp3?v=8f6fa813"
     },
     {
      "en": "Lily's picture is beautiful.",
      "zh": "Lily 的画真美。",
-     "audio": "media/sent/b8009d44d672.mp3"
+     "audio": "media/sent/b8009d44d672.mp3?v=258eeeec"
     },
     {
      "en": "What a beautiful garden!",
      "zh": "多美丽的花园啊！",
-     "audio": "media/sent/10a6d633ca70.mp3"
+     "audio": "media/sent/10a6d633ca70.mp3?v=367bbdcc"
     }
    ],
    "media": {
-    "img": "media/img/beautiful.webp",
-    "uk": "media/uk/beautiful.mp3",
-    "us": "media/us/beautiful.mp3"
+    "img": "media/img/beautiful.webp?v=a5bb1e81",
+    "uk": "media/uk/beautiful.mp3?v=c8e47ec8",
+    "us": "media/us/beautiful.mp3?v=7afe2ef5"
    },
    "spell": true,
    "avoid": [
@@ -3093,23 +3093,23 @@
     {
      "en": "Mia's dress is very pretty.",
      "zh": "Mia 的连衣裙非常漂亮。",
-     "audio": "media/sent/7d33989ea0be.mp3"
+     "audio": "media/sent/7d33989ea0be.mp3?v=8ee01831"
     },
     {
      "en": "Tom picks pretty flowers for Mum.",
      "zh": "Tom 给妈妈摘漂亮的花。",
-     "audio": "media/sent/130a88c24ffe.mp3"
+     "audio": "media/sent/130a88c24ffe.mp3?v=92950082"
     },
     {
      "en": "What a pretty bird!",
      "zh": "多漂亮的一只鸟啊！",
-     "audio": "media/sent/77efa6512ba9.mp3"
+     "audio": "media/sent/77efa6512ba9.mp3?v=2f7c6537"
     }
    ],
    "media": {
-    "img": "media/img/pretty.webp",
-    "uk": "media/uk/pretty.mp3",
-    "us": "media/us/pretty.mp3"
+    "img": "media/img/pretty.webp?v=f673194b",
+    "uk": "media/uk/pretty.mp3?v=26fb1479",
+    "us": "media/us/pretty.mp3?v=8ab87195"
    },
    "spell": true,
    "avoid": [
@@ -3156,23 +3156,23 @@
     {
      "en": "Yes! That answer is right.",
      "zh": "对啦！那个答案是正确的。",
-     "audio": "media/sent/b1f47fd16a33.mp3"
+     "audio": "media/sent/b1f47fd16a33.mp3?v=13a706d5"
     },
     {
      "en": "Tom gets the right answer.",
      "zh": "Tom 答对了。",
-     "audio": "media/sent/bab6b3afac41.mp3"
+     "audio": "media/sent/bab6b3afac41.mp3?v=bbe62959"
     },
     {
      "en": "Lily knows she is right.",
      "zh": "Lily 知道自己是对的。",
-     "audio": "media/sent/43d5768b08c5.mp3"
+     "audio": "media/sent/43d5768b08c5.mp3?v=a049d027"
     }
    ],
    "media": {
-    "img": "media/img/right.webp",
-    "uk": "media/uk/right.mp3",
-    "us": "media/us/right.mp3"
+    "img": "media/img/right.webp?v=cebcd6ec",
+    "uk": "media/uk/right.mp3?v=6964d682",
+    "us": "media/us/right.mp3?v=edfe52cf"
    },
    "spell": true,
    "avoid": [
@@ -3208,22 +3208,22 @@
     {
      "en": "Tom puts on the wrong shoes.",
      "zh": "Tom 穿错了鞋。",
-     "audio": "media/sent/747c68f9e5b7.mp3"
+     "audio": "media/sent/747c68f9e5b7.mp3?v=496eb148"
     },
     {
      "en": "Oh no, my answer is wrong.",
      "zh": "哦不，我的答案是错的。",
-     "audio": "media/sent/8984f0361694.mp3"
+     "audio": "media/sent/8984f0361694.mp3?v=55f49d1b"
     },
     {
      "en": "Max goes the wrong way in the park.",
      "zh": "Max 在公园里走错了路。",
-     "audio": "media/sent/4a801a2cbc03.mp3"
+     "audio": "media/sent/4a801a2cbc03.mp3?v=a0eb5ee3"
     }
    ],
    "media": {
-    "uk": "media/uk/wrong.mp3",
-    "us": "media/us/wrong.mp3"
+    "uk": "media/uk/wrong.mp3?v=287a9919",
+    "us": "media/us/wrong.mp3?v=c58bd860"
    },
    "spell": true,
    "hook": {
@@ -3265,23 +3265,23 @@
     {
      "en": "My bag is different from Tom's.",
      "zh": "我的包和 Tom 的不一样。",
-     "audio": "media/sent/c07e06bcb733.mp3"
+     "audio": "media/sent/c07e06bcb733.mp3?v=f20428fb"
     },
     {
      "en": "Lily and Mia are different, but good friends.",
      "zh": "Lily 和 Mia 不一样，但她们是好朋友。",
-     "audio": "media/sent/7069420d77eb.mp3"
+     "audio": "media/sent/7069420d77eb.mp3?v=4eee045b"
     },
     {
      "en": "These two pictures are very different.",
      "zh": "这两张图片很不一样。",
-     "audio": "media/sent/50e88981ae23.mp3"
+     "audio": "media/sent/50e88981ae23.mp3?v=9cf0bcff"
     }
    ],
    "media": {
-    "img": "media/img/different.webp",
-    "uk": "media/uk/different.mp3",
-    "us": "media/us/different.mp3"
+    "img": "media/img/different.webp?v=a76eb668",
+    "uk": "media/uk/different.mp3?v=01248eb7",
+    "us": "media/us/different.mp3?v=ddf953c2"
    },
    "spell": true,
    "avoid": [
@@ -3320,23 +3320,23 @@
     {
      "en": "This puzzle is difficult for Tom.",
      "zh": "这个拼图对 Tom 来说很难。",
-     "audio": "media/sent/5a168ea0c676.mp3"
+     "audio": "media/sent/5a168ea0c676.mp3?v=5a448dc0"
     },
     {
      "en": "Maths is not difficult at our school.",
      "zh": "数学在我们学校不难。",
-     "audio": "media/sent/110c48c179d6.mp3"
+     "audio": "media/sent/110c48c179d6.mp3?v=3f89d672"
     },
     {
      "en": "It is difficult to carry this box.",
      "zh": "搬这个箱子很困难。",
-     "audio": "media/sent/ca8b62426eb3.mp3"
+     "audio": "media/sent/ca8b62426eb3.mp3?v=2c4825f3"
     }
    ],
    "media": {
-    "img": "media/img/difficult.webp",
-    "uk": "media/uk/difficult.mp3",
-    "us": "media/us/difficult.mp3"
+    "img": "media/img/difficult.webp?v=42abf4f7",
+    "uk": "media/uk/difficult.mp3?v=65372181",
+    "us": "media/us/difficult.mp3?v=7c0c9093"
    },
    "spell": true,
    "hook": {
@@ -3377,23 +3377,23 @@
     {
      "en": "The water in the lake is clear.",
      "zh": "湖里的水很清澈。",
-     "audio": "media/sent/eaaf13fb2d2d.mp3"
+     "audio": "media/sent/eaaf13fb2d2d.mp3?v=7c5bc7a1"
     },
     {
      "en": "The sky is clear tonight.",
      "zh": "今晚天空晴朗。",
-     "audio": "media/sent/e39e9117fceb.mp3"
+     "audio": "media/sent/e39e9117fceb.mp3?v=ebcf97d1"
     },
     {
      "en": "Lily asks a clear question.",
      "zh": "Lily 问了一个清楚的问题。",
-     "audio": "media/sent/d61f36124110.mp3"
+     "audio": "media/sent/d61f36124110.mp3?v=423c3fda"
     }
    ],
    "media": {
-    "img": "media/img/clear.webp",
-    "uk": "media/uk/clear.mp3",
-    "us": "media/us/clear.mp3"
+    "img": "media/img/clear.webp?v=56b93924",
+    "uk": "media/uk/clear.mp3?v=705448a7",
+    "us": "media/us/clear.mp3?v=8767a129"
    },
    "hook": {
     "kind": "contrast",
@@ -3433,23 +3433,23 @@
     {
      "en": "This is a real dog, not a toy.",
      "zh": "这是一只真的狗，不是玩具。",
-     "audio": "media/sent/925a36a33e0c.mp3"
+     "audio": "media/sent/925a36a33e0c.mp3?v=b993946a"
     },
     {
      "en": "Lily wants a real pet, not a toy.",
      "zh": "Lily 想要一只真的宠物，不是玩具。",
-     "audio": "media/sent/de96db943e3a.mp3"
+     "audio": "media/sent/de96db943e3a.mp3?v=6b5add80"
     },
     {
      "en": "Is that a real bird in the tree?",
      "zh": "树上那是一只真的鸟吗？",
-     "audio": "media/sent/aec79eaa4236.mp3"
+     "audio": "media/sent/aec79eaa4236.mp3?v=7e2778bb"
     }
    ],
    "media": {
-    "img": "media/img/real.webp",
-    "uk": "media/uk/real.mp3",
-    "us": "media/us/real.mp3"
+    "img": "media/img/real.webp?v=b0df42ab",
+    "uk": "media/uk/real.mp3?v=db06dda4",
+    "us": "media/us/real.mp3?v=915187a7"
    },
    "spell": true,
    "avoid": [
@@ -3486,23 +3486,23 @@
     {
      "en": "Are you sure, Tom?",
      "zh": "Tom，你确定吗？",
-     "audio": "media/sent/91aa9dc28f22.mp3"
+     "audio": "media/sent/91aa9dc28f22.mp3?v=fe4b9daf"
     },
     {
      "en": "I'm sure Max is behind the door.",
      "zh": "我肯定 Max 在门后面。",
-     "audio": "media/sent/163296f03cc5.mp3"
+     "audio": "media/sent/163296f03cc5.mp3?v=407c15b9"
     },
     {
      "en": "Lily is sure she can do it.",
      "zh": "Lily 确信自己能做好。",
-     "audio": "media/sent/cb194baadc21.mp3"
+     "audio": "media/sent/cb194baadc21.mp3?v=62a02554"
     }
    ],
    "media": {
-    "img": "media/img/sure.webp",
-    "uk": "media/uk/sure.mp3",
-    "us": "media/us/sure.mp3"
+    "img": "media/img/sure.webp?v=81fec3ef",
+    "uk": "media/uk/sure.mp3?v=781f48d0",
+    "us": "media/us/sure.mp3?v=46996e3c"
    },
    "spell": true,
    "avoid": [
@@ -3542,23 +3542,23 @@
     {
      "en": "Sleep is important for children.",
      "zh": "睡眠对孩子很重要。",
-     "audio": "media/sent/5408117cb8ca.mp3"
+     "audio": "media/sent/5408117cb8ca.mp3?v=bd3592e9"
     },
     {
      "en": "Breakfast is important every day.",
      "zh": "每天的早餐很重要。",
-     "audio": "media/sent/1f005de81e23.mp3"
+     "audio": "media/sent/1f005de81e23.mp3?v=17c0346d"
     },
     {
      "en": "It is important to help your friends.",
      "zh": "帮助朋友很重要。",
-     "audio": "media/sent/ddea33c6b8e1.mp3"
+     "audio": "media/sent/ddea33c6b8e1.mp3?v=d94345d5"
     }
    ],
    "media": {
-    "img": "media/img/important.webp",
-    "uk": "media/uk/important.mp3",
-    "us": "media/us/important.mp3"
+    "img": "media/img/important.webp?v=788f7fec",
+    "uk": "media/uk/important.mp3?v=81593289",
+    "us": "media/us/important.mp3?v=3c87be3f"
    },
    "spell": true,
    "hook": {
@@ -3601,23 +3601,23 @@
     {
      "en": "An umbrella is useful in the rain.",
      "zh": "下雨时有一把伞很有用。",
-     "audio": "media/sent/e7171e31822e.mp3"
+     "audio": "media/sent/e7171e31822e.mp3?v=c5a9b3e9"
     },
     {
      "en": "This book is useful for Lily's maths.",
      "zh": "这本书对 Lily 的数学很有用。",
-     "audio": "media/sent/8917b02ab6a1.mp3"
+     "audio": "media/sent/8917b02ab6a1.mp3?v=d74ba938"
     },
     {
      "en": "Tom finds an old box very useful.",
      "zh": "Tom 觉得一个旧盒子很有用。",
-     "audio": "media/sent/d603a02b707d.mp3"
+     "audio": "media/sent/d603a02b707d.mp3?v=3efa87db"
     }
    ],
    "media": {
-    "img": "media/img/useful.webp",
-    "uk": "media/uk/useful.mp3",
-    "us": "media/us/useful.mp3"
+    "img": "media/img/useful.webp?v=1d4328d6",
+    "uk": "media/uk/useful.mp3?v=079502c9",
+    "us": "media/us/useful.mp3?v=57df8996"
    },
    "spell": true,
    "avoid": [
@@ -3654,23 +3654,23 @@
     {
      "en": "This singer is very famous.",
      "zh": "这位歌手非常有名。",
-     "audio": "media/sent/3f5f38fcfe40.mp3"
+     "audio": "media/sent/3f5f38fcfe40.mp3?v=bfe181bf"
     },
     {
      "en": "Sam wants to be a famous player.",
      "zh": "Sam 想成为一名著名的运动员。",
-     "audio": "media/sent/568549242a3a.mp3"
+     "audio": "media/sent/568549242a3a.mp3?v=1944dcff"
     },
     {
      "en": "Our town has a famous old bridge.",
      "zh": "我们镇上有一座著名的旧桥。",
-     "audio": "media/sent/a00c85865295.mp3"
+     "audio": "media/sent/a00c85865295.mp3?v=7d91f394"
     }
    ],
    "media": {
-    "img": "media/img/famous.webp",
-    "uk": "media/uk/famous.mp3",
-    "us": "media/us/famous.mp3"
+    "img": "media/img/famous.webp?v=3828d79c",
+    "uk": "media/uk/famous.mp3?v=e35147fd",
+    "us": "media/us/famous.mp3?v=e65e64a3"
    },
    "spell": true,
    "avoid": [
@@ -3714,23 +3714,23 @@
     {
      "en": "Dad is free on Sunday afternoon.",
      "zh": "爸爸星期天下午有空。",
-     "audio": "media/sent/e85b64c90555.mp3"
+     "audio": "media/sent/e85b64c90555.mp3?v=3beae01a"
     },
     {
      "en": "Mum has a free morning today.",
      "zh": "今天上午妈妈有空。",
-     "audio": "media/sent/79fc2a457533.mp3"
+     "audio": "media/sent/79fc2a457533.mp3?v=bdccf4f8"
     },
     {
      "en": "The bus to the park is free.",
      "zh": "坐公交车去公园是免费的。",
-     "audio": "media/sent/ce66970461ce.mp3"
+     "audio": "media/sent/ce66970461ce.mp3?v=53ee9e44"
     }
    ],
    "media": {
-    "img": "media/img/free.webp",
-    "uk": "media/uk/free.mp3",
-    "us": "media/us/free.mp3"
+    "img": "media/img/free.webp?v=3f63f198",
+    "uk": "media/uk/free.mp3?v=3979c5bc",
+    "us": "media/us/free.mp3?v=7167bc04"
    },
    "spell": true,
    "avoid": [
@@ -3766,23 +3766,23 @@
     {
      "en": "The man in the big house is rich.",
      "zh": "住在大房子里的那个人很富有。",
-     "audio": "media/sent/2806816be1c4.mp3"
+     "audio": "media/sent/2806816be1c4.mp3?v=bbf92b16"
     },
     {
      "en": "The rich man has a big car.",
      "zh": "那个富有的人有一辆大汽车。",
-     "audio": "media/sent/83c3a589d2f2.mp3"
+     "audio": "media/sent/83c3a589d2f2.mp3?v=4b6ca0b5"
     },
     {
      "en": "Grandpa is not rich, but he is happy.",
      "zh": "爷爷不富有，但他很快乐。",
-     "audio": "media/sent/2c31d9c4ebe9.mp3"
+     "audio": "media/sent/2c31d9c4ebe9.mp3?v=af0876cd"
     }
    ],
    "media": {
-    "img": "media/img/rich.webp",
-    "uk": "media/uk/rich.mp3",
-    "us": "media/us/rich.mp3"
+    "img": "media/img/rich.webp?v=0a0052f7",
+    "uk": "media/uk/rich.mp3?v=f21e6c39",
+    "us": "media/us/rich.mp3?v=d84ced04"
    },
    "spell": true,
    "avoid": [
@@ -3818,23 +3818,23 @@
     {
      "en": "Poor Max! He is wet.",
      "zh": "可怜的 Max！他全身都湿了。",
-     "audio": "media/sent/e0dbedccef40.mp3"
+     "audio": "media/sent/e0dbedccef40.mp3?v=a0a5b6e2"
     },
     {
      "en": "The poor cat is warm at Grandma's house.",
      "zh": "那只可怜的猫在奶奶家暖暖的。",
-     "audio": "media/sent/a101c1a819ca.mp3"
+     "audio": "media/sent/a101c1a819ca.mp3?v=e455e934"
     },
     {
      "en": "Grandma gives food to poor people.",
      "zh": "奶奶给贫穷的人送食物。",
-     "audio": "media/sent/b55f26092f66.mp3"
+     "audio": "media/sent/b55f26092f66.mp3?v=1a9e125a"
     }
    ],
    "media": {
-    "img": "media/img/poor.webp",
-    "uk": "media/uk/poor.mp3",
-    "us": "media/us/poor.mp3"
+    "img": "media/img/poor.webp?v=b3fd4eac",
+    "uk": "media/uk/poor.mp3?v=09ed88dc",
+    "us": "media/us/poor.mp3?v=5e55fe44"
    },
    "spell": true,
    "avoid": [
@@ -3870,23 +3870,23 @@
     {
      "en": "Dad is very strong!",
      "zh": "爸爸非常强壮！",
-     "audio": "media/sent/dc669059edd9.mp3"
+     "audio": "media/sent/dc669059edd9.mp3?v=6fb06676"
     },
     {
      "en": "Tom's legs are strong after his bike ride.",
      "zh": "骑完车，Tom 的腿很有力气。",
-     "audio": "media/sent/f9a6895ee88e.mp3"
+     "audio": "media/sent/f9a6895ee88e.mp3?v=5b2122cc"
     },
     {
      "en": "Max has strong teeth.",
      "zh": "Max 有很结实的牙齿。",
-     "audio": "media/sent/81711da772c7.mp3"
+     "audio": "media/sent/81711da772c7.mp3?v=c86b9e19"
     }
    ],
    "media": {
-    "img": "media/img/strong.webp",
-    "uk": "media/uk/strong.mp3",
-    "us": "media/us/strong.mp3"
+    "img": "media/img/strong.webp?v=c3c9af0a",
+    "uk": "media/uk/strong.mp3?v=3a9acf81",
+    "us": "media/us/strong.mp3?v=8182cdf8"
    },
    "spell": true,
    "avoid": [
@@ -3929,23 +3929,23 @@
     {
      "en": "These strawberries are very sweet.",
      "zh": "这些草莓很甜。",
-     "audio": "media/sent/a2fcba83e569.mp3"
+     "audio": "media/sent/a2fcba83e569.mp3?v=0806aaff"
     },
     {
      "en": "Can I have one sweet, please?",
      "zh": "请给我一颗糖好吗？",
-     "audio": "media/sent/4eba03075089.mp3"
+     "audio": "media/sent/4eba03075089.mp3?v=1cae0999"
     },
     {
      "en": "Mum puts a sweet in Tom's lunch box.",
      "zh": "妈妈在 Tom 的午餐盒里放了一颗糖。",
-     "audio": "media/sent/aab108d43a2b.mp3"
+     "audio": "media/sent/aab108d43a2b.mp3?v=8832c787"
     }
    ],
    "media": {
-    "img": "media/img/sweet.webp",
-    "uk": "media/uk/sweet.mp3",
-    "us": "media/us/sweet.mp3"
+    "img": "media/img/sweet.webp?v=0745270c",
+    "uk": "media/uk/sweet.mp3?v=c9154594",
+    "us": "media/us/sweet.mp3?v=c944fd58"
    },
    "spell": true,
    "avoid": [
@@ -3982,23 +3982,23 @@
     {
      "en": "Mum and Dad are married.",
      "zh": "妈妈和爸爸已经结婚了。",
-     "audio": "media/sent/0ae0b3bce3c5.mp3"
+     "audio": "media/sent/0ae0b3bce3c5.mp3?v=ac6bde6d"
     },
     {
      "en": "Kate's sister is married now.",
      "zh": "Kate 的姐姐现在结婚了。",
-     "audio": "media/sent/d48c649743c2.mp3"
+     "audio": "media/sent/d48c649743c2.mp3?v=3b21f144"
     },
     {
      "en": "Grandma and Grandpa got married a long time ago.",
      "zh": "爷爷奶奶很久以前就结婚了。",
-     "audio": "media/sent/7307238e33c0.mp3"
+     "audio": "media/sent/7307238e33c0.mp3?v=49d049ae"
     }
    ],
    "media": {
-    "img": "media/img/married.webp",
-    "uk": "media/uk/married.mp3",
-    "us": "media/us/married.mp3"
+    "img": "media/img/married.webp?v=70914d74",
+    "uk": "media/uk/married.mp3?v=5b42954b",
+    "us": "media/us/married.mp3?v=a3c659c0"
    },
    "spell": true,
    "avoid": [
@@ -4043,23 +4043,23 @@
     {
      "en": "Grandma is well, and we are happy.",
      "zh": "奶奶身体很好，我们很开心。",
-     "audio": "media/sent/7f1a3d1d07e8.mp3"
+     "audio": "media/sent/7f1a3d1d07e8.mp3?v=1c3ec430"
     },
     {
      "en": "Tom doesn't feel well today.",
      "zh": "Tom 今天感觉不舒服。",
-     "audio": "media/sent/eae99ad9f4c7.mp3"
+     "audio": "media/sent/eae99ad9f4c7.mp3?v=255f19c8"
     },
     {
      "en": "Lily draws very well.",
      "zh": "Lily 画画画得很好。",
-     "audio": "media/sent/f2bb2ac2abf9.mp3"
+     "audio": "media/sent/f2bb2ac2abf9.mp3?v=a2ed10dd"
     }
    ],
    "media": {
-    "img": "media/img/well.webp",
-    "uk": "media/word/well.mp3",
-    "us": "media/word/well.mp3"
+    "img": "media/img/well.webp?v=04ff3356",
+    "uk": "media/word/well.mp3?v=f69caf50",
+    "us": "media/word/well.mp3?v=f69caf50"
    },
    "hook": {
     "kind": "contrast",

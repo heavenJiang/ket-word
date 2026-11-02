@@ -30,23 +30,23 @@
     {
      "en": "This building is very tall.",
      "zh": "这栋建筑物很高。",
-     "audio": "media/sent/426cab7c2242.mp3"
+     "audio": "media/sent/426cab7c2242.mp3?v=b8074811"
     },
     {
      "en": "The library is an old building.",
      "zh": "图书馆是一座古老的建筑。",
-     "audio": "media/sent/87561c19a9bc.mp3"
+     "audio": "media/sent/87561c19a9bc.mp3?v=8d134d72"
     },
     {
      "en": "Look at that red building!",
      "zh": "看那座红色的建筑物！",
-     "audio": "media/sent/47b564127277.mp3"
+     "audio": "media/sent/47b564127277.mp3?v=59fd9cae"
     }
    ],
    "media": {
-    "img": "media/img/building.webp",
-    "uk": "media/uk/building.mp3",
-    "us": "media/us/building.mp3"
+    "img": "media/img/building.webp?v=7c066cc2",
+    "uk": "media/uk/building.mp3?v=12156c0b",
+    "us": "media/us/building.mp3?v=7ef24172"
    },
    "spell": true,
    "hook": {
@@ -87,23 +87,23 @@
     {
      "en": "Our house has a blue roof.",
      "zh": "我们的房子有蓝色的屋顶。",
-     "audio": "media/sent/434d199766d0.mp3"
+     "audio": "media/sent/434d199766d0.mp3?v=45c17b81"
     },
     {
      "en": "Grandma's house is near the park.",
      "zh": "奶奶的房子在公园附近。",
-     "audio": "media/sent/54e69fd26673.mp3"
+     "audio": "media/sent/54e69fd26673.mp3?v=b2dd806a"
     },
     {
      "en": "We live in this house.",
      "zh": "我们住在这栋房子里。",
-     "audio": "media/sent/10138b2ba92a.mp3"
+     "audio": "media/sent/10138b2ba92a.mp3?v=42619ce3"
     }
    ],
    "media": {
-    "img": "media/img/house.webp",
-    "uk": "media/uk/house.mp3",
-    "us": "media/us/house.mp3"
+    "img": "media/img/house.webp?v=3f4b5264",
+    "uk": "media/uk/house.mp3?v=a87b4479",
+    "us": "media/us/house.mp3?v=47c4f748"
    },
    "spell": true,
    "avoid": [
@@ -141,23 +141,23 @@
     {
      "en": "Mia lives in a small flat.",
      "zh": "Mia 住在一个小公寓里。",
-     "audio": "media/sent/0657ba4e7ce8.mp3"
+     "audio": "media/sent/0657ba4e7ce8.mp3?v=8dc48391"
     },
     {
      "en": "Our flat has two rooms.",
      "zh": "我们的公寓有两个房间。",
-     "audio": "media/sent/5c8bad7741aa.mp3"
+     "audio": "media/sent/5c8bad7741aa.mp3?v=54fa4d8b"
     },
     {
      "en": "The floor is flat and clean.",
      "zh": "地板很平且干净。",
-     "audio": "media/sent/20cc9f689d11.mp3"
+     "audio": "media/sent/20cc9f689d11.mp3?v=eae4465b"
     }
    ],
    "media": {
-    "img": "media/img/flat.webp",
-    "uk": "media/uk/flat.mp3",
-    "us": "media/us/flat.mp3"
+    "img": "media/img/flat.webp?v=11c5514b",
+    "uk": "media/uk/flat.mp3?v=1bc05bbf",
+    "us": "media/us/flat.mp3?v=659e79bc"
    },
    "spell": true,
    "avoid": [
@@ -198,23 +198,23 @@
     {
      "en": "Sam's dad lives in an apartment.",
      "zh": "Sam 的爸爸住在一套公寓里。",
-     "audio": "media/sent/03968cbd4f9b.mp3"
+     "audio": "media/sent/03968cbd4f9b.mp3?v=68987510"
     },
     {
      "en": "The apartment has a nice kitchen.",
      "zh": "这套公寓有一个漂亮的厨房。",
-     "audio": "media/sent/71578ae58143.mp3"
+     "audio": "media/sent/71578ae58143.mp3?v=a5277e02"
     },
     {
      "en": "We visited their apartment yesterday.",
      "zh": "我们昨天参观了他们的公寓。",
-     "audio": "media/sent/33b2c5c6706f.mp3"
+     "audio": "media/sent/33b2c5c6706f.mp3?v=6a7ca5f2"
     }
    ],
    "media": {
-    "img": "media/img/apartment.webp",
-    "uk": "media/uk/apartment.mp3",
-    "us": "media/us/apartment.mp3"
+    "img": "media/img/apartment.webp?v=2c206307",
+    "uk": "media/uk/apartment.mp3?v=21426e05",
+    "us": "media/us/apartment.mp3?v=ffcd5e57"
    },
    "hook": {
     "kind": "story",
@@ -260,23 +260,23 @@
     {
      "en": "This apartment building is new.",
      "zh": "这栋公寓楼是新的。",
-     "audio": "media/sent/47fe5cce6797.mp3"
+     "audio": "media/sent/47fe5cce6797.mp3?v=71338a91"
     },
     {
      "en": "My friend lives in that apartment building.",
      "zh": "我的朋友住在那栋公寓楼里。",
-     "audio": "media/sent/837f6977bf0b.mp3"
+     "audio": "media/sent/837f6977bf0b.mp3?v=70447948"
     },
     {
      "en": "The apartment building has an entrance hall.",
      "zh": "这栋公寓楼有一个门厅。",
-     "audio": "media/sent/67324b7ede74.mp3"
+     "audio": "media/sent/67324b7ede74.mp3?v=0b387a8b"
     }
    ],
    "media": {
-    "img": "media/img/apartment-building.webp",
-    "uk": "media/word/apartment-building.mp3",
-    "us": "media/word/apartment-building.mp3"
+    "img": "media/img/apartment-building.webp?v=1d67238c",
+    "uk": "media/word/apartment-building.mp3?v=30d3f66f",
+    "us": "media/word/apartment-building.mp3?v=30d3f66f"
    },
    "hook": {
     "kind": "split",
@@ -316,23 +316,23 @@
     {
      "en": "We live in a block of flats.",
      "zh": "我们住在一栋公寓大楼里。",
-     "audio": "media/sent/2c01b0b9c1f0.mp3"
+     "audio": "media/sent/2c01b0b9c1f0.mp3?v=27282534"
     },
     {
      "en": "The post office is in the next block.",
      "zh": "邮局在下一个街区。",
-     "audio": "media/sent/043de5a0402e.mp3"
+     "audio": "media/sent/043de5a0402e.mp3?v=af52f56f"
     },
     {
      "en": "Our school is near this block.",
      "zh": "我们学校靠近这个街区。",
-     "audio": "media/sent/3f839eabfe51.mp3"
+     "audio": "media/sent/3f839eabfe51.mp3?v=84df483c"
     }
    ],
    "media": {
-    "img": "media/img/block.webp",
-    "uk": "media/uk/block.mp3",
-    "us": "media/us/block.mp3"
+    "img": "media/img/block.webp?v=3183d727",
+    "uk": "media/uk/block.mp3?v=c0983a5e",
+    "us": "media/us/block.mp3?v=88060a3a"
    },
    "hook": {
     "kind": "contrast",
@@ -372,23 +372,23 @@
     {
      "en": "Take the lift to the top.",
      "zh": "坐电梯到顶层。",
-     "audio": "media/sent/342bee6a5464.mp3"
+     "audio": "media/sent/342bee6a5464.mp3?v=8a298420"
     },
     {
      "en": "The lift is slow today.",
      "zh": "今天电梯很慢。",
-     "audio": "media/sent/079faf06bd73.mp3"
+     "audio": "media/sent/079faf06bd73.mp3?v=dff7a099"
     },
     {
      "en": "Let's wait for the lift.",
      "zh": "我们等电梯吧。",
-     "audio": "media/sent/303ab9530959.mp3"
+     "audio": "media/sent/303ab9530959.mp3?v=6db5e99c"
     }
    ],
    "media": {
-    "img": "media/img/lift.webp",
-    "uk": "media/uk/lift.mp3",
-    "us": "media/us/lift.mp3"
+    "img": "media/img/lift.webp?v=40cb2dd2",
+    "uk": "media/uk/lift.mp3?v=2bf0ab47",
+    "us": "media/us/lift.mp3?v=33f8dfa3"
    },
    "hook": {
     "kind": "contrast",
@@ -429,23 +429,23 @@
     {
      "en": "Lily waits for the elevator.",
      "zh": "Lily 等电梯。",
-     "audio": "media/sent/7197459da794.mp3"
+     "audio": "media/sent/7197459da794.mp3?v=d977852b"
     },
     {
      "en": "The elevator goes up quickly.",
      "zh": "电梯上升得很快。",
-     "audio": "media/sent/bddb36a031bf.mp3"
+     "audio": "media/sent/bddb36a031bf.mp3?v=df7298b6"
     },
     {
      "en": "We took the elevator to the top floor.",
      "zh": "我们坐电梯到了顶楼。",
-     "audio": "media/sent/ceab10a79bb2.mp3"
+     "audio": "media/sent/ceab10a79bb2.mp3?v=3a1219bc"
     }
    ],
    "media": {
-    "img": "media/img/elevator.webp",
-    "uk": "media/uk/elevator.mp3",
-    "us": "media/us/elevator.mp3"
+    "img": "media/img/elevator.webp?v=4c93f4c9",
+    "uk": "media/uk/elevator.mp3?v=b4c309d9",
+    "us": "media/us/elevator.mp3?v=39172376"
    },
    "avoid": [
     "lift"
@@ -480,23 +480,23 @@
     {
      "en": "The entrance is open.",
      "zh": "入口是开着的。",
-     "audio": "media/sent/7bba9fad87a7.mp3"
+     "audio": "media/sent/7bba9fad87a7.mp3?v=52497c9f"
     },
     {
      "en": "We met at the school entrance.",
      "zh": "我们在学校入口处见面。",
-     "audio": "media/sent/0d647eda3eea.mp3"
+     "audio": "media/sent/0d647eda3eea.mp3?v=5fdd8d8b"
     },
     {
      "en": "Please use this entrance.",
      "zh": "请使用这个入口。",
-     "audio": "media/sent/b899093dba96.mp3"
+     "audio": "media/sent/b899093dba96.mp3?v=ef9bf0ce"
     }
    ],
    "media": {
-    "img": "media/img/entrance.webp",
-    "uk": "media/uk/entrance.mp3",
-    "us": "media/us/entrance.mp3"
+    "img": "media/img/entrance.webp?v=e7057fe0",
+    "uk": "media/uk/entrance.mp3?v=5003d922",
+    "us": "media/us/entrance.mp3?v=5d113aee"
    },
    "avoid": [
     "exit"
@@ -531,23 +531,23 @@
     {
      "en": "The exit is on the left.",
      "zh": "出口在左边。",
-     "audio": "media/sent/d162b233f33d.mp3"
+     "audio": "media/sent/d162b233f33d.mp3?v=715f68c9"
     },
     {
      "en": "Look for the fire exit.",
      "zh": "寻找消防出口。",
-     "audio": "media/sent/9476646cf56c.mp3"
+     "audio": "media/sent/9476646cf56c.mp3?v=f9f5ed7b"
     },
     {
      "en": "We left through the back exit.",
      "zh": "我们从后出口离开了。",
-     "audio": "media/sent/8b116f1f1aa7.mp3"
+     "audio": "media/sent/8b116f1f1aa7.mp3?v=96a5ed24"
     }
    ],
    "media": {
-    "img": "media/img/exit.webp",
-    "uk": "media/uk/exit.mp3",
-    "us": "media/us/exit.mp3"
+    "img": "media/img/exit.webp?v=f762e5c6",
+    "uk": "media/uk/exit.mp3?v=317ad34c",
+    "us": "media/us/exit.mp3?v=f69042bf"
    },
    "hook": {
     "kind": "contrast",
@@ -586,23 +586,23 @@
     {
      "en": "Dad parks in the garage.",
      "zh": "爸爸把车停在车库里。",
-     "audio": "media/sent/4af65a5004dc.mp3"
+     "audio": "media/sent/4af65a5004dc.mp3?v=7717b012"
     },
     {
      "en": "The bikes are in the garage.",
      "zh": "自行车在车库里。",
-     "audio": "media/sent/a8267dd1d242.mp3"
+     "audio": "media/sent/a8267dd1d242.mp3?v=500a2af3"
     },
     {
      "en": "Max sleeps near the garage.",
      "zh": "Max 睡在车库附近。",
-     "audio": "media/sent/f09d5793e7d7.mp3"
+     "audio": "media/sent/f09d5793e7d7.mp3?v=1955bfff"
     }
    ],
    "media": {
-    "img": "media/img/garage.webp",
-    "uk": "media/uk/garage.mp3",
-    "us": "media/us/garage.mp3"
+    "img": "media/img/garage.webp?v=37a32810",
+    "uk": "media/uk/garage.mp3?v=aa74e871",
+    "us": "media/us/garage.mp3?v=91f042a6"
    },
    "hook": {
     "kind": "story",
@@ -641,23 +641,23 @@
     {
      "en": "We stayed at a big hotel.",
      "zh": "我们住在一家大酒店里。",
-     "audio": "media/sent/1b659e97e7d7.mp3"
+     "audio": "media/sent/1b659e97e7d7.mp3?v=47425091"
     },
     {
      "en": "The hotel has a swimming pool.",
      "zh": "这家酒店有一个游泳池。",
-     "audio": "media/sent/ccbacc57d71b.mp3"
+     "audio": "media/sent/ccbacc57d71b.mp3?v=af13e0d8"
     },
     {
      "en": "Our room in the hotel is nice.",
      "zh": "我们在酒店的房间很好。",
-     "audio": "media/sent/feac64a7b021.mp3"
+     "audio": "media/sent/feac64a7b021.mp3?v=7c176ea7"
     }
    ],
    "media": {
-    "img": "media/img/hotel.webp",
-    "uk": "media/uk/hotel.mp3",
-    "us": "media/us/hotel.mp3"
+    "img": "media/img/hotel.webp?v=ec872d29",
+    "uk": "media/uk/hotel.mp3?v=510e0941",
+    "us": "media/us/hotel.mp3?v=f597e0aa"
    },
    "spell": true,
    "avoid": [
@@ -694,23 +694,23 @@
     {
      "en": "We slept in a guest-house.",
      "zh": "我们睡在一家家庭旅馆里。",
-     "audio": "media/sent/90b083b1d09d.mp3"
+     "audio": "media/sent/90b083b1d09d.mp3?v=96efa91d"
     },
     {
      "en": "The guest-house is quiet at night.",
      "zh": "这家小旅馆晚上很安静。",
-     "audio": "media/sent/a84cff0e2102.mp3"
+     "audio": "media/sent/a84cff0e2102.mp3?v=93e3c342"
     },
     {
      "en": "Grandma likes this guest-house.",
      "zh": "奶奶喜欢这家家庭旅馆。",
-     "audio": "media/sent/d8c7ee58b3f0.mp3"
+     "audio": "media/sent/d8c7ee58b3f0.mp3?v=6702f4b9"
     }
    ],
    "media": {
-    "img": "media/img/guest-house.webp",
-    "uk": "media/word/guest-house.mp3",
-    "us": "media/word/guest-house.mp3"
+    "img": "media/img/guest-house.webp?v=b87b6d08",
+    "uk": "media/word/guest-house.mp3?v=65840b47",
+    "us": "media/word/guest-house.mp3?v=65840b47"
    },
    "hook": {
     "kind": "split",
@@ -750,23 +750,23 @@
     {
      "en": "The castle is very old.",
      "zh": "这座城堡很古老。",
-     "audio": "media/sent/a1cb01ab3d18.mp3"
+     "audio": "media/sent/a1cb01ab3d18.mp3?v=1011cfb8"
     },
     {
      "en": "Lily likes the big castle.",
      "zh": "Lily 喜欢那座大城堡。",
-     "audio": "media/sent/bf55ffd646e9.mp3"
+     "audio": "media/sent/bf55ffd646e9.mp3?v=e9342f8d"
     },
     {
      "en": "We visited the castle yesterday.",
      "zh": "我们昨天参观了城堡。",
-     "audio": "media/sent/25e4acd39b68.mp3"
+     "audio": "media/sent/25e4acd39b68.mp3?v=59087e94"
     }
    ],
    "media": {
-    "img": "media/img/castle.webp",
-    "uk": "media/uk/castle.mp3",
-    "us": "media/us/castle.mp3"
+    "img": "media/img/castle.webp?v=020bcabd",
+    "uk": "media/uk/castle.mp3?v=f0b8f82a",
+    "us": "media/us/castle.mp3?v=8f7763f0"
    },
    "avoid": [
     "guest-house",
@@ -801,23 +801,23 @@
     {
      "en": "Lily goes to school by bus.",
      "zh": "Lily 坐公交车去学校。",
-     "audio": "media/sent/a7ffa5efa091.mp3"
+     "audio": "media/sent/a7ffa5efa091.mp3?v=19aeaf2b"
     },
     {
      "en": "Tom's school is next door.",
      "zh": "Tom 的学校就在隔壁。",
-     "audio": "media/sent/a37c63936271.mp3"
+     "audio": "media/sent/a37c63936271.mp3?v=97be0880"
     },
     {
      "en": "We play football at school.",
      "zh": "我们在学校踢足球。",
-     "audio": "media/sent/46abe10160ba.mp3"
+     "audio": "media/sent/46abe10160ba.mp3?v=9871143a"
     }
    ],
    "media": {
-    "img": "media/img/school.webp",
-    "uk": "media/uk/school.mp3",
-    "us": "media/us/school.mp3"
+    "img": "media/img/school.webp?v=d8438de6",
+    "uk": "media/uk/school.mp3?v=0b9b0faf",
+    "us": "media/us/school.mp3?v=8f0388c9"
    },
    "spell": true,
    "avoid": [
@@ -855,23 +855,23 @@
     {
      "en": "My cousin goes to college.",
      "zh": "我的表亲上大学。",
-     "audio": "media/sent/24636ed23729.mp3"
+     "audio": "media/sent/24636ed23729.mp3?v=87e59208"
     },
     {
      "en": "The college is big and green.",
      "zh": "这所学院很大且绿意盎然。",
-     "audio": "media/sent/097c3ac05adb.mp3"
+     "audio": "media/sent/097c3ac05adb.mp3?v=4f9b46c1"
     },
     {
      "en": "Kate teaches at a college.",
      "zh": "Kate 在一所学院教书。",
-     "audio": "media/sent/0714ae4cd0ed.mp3"
+     "audio": "media/sent/0714ae4cd0ed.mp3?v=6e8337b0"
     }
    ],
    "media": {
-    "img": "media/img/college.webp",
-    "uk": "media/uk/college.mp3",
-    "us": "media/us/college.mp3"
+    "img": "media/img/college.webp?v=02ee8dbf",
+    "uk": "media/uk/college.mp3?v=d4e3b0fc",
+    "us": "media/us/college.mp3?v=2139d802"
    },
    "spell": true,
    "avoid": [
@@ -912,23 +912,23 @@
     {
      "en": "Dad went to university.",
      "zh": "爸爸上过大学。",
-     "audio": "media/sent/74a245d1ea62.mp3"
+     "audio": "media/sent/74a245d1ea62.mp3?v=884c64d5"
     },
     {
      "en": "The university is in London.",
      "zh": "这所大学在伦敦。",
-     "audio": "media/sent/79ce9cdec8da.mp3"
+     "audio": "media/sent/79ce9cdec8da.mp3?v=74190435"
     },
     {
      "en": "Sam wants to study at university.",
      "zh": "Sam 想在大学学习。",
-     "audio": "media/sent/c670ce09dccb.mp3"
+     "audio": "media/sent/c670ce09dccb.mp3?v=0f696990"
     }
    ],
    "media": {
-    "img": "media/img/university.webp",
-    "uk": "media/uk/university.mp3",
-    "us": "media/us/university.mp3"
+    "img": "media/img/university.webp?v=cebf75e7",
+    "uk": "media/uk/university.mp3?v=d58cc252",
+    "us": "media/us/university.mp3?v=f06c7cbe"
    },
    "spell": true,
    "avoid": [
@@ -967,23 +967,23 @@
     {
      "en": "We read books in the library.",
      "zh": "我们在图书馆读书。",
-     "audio": "media/sent/fe392d3a9d2c.mp3"
+     "audio": "media/sent/fe392d3a9d2c.mp3?v=710d696d"
     },
     {
      "en": "The library is quiet and cool.",
      "zh": "图书馆安静且凉爽。",
-     "audio": "media/sent/2c5e2ee693dc.mp3"
+     "audio": "media/sent/2c5e2ee693dc.mp3?v=055fbf26"
     },
     {
      "en": "Lily returns her book to the library.",
      "zh": "Lily 把书还给图书馆。",
-     "audio": "media/sent/56e84afacf86.mp3"
+     "audio": "media/sent/56e84afacf86.mp3?v=d95b6fc6"
     }
    ],
    "media": {
-    "img": "media/img/library.webp",
-    "uk": "media/uk/library.mp3",
-    "us": "media/us/library.mp3"
+    "img": "media/img/library.webp?v=7dd4e8f6",
+    "uk": "media/uk/library.mp3?v=e6c64a8f",
+    "us": "media/us/library.mp3?v=d3ee284d"
    },
    "spell": true,
    "avoid": [
@@ -1023,23 +1023,23 @@
     {
      "en": "Dad works in an office.",
      "zh": "爸爸在办公室工作。",
-     "audio": "media/sent/e28c5a29c455.mp3"
+     "audio": "media/sent/e28c5a29c455.mp3?v=5203526a"
     },
     {
      "en": "The office has many desks.",
      "zh": "办公室里有许多桌子。",
-     "audio": "media/sent/55a699486065.mp3"
+     "audio": "media/sent/55a699486065.mp3?v=e7728692"
     },
     {
      "en": "Mum visits Dad's office.",
      "zh": "妈妈参观爸爸的办公室。",
-     "audio": "media/sent/6605df840dfd.mp3"
+     "audio": "media/sent/6605df840dfd.mp3?v=8ad6396d"
     }
    ],
    "media": {
-    "img": "media/img/office.webp",
-    "uk": "media/uk/office.mp3",
-    "us": "media/us/office.mp3"
+    "img": "media/img/office.webp?v=3f54885a",
+    "uk": "media/uk/office.mp3?v=2543f101",
+    "us": "media/us/office.mp3?v=36df10b4"
    },
    "spell": true,
    "avoid": [
@@ -1077,23 +1077,23 @@
     {
      "en": "The factory makes toys.",
      "zh": "这家工厂制造玩具。",
-     "audio": "media/sent/49699e924ebb.mp3"
+     "audio": "media/sent/49699e924ebb.mp3?v=ed29b707"
     },
     {
      "en": "Sam's uncle works in a factory.",
      "zh": "Sam 的叔叔在一家工厂工作。",
-     "audio": "media/sent/8b6c11aa4147.mp3"
+     "audio": "media/sent/8b6c11aa4147.mp3?v=da1b0ae7"
     },
     {
      "en": "The factory is very noisy.",
      "zh": "这家工厂很吵。",
-     "audio": "media/sent/3ca5d0a58e88.mp3"
+     "audio": "media/sent/3ca5d0a58e88.mp3?v=6c20b7fa"
     }
    ],
    "media": {
-    "img": "media/img/factory.webp",
-    "uk": "media/uk/factory.mp3",
-    "us": "media/us/factory.mp3"
+    "img": "media/img/factory.webp?v=4d792685",
+    "uk": "media/uk/factory.mp3?v=ef98582c",
+    "us": "media/us/factory.mp3?v=3e4b8e78"
    },
    "hook": {
     "kind": "contrast",
@@ -1132,23 +1132,23 @@
     {
      "en": "Kate works in a bank.",
      "zh": "Kate 在银行工作。",
-     "audio": "media/sent/5847e8b05834.mp3"
+     "audio": "media/sent/5847e8b05834.mp3?v=e2504cb8"
     },
     {
      "en": "Mum goes to the bank on Friday.",
      "zh": "妈妈星期五去银行。",
-     "audio": "media/sent/e8a7a5162e6d.mp3"
+     "audio": "media/sent/e8a7a5162e6d.mp3?v=7a80c4ef"
     },
     {
      "en": "The bank is next to the post office.",
      "zh": "银行在邮局旁边。",
-     "audio": "media/sent/4d7055fe8ccc.mp3"
+     "audio": "media/sent/4d7055fe8ccc.mp3?v=229bcada"
     }
    ],
    "media": {
-    "img": "media/img/bank.webp",
-    "uk": "media/uk/bank.mp3",
-    "us": "media/us/bank.mp3"
+    "img": "media/img/bank.webp?v=c01fa6d1",
+    "uk": "media/uk/bank.mp3?v=3463e9a0",
+    "us": "media/us/bank.mp3?v=94a2a1e9"
    },
    "spell": true,
    "avoid": [
@@ -1188,23 +1188,23 @@
     {
      "en": "Lily sends a letter at the post office.",
      "zh": "Lily 在邮局寄信。",
-     "audio": "media/sent/321b074cb01e.mp3"
+     "audio": "media/sent/321b074cb01e.mp3?v=36c7ff67"
     },
     {
      "en": "The post office is on Park Road.",
      "zh": "邮局在公园路。",
-     "audio": "media/sent/9bd13c561eac.mp3"
+     "audio": "media/sent/9bd13c561eac.mp3?v=ba0249ef"
     },
     {
      "en": "Grandma buys stamps at the post office.",
      "zh": "奶奶在邮局买邮票。",
-     "audio": "media/sent/b4577077027a.mp3"
+     "audio": "media/sent/b4577077027a.mp3?v=ffe10691"
     }
    ],
    "media": {
-    "img": "media/img/post-office.webp",
-    "uk": "media/uk/post-office.mp3",
-    "us": "media/us/post-office.mp3"
+    "img": "media/img/post-office.webp?v=2167e0b9",
+    "uk": "media/uk/post-office.mp3?v=43fb931e",
+    "us": "media/us/post-office.mp3?v=eb083e04"
    },
    "hook": {
     "kind": "split",
@@ -1246,23 +1246,23 @@
     {
      "en": "Sam lives near the police station.",
      "zh": "Sam 住在警察局附近。",
-     "audio": "media/sent/2a7488fe2743.mp3"
+     "audio": "media/sent/2a7488fe2743.mp3?v=2573b6e0"
     },
     {
      "en": "The police station is open all day.",
      "zh": "警察局全天开放。",
-     "audio": "media/sent/ff41894337ce.mp3"
+     "audio": "media/sent/ff41894337ce.mp3?v=a51d9543"
     },
     {
      "en": "Tom sees a police officer at the police station.",
      "zh": "Tom 在警察局看到一位警察。",
-     "audio": "media/sent/c8f519f05910.mp3"
+     "audio": "media/sent/c8f519f05910.mp3?v=7ef43956"
     }
    ],
    "media": {
-    "img": "media/img/police-station.webp",
-    "uk": "media/word/police-station.mp3",
-    "us": "media/word/police-station.mp3"
+    "img": "media/img/police-station.webp?v=022151a1",
+    "uk": "media/word/police-station.mp3?v=f150a679",
+    "us": "media/word/police-station.mp3?v=f150a679"
    },
    "hook": {
     "kind": "split",
@@ -1303,23 +1303,23 @@
     {
      "en": "Mum works at the hospital.",
      "zh": "妈妈在医院工作。",
-     "audio": "media/sent/09e614b5cadc.mp3"
+     "audio": "media/sent/09e614b5cadc.mp3?v=20a8c550"
     },
     {
      "en": "The hospital is very big.",
      "zh": "医院很大。",
-     "audio": "media/sent/c2a6fbf9d2ef.mp3"
+     "audio": "media/sent/c2a6fbf9d2ef.mp3?v=d261aac3"
     },
     {
      "en": "Grandpa visits the doctor at the hospital.",
      "zh": "爷爷去医院看医生。",
-     "audio": "media/sent/9cd78afbc096.mp3"
+     "audio": "media/sent/9cd78afbc096.mp3?v=5cc5d5f7"
     }
    ],
    "media": {
-    "img": "media/img/hospital.webp",
-    "uk": "media/uk/hospital.mp3",
-    "us": "media/us/hospital.mp3"
+    "img": "media/img/hospital.webp?v=96ef0dbe",
+    "uk": "media/uk/hospital.mp3?v=091e263e",
+    "us": "media/us/hospital.mp3?v=be0c0d5b"
    },
    "spell": true,
    "avoid": [
@@ -1356,23 +1356,23 @@
     {
      "en": "Mum buys medicine at the pharmacy.",
      "zh": "妈妈在药房买药。",
-     "audio": "media/sent/97b46060f7b5.mp3"
+     "audio": "media/sent/97b46060f7b5.mp3?v=dbb53c05"
     },
     {
      "en": "The pharmacy is closed on Sunday.",
      "zh": "药房星期日不营业。",
-     "audio": "media/sent/485dff04a943.mp3"
+     "audio": "media/sent/485dff04a943.mp3?v=a799b574"
     },
     {
      "en": "Ask for help at the pharmacy.",
      "zh": "在药房寻求帮助。",
-     "audio": "media/sent/932ada2d5ae8.mp3"
+     "audio": "media/sent/932ada2d5ae8.mp3?v=9ffa3d24"
     }
    ],
    "media": {
-    "img": "media/img/pharmacy.webp",
-    "uk": "media/uk/pharmacy.mp3",
-    "us": "media/us/pharmacy.mp3"
+    "img": "media/img/pharmacy.webp?v=f72da508",
+    "uk": "media/uk/pharmacy.mp3?v=195b8bfd",
+    "us": "media/us/pharmacy.mp3?v=c790ff9f"
    },
    "avoid": [
     "hospital"
@@ -1407,23 +1407,23 @@
     {
      "en": "We drink tea in the cafe.",
      "zh": "我们在咖啡馆喝茶。",
-     "audio": "media/sent/f6f538812415.mp3"
+     "audio": "media/sent/f6f538812415.mp3?v=e85cbadb"
     },
     {
      "en": "The cafe has nice cakes.",
      "zh": "这家咖啡馆有美味的蛋糕。",
-     "audio": "media/sent/2239a304cdeb.mp3"
+     "audio": "media/sent/2239a304cdeb.mp3?v=b9ce3b2a"
     },
     {
      "en": "Let's meet at the cafe after school.",
      "zh": "放学后我们在咖啡馆见。",
-     "audio": "media/sent/d06ae90304a6.mp3"
+     "audio": "media/sent/d06ae90304a6.mp3?v=22a9e4e5"
     }
    ],
    "media": {
-    "img": "media/img/cafe.webp",
-    "uk": "media/uk/cafe.mp3",
-    "us": "media/us/cafe.mp3"
+    "img": "media/img/cafe.webp?v=6a1751a1",
+    "uk": "media/uk/cafe.mp3?v=e0d4c7c7",
+    "us": "media/us/cafe.mp3?v=5d16c6a0"
    },
    "spell": true,
    "avoid": [
@@ -1462,23 +1462,23 @@
     {
      "en": "Lily eats lunch in the cafeteria.",
      "zh": "Lily 在食堂吃午饭。",
-     "audio": "media/sent/45ac1b427197.mp3"
+     "audio": "media/sent/45ac1b427197.mp3?v=3614a327"
     },
     {
      "en": "The school cafeteria is busy at noon.",
      "zh": "学校食堂中午很热闹。",
-     "audio": "media/sent/d75eeb98b5f7.mp3"
+     "audio": "media/sent/d75eeb98b5f7.mp3?v=c1a3eabe"
     },
     {
      "en": "We sit together in the cafeteria.",
      "zh": "我们在食堂坐在一起。",
-     "audio": "media/sent/d7f8185746b9.mp3"
+     "audio": "media/sent/d7f8185746b9.mp3?v=e35bf5f7"
     }
    ],
    "media": {
-    "img": "media/img/cafeteria.webp",
-    "uk": "media/uk/cafeteria.mp3",
-    "us": "media/us/cafeteria.mp3"
+    "img": "media/img/cafeteria.webp?v=e90ef5f7",
+    "uk": "media/uk/cafeteria.mp3?v=e64432cf",
+    "us": "media/us/cafeteria.mp3?v=539f9927"
    },
    "hook": {
     "kind": "contrast",
@@ -1518,23 +1518,23 @@
     {
      "en": "We watch a film at the cinema.",
      "zh": "我们在电影院看电影。",
-     "audio": "media/sent/b61ecb6bd0b2.mp3"
+     "audio": "media/sent/b61ecb6bd0b2.mp3?v=f0cb7804"
     },
     {
      "en": "The cinema is next to the park.",
      "zh": "电影院在公园旁边。",
-     "audio": "media/sent/7dae924bc111.mp3"
+     "audio": "media/sent/7dae924bc111.mp3?v=12b3e930"
     },
     {
      "en": "Tom loves going to the cinema.",
      "zh": "Tom 喜欢去电影院。",
-     "audio": "media/sent/c8242787d0d4.mp3"
+     "audio": "media/sent/c8242787d0d4.mp3?v=1a619511"
     }
    ],
    "media": {
-    "img": "media/img/cinema.webp",
-    "uk": "media/uk/cinema.mp3",
-    "us": "media/us/cinema.mp3"
+    "img": "media/img/cinema.webp?v=bd9b0ed1",
+    "uk": "media/uk/cinema.mp3?v=b8f43a3c",
+    "us": "media/us/cinema.mp3?v=ba40870b"
    },
    "spell": true,
    "avoid": [
@@ -1573,23 +1573,23 @@
     {
      "en": "The family goes to the theatre.",
      "zh": "一家人去剧院。",
-     "audio": "media/sent/33872fb76c39.mp3"
+     "audio": "media/sent/33872fb76c39.mp3?v=4e5c5656"
     },
     {
      "en": "We see a play at the theatre.",
      "zh": "我们在剧院看戏。",
-     "audio": "media/sent/b7ed51f582b6.mp3"
+     "audio": "media/sent/b7ed51f582b6.mp3?v=f5ac833e"
     },
     {
      "en": "The theatre is very old and beautiful.",
      "zh": "这座剧院很古老也很漂亮。",
-     "audio": "media/sent/60526b14cf43.mp3"
+     "audio": "media/sent/60526b14cf43.mp3?v=4c6e20b6"
     }
    ],
    "media": {
-    "img": "media/img/theatre.webp",
-    "uk": "media/uk/theatre.mp3",
-    "us": "media/us/theatre.mp3"
+    "img": "media/img/theatre.webp?v=1461b076",
+    "uk": "media/uk/theatre.mp3?v=022927fe",
+    "us": "media/us/theatre.mp3?v=1c904565"
    },
    "hook": {
     "kind": "story",
@@ -1631,23 +1631,23 @@
     {
      "en": "We learn about history at the museum.",
      "zh": "我们在博物馆学习历史。",
-     "audio": "media/sent/651962525a11.mp3"
+     "audio": "media/sent/651962525a11.mp3?v=a8f0c413"
     },
     {
      "en": "The museum is open on Saturday.",
      "zh": "博物馆星期六开放。",
-     "audio": "media/sent/1ecadfe12561.mp3"
+     "audio": "media/sent/1ecadfe12561.mp3?v=55d16f53"
     },
     {
      "en": "Lily draws pictures of old things at the museum.",
      "zh": "Lily 在博物馆画老物件的图。",
-     "audio": "media/sent/fce5e5f133b6.mp3"
+     "audio": "media/sent/fce5e5f133b6.mp3?v=942b07bb"
     }
    ],
    "media": {
-    "img": "media/img/museum.webp",
-    "uk": "media/uk/museum.mp3",
-    "us": "media/us/museum.mp3"
+    "img": "media/img/museum.webp?v=e6b2727b",
+    "uk": "media/uk/museum.mp3?v=672a54f6",
+    "us": "media/us/museum.mp3?v=eb323217"
    },
    "spell": true,
    "avoid": [
@@ -1685,23 +1685,23 @@
     {
      "en": "The school has a disco tonight.",
      "zh": "学校今晚有迪斯科舞会。",
-     "audio": "media/sent/b15f92d7abca.mp3"
+     "audio": "media/sent/b15f92d7abca.mp3?v=17352ba6"
     },
     {
      "en": "Lily dances at the disco.",
      "zh": "Lily 在迪斯科舞会上跳舞。",
-     "audio": "media/sent/6babf95cd6ce.mp3"
+     "audio": "media/sent/6babf95cd6ce.mp3?v=0da301a7"
     },
     {
      "en": "Tom listens to music at the disco.",
      "zh": "Tom 在迪斯科舞会上听音乐。",
-     "audio": "media/sent/1532fee675c8.mp3"
+     "audio": "media/sent/1532fee675c8.mp3?v=9ce879ba"
     }
    ],
    "media": {
-    "img": "media/img/disco.webp",
-    "uk": "media/word/disco.mp3",
-    "us": "media/word/disco.mp3"
+    "img": "media/img/disco.webp?v=f6a1d652",
+    "uk": "media/word/disco.mp3?v=7dfea21b",
+    "us": "media/word/disco.mp3?v=7dfea21b"
    },
    "avoid": [
     "cinema",
@@ -1739,23 +1739,23 @@
     {
      "en": "We play tennis at the sports centre.",
      "zh": "我们在体育中心打网球。",
-     "audio": "media/sent/8bc444c2998d.mp3"
+     "audio": "media/sent/8bc444c2998d.mp3?v=3987900b"
     },
     {
      "en": "The sports centre is near my home.",
      "zh": "体育中心在我家附近。",
-     "audio": "media/sent/0d68750cfedd.mp3"
+     "audio": "media/sent/0d68750cfedd.mp3?v=1e817ba9"
     },
     {
      "en": "Dad runs in the sports centre.",
      "zh": "爸爸在体育中心跑步。",
-     "audio": "media/sent/1913cbc941af.mp3"
+     "audio": "media/sent/1913cbc941af.mp3?v=a8f9147c"
     }
    ],
    "media": {
-    "img": "media/img/sports-centre.webp",
-    "uk": "media/word/sports-centre.mp3",
-    "us": "media/word/sports-centre.mp3"
+    "img": "media/img/sports-centre.webp?v=8dfa242e",
+    "uk": "media/word/sports-centre.mp3?v=a6923de1",
+    "us": "media/word/sports-centre.mp3?v=a6923de1"
    },
    "hook": {
     "kind": "split",
@@ -1796,23 +1796,23 @@
     {
      "en": "Lily watches football at the stadium.",
      "zh": "Lily 在体育场看足球。",
-     "audio": "media/sent/bb406a9a3383.mp3"
+     "audio": "media/sent/bb406a9a3383.mp3?v=e223d65f"
     },
     {
      "en": "The stadium is full of fans.",
      "zh": "体育场里挤满了球迷。",
-     "audio": "media/sent/cb5dc925d7fb.mp3"
+     "audio": "media/sent/cb5dc925d7fb.mp3?v=39122049"
     },
     {
      "en": "We take a bus to the stadium.",
      "zh": "我们坐公共汽车去体育场。",
-     "audio": "media/sent/227239255550.mp3"
+     "audio": "media/sent/227239255550.mp3?v=7014ff80"
     }
    ],
    "media": {
-    "img": "media/img/stadium.webp",
-    "uk": "media/uk/stadium.mp3",
-    "us": "media/us/stadium.mp3"
+    "img": "media/img/stadium.webp?v=63d2615f",
+    "uk": "media/uk/stadium.mp3?v=4ef7d59b",
+    "us": "media/us/stadium.mp3?v=1b5030ad"
    },
    "avoid": [
     "sports-centre",
@@ -1849,23 +1849,23 @@
     {
      "en": "Tom swims in the swimming pool.",
      "zh": "Tom 在游泳池里游泳。",
-     "audio": "media/sent/380463f7e4f6.mp3"
+     "audio": "media/sent/380463f7e4f6.mp3?v=b31a8b46"
     },
     {
      "en": "The water in the swimming pool is blue.",
      "zh": "游泳池里的水是蓝色的。",
-     "audio": "media/sent/4504a526d017.mp3"
+     "audio": "media/sent/4504a526d017.mp3?v=fb552d17"
     },
     {
      "en": "We go to the swimming pool on Sunday.",
      "zh": "我们星期日去游泳池。",
-     "audio": "media/sent/de20773ba93b.mp3"
+     "audio": "media/sent/de20773ba93b.mp3?v=2145461c"
     }
    ],
    "media": {
-    "img": "media/img/swimming-pool.webp",
-    "uk": "media/word/swimming-pool.mp3",
-    "us": "media/word/swimming-pool.mp3"
+    "img": "media/img/swimming-pool.webp?v=1e39e523",
+    "uk": "media/word/swimming-pool.mp3?v=df31f37b",
+    "us": "media/word/swimming-pool.mp3?v=df31f37b"
    },
    "hook": {
     "kind": "split",
@@ -1912,23 +1912,23 @@
     {
      "en": "Mum goes to the shop.",
      "zh": "妈妈去购物。",
-     "audio": "media/sent/28d9c86e78fd.mp3"
+     "audio": "media/sent/28d9c86e78fd.mp3?v=38249919"
     },
     {
      "en": "The shop sells milk and bread.",
      "zh": "这家商店卖牛奶和面包。",
-     "audio": "media/sent/5bd9fcc78643.mp3"
+     "audio": "media/sent/5bd9fcc78643.mp3?v=7fc700a8"
     },
     {
      "en": "Let's shop for a new ball.",
      "zh": "我们去买一个新球吧。",
-     "audio": "media/sent/40db27a9cba5.mp3"
+     "audio": "media/sent/40db27a9cba5.mp3?v=4126127f"
     }
    ],
    "media": {
-    "img": "media/img/shop.webp",
-    "uk": "media/uk/shop.mp3",
-    "us": "media/us/shop.mp3"
+    "img": "media/img/shop.webp?v=58206e35",
+    "uk": "media/uk/shop.mp3?v=92fdcc8c",
+    "us": "media/us/shop.mp3?v=620e512a"
    },
    "spell": true,
    "avoid": [
@@ -1968,23 +1968,23 @@
     {
      "en": "We buy food at the supermarket.",
      "zh": "我们在超市买食物。",
-     "audio": "media/sent/1039f87a62c6.mp3"
+     "audio": "media/sent/1039f87a62c6.mp3?v=f33c0a4c"
     },
     {
      "en": "The supermarket is very big.",
      "zh": "这家超市很大。",
-     "audio": "media/sent/03e03e8ea222.mp3"
+     "audio": "media/sent/03e03e8ea222.mp3?v=23001509"
     },
     {
      "en": "Grandma pays at the supermarket.",
      "zh": "奶奶在超市付款。",
-     "audio": "media/sent/11abddfbcda9.mp3"
+     "audio": "media/sent/11abddfbcda9.mp3?v=2c8c2951"
     }
    ],
    "media": {
-    "img": "media/img/supermarket.webp",
-    "uk": "media/uk/supermarket.mp3",
-    "us": "media/us/supermarket.mp3"
+    "img": "media/img/supermarket.webp?v=4f774b3b",
+    "uk": "media/uk/supermarket.mp3?v=ac569f5b",
+    "us": "media/us/supermarket.mp3?v=e3c66403"
    },
    "spell": true,
    "hook": {
@@ -2026,23 +2026,23 @@
     {
      "en": "Lily buys a book at the bookshop.",
      "zh": "Lily 在书店买了一本书。",
-     "audio": "media/sent/241ee98f9e58.mp3"
+     "audio": "media/sent/241ee98f9e58.mp3?v=b9f85a03"
     },
     {
      "en": "The bookshop is quiet and warm.",
      "zh": "书店安静又温暖。",
-     "audio": "media/sent/40503c324f9b.mp3"
+     "audio": "media/sent/40503c324f9b.mp3?v=c6e9509e"
     },
     {
      "en": "We visit the bookshop on Saturday.",
      "zh": "我们星期六去书店。",
-     "audio": "media/sent/52a6f68aa602.mp3"
+     "audio": "media/sent/52a6f68aa602.mp3?v=f3547e6d"
     }
    ],
    "media": {
-    "img": "media/img/bookshop.webp",
-    "uk": "media/uk/bookshop.mp3",
-    "us": "media/us/bookshop.mp3"
+    "img": "media/img/bookshop.webp?v=f935174a",
+    "uk": "media/uk/bookshop.mp3?v=4675b96d",
+    "us": "media/us/bookshop.mp3?v=21febe64"
    },
    "spell": true,
    "hook": {
@@ -2083,23 +2083,23 @@
     {
      "en": "Sam reads in the bookstore.",
      "zh": "Sam 在书店看书。",
-     "audio": "media/sent/2dd0f94af8d3.mp3"
+     "audio": "media/sent/2dd0f94af8d3.mp3?v=5280cabf"
     },
     {
      "en": "The bookstore has many floors.",
      "zh": "这家书店有很多层。",
-     "audio": "media/sent/1e300a77addc.mp3"
+     "audio": "media/sent/1e300a77addc.mp3?v=73e7c58b"
     },
     {
      "en": "We meet friends at the bookstore.",
      "zh": "我们在书店见朋友。",
-     "audio": "media/sent/ba1f29548eed.mp3"
+     "audio": "media/sent/ba1f29548eed.mp3?v=51eace77"
     }
    ],
    "media": {
-    "img": "media/img/bookstore.webp",
-    "uk": "media/uk/bookstore.mp3",
-    "us": "media/us/bookstore.mp3"
+    "img": "media/img/bookstore.webp?v=ba4cfdc4",
+    "uk": "media/uk/bookstore.mp3?v=fa351455",
+    "us": "media/us/bookstore.mp3?v=7668d2cb"
    },
    "spell": true,
    "hook": {
@@ -2142,23 +2142,23 @@
     {
      "en": "Mum shops at the department store.",
      "zh": "妈妈在百货商店购物。",
-     "audio": "media/sent/583a2ff06555.mp3"
+     "audio": "media/sent/583a2ff06555.mp3?v=8b97f09c"
     },
     {
      "en": "The department store sells clothes.",
      "zh": "这家百货商店卖衣服。",
-     "audio": "media/sent/d2cbe8d9f2ce.mp3"
+     "audio": "media/sent/d2cbe8d9f2ce.mp3?v=642fc728"
     },
     {
      "en": "We take the lift in the department store.",
      "zh": "我们在百货商店坐电梯。",
-     "audio": "media/sent/3e10130277a2.mp3"
+     "audio": "media/sent/3e10130277a2.mp3?v=813cb118"
     }
    ],
    "media": {
-    "img": "media/img/department-store.webp",
-    "uk": "media/word/department-store.mp3",
-    "us": "media/word/department-store.mp3"
+    "img": "media/img/department-store.webp?v=fbae2d5e",
+    "uk": "media/word/department-store.mp3?v=9afcf105",
+    "us": "media/word/department-store.mp3?v=9afcf105"
    },
    "hook": {
     "kind": "split",
@@ -2201,23 +2201,23 @@
     {
      "en": "Dad buys eggs at the grocery store.",
      "zh": "爸爸在杂货店买鸡蛋。",
-     "audio": "media/sent/05af77bc7c2f.mp3"
+     "audio": "media/sent/05af77bc7c2f.mp3?v=dba27cb3"
     },
     {
      "en": "The grocery store has fresh fruit.",
      "zh": "这家杂货店有新鲜水果。",
-     "audio": "media/sent/7781f57e7965.mp3"
+     "audio": "media/sent/7781f57e7965.mp3?v=897cc349"
     },
     {
      "en": "We walk to the grocery store.",
      "zh": "我们步行去杂货店。",
-     "audio": "media/sent/bb75ed4851c8.mp3"
+     "audio": "media/sent/bb75ed4851c8.mp3?v=0f1eff8a"
     }
    ],
    "media": {
-    "img": "media/img/grocery-store.webp",
-    "uk": "media/word/grocery-store.mp3",
-    "us": "media/word/grocery-store.mp3"
+    "img": "media/img/grocery-store.webp?v=811c599b",
+    "uk": "media/word/grocery-store.mp3?v=47bec2be",
+    "us": "media/word/grocery-store.mp3?v=47bec2be"
    },
    "hook": {
     "kind": "split",

@@ -30,23 +30,23 @@
     {
      "en": "Lily's backpack is red.",
      "zh": "Lily 的双肩包是红色的。",
-     "audio": "media/sent/c761035768f3.mp3"
+     "audio": "media/sent/c761035768f3.mp3?v=2783b005"
     },
     {
      "en": "Put your books in your backpack.",
      "zh": "把书放进背包里。",
-     "audio": "media/sent/248c19a3a6e5.mp3"
+     "audio": "media/sent/248c19a3a6e5.mp3?v=4e611bcc"
     },
     {
      "en": "Tom has a new backpack for school.",
      "zh": "Tom 有了一个新的上学背包。",
-     "audio": "media/sent/48e9a271412f.mp3"
+     "audio": "media/sent/48e9a271412f.mp3?v=81e35c04"
     }
    ],
    "media": {
-    "img": "media/img/backpack.webp",
-    "uk": "media/uk/backpack.mp3",
-    "us": "media/us/backpack.mp3"
+    "img": "media/img/backpack.webp?v=4c1924c5",
+    "uk": "media/uk/backpack.mp3?v=df0632f1",
+    "us": "media/us/backpack.mp3?v=1cba257c"
    },
    "hook": {
     "kind": "split",
@@ -87,23 +87,23 @@
     {
      "en": "Mum puts the apples in a bag.",
      "zh": "妈妈把苹果装进袋子。",
-     "audio": "media/sent/0d113a7df4db.mp3"
+     "audio": "media/sent/0d113a7df4db.mp3?v=65ae02f0"
     },
     {
      "en": "Where is my bag?",
      "zh": "我的包在哪儿？",
-     "audio": "media/sent/22aac4a73db5.mp3"
+     "audio": "media/sent/22aac4a73db5.mp3?v=23167a49"
     },
     {
      "en": "This bag is very heavy.",
      "zh": "这个袋子很重。",
-     "audio": "media/sent/3b58cc0c113d.mp3"
+     "audio": "media/sent/3b58cc0c113d.mp3?v=d1a0b148"
     }
    ],
    "media": {
-    "img": "media/img/bag.webp",
-    "uk": "media/uk/bag.mp3",
-    "us": "media/us/bag.mp3"
+    "img": "media/img/bag.webp?v=526500e7",
+    "uk": "media/uk/bag.mp3?v=3cf04b73",
+    "us": "media/us/bag.mp3?v=6386b48c"
    },
    "spell": true,
    "avoid": [
@@ -143,23 +143,23 @@
     {
      "en": "Don't forget your bathing suit!",
      "zh": "别忘了你的泳衣！",
-     "audio": "media/sent/11a50a199b0c.mp3"
+     "audio": "media/sent/11a50a199b0c.mp3?v=ef66df62"
     },
     {
      "en": "Lily has a new bathing suit.",
      "zh": "Lily 有一件新泳衣。",
-     "audio": "media/sent/8b9c9976407d.mp3"
+     "audio": "media/sent/8b9c9976407d.mp3?v=4f3e60f8"
     },
     {
      "en": "Put your bathing suit in your bag.",
      "zh": "把泳衣放进包里。",
-     "audio": "media/sent/faf43c05a90a.mp3"
+     "audio": "media/sent/faf43c05a90a.mp3?v=324e3a5d"
     }
    ],
    "media": {
-    "img": "media/img/bathing-suit.webp",
-    "uk": "media/word/bathing-suit.mp3",
-    "us": "media/word/bathing-suit.mp3"
+    "img": "media/img/bathing-suit.webp?v=ee49ed98",
+    "uk": "media/word/bathing-suit.mp3?v=f8087053",
+    "us": "media/word/bathing-suit.mp3?v=f8087053"
    },
    "hook": {
     "kind": "split",
@@ -199,23 +199,23 @@
     {
      "en": "Dad has a brown belt.",
      "zh": "爸爸有一条棕色的皮带。",
-     "audio": "media/sent/db4774e944e0.mp3"
+     "audio": "media/sent/db4774e944e0.mp3?v=8900d020"
     },
     {
      "en": "These trousers need a belt.",
      "zh": "这条裤子需要系皮带。",
-     "audio": "media/sent/356750c3bc9c.mp3"
+     "audio": "media/sent/356750c3bc9c.mp3?v=fb29f3e9"
     },
     {
      "en": "Tom's belt is too long.",
      "zh": "Tom 的皮带太长了。",
-     "audio": "media/sent/a273710f2bcc.mp3"
+     "audio": "media/sent/a273710f2bcc.mp3?v=0202f3d0"
     }
    ],
    "media": {
-    "img": "media/img/belt.webp",
-    "uk": "media/uk/belt.mp3",
-    "us": "media/us/belt.mp3"
+    "img": "media/img/belt.webp?v=8c62a001",
+    "uk": "media/uk/belt.mp3?v=e450933d",
+    "us": "media/us/belt.mp3?v=66fb08de"
    },
    "avoid": []
   },
@@ -247,23 +247,23 @@
     {
      "en": "Mum wears a white blouse to work.",
      "zh": "妈妈穿白衬衫去上班。",
-     "audio": "media/sent/b2054361ead5.mp3"
+     "audio": "media/sent/b2054361ead5.mp3?v=1742a6e6"
     },
     {
      "en": "This blouse is too small for me.",
      "zh": "这件衬衫我穿太小了。",
-     "audio": "media/sent/bf099253619e.mp3"
+     "audio": "media/sent/bf099253619e.mp3?v=98080d55"
     },
     {
      "en": "Aunt Kate has a pink blouse.",
      "zh": "Kate 姑姑有一件粉色衬衫。",
-     "audio": "media/sent/7d26edf18d4b.mp3"
+     "audio": "media/sent/7d26edf18d4b.mp3?v=cd5137f6"
     }
    ],
    "media": {
-    "img": "media/img/blouse.webp",
-    "uk": "media/uk/blouse.mp3",
-    "us": "media/us/blouse.mp3"
+    "img": "media/img/blouse.webp?v=0410c26b",
+    "uk": "media/uk/blouse.mp3?v=5a2a47ab",
+    "us": "media/us/blouse.mp3?v=e0e74472"
    },
    "avoid": [
     "shirt",
@@ -298,23 +298,23 @@
     {
      "en": "Lily has a red boot and a blue boot!",
      "zh": "Lily 一只穿红靴子，一只穿蓝靴子！",
-     "audio": "media/sent/f87538187541.mp3"
+     "audio": "media/sent/f87538187541.mp3?v=ec0ccf5d"
     },
     {
      "en": "These boots are good for the snow.",
      "zh": "这双靴子适合在雪地里穿。",
-     "audio": "media/sent/a34b0e2ef54b.mp3"
+     "audio": "media/sent/a34b0e2ef54b.mp3?v=0d29fe3f"
     },
     {
      "en": "Take off your wet boots.",
      "zh": "脱掉你湿了的靴子。",
-     "audio": "media/sent/401dd08a0f1b.mp3"
+     "audio": "media/sent/401dd08a0f1b.mp3?v=3425cf4e"
     }
    ],
    "media": {
-    "img": "media/img/boot.webp",
-    "uk": "media/uk/boot.mp3",
-    "us": "media/us/boot.mp3"
+    "img": "media/img/boot.webp?v=5b692a65",
+    "uk": "media/uk/boot.mp3?v=6b5bc792",
+    "us": "media/us/boot.mp3?v=efb90869"
    },
    "avoid": [
     "shoe",
@@ -351,23 +351,23 @@
     {
      "en": "Lily has a pretty bracelet.",
      "zh": "Lily 有一条漂亮的手链。",
-     "audio": "media/sent/a0dbe1711cef.mp3"
+     "audio": "media/sent/a0dbe1711cef.mp3?v=fbdcd841"
     },
     {
      "en": "Grandma gives me a silver bracelet.",
      "zh": "奶奶送我一条银手链。",
-     "audio": "media/sent/de9e6224140d.mp3"
+     "audio": "media/sent/de9e6224140d.mp3?v=31f02f48"
     },
     {
      "en": "I make a bracelet for my friend.",
      "zh": "我给朋友做了一条手链。",
-     "audio": "media/sent/a7a1a17e1318.mp3"
+     "audio": "media/sent/a7a1a17e1318.mp3?v=bb9ab338"
     }
    ],
    "media": {
-    "img": "media/img/bracelet.webp",
-    "uk": "media/uk/bracelet.mp3",
-    "us": "media/us/bracelet.mp3"
+    "img": "media/img/bracelet.webp?v=8d4d61ae",
+    "uk": "media/uk/bracelet.mp3?v=5e89bb5f",
+    "us": "media/us/bracelet.mp3?v=2ea4a4fe"
    },
    "avoid": [
     "chain",
@@ -405,23 +405,23 @@
     {
      "en": "Tom wears a cap in the sun.",
      "zh": "Tom 在太阳下戴着棒球帽。",
-     "audio": "media/sent/33c37b70395f.mp3"
+     "audio": "media/sent/33c37b70395f.mp3?v=6d06d4b3"
     },
     {
      "en": "Where is my cap?",
      "zh": "我的帽子在哪儿？",
-     "audio": "media/sent/8d85613d1847.mp3"
+     "audio": "media/sent/8d85613d1847.mp3?v=e936b5b3"
     },
     {
      "en": "Sam has a red cap.",
      "zh": "Sam 有一顶红色的棒球帽。",
-     "audio": "media/sent/9adb95889d42.mp3"
+     "audio": "media/sent/9adb95889d42.mp3?v=c6bbb06f"
     }
    ],
    "media": {
-    "img": "media/img/cap.webp",
-    "uk": "media/uk/cap.mp3",
-    "us": "media/us/cap.mp3"
+    "img": "media/img/cap.webp?v=7f7014a2",
+    "uk": "media/uk/cap.mp3?v=b1a53689",
+    "us": "media/us/cap.mp3?v=033268d2"
    },
    "avoid": [
     "hat"
@@ -455,23 +455,23 @@
     {
      "en": "Grandma wears a gold chain.",
      "zh": "奶奶戴着一条金链子。",
-     "audio": "media/sent/95e233b1a874.mp3"
+     "audio": "media/sent/95e233b1a874.mp3?v=fd5e9452"
     },
     {
      "en": "The chain is very long.",
      "zh": "这条链子很长。",
-     "audio": "media/sent/36e850321175.mp3"
+     "audio": "media/sent/36e850321175.mp3?v=28ae7405"
     },
     {
      "en": "Mum has a silver chain.",
      "zh": "妈妈有一条银链子。",
-     "audio": "media/sent/9de3b01b926d.mp3"
+     "audio": "media/sent/9de3b01b926d.mp3?v=7487aba0"
     }
    ],
    "media": {
-    "img": "media/img/chain.webp",
-    "uk": "media/uk/chain.mp3",
-    "us": "media/us/chain.mp3"
+    "img": "media/img/chain.webp?v=1831409a",
+    "uk": "media/uk/chain.mp3?v=7c09e73f",
+    "us": "media/us/chain.mp3?v=aa78c062"
    },
    "hook": {
     "kind": "contrast",
@@ -513,23 +513,23 @@
     {
      "en": "Put your clothes in the cupboard.",
      "zh": "把衣服放进柜子里。",
-     "audio": "media/sent/52afc5d54b90.mp3"
+     "audio": "media/sent/52afc5d54b90.mp3?v=761afd07"
     },
     {
      "en": "I need new clothes for school.",
      "zh": "我需要新的上学衣服。",
-     "audio": "media/sent/b82342fc3650.mp3"
+     "audio": "media/sent/b82342fc3650.mp3?v=78a33747"
     },
     {
      "en": "Lily's clothes are on the floor.",
      "zh": "Lily 的衣服扔在地上。",
-     "audio": "media/sent/979b5958d171.mp3"
+     "audio": "media/sent/979b5958d171.mp3?v=5a79cc6e"
     }
    ],
    "media": {
-    "img": "media/img/clothes.webp",
-    "uk": "media/uk/clothes.mp3",
-    "us": "media/us/clothes.mp3"
+    "img": "media/img/clothes.webp?v=f1b25f31",
+    "uk": "media/uk/clothes.mp3?v=0211e603",
+    "us": "media/us/clothes.mp3?v=f3bfc53b"
    },
    "spell": true,
    "hook": {
@@ -571,23 +571,23 @@
     {
      "en": "Put on your coat. It's cold.",
      "zh": "穿上外套，天冷。",
-     "audio": "media/sent/a84d6dc74bc5.mp3"
+     "audio": "media/sent/a84d6dc74bc5.mp3?v=3f0d7bf5"
     },
     {
      "en": "Lily has a new winter coat.",
      "zh": "Lily 有一件新的冬大衣。",
-     "audio": "media/sent/8a9ff554fba8.mp3"
+     "audio": "media/sent/8a9ff554fba8.mp3?v=c3316a0d"
     },
     {
      "en": "Where is your coat?",
      "zh": "你的外套在哪儿？",
-     "audio": "media/sent/93751548f71a.mp3"
+     "audio": "media/sent/93751548f71a.mp3?v=dbba19a4"
     }
    ],
    "media": {
-    "img": "media/img/coat.webp",
-    "uk": "media/uk/coat.mp3",
-    "us": "media/us/coat.mp3"
+    "img": "media/img/coat.webp?v=0bb322db",
+    "uk": "media/uk/coat.mp3?v=c32a9d73",
+    "us": "media/us/coat.mp3?v=c59acedb"
    },
    "spell": true,
    "avoid": [
@@ -624,23 +624,23 @@
     {
      "en": "Tom wears a lion costume at the party.",
      "zh": "Tom 在聚会上穿了一套狮子服。",
-     "audio": "media/sent/925b38b972cb.mp3"
+     "audio": "media/sent/925b38b972cb.mp3?v=662493fa"
     },
     {
      "en": "What costume do you want?",
      "zh": "你想穿什么服装？",
-     "audio": "media/sent/ebd0eb1cdbc4.mp3"
+     "audio": "media/sent/ebd0eb1cdbc4.mp3?v=a28eea6f"
     },
     {
      "en": "I forgot my swimming costume.",
      "zh": "我忘带泳衣了。",
-     "audio": "media/sent/5d012f89b13d.mp3"
+     "audio": "media/sent/5d012f89b13d.mp3?v=fc04d07b"
     }
    ],
    "media": {
-    "img": "media/img/costume.webp",
-    "uk": "media/uk/costume.mp3",
-    "us": "media/us/costume.mp3"
+    "img": "media/img/costume.webp?v=c5db286c",
+    "uk": "media/uk/costume.mp3?v=e7c5f375",
+    "us": "media/us/costume.mp3?v=b73539e5"
    },
    "hook": {
     "kind": "contrast",
@@ -690,23 +690,23 @@
     {
      "en": "Lily has a new blue dress.",
      "zh": "Lily 有一条新的蓝色连衣裙。",
-     "audio": "media/sent/7332e2f92dab.mp3"
+     "audio": "media/sent/7332e2f92dab.mp3?v=a30d2501"
     },
     {
      "en": "Mum wears a long dress to the party.",
      "zh": "妈妈穿长裙去参加聚会。",
-     "audio": "media/sent/95a86dd458f7.mp3"
+     "audio": "media/sent/95a86dd458f7.mp3?v=28eed2e4"
     },
     {
      "en": "This dress is too big for me.",
      "zh": "这条裙子我穿太大了。",
-     "audio": "media/sent/b8aeb013033f.mp3"
+     "audio": "media/sent/b8aeb013033f.mp3?v=f7245ce4"
     }
    ],
    "media": {
-    "img": "media/img/dress.webp",
-    "uk": "media/uk/dress.mp3",
-    "us": "media/us/dress.mp3"
+    "img": "media/img/dress.webp?v=85deda37",
+    "uk": "media/uk/dress.mp3?v=62a91bbb",
+    "us": "media/us/dress.mp3?v=1301256e"
    },
    "spell": true,
    "avoid": [
@@ -742,23 +742,23 @@
     {
      "en": "Aunt Kate has gold earrings.",
      "zh": "Kate 姑姑戴着金耳环。",
-     "audio": "media/sent/ec5ff876b2d1.mp3"
+     "audio": "media/sent/ec5ff876b2d1.mp3?v=6f00352b"
     },
     {
      "en": "I can't find my earring.",
      "zh": "我找不到我的耳环了。",
-     "audio": "media/sent/96049048f7c5.mp3"
+     "audio": "media/sent/96049048f7c5.mp3?v=85b02831"
     },
     {
      "en": "This earring is very pretty.",
      "zh": "这只耳环很漂亮。",
-     "audio": "media/sent/3bee99f8bba5.mp3"
+     "audio": "media/sent/3bee99f8bba5.mp3?v=4689b3f2"
     }
    ],
    "media": {
-    "img": "media/img/earring.webp",
-    "uk": "media/word/earring.mp3",
-    "us": "media/word/earring.mp3"
+    "img": "media/img/earring.webp?v=eb23eaac",
+    "uk": "media/word/earring.mp3?v=7390dc9e",
+    "us": "media/word/earring.mp3?v=7390dc9e"
    },
    "hook": {
     "kind": "split",
@@ -801,23 +801,23 @@
     {
      "en": "My cousin loves fashion.",
      "zh": "我表姐很爱时尚。",
-     "audio": "media/sent/6ec326edc0a1.mp3"
+     "audio": "media/sent/6ec326edc0a1.mp3?v=c1d34a53"
     },
     {
      "en": "Big glasses are in fashion now.",
      "zh": "现在流行大眼镜。",
-     "audio": "media/sent/4f0e99130be6.mp3"
+     "audio": "media/sent/4f0e99130be6.mp3?v=a3d0d4d1"
     },
     {
      "en": "She reads fashion magazines.",
      "zh": "她看时尚杂志。",
-     "audio": "media/sent/40af099dc81a.mp3"
+     "audio": "media/sent/40af099dc81a.mp3?v=93c1d58e"
     }
    ],
    "media": {
-    "img": "media/img/fashion.webp",
-    "uk": "media/uk/fashion.mp3",
-    "us": "media/us/fashion.mp3"
+    "img": "media/img/fashion.webp?v=ff497dcf",
+    "uk": "media/uk/fashion.mp3?v=4280cfe5",
+    "us": "media/us/fashion.mp3?v=14a0379a"
    },
    "avoid": [
     "clothes",
@@ -855,23 +855,23 @@
     {
      "en": "Get dressed, Tom! It's time for school.",
      "zh": "Tom，穿衣服！该上学了。",
-     "audio": "media/sent/0d965e5dbb61.mp3"
+     "audio": "media/sent/0d965e5dbb61.mp3?v=19d4467a"
     },
     {
      "en": "I get dressed after breakfast.",
      "zh": "我吃完早饭穿衣服。",
-     "audio": "media/sent/0f127b011034.mp3"
+     "audio": "media/sent/0f127b011034.mp3?v=7e48b31e"
     },
     {
      "en": "Can you get dressed quickly?",
      "zh": "你能快点穿好衣服吗？",
-     "audio": "media/sent/613809e58069.mp3"
+     "audio": "media/sent/613809e58069.mp3?v=dfdfd9f7"
     }
    ],
    "media": {
-    "img": "media/img/get-dressed.webp",
-    "uk": "media/word/get-dressed.mp3",
-    "us": "media/word/get-dressed.mp3"
+    "img": "media/img/get-dressed.webp?v=85c9ce20",
+    "uk": "media/word/get-dressed.mp3?v=1a96897b",
+    "us": "media/word/get-dressed.mp3?v=1a96897b"
    },
    "hook": {
     "kind": "split",
@@ -913,23 +913,23 @@
     {
      "en": "Dad can't read without his glasses.",
      "zh": "爸爸不戴眼镜看不了书。",
-     "audio": "media/sent/1c9bd995b27b.mp3"
+     "audio": "media/sent/1c9bd995b27b.mp3?v=bf6d1e25"
     },
     {
      "en": "Where are my glasses?",
      "zh": "我的眼镜在哪儿？",
-     "audio": "media/sent/d45e82057374.mp3"
+     "audio": "media/sent/d45e82057374.mp3?v=6b2e2474"
     },
     {
      "en": "Sam wears glasses.",
      "zh": "Sam 戴眼镜。",
-     "audio": "media/sent/db98e83071f5.mp3"
+     "audio": "media/sent/db98e83071f5.mp3?v=6af3d701"
     }
    ],
    "media": {
-    "img": "media/img/glasses.webp",
-    "uk": "media/uk/glasses.mp3",
-    "us": "media/us/glasses.mp3"
+    "img": "media/img/glasses.webp?v=0c999f52",
+    "uk": "media/uk/glasses.mp3?v=8a23f9d0",
+    "us": "media/us/glasses.mp3?v=42c83978"
    },
    "spell": true,
    "hook": {
@@ -968,23 +968,23 @@
     {
      "en": "Wear your gloves. It's cold.",
      "zh": "戴上手套，天冷。",
-     "audio": "media/sent/94328d78585e.mp3"
+     "audio": "media/sent/94328d78585e.mp3?v=b6fb0aed"
     },
     {
      "en": "I can't find my other glove.",
      "zh": "我找不到另一只手套了。",
-     "audio": "media/sent/5e9acf968105.mp3"
+     "audio": "media/sent/5e9acf968105.mp3?v=a157d50e"
     },
     {
      "en": "These gloves are warm.",
      "zh": "这副手套很暖和。",
-     "audio": "media/sent/412b1213db82.mp3"
+     "audio": "media/sent/412b1213db82.mp3?v=55892133"
     }
    ],
    "media": {
-    "img": "media/img/glove.webp",
-    "uk": "media/uk/glove.mp3",
-    "us": "media/us/glove.mp3"
+    "img": "media/img/glove.webp?v=c9f9b7fc",
+    "uk": "media/uk/glove.mp3?v=a3e9e79d",
+    "us": "media/us/glove.mp3?v=c043a575"
    },
    "hook": {
     "kind": "story",
@@ -1021,23 +1021,23 @@
     {
      "en": "Mum's keys are in her handbag.",
      "zh": "妈妈的钥匙在她的手提包里。",
-     "audio": "media/sent/9a214822464f.mp3"
+     "audio": "media/sent/9a214822464f.mp3?v=c048ac9c"
     },
     {
      "en": "Grandma has a big handbag.",
      "zh": "奶奶有一个大手提包。",
-     "audio": "media/sent/b0821b54237b.mp3"
+     "audio": "media/sent/b0821b54237b.mp3?v=6febb873"
     },
     {
      "en": "Is your phone in your handbag?",
      "zh": "你的手机在手提包里吗？",
-     "audio": "media/sent/04a4f45fa116.mp3"
+     "audio": "media/sent/04a4f45fa116.mp3?v=60d918f3"
     }
    ],
    "media": {
-    "img": "media/img/handbag.webp",
-    "uk": "media/uk/handbag.mp3",
-    "us": "media/us/handbag.mp3"
+    "img": "media/img/handbag.webp?v=0e18f79d",
+    "uk": "media/uk/handbag.mp3?v=58990da9",
+    "us": "media/us/handbag.mp3?v=c40b0a11"
    },
    "hook": {
     "kind": "split",
@@ -1078,23 +1078,23 @@
     {
      "en": "Grandpa wears a hat in the garden.",
      "zh": "爷爷在花园里戴着帽子。",
-     "audio": "media/sent/1870f1f099a7.mp3"
+     "audio": "media/sent/1870f1f099a7.mp3?v=a3a9c3a8"
     },
     {
      "en": "Put on your hat. It's sunny.",
      "zh": "戴上帽子，太阳很大。",
-     "audio": "media/sent/2a2906ee7d2a.mp3"
+     "audio": "media/sent/2a2906ee7d2a.mp3?v=fd028faa"
     },
     {
      "en": "I like your new hat!",
      "zh": "我喜欢你的新帽子！",
-     "audio": "media/sent/da59b65560b5.mp3"
+     "audio": "media/sent/da59b65560b5.mp3?v=bd48109e"
     }
    ],
    "media": {
-    "img": "media/img/hat.webp",
-    "uk": "media/uk/hat.mp3",
-    "us": "media/us/hat.mp3"
+    "img": "media/img/hat.webp?v=0fefee51",
+    "uk": "media/uk/hat.mp3?v=2f11e2a2",
+    "us": "media/us/hat.mp3?v=520d15bc"
    },
    "spell": true,
    "avoid": [
@@ -1130,23 +1130,23 @@
     {
      "en": "Sam wears a green hoodie.",
      "zh": "Sam 穿着一件绿色连帽衫。",
-     "audio": "media/sent/75b967ead9b1.mp3"
+     "audio": "media/sent/75b967ead9b1.mp3?v=26792f1b"
     },
     {
      "en": "This hoodie is very warm.",
      "zh": "这件连帽衫很暖和。",
-     "audio": "media/sent/15195ddf6654.mp3"
+     "audio": "media/sent/15195ddf6654.mp3?v=acd0a197"
     },
     {
      "en": "Tom wants a hoodie for his birthday.",
      "zh": "Tom 生日想要一件连帽衫。",
-     "audio": "media/sent/6d189543b4d6.mp3"
+     "audio": "media/sent/6d189543b4d6.mp3?v=db06544c"
     }
    ],
    "media": {
-    "img": "media/img/hoodie.webp",
-    "uk": "media/word/hoodie.mp3",
-    "us": "media/word/hoodie.mp3"
+    "img": "media/img/hoodie.webp?v=096624bb",
+    "uk": "media/word/hoodie.mp3?v=eed35eb7",
+    "us": "media/word/hoodie.mp3?v=eed35eb7"
    },
    "avoid": [
     "jumper",
@@ -1182,23 +1182,23 @@
     {
      "en": "Take your jacket. It's windy.",
      "zh": "带上夹克，外面有风。",
-     "audio": "media/sent/a64dcd1e3a71.mp3"
+     "audio": "media/sent/a64dcd1e3a71.mp3?v=2fb752f7"
     },
     {
      "en": "My jacket is in the car.",
      "zh": "我的夹克在车里。",
-     "audio": "media/sent/abc3d4ef4a8c.mp3"
+     "audio": "media/sent/abc3d4ef4a8c.mp3?v=c966890b"
     },
     {
      "en": "Dad's jacket is too big for me.",
      "zh": "爸爸的夹克我穿太大了。",
-     "audio": "media/sent/196fcca8e852.mp3"
+     "audio": "media/sent/196fcca8e852.mp3?v=43c357e5"
     }
    ],
    "media": {
-    "img": "media/img/jacket.webp",
-    "uk": "media/uk/jacket.mp3",
-    "us": "media/us/jacket.mp3"
+    "img": "media/img/jacket.webp?v=8349078e",
+    "uk": "media/uk/jacket.mp3?v=7db9864f",
+    "us": "media/us/jacket.mp3?v=4b6738a5"
    },
    "spell": true,
    "avoid": [
@@ -1234,23 +1234,23 @@
     {
      "en": "Tom wears jeans every day.",
      "zh": "Tom 每天都穿牛仔裤。",
-     "audio": "media/sent/87c30ccf151e.mp3"
+     "audio": "media/sent/87c30ccf151e.mp3?v=6e2bc0ab"
     },
     {
      "en": "These jeans are too long.",
      "zh": "这条牛仔裤太长了。",
-     "audio": "media/sent/9b512ebc8172.mp3"
+     "audio": "media/sent/9b512ebc8172.mp3?v=39d6c8ae"
     },
     {
      "en": "I want new jeans.",
      "zh": "我想要一条新牛仔裤。",
-     "audio": "media/sent/054d95856cb0.mp3"
+     "audio": "media/sent/054d95856cb0.mp3?v=f98c8abb"
     }
    ],
    "media": {
-    "img": "media/img/jeans.webp",
-    "uk": "media/uk/jeans.mp3",
-    "us": "media/us/jeans.mp3"
+    "img": "media/img/jeans.webp?v=4a9d9f55",
+    "uk": "media/uk/jeans.mp3?v=74a886e6",
+    "us": "media/us/jeans.mp3?v=acdfee43"
    },
    "spell": true,
    "avoid": [
@@ -1290,23 +1290,23 @@
     {
      "en": "Grandma keeps her jewellery in a box.",
      "zh": "奶奶把首饰放在盒子里。",
-     "audio": "media/sent/23e15224c139.mp3"
+     "audio": "media/sent/23e15224c139.mp3?v=8cf41c93"
     },
     {
      "en": "This shop sells jewellery.",
      "zh": "这家店卖首饰。",
-     "audio": "media/sent/9a83637da3df.mp3"
+     "audio": "media/sent/9a83637da3df.mp3?v=471587c4"
     },
     {
      "en": "Mum doesn't wear much jewellery.",
      "zh": "妈妈不怎么戴首饰。",
-     "audio": "media/sent/76880b0b3601.mp3"
+     "audio": "media/sent/76880b0b3601.mp3?v=345ce839"
     }
    ],
    "media": {
-    "img": "media/img/jewellery.webp",
-    "uk": "media/uk/jewellery.mp3",
-    "us": "media/us/jewellery.mp3"
+    "img": "media/img/jewellery.webp?v=fb2920e2",
+    "uk": "media/uk/jewellery.mp3?v=79613b6e",
+    "us": "media/us/jewellery.mp3?v=2fbe26d4"
    },
    "hook": {
     "kind": "contrast",
@@ -1349,23 +1349,23 @@
     {
      "en": "Grandma makes me a jumper.",
      "zh": "奶奶给我织了一件毛衣。",
-     "audio": "media/sent/e774f42f82b7.mp3"
+     "audio": "media/sent/e774f42f82b7.mp3?v=9734756a"
     },
     {
      "en": "Put on a jumper. It's cold.",
      "zh": "穿件毛衣，天冷。",
-     "audio": "media/sent/1d5cb07948bc.mp3"
+     "audio": "media/sent/1d5cb07948bc.mp3?v=5977a78d"
     },
     {
      "en": "Dad has a blue jumper.",
      "zh": "爸爸有一件蓝毛衣。",
-     "audio": "media/sent/1cf5474d72d8.mp3"
+     "audio": "media/sent/1cf5474d72d8.mp3?v=7fffdf10"
     }
    ],
    "media": {
-    "img": "media/img/jumper.webp",
-    "uk": "media/uk/jumper.mp3",
-    "us": "media/us/jumper.mp3"
+    "img": "media/img/jumper.webp?v=f290f06c",
+    "uk": "media/uk/jumper.mp3?v=376cbc17",
+    "us": "media/us/jumper.mp3?v=435b3dac"
    },
    "hook": {
     "kind": "affix",
@@ -1404,23 +1404,23 @@
     {
      "en": "Don't forget your football kit!",
      "zh": "别忘了你的足球服！",
-     "audio": "media/sent/12f25ee396ed.mp3"
+     "audio": "media/sent/12f25ee396ed.mp3?v=5c47bec8"
     },
     {
      "en": "My kit is in my bag.",
      "zh": "我的运动装备在包里。",
-     "audio": "media/sent/4ad5e6ff3378.mp3"
+     "audio": "media/sent/4ad5e6ff3378.mp3?v=4851df88"
     },
     {
      "en": "Our team has a new red kit.",
      "zh": "我们队有了新的红色队服。",
-     "audio": "media/sent/91f5f41d5473.mp3"
+     "audio": "media/sent/91f5f41d5473.mp3?v=e52e8bc0"
     }
    ],
    "media": {
-    "img": "media/img/kit.webp",
-    "uk": "media/uk/kit.mp3",
-    "us": "media/us/kit.mp3"
+    "img": "media/img/kit.webp?v=1de75d9c",
+    "uk": "media/uk/kit.mp3?v=a0cbd230",
+    "us": "media/us/kit.mp3?v=cfabad1a"
    },
    "hook": {
     "kind": "contrast",
@@ -1460,23 +1460,23 @@
     {
      "en": "Lily makes a necklace for Mum.",
      "zh": "Lily 给妈妈做了一条项链。",
-     "audio": "media/sent/d4fc31dc763b.mp3"
+     "audio": "media/sent/d4fc31dc763b.mp3?v=ceb3d9fc"
     },
     {
      "en": "This necklace is very old.",
      "zh": "这条项链很旧了。",
-     "audio": "media/sent/0bdc254daa3b.mp3"
+     "audio": "media/sent/0bdc254daa3b.mp3?v=3c0ee21f"
     },
     {
      "en": "Grandma wears a long necklace.",
      "zh": "奶奶戴着一条长项链。",
-     "audio": "media/sent/6d76c366893d.mp3"
+     "audio": "media/sent/6d76c366893d.mp3?v=05936026"
     }
    ],
    "media": {
-    "img": "media/img/necklace.webp",
-    "uk": "media/uk/necklace.mp3",
-    "us": "media/us/necklace.mp3"
+    "img": "media/img/necklace.webp?v=833fd31a",
+    "uk": "media/uk/necklace.mp3?v=bbd38b62",
+    "us": "media/us/necklace.mp3?v=f3e12d4c"
    },
    "avoid": [
     "bracelet",
@@ -1515,23 +1515,23 @@
     {
      "en": "There is a sweet in my pocket.",
      "zh": "我口袋里有一颗糖。",
-     "audio": "media/sent/4a2eeb72bd53.mp3"
+     "audio": "media/sent/4a2eeb72bd53.mp3?v=3c30f82e"
     },
     {
      "en": "Put your hands in your pockets.",
      "zh": "把手插进口袋里。",
-     "audio": "media/sent/ae71f88dfe42.mp3"
+     "audio": "media/sent/ae71f88dfe42.mp3?v=1da23970"
     },
     {
      "en": "My phone is in my pocket.",
      "zh": "我的手机在口袋里。",
-     "audio": "media/sent/fafa4ec7c2bd.mp3"
+     "audio": "media/sent/fafa4ec7c2bd.mp3?v=10fe941a"
     }
    ],
    "media": {
-    "img": "media/img/pocket.webp",
-    "uk": "media/uk/pocket.mp3",
-    "us": "media/us/pocket.mp3"
+    "img": "media/img/pocket.webp?v=cbb43e3d",
+    "uk": "media/uk/pocket.mp3?v=40306773",
+    "us": "media/us/pocket.mp3?v=a7297b24"
    },
    "avoid": [
     "jeans"
@@ -1565,23 +1565,23 @@
     {
      "en": "Mum takes some money from her purse.",
      "zh": "妈妈从钱包里拿出一些钱。",
-     "audio": "media/sent/1d5d5242d4a7.mp3"
+     "audio": "media/sent/1d5d5242d4a7.mp3?v=6a5b0070"
     },
     {
      "en": "I can't find my purse.",
      "zh": "我找不到我的钱包了。",
-     "audio": "media/sent/da67eb3632c9.mp3"
+     "audio": "media/sent/da67eb3632c9.mp3?v=95346722"
     },
     {
      "en": "Grandma has a red purse.",
      "zh": "奶奶有一个红钱包。",
-     "audio": "media/sent/4b8ba48877dc.mp3"
+     "audio": "media/sent/4b8ba48877dc.mp3?v=eaaf168c"
     }
    ],
    "media": {
-    "img": "media/img/purse.webp",
-    "uk": "media/uk/purse.mp3",
-    "us": "media/us/purse.mp3"
+    "img": "media/img/purse.webp?v=070d2ec1",
+    "uk": "media/uk/purse.mp3?v=eab0b6dd",
+    "us": "media/us/purse.mp3?v=ddadc05b"
    },
    "avoid": [
     "backpack",
@@ -1619,23 +1619,23 @@
     {
      "en": "Lily wears a yellow raincoat.",
      "zh": "Lily 穿着一件黄色雨衣。",
-     "audio": "media/sent/24a2ab9defca.mp3"
+     "audio": "media/sent/24a2ab9defca.mp3?v=edcbf148"
     },
     {
      "en": "Take your raincoat. It's going to rain.",
      "zh": "带上雨衣，要下雨了。",
-     "audio": "media/sent/586d005da732.mp3"
+     "audio": "media/sent/586d005da732.mp3?v=1ba795a0"
     },
     {
      "en": "My raincoat is wet.",
      "zh": "我的雨衣湿了。",
-     "audio": "media/sent/9add32f4bc7e.mp3"
+     "audio": "media/sent/9add32f4bc7e.mp3?v=6e8a229c"
     }
    ],
    "media": {
-    "img": "media/img/raincoat.webp",
-    "uk": "media/uk/raincoat.mp3",
-    "us": "media/us/raincoat.mp3"
+    "img": "media/img/raincoat.webp?v=f94d9bab",
+    "uk": "media/uk/raincoat.mp3?v=d5ca701f",
+    "us": "media/us/raincoat.mp3?v=ce08ad08"
    },
    "hook": {
     "kind": "split",
@@ -1683,23 +1683,23 @@
     {
      "en": "Mum has a gold ring.",
      "zh": "妈妈有一枚金戒指。",
-     "audio": "media/sent/b97520e167d5.mp3"
+     "audio": "media/sent/b97520e167d5.mp3?v=49759f3a"
     },
     {
      "en": "He gives her a ring.",
      "zh": "他送给她一枚戒指。",
-     "audio": "media/sent/b85e5f2d6c30.mp3"
+     "audio": "media/sent/b85e5f2d6c30.mp3?v=183581bd"
     },
     {
      "en": "This ring is too big for my finger.",
      "zh": "这枚戒指我戴太大了。",
-     "audio": "media/sent/87f412ffc914.mp3"
+     "audio": "media/sent/87f412ffc914.mp3?v=06e3ebdd"
     }
    ],
    "media": {
-    "img": "media/img/ring.webp",
-    "uk": "media/uk/ring.mp3",
-    "us": "media/us/ring.mp3"
+    "img": "media/img/ring.webp?v=5b8a727a",
+    "uk": "media/uk/ring.mp3?v=22baea45",
+    "us": "media/us/ring.mp3?v=285a9f32"
    },
    "avoid": [
     "bracelet",
@@ -1745,23 +1745,23 @@
     {
      "en": "The phone is ringing.",
      "zh": "电话在响。",
-     "audio": "media/sent/ad9d0542a635.mp3"
+     "audio": "media/sent/ad9d0542a635.mp3?v=bbabf7ee"
     },
     {
      "en": "I'll ring you tomorrow.",
      "zh": "我明天给你打电话。",
-     "audio": "media/sent/fae40f72eb75.mp3"
+     "audio": "media/sent/fae40f72eb75.mp3?v=78a8cf8b"
     },
     {
      "en": "Ring Grandma and say thank you.",
      "zh": "给奶奶打电话说声谢谢。",
-     "audio": "media/sent/19a14d0cef67.mp3"
+     "audio": "media/sent/19a14d0cef67.mp3?v=3194ba1e"
     }
    ],
    "media": {
-    "img": "media/img/ring.2.webp",
-    "uk": "media/uk/ring.mp3",
-    "us": "media/us/ring.mp3"
+    "img": "media/img/ring.2.webp?v=53651375",
+    "uk": "media/uk/ring.mp3?v=22baea45",
+    "us": "media/us/ring.mp3?v=285a9f32"
    },
    "of": "ring",
    "ofZh": "戒指",
@@ -1797,23 +1797,23 @@
     {
      "en": "Grandma makes me a long scarf.",
      "zh": "奶奶给我织了一条长围巾。",
-     "audio": "media/sent/b769b4bc1c52.mp3"
+     "audio": "media/sent/b769b4bc1c52.mp3?v=ce48fd4d"
     },
     {
      "en": "Wear a scarf. It's cold outside.",
      "zh": "戴上围巾，外面冷。",
-     "audio": "media/sent/1fd868b73ca3.mp3"
+     "audio": "media/sent/1fd868b73ca3.mp3?v=6d1162f7"
     },
     {
      "en": "My scarf is very warm.",
      "zh": "我的围巾很暖和。",
-     "audio": "media/sent/0d0a198f1b47.mp3"
+     "audio": "media/sent/0d0a198f1b47.mp3?v=fa408810"
     }
    ],
    "media": {
-    "img": "media/img/scarf.webp",
-    "uk": "media/uk/scarf.mp3",
-    "us": "media/us/scarf.mp3"
+    "img": "media/img/scarf.webp?v=83e0a646",
+    "uk": "media/uk/scarf.mp3?v=2a6c9f53",
+    "us": "media/us/scarf.mp3?v=0b050ec8"
    },
    "avoid": []
   },
@@ -1845,23 +1845,23 @@
     {
      "en": "Dad wears a white shirt to work.",
      "zh": "爸爸穿白衬衫去上班。",
-     "audio": "media/sent/debd539552cf.mp3"
+     "audio": "media/sent/debd539552cf.mp3?v=8ad1e26f"
     },
     {
      "en": "This shirt is too small.",
      "zh": "这件衬衫太小了。",
-     "audio": "media/sent/1123f55023dc.mp3"
+     "audio": "media/sent/1123f55023dc.mp3?v=4521444e"
     },
     {
      "en": "Tom has a new shirt for the party.",
      "zh": "Tom 有一件参加聚会的新衬衫。",
-     "audio": "media/sent/f8388867d757.mp3"
+     "audio": "media/sent/f8388867d757.mp3?v=de109b6a"
     }
    ],
    "media": {
-    "img": "media/img/shirt.webp",
-    "uk": "media/uk/shirt.mp3",
-    "us": "media/us/shirt.mp3"
+    "img": "media/img/shirt.webp?v=7613a1d9",
+    "uk": "media/uk/shirt.mp3?v=61d29450",
+    "us": "media/us/shirt.mp3?v=6deb5edf"
    },
    "spell": true,
    "avoid": [
@@ -1899,23 +1899,23 @@
     {
      "en": "Put on your shoes, Tom!",
      "zh": "Tom，穿上鞋！",
-     "audio": "media/sent/86921f3a6112.mp3"
+     "audio": "media/sent/86921f3a6112.mp3?v=a35f7a58"
     },
     {
      "en": "My new shoes are black.",
      "zh": "我的新鞋是黑色的。",
-     "audio": "media/sent/3011ea1fde68.mp3"
+     "audio": "media/sent/3011ea1fde68.mp3?v=b6123a41"
     },
     {
      "en": "I can't find my other shoe.",
      "zh": "我找不到另一只鞋了。",
-     "audio": "media/sent/f528bdf9814d.mp3"
+     "audio": "media/sent/f528bdf9814d.mp3?v=4c71f58c"
     }
    ],
    "media": {
-    "img": "media/img/shoe.webp",
-    "uk": "media/uk/shoe.mp3",
-    "us": "media/us/shoe.mp3"
+    "img": "media/img/shoe.webp?v=fe06b9ad",
+    "uk": "media/uk/shoe.mp3?v=6459d819",
+    "us": "media/us/shoe.mp3?v=63ae1b16"
    },
    "spell": true,
    "avoid": [
@@ -1960,23 +1960,23 @@
     {
      "en": "Lily wears trainers for sport.",
      "zh": "Lily 运动时穿运动鞋。",
-     "audio": "media/sent/f56186b2c834.mp3"
+     "audio": "media/sent/f56186b2c834.mp3?v=b96d9da9"
     },
     {
      "en": "Max has my trainer in his mouth!",
      "zh": "Max 把我的运动鞋叼在嘴里！",
-     "audio": "media/sent/e9ca56d283b4.mp3"
+     "audio": "media/sent/e9ca56d283b4.mp3?v=a209a187"
     },
     {
      "en": "I need new trainers for football.",
      "zh": "我踢足球需要一双新运动鞋。",
-     "audio": "media/sent/9065bfec3963.mp3"
+     "audio": "media/sent/9065bfec3963.mp3?v=081a28f8"
     }
    ],
    "media": {
-    "img": "media/img/trainer.webp",
-    "uk": "media/uk/trainer.mp3",
-    "us": "media/us/trainer.mp3"
+    "img": "media/img/trainer.webp?v=ae75b96f",
+    "uk": "media/uk/trainer.mp3?v=e40fabd2",
+    "us": "media/us/trainer.mp3?v=e9906903"
    },
    "hook": {
     "kind": "affix",
@@ -2016,23 +2016,23 @@
     {
      "en": "Tom wears shorts in summer.",
      "zh": "Tom 夏天穿短裤。",
-     "audio": "media/sent/30699ccedb4b.mp3"
+     "audio": "media/sent/30699ccedb4b.mp3?v=2da12afd"
     },
     {
      "en": "It's hot. Wear your shorts.",
      "zh": "天热，穿短裤吧。",
-     "audio": "media/sent/b7b8d0438bf4.mp3"
+     "audio": "media/sent/b7b8d0438bf4.mp3?v=85953edc"
     },
     {
      "en": "My shorts are in the drawer.",
      "zh": "我的短裤在抽屉里。",
-     "audio": "media/sent/e5477cdd301a.mp3"
+     "audio": "media/sent/e5477cdd301a.mp3?v=47e9015f"
     }
    ],
    "media": {
-    "img": "media/img/shorts.webp",
-    "uk": "media/uk/shorts.mp3",
-    "us": "media/us/shorts.mp3"
+    "img": "media/img/shorts.webp?v=eee2b192",
+    "uk": "media/uk/shorts.mp3?v=e7c5e996",
+    "us": "media/us/shorts.mp3?v=2f2aa4f9"
    },
    "hook": {
     "kind": "affix",
@@ -2072,23 +2072,23 @@
     {
      "en": "Lily has a pink skirt.",
      "zh": "Lily 有一条粉色的半身裙。",
-     "audio": "media/sent/788e1e4b9176.mp3"
+     "audio": "media/sent/788e1e4b9176.mp3?v=dcc81cc1"
     },
     {
      "en": "This skirt is too long.",
      "zh": "这条裙子太长了。",
-     "audio": "media/sent/ec5c0862ac0d.mp3"
+     "audio": "media/sent/ec5c0862ac0d.mp3?v=0e1c8a51"
     },
     {
      "en": "Mum wears a black skirt.",
      "zh": "妈妈穿着黑色的裙子。",
-     "audio": "media/sent/66dae0e9e77c.mp3"
+     "audio": "media/sent/66dae0e9e77c.mp3?v=d109ce5c"
     }
    ],
    "media": {
-    "img": "media/img/skirt.webp",
-    "uk": "media/uk/skirt.mp3",
-    "us": "media/us/skirt.mp3"
+    "img": "media/img/skirt.webp?v=b02bc84c",
+    "uk": "media/uk/skirt.mp3?v=e24e348c",
+    "us": "media/us/skirt.mp3?v=3cf89a3e"
    },
    "spell": true,
    "avoid": [
@@ -2123,23 +2123,23 @@
     {
      "en": "Where is my other sock?",
      "zh": "我的另一只袜子在哪儿？",
-     "audio": "media/sent/05fc89dd694b.mp3"
+     "audio": "media/sent/05fc89dd694b.mp3?v=dd5bae85"
     },
     {
      "en": "Max likes to play with my socks.",
      "zh": "Max 喜欢玩我的袜子。",
-     "audio": "media/sent/bb47b5067db9.mp3"
+     "audio": "media/sent/bb47b5067db9.mp3?v=d49912ce"
     },
     {
      "en": "I need clean socks.",
      "zh": "我需要干净的袜子。",
-     "audio": "media/sent/fa5a99c35cdd.mp3"
+     "audio": "media/sent/fa5a99c35cdd.mp3?v=de4be667"
     }
    ],
    "media": {
-    "img": "media/img/sock.webp",
-    "uk": "media/uk/sock.mp3",
-    "us": "media/us/sock.mp3"
+    "img": "media/img/sock.webp?v=9efa13f5",
+    "uk": "media/uk/sock.mp3?v=982f45da",
+    "us": "media/us/sock.mp3?v=a9467fff"
    },
    "spell": true,
    "avoid": [
@@ -2176,23 +2176,23 @@
     {
      "en": "Uncle Ben wears a suit to the party.",
      "zh": "Ben 叔叔穿西装去参加聚会。",
-     "audio": "media/sent/1b4f428666c1.mp3"
+     "audio": "media/sent/1b4f428666c1.mp3?v=e07f3453"
     },
     {
      "en": "Dad wears a grey suit to work.",
      "zh": "爸爸穿灰色西装去上班。",
-     "audio": "media/sent/4274aa7e003d.mp3"
+     "audio": "media/sent/4274aa7e003d.mp3?v=0fca0b86"
     },
     {
      "en": "This suit is very expensive.",
      "zh": "这套西装很贵。",
-     "audio": "media/sent/97ad22f76420.mp3"
+     "audio": "media/sent/97ad22f76420.mp3?v=55ad148f"
     }
    ],
    "media": {
-    "img": "media/img/suit.webp",
-    "uk": "media/uk/suit.mp3",
-    "us": "media/us/suit.mp3"
+    "img": "media/img/suit.webp?v=c8f64c25",
+    "uk": "media/uk/suit.mp3?v=3de0151d",
+    "us": "media/us/suit.mp3?v=93876240"
    },
    "avoid": [
     "shirt",
@@ -2229,23 +2229,23 @@
     {
      "en": "Lily wears sunglasses at the beach.",
      "zh": "Lily 在海滩戴着太阳镜。",
-     "audio": "media/sent/bd53453b012e.mp3"
+     "audio": "media/sent/bd53453b012e.mp3?v=b1c4943f"
     },
     {
      "en": "Where are my sunglasses?",
      "zh": "我的太阳镜在哪儿？",
-     "audio": "media/sent/6f1d05919861.mp3"
+     "audio": "media/sent/6f1d05919861.mp3?v=9c22a1b0"
     },
     {
      "en": "It's sunny. Take your sunglasses.",
      "zh": "太阳很大，带上墨镜。",
-     "audio": "media/sent/ed2ccfa73e59.mp3"
+     "audio": "media/sent/ed2ccfa73e59.mp3?v=573272c7"
     }
    ],
    "media": {
-    "img": "media/img/sunglasses.webp",
-    "uk": "media/uk/sunglasses.mp3",
-    "us": "media/us/sunglasses.mp3"
+    "img": "media/img/sunglasses.webp?v=60a8b58b",
+    "uk": "media/uk/sunglasses.mp3?v=fb19b9c6",
+    "us": "media/us/sunglasses.mp3?v=06b7880f"
    },
    "hook": {
     "kind": "split",
@@ -2284,23 +2284,23 @@
     {
      "en": "This sweater is very warm.",
      "zh": "这件毛衣很暖和。",
-     "audio": "media/sent/952019574e23.mp3"
+     "audio": "media/sent/952019574e23.mp3?v=0071bfed"
     },
     {
      "en": "Put on your sweater.",
      "zh": "穿上你的毛衣。",
-     "audio": "media/sent/91bb37ca08bf.mp3"
+     "audio": "media/sent/91bb37ca08bf.mp3?v=3f7a5f5a"
     },
     {
      "en": "Grandpa has a green sweater.",
      "zh": "爷爷有一件绿毛衣。",
-     "audio": "media/sent/48a44eab5928.mp3"
+     "audio": "media/sent/48a44eab5928.mp3?v=fe631947"
     }
    ],
    "media": {
-    "img": "media/img/sweater.webp",
-    "uk": "media/uk/sweater.mp3",
-    "us": "media/us/sweater.mp3"
+    "img": "media/img/sweater.webp?v=7f8e5c50",
+    "uk": "media/uk/sweater.mp3?v=f0203ee2",
+    "us": "media/us/sweater.mp3?v=728a8564"
    },
    "spell": true,
    "hook": {
@@ -2343,23 +2343,23 @@
     {
      "en": "Lily puts on her swimming costume.",
      "zh": "Lily 穿上她的泳衣。",
-     "audio": "media/sent/53f7edc1643e.mp3"
+     "audio": "media/sent/53f7edc1643e.mp3?v=fe7f1582"
     },
     {
      "en": "Don't forget your swimming costume.",
      "zh": "别忘了你的泳衣。",
-     "audio": "media/sent/28b6653e18f1.mp3"
+     "audio": "media/sent/28b6653e18f1.mp3?v=8d9b0dda"
     },
     {
      "en": "My swimming costume is wet.",
      "zh": "我的泳衣湿了。",
-     "audio": "media/sent/479d7e88f9f0.mp3"
+     "audio": "media/sent/479d7e88f9f0.mp3?v=be16ed1c"
     }
    ],
    "media": {
-    "img": "media/img/swimming-costume.webp",
-    "uk": "media/word/swimming-costume.mp3",
-    "us": "media/word/swimming-costume.mp3"
+    "img": "media/img/swimming-costume.webp?v=f818ba2f",
+    "uk": "media/word/swimming-costume.mp3?v=89f65ff8",
+    "us": "media/word/swimming-costume.mp3?v=89f65ff8"
    },
    "hook": {
     "kind": "split",
@@ -2400,23 +2400,23 @@
     {
      "en": "I need a new swimsuit.",
      "zh": "我需要一件新泳衣。",
-     "audio": "media/sent/d0ae84261a95.mp3"
+     "audio": "media/sent/d0ae84261a95.mp3?v=71fb616c"
     },
     {
      "en": "Put your swimsuit in your bag.",
      "zh": "把泳衣放进包里。",
-     "audio": "media/sent/30a6976faa07.mp3"
+     "audio": "media/sent/30a6976faa07.mp3?v=6a9cbc86"
     },
     {
      "en": "This swimsuit is too small.",
      "zh": "这件泳衣太小了。",
-     "audio": "media/sent/c0dcc01077c4.mp3"
+     "audio": "media/sent/c0dcc01077c4.mp3?v=cce2caad"
     }
    ],
    "media": {
-    "img": "media/img/swimsuit.webp",
-    "uk": "media/word/swimsuit.mp3",
-    "us": "media/word/swimsuit.mp3"
+    "img": "media/img/swimsuit.webp?v=26bc5750",
+    "uk": "media/word/swimsuit.mp3?v=286303f7",
+    "us": "media/word/swimsuit.mp3?v=286303f7"
    },
    "hook": {
     "kind": "split",
@@ -2464,23 +2464,23 @@
     {
      "en": "Dad wears a red tie.",
      "zh": "爸爸系着一条红领带。",
-     "audio": "media/sent/f91029661564.mp3"
+     "audio": "media/sent/f91029661564.mp3?v=1e274115"
     },
     {
      "en": "This tie is very long.",
      "zh": "这条领带很长。",
-     "audio": "media/sent/cc50df8246a4.mp3"
+     "audio": "media/sent/cc50df8246a4.mp3?v=da02b6f3"
     },
     {
      "en": "Tom wears a tie for school.",
      "zh": "Tom 上学要系领带。",
-     "audio": "media/sent/a5ae9a1d2148.mp3"
+     "audio": "media/sent/a5ae9a1d2148.mp3?v=8676adf0"
     }
    ],
    "media": {
-    "img": "media/img/tie.webp",
-    "uk": "media/uk/tie.mp3",
-    "us": "media/us/tie.mp3"
+    "img": "media/img/tie.webp?v=1f9167c4",
+    "uk": "media/uk/tie.mp3?v=e3b0aa6e",
+    "us": "media/us/tie.mp3?v=61b4519a"
    },
    "avoid": [
     "shirt",
@@ -2515,23 +2515,23 @@
     {
      "en": "Lily wears tights in winter.",
      "zh": "Lily 冬天穿连裤袜。",
-     "audio": "media/sent/cd062a5df0ef.mp3"
+     "audio": "media/sent/cd062a5df0ef.mp3?v=42060cc8"
     },
     {
      "en": "My tights are too small.",
      "zh": "我的连裤袜太小了。",
-     "audio": "media/sent/f1cdb6929c12.mp3"
+     "audio": "media/sent/f1cdb6929c12.mp3?v=07b1c359"
     },
     {
      "en": "She has red tights.",
      "zh": "她有一条红色连裤袜。",
-     "audio": "media/sent/dbdc27b0f4bd.mp3"
+     "audio": "media/sent/dbdc27b0f4bd.mp3?v=050a25f4"
     }
    ],
    "media": {
-    "img": "media/img/tights.webp",
-    "uk": "media/word/tights.mp3",
-    "us": "media/word/tights.mp3"
+    "img": "media/img/tights.webp?v=9d9c6ee0",
+    "uk": "media/word/tights.mp3?v=94969874",
+    "us": "media/word/tights.mp3?v=94969874"
    },
    "hook": {
     "kind": "affix",
@@ -2572,23 +2572,23 @@
     {
      "en": "Dad's trousers are grey.",
      "zh": "爸爸的裤子是灰色的。",
-     "audio": "media/sent/30bbe0931d73.mp3"
+     "audio": "media/sent/30bbe0931d73.mp3?v=067747cf"
     },
     {
      "en": "These trousers are too short.",
      "zh": "这条裤子太短了。",
-     "audio": "media/sent/eac4d9f4a132.mp3"
+     "audio": "media/sent/eac4d9f4a132.mp3?v=028c25e5"
     },
     {
      "en": "Tom wears black trousers to school.",
      "zh": "Tom 穿黑裤子上学。",
-     "audio": "media/sent/fecd451b6346.mp3"
+     "audio": "media/sent/fecd451b6346.mp3?v=862d622e"
     }
    ],
    "media": {
-    "img": "media/img/trousers.webp",
-    "uk": "media/uk/trousers.mp3",
-    "us": "media/us/trousers.mp3"
+    "img": "media/img/trousers.webp?v=7eca90c0",
+    "uk": "media/uk/trousers.mp3?v=1b4291fb",
+    "us": "media/us/trousers.mp3?v=9dbc9cb6"
    },
    "spell": true,
    "avoid": [
@@ -2626,23 +2626,23 @@
     {
      "en": "Can I try on these shoes?",
      "zh": "我能试穿这双鞋吗？",
-     "audio": "media/sent/5aef55e3e0f7.mp3"
+     "audio": "media/sent/5aef55e3e0f7.mp3?v=00f35f62"
     },
     {
      "en": "Try on this jacket. It's nice.",
      "zh": "试穿一下这件夹克，挺好看的。",
-     "audio": "media/sent/0773c0e98e9b.mp3"
+     "audio": "media/sent/0773c0e98e9b.mp3?v=6e494384"
     },
     {
      "en": "Mum tries on a new dress.",
      "zh": "妈妈试穿一条新裙子。",
-     "audio": "media/sent/a316de1fe957.mp3"
+     "audio": "media/sent/a316de1fe957.mp3?v=0d30a399"
     }
    ],
    "media": {
-    "img": "media/img/try-on.webp",
-    "uk": "media/word/try-on.mp3",
-    "us": "media/word/try-on.mp3"
+    "img": "media/img/try-on.webp?v=9e281250",
+    "uk": "media/word/try-on.mp3?v=5bbe0280",
+    "us": "media/word/try-on.mp3?v=5bbe0280"
    },
    "hook": {
     "kind": "split",
@@ -2684,23 +2684,23 @@
     {
      "en": "Tom has a red T-shirt.",
      "zh": "Tom 有一件红色的T恤。",
-     "audio": "media/sent/ec945b2fef7b.mp3"
+     "audio": "media/sent/ec945b2fef7b.mp3?v=d0007540"
     },
     {
      "en": "This T-shirt is too big.",
      "zh": "这件T恤太大了。",
-     "audio": "media/sent/f6fd0162fe78.mp3"
+     "audio": "media/sent/f6fd0162fe78.mp3?v=ac855db5"
     },
     {
      "en": "I wear a T-shirt in summer.",
      "zh": "我夏天穿T恤。",
-     "audio": "media/sent/62925b88a13d.mp3"
+     "audio": "media/sent/62925b88a13d.mp3?v=e49b2031"
     }
    ],
    "media": {
-    "img": "media/img/t-shirt.webp",
-    "uk": "media/uk/t-shirt.mp3",
-    "us": "media/us/t-shirt.mp3"
+    "img": "media/img/t-shirt.webp?v=c03ae7c1",
+    "uk": "media/uk/t-shirt.mp3?v=45fee61b",
+    "us": "media/us/t-shirt.mp3?v=784ec8b5"
    },
    "spell": true,
    "avoid": [
@@ -2738,23 +2738,23 @@
     {
      "en": "Take an umbrella. It's raining.",
      "zh": "带把伞，下雨了。",
-     "audio": "media/sent/8ced3f8e32d6.mp3"
+     "audio": "media/sent/8ced3f8e32d6.mp3?v=c1b71a95"
     },
     {
      "en": "My umbrella is blue.",
      "zh": "我的伞是蓝色的。",
-     "audio": "media/sent/e8100dfa7e89.mp3"
+     "audio": "media/sent/e8100dfa7e89.mp3?v=d146aa36"
     },
     {
      "en": "Can I use your umbrella?",
      "zh": "我能用一下你的伞吗？",
-     "audio": "media/sent/91c44496ad7d.mp3"
+     "audio": "media/sent/91c44496ad7d.mp3?v=c9c94c02"
     }
    ],
    "media": {
-    "img": "media/img/umbrella.webp",
-    "uk": "media/uk/umbrella.mp3",
-    "us": "media/us/umbrella.mp3"
+    "img": "media/img/umbrella.webp?v=54b09ba6",
+    "uk": "media/uk/umbrella.mp3?v=a2e447b9",
+    "us": "media/us/umbrella.mp3?v=f4820da6"
    },
    "spell": true,
    "avoid": [
@@ -2791,23 +2791,23 @@
     {
      "en": "We wear a uniform at school.",
      "zh": "我们在学校穿校服。",
-     "audio": "media/sent/e9adcb90e2e4.mp3"
+     "audio": "media/sent/e9adcb90e2e4.mp3?v=d05d6fd6"
     },
     {
      "en": "My school uniform is blue.",
      "zh": "我的校服是蓝色的。",
-     "audio": "media/sent/fe1ce652f60a.mp3"
+     "audio": "media/sent/fe1ce652f60a.mp3?v=955c3ae7"
     },
     {
      "en": "Doctors and nurses wear a uniform.",
      "zh": "医生和护士穿制服。",
-     "audio": "media/sent/cabcaa0fee20.mp3"
+     "audio": "media/sent/cabcaa0fee20.mp3?v=ba6188a7"
     }
    ],
    "media": {
-    "img": "media/img/uniform.webp",
-    "uk": "media/uk/uniform.mp3",
-    "us": "media/us/uniform.mp3"
+    "img": "media/img/uniform.webp?v=2e8ab923",
+    "uk": "media/uk/uniform.mp3?v=7fff88b6",
+    "us": "media/us/uniform.mp3?v=528088df"
    },
    "hook": {
     "kind": "story",
@@ -2847,23 +2847,23 @@
     {
      "en": "Dad's wallet is in his pocket.",
      "zh": "爸爸的钱包在他口袋里。",
-     "audio": "media/sent/1f5fb45886bf.mp3"
+     "audio": "media/sent/1f5fb45886bf.mp3?v=379f20a7"
     },
     {
      "en": "I can't find my wallet.",
      "zh": "我找不到我的钱包了。",
-     "audio": "media/sent/50751a694d67.mp3"
+     "audio": "media/sent/50751a694d67.mp3?v=57e5e616"
     },
     {
      "en": "Grandpa has an old wallet.",
      "zh": "爷爷有一个旧钱包。",
-     "audio": "media/sent/585f359606d3.mp3"
+     "audio": "media/sent/585f359606d3.mp3?v=6a4c3d20"
     }
    ],
    "media": {
-    "img": "media/img/wallet.webp",
-    "uk": "media/uk/wallet.mp3",
-    "us": "media/us/wallet.mp3"
+    "img": "media/img/wallet.webp?v=ebaf3050",
+    "uk": "media/uk/wallet.mp3?v=78ef507a",
+    "us": "media/us/wallet.mp3?v=d2ab5d69"
    },
    "avoid": [
     "backpack",
@@ -2908,23 +2908,23 @@
     {
      "en": "Grandpa gives me a watch.",
      "zh": "爷爷送我一块手表。",
-     "audio": "media/sent/50ea9c240d4d.mp3"
+     "audio": "media/sent/50ea9c240d4d.mp3?v=a2681fb1"
     },
     {
      "en": "What time is it? Look at your watch.",
      "zh": "几点了？看看你的手表。",
-     "audio": "media/sent/06cd180bd9be.mp3"
+     "audio": "media/sent/06cd180bd9be.mp3?v=620b559c"
     },
     {
      "en": "My watch is new.",
      "zh": "我的手表是新的。",
-     "audio": "media/sent/5418aea8e8ca.mp3"
+     "audio": "media/sent/5418aea8e8ca.mp3?v=aa139d72"
     }
    ],
    "media": {
-    "img": "media/img/watch.webp",
-    "uk": "media/uk/watch.mp3",
-    "us": "media/us/watch.mp3"
+    "img": "media/img/watch.webp?v=bf4a6a49",
+    "uk": "media/uk/watch.mp3?v=da4212d6",
+    "us": "media/us/watch.mp3?v=880f5931"
    },
    "spell": true,
    "avoid": [
@@ -2966,23 +2966,23 @@
     {
      "en": "We watch television after dinner.",
      "zh": "我们晚饭后看电视。",
-     "audio": "media/sent/09076eb162a4.mp3"
+     "audio": "media/sent/09076eb162a4.mp3?v=a118a51e"
     },
     {
      "en": "Let's watch a film!",
      "zh": "我们看部电影吧！",
-     "audio": "media/sent/7c83c8e8f437.mp3"
+     "audio": "media/sent/7c83c8e8f437.mp3?v=16549deb"
     },
     {
      "en": "Watch me! I can swim.",
      "zh": "看我！我会游泳了。",
-     "audio": "media/sent/30cba215e2ff.mp3"
+     "audio": "media/sent/30cba215e2ff.mp3?v=6f4e63a8"
     }
    ],
    "media": {
-    "img": "media/img/watch.2.webp",
-    "uk": "media/uk/watch.mp3",
-    "us": "media/us/watch.mp3"
+    "img": "media/img/watch.2.webp?v=d70d7d55",
+    "uk": "media/uk/watch.mp3?v=da4212d6",
+    "us": "media/us/watch.mp3?v=880f5931"
    },
    "of": "watch",
    "ofZh": "手表",
@@ -3018,23 +3018,23 @@
     {
      "en": "What do you wear to school?",
      "zh": "你穿什么上学？",
-     "audio": "media/sent/8c125553e2ac.mp3"
+     "audio": "media/sent/8c125553e2ac.mp3?v=32394e66"
     },
     {
      "en": "I wear glasses for reading.",
      "zh": "我看书时戴眼镜。",
-     "audio": "media/sent/9d639ae6e455.mp3"
+     "audio": "media/sent/9d639ae6e455.mp3?v=8e592afc"
     },
     {
      "en": "Lily wears her new dress today.",
      "zh": "Lily 今天穿着她的新裙子。",
-     "audio": "media/sent/1345d606964e.mp3"
+     "audio": "media/sent/1345d606964e.mp3?v=83d26074"
     }
    ],
    "media": {
-    "img": "media/img/wear.webp",
-    "uk": "media/uk/wear.mp3",
-    "us": "media/us/wear.mp3"
+    "img": "media/img/wear.webp?v=f7ed5d0e",
+    "uk": "media/uk/wear.mp3?v=b40b19e0",
+    "us": "media/us/wear.mp3?v=4bda9cc0"
    },
    "spell": true,
    "avoid": [

@@ -29,23 +29,23 @@
     {
      "en": "Mia comes to my house after school.",
      "zh": "Mia 放学后来到我家。",
-     "audio": "media/sent/d98613cf261d.mp3"
+     "audio": "media/sent/d98613cf261d.mp3?v=56a5ae0f"
     },
     {
      "en": "Can you come here, Tom?",
      "zh": "Tom，你能过来一下吗？",
-     "audio": "media/sent/17b6d5a89951.mp3"
+     "audio": "media/sent/17b6d5a89951.mp3?v=6df18f67"
     },
     {
      "en": "Grandma comes to visit us on Sunday.",
      "zh": "奶奶星期天来看我们。",
-     "audio": "media/sent/f1c25ff9fa09.mp3"
+     "audio": "media/sent/f1c25ff9fa09.mp3?v=95270f2f"
     }
    ],
    "media": {
-    "img": "media/img/come.webp",
-    "uk": "media/uk/come.mp3",
-    "us": "media/us/come.mp3"
+    "img": "media/img/come.webp?v=27e89b50",
+    "uk": "media/uk/come.mp3?v=14d5e2f5",
+    "us": "media/us/come.mp3?v=a6c36f6a"
    },
    "spell": true,
    "avoid": [
@@ -83,23 +83,23 @@
     {
      "en": "Dad comes back from work at five.",
      "zh": "爸爸五点下班回家。",
-     "audio": "media/sent/fbc02b64c75e.mp3"
+     "audio": "media/sent/fbc02b64c75e.mp3?v=525e4398"
     },
     {
      "en": "Please come back early!",
      "zh": "请早点回来！",
-     "audio": "media/sent/343891571812.mp3"
+     "audio": "media/sent/343891571812.mp3?v=a0bb04ba"
     },
     {
      "en": "The birds come back in spring.",
      "zh": "鸟儿在春天飞回来。",
-     "audio": "media/sent/42c470cd062f.mp3"
+     "audio": "media/sent/42c470cd062f.mp3?v=aa93c9fb"
     }
    ],
    "media": {
-    "img": "media/img/come-back.webp",
-    "uk": "media/word/come-back.mp3",
-    "us": "media/word/come-back.mp3"
+    "img": "media/img/come-back.webp?v=7b1cebc8",
+    "uk": "media/word/come-back.mp3?v=bbf538ce",
+    "us": "media/word/come-back.mp3?v=bbf538ce"
    },
    "hook": {
     "kind": "split",
@@ -139,23 +139,23 @@
     {
      "en": "We go to the park on Saturday.",
      "zh": "我们星期六去公园。",
-     "audio": "media/sent/d96e5164edc2.mp3"
+     "audio": "media/sent/d96e5164edc2.mp3?v=a80d0b08"
     },
     {
      "en": "Let's go to school now.",
      "zh": "我们现在去上学吧。",
-     "audio": "media/sent/30af0a0399c4.mp3"
+     "audio": "media/sent/30af0a0399c4.mp3?v=847ae7e9"
     },
     {
      "en": "Where does the road go?",
      "zh": "这条路通向哪里？",
-     "audio": "media/sent/c20ba5d1feb5.mp3"
+     "audio": "media/sent/c20ba5d1feb5.mp3?v=845da2a3"
     }
    ],
    "media": {
-    "img": "media/img/go.webp",
-    "uk": "media/word/go.mp3",
-    "us": "media/word/go.mp3"
+    "img": "media/img/go.webp?v=b8df3c63",
+    "uk": "media/word/go.mp3?v=c2f16eb0",
+    "us": "media/word/go.mp3?v=c2f16eb0"
    },
    "avoid": []
   },
@@ -188,23 +188,23 @@
     {
      "en": "The train arrives at the station.",
      "zh": "火车到站了。",
-     "audio": "media/sent/9fe32931563e.mp3"
+     "audio": "media/sent/9fe32931563e.mp3?v=9f71292f"
     },
     {
      "en": "We arrive home late today.",
      "zh": "我们今天很晚才到家。",
-     "audio": "media/sent/27307d0364d4.mp3"
+     "audio": "media/sent/27307d0364d4.mp3?v=3c2f7670"
     },
     {
      "en": "Sam arrives at the party at six.",
      "zh": "Sam 六点到达聚会现场。",
-     "audio": "media/sent/86e175f193d9.mp3"
+     "audio": "media/sent/86e175f193d9.mp3?v=b31b978c"
     }
    ],
    "media": {
-    "img": "media/img/arrive.webp",
-    "uk": "media/uk/arrive.mp3",
-    "us": "media/us/arrive.mp3"
+    "img": "media/img/arrive.webp?v=f979adf8",
+    "uk": "media/uk/arrive.mp3?v=6f3b8003",
+    "us": "media/us/arrive.mp3?v=f37e7cc9"
    },
    "spell": true,
    "avoid": [
@@ -241,23 +241,23 @@
     {
      "en": "Please bring your bag to school.",
      "zh": "请把书包带到学校来。",
-     "audio": "media/sent/20692d8c5054.mp3"
+     "audio": "media/sent/20692d8c5054.mp3?v=d6c96b56"
     },
     {
      "en": "Mum brings some cookies for us.",
      "zh": "妈妈给我们带了一些饼干。",
-     "audio": "media/sent/d2c12770d7ef.mp3"
+     "audio": "media/sent/d2c12770d7ef.mp3?v=1cc1fcf4"
     },
     {
      "en": "Can you bring me a glass of water?",
      "zh": "你能给我拿杯水来吗？",
-     "audio": "media/sent/fa588f5e74e9.mp3"
+     "audio": "media/sent/fa588f5e74e9.mp3?v=30e208d7"
     }
    ],
    "media": {
-    "img": "media/img/bring.webp",
-    "uk": "media/uk/bring.mp3",
-    "us": "media/us/bring.mp3"
+    "img": "media/img/bring.webp?v=01fb313f",
+    "uk": "media/uk/bring.mp3?v=1e653880",
+    "us": "media/us/bring.mp3?v=a239a1d8"
    },
    "spell": true,
    "avoid": [
@@ -294,23 +294,23 @@
     {
      "en": "Don't forget to bring the book back.",
      "zh": "别忘了把书带回来。",
-     "audio": "media/sent/2f27b92c6f21.mp3"
+     "audio": "media/sent/2f27b92c6f21.mp3?v=ae37f0ac"
     },
     {
      "en": "Tom brings his toy car back home.",
      "zh": "Tom 把他的玩具车带回家了。",
-     "audio": "media/sent/2a9ea8f80233.mp3"
+     "audio": "media/sent/2a9ea8f80233.mp3?v=82ad7163"
     },
     {
      "en": "We bring back some flowers from Grandma's house.",
      "zh": "我们从奶奶家带回一些花。",
-     "audio": "media/sent/4a0d921ccea4.mp3"
+     "audio": "media/sent/4a0d921ccea4.mp3?v=d1183515"
     }
    ],
    "media": {
-    "img": "media/img/bring-back.webp",
-    "uk": "media/word/bring-back.mp3",
-    "us": "media/word/bring-back.mp3"
+    "img": "media/img/bring-back.webp?v=9d124ff5",
+    "uk": "media/word/bring-back.mp3?v=6bb3c166",
+    "us": "media/word/bring-back.mp3?v=6bb3c166"
    },
    "hook": {
     "kind": "split",
@@ -350,23 +350,23 @@
     {
      "en": "Dad carries the heavy box upstairs.",
      "zh": "爸爸把重箱子搬到楼上。",
-     "audio": "media/sent/de079fee4330.mp3"
+     "audio": "media/sent/de079fee4330.mp3?v=43c65b97"
     },
     {
      "en": "I can carry my school bag myself.",
      "zh": "我能自己背我的书包。",
-     "audio": "media/sent/e9a8ebfe556f.mp3"
+     "audio": "media/sent/e9a8ebfe556f.mp3?v=181f35fb"
     },
     {
      "en": "The dog carries a ball in its mouth.",
      "zh": "狗嘴里叼着一个球。",
-     "audio": "media/sent/06f84c3e6266.mp3"
+     "audio": "media/sent/06f84c3e6266.mp3?v=7a891297"
     }
    ],
    "media": {
-    "img": "media/img/carry.webp",
-    "uk": "media/uk/carry.mp3",
-    "us": "media/us/carry.mp3"
+    "img": "media/img/carry.webp?v=920d1019",
+    "uk": "media/uk/carry.mp3?v=86ee9b94",
+    "us": "media/us/carry.mp3?v=545d0b2e"
    },
    "spell": true,
    "avoid": [
@@ -404,23 +404,23 @@
     {
      "en": "Look left and right before you cross.",
      "zh": "过马路前先看左右两边。",
-     "audio": "media/sent/73699799eb9c.mp3"
+     "audio": "media/sent/73699799eb9c.mp3?v=c9aa8c24"
     },
     {
      "en": "Be careful when you cross the road.",
      "zh": "过马路时要小心。",
-     "audio": "media/sent/3b8c4a11fc5a.mp3"
+     "audio": "media/sent/3b8c4a11fc5a.mp3?v=40d01d60"
     },
     {
      "en": "We cross the bridge to get home.",
      "zh": "我们过桥回家。",
-     "audio": "media/sent/a7afecfc5e7a.mp3"
+     "audio": "media/sent/a7afecfc5e7a.mp3?v=23713b4b"
     }
    ],
    "media": {
-    "img": "media/img/cross.webp",
-    "uk": "media/uk/cross.mp3",
-    "us": "media/us/cross.mp3"
+    "img": "media/img/cross.webp?v=f74c3730",
+    "uk": "media/uk/cross.mp3?v=86823bed",
+    "us": "media/us/cross.mp3?v=a5ddb248"
    },
    "hook": {
     "kind": "contrast",
@@ -456,23 +456,23 @@
     {
      "en": "Tom drops his ice cream on the floor.",
      "zh": "Tom 把冰淇淋掉在地板上了。",
-     "audio": "media/sent/96d98fbc3f20.mp3"
+     "audio": "media/sent/96d98fbc3f20.mp3?v=b8916f85"
     },
     {
      "en": "Don't drop the glass!",
      "zh": "别把杯子摔了！",
-     "audio": "media/sent/4420b0c11d78.mp3"
+     "audio": "media/sent/4420b0c11d78.mp3?v=6c29356b"
     },
     {
      "en": "Leaves drop from the trees in autumn.",
      "zh": "秋天树叶从树上落下。",
-     "audio": "media/sent/92a6bd42532e.mp3"
+     "audio": "media/sent/92a6bd42532e.mp3?v=1e2adea1"
     }
    ],
    "media": {
-    "img": "media/img/drop.webp",
-    "uk": "media/uk/drop.mp3",
-    "us": "media/us/drop.mp3"
+    "img": "media/img/drop.webp?v=edf0e63c",
+    "uk": "media/uk/drop.mp3?v=75a82793",
+    "us": "media/us/drop.mp3?v=f6925781"
    },
    "avoid": [
     "fall-over"
@@ -507,23 +507,23 @@
     {
      "en": "Max runs too fast and falls over.",
      "zh": "Max 跑得太快摔倒了。",
-     "audio": "media/sent/db4c5f75ee52.mp3"
+     "audio": "media/sent/db4c5f75ee52.mp3?v=4a6f251f"
     },
     {
      "en": "Be careful not to fall over!",
      "zh": "小心别摔倒！",
-     "audio": "media/sent/3b74203d4d55.mp3"
+     "audio": "media/sent/3b74203d4d55.mp3?v=9ff50a67"
     },
     {
      "en": "Tom fell over but he is fine.",
      "zh": "Tom 摔倒了，但他没事。",
-     "audio": "media/sent/a1392e2c5025.mp3"
+     "audio": "media/sent/a1392e2c5025.mp3?v=591557e6"
     }
    ],
    "media": {
-    "img": "media/img/fall-over.webp",
-    "uk": "media/word/fall-over.mp3",
-    "us": "media/word/fall-over.mp3"
+    "img": "media/img/fall-over.webp?v=0a25c3a1",
+    "uk": "media/word/fall-over.mp3?v=35ea8ee1",
+    "us": "media/word/fall-over.mp3?v=35ea8ee1"
    },
    "hook": {
     "kind": "story",
@@ -562,23 +562,23 @@
     {
      "en": "Please follow me to the car.",
      "zh": "请跟我到车那里去。",
-     "audio": "media/sent/ef4a7dbcf948.mp3"
+     "audio": "media/sent/ef4a7dbcf948.mp3?v=064e1da0"
     },
     {
      "en": "The dog follows us everywhere.",
      "zh": "狗到处跟着我们。",
-     "audio": "media/sent/12c9746a65c2.mp3"
+     "audio": "media/sent/12c9746a65c2.mp3?v=fcb9b07b"
     },
     {
      "en": "Follow the signs to the park.",
      "zh": "沿着指示牌走到公园去。",
-     "audio": "media/sent/4de7d601da5b.mp3"
+     "audio": "media/sent/4de7d601da5b.mp3?v=a080f1a7"
     }
    ],
    "media": {
-    "img": "media/img/follow.webp",
-    "uk": "media/uk/follow.mp3",
-    "us": "media/us/follow.mp3"
+    "img": "media/img/follow.webp?v=0ba4746c",
+    "uk": "media/uk/follow.mp3?v=d3271ed3",
+    "us": "media/us/follow.mp3?v=7b9fa3f3"
    },
    "spell": true,
    "avoid": []
@@ -611,23 +611,23 @@
     {
      "en": "Lily gets a new bike for her birthday.",
      "zh": "Lily 生日时得到了一辆新自行车。",
-     "audio": "media/sent/44e75b219a7c.mp3"
+     "audio": "media/sent/44e75b219a7c.mp3?v=d816d4d2"
     },
     {
      "en": "What time do you get home?",
      "zh": "你几点到家？",
-     "audio": "media/sent/179e6fcce9cd.mp3"
+     "audio": "media/sent/179e6fcce9cd.mp3?v=5607b053"
     },
     {
      "en": "I want to get some fresh milk.",
      "zh": "我想买些新鲜牛奶。",
-     "audio": "media/sent/858cdb606c14.mp3"
+     "audio": "media/sent/858cdb606c14.mp3?v=d287d316"
     }
    ],
    "media": {
-    "img": "media/img/get.webp",
-    "uk": "media/uk/get.mp3",
-    "us": "media/us/get.mp3"
+    "img": "media/img/get.webp?v=4a610373",
+    "uk": "media/uk/get.mp3?v=129e2445",
+    "us": "media/us/get.mp3?v=4ff10971"
    },
    "spell": true,
    "avoid": []
@@ -661,23 +661,23 @@
     {
      "en": "When do you get back from school?",
      "zh": "你什么时候从学校回来？",
-     "audio": "media/sent/0a076849e9f3.mp3"
+     "audio": "media/sent/0a076849e9f3.mp3?v=2f9ba05d"
     },
     {
      "en": "We get back home at six o'clock.",
      "zh": "我们六点钟回到家。",
-     "audio": "media/sent/e3ad9ab52a31.mp3"
+     "audio": "media/sent/e3ad9ab52a31.mp3?v=12bfe21a"
     },
     {
      "en": "The bus gets back to the stop soon.",
      "zh": "公共汽车很快就会回到车站。",
-     "audio": "media/sent/15796372502f.mp3"
+     "audio": "media/sent/15796372502f.mp3?v=664260fe"
     }
    ],
    "media": {
-    "img": "media/img/get-back.webp",
-    "uk": "media/word/get-back.mp3",
-    "us": "media/word/get-back.mp3"
+    "img": "media/img/get-back.webp?v=1f93ed8e",
+    "uk": "media/word/get-back.mp3?v=b121830a",
+    "us": "media/word/get-back.mp3?v=b121830a"
    },
    "hook": {
     "kind": "split",
@@ -718,23 +718,23 @@
     {
      "en": "We get off the bus at the corner.",
      "zh": "我们在拐角处下公交车。",
-     "audio": "media/sent/957a65e75f8e.mp3"
+     "audio": "media/sent/957a65e75f8e.mp3?v=d12e1129"
     },
     {
      "en": "Please get off the chair carefully.",
      "zh": "请小心地从椅子上下来。",
-     "audio": "media/sent/1fad158be899.mp3"
+     "audio": "media/sent/1fad158be899.mp3?v=81c25674"
     },
     {
      "en": "Dad gets off his bike to say hello.",
      "zh": "爸爸从自行车上下来打招呼。",
-     "audio": "media/sent/6a2a1250d758.mp3"
+     "audio": "media/sent/6a2a1250d758.mp3?v=66488578"
     }
    ],
    "media": {
-    "img": "media/img/get-off.webp",
-    "uk": "media/word/get-off.mp3",
-    "us": "media/word/get-off.mp3"
+    "img": "media/img/get-off.webp?v=9e48b863",
+    "uk": "media/word/get-off.mp3?v=ea3dee3e",
+    "us": "media/word/get-off.mp3?v=ea3dee3e"
    },
    "hook": {
     "kind": "split",
@@ -773,23 +773,23 @@
     {
      "en": "Let's get on the train now.",
      "zh": "我们现在上火车吧。",
-     "audio": "media/sent/cab141f796a5.mp3"
+     "audio": "media/sent/cab141f796a5.mp3?v=7a7046b1"
     },
     {
      "en": "Tom gets on his bike and rides away.",
      "zh": "Tom 骑上自行车骑走了。",
-     "audio": "media/sent/a79e77dbcf66.mp3"
+     "audio": "media/sent/a79e77dbcf66.mp3?v=8a31a604"
     },
     {
      "en": "Be careful when you get on the bus.",
      "zh": "上公共汽车时要小心。",
-     "audio": "media/sent/cfd0f4216ec6.mp3"
+     "audio": "media/sent/cfd0f4216ec6.mp3?v=2d116edf"
     }
    ],
    "media": {
-    "img": "media/img/get-on.webp",
-    "uk": "media/word/get-on.mp3",
-    "us": "media/word/get-on.mp3"
+    "img": "media/img/get-on.webp?v=0aa27e03",
+    "uk": "media/word/get-on.mp3?v=0f636a22",
+    "us": "media/word/get-on.mp3?v=0f636a22"
    },
    "hook": {
     "kind": "split",
@@ -828,23 +828,23 @@
     {
      "en": "I get up at seven o'clock.",
      "zh": "我七点钟起床。",
-     "audio": "media/sent/f25f09cff880.mp3"
+     "audio": "media/sent/f25f09cff880.mp3?v=d7ccbf76"
     },
     {
      "en": "Tom gets up late on Sundays.",
      "zh": "Tom 星期天起得晚。",
-     "audio": "media/sent/09a7bd4230ab.mp3"
+     "audio": "media/sent/09a7bd4230ab.mp3?v=f5229ef4"
     },
     {
      "en": "It's time to get up and brush your teeth.",
      "zh": "该起床刷牙了。",
-     "audio": "media/sent/4fbb1ecae852.mp3"
+     "audio": "media/sent/4fbb1ecae852.mp3?v=000dfb49"
     }
    ],
    "media": {
-    "img": "media/img/get-up.webp",
-    "uk": "media/word/get-up.mp3",
-    "us": "media/word/get-up.mp3"
+    "img": "media/img/get-up.webp?v=69ce0541",
+    "uk": "media/word/get-up.mp3?v=707c5479",
+    "us": "media/word/get-up.mp3?v=707c5479"
    },
    "hook": {
     "kind": "split",
@@ -882,23 +882,23 @@
     {
      "en": "Lily hits the ball with her racket.",
      "zh": "Lily 用球拍击球。",
-     "audio": "media/sent/ca7f7751b389.mp3"
+     "audio": "media/sent/ca7f7751b389.mp3?v=9e629ef1"
     },
     {
      "en": "Don't hit your brother!",
      "zh": "别打你哥哥！",
-     "audio": "media/sent/61beeec0ef8e.mp3"
+     "audio": "media/sent/61beeec0ef8e.mp3?v=251444e4"
     },
     {
      "en": "The rain hits the window hard.",
      "zh": "雨点重重地打在窗户上。",
-     "audio": "media/sent/d13242d4af94.mp3"
+     "audio": "media/sent/d13242d4af94.mp3?v=3896733c"
     }
    ],
    "media": {
-    "img": "media/img/hit.webp",
-    "uk": "media/uk/hit.mp3",
-    "us": "media/us/hit.mp3"
+    "img": "media/img/hit.webp?v=db45b9d2",
+    "uk": "media/uk/hit.mp3?v=69e38f5e",
+    "us": "media/us/hit.mp3?v=b201330e"
    },
    "avoid": [
     "kick"
@@ -932,23 +932,23 @@
     {
      "en": "Mum holds my hand in the park.",
      "zh": "妈妈在公园里牵着我的手。",
-     "audio": "media/sent/82ea8fdb02ff.mp3"
+     "audio": "media/sent/82ea8fdb02ff.mp3?v=de1ab597"
     },
     {
      "en": "Can you hold this bag for me?",
      "zh": "你能帮我拿一下这个袋子吗？",
-     "audio": "media/sent/e1dcd1057d9a.mp3"
+     "audio": "media/sent/e1dcd1057d9a.mp3?v=806aac6b"
     },
     {
      "en": "Tom holds his bear in bed.",
      "zh": "Tom 在床上抱着他的熊。",
-     "audio": "media/sent/29942dcb691a.mp3"
+     "audio": "media/sent/29942dcb691a.mp3?v=4d092aea"
     }
    ],
    "media": {
-    "img": "media/img/hold.webp",
-    "uk": "media/uk/hold.mp3",
-    "us": "media/us/hold.mp3"
+    "img": "media/img/hold.webp?v=ea35b169",
+    "uk": "media/uk/hold.mp3?v=645c8e58",
+    "us": "media/us/hold.mp3?v=0308a86b"
    },
    "avoid": []
   },
@@ -980,23 +980,23 @@
     {
      "en": "The rabbit jumps over the wall.",
      "zh": "兔子跳过墙。",
-     "audio": "media/sent/2c1cc82f8764.mp3"
+     "audio": "media/sent/2c1cc82f8764.mp3?v=32959d11"
     },
     {
      "en": "Let's jump on the bed!",
      "zh": "我们在床上跳吧！",
-     "audio": "media/sent/d1af4ff104cc.mp3"
+     "audio": "media/sent/d1af4ff104cc.mp3?v=5169a9e9"
     },
     {
      "en": "Tom can jump very high.",
      "zh": "Tom 能跳得很高。",
-     "audio": "media/sent/c9335046dd82.mp3"
+     "audio": "media/sent/c9335046dd82.mp3?v=69ba15e4"
     }
    ],
    "media": {
-    "img": "media/img/jump.webp",
-    "uk": "media/uk/jump.mp3",
-    "us": "media/us/jump.mp3"
+    "img": "media/img/jump.webp?v=18b8f022",
+    "uk": "media/uk/jump.mp3?v=02c81108",
+    "us": "media/us/jump.mp3?v=1997fbaf"
    },
    "avoid": []
   },
@@ -1030,23 +1030,23 @@
     {
      "en": "Tom kicks the football hard.",
      "zh": "Tom 用力踢足球。",
-     "audio": "media/sent/c9c341c83011.mp3"
+     "audio": "media/sent/c9c341c83011.mp3?v=61907ae1"
     },
     {
      "en": "Max tries to kick the ball.",
      "zh": "Max 试着踢球。",
-     "audio": "media/sent/cfbd57836b32.mp3"
+     "audio": "media/sent/cfbd57836b32.mp3?v=96a9386d"
     },
     {
      "en": "Don't kick the door!",
      "zh": "别踢门！",
-     "audio": "media/sent/0d19fd10af43.mp3"
+     "audio": "media/sent/0d19fd10af43.mp3?v=ffa31409"
     }
    ],
    "media": {
-    "img": "media/img/kick.webp",
-    "uk": "media/uk/kick.mp3",
-    "us": "media/us/kick.mp3"
+    "img": "media/img/kick.webp?v=61e52f03",
+    "uk": "media/uk/kick.mp3?v=0674df53",
+    "us": "media/us/kick.mp3?v=a826be48"
    },
    "avoid": [
     "hit"
@@ -1080,23 +1080,23 @@
     {
      "en": "Mum pulls the heavy door open.",
      "zh": "妈妈把沉重的门拉开。",
-     "audio": "media/sent/879444a09b57.mp3"
+     "audio": "media/sent/879444a09b57.mp3?v=03fa969a"
     },
     {
      "en": "Please pull your chair in.",
      "zh": "请把椅子拉进来。",
-     "audio": "media/sent/68f6c9f6d260.mp3"
+     "audio": "media/sent/68f6c9f6d260.mp3?v=edb0f262"
     },
     {
      "en": "Dad pulls the toy car.",
      "zh": "爸爸拉着玩具车。",
-     "audio": "media/sent/4966f981a596.mp3"
+     "audio": "media/sent/4966f981a596.mp3?v=c37cbeae"
     }
    ],
    "media": {
-    "img": "media/img/pull.webp",
-    "uk": "media/uk/pull.mp3",
-    "us": "media/us/pull.mp3"
+    "img": "media/img/pull.webp?v=a65d5b7d",
+    "uk": "media/uk/pull.mp3?v=96a1e7c9",
+    "us": "media/us/pull.mp3?v=e710a35b"
    },
    "hook": {
     "kind": "contrast",
@@ -1134,23 +1134,23 @@
     {
      "en": "Lily pushes the door.",
      "zh": "Lily 推门。",
-     "audio": "media/sent/02296ac98c2b.mp3"
+     "audio": "media/sent/02296ac98c2b.mp3?v=2900c193"
     },
     {
      "en": "Can you push the gate?",
      "zh": "你能推开大门吗？",
-     "audio": "media/sent/0ed409510c4a.mp3"
+     "audio": "media/sent/0ed409510c4a.mp3?v=407912ff"
     },
     {
      "en": "Dad pushes the car.",
      "zh": "爸爸推车。",
-     "audio": "media/sent/6d3dc55f65fa.mp3"
+     "audio": "media/sent/6d3dc55f65fa.mp3?v=a7ead214"
     }
    ],
    "media": {
-    "img": "media/img/push.webp",
-    "uk": "media/uk/push.mp3",
-    "us": "media/us/push.mp3"
+    "img": "media/img/push.webp?v=8518877d",
+    "uk": "media/uk/push.mp3?v=719a8942",
+    "us": "media/us/push.mp3?v=acdfd300"
    },
    "avoid": [
     "pull"
@@ -1184,23 +1184,23 @@
     {
      "en": "Put your shoes by the door.",
      "zh": "把鞋子放在门边。",
-     "audio": "media/sent/189c8689981f.mp3"
+     "audio": "media/sent/189c8689981f.mp3?v=2b21d197"
     },
     {
      "en": "Mum puts flowers in water.",
      "zh": "妈妈把花放在水里。",
-     "audio": "media/sent/3d23c3e2d38a.mp3"
+     "audio": "media/sent/3d23c3e2d38a.mp3?v=4a4765f7"
     },
     {
      "en": "Tom puts his bag down.",
      "zh": "Tom 放下他的书包。",
-     "audio": "media/sent/71d23fb91e1e.mp3"
+     "audio": "media/sent/71d23fb91e1e.mp3?v=471d8060"
     }
    ],
    "media": {
-    "img": "media/img/put.webp",
-    "uk": "media/uk/put.mp3",
-    "us": "media/us/put.mp3"
+    "img": "media/img/put.webp?v=0acf0e88",
+    "uk": "media/uk/put.mp3?v=a6a63bce",
+    "us": "media/us/put.mp3?v=411370ea"
    },
    "spell": true,
    "avoid": []
@@ -1233,23 +1233,23 @@
     {
      "en": "Grandma sits in her armchair.",
      "zh": "奶奶坐在扶手椅里。",
-     "audio": "media/sent/855eeb3db055.mp3"
+     "audio": "media/sent/855eeb3db055.mp3?v=b4213250"
     },
     {
      "en": "Please sit down at the table.",
      "zh": "请在桌边坐下。",
-     "audio": "media/sent/c136d85316b2.mp3"
+     "audio": "media/sent/c136d85316b2.mp3?v=000882e0"
     },
     {
      "en": "Max sits on the floor.",
      "zh": "Max 坐在地板上。",
-     "audio": "media/sent/7fab1d0b3941.mp3"
+     "audio": "media/sent/7fab1d0b3941.mp3?v=8fc13b7c"
     }
    ],
    "media": {
-    "img": "media/img/sit.webp",
-    "uk": "media/uk/sit.mp3",
-    "us": "media/us/sit.mp3"
+    "img": "media/img/sit.webp?v=fa521266",
+    "uk": "media/uk/sit.mp3?v=a30a4d00",
+    "us": "media/us/sit.mp3?v=eb438248"
    },
    "spell": true,
    "avoid": [
@@ -1285,23 +1285,23 @@
     {
      "en": "The class sits down quietly.",
      "zh": "同学们安静地坐下了。",
-     "audio": "media/sent/4916ff5253ad.mp3"
+     "audio": "media/sent/4916ff5253ad.mp3?v=fd38d7c6"
     },
     {
      "en": "Mum asks Tom to sit down.",
      "zh": "妈妈让 Tom 坐下。",
-     "audio": "media/sent/4eeb7f814a84.mp3"
+     "audio": "media/sent/4eeb7f814a84.mp3?v=90405186"
     },
     {
      "en": "We sit down for lunch.",
      "zh": "我们坐下吃午饭。",
-     "audio": "media/sent/70d73ab8e5a7.mp3"
+     "audio": "media/sent/70d73ab8e5a7.mp3?v=05501ff5"
     }
    ],
    "media": {
-    "img": "media/img/sit-down.webp",
-    "uk": "media/word/sit-down.mp3",
-    "us": "media/word/sit-down.mp3"
+    "img": "media/img/sit-down.webp?v=b1926bea",
+    "uk": "media/word/sit-down.mp3?v=b5a0b8bf",
+    "us": "media/word/sit-down.mp3?v=b5a0b8bf"
    },
    "hook": {
     "kind": "split",
@@ -1339,23 +1339,23 @@
     {
      "en": "Dad stands in the kitchen.",
      "zh": "爸爸站在厨房里。",
-     "audio": "media/sent/c832a0c192c5.mp3"
+     "audio": "media/sent/c832a0c192c5.mp3?v=f39b09a1"
     },
     {
      "en": "Tom stands up tall.",
      "zh": "Tom 站得高高的。",
-     "audio": "media/sent/044f2f80cfb3.mp3"
+     "audio": "media/sent/044f2f80cfb3.mp3?v=f2bf2171"
     },
     {
      "en": "Please stand here.",
      "zh": "请站在这里。",
-     "audio": "media/sent/2e12d57c36bb.mp3"
+     "audio": "media/sent/2e12d57c36bb.mp3?v=20477ac6"
     }
    ],
    "media": {
-    "img": "media/img/stand.webp",
-    "uk": "media/uk/stand.mp3",
-    "us": "media/us/stand.mp3"
+    "img": "media/img/stand.webp?v=353bf44d",
+    "uk": "media/uk/stand.mp3?v=01da17ef",
+    "us": "media/us/stand.mp3?v=25fa1b60"
    },
    "spell": true,
    "avoid": [
@@ -1390,23 +1390,23 @@
     {
      "en": "Lily turns the page of her book.",
      "zh": "Lily 翻过书的一页。",
-     "audio": "media/sent/75f232501f2a.mp3"
+     "audio": "media/sent/75f232501f2a.mp3?v=598d0f29"
     },
     {
      "en": "Turn left at the corner.",
      "zh": "在拐角处向左转。",
-     "audio": "media/sent/32ab26f44296.mp3"
+     "audio": "media/sent/32ab26f44296.mp3?v=2476d38e"
     },
     {
      "en": "Dad turns off the light.",
      "zh": "爸爸关灯。",
-     "audio": "media/sent/cb4ad74afd9b.mp3"
+     "audio": "media/sent/cb4ad74afd9b.mp3?v=1cc5f3ae"
     }
    ],
    "media": {
-    "img": "media/img/turn.webp",
-    "uk": "media/uk/turn.mp3",
-    "us": "media/us/turn.mp3"
+    "img": "media/img/turn.webp?v=6fca111d",
+    "uk": "media/uk/turn.mp3?v=84351c90",
+    "us": "media/us/turn.mp3?v=c091b1e7"
    },
    "spell": true,
    "avoid": []
@@ -1439,23 +1439,23 @@
     {
      "en": "Sam dives into the pool.",
      "zh": "Sam 跳进游泳池。",
-     "audio": "media/sent/b213561ec734.mp3"
+     "audio": "media/sent/b213561ec734.mp3?v=36964a35"
     },
     {
      "en": "Fish dive deep in the sea.",
      "zh": "鱼在海里潜得很深。",
-     "audio": "media/sent/691da4fbd612.mp3"
+     "audio": "media/sent/691da4fbd612.mp3?v=47219663"
     },
     {
      "en": "Be careful not to dive here.",
      "zh": "小心别在这里跳水。",
-     "audio": "media/sent/a05f5ab94bc2.mp3"
+     "audio": "media/sent/a05f5ab94bc2.mp3?v=b4aba71d"
     }
    ],
    "media": {
-    "img": "media/img/dive.webp",
-    "uk": "media/uk/dive.mp3",
-    "us": "media/us/dive.mp3"
+    "img": "media/img/dive.webp?v=308ad203",
+    "uk": "media/uk/dive.mp3?v=5635c823",
+    "us": "media/us/dive.mp3?v=fb01ccc6"
    },
    "hook": {
     "kind": "contrast",
@@ -1491,23 +1491,23 @@
     {
      "en": "Uncle Ben sails his boat.",
      "zh": "Ben 叔叔驾驶他的船。",
-     "audio": "media/sent/fbd3e5917c64.mp3"
+     "audio": "media/sent/fbd3e5917c64.mp3?v=fb3883f6"
     },
     {
      "en": "We learn to sail in summer.",
      "zh": "我们在夏天学习帆船运动。",
-     "audio": "media/sent/00f0cfa31e9e.mp3"
+     "audio": "media/sent/00f0cfa31e9e.mp3?v=4a00283b"
     },
     {
      "en": "The boat sails fast.",
      "zh": "船航行得很快。",
-     "audio": "media/sent/7369c9c69884.mp3"
+     "audio": "media/sent/7369c9c69884.mp3?v=00a749d6"
     }
    ],
    "media": {
-    "img": "media/img/sail.webp",
-    "uk": "media/uk/sail.mp3",
-    "us": "media/us/sail.mp3"
+    "img": "media/img/sail.webp?v=2b708b57",
+    "uk": "media/uk/sail.mp3?v=4eed7d08",
+    "us": "media/us/sail.mp3?v=e641be43"
    },
    "hook": {
     "kind": "contrast",
@@ -1544,23 +1544,23 @@
     {
      "en": "Lily cycles to school.",
      "zh": "Lily 骑自行车去学校。",
-     "audio": "media/sent/4d45cb562ae3.mp3"
+     "audio": "media/sent/4d45cb562ae3.mp3?v=f28e5be8"
     },
     {
      "en": "Do you cycle on Sunday?",
      "zh": "你星期天骑自行车吗？",
-     "audio": "media/sent/66571487be80.mp3"
+     "audio": "media/sent/66571487be80.mp3?v=d77bb80a"
     },
     {
      "en": "We cycle in the park.",
      "zh": "我们在公园里骑自行车。",
-     "audio": "media/sent/aa2c92b5201b.mp3"
+     "audio": "media/sent/aa2c92b5201b.mp3?v=c5cce952"
     }
    ],
    "media": {
-    "img": "media/img/cycle.webp",
-    "uk": "media/uk/cycle.mp3",
-    "us": "media/us/cycle.mp3"
+    "img": "media/img/cycle.webp?v=0ae8586c",
+    "uk": "media/uk/cycle.mp3?v=efe2da50",
+    "us": "media/us/cycle.mp3?v=8582c95e"
    },
    "avoid": []
   },
@@ -1593,23 +1593,23 @@
     {
      "en": "Mum hurries to the bus stop.",
      "zh": "妈妈匆匆忙忙去公交车站。",
-     "audio": "media/sent/4d2a9c6a0e9f.mp3"
+     "audio": "media/sent/4d2a9c6a0e9f.mp3?v=8c92957f"
     },
     {
      "en": "Hurry up, Tom!",
      "zh": "快点，Tom！",
-     "audio": "media/sent/007563a9da99.mp3"
+     "audio": "media/sent/007563a9da99.mp3?v=2a71491b"
     },
     {
      "en": "Don't hurry, we have time.",
      "zh": "别着急，我们有时间。",
-     "audio": "media/sent/7937a8b13eef.mp3"
+     "audio": "media/sent/7937a8b13eef.mp3?v=149bf89b"
     }
    ],
    "media": {
-    "img": "media/img/hurry.webp",
-    "uk": "media/uk/hurry.mp3",
-    "us": "media/us/hurry.mp3"
+    "img": "media/img/hurry.webp?v=458a9db9",
+    "uk": "media/uk/hurry.mp3?v=629fbe51",
+    "us": "media/us/hurry.mp3?v=0dd0904e"
    },
    "avoid": []
   },
@@ -1641,23 +1641,23 @@
     {
      "en": "We wait for the train.",
      "zh": "我们等火车。",
-     "audio": "media/sent/e8c53d0609b6.mp3"
+     "audio": "media/sent/e8c53d0609b6.mp3?v=feb94736"
     },
     {
      "en": "Please wait here.",
      "zh": "请在这里等候。",
-     "audio": "media/sent/06d4b6b443ae.mp3"
+     "audio": "media/sent/06d4b6b443ae.mp3?v=7c679b88"
     },
     {
      "en": "Max waits by the door.",
      "zh": "Max 在门边等着。",
-     "audio": "media/sent/9a0a496d26d4.mp3"
+     "audio": "media/sent/9a0a496d26d4.mp3?v=f4c4cfa8"
     }
    ],
    "media": {
-    "img": "media/img/wait.webp",
-    "uk": "media/uk/wait.mp3",
-    "us": "media/us/wait.mp3"
+    "img": "media/img/wait.webp?v=03324b12",
+    "uk": "media/uk/wait.mp3?v=cb63c10e",
+    "us": "media/us/wait.mp3?v=836d77ea"
    },
    "spell": true,
    "avoid": []
@@ -1690,23 +1690,23 @@
     {
      "en": "Please pass the salt.",
      "zh": "请把盐递给我。",
-     "audio": "media/sent/7e1562720115.mp3"
+     "audio": "media/sent/7e1562720115.mp3?v=ade1a58d"
     },
     {
      "en": "The bus passes our house.",
      "zh": "公交车经过我们家。",
-     "audio": "media/sent/d2b335aacd8a.mp3"
+     "audio": "media/sent/d2b335aacd8a.mp3?v=a27a664b"
     },
     {
      "en": "Lily passes the ball to Tom.",
      "zh": "Lily 把球传给 Tom。",
-     "audio": "media/sent/2721adac1738.mp3"
+     "audio": "media/sent/2721adac1738.mp3?v=a880d31b"
     }
    ],
    "media": {
-    "img": "media/img/pass.webp",
-    "uk": "media/uk/pass.mp3",
-    "us": "media/us/pass.mp3"
+    "img": "media/img/pass.webp?v=0b8e1a3d",
+    "uk": "media/uk/pass.mp3?v=a2b188f5",
+    "us": "media/us/pass.mp3?v=751c3fb0"
    },
    "hook": {
     "kind": "contrast",
@@ -1742,23 +1742,23 @@
     {
      "en": "Tom shuts the window.",
      "zh": "Tom 关上窗户。",
-     "audio": "media/sent/6394efd8071d.mp3"
+     "audio": "media/sent/6394efd8071d.mp3?v=65f10efd"
     },
     {
      "en": "Please shut the door.",
      "zh": "请关上门。",
-     "audio": "media/sent/7468a5cba9f2.mp3"
+     "audio": "media/sent/7468a5cba9f2.mp3?v=d28facc3"
     },
     {
      "en": "Mum shuts her laptop.",
      "zh": "妈妈合上她的笔记本电脑。",
-     "audio": "media/sent/08d088d0e791.mp3"
+     "audio": "media/sent/08d088d0e791.mp3?v=52bcbecd"
     }
    ],
    "media": {
-    "img": "media/img/shut.webp",
-    "uk": "media/uk/shut.mp3",
-    "us": "media/us/shut.mp3"
+    "img": "media/img/shut.webp?v=450caebf",
+    "uk": "media/uk/shut.mp3?v=85184ee1",
+    "us": "media/us/shut.mp3?v=4e7f78a7"
    },
    "avoid": []
   },
@@ -1791,23 +1791,23 @@
     {
      "en": "Sam enjoys climbing trees.",
      "zh": "Sam 喜欢爬树。",
-     "audio": "media/sent/20080abf1a5c.mp3"
+     "audio": "media/sent/20080abf1a5c.mp3?v=aef17f28"
     },
     {
      "en": "Climbing is good exercise.",
      "zh": "攀爬是很好的锻炼。",
-     "audio": "media/sent/53f3c94361fa.mp3"
+     "audio": "media/sent/53f3c94361fa.mp3?v=4efdd724"
     },
     {
      "en": "Lily tries climbing the wall.",
      "zh": "Lily 试着爬墙。",
-     "audio": "media/sent/35f09ddca075.mp3"
+     "audio": "media/sent/35f09ddca075.mp3?v=55acdd8b"
     }
    ],
    "media": {
-    "img": "media/img/climbing.webp",
-    "uk": "media/uk/climbing.mp3",
-    "us": "media/us/climbing.mp3"
+    "img": "media/img/climbing.webp?v=cbbd1c97",
+    "uk": "media/uk/climbing.mp3?v=4c7179ec",
+    "us": "media/us/climbing.mp3?v=fa63887e"
    },
    "hook": {
     "kind": "affix",
@@ -1847,23 +1847,23 @@
     {
      "en": "We go walking in the park.",
      "zh": "我们去公园散步。",
-     "audio": "media/sent/cda286204266.mp3"
+     "audio": "media/sent/cda286204266.mp3?v=fd007623"
     },
     {
      "en": "Walking is healthy.",
      "zh": "步行有益健康。",
-     "audio": "media/sent/de01c1fb9979.mp3"
+     "audio": "media/sent/de01c1fb9979.mp3?v=a64efcd9"
     },
     {
      "en": "Grandma likes walking.",
      "zh": "奶奶喜欢散步。",
-     "audio": "media/sent/b2ac7cd78aaa.mp3"
+     "audio": "media/sent/b2ac7cd78aaa.mp3?v=78821096"
     }
    ],
    "media": {
-    "img": "media/img/walking.webp",
-    "uk": "media/uk/walking.mp3",
-    "us": "media/us/walking.mp3"
+    "img": "media/img/walking.webp?v=7ed5c6ec",
+    "uk": "media/uk/walking.mp3?v=f55d97f4",
+    "us": "media/us/walking.mp3?v=efa2237a"
    },
    "spell": true,
    "hook": {
@@ -1904,23 +1904,23 @@
     {
      "en": "Tom is running fast.",
      "zh": "Tom 正在快跑。",
-     "audio": "media/sent/652967004dc7.mp3"
+     "audio": "media/sent/652967004dc7.mp3?v=1ccf9c1e"
     },
     {
      "en": "Running makes me tired.",
      "zh": "跑步让我累。",
-     "audio": "media/sent/a64616f5f578.mp3"
+     "audio": "media/sent/a64616f5f578.mp3?v=33ae1f71"
     },
     {
      "en": "Max loves running after balls.",
      "zh": "Max 喜欢追着球跑。",
-     "audio": "media/sent/3abfd1429774.mp3"
+     "audio": "media/sent/3abfd1429774.mp3?v=88172e45"
     }
    ],
    "media": {
-    "img": "media/img/running.webp",
-    "uk": "media/uk/running.mp3",
-    "us": "media/us/running.mp3"
+    "img": "media/img/running.webp?v=26361976",
+    "uk": "media/uk/running.mp3?v=82b9b75c",
+    "us": "media/us/running.mp3?v=3fa2d6ce"
    },
    "hook": {
     "kind": "story",

@@ -29,23 +29,23 @@
     {
      "en": "There is a big white cloud in the sky.",
      "zh": "天上有一朵大白云。",
-     "audio": "media/sent/3abeb1c36f8a.mp3"
+     "audio": "media/sent/3abeb1c36f8a.mp3?v=518d8965"
     },
     {
      "en": "The cloud looks like a rabbit!",
      "zh": "那朵云像一只兔子！",
-     "audio": "media/sent/2c921365f528.mp3"
+     "audio": "media/sent/2c921365f528.mp3?v=73a2fe44"
     },
     {
      "en": "A grey cloud means rain.",
      "zh": "灰色的云表示要下雨了。",
-     "audio": "media/sent/d960adca996f.mp3"
+     "audio": "media/sent/d960adca996f.mp3?v=6a0da013"
     }
    ],
    "media": {
-    "img": "media/img/cloud.webp",
-    "uk": "media/uk/cloud.mp3",
-    "us": "media/us/cloud.mp3"
+    "img": "media/img/cloud.webp?v=1f703a6f",
+    "uk": "media/uk/cloud.mp3?v=d4a8989b",
+    "us": "media/us/cloud.mp3?v=823777aa"
    },
    "hook": {
     "kind": "story",
@@ -89,23 +89,23 @@
     {
      "en": "It's cloudy today.",
      "zh": "今天多云。",
-     "audio": "media/sent/ebd69023748e.mp3"
+     "audio": "media/sent/ebd69023748e.mp3?v=6fb06e7e"
     },
     {
      "en": "It's cloudy, but it isn't raining.",
      "zh": "天阴了，但没下雨。",
-     "audio": "media/sent/b58ab9733dd4.mp3"
+     "audio": "media/sent/b58ab9733dd4.mp3?v=f0e571ac"
     },
     {
      "en": "Is it cloudy in London today?",
      "zh": "伦敦今天多云吗？",
-     "audio": "media/sent/489c4b9a0adb.mp3"
+     "audio": "media/sent/489c4b9a0adb.mp3?v=cca95b47"
     }
    ],
    "media": {
-    "img": "media/img/cloudy.webp",
-    "uk": "media/uk/cloudy.mp3",
-    "us": "media/us/cloudy.mp3"
+    "img": "media/img/cloudy.webp?v=1a2e4c67",
+    "uk": "media/uk/cloudy.mp3?v=b6b949a3",
+    "us": "media/us/cloudy.mp3?v=30d29e8e"
    },
    "spell": true,
    "avoid": [
@@ -148,23 +148,23 @@
     {
      "en": "It's very cold today.",
      "zh": "今天很冷。",
-     "audio": "media/sent/786a138e48bc.mp3"
+     "audio": "media/sent/786a138e48bc.mp3?v=2682e1f3"
     },
     {
      "en": "Put on your coat. It's cold outside.",
      "zh": "穿上外套，外面冷。",
-     "audio": "media/sent/5437f19312f7.mp3"
+     "audio": "media/sent/5437f19312f7.mp3?v=c5473df9"
     },
     {
      "en": "This milk is very cold.",
      "zh": "这牛奶很凉。",
-     "audio": "media/sent/d05e31474402.mp3"
+     "audio": "media/sent/d05e31474402.mp3?v=237bb710"
     }
    ],
    "media": {
-    "img": "media/img/cold.webp",
-    "uk": "media/uk/cold.mp3",
-    "us": "media/us/cold.mp3"
+    "img": "media/img/cold.webp?v=c351ac58",
+    "uk": "media/uk/cold.mp3?v=6659099b",
+    "us": "media/us/cold.mp3?v=502ebcdf"
    },
    "spell": true,
    "avoid": [
@@ -200,23 +200,23 @@
     {
      "en": "We can't see the trees in the fog.",
      "zh": "雾里我们看不见那些树。",
-     "audio": "media/sent/051a4a6f766e.mp3"
+     "audio": "media/sent/051a4a6f766e.mp3?v=5c4e328c"
     },
     {
      "en": "There is a lot of fog this morning.",
      "zh": "今天早上雾很大。",
-     "audio": "media/sent/f169f6f869b8.mp3"
+     "audio": "media/sent/f169f6f869b8.mp3?v=df5bfd94"
     },
     {
      "en": "Drive slowly in the fog.",
      "zh": "雾天开车要慢。",
-     "audio": "media/sent/d7e2a8c15d03.mp3"
+     "audio": "media/sent/d7e2a8c15d03.mp3?v=d9e44170"
     }
    ],
    "media": {
-    "img": "media/img/fog.webp",
-    "uk": "media/uk/fog.mp3",
-    "us": "media/us/fog.mp3"
+    "img": "media/img/fog.webp?v=f6e9b642",
+    "uk": "media/uk/fog.mp3?v=d018448d",
+    "us": "media/us/fog.mp3?v=9fac70b1"
    },
    "avoid": [
     "foggy"
@@ -251,23 +251,23 @@
     {
      "en": "It's foggy, so Dad drives slowly.",
      "zh": "有雾，所以爸爸开得很慢。",
-     "audio": "media/sent/ec17d299bf60.mp3"
+     "audio": "media/sent/ec17d299bf60.mp3?v=03e364f6"
     },
     {
      "en": "It's a foggy morning.",
      "zh": "这是一个有雾的早晨。",
-     "audio": "media/sent/082ce1a71fba.mp3"
+     "audio": "media/sent/082ce1a71fba.mp3?v=864a3db8"
     },
     {
      "en": "Is it foggy at the airport?",
      "zh": "机场有雾吗？",
-     "audio": "media/sent/f63bd9135e8a.mp3"
+     "audio": "media/sent/f63bd9135e8a.mp3?v=3b22e145"
     }
    ],
    "media": {
-    "img": "media/img/foggy.webp",
-    "uk": "media/uk/foggy.mp3",
-    "us": "media/us/foggy.mp3"
+    "img": "media/img/foggy.webp?v=ea18093b",
+    "uk": "media/uk/foggy.mp3?v=1b8762da",
+    "us": "media/us/foggy.mp3?v=fd46939a"
    },
    "hook": {
     "kind": "contrast",
@@ -305,23 +305,23 @@
     {
      "en": "It's very hot in summer.",
      "zh": "夏天很热。",
-     "audio": "media/sent/b3a1571b3b08.mp3"
+     "audio": "media/sent/b3a1571b3b08.mp3?v=469c50c9"
     },
     {
      "en": "Be careful! The soup is hot.",
      "zh": "小心！汤很烫。",
-     "audio": "media/sent/ab2c9f96903c.mp3"
+     "audio": "media/sent/ab2c9f96903c.mp3?v=d0834451"
     },
     {
      "en": "It's too hot to play football.",
      "zh": "太热了，不能踢球。",
-     "audio": "media/sent/384ad39df0ee.mp3"
+     "audio": "media/sent/384ad39df0ee.mp3?v=0a95ec55"
     }
    ],
    "media": {
-    "img": "media/img/hot.webp",
-    "uk": "media/uk/hot.mp3",
-    "us": "media/us/hot.mp3"
+    "img": "media/img/hot.webp?v=83b42e40",
+    "uk": "media/uk/hot.mp3?v=a1e080b7",
+    "us": "media/us/hot.mp3?v=bc31fb9a"
    },
    "spell": true,
    "avoid": [
@@ -357,23 +357,23 @@
     {
      "en": "Put some ice in my juice, please.",
      "zh": "请在我的果汁里加点冰。",
-     "audio": "media/sent/612690587194.mp3"
+     "audio": "media/sent/612690587194.mp3?v=92451755"
     },
     {
      "en": "There is ice on the lake.",
      "zh": "湖面上有冰。",
-     "audio": "media/sent/ca6427349e98.mp3"
+     "audio": "media/sent/ca6427349e98.mp3?v=ac56b0c2"
     },
     {
      "en": "Can I have some ice in my cola?",
      "zh": "我的可乐能加点冰吗？",
-     "audio": "media/sent/249aacb9f88a.mp3"
+     "audio": "media/sent/249aacb9f88a.mp3?v=e6eb1d07"
     }
    ],
    "media": {
-    "img": "media/img/ice.webp",
-    "uk": "media/uk/ice.mp3",
-    "us": "media/us/ice.mp3"
+    "img": "media/img/ice.webp?v=9c966afc",
+    "uk": "media/uk/ice.mp3?v=bd98bda7",
+    "us": "media/us/ice.mp3?v=535f1f06"
    },
    "spell": true,
    "avoid": [
@@ -411,23 +411,23 @@
     {
      "en": "Take an umbrella. It's going to rain.",
      "zh": "带把伞，要下雨了。",
-     "audio": "media/sent/8ec74f64000e.mp3"
+     "audio": "media/sent/8ec74f64000e.mp3?v=b45e40b3"
     },
     {
      "en": "I like the sound of the rain.",
      "zh": "我喜欢雨的声音。",
-     "audio": "media/sent/53e78715223d.mp3"
+     "audio": "media/sent/53e78715223d.mp3?v=1c20e7cf"
     },
     {
      "en": "It often rains in England.",
      "zh": "英国经常下雨。",
-     "audio": "media/sent/6674ac179be5.mp3"
+     "audio": "media/sent/6674ac179be5.mp3?v=8301593d"
     }
    ],
    "media": {
-    "img": "media/img/rain.webp",
-    "uk": "media/uk/rain.mp3",
-    "us": "media/us/rain.mp3"
+    "img": "media/img/rain.webp?v=959c1555",
+    "uk": "media/uk/rain.mp3?v=cd55e5f3",
+    "us": "media/us/rain.mp3?v=f982d5cc"
    },
    "spell": true,
    "avoid": [
@@ -471,23 +471,23 @@
     {
      "en": "The children are playing in the snow.",
      "zh": "孩子们在雪里玩。",
-     "audio": "media/sent/f3ac4eb4ff77.mp3"
+     "audio": "media/sent/f3ac4eb4ff77.mp3?v=07818cd6"
     },
     {
      "en": "It snows a lot in winter.",
      "zh": "冬天常下雪。",
-     "audio": "media/sent/6356c3e73953.mp3"
+     "audio": "media/sent/6356c3e73953.mp3?v=8781b481"
     },
     {
      "en": "Max loves running in the snow.",
      "zh": "Max 很爱在雪里跑。",
-     "audio": "media/sent/5725380a29fe.mp3"
+     "audio": "media/sent/5725380a29fe.mp3?v=907724f6"
     }
    ],
    "media": {
-    "img": "media/img/snow.webp",
-    "uk": "media/uk/snow.mp3",
-    "us": "media/us/snow.mp3"
+    "img": "media/img/snow.webp?v=c4762f4b",
+    "uk": "media/uk/snow.mp3?v=40d1c0f3",
+    "us": "media/us/snow.mp3?v=188c1442"
    },
    "spell": true,
    "avoid": [
@@ -528,23 +528,23 @@
     {
      "en": "There is a big storm tonight.",
      "zh": "今晚有一场大暴风雨。",
-     "audio": "media/sent/ee8afcfedf75.mp3"
+     "audio": "media/sent/ee8afcfedf75.mp3?v=526f78c2"
     },
     {
      "en": "The storm is very loud.",
      "zh": "暴风雨声音很大。",
-     "audio": "media/sent/dec96112ac53.mp3"
+     "audio": "media/sent/dec96112ac53.mp3?v=44a51327"
     },
     {
      "en": "Stay at home in a storm.",
      "zh": "暴风雨时待在家里。",
-     "audio": "media/sent/eedb6a647c50.mp3"
+     "audio": "media/sent/eedb6a647c50.mp3?v=49025136"
     }
    ],
    "media": {
-    "img": "media/img/storm.webp",
-    "uk": "media/uk/storm.mp3",
-    "us": "media/us/storm.mp3"
+    "img": "media/img/storm.webp?v=88fe5bd1",
+    "uk": "media/uk/storm.mp3?v=3cc9508d",
+    "us": "media/us/storm.mp3?v=679f86de"
    },
    "avoid": [
     "rain",
@@ -579,23 +579,23 @@
     {
      "en": "The sun is very bright today.",
      "zh": "今天阳光很亮。",
-     "audio": "media/sent/8e8b3640d789.mp3"
+     "audio": "media/sent/8e8b3640d789.mp3?v=7048c3be"
     },
     {
      "en": "The sun is very hot today.",
      "zh": "今天太阳很晒。",
-     "audio": "media/sent/7afb95c13988.mp3"
+     "audio": "media/sent/7afb95c13988.mp3?v=1637c9a0"
     },
     {
      "en": "The sun goes down in the evening.",
      "zh": "太阳傍晚落下。",
-     "audio": "media/sent/ba3dac99e0eb.mp3"
+     "audio": "media/sent/ba3dac99e0eb.mp3?v=d6eeda0c"
     }
    ],
    "media": {
-    "img": "media/img/sun.webp",
-    "uk": "media/uk/sun.mp3",
-    "us": "media/us/sun.mp3"
+    "img": "media/img/sun.webp?v=057b42e6",
+    "uk": "media/uk/sun.mp3?v=36c59dc8",
+    "us": "media/us/sun.mp3?v=08fce8d6"
    },
    "spell": true,
    "avoid": [
@@ -636,23 +636,23 @@
     {
      "en": "It's sunny today. Let's go to the beach!",
      "zh": "今天天气晴朗，我们去海滩吧！",
-     "audio": "media/sent/92f74ab782ed.mp3"
+     "audio": "media/sent/92f74ab782ed.mp3?v=1cf3afaa"
     },
     {
      "en": "What a sunny day!",
      "zh": "多晴朗的一天！",
-     "audio": "media/sent/cffdc24dc442.mp3"
+     "audio": "media/sent/cffdc24dc442.mp3?v=16cd7318"
     },
     {
      "en": "Our garden is very sunny.",
      "zh": "我们的花园阳光很好。",
-     "audio": "media/sent/5a19556a4df2.mp3"
+     "audio": "media/sent/5a19556a4df2.mp3?v=a6a31c57"
     }
    ],
    "media": {
-    "img": "media/img/sunny.webp",
-    "uk": "media/uk/sunny.mp3",
-    "us": "media/us/sunny.mp3"
+    "img": "media/img/sunny.webp?v=2f1f4200",
+    "uk": "media/uk/sunny.mp3?v=77e510c7",
+    "us": "media/us/sunny.mp3?v=718e58e3"
    },
    "spell": true,
    "avoid": [
@@ -691,23 +691,23 @@
     {
      "en": "Max is afraid of the thunderstorm.",
      "zh": "Max 害怕雷雨。",
-     "audio": "media/sent/b50ba9cd3118.mp3"
+     "audio": "media/sent/b50ba9cd3118.mp3?v=e3c28f02"
     },
     {
      "en": "There's a thunderstorm. Close the window!",
      "zh": "打雷下雨了，关窗！",
-     "audio": "media/sent/03a4cd305c10.mp3"
+     "audio": "media/sent/03a4cd305c10.mp3?v=0eeb7fd1"
     },
     {
      "en": "We stay inside in a thunderstorm.",
      "zh": "雷雨天我们待在屋里。",
-     "audio": "media/sent/87cd151f103c.mp3"
+     "audio": "media/sent/87cd151f103c.mp3?v=ed0405b4"
     }
    ],
    "media": {
-    "img": "media/img/thunderstorm.webp",
-    "uk": "media/uk/thunderstorm.mp3",
-    "us": "media/us/thunderstorm.mp3"
+    "img": "media/img/thunderstorm.webp?v=1d42fd38",
+    "uk": "media/uk/thunderstorm.mp3?v=c7798ec2",
+    "us": "media/us/thunderstorm.mp3?v=5a489ea9"
    },
    "hook": {
     "kind": "split",
@@ -746,23 +746,23 @@
     {
      "en": "It's warm by the fire.",
      "zh": "火炉边很暖和。",
-     "audio": "media/sent/563784db98f7.mp3"
+     "audio": "media/sent/563784db98f7.mp3?v=8d10734a"
     },
     {
      "en": "It's a warm day in spring.",
      "zh": "这是春天温暖的一天。",
-     "audio": "media/sent/8390b0cb6c07.mp3"
+     "audio": "media/sent/8390b0cb6c07.mp3?v=1d6a842e"
     },
     {
      "en": "Wear a warm coat.",
      "zh": "穿一件暖和的外套。",
-     "audio": "media/sent/4812aab48ecd.mp3"
+     "audio": "media/sent/4812aab48ecd.mp3?v=75e16964"
     }
    ],
    "media": {
-    "img": "media/img/warm.webp",
-    "uk": "media/uk/warm.mp3",
-    "us": "media/us/warm.mp3"
+    "img": "media/img/warm.webp?v=71e65e9f",
+    "uk": "media/uk/warm.mp3?v=f229a75b",
+    "us": "media/us/warm.mp3?v=0185a53c"
    },
    "spell": true,
    "avoid": [
@@ -799,23 +799,23 @@
     {
      "en": "What's the weather like today?",
      "zh": "今天天气怎么样？",
-     "audio": "media/sent/0de7dd16a4b9.mp3"
+     "audio": "media/sent/0de7dd16a4b9.mp3?v=8f80c6b9"
     },
     {
      "en": "The weather is nice today.",
      "zh": "今天天气很好。",
-     "audio": "media/sent/8afc1231bbfa.mp3"
+     "audio": "media/sent/8afc1231bbfa.mp3?v=8d8430b6"
     },
     {
      "en": "I don't like cold weather.",
      "zh": "我不喜欢冷天气。",
-     "audio": "media/sent/b47b56b79828.mp3"
+     "audio": "media/sent/b47b56b79828.mp3?v=7e27bba3"
     }
    ],
    "media": {
-    "img": "media/img/weather.webp",
-    "uk": "media/uk/weather.mp3",
-    "us": "media/us/weather.mp3"
+    "img": "media/img/weather.webp?v=55269429",
+    "uk": "media/uk/weather.mp3?v=244d4c70",
+    "us": "media/us/weather.mp3?v=6d4ad9db"
    },
    "spell": true,
    "hook": {
@@ -858,23 +858,23 @@
     {
      "en": "My shoes are wet.",
      "zh": "我的鞋湿了。",
-     "audio": "media/sent/0a52a35b64db.mp3"
+     "audio": "media/sent/0a52a35b64db.mp3?v=084f594e"
     },
     {
      "en": "Max is wet after his bath.",
      "zh": "Max 洗完澡湿漉漉的。",
-     "audio": "media/sent/aa4caf2171a1.mp3"
+     "audio": "media/sent/aa4caf2171a1.mp3?v=6645f941"
     },
     {
      "en": "Don't sit on the grass. It's wet.",
      "zh": "别坐在草地上，草是湿的。",
-     "audio": "media/sent/4ac502005486.mp3"
+     "audio": "media/sent/4ac502005486.mp3?v=3b936f07"
     }
    ],
    "media": {
-    "img": "media/img/wet.webp",
-    "uk": "media/uk/wet.mp3",
-    "us": "media/us/wet.mp3"
+    "img": "media/img/wet.webp?v=bf75f660",
+    "uk": "media/uk/wet.mp3?v=45213330",
+    "us": "media/us/wet.mp3?v=62c9de87"
    },
    "spell": true,
    "avoid": [
@@ -909,23 +909,23 @@
     {
      "en": "The wind is very strong today.",
      "zh": "今天风很大。",
-     "audio": "media/sent/b8fd16bad143.mp3"
+     "audio": "media/sent/b8fd16bad143.mp3?v=45aef9da"
     },
     {
      "en": "The wind is cold today.",
      "zh": "今天的风很冷。",
-     "audio": "media/sent/1dbdf2b5de17.mp3"
+     "audio": "media/sent/1dbdf2b5de17.mp3?v=7e2cb68c"
     },
     {
      "en": "Listen to the wind!",
      "zh": "听风声！",
-     "audio": "media/sent/9b7beb6a112f.mp3"
+     "audio": "media/sent/9b7beb6a112f.mp3?v=221ae91f"
     }
    ],
    "media": {
-    "img": "media/img/wind.webp",
-    "uk": "media/uk/wind.mp3",
-    "us": "media/us/wind.mp3"
+    "img": "media/img/wind.webp?v=fec0d77b",
+    "uk": "media/uk/wind.mp3?v=cb95328f",
+    "us": "media/us/wind.mp3?v=25558201"
    },
    "hook": {
     "kind": "contrast",
@@ -969,23 +969,23 @@
     {
      "en": "It's windy, so let's fly a kite!",
      "zh": "有风，我们放风筝吧！",
-     "audio": "media/sent/b4cb8026543e.mp3"
+     "audio": "media/sent/b4cb8026543e.mp3?v=34aaa79c"
     },
     {
      "en": "It's too windy for an umbrella.",
      "zh": "风太大，打不了伞。",
-     "audio": "media/sent/943973e1216a.mp3"
+     "audio": "media/sent/943973e1216a.mp3?v=5958a105"
     },
     {
      "en": "Is it windy at the beach?",
      "zh": "海滩那边有风吗？",
-     "audio": "media/sent/d28b7f45abc2.mp3"
+     "audio": "media/sent/d28b7f45abc2.mp3?v=5718683a"
     }
    ],
    "media": {
-    "img": "media/img/windy.webp",
-    "uk": "media/uk/windy.mp3",
-    "us": "media/us/windy.mp3"
+    "img": "media/img/windy.webp?v=e5b17de3",
+    "uk": "media/uk/windy.mp3?v=176810d6",
+    "us": "media/us/windy.mp3?v=7b2efe9d"
    },
    "hook": {
     "kind": "affix",

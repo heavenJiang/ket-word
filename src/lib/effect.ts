@@ -1,5 +1,5 @@
 import { Rating } from "../srs/srs";
-import { dayKey, type LogEntry, type Progress } from "../store/progress";
+import { CHECKUP_MISS, dayKey, type LogEntry, type Progress } from "../store/progress";
 
 const DAY = 86_400_000;
 /** The answer card after each question, on top of the time to answer. */
@@ -32,7 +32,8 @@ const MEANING = 0;
  * other children: if a number is off target, the parent centre says what to change.
  */
 export function effect(p: Progress, now: number): Effect {
-  const log = p.log ?? [];
+  // check-up misses are neither reviews nor timed answers
+  const log = (p.log ?? []).filter((e) => e[5] !== CHECKUP_MISS);
   const recent = log.filter((e) => e[5] === 0 && e[0] > now - 30 * DAY);
   const recall = { ok: recent.filter(isRight).length, n: recent.length };
 
@@ -69,7 +70,7 @@ export function effect(p: Progress, now: number): Effect {
 /** Minutes spent on the given local day, estimated from answer times like `effect`. */
 export function minutesOn(p: Progress, day: string): number {
   let secs = 0;
-  for (const e of p.log ?? []) if (dayKey(e[0]) === day) secs += e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0);
+  for (const e of p.log ?? []) if (dayKey(e[0]) === day && e[5] !== CHECKUP_MISS) secs += e[4] / 1000 + FEEDBACK_SECS + (e[5] === 1 ? TEACH_SECS : 0);
   return Math.round(secs / 60);
 }
 

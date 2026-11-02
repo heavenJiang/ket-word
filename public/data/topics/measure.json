@@ -32,23 +32,23 @@
     {
      "en": "The ruler is thirty centimetres long.",
      "zh": "尺子长三十厘米。",
-     "audio": "media/sent/c959dbe94157.mp3"
+     "audio": "media/sent/c959dbe94157.mp3?v=795811dd"
     },
     {
      "en": "My pencil is fifteen centimetres long.",
      "zh": "我的铅笔有十五厘米长。",
-     "audio": "media/sent/716d0400d4e4.mp3"
+     "audio": "media/sent/716d0400d4e4.mp3?v=1c381130"
     },
     {
      "en": "The baby snail is one centimetre long.",
      "zh": "小蜗牛只有一厘米长。",
-     "audio": "media/sent/f9a94e734cad.mp3"
+     "audio": "media/sent/f9a94e734cad.mp3?v=010075f8"
     }
    ],
    "media": {
-    "img": "media/img/centimetre.webp",
-    "uk": "media/uk/centimetre.mp3",
-    "us": "media/us/centimetre.mp3"
+    "img": "media/img/centimetre.webp?v=4202f9dc",
+    "uk": "media/uk/centimetre.mp3?v=1505ed19",
+    "us": "media/us/centimetre.mp3?v=6da558aa"
    },
    "hook": {
     "kind": "contrast",
@@ -88,23 +88,23 @@
     {
      "en": "The wall is two metres high.",
      "zh": "这堵墙两米高。",
-     "audio": "media/sent/5c6fdadccfe3.mp3"
+     "audio": "media/sent/5c6fdadccfe3.mp3?v=6970f764"
     },
     {
      "en": "Max runs one hundred metres very fast.",
      "zh": "Max 跑一百米跑得很快。",
-     "audio": "media/sent/e4afb6b17925.mp3"
+     "audio": "media/sent/e4afb6b17925.mp3?v=9534132e"
     },
     {
      "en": "The water in the small pool is one metre deep.",
      "zh": "小泳池的水有一米深。",
-     "audio": "media/sent/f690dba08313.mp3"
+     "audio": "media/sent/f690dba08313.mp3?v=653bf1ec"
     }
    ],
    "media": {
-    "img": "media/img/metre.webp",
-    "uk": "media/uk/metre.mp3",
-    "us": "media/us/metre.mp3"
+    "img": "media/img/metre.webp?v=349ece70",
+    "uk": "media/uk/metre.mp3?v=532ac47d",
+    "us": "media/us/metre.mp3?v=c0b5289a"
    },
    "spell": true,
    "avoid": [
@@ -143,23 +143,23 @@
     {
      "en": "The school is one kilometre away.",
      "zh": "学校离这儿一公里。",
-     "audio": "media/sent/b10bb17c45d8.mp3"
+     "audio": "media/sent/b10bb17c45d8.mp3?v=dbe3fde1"
     },
     {
      "en": "We walk two kilometres in the park.",
      "zh": "我们在公园走两公里。",
-     "audio": "media/sent/1ef02cebbdb7.mp3"
+     "audio": "media/sent/1ef02cebbdb7.mp3?v=7fa5debd"
     },
     {
      "en": "Dad drives ten kilometres to work.",
      "zh": "爸爸开车十公里去上班。",
-     "audio": "media/sent/027786f267ff.mp3"
+     "audio": "media/sent/027786f267ff.mp3?v=c11fd4c4"
     }
    ],
    "media": {
-    "img": "media/img/kilometre.webp",
-    "uk": "media/uk/kilometre.mp3",
-    "us": "media/us/kilometre.mp3"
+    "img": "media/img/kilometre.webp?v=ca036454",
+    "uk": "media/uk/kilometre.mp3?v=6a344eef",
+    "us": "media/us/kilometre.mp3?v=dd1f0d5d"
    },
    "hook": {
     "kind": "contrast",
@@ -198,23 +198,23 @@
     {
      "en": "I need one hundred grams of food.",
      "zh": "我需要一百克食物。",
-     "audio": "media/sent/857d65d423f1.mp3"
+     "audio": "media/sent/857d65d423f1.mp3?v=602bec1a"
     },
     {
      "en": "This egg is fifty grams.",
      "zh": "这个鸡蛋重五十克。",
-     "audio": "media/sent/8b2c0e5c1523.mp3"
+     "audio": "media/sent/8b2c0e5c1523.mp3?v=4d23d4f2"
     },
     {
      "en": "A small sweet is about one gram.",
      "zh": "一颗小糖大约一克重。",
-     "audio": "media/sent/543399e232cc.mp3"
+     "audio": "media/sent/543399e232cc.mp3?v=89435b28"
     }
    ],
    "media": {
-    "img": "media/img/gram.webp",
-    "uk": "media/uk/gram.mp3",
-    "us": "media/us/gram.mp3"
+    "img": "media/img/gram.webp?v=929ef7e5",
+    "uk": "media/uk/gram.mp3?v=401e93c0",
+    "us": "media/us/gram.mp3?v=c2b39782"
    },
    "avoid": [
     "kilogramme"
@@ -251,23 +251,23 @@
     {
      "en": "Mum buys one kilogramme of potatoes.",
      "zh": "妈妈买一公斤土豆。",
-     "audio": "media/sent/b3e7d8f165ff.mp3"
+     "audio": "media/sent/b3e7d8f165ff.mp3?v=ee74531e"
     },
     {
      "en": "Sam is thirty kilogrammes.",
      "zh": "Sam 体重三十公斤。",
-     "audio": "media/sent/23f5a69df813.mp3"
+     "audio": "media/sent/23f5a69df813.mp3?v=e230b72d"
     },
     {
      "en": "This bag of rice is two kilogrammes.",
      "zh": "这袋米有两公斤。",
-     "audio": "media/sent/8870e369c008.mp3"
+     "audio": "media/sent/8870e369c008.mp3?v=50ec51ba"
     }
    ],
    "media": {
-    "img": "media/img/kilogramme.webp",
-    "uk": "media/uk/kilogramme.mp3",
-    "us": "media/us/kilogramme.mp3"
+    "img": "media/img/kilogramme.webp?v=b509181a",
+    "uk": "media/uk/kilogramme.mp3?v=262cf825",
+    "us": "media/us/kilogramme.mp3?v=baa9274d"
    },
    "avoid": [
     "gram",
@@ -303,23 +303,23 @@
     {
      "en": "Please buy a litre of milk.",
      "zh": "请买一升牛奶。",
-     "audio": "media/sent/cb5abbb4f627.mp3"
+     "audio": "media/sent/cb5abbb4f627.mp3?v=6a6e3739"
     },
     {
      "en": "Tom drinks half a litre of water.",
      "zh": "Tom 喝半升水。",
-     "audio": "media/sent/d2fb78753267.mp3"
+     "audio": "media/sent/d2fb78753267.mp3?v=13f2bab1"
     },
     {
      "en": "The big bottle holds two litres of juice.",
      "zh": "大瓶子能装两升果汁。",
-     "audio": "media/sent/c4d5b8fa325e.mp3"
+     "audio": "media/sent/c4d5b8fa325e.mp3?v=0f6e60dc"
     }
    ],
    "media": {
-    "img": "media/img/litre.webp",
-    "uk": "media/uk/litre.mp3",
-    "us": "media/us/litre.mp3"
+    "img": "media/img/litre.webp?v=2f41bb84",
+    "uk": "media/uk/litre.mp3?v=5e89714e",
+    "us": "media/us/litre.mp3?v=08286684"
    },
    "avoid": [
     "kilogramme"
@@ -354,23 +354,23 @@
     {
      "en": "It is twenty degrees today.",
      "zh": "今天二十度。",
-     "audio": "media/sent/eb49ffb2a4b3.mp3"
+     "audio": "media/sent/eb49ffb2a4b3.mp3?v=a11fd617"
     },
     {
      "en": "Water gets very hot at one hundred degrees.",
      "zh": "水到一百度就非常烫了。",
-     "audio": "media/sent/9094c234c250.mp3"
+     "audio": "media/sent/9094c234c250.mp3?v=9a86514e"
     },
     {
      "en": "Today is one degree warmer than yesterday.",
      "zh": "今天比昨天暖和一度。",
-     "audio": "media/sent/bfd6c36ffe01.mp3"
+     "audio": "media/sent/bfd6c36ffe01.mp3?v=d97f117a"
     }
    ],
    "media": {
-    "img": "media/img/degree.webp",
-    "uk": "media/uk/degree.mp3",
-    "us": "media/us/degree.mp3"
+    "img": "media/img/degree.webp?v=d99780f1",
+    "uk": "media/uk/degree.mp3?v=53ad292b",
+    "us": "media/us/degree.mp3?v=f998af62"
    },
    "avoid": [
     "temperature"
@@ -407,23 +407,23 @@
     {
      "en": "Mum checks Tom's temperature.",
      "zh": "妈妈检查 Tom 的体温。",
-     "audio": "media/sent/bd439a9b6b87.mp3"
+     "audio": "media/sent/bd439a9b6b87.mp3?v=8be81b84"
     },
     {
      "en": "The room temperature is high.",
      "zh": "房间温度很高。",
-     "audio": "media/sent/32f19907f94a.mp3"
+     "audio": "media/sent/32f19907f94a.mp3?v=c8e79fed"
     },
     {
      "en": "My temperature is normal now.",
      "zh": "我现在体温正常。",
-     "audio": "media/sent/2f1812e68c88.mp3"
+     "audio": "media/sent/2f1812e68c88.mp3?v=15395c03"
     }
    ],
    "media": {
-    "img": "media/img/temperature.webp",
-    "uk": "media/uk/temperature.mp3",
-    "us": "media/us/temperature.mp3"
+    "img": "media/img/temperature.webp?v=efd64930",
+    "uk": "media/uk/temperature.mp3?v=fb0a688a",
+    "us": "media/us/temperature.mp3?v=bad862ee"
    },
    "avoid": [
     "degree"
@@ -462,23 +462,23 @@
     {
      "en": "Lily can swim under the water for ten seconds.",
      "zh": "Lily 能在水下游十秒钟。",
-     "audio": "media/sent/92654b1e8c52.mp3"
+     "audio": "media/sent/92654b1e8c52.mp3?v=297bb0ad"
     },
     {
      "en": "Wait one second, please.",
      "zh": "请等一秒。",
-     "audio": "media/sent/b27c7a8e227a.mp3"
+     "audio": "media/sent/b27c7a8e227a.mp3?v=897ef81e"
     },
     {
      "en": "Max runs to the gate in five seconds.",
      "zh": "Max 五秒钟就跑到了大门口。",
-     "audio": "media/sent/da0db4571689.mp3"
+     "audio": "media/sent/da0db4571689.mp3?v=4d40a763"
     }
    ],
    "media": {
-    "img": "media/img/second.webp",
-    "uk": "media/uk/second.mp3",
-    "us": "media/us/second.mp3"
+    "img": "media/img/second.webp?v=99740a3a",
+    "uk": "media/uk/second.mp3?v=5f40f949",
+    "us": "media/us/second.mp3?v=050f3809"
    },
    "spell": true,
    "avoid": [
@@ -516,23 +516,23 @@
     {
      "en": "We wait for five minutes.",
      "zh": "我们等五分钟。",
-     "audio": "media/sent/13f3742240b2.mp3"
+     "audio": "media/sent/13f3742240b2.mp3?v=59ef9add"
     },
     {
      "en": "Lily reads for ten minutes.",
      "zh": "Lily 读十分钟书。",
-     "audio": "media/sent/a43e640043c1.mp3"
+     "audio": "media/sent/a43e640043c1.mp3?v=fc42d361"
     },
     {
      "en": "The bus comes in one minute.",
      "zh": "公交车一分钟后到。",
-     "audio": "media/sent/64677b219d48.mp3"
+     "audio": "media/sent/64677b219d48.mp3?v=2ed8b8b6"
     }
    ],
    "media": {
-    "img": "media/img/minute.webp",
-    "uk": "media/uk/minute.mp3",
-    "us": "media/us/minute.mp3"
+    "img": "media/img/minute.webp?v=ea0b8b5c",
+    "uk": "media/uk/minute.mp3?v=0b576a75",
+    "us": "media/us/minute.mp3?v=960c39b3"
    },
    "spell": true,
    "avoid": [
@@ -569,23 +569,23 @@
     {
      "en": "The film is two hours long.",
      "zh": "电影两小时长。",
-     "audio": "media/sent/e65ee79cc39c.mp3"
+     "audio": "media/sent/e65ee79cc39c.mp3?v=b099eba2"
     },
     {
      "en": "We play for one hour.",
      "zh": "我们玩一个小时。",
-     "audio": "media/sent/7131e0f20509.mp3"
+     "audio": "media/sent/7131e0f20509.mp3?v=0c92c595"
     },
     {
      "en": "Dad works eight hours every day.",
      "zh": "爸爸每天工作八小时。",
-     "audio": "media/sent/027fcc085999.mp3"
+     "audio": "media/sent/027fcc085999.mp3?v=43967839"
     }
    ],
    "media": {
-    "img": "media/img/hour.webp",
-    "uk": "media/uk/hour.mp3",
-    "us": "media/us/hour.mp3"
+    "img": "media/img/hour.webp?v=c9d6381f",
+    "uk": "media/uk/hour.mp3?v=898f94b2",
+    "us": "media/us/hour.mp3?v=effffba9"
    },
    "spell": true,
    "avoid": [
@@ -622,23 +622,23 @@
     {
      "en": "We go to school every day.",
      "zh": "我们每天去上学。",
-     "audio": "media/sent/da39238387d4.mp3"
+     "audio": "media/sent/da39238387d4.mp3?v=7c8870f2"
     },
     {
      "en": "It rains all day long.",
      "zh": "雨下了一整天。",
-     "audio": "media/sent/4d1a25cfb351.mp3"
+     "audio": "media/sent/4d1a25cfb351.mp3?v=b72ab0a9"
     },
     {
      "en": "Today is a sunny day.",
      "zh": "今天是晴天。",
-     "audio": "media/sent/fab83815b439.mp3"
+     "audio": "media/sent/fab83815b439.mp3?v=ed69d4ac"
     }
    ],
    "media": {
-    "img": "media/img/day.webp",
-    "uk": "media/uk/day.mp3",
-    "us": "media/us/day.mp3"
+    "img": "media/img/day.webp?v=b116876a",
+    "uk": "media/uk/day.mp3?v=c871529e",
+    "us": "media/us/day.mp3?v=da83d1b4"
    },
    "spell": true,
    "avoid": [
@@ -674,23 +674,23 @@
     {
      "en": "We have swimming this week.",
      "zh": "这周我们有游泳课。",
-     "audio": "media/sent/b5a8267fa156.mp3"
+     "audio": "media/sent/b5a8267fa156.mp3?v=3838de1f"
     },
     {
      "en": "Lily cleans her room once a week.",
      "zh": "Lily 每周打扫一次房间。",
-     "audio": "media/sent/6f0ae3e503cc.mp3"
+     "audio": "media/sent/6f0ae3e503cc.mp3?v=6b94bfc0"
     },
     {
      "en": "We go swimming every week.",
      "zh": "我们每周都去游泳。",
-     "audio": "media/sent/3496671c29ee.mp3"
+     "audio": "media/sent/3496671c29ee.mp3?v=4985d2e4"
     }
    ],
    "media": {
-    "img": "media/img/week.webp",
-    "uk": "media/uk/week.mp3",
-    "us": "media/us/week.mp3"
+    "img": "media/img/week.webp?v=344b7fb8",
+    "uk": "media/uk/week.mp3?v=9f870328",
+    "us": "media/us/week.mp3?v=bc8a52c1"
    },
    "spell": true,
    "avoid": [
@@ -726,23 +726,23 @@
     {
      "en": "Lily is nine years old.",
      "zh": "Lily 九岁。",
-     "audio": "media/sent/2b50496f38da.mp3"
+     "audio": "media/sent/2b50496f38da.mp3?v=0a97830d"
     },
     {
      "en": "Happy New Year, Tom!",
      "zh": "Tom，新年快乐！",
-     "audio": "media/sent/4b249cbd30c7.mp3"
+     "audio": "media/sent/4b249cbd30c7.mp3?v=426c3adf"
     },
     {
      "en": "We visit Grandma every year.",
      "zh": "我们每年去看奶奶。",
-     "audio": "media/sent/ba8178cf9be0.mp3"
+     "audio": "media/sent/ba8178cf9be0.mp3?v=ef36f9be"
     }
    ],
    "media": {
-    "img": "media/img/year.webp",
-    "uk": "media/uk/year.mp3",
-    "us": "media/us/year.mp3"
+    "img": "media/img/year.webp?v=f36be097",
+    "uk": "media/uk/year.mp3?v=a9022f01",
+    "us": "media/us/year.mp3?v=28fde8c7"
    },
    "spell": true,
    "avoid": [
@@ -779,23 +779,23 @@
     {
      "en": "Wait a moment, please.",
      "zh": "请稍等片刻。",
-     "audio": "media/sent/908e995918e9.mp3"
+     "audio": "media/sent/908e995918e9.mp3?v=69e153b0"
     },
     {
      "en": "I will be back in a moment.",
      "zh": "我一会儿就回来。",
-     "audio": "media/sent/4e2b30e9fe25.mp3"
+     "audio": "media/sent/4e2b30e9fe25.mp3?v=8bb73cae"
     },
     {
      "en": "Think for a moment, Lily.",
      "zh": "Lily，想一会儿。",
-     "audio": "media/sent/87065e237132.mp3"
+     "audio": "media/sent/87065e237132.mp3?v=ecd3f8ed"
     }
    ],
    "media": {
-    "img": "media/img/moment.webp",
-    "uk": "media/uk/moment.mp3",
-    "us": "media/us/moment.mp3"
+    "img": "media/img/moment.webp?v=f63df9ce",
+    "uk": "media/uk/moment.mp3?v=1c39b71b",
+    "us": "media/us/moment.mp3?v=a394a63b"
    },
    "spell": true,
    "avoid": [
@@ -836,23 +836,23 @@
     {
      "en": "Lily eats half an apple.",
      "zh": "Lily 吃半个苹果。",
-     "audio": "media/sent/5f1211263d41.mp3"
+     "audio": "media/sent/5f1211263d41.mp3?v=9214b25f"
     },
     {
      "en": "It is half past six.",
      "zh": "现在六点半。",
-     "audio": "media/sent/79a8c7abb794.mp3"
+     "audio": "media/sent/79a8c7abb794.mp3?v=d62051ef"
     },
     {
      "en": "Tom gives Sam half his cake.",
      "zh": "Tom 给 Sam 一半蛋糕。",
-     "audio": "media/sent/7cefc8d5ae4b.mp3"
+     "audio": "media/sent/7cefc8d5ae4b.mp3?v=25cbeab7"
     }
    ],
    "media": {
-    "img": "media/img/half.webp",
-    "uk": "media/uk/half.mp3",
-    "us": "media/us/half.mp3"
+    "img": "media/img/half.webp?v=819d28de",
+    "uk": "media/uk/half.mp3?v=05f39ce7",
+    "us": "media/us/half.mp3?v=7ce5da34"
    },
    "spell": true,
    "avoid": [
@@ -888,23 +888,23 @@
     {
      "en": "It is a quarter past three.",
      "zh": "现在三点一刻。",
-     "audio": "media/sent/818c638a078c.mp3"
+     "audio": "media/sent/818c638a078c.mp3?v=c15c0073"
     },
     {
      "en": "Lily eats one quarter of the pizza.",
      "zh": "Lily 吃四分之一披萨。",
-     "audio": "media/sent/9e74f92febb8.mp3"
+     "audio": "media/sent/9e74f92febb8.mp3?v=a8f1f5d1"
     },
     {
      "en": "We wait for a quarter of an hour.",
      "zh": "我们等一刻钟。",
-     "audio": "media/sent/962bf43d753f.mp3"
+     "audio": "media/sent/962bf43d753f.mp3?v=a9b2b9ad"
     }
    ],
    "media": {
-    "img": "media/img/quarter.webp",
-    "uk": "media/uk/quarter.mp3",
-    "us": "media/us/quarter.mp3"
+    "img": "media/img/quarter.webp?v=fd218939",
+    "uk": "media/uk/quarter.mp3?v=f75d9f2f",
+    "us": "media/us/quarter.mp3?v=011a8271"
    },
    "avoid": [
     "half"

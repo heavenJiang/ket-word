@@ -30,23 +30,23 @@
     {
      "en": "We live in a small village.",
      "zh": "我们住在一个小村庄里。",
-     "audio": "media/sent/29a8b6332846.mp3"
+     "audio": "media/sent/29a8b6332846.mp3?v=b6927175"
     },
     {
      "en": "There is no cinema in our village.",
      "zh": "我们村没有电影院。",
-     "audio": "media/sent/249a2dc674a6.mp3"
+     "audio": "media/sent/249a2dc674a6.mp3?v=99fa4b58"
     },
     {
      "en": "Grandma visits the village shop.",
      "zh": "奶奶去村里的商店。",
-     "audio": "media/sent/5d92cad1e466.mp3"
+     "audio": "media/sent/5d92cad1e466.mp3?v=8e343fef"
     }
    ],
    "media": {
-    "img": "media/img/village.webp",
-    "uk": "media/uk/village.mp3",
-    "us": "media/us/village.mp3"
+    "img": "media/img/village.webp?v=28a67912",
+    "uk": "media/uk/village.mp3?v=09685d75",
+    "us": "media/us/village.mp3?v=c2488f69"
    },
    "spell": true,
    "hook": {
@@ -87,23 +87,23 @@
     {
      "en": "There are lots of farms in this area.",
      "zh": "这个地区有很多农场。",
-     "audio": "media/sent/dd738f228753.mp3"
+     "audio": "media/sent/dd738f228753.mp3?v=6c757c2c"
     },
     {
      "en": "This is a quiet area.",
      "zh": "这是一个安静的区域。",
-     "audio": "media/sent/eede8c98a85b.mp3"
+     "audio": "media/sent/eede8c98a85b.mp3?v=71e390b2"
     },
     {
      "en": "We walk in this area every day.",
      "zh": "我们每天在这个区域散步。",
-     "audio": "media/sent/6297df0fbc4d.mp3"
+     "audio": "media/sent/6297df0fbc4d.mp3?v=6d4fbb58"
     }
    ],
    "media": {
-    "img": "media/img/area.webp",
-    "uk": "media/uk/area.mp3",
-    "us": "media/us/area.mp3"
+    "img": "media/img/area.webp?v=d1e5b99d",
+    "uk": "media/uk/area.mp3?v=d1ae5b2f",
+    "us": "media/us/area.mp3?v=5247e71f"
    },
    "spell": true,
    "avoid": [
@@ -138,23 +138,23 @@
     {
      "en": "Sam's uncle works on a farm.",
      "zh": "Sam 的叔叔在农场工作。",
-     "audio": "media/sent/0cb39cefcd96.mp3"
+     "audio": "media/sent/0cb39cefcd96.mp3?v=e7cf9322"
     },
     {
      "en": "The farm has many chickens.",
      "zh": "农场有很多鸡。",
-     "audio": "media/sent/e98c756f8582.mp3"
+     "audio": "media/sent/e98c756f8582.mp3?v=e9f2132f"
     },
     {
      "en": "Lily visits her uncle's farm.",
      "zh": "Lily 去她叔叔的农场。",
-     "audio": "media/sent/ae20e78055b7.mp3"
+     "audio": "media/sent/ae20e78055b7.mp3?v=ed79e844"
     }
    ],
    "media": {
-    "img": "media/img/farm.webp",
-    "uk": "media/uk/farm.mp3",
-    "us": "media/us/farm.mp3"
+    "img": "media/img/farm.webp?v=7e2398cf",
+    "uk": "media/uk/farm.mp3?v=c99eb965",
+    "us": "media/us/farm.mp3?v=b3344662"
    },
    "spell": true,
    "avoid": [
@@ -189,23 +189,23 @@
     {
      "en": "The farmer walks across the field.",
      "zh": "农夫穿过田野。",
-     "audio": "media/sent/69a90fd5a4f7.mp3"
+     "audio": "media/sent/69a90fd5a4f7.mp3?v=7271f051"
     },
     {
      "en": "There is grass in the field.",
      "zh": "田里有草。",
-     "audio": "media/sent/b1825661fe25.mp3"
+     "audio": "media/sent/b1825661fe25.mp3?v=6f4c488d"
     },
     {
      "en": "Max runs through the tall grass in the field.",
      "zh": "Max 在田野的高草丛里跑。",
-     "audio": "media/sent/4b207716f76e.mp3"
+     "audio": "media/sent/4b207716f76e.mp3?v=a08d0eab"
     }
    ],
    "media": {
-    "img": "media/img/field.webp",
-    "uk": "media/uk/field.mp3",
-    "us": "media/us/field.mp3"
+    "img": "media/img/field.webp?v=4488dd7c",
+    "uk": "media/uk/field.mp3?v=84dd37c4",
+    "us": "media/us/field.mp3?v=5cbcb182"
    },
    "avoid": [
     "campsite",
@@ -241,23 +241,23 @@
     {
      "en": "The forest is full of tall trees.",
      "zh": "森林里长满了高大的树。",
-     "audio": "media/sent/5a991388d1a6.mp3"
+     "audio": "media/sent/5a991388d1a6.mp3?v=b3fd8ac3"
     },
     {
      "en": "Birds sing in the forest.",
      "zh": "鸟儿在森林里唱歌。",
-     "audio": "media/sent/de5cb5ecf77a.mp3"
+     "audio": "media/sent/de5cb5ecf77a.mp3?v=9c3d4c24"
     },
     {
      "en": "It is cool inside the forest.",
      "zh": "森林里面很凉快。",
-     "audio": "media/sent/5b62517f9b1d.mp3"
+     "audio": "media/sent/5b62517f9b1d.mp3?v=bf35d5df"
     }
    ],
    "media": {
-    "img": "media/img/forest.webp",
-    "uk": "media/uk/forest.mp3",
-    "us": "media/us/forest.mp3"
+    "img": "media/img/forest.webp?v=0f79b1cc",
+    "uk": "media/uk/forest.mp3?v=9401cba4",
+    "us": "media/us/forest.mp3?v=377ac081"
    },
    "hook": {
     "kind": "story",
@@ -296,23 +296,23 @@
     {
      "en": "The chair is made of wood.",
      "zh": "椅子是木头做的。",
-     "audio": "media/sent/13d60b2ad9fa.mp3"
+     "audio": "media/sent/13d60b2ad9fa.mp3?v=9ef19fa9"
     },
     {
      "en": "Dad cuts the wood for the fire.",
      "zh": "爸爸为炉火砍木头。",
-     "audio": "media/sent/3854af7e075c.mp3"
+     "audio": "media/sent/3854af7e075c.mp3?v=4a58fa4e"
     },
     {
      "en": "We have a picnic in the wood.",
      "zh": "我们在树林里野餐。",
-     "audio": "media/sent/d86b22f179b0.mp3"
+     "audio": "media/sent/d86b22f179b0.mp3?v=7576b822"
     }
    ],
    "media": {
-    "img": "media/img/wood.webp",
-    "uk": "media/uk/wood.mp3",
-    "us": "media/us/wood.mp3"
+    "img": "media/img/wood.webp?v=e085f174",
+    "uk": "media/uk/wood.mp3?v=9b92d2d0",
+    "us": "media/us/wood.mp3?v=961d5cce"
    },
    "hook": {
     "kind": "contrast",
@@ -351,23 +351,23 @@
     {
      "en": "The dog runs down the hill.",
      "zh": "狗从山上跑下来。",
-     "audio": "media/sent/d3935389c13a.mp3"
+     "audio": "media/sent/d3935389c13a.mp3?v=7b4af9fa"
     },
     {
      "en": "There is a sheep on the hill.",
      "zh": "山上有一只羊。",
-     "audio": "media/sent/f7918a864959.mp3"
+     "audio": "media/sent/f7918a864959.mp3?v=87d08a4a"
     },
     {
      "en": "We sit on top of the hill.",
      "zh": "我们坐在山顶上。",
-     "audio": "media/sent/002e6305f824.mp3"
+     "audio": "media/sent/002e6305f824.mp3?v=cc5d8708"
     }
    ],
    "media": {
-    "img": "media/img/hill.webp",
-    "uk": "media/uk/hill.mp3",
-    "us": "media/us/hill.mp3"
+    "img": "media/img/hill.webp?v=84c7f171",
+    "uk": "media/uk/hill.mp3?v=8270664a",
+    "us": "media/us/hill.mp3?v=81961090"
    },
    "spell": true,
    "avoid": [
@@ -404,23 +404,23 @@
     {
      "en": "The mountain is covered in snow.",
      "zh": "山上覆盖着雪。",
-     "audio": "media/sent/b911b59a4d4e.mp3"
+     "audio": "media/sent/b911b59a4d4e.mp3?v=f8c44513"
     },
     {
      "en": "We drive past the big mountain.",
      "zh": "我们开车经过那座大山。",
-     "audio": "media/sent/0490e6365000.mp3"
+     "audio": "media/sent/0490e6365000.mp3?v=7b3082ad"
     },
     {
      "en": "The air is cold on the mountain.",
      "zh": "山上的空气很冷。",
-     "audio": "media/sent/de4bcfc3a348.mp3"
+     "audio": "media/sent/de4bcfc3a348.mp3?v=5bcf1dad"
     }
    ],
    "media": {
-    "img": "media/img/mountain.webp",
-    "uk": "media/uk/mountain.mp3",
-    "us": "media/us/mountain.mp3"
+    "img": "media/img/mountain.webp?v=73b508cd",
+    "uk": "media/uk/mountain.mp3?v=7b0152e8",
+    "us": "media/us/mountain.mp3?v=de94ca8d"
    },
    "spell": true,
    "hook": {
@@ -461,23 +461,23 @@
     {
      "en": "We walk along the path.",
      "zh": "我们沿着小路走。",
-     "audio": "media/sent/589701c0ddff.mp3"
+     "audio": "media/sent/589701c0ddff.mp3?v=40072587"
     },
     {
      "en": "The path goes to the lake.",
      "zh": "这条路通向湖边。",
-     "audio": "media/sent/86dcebe9ef98.mp3"
+     "audio": "media/sent/86dcebe9ef98.mp3?v=7800420a"
     },
     {
      "en": "The path is very quiet.",
      "zh": "这条小路很安静。",
-     "audio": "media/sent/aca1dcfda3f9.mp3"
+     "audio": "media/sent/aca1dcfda3f9.mp3?v=16746863"
     }
    ],
    "media": {
-    "img": "media/img/path.webp",
-    "uk": "media/uk/path.mp3",
-    "us": "media/us/path.mp3"
+    "img": "media/img/path.webp?v=f9964fe9",
+    "uk": "media/uk/path.mp3?v=070d256d",
+    "us": "media/us/path.mp3?v=a08e38de"
    },
    "avoid": [
     "railway",
@@ -512,23 +512,23 @@
     {
      "en": "The lake is very deep.",
      "zh": "这个湖很深。",
-     "audio": "media/sent/949c22deef79.mp3"
+     "audio": "media/sent/949c22deef79.mp3?v=8460ef43"
     },
     {
      "en": "We look at the ducks on the lake.",
      "zh": "我们看湖上的鸭子。",
-     "audio": "media/sent/83acf4b6f537.mp3"
+     "audio": "media/sent/83acf4b6f537.mp3?v=7806dff2"
     },
     {
      "en": "The water in the lake is clear.",
      "zh": "湖水很清澈。",
-     "audio": "media/sent/eaaf13fb2d2d.mp3"
+     "audio": "media/sent/eaaf13fb2d2d.mp3?v=7c5bc7a1"
     }
    ],
    "media": {
-    "img": "media/img/lake.webp",
-    "uk": "media/uk/lake.mp3",
-    "us": "media/us/lake.mp3"
+    "img": "media/img/lake.webp?v=05e98790",
+    "uk": "media/uk/lake.mp3?v=fc9aea56",
+    "us": "media/us/lake.mp3?v=9e0214c0"
    },
    "hook": {
     "kind": "contrast",
@@ -569,23 +569,23 @@
     {
      "en": "The river is very long.",
      "zh": "这条河很长。",
-     "audio": "media/sent/419fa3c21f5d.mp3"
+     "audio": "media/sent/419fa3c21f5d.mp3?v=51b693db"
     },
     {
      "en": "We sit by the river.",
      "zh": "我们坐在河边。",
-     "audio": "media/sent/3cc879411a93.mp3"
+     "audio": "media/sent/3cc879411a93.mp3?v=50f00ecf"
     },
     {
      "en": "There is a bridge over the river.",
      "zh": "河上有一座桥。",
-     "audio": "media/sent/528d59257044.mp3"
+     "audio": "media/sent/528d59257044.mp3?v=09018d9e"
     }
    ],
    "media": {
-    "img": "media/img/river.webp",
-    "uk": "media/uk/river.mp3",
-    "us": "media/us/river.mp3"
+    "img": "media/img/river.webp?v=3703a480",
+    "uk": "media/uk/river.mp3?v=1b5bc681",
+    "us": "media/us/river.mp3?v=97e424cd"
    },
    "spell": true,
    "avoid": [
@@ -625,23 +625,23 @@
     {
      "en": "The island is in the middle of the sea.",
      "zh": "这座岛在海中央。",
-     "audio": "media/sent/621ac1e6642b.mp3"
+     "audio": "media/sent/621ac1e6642b.mp3?v=67ab10f9"
     },
     {
      "en": "We take a boat to the island.",
      "zh": "我们坐船去那座岛。",
-     "audio": "media/sent/8b1476fd79c4.mp3"
+     "audio": "media/sent/8b1476fd79c4.mp3?v=f0e4bdfb"
     },
     {
      "en": "There are no cars on this island.",
      "zh": "这座岛上没有汽车。",
-     "audio": "media/sent/85ac9676cb06.mp3"
+     "audio": "media/sent/85ac9676cb06.mp3?v=4cfe3f17"
     }
    ],
    "media": {
-    "img": "media/img/island.webp",
-    "uk": "media/uk/island.mp3",
-    "us": "media/us/island.mp3"
+    "img": "media/img/island.webp?v=c24a28c4",
+    "uk": "media/uk/island.mp3?v=a01613e6",
+    "us": "media/us/island.mp3?v=8b648500"
    },
    "hook": {
     "kind": "story",
@@ -682,23 +682,23 @@
     {
      "en": "Lily plays on the beach.",
      "zh": "Lily 在海滩上玩。",
-     "audio": "media/sent/29f932dc1eb9.mp3"
+     "audio": "media/sent/29f932dc1eb9.mp3?v=d0c58674"
     },
     {
      "en": "The beach is warm today.",
      "zh": "今天海滩很暖和。",
-     "audio": "media/sent/e47177aae76c.mp3"
+     "audio": "media/sent/e47177aae76c.mp3?v=9de1aa1d"
     },
     {
      "en": "We leave the beach at four o'clock.",
      "zh": "我们四点钟离开海滩。",
-     "audio": "media/sent/ddb7d4a3def1.mp3"
+     "audio": "media/sent/ddb7d4a3def1.mp3?v=2e838ff6"
     }
    ],
    "media": {
-    "img": "media/img/beach.webp",
-    "uk": "media/uk/beach.mp3",
-    "us": "media/us/beach.mp3"
+    "img": "media/img/beach.webp?v=51b2e2d9",
+    "uk": "media/uk/beach.mp3?v=cf46942d",
+    "us": "media/us/beach.mp3?v=68a811be"
    },
    "spell": true,
    "avoid": [
@@ -734,23 +734,23 @@
     {
      "en": "The sea is blue today.",
      "zh": "今天海是蓝色的。",
-     "audio": "media/sent/72e5b582d235.mp3"
+     "audio": "media/sent/72e5b582d235.mp3?v=2d41bcb4"
     },
     {
      "en": "We can see the sea from here.",
      "zh": "我们从这里能看到大海。",
-     "audio": "media/sent/ae0917404ab8.mp3"
+     "audio": "media/sent/ae0917404ab8.mp3?v=5ae38fd4"
     },
     {
      "en": "The sea is cold in spring.",
      "zh": "春天的海水很凉。",
-     "audio": "media/sent/6ae902023632.mp3"
+     "audio": "media/sent/6ae902023632.mp3?v=1201ad82"
     }
    ],
    "media": {
-    "img": "media/img/sea.webp",
-    "uk": "media/uk/sea.mp3",
-    "us": "media/us/sea.mp3"
+    "img": "media/img/sea.webp?v=3b2f06e6",
+    "uk": "media/uk/sea.mp3?v=325f2908",
+    "us": "media/us/sea.mp3?v=f5040659"
    },
    "spell": true,
    "avoid": [
@@ -791,23 +791,23 @@
     {
      "en": "The ocean is very big.",
      "zh": "海洋很大。",
-     "audio": "media/sent/19d87dc30a96.mp3"
+     "audio": "media/sent/19d87dc30a96.mp3?v=af28799e"
     },
     {
      "en": "Whales live in the ocean.",
      "zh": "鲸鱼生活在海洋里。",
-     "audio": "media/sent/252f550b3fb3.mp3"
+     "audio": "media/sent/252f550b3fb3.mp3?v=ec2adeaa"
     },
     {
      "en": "The ship crosses the ocean.",
      "zh": "船横穿海洋。",
-     "audio": "media/sent/ed109ed21ce6.mp3"
+     "audio": "media/sent/ed109ed21ce6.mp3?v=bf43329e"
     }
    ],
    "media": {
-    "img": "media/img/ocean.webp",
-    "uk": "media/uk/ocean.mp3",
-    "us": "media/us/ocean.mp3"
+    "img": "media/img/ocean.webp?v=95729fa4",
+    "uk": "media/uk/ocean.mp3?v=87efc9c6",
+    "us": "media/us/ocean.mp3?v=f0efbbfe"
    },
    "avoid": [
     "lake",
@@ -843,23 +843,23 @@
     {
      "en": "The sky is grey.",
      "zh": "天是灰色的。",
-     "audio": "media/sent/bb2478b707be.mp3"
+     "audio": "media/sent/bb2478b707be.mp3?v=c9a7ef4e"
     },
     {
      "en": "Look up at the sky!",
      "zh": "看天上！",
-     "audio": "media/sent/131c60240136.mp3"
+     "audio": "media/sent/131c60240136.mp3?v=bbc7978c"
     },
     {
      "en": "There are stars in the night sky.",
      "zh": "夜空里有星星。",
-     "audio": "media/sent/95306d777f57.mp3"
+     "audio": "media/sent/95306d777f57.mp3?v=d036cfb9"
     }
    ],
    "media": {
-    "img": "media/img/sky.webp",
-    "uk": "media/uk/sky.mp3",
-    "us": "media/us/sky.mp3"
+    "img": "media/img/sky.webp?v=7cd973ae",
+    "uk": "media/uk/sky.mp3?v=befae828",
+    "us": "media/us/sky.mp3?v=67e41704"
    },
    "spell": true,
    "avoid": [
@@ -895,23 +895,23 @@
     {
      "en": "We sleep at the campsite.",
      "zh": "我们在露营地睡觉。",
-     "audio": "media/sent/e3f12a3c918d.mp3"
+     "audio": "media/sent/e3f12a3c918d.mp3?v=7b6597d2"
     },
     {
      "en": "The campsite is near the river.",
      "zh": "露营地就在河边。",
-     "audio": "media/sent/09157754ab78.mp3"
+     "audio": "media/sent/09157754ab78.mp3?v=0227ec5e"
     },
     {
      "en": "It is fun to stay at a campsite.",
      "zh": "住在露营地很有趣。",
-     "audio": "media/sent/fa65c6f46c83.mp3"
+     "audio": "media/sent/fa65c6f46c83.mp3?v=2457d979"
     }
    ],
    "media": {
-    "img": "media/img/campsite.webp",
-    "uk": "media/uk/campsite.mp3",
-    "us": "media/us/campsite.mp3"
+    "img": "media/img/campsite.webp?v=8e5495e0",
+    "uk": "media/uk/campsite.mp3?v=34036f40",
+    "us": "media/us/campsite.mp3?v=23f4b2e9"
    },
    "hook": {
     "kind": "split",
@@ -950,23 +950,23 @@
     {
      "en": "The train goes on the railway.",
      "zh": "火车在铁路上行驶。",
-     "audio": "media/sent/5349d5ba81c2.mp3"
+     "audio": "media/sent/5349d5ba81c2.mp3?v=78adeb1b"
     },
     {
      "en": "We stand near the railway.",
      "zh": "我们站在铁路附近。",
-     "audio": "media/sent/d86dd690080b.mp3"
+     "audio": "media/sent/d86dd690080b.mp3?v=f39cb1c8"
     },
     {
      "en": "The new railway is very fast.",
      "zh": "这条新铁路很快。",
-     "audio": "media/sent/8a19374c9eee.mp3"
+     "audio": "media/sent/8a19374c9eee.mp3?v=60d60a95"
     }
    ],
    "media": {
-    "img": "media/img/railway.webp",
-    "uk": "media/uk/railway.mp3",
-    "us": "media/us/railway.mp3"
+    "img": "media/img/railway.webp?v=82b2f49d",
+    "uk": "media/uk/railway.mp3?v=5e313006",
+    "us": "media/us/railway.mp3?v=87fb9017"
    },
    "hook": {
     "kind": "split",
@@ -1007,23 +1007,23 @@
     {
      "en": "Monkeys live in the rainforest.",
      "zh": "猴子住在雨林里。",
-     "audio": "media/sent/9c35ec046164.mp3"
+     "audio": "media/sent/9c35ec046164.mp3?v=2382dc0d"
     },
     {
      "en": "The rainforest is very wet.",
      "zh": "雨林很潮湿。",
-     "audio": "media/sent/cef53e3569af.mp3"
+     "audio": "media/sent/cef53e3569af.mp3?v=52b3c59b"
     },
     {
      "en": "Many birds fly in the rainforest.",
      "zh": "许多鸟在雨林里飞。",
-     "audio": "media/sent/a6fdc5301c61.mp3"
+     "audio": "media/sent/a6fdc5301c61.mp3?v=1b3b8cf5"
     }
    ],
    "media": {
-    "img": "media/img/rainforest.webp",
-    "uk": "media/uk/rainforest.mp3",
-    "us": "media/us/rainforest.mp3"
+    "img": "media/img/rainforest.webp?v=2259f105",
+    "uk": "media/uk/rainforest.mp3?v=50b78c00",
+    "us": "media/us/rainforest.mp3?v=1cac6dc9"
    },
    "hook": {
     "kind": "split",

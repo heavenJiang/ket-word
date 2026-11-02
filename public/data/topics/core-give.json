@@ -29,23 +29,23 @@
     {
      "en": "Lily gives a card to Grandma.",
      "zh": "Lily 给奶奶一张卡片。",
-     "audio": "media/sent/9dc602705394.mp3"
+     "audio": "media/sent/9dc602705394.mp3?v=a2d7dccd"
     },
     {
      "en": "Please give me that book, Tom.",
      "zh": "Tom，请把书给我。",
-     "audio": "media/sent/871fbb6c1a1a.mp3"
+     "audio": "media/sent/871fbb6c1a1a.mp3?v=b5a458e9"
     },
     {
      "en": "Dad gives Max a toy.",
      "zh": "爸爸给 Max 一个玩具。",
-     "audio": "media/sent/13b8d3fe7988.mp3"
+     "audio": "media/sent/13b8d3fe7988.mp3?v=06d892cc"
     }
    ],
    "media": {
-    "img": "media/img/give.webp",
-    "uk": "media/uk/give.mp3",
-    "us": "media/us/give.mp3"
+    "img": "media/img/give.webp?v=84df4710",
+    "uk": "media/uk/give.mp3?v=72fd2985",
+    "us": "media/us/give.mp3?v=0ab43069"
    },
    "spell": true,
    "avoid": [
@@ -83,23 +83,23 @@
     {
      "en": "I give the pen back to Sam.",
      "zh": "我把笔还给 Sam。",
-     "audio": "media/sent/2b6132c05bd8.mp3"
+     "audio": "media/sent/2b6132c05bd8.mp3?v=2625c602"
     },
     {
      "en": "Please give back my book when you finish.",
      "zh": "你看完后请把我的书还给我。",
-     "audio": "media/sent/5238c0020787.mp3"
+     "audio": "media/sent/5238c0020787.mp3?v=4d0c5d93"
     },
     {
      "en": "Tom gives the cookie back to Mum.",
      "zh": "Tom 把饼干还给妈妈。",
-     "audio": "media/sent/dc6e7c79cb82.mp3"
+     "audio": "media/sent/dc6e7c79cb82.mp3?v=43d94db4"
     }
    ],
    "media": {
-    "img": "media/img/give-back.webp",
-    "uk": "media/word/give-back.mp3",
-    "us": "media/word/give-back.mp3"
+    "img": "media/img/give-back.webp?v=f7422c66",
+    "uk": "media/word/give-back.mp3?v=1583b57d",
+    "us": "media/word/give-back.mp3?v=1583b57d"
    },
    "hook": {
     "kind": "split",
@@ -139,23 +139,23 @@
     {
      "en": "Take your umbrella, Lily.",
      "zh": "Lily，带上你的雨伞。",
-     "audio": "media/sent/6c364dc779a7.mp3"
+     "audio": "media/sent/6c364dc779a7.mp3?v=27889768"
     },
     {
      "en": "Dad takes a photo of Max.",
      "zh": "爸爸给 Max 拍照。",
-     "audio": "media/sent/8af85cce3174.mp3"
+     "audio": "media/sent/8af85cce3174.mp3?v=1ba63acd"
     },
     {
      "en": "I take my bag to school.",
      "zh": "我带书包去学校。",
-     "audio": "media/sent/8e2a2986e6c2.mp3"
+     "audio": "media/sent/8e2a2986e6c2.mp3?v=f3efef5c"
     }
    ],
    "media": {
-    "img": "media/img/take.webp",
-    "uk": "media/uk/take.mp3",
-    "us": "media/us/take.mp3"
+    "img": "media/img/take.webp?v=b60fa6a0",
+    "uk": "media/uk/take.mp3?v=c16050ad",
+    "us": "media/us/take.mp3?v=3403602f"
    },
    "spell": true,
    "avoid": [
@@ -191,23 +191,23 @@
     {
      "en": "Tom takes off his coat.",
      "zh": "Tom 脱下外套。",
-     "audio": "media/sent/9c66b2198fb9.mp3"
+     "audio": "media/sent/9c66b2198fb9.mp3?v=2ee738e7"
     },
     {
      "en": "Please take off your shoes.",
      "zh": "请脱鞋。",
-     "audio": "media/sent/4f643ef0f2bf.mp3"
+     "audio": "media/sent/4f643ef0f2bf.mp3?v=2ed51ccb"
     },
     {
      "en": "The plane takes off at noon.",
      "zh": "飞机中午起飞。",
-     "audio": "media/sent/bcf5d0812134.mp3"
+     "audio": "media/sent/bcf5d0812134.mp3?v=cb5ed47e"
     }
    ],
    "media": {
-    "img": "media/img/take-off.webp",
-    "uk": "media/word/take-off.mp3",
-    "us": "media/word/take-off.mp3"
+    "img": "media/img/take-off.webp?v=9d147750",
+    "uk": "media/word/take-off.mp3?v=9027dcf3",
+    "us": "media/word/take-off.mp3?v=9027dcf3"
    },
    "hook": {
     "kind": "split",
@@ -244,23 +244,23 @@
     {
      "en": "Dad picks up Lily from school.",
      "zh": "爸爸从学校接 Lily。",
-     "audio": "media/sent/a7b565fbad7e.mp3"
+     "audio": "media/sent/a7b565fbad7e.mp3?v=55ab0c54"
     },
     {
      "en": "Pick up your ball, Tom!",
      "zh": "Tom，捡起你的球！",
-     "audio": "media/sent/03d36bd4a517.mp3"
+     "audio": "media/sent/03d36bd4a517.mp3?v=73e337ba"
     },
     {
      "en": "Mum picks up the phone.",
      "zh": "妈妈接电话。",
-     "audio": "media/sent/1e844f6c7f89.mp3"
+     "audio": "media/sent/1e844f6c7f89.mp3?v=8eb76470"
     }
    ],
    "media": {
-    "img": "media/img/pick-up.webp",
-    "uk": "media/word/pick-up.mp3",
-    "us": "media/word/pick-up.mp3"
+    "img": "media/img/pick-up.webp?v=6bf5f4c9",
+    "uk": "media/word/pick-up.mp3?v=4168eb88",
+    "us": "media/word/pick-up.mp3?v=4168eb88"
    },
    "hook": {
     "kind": "split",
@@ -298,23 +298,23 @@
     {
      "en": "Don't lose your key, Dad.",
      "zh": "爸爸，别弄丢你的钥匙。",
-     "audio": "media/sent/c8dc286cfc24.mp3"
+     "audio": "media/sent/c8dc286cfc24.mp3?v=6f055e25"
     },
     {
      "en": "We play to win, not to lose.",
      "zh": "我们玩是为了赢，不是为了输。",
-     "audio": "media/sent/830d949c9031.mp3"
+     "audio": "media/sent/830d949c9031.mp3?v=30c10ba4"
     },
     {
      "en": "Tom loses his hat in the wind.",
      "zh": "Tom 的帽子被风吹丢了。",
-     "audio": "media/sent/4d869914b680.mp3"
+     "audio": "media/sent/4d869914b680.mp3?v=39064920"
     }
    ],
    "media": {
-    "img": "media/img/lose.webp",
-    "uk": "media/uk/lose.mp3",
-    "us": "media/us/lose.mp3"
+    "img": "media/img/lose.webp?v=ad6ce722",
+    "uk": "media/uk/lose.mp3?v=71c27a17",
+    "us": "media/us/lose.mp3?v=886221f6"
    },
    "spell": true,
    "avoid": [
@@ -349,23 +349,23 @@
     {
      "en": "Max looks lost in the park.",
      "zh": "Max 在公园里看起来迷路了。",
-     "audio": "media/sent/f20aa2cd2345.mp3"
+     "audio": "media/sent/f20aa2cd2345.mp3?v=f8dbc9e2"
     },
     {
      "en": "I found my lost ball.",
      "zh": "我找到了丢失的球。",
-     "audio": "media/sent/4f5ca0981cae.mp3"
+     "audio": "media/sent/4f5ca0981cae.mp3?v=bfe3f144"
     },
     {
      "en": "Lily feels lost without her map.",
      "zh": "没有地图，Lily 感到迷路了。",
-     "audio": "media/sent/6ec00e7f7f5a.mp3"
+     "audio": "media/sent/6ec00e7f7f5a.mp3?v=d569f320"
     }
    ],
    "media": {
-    "img": "media/img/lost.webp",
-    "uk": "media/uk/lost.mp3",
-    "us": "media/us/lost.mp3"
+    "img": "media/img/lost.webp?v=f8b98ec6",
+    "uk": "media/uk/lost.mp3?v=2f48fb20",
+    "us": "media/us/lost.mp3?v=00bcf8ad"
    },
    "hook": {
     "kind": "contrast",
@@ -403,23 +403,23 @@
     {
      "en": "I find my red socks!",
      "zh": "我找到了我的红袜子！",
-     "audio": "media/sent/131ed4169875.mp3"
+     "audio": "media/sent/131ed4169875.mp3?v=ae41a3ac"
     },
     {
      "en": "Tom finds a ball on the street.",
      "zh": "Tom 在街上找到一个球。",
-     "audio": "media/sent/dc0452bb0bb7.mp3"
+     "audio": "media/sent/dc0452bb0bb7.mp3?v=2ff231e0"
     },
     {
      "en": "Can you find the cat?",
      "zh": "你能找到猫吗？",
-     "audio": "media/sent/1467bbcaf40b.mp3"
+     "audio": "media/sent/1467bbcaf40b.mp3?v=8e72860e"
     }
    ],
    "media": {
-    "img": "media/img/find.webp",
-    "uk": "media/uk/find.mp3",
-    "us": "media/us/find.mp3"
+    "img": "media/img/find.webp?v=21350f48",
+    "uk": "media/uk/find.mp3?v=a2c16e59",
+    "us": "media/us/find.mp3?v=3f28bfd1"
    },
    "spell": true,
    "avoid": []
@@ -453,22 +453,22 @@
     {
      "en": "We find out the answer.",
      "zh": "我们发现了答案。",
-     "audio": "media/sent/2a3adf6439ce.mp3"
+     "audio": "media/sent/2a3adf6439ce.mp3?v=e742859e"
     },
     {
      "en": "How did you find out?",
      "zh": "你怎么发现的？",
-     "audio": "media/sent/26c8add0ff95.mp3"
+     "audio": "media/sent/26c8add0ff95.mp3?v=d2cb32d8"
     },
     {
      "en": "Let's find out who ate the cake.",
      "zh": "我们来看看是谁吃了蛋糕。",
-     "audio": "media/sent/2abe4d06f12f.mp3"
+     "audio": "media/sent/2abe4d06f12f.mp3?v=dd400194"
     }
    ],
    "media": {
-    "uk": "media/word/find-out.mp3",
-    "us": "media/word/find-out.mp3"
+    "uk": "media/word/find-out.mp3?v=c30b109c",
+    "us": "media/word/find-out.mp3?v=c30b109c"
    },
    "hook": {
     "kind": "split",
@@ -504,22 +504,22 @@
     {
      "en": "Keep the door closed.",
      "zh": "保持门关上。",
-     "audio": "media/sent/c777712e1f49.mp3"
+     "audio": "media/sent/c777712e1f49.mp3?v=d2b668c6"
     },
     {
      "en": "Keep this box for me, please.",
      "zh": "请帮我保存这个盒子。",
-     "audio": "media/sent/7469d0d7fb79.mp3"
+     "audio": "media/sent/7469d0d7fb79.mp3?v=9b14c824"
     },
     {
      "en": "Grandma keeps old photos in a box.",
      "zh": "奶奶把旧照片保存在盒子里。",
-     "audio": "media/sent/ee1d6d735479.mp3"
+     "audio": "media/sent/ee1d6d735479.mp3?v=0fe0051e"
     }
    ],
    "media": {
-    "uk": "media/uk/keep.mp3",
-    "us": "media/us/keep.mp3"
+    "uk": "media/uk/keep.mp3?v=7ed04695",
+    "us": "media/us/keep.mp3?v=07514b71"
    },
    "spell": true,
    "avoid": []
@@ -552,23 +552,23 @@
     {
      "en": "Mum sends a letter to Aunt Kate.",
      "zh": "妈妈给 Aunt Kate 寄信。",
-     "audio": "media/sent/aab6eff78112.mp3"
+     "audio": "media/sent/aab6eff78112.mp3?v=05b7e9ad"
     },
     {
      "en": "I send an email to Sam.",
      "zh": "我给 Sam 发电子邮件。",
-     "audio": "media/sent/cda1bff86345.mp3"
+     "audio": "media/sent/cda1bff86345.mp3?v=943f8ec8"
     },
     {
      "en": "Grandma sends us a photo.",
      "zh": "奶奶给我们寄来一张照片。",
-     "audio": "media/sent/c1357c428745.mp3"
+     "audio": "media/sent/c1357c428745.mp3?v=0ad7cd34"
     }
    ],
    "media": {
-    "img": "media/img/send.webp",
-    "uk": "media/uk/send.mp3",
-    "us": "media/us/send.mp3"
+    "img": "media/img/send.webp?v=798c86b3",
+    "uk": "media/uk/send.mp3?v=5e7bd239",
+    "us": "media/us/send.mp3?v=1b273c54"
    },
    "spell": true,
    "avoid": [
@@ -606,23 +606,23 @@
     {
      "en": "Lily receives a gift from Grandpa.",
      "zh": "Lily 收到了 Grandpa 的礼物。",
-     "audio": "media/sent/5662a02a82a0.mp3"
+     "audio": "media/sent/5662a02a82a0.mp3?v=da937c4e"
     },
     {
      "en": "We receive post every morning.",
      "zh": "我们每天早上收到信件。",
-     "audio": "media/sent/ed18b73f25dc.mp3"
+     "audio": "media/sent/ed18b73f25dc.mp3?v=1f62de71"
     },
     {
      "en": "Did you receive my message?",
      "zh": "你收到我的消息了吗？",
-     "audio": "media/sent/ad99b127a65c.mp3"
+     "audio": "media/sent/ad99b127a65c.mp3?v=cad0bd5e"
     }
    ],
    "media": {
-    "img": "media/img/receive.webp",
-    "uk": "media/uk/receive.mp3",
-    "us": "media/us/receive.mp3"
+    "img": "media/img/receive.webp?v=333a4fb6",
+    "uk": "media/uk/receive.mp3?v=c285fd5c",
+    "us": "media/us/receive.mp3?v=772774f0"
    },
    "avoid": []
   },
@@ -656,23 +656,23 @@
     {
      "en": "The shop delivers our new bed today.",
      "zh": "商店今天把我们的新床送来。",
-     "audio": "media/sent/cdbcc8d21698.mp3"
+     "audio": "media/sent/cdbcc8d21698.mp3?v=a787931a"
     },
     {
      "en": "We deliver food to Grandma.",
      "zh": "我们给奶奶送食物。",
-     "audio": "media/sent/40d3c2af0d23.mp3"
+     "audio": "media/sent/40d3c2af0d23.mp3?v=339b198a"
     },
     {
      "en": "They deliver flowers on Monday.",
      "zh": "他们星期一送花。",
-     "audio": "media/sent/6b1d40257be7.mp3"
+     "audio": "media/sent/6b1d40257be7.mp3?v=780d0c51"
     }
    ],
    "media": {
-    "img": "media/img/deliver.webp",
-    "uk": "media/uk/deliver.mp3",
-    "us": "media/us/deliver.mp3"
+    "img": "media/img/deliver.webp?v=660c02f1",
+    "uk": "media/uk/deliver.mp3?v=1a03763b",
+    "us": "media/us/deliver.mp3?v=3bb25ca5"
    },
    "avoid": [
     "mail",
@@ -709,23 +709,23 @@
     {
      "en": "A bird tries to steal Tom's sandwich.",
      "zh": "一只鸟想偷 Tom 的三明治。",
-     "audio": "media/sent/e11cee21d83a.mp3"
+     "audio": "media/sent/e11cee21d83a.mp3?v=60efdfcd"
     },
     {
      "en": "The monkey tried to steal Tom's banana.",
      "zh": "猴子试图偷走 Tom 的香蕉。",
-     "audio": "media/sent/8d71fdfcfcc8.mp3"
+     "audio": "media/sent/8d71fdfcfcc8.mp3?v=a1183aa0"
     },
     {
      "en": "It is wrong to steal things.",
      "zh": "偷东西是不对的。",
-     "audio": "media/sent/83c3dff25ac7.mp3"
+     "audio": "media/sent/83c3dff25ac7.mp3?v=e39ba475"
     }
    ],
    "media": {
-    "img": "media/img/steal.webp",
-    "uk": "media/uk/steal.mp3",
-    "us": "media/us/steal.mp3"
+    "img": "media/img/steal.webp?v=08e3c530",
+    "uk": "media/uk/steal.mp3?v=14b6e65f",
+    "us": "media/us/steal.mp3?v=9b43202b"
    },
    "hook": {
     "kind": "contrast",
@@ -762,23 +762,23 @@
     {
      "en": "Can I borrow your ruler?",
      "zh": "我能借你的尺子吗？",
-     "audio": "media/sent/449e958f3dac.mp3"
+     "audio": "media/sent/449e958f3dac.mp3?v=7124ba9a"
     },
     {
      "en": "I borrowed a book from the library.",
      "zh": "我从图书馆借了一本书。",
-     "audio": "media/sent/a914e262eda1.mp3"
+     "audio": "media/sent/a914e262eda1.mp3?v=50a8cd9e"
     },
     {
      "en": "Max wants to borrow Dad's ball.",
      "zh": "Max 想借爸爸的球。",
-     "audio": "media/sent/ee6dc0f13d4f.mp3"
+     "audio": "media/sent/ee6dc0f13d4f.mp3?v=df6892de"
     }
    ],
    "media": {
-    "img": "media/img/borrow.webp",
-    "uk": "media/uk/borrow.mp3",
-    "us": "media/us/borrow.mp3"
+    "img": "media/img/borrow.webp?v=eb595a58",
+    "uk": "media/uk/borrow.mp3?v=b57b6e70",
+    "us": "media/us/borrow.mp3?v=bed7c1bb"
    },
    "hook": {
     "kind": "contrast",
@@ -816,23 +816,23 @@
     {
      "en": "Please lend me your bike.",
      "zh": "请把你的自行车借给我。",
-     "audio": "media/sent/3abfa3bb2bc0.mp3"
+     "audio": "media/sent/3abfa3bb2bc0.mp3?v=9759a9fc"
     },
     {
      "en": "Mum lends Dad her car keys.",
      "zh": "妈妈把车钥匙借给爸爸。",
-     "audio": "media/sent/43411f6d2497.mp3"
+     "audio": "media/sent/43411f6d2497.mp3?v=b5c99875"
     },
     {
      "en": "Can you lend me a pen?",
      "zh": "你能借我一支笔吗？",
-     "audio": "media/sent/39f3cb7003f7.mp3"
+     "audio": "media/sent/39f3cb7003f7.mp3?v=a7511c9d"
     }
    ],
    "media": {
-    "img": "media/img/lend.webp",
-    "uk": "media/uk/lend.mp3",
-    "us": "media/us/lend.mp3"
+    "img": "media/img/lend.webp?v=7a192680",
+    "uk": "media/uk/lend.mp3?v=c20b70af",
+    "us": "media/us/lend.mp3?v=6c0880d0"
    },
    "hook": {
     "kind": "contrast",
@@ -870,23 +870,23 @@
     {
      "en": "Lily shares her cake with Tom.",
      "zh": "Lily 和 Tom 分享她的蛋糕。",
-     "audio": "media/sent/35eead4fcd3d.mp3"
+     "audio": "media/sent/35eead4fcd3d.mp3?v=8ae39cef"
     },
     {
      "en": "We share toys at school.",
      "zh": "我们在学校分享玩具。",
-     "audio": "media/sent/9470aa631cf9.mp3"
+     "audio": "media/sent/9470aa631cf9.mp3?v=62450b7e"
     },
     {
      "en": "Tom shares his apple with Max.",
      "zh": "Tom 把他的苹果分给 Max。",
-     "audio": "media/sent/5c4c3530342d.mp3"
+     "audio": "media/sent/5c4c3530342d.mp3?v=534b93c6"
     }
    ],
    "media": {
-    "img": "media/img/share.webp",
-    "uk": "media/uk/share.mp3",
-    "us": "media/us/share.mp3"
+    "img": "media/img/share.webp?v=a2c54e0a",
+    "uk": "media/uk/share.mp3?v=91487a7f",
+    "us": "media/us/share.mp3?v=31dc29fc"
    },
    "avoid": [
     "give",
@@ -922,23 +922,23 @@
     {
      "en": "Grandma sells fresh eggs.",
      "zh": "奶奶卖新鲜鸡蛋。",
-     "audio": "media/sent/53c7af03eb1a.mp3"
+     "audio": "media/sent/53c7af03eb1a.mp3?v=945e4005"
     },
     {
      "en": "The shop sells blue umbrellas.",
      "zh": "这家店卖蓝色的雨伞。",
-     "audio": "media/sent/454852a4efdf.mp3"
+     "audio": "media/sent/454852a4efdf.mp3?v=c81cc91f"
     },
     {
      "en": "We sell old books at school.",
      "zh": "我们在学校卖旧书。",
-     "audio": "media/sent/67d358b9f6f4.mp3"
+     "audio": "media/sent/67d358b9f6f4.mp3?v=a2602c27"
     }
    ],
    "media": {
-    "img": "media/img/sell.webp",
-    "uk": "media/uk/sell.mp3",
-    "us": "media/us/sell.mp3"
+    "img": "media/img/sell.webp?v=16435306",
+    "uk": "media/uk/sell.mp3?v=f62392d0",
+    "us": "media/us/sell.mp3?v=3ce92dcd"
    },
    "spell": true,
    "avoid": [
@@ -973,23 +973,23 @@
     {
      "en": "Lily saves money in a box.",
      "zh": "Lily 把钱存在盒子里。",
-     "audio": "media/sent/fc3899620528.mp3"
+     "audio": "media/sent/fc3899620528.mp3?v=fcf9fa66"
     },
     {
      "en": "I want to save for a new bike.",
      "zh": "我想存钱买一辆新自行车。",
-     "audio": "media/sent/66769304e9dd.mp3"
+     "audio": "media/sent/66769304e9dd.mp3?v=a938f118"
     },
     {
      "en": "Tom saves his pocket money every week.",
      "zh": "Tom 每周都存零花钱。",
-     "audio": "media/sent/ababc99f574b.mp3"
+     "audio": "media/sent/ababc99f574b.mp3?v=f2598694"
     }
    ],
    "media": {
-    "img": "media/img/save.webp",
-    "uk": "media/uk/save.mp3",
-    "us": "media/us/save.mp3"
+    "img": "media/img/save.webp?v=664b0142",
+    "uk": "media/uk/save.mp3?v=ca31d63c",
+    "us": "media/us/save.mp3?v=c1b1d23a"
    },
    "hook": {
     "kind": "contrast",
@@ -1028,23 +1028,23 @@
     {
      "en": "Mum offers me a cup of tea.",
      "zh": "妈妈给我端来一杯茶。",
-     "audio": "media/sent/06582ab65058.mp3"
+     "audio": "media/sent/06582ab65058.mp3?v=5c02092f"
     },
     {
      "en": "Can I offer you a cookie?",
      "zh": "请你吃块饼干好吗？",
-     "audio": "media/sent/4f1b4343ef5f.mp3"
+     "audio": "media/sent/4f1b4343ef5f.mp3?v=6bf6c2e9"
     },
     {
      "en": "He offers his seat to Grandma.",
      "zh": "他把座位让给奶奶。",
-     "audio": "media/sent/177dd2d6181a.mp3"
+     "audio": "media/sent/177dd2d6181a.mp3?v=f392f1ab"
     }
    ],
    "media": {
-    "img": "media/img/offer.webp",
-    "uk": "media/uk/offer.mp3",
-    "us": "media/us/offer.mp3"
+    "img": "media/img/offer.webp?v=db95f05e",
+    "uk": "media/uk/offer.mp3?v=b7fd128f",
+    "us": "media/us/offer.mp3?v=42e4afe7"
    },
    "avoid": [
     "give",
@@ -1083,23 +1083,23 @@
     {
      "en": "Dad orders fish and chips.",
      "zh": "爸爸点了炸鱼和薯条。",
-     "audio": "media/sent/3ff0110e1c49.mp3"
+     "audio": "media/sent/3ff0110e1c49.mp3?v=027a0a84"
     },
     {
      "en": "We order pizza for dinner.",
      "zh": "我们点披萨当晚餐。",
-     "audio": "media/sent/af5715f86a69.mp3"
+     "audio": "media/sent/af5715f86a69.mp3?v=90fcb9b8"
     },
     {
      "en": "Mum orders new shoes online.",
      "zh": "妈妈在网上订购新鞋。",
-     "audio": "media/sent/278862b7a799.mp3"
+     "audio": "media/sent/278862b7a799.mp3?v=d7d1b3b2"
     }
    ],
    "media": {
-    "img": "media/img/order.webp",
-    "uk": "media/uk/order.mp3",
-    "us": "media/us/order.mp3"
+    "img": "media/img/order.webp?v=59fd3809",
+    "uk": "media/uk/order.mp3?v=f6f05d5f",
+    "us": "media/us/order.mp3?v=8d63e8c3"
    },
    "avoid": [
     "sell"
@@ -1135,23 +1135,23 @@
     {
      "en": "Grandma posts a letter.",
      "zh": "奶奶寄了一封信。",
-     "audio": "media/sent/5ec5f27fb405.mp3"
+     "audio": "media/sent/5ec5f27fb405.mp3?v=b8465962"
     },
     {
      "en": "Lily posts a card to Sam.",
      "zh": "Lily 给 Sam 寄了一张卡片。",
-     "audio": "media/sent/5c1ee68db3f7.mp3"
+     "audio": "media/sent/5c1ee68db3f7.mp3?v=83697199"
     },
     {
      "en": "I post a card to Grandma every year.",
      "zh": "我每年都给奶奶寄一张卡片。",
-     "audio": "media/sent/aa0a5d9de611.mp3"
+     "audio": "media/sent/aa0a5d9de611.mp3?v=da76b5b8"
     }
    ],
    "media": {
-    "img": "media/img/post.webp",
-    "uk": "media/uk/post.mp3",
-    "us": "media/us/post.mp3"
+    "img": "media/img/post.webp?v=360d4fa6",
+    "uk": "media/uk/post.mp3?v=71e6cbad",
+    "us": "media/us/post.mp3?v=64138c14"
    },
    "hook": {
     "kind": "contrast",
@@ -1191,23 +1191,23 @@
     {
      "en": "Check the mail, please.",
      "zh": "请看看信箱。",
-     "audio": "media/sent/dfa18d81da57.mp3"
+     "audio": "media/sent/dfa18d81da57.mp3?v=ee34625c"
     },
     {
      "en": "The mail comes at ten o'clock.",
      "zh": "邮件十点钟送来。",
-     "audio": "media/sent/92642b0cdd1b.mp3"
+     "audio": "media/sent/92642b0cdd1b.mp3?v=fa37560b"
     },
     {
      "en": "There is no mail today.",
      "zh": "今天没有邮件。",
-     "audio": "media/sent/c527d1f35bab.mp3"
+     "audio": "media/sent/c527d1f35bab.mp3?v=5598dc53"
     }
    ],
    "media": {
-    "img": "media/img/mail.webp",
-    "uk": "media/uk/mail.mp3",
-    "us": "media/us/mail.mp3"
+    "img": "media/img/mail.webp?v=c2092b01",
+    "uk": "media/uk/mail.mp3?v=d62361e5",
+    "us": "media/us/mail.mp3?v=2a2931ac"
    },
    "avoid": [
     "deliver",
@@ -1243,23 +1243,23 @@
     {
      "en": "This gift is for you.",
      "zh": "这个礼物是给你的。",
-     "audio": "media/sent/4ce18ae58b29.mp3"
+     "audio": "media/sent/4ce18ae58b29.mp3?v=b34cc807"
     },
     {
      "en": "Mum bought a nice gift for Dad.",
      "zh": "妈妈给爸爸买了一份很好的礼物。",
-     "audio": "media/sent/1de25029637f.mp3"
+     "audio": "media/sent/1de25029637f.mp3?v=d31aee7b"
     },
     {
      "en": "Open your birthday gift, please.",
      "zh": "请打开你的生日礼物。",
-     "audio": "media/sent/32e93d91d5a2.mp3"
+     "audio": "media/sent/32e93d91d5a2.mp3?v=68e92bd7"
     }
    ],
    "media": {
-    "img": "media/img/gift.webp",
-    "uk": "media/uk/gift.mp3",
-    "us": "media/us/gift.mp3"
+    "img": "media/img/gift.webp?v=3c15e021",
+    "uk": "media/uk/gift.mp3?v=6ad3834c",
+    "us": "media/us/gift.mp3?v=22717ad6"
    },
    "hook": {
     "kind": "contrast",
@@ -1298,23 +1298,23 @@
     {
      "en": "I love my new present.",
      "zh": "我喜欢我的新礼物。",
-     "audio": "media/sent/9a6af56b5e0e.mp3"
+     "audio": "media/sent/9a6af56b5e0e.mp3?v=60d7af86"
     },
     {
      "en": "Grandpa gave me a present.",
      "zh": "爷爷给了我一份礼物。",
-     "audio": "media/sent/344e421d5a7f.mp3"
+     "audio": "media/sent/344e421d5a7f.mp3?v=b47d9166"
     },
     {
      "en": "She opened her birthday presents.",
      "zh": "她打开了她的生日礼物。",
-     "audio": "media/sent/7f473edfc0c7.mp3"
+     "audio": "media/sent/7f473edfc0c7.mp3?v=3fca89ce"
     }
    ],
    "media": {
-    "img": "media/img/present.webp",
-    "uk": "media/uk/present.mp3",
-    "us": "media/us/present.mp3"
+    "img": "media/img/present.webp?v=1a8ba3c6",
+    "uk": "media/uk/present.mp3?v=8933bd86",
+    "us": "media/us/present.mp3?v=61201014"
    },
    "avoid": [
     "gift"

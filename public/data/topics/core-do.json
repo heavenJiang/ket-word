@@ -29,23 +29,23 @@
     {
      "en": "Please add some salt to the soup.",
      "zh": "请在汤里加点盐。",
-     "audio": "media/sent/8c2fe2d6c523.mp3"
+     "audio": "media/sent/8c2fe2d6c523.mp3?v=4caceeb4"
     },
     {
      "en": "Add two eggs to the cake mix.",
      "zh": "在蛋糕糊里加两个鸡蛋。",
-     "audio": "media/sent/545c7d26a392.mp3"
+     "audio": "media/sent/545c7d26a392.mp3?v=3bea0f6f"
     },
     {
      "en": "Can you add this book to my list?",
      "zh": "你能把这本书加到我的清单上吗？",
-     "audio": "media/sent/179687d9ed08.mp3"
+     "audio": "media/sent/179687d9ed08.mp3?v=b264633a"
     }
    ],
    "media": {
-    "img": "media/img/add.webp",
-    "uk": "media/uk/add.mp3",
-    "us": "media/us/add.mp3"
+    "img": "media/img/add.webp?v=14897aa9",
+    "uk": "media/uk/add.mp3?v=58934569",
+    "us": "media/us/add.mp3?v=4decf857"
    },
    "spell": true,
    "avoid": []
@@ -79,23 +79,23 @@
     {
      "en": "The film begins at seven o'clock.",
      "zh": "电影七点开始。",
-     "audio": "media/sent/d7fabefd5eb2.mp3"
+     "audio": "media/sent/d7fabefd5eb2.mp3?v=ba8049d4"
     },
     {
      "en": "Let's begin our homework now.",
      "zh": "我们现在开始做作业吧。",
-     "audio": "media/sent/6687f6335100.mp3"
+     "audio": "media/sent/6687f6335100.mp3?v=3ee06839"
     },
     {
      "en": "The rain began yesterday afternoon.",
      "zh": "雨从昨天下午开始了。",
-     "audio": "media/sent/f3ffcbd28f4f.mp3"
+     "audio": "media/sent/f3ffcbd28f4f.mp3?v=a77cec69"
     }
    ],
    "media": {
-    "img": "media/img/begin.webp",
-    "uk": "media/uk/begin.mp3",
-    "us": "media/us/begin.mp3"
+    "img": "media/img/begin.webp?v=54f854b4",
+    "uk": "media/uk/begin.mp3?v=42a092ac",
+    "us": "media/us/begin.mp3?v=92d059f4"
    },
    "spell": true,
    "avoid": [
@@ -130,23 +130,23 @@
     {
      "en": "Sam builds a tall house with blocks.",
      "zh": "Sam 用积木搭了一座高房子。",
-     "audio": "media/sent/ed7a3a7eddfc.mp3"
+     "audio": "media/sent/ed7a3a7eddfc.mp3?v=df2a434b"
     },
     {
      "en": "We build big houses at the beach.",
      "zh": "我们在海滩上堆大房子。",
-     "audio": "media/sent/6d80557a8d82.mp3"
+     "audio": "media/sent/6d80557a8d82.mp3?v=4bcba0ce"
     },
     {
      "en": "Dad helps me build my bike shed.",
      "zh": "爸爸帮我建自行车棚。",
-     "audio": "media/sent/7cd04a649afe.mp3"
+     "audio": "media/sent/7cd04a649afe.mp3?v=b3f5f37a"
     }
    ],
    "media": {
-    "img": "media/img/build.webp",
-    "uk": "media/uk/build.mp3",
-    "us": "media/us/build.mp3"
+    "img": "media/img/build.webp?v=8a971ebe",
+    "uk": "media/uk/build.mp3?v=f89defc0",
+    "us": "media/us/build.mp3?v=3c5f3552"
    },
    "spell": true,
    "avoid": []
@@ -181,23 +181,23 @@
     {
      "en": "We celebrate Grandma's birthday.",
      "zh": "我们庆祝奶奶的生日。",
-     "audio": "media/sent/8b3714fe085e.mp3"
+     "audio": "media/sent/8b3714fe085e.mp3?v=0aa51e90"
     },
     {
      "en": "They celebrate New Year together.",
      "zh": "他们一起庆祝新年。",
-     "audio": "media/sent/f506e03b450a.mp3"
+     "audio": "media/sent/f506e03b450a.mp3?v=c45ec342"
     },
     {
      "en": "Let's celebrate our win!",
      "zh": "让我们庆祝我们的胜利！",
-     "audio": "media/sent/95fbef9737fa.mp3"
+     "audio": "media/sent/95fbef9737fa.mp3?v=a927f9cb"
     }
    ],
    "media": {
-    "img": "media/img/celebrate.webp",
-    "uk": "media/uk/celebrate.mp3",
-    "us": "media/us/celebrate.mp3"
+    "img": "media/img/celebrate.webp?v=581eb6bd",
+    "uk": "media/uk/celebrate.mp3?v=8dd46ca0",
+    "us": "media/us/celebrate.mp3?v=d55925fc"
    },
    "avoid": []
   },
@@ -230,23 +230,23 @@
     {
      "en": "I complete my homework early.",
      "zh": "我早早完成了作业。",
-     "audio": "media/sent/de9dc88a8261.mp3"
+     "audio": "media/sent/de9dc88a8261.mp3?v=afdd9cea"
     },
     {
      "en": "Tom cannot complete the puzzle alone.",
      "zh": "Tom 一个人拼不完这个拼图。",
-     "audio": "media/sent/86f176b6c817.mp3"
+     "audio": "media/sent/86f176b6c817.mp3?v=2dd7999c"
     },
     {
      "en": "Please complete this form, Mum.",
      "zh": "请完成这张表格，妈妈。",
-     "audio": "media/sent/5f715cfad459.mp3"
+     "audio": "media/sent/5f715cfad459.mp3?v=70691dea"
     }
    ],
    "media": {
-    "img": "media/img/complete.webp",
-    "uk": "media/uk/complete.mp3",
-    "us": "media/us/complete.mp3"
+    "img": "media/img/complete.webp?v=29550e28",
+    "uk": "media/uk/complete.mp3?v=c61f2962",
+    "us": "media/us/complete.mp3?v=8ee9e007"
    },
    "hook": {
     "kind": "contrast",
@@ -286,23 +286,23 @@
     {
      "en": "Please continue reading your book.",
      "zh": "请继续读你的书。",
-     "audio": "media/sent/6f663a264f20.mp3"
+     "audio": "media/sent/6f663a264f20.mp3?v=ec62d2b4"
     },
     {
      "en": "The train continues to London.",
      "zh": "火车继续开往伦敦。",
-     "audio": "media/sent/4346384a5bc4.mp3"
+     "audio": "media/sent/4346384a5bc4.mp3?v=51bb4f41"
     },
     {
      "en": "Let's continue our game after lunch.",
      "zh": "让我们午饭后继续玩游戏。",
-     "audio": "media/sent/66a7817b29ba.mp3"
+     "audio": "media/sent/66a7817b29ba.mp3?v=597f99fc"
     }
    ],
    "media": {
-    "img": "media/img/continue.webp",
-    "uk": "media/uk/continue.mp3",
-    "us": "media/us/continue.mp3"
+    "img": "media/img/continue.webp?v=b1e477cf",
+    "uk": "media/uk/continue.mp3?v=f5d93194",
+    "us": "media/us/continue.mp3?v=c151ff03"
    },
    "avoid": []
   },
@@ -335,23 +335,23 @@
     {
      "en": "Copy these words into your book.",
      "zh": "把这些单词抄写到你的本子里。",
-     "audio": "media/sent/8f500aaa97c3.mp3"
+     "audio": "media/sent/8f500aaa97c3.mp3?v=4e702dbf"
     },
     {
      "en": "Can I copy this drawing?",
      "zh": "我能复制这幅画吗？",
-     "audio": "media/sent/1f0f2cfa5c12.mp3"
+     "audio": "media/sent/1f0f2cfa5c12.mp3?v=cf1e480e"
     },
     {
      "en": "Tom copies the picture from the book.",
      "zh": "Tom 照着书上的图画画。",
-     "audio": "media/sent/475f2588dcbb.mp3"
+     "audio": "media/sent/475f2588dcbb.mp3?v=713dde4a"
     }
    ],
    "media": {
-    "img": "media/img/copy.webp",
-    "uk": "media/uk/copy.mp3",
-    "us": "media/us/copy.mp3"
+    "img": "media/img/copy.webp?v=8d7a6d32",
+    "uk": "media/uk/copy.mp3?v=003caf71",
+    "us": "media/us/copy.mp3?v=5b58a64e"
    },
    "avoid": [
     "write",
@@ -389,23 +389,23 @@
     {
      "en": "Cover the bowl with a plate.",
      "zh": "用盘子把碗盖上。",
-     "audio": "media/sent/7149deb1e7ed.mp3"
+     "audio": "media/sent/7149deb1e7ed.mp3?v=8a08a7ce"
     },
     {
      "en": "Snow covers the garden in winter.",
      "zh": "冬天雪覆盖了花园。",
-     "audio": "media/sent/52cc2d5c5021.mp3"
+     "audio": "media/sent/52cc2d5c5021.mp3?v=28415dd9"
     },
     {
      "en": "The book has a blue cover.",
      "zh": "这本书有一个蓝色的封面。",
-     "audio": "media/sent/92ef837a7b3d.mp3"
+     "audio": "media/sent/92ef837a7b3d.mp3?v=7ca98b5a"
     }
    ],
    "media": {
-    "img": "media/img/cover.webp",
-    "uk": "media/uk/cover.mp3",
-    "us": "media/us/cover.mp3"
+    "img": "media/img/cover.webp?v=9af587f6",
+    "uk": "media/uk/cover.mp3?v=079e6036",
+    "us": "media/us/cover.mp3?v=c1d385a3"
    },
    "hook": {
     "kind": "contrast",
@@ -444,23 +444,23 @@
     {
      "en": "Lily designs a new card for Mum.",
      "zh": "Lily 给妈妈设计了一张新卡片。",
-     "audio": "media/sent/eb36489ae947.mp3"
+     "audio": "media/sent/eb36489ae947.mp3?v=06a8e973"
     },
     {
      "en": "Mia likes the design on her T-shirt.",
      "zh": "Mia 喜欢她T恤上的图案。",
-     "audio": "media/sent/d1de86594b9e.mp3"
+     "audio": "media/sent/d1de86594b9e.mp3?v=67e20a6f"
     },
     {
      "en": "Sam's uncle designs bridges.",
      "zh": "Sam 的舅舅设计桥梁。",
-     "audio": "media/sent/9b0dc84d733c.mp3"
+     "audio": "media/sent/9b0dc84d733c.mp3?v=5d0e80c5"
     }
    ],
    "media": {
-    "img": "media/img/design.webp",
-    "uk": "media/uk/design.mp3",
-    "us": "media/us/design.mp3"
+    "img": "media/img/design.webp?v=c012f516",
+    "uk": "media/uk/design.mp3?v=dcca0d0e",
+    "us": "media/us/design.mp3?v=577972b9"
    },
    "hook": {
     "kind": "story",
@@ -502,23 +502,23 @@
     {
      "en": "Tom discovers a small beetle.",
      "zh": "Tom 发现了一只小甲虫。",
-     "audio": "media/sent/d99e517b2861.mp3"
+     "audio": "media/sent/d99e517b2861.mp3?v=00e62672"
     },
     {
      "en": "We discovered a new park near our house.",
      "zh": "我们在房子附近发现了一个新公园。",
-     "audio": "media/sent/5b1e3f99725e.mp3"
+     "audio": "media/sent/5b1e3f99725e.mp3?v=f30ebc0e"
     },
     {
      "en": "Did you discover anything in the box?",
      "zh": "你在盒子里发现了什么吗？",
-     "audio": "media/sent/c4ed24438a95.mp3"
+     "audio": "media/sent/c4ed24438a95.mp3?v=a1ba8c93"
     }
    ],
    "media": {
-    "img": "media/img/discover.webp",
-    "uk": "media/uk/discover.mp3",
-    "us": "media/us/discover.mp3"
+    "img": "media/img/discover.webp?v=d376b89f",
+    "uk": "media/uk/discover.mp3?v=7da35842",
+    "us": "media/us/discover.mp3?v=4a1f7d4c"
    },
    "hook": {
     "kind": "affix",
@@ -559,23 +559,23 @@
     {
      "en": "We explore the forest with Dad.",
      "zh": "我们和爸爸一起探索森林。",
-     "audio": "media/sent/0f9e4c9d08fe.mp3"
+     "audio": "media/sent/0f9e4c9d08fe.mp3?v=998dd38f"
     },
     {
      "en": "Max loves to explore the garden.",
      "zh": "Max 喜欢在花园里到处逛。",
-     "audio": "media/sent/8683327a05d0.mp3"
+     "audio": "media/sent/8683327a05d0.mp3?v=849c44fe"
     },
     {
      "en": "Let's explore the old house.",
      "zh": "让我们探索那座老房子吧。",
-     "audio": "media/sent/5f6144a0dec2.mp3"
+     "audio": "media/sent/5f6144a0dec2.mp3?v=43c8f051"
     }
    ],
    "media": {
-    "img": "media/img/explore.webp",
-    "uk": "media/uk/explore.mp3",
-    "us": "media/us/explore.mp3"
+    "img": "media/img/explore.webp?v=17137182",
+    "uk": "media/uk/explore.mp3?v=fafd8d6a",
+    "us": "media/us/explore.mp3?v=c71f5647"
    },
    "avoid": []
   },
@@ -607,22 +607,22 @@
     {
      "en": "Tom does not fail his test.",
      "zh": "Tom 考试没有不及格。",
-     "audio": "media/sent/b42e760fffe2.mp3"
+     "audio": "media/sent/b42e760fffe2.mp3?v=a9c34d81"
     },
     {
      "en": "I tried hard but I failed the game.",
      "zh": "我很努力但还是输掉了比赛。",
-     "audio": "media/sent/5272e980e5b6.mp3"
+     "audio": "media/sent/5272e980e5b6.mp3?v=5feeb1ef"
     },
     {
      "en": "Don't be afraid to fail sometimes.",
      "zh": "不要害怕偶尔失败。",
-     "audio": "media/sent/0e864bc79d42.mp3"
+     "audio": "media/sent/0e864bc79d42.mp3?v=f458c3e0"
     }
    ],
    "media": {
-    "uk": "media/uk/fail.mp3",
-    "us": "media/us/fail.mp3"
+    "uk": "media/uk/fail.mp3?v=187addc4",
+    "us": "media/us/fail.mp3?v=ac1646d8"
    },
    "avoid": []
   },
@@ -654,23 +654,23 @@
     {
      "en": "Fill the glass with orange juice.",
      "zh": "把杯子倒满橙汁。",
-     "audio": "media/sent/3611227fc8fd.mp3"
+     "audio": "media/sent/3611227fc8fd.mp3?v=dd490a47"
     },
     {
      "en": "Tom fills his bag with toys.",
      "zh": "Tom 用玩具装满他的书包。",
-     "audio": "media/sent/256eab222e90.mp3"
+     "audio": "media/sent/256eab222e90.mp3?v=ebf84222"
     },
     {
      "en": "Please fill in your name here.",
      "zh": "请在这里填写你的名字。",
-     "audio": "media/sent/db9fd524b418.mp3"
+     "audio": "media/sent/db9fd524b418.mp3?v=e139ef01"
     }
    ],
    "media": {
-    "img": "media/img/fill.webp",
-    "uk": "media/uk/fill.mp3",
-    "us": "media/us/fill.mp3"
+    "img": "media/img/fill.webp?v=f174ded3",
+    "uk": "media/uk/fill.mp3?v=7d75f31d",
+    "us": "media/us/fill.mp3?v=21009f29"
    },
    "spell": true,
    "avoid": [
@@ -706,23 +706,23 @@
     {
      "en": "Fill in the missing words.",
      "zh": "填上缺失的单词。",
-     "audio": "media/sent/1c3e6236cdbf.mp3"
+     "audio": "media/sent/1c3e6236cdbf.mp3?v=067e4695"
     },
     {
      "en": "Can you fill in this form?",
      "zh": "你能填写这张表格吗？",
-     "audio": "media/sent/95f630650127.mp3"
+     "audio": "media/sent/95f630650127.mp3?v=173148ea"
     },
     {
      "en": "Fill in the spaces with 'a' or 'the'.",
      "zh": "用 'a' 或 'the' 填空。",
-     "audio": "media/sent/07769778c592.mp3"
+     "audio": "media/sent/07769778c592.mp3?v=09910318"
     }
    ],
    "media": {
-    "img": "media/img/fill-in.webp",
-    "uk": "media/word/fill-in.mp3",
-    "us": "media/word/fill-in.mp3"
+    "img": "media/img/fill-in.webp?v=f7eb059c",
+    "uk": "media/word/fill-in.mp3?v=626f9d5f",
+    "us": "media/word/fill-in.mp3?v=626f9d5f"
    },
    "hook": {
     "kind": "split",
@@ -761,23 +761,23 @@
     {
      "en": "I finish my breakfast quickly.",
      "zh": "我很快吃完早饭。",
-     "audio": "media/sent/1ccfcb689e57.mp3"
+     "audio": "media/sent/1ccfcb689e57.mp3?v=450272e8"
     },
     {
      "en": "The match finishes at five o'clock.",
      "zh": "比赛五点结束。",
-     "audio": "media/sent/57c9879ee651.mp3"
+     "audio": "media/sent/57c9879ee651.mp3?v=29299c31"
     },
     {
      "en": "Have you finished your homework?",
      "zh": "你做完作业了吗？",
-     "audio": "media/sent/f13a2c8455e1.mp3"
+     "audio": "media/sent/f13a2c8455e1.mp3?v=ab6a3cbd"
     }
    ],
    "media": {
-    "img": "media/img/finish.webp",
-    "uk": "media/uk/finish.mp3",
-    "us": "media/us/finish.mp3"
+    "img": "media/img/finish.webp?v=3d42f7d8",
+    "uk": "media/uk/finish.mp3?v=24fa3de5",
+    "us": "media/us/finish.mp3?v=1b109e27"
    },
    "spell": true,
    "avoid": [
@@ -812,23 +812,23 @@
     {
      "en": "Dad fixes my bike.",
      "zh": "爸爸修好了我的自行车。",
-     "audio": "media/sent/51b708ff264e.mp3"
+     "audio": "media/sent/51b708ff264e.mp3?v=c46eab19"
     },
     {
      "en": "Mum can fix the broken toy car.",
      "zh": "妈妈能修好坏掉的玩具车。",
-     "audio": "media/sent/eb06043fbd1a.mp3"
+     "audio": "media/sent/eb06043fbd1a.mp3?v=223d6252"
     },
     {
      "en": "Can you help me fix this shelf?",
      "zh": "你能帮我修这个架子吗？",
-     "audio": "media/sent/a1a628574e07.mp3"
+     "audio": "media/sent/a1a628574e07.mp3?v=e911a1df"
     }
    ],
    "media": {
-    "img": "media/img/fix.webp",
-    "uk": "media/uk/fix.mp3",
-    "us": "media/us/fix.mp3"
+    "img": "media/img/fix.webp?v=2c6a828a",
+    "uk": "media/uk/fix.mp3?v=43b56425",
+    "us": "media/us/fix.mp3?v=c8bbb42f"
    },
    "avoid": []
   },
@@ -861,23 +861,23 @@
     {
      "en": "Lily improves her writing.",
      "zh": "Lily 提高了她的写作水平。",
-     "audio": "media/sent/57087c0ace3b.mp3"
+     "audio": "media/sent/57087c0ace3b.mp3?v=87743087"
     },
     {
      "en": "Practice helps us improve our English.",
      "zh": "练习帮助我们提高英语水平。",
-     "audio": "media/sent/67aed0c5f479.mp3"
+     "audio": "media/sent/67aed0c5f479.mp3?v=76819086"
     },
     {
      "en": "Tom wants to improve his football game.",
      "zh": "Tom 想提高他的足球比赛表现。",
-     "audio": "media/sent/6b19a8311e3c.mp3"
+     "audio": "media/sent/6b19a8311e3c.mp3?v=f6f0b5cf"
     }
    ],
    "media": {
-    "img": "media/img/improve.webp",
-    "uk": "media/uk/improve.mp3",
-    "us": "media/us/improve.mp3"
+    "img": "media/img/improve.webp?v=ecea657e",
+    "uk": "media/uk/improve.mp3?v=a5c615c8",
+    "us": "media/us/improve.mp3?v=456f7f8d"
    },
    "hook": {
     "kind": "story",
@@ -914,22 +914,22 @@
     {
      "en": "The price includes a gift.",
      "zh": "价格包括一份礼物。",
-     "audio": "media/sent/6a2856872d60.mp3"
+     "audio": "media/sent/6a2856872d60.mp3?v=c2ba4dee"
     },
     {
      "en": "My bag includes books and pens.",
      "zh": "我的包里有书和笔。",
-     "audio": "media/sent/3ff0f2d8a4fc.mp3"
+     "audio": "media/sent/3ff0f2d8a4fc.mp3?v=e56296c7"
     },
     {
      "en": "Does the ticket include lunch?",
      "zh": "票里包含午餐吗？",
-     "audio": "media/sent/13a1e5e8ae7f.mp3"
+     "audio": "media/sent/13a1e5e8ae7f.mp3?v=e87e5413"
     }
    ],
    "media": {
-    "uk": "media/uk/include.mp3",
-    "us": "media/us/include.mp3"
+    "uk": "media/uk/include.mp3?v=e4595104",
+    "us": "media/us/include.mp3?v=3703b97e"
    },
    "spell": true,
    "hook": {
@@ -967,23 +967,23 @@
     {
      "en": "Sam invents a new game.",
      "zh": "Sam 发明了一个新游戏。",
-     "audio": "media/sent/dd106239e3a7.mp3"
+     "audio": "media/sent/dd106239e3a7.mp3?v=0c49c450"
     },
     {
      "en": "Did you invent this toy?",
      "zh": "这是你发明的玩具吗？",
-     "audio": "media/sent/7fa86daab601.mp3"
+     "audio": "media/sent/7fa86daab601.mp3?v=17040d7c"
     },
     {
      "en": "People invent many things every day.",
      "zh": "人们每天发明很多东西。",
-     "audio": "media/sent/e9ed3c56f0eb.mp3"
+     "audio": "media/sent/e9ed3c56f0eb.mp3?v=d17a7c73"
     }
    ],
    "media": {
-    "img": "media/img/invent.webp",
-    "uk": "media/uk/invent.mp3",
-    "us": "media/us/invent.mp3"
+    "img": "media/img/invent.webp?v=8b8af236",
+    "uk": "media/uk/invent.mp3?v=88662464",
+    "us": "media/us/invent.mp3?v=a71e97c6"
    },
    "avoid": [
     "design",
@@ -1021,23 +1021,23 @@
     {
      "en": "The phone is a great invention.",
      "zh": "电话是一项伟大的发明。",
-     "audio": "media/sent/8dc9d77c8e8d.mp3"
+     "audio": "media/sent/8dc9d77c8e8d.mp3?v=80c04f0b"
     },
     {
      "en": "This machine is a clever invention.",
      "zh": "这台机器是一个聪明的发明。",
-     "audio": "media/sent/5f1dc5bb7de1.mp3"
+     "audio": "media/sent/5f1dc5bb7de1.mp3?v=a3255551"
     },
     {
      "en": "What is your favourite invention?",
      "zh": "你最喜欢的发明是什么？",
-     "audio": "media/sent/bceb25464f53.mp3"
+     "audio": "media/sent/bceb25464f53.mp3?v=d541b46c"
     }
    ],
    "media": {
-    "img": "media/img/invention.webp",
-    "uk": "media/uk/invention.mp3",
-    "us": "media/us/invention.mp3"
+    "img": "media/img/invention.webp?v=3a2789b7",
+    "uk": "media/uk/invention.mp3?v=969364af",
+    "us": "media/us/invention.mp3?v=8c4eb7d9"
    },
    "avoid": [
     "design",
@@ -1075,23 +1075,23 @@
     {
      "en": "I want to invite Mia.",
      "zh": "我想邀请 Mia。",
-     "audio": "media/sent/94392c02d775.mp3"
+     "audio": "media/sent/94392c02d775.mp3?v=913fae85"
     },
     {
      "en": "Did you invite Sam?",
      "zh": "你邀请 Sam 了吗？",
-     "audio": "media/sent/af710f694e59.mp3"
+     "audio": "media/sent/af710f694e59.mp3?v=6afb5d61"
     },
     {
      "en": "Please invite Tom to play.",
      "zh": "请邀请 Tom 来玩。",
-     "audio": "media/sent/e0a425015bd7.mp3"
+     "audio": "media/sent/e0a425015bd7.mp3?v=22f65e90"
     }
    ],
    "media": {
-    "img": "media/img/invite.webp",
-    "uk": "media/uk/invite.mp3",
-    "us": "media/us/invite.mp3"
+    "img": "media/img/invite.webp?v=4882f051",
+    "uk": "media/uk/invite.mp3?v=bffaf8d7",
+    "us": "media/us/invite.mp3?v=dda99a77"
    },
    "spell": true,
    "avoid": [
@@ -1129,23 +1129,23 @@
     {
      "en": "Tom has an invitation.",
      "zh": "Tom 有一张邀请函。",
-     "audio": "media/sent/1727cdaed99d.mp3"
+     "audio": "media/sent/1727cdaed99d.mp3?v=4f2233ea"
     },
     {
      "en": "The invitation is pink.",
      "zh": "这张邀请函是粉红色的。",
-     "audio": "media/sent/2dbe355a567d.mp3"
+     "audio": "media/sent/2dbe355a567d.mp3?v=f650f500"
     },
     {
      "en": "Mum writes an invitation.",
      "zh": "妈妈写了一张邀请函。",
-     "audio": "media/sent/af154d25885a.mp3"
+     "audio": "media/sent/af154d25885a.mp3?v=afcf6a50"
     }
    ],
    "media": {
-    "img": "media/img/invitation.webp",
-    "uk": "media/uk/invitation.mp3",
-    "us": "media/us/invitation.mp3"
+    "img": "media/img/invitation.webp?v=42810572",
+    "uk": "media/uk/invitation.mp3?v=0ceeae8a",
+    "us": "media/us/invitation.mp3?v=89246efb"
    },
    "avoid": [
     "invite"
@@ -1179,23 +1179,23 @@
     {
      "en": "Dad mixes the salad.",
      "zh": "爸爸拌沙拉。",
-     "audio": "media/sent/75e30a891dcf.mp3"
+     "audio": "media/sent/75e30a891dcf.mp3?v=379c97c7"
     },
     {
      "en": "Mix the milk and eggs.",
      "zh": "把牛奶和鸡蛋混合。",
-     "audio": "media/sent/c64cd9c04f9e.mp3"
+     "audio": "media/sent/c64cd9c04f9e.mp3?v=33fa7067"
     },
     {
      "en": "Lily mixes the colours.",
      "zh": "Lily 调和颜色。",
-     "audio": "media/sent/a6e514b59e15.mp3"
+     "audio": "media/sent/a6e514b59e15.mp3?v=b19733ed"
     }
    ],
    "media": {
-    "img": "media/img/mix.webp",
-    "uk": "media/uk/mix.mp3",
-    "us": "media/us/mix.mp3"
+    "img": "media/img/mix.webp?v=a3bed320",
+    "uk": "media/uk/mix.mp3?v=8ab2b80f",
+    "us": "media/us/mix.mp3?v=0f55e3ae"
    },
    "avoid": []
   },
@@ -1227,23 +1227,23 @@
     {
      "en": "Mum packs her bag.",
      "zh": "妈妈整理她的包。",
-     "audio": "media/sent/b9622b780f15.mp3"
+     "audio": "media/sent/b9622b780f15.mp3?v=53bad73b"
     },
     {
      "en": "I pack my lunch box.",
      "zh": "我打包我的午餐盒。",
-     "audio": "media/sent/91a7df13ca21.mp3"
+     "audio": "media/sent/91a7df13ca21.mp3?v=6f83762b"
     },
     {
      "en": "Sam packs his toys.",
      "zh": "Sam 收拾他的玩具。",
-     "audio": "media/sent/395f913e9327.mp3"
+     "audio": "media/sent/395f913e9327.mp3?v=64c07f7f"
     }
    ],
    "media": {
-    "img": "media/img/pack.webp",
-    "uk": "media/word/pack.mp3",
-    "us": "media/word/pack.mp3"
+    "img": "media/img/pack.webp?v=3da54347",
+    "uk": "media/word/pack.mp3?v=0126b531",
+    "us": "media/word/pack.mp3?v=0126b531"
    },
    "avoid": []
   },
@@ -1276,23 +1276,23 @@
     {
      "en": "Lily performs a song.",
      "zh": "Lily 表演了一首歌。",
-     "audio": "media/sent/c76ca75f08d7.mp3"
+     "audio": "media/sent/c76ca75f08d7.mp3?v=7409c482"
     },
     {
      "en": "The actors perform well.",
      "zh": "演员们演得很好。",
-     "audio": "media/sent/bde874acd448.mp3"
+     "audio": "media/sent/bde874acd448.mp3?v=e41655ef"
     },
     {
      "en": "We perform at school.",
      "zh": "我们在学校表演。",
-     "audio": "media/sent/24d2294b1308.mp3"
+     "audio": "media/sent/24d2294b1308.mp3?v=7e1f8bab"
     }
    ],
    "media": {
-    "img": "media/img/perform.webp",
-    "uk": "media/uk/perform.mp3",
-    "us": "media/us/perform.mp3"
+    "img": "media/img/perform.webp?v=e7df1786",
+    "uk": "media/uk/perform.mp3?v=25957654",
+    "us": "media/us/perform.mp3?v=3051d5f1"
    },
    "hook": {
     "kind": "story",
@@ -1332,23 +1332,23 @@
     {
      "en": "We plan a trip.",
      "zh": "我们计划一次旅行。",
-     "audio": "media/sent/7a4deffaf85d.mp3"
+     "audio": "media/sent/7a4deffaf85d.mp3?v=862f0758"
     },
     {
      "en": "What is your plan?",
      "zh": "你的计划是什么？",
-     "audio": "media/sent/35431f870e2d.mp3"
+     "audio": "media/sent/35431f870e2d.mp3?v=8747da89"
     },
     {
      "en": "Tom plans to play football.",
      "zh": "Tom 打算踢足球。",
-     "audio": "media/sent/0d8880342b74.mp3"
+     "audio": "media/sent/0d8880342b74.mp3?v=defd71f7"
     }
    ],
    "media": {
-    "img": "media/img/plan.webp",
-    "uk": "media/uk/plan.mp3",
-    "us": "media/us/plan.mp3"
+    "img": "media/img/plan.webp?v=b7596806",
+    "uk": "media/uk/plan.mp3?v=e485583f",
+    "us": "media/us/plan.mp3?v=3222a0a5"
    },
    "spell": true,
    "avoid": []
@@ -1382,23 +1382,23 @@
     {
      "en": "Mum prepares dinner.",
      "zh": "妈妈准备晚餐。",
-     "audio": "media/sent/a9fe28a1a970.mp3"
+     "audio": "media/sent/a9fe28a1a970.mp3?v=9c1c0398"
     },
     {
      "en": "I prepare my books.",
      "zh": "我准备好我的书。",
-     "audio": "media/sent/7b2f26d11945.mp3"
+     "audio": "media/sent/7b2f26d11945.mp3?v=1f0d481d"
     },
     {
      "en": "Dad prepares breakfast.",
      "zh": "爸爸准备早餐。",
-     "audio": "media/sent/ff221e05d2a4.mp3"
+     "audio": "media/sent/ff221e05d2a4.mp3?v=c4e7d9a2"
     }
    ],
    "media": {
-    "img": "media/img/prepare.webp",
-    "uk": "media/uk/prepare.mp3",
-    "us": "media/us/prepare.mp3"
+    "img": "media/img/prepare.webp?v=7b5f768d",
+    "uk": "media/uk/prepare.mp3?v=14314756",
+    "us": "media/us/prepare.mp3?v=585e8dfd"
    },
    "avoid": []
   },
@@ -1430,23 +1430,23 @@
     {
      "en": "Dad prints the photo.",
      "zh": "爸爸打印这张照片。",
-     "audio": "media/sent/f16cbb15b9e8.mp3"
+     "audio": "media/sent/f16cbb15b9e8.mp3?v=54a71d64"
     },
     {
      "en": "Please print this letter.",
      "zh": "请打印这封信。",
-     "audio": "media/sent/7da3384af438.mp3"
+     "audio": "media/sent/7da3384af438.mp3?v=5275ed40"
     },
     {
      "en": "The machine prints fast.",
      "zh": "这台机器打印得很快。",
-     "audio": "media/sent/c11f8b1132a9.mp3"
+     "audio": "media/sent/c11f8b1132a9.mp3?v=28dd15ab"
     }
    ],
    "media": {
-    "img": "media/img/print.webp",
-    "uk": "media/uk/print.mp3",
-    "us": "media/us/print.mp3"
+    "img": "media/img/print.webp?v=36b1f906",
+    "uk": "media/uk/print.mp3?v=74ef8eaa",
+    "us": "media/us/print.mp3?v=976801b3"
    },
    "avoid": []
   },
@@ -1479,23 +1479,23 @@
     {
      "en": "Lily records the song.",
      "zh": "Lily 录制这首歌。",
-     "audio": "media/sent/d224254573bf.mp3"
+     "audio": "media/sent/d224254573bf.mp3?v=bcb05249"
     },
     {
      "en": "Dad records Tom's first song on his phone.",
      "zh": "爸爸用手机录下了 Tom 唱的第一首歌。",
-     "audio": "media/sent/346fad322712.mp3"
+     "audio": "media/sent/346fad322712.mp3?v=f0c8b5a3"
     },
     {
      "en": "Can you record the game?",
      "zh": "你能录制这场比赛吗？",
-     "audio": "media/sent/757988df3f3d.mp3"
+     "audio": "media/sent/757988df3f3d.mp3?v=6dc80870"
     }
    ],
    "media": {
-    "img": "media/img/record.webp",
-    "uk": "media/uk/record.mp3",
-    "us": "media/us/record.mp3"
+    "img": "media/img/record.webp?v=288844b5",
+    "uk": "media/uk/record.mp3?v=8b5dd39a",
+    "us": "media/us/record.mp3?v=ff5e9a99"
    },
    "avoid": [
     "perform"
@@ -1530,23 +1530,23 @@
     {
      "en": "Dad relaxes on the sofa.",
      "zh": "爸爸在沙发上放松。",
-     "audio": "media/sent/2f63f6824951.mp3"
+     "audio": "media/sent/2f63f6824951.mp3?v=75108b2a"
     },
     {
      "en": "Mum likes to relax.",
      "zh": "妈妈喜欢放松。",
-     "audio": "media/sent/b1e4b3d6bf60.mp3"
+     "audio": "media/sent/b1e4b3d6bf60.mp3?v=36149d99"
     },
     {
      "en": "Let's relax for a bit.",
      "zh": "让我们放松一会儿。",
-     "audio": "media/sent/71e8c73a5a7e.mp3"
+     "audio": "media/sent/71e8c73a5a7e.mp3?v=0ad2c2fe"
     }
    ],
    "media": {
-    "img": "media/img/relax.webp",
-    "uk": "media/uk/relax.mp3",
-    "us": "media/us/relax.mp3"
+    "img": "media/img/relax.webp?v=9ce4cf3a",
+    "uk": "media/uk/relax.mp3?v=fe5bb784",
+    "us": "media/us/relax.mp3?v=be26a995"
    },
    "spell": true,
    "avoid": []
@@ -1580,23 +1580,23 @@
     {
      "en": "Please repeat the word.",
      "zh": "请重复这个单词。",
-     "audio": "media/sent/76470bd99905.mp3"
+     "audio": "media/sent/76470bd99905.mp3?v=839df661"
     },
     {
      "en": "Tom repeats the name.",
      "zh": "Tom 重复这个名字。",
-     "audio": "media/sent/3e6754cc0d39.mp3"
+     "audio": "media/sent/3e6754cc0d39.mp3?v=e3585542"
     },
     {
      "en": "Can you repeat that?",
      "zh": "你能再说一遍吗？",
-     "audio": "media/sent/4559f5940dbe.mp3"
+     "audio": "media/sent/4559f5940dbe.mp3?v=555d7e2a"
     }
    ],
    "media": {
-    "img": "media/img/repeat.webp",
-    "uk": "media/uk/repeat.mp3",
-    "us": "media/us/repeat.mp3"
+    "img": "media/img/repeat.webp?v=d02d0159",
+    "uk": "media/uk/repeat.mp3?v=b7594217",
+    "us": "media/us/repeat.mp3?v=f1b353c8"
    },
    "spell": true,
    "avoid": []
@@ -1629,23 +1629,23 @@
     {
      "en": "Mum serves the food.",
      "zh": "妈妈上菜。",
-     "audio": "media/sent/059f81d234b2.mp3"
+     "audio": "media/sent/059f81d234b2.mp3?v=95b9b798"
     },
     {
      "en": "Sam helps serve tea.",
      "zh": "Sam 帮忙端茶。",
-     "audio": "media/sent/ccdf1cad07b2.mp3"
+     "audio": "media/sent/ccdf1cad07b2.mp3?v=810c6a1d"
     },
     {
      "en": "Waiters serve customers.",
      "zh": "服务员给顾客上菜。",
-     "audio": "media/sent/b85d02f0ad9b.mp3"
+     "audio": "media/sent/b85d02f0ad9b.mp3?v=e7816341"
     }
    ],
    "media": {
-    "img": "media/img/serve.webp",
-    "uk": "media/uk/serve.mp3",
-    "us": "media/us/serve.mp3"
+    "img": "media/img/serve.webp?v=4beb8a5d",
+    "uk": "media/uk/serve.mp3?v=9f6e79ca",
+    "us": "media/us/serve.mp3?v=0b7e5162"
    },
    "avoid": []
   },
@@ -1677,23 +1677,23 @@
     {
      "en": "Uncle Ben does not smoke.",
      "zh": "Ben 叔叔不抽烟。",
-     "audio": "media/sent/f5f1b390aaf3.mp3"
+     "audio": "media/sent/f5f1b390aaf3.mp3?v=8f20dec5"
     },
     {
      "en": "Smoke comes out of the fire.",
      "zh": "火里冒出烟来。",
-     "audio": "media/sent/1e67afbc1554.mp3"
+     "audio": "media/sent/1e67afbc1554.mp3?v=9b46b433"
     },
     {
      "en": "Please do not smoke in the house.",
      "zh": "请不要在屋里抽烟。",
-     "audio": "media/sent/678ee6dee854.mp3"
+     "audio": "media/sent/678ee6dee854.mp3?v=bcc64886"
     }
    ],
    "media": {
-    "img": "media/img/smoke.webp",
-    "uk": "media/uk/smoke.mp3",
-    "us": "media/us/smoke.mp3"
+    "img": "media/img/smoke.webp?v=5c8c8392",
+    "uk": "media/uk/smoke.mp3?v=7aeba504",
+    "us": "media/us/smoke.mp3?v=4a860a2d"
    },
    "avoid": [
     "smoking"
@@ -1728,23 +1728,23 @@
     {
      "en": "No smoking here.",
      "zh": "这里禁止吸烟。",
-     "audio": "media/sent/ba899ebc1e89.mp3"
+     "audio": "media/sent/ba899ebc1e89.mp3?v=294cd895"
     },
     {
      "en": "Smoking is bad for you.",
      "zh": "吸烟对身体有害。",
-     "audio": "media/sent/e579eaf9d8e8.mp3"
+     "audio": "media/sent/e579eaf9d8e8.mp3?v=8d852f75"
     },
     {
      "en": "Grandpa stops smoking.",
      "zh": "爷爷戒烟了。",
-     "audio": "media/sent/caa680c4cb25.mp3"
+     "audio": "media/sent/caa680c4cb25.mp3?v=086fbe2b"
     }
    ],
    "media": {
-    "img": "media/img/smoking.webp",
-    "uk": "media/uk/smoking.mp3",
-    "us": "media/us/smoking.mp3"
+    "img": "media/img/smoking.webp?v=50b7ba39",
+    "uk": "media/uk/smoking.mp3?v=988b98d8",
+    "us": "media/us/smoking.mp3?v=9c9cbee7"
    },
    "avoid": [
     "smoke"
@@ -1778,23 +1778,23 @@
     {
      "en": "The film starts now.",
      "zh": "电影现在开始。",
-     "audio": "media/sent/1b4827db4d69.mp3"
+     "audio": "media/sent/1b4827db4d69.mp3?v=f1b95ecc"
     },
     {
      "en": "Let's start homework.",
      "zh": "我们开始做作业吧。",
-     "audio": "media/sent/0debd4605b2b.mp3"
+     "audio": "media/sent/0debd4605b2b.mp3?v=b28a0c3b"
     },
     {
      "en": "The game starts soon.",
      "zh": "比赛很快就要开始了。",
-     "audio": "media/sent/bdb2a9a24cfd.mp3"
+     "audio": "media/sent/bdb2a9a24cfd.mp3?v=9ec5638b"
     }
    ],
    "media": {
-    "img": "media/img/start.webp",
-    "uk": "media/uk/start.mp3",
-    "us": "media/us/start.mp3"
+    "img": "media/img/start.webp?v=9c89d84e",
+    "uk": "media/uk/start.mp3?v=2e7603d8",
+    "us": "media/us/start.mp3?v=91a4aa03"
    },
    "spell": true,
    "avoid": [
@@ -1832,23 +1832,23 @@
     {
      "en": "Lily's room is tidy.",
      "zh": "Lily 的房间很整洁。",
-     "audio": "media/sent/a90228178747.mp3"
+     "audio": "media/sent/a90228178747.mp3?v=1947aefd"
     },
     {
      "en": "Keep your desk tidy.",
      "zh": "保持你的书桌整洁。",
-     "audio": "media/sent/2316003f4aa1.mp3"
+     "audio": "media/sent/2316003f4aa1.mp3?v=ef453bb4"
     },
     {
      "en": "Mum tidies the house.",
      "zh": "妈妈打扫房子。",
-     "audio": "media/sent/6a6832e8f2e9.mp3"
+     "audio": "media/sent/6a6832e8f2e9.mp3?v=ba78ae98"
     }
    ],
    "media": {
-    "img": "media/img/tidy.webp",
-    "uk": "media/uk/tidy.mp3",
-    "us": "media/us/tidy.mp3"
+    "img": "media/img/tidy.webp?v=ce0a091d",
+    "uk": "media/uk/tidy.mp3?v=0a164cf2",
+    "us": "media/us/tidy.mp3?v=1a5fcd0b"
    },
    "hook": {
     "kind": "contrast",
@@ -1890,23 +1890,23 @@
     {
      "en": "Please tidy up, Tom.",
      "zh": "Tom，请收拾一下。",
-     "audio": "media/sent/6867deb17c0b.mp3"
+     "audio": "media/sent/6867deb17c0b.mp3?v=bf354c5d"
     },
     {
      "en": "We tidy up fast.",
      "zh": "我们很快收拾好。",
-     "audio": "media/sent/af51c6f6b983.mp3"
+     "audio": "media/sent/af51c6f6b983.mp3?v=3549f3f3"
     },
     {
      "en": "Tidy up your toys.",
      "zh": "把你的玩具收拾好。",
-     "audio": "media/sent/2501336847d0.mp3"
+     "audio": "media/sent/2501336847d0.mp3?v=b11b9c1f"
     }
    ],
    "media": {
-    "img": "media/img/tidy-up.webp",
-    "uk": "media/word/tidy-up.mp3",
-    "us": "media/word/tidy-up.mp3"
+    "img": "media/img/tidy-up.webp?v=ccddd6d7",
+    "uk": "media/word/tidy-up.mp3?v=c310da34",
+    "us": "media/word/tidy-up.mp3?v=c310da34"
    },
    "hook": {
     "kind": "split",
@@ -1946,23 +1946,23 @@
     {
      "en": "Wash your hands, Tom.",
      "zh": "Tom，洗手。",
-     "audio": "media/sent/cb44e271bade.mp3"
+     "audio": "media/sent/cb44e271bade.mp3?v=0de68231"
     },
     {
      "en": "Mum washes the clothes.",
      "zh": "妈妈洗衣服。",
-     "audio": "media/sent/72128c85c818.mp3"
+     "audio": "media/sent/72128c85c818.mp3?v=a85cede3"
     },
     {
      "en": "Lily washes the dog.",
      "zh": "Lily 给狗洗澡。",
-     "audio": "media/sent/f8a004af6685.mp3"
+     "audio": "media/sent/f8a004af6685.mp3?v=571665f6"
     }
    ],
    "media": {
-    "img": "media/img/wash.webp",
-    "uk": "media/uk/wash.mp3",
-    "us": "media/us/wash.mp3"
+    "img": "media/img/wash.webp?v=59d98a36",
+    "uk": "media/uk/wash.mp3?v=12224f81",
+    "us": "media/us/wash.mp3?v=f5deadc9"
    },
    "spell": true,
    "avoid": [
@@ -2001,23 +2001,23 @@
     {
      "en": "Dad does the washing-up.",
      "zh": "爸爸洗碗。",
-     "audio": "media/sent/5ca5126b580f.mp3"
+     "audio": "media/sent/5ca5126b580f.mp3?v=029a2b5f"
     },
     {
      "en": "The washing-up is done.",
      "zh": "碗洗好了。",
-     "audio": "media/sent/7e8a50654fb2.mp3"
+     "audio": "media/sent/7e8a50654fb2.mp3?v=3ecbe355"
     },
     {
      "en": "I help with washing-up.",
      "zh": "我帮忙洗碗。",
-     "audio": "media/sent/7cf2fde87555.mp3"
+     "audio": "media/sent/7cf2fde87555.mp3?v=0db47dda"
     }
    ],
    "media": {
-    "img": "media/img/washing-up.webp",
-    "uk": "media/word/washing-up.mp3",
-    "us": "media/word/washing-up.mp3"
+    "img": "media/img/washing-up.webp?v=ed25cb3c",
+    "uk": "media/word/washing-up.mp3?v=a6cad057",
+    "us": "media/word/washing-up.mp3?v=a6cad057"
    },
    "hook": {
     "kind": "split",
@@ -2058,23 +2058,23 @@
     {
      "en": "The car breaks down.",
      "zh": "汽车坏了。",
-     "audio": "media/sent/357a64d42f97.mp3"
+     "audio": "media/sent/357a64d42f97.mp3?v=10d3e400"
     },
     {
      "en": "My bike broke down on the way to school.",
      "zh": "我的自行车在上学路上坏了。",
-     "audio": "media/sent/a629964f38ae.mp3"
+     "audio": "media/sent/a629964f38ae.mp3?v=ac42fff4"
     },
     {
      "en": "Old cars often break down.",
      "zh": "旧车经常抛锚。",
-     "audio": "media/sent/efd303182385.mp3"
+     "audio": "media/sent/efd303182385.mp3?v=0449720f"
     }
    ],
    "media": {
-    "img": "media/img/break-down.webp",
-    "uk": "media/word/break-down.mp3",
-    "us": "media/word/break-down.mp3"
+    "img": "media/img/break-down.webp?v=602d2ba1",
+    "uk": "media/word/break-down.mp3?v=5c23f2ee",
+    "us": "media/word/break-down.mp3?v=5c23f2ee"
    },
    "hook": {
     "kind": "split",
@@ -2110,23 +2110,23 @@
     {
      "en": "Look at the stars in the sky.",
      "zh": "看看天上的星星。",
-     "audio": "media/sent/30178b2fa063.mp3"
+     "audio": "media/sent/30178b2fa063.mp3?v=18f756a7"
     },
     {
      "en": "You look happy today.",
      "zh": "你今天看起来很开心。",
-     "audio": "media/sent/281d2f27c1ed.mp3"
+     "audio": "media/sent/281d2f27c1ed.mp3?v=df74dc64"
     },
     {
      "en": "Please don't look away.",
      "zh": "请不要把目光移开。",
-     "audio": "media/sent/782f3f77407a.mp3"
+     "audio": "media/sent/782f3f77407a.mp3?v=690b40c7"
     }
    ],
    "media": {
-    "img": "media/img/look.webp",
-    "uk": "media/uk/look.mp3",
-    "us": "media/us/look.mp3"
+    "img": "media/img/look.webp?v=fa0d6ae8",
+    "uk": "media/uk/look.mp3?v=e8f2c4e0",
+    "us": "media/us/look.mp3?v=08a16717"
    },
    "spell": true,
    "avoid": [
@@ -2163,23 +2163,23 @@
     {
      "en": "Lily looks after Max.",
      "zh": "Lily 照顾 Max。",
-     "audio": "media/sent/8cb7042e26fb.mp3"
+     "audio": "media/sent/8cb7042e26fb.mp3?v=40746afa"
     },
     {
      "en": "Dad looks after Grandma.",
      "zh": "爸爸照顾奶奶。",
-     "audio": "media/sent/66bcbd39ac78.mp3"
+     "audio": "media/sent/66bcbd39ac78.mp3?v=dea073e6"
     },
     {
      "en": "We look after our plants.",
      "zh": "我们照顾我们的植物。",
-     "audio": "media/sent/da83d00d51d6.mp3"
+     "audio": "media/sent/da83d00d51d6.mp3?v=85c6ff49"
     }
    ],
    "media": {
-    "img": "media/img/look-after.webp",
-    "uk": "media/word/look-after.mp3",
-    "us": "media/word/look-after.mp3"
+    "img": "media/img/look-after.webp?v=b8941e31",
+    "uk": "media/word/look-after.mp3?v=08fa8029",
+    "us": "media/word/look-after.mp3?v=08fa8029"
    },
    "hook": {
     "kind": "split",
@@ -2216,23 +2216,23 @@
     {
      "en": "I look for my bag.",
      "zh": "我在找我的书包。",
-     "audio": "media/sent/43655cf1b762.mp3"
+     "audio": "media/sent/43655cf1b762.mp3?v=f914f491"
     },
     {
      "en": "Mum looks for her keys.",
      "zh": "妈妈在找她的钥匙。",
-     "audio": "media/sent/84106a003282.mp3"
+     "audio": "media/sent/84106a003282.mp3?v=f4dcdd0a"
     },
     {
      "en": "Max is looking for his ball.",
      "zh": "Max 正在找他的球。",
-     "audio": "media/sent/89b4e1c66c75.mp3"
+     "audio": "media/sent/89b4e1c66c75.mp3?v=249fa5ad"
     }
    ],
    "media": {
-    "img": "media/img/look-for.webp",
-    "uk": "media/word/look-for.mp3",
-    "us": "media/word/look-for.mp3"
+    "img": "media/img/look-for.webp?v=87e94f06",
+    "uk": "media/word/look-for.mp3?v=f1988be7",
+    "us": "media/word/look-for.mp3?v=f1988be7"
    },
    "hook": {
     "kind": "split",
@@ -2269,23 +2269,23 @@
     {
      "en": "Look out! The car is coming.",
      "zh": "小心！车来了。",
-     "audio": "media/sent/689e20153569.mp3"
+     "audio": "media/sent/689e20153569.mp3?v=0e5f4e2b"
     },
     {
      "en": "Please look out for cars.",
      "zh": "请小心车辆。",
-     "audio": "media/sent/0131d8470282.mp3"
+     "audio": "media/sent/0131d8470282.mp3?v=d8605279"
     },
     {
      "en": "Look out for Max in the garden!",
      "zh": "小心花园里的 Max！",
-     "audio": "media/sent/1a2993d8d3d3.mp3"
+     "audio": "media/sent/1a2993d8d3d3.mp3?v=25c86093"
     }
    ],
    "media": {
-    "img": "media/img/look-out.webp",
-    "uk": "media/word/look-out.mp3",
-    "us": "media/word/look-out.mp3"
+    "img": "media/img/look-out.webp?v=35073b1c",
+    "uk": "media/word/look-out.mp3?v=1297e60c",
+    "us": "media/word/look-out.mp3?v=1297e60c"
    },
    "hook": {
     "kind": "split",
@@ -2321,23 +2321,23 @@
     {
      "en": "I can see the sea from here.",
      "zh": "我从这里能看见大海。",
-     "audio": "media/sent/0e37fdbc7860.mp3"
+     "audio": "media/sent/0e37fdbc7860.mp3?v=176e96c3"
     },
     {
      "en": "Can you see the bird?",
      "zh": "你能看见那只鸟吗？",
-     "audio": "media/sent/9c1205cd4c3e.mp3"
+     "audio": "media/sent/9c1205cd4c3e.mp3?v=3ccb87bf"
     },
     {
      "en": "See you tomorrow!",
      "zh": "明天见！",
-     "audio": "media/sent/9275daba54b0.mp3"
+     "audio": "media/sent/9275daba54b0.mp3?v=c4647730"
     }
    ],
    "media": {
-    "img": "media/img/see.webp",
-    "uk": "media/uk/see.mp3",
-    "us": "media/us/see.mp3"
+    "img": "media/img/see.webp?v=394be88d",
+    "uk": "media/uk/see.mp3?v=51630a77",
+    "us": "media/us/see.mp3?v=a6c8713a"
    },
    "spell": true,
    "avoid": [
@@ -2373,23 +2373,23 @@
     {
      "en": "Listen to the music.",
      "zh": "听听音乐。",
-     "audio": "media/sent/818f83df3d09.mp3"
+     "audio": "media/sent/818f83df3d09.mp3?v=9d896fb1"
     },
     {
      "en": "Please listen to Dad.",
      "zh": "请听爸爸说话。",
-     "audio": "media/sent/ffccc85146ee.mp3"
+     "audio": "media/sent/ffccc85146ee.mp3?v=60741dc1"
     },
     {
      "en": "I like to listen to birds.",
      "zh": "我喜欢听鸟叫声。",
-     "audio": "media/sent/e199e0f5baeb.mp3"
+     "audio": "media/sent/e199e0f5baeb.mp3?v=c68588f0"
     }
    ],
    "media": {
-    "img": "media/img/listen.webp",
-    "uk": "media/uk/listen.mp3",
-    "us": "media/us/listen.mp3"
+    "img": "media/img/listen.webp?v=e067634a",
+    "uk": "media/uk/listen.mp3?v=4d36abb3",
+    "us": "media/us/listen.mp3?v=a547b1b3"
    },
    "spell": true,
    "avoid": [
@@ -2425,23 +2425,23 @@
     {
      "en": "Tom sleeps in his bed.",
      "zh": "Tom 在他的床上睡觉。",
-     "audio": "media/sent/34753aafc5db.mp3"
+     "audio": "media/sent/34753aafc5db.mp3?v=7fe86b55"
     },
     {
      "en": "Max sleeps on the sofa.",
      "zh": "Max 睡在沙发上。",
-     "audio": "media/sent/52778db18fb1.mp3"
+     "audio": "media/sent/52778db18fb1.mp3?v=6df51d49"
     },
     {
      "en": "It is time to sleep.",
      "zh": "该睡觉了。",
-     "audio": "media/sent/f60e54936b7d.mp3"
+     "audio": "media/sent/f60e54936b7d.mp3?v=407c2dd3"
     }
    ],
    "media": {
-    "img": "media/img/sleep.webp",
-    "uk": "media/uk/sleep.mp3",
-    "us": "media/us/sleep.mp3"
+    "img": "media/img/sleep.webp?v=cdc0daf3",
+    "uk": "media/uk/sleep.mp3?v=8a58e3ab",
+    "us": "media/us/sleep.mp3?v=6a65fdde"
    },
    "spell": true,
    "avoid": []
@@ -2474,23 +2474,23 @@
     {
      "en": "The sun wakes me up.",
      "zh": "太阳把我叫醒了。",
-     "audio": "media/sent/1f8c89fce39f.mp3"
+     "audio": "media/sent/1f8c89fce39f.mp3?v=bc116950"
     },
     {
      "en": "Don't wake Tom!",
      "zh": "别吵醒 Tom！",
-     "audio": "media/sent/f79446088bd8.mp3"
+     "audio": "media/sent/f79446088bd8.mp3?v=dea934fd"
     },
     {
      "en": "I wake up at seven.",
      "zh": "我七点醒来。",
-     "audio": "media/sent/419d8dcced59.mp3"
+     "audio": "media/sent/419d8dcced59.mp3?v=35dda8a0"
     }
    ],
    "media": {
-    "img": "media/img/wake.webp",
-    "uk": "media/uk/wake.mp3",
-    "us": "media/us/wake.mp3"
+    "img": "media/img/wake.webp?v=1526e47a",
+    "uk": "media/uk/wake.mp3?v=1110d4d3",
+    "us": "media/us/wake.mp3?v=b8f4ec0c"
    },
    "spell": true,
    "avoid": [
@@ -2526,23 +2526,23 @@
     {
      "en": "Lily wakes up early.",
      "zh": "Lily 起得很早。",
-     "audio": "media/sent/dbc24012f694.mp3"
+     "audio": "media/sent/dbc24012f694.mp3?v=031b9e6f"
     },
     {
      "en": "I wake up at eight o'clock.",
      "zh": "我八点钟起床。",
-     "audio": "media/sent/d9593323e2f6.mp3"
+     "audio": "media/sent/d9593323e2f6.mp3?v=4763d8e6"
     },
     {
      "en": "Tom doesn't want to wake up.",
      "zh": "Tom 不想起床。",
-     "audio": "media/sent/b2cc7c1a11e4.mp3"
+     "audio": "media/sent/b2cc7c1a11e4.mp3?v=c4e53268"
     }
    ],
    "media": {
-    "img": "media/img/wake-up.webp",
-    "uk": "media/word/wake-up.mp3",
-    "us": "media/word/wake-up.mp3"
+    "img": "media/img/wake-up.webp?v=bf92223c",
+    "uk": "media/word/wake-up.mp3?v=48664d69",
+    "us": "media/word/wake-up.mp3?v=48664d69"
    },
    "hook": {
     "kind": "split",
@@ -2580,23 +2580,23 @@
     {
      "en": "Let's meet at the park.",
      "zh": "我们在公园见吧。",
-     "audio": "media/sent/e80fb40695cb.mp3"
+     "audio": "media/sent/e80fb40695cb.mp3?v=a6771ebe"
     },
     {
      "en": "I meet my friend Sam.",
      "zh": "我遇见我的朋友 Sam。",
-     "audio": "media/sent/6e31c48a6467.mp3"
+     "audio": "media/sent/6e31c48a6467.mp3?v=a42b0f88"
     },
     {
      "en": "Nice to meet you!",
      "zh": "很高兴见到你！",
-     "audio": "media/sent/a063367990c2.mp3"
+     "audio": "media/sent/a063367990c2.mp3?v=573f76e8"
     }
    ],
    "media": {
-    "img": "media/img/meet.webp",
-    "uk": "media/uk/meet.mp3",
-    "us": "media/us/meet.mp3"
+    "img": "media/img/meet.webp?v=7724c57a",
+    "uk": "media/uk/meet.mp3?v=9b42151a",
+    "us": "media/us/meet.mp3?v=624dd0c3"
    },
    "spell": true,
    "avoid": []
@@ -2629,23 +2629,23 @@
     {
      "en": "The music sounds good.",
      "zh": "音乐听起来很好。",
-     "audio": "media/sent/3105de0a466d.mp3"
+     "audio": "media/sent/3105de0a466d.mp3?v=3b82c9a3"
     },
     {
      "en": "It sounds like rain.",
      "zh": "听起来像下雨了。",
-     "audio": "media/sent/8a7bbae99fef.mp3"
+     "audio": "media/sent/8a7bbae99fef.mp3?v=e401f20f"
     },
     {
      "en": "What is that sound?",
      "zh": "那是什么声音？",
-     "audio": "media/sent/a1019a6ef6cd.mp3"
+     "audio": "media/sent/a1019a6ef6cd.mp3?v=bd36a206"
     }
    ],
    "media": {
-    "img": "media/img/sound.webp",
-    "uk": "media/uk/sound.mp3",
-    "us": "media/us/sound.mp3"
+    "img": "media/img/sound.webp?v=968866d0",
+    "uk": "media/uk/sound.mp3?v=9719d6df",
+    "us": "media/us/sound.mp3?v=6665c1e7"
    },
    "spell": true,
    "avoid": [
@@ -2682,23 +2682,23 @@
     {
      "en": "Put on your coat.",
      "zh": "穿上你的外套。",
-     "audio": "media/sent/9859ad04f8e5.mp3"
+     "audio": "media/sent/9859ad04f8e5.mp3?v=84542527"
     },
     {
      "en": "Lily puts on her shoes.",
      "zh": "Lily 穿上她的鞋子。",
-     "audio": "media/sent/fca1b144197a.mp3"
+     "audio": "media/sent/fca1b144197a.mp3?v=dad3c460"
     },
     {
      "en": "Please put on your hat.",
      "zh": "请戴上你的帽子。",
-     "audio": "media/sent/8b29563284e9.mp3"
+     "audio": "media/sent/8b29563284e9.mp3?v=fe1e74c7"
     }
    ],
    "media": {
-    "img": "media/img/put-on.webp",
-    "uk": "media/word/put-on.mp3",
-    "us": "media/word/put-on.mp3"
+    "img": "media/img/put-on.webp?v=5acc60e1",
+    "uk": "media/word/put-on.mp3?v=2f442558",
+    "us": "media/word/put-on.mp3?v=2f442558"
    },
    "hook": {
     "kind": "split",
@@ -2735,23 +2735,23 @@
     {
      "en": "Turn off the light.",
      "zh": "关灯。",
-     "audio": "media/sent/6deca91cebdc.mp3"
+     "audio": "media/sent/6deca91cebdc.mp3?v=3527eaa5"
     },
     {
      "en": "Please turn off the radio.",
      "zh": "请关掉收音机。",
-     "audio": "media/sent/7159a61182b4.mp3"
+     "audio": "media/sent/7159a61182b4.mp3?v=6dd1ada2"
     },
     {
      "en": "Dad turns off the fan.",
      "zh": "爸爸关掉风扇。",
-     "audio": "media/sent/74dade330d29.mp3"
+     "audio": "media/sent/74dade330d29.mp3?v=03af9b34"
     }
    ],
    "media": {
-    "img": "media/img/turn-off.webp",
-    "uk": "media/word/turn-off.mp3",
-    "us": "media/word/turn-off.mp3"
+    "img": "media/img/turn-off.webp?v=904e6c4f",
+    "uk": "media/word/turn-off.mp3?v=26a6d461",
+    "us": "media/word/turn-off.mp3?v=26a6d461"
    },
    "hook": {
     "kind": "split",
@@ -2790,23 +2790,23 @@
     {
      "en": "Turn on the lamp.",
      "zh": "开灯。",
-     "audio": "media/sent/86547e066be6.mp3"
+     "audio": "media/sent/86547e066be6.mp3?v=a810be4c"
     },
     {
      "en": "Please turn on the radio.",
      "zh": "请打开收音机。",
-     "audio": "media/sent/705e86537236.mp3"
+     "audio": "media/sent/705e86537236.mp3?v=645929ae"
     },
     {
      "en": "Mum turns on the oven.",
      "zh": "妈妈打开烤箱。",
-     "audio": "media/sent/4066dc696830.mp3"
+     "audio": "media/sent/4066dc696830.mp3?v=29f1257a"
     }
    ],
    "media": {
-    "img": "media/img/turn-on.webp",
-    "uk": "media/word/turn-on.mp3",
-    "us": "media/word/turn-on.mp3"
+    "img": "media/img/turn-on.webp?v=74fdf6a4",
+    "uk": "media/word/turn-on.mp3?v=73e0e000",
+    "us": "media/word/turn-on.mp3?v=73e0e000"
    },
    "hook": {
     "kind": "split",
@@ -2844,23 +2844,23 @@
     {
      "en": "Lily writes a letter.",
      "zh": "Lily 写一封信。",
-     "audio": "media/sent/1653732c481b.mp3"
+     "audio": "media/sent/1653732c481b.mp3?v=c11a3947"
     },
     {
      "en": "Can you write your name?",
      "zh": "你会写你的名字吗？",
-     "audio": "media/sent/0dd78a5f5579.mp3"
+     "audio": "media/sent/0dd78a5f5579.mp3?v=b00e4016"
     },
     {
      "en": "I write in my diary.",
      "zh": "我在日记里写东西。",
-     "audio": "media/sent/7b9e6b66e66e.mp3"
+     "audio": "media/sent/7b9e6b66e66e.mp3?v=2a8439f8"
     }
    ],
    "media": {
-    "img": "media/img/write.webp",
-    "uk": "media/uk/write.mp3",
-    "us": "media/us/write.mp3"
+    "img": "media/img/write.webp?v=bc2fbb52",
+    "uk": "media/uk/write.mp3?v=60544e67",
+    "us": "media/us/write.mp3?v=78b48c33"
    },
    "spell": true,
    "avoid": [
@@ -2897,23 +2897,23 @@
     {
      "en": "Write down the word.",
      "zh": "把这个词写下来。",
-     "audio": "media/sent/d769a3fb0d04.mp3"
+     "audio": "media/sent/d769a3fb0d04.mp3?v=d445c734"
     },
     {
      "en": "Please write down your address.",
      "zh": "请写下你的地址。",
-     "audio": "media/sent/4fc617406826.mp3"
+     "audio": "media/sent/4fc617406826.mp3?v=42266fb3"
     },
     {
      "en": "I need to write this down.",
      "zh": "我需要把这个写下来。",
-     "audio": "media/sent/b398b93f685f.mp3"
+     "audio": "media/sent/b398b93f685f.mp3?v=f5c4c37e"
     }
    ],
    "media": {
-    "img": "media/img/write-down.webp",
-    "uk": "media/word/write-down.mp3",
-    "us": "media/word/write-down.mp3"
+    "img": "media/img/write-down.webp?v=3bec8ef9",
+    "uk": "media/word/write-down.mp3?v=2bb9ea52",
+    "us": "media/word/write-down.mp3?v=2bb9ea52"
    },
    "hook": {
     "kind": "split",
@@ -2955,23 +2955,23 @@
     {
      "en": "What is your favourite colour?",
      "zh": "你最喜欢的颜色是什么？",
-     "audio": "media/sent/9f73d9bd0bac.mp3"
+     "audio": "media/sent/9f73d9bd0bac.mp3?v=a31ae27e"
     },
     {
      "en": "Mix blue and yellow to get a new colour.",
      "zh": "把蓝色和黄色混在一起，就得到一种新颜色。",
-     "audio": "media/sent/4ad1240f5139.mp3"
+     "audio": "media/sent/4ad1240f5139.mp3?v=ece88550"
     },
     {
      "en": "Colour the flower red.",
      "zh": "把花涂成红色。",
-     "audio": "media/sent/eb5cbeb57b3a.mp3"
+     "audio": "media/sent/eb5cbeb57b3a.mp3?v=fa7819c4"
     }
    ],
    "media": {
-    "img": "media/img/colour.webp",
-    "uk": "media/uk/colour.mp3",
-    "us": "media/us/colour.mp3"
+    "img": "media/img/colour.webp?v=a75649c3",
+    "uk": "media/uk/colour.mp3?v=1a96f4e6",
+    "us": "media/us/colour.mp3?v=55b1a3c3"
    },
    "spell": true,
    "avoid": []
@@ -3004,23 +3004,23 @@
     {
      "en": "Tom cries when he is sad.",
      "zh": "Tom 伤心时就会哭。",
-     "audio": "media/sent/2e25fe0cb23b.mp3"
+     "audio": "media/sent/2e25fe0cb23b.mp3?v=5f2c4ec1"
     },
     {
      "en": "Don't cry, it's OK.",
      "zh": "别哭，没事的。",
-     "audio": "media/sent/661e40708759.mp3"
+     "audio": "media/sent/661e40708759.mp3?v=4066cf24"
     },
     {
      "en": "The baby starts to cry.",
      "zh": "婴儿开始哭了。",
-     "audio": "media/sent/582a94925ba7.mp3"
+     "audio": "media/sent/582a94925ba7.mp3?v=3c900dec"
     }
    ],
    "media": {
-    "img": "media/img/cry.webp",
-    "uk": "media/uk/cry.mp3",
-    "us": "media/us/cry.mp3"
+    "img": "media/img/cry.webp?v=cc653e93",
+    "uk": "media/uk/cry.mp3?v=4ad0aaaf",
+    "us": "media/us/cry.mp3?v=2d221496"
    },
    "spell": true,
    "avoid": [
@@ -3059,23 +3059,23 @@
     {
      "en": "We do an experiment.",
      "zh": "我们做一个实验。",
-     "audio": "media/sent/e11501f6f3d5.mp3"
+     "audio": "media/sent/e11501f6f3d5.mp3?v=8febfdda"
     },
     {
      "en": "The experiment is fun.",
      "zh": "这个实验很有趣。",
-     "audio": "media/sent/ad2665d7e25c.mp3"
+     "audio": "media/sent/ad2665d7e25c.mp3?v=0592c82d"
     },
     {
      "en": "Let's try this experiment.",
      "zh": "让我们试试这个实验。",
-     "audio": "media/sent/90c9aa4568e7.mp3"
+     "audio": "media/sent/90c9aa4568e7.mp3?v=0846ebf1"
     }
    ],
    "media": {
-    "img": "media/img/experiment.webp",
-    "uk": "media/uk/experiment.mp3",
-    "us": "media/us/experiment.mp3"
+    "img": "media/img/experiment.webp?v=8da13352",
+    "uk": "media/uk/experiment.mp3?v=ee89ec10",
+    "us": "media/us/experiment.mp3?v=ebdc0943"
    },
    "avoid": []
   },
@@ -3107,23 +3107,23 @@
     {
      "en": "Point at the door.",
      "zh": "指着门。",
-     "audio": "media/sent/84ca645096fd.mp3"
+     "audio": "media/sent/84ca645096fd.mp3?v=2711e3a4"
     },
     {
      "en": "Don't point at people.",
      "zh": "不要指着别人。",
-     "audio": "media/sent/0880af8ad80b.mp3"
+     "audio": "media/sent/0880af8ad80b.mp3?v=4f7b8628"
     },
     {
      "en": "Lily points to the map.",
      "zh": "Lily 指着地图。",
-     "audio": "media/sent/b915776b3ad2.mp3"
+     "audio": "media/sent/b915776b3ad2.mp3?v=2e2814b3"
     }
    ],
    "media": {
-    "img": "media/img/point.webp",
-    "uk": "media/uk/point.mp3",
-    "us": "media/us/point.mp3"
+    "img": "media/img/point.webp?v=ebe2ba4c",
+    "uk": "media/uk/point.mp3?v=7846682a",
+    "us": "media/us/point.mp3?v=0ff4276c"
    },
    "avoid": []
   }

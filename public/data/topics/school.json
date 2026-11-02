@@ -30,23 +30,23 @@
     {
      "en": "Sam is in the advanced class.",
      "zh": "Sam 在高级班。",
-     "audio": "media/sent/3e45f23e1ee8.mp3"
+     "audio": "media/sent/3e45f23e1ee8.mp3?v=81d9c742"
     },
     {
      "en": "This book is too advanced for Tom.",
      "zh": "这本书对 Tom 来说太难了。",
-     "audio": "media/sent/a8522ce3a0b0.mp3"
+     "audio": "media/sent/a8522ce3a0b0.mp3?v=a32dd4af"
     },
     {
      "en": "Lily wants to join the advanced class.",
      "zh": "Lily 想进高级班。",
-     "audio": "media/sent/4fd3f530c44c.mp3"
+     "audio": "media/sent/4fd3f530c44c.mp3?v=35b5ea64"
     }
    ],
    "media": {
-    "img": "media/img/advanced.webp",
-    "uk": "media/uk/advanced.mp3",
-    "us": "media/us/advanced.mp3"
+    "img": "media/img/advanced.webp?v=79d45187",
+    "uk": "media/uk/advanced.mp3?v=f6319554",
+    "us": "media/us/advanced.mp3?v=c7fa9011"
    },
    "hook": {
     "kind": "contrast",
@@ -87,23 +87,23 @@
     {
      "en": "Tom is a beginner at swimming.",
      "zh": "Tom 是游泳初学者。",
-     "audio": "media/sent/e588459abcbf.mp3"
+     "audio": "media/sent/e588459abcbf.mp3?v=3f9af35a"
     },
     {
      "en": "This class is for beginners.",
      "zh": "这个班是给初学者的。",
-     "audio": "media/sent/414275478e37.mp3"
+     "audio": "media/sent/414275478e37.mp3?v=b19101ee"
     },
     {
      "en": "I'm a beginner at the piano.",
      "zh": "我是钢琴初学者。",
-     "audio": "media/sent/37beba042e06.mp3"
+     "audio": "media/sent/37beba042e06.mp3?v=fcdf2b79"
     }
    ],
    "media": {
-    "img": "media/img/beginner.webp",
-    "uk": "media/uk/beginner.mp3",
-    "us": "media/us/beginner.mp3"
+    "img": "media/img/beginner.webp?v=b343c9a8",
+    "uk": "media/uk/beginner.mp3?v=1bb917b1",
+    "us": "media/us/beginner.mp3?v=1919b1f6"
    },
    "spell": true,
    "hook": {
@@ -149,23 +149,23 @@
     {
      "en": "We learn about animals in biology.",
      "zh": "我们在生物课上学习动物。",
-     "audio": "media/sent/4bbd0637f591.mp3"
+     "audio": "media/sent/4bbd0637f591.mp3?v=12d424b0"
     },
     {
      "en": "Biology is Lily's favourite subject.",
      "zh": "生物是 Lily 最喜欢的科目。",
-     "audio": "media/sent/4a1774af35a4.mp3"
+     "audio": "media/sent/4a1774af35a4.mp3?v=d808820f"
     },
     {
      "en": "We have biology on Monday.",
      "zh": "我们星期一有生物课。",
-     "audio": "media/sent/f2ba29b848a5.mp3"
+     "audio": "media/sent/f2ba29b848a5.mp3?v=609e19db"
     }
    ],
    "media": {
-    "img": "media/img/biology.webp",
-    "uk": "media/uk/biology.mp3",
-    "us": "media/us/biology.mp3"
+    "img": "media/img/biology.webp?v=8fa652ad",
+    "uk": "media/uk/biology.mp3?v=3a1bf2ef",
+    "us": "media/us/biology.mp3?v=4485c7d5"
    },
    "hook": {
     "kind": "story",
@@ -210,23 +210,23 @@
     {
      "en": "The teacher writes on the blackboard.",
      "zh": "老师在黑板上写字。",
-     "audio": "media/sent/f10b5f755cb9.mp3"
+     "audio": "media/sent/f10b5f755cb9.mp3?v=299754a6"
     },
     {
      "en": "Look at the blackboard, please.",
      "zh": "请看黑板。",
-     "audio": "media/sent/c63fec4e9c1b.mp3"
+     "audio": "media/sent/c63fec4e9c1b.mp3?v=637be2e1"
     },
     {
      "en": "Tom cleans the blackboard after class.",
      "zh": "Tom 下课后擦黑板。",
-     "audio": "media/sent/908449323bc8.mp3"
+     "audio": "media/sent/908449323bc8.mp3?v=f6460b30"
     }
    ],
    "media": {
-    "img": "media/img/blackboard.webp",
-    "uk": "media/uk/blackboard.mp3",
-    "us": "media/us/blackboard.mp3"
+    "img": "media/img/blackboard.webp?v=17d6ecab",
+    "uk": "media/uk/blackboard.mp3?v=92648f9b",
+    "us": "media/us/blackboard.mp3?v=703352df"
    },
    "spell": true,
    "hook": {
@@ -265,23 +265,23 @@
     {
      "en": "Write your name on the board.",
      "zh": "在板上写下你的名字。",
-     "audio": "media/sent/7bca2d57ad1d.mp3"
+     "audio": "media/sent/7bca2d57ad1d.mp3?v=0dad4712"
     },
     {
      "en": "The teacher draws a map on the board.",
      "zh": "老师在板上画了一张地图。",
-     "audio": "media/sent/e5987efe7e73.mp3"
+     "audio": "media/sent/e5987efe7e73.mp3?v=5d689f34"
     },
     {
      "en": "Can you see the board?",
      "zh": "你能看见黑板吗？",
-     "audio": "media/sent/2d9de3c77955.mp3"
+     "audio": "media/sent/2d9de3c77955.mp3?v=1fad712b"
     }
    ],
    "media": {
-    "img": "media/img/board.webp",
-    "uk": "media/uk/board.mp3",
-    "us": "media/us/board.mp3"
+    "img": "media/img/board.webp?v=24a7622b",
+    "uk": "media/uk/board.mp3?v=f98e29b1",
+    "us": "media/us/board.mp3?v=16e7f3dc"
    },
    "hook": {
     "kind": "story",
@@ -327,23 +327,23 @@
     {
      "en": "Lily reads a book every week.",
      "zh": "Lily 每周读一本书。",
-     "audio": "media/sent/b0d742681601.mp3"
+     "audio": "media/sent/b0d742681601.mp3?v=202c1247"
     },
     {
      "en": "This book is about dinosaurs.",
      "zh": "这本书是讲恐龙的。",
-     "audio": "media/sent/23602b1b0a65.mp3"
+     "audio": "media/sent/23602b1b0a65.mp3?v=36ae0d85"
     },
     {
      "en": "Can I borrow your book?",
      "zh": "我能借你的书吗？",
-     "audio": "media/sent/94b3da73b032.mp3"
+     "audio": "media/sent/94b3da73b032.mp3?v=9342a4f3"
     }
    ],
    "media": {
-    "img": "media/img/book.webp",
-    "uk": "media/uk/book.mp3",
-    "us": "media/us/book.mp3"
+    "img": "media/img/book.webp?v=0c5def79",
+    "uk": "media/uk/book.mp3?v=7f677cf9",
+    "us": "media/us/book.mp3?v=3e6f61e6"
    },
    "spell": true,
    "avoid": [
@@ -388,23 +388,23 @@
     {
      "en": "Dad books a table at the cafe.",
      "zh": "爸爸在咖啡馆订了一张桌子。",
-     "audio": "media/sent/437f86ac43dd.mp3"
+     "audio": "media/sent/437f86ac43dd.mp3?v=be03d622"
     },
     {
      "en": "Let's book a room by the sea.",
      "zh": "我们订一间海边的房间吧。",
-     "audio": "media/sent/ed519d49a784.mp3"
+     "audio": "media/sent/ed519d49a784.mp3?v=37ab0792"
     },
     {
      "en": "You need to book the tickets early.",
      "zh": "你得早点订票。",
-     "audio": "media/sent/2bbc6a9f7143.mp3"
+     "audio": "media/sent/2bbc6a9f7143.mp3?v=ec7cee28"
     }
    ],
    "media": {
-    "img": "media/img/book.2.webp",
-    "uk": "media/uk/book.mp3",
-    "us": "media/us/book.mp3"
+    "img": "media/img/book.2.webp?v=451bdb93",
+    "uk": "media/uk/book.mp3?v=7f677cf9",
+    "us": "media/us/book.mp3?v=3e6f61e6"
    },
    "of": "book",
    "ofZh": "书",
@@ -444,23 +444,23 @@
     {
      "en": "Put the books on the bookshelf.",
      "zh": "把书放到书架上。",
-     "audio": "media/sent/f8a6810c3536.mp3"
+     "audio": "media/sent/f8a6810c3536.mp3?v=0638aa30"
     },
     {
      "en": "My bookshelf is full.",
      "zh": "我的书架满了。",
-     "audio": "media/sent/8cfc01b3c6de.mp3"
+     "audio": "media/sent/8cfc01b3c6de.mp3?v=1e943a5a"
     },
     {
      "en": "There is a big bookshelf in the classroom.",
      "zh": "教室里有一个大书架。",
-     "audio": "media/sent/3ffd7ad8b781.mp3"
+     "audio": "media/sent/3ffd7ad8b781.mp3?v=380418d1"
     }
    ],
    "media": {
-    "img": "media/img/bookshelf.webp",
-    "uk": "media/uk/bookshelf.mp3",
-    "us": "media/us/bookshelf.mp3"
+    "img": "media/img/bookshelf.webp?v=ff898ca8",
+    "uk": "media/uk/bookshelf.mp3?v=e3ca083f",
+    "us": "media/us/bookshelf.mp3?v=36baf680"
    },
    "hook": {
     "kind": "split",
@@ -503,23 +503,23 @@
     {
      "en": "We do experiments in chemistry.",
      "zh": "我们在化学课上做实验。",
-     "audio": "media/sent/8fd27ad205de.mp3"
+     "audio": "media/sent/8fd27ad205de.mp3?v=eaf0290f"
     },
     {
      "en": "My sister studies chemistry.",
      "zh": "我姐姐学化学。",
-     "audio": "media/sent/ee8ef7852f6d.mp3"
+     "audio": "media/sent/ee8ef7852f6d.mp3?v=295db4f9"
     },
     {
      "en": "Chemistry is difficult but fun.",
      "zh": "化学很难但很有趣。",
-     "audio": "media/sent/e932e7d9604f.mp3"
+     "audio": "media/sent/e932e7d9604f.mp3?v=a5aef429"
     }
    ],
    "media": {
-    "img": "media/img/chemistry.webp",
-    "uk": "media/uk/chemistry.mp3",
-    "us": "media/us/chemistry.mp3"
+    "img": "media/img/chemistry.webp?v=b4747cca",
+    "uk": "media/uk/chemistry.mp3?v=64b11f65",
+    "us": "media/us/chemistry.mp3?v=8017f38b"
    },
    "hook": {
     "kind": "story",
@@ -563,23 +563,23 @@
     {
      "en": "There are twenty children in my class.",
      "zh": "我们班有二十个孩子。",
-     "audio": "media/sent/e85d6c92013b.mp3"
+     "audio": "media/sent/e85d6c92013b.mp3?v=d3384c86"
     },
     {
      "en": "Our English class starts at nine.",
      "zh": "我们的英语课九点开始。",
-     "audio": "media/sent/079912b36528.mp3"
+     "audio": "media/sent/079912b36528.mp3?v=4222a4c6"
     },
     {
      "en": "Lily is the tallest in her class.",
      "zh": "Lily 是班上最高的。",
-     "audio": "media/sent/80f66effda3b.mp3"
+     "audio": "media/sent/80f66effda3b.mp3?v=d85a6fec"
     }
    ],
    "media": {
-    "img": "media/img/class.webp",
-    "uk": "media/uk/class.mp3",
-    "us": "media/us/class.mp3"
+    "img": "media/img/class.webp?v=9386f3ba",
+    "uk": "media/uk/class.mp3?v=edcf6b1a",
+    "us": "media/us/class.mp3?v=f4112ff9"
    },
    "spell": true,
    "avoid": [
@@ -618,23 +618,23 @@
     {
      "en": "Mia is Lily's classmate.",
      "zh": "Mia 是 Lily 的同学。",
-     "audio": "media/sent/50f3852fce39.mp3"
+     "audio": "media/sent/50f3852fce39.mp3?v=119b43eb"
     },
     {
      "en": "My classmates are very friendly.",
      "zh": "我的同学都很友好。",
-     "audio": "media/sent/bb95b40c88ef.mp3"
+     "audio": "media/sent/bb95b40c88ef.mp3?v=d2600e55"
     },
     {
      "en": "Tom plays with his classmates at break.",
      "zh": "Tom 课间和同学一起玩。",
-     "audio": "media/sent/23a783cf8ac6.mp3"
+     "audio": "media/sent/23a783cf8ac6.mp3?v=ea33ad33"
     }
    ],
    "media": {
-    "img": "media/img/classmate.webp",
-    "uk": "media/uk/classmate.mp3",
-    "us": "media/us/classmate.mp3"
+    "img": "media/img/classmate.webp?v=1be5ebd5",
+    "uk": "media/uk/classmate.mp3?v=a8fe628f",
+    "us": "media/us/classmate.mp3?v=699d3f40"
    },
    "hook": {
     "kind": "split",
@@ -679,23 +679,23 @@
     {
      "en": "Our classroom is on the first floor.",
      "zh": "我们的教室在二楼。",
-     "audio": "media/sent/750097289854.mp3"
+     "audio": "media/sent/750097289854.mp3?v=952c8dfe"
     },
     {
      "en": "Please be quiet in the classroom.",
      "zh": "在教室里请安静。",
-     "audio": "media/sent/3a1cbc99373c.mp3"
+     "audio": "media/sent/3a1cbc99373c.mp3?v=b2e67baf"
     },
     {
      "en": "The classroom has big windows.",
      "zh": "教室有很大的窗户。",
-     "audio": "media/sent/8d4e13e7c3f1.mp3"
+     "audio": "media/sent/8d4e13e7c3f1.mp3?v=501e5d28"
     }
    ],
    "media": {
-    "img": "media/img/classroom.webp",
-    "uk": "media/uk/classroom.mp3",
-    "us": "media/us/classroom.mp3"
+    "img": "media/img/classroom.webp?v=e5b9acf9",
+    "uk": "media/uk/classroom.mp3?v=2afddfaa",
+    "us": "media/us/classroom.mp3?v=55165eb8"
    },
    "spell": true,
    "hook": {
@@ -738,23 +738,23 @@
     {
      "en": "Lily is a clever girl.",
      "zh": "Lily 是个聪明的女孩。",
-     "audio": "media/sent/d4da3424e69f.mp3"
+     "audio": "media/sent/d4da3424e69f.mp3?v=33773a20"
     },
     {
      "en": "What a clever dog!",
      "zh": "多聪明的狗啊！",
-     "audio": "media/sent/693fd106f268.mp3"
+     "audio": "media/sent/693fd106f268.mp3?v=3b43c773"
     },
     {
      "en": "Sam is clever at maths.",
      "zh": "Sam 数学很好。",
-     "audio": "media/sent/251915ff8e98.mp3"
+     "audio": "media/sent/251915ff8e98.mp3?v=4ca6d396"
     }
    ],
    "media": {
-    "img": "media/img/clever.webp",
-    "uk": "media/uk/clever.mp3",
-    "us": "media/us/clever.mp3"
+    "img": "media/img/clever.webp?v=1ef28183",
+    "uk": "media/uk/clever.mp3?v=54be8cd4",
+    "us": "media/us/clever.mp3?v=998aac66"
    },
    "avoid": []
   },
@@ -793,23 +793,23 @@
     {
      "en": "Our football coach is very kind.",
      "zh": "我们的足球教练人很好。",
-     "audio": "media/sent/0889c3590675.mp3"
+     "audio": "media/sent/0889c3590675.mp3?v=557af8ba"
     },
     {
      "en": "The coach helps us play better.",
      "zh": "教练帮我们踢得更好。",
-     "audio": "media/sent/9c06aee57038.mp3"
+     "audio": "media/sent/9c06aee57038.mp3?v=41e79ff8"
     },
     {
      "en": "We go to London by coach.",
      "zh": "我们坐长途大巴去伦敦。",
-     "audio": "media/sent/04434cf5baa5.mp3"
+     "audio": "media/sent/04434cf5baa5.mp3?v=313945cc"
     }
    ],
    "media": {
-    "img": "media/img/coach.webp",
-    "uk": "media/uk/coach.mp3",
-    "us": "media/us/coach.mp3"
+    "img": "media/img/coach.webp?v=d7428876",
+    "uk": "media/uk/coach.mp3?v=57585fb9",
+    "us": "media/us/coach.mp3?v=539d45ae"
    },
    "hook": {
     "kind": "contrast",
@@ -849,23 +849,23 @@
     {
      "en": "My cousin goes to college.",
      "zh": "我表姐在上大学。",
-     "audio": "media/sent/24636ed23729.mp3"
+     "audio": "media/sent/24636ed23729.mp3?v=87e59208"
     },
     {
      "en": "Aunt Kate teaches at a college.",
      "zh": "Kate 姑姑在一所学院教书。",
-     "audio": "media/sent/9288a5041f0d.mp3"
+     "audio": "media/sent/9288a5041f0d.mp3?v=4e3c8a66"
     },
     {
      "en": "After school, I want to go to college.",
      "zh": "中学毕业后我想上大学。",
-     "audio": "media/sent/70af24690a3d.mp3"
+     "audio": "media/sent/70af24690a3d.mp3?v=3a0e7d9a"
     }
    ],
    "media": {
-    "img": "media/img/college.webp",
-    "uk": "media/uk/college.mp3",
-    "us": "media/us/college.mp3"
+    "img": "media/img/college.webp?v=02ee8dbf",
+    "uk": "media/uk/college.mp3?v=d4e3b0fc",
+    "us": "media/us/college.mp3?v=2139d802"
    },
    "spell": true,
    "avoid": [
@@ -902,23 +902,23 @@
     {
      "en": "Mum is doing a cooking course.",
      "zh": "妈妈在上烹饪课程。",
-     "audio": "media/sent/d7ff7ca6de74.mp3"
+     "audio": "media/sent/d7ff7ca6de74.mp3?v=d1679d1a"
     },
     {
      "en": "The course is ten weeks long.",
      "zh": "这门课程有十周。",
-     "audio": "media/sent/9b4837116e47.mp3"
+     "audio": "media/sent/9b4837116e47.mp3?v=5d66657a"
     },
     {
      "en": "I want to do a swimming course.",
      "zh": "我想上游泳课。",
-     "audio": "media/sent/8919813d5bc5.mp3"
+     "audio": "media/sent/8919813d5bc5.mp3?v=9bda740d"
     }
    ],
    "media": {
-    "img": "media/img/course.webp",
-    "uk": "media/uk/course.mp3",
-    "us": "media/us/course.mp3"
+    "img": "media/img/course.webp?v=bdaa8339",
+    "uk": "media/uk/course.mp3?v=c141cabe",
+    "us": "media/us/course.mp3?v=d696973a"
    },
    "spell": true,
    "avoid": [
@@ -956,23 +956,23 @@
     {
      "en": "Lily's books are on her desk.",
      "zh": "Lily 的书在她的书桌上。",
-     "audio": "media/sent/cacbe033517d.mp3"
+     "audio": "media/sent/cacbe033517d.mp3?v=43211349"
     },
     {
      "en": "Sit at your desk, please.",
      "zh": "请坐到你的座位上。",
-     "audio": "media/sent/fef0be387ec1.mp3"
+     "audio": "media/sent/fef0be387ec1.mp3?v=4bb078d4"
     },
     {
      "en": "My desk is next to the window.",
      "zh": "我的课桌在窗边。",
-     "audio": "media/sent/7db598f91cc7.mp3"
+     "audio": "media/sent/7db598f91cc7.mp3?v=f131bddf"
     }
    ],
    "media": {
-    "img": "media/img/desk.webp",
-    "uk": "media/uk/desk.mp3",
-    "us": "media/us/desk.mp3"
+    "img": "media/img/desk.webp?v=4f02628f",
+    "uk": "media/uk/desk.mp3?v=01c7bcc7",
+    "us": "media/us/desk.mp3?v=8300305c"
    },
    "spell": true,
    "avoid": [
@@ -1012,23 +1012,23 @@
     {
      "en": "Look up the word in the dictionary.",
      "zh": "在词典里查这个词。",
-     "audio": "media/sent/b1e3614b0db2.mp3"
+     "audio": "media/sent/b1e3614b0db2.mp3?v=cb61d54a"
     },
     {
      "en": "I need a new English dictionary.",
      "zh": "我需要一本新的英语词典。",
-     "audio": "media/sent/4a804ab4dc7d.mp3"
+     "audio": "media/sent/4a804ab4dc7d.mp3?v=cd9c6c22"
     },
     {
      "en": "Can I use your dictionary?",
      "zh": "我能用一下你的词典吗？",
-     "audio": "media/sent/f2b7fd3f0655.mp3"
+     "audio": "media/sent/f2b7fd3f0655.mp3?v=056b9f3f"
     }
    ],
    "media": {
-    "img": "media/img/dictionary.webp",
-    "uk": "media/uk/dictionary.mp3",
-    "us": "media/us/dictionary.mp3"
+    "img": "media/img/dictionary.webp?v=77e3a8c8",
+    "uk": "media/uk/dictionary.mp3?v=2ba3079f",
+    "us": "media/us/dictionary.mp3?v=2af9e852"
    },
    "spell": true,
    "avoid": [
@@ -1068,23 +1068,23 @@
     {
      "en": "My sister gets her diploma today.",
      "zh": "我姐姐今天拿到毕业证书。",
-     "audio": "media/sent/d343729732ec.mp3"
+     "audio": "media/sent/d343729732ec.mp3?v=3c4366c5"
     },
     {
      "en": "Dad has a diploma in music.",
      "zh": "爸爸有音乐专业的文凭。",
-     "audio": "media/sent/c18a30768f2b.mp3"
+     "audio": "media/sent/c18a30768f2b.mp3?v=94475db5"
     },
     {
      "en": "You get a diploma after the course.",
      "zh": "课程结束后你会拿到证书。",
-     "audio": "media/sent/c885bf1ac529.mp3"
+     "audio": "media/sent/c885bf1ac529.mp3?v=e76071f0"
     }
    ],
    "media": {
-    "img": "media/img/diploma.webp",
-    "uk": "media/uk/diploma.mp3",
-    "us": "media/us/diploma.mp3"
+    "img": "media/img/diploma.webp?v=7ad51673",
+    "uk": "media/uk/diploma.mp3?v=d402af7c",
+    "us": "media/us/diploma.mp3?v=4d35cce2"
    },
    "avoid": [
     "college",
@@ -1121,23 +1121,23 @@
     {
      "en": "Can I borrow your eraser?",
      "zh": "我能借你的橡皮吗？",
-     "audio": "media/sent/01276ecafe62.mp3"
+     "audio": "media/sent/01276ecafe62.mp3?v=5d36ced7"
     },
     {
      "en": "My eraser is in my pencil case.",
      "zh": "我的橡皮在笔袋里。",
-     "audio": "media/sent/40f2f9d74183.mp3"
+     "audio": "media/sent/40f2f9d74183.mp3?v=4d5c5997"
     },
     {
      "en": "Use an eraser, not your finger.",
      "zh": "用橡皮擦，别用手指。",
-     "audio": "media/sent/7242b9f187c3.mp3"
+     "audio": "media/sent/7242b9f187c3.mp3?v=556885e9"
     }
    ],
    "media": {
-    "img": "media/img/eraser.webp",
-    "uk": "media/uk/eraser.mp3",
-    "us": "media/us/eraser.mp3"
+    "img": "media/img/eraser.webp?v=a5b28fa9",
+    "uk": "media/uk/eraser.mp3?v=56b5eb47",
+    "us": "media/us/eraser.mp3?v=d71a3be8"
    },
    "spell": true,
    "avoid": [
@@ -1178,23 +1178,23 @@
     {
      "en": "The examination is on Friday.",
      "zh": "考试在星期五。",
-     "audio": "media/sent/8ac4debe24f0.mp3"
+     "audio": "media/sent/8ac4debe24f0.mp3?v=c70253cb"
     },
     {
      "en": "Please be quiet during the examination.",
      "zh": "考试时请保持安静。",
-     "audio": "media/sent/253eb91c0bb6.mp3"
+     "audio": "media/sent/253eb91c0bb6.mp3?v=2497166f"
     },
     {
      "en": "Sam is ready for his examination.",
      "zh": "Sam 准备好考试了。",
-     "audio": "media/sent/35ec04c2674b.mp3"
+     "audio": "media/sent/35ec04c2674b.mp3?v=3b8b38bd"
     }
    ],
    "media": {
-    "img": "media/img/examination.webp",
-    "uk": "media/uk/examination.mp3",
-    "us": "media/us/examination.mp3"
+    "img": "media/img/examination.webp?v=b3ff4744",
+    "uk": "media/uk/examination.mp3?v=f44ffdd0",
+    "us": "media/us/examination.mp3?v=c4a616b7"
    },
    "hook": {
     "kind": "contrast",
@@ -1236,23 +1236,23 @@
     {
      "en": "We learn about countries in geography.",
      "zh": "我们在地理课上学习各个国家。",
-     "audio": "media/sent/ee174bd3614f.mp3"
+     "audio": "media/sent/ee174bd3614f.mp3?v=127f133e"
     },
     {
      "en": "Geography is my favourite subject.",
      "zh": "地理是我最喜欢的科目。",
-     "audio": "media/sent/daaaa4a21b14.mp3"
+     "audio": "media/sent/daaaa4a21b14.mp3?v=c71ea0eb"
     },
     {
      "en": "We have geography after lunch.",
      "zh": "我们午饭后有地理课。",
-     "audio": "media/sent/39578afca3c4.mp3"
+     "audio": "media/sent/39578afca3c4.mp3?v=72dbd6d3"
     }
    ],
    "media": {
-    "img": "media/img/geography.webp",
-    "uk": "media/uk/geography.mp3",
-    "us": "media/us/geography.mp3"
+    "img": "media/img/geography.webp?v=1ca76f71",
+    "uk": "media/uk/geography.mp3?v=d54be0a9",
+    "us": "media/us/geography.mp3?v=1b369ff7"
    },
    "spell": true,
    "avoid": [
@@ -1295,23 +1295,23 @@
     {
      "en": "We learn about kings and queens in history.",
      "zh": "我们在历史课上学习国王和王后。",
-     "audio": "media/sent/ee3e27163d87.mp3"
+     "audio": "media/sent/ee3e27163d87.mp3?v=f138f84c"
     },
     {
      "en": "History is very interesting.",
      "zh": "历史很有趣。",
-     "audio": "media/sent/d9d818d4c789.mp3"
+     "audio": "media/sent/d9d818d4c789.mp3?v=4020b56c"
     },
     {
      "en": "We visit a castle for our history class.",
      "zh": "我们为历史课去参观城堡。",
-     "audio": "media/sent/5afe3af89a70.mp3"
+     "audio": "media/sent/5afe3af89a70.mp3?v=1cbbf382"
     }
    ],
    "media": {
-    "img": "media/img/history.webp",
-    "uk": "media/uk/history.mp3",
-    "us": "media/us/history.mp3"
+    "img": "media/img/history.webp?v=d1ab4914",
+    "uk": "media/uk/history.mp3?v=4e6ad77f",
+    "us": "media/us/history.mp3?v=0768d547"
    },
    "spell": true,
    "hook": {
@@ -1357,23 +1357,23 @@
     {
      "en": "Lily does her homework after school.",
      "zh": "Lily 放学后做家庭作业。",
-     "audio": "media/sent/08d390c2db72.mp3"
+     "audio": "media/sent/08d390c2db72.mp3?v=ffb175f5"
     },
     {
      "en": "Have you got any homework today?",
      "zh": "你今天有作业吗？",
-     "audio": "media/sent/0e26f3b59490.mp3"
+     "audio": "media/sent/0e26f3b59490.mp3?v=3b66bbb1"
     },
     {
      "en": "Tom's homework is very easy.",
      "zh": "Tom 的作业很简单。",
-     "audio": "media/sent/44dff81400e4.mp3"
+     "audio": "media/sent/44dff81400e4.mp3?v=96d57aea"
     }
    ],
    "media": {
-    "img": "media/img/homework.webp",
-    "uk": "media/uk/homework.mp3",
-    "us": "media/us/homework.mp3"
+    "img": "media/img/homework.webp?v=524cba5d",
+    "uk": "media/uk/homework.mp3?v=0f01d26e",
+    "us": "media/us/homework.mp3?v=b38412bf"
    },
    "spell": true,
    "hook": {
@@ -1416,23 +1416,23 @@
     {
      "en": "You can find information in the library.",
      "zh": "你可以在图书馆找资料。",
-     "audio": "media/sent/d27a3ea910d2.mp3"
+     "audio": "media/sent/d27a3ea910d2.mp3?v=2c8e72ed"
     },
     {
      "en": "I need some information about the zoo.",
      "zh": "我需要一些关于动物园的信息。",
-     "audio": "media/sent/c877cf0abb7f.mp3"
+     "audio": "media/sent/c877cf0abb7f.mp3?v=ac7f3117"
     },
     {
      "en": "Ask at the information desk.",
      "zh": "去问讯处问问。",
-     "audio": "media/sent/f657d2213728.mp3"
+     "audio": "media/sent/f657d2213728.mp3?v=66c7f7e2"
     }
    ],
    "media": {
-    "img": "media/img/information.webp",
-    "uk": "media/uk/information.mp3",
-    "us": "media/us/information.mp3"
+    "img": "media/img/information.webp?v=8d5347ed",
+    "uk": "media/uk/information.mp3?v=0119b977",
+    "us": "media/us/information.mp3?v=5575477f"
    },
    "spell": true,
    "avoid": [
@@ -1469,23 +1469,23 @@
     {
      "en": "Read the instructions before you start.",
      "zh": "开始前先读说明。",
-     "audio": "media/sent/6987fcdfe547.mp3"
+     "audio": "media/sent/6987fcdfe547.mp3?v=d2436742"
     },
     {
      "en": "Listen to the teacher's instructions.",
      "zh": "听老师的指示。",
-     "audio": "media/sent/4594e973ae96.mp3"
+     "audio": "media/sent/4594e973ae96.mp3?v=c4021592"
     },
     {
      "en": "The instructions are very easy.",
      "zh": "说明很简单。",
-     "audio": "media/sent/faaa1a95907e.mp3"
+     "audio": "media/sent/faaa1a95907e.mp3?v=dd168541"
     }
    ],
    "media": {
-    "img": "media/img/instructions.webp",
-    "uk": "media/word/instructions.mp3",
-    "us": "media/word/instructions.mp3"
+    "img": "media/img/instructions.webp?v=d4f71db0",
+    "uk": "media/word/instructions.mp3?v=f7de4168",
+    "us": "media/word/instructions.mp3?v=f7de4168"
    },
    "hook": {
     "kind": "affix",
@@ -1523,23 +1523,23 @@
     {
      "en": "I know the answer!",
      "zh": "我知道答案！",
-     "audio": "media/sent/8d13c8fa82f0.mp3"
+     "audio": "media/sent/8d13c8fa82f0.mp3?v=7ce589ec"
     },
     {
      "en": "Do you know my brother?",
      "zh": "你认识我弟弟吗？",
-     "audio": "media/sent/dba862a4ef21.mp3"
+     "audio": "media/sent/dba862a4ef21.mp3?v=d076614c"
     },
     {
      "en": "I don't know where Max is.",
      "zh": "我不知道 Max 在哪儿。",
-     "audio": "media/sent/636ab977a6c2.mp3"
+     "audio": "media/sent/636ab977a6c2.mp3?v=f19526c3"
     }
    ],
    "media": {
-    "img": "media/img/know.webp",
-    "uk": "media/uk/know.mp3",
-    "us": "media/us/know.mp3"
+    "img": "media/img/know.webp?v=30649317",
+    "uk": "media/uk/know.mp3?v=85db800e",
+    "us": "media/us/know.mp3?v=56dbea77"
    },
    "spell": true,
    "avoid": [
@@ -1575,23 +1575,23 @@
     {
      "en": "English is a beautiful language.",
      "zh": "英语是一门优美的语言。",
-     "audio": "media/sent/1b1b823b1a14.mp3"
+     "audio": "media/sent/1b1b823b1a14.mp3?v=585e9829"
     },
     {
      "en": "How many languages can you speak?",
      "zh": "你会说几种语言？",
-     "audio": "media/sent/8c0c9d88a4c8.mp3"
+     "audio": "media/sent/8c0c9d88a4c8.mp3?v=42603440"
     },
     {
      "en": "Lily is learning a new language.",
      "zh": "Lily 在学一门新语言。",
-     "audio": "media/sent/eff909de260a.mp3"
+     "audio": "media/sent/eff909de260a.mp3?v=3a4841e7"
     }
    ],
    "media": {
-    "img": "media/img/language.webp",
-    "uk": "media/uk/language.mp3",
-    "us": "media/us/language.mp3"
+    "img": "media/img/language.webp?v=1c41c779",
+    "uk": "media/uk/language.mp3?v=a848d528",
+    "us": "media/us/language.mp3?v=cdb81b2e"
    },
    "spell": true,
    "hook": {
@@ -1628,23 +1628,23 @@
     {
      "en": "Tom is learning to swim.",
      "zh": "Tom 在学游泳。",
-     "audio": "media/sent/b069dedac611.mp3"
+     "audio": "media/sent/b069dedac611.mp3?v=327efb3a"
     },
     {
      "en": "We learn English at school.",
      "zh": "我们在学校学英语。",
-     "audio": "media/sent/1a44f94af9e5.mp3"
+     "audio": "media/sent/1a44f94af9e5.mp3?v=b4249ff0"
     },
     {
      "en": "I want to learn the piano.",
      "zh": "我想学钢琴。",
-     "audio": "media/sent/149d5258a318.mp3"
+     "audio": "media/sent/149d5258a318.mp3?v=743199fe"
     }
    ],
    "media": {
-    "img": "media/img/learn.webp",
-    "uk": "media/uk/learn.mp3",
-    "us": "media/us/learn.mp3"
+    "img": "media/img/learn.webp?v=a58483c7",
+    "uk": "media/uk/learn.mp3?v=b54c2a9d",
+    "us": "media/us/learn.mp3?v=401b927a"
    },
    "spell": true,
    "avoid": [
@@ -1682,23 +1682,23 @@
     {
      "en": "Our first lesson is maths.",
      "zh": "我们第一节课是数学。",
-     "audio": "media/sent/b033c122e848.mp3"
+     "audio": "media/sent/b033c122e848.mp3?v=ac4850ff"
     },
     {
      "en": "The lesson starts at nine o'clock.",
      "zh": "这节课九点开始。",
-     "audio": "media/sent/d4559cd52b0f.mp3"
+     "audio": "media/sent/d4559cd52b0f.mp3?v=c2a19712"
     },
     {
      "en": "Lily has a swimming lesson on Saturday.",
      "zh": "Lily 星期六有游泳课。",
-     "audio": "media/sent/37e9b56cc78b.mp3"
+     "audio": "media/sent/37e9b56cc78b.mp3?v=294a62c0"
     }
    ],
    "media": {
-    "img": "media/img/lesson.webp",
-    "uk": "media/uk/lesson.mp3",
-    "us": "media/us/lesson.mp3"
+    "img": "media/img/lesson.webp?v=9c121805",
+    "uk": "media/uk/lesson.mp3?v=beed3677",
+    "us": "media/us/lesson.mp3?v=2a0bf45e"
    },
    "spell": true,
    "avoid": [
@@ -1738,23 +1738,23 @@
     {
      "en": "This book is at the right level for me.",
      "zh": "这本书正好适合我的水平。",
-     "audio": "media/sent/c60b12fe46ae.mp3"
+     "audio": "media/sent/c60b12fe46ae.mp3?v=48766062"
     },
     {
      "en": "What level are you in English?",
      "zh": "你的英语是什么水平？",
-     "audio": "media/sent/bd18a6e12f4c.mp3"
+     "audio": "media/sent/bd18a6e12f4c.mp3?v=d0b58741"
     },
     {
      "en": "Tom is at the first level.",
      "zh": "Tom 在第一级。",
-     "audio": "media/sent/0be5842ab575.mp3"
+     "audio": "media/sent/0be5842ab575.mp3?v=b0ca16eb"
     }
    ],
    "media": {
-    "img": "media/img/level.webp",
-    "uk": "media/uk/level.mp3",
-    "us": "media/us/level.mp3"
+    "img": "media/img/level.webp?v=92b866df",
+    "uk": "media/uk/level.mp3?v=8b40e1fe",
+    "us": "media/us/level.mp3?v=d7ec1c11"
    },
    "hook": {
     "kind": "story",
@@ -1795,23 +1795,23 @@
     {
      "en": "Lily borrows books from the library.",
      "zh": "Lily 从图书馆借书。",
-     "audio": "media/sent/4d0394f1a0e9.mp3"
+     "audio": "media/sent/4d0394f1a0e9.mp3?v=c607ba87"
     },
     {
      "en": "The library is very quiet.",
      "zh": "图书馆很安静。",
-     "audio": "media/sent/919be2337723.mp3"
+     "audio": "media/sent/919be2337723.mp3?v=c7c2589e"
     },
     {
      "en": "Let's meet at the library.",
      "zh": "我们在图书馆见吧。",
-     "audio": "media/sent/e32131f55a8f.mp3"
+     "audio": "media/sent/e32131f55a8f.mp3?v=63644ca6"
     }
    ],
    "media": {
-    "img": "media/img/library.webp",
-    "uk": "media/uk/library.mp3",
-    "us": "media/us/library.mp3"
+    "img": "media/img/library.webp?v=7dd4e8f6",
+    "uk": "media/uk/library.mp3?v=e6c64a8f",
+    "us": "media/us/library.mp3?v=d3ee284d"
    },
    "spell": true,
    "avoid": [
@@ -1856,23 +1856,23 @@
     {
      "en": "Lily gets a good mark in the test.",
      "zh": "Lily 测验得了好分数。",
-     "audio": "media/sent/071713934456.mp3"
+     "audio": "media/sent/071713934456.mp3?v=d413348b"
     },
     {
      "en": "What mark did you get?",
      "zh": "你得了多少分？",
-     "audio": "media/sent/03f921f82dc9.mp3"
+     "audio": "media/sent/03f921f82dc9.mp3?v=bed15933"
     },
     {
      "en": "Tom gets full marks!",
      "zh": "Tom 得了满分！",
-     "audio": "media/sent/f0295381b88d.mp3"
+     "audio": "media/sent/f0295381b88d.mp3?v=3d82be4b"
     }
    ],
    "media": {
-    "img": "media/img/mark.webp",
-    "uk": "media/uk/mark.mp3",
-    "us": "media/us/mark.mp3"
+    "img": "media/img/mark.webp?v=2b0a3ff7",
+    "uk": "media/uk/mark.mp3?v=ddea1f59",
+    "us": "media/us/mark.mp3?v=f54901c7"
    },
    "hook": {
     "kind": "contrast",
@@ -1911,23 +1911,23 @@
     {
      "en": "Maths is Sam's favourite subject.",
      "zh": "数学是 Sam 最喜欢的科目。",
-     "audio": "media/sent/fa94328e6921.mp3"
+     "audio": "media/sent/fa94328e6921.mp3?v=e4ffabb6"
     },
     {
      "en": "We have maths every day.",
      "zh": "我们每天都有数学课。",
-     "audio": "media/sent/cdfaacdfdc22.mp3"
+     "audio": "media/sent/cdfaacdfdc22.mp3?v=88663a48"
     },
     {
      "en": "Is maths difficult for you?",
      "zh": "数学对你来说难吗？",
-     "audio": "media/sent/856a39c17a19.mp3"
+     "audio": "media/sent/856a39c17a19.mp3?v=2bbddad0"
     }
    ],
    "media": {
-    "img": "media/img/maths.webp",
-    "uk": "media/uk/maths.mp3",
-    "us": "media/us/maths.mp3"
+    "img": "media/img/maths.webp?v=aa136e20",
+    "uk": "media/uk/maths.mp3?v=efc33722",
+    "us": "media/us/maths.mp3?v=f73e46c5"
    },
    "spell": true,
    "avoid": [
@@ -1970,23 +1970,23 @@
     {
      "en": "Mum leaves a note on the fridge.",
      "zh": "妈妈在冰箱上留了一张便条。",
-     "audio": "media/sent/ae57e5196561.mp3"
+     "audio": "media/sent/ae57e5196561.mp3?v=552c9878"
     },
     {
      "en": "Take notes in the lesson.",
      "zh": "上课做笔记。",
-     "audio": "media/sent/a8c8896b373f.mp3"
+     "audio": "media/sent/a8c8896b373f.mp3?v=3c9d373f"
     },
     {
      "en": "Lily writes a note to Tom.",
      "zh": "Lily 给 Tom 写了张便条。",
-     "audio": "media/sent/3fee356f13aa.mp3"
+     "audio": "media/sent/3fee356f13aa.mp3?v=0fc8a0f8"
     }
    ],
    "media": {
-    "img": "media/img/note.webp",
-    "uk": "media/uk/note.mp3",
-    "us": "media/us/note.mp3"
+    "img": "media/img/note.webp?v=d7dfe38f",
+    "uk": "media/uk/note.mp3?v=4032aab9",
+    "us": "media/us/note.mp3?v=d9128c62"
    },
    "spell": true,
    "avoid": [
@@ -2023,23 +2023,23 @@
     {
      "en": "We learn about light and sound in physics.",
      "zh": "我们在物理课上学光和声音。",
-     "audio": "media/sent/a66c9934191c.mp3"
+     "audio": "media/sent/a66c9934191c.mp3?v=fb1d0d6f"
     },
     {
      "en": "My brother is good at physics.",
      "zh": "我哥哥物理很好。",
-     "audio": "media/sent/d97cb76610c4.mp3"
+     "audio": "media/sent/d97cb76610c4.mp3?v=99db11df"
     },
     {
      "en": "Physics is difficult but interesting.",
      "zh": "物理很难但很有趣。",
-     "audio": "media/sent/e302cacfd1b6.mp3"
+     "audio": "media/sent/e302cacfd1b6.mp3?v=eb0d5112"
     }
    ],
    "media": {
-    "img": "media/img/physics.webp",
-    "uk": "media/uk/physics.mp3",
-    "us": "media/us/physics.mp3"
+    "img": "media/img/physics.webp?v=087a6342",
+    "uk": "media/uk/physics.mp3?v=d3b0aa2f",
+    "us": "media/us/physics.mp3?v=1b333219"
    },
    "hook": {
     "kind": "contrast",
@@ -2084,23 +2084,23 @@
     {
      "en": "Football practice is on Tuesday.",
      "zh": "足球训练在星期二。",
-     "audio": "media/sent/1bb973dbb920.mp3"
+     "audio": "media/sent/1bb973dbb920.mp3?v=0f9bea9f"
     },
     {
      "en": "Piano practice is every day.",
      "zh": "钢琴每天都要练。",
-     "audio": "media/sent/93690ea5eeaa.mp3"
+     "audio": "media/sent/93690ea5eeaa.mp3?v=8d977ab8"
     },
     {
      "en": "You need more practice.",
      "zh": "你需要多练习。",
-     "audio": "media/sent/b0ba9fd0caf8.mp3"
+     "audio": "media/sent/b0ba9fd0caf8.mp3?v=dbadf113"
     }
    ],
    "media": {
-    "img": "media/img/practice.webp",
-    "uk": "media/uk/practice.mp3",
-    "us": "media/us/practice.mp3"
+    "img": "media/img/practice.webp?v=006cd5fe",
+    "uk": "media/uk/practice.mp3?v=0d775815",
+    "us": "media/us/practice.mp3?v=6892706c"
    },
    "hook": {
     "kind": "contrast",
@@ -2139,23 +2139,23 @@
     {
      "en": "Lily practises the piano every day.",
      "zh": "Lily 每天练钢琴。",
-     "audio": "media/sent/41eb468aae2f.mp3"
+     "audio": "media/sent/41eb468aae2f.mp3?v=1d9499fc"
     },
     {
      "en": "Practise your English with a friend.",
      "zh": "和朋友一起练英语。",
-     "audio": "media/sent/ffd5df69df27.mp3"
+     "audio": "media/sent/ffd5df69df27.mp3?v=3eb9fdd7"
     },
     {
      "en": "Tom practises football in the garden.",
      "zh": "Tom 在花园里练足球。",
-     "audio": "media/sent/d2b7fbd70e8e.mp3"
+     "audio": "media/sent/d2b7fbd70e8e.mp3?v=81987c6d"
     }
    ],
    "media": {
-    "img": "media/img/practise.webp",
-    "uk": "media/uk/practise.mp3",
-    "us": "media/us/practise.mp3"
+    "img": "media/img/practise.webp?v=2820371c",
+    "uk": "media/uk/practise.mp3?v=ff7cc0a8",
+    "us": "media/us/practise.mp3?v=df8b3018"
    },
    "spell": true,
    "hook": {
@@ -2195,23 +2195,23 @@
     {
      "en": "Our class is doing a project on animals.",
      "zh": "我们班在做关于动物的课题。",
-     "audio": "media/sent/69a767317c52.mp3"
+     "audio": "media/sent/69a767317c52.mp3?v=f3d81905"
     },
     {
      "en": "This is my science project.",
      "zh": "这是我的科学课题。",
-     "audio": "media/sent/c68d422716f3.mp3"
+     "audio": "media/sent/c68d422716f3.mp3?v=7751b738"
     },
     {
      "en": "We work on the project in groups.",
      "zh": "我们分组做这个项目。",
-     "audio": "media/sent/a36bb039e221.mp3"
+     "audio": "media/sent/a36bb039e221.mp3?v=3bb0f9ef"
     }
    ],
    "media": {
-    "img": "media/img/project.webp",
-    "uk": "media/uk/project.mp3",
-    "us": "media/us/project.mp3"
+    "img": "media/img/project.webp?v=86d084d6",
+    "uk": "media/uk/project.mp3?v=bf40ba11",
+    "us": "media/us/project.mp3?v=ba70b811"
    },
    "hook": {
     "kind": "contrast",
@@ -2251,23 +2251,23 @@
     {
      "en": "There are three hundred pupils in our school.",
      "zh": "我们学校有三百个学生。",
-     "audio": "media/sent/05329e3b060a.mp3"
+     "audio": "media/sent/05329e3b060a.mp3?v=d88f24ac"
     },
     {
      "en": "Lily is a good pupil.",
      "zh": "Lily 是个好学生。",
-     "audio": "media/sent/5bcaff2b519b.mp3"
+     "audio": "media/sent/5bcaff2b519b.mp3?v=6d72f0a3"
     },
     {
      "en": "The pupils are reading.",
      "zh": "学生们在读书。",
-     "audio": "media/sent/555c9b62300f.mp3"
+     "audio": "media/sent/555c9b62300f.mp3?v=6d6d5538"
     }
    ],
    "media": {
-    "img": "media/img/pupil.webp",
-    "uk": "media/uk/pupil.mp3",
-    "us": "media/us/pupil.mp3"
+    "img": "media/img/pupil.webp?v=5561df69",
+    "uk": "media/uk/pupil.mp3?v=31a6ee25",
+    "us": "media/us/pupil.mp3?v=ad903578"
    },
    "avoid": [
     "beginner",
@@ -2303,23 +2303,23 @@
     {
      "en": "Lily likes to read in bed.",
      "zh": "Lily 喜欢在床上看书。",
-     "audio": "media/sent/bb8f45dc2c7e.mp3"
+     "audio": "media/sent/bb8f45dc2c7e.mp3?v=b2096ef8"
     },
     {
      "en": "Can you read this word?",
      "zh": "你能读这个词吗？",
-     "audio": "media/sent/5f9e7d975145.mp3"
+     "audio": "media/sent/5f9e7d975145.mp3?v=f28987f3"
     },
     {
      "en": "Grandpa reads the newspaper.",
      "zh": "爷爷在看报纸。",
-     "audio": "media/sent/746e0274eab9.mp3"
+     "audio": "media/sent/746e0274eab9.mp3?v=2ab71d79"
     }
    ],
    "media": {
-    "img": "media/img/read.webp",
-    "uk": "media/uk/read.mp3",
-    "us": "media/us/read.mp3"
+    "img": "media/img/read.webp?v=b7bb9191",
+    "uk": "media/uk/read.mp3?v=c2033365",
+    "us": "media/us/read.mp3?v=4b85ff30"
    },
    "spell": true,
    "avoid": [
@@ -2358,23 +2358,23 @@
     {
      "en": "Remember to take your homework!",
      "zh": "记得带作业！",
-     "audio": "media/sent/2f23e5689da7.mp3"
+     "audio": "media/sent/2f23e5689da7.mp3?v=822d5642"
     },
     {
      "en": "I can't remember his name.",
      "zh": "我想不起他的名字了。",
-     "audio": "media/sent/dd745a02af6b.mp3"
+     "audio": "media/sent/dd745a02af6b.mp3?v=eaa0c23e"
     },
     {
      "en": "Do you remember our holiday?",
      "zh": "你还记得我们的假期吗？",
-     "audio": "media/sent/7954150be311.mp3"
+     "audio": "media/sent/7954150be311.mp3?v=29199b3a"
     }
    ],
    "media": {
-    "img": "media/img/remember.webp",
-    "uk": "media/uk/remember.mp3",
-    "us": "media/us/remember.mp3"
+    "img": "media/img/remember.webp?v=572c8625",
+    "uk": "media/uk/remember.mp3?v=ea6ed8f9",
+    "us": "media/us/remember.mp3?v=48cb408a"
    },
    "spell": true,
    "hook": {
@@ -2414,23 +2414,23 @@
     {
      "en": "Can I borrow your rubber, please?",
      "zh": "我能借你的橡皮吗？",
-     "audio": "media/sent/1fd406f28e45.mp3"
+     "audio": "media/sent/1fd406f28e45.mp3?v=3441d4db"
     },
     {
      "en": "My rubber is very small now.",
      "zh": "我的橡皮现在很小了。",
-     "audio": "media/sent/8ee0b58777f7.mp3"
+     "audio": "media/sent/8ee0b58777f7.mp3?v=eceb4a47"
     },
     {
      "en": "Use a rubber to fix it.",
      "zh": "用橡皮把它擦掉。",
-     "audio": "media/sent/0d45f5383af6.mp3"
+     "audio": "media/sent/0d45f5383af6.mp3?v=5c4f8ccf"
     }
    ],
    "media": {
-    "img": "media/img/rubber.webp",
-    "uk": "media/uk/rubber.mp3",
-    "us": "media/us/rubber.mp3"
+    "img": "media/img/rubber.webp?v=918875dd",
+    "uk": "media/uk/rubber.mp3?v=6431b9fc",
+    "us": "media/us/rubber.mp3?v=30039b76"
    },
    "avoid": [
     "desk",
@@ -2467,23 +2467,23 @@
     {
      "en": "Draw a line with a ruler.",
      "zh": "用尺子画一条线。",
-     "audio": "media/sent/94fbe33e6727.mp3"
+     "audio": "media/sent/94fbe33e6727.mp3?v=e9ab2a1a"
     },
     {
      "en": "My ruler is thirty centimetres long.",
      "zh": "我的尺子长三十厘米。",
-     "audio": "media/sent/59e70f84bf39.mp3"
+     "audio": "media/sent/59e70f84bf39.mp3?v=628eeffc"
     },
     {
      "en": "Can I use your ruler?",
      "zh": "我能用一下你的尺子吗？",
-     "audio": "media/sent/17a49a29235d.mp3"
+     "audio": "media/sent/17a49a29235d.mp3?v=4b423fc6"
     }
    ],
    "media": {
-    "img": "media/img/ruler.webp",
-    "uk": "media/uk/ruler.mp3",
-    "us": "media/us/ruler.mp3"
+    "img": "media/img/ruler.webp?v=560bc1b1",
+    "uk": "media/uk/ruler.mp3?v=e6b7a806",
+    "us": "media/us/ruler.mp3?v=5df9d419"
    },
    "spell": true,
    "avoid": [
@@ -2520,23 +2520,23 @@
     {
      "en": "Lily walks to school with Mum.",
      "zh": "Lily 和妈妈走路去学校。",
-     "audio": "media/sent/40843aec726a.mp3"
+     "audio": "media/sent/40843aec726a.mp3?v=6a913d05"
     },
     {
      "en": "School starts at half past eight.",
      "zh": "学校八点半开始上课。",
-     "audio": "media/sent/b1d6887ef796.mp3"
+     "audio": "media/sent/b1d6887ef796.mp3?v=8257cfd6"
     },
     {
      "en": "I like my school.",
      "zh": "我喜欢我的学校。",
-     "audio": "media/sent/f6666840d8a9.mp3"
+     "audio": "media/sent/f6666840d8a9.mp3?v=71fe6557"
     }
    ],
    "media": {
-    "img": "media/img/school.webp",
-    "uk": "media/uk/school.mp3",
-    "us": "media/us/school.mp3"
+    "img": "media/img/school.webp?v=d8438de6",
+    "uk": "media/uk/school.mp3?v=0b9b0faf",
+    "us": "media/us/school.mp3?v=8f0388c9"
    },
    "spell": true,
    "avoid": [
@@ -2573,23 +2573,23 @@
     {
      "en": "We grow plants in science.",
      "zh": "我们在科学课上种植物。",
-     "audio": "media/sent/e12e42cfe9dd.mp3"
+     "audio": "media/sent/e12e42cfe9dd.mp3?v=913c7623"
     },
     {
      "en": "Science is fun!",
      "zh": "科学很有趣！",
-     "audio": "media/sent/884c193c388d.mp3"
+     "audio": "media/sent/884c193c388d.mp3?v=1a2cbbc8"
     },
     {
      "en": "We have science on Thursday.",
      "zh": "我们星期四有科学课。",
-     "audio": "media/sent/05ea27471e4f.mp3"
+     "audio": "media/sent/05ea27471e4f.mp3?v=b43fef87"
     }
    ],
    "media": {
-    "img": "media/img/science.webp",
-    "uk": "media/uk/science.mp3",
-    "us": "media/us/science.mp3"
+    "img": "media/img/science.webp?v=2b79211e",
+    "uk": "media/uk/science.mp3?v=67345317",
+    "us": "media/us/science.mp3?v=5f857746"
    },
    "spell": true,
    "hook": {
@@ -2635,23 +2635,23 @@
     {
      "en": "My cousin is a student at university.",
      "zh": "我表姐是大学生。",
-     "audio": "media/sent/ec6bb77890da.mp3"
+     "audio": "media/sent/ec6bb77890da.mp3?v=e40e332b"
     },
     {
      "en": "There are thirty students in the class.",
      "zh": "班上有三十个学生。",
-     "audio": "media/sent/44421e9c4fea.mp3"
+     "audio": "media/sent/44421e9c4fea.mp3?v=75192574"
     },
     {
      "en": "The students are listening to the teacher.",
      "zh": "学生们在听老师讲课。",
-     "audio": "media/sent/bc7cacb06db1.mp3"
+     "audio": "media/sent/bc7cacb06db1.mp3?v=3271264d"
     }
    ],
    "media": {
-    "img": "media/img/student.webp",
-    "uk": "media/uk/student.mp3",
-    "us": "media/us/student.mp3"
+    "img": "media/img/student.webp?v=08d00abe",
+    "uk": "media/uk/student.mp3?v=118dcaa8",
+    "us": "media/us/student.mp3?v=310ed615"
    },
    "spell": true,
    "avoid": [
@@ -2689,23 +2689,23 @@
     {
      "en": "My sister is busy with her studies.",
      "zh": "我姐姐学业很忙。",
-     "audio": "media/sent/b01f3e94f6b1.mp3"
+     "audio": "media/sent/b01f3e94f6b1.mp3?v=4cc012e4"
     },
     {
      "en": "How are your studies going?",
      "zh": "你的学业怎么样？",
-     "audio": "media/sent/61f2e9ed7ee3.mp3"
+     "audio": "media/sent/61f2e9ed7ee3.mp3?v=92ac8b08"
     },
     {
      "en": "After his studies, Sam wants to travel.",
      "zh": "Sam 毕业后想去旅行。",
-     "audio": "media/sent/7c3b9ea8538e.mp3"
+     "audio": "media/sent/7c3b9ea8538e.mp3?v=e4f07685"
     }
    ],
    "media": {
-    "img": "media/img/studies.webp",
-    "uk": "media/word/studies.mp3",
-    "us": "media/word/studies.mp3"
+    "img": "media/img/studies.webp?v=94539a96",
+    "uk": "media/word/studies.mp3?v=45e0763d",
+    "us": "media/word/studies.mp3?v=45e0763d"
    },
    "avoid": [
     "learn",
@@ -2742,23 +2742,23 @@
     {
      "en": "Lily studies English at school.",
      "zh": "Lily 在学校学英语。",
-     "audio": "media/sent/95db9d99dbfd.mp3"
+     "audio": "media/sent/95db9d99dbfd.mp3?v=106227bf"
     },
     {
      "en": "I study for the test every evening.",
      "zh": "我每晚都为考试复习。",
-     "audio": "media/sent/ae146bff715f.mp3"
+     "audio": "media/sent/ae146bff715f.mp3?v=fdfbdd4a"
     },
     {
      "en": "What do you want to study?",
      "zh": "你想学什么？",
-     "audio": "media/sent/b14e414f6f11.mp3"
+     "audio": "media/sent/b14e414f6f11.mp3?v=dda47dd8"
     }
    ],
    "media": {
-    "img": "media/img/study.webp",
-    "uk": "media/uk/study.mp3",
-    "us": "media/us/study.mp3"
+    "img": "media/img/study.webp?v=974b44d6",
+    "uk": "media/uk/study.mp3?v=59995e6c",
+    "us": "media/us/study.mp3?v=99097085"
    },
    "spell": true,
    "avoid": [
@@ -2796,23 +2796,23 @@
     {
      "en": "What's your favourite subject?",
      "zh": "你最喜欢哪个科目？",
-     "audio": "media/sent/665d9c77b4f8.mp3"
+     "audio": "media/sent/665d9c77b4f8.mp3?v=0446001c"
     },
     {
      "en": "Art is my favourite subject.",
      "zh": "美术是我最喜欢的科目。",
-     "audio": "media/sent/71a4cb2ff62c.mp3"
+     "audio": "media/sent/71a4cb2ff62c.mp3?v=d46d67cd"
     },
     {
      "en": "We study ten subjects at school.",
      "zh": "我们在学校学十门科目。",
-     "audio": "media/sent/72b34cc0a430.mp3"
+     "audio": "media/sent/72b34cc0a430.mp3?v=e8ad68da"
     }
    ],
    "media": {
-    "img": "media/img/subject.webp",
-    "uk": "media/uk/subject.mp3",
-    "us": "media/us/subject.mp3"
+    "img": "media/img/subject.webp?v=ad0a5c36",
+    "uk": "media/uk/subject.mp3?v=1cadb83f",
+    "us": "media/us/subject.mp3?v=c7ae1dae"
    },
    "hook": {
     "kind": "contrast",
@@ -2856,23 +2856,23 @@
     {
      "en": "Mum teaches me to cook.",
      "zh": "妈妈教我做饭。",
-     "audio": "media/sent/c002d861ca67.mp3"
+     "audio": "media/sent/c002d861ca67.mp3?v=8603c3d6"
     },
     {
      "en": "Mr Brown teaches us English.",
      "zh": "布朗先生教我们英语。",
-     "audio": "media/sent/e6b10f9802b4.mp3"
+     "audio": "media/sent/e6b10f9802b4.mp3?v=6a40e07e"
     },
     {
      "en": "Can you teach me to swim?",
      "zh": "你能教我游泳吗？",
-     "audio": "media/sent/1031c1f7fabd.mp3"
+     "audio": "media/sent/1031c1f7fabd.mp3?v=e0f07961"
     }
    ],
    "media": {
-    "img": "media/img/teach.webp",
-    "uk": "media/uk/teach.mp3",
-    "us": "media/us/teach.mp3"
+    "img": "media/img/teach.webp?v=ba528652",
+    "uk": "media/uk/teach.mp3?v=2b169566",
+    "us": "media/us/teach.mp3?v=11d218e2"
    },
    "spell": true,
    "avoid": [
@@ -2909,23 +2909,23 @@
     {
      "en": "Our teacher is very kind.",
      "zh": "我们的老师很和蔼。",
-     "audio": "media/sent/1064312aed89.mp3"
+     "audio": "media/sent/1064312aed89.mp3?v=6ec8bc79"
     },
     {
      "en": "The teacher gives us homework.",
      "zh": "老师给我们布置作业。",
-     "audio": "media/sent/e961c7ed2280.mp3"
+     "audio": "media/sent/e961c7ed2280.mp3?v=9f4d9c61"
     },
     {
      "en": "Lily wants to be a teacher.",
      "zh": "Lily 想当老师。",
-     "audio": "media/sent/e25da0d94642.mp3"
+     "audio": "media/sent/e25da0d94642.mp3?v=7e52419d"
     }
    ],
    "media": {
-    "img": "media/img/teacher.webp",
-    "uk": "media/uk/teacher.mp3",
-    "us": "media/us/teacher.mp3"
+    "img": "media/img/teacher.webp?v=4e70029c",
+    "uk": "media/uk/teacher.mp3?v=954670ac",
+    "us": "media/us/teacher.mp3?v=1fc4562e"
    },
    "spell": true,
    "hook": {
@@ -2965,23 +2965,23 @@
     {
      "en": "The new term starts in September.",
      "zh": "新学期九月开始。",
-     "audio": "media/sent/b927bcab9723.mp3"
+     "audio": "media/sent/b927bcab9723.mp3?v=5eee1d81"
     },
     {
      "en": "There are three terms in a year.",
      "zh": "一年有三个学期。",
-     "audio": "media/sent/617c824c5175.mp3"
+     "audio": "media/sent/617c824c5175.mp3?v=c5beb3ab"
     },
     {
      "en": "This term we are learning about space.",
      "zh": "这学期我们在学太空知识。",
-     "audio": "media/sent/e6faa49430ad.mp3"
+     "audio": "media/sent/e6faa49430ad.mp3?v=11c52e00"
     }
    ],
    "media": {
-    "img": "media/img/term.webp",
-    "uk": "media/uk/term.mp3",
-    "us": "media/us/term.mp3"
+    "img": "media/img/term.webp?v=055b1866",
+    "uk": "media/uk/term.mp3?v=6ba44118",
+    "us": "media/us/term.mp3?v=1551b898"
    },
    "avoid": [
     "lesson"
@@ -3015,23 +3015,23 @@
     {
      "en": "We have a spelling test today.",
      "zh": "我们今天有拼写测验。",
-     "audio": "media/sent/1ce3ae27da7d.mp3"
+     "audio": "media/sent/1ce3ae27da7d.mp3?v=561338c8"
     },
     {
      "en": "Lily is ready for the test.",
      "zh": "Lily 准备好测验了。",
-     "audio": "media/sent/1a5c8f366882.mp3"
+     "audio": "media/sent/1a5c8f366882.mp3?v=cf01723a"
     },
     {
      "en": "The test is very easy.",
      "zh": "这次测验很简单。",
-     "audio": "media/sent/fabe7ff38387.mp3"
+     "audio": "media/sent/fabe7ff38387.mp3?v=4ce803d8"
     }
    ],
    "media": {
-    "img": "media/img/test.webp",
-    "uk": "media/uk/test.mp3",
-    "us": "media/us/test.mp3"
+    "img": "media/img/test.webp?v=c64a5f0f",
+    "uk": "media/uk/test.mp3?v=c582d91d",
+    "us": "media/us/test.mp3?v=a3cffd59"
    },
    "spell": true,
    "avoid": [
@@ -3071,23 +3071,23 @@
     {
      "en": "My cousin goes to university.",
      "zh": "我表哥在上大学。",
-     "audio": "media/sent/a349dd3fe669.mp3"
+     "audio": "media/sent/a349dd3fe669.mp3?v=c2713dd4"
     },
     {
      "en": "Dad studied at university in London.",
      "zh": "爸爸在伦敦上的大学。",
-     "audio": "media/sent/a30c7725cf31.mp3"
+     "audio": "media/sent/a30c7725cf31.mp3?v=0bccc70e"
     },
     {
      "en": "Sam wants to go to university.",
      "zh": "Sam 想上大学。",
-     "audio": "media/sent/4225e9f6a257.mp3"
+     "audio": "media/sent/4225e9f6a257.mp3?v=b7860f68"
     }
    ],
    "media": {
-    "img": "media/img/university.webp",
-    "uk": "media/uk/university.mp3",
-    "us": "media/us/university.mp3"
+    "img": "media/img/university.webp?v=cebf75e7",
+    "uk": "media/uk/university.mp3?v=d58cc252",
+    "us": "media/us/university.mp3?v=f06c7cbe"
    },
    "spell": true,
    "avoid": [

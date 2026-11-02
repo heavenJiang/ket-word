@@ -31,23 +31,23 @@
     {
      "en": "Dad reads an article.",
      "zh": "爸爸读一篇文章。",
-     "audio": "media/sent/96dfb27da4b9.mp3"
+     "audio": "media/sent/96dfb27da4b9.mp3?v=bffa7a3c"
     },
     {
      "en": "This article is about animals.",
      "zh": "这篇文章是关于动物的。",
-     "audio": "media/sent/69ea311ccfd7.mp3"
+     "audio": "media/sent/69ea311ccfd7.mp3?v=bafa2426"
     },
     {
      "en": "Mum writes an article for school.",
      "zh": "妈妈为学校写一篇文章。",
-     "audio": "media/sent/c9060ab61821.mp3"
+     "audio": "media/sent/c9060ab61821.mp3?v=a807b335"
     }
    ],
    "media": {
-    "img": "media/img/article.webp",
-    "uk": "media/uk/article.mp3",
-    "us": "media/us/article.mp3"
+    "img": "media/img/article.webp?v=a30d5b8c",
+    "uk": "media/uk/article.mp3?v=f3ccd6bb",
+    "us": "media/us/article.mp3?v=2e6d7858"
    },
    "hook": {
     "kind": "story",
@@ -87,23 +87,23 @@
     {
      "en": "Lily opens a birthday card.",
      "zh": "Lily 打开一张生日贺卡。",
-     "audio": "media/sent/3e5787aa7aea.mp3"
+     "audio": "media/sent/3e5787aa7aea.mp3?v=a865aee3"
     },
     {
      "en": "I send a card to Grandma.",
      "zh": "我给奶奶寄一张卡片。",
-     "audio": "media/sent/e9c0a57429a3.mp3"
+     "audio": "media/sent/e9c0a57429a3.mp3?v=306d8d7d"
     },
     {
      "en": "Tom draws on a card for Mum.",
      "zh": "Tom 给妈妈画一张卡片。",
-     "audio": "media/sent/0d4152e96f81.mp3"
+     "audio": "media/sent/0d4152e96f81.mp3?v=003048d3"
     }
    ],
    "media": {
-    "img": "media/img/card.webp",
-    "uk": "media/uk/card.mp3",
-    "us": "media/us/card.mp3"
+    "img": "media/img/card.webp?v=1c5aca82",
+    "uk": "media/uk/card.mp3?v=4b5e1544",
+    "us": "media/us/card.mp3?v=99e053c9"
    },
    "spell": true,
    "avoid": [
@@ -140,23 +140,23 @@
     {
      "en": "Tom reads a comic.",
      "zh": "Tom 看一本漫画书。",
-     "audio": "media/sent/00ac3bbcfb33.mp3"
+     "audio": "media/sent/00ac3bbcfb33.mp3?v=1db41425"
     },
     {
      "en": "This comic is very funny.",
      "zh": "这本漫画很有趣。",
-     "audio": "media/sent/0aad88687327.mp3"
+     "audio": "media/sent/0aad88687327.mp3?v=44693fb9"
     },
     {
      "en": "Sam likes the new comic.",
      "zh": "Sam 喜欢这本新漫画书。",
-     "audio": "media/sent/68b04e7ee5b7.mp3"
+     "audio": "media/sent/68b04e7ee5b7.mp3?v=e8831948"
     }
    ],
    "media": {
-    "img": "media/img/comic.webp",
-    "uk": "media/uk/comic.mp3",
-    "us": "media/us/comic.mp3"
+    "img": "media/img/comic.webp?v=2a9204ba",
+    "uk": "media/uk/comic.mp3?v=5cc09f1b",
+    "us": "media/us/comic.mp3?v=0b9f8fab"
    },
    "avoid": [
     "book",
@@ -191,23 +191,23 @@
     {
      "en": "Mum fills in a form.",
      "zh": "妈妈填一张表格。",
-     "audio": "media/sent/3696a5c43911.mp3"
+     "audio": "media/sent/3696a5c43911.mp3?v=55557714"
     },
     {
      "en": "Please write your name on the form.",
      "zh": "请在表格上写你的名字。",
-     "audio": "media/sent/500af97cff7f.mp3"
+     "audio": "media/sent/500af97cff7f.mp3?v=1b6542b5"
     },
     {
      "en": "Dad signs the form now.",
      "zh": "爸爸现在在表格上签名。",
-     "audio": "media/sent/5b6ed0233745.mp3"
+     "audio": "media/sent/5b6ed0233745.mp3?v=27950955"
     }
    ],
    "media": {
-    "img": "media/img/form.webp",
-    "uk": "media/uk/form.mp3",
-    "us": "media/us/form.mp3"
+    "img": "media/img/form.webp?v=9f4ca48d",
+    "uk": "media/uk/form.mp3?v=66d9e89c",
+    "us": "media/us/form.mp3?v=5b206cc6"
    },
    "hook": {
     "kind": "contrast",
@@ -247,23 +247,23 @@
     {
      "en": "Dad has a driving licence.",
      "zh": "爸爸有驾照。",
-     "audio": "media/sent/eee936099454.mp3"
+     "audio": "media/sent/eee936099454.mp3?v=a3adfd03"
     },
     {
      "en": "Mum shows her licence.",
      "zh": "妈妈出示她的执照。",
-     "audio": "media/sent/64bea17375b7.mp3"
+     "audio": "media/sent/64bea17375b7.mp3?v=429747e5"
     },
     {
      "en": "The police ask for the licence.",
      "zh": "警察要看执照。",
-     "audio": "media/sent/13dbebdd202d.mp3"
+     "audio": "media/sent/13dbebdd202d.mp3?v=d6ceb52c"
     }
    ],
    "media": {
-    "img": "media/img/licence.webp",
-    "uk": "media/uk/licence.mp3",
-    "us": "media/us/licence.mp3"
+    "img": "media/img/licence.webp?v=1704187c",
+    "uk": "media/uk/licence.mp3?v=f0a436a8",
+    "us": "media/us/licence.mp3?v=68c696a2"
    },
    "avoid": [
     "diploma",
@@ -300,23 +300,23 @@
     {
      "en": "Grandpa reads the newspaper.",
      "zh": "爷爷读报纸。",
-     "audio": "media/sent/746e0274eab9.mp3"
+     "audio": "media/sent/746e0274eab9.mp3?v=2ab71d79"
     },
     {
      "en": "Dad buys a newspaper every day.",
      "zh": "爸爸每天买一份报纸。",
-     "audio": "media/sent/0934407f5052.mp3"
+     "audio": "media/sent/0934407f5052.mp3?v=b1f53cd4"
     },
     {
      "en": "The newspaper is on the table.",
      "zh": "报纸在桌子上。",
-     "audio": "media/sent/b77cddde3e33.mp3"
+     "audio": "media/sent/b77cddde3e33.mp3?v=694bc4df"
     }
    ],
    "media": {
-    "img": "media/img/newspaper.webp",
-    "uk": "media/uk/newspaper.mp3",
-    "us": "media/us/newspaper.mp3"
+    "img": "media/img/newspaper.webp?v=a7ce9c6f",
+    "uk": "media/uk/newspaper.mp3?v=ad4db782",
+    "us": "media/us/newspaper.mp3?v=b47bf100"
    },
    "spell": true,
    "hook": {
@@ -357,23 +357,23 @@
     {
      "en": "Lily writes in her notebook.",
      "zh": "Lily 在笔记本上写字。",
-     "audio": "media/sent/7b5017309488.mp3"
+     "audio": "media/sent/7b5017309488.mp3?v=e884af2f"
     },
     {
      "en": "Tom draws in his notebook.",
      "zh": "Tom 在他的笔记本上画画。",
-     "audio": "media/sent/1119adf815c3.mp3"
+     "audio": "media/sent/1119adf815c3.mp3?v=303caeec"
     },
     {
      "en": "I put my notebook in my bag.",
      "zh": "我把笔记本放进书包里。",
-     "audio": "media/sent/aa78471963c3.mp3"
+     "audio": "media/sent/aa78471963c3.mp3?v=44526672"
     }
    ],
    "media": {
-    "img": "media/img/notebook.webp",
-    "uk": "media/uk/notebook.mp3",
-    "us": "media/us/notebook.mp3"
+    "img": "media/img/notebook.webp?v=4f5ade43",
+    "uk": "media/uk/notebook.mp3?v=00258d8c",
+    "us": "media/us/notebook.mp3?v=957e7ed6"
    },
    "spell": true,
    "hook": {
@@ -414,23 +414,23 @@
     {
      "en": "Grandma sends a postcard.",
      "zh": "奶奶寄一张明信片。",
-     "audio": "media/sent/3666c4cde35a.mp3"
+     "audio": "media/sent/3666c4cde35a.mp3?v=07272818"
     },
     {
      "en": "We buy a postcard at the beach.",
      "zh": "我们在海滩买了一张明信片。",
-     "audio": "media/sent/b29830829f9c.mp3"
+     "audio": "media/sent/b29830829f9c.mp3?v=d924308a"
     },
     {
      "en": "The postcard shows the sea.",
      "zh": "这张明信片展示了大海。",
-     "audio": "media/sent/db866d42d4f4.mp3"
+     "audio": "media/sent/db866d42d4f4.mp3?v=2c74f154"
     }
    ],
    "media": {
-    "img": "media/img/postcard.webp",
-    "uk": "media/uk/postcard.mp3",
-    "us": "media/us/postcard.mp3"
+    "img": "media/img/postcard.webp?v=07949ef1",
+    "uk": "media/uk/postcard.mp3?v=c3b8436b",
+    "us": "media/us/postcard.mp3?v=b5493a27"
    },
    "spell": true,
    "hook": {
@@ -471,23 +471,23 @@
     {
      "en": "Lily reads her textbook.",
      "zh": "Lily 读她的课本。",
-     "audio": "media/sent/6ecdbdb5fe51.mp3"
+     "audio": "media/sent/6ecdbdb5fe51.mp3?v=cf1eb5d4"
     },
     {
      "en": "Tom takes his textbook home.",
      "zh": "Tom 把他的课本带回家。",
-     "audio": "media/sent/c7464ba4447d.mp3"
+     "audio": "media/sent/c7464ba4447d.mp3?v=91539989"
     },
     {
      "en": "The textbook has nice pictures.",
      "zh": "这本课本有漂亮的图片。",
-     "audio": "media/sent/18beda612a40.mp3"
+     "audio": "media/sent/18beda612a40.mp3?v=c1c28a3a"
     }
    ],
    "media": {
-    "img": "media/img/textbook.webp",
-    "uk": "media/uk/textbook.mp3",
-    "us": "media/us/textbook.mp3"
+    "img": "media/img/textbook.webp?v=adc9652f",
+    "uk": "media/uk/textbook.mp3?v=44e8daa4",
+    "us": "media/us/textbook.mp3?v=7333a851"
    },
    "hook": {
     "kind": "split",
@@ -526,23 +526,23 @@
     {
      "en": "Look at the big ad.",
      "zh": "看这个大广告。",
-     "audio": "media/sent/cc1ff3acb277.mp3"
+     "audio": "media/sent/cc1ff3acb277.mp3?v=0c21b90b"
     },
     {
      "en": "Mum sees an ad for shoes.",
      "zh": "妈妈看到一个鞋子的广告。",
-     "audio": "media/sent/be0f79e1d938.mp3"
+     "audio": "media/sent/be0f79e1d938.mp3?v=82850de8"
     },
     {
      "en": "This ad is very funny.",
      "zh": "这个广告很有趣。",
-     "audio": "media/sent/5fed6b9dc703.mp3"
+     "audio": "media/sent/5fed6b9dc703.mp3?v=268a8fbc"
     }
    ],
    "media": {
-    "img": "media/img/ad.webp",
-    "uk": "media/uk/ad.mp3",
-    "us": "media/us/ad.mp3"
+    "img": "media/img/ad.webp?v=4c499a6b",
+    "uk": "media/uk/ad.mp3?v=29fa6a6b",
+    "us": "media/us/ad.mp3?v=1e364ecb"
    },
    "avoid": [
     "advertisement"
@@ -579,23 +579,23 @@
     {
      "en": "Tom watches an advertisement.",
      "zh": "Tom 看一个广告。",
-     "audio": "media/sent/ff9464c06183.mp3"
+     "audio": "media/sent/ff9464c06183.mp3?v=4c7a9b3a"
     },
     {
      "en": "The advertisement is on the screen.",
      "zh": "这个广告在屏幕上。",
-     "audio": "media/sent/2bf8f5a7032d.mp3"
+     "audio": "media/sent/2bf8f5a7032d.mp3?v=610fa1d5"
     },
     {
      "en": "Mum changes the channel during the advertisement.",
      "zh": "妈妈在广告时间换台。",
-     "audio": "media/sent/d489dce2d7d0.mp3"
+     "audio": "media/sent/d489dce2d7d0.mp3?v=94f312e7"
     }
    ],
    "media": {
-    "img": "media/img/advertisement.webp",
-    "uk": "media/uk/advertisement.mp3",
-    "us": "media/us/advertisement.mp3"
+    "img": "media/img/advertisement.webp?v=6ef90f17",
+    "uk": "media/uk/advertisement.mp3?v=d54c064b",
+    "us": "media/us/advertisement.mp3?v=17701747"
    },
    "hook": {
     "kind": "affix",
@@ -633,23 +633,23 @@
     {
      "en": "Dad pays the bill.",
      "zh": "爸爸付账。",
-     "audio": "media/sent/e9ffbd67d9cd.mp3"
+     "audio": "media/sent/e9ffbd67d9cd.mp3?v=0d35591d"
     },
     {
      "en": "Mum asks for the bill.",
      "zh": "妈妈要账单。",
-     "audio": "media/sent/98885f977645.mp3"
+     "audio": "media/sent/98885f977645.mp3?v=712cf38b"
     },
     {
      "en": "The bill is on the table.",
      "zh": "账单在桌子上。",
-     "audio": "media/sent/a3006817e360.mp3"
+     "audio": "media/sent/a3006817e360.mp3?v=cc99f6e7"
     }
    ],
    "media": {
-    "img": "media/img/bill.webp",
-    "uk": "media/uk/bill.mp3",
-    "us": "media/us/bill.mp3"
+    "img": "media/img/bill.webp?v=bc39e538",
+    "uk": "media/uk/bill.mp3?v=65d94035",
+    "us": "media/us/bill.mp3?v=853262e3"
    },
    "hook": {
     "kind": "contrast",
@@ -697,23 +697,23 @@
     {
      "en": "Lily reads a book about horses.",
      "zh": "Lily 在读一本关于马的书。",
-     "audio": "media/sent/0091ebe5f45a.mp3"
+     "audio": "media/sent/0091ebe5f45a.mp3?v=497de7c8"
     },
     {
      "en": "Please open your book at page ten.",
      "zh": "请把书翻到第十页。",
-     "audio": "media/sent/5368f7226cb5.mp3"
+     "audio": "media/sent/5368f7226cb5.mp3?v=cc18e69a"
     },
     {
      "en": "Grandpa gives Tom a book of animal stories.",
      "zh": "爷爷送给 Tom 一本动物故事书。",
-     "audio": "media/sent/e8a04b4e5817.mp3"
+     "audio": "media/sent/e8a04b4e5817.mp3?v=46cb0816"
     }
    ],
    "media": {
-    "img": "media/img/book.webp",
-    "uk": "media/uk/book.mp3",
-    "us": "media/us/book.mp3"
+    "img": "media/img/book.webp?v=0c5def79",
+    "uk": "media/uk/book.mp3?v=7f677cf9",
+    "us": "media/us/book.mp3?v=3e6f61e6"
    },
    "spell": true,
    "avoid": [
@@ -751,23 +751,23 @@
     {
      "en": "Lily writes in her diary every night.",
      "zh": "Lily 每晚都写日记。",
-     "audio": "media/sent/48aadab780fa.mp3"
+     "audio": "media/sent/48aadab780fa.mp3?v=7d28c7dc"
     },
     {
      "en": "I keep my diary under my bed.",
      "zh": "我把日记本藏在床底下。",
-     "audio": "media/sent/0d1b89912b65.mp3"
+     "audio": "media/sent/0d1b89912b65.mp3?v=22b1a739"
     },
     {
      "en": "Grandma reads her old diary.",
      "zh": "奶奶读她的旧日记。",
-     "audio": "media/sent/201d1ef9afcc.mp3"
+     "audio": "media/sent/201d1ef9afcc.mp3?v=24a88996"
     }
    ],
    "media": {
-    "img": "media/img/diary.webp",
-    "uk": "media/uk/diary.mp3",
-    "us": "media/us/diary.mp3"
+    "img": "media/img/diary.webp?v=f35de1f8",
+    "uk": "media/uk/diary.mp3?v=8d67bc91",
+    "us": "media/us/diary.mp3?v=c5204470"
    },
    "avoid": [
     "note",
@@ -804,23 +804,23 @@
     {
      "en": "Mum puts her diploma in a box.",
      "zh": "妈妈把她的文凭放进盒子里。",
-     "audio": "media/sent/58946a7c1ecf.mp3"
+     "audio": "media/sent/58946a7c1ecf.mp3?v=2b737ae1"
     },
     {
      "en": "Sam's uncle has a diploma from college.",
      "zh": "Sam 的叔叔有大学文凭。",
-     "audio": "media/sent/ef76d51f8ace.mp3"
+     "audio": "media/sent/ef76d51f8ace.mp3?v=2973788d"
     },
     {
      "en": "We celebrate the diploma with a cake.",
      "zh": "我们用蛋糕庆祝拿到文凭。",
-     "audio": "media/sent/5bfb6f9a18b8.mp3"
+     "audio": "media/sent/5bfb6f9a18b8.mp3?v=3cf37214"
     }
    ],
    "media": {
-    "img": "media/img/diploma.webp",
-    "uk": "media/uk/diploma.mp3",
-    "us": "media/us/diploma.mp3"
+    "img": "media/img/diploma.webp?v=7ad51673",
+    "uk": "media/uk/diploma.mp3?v=d402af7c",
+    "us": "media/us/diploma.mp3?v=4d35cce2"
    },
    "avoid": [
     "licence",
@@ -858,23 +858,23 @@
     {
      "en": "Dad sends an email to his boss.",
      "zh": "爸爸给老板发了一封电子邮件。",
-     "audio": "media/sent/8d8ae361a816.mp3"
+     "audio": "media/sent/8d8ae361a816.mp3?v=3aa1747b"
     },
     {
      "en": "Please check your email for news.",
      "zh": "请查看电子邮件获取消息。",
-     "audio": "media/sent/7cf7e1212b24.mp3"
+     "audio": "media/sent/7cf7e1212b24.mp3?v=a2b6a30b"
     },
     {
      "en": "Lily writes an email to Grandma.",
      "zh": "Lily 给奶奶写了一封电子邮件。",
-     "audio": "media/sent/9e6aa0619c42.mp3"
+     "audio": "media/sent/9e6aa0619c42.mp3?v=2c957bd8"
     }
    ],
    "media": {
-    "img": "media/img/email.webp",
-    "uk": "media/uk/email.mp3",
-    "us": "media/us/email.mp3"
+    "img": "media/img/email.webp?v=2d54ca17",
+    "uk": "media/uk/email.mp3?v=e6dcbe97",
+    "us": "media/us/email.mp3?v=75758902"
    },
    "spell": true,
    "avoid": [
@@ -911,23 +911,23 @@
     {
      "en": "Tom writes a letter to Grandpa.",
      "zh": "Tom 给爷爷写了一封信。",
-     "audio": "media/sent/cfa181601106.mp3"
+     "audio": "media/sent/cfa181601106.mp3?v=106ba01e"
     },
     {
      "en": "The first letter is A.",
      "zh": "第一个字母是 A。",
-     "audio": "media/sent/ba17573286bd.mp3"
+     "audio": "media/sent/ba17573286bd.mp3?v=a1d303e4"
     },
     {
      "en": "Mum opens the blue letter.",
      "zh": "妈妈打开了那封蓝色的信。",
-     "audio": "media/sent/adc9ed7ec545.mp3"
+     "audio": "media/sent/adc9ed7ec545.mp3?v=806a8aad"
     }
    ],
    "media": {
-    "img": "media/img/letter.webp",
-    "uk": "media/uk/letter.mp3",
-    "us": "media/us/letter.mp3"
+    "img": "media/img/letter.webp?v=6dddb76c",
+    "uk": "media/uk/letter.mp3?v=22fe715d",
+    "us": "media/us/letter.mp3?v=a0d8d8c4"
    },
    "spell": true,
    "avoid": [
@@ -965,23 +965,23 @@
     {
      "en": "Mum reads a magazine in the kitchen.",
      "zh": "妈妈在厨房读杂志。",
-     "audio": "media/sent/b774d0595e71.mp3"
+     "audio": "media/sent/b774d0595e71.mp3?v=360e5165"
     },
     {
      "en": "This magazine has nice photos.",
      "zh": "这本杂志有漂亮的照片。",
-     "audio": "media/sent/132cc7dc41ed.mp3"
+     "audio": "media/sent/132cc7dc41ed.mp3?v=f633a637"
     },
     {
      "en": "Dad buys a sports magazine.",
      "zh": "爸爸买一本体育杂志。",
-     "audio": "media/sent/48936fbb4c92.mp3"
+     "audio": "media/sent/48936fbb4c92.mp3?v=37c50826"
     }
    ],
    "media": {
-    "img": "media/img/magazine.webp",
-    "uk": "media/uk/magazine.mp3",
-    "us": "media/us/magazine.mp3"
+    "img": "media/img/magazine.webp?v=c76431b9",
+    "uk": "media/uk/magazine.mp3?v=869eec74",
+    "us": "media/us/magazine.mp3?v=eea3c74b"
    },
    "spell": true,
    "avoid": [
@@ -1018,23 +1018,23 @@
     {
      "en": "The waiter gives us the menu.",
      "zh": "服务员把菜单给我们。",
-     "audio": "media/sent/3a3a9109435c.mp3"
+     "audio": "media/sent/3a3a9109435c.mp3?v=3a7c3a1e"
     },
     {
      "en": "Lily looks at the menu in the cafe.",
      "zh": "Lily 在咖啡馆看菜单。",
-     "audio": "media/sent/b06fb02cf064.mp3"
+     "audio": "media/sent/b06fb02cf064.mp3?v=a558d433"
     },
     {
      "en": "Dad chooses fish from the menu.",
      "zh": "爸爸从菜单上选了鱼。",
-     "audio": "media/sent/48722d29d87c.mp3"
+     "audio": "media/sent/48722d29d87c.mp3?v=24bb3f33"
     }
    ],
    "media": {
-    "img": "media/img/menu.webp",
-    "uk": "media/uk/menu.mp3",
-    "us": "media/us/menu.mp3"
+    "img": "media/img/menu.webp?v=67e255b0",
+    "uk": "media/uk/menu.mp3?v=a97486ce",
+    "us": "media/us/menu.mp3?v=0d19d657"
    },
    "spell": true,
    "avoid": [
@@ -1072,23 +1072,23 @@
     {
      "en": "Mum leaves a message on the phone.",
      "zh": "妈妈在电话上留了言。",
-     "audio": "media/sent/7a0ba44b9797.mp3"
+     "audio": "media/sent/7a0ba44b9797.mp3?v=662d769b"
     },
     {
      "en": "Tom has a message for Lily.",
      "zh": "Tom 有给 Lily 的留言。",
-     "audio": "media/sent/8a92eb68b901.mp3"
+     "audio": "media/sent/8a92eb68b901.mp3?v=78563708"
     },
     {
      "en": "Can I leave a message here?",
      "zh": "我可以在这儿留言吗？",
-     "audio": "media/sent/c821a63e7416.mp3"
+     "audio": "media/sent/c821a63e7416.mp3?v=22704956"
     }
    ],
    "media": {
-    "img": "media/img/message.webp",
-    "uk": "media/uk/message.mp3",
-    "us": "media/us/message.mp3"
+    "img": "media/img/message.webp?v=204a02a2",
+    "uk": "media/uk/message.mp3?v=a0fd8748",
+    "us": "media/us/message.mp3?v=eae54274"
    },
    "spell": true,
    "avoid": [
@@ -1126,23 +1126,23 @@
     {
      "en": "Lily writes a note for her friend.",
      "zh": "Lily 给朋友写了一张便条。",
-     "audio": "media/sent/d379e8f5e0dc.mp3"
+     "audio": "media/sent/d379e8f5e0dc.mp3?v=9a0ab9a8"
     },
     {
      "en": "Dad keeps his notes in a box.",
      "zh": "爸爸把笔记放在盒子里。",
-     "audio": "media/sent/bf1842ec3d47.mp3"
+     "audio": "media/sent/bf1842ec3d47.mp3?v=3fdd56db"
     },
     {
      "en": "Please read this short note.",
      "zh": "请读这张短便条。",
-     "audio": "media/sent/f5c457c1102d.mp3"
+     "audio": "media/sent/f5c457c1102d.mp3?v=04397c1c"
     }
    ],
    "media": {
-    "img": "media/img/note.webp",
-    "uk": "media/uk/note.mp3",
-    "us": "media/us/note.mp3"
+    "img": "media/img/note.webp?v=d7dfe38f",
+    "uk": "media/uk/note.mp3?v=4032aab9",
+    "us": "media/us/note.mp3?v=d9128c62"
    },
    "spell": true,
    "avoid": [
@@ -1179,23 +1179,23 @@
     {
      "en": "Mum shows her passport at the airport.",
      "zh": "妈妈在机场出示她的护照。",
-     "audio": "media/sent/a6486c5356d4.mp3"
+     "audio": "media/sent/a6486c5356d4.mp3?v=9b538292"
     },
     {
      "en": "Where is Dad's passport?",
      "zh": "爸爸的护照在哪儿？",
-     "audio": "media/sent/e071b23b5e30.mp3"
+     "audio": "media/sent/e071b23b5e30.mp3?v=a28f081f"
     },
     {
      "en": "We need passports for the trip.",
      "zh": "我们需要护照去旅行。",
-     "audio": "media/sent/c7deee2b84cc.mp3"
+     "audio": "media/sent/c7deee2b84cc.mp3?v=346aec43"
     }
    ],
    "media": {
-    "img": "media/img/passport.webp",
-    "uk": "media/uk/passport.mp3",
-    "us": "media/us/passport.mp3"
+    "img": "media/img/passport.webp?v=0d137e6e",
+    "uk": "media/uk/passport.mp3?v=7e1b4189",
+    "us": "media/us/passport.mp3?v=101c3704"
    },
    "hook": {
     "kind": "split",
@@ -1235,23 +1235,23 @@
     {
      "en": "Lily works on a school project.",
      "zh": "Lily 做一个学校项目。",
-     "audio": "media/sent/94fc230657dd.mp3"
+     "audio": "media/sent/94fc230657dd.mp3?v=2ebc656c"
     },
     {
      "en": "Our project is about plants.",
      "zh": "我们的项目是关于植物的。",
-     "audio": "media/sent/cdb8c485ba06.mp3"
+     "audio": "media/sent/cdb8c485ba06.mp3?v=ee0c8714"
     },
     {
      "en": "Sam helps with the big project.",
      "zh": "Sam 帮忙做大项目。",
-     "audio": "media/sent/1b6bdafb8881.mp3"
+     "audio": "media/sent/1b6bdafb8881.mp3?v=30d17d17"
     }
    ],
    "media": {
-    "img": "media/img/project.webp",
-    "uk": "media/uk/project.mp3",
-    "us": "media/us/project.mp3"
+    "img": "media/img/project.webp?v=86d084d6",
+    "uk": "media/uk/project.mp3?v=bf40ba11",
+    "us": "media/us/project.mp3?v=ba70b811"
    },
    "hook": {
     "kind": "contrast",
@@ -1291,23 +1291,23 @@
     {
      "en": "Mia sends a text to Lily.",
      "zh": "Mia 给 Lily 发了一条短信。",
-     "audio": "media/sent/46d5f97502a0.mp3"
+     "audio": "media/sent/46d5f97502a0.mp3?v=acbb0f61"
     },
     {
      "en": "Read the text in your book.",
      "zh": "读一读你书里的文字。",
-     "audio": "media/sent/3165f3500ec9.mp3"
+     "audio": "media/sent/3165f3500ec9.mp3?v=fd13cacd"
     },
     {
      "en": "Dad answers the text quickly.",
      "zh": "爸爸很快回复了短信。",
-     "audio": "media/sent/654436ec3539.mp3"
+     "audio": "media/sent/654436ec3539.mp3?v=d5b8eca6"
     }
    ],
    "media": {
-    "img": "media/img/text.webp",
-    "uk": "media/uk/text.mp3",
-    "us": "media/us/text.mp3"
+    "img": "media/img/text.webp?v=c4cee18d",
+    "uk": "media/uk/text.mp3?v=3a0f89c7",
+    "us": "media/us/text.mp3?v=643db333"
    },
    "hook": {
     "kind": "contrast",
@@ -1347,23 +1347,23 @@
     {
      "en": "Tom shows his ticket to the man.",
      "zh": "Tom 把票给那个人看。",
-     "audio": "media/sent/de58d853ff20.mp3"
+     "audio": "media/sent/de58d853ff20.mp3?v=c94f0f2e"
     },
     {
      "en": "We buy tickets for the film.",
      "zh": "我们买电影票。",
-     "audio": "media/sent/23fc437fcb02.mp3"
+     "audio": "media/sent/23fc437fcb02.mp3?v=3603acf5"
     },
     {
      "en": "Lily keeps her train ticket safe.",
      "zh": "Lily 把火车票保管好。",
-     "audio": "media/sent/348b4a5436e9.mp3"
+     "audio": "media/sent/348b4a5436e9.mp3?v=b5249e00"
     }
    ],
    "media": {
-    "img": "media/img/ticket.webp",
-    "uk": "media/uk/ticket.mp3",
-    "us": "media/us/ticket.mp3"
+    "img": "media/img/ticket.webp?v=4d36be37",
+    "uk": "media/uk/ticket.mp3?v=839b077e",
+    "us": "media/us/ticket.mp3?v=a7eae53f"
    },
    "spell": true,
    "avoid": [

@@ -30,23 +30,23 @@
     {
      "en": "Mia's cell phone is new.",
      "zh": "Mia 的手机是新的。",
-     "audio": "media/sent/cdb5df5d6807.mp3"
+     "audio": "media/sent/cdb5df5d6807.mp3?v=582e1179"
     },
     {
      "en": "She lost her cell phone yesterday.",
      "zh": "她昨天把手机弄丢了。",
-     "audio": "media/sent/5abfe077c70d.mp3"
+     "audio": "media/sent/5abfe077c70d.mp3?v=7eaa289d"
     },
     {
      "en": "I want to use my cell phone.",
      "zh": "我想用我的手机。",
-     "audio": "media/sent/b2ad0dd7283d.mp3"
+     "audio": "media/sent/b2ad0dd7283d.mp3?v=09c79955"
     }
    ],
    "media": {
-    "img": "media/img/cell-phone.webp",
-    "uk": "media/word/cell-phone.mp3",
-    "us": "media/word/cell-phone.mp3"
+    "img": "media/img/cell-phone.webp?v=2619086b",
+    "uk": "media/word/cell-phone.mp3?v=f8b1bdb7",
+    "us": "media/word/cell-phone.mp3?v=f8b1bdb7"
    },
    "hook": {
     "kind": "split",
@@ -87,23 +87,23 @@
     {
      "en": "Dad talks on his mobile.",
      "zh": "爸爸在打电话。",
-     "audio": "media/sent/38926681f2c5.mp3"
+     "audio": "media/sent/38926681f2c5.mp3?v=4d90136f"
     },
     {
      "en": "My mobile is ringing!",
      "zh": "我的手机在响！",
-     "audio": "media/sent/0a73d4af5910.mp3"
+     "audio": "media/sent/0a73d4af5910.mp3?v=2f3d1925"
     },
     {
      "en": "Tom's mobile has a picture of Max.",
      "zh": "Tom 的手机上有 Max 的照片。",
-     "audio": "media/sent/87e4a3caca12.mp3"
+     "audio": "media/sent/87e4a3caca12.mp3?v=f583ef10"
     }
    ],
    "media": {
-    "img": "media/img/mobile.webp",
-    "uk": "media/uk/mobile.mp3",
-    "us": "media/us/mobile.mp3"
+    "img": "media/img/mobile.webp?v=ed82b7ac",
+    "uk": "media/uk/mobile.mp3?v=97a75cfe",
+    "us": "media/us/mobile.mp3?v=de9119e4"
    },
    "avoid": [
     "cell-phone",
@@ -141,23 +141,23 @@
     {
      "en": "Lily is on the phone.",
      "zh": "Lily 正在打电话。",
-     "audio": "media/sent/15af66cf7236.mp3"
+     "audio": "media/sent/15af66cf7236.mp3?v=9ecece46"
     },
     {
      "en": "The phone rings in the kitchen.",
      "zh": "厨房里的电话响了。",
-     "audio": "media/sent/814f2ac76a75.mp3"
+     "audio": "media/sent/814f2ac76a75.mp3?v=a7aea41d"
     },
     {
      "en": "Can I use your phone?",
      "zh": "我可以用你的电话吗？",
-     "audio": "media/sent/974cf7e27da2.mp3"
+     "audio": "media/sent/974cf7e27da2.mp3?v=21461861"
     }
    ],
    "media": {
-    "img": "media/img/phone.webp",
-    "uk": "media/uk/phone.mp3",
-    "us": "media/us/phone.mp3"
+    "img": "media/img/phone.webp?v=d792045e",
+    "uk": "media/uk/phone.mp3?v=9157ffb9",
+    "us": "media/us/phone.mp3?v=ceea6f14"
    },
    "spell": true,
    "avoid": [
@@ -198,23 +198,23 @@
     {
      "en": "Grandma has an old telephone.",
      "zh": "奶奶有一部旧电话。",
-     "audio": "media/sent/41faa0828a31.mp3"
+     "audio": "media/sent/41faa0828a31.mp3?v=99954774"
     },
     {
      "en": "The telephone is on the wall.",
      "zh": "电话挂在墙上。",
-     "audio": "media/sent/cf1f99bf6ed2.mp3"
+     "audio": "media/sent/cf1f99bf6ed2.mp3?v=8ad5df41"
     },
     {
      "en": "Dad answers the telephone.",
      "zh": "爸爸接电话。",
-     "audio": "media/sent/e7bc99ed6da7.mp3"
+     "audio": "media/sent/e7bc99ed6da7.mp3?v=a741312d"
     }
    ],
    "media": {
-    "img": "media/img/telephone.webp",
-    "uk": "media/uk/telephone.mp3",
-    "us": "media/us/telephone.mp3"
+    "img": "media/img/telephone.webp?v=7a43f79a",
+    "uk": "media/uk/telephone.mp3?v=22b43bbd",
+    "us": "media/us/telephone.mp3?v=01e6b891"
    },
    "spell": true,
    "hook": {
@@ -260,23 +260,23 @@
     {
      "en": "Sam uses a digital camera.",
      "zh": "Sam 用数码相机。",
-     "audio": "media/sent/99ad3ad0cea6.mp3"
+     "audio": "media/sent/99ad3ad0cea6.mp3?v=e07b7bb6"
     },
     {
      "en": "The digital camera is small.",
      "zh": "这台数码相机很小。",
-     "audio": "media/sent/fd2fb81b47d2.mp3"
+     "audio": "media/sent/fd2fb81b47d2.mp3?v=a0b61b9f"
     },
     {
      "en": "I take photos with my digital camera.",
      "zh": "我用我的数码相机拍照。",
-     "audio": "media/sent/b92b199e5766.mp3"
+     "audio": "media/sent/b92b199e5766.mp3?v=b4ca4cb5"
     }
    ],
    "media": {
-    "img": "media/img/digital-camera.webp",
-    "uk": "media/word/digital-camera.mp3",
-    "us": "media/word/digital-camera.mp3"
+    "img": "media/img/digital-camera.webp?v=736d0c82",
+    "uk": "media/word/digital-camera.mp3?v=a74eb32e",
+    "us": "media/word/digital-camera.mp3?v=a74eb32e"
    },
    "hook": {
     "kind": "split",
@@ -316,23 +316,23 @@
     {
      "en": "Mum has a new camera.",
      "zh": "妈妈有一台新照相机。",
-     "audio": "media/sent/c462b067057a.mp3"
+     "audio": "media/sent/c462b067057a.mp3?v=dc277bd4"
     },
     {
      "en": "Can I take a photo with your camera?",
      "zh": "我可以用你的照相机拍照吗？",
-     "audio": "media/sent/b03a84acf3a6.mp3"
+     "audio": "media/sent/b03a84acf3a6.mp3?v=827a5438"
     },
     {
      "en": "The camera is in my bag.",
      "zh": "照相机在我的包里。",
-     "audio": "media/sent/55e277354f79.mp3"
+     "audio": "media/sent/55e277354f79.mp3?v=d7950bfa"
     }
    ],
    "media": {
-    "img": "media/img/camera.webp",
-    "uk": "media/uk/camera.mp3",
-    "us": "media/us/camera.mp3"
+    "img": "media/img/camera.webp?v=3c922372",
+    "uk": "media/uk/camera.mp3?v=80a11f9d",
+    "us": "media/us/camera.mp3?v=2d1e7fbf"
    },
    "spell": true,
    "avoid": [
@@ -368,23 +368,23 @@
     {
      "en": "Lily uses her laptop.",
      "zh": "Lily 用她的笔记本电脑。",
-     "audio": "media/sent/f4d96fa54d9c.mp3"
+     "audio": "media/sent/f4d96fa54d9c.mp3?v=e73a9175"
     },
     {
      "en": "Dad works on his laptop.",
      "zh": "爸爸在笔记本电脑上工作。",
-     "audio": "media/sent/8fce067c598b.mp3"
+     "audio": "media/sent/8fce067c598b.mp3?v=a89d37ad"
     },
     {
      "en": "The laptop is heavy.",
      "zh": "这台笔记本电脑很重。",
-     "audio": "media/sent/40b96726bd21.mp3"
+     "audio": "media/sent/40b96726bd21.mp3?v=e42d9c45"
     }
    ],
    "media": {
-    "img": "media/img/laptop.webp",
-    "uk": "media/uk/laptop.mp3",
-    "us": "media/us/laptop.mp3"
+    "img": "media/img/laptop.webp?v=43685713",
+    "uk": "media/uk/laptop.mp3?v=b32f9010",
+    "us": "media/us/laptop.mp3?v=85837ac6"
    },
    "avoid": [
     "computer",
@@ -420,23 +420,23 @@
     {
      "en": "I play games on my PC.",
      "zh": "我在我的个人电脑上玩游戏。",
-     "audio": "media/sent/f94f4a470c45.mp3"
+     "audio": "media/sent/f94f4a470c45.mp3?v=4b4a3515"
     },
     {
      "en": "The PC is on the desk.",
      "zh": "个人电脑在桌子上。",
-     "audio": "media/sent/7ff2d5ad7ea7.mp3"
+     "audio": "media/sent/7ff2d5ad7ea7.mp3?v=88541790"
     },
     {
      "en": "Mum uses the PC for work.",
      "zh": "妈妈用个人电脑工作。",
-     "audio": "media/sent/a89cdf840c1d.mp3"
+     "audio": "media/sent/a89cdf840c1d.mp3?v=66c84706"
     }
    ],
    "media": {
-    "img": "media/img/pc.webp",
-    "uk": "media/uk/pc.mp3",
-    "us": "media/us/pc.mp3"
+    "img": "media/img/pc.webp?v=8e47c389",
+    "uk": "media/uk/pc.mp3?v=5c57c7b9",
+    "us": "media/us/pc.mp3?v=ff90333b"
    },
    "avoid": [
     "computer",
@@ -473,23 +473,23 @@
     {
      "en": "Tom draws on the computer.",
      "zh": "Tom 在电脑上画画。",
-     "audio": "media/sent/1ad85b74f1bd.mp3"
+     "audio": "media/sent/1ad85b74f1bd.mp3?v=60f15799"
     },
     {
      "en": "The screen of the computer is bright.",
      "zh": "电脑的屏幕很亮。",
-     "audio": "media/sent/98185b48a593.mp3"
+     "audio": "media/sent/98185b48a593.mp3?v=00c0cc76"
     },
     {
      "en": "Lily types her homework on the computer.",
      "zh": "Lily 在电脑上打字做作业。",
-     "audio": "media/sent/51b83221d9f7.mp3"
+     "audio": "media/sent/51b83221d9f7.mp3?v=18eccf54"
     }
    ],
    "media": {
-    "img": "media/img/computer.webp",
-    "uk": "media/uk/computer.mp3",
-    "us": "media/us/computer.mp3"
+    "img": "media/img/computer.webp?v=093933f0",
+    "uk": "media/uk/computer.mp3?v=69f61136",
+    "us": "media/us/computer.mp3?v=6d237878"
    },
    "spell": true,
    "hook": {
@@ -531,23 +531,23 @@
     {
      "en": "Grandpa listens to the radio.",
      "zh": "爷爷听收音机。",
-     "audio": "media/sent/a454ae0c7d71.mp3"
+     "audio": "media/sent/a454ae0c7d71.mp3?v=cff525b9"
     },
     {
      "en": "The radio is very loud.",
      "zh": "收音机声音很大。",
-     "audio": "media/sent/56e35362acd3.mp3"
+     "audio": "media/sent/56e35362acd3.mp3?v=7c665fa5"
     },
     {
      "en": "We hear music on the radio.",
      "zh": "我们在收音机里听到音乐。",
-     "audio": "media/sent/d28fb545e515.mp3"
+     "audio": "media/sent/d28fb545e515.mp3?v=2078c7c3"
     }
    ],
    "media": {
-    "img": "media/img/radio.webp",
-    "uk": "media/uk/radio.mp3",
-    "us": "media/us/radio.mp3"
+    "img": "media/img/radio.webp?v=6d00af03",
+    "uk": "media/uk/radio.mp3?v=03ea2e49",
+    "us": "media/us/radio.mp3?v=0ab316ae"
    },
    "spell": true,
    "avoid": [
@@ -586,23 +586,23 @@
     {
      "en": "The family watches television.",
      "zh": "一家人看电视。",
-     "audio": "media/sent/e0222ffb49c9.mp3"
+     "audio": "media/sent/e0222ffb49c9.mp3?v=25ecd88e"
     },
     {
      "en": "Turn off the television, please.",
      "zh": "请关掉电视。",
-     "audio": "media/sent/231b245a0c23.mp3"
+     "audio": "media/sent/231b245a0c23.mp3?v=11dede29"
     },
     {
      "en": "Tom likes cartoons on television.",
      "zh": "Tom 喜欢看电视里的动画片。",
-     "audio": "media/sent/92cd26966e3f.mp3"
+     "audio": "media/sent/92cd26966e3f.mp3?v=12351c74"
     }
    ],
    "media": {
-    "img": "media/img/television.webp",
-    "uk": "media/uk/television.mp3",
-    "us": "media/us/television.mp3"
+    "img": "media/img/television.webp?v=5d8a8d39",
+    "uk": "media/uk/television.mp3?v=12359dd9",
+    "us": "media/us/television.mp3?v=a1d1fff0"
    },
    "spell": true,
    "hook": {
@@ -644,23 +644,23 @@
     {
      "en": "Tom watches a funny video.",
      "zh": "Tom 看一个有趣的视频。",
-     "audio": "media/sent/11006dbb7601.mp3"
+     "audio": "media/sent/11006dbb7601.mp3?v=5fc63681"
     },
     {
      "en": "Mum records a birthday video.",
      "zh": "妈妈录了一个生日视频。",
-     "audio": "media/sent/8a469015a4a0.mp3"
+     "audio": "media/sent/8a469015a4a0.mp3?v=9a537529"
     },
     {
      "en": "We share the video with Grandma.",
      "zh": "我们和奶奶分享这个视频。",
-     "audio": "media/sent/456cd7b65763.mp3"
+     "audio": "media/sent/456cd7b65763.mp3?v=c1257476"
     }
    ],
    "media": {
-    "img": "media/img/video.webp",
-    "uk": "media/uk/video.mp3",
-    "us": "media/us/video.mp3"
+    "img": "media/img/video.webp?v=f01c4ef8",
+    "uk": "media/uk/video.mp3?v=18df64c6",
+    "us": "media/us/video.mp3?v=ba5e9c69"
    },
    "spell": true,
    "avoid": [
@@ -698,23 +698,23 @@
     {
      "en": "The fan is electric.",
      "zh": "这个风扇是电的。",
-     "audio": "media/sent/1daae55f7492.mp3"
+     "audio": "media/sent/1daae55f7492.mp3?v=23b9a874"
     },
     {
      "en": "Dad has an electric car.",
      "zh": "爸爸有一辆电动车。",
-     "audio": "media/sent/f05322fbbf5f.mp3"
+     "audio": "media/sent/f05322fbbf5f.mp3?v=9ef25292"
     },
     {
      "en": "We use the electric fan in summer.",
      "zh": "我们夏天用电动风扇。",
-     "audio": "media/sent/c4ad7d8e7de5.mp3"
+     "audio": "media/sent/c4ad7d8e7de5.mp3?v=4f1c6585"
     }
    ],
    "media": {
-    "img": "media/img/electric.webp",
-    "uk": "media/uk/electric.mp3",
-    "us": "media/us/electric.mp3"
+    "img": "media/img/electric.webp?v=78b72691",
+    "uk": "media/uk/electric.mp3?v=57defcd4",
+    "us": "media/us/electric.mp3?v=b9130293"
    },
    "hook": {
     "kind": "contrast",
@@ -756,23 +756,23 @@
     {
      "en": "We need electricity for the lights.",
      "zh": "我们需要电来开灯。",
-     "audio": "media/sent/4a28dc5b0929.mp3"
+     "audio": "media/sent/4a28dc5b0929.mp3?v=5b5b51ca"
     },
     {
      "en": "Electricity makes the lamp work.",
      "zh": "电让台灯工作。",
-     "audio": "media/sent/63d9ff23831c.mp3"
+     "audio": "media/sent/63d9ff23831c.mp3?v=8e35fb91"
     },
     {
      "en": "Be careful with electricity!",
      "zh": "小心用电！",
-     "audio": "media/sent/7dbc8f55c6e4.mp3"
+     "audio": "media/sent/7dbc8f55c6e4.mp3?v=725507b1"
     }
    ],
    "media": {
-    "img": "media/img/electricity.webp",
-    "uk": "media/uk/electricity.mp3",
-    "us": "media/us/electricity.mp3"
+    "img": "media/img/electricity.webp?v=1c52afde",
+    "uk": "media/uk/electricity.mp3?v=1aadbb30",
+    "us": "media/us/electricity.mp3?v=ceb69fa6"
    },
    "hook": {
     "kind": "affix",
@@ -813,23 +813,23 @@
     {
      "en": "Mum uses the washing machine.",
      "zh": "妈妈用洗衣机。",
-     "audio": "media/sent/570d0b4d8601.mp3"
+     "audio": "media/sent/570d0b4d8601.mp3?v=e7a04eb4"
     },
     {
      "en": "The washing machine is full.",
      "zh": "洗衣机满了。",
-     "audio": "media/sent/ed459b7bd2e2.mp3"
+     "audio": "media/sent/ed459b7bd2e2.mp3?v=b186b198"
     },
     {
      "en": "Dad puts clothes in the washing machine.",
      "zh": "爸爸把衣服放进洗衣机。",
-     "audio": "media/sent/1d65ceee4f7f.mp3"
+     "audio": "media/sent/1d65ceee4f7f.mp3?v=28760c9b"
     }
    ],
    "media": {
-    "img": "media/img/washing-machine.webp",
-    "uk": "media/word/washing-machine.mp3",
-    "us": "media/word/washing-machine.mp3"
+    "img": "media/img/washing-machine.webp?v=cd40843c",
+    "uk": "media/word/washing-machine.mp3?v=2212803b",
+    "us": "media/word/washing-machine.mp3?v=2212803b"
    },
    "hook": {
     "kind": "split",
@@ -868,23 +868,23 @@
     {
      "en": "Lily puts the CD in its case.",
      "zh": "Lily 把光盘放进盒子里。",
-     "audio": "media/sent/130200bb844a.mp3"
+     "audio": "media/sent/130200bb844a.mp3?v=ba958c9d"
     },
     {
      "en": "Do you like this CD?",
      "zh": "你喜欢这张光盘吗？",
-     "audio": "media/sent/d62ae2c002c4.mp3"
+     "audio": "media/sent/d62ae2c002c4.mp3?v=5fba1c8c"
     },
     {
      "en": "Sam has a new music CD.",
      "zh": "Sam 有一张新的音乐光盘。",
-     "audio": "media/sent/10c84e53560c.mp3"
+     "audio": "media/sent/10c84e53560c.mp3?v=36542177"
     }
    ],
    "media": {
-    "img": "media/img/cd.webp",
-    "uk": "media/word/cd.mp3",
-    "us": "media/word/cd.mp3"
+    "img": "media/img/cd.webp?v=236198ea",
+    "uk": "media/word/cd.mp3?v=f5efe771",
+    "us": "media/word/cd.mp3?v=f5efe771"
    },
    "avoid": [
     "dvd"
@@ -921,23 +921,23 @@
     {
      "en": "Dad listens to music on the CD player.",
      "zh": "爸爸用 CD 播放机听音乐。",
-     "audio": "media/sent/1e7b1afd3191.mp3"
+     "audio": "media/sent/1e7b1afd3191.mp3?v=09294f7e"
     },
     {
      "en": "The CD player is broken.",
      "zh": "CD 播放机坏了。",
-     "audio": "media/sent/5a902fa45ffa.mp3"
+     "audio": "media/sent/5a902fa45ffa.mp3?v=be98b5ad"
     },
     {
      "en": "We need a new CD player.",
      "zh": "我们需要一个新的 CD 播放机。",
-     "audio": "media/sent/6bd0959ceb46.mp3"
+     "audio": "media/sent/6bd0959ceb46.mp3?v=945b20dc"
     }
    ],
    "media": {
-    "img": "media/img/cd-player.webp",
-    "uk": "media/word/cd-player.mp3",
-    "us": "media/word/cd-player.mp3"
+    "img": "media/img/cd-player.webp?v=65bb8ba1",
+    "uk": "media/word/cd-player.mp3?v=589e0a9f",
+    "us": "media/word/cd-player.mp3?v=589e0a9f"
    },
    "hook": {
     "kind": "split",
@@ -975,23 +975,23 @@
     {
      "en": "The clock in the kitchen is loud.",
      "zh": "厨房里的钟很响。",
-     "audio": "media/sent/799fde210438.mp3"
+     "audio": "media/sent/799fde210438.mp3?v=b450082d"
     },
     {
      "en": "Mum looks at the clock on the wall.",
      "zh": "妈妈看看墙上的钟。",
-     "audio": "media/sent/774ba19842a4.mp3"
+     "audio": "media/sent/774ba19842a4.mp3?v=dfc51956"
     },
     {
      "en": "The clock says it is time for bed.",
      "zh": "钟显示该睡觉了。",
-     "audio": "media/sent/caf8a172ef4a.mp3"
+     "audio": "media/sent/caf8a172ef4a.mp3?v=6109ebf7"
     }
    ],
    "media": {
-    "img": "media/img/clock.webp",
-    "uk": "media/uk/clock.mp3",
-    "us": "media/us/clock.mp3"
+    "img": "media/img/clock.webp?v=604682be",
+    "uk": "media/uk/clock.mp3?v=12c5385e",
+    "us": "media/us/clock.mp3?v=97d0ff73"
    },
    "spell": true,
    "avoid": []
@@ -1025,23 +1025,23 @@
     {
      "en": "Mum cooks dinner on the cooker.",
      "zh": "妈妈在炉灶上做晚饭。",
-     "audio": "media/sent/a8a28e589317.mp3"
+     "audio": "media/sent/a8a28e589317.mp3?v=da2a70c7"
     },
     {
      "en": "Be careful of the hot cooker.",
      "zh": "小心烫的炉灶。",
-     "audio": "media/sent/93c05a606d7b.mp3"
+     "audio": "media/sent/93c05a606d7b.mp3?v=3a9f9f31"
     },
     {
      "en": "Grandma cleans the cooker every week.",
      "zh": "奶奶每周都清洁炉灶。",
-     "audio": "media/sent/32def9fd854b.mp3"
+     "audio": "media/sent/32def9fd854b.mp3?v=d3010d06"
     }
    ],
    "media": {
-    "img": "media/img/cooker.webp",
-    "uk": "media/uk/cooker.mp3",
-    "us": "media/us/cooker.mp3"
+    "img": "media/img/cooker.webp?v=90bf6cf6",
+    "uk": "media/uk/cooker.mp3?v=82542bdb",
+    "us": "media/us/cooker.mp3?v=45758eac"
    },
    "hook": {
     "kind": "affix",
@@ -1082,23 +1082,23 @@
     {
      "en": "Lily finds her favourite DVD.",
      "zh": "Lily 找到了她最喜欢的 DVD。",
-     "audio": "media/sent/56e09577b914.mp3"
+     "audio": "media/sent/56e09577b914.mp3?v=b29036c5"
     },
     {
      "en": "This DVD is very funny.",
      "zh": "这张 DVD 很有趣。",
-     "audio": "media/sent/ec2ee92a7ebe.mp3"
+     "audio": "media/sent/ec2ee92a7ebe.mp3?v=9ae51c96"
     },
     {
      "en": "Tom wants to watch the DVD again.",
      "zh": "Tom 想再看一次 DVD。",
-     "audio": "media/sent/e1f092077f4b.mp3"
+     "audio": "media/sent/e1f092077f4b.mp3?v=288744b4"
     }
    ],
    "media": {
-    "img": "media/img/dvd.webp",
-    "uk": "media/word/dvd.mp3",
-    "us": "media/word/dvd.mp3"
+    "img": "media/img/dvd.webp?v=df016687",
+    "uk": "media/word/dvd.mp3?v=ab3f0792",
+    "us": "media/word/dvd.mp3?v=ab3f0792"
    },
    "hook": {
     "kind": "contrast",
@@ -1140,23 +1140,23 @@
     {
      "en": "Dad uses the DVD player.",
      "zh": "爸爸用 DVD 播放机。",
-     "audio": "media/sent/ae4c71f22c60.mp3"
+     "audio": "media/sent/ae4c71f22c60.mp3?v=e92f948a"
     },
     {
      "en": "The new DVD player works well.",
      "zh": "新的 DVD 播放机工作正常。",
-     "audio": "media/sent/304a81e32253.mp3"
+     "audio": "media/sent/304a81e32253.mp3?v=d442e03f"
     },
     {
      "en": "Please turn on the DVD player.",
      "zh": "请打开 DVD 播放机。",
-     "audio": "media/sent/28215bfbb374.mp3"
+     "audio": "media/sent/28215bfbb374.mp3?v=76d1593a"
     }
    ],
    "media": {
-    "img": "media/img/dvd-player.webp",
-    "uk": "media/word/dvd-player.mp3",
-    "us": "media/word/dvd-player.mp3"
+    "img": "media/img/dvd-player.webp?v=4bd5d039",
+    "uk": "media/word/dvd-player.mp3?v=c695f9cc",
+    "us": "media/word/dvd-player.mp3?v=c695f9cc"
    },
    "hook": {
     "kind": "split",
@@ -1194,23 +1194,23 @@
     {
      "en": "Lily gets some juice from the fridge.",
      "zh": "Lily 从冰箱里拿了一些果汁。",
-     "audio": "media/sent/522d8d0ddddd.mp3"
+     "audio": "media/sent/522d8d0ddddd.mp3?v=62c23367"
     },
     {
      "en": "The fridge is very cold.",
      "zh": "冰箱很冷。",
-     "audio": "media/sent/c0ea3906153b.mp3"
+     "audio": "media/sent/c0ea3906153b.mp3?v=2701d39c"
     },
     {
      "en": "Max looks at the open fridge.",
      "zh": "Max 看着打开的冰箱。",
-     "audio": "media/sent/c2c38afc4f62.mp3"
+     "audio": "media/sent/c2c38afc4f62.mp3?v=f13e94af"
     }
    ],
    "media": {
-    "img": "media/img/fridge.webp",
-    "uk": "media/uk/fridge.mp3",
-    "us": "media/us/fridge.mp3"
+    "img": "media/img/fridge.webp?v=071900e9",
+    "uk": "media/uk/fridge.mp3?v=63a5fd39",
+    "us": "media/us/fridge.mp3?v=77f76960"
    },
    "spell": true,
    "avoid": [
@@ -1247,23 +1247,23 @@
     {
      "en": "Dad turns off the gas after cooking.",
      "zh": "爸爸做完饭后关掉燃气。",
-     "audio": "media/sent/a0f4d5b5d109.mp3"
+     "audio": "media/sent/a0f4d5b5d109.mp3?v=3a325f57"
     },
     {
      "en": "We need more gas for the fire.",
      "zh": "我们需要更多燃气来生火。",
-     "audio": "media/sent/0f4eef13f1ee.mp3"
+     "audio": "media/sent/0f4eef13f1ee.mp3?v=cb11dc26"
     },
     {
      "en": "The blue fire comes from the gas.",
      "zh": "蓝色的火来自燃气。",
-     "audio": "media/sent/c822dfed3fb0.mp3"
+     "audio": "media/sent/c822dfed3fb0.mp3?v=c2192d5f"
     }
    ],
    "media": {
-    "img": "media/img/gas.webp",
-    "uk": "media/uk/gas.mp3",
-    "us": "media/us/gas.mp3"
+    "img": "media/img/gas.webp?v=e26d255f",
+    "uk": "media/uk/gas.mp3?v=60844017",
+    "us": "media/us/gas.mp3?v=e3dccc91"
    },
    "avoid": [
     "heating"
@@ -1298,23 +1298,23 @@
     {
      "en": "The heating keeps the house warm.",
      "zh": "暖气让房子保持温暖。",
-     "audio": "media/sent/85f14b941c09.mp3"
+     "audio": "media/sent/85f14b941c09.mp3?v=b993fa78"
     },
     {
      "en": "It is cold, so we turn on the heating.",
      "zh": "天气冷，所以我们开暖气。",
-     "audio": "media/sent/e0bda15ed283.mp3"
+     "audio": "media/sent/e0bda15ed283.mp3?v=92aff346"
     },
     {
      "en": "Lily feels hot because of the heating.",
      "zh": "因为暖气，Lily 觉得热。",
-     "audio": "media/sent/c88eb3b5221d.mp3"
+     "audio": "media/sent/c88eb3b5221d.mp3?v=3a3fcd98"
     }
    ],
    "media": {
-    "img": "media/img/heating.webp",
-    "uk": "media/uk/heating.mp3",
-    "us": "media/us/heating.mp3"
+    "img": "media/img/heating.webp?v=c9a70586",
+    "uk": "media/uk/heating.mp3?v=c1b911f1",
+    "us": "media/us/heating.mp3?v=ae94ae69"
    },
    "hook": {
     "kind": "affix",
@@ -1352,23 +1352,23 @@
     {
      "en": "Mum turns on the lamp at night.",
      "zh": "妈妈晚上打开灯。",
-     "audio": "media/sent/af9500ff82df.mp3"
+     "audio": "media/sent/af9500ff82df.mp3?v=79fcecb0"
     },
     {
      "en": "The lamp gives a soft light.",
      "zh": "这盏灯发出柔和的光。",
-     "audio": "media/sent/a789c48abc38.mp3"
+     "audio": "media/sent/a789c48abc38.mp3?v=2a850016"
     },
     {
      "en": "Tom reads under his small lamp.",
      "zh": "Tom 在他的小台灯下读书。",
-     "audio": "media/sent/2ed64176adef.mp3"
+     "audio": "media/sent/2ed64176adef.mp3?v=fbe23726"
     }
    ],
    "media": {
-    "img": "media/img/lamp.webp",
-    "uk": "media/uk/lamp.mp3",
-    "us": "media/us/lamp.mp3"
+    "img": "media/img/lamp.webp?v=79afce2e",
+    "uk": "media/uk/lamp.mp3?v=f068945f",
+    "us": "media/us/lamp.mp3?v=7a05d7d8"
    },
    "avoid": [
     "light"
@@ -1410,23 +1410,23 @@
     {
      "en": "The light in the bedroom is bright.",
      "zh": "卧室里的灯很亮。",
-     "audio": "media/sent/65f14a690fb0.mp3"
+     "audio": "media/sent/65f14a690fb0.mp3?v=b9b5b0dd"
     },
     {
      "en": "Turn off the light before you sleep.",
      "zh": "睡觉前关灯。",
-     "audio": "media/sent/43905eba188b.mp3"
+     "audio": "media/sent/43905eba188b.mp3?v=098520b2"
     },
     {
      "en": "The sun gives us natural light.",
      "zh": "太阳给我们自然光。",
-     "audio": "media/sent/5185d55aab57.mp3"
+     "audio": "media/sent/5185d55aab57.mp3?v=accefcc2"
     }
    ],
    "media": {
-    "img": "media/img/light.webp",
-    "uk": "media/uk/light.mp3",
-    "us": "media/us/light.mp3"
+    "img": "media/img/light.webp?v=4e791705",
+    "uk": "media/uk/light.mp3?v=12d583da",
+    "us": "media/us/light.mp3?v=25c38e3a"
    },
    "spell": true,
    "avoid": [
@@ -1462,23 +1462,23 @@
     {
      "en": "Mum takes the cake out of the oven.",
      "zh": "妈妈把蛋糕从烤箱里拿出来。",
-     "audio": "media/sent/3fa91c730455.mp3"
+     "audio": "media/sent/3fa91c730455.mp3?v=99b48f13"
     },
     {
      "en": "The oven is very hot inside.",
      "zh": "烤箱里面很烫。",
-     "audio": "media/sent/78bc834d1c7f.mp3"
+     "audio": "media/sent/78bc834d1c7f.mp3?v=e7b22fce"
     },
     {
      "en": "We bake bread in the oven on Sundays.",
      "zh": "我们星期天在烤箱里烤面包。",
-     "audio": "media/sent/6d00c0510cc9.mp3"
+     "audio": "media/sent/6d00c0510cc9.mp3?v=b96feadd"
     }
    ],
    "media": {
-    "img": "media/img/oven.webp",
-    "uk": "media/uk/oven.mp3",
-    "us": "media/us/oven.mp3"
+    "img": "media/img/oven.webp?v=08348646",
+    "uk": "media/uk/oven.mp3?v=6f095338",
+    "us": "media/us/oven.mp3?v=8e52a703"
    },
    "hook": {
     "kind": "contrast",

@@ -233,3 +233,26 @@ describe("graduation", () => {
     expect(plan.reviews).toHaveLength(1);
   });
 });
+
+describe("rounds and leaving", () => {
+  it("ends a round after ROUND questions, but not inside an open group nor just before the day ends", async () => {
+    const { ROUND, roundEnds, openWords, questionsLeft } = await import("./session");
+    // 4 new words, then plenty of reviews: 4 practice + 6 reviews + 4 recall + the rest
+    const reviews = Array.from({ length: 30 }, (_, i) => ({ wordId: `r${i}`, skill: "meaning" as const }));
+    const s = buildSession({ reviews, newWords: ["a", "b", "c", "d"], backlog: 0 }, {}, seq());
+    const recallStart = s.steps.findIndex((x) => x.type === "q" && x.graded && "abcd".includes(x.wordId));
+    // inside the group (met, not recalled): never a break, and leaving would drop the four words
+    const inGroup = { ...s, index: recallStart };
+    expect(openWords(inGroup).sort()).toEqual(["a", "b", "c", "d"]);
+    expect(roundEnds(ROUND, inGroup)).toBe(false);
+    // the group recalled: a round may end
+    const after = { ...s, index: recallStart + 4, answered: ["a", "b", "c", "d"].map((id) => keyOf(id, "meaning")) };
+    expect(openWords(after)).toEqual([]);
+    expect(roundEnds(ROUND, after)).toBe(true);
+    expect(roundEnds(ROUND - 1, after)).toBe(false);
+    // fewer than half a round left: finish the day instead
+    const nearEnd = { ...after, index: s.steps.length - 2 };
+    expect(questionsLeft(nearEnd)).toBe(2);
+    expect(roundEnds(ROUND, nearEnd)).toBe(false);
+  });
+});

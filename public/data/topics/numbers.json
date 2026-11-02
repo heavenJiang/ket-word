@@ -31,23 +31,23 @@
     {
      "en": "I have one red balloon.",
      "zh": "我有一个红气球。",
-     "audio": "media/sent/66bea49cbac7.mp3"
+     "audio": "media/sent/66bea49cbac7.mp3?v=8b5a411c"
     },
     {
      "en": "Tom has one toy car.",
      "zh": "Tom 有一辆玩具车。",
-     "audio": "media/sent/5f681af4c2dd.mp3"
+     "audio": "media/sent/5f681af4c2dd.mp3?v=7223a3e0"
     },
     {
      "en": "There is one apple in the bowl.",
      "zh": "碗里有一个苹果。",
-     "audio": "media/sent/aeca24c15bde.mp3"
+     "audio": "media/sent/aeca24c15bde.mp3?v=313fd85b"
     }
    ],
    "media": {
-    "img": "media/img/one.webp",
-    "uk": "media/uk/one.mp3",
-    "us": "media/us/one.mp3"
+    "img": "media/img/one.webp?v=ca4ce9ed",
+    "uk": "media/uk/one.mp3?v=c4d019d2",
+    "us": "media/us/one.mp3?v=c0852532"
    },
    "spell": true,
    "avoid": []
@@ -76,23 +76,23 @@
     {
      "en": "Lily has two cats.",
      "zh": "Lily 有两只猫。",
-     "audio": "media/sent/838296f1f8a4.mp3"
+     "audio": "media/sent/838296f1f8a4.mp3?v=b371f25b"
     },
     {
      "en": "Max runs after two birds.",
      "zh": "Max 追着两只鸟跑。",
-     "audio": "media/sent/388372161b39.mp3"
+     "audio": "media/sent/388372161b39.mp3?v=4ffe9c55"
     },
     {
      "en": "We need two chairs for this table.",
      "zh": "这张桌子需要两把椅子。",
-     "audio": "media/sent/cf6795e457ac.mp3"
+     "audio": "media/sent/cf6795e457ac.mp3?v=f178dfef"
     }
    ],
    "media": {
-    "img": "media/img/two.webp",
-    "uk": "media/word/two.mp3",
-    "us": "media/word/two.mp3"
+    "img": "media/img/two.webp?v=6994384f",
+    "uk": "media/word/two.mp3?v=991d055a",
+    "us": "media/word/two.mp3?v=991d055a"
    },
    "hook": {
     "kind": "contrast",
@@ -124,23 +124,23 @@
     {
      "en": "There are three eggs.",
      "zh": "有三个鸡蛋。",
-     "audio": "media/sent/2a5b0958c092.mp3"
+     "audio": "media/sent/2a5b0958c092.mp3?v=aa10d756"
     },
     {
      "en": "Sam has three pencils in his bag.",
      "zh": "Sam 书包里有三支铅笔。",
-     "audio": "media/sent/9b04778c26a2.mp3"
+     "audio": "media/sent/9b04778c26a2.mp3?v=9090b1f1"
     },
     {
      "en": "Lily sees three stars tonight.",
      "zh": "Lily 今晚看到三颗星星。",
-     "audio": "media/sent/f41e46d48241.mp3"
+     "audio": "media/sent/f41e46d48241.mp3?v=d898efeb"
     }
    ],
    "media": {
-    "img": "media/img/three.webp",
-    "uk": "media/word/three.mp3",
-    "us": "media/word/three.mp3"
+    "img": "media/img/three.webp?v=7f4ba63e",
+    "uk": "media/word/three.mp3?v=0d6f4bfc",
+    "us": "media/word/three.mp3?v=0d6f4bfc"
    },
    "hook": {
     "kind": "contrast",
@@ -172,23 +172,23 @@
     {
      "en": "Dad has four books.",
      "zh": "爸爸有四本书。",
-     "audio": "media/sent/c17b1d862425.mp3"
+     "audio": "media/sent/c17b1d862425.mp3?v=9599bc5d"
     },
     {
      "en": "The table has four legs.",
      "zh": "桌子有四条腿。",
-     "audio": "media/sent/770c3bade2a3.mp3"
+     "audio": "media/sent/770c3bade2a3.mp3?v=55a770b5"
     },
     {
      "en": "Tom found four leaves in autumn.",
      "zh": "Tom 在秋天找到了四片叶子。",
-     "audio": "media/sent/4e41abab3287.mp3"
+     "audio": "media/sent/4e41abab3287.mp3?v=870e44e4"
     }
    ],
    "media": {
-    "img": "media/img/four.webp",
-    "uk": "media/uk/four.mp3",
-    "us": "media/us/four.mp3"
+    "img": "media/img/four.webp?v=4d144b1c",
+    "uk": "media/uk/four.mp3?v=217aa50e",
+    "us": "media/us/four.mp3?v=6da61c12"
    },
    "spell": true,
    "avoid": []
@@ -217,23 +217,23 @@
     {
      "en": "Max has five toys in his bed.",
      "zh": "Max 的窝里有五个玩具。",
-     "audio": "media/sent/fb1cdcfe7173.mp3"
+     "audio": "media/sent/fb1cdcfe7173.mp3?v=045be0db"
     },
     {
      "en": "Lily has five fingers on her hand.",
      "zh": "Lily 一只手上有五根手指。",
-     "audio": "media/sent/c323c36667d9.mp3"
+     "audio": "media/sent/c323c36667d9.mp3?v=6cccebca"
     },
     {
      "en": "There are five apples in the box.",
      "zh": "盒子里有五个苹果。",
-     "audio": "media/sent/e7cb9111eef6.mp3"
+     "audio": "media/sent/e7cb9111eef6.mp3?v=8241d408"
     }
    ],
    "media": {
-    "img": "media/img/five.webp",
-    "uk": "media/word/five.mp3",
-    "us": "media/word/five.mp3"
+    "img": "media/img/five.webp?v=153ecb58",
+    "uk": "media/word/five.mp3?v=d1c32d6a",
+    "us": "media/word/five.mp3?v=d1c32d6a"
    },
    "avoid": []
   },
@@ -261,23 +261,23 @@
     {
      "en": "Six ducks swim in the water.",
      "zh": "六只鸭子在水里游泳。",
-     "audio": "media/sent/3dbae661502b.mp3"
+     "audio": "media/sent/3dbae661502b.mp3?v=e2f67889"
     },
     {
      "en": "Tom has six pens.",
      "zh": "Tom 有六支钢笔。",
-     "audio": "media/sent/52d1d67a57f3.mp3"
+     "audio": "media/sent/52d1d67a57f3.mp3?v=1b284739"
     },
     {
      "en": "We see six birds in the tree.",
      "zh": "我们在树上看到六只鸟。",
-     "audio": "media/sent/31d5a7907ead.mp3"
+     "audio": "media/sent/31d5a7907ead.mp3?v=dc1667e8"
     }
    ],
    "media": {
-    "img": "media/img/six.webp",
-    "uk": "media/word/six.mp3",
-    "us": "media/word/six.mp3"
+    "img": "media/img/six.webp?v=f40adb10",
+    "uk": "media/word/six.mp3?v=af6e4f22",
+    "us": "media/word/six.mp3?v=af6e4f22"
    },
    "avoid": []
   },
@@ -306,23 +306,23 @@
     {
      "en": "There are seven days in a week.",
      "zh": "一周有七天。",
-     "audio": "media/sent/13cda664705d.mp3"
+     "audio": "media/sent/13cda664705d.mp3?v=901000e4"
     },
     {
      "en": "Sam has seven books in his bag.",
      "zh": "Sam 书包里有七本书。",
-     "audio": "media/sent/683f8deb23ec.mp3"
+     "audio": "media/sent/683f8deb23ec.mp3?v=984880ee"
     },
     {
      "en": "Lily goes up seven stairs.",
      "zh": "Lily 上七级楼梯。",
-     "audio": "media/sent/ea47d9a555fb.mp3"
+     "audio": "media/sent/ea47d9a555fb.mp3?v=faf28231"
     }
    ],
    "media": {
-    "img": "media/img/seven.webp",
-    "uk": "media/word/seven.mp3",
-    "us": "media/word/seven.mp3"
+    "img": "media/img/seven.webp?v=09fb3b0f",
+    "uk": "media/word/seven.mp3?v=cd51b40c",
+    "us": "media/word/seven.mp3?v=cd51b40c"
    },
    "avoid": []
   },
@@ -350,23 +350,23 @@
     {
      "en": "Eight spiders are in the web.",
      "zh": "网里有八只蜘蛛。",
-     "audio": "media/sent/b58cdd0b6cdd.mp3"
+     "audio": "media/sent/b58cdd0b6cdd.mp3?v=a64130b2"
     },
     {
      "en": "Tom has eight blocks in his box.",
      "zh": "Tom 盒子里有八个积木。",
-     "audio": "media/sent/2ff7d81e86c7.mp3"
+     "audio": "media/sent/2ff7d81e86c7.mp3?v=e58507cf"
     },
     {
      "en": "We eat eight grapes.",
      "zh": "我们吃了八颗葡萄。",
-     "audio": "media/sent/8165e44580d2.mp3"
+     "audio": "media/sent/8165e44580d2.mp3?v=58df4cc6"
     }
    ],
    "media": {
-    "img": "media/img/eight.webp",
-    "uk": "media/word/eight.mp3",
-    "us": "media/word/eight.mp3"
+    "img": "media/img/eight.webp?v=38e8d820",
+    "uk": "media/word/eight.mp3?v=e81fa6ab",
+    "us": "media/word/eight.mp3?v=e81fa6ab"
    },
    "avoid": []
   },
@@ -394,23 +394,23 @@
     {
      "en": "Lily is nine years old.",
      "zh": "Lily 九岁了。",
-     "audio": "media/sent/2b50496f38da.mp3"
+     "audio": "media/sent/2b50496f38da.mp3?v=0a97830d"
     },
     {
      "en": "There are nine flowers in the room.",
      "zh": "房间里有九朵花。",
-     "audio": "media/sent/79cf702b54a9.mp3"
+     "audio": "media/sent/79cf702b54a9.mp3?v=c77b8241"
     },
     {
      "en": "Sam sees nine clouds in the sky.",
      "zh": "Sam 看到天上有九朵云。",
-     "audio": "media/sent/f67151f6ee1e.mp3"
+     "audio": "media/sent/f67151f6ee1e.mp3?v=a34291eb"
     }
    ],
    "media": {
-    "img": "media/img/nine.webp",
-    "uk": "media/uk/nine.mp3",
-    "us": "media/us/nine.mp3"
+    "img": "media/img/nine.webp?v=5d313ae9",
+    "uk": "media/uk/nine.mp3?v=71942b3c",
+    "us": "media/us/nine.mp3?v=117814d4"
    },
    "spell": true,
    "avoid": []
@@ -439,23 +439,23 @@
     {
      "en": "I have ten fingers.",
      "zh": "我有十根手指。",
-     "audio": "media/sent/4fa890def07f.mp3"
+     "audio": "media/sent/4fa890def07f.mp3?v=2847d1b6"
     },
     {
      "en": "Ten children swim in the pool.",
      "zh": "十个孩子在泳池里游泳。",
-     "audio": "media/sent/4736a871c6cc.mp3"
+     "audio": "media/sent/4736a871c6cc.mp3?v=5bafeb6d"
     },
     {
      "en": "There are ten eggs in the box.",
      "zh": "盒子里有十个鸡蛋。",
-     "audio": "media/sent/3f7546aaa840.mp3"
+     "audio": "media/sent/3f7546aaa840.mp3?v=bfa13f62"
     }
    ],
    "media": {
-    "img": "media/img/ten.webp",
-    "uk": "media/word/ten.mp3",
-    "us": "media/word/ten.mp3"
+    "img": "media/img/ten.webp?v=850d529c",
+    "uk": "media/word/ten.mp3?v=bf11c487",
+    "us": "media/word/ten.mp3?v=bf11c487"
    },
    "avoid": []
   },
@@ -485,23 +485,23 @@
     {
      "en": "Lily has eleven cards.",
      "zh": "Lily 有十一张卡片。",
-     "audio": "media/sent/f1b2942846d8.mp3"
+     "audio": "media/sent/f1b2942846d8.mp3?v=7f890621"
     },
     {
      "en": "Sam is eleven years old.",
      "zh": "Sam 十一岁了。",
-     "audio": "media/sent/af980bdd4a02.mp3"
+     "audio": "media/sent/af980bdd4a02.mp3?v=f09d6c2b"
     },
     {
      "en": "We see eleven birds in the tree.",
      "zh": "我们在树上看到十一只鸟。",
-     "audio": "media/sent/bf0873b15116.mp3"
+     "audio": "media/sent/bf0873b15116.mp3?v=a9a6989a"
     }
    ],
    "media": {
-    "img": "media/img/eleven.webp",
-    "uk": "media/word/eleven.mp3",
-    "us": "media/word/eleven.mp3"
+    "img": "media/img/eleven.webp?v=bae50284",
+    "uk": "media/word/eleven.mp3?v=d3709ab7",
+    "us": "media/word/eleven.mp3?v=d3709ab7"
    },
    "hook": {
     "kind": "contrast",
@@ -533,23 +533,23 @@
     {
      "en": "There are twelve months in a year.",
      "zh": "一年有十二个月。",
-     "audio": "media/sent/eb32a94c3aae.mp3"
+     "audio": "media/sent/eb32a94c3aae.mp3?v=fb9c7122"
     },
     {
      "en": "Tom has twelve pens.",
      "zh": "Tom 有十二支钢笔。",
-     "audio": "media/sent/a0e9b89f9368.mp3"
+     "audio": "media/sent/a0e9b89f9368.mp3?v=a60183d2"
     },
     {
      "en": "We eat twelve apples today.",
      "zh": "我们今天吃十二个苹果。",
-     "audio": "media/sent/6032399bdf48.mp3"
+     "audio": "media/sent/6032399bdf48.mp3?v=d08d541a"
     }
    ],
    "media": {
-    "img": "media/img/twelve.webp",
-    "uk": "media/uk/twelve.mp3",
-    "us": "media/us/twelve.mp3"
+    "img": "media/img/twelve.webp?v=816fc495",
+    "uk": "media/uk/twelve.mp3?v=f50c1b1b",
+    "us": "media/us/twelve.mp3?v=62eadf1e"
    },
    "spell": true,
    "avoid": []
@@ -579,23 +579,23 @@
     {
      "en": "Sam has thirteen balls.",
      "zh": "Sam 有十三个球。",
-     "audio": "media/sent/2b792d164ba9.mp3"
+     "audio": "media/sent/2b792d164ba9.mp3?v=d4135520"
     },
     {
      "en": "Mia's brother is thirteen years old.",
      "zh": "Mia 的哥哥十三岁了。",
-     "audio": "media/sent/27711236f7dd.mp3"
+     "audio": "media/sent/27711236f7dd.mp3?v=d173d9ee"
     },
     {
      "en": "There are thirteen stairs up.",
      "zh": "上面有十三级楼梯。",
-     "audio": "media/sent/8c6f29655be7.mp3"
+     "audio": "media/sent/8c6f29655be7.mp3?v=a24e5394"
     }
    ],
    "media": {
-    "img": "media/img/thirteen.webp",
-    "uk": "media/word/thirteen.mp3",
-    "us": "media/word/thirteen.mp3"
+    "img": "media/img/thirteen.webp?v=f4f44101",
+    "uk": "media/word/thirteen.mp3?v=fa1887b0",
+    "us": "media/word/thirteen.mp3?v=fa1887b0"
    },
    "avoid": []
   },
@@ -624,23 +624,23 @@
     {
      "en": "There are fourteen pages in this book.",
      "zh": "这本书有十四页。",
-     "audio": "media/sent/c7316200fe23.mp3"
+     "audio": "media/sent/c7316200fe23.mp3?v=f44892ed"
     },
     {
      "en": "Tom has fourteen cards.",
      "zh": "Tom 有十四张卡片。",
-     "audio": "media/sent/aea4b1acec3c.mp3"
+     "audio": "media/sent/aea4b1acec3c.mp3?v=6cc5962f"
     },
     {
      "en": "We see fourteen stars tonight.",
      "zh": "我们今晚看到十四颗星星。",
-     "audio": "media/sent/71588c0bfc43.mp3"
+     "audio": "media/sent/71588c0bfc43.mp3?v=e560c32d"
     }
    ],
    "media": {
-    "img": "media/img/fourteen.webp",
-    "uk": "media/word/fourteen.mp3",
-    "us": "media/word/fourteen.mp3"
+    "img": "media/img/fourteen.webp?v=3f254124",
+    "uk": "media/word/fourteen.mp3?v=c3a56a61",
+    "us": "media/word/fourteen.mp3?v=c3a56a61"
    },
    "hook": {
     "kind": "affix",
@@ -673,23 +673,23 @@
     {
      "en": "Lily has fifteen minutes left.",
      "zh": "Lily 还有十五分钟。",
-     "audio": "media/sent/0e8bff16f123.mp3"
+     "audio": "media/sent/0e8bff16f123.mp3?v=62c6fae6"
     },
     {
      "en": "The film starts in fifteen minutes.",
      "zh": "电影十五分钟后开始。",
-     "audio": "media/sent/1b9fae2e40a7.mp3"
+     "audio": "media/sent/1b9fae2e40a7.mp3?v=655caded"
     },
     {
      "en": "There are fifteen eggs in the box.",
      "zh": "盒子里有十五个鸡蛋。",
-     "audio": "media/sent/356744492f89.mp3"
+     "audio": "media/sent/356744492f89.mp3?v=1c31b642"
     }
    ],
    "media": {
-    "img": "media/img/fifteen.webp",
-    "uk": "media/word/fifteen.mp3",
-    "us": "media/word/fifteen.mp3"
+    "img": "media/img/fifteen.webp?v=59d15bed",
+    "uk": "media/word/fifteen.mp3?v=f543c070",
+    "us": "media/word/fifteen.mp3?v=f543c070"
    },
    "avoid": []
   },
@@ -718,23 +718,23 @@
     {
      "en": "Tom has sixteen cards.",
      "zh": "Tom 有十六张卡片。",
-     "audio": "media/sent/cf5eb1277db0.mp3"
+     "audio": "media/sent/cf5eb1277db0.mp3?v=6063bfdf"
     },
     {
      "en": "Lily sees sixteen birds in the tree.",
      "zh": "Lily 看到树上有十六只鸟。",
-     "audio": "media/sent/144df70629cb.mp3"
+     "audio": "media/sent/144df70629cb.mp3?v=ff137dde"
     },
     {
      "en": "We have sixteen cookies.",
      "zh": "我们有十六块饼干。",
-     "audio": "media/sent/533c3e204140.mp3"
+     "audio": "media/sent/533c3e204140.mp3?v=31f3e8d6"
     }
    ],
    "media": {
-    "img": "media/img/sixteen.webp",
-    "uk": "media/uk/sixteen.mp3",
-    "us": "media/us/sixteen.mp3"
+    "img": "media/img/sixteen.webp?v=fa61caec",
+    "uk": "media/uk/sixteen.mp3?v=5676e59f",
+    "us": "media/us/sixteen.mp3?v=31e6a418"
    },
    "spell": true,
    "hook": {
@@ -769,23 +769,23 @@
     {
      "en": "There are seventeen stairs up.",
      "zh": "上面有十七级楼梯。",
-     "audio": "media/sent/7f471a9943ec.mp3"
+     "audio": "media/sent/7f471a9943ec.mp3?v=5f9526cc"
     },
     {
      "en": "Mia's sister is seventeen.",
      "zh": "Mia 的姐姐十七岁。",
-     "audio": "media/sent/e79c4cc2b8f8.mp3"
+     "audio": "media/sent/e79c4cc2b8f8.mp3?v=d4a50f7c"
     },
     {
      "en": "Tom has seventeen cards.",
      "zh": "Tom 有十七张卡片。",
-     "audio": "media/sent/f6ba181b0c14.mp3"
+     "audio": "media/sent/f6ba181b0c14.mp3?v=7f20ac2e"
     }
    ],
    "media": {
-    "img": "media/img/seventeen.webp",
-    "uk": "media/uk/seventeen.mp3",
-    "us": "media/us/seventeen.mp3"
+    "img": "media/img/seventeen.webp?v=552b4d46",
+    "uk": "media/uk/seventeen.mp3?v=751c38a9",
+    "us": "media/us/seventeen.mp3?v=fcd35b50"
    },
    "spell": true,
    "hook": {
@@ -819,23 +819,23 @@
     {
      "en": "Lily has eighteen pens.",
      "zh": "Lily 有十八支钢笔。",
-     "audio": "media/sent/405b52ecb986.mp3"
+     "audio": "media/sent/405b52ecb986.mp3?v=16c0c86d"
     },
     {
      "en": "Eighteen children are on the bus.",
      "zh": "公共汽车上有十八个孩子。",
-     "audio": "media/sent/e701d8c50869.mp3"
+     "audio": "media/sent/e701d8c50869.mp3?v=a5b95cb7"
     },
     {
      "en": "There are eighteen eggs in the box.",
      "zh": "盒子里有十八个鸡蛋。",
-     "audio": "media/sent/f742e434991d.mp3"
+     "audio": "media/sent/f742e434991d.mp3?v=2fe000cd"
     }
    ],
    "media": {
-    "img": "media/img/eighteen.webp",
-    "uk": "media/uk/eighteen.mp3",
-    "us": "media/us/eighteen.mp3"
+    "img": "media/img/eighteen.webp?v=9b1243d9",
+    "uk": "media/uk/eighteen.mp3?v=752132f0",
+    "us": "media/us/eighteen.mp3?v=b92713d9"
    },
    "spell": true,
    "avoid": []
@@ -865,23 +865,23 @@
     {
      "en": "Sam has nineteen balls.",
      "zh": "Sam 有十九个球。",
-     "audio": "media/sent/17c23c732537.mp3"
+     "audio": "media/sent/17c23c732537.mp3?v=48a4b81b"
     },
     {
      "en": "Grandpa has nineteen sheep.",
      "zh": "爷爷有十九只羊。",
-     "audio": "media/sent/87677a49452a.mp3"
+     "audio": "media/sent/87677a49452a.mp3?v=c948fea5"
     },
     {
      "en": "We see nineteen clouds today.",
      "zh": "我们今天看到十九朵云。",
-     "audio": "media/sent/31c594783de9.mp3"
+     "audio": "media/sent/31c594783de9.mp3?v=b5aeef64"
     }
    ],
    "media": {
-    "img": "media/img/nineteen.webp",
-    "uk": "media/word/nineteen.mp3",
-    "us": "media/word/nineteen.mp3"
+    "img": "media/img/nineteen.webp?v=61af07b9",
+    "uk": "media/word/nineteen.mp3?v=2b6fb8ca",
+    "us": "media/word/nineteen.mp3?v=2b6fb8ca"
    },
    "hook": {
     "kind": "affix",
@@ -914,23 +914,23 @@
     {
      "en": "There are twenty days left.",
      "zh": "还剩二十天。",
-     "audio": "media/sent/9cad5f1b5281.mp3"
+     "audio": "media/sent/9cad5f1b5281.mp3?v=1f9ed4f8"
     },
     {
      "en": "Tom has twenty cards.",
      "zh": "Tom 有二十张卡片。",
-     "audio": "media/sent/276d73bfe42c.mp3"
+     "audio": "media/sent/276d73bfe42c.mp3?v=a625b9d9"
     },
     {
      "en": "Twenty children are in Lily's class.",
      "zh": "Lily 班上有二十个孩子。",
-     "audio": "media/sent/c49623e40961.mp3"
+     "audio": "media/sent/c49623e40961.mp3?v=4c85a205"
     }
    ],
    "media": {
-    "img": "media/img/twenty.webp",
-    "uk": "media/word/twenty.mp3",
-    "us": "media/word/twenty.mp3"
+    "img": "media/img/twenty.webp?v=3e36b613",
+    "uk": "media/word/twenty.mp3?v=4a3bcaa5",
+    "us": "media/word/twenty.mp3?v=4a3bcaa5"
    },
    "avoid": []
   },
@@ -959,23 +959,23 @@
     {
      "en": "Mum's friend is thirty years old.",
      "zh": "妈妈的朋友三十岁了。",
-     "audio": "media/sent/d2502aae565c.mp3"
+     "audio": "media/sent/d2502aae565c.mp3?v=56114253"
     },
     {
      "en": "There are thirty eggs in the box.",
      "zh": "盒子里有三十个鸡蛋。",
-     "audio": "media/sent/e0f638c80043.mp3"
+     "audio": "media/sent/e0f638c80043.mp3?v=5a21c92b"
     },
     {
      "en": "Mum waits thirty minutes for the bus.",
      "zh": "妈妈等公交车等了三十分钟。",
-     "audio": "media/sent/ef662fe10b0f.mp3"
+     "audio": "media/sent/ef662fe10b0f.mp3?v=f38f4065"
     }
    ],
    "media": {
-    "img": "media/img/thirty.webp",
-    "uk": "media/uk/thirty.mp3",
-    "us": "media/us/thirty.mp3"
+    "img": "media/img/thirty.webp?v=c1610da7",
+    "uk": "media/uk/thirty.mp3?v=ff4f095e",
+    "us": "media/us/thirty.mp3?v=c4740f47"
    },
    "spell": true,
    "avoid": []
@@ -1005,23 +1005,23 @@
     {
      "en": "Dad drives at forty kilometres per hour.",
      "zh": "爸爸以每小时四十公里的速度开车。",
-     "audio": "media/sent/98a6ab1f701b.mp3"
+     "audio": "media/sent/98a6ab1f701b.mp3?v=894878bf"
     },
     {
      "en": "The beach is forty minutes away by car.",
      "zh": "开车去海滩要四十分钟。",
-     "audio": "media/sent/1ef4358dab35.mp3"
+     "audio": "media/sent/1ef4358dab35.mp3?v=f6a23ddc"
     },
     {
      "en": "We need forty cups for the party.",
      "zh": "派对需要四十个杯子。",
-     "audio": "media/sent/b62587faf03d.mp3"
+     "audio": "media/sent/b62587faf03d.mp3?v=5e9dcb67"
     }
    ],
    "media": {
-    "img": "media/img/forty.webp",
-    "uk": "media/uk/forty.mp3",
-    "us": "media/us/forty.mp3"
+    "img": "media/img/forty.webp?v=cab2dec7",
+    "uk": "media/uk/forty.mp3?v=ffd1b341",
+    "us": "media/us/forty.mp3?v=26e17448"
    },
    "spell": true,
    "avoid": []
@@ -1051,23 +1051,23 @@
     {
      "en": "Lily has fifty pictures in her book.",
      "zh": "Lily 的书里有五十张图片。",
-     "audio": "media/sent/2f21cc69254d.mp3"
+     "audio": "media/sent/2f21cc69254d.mp3?v=79e5bfcb"
     },
     {
      "en": "Grandma pays fifty pounds for the coat.",
      "zh": "奶奶花了五十英镑买这件外套。",
-     "audio": "media/sent/4f9a09dcdc1d.mp3"
+     "audio": "media/sent/4f9a09dcdc1d.mp3?v=c82f708e"
     },
     {
      "en": "Tom waits fifty seconds.",
      "zh": "Tom 等了五十秒。",
-     "audio": "media/sent/f5e1ce8b8968.mp3"
+     "audio": "media/sent/f5e1ce8b8968.mp3?v=106626da"
     }
    ],
    "media": {
-    "img": "media/img/fifty.webp",
-    "uk": "media/word/fifty.mp3",
-    "us": "media/word/fifty.mp3"
+    "img": "media/img/fifty.webp?v=6d4da365",
+    "uk": "media/word/fifty.mp3?v=abef96a6",
+    "us": "media/word/fifty.mp3?v=abef96a6"
    },
    "avoid": []
   },
@@ -1096,23 +1096,23 @@
     {
      "en": "Grandma is sixty years old.",
      "zh": "奶奶六十岁。",
-     "audio": "media/sent/62449d09b218.mp3"
+     "audio": "media/sent/62449d09b218.mp3?v=bd5358c1"
     },
     {
      "en": "One hour has sixty minutes.",
      "zh": "一小时有六十分钟。",
-     "audio": "media/sent/3f4df4fa34a7.mp3"
+     "audio": "media/sent/3f4df4fa34a7.mp3?v=5f410fde"
     },
     {
      "en": "Dad runs sixty metres to catch the bus.",
      "zh": "爸爸跑了六十米去赶公交车。",
-     "audio": "media/sent/4d028e48f99f.mp3"
+     "audio": "media/sent/4d028e48f99f.mp3?v=28e3b37d"
     }
    ],
    "media": {
-    "img": "media/img/sixty.webp",
-    "uk": "media/uk/sixty.mp3",
-    "us": "media/us/sixty.mp3"
+    "img": "media/img/sixty.webp?v=61525a2f",
+    "uk": "media/uk/sixty.mp3?v=721443af",
+    "us": "media/us/sixty.mp3?v=f984fdc8"
    },
    "spell": true,
    "avoid": []
@@ -1143,23 +1143,23 @@
     {
      "en": "The film is seventy minutes long.",
      "zh": "这部电影长七十分钟。",
-     "audio": "media/sent/a8289f3d1043.mp3"
+     "audio": "media/sent/a8289f3d1043.mp3?v=96148aad"
     },
     {
      "en": "Grandpa is seventy years old.",
      "zh": "爷爷七十岁了。",
-     "audio": "media/sent/7b64860fa080.mp3"
+     "audio": "media/sent/7b64860fa080.mp3?v=4094adf3"
     },
     {
      "en": "There are seventy students in the hall.",
      "zh": "大厅里有七十名学生。",
-     "audio": "media/sent/64cebc9130b6.mp3"
+     "audio": "media/sent/64cebc9130b6.mp3?v=91fee77a"
     }
    ],
    "media": {
-    "img": "media/img/seventy.webp",
-    "uk": "media/word/seventy.mp3",
-    "us": "media/word/seventy.mp3"
+    "img": "media/img/seventy.webp?v=4de141f7",
+    "uk": "media/word/seventy.mp3?v=6441aa0c",
+    "us": "media/word/seventy.mp3?v=6441aa0c"
    },
    "hook": {
     "kind": "affix",
@@ -1192,23 +1192,23 @@
     {
      "en": "Grandma's mum is eighty years old.",
      "zh": "奶奶的妈妈八十岁了。",
-     "audio": "media/sent/ba1e8f97042e.mp3"
+     "audio": "media/sent/ba1e8f97042e.mp3?v=bbf962d6"
     },
     {
      "en": "The bus carries eighty passengers.",
      "zh": "这辆公交车载着八十名乘客。",
-     "audio": "media/sent/7cd94976510e.mp3"
+     "audio": "media/sent/7cd94976510e.mp3?v=4fe09967"
     },
     {
      "en": "Sam scores eighty points in the game.",
      "zh": "Sam 在比赛中得了八十分。",
-     "audio": "media/sent/730813291f28.mp3"
+     "audio": "media/sent/730813291f28.mp3?v=6b08fc2f"
     }
    ],
    "media": {
-    "img": "media/img/eighty.webp",
-    "uk": "media/word/eighty.mp3",
-    "us": "media/word/eighty.mp3"
+    "img": "media/img/eighty.webp?v=a34bec99",
+    "uk": "media/word/eighty.mp3?v=288c5889",
+    "us": "media/word/eighty.mp3?v=288c5889"
    },
    "hook": {
     "kind": "affix",
@@ -1241,23 +1241,23 @@
     {
      "en": "Grandpa's dad is ninety years old.",
      "zh": "爷爷的爸爸九十岁了。",
-     "audio": "media/sent/9f02139b6660.mp3"
+     "audio": "media/sent/9f02139b6660.mp3?v=4f86e0d5"
     },
     {
      "en": "Tom runs ninety metres in the park.",
      "zh": "Tom 在公园里跑了九十米。",
-     "audio": "media/sent/5fd10ba337a6.mp3"
+     "audio": "media/sent/5fd10ba337a6.mp3?v=4e52348d"
     },
     {
      "en": "There are ninety books on the shelf.",
      "zh": "书架上有九十本书。",
-     "audio": "media/sent/10d5870aeee9.mp3"
+     "audio": "media/sent/10d5870aeee9.mp3?v=93b27f54"
     }
    ],
    "media": {
-    "img": "media/img/ninety.webp",
-    "uk": "media/word/ninety.mp3",
-    "us": "media/word/ninety.mp3"
+    "img": "media/img/ninety.webp?v=1c30551c",
+    "uk": "media/word/ninety.mp3?v=e6d2b67c",
+    "us": "media/word/ninety.mp3?v=e6d2b67c"
    },
    "hook": {
     "kind": "affix",
@@ -1290,23 +1290,23 @@
     {
      "en": "Lily reads a hundred books.",
      "zh": "Lily 读了一百本书。",
-     "audio": "media/sent/cd346c883362.mp3"
+     "audio": "media/sent/cd346c883362.mp3?v=0160a117"
     },
     {
      "en": "We walk a hundred metres to school.",
      "zh": "我们走一百米去学校。",
-     "audio": "media/sent/320c7047b740.mp3"
+     "audio": "media/sent/320c7047b740.mp3?v=65fe5751"
     },
     {
      "en": "Dad has a hundred photos in his bag.",
      "zh": "爸爸包里有百张照片。",
-     "audio": "media/sent/1024da76bd23.mp3"
+     "audio": "media/sent/1024da76bd23.mp3?v=20cf9b6d"
     }
    ],
    "media": {
-    "img": "media/img/hundred.webp",
-    "uk": "media/uk/hundred.mp3",
-    "us": "media/us/hundred.mp3"
+    "img": "media/img/hundred.webp?v=6b028ad9",
+    "uk": "media/uk/hundred.mp3?v=83580215",
+    "us": "media/us/hundred.mp3?v=199619d1"
    },
    "spell": true,
    "hook": {
@@ -1340,23 +1340,23 @@
     {
      "en": "The city has a thousand lights.",
      "zh": "城市有一千盏灯。",
-     "audio": "media/sent/a4e70490d6e4.mp3"
+     "audio": "media/sent/a4e70490d6e4.mp3?v=f9e5a292"
     },
     {
      "en": "Sam reads a thousand words today.",
      "zh": "Sam 今天读了一千个单词。",
-     "audio": "media/sent/7a33240d51a6.mp3"
+     "audio": "media/sent/7a33240d51a6.mp3?v=dfded46d"
     },
     {
      "en": "The stadium holds a thousand people.",
      "zh": "体育场能容纳一千人。",
-     "audio": "media/sent/e172a95d84e6.mp3"
+     "audio": "media/sent/e172a95d84e6.mp3?v=17b9135e"
     }
    ],
    "media": {
-    "img": "media/img/thousand.webp",
-    "uk": "media/uk/thousand.mp3",
-    "us": "media/us/thousand.mp3"
+    "img": "media/img/thousand.webp?v=28501262",
+    "uk": "media/uk/thousand.mp3?v=4826ed57",
+    "us": "media/us/thousand.mp3?v=e1914834"
    },
    "hook": {
     "kind": "story",
@@ -1394,23 +1394,23 @@
     {
      "en": "Lily finishes first in the race.",
      "zh": "Lily 在比赛中得第一名。",
-     "audio": "media/sent/223975d28ca4.mp3"
+     "audio": "media/sent/223975d28ca4.mp3?v=21f828d8"
     },
     {
      "en": "Tom opens his present first.",
      "zh": "Tom 首先打开他的礼物。",
-     "audio": "media/sent/d773df15514f.mp3"
+     "audio": "media/sent/d773df15514f.mp3?v=9d24800f"
     },
     {
      "en": "This is my first day at school.",
      "zh": "这是我上学的第一天。",
-     "audio": "media/sent/305a6064d602.mp3"
+     "audio": "media/sent/305a6064d602.mp3?v=e6b386ed"
     }
    ],
    "media": {
-    "img": "media/img/first.webp",
-    "uk": "media/uk/first.mp3",
-    "us": "media/us/first.mp3"
+    "img": "media/img/first.webp?v=9145f305",
+    "uk": "media/uk/first.mp3?v=efed25ae",
+    "us": "media/us/first.mp3?v=6c5da706"
    },
    "spell": true,
    "avoid": [
@@ -1451,23 +1451,23 @@
     {
      "en": "Max waits two seconds.",
      "zh": "Max 等了两秒。",
-     "audio": "media/sent/5e1d66b63546.mp3"
+     "audio": "media/sent/5e1d66b63546.mp3?v=65383bf1"
     },
     {
      "en": "Wait ten seconds.",
      "zh": "等十秒。",
-     "audio": "media/sent/74237a67bd33.mp3"
+     "audio": "media/sent/74237a67bd33.mp3?v=dd2bc637"
     },
     {
      "en": "The light changes in one second.",
      "zh": "灯一秒后变了。",
-     "audio": "media/sent/df945a4b2f81.mp3"
+     "audio": "media/sent/df945a4b2f81.mp3?v=fac3c95a"
     }
    ],
    "media": {
-    "img": "media/img/second.webp",
-    "uk": "media/uk/second.mp3",
-    "us": "media/us/second.mp3"
+    "img": "media/img/second.webp?v=99740a3a",
+    "uk": "media/uk/second.mp3?v=5f40f949",
+    "us": "media/us/second.mp3?v=050f3809"
    },
    "spell": true,
    "avoid": [
@@ -1514,23 +1514,23 @@
     {
      "en": "Lily is second in the race.",
      "zh": "Lily 在比赛中得第二名。",
-     "audio": "media/sent/eef76f2abef3.mp3"
+     "audio": "media/sent/eef76f2abef3.mp3?v=7efc2664"
     },
     {
      "en": "This is my second book.",
      "zh": "这是我的第二本书。",
-     "audio": "media/sent/f80985c90865.mp3"
+     "audio": "media/sent/f80985c90865.mp3?v=117f511b"
     },
     {
      "en": "Tom gets the second prize.",
      "zh": "Tom 得了二等奖。",
-     "audio": "media/sent/d24af4e30ebe.mp3"
+     "audio": "media/sent/d24af4e30ebe.mp3?v=722585a2"
     }
    ],
    "media": {
-    "img": "media/img/second.2.webp",
-    "uk": "media/uk/second.mp3",
-    "us": "media/us/second.mp3"
+    "img": "media/img/second.2.webp?v=57b497b4",
+    "uk": "media/uk/second.mp3?v=5f40f949",
+    "us": "media/us/second.mp3?v=050f3809"
    },
    "of": "second",
    "ofZh": "秒；第二（的）",
@@ -1564,23 +1564,23 @@
     {
      "en": "Mia is third in the game.",
      "zh": "Mia 在游戏中得第三名。",
-     "audio": "media/sent/697efea43487.mp3"
+     "audio": "media/sent/697efea43487.mp3?v=fcf29f6f"
     },
     {
      "en": "This is my third apple.",
      "zh": "这是我的第三个苹果。",
-     "audio": "media/sent/0f71a7aa3c32.mp3"
+     "audio": "media/sent/0f71a7aa3c32.mp3?v=c7b6ec67"
     },
     {
      "en": "Get off the bus at the third stop.",
      "zh": "在第三站下车。",
-     "audio": "media/sent/24baef78b028.mp3"
+     "audio": "media/sent/24baef78b028.mp3?v=b477fe48"
     }
    ],
    "media": {
-    "img": "media/img/third.webp",
-    "uk": "media/uk/third.mp3",
-    "us": "media/us/third.mp3"
+    "img": "media/img/third.webp?v=44bd3228",
+    "uk": "media/uk/third.mp3?v=c564ad64",
+    "us": "media/us/third.mp3?v=a7af813c"
    },
    "spell": true,
    "avoid": [
@@ -1612,23 +1612,23 @@
     {
      "en": "Tom lives on the fourth floor.",
      "zh": "Tom 住在四楼。",
-     "audio": "media/sent/d0229c76bba3.mp3"
+     "audio": "media/sent/d0229c76bba3.mp3?v=13d12d08"
     },
     {
      "en": "It is the fourth day of school.",
      "zh": "这是上学的第四天。",
-     "audio": "media/sent/89a75897d95c.mp3"
+     "audio": "media/sent/89a75897d95c.mp3?v=792842a3"
     },
     {
      "en": "Lily opens the fourth box.",
      "zh": "Lily 打开第四个盒子。",
-     "audio": "media/sent/cef1b9e292ab.mp3"
+     "audio": "media/sent/cef1b9e292ab.mp3?v=0c0148ad"
     }
    ],
    "media": {
-    "img": "media/img/fourth.webp",
-    "uk": "media/uk/fourth.mp3",
-    "us": "media/us/fourth.mp3"
+    "img": "media/img/fourth.webp?v=d46671ae",
+    "uk": "media/uk/fourth.mp3?v=0568857c",
+    "us": "media/us/fourth.mp3?v=0a4dcd8b"
    },
    "spell": true,
    "avoid": []
@@ -1657,23 +1657,23 @@
     {
      "en": "Lily likes the fifth song.",
      "zh": "Lily 喜欢第五首歌。",
-     "audio": "media/sent/e7363a5815ae.mp3"
+     "audio": "media/sent/e7363a5815ae.mp3?v=2dc7748d"
     },
     {
      "en": "Tom has his fifth tooth today.",
      "zh": "Tom 今天长了第五颗牙。",
-     "audio": "media/sent/c9eabd1249b1.mp3"
+     "audio": "media/sent/c9eabd1249b1.mp3?v=75f61a1a"
     },
     {
      "en": "Grandma's birthday is on the fifth of May.",
      "zh": "奶奶的生日在五月五日。",
-     "audio": "media/sent/9353894be7f1.mp3"
+     "audio": "media/sent/9353894be7f1.mp3?v=52c3d2e1"
     }
    ],
    "media": {
-    "img": "media/img/fifth.webp",
-    "uk": "media/word/fifth.mp3",
-    "us": "media/word/fifth.mp3"
+    "img": "media/img/fifth.webp?v=4e512d48",
+    "uk": "media/word/fifth.mp3?v=9749398f",
+    "us": "media/word/fifth.mp3?v=9749398f"
    },
    "hook": {
     "kind": "contrast",
@@ -1705,23 +1705,23 @@
     {
      "en": "Sam is sixth in the line.",
      "zh": "Sam 排在队伍第六位。",
-     "audio": "media/sent/6de9e00005d0.mp3"
+     "audio": "media/sent/6de9e00005d0.mp3?v=5b6b14ed"
     },
     {
      "en": "Tom has his sixth birthday party.",
      "zh": "Tom 过六岁生日派对。",
-     "audio": "media/sent/ee59868773ca.mp3"
+     "audio": "media/sent/ee59868773ca.mp3?v=5066f46b"
     },
     {
      "en": "The bus comes at the sixth stop.",
      "zh": "公交车在第六站来了。",
-     "audio": "media/sent/ba7ef8a2e8dc.mp3"
+     "audio": "media/sent/ba7ef8a2e8dc.mp3?v=c274a6f2"
     }
    ],
    "media": {
-    "img": "media/img/sixth.webp",
-    "uk": "media/word/sixth.mp3",
-    "us": "media/word/sixth.mp3"
+    "img": "media/img/sixth.webp?v=bb3908b8",
+    "uk": "media/word/sixth.mp3?v=836340f5",
+    "us": "media/word/sixth.mp3?v=836340f5"
    },
    "hook": {
     "kind": "affix",
@@ -1753,23 +1753,23 @@
     {
      "en": "Lily has the seventh key.",
      "zh": "Lily 有第七把钥匙。",
-     "audio": "media/sent/51edf7cba651.mp3"
+     "audio": "media/sent/51edf7cba651.mp3?v=43928d4e"
     },
     {
      "en": "It is the seventh day of the week.",
      "zh": "这是一周的第七天。",
-     "audio": "media/sent/fc255920694a.mp3"
+     "audio": "media/sent/fc255920694a.mp3?v=2170084a"
     },
     {
      "en": "Tom walks to the seventh house.",
      "zh": "Tom 走到第七栋房子。",
-     "audio": "media/sent/19dd9d30a24c.mp3"
+     "audio": "media/sent/19dd9d30a24c.mp3?v=72ecbc6a"
     }
    ],
    "media": {
-    "img": "media/img/seventh.webp",
-    "uk": "media/uk/seventh.mp3",
-    "us": "media/us/seventh.mp3"
+    "img": "media/img/seventh.webp?v=951519d5",
+    "uk": "media/uk/seventh.mp3?v=be82403a",
+    "us": "media/us/seventh.mp3?v=83bd8b8d"
    },
    "hook": {
     "kind": "affix",
@@ -1801,23 +1801,23 @@
     {
      "en": "Mia is eighth in the class.",
      "zh": "Mia 在班上排第八。",
-     "audio": "media/sent/cd101f071143.mp3"
+     "audio": "media/sent/cd101f071143.mp3?v=777daafe"
     },
     {
      "en": "This is my eighth pencil.",
      "zh": "这是我的第八支铅笔。",
-     "audio": "media/sent/e994f28ff1c3.mp3"
+     "audio": "media/sent/e994f28ff1c3.mp3?v=3e4f8dbf"
     },
     {
      "en": "Mia's birthday is on the eighth of March.",
      "zh": "Mia 的生日在三月八日。",
-     "audio": "media/sent/c706779bd2ce.mp3"
+     "audio": "media/sent/c706779bd2ce.mp3?v=cd5c9e6d"
     }
    ],
    "media": {
-    "img": "media/img/eighth.webp",
-    "uk": "media/uk/eighth.mp3",
-    "us": "media/us/eighth.mp3"
+    "img": "media/img/eighth.webp?v=dda16b63",
+    "uk": "media/uk/eighth.mp3?v=30ff176c",
+    "us": "media/us/eighth.mp3?v=1e6971a6"
    },
    "hook": {
     "kind": "story",
@@ -1849,23 +1849,23 @@
     {
      "en": "Tom is ninth in the line.",
      "zh": "Tom 在队伍里排第九。",
-     "audio": "media/sent/7335eeb6772f.mp3"
+     "audio": "media/sent/7335eeb6772f.mp3?v=a39dd8cc"
     },
     {
      "en": "It is the ninth day of autumn.",
      "zh": "这是秋天的第九天。",
-     "audio": "media/sent/0387a35507f8.mp3"
+     "audio": "media/sent/0387a35507f8.mp3?v=d78d71d8"
     },
     {
      "en": "Lily finds the ninth star.",
      "zh": "Lily 找到了第九颗星星。",
-     "audio": "media/sent/4ce740f18105.mp3"
+     "audio": "media/sent/4ce740f18105.mp3?v=2cab3250"
     }
    ],
    "media": {
-    "img": "media/img/ninth.webp",
-    "uk": "media/uk/ninth.mp3",
-    "us": "media/us/ninth.mp3"
+    "img": "media/img/ninth.webp?v=b3aaa4a8",
+    "uk": "media/uk/ninth.mp3?v=71f4eb76",
+    "us": "media/us/ninth.mp3?v=6864a8d4"
    },
    "hook": {
     "kind": "contrast",
@@ -1897,23 +1897,23 @@
     {
      "en": "Today is Sam's tenth birthday.",
      "zh": "今天是 Sam 的十岁生日。",
-     "audio": "media/sent/90756afdb415.mp3"
+     "audio": "media/sent/90756afdb415.mp3?v=4c14fe12"
     },
     {
      "en": "This is my tenth book.",
      "zh": "这是我的第十本书。",
-     "audio": "media/sent/348e67d91f28.mp3"
+     "audio": "media/sent/348e67d91f28.mp3?v=0133a44f"
     },
     {
      "en": "Tom waits for the tenth bus.",
      "zh": "Tom 等第十辆公交车。",
-     "audio": "media/sent/0e44b745032d.mp3"
+     "audio": "media/sent/0e44b745032d.mp3?v=84a07a59"
     }
    ],
    "media": {
-    "img": "media/img/tenth.webp",
-    "uk": "media/uk/tenth.mp3",
-    "us": "media/us/tenth.mp3"
+    "img": "media/img/tenth.webp?v=a73387f5",
+    "uk": "media/uk/tenth.mp3?v=5d43ec76",
+    "us": "media/us/tenth.mp3?v=520e5a32"
    },
    "hook": {
     "kind": "affix",
@@ -1947,23 +1947,23 @@
     {
      "en": "Sam lives on the eleventh floor.",
      "zh": "Sam 住在十一楼。",
-     "audio": "media/sent/a9e1c806cd8d.mp3"
+     "audio": "media/sent/a9e1c806cd8d.mp3?v=cf576a66"
     },
     {
      "en": "It is the eleventh day of May.",
      "zh": "这是五月十一日。",
-     "audio": "media/sent/9bc5884a8341.mp3"
+     "audio": "media/sent/9bc5884a8341.mp3?v=bda4f2f2"
     },
     {
      "en": "My birthday is on the eleventh of June.",
      "zh": "我的生日在六月十一日。",
-     "audio": "media/sent/1b66031b78ea.mp3"
+     "audio": "media/sent/1b66031b78ea.mp3?v=89ccc0a2"
     }
    ],
    "media": {
-    "img": "media/img/eleventh.webp",
-    "uk": "media/word/eleventh.mp3",
-    "us": "media/word/eleventh.mp3"
+    "img": "media/img/eleventh.webp?v=0561987b",
+    "uk": "media/word/eleventh.mp3?v=d629c72f",
+    "us": "media/word/eleventh.mp3?v=d629c72f"
    },
    "hook": {
     "kind": "affix",
@@ -1995,23 +1995,23 @@
     {
      "en": "Tom is twelfth in the game.",
      "zh": "Tom 在比赛中排第十二。",
-     "audio": "media/sent/bc3c580d46d2.mp3"
+     "audio": "media/sent/bc3c580d46d2.mp3?v=4319dfda"
     },
     {
      "en": "This is my twelfth picture.",
      "zh": "这是我的第十二张图片。",
-     "audio": "media/sent/eeb6cd82ccc9.mp3"
+     "audio": "media/sent/eeb6cd82ccc9.mp3?v=f722dd1a"
     },
     {
      "en": "December is the twelfth month of the year.",
      "zh": "十二月是一年的第十二个月。",
-     "audio": "media/sent/8290625bbeda.mp3"
+     "audio": "media/sent/8290625bbeda.mp3?v=e5ed8f7a"
     }
    ],
    "media": {
-    "img": "media/img/twelfth.webp",
-    "uk": "media/uk/twelfth.mp3",
-    "us": "media/us/twelfth.mp3"
+    "img": "media/img/twelfth.webp?v=c64a12d5",
+    "uk": "media/uk/twelfth.mp3?v=9fa60a65",
+    "us": "media/us/twelfth.mp3?v=e4624776"
    },
    "avoid": []
   },
@@ -2041,23 +2041,23 @@
     {
      "en": "Dad works on the twentieth floor.",
      "zh": "爸爸在二十楼工作。",
-     "audio": "media/sent/3b42387cc048.mp3"
+     "audio": "media/sent/3b42387cc048.mp3?v=9cf39268"
     },
     {
      "en": "It is the twentieth day of term.",
      "zh": "这是学期的第二十天。",
-     "audio": "media/sent/e34f45fb56e2.mp3"
+     "audio": "media/sent/e34f45fb56e2.mp3?v=300ef57a"
     },
     {
      "en": "Grandpa's birthday is on the twentieth of July.",
      "zh": "爷爷的生日在七月二十日。",
-     "audio": "media/sent/d0efd75033bd.mp3"
+     "audio": "media/sent/d0efd75033bd.mp3?v=3646e7b1"
     }
    ],
    "media": {
-    "img": "media/img/twentieth.webp",
-    "uk": "media/word/twentieth.mp3",
-    "us": "media/word/twentieth.mp3"
+    "img": "media/img/twentieth.webp?v=9a347949",
+    "uk": "media/word/twentieth.mp3?v=615a6738",
+    "us": "media/word/twentieth.mp3?v=615a6738"
    },
    "avoid": []
   },
@@ -2087,23 +2087,23 @@
     {
      "en": "Mia's aunt has her thirtieth birthday party today.",
      "zh": "Mia 的阿姨今天开三十岁生日派对。",
-     "audio": "media/sent/87d9362e8c08.mp3"
+     "audio": "media/sent/87d9362e8c08.mp3?v=1b4b6666"
     },
     {
      "en": "June the thirtieth is the last day of June.",
      "zh": "六月三十日是六月的最后一天。",
-     "audio": "media/sent/f1e9630a4e79.mp3"
+     "audio": "media/sent/f1e9630a4e79.mp3?v=350dafd0"
     },
     {
      "en": "Is your party on the thirtieth?",
      "zh": "你的派对是在三十号吗？",
-     "audio": "media/sent/ee5a7172663e.mp3"
+     "audio": "media/sent/ee5a7172663e.mp3?v=c129c766"
     }
    ],
    "media": {
-    "img": "media/img/thirtieth.webp",
-    "uk": "media/word/thirtieth.mp3",
-    "us": "media/word/thirtieth.mp3"
+    "img": "media/img/thirtieth.webp?v=8c162572",
+    "uk": "media/word/thirtieth.mp3?v=299de5d9",
+    "us": "media/word/thirtieth.mp3?v=299de5d9"
    },
    "avoid": []
   }

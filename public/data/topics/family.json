@@ -29,23 +29,23 @@
     {
      "en": "Aunt Kate is Dad's sister.",
      "zh": "Kate 姑姑是爸爸的妹妹。",
-     "audio": "media/sent/ab91ec16b49f.mp3"
+     "audio": "media/sent/ab91ec16b49f.mp3?v=50b415b5"
     },
     {
      "en": "My aunt lives in London.",
      "zh": "我姑姑住在伦敦。",
-     "audio": "media/sent/068987b942fc.mp3"
+     "audio": "media/sent/068987b942fc.mp3?v=4dbc2804"
     },
     {
      "en": "Lily's aunt gives her a book.",
      "zh": "Lily 的姑姑送她一本书。",
-     "audio": "media/sent/1a488fce97cc.mp3"
+     "audio": "media/sent/1a488fce97cc.mp3?v=f5b5c62d"
     }
    ],
    "media": {
-    "img": "media/img/aunt.webp",
-    "uk": "media/uk/aunt.mp3",
-    "us": "media/us/aunt.mp3"
+    "img": "media/img/aunt.webp?v=7a4aa287",
+    "uk": "media/uk/aunt.mp3?v=ccfc5cd3",
+    "us": "media/us/aunt.mp3?v=175fae1a"
    },
    "spell": true,
    "avoid": [
@@ -81,23 +81,23 @@
     {
      "en": "Tom is a boy.",
      "zh": "Tom 是个男孩。",
-     "audio": "media/sent/7810c9c8b19d.mp3"
+     "audio": "media/sent/7810c9c8b19d.mp3?v=be3966f3"
     },
     {
      "en": "The boy is playing football.",
      "zh": "那个男孩在踢足球。",
-     "audio": "media/sent/ee4098d50c8f.mp3"
+     "audio": "media/sent/ee4098d50c8f.mp3?v=1342d98e"
     },
     {
      "en": "There are ten boys in my class.",
      "zh": "我们班有十个男孩。",
-     "audio": "media/sent/07004e1ed2ed.mp3"
+     "audio": "media/sent/07004e1ed2ed.mp3?v=f3eaff87"
     }
    ],
    "media": {
-    "img": "media/img/boy.webp",
-    "uk": "media/uk/boy.mp3",
-    "us": "media/us/boy.mp3"
+    "img": "media/img/boy.webp?v=57050c42",
+    "uk": "media/uk/boy.mp3?v=a61105f6",
+    "us": "media/us/boy.mp3?v=5dcced67"
    },
    "spell": true,
    "avoid": [
@@ -141,23 +141,23 @@
     {
      "en": "Lily has a little brother.",
      "zh": "Lily 有一个弟弟。",
-     "audio": "media/sent/e1de1cb2509a.mp3"
+     "audio": "media/sent/e1de1cb2509a.mp3?v=ef19e9ad"
     },
     {
      "en": "My brother is six years old.",
      "zh": "我弟弟六岁。",
-     "audio": "media/sent/32df44a95a23.mp3"
+     "audio": "media/sent/32df44a95a23.mp3?v=4398f2d6"
     },
     {
      "en": "Tom is Lily's brother.",
      "zh": "Tom 是 Lily 的弟弟。",
-     "audio": "media/sent/f022213e7519.mp3"
+     "audio": "media/sent/f022213e7519.mp3?v=1058b6ea"
     }
    ],
    "media": {
-    "img": "media/img/brother.webp",
-    "uk": "media/uk/brother.mp3",
-    "us": "media/us/brother.mp3"
+    "img": "media/img/brother.webp?v=1ab7ac92",
+    "uk": "media/uk/brother.mp3?v=bc85bab6",
+    "us": "media/us/brother.mp3?v=190adae3"
    },
    "spell": true,
    "avoid": [
@@ -195,23 +195,23 @@
     {
      "en": "The child is playing with blocks.",
      "zh": "这个孩子在玩积木。",
-     "audio": "media/sent/468784c8ad84.mp3"
+     "audio": "media/sent/468784c8ad84.mp3?v=eace6f18"
     },
     {
      "en": "Every child gets a cake.",
      "zh": "每个孩子都有一块蛋糕。",
-     "audio": "media/sent/d4043d8ec09f.mp3"
+     "audio": "media/sent/d4043d8ec09f.mp3?v=f7c3915c"
     },
     {
      "en": "Lily is a happy child.",
      "zh": "Lily 是个快乐的孩子。",
-     "audio": "media/sent/70ada96788ed.mp3"
+     "audio": "media/sent/70ada96788ed.mp3?v=761b3326"
     }
    ],
    "media": {
-    "img": "media/img/child.webp",
-    "uk": "media/uk/child.mp3",
-    "us": "media/us/child.mp3"
+    "img": "media/img/child.webp?v=a80fff6a",
+    "uk": "media/uk/child.mp3?v=0fec1f97",
+    "us": "media/us/child.mp3?v=c0d41650"
    },
    "spell": true,
    "avoid": [
@@ -253,23 +253,23 @@
     {
      "en": "Sam is Lily's cousin.",
      "zh": "Sam 是 Lily 的表哥。",
-     "audio": "media/sent/52fe2c4675a0.mp3"
+     "audio": "media/sent/52fe2c4675a0.mp3?v=ed1d16e1"
     },
     {
      "en": "My cousin is ten years old.",
      "zh": "我表哥十岁。",
-     "audio": "media/sent/bc87143fcf80.mp3"
+     "audio": "media/sent/bc87143fcf80.mp3?v=afa0b636"
     },
     {
      "en": "Lily plays with her cousin at the party.",
      "zh": "Lily 在聚会上和表哥一起玩。",
-     "audio": "media/sent/aeb5a0901c55.mp3"
+     "audio": "media/sent/aeb5a0901c55.mp3?v=a8d47c8c"
     }
    ],
    "media": {
-    "img": "media/img/cousin.webp",
-    "uk": "media/uk/cousin.mp3",
-    "us": "media/us/cousin.mp3"
+    "img": "media/img/cousin.webp?v=0a537550",
+    "uk": "media/uk/cousin.mp3?v=a7a8fbda",
+    "us": "media/us/cousin.mp3?v=49843e32"
    },
    "spell": true,
    "avoid": [
@@ -305,23 +305,23 @@
     {
      "en": "Dad is very tall.",
      "zh": "爸爸很高。",
-     "audio": "media/sent/8130180293e5.mp3"
+     "audio": "media/sent/8130180293e5.mp3?v=57aca7e2"
     },
     {
      "en": "My dad works in a bank.",
      "zh": "我爸爸在银行工作。",
-     "audio": "media/sent/40847a7453f7.mp3"
+     "audio": "media/sent/40847a7453f7.mp3?v=62749185"
     },
     {
      "en": "Dad, can you help me?",
      "zh": "爸爸，你能帮帮我吗？",
-     "audio": "media/sent/863965bde538.mp3"
+     "audio": "media/sent/863965bde538.mp3?v=aea2795a"
     }
    ],
    "media": {
-    "img": "media/img/dad.webp",
-    "uk": "media/word/dad.mp3",
-    "us": "media/word/dad.mp3"
+    "img": "media/img/dad.webp?v=b32e0421",
+    "uk": "media/word/dad.mp3?v=36c844c8",
+    "us": "media/word/dad.mp3?v=36c844c8"
    },
    "avoid": [
     "father",
@@ -357,23 +357,23 @@
     {
      "en": "Lily is Mum and Dad's daughter.",
      "zh": "Lily 是爸爸妈妈的女儿。",
-     "audio": "media/sent/20581c38000a.mp3"
+     "audio": "media/sent/20581c38000a.mp3?v=b503d36e"
     },
     {
      "en": "They have one son and one daughter.",
      "zh": "他们有一个儿子和一个女儿。",
-     "audio": "media/sent/7befc9883cc9.mp3"
+     "audio": "media/sent/7befc9883cc9.mp3?v=be48ecc7"
     },
     {
      "en": "Grandma's daughter is my mum.",
      "zh": "奶奶的女儿是我妈妈。",
-     "audio": "media/sent/301dceda5c31.mp3"
+     "audio": "media/sent/301dceda5c31.mp3?v=68b67386"
     }
    ],
    "media": {
-    "img": "media/img/daughter.webp",
-    "uk": "media/uk/daughter.mp3",
-    "us": "media/us/daughter.mp3"
+    "img": "media/img/daughter.webp?v=b8ea903b",
+    "uk": "media/uk/daughter.mp3?v=10df6048",
+    "us": "media/us/daughter.mp3?v=0da5ac87"
    },
    "spell": true,
    "avoid": [
@@ -414,23 +414,23 @@
     {
      "en": "This is my family.",
      "zh": "这是我的家人。",
-     "audio": "media/sent/dc1cbb6ea55d.mp3"
+     "audio": "media/sent/dc1cbb6ea55d.mp3?v=181930da"
     },
     {
      "en": "There are five people in my family.",
      "zh": "我家有五口人。",
-     "audio": "media/sent/d7e888d75c49.mp3"
+     "audio": "media/sent/d7e888d75c49.mp3?v=efadb2a3"
     },
     {
      "en": "Lily's family has a dog.",
      "zh": "Lily 家养了一只狗。",
-     "audio": "media/sent/b045c33f4ea4.mp3"
+     "audio": "media/sent/b045c33f4ea4.mp3?v=44b70576"
     }
    ],
    "media": {
-    "img": "media/img/family.webp",
-    "uk": "media/uk/family.mp3",
-    "us": "media/us/family.mp3"
+    "img": "media/img/family.webp?v=984b26fd",
+    "uk": "media/uk/family.mp3?v=57d45c8b",
+    "us": "media/us/family.mp3?v=89be8579"
    },
    "spell": true,
    "avoid": [
@@ -468,23 +468,23 @@
     {
      "en": "My father teaches me to ride a bike.",
      "zh": "我爸爸教我骑自行车。",
-     "audio": "media/sent/7e2d7d023367.mp3"
+     "audio": "media/sent/7e2d7d023367.mp3?v=26ccf6c5"
     },
     {
      "en": "My father is a doctor.",
      "zh": "我父亲是医生。",
-     "audio": "media/sent/0bec4daf1244.mp3"
+     "audio": "media/sent/0bec4daf1244.mp3?v=5f026a53"
     },
     {
      "en": "Tom looks like his father.",
      "zh": "Tom 长得像他父亲。",
-     "audio": "media/sent/c22e7b165d23.mp3"
+     "audio": "media/sent/c22e7b165d23.mp3?v=e5592c5a"
     }
    ],
    "media": {
-    "img": "media/img/father.webp",
-    "uk": "media/uk/father.mp3",
-    "us": "media/us/father.mp3"
+    "img": "media/img/father.webp?v=caf0aa4b",
+    "uk": "media/uk/father.mp3?v=257b70b7",
+    "us": "media/us/father.mp3?v=dba18ca7"
    },
    "spell": true,
    "avoid": [
@@ -520,23 +520,23 @@
     {
      "en": "Mia is Lily's best friend.",
      "zh": "Mia 是 Lily 最好的朋友。",
-     "audio": "media/sent/6dfd0150d321.mp3"
+     "audio": "media/sent/6dfd0150d321.mp3?v=1054ec59"
     },
     {
      "en": "Max is my best friend.",
      "zh": "Max 是我最好的朋友。",
-     "audio": "media/sent/ee225f870c6e.mp3"
+     "audio": "media/sent/ee225f870c6e.mp3?v=432fe55c"
     },
     {
      "en": "Lily plays with her friend after school.",
      "zh": "Lily 放学后和朋友一起玩。",
-     "audio": "media/sent/fa87f029c726.mp3"
+     "audio": "media/sent/fa87f029c726.mp3?v=48b82fe0"
     }
    ],
    "media": {
-    "img": "media/img/friend.webp",
-    "uk": "media/uk/friend.mp3",
-    "us": "media/us/friend.mp3"
+    "img": "media/img/friend.webp?v=07bc09b6",
+    "uk": "media/uk/friend.mp3?v=be4a005c",
+    "us": "media/us/friend.mp3?v=3423ba76"
    },
    "spell": true,
    "avoid": [
@@ -574,23 +574,23 @@
     {
      "en": "The man at the shop is very friendly.",
      "zh": "商店里的那个人很友善。",
-     "audio": "media/sent/61ed3668651e.mp3"
+     "audio": "media/sent/61ed3668651e.mp3?v=612d3f29"
     },
     {
      "en": "Max is a friendly dog.",
      "zh": "Max 是一只友好的狗。",
-     "audio": "media/sent/8b6030531417.mp3"
+     "audio": "media/sent/8b6030531417.mp3?v=bf116a3f"
     },
     {
      "en": "Our new teacher is very friendly.",
      "zh": "我们的新老师很友善。",
-     "audio": "media/sent/4768f0a49b60.mp3"
+     "audio": "media/sent/4768f0a49b60.mp3?v=d1b3b42f"
     }
    ],
    "media": {
-    "img": "media/img/friendly.webp",
-    "uk": "media/uk/friendly.mp3",
-    "us": "media/us/friendly.mp3"
+    "img": "media/img/friendly.webp?v=621ce9cb",
+    "uk": "media/uk/friendly.mp3?v=3b1aab3e",
+    "us": "media/us/friendly.mp3?v=58f5e183"
    },
    "spell": true,
    "hook": {
@@ -632,23 +632,23 @@
     {
      "en": "Lily is a girl.",
      "zh": "Lily 是个女孩。",
-     "audio": "media/sent/65bf2308548f.mp3"
+     "audio": "media/sent/65bf2308548f.mp3?v=dfdc6f39"
     },
     {
      "en": "The girl has long hair.",
      "zh": "那个女孩有长头发。",
-     "audio": "media/sent/52973fb52ece.mp3"
+     "audio": "media/sent/52973fb52ece.mp3?v=ca8dd684"
     },
     {
      "en": "There are twelve girls in my class.",
      "zh": "我们班有十二个女孩。",
-     "audio": "media/sent/3e8de8d8f4bc.mp3"
+     "audio": "media/sent/3e8de8d8f4bc.mp3?v=55993b8f"
     }
    ],
    "media": {
-    "img": "media/img/girl.webp",
-    "uk": "media/uk/girl.mp3",
-    "us": "media/us/girl.mp3"
+    "img": "media/img/girl.webp?v=3c1d0dc6",
+    "uk": "media/uk/girl.mp3?v=5595026c",
+    "us": "media/us/girl.mp3?v=a9ed8358"
    },
    "spell": true,
    "avoid": [
@@ -692,23 +692,23 @@
     {
      "en": "Grandpa holds his new grandchild.",
      "zh": "爷爷抱着刚出生的孙子。",
-     "audio": "media/sent/502ae56df59e.mp3"
+     "audio": "media/sent/502ae56df59e.mp3?v=85eb9aa3"
     },
     {
      "en": "Grandma has four grandchildren.",
      "zh": "奶奶有四个孙辈。",
-     "audio": "media/sent/3e89c383b9f2.mp3"
+     "audio": "media/sent/3e89c383b9f2.mp3?v=fe0742c0"
     },
     {
      "en": "Lily is Grandpa's first grandchild.",
      "zh": "Lily 是爷爷的第一个孙辈。",
-     "audio": "media/sent/f918c9ad0a08.mp3"
+     "audio": "media/sent/f918c9ad0a08.mp3?v=1aba702f"
     }
    ],
    "media": {
-    "img": "media/img/grandchild.webp",
-    "uk": "media/word/grandchild.mp3",
-    "us": "media/word/grandchild.mp3"
+    "img": "media/img/grandchild.webp?v=60c6aad1",
+    "uk": "media/word/grandchild.mp3?v=a37e2288",
+    "us": "media/word/grandchild.mp3?v=a37e2288"
    },
    "hook": {
     "kind": "split",
@@ -755,23 +755,23 @@
     {
      "en": "Grandad likes fishing.",
      "zh": "爷爷喜欢钓鱼。",
-     "audio": "media/sent/9be59c3507dd.mp3"
+     "audio": "media/sent/9be59c3507dd.mp3?v=efab3cbe"
     },
     {
      "en": "My grandad is seventy years old.",
      "zh": "我爷爷七十岁了。",
-     "audio": "media/sent/5e813489f271.mp3"
+     "audio": "media/sent/5e813489f271.mp3?v=f17f3060"
     },
     {
      "en": "Grandad tells funny stories.",
      "zh": "爷爷讲有趣的故事。",
-     "audio": "media/sent/e9a0a2d8b47a.mp3"
+     "audio": "media/sent/e9a0a2d8b47a.mp3?v=2752c6ae"
     }
    ],
    "media": {
-    "img": "media/img/grandad.webp",
-    "uk": "media/word/grandad.mp3",
-    "us": "media/word/grandad.mp3"
+    "img": "media/img/grandad.webp?v=5f4619b7",
+    "uk": "media/word/grandad.mp3?v=df1f22f0",
+    "us": "media/word/grandad.mp3?v=df1f22f0"
    },
    "hook": {
     "kind": "contrast",
@@ -816,23 +816,23 @@
     {
      "en": "Lily is Grandma's granddaughter.",
      "zh": "Lily 是奶奶的孙女。",
-     "audio": "media/sent/5fa64f7016ad.mp3"
+     "audio": "media/sent/5fa64f7016ad.mp3?v=a0518f9a"
     },
     {
      "en": "Grandpa loves his granddaughter.",
      "zh": "爷爷很爱他的孙女。",
-     "audio": "media/sent/79040e9923dd.mp3"
+     "audio": "media/sent/79040e9923dd.mp3?v=a2974d04"
     },
     {
      "en": "Their granddaughter visits every Sunday.",
      "zh": "他们的孙女每个星期天都来看望。",
-     "audio": "media/sent/115953d1e4e6.mp3"
+     "audio": "media/sent/115953d1e4e6.mp3?v=b6774fcc"
     }
    ],
    "media": {
-    "img": "media/img/granddaughter.webp",
-    "uk": "media/uk/granddaughter.mp3",
-    "us": "media/us/granddaughter.mp3"
+    "img": "media/img/granddaughter.webp?v=2fb24bf8",
+    "uk": "media/uk/granddaughter.mp3?v=859b61f7",
+    "us": "media/us/granddaughter.mp3?v=d254b1cf"
    },
    "hook": {
     "kind": "split",
@@ -880,23 +880,23 @@
     {
      "en": "My grandfather tells funny stories.",
      "zh": "我爷爷讲有趣的故事。",
-     "audio": "media/sent/6f4f8880207a.mp3"
+     "audio": "media/sent/6f4f8880207a.mp3?v=49f64339"
     },
     {
      "en": "My grandfather lives on a farm.",
      "zh": "我祖父住在农场上。",
-     "audio": "media/sent/0b375de10568.mp3"
+     "audio": "media/sent/0b375de10568.mp3?v=fd503050"
     },
     {
      "en": "Her grandfather was a teacher.",
      "zh": "她的祖父以前是老师。",
-     "audio": "media/sent/b9ebd950d7a9.mp3"
+     "audio": "media/sent/b9ebd950d7a9.mp3?v=f2c21d69"
     }
    ],
    "media": {
-    "img": "media/img/grandfather.webp",
-    "uk": "media/uk/grandfather.mp3",
-    "us": "media/us/grandfather.mp3"
+    "img": "media/img/grandfather.webp?v=379970bc",
+    "uk": "media/uk/grandfather.mp3?v=41eb002b",
+    "us": "media/us/grandfather.mp3?v=c67f6c9e"
    },
    "spell": true,
    "hook": {
@@ -941,23 +941,23 @@
     {
      "en": "Grandma makes great cakes.",
      "zh": "奶奶做的蛋糕很好吃。",
-     "audio": "media/sent/bbaaee40a4d9.mp3"
+     "audio": "media/sent/bbaaee40a4d9.mp3?v=abf416ea"
     },
     {
      "en": "Grandma makes delicious cakes.",
      "zh": "奶奶做的蛋糕很好吃。",
-     "audio": "media/sent/5da679b67fca.mp3"
+     "audio": "media/sent/5da679b67fca.mp3?v=b270efc5"
     },
     {
      "en": "We visit Grandma on Sunday.",
      "zh": "我们星期天去看奶奶。",
-     "audio": "media/sent/91c62b25c524.mp3"
+     "audio": "media/sent/91c62b25c524.mp3?v=b861e736"
     }
    ],
    "media": {
-    "img": "media/img/grandma.webp",
-    "uk": "media/word/grandma.mp3",
-    "us": "media/word/grandma.mp3"
+    "img": "media/img/grandma.webp?v=0940b6e2",
+    "uk": "media/word/grandma.mp3?v=a97c479f",
+    "us": "media/word/grandma.mp3?v=a97c479f"
    },
    "avoid": [
     "grandchild",
@@ -998,23 +998,23 @@
     {
      "en": "My grandmother makes me a scarf.",
      "zh": "我奶奶给我做了一条围巾。",
-     "audio": "media/sent/d2379840d995.mp3"
+     "audio": "media/sent/d2379840d995.mp3?v=c6e1b547"
     },
     {
      "en": "My grandmother has grey hair.",
      "zh": "我奶奶有一头白发。",
-     "audio": "media/sent/9510f3cd5e15.mp3"
+     "audio": "media/sent/9510f3cd5e15.mp3?v=3bc376be"
     },
     {
      "en": "Lily's grandmother lives near the sea.",
      "zh": "Lily 的奶奶住在海边。",
-     "audio": "media/sent/62a31edd1b37.mp3"
+     "audio": "media/sent/62a31edd1b37.mp3?v=650ef491"
     }
    ],
    "media": {
-    "img": "media/img/grandmother.webp",
-    "uk": "media/uk/grandmother.mp3",
-    "us": "media/us/grandmother.mp3"
+    "img": "media/img/grandmother.webp?v=33669086",
+    "uk": "media/uk/grandmother.mp3?v=61c64115",
+    "us": "media/us/grandmother.mp3?v=bc4a8785"
    },
    "spell": true,
    "hook": {
@@ -1059,23 +1059,23 @@
     {
      "en": "Grandpa grows tomatoes.",
      "zh": "爷爷种西红柿。",
-     "audio": "media/sent/4d4e19b7fe21.mp3"
+     "audio": "media/sent/4d4e19b7fe21.mp3?v=560fc6ce"
     },
     {
      "en": "Grandpa has a big garden.",
      "zh": "爷爷有一个大花园。",
-     "audio": "media/sent/c55b025a0695.mp3"
+     "audio": "media/sent/c55b025a0695.mp3?v=ea440a20"
     },
     {
      "en": "Can we go fishing, Grandpa?",
      "zh": "爷爷，我们能去钓鱼吗？",
-     "audio": "media/sent/3cd70ed69d6a.mp3"
+     "audio": "media/sent/3cd70ed69d6a.mp3?v=0bc29044"
     }
    ],
    "media": {
-    "img": "media/img/grandpa.webp",
-    "uk": "media/word/grandpa.mp3",
-    "us": "media/word/grandpa.mp3"
+    "img": "media/img/grandpa.webp?v=ade7d9b4",
+    "uk": "media/word/grandpa.mp3?v=ec80b7a9",
+    "us": "media/word/grandpa.mp3?v=ec80b7a9"
    },
    "avoid": [
     "grandad",
@@ -1116,23 +1116,23 @@
     {
      "en": "Lily visits her grandparents on Sunday.",
      "zh": "Lily 星期天去看爷爷奶奶。",
-     "audio": "media/sent/9b6174fb0b16.mp3"
+     "audio": "media/sent/9b6174fb0b16.mp3?v=ee7e95b3"
     },
     {
      "en": "A grandparent is your mum's or dad's parent.",
      "zh": "祖父母是你爸爸或妈妈的父母。",
-     "audio": "media/sent/399919922fb6.mp3"
+     "audio": "media/sent/399919922fb6.mp3?v=1b782ade"
     },
     {
      "en": "My grandparents live in the country.",
      "zh": "我的祖父母住在乡下。",
-     "audio": "media/sent/2e9a1ae8c143.mp3"
+     "audio": "media/sent/2e9a1ae8c143.mp3?v=b5b89d88"
     }
    ],
    "media": {
-    "img": "media/img/grandparent.webp",
-    "uk": "media/uk/grandparent.mp3",
-    "us": "media/us/grandparent.mp3"
+    "img": "media/img/grandparent.webp?v=d667b5bc",
+    "uk": "media/uk/grandparent.mp3?v=13061033",
+    "us": "media/us/grandparent.mp3?v=a649edbd"
    },
    "spell": true,
    "hook": {
@@ -1180,23 +1180,23 @@
     {
      "en": "Tom is Grandpa's grandson.",
      "zh": "Tom 是爷爷的孙子。",
-     "audio": "media/sent/ddf33721f446.mp3"
+     "audio": "media/sent/ddf33721f446.mp3?v=d28acc9d"
     },
     {
      "en": "Grandma has one grandson.",
      "zh": "奶奶有一个孙子。",
-     "audio": "media/sent/e17627a5804f.mp3"
+     "audio": "media/sent/e17627a5804f.mp3?v=607fa9ea"
     },
     {
      "en": "Their grandson is a doctor.",
      "zh": "他们的孙子是医生。",
-     "audio": "media/sent/6b68c4d3d797.mp3"
+     "audio": "media/sent/6b68c4d3d797.mp3?v=ed6888fc"
     }
    ],
    "media": {
-    "img": "media/img/grandson.webp",
-    "uk": "media/uk/grandson.mp3",
-    "us": "media/us/grandson.mp3"
+    "img": "media/img/grandson.webp?v=392da5d4",
+    "uk": "media/uk/grandson.mp3?v=63c68222",
+    "us": "media/us/grandson.mp3?v=67cb3946"
    },
    "hook": {
     "kind": "split",
@@ -1243,23 +1243,23 @@
     {
      "en": "Granny gives me a big kiss.",
      "zh": "奶奶亲了我一下。",
-     "audio": "media/sent/270294e2beaa.mp3"
+     "audio": "media/sent/270294e2beaa.mp3?v=52e05eab"
     },
     {
      "en": "Granny reads me a story.",
      "zh": "奶奶给我讲故事。",
-     "audio": "media/sent/b62051982605.mp3"
+     "audio": "media/sent/b62051982605.mp3?v=ac47589b"
     },
     {
      "en": "My granny loves gardening.",
      "zh": "我奶奶喜欢园艺。",
-     "audio": "media/sent/5ee9f8cedd79.mp3"
+     "audio": "media/sent/5ee9f8cedd79.mp3?v=88574706"
     }
    ],
    "media": {
-    "img": "media/img/granny.webp",
-    "uk": "media/word/granny.mp3",
-    "us": "media/word/granny.mp3"
+    "img": "media/img/granny.webp?v=a75168e7",
+    "uk": "media/word/granny.mp3?v=d1369454",
+    "us": "media/word/granny.mp3?v=d1369454"
    },
    "avoid": [
     "grandchild",
@@ -1298,23 +1298,23 @@
     {
      "en": "We work in a group.",
      "zh": "我们分组合作。",
-     "audio": "media/sent/5554f417d0f8.mp3"
+     "audio": "media/sent/5554f417d0f8.mp3?v=4389721d"
     },
     {
      "en": "Work in a group of four.",
      "zh": "四人一组合作。",
-     "audio": "media/sent/ad9cb5e8ffcc.mp3"
+     "audio": "media/sent/ad9cb5e8ffcc.mp3?v=633a1588"
     },
     {
      "en": "A group of children are playing in the park.",
      "zh": "一群孩子在公园里玩。",
-     "audio": "media/sent/8b91018a8c84.mp3"
+     "audio": "media/sent/8b91018a8c84.mp3?v=3b7b2b4d"
     }
    ],
    "media": {
-    "img": "media/img/group.webp",
-    "uk": "media/uk/group.mp3",
-    "us": "media/us/group.mp3"
+    "img": "media/img/group.webp?v=091e9e1a",
+    "uk": "media/uk/group.mp3?v=7aad032c",
+    "us": "media/us/group.mp3?v=64f91a7b"
    },
    "spell": true,
    "avoid": [
@@ -1351,23 +1351,23 @@
     {
      "en": "We have a guest for dinner.",
      "zh": "我们有客人来吃晚饭。",
-     "audio": "media/sent/497db0828539.mp3"
+     "audio": "media/sent/497db0828539.mp3?v=801e4506"
     },
     {
      "en": "We have a guest from Spain.",
      "zh": "我们有一位从西班牙来的客人。",
-     "audio": "media/sent/7081465e188f.mp3"
+     "audio": "media/sent/7081465e188f.mp3?v=b92d05a9"
     },
     {
      "en": "The guest sits next to Grandma.",
      "zh": "客人坐在奶奶旁边。",
-     "audio": "media/sent/1b4b5a50cff8.mp3"
+     "audio": "media/sent/1b4b5a50cff8.mp3?v=66bd34e4"
     }
    ],
    "media": {
-    "img": "media/img/guest.webp",
-    "uk": "media/uk/guest.mp3",
-    "us": "media/us/guest.mp3"
+    "img": "media/img/guest.webp?v=422b2fc2",
+    "uk": "media/uk/guest.mp3?v=6b825816",
+    "us": "media/us/guest.mp3?v=026c2098"
    },
    "hook": {
     "kind": "contrast",
@@ -1406,23 +1406,23 @@
     {
      "en": "He's a nice guy.",
      "zh": "他是个不错的小伙子。",
-     "audio": "media/sent/f8ad762c8ae5.mp3"
+     "audio": "media/sent/f8ad762c8ae5.mp3?v=8821e6a0"
     },
     {
      "en": "Tom's uncle is a funny guy.",
      "zh": "Tom 的叔叔是个有趣的人。",
-     "audio": "media/sent/f8a1a1a0c677.mp3"
+     "audio": "media/sent/f8a1a1a0c677.mp3?v=1eb45029"
     },
     {
      "en": "Who is that guy with the dog?",
      "zh": "牵着狗的那个人是谁？",
-     "audio": "media/sent/559761a02b64.mp3"
+     "audio": "media/sent/559761a02b64.mp3?v=16ae3616"
     }
    ],
    "media": {
-    "img": "media/img/guy.webp",
-    "uk": "media/uk/guy.mp3",
-    "us": "media/us/guy.mp3"
+    "img": "media/img/guy.webp?v=a7cae4de",
+    "uk": "media/uk/guy.mp3?v=2ad2a466",
+    "us": "media/us/guy.mp3?v=976f2703"
    },
    "hook": {
     "kind": "contrast",
@@ -1463,23 +1463,23 @@
     {
      "en": "Dad is Mum's husband.",
      "zh": "爸爸是妈妈的丈夫。",
-     "audio": "media/sent/5dbcd879494e.mp3"
+     "audio": "media/sent/5dbcd879494e.mp3?v=5d14032e"
     },
     {
      "en": "Her husband is a doctor.",
      "zh": "她丈夫是医生。",
-     "audio": "media/sent/70f21c792f4f.mp3"
+     "audio": "media/sent/70f21c792f4f.mp3?v=ee30841b"
     },
     {
      "en": "Aunt Kate's husband is Uncle Ben.",
      "zh": "Kate 姑姑的丈夫是 Ben 叔叔。",
-     "audio": "media/sent/ba8132dc94f1.mp3"
+     "audio": "media/sent/ba8132dc94f1.mp3?v=d07217b0"
     }
    ],
    "media": {
-    "img": "media/img/husband.webp",
-    "uk": "media/uk/husband.mp3",
-    "us": "media/us/husband.mp3"
+    "img": "media/img/husband.webp?v=ea5fed4e",
+    "uk": "media/uk/husband.mp3?v=84098e4e",
+    "us": "media/us/husband.mp3?v=3c8036a7"
    },
    "spell": true,
    "hook": {
@@ -1526,23 +1526,23 @@
     {
      "en": "Lily loves Max.",
      "zh": "Lily 很爱 Max。",
-     "audio": "media/sent/8ea0f7b50f33.mp3"
+     "audio": "media/sent/8ea0f7b50f33.mp3?v=e7b2d4d1"
     },
     {
      "en": "I love my family.",
      "zh": "我爱我的家人。",
-     "audio": "media/sent/84a3624de3d3.mp3"
+     "audio": "media/sent/84a3624de3d3.mp3?v=08ffdbf5"
     },
     {
      "en": "Tom loves pizza.",
      "zh": "Tom 很爱吃比萨。",
-     "audio": "media/sent/c9bcbc61d49f.mp3"
+     "audio": "media/sent/c9bcbc61d49f.mp3?v=d694c1e9"
     }
    ],
    "media": {
-    "img": "media/img/love.webp",
-    "uk": "media/uk/love.mp3",
-    "us": "media/us/love.mp3"
+    "img": "media/img/love.webp?v=92bb4057",
+    "uk": "media/uk/love.mp3?v=3cd94509",
+    "us": "media/us/love.mp3?v=060a46d3"
    },
    "spell": true,
    "avoid": [
@@ -1578,23 +1578,23 @@
     {
      "en": "My aunt is married.",
      "zh": "我姑姑结婚了。",
-     "audio": "media/sent/c0ac65af2f9b.mp3"
+     "audio": "media/sent/c0ac65af2f9b.mp3?v=e29ebf0e"
     },
     {
      "en": "My parents are married.",
      "zh": "我父母已经结婚了。",
-     "audio": "media/sent/82e5184780de.mp3"
+     "audio": "media/sent/82e5184780de.mp3?v=5ab87872"
     },
     {
      "en": "Are you married?",
      "zh": "你结婚了吗？",
-     "audio": "media/sent/7fd1f3f650a6.mp3"
+     "audio": "media/sent/7fd1f3f650a6.mp3?v=d4ac1117"
     }
    ],
    "media": {
-    "img": "media/img/married.webp",
-    "uk": "media/uk/married.mp3",
-    "us": "media/us/married.mp3"
+    "img": "media/img/married.webp?v=70914d74",
+    "uk": "media/uk/married.mp3?v=5b42954b",
+    "us": "media/us/married.mp3?v=a3c659c0"
    },
    "spell": true,
    "avoid": [
@@ -1638,23 +1638,23 @@
     {
      "en": "Lily misses her grandma.",
      "zh": "Lily 想念她的奶奶。",
-     "audio": "media/sent/4f8a2f948fd0.mp3"
+     "audio": "media/sent/4f8a2f948fd0.mp3?v=63240e23"
     },
     {
      "en": "Hurry up! Don't miss the bus.",
      "zh": "快点！别错过公交车。",
-     "audio": "media/sent/f1ac7f2a7add.mp3"
+     "audio": "media/sent/f1ac7f2a7add.mp3?v=60dd2f45"
     },
     {
      "en": "I miss you, Grandpa!",
      "zh": "爷爷，我想你！",
-     "audio": "media/sent/e6062f5d54cb.mp3"
+     "audio": "media/sent/e6062f5d54cb.mp3?v=544783b1"
     }
    ],
    "media": {
-    "img": "media/img/miss.webp",
-    "uk": "media/uk/miss.mp3",
-    "us": "media/us/miss.mp3"
+    "img": "media/img/miss.webp?v=ba816599",
+    "uk": "media/uk/miss.mp3?v=6d0890bd",
+    "us": "media/us/miss.mp3?v=c8c9ad26"
    },
    "spell": true,
    "avoid": [
@@ -1700,23 +1700,23 @@
     {
      "en": "Miss Brown is our teacher.",
      "zh": "布朗小姐是我们的老师。",
-     "audio": "media/sent/5dc2244d04e7.mp3"
+     "audio": "media/sent/5dc2244d04e7.mp3?v=b9645297"
     },
     {
      "en": "Good morning, Miss Green!",
      "zh": "早上好，格林小姐！",
-     "audio": "media/sent/3731f001685c.mp3"
+     "audio": "media/sent/3731f001685c.mp3?v=9875ca58"
     },
     {
      "en": "Miss Smith has a new car.",
      "zh": "史密斯小姐有一辆新车。",
-     "audio": "media/sent/3a4a0d0e6b2d.mp3"
+     "audio": "media/sent/3a4a0d0e6b2d.mp3?v=05a813bd"
     }
    ],
    "media": {
-    "img": "media/img/miss.2.webp",
-    "uk": "media/uk/miss.mp3",
-    "us": "media/us/miss.mp3"
+    "img": "media/img/miss.2.webp?v=d148326c",
+    "uk": "media/uk/miss.mp3?v=6d0890bd",
+    "us": "media/us/miss.mp3?v=c8c9ad26"
    },
    "of": "miss",
    "ofZh": "想念；错过",
@@ -1756,23 +1756,23 @@
     {
      "en": "My mother walks me to school.",
      "zh": "我妈妈送我上学。",
-     "audio": "media/sent/7e37618e38b6.mp3"
+     "audio": "media/sent/7e37618e38b6.mp3?v=25d60bf4"
     },
     {
      "en": "My mother is a teacher.",
      "zh": "我母亲是老师。",
-     "audio": "media/sent/5ea8644289a2.mp3"
+     "audio": "media/sent/5ea8644289a2.mp3?v=79522d7d"
     },
     {
      "en": "Lily looks like her mother.",
      "zh": "Lily 长得像她母亲。",
-     "audio": "media/sent/e1be1715958f.mp3"
+     "audio": "media/sent/e1be1715958f.mp3?v=f8756562"
     }
    ],
    "media": {
-    "img": "media/img/mother.webp",
-    "uk": "media/uk/mother.mp3",
-    "us": "media/us/mother.mp3"
+    "img": "media/img/mother.webp?v=9475a1c2",
+    "uk": "media/uk/mother.mp3?v=e2ed571f",
+    "us": "media/us/mother.mp3?v=6e52dcc8"
    },
    "spell": true,
    "avoid": [
@@ -1808,23 +1808,23 @@
     {
      "en": "Mr Brown is our teacher.",
      "zh": "布朗先生是我们的老师。",
-     "audio": "media/sent/b327c4336948.mp3"
+     "audio": "media/sent/b327c4336948.mp3?v=ac68ceec"
     },
     {
      "en": "Mr Smith is our neighbour.",
      "zh": "史密斯先生是我们的邻居。",
-     "audio": "media/sent/7c459b0d05f5.mp3"
+     "audio": "media/sent/7c459b0d05f5.mp3?v=4a79f15a"
     },
     {
      "en": "Good morning, Mr Green!",
      "zh": "早上好，格林先生！",
-     "audio": "media/sent/bea0ad14cfa7.mp3"
+     "audio": "media/sent/bea0ad14cfa7.mp3?v=152a9c80"
     }
    ],
    "media": {
-    "img": "media/img/mr.webp",
-    "uk": "media/word/mr.mp3",
-    "us": "media/word/mr.mp3"
+    "img": "media/img/mr.webp?v=b2ad3d0c",
+    "uk": "media/word/mr.mp3?v=fe2b97ab",
+    "us": "media/word/mr.mp3?v=fe2b97ab"
    },
    "avoid": [
     "miss",
@@ -1861,23 +1861,23 @@
     {
      "en": "Mrs Green lives next door.",
      "zh": "格林太太住在隔壁。",
-     "audio": "media/sent/133a314ca061.mp3"
+     "audio": "media/sent/133a314ca061.mp3?v=57ae9224"
     },
     {
      "en": "Mrs Brown has a big dog.",
      "zh": "布朗太太有一只大狗。",
-     "audio": "media/sent/08323f0d0195.mp3"
+     "audio": "media/sent/08323f0d0195.mp3?v=87456cc2"
     },
     {
      "en": "Thank you, Mrs Smith!",
      "zh": "谢谢你，史密斯太太！",
-     "audio": "media/sent/8a297809927b.mp3"
+     "audio": "media/sent/8a297809927b.mp3?v=35f436d2"
     }
    ],
    "media": {
-    "img": "media/img/mrs.webp",
-    "uk": "media/word/mrs.mp3",
-    "us": "media/word/mrs.mp3"
+    "img": "media/img/mrs.webp?v=8a04a03a",
+    "uk": "media/word/mrs.mp3?v=2c02f1b6",
+    "us": "media/word/mrs.mp3?v=2c02f1b6"
    },
    "hook": {
     "kind": "contrast",
@@ -1918,23 +1918,23 @@
     {
      "en": "Ms White is the head teacher.",
      "zh": "怀特女士是校长。",
-     "audio": "media/sent/ccaf26d10fa5.mp3"
+     "audio": "media/sent/ccaf26d10fa5.mp3?v=c0627459"
     },
     {
      "en": "Ms Green is a doctor.",
      "zh": "格林女士是医生。",
-     "audio": "media/sent/cd45be009d5b.mp3"
+     "audio": "media/sent/cd45be009d5b.mp3?v=76fdc34d"
     },
     {
      "en": "Hello, Ms Brown!",
      "zh": "你好，布朗女士！",
-     "audio": "media/sent/88c0179f38ab.mp3"
+     "audio": "media/sent/88c0179f38ab.mp3?v=aeddc1cb"
     }
    ],
    "media": {
-    "img": "media/img/ms.webp",
-    "uk": "media/word/ms.mp3",
-    "us": "media/word/ms.mp3"
+    "img": "media/img/ms.webp?v=77ec29fe",
+    "uk": "media/word/ms.mp3?v=b4bfae4f",
+    "us": "media/word/ms.mp3?v=b4bfae4f"
    },
    "avoid": [
     "miss",
@@ -1971,23 +1971,23 @@
     {
      "en": "Mum reads me a story.",
      "zh": "妈妈给我讲故事。",
-     "audio": "media/sent/e0ad7f4fefe5.mp3"
+     "audio": "media/sent/e0ad7f4fefe5.mp3?v=1792dec8"
     },
     {
      "en": "Mum, where are my shoes?",
      "zh": "妈妈，我的鞋在哪儿？",
-     "audio": "media/sent/4cafa9183b30.mp3"
+     "audio": "media/sent/4cafa9183b30.mp3?v=ff93578e"
     },
     {
      "en": "My mum cooks dinner every day.",
      "zh": "我妈妈每天做晚饭。",
-     "audio": "media/sent/41c5df88b154.mp3"
+     "audio": "media/sent/41c5df88b154.mp3?v=8e6cefb3"
     }
    ],
    "media": {
-    "img": "media/img/mum.webp",
-    "uk": "media/word/mum.mp3",
-    "us": "media/word/mum.mp3"
+    "img": "media/img/mum.webp?v=8b0e4336",
+    "uk": "media/word/mum.mp3?v=4f6424f2",
+    "us": "media/word/mum.mp3?v=4f6424f2"
    },
    "avoid": [
     "mother",
@@ -2023,23 +2023,23 @@
     {
      "en": "Our neighbour has a big garden.",
      "zh": "我们的邻居有一个大花园。",
-     "audio": "media/sent/ccc60cbf51b4.mp3"
+     "audio": "media/sent/ccc60cbf51b4.mp3?v=250254f7"
     },
     {
      "en": "Our neighbour has a cat.",
      "zh": "我们的邻居养了一只猫。",
-     "audio": "media/sent/6cf76cc863a0.mp3"
+     "audio": "media/sent/6cf76cc863a0.mp3?v=7d0ce031"
     },
     {
      "en": "Lily's neighbour is very friendly.",
      "zh": "Lily 的邻居很友善。",
-     "audio": "media/sent/01dd8ef5c166.mp3"
+     "audio": "media/sent/01dd8ef5c166.mp3?v=568a3100"
     }
    ],
    "media": {
-    "img": "media/img/neighbour.webp",
-    "uk": "media/uk/neighbour.mp3",
-    "us": "media/us/neighbour.mp3"
+    "img": "media/img/neighbour.webp?v=3ed8225d",
+    "uk": "media/uk/neighbour.mp3?v=8fbe5199",
+    "us": "media/us/neighbour.mp3?v=ed5e78ce"
    },
    "hook": {
     "kind": "story",
@@ -2081,23 +2081,23 @@
     {
      "en": "My parents love me.",
      "zh": "我爸爸妈妈很爱我。",
-     "audio": "media/sent/3eb195045ebf.mp3"
+     "audio": "media/sent/3eb195045ebf.mp3?v=47095c93"
     },
     {
      "en": "Every parent loves their child.",
      "zh": "每个父母都爱自己的孩子。",
-     "audio": "media/sent/1aeae949c89c.mp3"
+     "audio": "media/sent/1aeae949c89c.mp3?v=17b712a2"
     },
     {
      "en": "Lily's parents work in a hospital.",
      "zh": "Lily 的父母在医院工作。",
-     "audio": "media/sent/52acdc2676fd.mp3"
+     "audio": "media/sent/52acdc2676fd.mp3?v=a5c3047d"
     }
    ],
    "media": {
-    "img": "media/img/parent.webp",
-    "uk": "media/uk/parent.mp3",
-    "us": "media/us/parent.mp3"
+    "img": "media/img/parent.webp?v=b4031080",
+    "uk": "media/uk/parent.mp3?v=23223806",
+    "us": "media/us/parent.mp3?v=4dfadcce"
    },
    "spell": true,
    "avoid": [
@@ -2144,23 +2144,23 @@
     {
      "en": "Lily writes to her penfriend in Spain.",
      "zh": "Lily 给她在西班牙的笔友写信。",
-     "audio": "media/sent/e89fa6817f09.mp3"
+     "audio": "media/sent/e89fa6817f09.mp3?v=535f572f"
     },
     {
      "en": "My penfriend lives in Spain.",
      "zh": "我的笔友住在西班牙。",
-     "audio": "media/sent/13bf59b27d83.mp3"
+     "audio": "media/sent/13bf59b27d83.mp3?v=0a2a8b67"
     },
     {
      "en": "Lily sends a photo to her penfriend.",
      "zh": "Lily 给笔友寄了一张照片。",
-     "audio": "media/sent/2b99d2baea72.mp3"
+     "audio": "media/sent/2b99d2baea72.mp3?v=5c06fd7f"
     }
    ],
    "media": {
-    "img": "media/img/penfriend.webp",
-    "uk": "media/word/penfriend.mp3",
-    "us": "media/word/penfriend.mp3"
+    "img": "media/img/penfriend.webp?v=512a123b",
+    "uk": "media/word/penfriend.mp3?v=5eeb9233",
+    "us": "media/word/penfriend.mp3?v=5eeb9233"
    },
    "hook": {
     "kind": "split",
@@ -2201,23 +2201,23 @@
     {
      "en": "My sister is older than me.",
      "zh": "我姐姐比我大。",
-     "audio": "media/sent/6dec5c2004b0.mp3"
+     "audio": "media/sent/6dec5c2004b0.mp3?v=a814e705"
     },
     {
      "en": "My sister is nine years old.",
      "zh": "我姐姐九岁。",
-     "audio": "media/sent/66f8b1ab9f7e.mp3"
+     "audio": "media/sent/66f8b1ab9f7e.mp3?v=f51c9b22"
     },
     {
      "en": "Tom has a sister called Lily.",
      "zh": "Tom 有个姐姐叫 Lily。",
-     "audio": "media/sent/0e81ea568162.mp3"
+     "audio": "media/sent/0e81ea568162.mp3?v=3bf8e013"
     }
    ],
    "media": {
-    "img": "media/img/sister.webp",
-    "uk": "media/uk/sister.mp3",
-    "us": "media/us/sister.mp3"
+    "img": "media/img/sister.webp?v=525f65ad",
+    "uk": "media/uk/sister.mp3?v=5b6b8438",
+    "us": "media/us/sister.mp3?v=585b4f85"
    },
    "spell": true,
    "avoid": [
@@ -2255,23 +2255,23 @@
     {
      "en": "Tom is Mum and Dad's son.",
      "zh": "Tom 是爸爸妈妈的儿子。",
-     "audio": "media/sent/83230fa35f4f.mp3"
+     "audio": "media/sent/83230fa35f4f.mp3?v=ebd76b4c"
     },
     {
      "en": "They have a son and a daughter.",
      "zh": "他们有一个儿子和一个女儿。",
-     "audio": "media/sent/426a1dd66c5a.mp3"
+     "audio": "media/sent/426a1dd66c5a.mp3?v=8ce9fcd3"
     },
     {
      "en": "Grandpa's son is my dad.",
      "zh": "爷爷的儿子是我爸爸。",
-     "audio": "media/sent/26abdb9a9557.mp3"
+     "audio": "media/sent/26abdb9a9557.mp3?v=d5858dda"
     }
    ],
    "media": {
-    "img": "media/img/son.webp",
-    "uk": "media/uk/son.mp3",
-    "us": "media/us/son.mp3"
+    "img": "media/img/son.webp?v=e13d558b",
+    "uk": "media/uk/son.mp3?v=6e718944",
+    "us": "media/us/son.mp3?v=254a439f"
    },
    "spell": true,
    "avoid": [
@@ -2311,23 +2311,23 @@
     {
      "en": "What's your surname?",
      "zh": "你姓什么？",
-     "audio": "media/sent/46b040480737.mp3"
+     "audio": "media/sent/46b040480737.mp3?v=76cac05c"
     },
     {
      "en": "My surname is Smith.",
      "zh": "我姓史密斯。",
-     "audio": "media/sent/9fca922ddb8e.mp3"
+     "audio": "media/sent/9fca922ddb8e.mp3?v=279b7f4b"
     },
     {
      "en": "Write your name and surname here.",
      "zh": "在这里写下你的名字和姓。",
-     "audio": "media/sent/3361634a1999.mp3"
+     "audio": "media/sent/3361634a1999.mp3?v=f66fa706"
     }
    ],
    "media": {
-    "img": "media/img/surname.webp",
-    "uk": "media/uk/surname.mp3",
-    "us": "media/us/surname.mp3"
+    "img": "media/img/surname.webp?v=98412921",
+    "uk": "media/uk/surname.mp3?v=5475ed64",
+    "us": "media/us/surname.mp3?v=69db0639"
    },
    "hook": {
     "kind": "story",
@@ -2369,23 +2369,23 @@
     {
      "en": "My cousin is a teenager.",
      "zh": "我表姐是个青少年。",
-     "audio": "media/sent/dfcc09b79d77.mp3"
+     "audio": "media/sent/dfcc09b79d77.mp3?v=763a508f"
     },
     {
      "en": "A teenager is between thirteen and nineteen.",
      "zh": "青少年是十三到十九岁的人。",
-     "audio": "media/sent/56acb0f82989.mp3"
+     "audio": "media/sent/56acb0f82989.mp3?v=7198b9bd"
     },
     {
      "en": "Lily's cousin is a teenager now.",
      "zh": "Lily 的表姐现在是青少年了。",
-     "audio": "media/sent/5ec227ab4623.mp3"
+     "audio": "media/sent/5ec227ab4623.mp3?v=cfc6b51c"
     }
    ],
    "media": {
-    "img": "media/img/teenager.webp",
-    "uk": "media/uk/teenager.mp3",
-    "us": "media/us/teenager.mp3"
+    "img": "media/img/teenager.webp?v=c53548aa",
+    "uk": "media/uk/teenager.mp3?v=ba5cc028",
+    "us": "media/us/teenager.mp3?v=30c1fc10"
    },
    "hook": {
     "kind": "story",
@@ -2426,23 +2426,23 @@
     {
      "en": "Uncle Ben is very funny.",
      "zh": "Ben 叔叔很有趣。",
-     "audio": "media/sent/bdafe19d5445.mp3"
+     "audio": "media/sent/bdafe19d5445.mp3?v=4913ab51"
     },
     {
      "en": "My uncle has a big car.",
      "zh": "我叔叔有一辆大车。",
-     "audio": "media/sent/85f6adac664b.mp3"
+     "audio": "media/sent/85f6adac664b.mp3?v=0d4c8e55"
     },
     {
      "en": "Uncle Ben plays football with us.",
      "zh": "Ben 叔叔和我们一起踢足球。",
-     "audio": "media/sent/37d2183eac56.mp3"
+     "audio": "media/sent/37d2183eac56.mp3?v=c43b19a2"
     }
    ],
    "media": {
-    "img": "media/img/uncle.webp",
-    "uk": "media/uk/uncle.mp3",
-    "us": "media/us/uncle.mp3"
+    "img": "media/img/uncle.webp?v=5fb6839f",
+    "uk": "media/uk/uncle.mp3?v=75e88f3f",
+    "us": "media/us/uncle.mp3?v=df6f4170"
    },
    "spell": true,
    "avoid": [
@@ -2478,23 +2478,23 @@
     {
      "en": "Mum is Dad's wife.",
      "zh": "妈妈是爸爸的妻子。",
-     "audio": "media/sent/7336ce0420e5.mp3"
+     "audio": "media/sent/7336ce0420e5.mp3?v=d61e0b9c"
     },
     {
      "en": "His wife is a teacher.",
      "zh": "他的妻子是老师。",
-     "audio": "media/sent/4d78a408efda.mp3"
+     "audio": "media/sent/4d78a408efda.mp3?v=437079aa"
     },
     {
      "en": "Uncle Ben's wife is Aunt Kate.",
      "zh": "Ben 叔叔的妻子是 Kate 姑姑。",
-     "audio": "media/sent/549ddaca04b8.mp3"
+     "audio": "media/sent/549ddaca04b8.mp3?v=8c4b280c"
     }
    ],
    "media": {
-    "img": "media/img/wife.webp",
-    "uk": "media/uk/wife.mp3",
-    "us": "media/us/wife.mp3"
+    "img": "media/img/wife.webp?v=8abbf854",
+    "uk": "media/uk/wife.mp3?v=3f211a04",
+    "us": "media/us/wife.mp3?v=394bb3a8"
    },
    "spell": true,
    "avoid": [

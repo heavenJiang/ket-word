@@ -31,23 +31,23 @@
     {
      "en": "We eat dinner in a restaurant.",
      "zh": "我们在餐馆吃晚饭。",
-     "audio": "media/sent/d6cd22e98e9f.mp3"
+     "audio": "media/sent/d6cd22e98e9f.mp3?v=e656d6be"
     },
     {
      "en": "Dad orders fish at the restaurant.",
      "zh": "爸爸在餐馆点了鱼。",
-     "audio": "media/sent/d9f56bcd7363.mp3"
+     "audio": "media/sent/d9f56bcd7363.mp3?v=067f168e"
     },
     {
      "en": "The food in this restaurant is good.",
      "zh": "这家餐馆的食物很好吃。",
-     "audio": "media/sent/5eb38003cc69.mp3"
+     "audio": "media/sent/5eb38003cc69.mp3?v=59933c44"
     }
    ],
    "media": {
-    "img": "media/img/restaurant.webp",
-    "uk": "media/uk/restaurant.mp3",
-    "us": "media/us/restaurant.mp3"
+    "img": "media/img/restaurant.webp?v=1eac9eed",
+    "uk": "media/uk/restaurant.mp3?v=25121451",
+    "us": "media/us/restaurant.mp3?v=fec7d91c"
    },
    "spell": true,
    "hook": {
@@ -88,23 +88,23 @@
     {
      "en": "Aunt Kate works in a bank.",
      "zh": "Kate 阿姨在银行工作。",
-     "audio": "media/sent/26130903f86b.mp3"
+     "audio": "media/sent/26130903f86b.mp3?v=924bdde8"
     },
     {
      "en": "Mum goes to the bank today.",
      "zh": "妈妈今天去银行。",
-     "audio": "media/sent/8ddbb3b81694.mp3"
+     "audio": "media/sent/8ddbb3b81694.mp3?v=1b3bf419"
     },
     {
      "en": "The bank is open on Monday.",
      "zh": "银行星期一开门。",
-     "audio": "media/sent/b803d7cab29c.mp3"
+     "audio": "media/sent/b803d7cab29c.mp3?v=ac40349a"
     }
    ],
    "media": {
-    "img": "media/img/bank.webp",
-    "uk": "media/uk/bank.mp3",
-    "us": "media/us/bank.mp3"
+    "img": "media/img/bank.webp?v=c01fa6d1",
+    "uk": "media/uk/bank.mp3?v=3463e9a0",
+    "us": "media/us/bank.mp3?v=94a2a1e9"
    },
    "spell": true,
    "avoid": [
@@ -140,23 +140,23 @@
     {
      "en": "We drink tea in the cafe.",
      "zh": "我们在咖啡馆喝茶。",
-     "audio": "media/sent/f6f538812415.mp3"
+     "audio": "media/sent/f6f538812415.mp3?v=e85cbadb"
     },
     {
      "en": "Lily eats a cake at the cafe.",
      "zh": "Lily 在咖啡馆吃蛋糕。",
-     "audio": "media/sent/4495d9111153.mp3"
+     "audio": "media/sent/4495d9111153.mp3?v=ff4866a9"
     },
     {
      "en": "The cafe is near our house.",
      "zh": "咖啡馆在我们家附近。",
-     "audio": "media/sent/4fd86176fbf0.mp3"
+     "audio": "media/sent/4fd86176fbf0.mp3?v=6f1b2447"
     }
    ],
    "media": {
-    "img": "media/img/cafe.webp",
-    "uk": "media/uk/cafe.mp3",
-    "us": "media/us/cafe.mp3"
+    "img": "media/img/cafe.webp?v=6a1751a1",
+    "uk": "media/uk/cafe.mp3?v=e0d4c7c7",
+    "us": "media/us/cafe.mp3?v=5d16c6a0"
    },
    "spell": true,
    "avoid": [
@@ -196,23 +196,23 @@
     {
      "en": "We have lunch in the cafeteria.",
      "zh": "我们在食堂吃午饭。",
-     "audio": "media/sent/844e293af5fd.mp3"
+     "audio": "media/sent/844e293af5fd.mp3?v=c49ea15d"
     },
     {
      "en": "The cafeteria is very busy.",
      "zh": "食堂很热闹。",
-     "audio": "media/sent/c9a446ea0217.mp3"
+     "audio": "media/sent/c9a446ea0217.mp3?v=f9a58511"
     },
     {
      "en": "Tom eats an apple in the cafeteria.",
      "zh": "Tom 在食堂吃苹果。",
-     "audio": "media/sent/d31b45b2a1c6.mp3"
+     "audio": "media/sent/d31b45b2a1c6.mp3?v=a00a97f3"
     }
    ],
    "media": {
-    "img": "media/img/cafeteria.webp",
-    "uk": "media/uk/cafeteria.mp3",
-    "us": "media/us/cafeteria.mp3"
+    "img": "media/img/cafeteria.webp?v=e90ef5f7",
+    "uk": "media/uk/cafeteria.mp3?v=e64432cf",
+    "us": "media/us/cafeteria.mp3?v=539f9927"
    },
    "hook": {
     "kind": "contrast",
@@ -253,23 +253,23 @@
     {
      "en": "We watch a film at the cinema.",
      "zh": "我们在电影院看电影。",
-     "audio": "media/sent/b61ecb6bd0b2.mp3"
+     "audio": "media/sent/b61ecb6bd0b2.mp3?v=f0cb7804"
     },
     {
      "en": "The cinema is very big.",
      "zh": "电影院很大。",
-     "audio": "media/sent/8c2b6b52bdf1.mp3"
+     "audio": "media/sent/8c2b6b52bdf1.mp3?v=0a74e551"
     },
     {
      "en": "Let's go to the cinema on Sunday.",
      "zh": "我们星期日去电影院吧。",
-     "audio": "media/sent/66d5d118d78a.mp3"
+     "audio": "media/sent/66d5d118d78a.mp3?v=97bf9721"
     }
    ],
    "media": {
-    "img": "media/img/cinema.webp",
-    "uk": "media/uk/cinema.mp3",
-    "us": "media/us/cinema.mp3"
+    "img": "media/img/cinema.webp?v=bd9b0ed1",
+    "uk": "media/uk/cinema.mp3?v=b8f43a3c",
+    "us": "media/us/cinema.mp3?v=ba40870b"
    },
    "spell": true,
    "avoid": [
@@ -306,23 +306,23 @@
     {
      "en": "Lily visits the dentist.",
      "zh": "Lily 去看牙医。",
-     "audio": "media/sent/31a1b18fea27.mp3"
+     "audio": "media/sent/31a1b18fea27.mp3?v=85f8d742"
     },
     {
      "en": "The dentist checks my teeth.",
      "zh": "牙医检查我的牙齿。",
-     "audio": "media/sent/54871d406dc3.mp3"
+     "audio": "media/sent/54871d406dc3.mp3?v=14c9888f"
     },
     {
      "en": "Mum is at the dentist's office.",
      "zh": "妈妈在牙医诊所。",
-     "audio": "media/sent/d8a0a6b27691.mp3"
+     "audio": "media/sent/d8a0a6b27691.mp3?v=68afea5e"
     }
    ],
    "media": {
-    "img": "media/img/dentist.webp",
-    "uk": "media/uk/dentist.mp3",
-    "us": "media/us/dentist.mp3"
+    "img": "media/img/dentist.webp?v=72b56187",
+    "uk": "media/uk/dentist.mp3?v=c3298fc4",
+    "us": "media/us/dentist.mp3?v=73ae7add"
    },
    "avoid": [
     "doctor"
@@ -357,23 +357,23 @@
     {
      "en": "The doctor helps Tom.",
      "zh": "医生帮助 Tom。",
-     "audio": "media/sent/0a8e71e30721.mp3"
+     "audio": "media/sent/0a8e71e30721.mp3?v=413e7fc2"
     },
     {
      "en": "Mum is a nurse, not a doctor.",
      "zh": "妈妈是护士，不是医生。",
-     "audio": "media/sent/b733f7997b9b.mp3"
+     "audio": "media/sent/b733f7997b9b.mp3?v=725d0a6f"
     },
     {
      "en": "Go to the doctor if you are ill.",
      "zh": "如果你病了，去看医生。",
-     "audio": "media/sent/d9c3a113cfb2.mp3"
+     "audio": "media/sent/d9c3a113cfb2.mp3?v=1708359a"
     }
    ],
    "media": {
-    "img": "media/img/doctor.webp",
-    "uk": "media/uk/doctor.mp3",
-    "us": "media/us/doctor.mp3"
+    "img": "media/img/doctor.webp?v=3f33b72f",
+    "uk": "media/uk/doctor.mp3?v=2a7b93ec",
+    "us": "media/us/doctor.mp3?v=77062ca3"
    },
    "spell": true,
    "avoid": [
@@ -409,23 +409,23 @@
     {
      "en": "Dad parks the car in the garage.",
      "zh": "爸爸把车停在车库里。",
-     "audio": "media/sent/020410a09211.mp3"
+     "audio": "media/sent/020410a09211.mp3?v=27f8a03b"
     },
     {
      "en": "The bikes are in the garage.",
      "zh": "自行车在车库里。",
-     "audio": "media/sent/a8267dd1d242.mp3"
+     "audio": "media/sent/a8267dd1d242.mp3?v=500a2af3"
     },
     {
      "en": "Max sleeps in the garage sometimes.",
      "zh": "Max 有时睡在车库里。",
-     "audio": "media/sent/a1682dcc3a31.mp3"
+     "audio": "media/sent/a1682dcc3a31.mp3?v=aed43c05"
     }
    ],
    "media": {
-    "img": "media/img/garage.webp",
-    "uk": "media/uk/garage.mp3",
-    "us": "media/us/garage.mp3"
+    "img": "media/img/garage.webp?v=37a32810",
+    "uk": "media/uk/garage.mp3?v=aa74e871",
+    "us": "media/us/garage.mp3?v=91f042a6"
    },
    "hook": {
     "kind": "story",
@@ -464,23 +464,23 @@
     {
      "en": "We sleep in a hotel.",
      "zh": "我们在酒店睡觉。",
-     "audio": "media/sent/6d45078a4fb9.mp3"
+     "audio": "media/sent/6d45078a4fb9.mp3?v=7db07ce3"
     },
     {
      "en": "The hotel room is nice.",
      "zh": "酒店房间很好。",
-     "audio": "media/sent/35edcf1f8da5.mp3"
+     "audio": "media/sent/35edcf1f8da5.mp3?v=569099fd"
     },
     {
      "en": "Grandma stays at this hotel.",
      "zh": "奶奶住在这家酒店。",
-     "audio": "media/sent/6b0990558de4.mp3"
+     "audio": "media/sent/6b0990558de4.mp3?v=2ea8cce6"
     }
    ],
    "media": {
-    "img": "media/img/hotel.webp",
-    "uk": "media/uk/hotel.mp3",
-    "us": "media/us/hotel.mp3"
+    "img": "media/img/hotel.webp?v=ec872d29",
+    "uk": "media/uk/hotel.mp3?v=510e0941",
+    "us": "media/us/hotel.mp3?v=f597e0aa"
    },
    "spell": true,
    "avoid": [
@@ -517,23 +517,23 @@
     {
      "en": "Lily reads books in the library.",
      "zh": "Lily 在图书馆看书。",
-     "audio": "media/sent/404302a38033.mp3"
+     "audio": "media/sent/404302a38033.mp3?v=eb654134"
     },
     {
      "en": "The library is quiet.",
      "zh": "图书馆很安静。",
-     "audio": "media/sent/e22d6eacad4d.mp3"
+     "audio": "media/sent/e22d6eacad4d.mp3?v=a8f4f337"
     },
     {
      "en": "We borrow books from the library.",
      "zh": "我们从图书馆借书。",
-     "audio": "media/sent/9d3ba0d9429f.mp3"
+     "audio": "media/sent/9d3ba0d9429f.mp3?v=8fbbe8bd"
     }
    ],
    "media": {
-    "img": "media/img/library.webp",
-    "uk": "media/uk/library.mp3",
-    "us": "media/us/library.mp3"
+    "img": "media/img/library.webp?v=7dd4e8f6",
+    "uk": "media/uk/library.mp3?v=e6c64a8f",
+    "us": "media/us/library.mp3?v=d3ee284d"
    },
    "spell": true,
    "avoid": []
@@ -568,23 +568,23 @@
     {
      "en": "We see old things in the museum.",
      "zh": "我们在博物馆看古老的东西。",
-     "audio": "media/sent/b890daa3ad0a.mp3"
+     "audio": "media/sent/b890daa3ad0a.mp3?v=ee7e538f"
     },
     {
      "en": "The museum is free for children.",
      "zh": "儿童免费参观博物馆。",
-     "audio": "media/sent/32aeeb52016f.mp3"
+     "audio": "media/sent/32aeeb52016f.mp3?v=fe0adc3b"
     },
     {
      "en": "Tom likes the museum best.",
      "zh": "Tom 最喜欢博物馆。",
-     "audio": "media/sent/e77a2f54763e.mp3"
+     "audio": "media/sent/e77a2f54763e.mp3?v=7d0a2d33"
     }
    ],
    "media": {
-    "img": "media/img/museum.webp",
-    "uk": "media/uk/museum.mp3",
-    "us": "media/us/museum.mp3"
+    "img": "media/img/museum.webp?v=e6b2727b",
+    "uk": "media/uk/museum.mp3?v=672a54f6",
+    "us": "media/us/museum.mp3?v=eb323217"
    },
    "spell": true,
    "avoid": [
@@ -623,23 +623,23 @@
     {
      "en": "Dad stops at the petrol station.",
      "zh": "爸爸在加油站停车。",
-     "audio": "media/sent/c6fea64a8764.mp3"
+     "audio": "media/sent/c6fea64a8764.mp3?v=ba5a32aa"
     },
     {
      "en": "The petrol station is on the corner.",
      "zh": "加油站在拐角处。",
-     "audio": "media/sent/85bbe49a9245.mp3"
+     "audio": "media/sent/85bbe49a9245.mp3?v=9f05245d"
     },
     {
      "en": "We buy drinks at the petrol station.",
      "zh": "我们在加油站买饮料。",
-     "audio": "media/sent/690605f6429a.mp3"
+     "audio": "media/sent/690605f6429a.mp3?v=e14ecbec"
     }
    ],
    "media": {
-    "img": "media/img/petrol-station.webp",
-    "uk": "media/word/petrol-station.mp3",
-    "us": "media/word/petrol-station.mp3"
+    "img": "media/img/petrol-station.webp?v=63d57f2a",
+    "uk": "media/word/petrol-station.mp3?v=5866fa32",
+    "us": "media/word/petrol-station.mp3?v=5866fa32"
    },
    "hook": {
     "kind": "split",
@@ -679,23 +679,23 @@
     {
      "en": "Lily sends a card at the post office.",
      "zh": "Lily 在邮局寄卡片。",
-     "audio": "media/sent/dc0c24406cbe.mp3"
+     "audio": "media/sent/dc0c24406cbe.mp3?v=68d0fe0b"
     },
     {
      "en": "The post office is near school.",
      "zh": "邮局在学校附近。",
-     "audio": "media/sent/23d5eb647257.mp3"
+     "audio": "media/sent/23d5eb647257.mp3?v=a5690a8c"
     },
     {
      "en": "We buy stamps at the post office.",
      "zh": "我们在邮局买邮票。",
-     "audio": "media/sent/a7eeb58a2cc4.mp3"
+     "audio": "media/sent/a7eeb58a2cc4.mp3?v=03f7a792"
     }
    ],
    "media": {
-    "img": "media/img/post-office.webp",
-    "uk": "media/uk/post-office.mp3",
-    "us": "media/us/post-office.mp3"
+    "img": "media/img/post-office.webp?v=2167e0b9",
+    "uk": "media/uk/post-office.mp3?v=43fb931e",
+    "us": "media/us/post-office.mp3?v=eb083e04"
    },
    "hook": {
     "kind": "split",
@@ -735,23 +735,23 @@
     {
      "en": "We play games at the sports centre.",
      "zh": "我们在体育中心玩游戏。",
-     "audio": "media/sent/4a49a0916195.mp3"
+     "audio": "media/sent/4a49a0916195.mp3?v=f42b6cc1"
     },
     {
      "en": "The sports centre is big.",
      "zh": "体育中心很大。",
-     "audio": "media/sent/8149381bd4f3.mp3"
+     "audio": "media/sent/8149381bd4f3.mp3?v=453660a1"
     },
     {
      "en": "Tom goes to the sports centre on Saturday.",
      "zh": "Tom 星期六去体育中心。",
-     "audio": "media/sent/4c2174d4aede.mp3"
+     "audio": "media/sent/4c2174d4aede.mp3?v=f26168d2"
     }
    ],
    "media": {
-    "img": "media/img/sports-centre.webp",
-    "uk": "media/word/sports-centre.mp3",
-    "us": "media/word/sports-centre.mp3"
+    "img": "media/img/sports-centre.webp?v=8dfa242e",
+    "uk": "media/word/sports-centre.mp3?v=a6923de1",
+    "us": "media/word/sports-centre.mp3?v=a6923de1"
    },
    "hook": {
     "kind": "split",
@@ -791,23 +791,23 @@
     {
      "en": "Lily swims in the swimming pool.",
      "zh": "Lily 在游泳池里游泳。",
-     "audio": "media/sent/2a1eff7878a1.mp3"
+     "audio": "media/sent/2a1eff7878a1.mp3?v=17f5ddae"
     },
     {
      "en": "The water in the swimming pool is blue.",
      "zh": "游泳池里的水是蓝色的。",
-     "audio": "media/sent/4504a526d017.mp3"
+     "audio": "media/sent/4504a526d017.mp3?v=fb552d17"
     },
     {
      "en": "We go to the swimming pool in summer.",
      "zh": "我们夏天去游泳池。",
-     "audio": "media/sent/ba1063ea4dc7.mp3"
+     "audio": "media/sent/ba1063ea4dc7.mp3?v=3fd68c52"
     }
    ],
    "media": {
-    "img": "media/img/swimming-pool.webp",
-    "uk": "media/word/swimming-pool.mp3",
-    "us": "media/word/swimming-pool.mp3"
+    "img": "media/img/swimming-pool.webp?v=1e39e523",
+    "uk": "media/word/swimming-pool.mp3?v=df31f37b",
+    "us": "media/word/swimming-pool.mp3?v=df31f37b"
    },
    "hook": {
     "kind": "split",
@@ -847,23 +847,23 @@
     {
      "en": "We watch a play at the theatre.",
      "zh": "我们在剧院看戏。",
-     "audio": "media/sent/94467de3bcdd.mp3"
+     "audio": "media/sent/94467de3bcdd.mp3?v=5cf1fa96"
     },
     {
      "en": "The theatre is very beautiful.",
      "zh": "剧院非常漂亮。",
-     "audio": "media/sent/f6bc9164672a.mp3"
+     "audio": "media/sent/f6bc9164672a.mp3?v=1b37505d"
     },
     {
      "en": "Grandma loves going to the theatre.",
      "zh": "奶奶喜欢去剧院。",
-     "audio": "media/sent/b93339f197f0.mp3"
+     "audio": "media/sent/b93339f197f0.mp3?v=4c7d55e8"
     }
    ],
    "media": {
-    "img": "media/img/theatre.webp",
-    "uk": "media/uk/theatre.mp3",
-    "us": "media/us/theatre.mp3"
+    "img": "media/img/theatre.webp?v=1461b076",
+    "uk": "media/uk/theatre.mp3?v=022927fe",
+    "us": "media/us/theatre.mp3?v=1c904565"
    },
    "hook": {
     "kind": "story",

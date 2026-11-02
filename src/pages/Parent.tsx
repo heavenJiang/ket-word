@@ -4,7 +4,7 @@ import { effect, MIN_ANSWERS, pct, type Rate } from "../lib/effect";
 import { forecast, type Forecast } from "../session/forecast";
 import { daysLeft, FINAL_DAYS, paceFor } from "../session/goal";
 import { isGraduated, isMastered, retrievability, type CardState } from "../srs/srs";
-import { dayKey, parseProgress, type Progress } from "../store/progress";
+import { dayKey, dropUnreadableProgress, parseProgress, unreadableProgress, type Progress } from "../store/progress";
 import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
 import { OfflinePanel } from "../ui/Offline";
 
@@ -81,13 +81,12 @@ export function Parent(props: {
     setProgress((p) => ({ ...p, settings: { ...p.settings, [k]: v } }));
 
   const exportFile = () => {
-    const blob = new Blob([JSON.stringify(progress)], { type: "application/json" });
-    const a = document.createElement("a");
-    a.href = URL.createObjectURL(blob);
-    a.download = `ket-word-${name}-${dayKey(now)}.json`;
-    a.click();
-    URL.revokeObjectURL(a.href);
+    const p = { ...progress, backedUp: now };
+    download(JSON.stringify(p), `ket-word-${name}-${dayKey(now)}.json`);
+    setProgress((q) => ({ ...q, backedUp: now }));
   };
+  const [broken, setBroken] = useState(unreadableProgress);
+  const backupDays = progress.backedUp === undefined ? null : Math.floor((now - progress.backedUp) / 86_400_000);
 
   const importFile = async (f: File) => {
     try {
@@ -204,13 +203,37 @@ export function Parent(props: {
 
           <section className="card">
             <h3>备份</h3>
-            <p className="muted small">进度只保存在这台设备上。换设备或清理浏览器前，请先导出。</p>
+            <p className="muted small">进度只保存在这台设备上。换设备或清理浏览器前，请先导出；建议每周导出一次。</p>
+            <p className={`small ${backupDays === null || backupDays > 7 ? "warn" : "muted"}`}>
+              {backupDays === null ? "还没有导出过备份。" : backupDays === 0 ? "今天已导出备份。" : `上次导出备份是 ${backupDays} 天前。`}
+            </p>
             <div className="row">
               <button className="btn" onClick={exportFile}>导出进度</button>
               <button className="btn btn-ghost" onClick={() => file.current?.click()}>导入备份</button>
               <input ref={file} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && importFile(e.target.files[0])} />
             </div>
           </section>
+
+          {broken && (
+            <section className="card">
+              <h3>无法读取的旧进度</h3>
+              <p className="small warn">打开应用时发现一份读不出来的进度（文件损坏或来自别的版本），已经单独保存，没有被覆盖。可以下载下来留存或发给开发者恢复。</p>
+              <div className="row">
+                <button className="btn" onClick={() => download(broken, `ket-word-unreadable-${dayKey(now)}.json`)}>下载旧进度</button>
+                <button
+                  className="btn btn-ghost"
+                  onClick={() => {
+                    if (!confirm("删除这份读不出来的旧进度吗？删除后无法恢复。")) return;
+                    dropUnreadableProgress();
+                    setBroken(null);
+                    setProgress((p) => ({ ...p })); // saving was held back while it was the only copy
+                  }}
+                >
+                  删除
+                </button>
+              </div>
+            </section>
+          )}
         </>
       )}
 
@@ -419,4 +442,13 @@ function EffectPanel({ progress, now }: { progress: Progress; now: number }) {
       </ul>
     </section>
   );
+}
+
+/** Hand the parent a file to save. */
+function download(text: string, filename: string) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "application/json" }));
+  a.download = filename;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }

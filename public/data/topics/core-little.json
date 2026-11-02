@@ -29,22 +29,22 @@
     {
      "en": "I have a red apple.",
      "zh": "我有一个红苹果。",
-     "audio": "media/sent/1437a5c98a13.mp3"
+     "audio": "media/sent/1437a5c98a13.mp3?v=18e7e649"
     },
     {
      "en": "Tom has a new bike.",
      "zh": "Tom 有一辆新自行车。",
-     "audio": "media/sent/9695573f1311.mp3"
+     "audio": "media/sent/9695573f1311.mp3?v=b99286c9"
     },
     {
      "en": "It is a sunny day.",
      "zh": "今天是个晴朗的日子。",
-     "audio": "media/sent/a05eedd0cf8f.mp3"
+     "audio": "media/sent/a05eedd0cf8f.mp3?v=943a0c86"
     }
    ],
    "media": {
-    "uk": "media/word/a.mp3",
-    "us": "media/word/a.mp3"
+    "uk": "media/word/a.mp3?v=b5ffd8a2",
+    "us": "media/word/a.mp3?v=b5ffd8a2"
    },
    "avoid": []
   },
@@ -76,22 +76,22 @@
     {
      "en": "She eats an orange.",
      "zh": "她吃一个橙子。",
-     "audio": "media/sent/d55ec5975e37.mp3"
+     "audio": "media/sent/d55ec5975e37.mp3?v=f098f5be"
     },
     {
      "en": "I need an umbrella.",
      "zh": "我需要一把雨伞。",
-     "audio": "media/sent/ae5a22e765df.mp3"
+     "audio": "media/sent/ae5a22e765df.mp3?v=80ded80b"
     },
     {
      "en": "Tom eats an egg for breakfast.",
      "zh": "Tom 早餐吃一个鸡蛋。",
-     "audio": "media/sent/dccee8734650.mp3"
+     "audio": "media/sent/dccee8734650.mp3?v=3dbc5aa2"
     }
    ],
    "media": {
-    "uk": "media/word/an.mp3",
-    "us": "media/word/an.mp3"
+    "uk": "media/word/an.mp3?v=84f96142",
+    "us": "media/word/an.mp3?v=84f96142"
    },
    "avoid": []
   },
@@ -123,22 +123,22 @@
     {
      "en": "The dog is Max.",
      "zh": "这只狗是Max。",
-     "audio": "media/sent/905c4399428f.mp3"
+     "audio": "media/sent/905c4399428f.mp3?v=e7f54e05"
     },
     {
      "en": "Look at the moon!",
      "zh": "看那个月亮！",
-     "audio": "media/sent/22f1ceae52dd.mp3"
+     "audio": "media/sent/22f1ceae52dd.mp3?v=f5a3fbdb"
     },
     {
      "en": "The book is on the table.",
      "zh": "这本书在桌子上。",
-     "audio": "media/sent/f32b30a0c2f4.mp3"
+     "audio": "media/sent/f32b30a0c2f4.mp3?v=25dbfdf0"
     }
    ],
    "media": {
-    "uk": "media/word/the.mp3",
-    "us": "media/word/the.mp3"
+    "uk": "media/word/the.mp3?v=ccc90bdf",
+    "us": "media/word/the.mp3?v=ccc90bdf"
    },
    "hook": {
     "kind": "contrast",
@@ -174,22 +174,22 @@
     {
      "en": "I like apples and pears.",
      "zh": "我喜欢苹果和梨。",
-     "audio": "media/sent/a6154ffc908f.mp3"
+     "audio": "media/sent/a6154ffc908f.mp3?v=fcb2b306"
     },
     {
      "en": "Tom and Sam play together.",
      "zh": "Tom 和 Sam 一起玩。",
-     "audio": "media/sent/abc1f6b8cfe9.mp3"
+     "audio": "media/sent/abc1f6b8cfe9.mp3?v=ea3b7f6e"
     },
     {
      "en": "Mum and Dad are at work.",
      "zh": "妈妈和爸爸在上班。",
-     "audio": "media/sent/ab4f0f658b06.mp3"
+     "audio": "media/sent/ab4f0f658b06.mp3?v=3c5b2d00"
     }
    ],
    "media": {
-    "uk": "media/uk/and.mp3",
-    "us": "media/us/and.mp3"
+    "uk": "media/uk/and.mp3?v=7fff114a",
+    "us": "media/us/and.mp3?v=030937b8"
    },
    "spell": true,
    "hook": {
@@ -226,22 +226,22 @@
     {
      "en": "It is raining, but I am happy.",
      "zh": "正在下雨，但我很开心。",
-     "audio": "media/sent/f77209ae6d6a.mp3"
+     "audio": "media/sent/f77209ae6d6a.mp3?v=1f797d3b"
     },
     {
      "en": "I like tea, but not coffee.",
      "zh": "我喜欢茶，但不喜欢咖啡。",
-     "audio": "media/sent/2f7d741321f3.mp3"
+     "audio": "media/sent/2f7d741321f3.mp3?v=b5a77fcd"
     },
     {
      "en": "He is small, but strong.",
      "zh": "他个子小，但很强壮。",
-     "audio": "media/sent/423616ccb061.mp3"
+     "audio": "media/sent/423616ccb061.mp3?v=b8492962"
     }
    ],
    "media": {
-    "uk": "media/uk/but.mp3",
-    "us": "media/us/but.mp3"
+    "uk": "media/uk/but.mp3?v=46d96b1c",
+    "us": "media/us/but.mp3?v=d99bb8a3"
    },
    "spell": true,
    "hook": {
@@ -278,22 +278,22 @@
     {
      "en": "Do you want a sandwich or an apple?",
      "zh": "你想要三明治还是苹果？",
-     "audio": "media/sent/87c852caa9af.mp3"
+     "audio": "media/sent/87c852caa9af.mp3?v=76ae8b84"
     },
     {
      "en": "We can play football or basketball.",
      "zh": "我们可以踢足球或打篮球。",
-     "audio": "media/sent/bce4dd4210d3.mp3"
+     "audio": "media/sent/bce4dd4210d3.mp3?v=c98095a9"
     },
     {
      "en": "Is it red or blue?",
      "zh": "它是红色的还是蓝色的？",
-     "audio": "media/sent/0167a78e2a9c.mp3"
+     "audio": "media/sent/0167a78e2a9c.mp3?v=1b268880"
     }
    ],
    "media": {
-    "uk": "media/uk/or.mp3",
-    "us": "media/us/or.mp3"
+    "uk": "media/uk/or.mp3?v=c1624fc1",
+    "us": "media/us/or.mp3?v=9ae34422"
    },
    "spell": true,
    "avoid": []
@@ -328,22 +328,22 @@
     {
      "en": "I am tired, so I sleep.",
      "zh": "我累了，所以我睡觉。",
-     "audio": "media/sent/745af564ea33.mp3"
+     "audio": "media/sent/745af564ea33.mp3?v=6386f79d"
     },
     {
      "en": "It is late, so we go home.",
      "zh": "天晚了，所以我们回家。",
-     "audio": "media/sent/1184c8152f73.mp3"
+     "audio": "media/sent/1184c8152f73.mp3?v=598f9250"
     },
     {
      "en": "She is happy, so she laughs.",
      "zh": "她很开心，所以她大笑。",
-     "audio": "media/sent/80ce08d777b6.mp3"
+     "audio": "media/sent/80ce08d777b6.mp3?v=acdbfa6a"
     }
    ],
    "media": {
-    "uk": "media/uk/so.mp3",
-    "us": "media/us/so.mp3"
+    "uk": "media/uk/so.mp3?v=ac6b6c2f",
+    "us": "media/us/so.mp3?v=adbdaceb"
    },
    "spell": true,
    "avoid": []
@@ -377,22 +377,22 @@
     {
      "en": "We stay inside because it rains.",
      "zh": "我们待在室内，因为下雨了。",
-     "audio": "media/sent/a0909b4a3148.mp3"
+     "audio": "media/sent/a0909b4a3148.mp3?v=86596ac6"
     },
     {
      "en": "He laughs because he is happy.",
      "zh": "他大笑是因为他开心。",
-     "audio": "media/sent/e7b1c384559a.mp3"
+     "audio": "media/sent/e7b1c384559a.mp3?v=4238ee5e"
     },
     {
      "en": "I am hungry because I did not eat.",
      "zh": "我饿了，因为我没吃东西。",
-     "audio": "media/sent/c0133c332c2c.mp3"
+     "audio": "media/sent/c0133c332c2c.mp3?v=44bc81ff"
     }
    ],
    "media": {
-    "uk": "media/uk/because.mp3",
-    "us": "media/us/because.mp3"
+    "uk": "media/uk/because.mp3?v=778be57d",
+    "us": "media/us/because.mp3?v=22d67549"
    },
    "spell": true,
    "hook": {
@@ -431,22 +431,22 @@
     {
      "en": "We were late because of the traffic.",
      "zh": "我们迟到了，因为交通堵塞。",
-     "audio": "media/sent/34785c110dd0.mp3"
+     "audio": "media/sent/34785c110dd0.mp3?v=cb487ad1"
     },
     {
      "en": "The bus is late because of the rain.",
      "zh": "公交车因雨晚点了。",
-     "audio": "media/sent/a72a6dcec038.mp3"
+     "audio": "media/sent/a72a6dcec038.mp3?v=0b32e5e4"
     },
     {
      "en": "We stayed home because of the snow.",
      "zh": "我们因为下雪待在家里。",
-     "audio": "media/sent/8d109233c988.mp3"
+     "audio": "media/sent/8d109233c988.mp3?v=1f77d425"
     }
    ],
    "media": {
-    "uk": "media/word/because-of.mp3",
-    "us": "media/word/because-of.mp3"
+    "uk": "media/word/because-of.mp3?v=9ae83121",
+    "us": "media/word/because-of.mp3?v=9ae83121"
    },
    "hook": {
     "kind": "split",
@@ -482,22 +482,22 @@
     {
      "en": "Take an umbrella if it rains.",
      "zh": "如果下雨，就带把伞。",
-     "audio": "media/sent/b42b5f145798.mp3"
+     "audio": "media/sent/b42b5f145798.mp3?v=b0a6e52b"
     },
     {
      "en": "Call me if you are lost.",
      "zh": "如果你迷路了，给我打电话。",
-     "audio": "media/sent/04a4a85b8719.mp3"
+     "audio": "media/sent/04a4a85b8719.mp3?v=abf6914f"
     },
     {
      "en": "I will go if you come.",
      "zh": "如果你去，我就去。",
-     "audio": "media/sent/d5339cfb29a7.mp3"
+     "audio": "media/sent/d5339cfb29a7.mp3?v=b7d6189f"
     }
    ],
    "media": {
-    "uk": "media/uk/if.mp3",
-    "us": "media/us/if.mp3"
+    "uk": "media/uk/if.mp3?v=244a03af",
+    "us": "media/us/if.mp3?v=ee3eebfc"
    },
    "spell": true,
    "avoid": []
@@ -534,22 +534,22 @@
     {
      "en": "He sings as he walks.",
      "zh": "他一边走一边唱歌。",
-     "audio": "media/sent/a628b906b64e.mp3"
+     "audio": "media/sent/a628b906b64e.mp3?v=5239a0f9"
     },
     {
      "en": "As it is cold, wear a coat.",
      "zh": "因为天气冷，穿件外套。",
-     "audio": "media/sent/a2a7a15fdf8e.mp3"
+     "audio": "media/sent/a2a7a15fdf8e.mp3?v=bb69e4d5"
     },
     {
      "en": "She looks happy as she laughs.",
      "zh": "她大笑时看起来很幸福。",
-     "audio": "media/sent/d41e2b3ecf11.mp3"
+     "audio": "media/sent/d41e2b3ecf11.mp3?v=579e8cad"
     }
    ],
    "media": {
-    "uk": "media/uk/as.mp3",
-    "us": "media/us/as.mp3"
+    "uk": "media/uk/as.mp3?v=24a89c18",
+    "us": "media/us/as.mp3?v=dd0832cb"
    },
    "spell": true,
    "avoid": []
@@ -584,22 +584,22 @@
     {
      "en": "Tom is smaller than Lily.",
      "zh": "Tom 比 Lily 矮。",
-     "audio": "media/sent/17b7488b5f87.mp3"
+     "audio": "media/sent/17b7488b5f87.mp3?v=11f2cd3b"
     },
     {
      "en": "This book is bigger than that one.",
      "zh": "这本书比那本大。",
-     "audio": "media/sent/d580f9ffd5c2.mp3"
+     "audio": "media/sent/d580f9ffd5c2.mp3?v=2d6120ca"
     },
     {
      "en": "My cat is older than yours.",
      "zh": "我的猫比你的老。",
-     "audio": "media/sent/664fe4b54b91.mp3"
+     "audio": "media/sent/664fe4b54b91.mp3?v=f57ea4e6"
     }
    ],
    "media": {
-    "uk": "media/uk/than.mp3",
-    "us": "media/us/than.mp3"
+    "uk": "media/uk/than.mp3?v=529a64fc",
+    "us": "media/us/than.mp3?v=d496890d"
    },
    "spell": true,
    "hook": {
@@ -636,22 +636,22 @@
     {
      "en": "I read while Tom plays.",
      "zh": "Tom 玩的时候，我在看书。",
-     "audio": "media/sent/8d20c5b2aec1.mp3"
+     "audio": "media/sent/8d20c5b2aec1.mp3?v=df24a19d"
     },
     {
      "en": "He cooked while she cleaned.",
      "zh": "他做饭时，她在打扫。",
-     "audio": "media/sent/c60e9a045a8e.mp3"
+     "audio": "media/sent/c60e9a045a8e.mp3?v=da164b4a"
     },
     {
      "en": "Max sleeps while we eat.",
      "zh": "我们吃饭时，Max 在睡觉。",
-     "audio": "media/sent/42fda3abc6ce.mp3"
+     "audio": "media/sent/42fda3abc6ce.mp3?v=3b830319"
     }
    ],
    "media": {
-    "uk": "media/word/while.mp3",
-    "us": "media/word/while.mp3"
+    "uk": "media/word/while.mp3?v=67dca50c",
+    "us": "media/word/while.mp3?v=67dca50c"
    },
    "hook": {
     "kind": "contrast",
@@ -690,22 +690,22 @@
     {
      "en": "Everyone likes cake except Tom.",
      "zh": "除了Tom，大家都喜欢蛋糕。",
-     "audio": "media/sent/0cf81501a106.mp3"
+     "audio": "media/sent/0cf81501a106.mp3?v=8f0dc37c"
     },
     {
      "en": "I like all fruit except lemons.",
      "zh": "我喜欢所有水果，柠檬除外。",
-     "audio": "media/sent/f7ed1e8cad39.mp3"
+     "audio": "media/sent/f7ed1e8cad39.mp3?v=80a7e67c"
     },
     {
      "en": "All days are busy except Sunday.",
      "zh": "除了星期日，其他天都很忙。",
-     "audio": "media/sent/7c8f5e171b75.mp3"
+     "audio": "media/sent/7c8f5e171b75.mp3?v=653d1413"
     }
    ],
    "media": {
-    "uk": "media/uk/except.mp3",
-    "us": "media/us/except.mp3"
+    "uk": "media/uk/except.mp3?v=eeef44e5",
+    "us": "media/us/except.mp3?v=bc86cb35"
    },
    "hook": {
     "kind": "contrast",
@@ -741,22 +741,22 @@
     {
      "en": "He is the son of my friend.",
      "zh": "他是我朋友的儿子。",
-     "audio": "media/sent/071616f06623.mp3"
+     "audio": "media/sent/071616f06623.mp3?v=2e4ce18b"
     },
     {
      "en": "The door of the room is open.",
      "zh": "房间的门是开着的。",
-     "audio": "media/sent/6f35d1f52822.mp3"
+     "audio": "media/sent/6f35d1f52822.mp3?v=ca480f24"
     },
     {
      "en": "She is a friend of Lily's.",
      "zh": "她是Lily的一个朋友。",
-     "audio": "media/sent/f24660bf02d5.mp3"
+     "audio": "media/sent/f24660bf02d5.mp3?v=8a2f5fa1"
     }
    ],
    "media": {
-    "uk": "media/word/of.mp3",
-    "us": "media/word/of.mp3"
+    "uk": "media/word/of.mp3?v=ce6cc7fd",
+    "us": "media/word/of.mp3?v=ce6cc7fd"
    },
    "avoid": []
   },
@@ -788,22 +788,22 @@
     {
      "en": "This gift is for you.",
      "zh": "这个礼物是给你的。",
-     "audio": "media/sent/4ce18ae58b29.mp3"
+     "audio": "media/sent/4ce18ae58b29.mp3?v=b34cc807"
     },
     {
      "en": "We wait for the bus.",
      "zh": "我们在等公交车。",
-     "audio": "media/sent/b2e65d06306a.mp3"
+     "audio": "media/sent/b2e65d06306a.mp3?v=4b56cec7"
     },
     {
      "en": "It is time for dinner.",
      "zh": "吃晚饭的时间到了。",
-     "audio": "media/sent/3be127f5d7da.mp3"
+     "audio": "media/sent/3be127f5d7da.mp3?v=51f843da"
     }
    ],
    "media": {
-    "uk": "media/word/for.mp3",
-    "us": "media/word/for.mp3"
+    "uk": "media/word/for.mp3?v=663d2c49",
+    "us": "media/word/for.mp3?v=663d2c49"
    },
    "hook": {
     "kind": "contrast",
@@ -839,22 +839,22 @@
     {
      "en": "She is from China.",
      "zh": "她来自中国。",
-     "audio": "media/sent/e866f6b742cd.mp3"
+     "audio": "media/sent/e866f6b742cd.mp3?v=ecd6cef6"
     },
     {
      "en": "He comes from London.",
      "zh": "他来自伦敦。",
-     "audio": "media/sent/57d74e49af7d.mp3"
+     "audio": "media/sent/57d74e49af7d.mp3?v=7a1e88ad"
     },
     {
      "en": "The letter is from Grandma.",
      "zh": "这封信来自奶奶。",
-     "audio": "media/sent/91c49bce6db6.mp3"
+     "audio": "media/sent/91c49bce6db6.mp3?v=ae2d9415"
     }
    ],
    "media": {
-    "uk": "media/uk/from.mp3",
-    "us": "media/us/from.mp3"
+    "uk": "media/uk/from.mp3?v=c7111838",
+    "us": "media/us/from.mp3?v=25e9b3d8"
    },
    "spell": true,
    "hook": {
@@ -891,22 +891,22 @@
     {
      "en": "I walk to school.",
      "zh": "我走路去学校。",
-     "audio": "media/sent/d2060e918ff2.mp3"
+     "audio": "media/sent/d2060e918ff2.mp3?v=b5777e89"
     },
     {
      "en": "We go to the park.",
      "zh": "我们去公园。",
-     "audio": "media/sent/8a3e15e9a5c8.mp3"
+     "audio": "media/sent/8a3e15e9a5c8.mp3?v=d510bc30"
     },
     {
      "en": "Give the book to Tom.",
      "zh": "把书给Tom。",
-     "audio": "media/sent/63389b85b599.mp3"
+     "audio": "media/sent/63389b85b599.mp3?v=c07dfadd"
     }
    ],
    "media": {
-    "uk": "media/word/to.mp3",
-    "us": "media/word/to.mp3"
+    "uk": "media/word/to.mp3?v=ea46a737",
+    "us": "media/word/to.mp3?v=ea46a737"
    },
    "avoid": []
   },
@@ -938,22 +938,22 @@
     {
      "en": "I go to school with Lily.",
      "zh": "我和 Lily 一起去上学。",
-     "audio": "media/sent/6b70377cce33.mp3"
+     "audio": "media/sent/6b70377cce33.mp3?v=8fb3042f"
     },
     {
      "en": "Tom plays with his toy car.",
      "zh": "Tom 玩他的玩具汽车。",
-     "audio": "media/sent/712e07a20f2f.mp3"
+     "audio": "media/sent/712e07a20f2f.mp3?v=67168e79"
     },
     {
      "en": "Mum drinks tea with milk.",
      "zh": "妈妈喝加牛奶的茶。",
-     "audio": "media/sent/a18aa03e5337.mp3"
+     "audio": "media/sent/a18aa03e5337.mp3?v=97fb2b1d"
     }
    ],
    "media": {
-    "uk": "media/uk/with.mp3",
-    "us": "media/us/with.mp3"
+    "uk": "media/uk/with.mp3?v=c9746761",
+    "us": "media/us/with.mp3?v=ede73263"
    },
    "spell": true,
    "avoid": []
@@ -987,22 +987,22 @@
     {
      "en": "Tom goes out without his coat.",
      "zh": "Tom 没穿外套就出去了。",
-     "audio": "media/sent/a42f7dc0160c.mp3"
+     "audio": "media/sent/a42f7dc0160c.mp3?v=5ef7e1aa"
     },
     {
      "en": "We walk to school without our bags.",
      "zh": "我们不背包去上学。",
-     "audio": "media/sent/48ee56fb4cb4.mp3"
+     "audio": "media/sent/48ee56fb4cb4.mp3?v=9592a159"
     },
     {
      "en": "I like tea without sugar.",
      "zh": "我喜欢不加糖的茶。",
-     "audio": "media/sent/5fa5fd28112f.mp3"
+     "audio": "media/sent/5fa5fd28112f.mp3?v=161be077"
     }
    ],
    "media": {
-    "uk": "media/uk/without.mp3",
-    "us": "media/us/without.mp3"
+    "uk": "media/uk/without.mp3?v=6641c97a",
+    "us": "media/us/without.mp3?v=d6dadf6e"
    },
    "spell": true,
    "hook": {
@@ -1039,22 +1039,22 @@
     {
      "en": "We go to Grandma's by train.",
      "zh": "我们坐火车去奶奶家。",
-     "audio": "media/sent/ce34e98b3697.mp3"
+     "audio": "media/sent/ce34e98b3697.mp3?v=c33fc7de"
     },
     {
      "en": "The cat sleeps by the fire.",
      "zh": "猫在火炉旁睡觉。",
-     "audio": "media/sent/27ba80cae1d7.mp3"
+     "audio": "media/sent/27ba80cae1d7.mp3?v=c2de17b5"
     },
     {
      "en": "Come and sit by me.",
      "zh": "过来坐在我旁边。",
-     "audio": "media/sent/b2b849d6138d.mp3"
+     "audio": "media/sent/b2b849d6138d.mp3?v=821b3ffc"
     }
    ],
    "media": {
-    "uk": "media/uk/by.mp3",
-    "us": "media/us/by.mp3"
+    "uk": "media/uk/by.mp3?v=0a494a65",
+    "us": "media/us/by.mp3?v=8c433a80"
    },
    "spell": true,
    "avoid": []
@@ -1087,22 +1087,22 @@
     {
      "en": "Tom reads one book per week.",
      "zh": "Tom 每周读一本书。",
-     "audio": "media/sent/e2cd74b65073.mp3"
+     "audio": "media/sent/e2cd74b65073.mp3?v=fade9404"
     },
     {
      "en": "There are two eggs per person.",
      "zh": "每人两个鸡蛋。",
-     "audio": "media/sent/2184383afe9e.mp3"
+     "audio": "media/sent/2184383afe9e.mp3?v=0c43e40d"
     },
     {
      "en": "Mum runs five kilometres per day.",
      "zh": "妈妈每天跑五公里。",
-     "audio": "media/sent/a0d0dd15a7af.mp3"
+     "audio": "media/sent/a0d0dd15a7af.mp3?v=f6929c6a"
     }
    ],
    "media": {
-    "uk": "media/uk/per.mp3",
-    "us": "media/us/per.mp3"
+    "uk": "media/uk/per.mp3?v=b6af0755",
+    "us": "media/us/per.mp3?v=850db7c3"
    },
    "hook": {
     "kind": "contrast",
@@ -1138,22 +1138,22 @@
     {
      "en": "Two plus two is four.",
      "zh": "二加二等于四。",
-     "audio": "media/sent/7ad75b74825e.mp3"
+     "audio": "media/sent/7ad75b74825e.mp3?v=e307d0ea"
     },
     {
      "en": "Five plus three is eight.",
      "zh": "五加三等于八。",
-     "audio": "media/sent/a385ca47d422.mp3"
+     "audio": "media/sent/a385ca47d422.mp3?v=049d8d40"
     },
     {
      "en": "The ticket is ten pounds plus money for food.",
      "zh": "票是十英镑，外加食物的钱。",
-     "audio": "media/sent/31609b23dacf.mp3"
+     "audio": "media/sent/31609b23dacf.mp3?v=8c260ad9"
     }
    ],
    "media": {
-    "uk": "media/uk/plus.mp3",
-    "us": "media/us/plus.mp3"
+    "uk": "media/uk/plus.mp3?v=d6cadf4c",
+    "us": "media/us/plus.mp3?v=04e97259"
    },
    "avoid": []
   },
@@ -1186,22 +1186,22 @@
     {
      "en": "Ten minus three is seven.",
      "zh": "十减三等于七。",
-     "audio": "media/sent/bb85db042d30.mp3"
+     "audio": "media/sent/bb85db042d30.mp3?v=84961bfa"
     },
     {
      "en": "It is minus two degrees today.",
      "zh": "今天气温是零下两度。",
-     "audio": "media/sent/0559f85f65df.mp3"
+     "audio": "media/sent/0559f85f65df.mp3?v=1b2543d0"
     },
     {
      "en": "Nine minus five is four.",
      "zh": "九减五等于四。",
-     "audio": "media/sent/23c208168940.mp3"
+     "audio": "media/sent/23c208168940.mp3?v=004fbc98"
     }
    ],
    "media": {
-    "uk": "media/uk/minus.mp3",
-    "us": "media/us/minus.mp3"
+    "uk": "media/uk/minus.mp3?v=695c3a58",
+    "us": "media/us/minus.mp3?v=300d9691"
    },
    "avoid": []
   },
@@ -1234,22 +1234,22 @@
     {
      "en": "Lily also likes chocolate.",
      "zh": "Lily 也喜欢巧克力。",
-     "audio": "media/sent/f2bc8abd439d.mp3"
+     "audio": "media/sent/f2bc8abd439d.mp3?v=b5044182"
     },
     {
      "en": "Tom can sing, and he also dances.",
      "zh": "Tom 会唱歌，他还会跳舞。",
-     "audio": "media/sent/f2be9109f8bd.mp3"
+     "audio": "media/sent/f2be9109f8bd.mp3?v=4b15dd48"
     },
     {
      "en": "Mum is busy. She also cooks dinner.",
      "zh": "妈妈很忙。她还要做晚饭。",
-     "audio": "media/sent/70f236635296.mp3"
+     "audio": "media/sent/70f236635296.mp3?v=3e3294a2"
     }
    ],
    "media": {
-    "uk": "media/uk/also.mp3",
-    "us": "media/us/also.mp3"
+    "uk": "media/uk/also.mp3?v=0eb1b86e",
+    "us": "media/us/also.mp3?v=7dad0e30"
    },
    "spell": true,
    "avoid": []
@@ -1282,22 +1282,22 @@
     {
      "en": "I want a cake too.",
      "zh": "我也想要一块蛋糕。",
-     "audio": "media/sent/e9006fb501e4.mp3"
+     "audio": "media/sent/e9006fb501e4.mp3?v=1b2c6f0e"
     },
     {
      "en": "This bag is too heavy for Tom.",
      "zh": "这个包对 Tom 来说太重了。",
-     "audio": "media/sent/08c2197f35ae.mp3"
+     "audio": "media/sent/08c2197f35ae.mp3?v=11185cb0"
     },
     {
      "en": "It is too cold to swim.",
      "zh": "太冷了，不能游泳。",
-     "audio": "media/sent/7c161aababa0.mp3"
+     "audio": "media/sent/7c161aababa0.mp3?v=df696d11"
     }
    ],
    "media": {
-    "uk": "media/uk/too.mp3",
-    "us": "media/us/too.mp3"
+    "uk": "media/uk/too.mp3?v=26873c84",
+    "us": "media/us/too.mp3?v=98acbd16"
    },
    "spell": true,
    "hook": {
@@ -1337,22 +1337,22 @@
     {
      "en": "Lily brings her cat as well.",
      "zh": "Lily 也把她的猫带来了。",
-     "audio": "media/sent/05288148adbc.mp3"
+     "audio": "media/sent/05288148adbc.mp3?v=bded42f1"
     },
     {
      "en": "Mia likes apples and bananas as well.",
      "zh": "Mia 也喜欢苹果和香蕉。",
-     "audio": "media/sent/6115997d5c0d.mp3"
+     "audio": "media/sent/6115997d5c0d.mp3?v=86223b8f"
     },
     {
      "en": "Dad watches the film as well.",
      "zh": "爸爸也看这部电影。",
-     "audio": "media/sent/dfde05d10db2.mp3"
+     "audio": "media/sent/dfde05d10db2.mp3?v=d1090dfe"
     }
    ],
    "media": {
-    "uk": "media/word/as-well.mp3",
-    "us": "media/word/as-well.mp3"
+    "uk": "media/word/as-well.mp3?v=5119c9c2",
+    "us": "media/word/as-well.mp3?v=5119c9c2"
    },
    "hook": {
     "kind": "split",
@@ -1389,22 +1389,22 @@
     {
      "en": "There is no milk, so I drink water instead.",
      "zh": "没有牛奶了，所以我改喝水。",
-     "audio": "media/sent/3590f2643d72.mp3"
+     "audio": "media/sent/3590f2643d72.mp3?v=858b9fbd"
     },
     {
      "en": "I ate rice instead.",
      "zh": "我改吃米饭了。",
-     "audio": "media/sent/5039499c5216.mp3"
+     "audio": "media/sent/5039499c5216.mp3?v=b50942c7"
     },
     {
      "en": "She played inside instead.",
      "zh": "她改为在室内玩了。",
-     "audio": "media/sent/e1c3a597d627.mp3"
+     "audio": "media/sent/e1c3a597d627.mp3?v=c43ed7be"
     }
    ],
    "media": {
-    "uk": "media/uk/instead.mp3",
-    "us": "media/us/instead.mp3"
+    "uk": "media/uk/instead.mp3?v=efc52e15",
+    "us": "media/us/instead.mp3?v=6a1be641"
    },
    "avoid": []
   },
@@ -1438,22 +1438,22 @@
     {
      "en": "Tom eats an apple instead of cake.",
      "zh": "Tom 吃苹果而不是蛋糕。",
-     "audio": "media/sent/6fe091572c21.mp3"
+     "audio": "media/sent/6fe091572c21.mp3?v=b5dbe4fd"
     },
     {
      "en": "We went by bus instead of car.",
      "zh": "我们坐公交车而不是汽车去的。",
-     "audio": "media/sent/c057a5e3421b.mp3"
+     "audio": "media/sent/c057a5e3421b.mp3?v=4e8fe8d7"
     },
     {
      "en": "She wrote in pencil instead of pen.",
      "zh": "她用铅笔写而不是用钢笔。",
-     "audio": "media/sent/4a469a7f41df.mp3"
+     "audio": "media/sent/4a469a7f41df.mp3?v=30835332"
     }
    ],
    "media": {
-    "uk": "media/word/instead-of.mp3",
-    "us": "media/word/instead-of.mp3"
+    "uk": "media/word/instead-of.mp3?v=182b99b4",
+    "us": "media/word/instead-of.mp3?v=182b99b4"
    },
    "hook": {
     "kind": "split",
@@ -1491,22 +1491,22 @@
     {
      "en": "The bag has toys, including a bear.",
      "zh": "包里有玩具，包括一只熊。",
-     "audio": "media/sent/c1ac93ade1b2.mp3"
+     "audio": "media/sent/c1ac93ade1b2.mp3?v=9e4f4d41"
     },
     {
      "en": "We invite everyone, including Sam.",
      "zh": "我们邀请所有人，包括 Sam。",
-     "audio": "media/sent/4b1d3c4d2deb.mp3"
+     "audio": "media/sent/4b1d3c4d2deb.mp3?v=11a3f923"
     },
     {
      "en": "Six people came, including Grandma.",
      "zh": "来了六个人，包括奶奶。",
-     "audio": "media/sent/ccfd2d6fb036.mp3"
+     "audio": "media/sent/ccfd2d6fb036.mp3?v=7181eb65"
     }
    ],
    "media": {
-    "uk": "media/uk/including.mp3",
-    "us": "media/us/including.mp3"
+    "uk": "media/uk/including.mp3?v=a6ad7646",
+    "us": "media/us/including.mp3?v=94e5b07b"
    },
    "avoid": []
   },
@@ -1542,22 +1542,22 @@
     {
      "en": "Lily looks like Mum.",
      "zh": "Lily 看起来像妈妈。",
-     "audio": "media/sent/d055448df119.mp3"
+     "audio": "media/sent/d055448df119.mp3?v=db57ff10"
     },
     {
      "en": "The cloud is like a sheep.",
      "zh": "那朵云像一只羊。",
-     "audio": "media/sent/060566b53607.mp3"
+     "audio": "media/sent/060566b53607.mp3?v=44a91024"
     },
     {
      "en": "Tom runs fast, like Max.",
      "zh": "Tom 跑得快，像 Max 一样。",
-     "audio": "media/sent/8df1a01f7cea.mp3"
+     "audio": "media/sent/8df1a01f7cea.mp3?v=bf260411"
     }
    ],
    "media": {
-    "uk": "media/uk/like.mp3",
-    "us": "media/us/like.mp3"
+    "uk": "media/uk/like.mp3?v=e5b88042",
+    "us": "media/us/like.mp3?v=ad86b1cd"
    },
    "spell": true,
    "avoid": []
@@ -1590,22 +1590,22 @@
     {
      "en": "I just woke up.",
      "zh": "我刚刚醒来。",
-     "audio": "media/sent/74a449b8e627.mp3"
+     "audio": "media/sent/74a449b8e627.mp3?v=ded30486"
     },
     {
      "en": "It's just a small spider.",
      "zh": "它只是一只小蜘蛛。",
-     "audio": "media/sent/01a19af9df47.mp3"
+     "audio": "media/sent/01a19af9df47.mp3?v=07a97f62"
     },
     {
      "en": "Tom has just finished his homework.",
      "zh": "Tom 刚刚做完作业。",
-     "audio": "media/sent/f9ed266efadb.mp3"
+     "audio": "media/sent/f9ed266efadb.mp3?v=cbf05433"
     }
    ],
    "media": {
-    "uk": "media/uk/just.mp3",
-    "us": "media/us/just.mp3"
+    "uk": "media/uk/just.mp3?v=ab199c93",
+    "us": "media/us/just.mp3?v=db6ec732"
    },
    "spell": true,
    "hook": {
@@ -1645,22 +1645,22 @@
     {
      "en": "Tom has only one ball.",
      "zh": "Tom 只有一个球。",
-     "audio": "media/sent/acd0ade2cb42.mp3"
+     "audio": "media/sent/acd0ade2cb42.mp3?v=a66e24c2"
     },
     {
      "en": "There is only one cookie left.",
      "zh": "只剩下一个饼干了。",
-     "audio": "media/sent/866869e03275.mp3"
+     "audio": "media/sent/866869e03275.mp3?v=e7d5f466"
     },
     {
      "en": "I have only five pounds.",
      "zh": "我只有五英镑。",
-     "audio": "media/sent/5b12d34c18ce.mp3"
+     "audio": "media/sent/5b12d34c18ce.mp3?v=b20acb7b"
     }
    ],
    "media": {
-    "uk": "media/word/only.mp3",
-    "us": "media/word/only.mp3"
+    "uk": "media/word/only.mp3?v=e6dd061f",
+    "us": "media/word/only.mp3?v=e6dd061f"
    },
    "avoid": []
   },
@@ -1692,22 +1692,22 @@
     {
      "en": "Tom is not hungry.",
      "zh": "Tom 不饿。",
-     "audio": "media/sent/206d4e6c7b8b.mp3"
+     "audio": "media/sent/206d4e6c7b8b.mp3?v=999cd97a"
     },
     {
      "en": "It is not raining today.",
      "zh": "今天没有下雨。",
-     "audio": "media/sent/7b4a83363959.mp3"
+     "audio": "media/sent/7b4a83363959.mp3?v=f8746494"
     },
     {
      "en": "I do not like spiders.",
      "zh": "我不喜欢蜘蛛。",
-     "audio": "media/sent/1c080640bdc1.mp3"
+     "audio": "media/sent/1c080640bdc1.mp3?v=6013cfcd"
     }
    ],
    "media": {
-    "uk": "media/word/not.mp3",
-    "us": "media/word/not.mp3"
+    "uk": "media/word/not.mp3?v=a97d679c",
+    "us": "media/word/not.mp3?v=a97d679c"
    },
    "avoid": []
   },
@@ -1739,22 +1739,22 @@
     {
      "en": "Yes, I can help you.",
      "zh": "是的，我可以帮你。",
-     "audio": "media/sent/c3b549f33606.mp3"
+     "audio": "media/sent/c3b549f33606.mp3?v=516edd4f"
     },
     {
      "en": "Is that your bag? Yes!",
      "zh": "那是你的包吗？是的！",
-     "audio": "media/sent/9f156dbbcf37.mp3"
+     "audio": "media/sent/9f156dbbcf37.mp3?v=e3f90840"
     },
     {
      "en": "Yes, the film is very good.",
      "zh": "是的，这部电影很好看。",
-     "audio": "media/sent/511524a7c52a.mp3"
+     "audio": "media/sent/511524a7c52a.mp3?v=bc8c6540"
     }
    ],
    "media": {
-    "uk": "media/word/yes.mp3",
-    "us": "media/word/yes.mp3"
+    "uk": "media/word/yes.mp3?v=64ab480b",
+    "us": "media/word/yes.mp3?v=64ab480b"
    },
    "avoid": []
   },
@@ -1790,22 +1790,22 @@
     {
      "en": "No, I don't want tea.",
      "zh": "不，我不想喝茶。",
-     "audio": "media/sent/0c8badb5bdc2.mp3"
+     "audio": "media/sent/0c8badb5bdc2.mp3?v=ecadc918"
     },
     {
      "en": "There is no milk in the fridge.",
      "zh": "冰箱里没有牛奶了。",
-     "audio": "media/sent/0a362be5d30d.mp3"
+     "audio": "media/sent/0a362be5d30d.mp3?v=3f9660f6"
     },
     {
      "en": "No, it is not my turn.",
      "zh": "不，现在轮不到我。",
-     "audio": "media/sent/1931a4ef5ace.mp3"
+     "audio": "media/sent/1931a4ef5ace.mp3?v=4a7006a1"
     }
    ],
    "media": {
-    "uk": "media/word/no.mp3",
-    "us": "media/word/no.mp3"
+    "uk": "media/word/no.mp3?v=83d69f99",
+    "us": "media/word/no.mp3?v=83d69f99"
    },
    "avoid": []
   }

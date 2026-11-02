@@ -11,13 +11,13 @@ export interface Plan {
   reviews: Task[];
   /** Words to meet for the first time today. */
   newWords: string[];
-  /** Due skills left out because of today's time; a lot of them means "catch-up mode". */
+  /** Due skills left out by the day's review cap; a lot of them means "catch-up mode". */
   backlog: number;
 }
 
 export interface PlanOptions {
   newPerDay: number;
-  /** Most reviews that fit in today's time, so a few missed days never turn into a wall of 200 cards. */
+  /** Most reviews in a day, so a few missed days never turn into a wall of 200 cards. */
   reviewCap: number;
   /** Most reviews that fit when new words are paused and reviews have the whole day; reviewCap without it. */
   reviewCapAlone?: number;

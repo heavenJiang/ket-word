@@ -48,6 +48,8 @@ export function OfflinePanel({ words, stories }: { words: Word[]; stories: Story
         try {
           const res = await fetch(u);
           if (!res.ok) throw new Error(String(res.status));
+          // media paths carry a content hash (?v=…): a changed file replaces its old version, as in sw.js
+          await c.delete(u, { ignoreSearch: true });
           await c.put(u, res);
           done++;
         } catch {

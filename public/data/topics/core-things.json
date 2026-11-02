@@ -31,23 +31,23 @@
     {
      "en": "My alarm clock rings at seven.",
      "zh": "我的闹钟七点响。",
-     "audio": "media/sent/f25a76716a22.mp3"
+     "audio": "media/sent/f25a76716a22.mp3?v=41479f28"
     },
     {
      "en": "Lily sets her alarm clock for school.",
      "zh": "Lily 为上学设好闹钟。",
-     "audio": "media/sent/f074392f5562.mp3"
+     "audio": "media/sent/f074392f5562.mp3?v=d32bf731"
     },
     {
      "en": "Dad's alarm clock is very loud.",
      "zh": "爸爸的闹钟很吵。",
-     "audio": "media/sent/a8993ba162ce.mp3"
+     "audio": "media/sent/a8993ba162ce.mp3?v=d2ba4737"
     }
    ],
    "media": {
-    "img": "media/img/alarm-clock.webp",
-    "uk": "media/word/alarm-clock.mp3",
-    "us": "media/word/alarm-clock.mp3"
+    "img": "media/img/alarm-clock.webp?v=6a96a689",
+    "uk": "media/word/alarm-clock.mp3?v=6f11b5b9",
+    "us": "media/word/alarm-clock.mp3?v=6f11b5b9"
    },
    "hook": {
     "kind": "split",
@@ -84,23 +84,23 @@
     {
      "en": "Grandma shows us her photo album.",
      "zh": "奶奶给我们看她的相册。",
-     "audio": "media/sent/4c3b08e3b82c.mp3"
+     "audio": "media/sent/4c3b08e3b82c.mp3?v=875775ca"
     },
     {
      "en": "Sam puts his stamps in the album.",
      "zh": "Sam 把邮票放进集邮册。",
-     "audio": "media/sent/7ad912e3adcb.mp3"
+     "audio": "media/sent/7ad912e3adcb.mp3?v=69522631"
     },
     {
      "en": "This album has old photos.",
      "zh": "这本相册里有旧照片。",
-     "audio": "media/sent/858432c2b80b.mp3"
+     "audio": "media/sent/858432c2b80b.mp3?v=c4cc0b13"
     }
    ],
    "media": {
-    "img": "media/img/album.webp",
-    "uk": "media/uk/album.mp3",
-    "us": "media/us/album.mp3"
+    "img": "media/img/album.webp?v=18d83b71",
+    "uk": "media/uk/album.mp3?v=160b5ba8",
+    "us": "media/us/album.mp3?v=564787e7"
    },
    "avoid": []
   },
@@ -133,23 +133,23 @@
     {
      "en": "Tom holds a red balloon.",
      "zh": "Tom 拿着一个红气球。",
-     "audio": "media/sent/efd52687e753.mp3"
+     "audio": "media/sent/efd52687e753.mp3?v=2b5ff178"
     },
     {
      "en": "Don't pop the balloon!",
      "zh": "别弄破气球！",
-     "audio": "media/sent/8c24ef5dfcd7.mp3"
+     "audio": "media/sent/8c24ef5dfcd7.mp3?v=d61b6f52"
     },
     {
      "en": "Lily draws a blue balloon.",
      "zh": "Lily 画了一个蓝气球。",
-     "audio": "media/sent/b6bbbcd04f28.mp3"
+     "audio": "media/sent/b6bbbcd04f28.mp3?v=0ce6ed41"
     }
    ],
    "media": {
-    "img": "media/img/balloon.webp",
-    "uk": "media/uk/balloon.mp3",
-    "us": "media/us/balloon.mp3"
+    "img": "media/img/balloon.webp?v=0343d0b3",
+    "uk": "media/uk/balloon.mp3?v=740bce99",
+    "us": "media/us/balloon.mp3?v=405bed7c"
    },
    "hook": {
     "kind": "story",
@@ -187,23 +187,23 @@
     {
      "en": "Dad puts a new battery in.",
      "zh": "爸爸装了一节新电池。",
-     "audio": "media/sent/258c49e06a23.mp3"
+     "audio": "media/sent/258c49e06a23.mp3?v=be470d84"
     },
     {
      "en": "The toy car needs a battery.",
      "zh": "玩具车需要电池。",
-     "audio": "media/sent/e85e56b81cb2.mp3"
+     "audio": "media/sent/e85e56b81cb2.mp3?v=4a60f21e"
     },
     {
      "en": "My toy car needs a new battery.",
      "zh": "我的玩具车需要换新电池了。",
-     "audio": "media/sent/fae1f7ffa41a.mp3"
+     "audio": "media/sent/fae1f7ffa41a.mp3?v=bcc35ba9"
     }
    ],
    "media": {
-    "img": "media/img/battery.webp",
-    "uk": "media/uk/battery.mp3",
-    "us": "media/us/battery.mp3"
+    "img": "media/img/battery.webp?v=e27b23ee",
+    "uk": "media/uk/battery.mp3?v=ebac8635",
+    "us": "media/us/battery.mp3?v=83a19f34"
    },
    "avoid": []
   },
@@ -237,23 +237,23 @@
     {
      "en": "Lily brushes her teeth.",
      "zh": "Lily 刷牙。",
-     "audio": "media/sent/a5a76250c2d4.mp3"
+     "audio": "media/sent/a5a76250c2d4.mp3?v=6d93cf5c"
     },
     {
      "en": "Max needs a brush for his fur.",
      "zh": "Max 需要一把刷子梳毛。",
-     "audio": "media/sent/2064bd897518.mp3"
+     "audio": "media/sent/2064bd897518.mp3?v=2555d1be"
     },
     {
      "en": "Mum uses a paint brush.",
      "zh": "妈妈用油漆刷。",
-     "audio": "media/sent/f387f95e0fa6.mp3"
+     "audio": "media/sent/f387f95e0fa6.mp3?v=d97148fe"
     }
    ],
    "media": {
-    "img": "media/img/brush.webp",
-    "uk": "media/uk/brush.mp3",
-    "us": "media/us/brush.mp3"
+    "img": "media/img/brush.webp?v=8c03f67a",
+    "uk": "media/uk/brush.mp3?v=a231a091",
+    "us": "media/us/brush.mp3?v=3a7a0a31"
    },
    "hook": {
     "kind": "contrast",
@@ -291,23 +291,23 @@
     {
      "en": "The cups are in the cabinet.",
      "zh": "杯子在柜子里。",
-     "audio": "media/sent/a5c546d61843.mp3"
+     "audio": "media/sent/a5c546d61843.mp3?v=2a79594f"
     },
     {
      "en": "Mum opens the kitchen cabinet.",
      "zh": "妈妈打开厨房柜子。",
-     "audio": "media/sent/c1331d9bccf1.mp3"
+     "audio": "media/sent/c1331d9bccf1.mp3?v=74133a20"
     },
     {
      "en": "Grandma has a wooden cabinet.",
      "zh": "奶奶有一个木柜子。",
-     "audio": "media/sent/19b22bf8f208.mp3"
+     "audio": "media/sent/19b22bf8f208.mp3?v=c27ea696"
     }
    ],
    "media": {
-    "img": "media/img/cabinet.webp",
-    "uk": "media/uk/cabinet.mp3",
-    "us": "media/us/cabinet.mp3"
+    "img": "media/img/cabinet.webp?v=00334741",
+    "uk": "media/uk/cabinet.mp3?v=0c70e644",
+    "us": "media/us/cabinet.mp3?v=5b411007"
    },
    "hook": {
     "kind": "contrast",
@@ -347,23 +347,23 @@
     {
      "en": "Look at the ceiling fan.",
      "zh": "看那个吊扇。",
-     "audio": "media/sent/c2d264bd84a0.mp3"
+     "audio": "media/sent/c2d264bd84a0.mp3?v=da70e61c"
     },
     {
      "en": "There is a spider on the ceiling.",
      "zh": "天花板上有一只蜘蛛。",
-     "audio": "media/sent/108b21dfd176.mp3"
+     "audio": "media/sent/108b21dfd176.mp3?v=97f897c0"
     },
     {
      "en": "The light is on the ceiling.",
      "zh": "灯在天花板上。",
-     "audio": "media/sent/ed97dbfb0406.mp3"
+     "audio": "media/sent/ed97dbfb0406.mp3?v=8085446e"
     }
    ],
    "media": {
-    "img": "media/img/ceiling.webp",
-    "uk": "media/uk/ceiling.mp3",
-    "us": "media/us/ceiling.mp3"
+    "img": "media/img/ceiling.webp?v=c9ae9911",
+    "uk": "media/uk/ceiling.mp3?v=272705fb",
+    "us": "media/us/ceiling.mp3?v=4f04254e"
    },
    "avoid": []
   },
@@ -396,23 +396,23 @@
     {
      "en": "My coat is in the closet.",
      "zh": "我的外套在壁橱里。",
-     "audio": "media/sent/9270d723c2b1.mp3"
+     "audio": "media/sent/9270d723c2b1.mp3?v=c943061c"
     },
     {
      "en": "Lily puts her dress in the closet.",
      "zh": "Lily 把裙子放进衣橱。",
-     "audio": "media/sent/075fae97a21e.mp3"
+     "audio": "media/sent/075fae97a21e.mp3?v=c93ff403"
     },
     {
      "en": "Tom is behind the closet door.",
      "zh": "Tom 在壁橱门后面。",
-     "audio": "media/sent/36b1b251f957.mp3"
+     "audio": "media/sent/36b1b251f957.mp3?v=be1d1772"
     }
    ],
    "media": {
-    "img": "media/img/closet.webp",
-    "uk": "media/uk/closet.mp3",
-    "us": "media/us/closet.mp3"
+    "img": "media/img/closet.webp?v=4af560f3",
+    "uk": "media/uk/closet.mp3?v=843741e6",
+    "us": "media/us/closet.mp3?v=b71979b4"
    },
    "hook": {
     "kind": "contrast",
@@ -451,23 +451,23 @@
     {
      "en": "Lily plays with her doll.",
      "zh": "Lily 和她的洋娃娃玩。",
-     "audio": "media/sent/33548a2ac2cb.mp3"
+     "audio": "media/sent/33548a2ac2cb.mp3?v=5c9d9c63"
     },
     {
      "en": "This doll is very old.",
      "zh": "这个洋娃娃很旧了。",
-     "audio": "media/sent/9b6cbc010f9b.mp3"
+     "audio": "media/sent/9b6cbc010f9b.mp3?v=23e779aa"
     },
     {
      "en": "Mia has a new doll.",
      "zh": "Mia 有一个新洋娃娃。",
-     "audio": "media/sent/7ad032791191.mp3"
+     "audio": "media/sent/7ad032791191.mp3?v=6c0e2108"
     }
    ],
    "media": {
-    "img": "media/img/doll.webp",
-    "uk": "media/uk/doll.mp3",
-    "us": "media/us/doll.mp3"
+    "img": "media/img/doll.webp?v=5b02c791",
+    "uk": "media/uk/doll.mp3?v=862dc7e0",
+    "us": "media/us/doll.mp3?v=0c5d6284"
    },
    "avoid": [
     "toy"
@@ -502,23 +502,23 @@
     {
      "en": "Put your work in the folder.",
      "zh": "把你的作业放进文件夹。",
-     "audio": "media/sent/4fa662c7e991.mp3"
+     "audio": "media/sent/4fa662c7e991.mp3?v=c892ac84"
     },
     {
      "en": "Dad has a red folder.",
      "zh": "爸爸有一个红文件夹。",
-     "audio": "media/sent/94677ca20d1b.mp3"
+     "audio": "media/sent/94677ca20d1b.mp3?v=77cb6655"
     },
     {
      "en": "Lily writes 'Art' on her folder.",
      "zh": "Lily 在她的文件夹上写‘美术’。",
-     "audio": "media/sent/ad0ffac86829.mp3"
+     "audio": "media/sent/ad0ffac86829.mp3?v=ab6fa322"
     }
    ],
    "media": {
-    "img": "media/img/folder.webp",
-    "uk": "media/uk/folder.mp3",
-    "us": "media/us/folder.mp3"
+    "img": "media/img/folder.webp?v=177a3fb1",
+    "uk": "media/uk/folder.mp3?v=ac95afa9",
+    "us": "media/us/folder.mp3?v=559b0a67"
    },
    "hook": {
     "kind": "affix",
@@ -557,23 +557,23 @@
     {
      "en": "Max has soft brown fur.",
      "zh": "Max 有柔软的棕色毛。",
-     "audio": "media/sent/887a0b180d5f.mp3"
+     "audio": "media/sent/887a0b180d5f.mp3?v=a4421f71"
     },
     {
      "en": "The cat cleans its fur.",
      "zh": "猫梳理它的毛。",
-     "audio": "media/sent/c55817d3d6c9.mp3"
+     "audio": "media/sent/c55817d3d6c9.mp3?v=d1564b56"
     },
     {
      "en": "The rabbit has white fur.",
      "zh": "兔子长着白色的毛。",
-     "audio": "media/sent/ac13ee650fa4.mp3"
+     "audio": "media/sent/ac13ee650fa4.mp3?v=e6d7fa81"
     }
    ],
    "media": {
-    "img": "media/img/fur.webp",
-    "uk": "media/uk/fur.mp3",
-    "us": "media/us/fur.mp3"
+    "img": "media/img/fur.webp?v=3d799669",
+    "uk": "media/uk/fur.mp3?v=26c24be7",
+    "us": "media/us/fur.mp3?v=5930b8e0"
    },
    "avoid": []
   },
@@ -606,23 +606,23 @@
     {
      "en": "Sam listens with his headphones.",
      "zh": "Sam 戴着耳机听。",
-     "audio": "media/sent/17bec95bf049.mp3"
+     "audio": "media/sent/17bec95bf049.mp3?v=c781eced"
     },
     {
      "en": "Lily puts on her headphones.",
      "zh": "Lily 戴上她的耳机。",
-     "audio": "media/sent/2e029f6fc881.mp3"
+     "audio": "media/sent/2e029f6fc881.mp3?v=486a5620"
     },
     {
      "en": "These headphones are blue.",
      "zh": "这些耳机是蓝色的。",
-     "audio": "media/sent/d41d9cbb5221.mp3"
+     "audio": "media/sent/d41d9cbb5221.mp3?v=48a80e7f"
     }
    ],
    "media": {
-    "img": "media/img/headphones.webp",
-    "uk": "media/word/headphones.mp3",
-    "us": "media/word/headphones.mp3"
+    "img": "media/img/headphones.webp?v=a3ea7204",
+    "uk": "media/word/headphones.mp3?v=35db8c45",
+    "us": "media/word/headphones.mp3?v=35db8c45"
    },
    "avoid": []
   },
@@ -654,23 +654,23 @@
     {
      "en": "Tom flies a kite.",
      "zh": "Tom 放风筝。",
-     "audio": "media/sent/64f1e69c4b9a.mp3"
+     "audio": "media/sent/64f1e69c4b9a.mp3?v=673b340a"
     },
     {
      "en": "The kite is up in the tree.",
      "zh": "风筝在树上。",
-     "audio": "media/sent/2ea5406e0526.mp3"
+     "audio": "media/sent/2ea5406e0526.mp3?v=3604cf81"
     },
     {
      "en": "Lily makes a paper kite.",
      "zh": "Lily 做了一个纸风筝。",
-     "audio": "media/sent/282c28dc5c34.mp3"
+     "audio": "media/sent/282c28dc5c34.mp3?v=766f924e"
     }
    ],
    "media": {
-    "img": "media/img/kite.webp",
-    "uk": "media/uk/kite.mp3",
-    "us": "media/us/kite.mp3"
+    "img": "media/img/kite.webp?v=061d6361",
+    "uk": "media/uk/kite.mp3?v=0bb79f4c",
+    "us": "media/us/kite.mp3?v=b349721b"
    },
    "avoid": []
   },
@@ -704,23 +704,23 @@
     {
      "en": "Lily speaks into the microphone.",
      "zh": "Lily 对着麦克风说话。",
-     "audio": "media/sent/ce080ccd3871.mp3"
+     "audio": "media/sent/ce080ccd3871.mp3?v=00df3775"
     },
     {
      "en": "The singer holds the microphone.",
      "zh": "歌手拿着麦克风。",
-     "audio": "media/sent/a3081dba7a8f.mp3"
+     "audio": "media/sent/a3081dba7a8f.mp3?v=4cfb0b6d"
     },
     {
      "en": "Can you hear the microphone?",
      "zh": "你能听到麦克风吗？",
-     "audio": "media/sent/2a8fab8633b9.mp3"
+     "audio": "media/sent/2a8fab8633b9.mp3?v=71e58b0c"
     }
    ],
    "media": {
-    "img": "media/img/microphone.webp",
-    "uk": "media/uk/microphone.mp3",
-    "us": "media/us/microphone.mp3"
+    "img": "media/img/microphone.webp?v=06c7fb3b",
+    "uk": "media/uk/microphone.mp3?v=da31d186",
+    "us": "media/us/microphone.mp3?v=53d87701"
    },
    "hook": {
     "kind": "story",
@@ -756,23 +756,23 @@
     {
      "en": "Dad drinks tea from a mug.",
      "zh": "爸爸用马克杯喝茶。",
-     "audio": "media/sent/6d8512b5a008.mp3"
+     "audio": "media/sent/6d8512b5a008.mp3?v=54014e69"
     },
     {
      "en": "This is my favourite mug.",
      "zh": "这是我最喜欢的杯子。",
-     "audio": "media/sent/b8b35d570c82.mp3"
+     "audio": "media/sent/b8b35d570c82.mp3?v=5c6dc6b9"
     },
     {
      "en": "Mum has a blue mug.",
      "zh": "妈妈有一个蓝马克杯。",
-     "audio": "media/sent/6e7e0e2a47db.mp3"
+     "audio": "media/sent/6e7e0e2a47db.mp3?v=da5d37cf"
     }
    ],
    "media": {
-    "img": "media/img/mug.webp",
-    "uk": "media/uk/mug.mp3",
-    "us": "media/us/mug.mp3"
+    "img": "media/img/mug.webp?v=3a34bd24",
+    "uk": "media/uk/mug.mp3?v=328e8053",
+    "us": "media/us/mug.mp3?v=2c649e05"
    },
    "avoid": []
   },
@@ -804,23 +804,23 @@
     {
      "en": "Lily writes with a pen.",
      "zh": "Lily 用笔写字。",
-     "audio": "media/sent/ffc119e5ea88.mp3"
+     "audio": "media/sent/ffc119e5ea88.mp3?v=3ddcba53"
     },
     {
      "en": "Do you have a red pen?",
      "zh": "你有红笔吗？",
-     "audio": "media/sent/a8477b807550.mp3"
+     "audio": "media/sent/a8477b807550.mp3?v=6b72593c"
     },
     {
      "en": "Dad signs with his pen.",
      "zh": "爸爸用他的笔签名。",
-     "audio": "media/sent/9553868cad52.mp3"
+     "audio": "media/sent/9553868cad52.mp3?v=26520adb"
     }
    ],
    "media": {
-    "img": "media/img/pen.webp",
-    "uk": "media/uk/pen.mp3",
-    "us": "media/us/pen.mp3"
+    "img": "media/img/pen.webp?v=753794b3",
+    "uk": "media/uk/pen.mp3?v=b97174fd",
+    "us": "media/us/pen.mp3?v=097c13f0"
    },
    "spell": true,
    "avoid": [
@@ -857,23 +857,23 @@
     {
      "en": "Tom draws with a pencil.",
      "zh": "Tom 用铅笔画画。",
-     "audio": "media/sent/62a4e8fb57f8.mp3"
+     "audio": "media/sent/62a4e8fb57f8.mp3?v=05ce485c"
     },
     {
      "en": "My pencil is short.",
      "zh": "我的铅笔很短。",
-     "audio": "media/sent/900e0f68c921.mp3"
+     "audio": "media/sent/900e0f68c921.mp3?v=56e8e073"
     },
     {
      "en": "Lily uses a new pencil.",
      "zh": "Lily 用了一支新铅笔。",
-     "audio": "media/sent/b5b14532f48f.mp3"
+     "audio": "media/sent/b5b14532f48f.mp3?v=d263499f"
     }
    ],
    "media": {
-    "img": "media/img/pencil.webp",
-    "uk": "media/uk/pencil.mp3",
-    "us": "media/us/pencil.mp3"
+    "img": "media/img/pencil.webp?v=44cc3290",
+    "uk": "media/uk/pencil.mp3?v=62d34c3f",
+    "us": "media/us/pencil.mp3?v=9ec1edb9"
    },
    "spell": true,
    "avoid": [
@@ -911,23 +911,23 @@
     {
      "en": "My pencil case is blue.",
      "zh": "我的铅笔盒是蓝色的。",
-     "audio": "media/sent/bb9c7b1f276d.mp3"
+     "audio": "media/sent/bb9c7b1f276d.mp3?v=9aa13740"
     },
     {
      "en": "Lily puts pens in her pencil case.",
      "zh": "Lily 把笔放进铅笔盒。",
-     "audio": "media/sent/4e0d2a3b4753.mp3"
+     "audio": "media/sent/4e0d2a3b4753.mp3?v=c34c6db2"
     },
     {
      "en": "Where is my pencil case?",
      "zh": "我的铅笔盒在哪里？",
-     "audio": "media/sent/edecfbf556d6.mp3"
+     "audio": "media/sent/edecfbf556d6.mp3?v=11cb4def"
     }
    ],
    "media": {
-    "img": "media/img/pencil-case.webp",
-    "uk": "media/word/pencil-case.mp3",
-    "us": "media/word/pencil-case.mp3"
+    "img": "media/img/pencil-case.webp?v=bd14d13c",
+    "uk": "media/word/pencil-case.mp3?v=4d988e89",
+    "us": "media/word/pencil-case.mp3?v=4d988e89"
    },
    "hook": {
     "kind": "split",
@@ -967,23 +967,23 @@
     {
      "en": "Mum wears nice perfume.",
      "zh": "妈妈喷了好闻的香水。",
-     "audio": "media/sent/2b0de2fb484a.mp3"
+     "audio": "media/sent/2b0de2fb484a.mp3?v=74782d4a"
     },
     {
      "en": "Grandma likes this perfume.",
      "zh": "奶奶喜欢这个香水。",
-     "audio": "media/sent/a97a7cadd0d4.mp3"
+     "audio": "media/sent/a97a7cadd0d4.mp3?v=b63c3b41"
     },
     {
      "en": "This perfume is sweet.",
      "zh": "这香水很甜。",
-     "audio": "media/sent/b7eafee090a1.mp3"
+     "audio": "media/sent/b7eafee090a1.mp3?v=07461ece"
     }
    ],
    "media": {
-    "img": "media/img/perfume.webp",
-    "uk": "media/uk/perfume.mp3",
-    "us": "media/us/perfume.mp3"
+    "img": "media/img/perfume.webp?v=4ceff69a",
+    "uk": "media/uk/perfume.mp3?v=1bb7a5d7",
+    "us": "media/us/perfume.mp3?v=adc80c7c"
    },
    "avoid": []
   },
@@ -1018,23 +1018,23 @@
     {
      "en": "This bottle is made of plastic.",
      "zh": "这个瓶子是塑料做的。",
-     "audio": "media/sent/54d095c74be3.mp3"
+     "audio": "media/sent/54d095c74be3.mp3?v=645d0489"
     },
     {
      "en": "We use plastic bags for shopping.",
      "zh": "我们购物时用塑料袋。",
-     "audio": "media/sent/942a5739cc81.mp3"
+     "audio": "media/sent/942a5739cc81.mp3?v=927f45c8"
     },
     {
      "en": "Please don't throw away plastic.",
      "zh": "请不要扔掉塑料垃圾。",
-     "audio": "media/sent/2afbb64875d2.mp3"
+     "audio": "media/sent/2afbb64875d2.mp3?v=027dee6c"
     }
    ],
    "media": {
-    "img": "media/img/plastic.webp",
-    "uk": "media/uk/plastic.mp3",
-    "us": "media/us/plastic.mp3"
+    "img": "media/img/plastic.webp?v=49485632",
+    "uk": "media/uk/plastic.mp3?v=07f39211",
+    "us": "media/us/plastic.mp3?v=4ca8ec64"
    },
    "avoid": [
     "gold",
@@ -1071,23 +1071,23 @@
     {
      "en": "Lily draws a poster for the school play.",
      "zh": "Lily 为学校的演出画了一张海报。",
-     "audio": "media/sent/fd26b1c1ed61.mp3"
+     "audio": "media/sent/fd26b1c1ed61.mp3?v=a9df66bb"
     },
     {
      "en": "There is a new film poster in the shop window.",
      "zh": "商店橱窗里有一张新电影海报。",
-     "audio": "media/sent/f3985d5835c8.mp3"
+     "audio": "media/sent/f3985d5835c8.mp3?v=7744c423"
     },
     {
      "en": "We put up posters for the party.",
      "zh": "我们为派对张贴海报。",
-     "audio": "media/sent/c430eb2ff9af.mp3"
+     "audio": "media/sent/c430eb2ff9af.mp3?v=16704504"
     }
    ],
    "media": {
-    "img": "media/img/poster.webp",
-    "uk": "media/uk/poster.mp3",
-    "us": "media/us/poster.mp3"
+    "img": "media/img/poster.webp?v=1b9d4919",
+    "uk": "media/uk/poster.mp3?v=299df146",
+    "us": "media/us/poster.mp3?v=67883788"
    },
    "hook": {
     "kind": "affix",
@@ -1124,23 +1124,23 @@
     {
      "en": "Tom is doing a puzzle.",
      "zh": "Tom 正在玩拼图。",
-     "audio": "media/sent/5b975dda5300.mp3"
+     "audio": "media/sent/5b975dda5300.mp3?v=35f8cbea"
     },
     {
      "en": "This puzzle is very difficult.",
      "zh": "这个拼图很难。",
-     "audio": "media/sent/39d41e6b1665.mp3"
+     "audio": "media/sent/39d41e6b1665.mp3?v=75c649ad"
     },
     {
      "en": "Can you help me with this puzzle?",
      "zh": "你能帮我做这个拼图吗？",
-     "audio": "media/sent/69d896f7d19a.mp3"
+     "audio": "media/sent/69d896f7d19a.mp3?v=06d30a01"
     }
    ],
    "media": {
-    "img": "media/img/puzzle.webp",
-    "uk": "media/uk/puzzle.mp3",
-    "us": "media/us/puzzle.mp3"
+    "img": "media/img/puzzle.webp?v=876e9240",
+    "uk": "media/uk/puzzle.mp3?v=3c4e16a3",
+    "us": "media/us/puzzle.mp3?v=317757e4"
    },
    "avoid": []
   },
@@ -1173,23 +1173,23 @@
     {
      "en": "Lily cuts the paper with scissors.",
      "zh": "Lily 用剪刀剪纸。",
-     "audio": "media/sent/27c0bca645d1.mp3"
+     "audio": "media/sent/27c0bca645d1.mp3?v=c7fac37d"
     },
     {
      "en": "Be careful with the scissors, Tom!",
      "zh": "Tom，小心剪刀！",
-     "audio": "media/sent/12d299ee6539.mp3"
+     "audio": "media/sent/12d299ee6539.mp3?v=76f770a1"
     },
     {
      "en": "Where are my scissors?",
      "zh": "我的剪刀在哪里？",
-     "audio": "media/sent/0d19403bde68.mp3"
+     "audio": "media/sent/0d19403bde68.mp3?v=d1c5cf94"
     }
    ],
    "media": {
-    "img": "media/img/scissors.webp",
-    "uk": "media/uk/scissors.mp3",
-    "us": "media/us/scissors.mp3"
+    "img": "media/img/scissors.webp?v=a0816df9",
+    "uk": "media/uk/scissors.mp3?v=e46bf8fe",
+    "us": "media/us/scissors.mp3?v=94ed5747"
    },
    "avoid": []
   },
@@ -1222,23 +1222,23 @@
     {
      "en": "Sam rides his scooter to school.",
      "zh": "Sam 骑滑板车去上学。",
-     "audio": "media/sent/ba452617b2e3.mp3"
+     "audio": "media/sent/ba452617b2e3.mp3?v=9aa5ec8b"
     },
     {
      "en": "I like my new blue scooter.",
      "zh": "我喜欢我的新蓝色滑板车。",
-     "audio": "media/sent/f9a4b9036ff4.mp3"
+     "audio": "media/sent/f9a4b9036ff4.mp3?v=c3b9a4e4"
     },
     {
      "en": "Be careful when you ride your scooter.",
      "zh": "骑滑板车时要小心。",
-     "audio": "media/sent/eb21a5a9acbe.mp3"
+     "audio": "media/sent/eb21a5a9acbe.mp3?v=a75f2217"
     }
    ],
    "media": {
-    "img": "media/img/scooter.webp",
-    "uk": "media/uk/scooter.mp3",
-    "us": "media/us/scooter.mp3"
+    "img": "media/img/scooter.webp?v=8556554e",
+    "uk": "media/uk/scooter.mp3?v=f28417ad",
+    "us": "media/us/scooter.mp3?v=b0a8280a"
    },
    "avoid": []
   },
@@ -1273,23 +1273,23 @@
     {
      "en": "Mum uses strawberry shampoo.",
      "zh": "妈妈用草莓味洗发水。",
-     "audio": "media/sent/80f3637fa903.mp3"
+     "audio": "media/sent/80f3637fa903.mp3?v=863f40a8"
     },
     {
      "en": "Tom washes his hair with shampoo.",
      "zh": "Tom 用洗发水洗头发。",
-     "audio": "media/sent/d5a32e59ac68.mp3"
+     "audio": "media/sent/d5a32e59ac68.mp3?v=8eb33206"
     },
     {
      "en": "The shampoo is sweet and good.",
      "zh": "洗发水很甜，很好用。",
-     "audio": "media/sent/6de4c8b4574e.mp3"
+     "audio": "media/sent/6de4c8b4574e.mp3?v=d253312e"
     }
    ],
    "media": {
-    "img": "media/img/shampoo.webp",
-    "uk": "media/uk/shampoo.mp3",
-    "us": "media/us/shampoo.mp3"
+    "img": "media/img/shampoo.webp?v=fa2852aa",
+    "uk": "media/uk/shampoo.mp3?v=ce9dffa2",
+    "us": "media/us/shampoo.mp3?v=5aab0f63"
    },
    "hook": {
     "kind": "sound",
@@ -1325,23 +1325,23 @@
     {
      "en": "Dad changes the bed sheet.",
      "zh": "爸爸换床单。",
-     "audio": "media/sent/c37d904807b9.mp3"
+     "audio": "media/sent/c37d904807b9.mp3?v=b6b690e8"
     },
     {
      "en": "Write your name on this sheet of paper.",
      "zh": "在这张纸上写下你的名字。",
-     "audio": "media/sent/9845006a7e30.mp3"
+     "audio": "media/sent/9845006a7e30.mp3?v=85b96636"
     },
     {
      "en": "The blue sheet is soft and warm.",
      "zh": "蓝色的床单柔软又暖和。",
-     "audio": "media/sent/2ecb71b2b9a7.mp3"
+     "audio": "media/sent/2ecb71b2b9a7.mp3?v=e020501b"
     }
    ],
    "media": {
-    "img": "media/img/sheet.webp",
-    "uk": "media/uk/sheet.mp3",
-    "us": "media/us/sheet.mp3"
+    "img": "media/img/sheet.webp?v=2d5f0f05",
+    "uk": "media/uk/sheet.mp3?v=659a263e",
+    "us": "media/us/sheet.mp3?v=6c0c2e7f"
    },
    "hook": {
     "kind": "contrast",
@@ -1380,23 +1380,23 @@
     {
      "en": "Tom eats soup with a spoon.",
      "zh": "Tom 用勺子喝汤。",
-     "audio": "media/sent/c340d0132ad3.mp3"
+     "audio": "media/sent/c340d0132ad3.mp3?v=ecab3661"
     },
     {
      "en": "Use a spoon for the ice cream.",
      "zh": "吃冰淇淋请用勺子。",
-     "audio": "media/sent/92220eb2ed49.mp3"
+     "audio": "media/sent/92220eb2ed49.mp3?v=76f58df8"
     },
     {
      "en": "There is a big wooden spoon on the table.",
      "zh": "桌上有一把大木勺。",
-     "audio": "media/sent/1d4d4243e50d.mp3"
+     "audio": "media/sent/1d4d4243e50d.mp3?v=c9538b0d"
     }
    ],
    "media": {
-    "img": "media/img/spoon.webp",
-    "uk": "media/uk/spoon.mp3",
-    "us": "media/us/spoon.mp3"
+    "img": "media/img/spoon.webp?v=280490fa",
+    "uk": "media/uk/spoon.mp3?v=343a8a72",
+    "us": "media/us/spoon.mp3?v=405a830e"
    },
    "avoid": []
   },
@@ -1428,23 +1428,23 @@
     {
      "en": "Mum puts a stamp on the letter.",
      "zh": "妈妈在信上贴了一张邮票。",
-     "audio": "media/sent/7dad4eaea9ea.mp3"
+     "audio": "media/sent/7dad4eaea9ea.mp3?v=34295f00"
     },
     {
      "en": "I collect old stamps in my book.",
      "zh": "我在书里收集旧邮票。",
-     "audio": "media/sent/51cced12ebc8.mp3"
+     "audio": "media/sent/51cced12ebc8.mp3?v=6e15dbdd"
     },
     {
      "en": "This stamp has a bird on it.",
      "zh": "这张邮票上有一只鸟。",
-     "audio": "media/sent/8e464b07d34a.mp3"
+     "audio": "media/sent/8e464b07d34a.mp3?v=ccc14fd7"
     }
    ],
    "media": {
-    "img": "media/img/stamp.webp",
-    "uk": "media/uk/stamp.mp3",
-    "us": "media/us/stamp.mp3"
+    "img": "media/img/stamp.webp?v=d49e11c4",
+    "uk": "media/uk/stamp.mp3?v=25542d9b",
+    "us": "media/us/stamp.mp3?v=bed49064"
    },
    "hook": {
     "kind": "contrast",
@@ -1480,23 +1480,23 @@
     {
      "en": "Lily goes up the stairs to her room.",
      "zh": "Lily 上楼梯去她的房间。",
-     "audio": "media/sent/9c83f0364ccc.mp3"
+     "audio": "media/sent/9c83f0364ccc.mp3?v=a35bd1c0"
     },
     {
      "en": "Be careful on the stairs!",
      "zh": "在楼梯上要当心！",
-     "audio": "media/sent/714e61e3385d.mp3"
+     "audio": "media/sent/714e61e3385d.mp3?v=f1c46fa9"
     },
     {
      "en": "Our house has two flights of stairs.",
      "zh": "我们家有两层楼梯。",
-     "audio": "media/sent/17d5e5e47bd3.mp3"
+     "audio": "media/sent/17d5e5e47bd3.mp3?v=8647f3e3"
     }
    ],
    "media": {
-    "img": "media/img/stairs.webp",
-    "uk": "media/uk/stairs.mp3",
-    "us": "media/us/stairs.mp3"
+    "img": "media/img/stairs.webp?v=ad174ff5",
+    "uk": "media/uk/stairs.mp3?v=f9bde395",
+    "us": "media/us/stairs.mp3?v=08e49c97"
    },
    "avoid": []
   },
@@ -1529,23 +1529,23 @@
     {
      "en": "We sit at the table for dinner.",
      "zh": "我们坐在桌边吃晚饭。",
-     "audio": "media/sent/36a4b074f95e.mp3"
+     "audio": "media/sent/36a4b074f95e.mp3?v=383008b5"
     },
     {
      "en": "Put your homework on the table.",
      "zh": "把作业放在桌子上。",
-     "audio": "media/sent/ef185edc32cc.mp3"
+     "audio": "media/sent/ef185edc32cc.mp3?v=42f68dc7"
     },
     {
      "en": "The glass is on the small round table.",
      "zh": "玻璃杯在小圆桌上。",
-     "audio": "media/sent/343e641791fe.mp3"
+     "audio": "media/sent/343e641791fe.mp3?v=64f43229"
     }
    ],
    "media": {
-    "img": "media/img/table.webp",
-    "uk": "media/uk/table.mp3",
-    "us": "media/us/table.mp3"
+    "img": "media/img/table.webp?v=c265aa3d",
+    "uk": "media/uk/table.mp3?v=1818dd30",
+    "us": "media/us/table.mp3?v=8b0357d1"
    },
    "spell": true,
    "avoid": []
@@ -1578,23 +1578,23 @@
     {
      "en": "Tom plays with his favourite toy.",
      "zh": "Tom 玩他最喜欢的玩具。",
-     "audio": "media/sent/2cd4a706f8fe.mp3"
+     "audio": "media/sent/2cd4a706f8fe.mp3?v=d6566afc"
     },
     {
      "en": "This is my new toy train.",
      "zh": "这是我的新玩具火车。",
-     "audio": "media/sent/b01b35d0f748.mp3"
+     "audio": "media/sent/b01b35d0f748.mp3?v=f545021a"
     },
     {
      "en": "Put your toys in the box, please.",
      "zh": "请把玩具放进箱子里。",
-     "audio": "media/sent/da42f898c673.mp3"
+     "audio": "media/sent/da42f898c673.mp3?v=efe1f0c0"
     }
    ],
    "media": {
-    "img": "media/img/toy.webp",
-    "uk": "media/uk/toy.mp3",
-    "us": "media/us/toy.mp3"
+    "img": "media/img/toy.webp?v=b2ca67db",
+    "uk": "media/uk/toy.mp3?v=0a8677a9",
+    "us": "media/us/toy.mp3?v=57308186"
    },
    "spell": true,
    "avoid": [
@@ -1630,23 +1630,23 @@
     {
      "en": "Lily practises the violin every day.",
      "zh": "Lily 每天练习小提琴。",
-     "audio": "media/sent/025ccc7616fb.mp3"
+     "audio": "media/sent/025ccc7616fb.mp3?v=d3b003cd"
     },
     {
      "en": "The violin is very beautiful.",
      "zh": "这架小提琴很漂亮。",
-     "audio": "media/sent/eb9933fe354d.mp3"
+     "audio": "media/sent/eb9933fe354d.mp3?v=092df8e5"
     },
     {
      "en": "My uncle plays the violin in a band.",
      "zh": "我叔叔在一个乐队里拉小提琴。",
-     "audio": "media/sent/8942078ba1e5.mp3"
+     "audio": "media/sent/8942078ba1e5.mp3?v=7ec72207"
     }
    ],
    "media": {
-    "img": "media/img/violin.webp",
-    "uk": "media/uk/violin.mp3",
-    "us": "media/us/violin.mp3"
+    "img": "media/img/violin.webp?v=2a1a0c0b",
+    "uk": "media/uk/violin.mp3?v=18eee951",
+    "us": "media/us/violin.mp3?v=bdac2f73"
    },
    "avoid": []
   },
@@ -1678,23 +1678,23 @@
     {
      "en": "There is a picture on the wall.",
      "zh": "墙上有一幅画。",
-     "audio": "media/sent/d691f8e2f7f9.mp3"
+     "audio": "media/sent/d691f8e2f7f9.mp3?v=be181533"
     },
     {
      "en": "Don't draw on the wall, Tom!",
      "zh": "Tom，不要在墙上画画！",
-     "audio": "media/sent/cac2c4c52660.mp3"
+     "audio": "media/sent/cac2c4c52660.mp3?v=257f7d16"
     },
     {
      "en": "The garden wall is high and strong.",
      "zh": "花园的墙又高又结实。",
-     "audio": "media/sent/77e1833afaee.mp3"
+     "audio": "media/sent/77e1833afaee.mp3?v=5281f595"
     }
    ],
    "media": {
-    "img": "media/img/wall.webp",
-    "uk": "media/uk/wall.mp3",
-    "us": "media/us/wall.mp3"
+    "img": "media/img/wall.webp?v=2b58823e",
+    "uk": "media/uk/wall.mp3?v=fa5ae4fe",
+    "us": "media/us/wall.mp3?v=7353da93"
    },
    "spell": true,
    "avoid": []
@@ -1728,23 +1728,23 @@
     {
      "en": "Mum puts her coat in the wardrobe.",
      "zh": "妈妈把外套放进衣柜里。",
-     "audio": "media/sent/1349413b33d1.mp3"
+     "audio": "media/sent/1349413b33d1.mp3?v=b0fd268f"
     },
     {
      "en": "My shoes are on the bottom of the wardrobe.",
      "zh": "我的鞋子在衣柜底部。",
-     "audio": "media/sent/efb2cbaf7bd1.mp3"
+     "audio": "media/sent/efb2cbaf7bd1.mp3?v=27f848cf"
     },
     {
      "en": "The wardrobe is in the bedroom.",
      "zh": "衣柜在卧室里。",
-     "audio": "media/sent/17c6f7579424.mp3"
+     "audio": "media/sent/17c6f7579424.mp3?v=b1710bb9"
     }
    ],
    "media": {
-    "img": "media/img/wardrobe.webp",
-    "uk": "media/uk/wardrobe.mp3",
-    "us": "media/us/wardrobe.mp3"
+    "img": "media/img/wardrobe.webp?v=8c2a5ec9",
+    "uk": "media/uk/wardrobe.mp3?v=70d0e5e7",
+    "us": "media/us/wardrobe.mp3?v=168bc493"
    },
    "avoid": [
     "cabinet",
@@ -1782,23 +1782,23 @@
     {
      "en": "Lily writes a letter on paper.",
      "zh": "Lily 在纸上写信。",
-     "audio": "media/sent/7a95f2e2d888.mp3"
+     "audio": "media/sent/7a95f2e2d888.mp3?v=30467c16"
     },
     {
      "en": "Please use the old newspaper.",
      "zh": "请用旧报纸。",
-     "audio": "media/sent/d7a72941688a.mp3"
+     "audio": "media/sent/d7a72941688a.mp3?v=d9283834"
     },
     {
      "en": "This bag is made of brown paper.",
      "zh": "这个袋子是棕色纸做的。",
-     "audio": "media/sent/ba8d2a225701.mp3"
+     "audio": "media/sent/ba8d2a225701.mp3?v=0ac6d993"
     }
    ],
    "media": {
-    "img": "media/img/paper.webp",
-    "uk": "media/uk/paper.mp3",
-    "us": "media/us/paper.mp3"
+    "img": "media/img/paper.webp?v=22529c16",
+    "uk": "media/uk/paper.mp3?v=7a1271e7",
+    "us": "media/us/paper.mp3?v=0c3ff1e9"
    },
    "spell": true,
    "avoid": [
@@ -1837,23 +1837,23 @@
     {
      "en": "The bike is made of metal.",
      "zh": "自行车是金属做的。",
-     "audio": "media/sent/47d7a0214b72.mp3"
+     "audio": "media/sent/47d7a0214b72.mp3?v=18a4c11c"
     },
     {
      "en": "This spoon is made of metal.",
      "zh": "这把勺子是金属做的。",
-     "audio": "media/sent/65a81d8b8297.mp3"
+     "audio": "media/sent/65a81d8b8297.mp3?v=c37f360d"
     },
     {
      "en": "This metal box is very strong.",
      "zh": "这个金属盒子很结实。",
-     "audio": "media/sent/fb1535e233ad.mp3"
+     "audio": "media/sent/fb1535e233ad.mp3?v=689f9465"
     }
    ],
    "media": {
-    "img": "media/img/metal.webp",
-    "uk": "media/uk/metal.mp3",
-    "us": "media/us/metal.mp3"
+    "img": "media/img/metal.webp?v=2243847b",
+    "uk": "media/uk/metal.mp3?v=1c4a7d7b",
+    "us": "media/us/metal.mp3?v=d405b00d"
    },
    "hook": {
     "kind": "contrast",
@@ -1896,23 +1896,23 @@
     {
      "en": "Dad has a brown leather bag.",
      "zh": "爸爸有一个棕色皮包。",
-     "audio": "media/sent/d3b84b4728dd.mp3"
+     "audio": "media/sent/d3b84b4728dd.mp3?v=73c4d57e"
     },
     {
      "en": "These shoes are made of leather.",
      "zh": "这双鞋是皮革做的。",
-     "audio": "media/sent/8a49bbf22732.mp3"
+     "audio": "media/sent/8a49bbf22732.mp3?v=ac122852"
     },
     {
      "en": "The leather sofa is soft and comfortable.",
      "zh": "这张皮沙发柔软舒适。",
-     "audio": "media/sent/546e4f9528a3.mp3"
+     "audio": "media/sent/546e4f9528a3.mp3?v=dafc7afd"
     }
    ],
    "media": {
-    "img": "media/img/leather.webp",
-    "uk": "media/uk/leather.mp3",
-    "us": "media/us/leather.mp3"
+    "img": "media/img/leather.webp?v=fcbb63aa",
+    "uk": "media/uk/leather.mp3?v=af63ab98",
+    "us": "media/us/leather.mp3?v=f9408ac5"
    },
    "hook": {
     "kind": "contrast",
@@ -1954,23 +1954,23 @@
     {
      "en": "Lily got a gold cup.",
      "zh": "Lily 得到了一个金杯。",
-     "audio": "media/sent/4386aeb7d6c5.mp3"
+     "audio": "media/sent/4386aeb7d6c5.mp3?v=a3ad6ff7"
     },
     {
      "en": "The ring is made of real gold.",
      "zh": "这枚戒指是真金做的。",
-     "audio": "media/sent/bac544b10277.mp3"
+     "audio": "media/sent/bac544b10277.mp3?v=0e3aafb8"
     },
     {
      "en": "Grandma has a gold watch.",
      "zh": "奶奶有一块金表。",
-     "audio": "media/sent/ec9eee7f8164.mp3"
+     "audio": "media/sent/ec9eee7f8164.mp3?v=0cb10230"
     }
    ],
    "media": {
-    "img": "media/img/gold.webp",
-    "uk": "media/uk/gold.mp3",
-    "us": "media/us/gold.mp3"
+    "img": "media/img/gold.webp?v=81b47702",
+    "uk": "media/uk/gold.mp3?v=4d9e7c03",
+    "us": "media/us/gold.mp3?v=ca3815d9"
    },
    "avoid": [
     "leather",
@@ -2006,23 +2006,23 @@
     {
      "en": "Lily puts her stuff in the box.",
      "zh": "Lily 把她的东西放进盒子里。",
-     "audio": "media/sent/517af1f3d647.mp3"
+     "audio": "media/sent/517af1f3d647.mp3?v=64d68c43"
     },
     {
      "en": "Tom's stuff is everywhere!",
      "zh": "Tom 的东西到处都是！",
-     "audio": "media/sent/b77c20f8bf9b.mp3"
+     "audio": "media/sent/b77c20f8bf9b.mp3?v=722354e4"
     },
     {
      "en": "I don't need that old stuff.",
      "zh": "我不需要那些旧东西。",
-     "audio": "media/sent/c6edccc3f56b.mp3"
+     "audio": "media/sent/c6edccc3f56b.mp3?v=b7010212"
     }
    ],
    "media": {
-    "img": "media/img/stuff.webp",
-    "uk": "media/uk/stuff.mp3",
-    "us": "media/us/stuff.mp3"
+    "img": "media/img/stuff.webp?v=d33f83ac",
+    "uk": "media/uk/stuff.mp3?v=9e6602ce",
+    "us": "media/us/stuff.mp3?v=d76d14d2"
    },
    "hook": {
     "kind": "contrast",
@@ -2061,23 +2061,23 @@
     {
      "en": "What is this thing?",
      "zh": "这是什么东西？",
-     "audio": "media/sent/0bcf841fa367.mp3"
+     "audio": "media/sent/0bcf841fa367.mp3?v=df38b847"
     },
     {
      "en": "This is my favourite thing.",
      "zh": "这是我最喜欢的东西。",
-     "audio": "media/sent/9543e016cad9.mp3"
+     "audio": "media/sent/9543e016cad9.mp3?v=2d957493"
     },
     {
      "en": "Mum bought a new thing for the kitchen.",
      "zh": "妈妈给厨房买了一个新东西。",
-     "audio": "media/sent/a9c81b3b293a.mp3"
+     "audio": "media/sent/a9c81b3b293a.mp3?v=896ac8aa"
     }
    ],
    "media": {
-    "img": "media/img/thing.webp",
-    "uk": "media/uk/thing.mp3",
-    "us": "media/us/thing.mp3"
+    "img": "media/img/thing.webp?v=c07041c8",
+    "uk": "media/uk/thing.mp3?v=71077766",
+    "us": "media/us/thing.mp3?v=d28da402"
    },
    "spell": true,
    "avoid": [
@@ -2115,23 +2115,23 @@
     {
      "en": "We need sports equipment for games.",
      "zh": "我们比赛需要体育器材。",
-     "audio": "media/sent/955b3cd419b1.mp3"
+     "audio": "media/sent/955b3cd419b1.mp3?v=b3e41abc"
     },
     {
      "en": "The men bring big equipment to fix the road.",
      "zh": "工人们带来大型设备修路。",
-     "audio": "media/sent/f5a217efb412.mp3"
+     "audio": "media/sent/f5a217efb412.mp3?v=a2676d95"
     },
     {
      "en": "The doctor's equipment is clean.",
      "zh": "医生的设备很干净。",
-     "audio": "media/sent/f2c068ef3036.mp3"
+     "audio": "media/sent/f2c068ef3036.mp3?v=122d1a7c"
     }
    ],
    "media": {
-    "img": "media/img/equipment.webp",
-    "uk": "media/uk/equipment.mp3",
-    "us": "media/us/equipment.mp3"
+    "img": "media/img/equipment.webp?v=6d5994d9",
+    "uk": "media/uk/equipment.mp3?v=ee2fd037",
+    "us": "media/us/equipment.mp3?v=d45841b5"
    },
    "hook": {
     "kind": "affix",
@@ -2168,23 +2168,23 @@
     {
      "en": "Sam has a model plane.",
      "zh": "Sam 有一个飞机模型。",
-     "audio": "media/sent/ec1a01f11ff6.mp3"
+     "audio": "media/sent/ec1a01f11ff6.mp3?v=caa39a07"
     },
     {
      "en": "Lily made a model house.",
      "zh": "Lily 做了一个房子模型。",
-     "audio": "media/sent/2d4e8f33c641.mp3"
+     "audio": "media/sent/2d4e8f33c641.mp3?v=4af77595"
     },
     {
      "en": "The model car is very fast.",
      "zh": "这个汽车模型非常快。",
-     "audio": "media/sent/8edf5aad65c2.mp3"
+     "audio": "media/sent/8edf5aad65c2.mp3?v=236a5e17"
     }
    ],
    "media": {
-    "img": "media/img/model.webp",
-    "uk": "media/uk/model.mp3",
-    "us": "media/us/model.mp3"
+    "img": "media/img/model.webp?v=47f4b7c6",
+    "uk": "media/uk/model.mp3?v=4eb8a87c",
+    "us": "media/us/model.mp3?v=0b5adfc5"
    },
    "avoid": []
   },
@@ -2216,23 +2216,23 @@
     {
      "en": "Tom eats a green bean.",
      "zh": "Tom 吃了一颗绿豆。",
-     "audio": "media/sent/e69ce235d7d6.mp3"
+     "audio": "media/sent/e69ce235d7d6.mp3?v=c0eb6cfd"
     },
     {
      "en": "Beans are good for you.",
      "zh": "豆子对你有好处。",
-     "audio": "media/sent/c61814578f45.mp3"
+     "audio": "media/sent/c61814578f45.mp3?v=95f9aef0"
     },
     {
      "en": "I like brown beans in soup.",
      "zh": "我喜欢汤里的褐豆。",
-     "audio": "media/sent/dd79cb7e182c.mp3"
+     "audio": "media/sent/dd79cb7e182c.mp3?v=6a3ff428"
     }
    ],
    "media": {
-    "img": "media/img/bean.webp",
-    "uk": "media/uk/bean.mp3",
-    "us": "media/us/bean.mp3"
+    "img": "media/img/bean.webp?v=f3a22596",
+    "uk": "media/uk/bean.mp3?v=d3694467",
+    "us": "media/us/bean.mp3?v=4f5b3bc8"
    },
    "avoid": [
     "cookie",
@@ -2268,23 +2268,23 @@
     {
      "en": "Mum bakes a chocolate cookie.",
      "zh": "妈妈烤了一块巧克力曲奇。",
-     "audio": "media/sent/e82cb9ec9a49.mp3"
+     "audio": "media/sent/e82cb9ec9a49.mp3?v=1e4d9f22"
     },
     {
      "en": "Max wants a cookie!",
      "zh": "Max 想要一块饼干！",
-     "audio": "media/sent/6023ff4d3578.mp3"
+     "audio": "media/sent/6023ff4d3578.mp3?v=c96d9bb1"
     },
     {
      "en": "This cookie is sweet and good.",
      "zh": "这块曲奇又甜又好吃。",
-     "audio": "media/sent/38a28827f561.mp3"
+     "audio": "media/sent/38a28827f561.mp3?v=014d02f1"
     }
    ],
    "media": {
-    "img": "media/img/cookie.webp",
-    "uk": "media/uk/cookie.mp3",
-    "us": "media/us/cookie.mp3"
+    "img": "media/img/cookie.webp?v=6dc8b691",
+    "uk": "media/uk/cookie.mp3?v=51339b3f",
+    "us": "media/us/cookie.mp3?v=69449b49"
    },
    "avoid": [
     "bean",
@@ -2320,23 +2320,23 @@
     {
      "en": "Lily likes the yellow mango.",
      "zh": "Lily 喜欢这个黄芒果。",
-     "audio": "media/sent/bde20ca4fe0d.mp3"
+     "audio": "media/sent/bde20ca4fe0d.mp3?v=f8c8fab8"
     },
     {
      "en": "The mango is very good.",
      "zh": "这个芒果很好吃。",
-     "audio": "media/sent/5f757d031bed.mp3"
+     "audio": "media/sent/5f757d031bed.mp3?v=cc9b2a4d"
     },
     {
      "en": "We buy mangoes in summer.",
      "zh": "我们在夏天买芒果。",
-     "audio": "media/sent/4a4ec7c10860.mp3"
+     "audio": "media/sent/4a4ec7c10860.mp3?v=c0b74706"
     }
    ],
    "media": {
-    "img": "media/img/mango.webp",
-    "uk": "media/uk/mango.mp3",
-    "us": "media/us/mango.mp3"
+    "img": "media/img/mango.webp?v=b6ede412",
+    "uk": "media/uk/mango.mp3?v=b339c9ac",
+    "us": "media/us/mango.mp3?v=eb5ba716"
    },
    "hook": {
     "kind": "split",
@@ -2376,23 +2376,23 @@
     {
      "en": "Dad orders French fries.",
      "zh": "爸爸点了薯条。",
-     "audio": "media/sent/16aa854f1ebe.mp3"
+     "audio": "media/sent/16aa854f1ebe.mp3?v=ef074803"
     },
     {
      "en": "I eat French fries now.",
      "zh": "我现在吃薯条。",
-     "audio": "media/sent/ef239133c389.mp3"
+     "audio": "media/sent/ef239133c389.mp3?v=b072259e"
     },
     {
      "en": "French fries are hot and nice.",
      "zh": "薯条又热又好吃。",
-     "audio": "media/sent/0dd5d3b96e63.mp3"
+     "audio": "media/sent/0dd5d3b96e63.mp3?v=1d3daabe"
     }
    ],
    "media": {
-    "img": "media/img/french-fries.webp",
-    "uk": "media/word/french-fries.mp3",
-    "us": "media/word/french-fries.mp3"
+    "img": "media/img/french-fries.webp?v=4ed6effd",
+    "uk": "media/word/french-fries.mp3?v=9f8e9ced",
+    "us": "media/word/french-fries.mp3?v=9f8e9ced"
    },
    "hook": {
     "kind": "split",
@@ -2431,23 +2431,23 @@
     {
      "en": "We have fast food on Saturday.",
      "zh": "我们星期六吃快餐。",
-     "audio": "media/sent/1eead9679743.mp3"
+     "audio": "media/sent/1eead9679743.mp3?v=946ad879"
     },
     {
      "en": "Fast food is quick to eat.",
      "zh": "快餐吃得很快。",
-     "audio": "media/sent/3a2d63ff0ff2.mp3"
+     "audio": "media/sent/3a2d63ff0ff2.mp3?v=6bb72182"
     },
     {
      "en": "Mum says fast food is not healthy.",
      "zh": "妈妈说快餐不健康。",
-     "audio": "media/sent/067752a80eb1.mp3"
+     "audio": "media/sent/067752a80eb1.mp3?v=6b576f0e"
     }
    ],
    "media": {
-    "img": "media/img/fast-food.webp",
-    "uk": "media/word/fast-food.mp3",
-    "us": "media/word/fast-food.mp3"
+    "img": "media/img/fast-food.webp?v=692949bb",
+    "uk": "media/word/fast-food.mp3?v=c2d7cc45",
+    "us": "media/word/fast-food.mp3?v=c2d7cc45"
    },
    "hook": {
     "kind": "split",
@@ -2486,23 +2486,23 @@
     {
      "en": "We eat soup for supper.",
      "zh": "我们晚餐喝汤。",
-     "audio": "media/sent/34a6b032b4ce.mp3"
+     "audio": "media/sent/34a6b032b4ce.mp3?v=6717bc62"
     },
     {
      "en": "Supper is ready!",
      "zh": "晚饭好了！",
-     "audio": "media/sent/be76792d3722.mp3"
+     "audio": "media/sent/be76792d3722.mp3?v=51e4a4aa"
     },
     {
      "en": "Tom wants toast for supper.",
      "zh": "Tom 晚餐想吃吐司。",
-     "audio": "media/sent/5179d6d480b8.mp3"
+     "audio": "media/sent/5179d6d480b8.mp3?v=dd0ee4ed"
     }
    ],
    "media": {
-    "img": "media/img/supper.webp",
-    "uk": "media/uk/supper.mp3",
-    "us": "media/us/supper.mp3"
+    "img": "media/img/supper.webp?v=ef6aae0b",
+    "uk": "media/uk/supper.mp3?v=1ea67cd7",
+    "us": "media/us/supper.mp3?v=e375406f"
    },
    "avoid": [
     "ingredient",
@@ -2539,23 +2539,23 @@
     {
      "en": "Mum reads a cake recipe.",
      "zh": "妈妈读蛋糕食谱。",
-     "audio": "media/sent/d9768c751c49.mp3"
+     "audio": "media/sent/d9768c751c49.mp3?v=f8608fa7"
     },
     {
      "en": "This recipe is easy.",
      "zh": "这个食谱很简单。",
-     "audio": "media/sent/2cb1ddbe7173.mp3"
+     "audio": "media/sent/2cb1ddbe7173.mp3?v=8f02275c"
     },
     {
      "en": "Grandma has an old recipe.",
      "zh": "奶奶有一个旧食谱。",
-     "audio": "media/sent/4df36c6729d6.mp3"
+     "audio": "media/sent/4df36c6729d6.mp3?v=14858a25"
     }
    ],
    "media": {
-    "img": "media/img/recipe.webp",
-    "uk": "media/uk/recipe.mp3",
-    "us": "media/us/recipe.mp3"
+    "img": "media/img/recipe.webp?v=e6ba9b2a",
+    "uk": "media/uk/recipe.mp3?v=3ac07a59",
+    "us": "media/us/recipe.mp3?v=99fe8b09"
    },
    "avoid": [
     "ingredient",
@@ -2593,23 +2593,23 @@
     {
      "en": "Carrots are an ingredient.",
      "zh": "胡萝卜是一种食材。",
-     "audio": "media/sent/d30a1f3920bf.mp3"
+     "audio": "media/sent/d30a1f3920bf.mp3?v=915fa770"
     },
     {
      "en": "Sugar is a sweet ingredient.",
      "zh": "糖是一种甜的原料。",
-     "audio": "media/sent/8a044a649324.mp3"
+     "audio": "media/sent/8a044a649324.mp3?v=428dfa8b"
     },
     {
      "en": "We need all the ingredients for pizza.",
      "zh": "我们需要做披萨的所有食材。",
-     "audio": "media/sent/1a9a354b997b.mp3"
+     "audio": "media/sent/1a9a354b997b.mp3?v=267788b7"
     }
    ],
    "media": {
-    "img": "media/img/ingredient.webp",
-    "uk": "media/uk/ingredient.mp3",
-    "us": "media/us/ingredient.mp3"
+    "img": "media/img/ingredient.webp?v=3a8eb8af",
+    "uk": "media/uk/ingredient.mp3?v=a37914e5",
+    "us": "media/us/ingredient.mp3?v=6791eb8e"
    },
    "avoid": [
     "recipe",
@@ -2644,23 +2644,23 @@
     {
      "en": "Draw a straight line.",
      "zh": "画一条直线。",
-     "audio": "media/sent/08d4e35c9011.mp3"
+     "audio": "media/sent/08d4e35c9011.mp3?v=b0fe06ef"
     },
     {
      "en": "Stand in the line, please.",
      "zh": "请排队站好。",
-     "audio": "media/sent/5b7d9a7f6cc2.mp3"
+     "audio": "media/sent/5b7d9a7f6cc2.mp3?v=03aade33"
     },
     {
      "en": "We wait in a long line for the bus.",
      "zh": "我们排长队等公共汽车。",
-     "audio": "media/sent/f2992c61c88b.mp3"
+     "audio": "media/sent/f2992c61c88b.mp3?v=e5430620"
     }
    ],
    "media": {
-    "img": "media/img/line.webp",
-    "uk": "media/uk/line.mp3",
-    "us": "media/us/line.mp3"
+    "img": "media/img/line.webp?v=6a7a63a3",
+    "uk": "media/uk/line.mp3?v=0624bbe4",
+    "us": "media/us/line.mp3?v=35985a0e"
    },
    "spell": true,
    "avoid": [
@@ -2697,23 +2697,23 @@
     {
      "en": "Tom draws a big circle.",
      "zh": "Tom 画了一个大圆圈。",
-     "audio": "media/sent/7b2ad42824b0.mp3"
+     "audio": "media/sent/7b2ad42824b0.mp3?v=88016316"
     },
     {
      "en": "The moon is a circle.",
      "zh": "月亮是圆形的。",
-     "audio": "media/sent/3442f573e220.mp3"
+     "audio": "media/sent/3442f573e220.mp3?v=1930a40b"
     },
     {
      "en": "We sit in a circle for story time.",
      "zh": "我们围坐成一圈听故事。",
-     "audio": "media/sent/6ff2c70ead84.mp3"
+     "audio": "media/sent/6ff2c70ead84.mp3?v=17ac61c3"
     }
    ],
    "media": {
-    "img": "media/img/circle.webp",
-    "uk": "media/uk/circle.mp3",
-    "us": "media/us/circle.mp3"
+    "img": "media/img/circle.webp?v=3473bca0",
+    "uk": "media/uk/circle.mp3?v=8e7c3b8f",
+    "us": "media/us/circle.mp3?v=1efa9a61"
    },
    "avoid": [
     "line",
@@ -2748,23 +2748,23 @@
     {
      "en": "The zebra has black stripes.",
      "zh": "斑马有黑色条纹。",
-     "audio": "media/sent/6d4d4eed8a57.mp3"
+     "audio": "media/sent/6d4d4eed8a57.mp3?v=31e06905"
     },
     {
      "en": "Mum wears a shirt with blue stripes.",
      "zh": "妈妈穿一件蓝色条纹衬衫。",
-     "audio": "media/sent/25f7282257a2.mp3"
+     "audio": "media/sent/25f7282257a2.mp3?v=ef9eb7c8"
     },
     {
      "en": "I like the red stripes on my socks.",
      "zh": "我喜欢我袜子上的红色条纹。",
-     "audio": "media/sent/303ead3613e0.mp3"
+     "audio": "media/sent/303ead3613e0.mp3?v=298bcd6f"
     }
    ],
    "media": {
-    "img": "media/img/stripes.webp",
-    "uk": "media/uk/stripes.mp3",
-    "us": "media/us/stripes.mp3"
+    "img": "media/img/stripes.webp?v=3e0f758c",
+    "uk": "media/uk/stripes.mp3?v=79523dfd",
+    "us": "media/us/stripes.mp3?v=eb2cd6b8"
    },
    "avoid": [
     "circle",
@@ -2799,23 +2799,23 @@
     {
      "en": "The car makes a loud noise.",
      "zh": "那辆车发出很大的噪音。",
-     "audio": "media/sent/584974f30f4a.mp3"
+     "audio": "media/sent/584974f30f4a.mp3?v=c47485f7"
     },
     {
      "en": "Please make less noise!",
      "zh": "请小声点！",
-     "audio": "media/sent/c520efccfd04.mp3"
+     "audio": "media/sent/c520efccfd04.mp3?v=b703f20d"
     },
     {
      "en": "I hear a strange noise.",
      "zh": "我听到一个奇怪的响声。",
-     "audio": "media/sent/c86df6656011.mp3"
+     "audio": "media/sent/c86df6656011.mp3?v=148a58bc"
     }
    ],
    "media": {
-    "img": "media/img/noise.webp",
-    "uk": "media/uk/noise.mp3",
-    "us": "media/us/noise.mp3"
+    "img": "media/img/noise.webp?v=3492e68c",
+    "uk": "media/uk/noise.mp3?v=762e1e3d",
+    "us": "media/us/noise.mp3?v=5a373fd0"
    },
    "hook": {
     "kind": "contrast",
@@ -2852,23 +2852,23 @@
     {
      "en": "Mum puts on her make-up.",
      "zh": "妈妈化妆。",
-     "audio": "media/sent/38b464fd4a24.mp3"
+     "audio": "media/sent/38b464fd4a24.mp3?v=5570f0c0"
     },
     {
      "en": "Grandma doesn't wear much make-up.",
      "zh": "奶奶不化太多妆。",
-     "audio": "media/sent/bf52bf598049.mp3"
+     "audio": "media/sent/bf52bf598049.mp3?v=53087332"
     },
     {
      "en": "Her make-up looks nice today.",
      "zh": "她今天的妆容很好看。",
-     "audio": "media/sent/1a91a1d0863e.mp3"
+     "audio": "media/sent/1a91a1d0863e.mp3?v=16349f36"
     }
    ],
    "media": {
-    "img": "media/img/make-up.webp",
-    "uk": "media/uk/make-up.mp3",
-    "us": "media/us/make-up.mp3"
+    "img": "media/img/make-up.webp?v=de6acf74",
+    "uk": "media/uk/make-up.mp3?v=9bebfeb4",
+    "us": "media/us/make-up.mp3?v=8c8fbd53"
    },
    "hook": {
     "kind": "split",
@@ -2904,23 +2904,23 @@
     {
      "en": "We have a set of cups.",
      "zh": "我们有一套杯子。",
-     "audio": "media/sent/853937b2f5b2.mp3"
+     "audio": "media/sent/853937b2f5b2.mp3?v=8efd8585"
     },
     {
      "en": "Sam has a new set of pens.",
      "zh": "Sam 有一套新钢笔。",
-     "audio": "media/sent/f33bb9029d6f.mp3"
+     "audio": "media/sent/f33bb9029d6f.mp3?v=79bea047"
     },
     {
      "en": "This is my tea set.",
      "zh": "这是我的茶具套装。",
-     "audio": "media/sent/fbfb4bcf0172.mp3"
+     "audio": "media/sent/fbfb4bcf0172.mp3?v=aff7a720"
     }
    ],
    "media": {
-    "img": "media/img/set.webp",
-    "uk": "media/uk/set.mp3",
-    "us": "media/us/set.mp3"
+    "img": "media/img/set.webp?v=687a57d7",
+    "uk": "media/uk/set.mp3?v=a62240dc",
+    "us": "media/us/set.mp3?v=a50b224a"
    },
    "avoid": [
     "stuff",

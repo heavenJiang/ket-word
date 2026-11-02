@@ -32,23 +32,23 @@
     {
      "en": "Tom is not an adult yet.",
      "zh": "Tom 还不是一个成年人。",
-     "audio": "media/sent/a2d132674ee8.mp3"
+     "audio": "media/sent/a2d132674ee8.mp3?v=4907ce84"
     },
     {
      "en": "Adults drink coffee in the morning.",
      "zh": "成年人早上喝咖啡。",
-     "audio": "media/sent/e4fd273b6123.mp3"
+     "audio": "media/sent/e4fd273b6123.mp3?v=c706eb25"
     },
     {
      "en": "This is an adult swimming pool.",
      "zh": "这是成人游泳池。",
-     "audio": "media/sent/3f037adacecc.mp3"
+     "audio": "media/sent/3f037adacecc.mp3?v=d7be9a67"
     }
    ],
    "media": {
-    "img": "media/img/adult.webp",
-    "uk": "media/uk/adult.mp3",
-    "us": "media/us/adult.mp3"
+    "img": "media/img/adult.webp?v=522999d1",
+    "uk": "media/uk/adult.mp3?v=55867377",
+    "us": "media/us/adult.mp3?v=4155475e"
    },
    "spell": true,
    "avoid": [
@@ -87,23 +87,23 @@
     {
      "en": "Mia's big sister has a new boyfriend.",
      "zh": "Mia 的姐姐交了个新男朋友。",
-     "audio": "media/sent/f4f7eb5de3aa.mp3"
+     "audio": "media/sent/f4f7eb5de3aa.mp3?v=3aafe111"
     },
     {
      "en": "Uncle Ben was Aunt Kate's boyfriend before they got married.",
      "zh": "Ben 叔叔和 Kate 阿姨结婚前是她的男朋友。",
-     "audio": "media/sent/dd1664c2bab8.mp3"
+     "audio": "media/sent/dd1664c2bab8.mp3?v=4cd63f9f"
     },
     {
      "en": "Her boyfriend plays the guitar.",
      "zh": "她的男朋友会弹吉他。",
-     "audio": "media/sent/8616e2fdb3ae.mp3"
+     "audio": "media/sent/8616e2fdb3ae.mp3?v=1b5e52dc"
     }
    ],
    "media": {
-    "img": "media/img/boyfriend.webp",
-    "uk": "media/word/boyfriend.mp3",
-    "us": "media/word/boyfriend.mp3"
+    "img": "media/img/boyfriend.webp?v=69dc7149",
+    "uk": "media/word/boyfriend.mp3?v=a60fc4fb",
+    "us": "media/word/boyfriend.mp3?v=a60fc4fb"
    },
    "hook": {
     "kind": "split",
@@ -144,23 +144,23 @@
     {
      "en": "Mia's big brother has a girlfriend.",
      "zh": "Mia 的哥哥有女朋友了。",
-     "audio": "media/sent/6823f71be25d.mp3"
+     "audio": "media/sent/6823f71be25d.mp3?v=ba4dc8d8"
     },
     {
      "en": "Aunt Kate was Uncle Ben's girlfriend before they got married.",
      "zh": "Kate 阿姨和 Ben 叔叔结婚前是他的女朋友。",
-     "audio": "media/sent/39a402af01b0.mp3"
+     "audio": "media/sent/39a402af01b0.mp3?v=5510fd58"
     },
     {
      "en": "His girlfriend is a teacher.",
      "zh": "他的女朋友是老师。",
-     "audio": "media/sent/fce579ee3a7a.mp3"
+     "audio": "media/sent/fce579ee3a7a.mp3?v=3a8eafeb"
     }
    ],
    "media": {
-    "img": "media/img/girlfriend.webp",
-    "uk": "media/word/girlfriend.mp3",
-    "us": "media/word/girlfriend.mp3"
+    "img": "media/img/girlfriend.webp?v=0b325f54",
+    "uk": "media/word/girlfriend.mp3?v=ec1e51c3",
+    "us": "media/word/girlfriend.mp3?v=ec1e51c3"
    },
    "hook": {
     "kind": "split",
@@ -203,23 +203,23 @@
     {
      "en": "The man in the suit is a business person.",
      "zh": "那个穿西装的男人是个商人。",
-     "audio": "media/sent/13e644b98e0a.mp3"
+     "audio": "media/sent/13e644b98e0a.mp3?v=afe00af1"
     },
     {
      "en": "Many business people work in London.",
      "zh": "许多商人在伦敦工作。",
-     "audio": "media/sent/48678dc86654.mp3"
+     "audio": "media/sent/48678dc86654.mp3?v=3d3ccdf7"
     },
     {
      "en": "She wants to be a business person.",
      "zh": "她想成为一名商人。",
-     "audio": "media/sent/5a5d96ef660a.mp3"
+     "audio": "media/sent/5a5d96ef660a.mp3?v=2f298e08"
     }
    ],
    "media": {
-    "img": "media/img/business-person.webp",
-    "uk": "media/word/business-person.mp3",
-    "us": "media/word/business-person.mp3"
+    "img": "media/img/business-person.webp?v=0c741f82",
+    "uk": "media/word/business-person.mp3?v=065c0adf",
+    "us": "media/word/business-person.mp3?v=065c0adf"
    },
    "hook": {
     "kind": "split",
@@ -258,23 +258,23 @@
     {
      "en": "Lily sees a celebrity at the cinema.",
      "zh": "Lily 在电影院看到一位名人。",
-     "audio": "media/sent/99e68cce0852.mp3"
+     "audio": "media/sent/99e68cce0852.mp3?v=64888c1c"
     },
     {
      "en": "This actor is a big celebrity.",
      "zh": "这位演员是大名人。",
-     "audio": "media/sent/762dccc91f58.mp3"
+     "audio": "media/sent/762dccc91f58.mp3?v=db96cb96"
     },
     {
      "en": "The celebrity writes names for fans.",
      "zh": "名人为粉丝写名字。",
-     "audio": "media/sent/97da306b6c12.mp3"
+     "audio": "media/sent/97da306b6c12.mp3?v=0b650149"
     }
    ],
    "media": {
-    "img": "media/img/celebrity.webp",
-    "uk": "media/uk/celebrity.mp3",
-    "us": "media/us/celebrity.mp3"
+    "img": "media/img/celebrity.webp?v=2627bef8",
+    "uk": "media/uk/celebrity.mp3?v=ace047a8",
+    "us": "media/us/celebrity.mp3?v=d0a6ae2a"
    },
    "hook": {
     "kind": "contrast",
@@ -315,23 +315,23 @@
     {
      "en": "Max is my favourite character.",
      "zh": "Max 是我最喜欢的角色。",
-     "audio": "media/sent/5acbe928ecb2.mp3"
+     "audio": "media/sent/5acbe928ecb2.mp3?v=80af32ad"
     },
     {
      "en": "Who is your favourite character?",
      "zh": "你最喜欢的角色是谁？",
-     "audio": "media/sent/d35bc2099952.mp3"
+     "audio": "media/sent/d35bc2099952.mp3?v=af1064b6"
     },
     {
      "en": "The story has many interesting characters.",
      "zh": "这个故事有很多有趣的角色。",
-     "audio": "media/sent/f2307c30a14a.mp3"
+     "audio": "media/sent/f2307c30a14a.mp3?v=ac09a779"
     }
    ],
    "media": {
-    "img": "media/img/character.webp",
-    "uk": "media/uk/character.mp3",
-    "us": "media/us/character.mp3"
+    "img": "media/img/character.webp?v=f96c2544",
+    "uk": "media/uk/character.mp3?v=8a78aa10",
+    "us": "media/us/character.mp3?v=62504624"
    },
    "hook": {
     "kind": "contrast",
@@ -367,23 +367,23 @@
     {
      "en": "The clown makes Tom laugh.",
      "zh": "小丑逗得 Tom 大笑。",
-     "audio": "media/sent/d860fd11ea6d.mp3"
+     "audio": "media/sent/d860fd11ea6d.mp3?v=3f272b90"
     },
     {
      "en": "I saw a funny clown today.",
      "zh": "我今天看到了一个有趣的小丑。",
-     "audio": "media/sent/c009dd5a8014.mp3"
+     "audio": "media/sent/c009dd5a8014.mp3?v=e173fe98"
     },
     {
      "en": "The clown wears a red hat.",
      "zh": "小丑戴着一顶红帽子。",
-     "audio": "media/sent/040c0c842d23.mp3"
+     "audio": "media/sent/040c0c842d23.mp3?v=7e5ac633"
     }
    ],
    "media": {
-    "img": "media/img/clown.webp",
-    "uk": "media/uk/clown.mp3",
-    "us": "media/us/clown.mp3"
+    "img": "media/img/clown.webp?v=0d393893",
+    "uk": "media/uk/clown.mp3?v=2ba2f8b5",
+    "us": "media/us/clown.mp3?v=08df372d"
    },
    "hook": {
     "kind": "contrast",
@@ -420,23 +420,23 @@
     {
      "en": "Mum has a kind colleague.",
      "zh": "妈妈有一位善良的同事。",
-     "audio": "media/sent/eadbc4e5c324.mp3"
+     "audio": "media/sent/eadbc4e5c324.mp3?v=0284d91e"
     },
     {
      "en": "Dad eats lunch with his colleagues.",
      "zh": "爸爸和同事一起吃午饭。",
-     "audio": "media/sent/2dcdd9881848.mp3"
+     "audio": "media/sent/2dcdd9881848.mp3?v=85beb80d"
     },
     {
      "en": "Mum's colleague visits us.",
      "zh": "妈妈的同事来拜访我们。",
-     "audio": "media/sent/abf4b7650e7b.mp3"
+     "audio": "media/sent/abf4b7650e7b.mp3?v=c7b15aad"
     }
    ],
    "media": {
-    "img": "media/img/colleague.webp",
-    "uk": "media/uk/colleague.mp3",
-    "us": "media/us/colleague.mp3"
+    "img": "media/img/colleague.webp?v=74a89256",
+    "uk": "media/uk/colleague.mp3?v=96e2dade",
+    "us": "media/us/colleague.mp3?v=309db452"
    },
    "hook": {
     "kind": "contrast",
@@ -472,23 +472,23 @@
     {
      "en": "There is a big crowd at the park.",
      "zh": "公园里有一大群人。",
-     "audio": "media/sent/5c9e85f19cfe.mp3"
+     "audio": "media/sent/5c9e85f19cfe.mp3?v=8cc32321"
     },
     {
      "en": "The crowd shouts for Lily.",
      "zh": "人群为 Lily 欢呼。",
-     "audio": "media/sent/81003c6e86b3.mp3"
+     "audio": "media/sent/81003c6e86b3.mp3?v=8c32fbd6"
     },
     {
      "en": "We walked through the crowd.",
      "zh": "我们穿过人群。",
-     "audio": "media/sent/81acfd37dea6.mp3"
+     "audio": "media/sent/81acfd37dea6.mp3?v=9f699923"
     }
    ],
    "media": {
-    "img": "media/img/crowd.webp",
-    "uk": "media/uk/crowd.mp3",
-    "us": "media/us/crowd.mp3"
+    "img": "media/img/crowd.webp?v=fc2e470a",
+    "uk": "media/uk/crowd.mp3?v=d08677bb",
+    "us": "media/us/crowd.mp3?v=d25ad96b"
    },
    "hook": {
     "kind": "contrast",
@@ -526,23 +526,23 @@
     {
      "en": "Tom is a big fan of Max.",
      "zh": "Tom 是 Max 的超级粉丝。",
-     "audio": "media/sent/43901b5e5bdf.mp3"
+     "audio": "media/sent/43901b5e5bdf.mp3?v=b1aabfa9"
     },
     {
      "en": "Lily is a football fan.",
      "zh": "Lily 是个足球迷。",
-     "audio": "media/sent/ed35f34eda0b.mp3"
+     "audio": "media/sent/ed35f34eda0b.mp3?v=cbbee7ff"
     },
     {
      "en": "The fans sing for their team.",
      "zh": "球迷们为他们的球队唱歌。",
-     "audio": "media/sent/c8c7d8f723c8.mp3"
+     "audio": "media/sent/c8c7d8f723c8.mp3?v=0204fdb3"
     }
    ],
    "media": {
-    "img": "media/img/fan.webp",
-    "uk": "media/uk/fan.mp3",
-    "us": "media/us/fan.mp3"
+    "img": "media/img/fan.webp?v=1c430d29",
+    "uk": "media/uk/fan.mp3?v=d83f9d9a",
+    "us": "media/us/fan.mp3?v=cb4d670c"
    },
    "avoid": [
     "celebrity",
@@ -579,23 +579,23 @@
     {
      "en": "Our headteacher is very nice.",
      "zh": "我们的校长人很好。",
-     "audio": "media/sent/44d82bcee717.mp3"
+     "audio": "media/sent/44d82bcee717.mp3?v=e6663606"
     },
     {
      "en": "The headteacher speaks in the hall.",
      "zh": "校长在大厅里讲话。",
-     "audio": "media/sent/879d3d41958c.mp3"
+     "audio": "media/sent/879d3d41958c.mp3?v=8a56e41e"
     },
     {
      "en": "Lily says hello to the headteacher.",
      "zh": "Lily 向校长问好。",
-     "audio": "media/sent/a6966db0a33b.mp3"
+     "audio": "media/sent/a6966db0a33b.mp3?v=07c06e80"
     }
    ],
    "media": {
-    "img": "media/img/headteacher.webp",
-    "uk": "media/word/headteacher.mp3",
-    "us": "media/word/headteacher.mp3"
+    "img": "media/img/headteacher.webp?v=364d468f",
+    "uk": "media/word/headteacher.mp3?v=7003bc7e",
+    "us": "media/word/headteacher.mp3?v=7003bc7e"
    },
    "hook": {
     "kind": "split",
@@ -632,23 +632,23 @@
     {
      "en": "Grandma was a housewife.",
      "zh": "奶奶以前是家庭主妇。",
-     "audio": "media/sent/6b6a691000d4.mp3"
+     "audio": "media/sent/6b6a691000d4.mp3?v=ad4f38dc"
     },
     {
      "en": "My friend's mum is a housewife.",
      "zh": "我朋友的妈妈是家庭主妇。",
-     "audio": "media/sent/d2e60cb5d3a2.mp3"
+     "audio": "media/sent/d2e60cb5d3a2.mp3?v=1adac475"
     },
     {
      "en": "A housewife works hard at home.",
      "zh": "家庭主妇在家里很辛苦。",
-     "audio": "media/sent/b2fe0d8b2fcd.mp3"
+     "audio": "media/sent/b2fe0d8b2fcd.mp3?v=d7dae193"
     }
    ],
    "media": {
-    "img": "media/img/housewife.webp",
-    "uk": "media/uk/housewife.mp3",
-    "us": "media/us/housewife.mp3"
+    "img": "media/img/housewife.webp?v=8babd92c",
+    "uk": "media/uk/housewife.mp3?v=bc173189",
+    "us": "media/us/housewife.mp3?v=91cc9758"
    },
    "hook": {
     "kind": "split",
@@ -684,23 +684,23 @@
     {
      "en": "The kid plays with a ball.",
      "zh": "那个小孩在玩球。",
-     "audio": "media/sent/bd6bd41a16e5.mp3"
+     "audio": "media/sent/bd6bd41a16e5.mp3?v=6acb27bf"
     },
     {
      "en": "Are you a good kid, Tom?",
      "zh": "Tom，你是个好小孩吗？",
-     "audio": "media/sent/9774b8b24a0e.mp3"
+     "audio": "media/sent/9774b8b24a0e.mp3?v=6063f4c3"
     },
     {
      "en": "Many kids go to school today.",
      "zh": "今天很多小孩去上学。",
-     "audio": "media/sent/8405ce1c4664.mp3"
+     "audio": "media/sent/8405ce1c4664.mp3?v=9211ca74"
     }
    ],
    "media": {
-    "img": "media/img/kid.webp",
-    "uk": "media/uk/kid.mp3",
-    "us": "media/us/kid.mp3"
+    "img": "media/img/kid.webp?v=cc8f1113",
+    "uk": "media/uk/kid.mp3?v=dd75fba2",
+    "us": "media/us/kid.mp3?v=fafc9700"
    },
    "avoid": [
     "schoolchild"
@@ -734,23 +734,23 @@
     {
      "en": "The man opens the door.",
      "zh": "那位男士开了门。",
-     "audio": "media/sent/d99041822eff.mp3"
+     "audio": "media/sent/d99041822eff.mp3?v=0f5e38c3"
     },
     {
      "en": "Dad is a nice man.",
      "zh": "爸爸是个好人。",
-     "audio": "media/sent/6dac9f0bb604.mp3"
+     "audio": "media/sent/6dac9f0bb604.mp3?v=7c69bcb4"
     },
     {
      "en": "That man sells apples.",
      "zh": "那位男士卖苹果。",
-     "audio": "media/sent/c419ee5a67d4.mp3"
+     "audio": "media/sent/c419ee5a67d4.mp3?v=4138ffe7"
     }
    ],
    "media": {
-    "img": "media/img/man.webp",
-    "uk": "media/uk/man.mp3",
-    "us": "media/us/man.mp3"
+    "img": "media/img/man.webp?v=8fd7a3cc",
+    "uk": "media/uk/man.mp3?v=c956d49c",
+    "us": "media/us/man.mp3?v=beca2e95"
    },
    "spell": true,
    "avoid": [
@@ -789,23 +789,23 @@
     {
      "en": "The woman drives the bus.",
      "zh": "那位女士开公交车。",
-     "audio": "media/sent/9b4bdc1572b9.mp3"
+     "audio": "media/sent/9b4bdc1572b9.mp3?v=963caeae"
     },
     {
      "en": "Mum is a strong woman.",
      "zh": "妈妈是个坚强的女人。",
-     "audio": "media/sent/1d1081069722.mp3"
+     "audio": "media/sent/1d1081069722.mp3?v=05aee19f"
     },
     {
      "en": "The woman buys some milk.",
      "zh": "那位女士买了一些牛奶。",
-     "audio": "media/sent/ef3222964dfb.mp3"
+     "audio": "media/sent/ef3222964dfb.mp3?v=5176c6d2"
     }
    ],
    "media": {
-    "img": "media/img/woman.webp",
-    "uk": "media/uk/woman.mp3",
-    "us": "media/us/woman.mp3"
+    "img": "media/img/woman.webp?v=1c5825ad",
+    "uk": "media/uk/woman.mp3?v=75aa958f",
+    "us": "media/us/woman.mp3?v=0b8501dd"
    },
    "spell": true,
    "avoid": [
@@ -843,22 +843,22 @@
     {
      "en": "In America, they say Mom.",
      "zh": "在美国，人们叫妈妈为 Mom。",
-     "audio": "media/sent/4fb5163ed6d4.mp3"
+     "audio": "media/sent/4fb5163ed6d4.mp3?v=c3036d7b"
     },
     {
      "en": "American children say Mom, not Mum.",
      "zh": "美国孩子说 Mom，不说 Mum。",
-     "audio": "media/sent/949a1d42722f.mp3"
+     "audio": "media/sent/949a1d42722f.mp3?v=d8760fa1"
     },
     {
      "en": "Mom is short for mother in America.",
      "zh": "在美国，Mom 是母亲的简称。",
-     "audio": "media/sent/1ad394260496.mp3"
+     "audio": "media/sent/1ad394260496.mp3?v=b48d244d"
     }
    ],
    "media": {
-    "uk": "media/word/mom.mp3",
-    "us": "media/word/mom.mp3"
+    "uk": "media/word/mom.mp3?v=7fec84ea",
+    "us": "media/word/mom.mp3?v=7fec84ea"
    },
    "avoid": []
   },
@@ -891,23 +891,23 @@
     {
      "en": "Lily and Mia are dance partners.",
      "zh": "Lily 和 Mia 是舞伴。",
-     "audio": "media/sent/345971493ada.mp3"
+     "audio": "media/sent/345971493ada.mp3?v=50d325f8"
     },
     {
      "en": "Tom needs a partner for the game.",
      "zh": "Tom 需要一个搭档来玩游戏。",
-     "audio": "media/sent/2068e1100176.mp3"
+     "audio": "media/sent/2068e1100176.mp3?v=43cc011e"
     },
     {
      "en": "Dad is my tennis partner today.",
      "zh": "今天爸爸是我的网球搭档。",
-     "audio": "media/sent/52c54dd9637c.mp3"
+     "audio": "media/sent/52c54dd9637c.mp3?v=da6d8095"
     }
    ],
    "media": {
-    "img": "media/img/partner.webp",
-    "uk": "media/uk/partner.mp3",
-    "us": "media/us/partner.mp3"
+    "img": "media/img/partner.webp?v=b9bd4213",
+    "uk": "media/uk/partner.mp3?v=1baa40b2",
+    "us": "media/us/partner.mp3?v=16afa584"
    },
    "hook": {
     "kind": "story",
@@ -947,23 +947,23 @@
     {
      "en": "Many people are at the park.",
      "zh": "公园里有很多人在。",
-     "audio": "media/sent/55caa2d1e8f3.mp3"
+     "audio": "media/sent/55caa2d1e8f3.mp3?v=08d45b01"
     },
     {
      "en": "People love ice cream in summer.",
      "zh": "夏天人们喜欢吃冰淇淋。",
-     "audio": "media/sent/aa4e52726479.mp3"
+     "audio": "media/sent/aa4e52726479.mp3?v=cef7a08f"
     },
     {
      "en": "The train is full of people.",
      "zh": "火车上挤满了人。",
-     "audio": "media/sent/15dc98793c52.mp3"
+     "audio": "media/sent/15dc98793c52.mp3?v=b56bba40"
     }
    ],
    "media": {
-    "img": "media/img/people.webp",
-    "uk": "media/uk/people.mp3",
-    "us": "media/us/people.mp3"
+    "img": "media/img/people.webp?v=9a6af457",
+    "uk": "media/uk/people.mp3?v=09965a5a",
+    "us": "media/us/people.mp3?v=8a057679"
    },
    "spell": true,
    "avoid": [
@@ -1003,23 +1003,23 @@
     {
      "en": "He is a kind person.",
      "zh": "他是一个善良的人。",
-     "audio": "media/sent/1fb49c8b6608.mp3"
+     "audio": "media/sent/1fb49c8b6608.mp3?v=bce7cb8d"
     },
     {
      "en": "Who is that person at the door?",
      "zh": "门口那个人是谁？",
-     "audio": "media/sent/f9c338f5463d.mp3"
+     "audio": "media/sent/f9c338f5463d.mp3?v=2109df25"
     },
     {
      "en": "Mum is a busy person.",
      "zh": "妈妈是个大忙人。",
-     "audio": "media/sent/d478fbc09ab9.mp3"
+     "audio": "media/sent/d478fbc09ab9.mp3?v=00b71662"
     }
    ],
    "media": {
-    "img": "media/img/person.webp",
-    "uk": "media/uk/person.mp3",
-    "us": "media/us/person.mp3"
+    "img": "media/img/person.webp?v=39ab1908",
+    "uk": "media/uk/person.mp3?v=bf08f46f",
+    "us": "media/us/person.mp3?v=cb07534a"
    },
    "spell": true,
    "avoid": [
@@ -1058,23 +1058,23 @@
     {
      "en": "Lily is a happy schoolchild.",
      "zh": "Lily 是一个快乐的小学生。",
-     "audio": "media/sent/23dcaa27c86b.mp3"
+     "audio": "media/sent/23dcaa27c86b.mp3?v=3709ee83"
     },
     {
      "en": "Every schoolchild needs a pen.",
      "zh": "每个小学生都需要一支钢笔。",
-     "audio": "media/sent/e93f3a5ed2be.mp3"
+     "audio": "media/sent/e93f3a5ed2be.mp3?v=076222d0"
     },
     {
      "en": "Tom is not a schoolchild yet.",
      "zh": "Tom 还不是一个小学生。",
-     "audio": "media/sent/a6f03a5bb8b6.mp3"
+     "audio": "media/sent/a6f03a5bb8b6.mp3?v=52f80fac"
     }
    ],
    "media": {
-    "img": "media/img/schoolchild.webp",
-    "uk": "media/word/schoolchild.mp3",
-    "us": "media/word/schoolchild.mp3"
+    "img": "media/img/schoolchild.webp?v=e3eb5aa1",
+    "uk": "media/word/schoolchild.mp3?v=c532b955",
+    "us": "media/word/schoolchild.mp3?v=c532b955"
    },
    "hook": {
     "kind": "split",
@@ -1114,23 +1114,23 @@
     {
      "en": "That woman is a scientist.",
      "zh": "那位女士是一名科学家。",
-     "audio": "media/sent/3112cdabf969.mp3"
+     "audio": "media/sent/3112cdabf969.mp3?v=7949cb52"
     },
     {
      "en": "The scientist has many books.",
      "zh": "这位科学家有很多书。",
-     "audio": "media/sent/f96a76d1b15c.mp3"
+     "audio": "media/sent/f96a76d1b15c.mp3?v=a95988d5"
     },
     {
      "en": "Lily wants to be a scientist.",
      "zh": "Lily 想成为一名科学家。",
-     "audio": "media/sent/8591bbf11d9a.mp3"
+     "audio": "media/sent/8591bbf11d9a.mp3?v=76d5d749"
     }
    ],
    "media": {
-    "img": "media/img/scientist.webp",
-    "uk": "media/uk/scientist.mp3",
-    "us": "media/us/scientist.mp3"
+    "img": "media/img/scientist.webp?v=b9201972",
+    "uk": "media/uk/scientist.mp3?v=3c7cf88a",
+    "us": "media/us/scientist.mp3?v=17491ce7"
    },
    "avoid": []
   },
@@ -1163,23 +1163,23 @@
     {
      "en": "The runner is very fast.",
      "zh": "这个跑步者非常快。",
-     "audio": "media/sent/78bdd1ab0c97.mp3"
+     "audio": "media/sent/78bdd1ab0c97.mp3?v=b8dce2c0"
     },
     {
      "en": "Dad is a good runner.",
      "zh": "爸爸是一个很好的跑步者。",
-     "audio": "media/sent/ddfdddca459e.mp3"
+     "audio": "media/sent/ddfdddca459e.mp3?v=b8132446"
     },
     {
      "en": "The young runner won the race.",
      "zh": "那个年轻的赛跑运动员赢得了比赛。",
-     "audio": "media/sent/b50c6cfc3eea.mp3"
+     "audio": "media/sent/b50c6cfc3eea.mp3?v=1c049978"
     }
    ],
    "media": {
-    "img": "media/img/runner.webp",
-    "uk": "media/uk/runner.mp3",
-    "us": "media/us/runner.mp3"
+    "img": "media/img/runner.webp?v=f58e6b1a",
+    "uk": "media/uk/runner.mp3?v=cb628e70",
+    "us": "media/us/runner.mp3?v=2df0dfd9"
    },
    "hook": {
     "kind": "story",
@@ -1219,23 +1219,23 @@
     {
      "en": "The movie star is in the film.",
      "zh": "这位电影明星在电影里。",
-     "audio": "media/sent/5885e291b2b2.mp3"
+     "audio": "media/sent/5885e291b2b2.mp3?v=e3b951ee"
     },
     {
      "en": "Mia likes that movie star.",
      "zh": "Mia 喜欢那位电影明星。",
-     "audio": "media/sent/be0f3f3baf01.mp3"
+     "audio": "media/sent/be0f3f3baf01.mp3?v=7d5a9717"
     },
     {
      "en": "The movie star has many fans.",
      "zh": "这位电影明星有很多粉丝。",
-     "audio": "media/sent/ab329721f690.mp3"
+     "audio": "media/sent/ab329721f690.mp3?v=c13721f4"
     }
    ],
    "media": {
-    "img": "media/img/movie-star.webp",
-    "uk": "media/word/movie-star.mp3",
-    "us": "media/word/movie-star.mp3"
+    "img": "media/img/movie-star.webp?v=ae5bc481",
+    "uk": "media/word/movie-star.mp3?v=e44d76e6",
+    "us": "media/word/movie-star.mp3?v=e44d76e6"
    },
    "hook": {
     "kind": "split",
@@ -1275,23 +1275,23 @@
     {
      "en": "The music comes from the speaker.",
      "zh": "音乐来自扬声器。",
-     "audio": "media/sent/7a2ae7279288.mp3"
+     "audio": "media/sent/7a2ae7279288.mp3?v=b348f677"
     },
     {
      "en": "Turn up the speaker, please.",
      "zh": "请把扬声器的声音调大一点。",
-     "audio": "media/sent/0e1bd8d0fb49.mp3"
+     "audio": "media/sent/0e1bd8d0fb49.mp3?v=3b60982d"
     },
     {
      "en": "The big speaker is in the hall.",
      "zh": "大厅里有一个大扬声器。",
-     "audio": "media/sent/205fe8f46d98.mp3"
+     "audio": "media/sent/205fe8f46d98.mp3?v=7d395790"
     }
    ],
    "media": {
-    "img": "media/img/speaker.webp",
-    "uk": "media/uk/speaker.mp3",
-    "us": "media/us/speaker.mp3"
+    "img": "media/img/speaker.webp?v=b6bf69b8",
+    "uk": "media/uk/speaker.mp3?v=0799d203",
+    "us": "media/us/speaker.mp3?v=ea1550af"
    },
    "hook": {
     "kind": "affix",
@@ -1328,23 +1328,23 @@
     {
      "en": "The police help us.",
      "zh": "警察帮助我们。",
-     "audio": "media/sent/f7195034692f.mp3"
+     "audio": "media/sent/f7195034692f.mp3?v=40465a6c"
     },
     {
      "en": "Call the police if you are lost.",
      "zh": "如果你迷路了就报警。",
-     "audio": "media/sent/d3bcaf7bdf36.mp3"
+     "audio": "media/sent/d3bcaf7bdf36.mp3?v=8701d480"
     },
     {
      "en": "The police have a big dog.",
      "zh": "警察有一只大狗。",
-     "audio": "media/sent/584fae3a1198.mp3"
+     "audio": "media/sent/584fae3a1198.mp3?v=c465e45a"
     }
    ],
    "media": {
-    "img": "media/img/police.webp",
-    "uk": "media/uk/police.mp3",
-    "us": "media/us/police.mp3"
+    "img": "media/img/police.webp?v=0bf93a14",
+    "uk": "media/uk/police.mp3?v=fe23cb90",
+    "us": "media/us/police.mp3?v=6538473c"
    },
    "spell": true,
    "avoid": []
@@ -1377,23 +1377,23 @@
     {
      "en": "Grandpa has a grey beard.",
      "zh": "爷爷有灰色的胡子。",
-     "audio": "media/sent/7e478e635ee8.mp3"
+     "audio": "media/sent/7e478e635ee8.mp3?v=651e8900"
     },
     {
      "en": "The man has no beard.",
      "zh": "那个男人没有胡子。",
-     "audio": "media/sent/ed44840ba5f7.mp3"
+     "audio": "media/sent/ed44840ba5f7.mp3?v=e5fd1e4a"
     },
     {
      "en": "Dad cuts his beard.",
      "zh": "爸爸修剪他的胡子。",
-     "audio": "media/sent/1f465fe9b775.mp3"
+     "audio": "media/sent/1f465fe9b775.mp3?v=d4ca81d5"
     }
    ],
    "media": {
-    "img": "media/img/beard.webp",
-    "uk": "media/uk/beard.mp3",
-    "us": "media/us/beard.mp3"
+    "img": "media/img/beard.webp?v=7b1782e5",
+    "uk": "media/uk/beard.mp3?v=882f4fbd",
+    "us": "media/us/beard.mp3?v=c6322e42"
    },
    "spell": true,
    "avoid": []
@@ -1426,23 +1426,23 @@
     {
      "en": "Tom is six years of age.",
      "zh": "Tom 六岁了。",
-     "audio": "media/sent/f763f1e26df3.mp3"
+     "audio": "media/sent/f763f1e26df3.mp3?v=92f0b02a"
     },
     {
      "en": "What is your age?",
      "zh": "你几岁？",
-     "audio": "media/sent/5f6bcc65917e.mp3"
+     "audio": "media/sent/5f6bcc65917e.mp3?v=dd09bf74"
     },
     {
      "en": "Grandma has a young heart for her age.",
      "zh": "奶奶虽然年纪大了，但心态很年轻。",
-     "audio": "media/sent/4d946d1827cb.mp3"
+     "audio": "media/sent/4d946d1827cb.mp3?v=630d7df7"
     }
    ],
    "media": {
-    "img": "media/img/age.webp",
-    "uk": "media/uk/age.mp3",
-    "us": "media/us/age.mp3"
+    "img": "media/img/age.webp?v=45d692ba",
+    "uk": "media/uk/age.mp3?v=1c863e8a",
+    "us": "media/us/age.mp3?v=805ca7b9"
    },
    "spell": true,
    "avoid": [
@@ -1480,23 +1480,23 @@
     {
      "en": "The cat is aged ten.",
      "zh": "这只猫十岁了。",
-     "audio": "media/sent/1eda6a5fa191.mp3"
+     "audio": "media/sent/1eda6a5fa191.mp3?v=b34f1494"
     },
     {
      "en": "My dog is aged three.",
      "zh": "我的狗三岁了。",
-     "audio": "media/sent/d656bb674511.mp3"
+     "audio": "media/sent/d656bb674511.mp3?v=2af03887"
     },
     {
      "en": "Grandma's cat is aged fifteen.",
      "zh": "奶奶的猫十五岁了。",
-     "audio": "media/sent/e5b4e76babbf.mp3"
+     "audio": "media/sent/e5b4e76babbf.mp3?v=3672dd09"
     }
    ],
    "media": {
-    "img": "media/img/aged.webp",
-    "uk": "media/uk/aged.mp3",
-    "us": "media/us/aged.mp3"
+    "img": "media/img/aged.webp?v=92eeb4d3",
+    "uk": "media/uk/aged.mp3?v=35de3780",
+    "us": "media/us/aged.mp3?v=f4bd0d0e"
    },
    "hook": {
     "kind": "contrast",
@@ -1536,23 +1536,23 @@
     {
      "en": "Tom's birth was in spring.",
      "zh": "Tom 出生在春天。",
-     "audio": "media/sent/67bb6ad91e6c.mp3"
+     "audio": "media/sent/67bb6ad91e6c.mp3?v=137ba85b"
     },
     {
      "en": "The birth of a baby is happy news.",
      "zh": "宝宝出生是好消息。",
-     "audio": "media/sent/2c2b66c1bf0c.mp3"
+     "audio": "media/sent/2c2b66c1bf0c.mp3?v=9425c871"
     },
     {
      "en": "The panda's birth is happy news.",
      "zh": "熊猫的出生是个好消息。",
-     "audio": "media/sent/0e5feb4da787.mp3"
+     "audio": "media/sent/0e5feb4da787.mp3?v=73bfd4e5"
     }
    ],
    "media": {
-    "img": "media/img/birth.webp",
-    "uk": "media/uk/birth.mp3",
-    "us": "media/us/birth.mp3"
+    "img": "media/img/birth.webp?v=2a7c68cb",
+    "uk": "media/uk/birth.mp3?v=6d1d1527",
+    "us": "media/us/birth.mp3?v=370edbc9"
    },
    "avoid": [
     "age",
@@ -1588,23 +1588,23 @@
     {
      "en": "Lily was born in July.",
      "zh": "Lily 出生在七月。",
-     "audio": "media/sent/a8d7faa462d8.mp3"
+     "audio": "media/sent/a8d7faa462d8.mp3?v=d65bbe8a"
     },
     {
      "en": "Max was born in the garden.",
      "zh": "Max 是在花园里出生的。",
-     "audio": "media/sent/d0d825640e25.mp3"
+     "audio": "media/sent/d0d825640e25.mp3?v=bbb1f66d"
     },
     {
      "en": "Tom was born in March.",
      "zh": "Tom 是三月出生的。",
-     "audio": "media/sent/86a2bb281dee.mp3"
+     "audio": "media/sent/86a2bb281dee.mp3?v=e169794f"
     }
    ],
    "media": {
-    "img": "media/img/born.webp",
-    "uk": "media/uk/born.mp3",
-    "us": "media/us/born.mp3"
+    "img": "media/img/born.webp?v=28298f3e",
+    "uk": "media/uk/born.mp3?v=e64f7a92",
+    "us": "media/us/born.mp3?v=47bdd587"
    },
    "spell": true,
    "avoid": [
@@ -1641,23 +1641,23 @@
     {
      "en": "School life is fun.",
      "zh": "学校生活很有趣。",
-     "audio": "media/sent/7da9d548225c.mp3"
+     "audio": "media/sent/7da9d548225c.mp3?v=398781a1"
     },
     {
      "en": "The flower has a short life.",
      "zh": "这朵花生命很短。",
-     "audio": "media/sent/043a315cde3c.mp3"
+     "audio": "media/sent/043a315cde3c.mp3?v=f5c22b06"
     },
     {
      "en": "We love our family life.",
      "zh": "我们热爱我们的家庭生活。",
-     "audio": "media/sent/45f52acf0c6a.mp3"
+     "audio": "media/sent/45f52acf0c6a.mp3?v=d9862a46"
     }
    ],
    "media": {
-    "img": "media/img/life.webp",
-    "uk": "media/uk/life.mp3",
-    "us": "media/us/life.mp3"
+    "img": "media/img/life.webp?v=ae444c79",
+    "uk": "media/uk/life.mp3?v=6335b898",
+    "us": "media/us/life.mp3?v=4f15e4d0"
    },
    "spell": true,
    "avoid": []
@@ -1690,22 +1690,22 @@
     {
      "en": "My name is Lily.",
      "zh": "我的名字是 Lily。",
-     "audio": "media/sent/f6f087fc9179.mp3"
+     "audio": "media/sent/f6f087fc9179.mp3?v=205caff6"
     },
     {
      "en": "What is your name?",
      "zh": "你叫什么名字？",
-     "audio": "media/sent/620283bb23db.mp3"
+     "audio": "media/sent/620283bb23db.mp3?v=7626e559"
     },
     {
      "en": "The dog's name is Max.",
      "zh": "这只狗的名字是 Max。",
-     "audio": "media/sent/3caedc783f6d.mp3"
+     "audio": "media/sent/3caedc783f6d.mp3?v=61ed6ab5"
     }
    ],
    "media": {
-    "uk": "media/uk/name.mp3",
-    "us": "media/us/name.mp3"
+    "uk": "media/uk/name.mp3?v=4c6e3ddc",
+    "us": "media/us/name.mp3?v=bb91d88d"
    },
    "spell": true,
    "avoid": []
@@ -1739,23 +1739,23 @@
     {
      "en": "My first name is Lily.",
      "zh": "我的名字是 Lily。",
-     "audio": "media/sent/ac3b3439b53a.mp3"
+     "audio": "media/sent/ac3b3439b53a.mp3?v=a9121825"
     },
     {
      "en": "What's your first name?",
      "zh": "你的名字是什么？",
-     "audio": "media/sent/20f70e81d403.mp3"
+     "audio": "media/sent/20f70e81d403.mp3?v=f2a6c648"
     },
     {
      "en": "Write your first name here.",
      "zh": "在这里写下你的名字。",
-     "audio": "media/sent/288bcc8b64e2.mp3"
+     "audio": "media/sent/288bcc8b64e2.mp3?v=9a43532d"
     }
    ],
    "media": {
-    "img": "media/img/first-name.webp",
-    "uk": "media/word/first-name.mp3",
-    "us": "media/word/first-name.mp3"
+    "img": "media/img/first-name.webp?v=5e36247a",
+    "uk": "media/word/first-name.mp3?v=2a8cae3a",
+    "us": "media/word/first-name.mp3?v=2a8cae3a"
    },
    "hook": {
     "kind": "split",
@@ -1795,22 +1795,22 @@
     {
      "en": "Mia's nationality is French.",
      "zh": "Mia 的国籍是法国。",
-     "audio": "media/sent/08270ff0735f.mp3"
+     "audio": "media/sent/08270ff0735f.mp3?v=3c5e608c"
     },
     {
      "en": "Dad writes his nationality on the form.",
      "zh": "爸爸在表格上填写国籍。",
-     "audio": "media/sent/e9dced789e91.mp3"
+     "audio": "media/sent/e9dced789e91.mp3?v=a49dd02e"
     },
     {
      "en": "What is your nationality?",
      "zh": "你是哪国人？",
-     "audio": "media/sent/4f3379a6f811.mp3"
+     "audio": "media/sent/4f3379a6f811.mp3?v=9dcc5614"
     }
    ],
    "media": {
-    "uk": "media/uk/nationality.mp3",
-    "us": "media/us/nationality.mp3"
+    "uk": "media/uk/nationality.mp3?v=ea220c4e",
+    "us": "media/us/nationality.mp3?v=08fffb08"
    },
    "spell": true,
    "hook": {
@@ -1848,23 +1848,23 @@
     {
      "en": "Dad shows his ID to the man.",
      "zh": "爸爸向那个人出示了他的身份证件。",
-     "audio": "media/sent/b9680aa7ae21.mp3"
+     "audio": "media/sent/b9680aa7ae21.mp3?v=fbda7733"
     },
     {
      "en": "You need ID to buy the ticket.",
      "zh": "买票需要身份证件。",
-     "audio": "media/sent/e3761b1bd37a.mp3"
+     "audio": "media/sent/e3761b1bd37a.mp3?v=e37bdba6"
     },
     {
      "en": "Please check my ID.",
      "zh": "请检查我的身份证件。",
-     "audio": "media/sent/420e38474d44.mp3"
+     "audio": "media/sent/420e38474d44.mp3?v=18817100"
     }
    ],
    "media": {
-    "img": "media/img/id.webp",
-    "uk": "media/word/id.mp3",
-    "us": "media/word/id.mp3"
+    "img": "media/img/id.webp?v=1b895d06",
+    "uk": "media/word/id.mp3?v=15737406",
+    "us": "media/word/id.mp3?v=15737406"
    },
    "avoid": [
     "id-card",
@@ -1901,23 +1901,23 @@
     {
      "en": "Mum lost her ID card.",
      "zh": "妈妈弄丢了她的身份证。",
-     "audio": "media/sent/3d3a53f8745e.mp3"
+     "audio": "media/sent/3d3a53f8745e.mp3?v=8fec2ac7"
     },
     {
      "en": "Show me your ID card, please.",
      "zh": "请出示你的身份证。",
-     "audio": "media/sent/5b1e338dcb1c.mp3"
+     "audio": "media/sent/5b1e338dcb1c.mp3?v=2cf10161"
     },
     {
      "en": "The ID card has his name on it.",
      "zh": "身份证上有他的名字。",
-     "audio": "media/sent/a3e5d8cb59cd.mp3"
+     "audio": "media/sent/a3e5d8cb59cd.mp3?v=e515cfff"
     }
    ],
    "media": {
-    "img": "media/img/id-card.webp",
-    "uk": "media/word/id-card.mp3",
-    "us": "media/word/id-card.mp3"
+    "img": "media/img/id-card.webp?v=bf801835",
+    "uk": "media/word/id-card.mp3?v=b14330f3",
+    "us": "media/word/id-card.mp3?v=b14330f3"
    },
    "hook": {
     "kind": "story",
@@ -1961,22 +1961,22 @@
     {
      "en": "The man asks for identification.",
      "zh": "那个人要求出示身份证明。",
-     "audio": "media/sent/01f4d4d91f88.mp3"
+     "audio": "media/sent/01f4d4d91f88.mp3?v=80e2f401"
     },
     {
      "en": "Bring your identification with you.",
      "zh": "带上你的身份证明。",
-     "audio": "media/sent/4c08402594e3.mp3"
+     "audio": "media/sent/4c08402594e3.mp3?v=afee5492"
     },
     {
      "en": "She shows her identification to the police.",
      "zh": "她向警察出示她的身份证明。",
-     "audio": "media/sent/4088c3479e98.mp3"
+     "audio": "media/sent/4088c3479e98.mp3?v=0d0aae7f"
     }
    ],
    "media": {
-    "uk": "media/uk/identification.mp3",
-    "us": "media/us/identification.mp3"
+    "uk": "media/uk/identification.mp3?v=11caf4b8",
+    "us": "media/us/identification.mp3?v=ad0db246"
    },
    "avoid": [
     "id",
@@ -2012,23 +2012,23 @@
     {
      "en": "Tom wants to grow up fast.",
      "zh": "Tom 想快点长大。",
-     "audio": "media/sent/80f110146f5b.mp3"
+     "audio": "media/sent/80f110146f5b.mp3?v=077ff97b"
     },
     {
      "en": "Children grow up quickly.",
      "zh": "孩子们长得很快。",
-     "audio": "media/sent/86a9329f89af.mp3"
+     "audio": "media/sent/86a9329f89af.mp3?v=c0ef70e5"
     },
     {
      "en": "I will grow up to be tall.",
      "zh": "我长大后会很高。",
-     "audio": "media/sent/b2897c4cb428.mp3"
+     "audio": "media/sent/b2897c4cb428.mp3?v=0033dcd6"
     }
    ],
    "media": {
-    "img": "media/img/grow-up.webp",
-    "uk": "media/word/grow-up.mp3",
-    "us": "media/word/grow-up.mp3"
+    "img": "media/img/grow-up.webp?v=293b25b3",
+    "uk": "media/word/grow-up.mp3?v=9d865918",
+    "us": "media/word/grow-up.mp3?v=9d865918"
    },
    "hook": {
     "kind": "split",
@@ -2066,23 +2066,23 @@
     {
      "en": "Mia's sister will get married in June.",
      "zh": "Mia 的姐姐六月要结婚了。",
-     "audio": "media/sent/306a07a05dbf.mp3"
+     "audio": "media/sent/306a07a05dbf.mp3?v=ded9e6bb"
     },
     {
      "en": "They want to get married next year.",
      "zh": "他们想明年结婚。",
-     "audio": "media/sent/ba6896e37c2c.mp3"
+     "audio": "media/sent/ba6896e37c2c.mp3?v=9fc75458"
     },
     {
      "en": "Our neighbours are getting married.",
      "zh": "我们的邻居要结婚了。",
-     "audio": "media/sent/33535013d189.mp3"
+     "audio": "media/sent/33535013d189.mp3?v=cbe1d213"
     }
    ],
    "media": {
-    "img": "media/img/get-married.webp",
-    "uk": "media/word/get-married.mp3",
-    "us": "media/word/get-married.mp3"
+    "img": "media/img/get-married.webp?v=1cda9c41",
+    "uk": "media/word/get-married.mp3?v=278c4337",
+    "us": "media/word/get-married.mp3?v=278c4337"
    },
    "hook": {
     "kind": "split",
@@ -2122,23 +2122,23 @@
     {
      "en": "Dad runs to get fit.",
      "zh": "爸爸跑步来保持健康。",
-     "audio": "media/sent/2eacad33b9c3.mp3"
+     "audio": "media/sent/2eacad33b9c3.mp3?v=ffd9a2a6"
     },
     {
      "en": "We swim to get fit.",
      "zh": "我们游泳来健身。",
-     "audio": "media/sent/a66801a6f140.mp3"
+     "audio": "media/sent/a66801a6f140.mp3?v=70926dc9"
     },
     {
      "en": "Exercise helps you get fit.",
      "zh": "运动帮助你保持健康。",
-     "audio": "media/sent/541c27ea3beb.mp3"
+     "audio": "media/sent/541c27ea3beb.mp3?v=57b740d3"
     }
    ],
    "media": {
-    "img": "media/img/get-fit.webp",
-    "uk": "media/word/get-fit.mp3",
-    "us": "media/word/get-fit.mp3"
+    "img": "media/img/get-fit.webp?v=f221bb30",
+    "uk": "media/word/get-fit.mp3?v=515e72e0",
+    "us": "media/word/get-fit.mp3?v=515e72e0"
    },
    "hook": {
     "kind": "split",
@@ -2178,23 +2178,23 @@
     {
      "en": "Mum has a career in nursing.",
      "zh": "妈妈从事护理职业。",
-     "audio": "media/sent/c35fe839c2b2.mp3"
+     "audio": "media/sent/c35fe839c2b2.mp3?v=11bc994c"
     },
     {
      "en": "Dad loves his career in the office.",
      "zh": "爸爸喜欢他在办公室的职业。",
-     "audio": "media/sent/cf748349391c.mp3"
+     "audio": "media/sent/cf748349391c.mp3?v=6c183900"
     },
     {
      "en": "She chose a career in teaching.",
      "zh": "她选择了教书这个职业。",
-     "audio": "media/sent/c274d4aa3668.mp3"
+     "audio": "media/sent/c274d4aa3668.mp3?v=0a38778e"
     }
    ],
    "media": {
-    "img": "media/img/career.webp",
-    "uk": "media/uk/career.mp3",
-    "us": "media/us/career.mp3"
+    "img": "media/img/career.webp?v=20f3a401",
+    "uk": "media/uk/career.mp3?v=cedc571f",
+    "us": "media/us/career.mp3?v=60787e69"
    },
    "hook": {
     "kind": "story",
@@ -2231,23 +2231,23 @@
     {
      "en": "The show was a big success.",
      "zh": "这个演出很成功。",
-     "audio": "media/sent/d5fadabac820.mp3"
+     "audio": "media/sent/d5fadabac820.mp3?v=4c983876"
     },
     {
      "en": "Her hard work brings success.",
      "zh": "她的努力带来了成功。",
-     "audio": "media/sent/c6311404a99a.mp3"
+     "audio": "media/sent/c6311404a99a.mp3?v=738cdd49"
     },
     {
      "en": "The party was a great success.",
      "zh": "聚会非常成功。",
-     "audio": "media/sent/f9fe16643d4b.mp3"
+     "audio": "media/sent/f9fe16643d4b.mp3?v=a98e6f7c"
     }
    ],
    "media": {
-    "img": "media/img/success.webp",
-    "uk": "media/uk/success.mp3",
-    "us": "media/us/success.mp3"
+    "img": "media/img/success.webp?v=5d36fcb5",
+    "uk": "media/uk/success.mp3?v=63339f3e",
+    "us": "media/us/success.mp3?v=3cbced64"
    },
    "avoid": []
   },
@@ -2282,22 +2282,22 @@
     {
      "en": "Dad has lots of experience.",
      "zh": "爸爸有很多经验。",
-     "audio": "media/sent/33df5d1df38f.mp3"
+     "audio": "media/sent/33df5d1df38f.mp3?v=e89bb3a9"
     },
     {
      "en": "It was a good experience.",
      "zh": "这是一次很好的经历。",
-     "audio": "media/sent/22ae4986efa6.mp3"
+     "audio": "media/sent/22ae4986efa6.mp3?v=bdf37683"
     },
     {
      "en": "She learns from her experience.",
      "zh": "她从她的经验中学习。",
-     "audio": "media/sent/0a25370ef485.mp3"
+     "audio": "media/sent/0a25370ef485.mp3?v=28ca598e"
     }
    ],
    "media": {
-    "uk": "media/uk/experience.mp3",
-    "us": "media/us/experience.mp3"
+    "uk": "media/uk/experience.mp3?v=734f1b56",
+    "us": "media/us/experience.mp3?v=cb06f52e"
    },
    "avoid": []
   },
@@ -2331,23 +2331,23 @@
     {
      "en": "I have a good memory.",
      "zh": "我记性很好。",
-     "audio": "media/sent/6b07137b4145.mp3"
+     "audio": "media/sent/6b07137b4145.mp3?v=d8e82b40"
     },
     {
      "en": "This is my favourite memory.",
      "zh": "这是我最喜欢的回忆。",
-     "audio": "media/sent/b39d67b39f33.mp3"
+     "audio": "media/sent/b39d67b39f33.mp3?v=38409fc4"
     },
     {
      "en": "Grandma has a bad memory today.",
      "zh": "奶奶今天记性不好。",
-     "audio": "media/sent/7bb88f561c9a.mp3"
+     "audio": "media/sent/7bb88f561c9a.mp3?v=a0770076"
     }
    ],
    "media": {
-    "img": "media/img/memory.webp",
-    "uk": "media/uk/memory.mp3",
-    "us": "media/us/memory.mp3"
+    "img": "media/img/memory.webp?v=670f5b57",
+    "uk": "media/uk/memory.mp3?v=db334872",
+    "us": "media/us/memory.mp3?v=aa807398"
    },
    "avoid": []
   },
@@ -2380,22 +2380,22 @@
     {
      "en": "Tell me about your feelings.",
      "zh": "告诉我你的感受。",
-     "audio": "media/sent/d4ea9e410874.mp3"
+     "audio": "media/sent/d4ea9e410874.mp3?v=99f3807d"
     },
     {
      "en": "Lily draws her feelings.",
      "zh": "Lily 画出她的感受。",
-     "audio": "media/sent/0cbee5ded030.mp3"
+     "audio": "media/sent/0cbee5ded030.mp3?v=58c9c822"
     },
     {
      "en": "He has strong feelings for Max.",
      "zh": "他对 Max 有强烈的感情。",
-     "audio": "media/sent/e38c655d873c.mp3"
+     "audio": "media/sent/e38c655d873c.mp3?v=96b4db7f"
     }
    ],
    "media": {
-    "uk": "media/word/feelings.mp3",
-    "us": "media/word/feelings.mp3"
+    "uk": "media/word/feelings.mp3?v=ac40c4c6",
+    "us": "media/word/feelings.mp3?v=ac40c4c6"
    },
    "hook": {
     "kind": "affix",
@@ -2431,23 +2431,23 @@
     {
      "en": "Tom hurt his toe.",
      "zh": "Tom 伤到了他的脚趾。",
-     "audio": "media/sent/23c695236554.mp3"
+     "audio": "media/sent/23c695236554.mp3?v=2384b901"
     },
     {
      "en": "My left toe is red.",
      "zh": "我的左脚趾红了。",
-     "audio": "media/sent/b88bf6d91c06.mp3"
+     "audio": "media/sent/b88bf6d91c06.mp3?v=3966c4ca"
     },
     {
      "en": "Move your toes!",
      "zh": "动动你的脚趾！",
-     "audio": "media/sent/417119fd0fce.mp3"
+     "audio": "media/sent/417119fd0fce.mp3?v=6891deab"
     }
    ],
    "media": {
-    "img": "media/img/toe.webp",
-    "uk": "media/uk/toe.mp3",
-    "us": "media/us/toe.mp3"
+    "img": "media/img/toe.webp?v=2f679663",
+    "uk": "media/uk/toe.mp3?v=8249fe62",
+    "us": "media/us/toe.mp3?v=1ab99920"
    },
    "hook": {
     "kind": "contrast",
@@ -2486,23 +2486,23 @@
     {
      "en": "Open your mouth wide.",
      "zh": "把嘴张大。",
-     "audio": "media/sent/f6fd03535044.mp3"
+     "audio": "media/sent/f6fd03535044.mp3?v=7f129e04"
     },
     {
      "en": "Max has a ball in his mouth.",
      "zh": "Max 嘴里叼着一个球。",
-     "audio": "media/sent/936abdeba06d.mp3"
+     "audio": "media/sent/936abdeba06d.mp3?v=0628f6ca"
     },
     {
      "en": "Don't talk with your mouth full.",
      "zh": "嘴里有东西时别说话。",
-     "audio": "media/sent/ab9a2820f975.mp3"
+     "audio": "media/sent/ab9a2820f975.mp3?v=fd24a226"
     }
    ],
    "media": {
-    "img": "media/img/mouth.webp",
-    "uk": "media/uk/mouth.mp3",
-    "us": "media/us/mouth.mp3"
+    "img": "media/img/mouth.webp?v=d29bea55",
+    "uk": "media/uk/mouth.mp3?v=0dbbd93d",
+    "us": "media/us/mouth.mp3?v=48c5a261"
    },
    "spell": true,
    "avoid": [
@@ -2539,23 +2539,23 @@
     {
      "en": "Mum has a headache.",
      "zh": "妈妈头疼。",
-     "audio": "media/sent/d432560e0be3.mp3"
+     "audio": "media/sent/d432560e0be3.mp3?v=02328ca3"
     },
     {
      "en": "The noise gives me a headache.",
      "zh": "噪音让我头痛。",
-     "audio": "media/sent/45718b4eedbb.mp3"
+     "audio": "media/sent/45718b4eedbb.mp3?v=5f806d0f"
     },
     {
      "en": "Take this for your headache.",
      "zh": "吃这个治你的头痛。",
-     "audio": "media/sent/32a9a09644fa.mp3"
+     "audio": "media/sent/32a9a09644fa.mp3?v=ae9684a4"
     }
    ],
    "media": {
-    "img": "media/img/headache.webp",
-    "uk": "media/uk/headache.mp3",
-    "us": "media/us/headache.mp3"
+    "img": "media/img/headache.webp?v=430002d8",
+    "uk": "media/uk/headache.mp3?v=141f0c69",
+    "us": "media/us/headache.mp3?v=426222fe"
    },
    "hook": {
     "kind": "split",

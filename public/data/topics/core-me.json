@@ -29,22 +29,22 @@
     {
      "en": "I like eating ice cream.",
      "zh": "我喜欢吃冰淇淋。",
-     "audio": "media/sent/ef44dfdee1e4.mp3"
+     "audio": "media/sent/ef44dfdee1e4.mp3?v=1cfe31bb"
     },
     {
      "en": "I am nine years old.",
      "zh": "我九岁了。",
-     "audio": "media/sent/1acce5c0c80a.mp3"
+     "audio": "media/sent/1acce5c0c80a.mp3?v=77b74271"
     },
     {
      "en": "I can ride my bike.",
      "zh": "我会骑自行车。",
-     "audio": "media/sent/5d936ceb73a9.mp3"
+     "audio": "media/sent/5d936ceb73a9.mp3?v=0191933a"
     }
    ],
    "media": {
-    "uk": "media/word/i.mp3",
-    "us": "media/word/i.mp3"
+    "uk": "media/word/i.mp3?v=0178d105",
+    "us": "media/word/i.mp3?v=0178d105"
    },
    "avoid": []
   },
@@ -76,22 +76,22 @@
     {
      "en": "Tom gives me a toy.",
      "zh": "Tom 给我一个玩具。",
-     "audio": "media/sent/78f69ef5c14c.mp3"
+     "audio": "media/sent/78f69ef5c14c.mp3?v=711674bf"
     },
     {
      "en": "Mum helps me with my homework.",
      "zh": "妈妈帮我做作业。",
-     "audio": "media/sent/bc873a2f4c5b.mp3"
+     "audio": "media/sent/bc873a2f4c5b.mp3?v=acf68cfb"
     },
     {
      "en": "Max runs after me in the park.",
      "zh": "Max 在公园里追我。",
-     "audio": "media/sent/e5af04ebc4e4.mp3"
+     "audio": "media/sent/e5af04ebc4e4.mp3?v=deefe0ab"
     }
    ],
    "media": {
-    "uk": "media/word/me.mp3",
-    "us": "media/word/me.mp3"
+    "uk": "media/word/me.mp3?v=bcb50bdb",
+    "us": "media/word/me.mp3?v=bcb50bdb"
    },
    "avoid": []
   },
@@ -123,22 +123,22 @@
     {
      "en": "This is my red bag.",
      "zh": "这是我的红书包。",
-     "audio": "media/sent/236cdc4b8bf9.mp3"
+     "audio": "media/sent/236cdc4b8bf9.mp3?v=94a120b0"
     },
     {
      "en": "My brother Tom likes football.",
      "zh": "我弟弟 Tom 喜欢足球。",
-     "audio": "media/sent/1664b5dee5ad.mp3"
+     "audio": "media/sent/1664b5dee5ad.mp3?v=0cf25bc5"
     },
     {
      "en": "I love my family.",
      "zh": "我爱我的家人。",
-     "audio": "media/sent/84a3624de3d3.mp3"
+     "audio": "media/sent/84a3624de3d3.mp3?v=08ffdbf5"
     }
    ],
    "media": {
-    "uk": "media/uk/my.mp3",
-    "us": "media/us/my.mp3"
+    "uk": "media/uk/my.mp3?v=f3bfd1a6",
+    "us": "media/us/my.mp3?v=43cc095e"
    },
    "spell": true,
    "avoid": []
@@ -171,22 +171,22 @@
     {
      "en": "That bear is mine.",
      "zh": "那只熊是我的。",
-     "audio": "media/sent/9595556810a2.mp3"
+     "audio": "media/sent/9595556810a2.mp3?v=a7b2e524"
     },
     {
      "en": "This blue pen is mine.",
      "zh": "这支蓝笔是我的。",
-     "audio": "media/sent/40f287192fb4.mp3"
+     "audio": "media/sent/40f287192fb4.mp3?v=da01e431"
     },
     {
      "en": "The big ball is mine!",
      "zh": "那个大球是我的！",
-     "audio": "media/sent/ff6af8a35896.mp3"
+     "audio": "media/sent/ff6af8a35896.mp3?v=4fae56bf"
     }
    ],
    "media": {
-    "uk": "media/word/mine.mp3",
-    "us": "media/word/mine.mp3"
+    "uk": "media/word/mine.mp3?v=98483a4e",
+    "us": "media/word/mine.mp3?v=98483a4e"
    },
    "hook": {
     "kind": "contrast",
@@ -223,22 +223,22 @@
     {
      "en": "I tie my shoes myself.",
      "zh": "我自己系鞋带。",
-     "audio": "media/sent/d0224eb6ff19.mp3"
+     "audio": "media/sent/d0224eb6ff19.mp3?v=d4064b72"
     },
     {
      "en": "I made this card myself.",
      "zh": "这张卡片是我自己做的。",
-     "audio": "media/sent/d31d872f5647.mp3"
+     "audio": "media/sent/d31d872f5647.mp3?v=c4d54b3b"
     },
     {
      "en": "I washed my hands myself.",
      "zh": "我自己洗了手。",
-     "audio": "media/sent/824f8d15fd9a.mp3"
+     "audio": "media/sent/824f8d15fd9a.mp3?v=57c4126b"
     }
    ],
    "media": {
-    "uk": "media/uk/myself.mp3",
-    "us": "media/us/myself.mp3"
+    "uk": "media/uk/myself.mp3?v=abdc24a0",
+    "us": "media/us/myself.mp3?v=f0957126"
    },
    "hook": {
     "kind": "split",
@@ -274,22 +274,22 @@
     {
      "en": "Do you like apples?",
      "zh": "你喜欢苹果吗？",
-     "audio": "media/sent/22f1d7200038.mp3"
+     "audio": "media/sent/22f1d7200038.mp3?v=30977b70"
     },
     {
      "en": "You are my best friend.",
      "zh": "你是我最好的朋友。",
-     "audio": "media/sent/13319a76b0e9.mp3"
+     "audio": "media/sent/13319a76b0e9.mp3?v=62757c27"
     },
     {
      "en": "Can you help me?",
      "zh": "你能帮我吗？",
-     "audio": "media/sent/994e5c5312ca.mp3"
+     "audio": "media/sent/994e5c5312ca.mp3?v=8fd4907d"
     }
    ],
    "media": {
-    "uk": "media/word/you.mp3",
-    "us": "media/word/you.mp3"
+    "uk": "media/word/you.mp3?v=2ebb918e",
+    "us": "media/word/you.mp3?v=2ebb918e"
    },
    "avoid": []
   },
@@ -321,22 +321,22 @@
     {
      "en": "Your hair is wet.",
      "zh": "你的头发湿了。",
-     "audio": "media/sent/7990f7bd1ae5.mp3"
+     "audio": "media/sent/7990f7bd1ae5.mp3?v=fb23d6e5"
     },
     {
      "en": "Is this your book?",
      "zh": "这是你的书吗？",
-     "audio": "media/sent/35363c95037e.mp3"
+     "audio": "media/sent/35363c95037e.mp3?v=5529396e"
     },
     {
      "en": "Your dog is big.",
      "zh": "你的狗很大。",
-     "audio": "media/sent/6dddec6888c6.mp3"
+     "audio": "media/sent/6dddec6888c6.mp3?v=40f48928"
     }
    ],
    "media": {
-    "uk": "media/uk/your.mp3",
-    "us": "media/us/your.mp3"
+    "uk": "media/uk/your.mp3?v=67e9ea38",
+    "us": "media/us/your.mp3?v=70e36b36"
    },
    "spell": true,
    "hook": {
@@ -373,22 +373,22 @@
     {
      "en": "This umbrella is yours.",
      "zh": "这把伞是你的。",
-     "audio": "media/sent/218a0f1c8d21.mp3"
+     "audio": "media/sent/218a0f1c8d21.mp3?v=4ff412d0"
     },
     {
      "en": "The red bike is yours.",
      "zh": "那辆红自行车是你的。",
-     "audio": "media/sent/dd6f5e430cdd.mp3"
+     "audio": "media/sent/dd6f5e430cdd.mp3?v=288936de"
     },
     {
      "en": "Is that pencil case yours?",
      "zh": "那个铅笔盒是你的吗？",
-     "audio": "media/sent/cb6392db8676.mp3"
+     "audio": "media/sent/cb6392db8676.mp3?v=09e7d359"
     }
    ],
    "media": {
-    "uk": "media/word/yours.mp3",
-    "us": "media/word/yours.mp3"
+    "uk": "media/word/yours.mp3?v=ee9184b4",
+    "us": "media/word/yours.mp3?v=ee9184b4"
    },
    "hook": {
     "kind": "affix",
@@ -425,22 +425,22 @@
     {
      "en": "Wash your hands yourself.",
      "zh": "你自己洗手。",
-     "audio": "media/sent/bd73130df7e5.mp3"
+     "audio": "media/sent/bd73130df7e5.mp3?v=7f8dd178"
     },
     {
      "en": "Draw a picture yourself.",
      "zh": "你自己画一幅画。",
-     "audio": "media/sent/ea97b9264046.mp3"
+     "audio": "media/sent/ea97b9264046.mp3?v=0d83a87f"
     },
     {
      "en": "Clean your room yourself.",
      "zh": "你自己打扫房间。",
-     "audio": "media/sent/e0332b537185.mp3"
+     "audio": "media/sent/e0332b537185.mp3?v=c53550b7"
     }
    ],
    "media": {
-    "uk": "media/uk/yourself.mp3",
-    "us": "media/us/yourself.mp3"
+    "uk": "media/uk/yourself.mp3?v=fbd7e79b",
+    "us": "media/us/yourself.mp3?v=189e32f3"
    },
    "spell": true,
    "hook": {
@@ -477,22 +477,22 @@
     {
      "en": "He is my brother Tom.",
      "zh": "他是我弟弟 Tom。",
-     "audio": "media/sent/976e4800659e.mp3"
+     "audio": "media/sent/976e4800659e.mp3?v=1fd988ad"
     },
     {
      "en": "He plays football well.",
      "zh": "他足球踢得很好。",
-     "audio": "media/sent/7d0e18638c28.mp3"
+     "audio": "media/sent/7d0e18638c28.mp3?v=8c7d326c"
     },
     {
      "en": "He likes reading books.",
      "zh": "他喜欢看书。",
-     "audio": "media/sent/ce0b6bfe6cdf.mp3"
+     "audio": "media/sent/ce0b6bfe6cdf.mp3?v=26b0bf26"
     }
    ],
    "media": {
-    "uk": "media/word/he.mp3",
-    "us": "media/word/he.mp3"
+    "uk": "media/word/he.mp3?v=ce1ba2f5",
+    "us": "media/word/he.mp3?v=ce1ba2f5"
    },
    "avoid": []
   },
@@ -524,22 +524,22 @@
     {
      "en": "I give him a gift.",
      "zh": "我给他一个礼物。",
-     "audio": "media/sent/89071df19c8c.mp3"
+     "audio": "media/sent/89071df19c8c.mp3?v=eb46f425"
     },
     {
      "en": "Mum calls him for dinner.",
      "zh": "妈妈叫他吃晚饭。",
-     "audio": "media/sent/f9d5910821d1.mp3"
+     "audio": "media/sent/f9d5910821d1.mp3?v=10d1014b"
     },
     {
      "en": "Do you know him?",
      "zh": "你认识他吗？",
-     "audio": "media/sent/f3324a18f83e.mp3"
+     "audio": "media/sent/f3324a18f83e.mp3?v=ba0812d8"
     }
    ],
    "media": {
-    "uk": "media/uk/him.mp3",
-    "us": "media/us/him.mp3"
+    "uk": "media/uk/him.mp3?v=8f4424ab",
+    "us": "media/us/him.mp3?v=e74858a6"
    },
    "spell": true,
    "hook": {
@@ -578,22 +578,22 @@
     {
      "en": "He wears his cap.",
      "zh": "他戴着他的帽子。",
-     "audio": "media/sent/24a9fedd3ba5.mp3"
+     "audio": "media/sent/24a9fedd3ba5.mp3?v=00736df0"
     },
     {
      "en": "This is his new bike.",
      "zh": "这是他的新自行车。",
-     "audio": "media/sent/256d8a4f5e5a.mp3"
+     "audio": "media/sent/256d8a4f5e5a.mp3?v=f992b76f"
     },
     {
      "en": "The blue bag is his.",
      "zh": "那个蓝书包是他的。",
-     "audio": "media/sent/e567f9ea981b.mp3"
+     "audio": "media/sent/e567f9ea981b.mp3?v=ad57500b"
     }
    ],
    "media": {
-    "uk": "media/word/his.mp3",
-    "us": "media/word/his.mp3"
+    "uk": "media/word/his.mp3?v=4d476559",
+    "us": "media/word/his.mp3?v=4d476559"
    },
    "hook": {
     "kind": "contrast",
@@ -630,22 +630,22 @@
     {
      "en": "Tom makes a sandwich himself.",
      "zh": "Tom 自己做三明治。",
-     "audio": "media/sent/d4fa247134c7.mp3"
+     "audio": "media/sent/d4fa247134c7.mp3?v=b293222f"
     },
     {
      "en": "He gets dressed himself.",
      "zh": "他自己穿衣服。",
-     "audio": "media/sent/4e0cd2f0cb40.mp3"
+     "audio": "media/sent/4e0cd2f0cb40.mp3?v=ae1b2291"
     },
     {
      "en": "He fixed his bike himself.",
      "zh": "他自己修好了自行车。",
-     "audio": "media/sent/75610ceea0a6.mp3"
+     "audio": "media/sent/75610ceea0a6.mp3?v=900698ea"
     }
    ],
    "media": {
-    "uk": "media/word/himself.mp3",
-    "us": "media/word/himself.mp3"
+    "uk": "media/word/himself.mp3?v=70bd6285",
+    "us": "media/word/himself.mp3?v=70bd6285"
    },
    "hook": {
     "kind": "split",
@@ -681,22 +681,22 @@
     {
      "en": "She is my teacher.",
      "zh": "她是我的老师。",
-     "audio": "media/sent/116f313b433a.mp3"
+     "audio": "media/sent/116f313b433a.mp3?v=ce444d9f"
     },
     {
      "en": "She sings very well.",
      "zh": "她唱歌很好听。",
-     "audio": "media/sent/36acf55a1e5c.mp3"
+     "audio": "media/sent/36acf55a1e5c.mp3?v=0076048a"
     },
     {
      "en": "She lives in a big house.",
      "zh": "她住在一个大房子里。",
-     "audio": "media/sent/f7ff8205d543.mp3"
+     "audio": "media/sent/f7ff8205d543.mp3?v=d3dae076"
     }
    ],
    "media": {
-    "uk": "media/word/she.mp3",
-    "us": "media/word/she.mp3"
+    "uk": "media/word/she.mp3?v=4e6e871c",
+    "us": "media/word/she.mp3?v=4e6e871c"
    },
    "hook": {
     "kind": "contrast",
@@ -734,22 +734,22 @@
     {
      "en": "I see her red dress.",
      "zh": "我看见她的红裙子。",
-     "audio": "media/sent/bf4bc511633d.mp3"
+     "audio": "media/sent/bf4bc511633d.mp3?v=8123818f"
     },
     {
      "en": "Tom loves his mum. He likes her.",
      "zh": "Tom 爱他的妈妈。他喜欢她。",
-     "audio": "media/sent/dc894482c912.mp3"
+     "audio": "media/sent/dc894482c912.mp3?v=7a640266"
     },
     {
      "en": "Her hair is black.",
      "zh": "她的头发是黑色的。",
-     "audio": "media/sent/739bcf712e82.mp3"
+     "audio": "media/sent/739bcf712e82.mp3?v=1d68dc30"
     }
    ],
    "media": {
-    "uk": "media/uk/her.mp3",
-    "us": "media/us/her.mp3"
+    "uk": "media/uk/her.mp3?v=54b2f04d",
+    "us": "media/us/her.mp3?v=f6bc043c"
    },
    "spell": true,
    "hook": {
@@ -786,22 +786,22 @@
     {
      "en": "The paint is hers.",
      "zh": "那些颜料是她的。",
-     "audio": "media/sent/92761f3971f0.mp3"
+     "audio": "media/sent/92761f3971f0.mp3?v=4d84ab92"
     },
     {
      "en": "This cat is hers.",
      "zh": "这只猫是她的。",
-     "audio": "media/sent/d2f58147bc69.mp3"
+     "audio": "media/sent/d2f58147bc69.mp3?v=d961ef29"
     },
     {
      "en": "The yellow scarf is hers.",
      "zh": "那条黄围巾是她的。",
-     "audio": "media/sent/a8d8c41236c5.mp3"
+     "audio": "media/sent/a8d8c41236c5.mp3?v=8dc0c1af"
     }
    ],
    "media": {
-    "uk": "media/word/hers.mp3",
-    "us": "media/word/hers.mp3"
+    "uk": "media/word/hers.mp3?v=db8f90c4",
+    "us": "media/word/hers.mp3?v=db8f90c4"
    },
    "hook": {
     "kind": "affix",
@@ -838,22 +838,22 @@
     {
      "en": "Lily ties her shoes herself.",
      "zh": "Lily 自己系鞋带。",
-     "audio": "media/sent/c189f0f97a78.mp3"
+     "audio": "media/sent/c189f0f97a78.mp3?v=4f6ed9df"
     },
     {
      "en": "She cooked dinner herself.",
      "zh": "她自己做了晚饭。",
-     "audio": "media/sent/e32289ec2ad9.mp3"
+     "audio": "media/sent/e32289ec2ad9.mp3?v=b65d5515"
     },
     {
      "en": "She went to the shop herself.",
      "zh": "她自己去商店了。",
-     "audio": "media/sent/447a3f515a55.mp3"
+     "audio": "media/sent/447a3f515a55.mp3?v=d993fbbd"
     }
    ],
    "media": {
-    "uk": "media/word/herself.mp3",
-    "us": "media/word/herself.mp3"
+    "uk": "media/word/herself.mp3?v=0203ae71",
+    "us": "media/word/herself.mp3?v=0203ae71"
    },
    "hook": {
     "kind": "split",
@@ -891,22 +891,22 @@
     {
      "en": "Look at the cat. It is black.",
      "zh": "看那只猫。它是黑色的。",
-     "audio": "media/sent/f11cae721d67.mp3"
+     "audio": "media/sent/f11cae721d67.mp3?v=0730f2c4"
     },
     {
      "en": "I like this song. It is fun.",
      "zh": "我喜欢这首歌。它很有趣。",
-     "audio": "media/sent/a3b9f2a8ebd4.mp3"
+     "audio": "media/sent/a3b9f2a8ebd4.mp3?v=92f5329d"
     },
     {
      "en": "It is raining today.",
      "zh": "今天在下雨。",
-     "audio": "media/sent/2b35e75b530e.mp3"
+     "audio": "media/sent/2b35e75b530e.mp3?v=dc9f77db"
     }
    ],
    "media": {
-    "uk": "media/uk/it.mp3",
-    "us": "media/us/it.mp3"
+    "uk": "media/uk/it.mp3?v=412bd117",
+    "us": "media/us/it.mp3?v=0e6d8b6d"
    },
    "spell": true,
    "avoid": []
@@ -939,22 +939,22 @@
     {
      "en": "The bird opens its wings.",
      "zh": "小鸟张开它的翅膀。",
-     "audio": "media/sent/81045a382606.mp3"
+     "audio": "media/sent/81045a382606.mp3?v=98560fae"
     },
     {
      "en": "The tree has green leaves. Its leaves are big.",
      "zh": "这棵树有绿叶。它的叶子很大。",
-     "audio": "media/sent/725037a7a9e8.mp3"
+     "audio": "media/sent/725037a7a9e8.mp3?v=59b63118"
     },
     {
      "en": "Open the box. Look at its colours.",
      "zh": "打开盒子。看看它的颜色。",
-     "audio": "media/sent/edcdb95c8faf.mp3"
+     "audio": "media/sent/edcdb95c8faf.mp3?v=5ff4bebf"
     }
    ],
    "media": {
-    "uk": "media/word/its.mp3",
-    "us": "media/word/its.mp3"
+    "uk": "media/word/its.mp3?v=5c308b07",
+    "us": "media/word/its.mp3?v=5c308b07"
    },
    "hook": {
     "kind": "affix",
@@ -991,22 +991,22 @@
     {
      "en": "The cat washes itself after dinner.",
      "zh": "猫吃完饭后给自己洗脸。",
-     "audio": "media/sent/7b6bfd824c9d.mp3"
+     "audio": "media/sent/7b6bfd824c9d.mp3?v=87b24b22"
     },
     {
      "en": "The door closed by itself.",
      "zh": "门自己关上了。",
-     "audio": "media/sent/afe69df3fc82.mp3"
+     "audio": "media/sent/afe69df3fc82.mp3?v=9e9ab05d"
     },
     {
      "en": "The toy car moves by itself.",
      "zh": "玩具车自己会动。",
-     "audio": "media/sent/cff8c83433ad.mp3"
+     "audio": "media/sent/cff8c83433ad.mp3?v=f45c5116"
     }
    ],
    "media": {
-    "uk": "media/word/itself.mp3",
-    "us": "media/word/itself.mp3"
+    "uk": "media/word/itself.mp3?v=7b54735a",
+    "us": "media/word/itself.mp3?v=7b54735a"
    },
    "hook": {
     "kind": "split",
@@ -1042,22 +1042,22 @@
     {
      "en": "We live in a small house.",
      "zh": "我们住在一个小房子里。",
-     "audio": "media/sent/658f97992f10.mp3"
+     "audio": "media/sent/658f97992f10.mp3?v=5b0bacc2"
     },
     {
      "en": "We are going to the park.",
      "zh": "我们要去公园。",
-     "audio": "media/sent/6a2eddc9574d.mp3"
+     "audio": "media/sent/6a2eddc9574d.mp3?v=7009d48f"
     },
     {
      "en": "We love ice cream.",
      "zh": "我们喜欢冰淇淋。",
-     "audio": "media/sent/1a81c5b7b352.mp3"
+     "audio": "media/sent/1a81c5b7b352.mp3?v=af46abd3"
     }
    ],
    "media": {
-    "uk": "media/word/we.mp3",
-    "us": "media/word/we.mp3"
+    "uk": "media/word/we.mp3?v=4c9209dd",
+    "us": "media/word/we.mp3?v=4c9209dd"
    },
    "avoid": []
   },
@@ -1089,22 +1089,22 @@
     {
      "en": "Grandma tells us a story.",
      "zh": "奶奶给我们讲故事。",
-     "audio": "media/sent/32f5f36c6564.mp3"
+     "audio": "media/sent/32f5f36c6564.mp3?v=be316e83"
     },
     {
      "en": "Max follows us to school.",
      "zh": "Max 跟着我们去学校。",
-     "audio": "media/sent/4a4b0912c710.mp3"
+     "audio": "media/sent/4a4b0912c710.mp3?v=def63792"
     },
     {
      "en": "Mum buys us new shoes.",
      "zh": "妈妈给我们买新鞋。",
-     "audio": "media/sent/2e64be49c2d9.mp3"
+     "audio": "media/sent/2e64be49c2d9.mp3?v=ab505d7e"
     }
    ],
    "media": {
-    "uk": "media/word/us.mp3",
-    "us": "media/word/us.mp3"
+    "uk": "media/word/us.mp3?v=578c0ae2",
+    "us": "media/word/us.mp3?v=578c0ae2"
    },
    "avoid": []
   },
@@ -1136,22 +1136,22 @@
     {
      "en": "This is our dog, Max.",
      "zh": "这是我们的狗，Max。",
-     "audio": "media/sent/dacc1f9ef669.mp3"
+     "audio": "media/sent/dacc1f9ef669.mp3?v=4396eb5f"
     },
     {
      "en": "Our house has a big garden.",
      "zh": "我们的房子有一个大花园。",
-     "audio": "media/sent/9d24c30165c9.mp3"
+     "audio": "media/sent/9d24c30165c9.mp3?v=26665c62"
     },
     {
      "en": "We clean our classroom every day.",
      "zh": "我们每天打扫教室。",
-     "audio": "media/sent/0dae8665e451.mp3"
+     "audio": "media/sent/0dae8665e451.mp3?v=7370f466"
     }
    ],
    "media": {
-    "uk": "media/uk/our.mp3",
-    "us": "media/us/our.mp3"
+    "uk": "media/uk/our.mp3?v=0ffebf07",
+    "us": "media/us/our.mp3?v=5af96ed6"
    },
    "spell": true,
    "hook": {
@@ -1188,22 +1188,22 @@
     {
      "en": "The red bike is ours.",
      "zh": "那辆红色的自行车是我们的。",
-     "audio": "media/sent/9f1d222244e7.mp3"
+     "audio": "media/sent/9f1d222244e7.mp3?v=0dd860dd"
     },
     {
      "en": "That house with the blue door is ours.",
      "zh": "那个蓝门的房子是我们的。",
-     "audio": "media/sent/31b6700d8bbc.mp3"
+     "audio": "media/sent/31b6700d8bbc.mp3?v=29467106"
     },
     {
      "en": "These toys are ours.",
      "zh": "这些玩具是我们的。",
-     "audio": "media/sent/84d48af9e2f2.mp3"
+     "audio": "media/sent/84d48af9e2f2.mp3?v=8efd2089"
     }
    ],
    "media": {
-    "uk": "media/word/ours.mp3",
-    "us": "media/word/ours.mp3"
+    "uk": "media/word/ours.mp3?v=19dca55f",
+    "us": "media/word/ours.mp3?v=19dca55f"
    },
    "hook": {
     "kind": "affix",
@@ -1240,22 +1240,22 @@
     {
      "en": "We made the cake ourselves.",
      "zh": "我们自己做了蛋糕。",
-     "audio": "media/sent/e73e115ab353.mp3"
+     "audio": "media/sent/e73e115ab353.mp3?v=ebc3ad5e"
     },
     {
      "en": "We walk to school by ourselves.",
      "zh": "我们自己走路去学校。",
-     "audio": "media/sent/cb621329a8c8.mp3"
+     "audio": "media/sent/cb621329a8c8.mp3?v=63692ed7"
     },
     {
      "en": "We can dress ourselves.",
      "zh": "我们可以自己穿衣服。",
-     "audio": "media/sent/627ee1b42fbb.mp3"
+     "audio": "media/sent/627ee1b42fbb.mp3?v=2c10f959"
     }
    ],
    "media": {
-    "uk": "media/uk/ourselves.mp3",
-    "us": "media/us/ourselves.mp3"
+    "uk": "media/uk/ourselves.mp3?v=aea706b6",
+    "us": "media/us/ourselves.mp3?v=abfdc5c3"
    },
    "avoid": []
   },
@@ -1287,22 +1287,22 @@
     {
      "en": "They play football in the park.",
      "zh": "他们在公园里踢足球。",
-     "audio": "media/sent/225a236ef143.mp3"
+     "audio": "media/sent/225a236ef143.mp3?v=ed3d0d8e"
     },
     {
      "en": "Look! They are flying kites.",
      "zh": "看！他们在放风筝。",
-     "audio": "media/sent/f838066fd078.mp3"
+     "audio": "media/sent/f838066fd078.mp3?v=5d69b6c3"
     },
     {
      "en": "They live in the country.",
      "zh": "他们住在乡下。",
-     "audio": "media/sent/1ea238e76483.mp3"
+     "audio": "media/sent/1ea238e76483.mp3?v=07d5a021"
     }
    ],
    "media": {
-    "uk": "media/uk/they.mp3",
-    "us": "media/us/they.mp3"
+    "uk": "media/uk/they.mp3?v=bfc9727d",
+    "us": "media/us/they.mp3?v=3da157e3"
    },
    "spell": true,
    "hook": {
@@ -1339,22 +1339,22 @@
     {
      "en": "I give them a gift.",
      "zh": "我给他们一个礼物。",
-     "audio": "media/sent/61d34b850d7f.mp3"
+     "audio": "media/sent/61d34b850d7f.mp3?v=32daf143"
     },
     {
      "en": "Dad drives them to school.",
      "zh": "爸爸送他们去学校。",
-     "audio": "media/sent/e14660bd2c67.mp3"
+     "audio": "media/sent/e14660bd2c67.mp3?v=1befabf0"
     },
     {
      "en": "We like them very much.",
      "zh": "我们很喜欢他们。",
-     "audio": "media/sent/1f07d2bcd7dc.mp3"
+     "audio": "media/sent/1f07d2bcd7dc.mp3?v=de2c4349"
     }
    ],
    "media": {
-    "uk": "media/word/them.mp3",
-    "us": "media/word/them.mp3"
+    "uk": "media/word/them.mp3?v=0eaf5b24",
+    "us": "media/word/them.mp3?v=0eaf5b24"
    },
    "hook": {
     "kind": "contrast",
@@ -1390,22 +1390,22 @@
     {
      "en": "They ride their bikes.",
      "zh": "他们骑自行车。",
-     "audio": "media/sent/769b6f60a2c4.mp3"
+     "audio": "media/sent/769b6f60a2c4.mp3?v=2efc8472"
     },
     {
      "en": "Their dog is nice.",
      "zh": "他们的狗很友好。",
-     "audio": "media/sent/37e1590c2269.mp3"
+     "audio": "media/sent/37e1590c2269.mp3?v=662a5bcc"
     },
     {
      "en": "We visit their house.",
      "zh": "我们去他们家。",
-     "audio": "media/sent/cc78f4104aaa.mp3"
+     "audio": "media/sent/cc78f4104aaa.mp3?v=2018912b"
     }
    ],
    "media": {
-    "uk": "media/word/their.mp3",
-    "us": "media/word/their.mp3"
+    "uk": "media/word/their.mp3?v=6bbd5ee1",
+    "us": "media/word/their.mp3?v=6bbd5ee1"
    },
    "hook": {
     "kind": "contrast",
@@ -1441,22 +1441,22 @@
     {
      "en": "That ball is theirs.",
      "zh": "那个球是他们的。",
-     "audio": "media/sent/3fe3055c5635.mp3"
+     "audio": "media/sent/3fe3055c5635.mp3?v=510cb64e"
     },
     {
      "en": "The blue car is theirs.",
      "zh": "那辆蓝色的车是他们的。",
-     "audio": "media/sent/d8c5dbd7b8d2.mp3"
+     "audio": "media/sent/d8c5dbd7b8d2.mp3?v=5733cf10"
     },
     {
      "en": "Those books are theirs.",
      "zh": "那些书是他们的。",
-     "audio": "media/sent/a77658e82def.mp3"
+     "audio": "media/sent/a77658e82def.mp3?v=46474580"
     }
    ],
    "media": {
-    "uk": "media/uk/theirs.mp3",
-    "us": "media/us/theirs.mp3"
+    "uk": "media/uk/theirs.mp3?v=7ff6c450",
+    "us": "media/us/theirs.mp3?v=6b53f828"
    },
    "hook": {
     "kind": "affix",
@@ -1493,22 +1493,22 @@
     {
      "en": "They painted the wall themselves.",
      "zh": "他们自己刷了墙。",
-     "audio": "media/sent/556ef1209d00.mp3"
+     "audio": "media/sent/556ef1209d00.mp3?v=d230f0ba"
     },
     {
      "en": "They made lunch themselves.",
      "zh": "他们自己做了午饭。",
-     "audio": "media/sent/be6458dd3190.mp3"
+     "audio": "media/sent/be6458dd3190.mp3?v=9cfc3815"
     },
     {
      "en": "They know the way themselves.",
      "zh": "他们自己认得路。",
-     "audio": "media/sent/e8c5a8060a99.mp3"
+     "audio": "media/sent/e8c5a8060a99.mp3?v=bc4a2583"
     }
    ],
    "media": {
-    "uk": "media/word/themselves.mp3",
-    "us": "media/word/themselves.mp3"
+    "uk": "media/word/themselves.mp3?v=98958d1d",
+    "us": "media/word/themselves.mp3?v=98958d1d"
    },
    "avoid": []
   },
@@ -1542,22 +1542,22 @@
     {
      "en": "We help each other.",
      "zh": "我们互相帮助。",
-     "audio": "media/sent/5af6670e015a.mp3"
+     "audio": "media/sent/5af6670e015a.mp3?v=f84db7be"
     },
     {
      "en": "They talk to each other every day.",
      "zh": "他们每天互相聊天。",
-     "audio": "media/sent/253b15a5847c.mp3"
+     "audio": "media/sent/253b15a5847c.mp3?v=9337693a"
     },
     {
      "en": "Max and Tom love each other.",
      "zh": "Max 和 Tom 彼此喜爱。",
-     "audio": "media/sent/70d6002ac4a5.mp3"
+     "audio": "media/sent/70d6002ac4a5.mp3?v=23c6e011"
     }
    ],
    "media": {
-    "uk": "media/word/each-other.mp3",
-    "us": "media/word/each-other.mp3"
+    "uk": "media/word/each-other.mp3?v=529eb697",
+    "us": "media/word/each-other.mp3?v=529eb697"
    },
    "hook": {
     "kind": "split",
@@ -1593,22 +1593,22 @@
     {
      "en": "Who is that boy?",
      "zh": "那个男孩是谁？",
-     "audio": "media/sent/e5c876f4fdfa.mp3"
+     "audio": "media/sent/e5c876f4fdfa.mp3?v=ee179907"
     },
     {
      "en": "Who has my pen?",
      "zh": "谁拿了我的钢笔？",
-     "audio": "media/sent/59f16d716e6e.mp3"
+     "audio": "media/sent/59f16d716e6e.mp3?v=c8573cf6"
     },
     {
      "en": "I don't know who he is.",
      "zh": "我不知道他是谁。",
-     "audio": "media/sent/ee12062aa6fe.mp3"
+     "audio": "media/sent/ee12062aa6fe.mp3?v=002f51e0"
     }
    ],
    "media": {
-    "uk": "media/word/who.mp3",
-    "us": "media/word/who.mp3"
+    "uk": "media/word/who.mp3?v=9bf3c60f",
+    "us": "media/word/who.mp3?v=9bf3c60f"
    },
    "hook": {
     "kind": "contrast",
@@ -1646,22 +1646,22 @@
     {
      "en": "Whose bag is this?",
      "zh": "这是谁的书包？",
-     "audio": "media/sent/f011862b4456.mp3"
+     "audio": "media/sent/f011862b4456.mp3?v=2114adf2"
     },
     {
      "en": "Whose dog is that?",
      "zh": "那是谁的狗？",
-     "audio": "media/sent/838d55b11fe3.mp3"
+     "audio": "media/sent/838d55b11fe3.mp3?v=f0095565"
     },
     {
      "en": "I know whose bike it is.",
      "zh": "我知道那是谁的自行车。",
-     "audio": "media/sent/78e203ef89d5.mp3"
+     "audio": "media/sent/78e203ef89d5.mp3?v=cbf47c03"
     }
    ],
    "media": {
-    "uk": "media/uk/whose.mp3",
-    "us": "media/us/whose.mp3"
+    "uk": "media/uk/whose.mp3?v=1f6897c6",
+    "us": "media/us/whose.mp3?v=bcea4b45"
    },
    "hook": {
     "kind": "contrast",
@@ -1699,22 +1699,22 @@
     {
      "en": "What is your name?",
      "zh": "你叫什么名字？",
-     "audio": "media/sent/620283bb23db.mp3"
+     "audio": "media/sent/620283bb23db.mp3?v=7626e559"
     },
     {
      "en": "What do you want to eat?",
      "zh": "你想吃什么？",
-     "audio": "media/sent/95c686b95355.mp3"
+     "audio": "media/sent/95c686b95355.mp3?v=4a6677f2"
     },
     {
      "en": "Look at what Max did!",
      "zh": "看 Max 做了什么！",
-     "audio": "media/sent/5302df5f1594.mp3"
+     "audio": "media/sent/5302df5f1594.mp3?v=3ee84721"
     }
    ],
    "media": {
-    "uk": "media/word/what.mp3",
-    "us": "media/word/what.mp3"
+    "uk": "media/word/what.mp3?v=0d1323ad",
+    "us": "media/word/what.mp3?v=0d1323ad"
    },
    "hook": {
     "kind": "contrast",
@@ -1752,22 +1752,22 @@
     {
      "en": "Which shoes do you like?",
      "zh": "你喜欢哪双鞋？",
-     "audio": "media/sent/7a390251978d.mp3"
+     "audio": "media/sent/7a390251978d.mp3?v=8de5c399"
     },
     {
      "en": "Which book is yours?",
      "zh": "哪本书是你的？",
-     "audio": "media/sent/b702d0cbbdf2.mp3"
+     "audio": "media/sent/b702d0cbbdf2.mp3?v=c5f83338"
     },
     {
      "en": "I don't know which way to go.",
      "zh": "我不知道该走哪条路。",
-     "audio": "media/sent/90321d838324.mp3"
+     "audio": "media/sent/90321d838324.mp3?v=7594f3c0"
     }
    ],
    "media": {
-    "uk": "media/uk/which.mp3",
-    "us": "media/us/which.mp3"
+    "uk": "media/uk/which.mp3?v=38cf3f3c",
+    "us": "media/us/which.mp3?v=81f04328"
    },
    "spell": true,
    "hook": {
@@ -1806,22 +1806,22 @@
     {
      "en": "This is my toy car.",
      "zh": "这是我的玩具车。",
-     "audio": "media/sent/b9980fec1130.mp3"
+     "audio": "media/sent/b9980fec1130.mp3?v=2bbcfa79"
     },
     {
      "en": "This apple is sweet.",
      "zh": "这个苹果很甜。",
-     "audio": "media/sent/6dbd8bf0f3da.mp3"
+     "audio": "media/sent/6dbd8bf0f3da.mp3?v=059ac21d"
     },
     {
      "en": "Is this your cat?",
      "zh": "这是你的猫吗？",
-     "audio": "media/sent/5468b854dc76.mp3"
+     "audio": "media/sent/5468b854dc76.mp3?v=30ae9bec"
     }
    ],
    "media": {
-    "uk": "media/word/this.mp3",
-    "us": "media/word/this.mp3"
+    "uk": "media/word/this.mp3?v=f5c6109e",
+    "us": "media/word/this.mp3?v=f5c6109e"
    },
    "hook": {
     "kind": "contrast",
@@ -1859,22 +1859,22 @@
     {
      "en": "That is a big dog!",
      "zh": "那是一只大狗！",
-     "audio": "media/sent/b19575000d6a.mp3"
+     "audio": "media/sent/b19575000d6a.mp3?v=418cb3d4"
     },
     {
      "en": "I like that song.",
      "zh": "我喜欢那首歌。",
-     "audio": "media/sent/167769ce50fe.mp3"
+     "audio": "media/sent/167769ce50fe.mp3?v=5b81b780"
     },
     {
      "en": "That day was very fun.",
      "zh": "那天很有趣。",
-     "audio": "media/sent/6bee5a5f36df.mp3"
+     "audio": "media/sent/6bee5a5f36df.mp3?v=9a2349a9"
     }
    ],
    "media": {
-    "uk": "media/uk/that.mp3",
-    "us": "media/us/that.mp3"
+    "uk": "media/uk/that.mp3?v=d8fc3c22",
+    "us": "media/us/that.mp3?v=f24d913a"
    },
    "spell": true,
    "hook": {
@@ -1913,22 +1913,22 @@
     {
      "en": "These apples are red.",
      "zh": "这些苹果是红的。",
-     "audio": "media/sent/6c353b542812.mp3"
+     "audio": "media/sent/6c353b542812.mp3?v=c93bd12d"
     },
     {
      "en": "Look at these flowers!",
      "zh": "看这些花！",
-     "audio": "media/sent/c048d061c628.mp3"
+     "audio": "media/sent/c048d061c628.mp3?v=aa58518d"
     },
     {
      "en": "These are my friends.",
      "zh": "这些是我的朋友。",
-     "audio": "media/sent/95f36a748809.mp3"
+     "audio": "media/sent/95f36a748809.mp3?v=d1b6df12"
     }
    ],
    "media": {
-    "uk": "media/uk/these.mp3",
-    "us": "media/us/these.mp3"
+    "uk": "media/uk/these.mp3?v=e30935b4",
+    "us": "media/us/these.mp3?v=cb817196"
    },
    "spell": true,
    "hook": {
@@ -1967,22 +1967,22 @@
     {
      "en": "Those clouds are grey.",
      "zh": "那些云是灰色的。",
-     "audio": "media/sent/c1128b4e3b38.mp3"
+     "audio": "media/sent/c1128b4e3b38.mp3?v=28b9d097"
     },
     {
      "en": "Who are those people?",
      "zh": "那些人是谁？",
-     "audio": "media/sent/7346d9be90fe.mp3"
+     "audio": "media/sent/7346d9be90fe.mp3?v=3d79890e"
     },
     {
      "en": "I want those shoes.",
      "zh": "我想要那些鞋子。",
-     "audio": "media/sent/69ccb1728d43.mp3"
+     "audio": "media/sent/69ccb1728d43.mp3?v=55b2b688"
     }
    ],
    "media": {
-    "uk": "media/word/those.mp3",
-    "us": "media/word/those.mp3"
+    "uk": "media/word/those.mp3?v=d1a1c49d",
+    "us": "media/word/those.mp3?v=d1a1c49d"
    },
    "hook": {
     "kind": "contrast",

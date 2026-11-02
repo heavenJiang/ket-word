@@ -103,9 +103,25 @@ export function buildSession(
  * Whether a group of new words has been met but not yet recalled: a break now would lose it (the
  * words count as learnt only once recalled), so a round does not end until the group is done.
  */
-export function groupOpen(s: Session): boolean {
+export const groupOpen = (s: Session): boolean => openWords(s).length > 0;
+
+/** Questions in a round: a long day is cut into short rounds, each ending with a small celebration. */
+export const ROUND = 10;
+
+/** Questions still ahead in the session. */
+export const questionsLeft = (s: Session) => s.steps.slice(s.index).filter((x) => x.type === "q").length;
+
+/**
+ * Whether a round ends after its `n`-th question: after ROUND questions, unless the day is about to
+ * end anyway, and never in the middle of a group of new words, which would be lost if the child stopped.
+ */
+export const roundEnds = (n: number, s: Session) => n >= ROUND && questionsLeft(s) >= ROUND / 2 && !groupOpen(s);
+
+/** New words met in this session but not yet recalled: leaving now, they are met again as new another day. */
+export function openWords(s: Session): string[] {
   const met = new Set(s.steps.slice(0, s.index).flatMap((x) => (x.type === "intro" ? x.wordIds : [])));
-  return s.steps.slice(s.index).some((x) => x.type === "q" && x.graded && met.has(x.wordId) && !s.answered.includes(keyOf(x.wordId, x.skill)));
+  const todo = s.steps.slice(s.index).flatMap((x) => (x.type === "q" && x.graded && met.has(x.wordId) && !s.answered.includes(keyOf(x.wordId, x.skill)) ? [x.wordId] : []));
+  return [...new Set(todo)];
 }
 
 export const current = (s: Session): Step | undefined => s.steps[s.index];

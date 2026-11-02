@@ -28,9 +28,13 @@ export interface DayLog {
 
 /**
  * One graded answer: when, word, skill (index in SKILLS), FSRS grade, milliseconds to answer, and
- * 0 review · 1 new word (2: already known, from earlier versions). Kept so the scheduler can later be fitted to this child.
+ * 0 review · 1 new word (2: already known, from earlier versions) · 3 a check-up miss on a graduated word,
+ * graded as forgotten without being a timed review (left out of answer speed and the parent's numbers).
+ * Kept so the scheduler can later be fitted to this child.
  */
-export type LogEntry = [t: number, wordId: string, skill: number, grade: number, ms: number, kind: 0 | 1 | 2];
+export type LogEntry = [t: number, wordId: string, skill: number, grade: number, ms: number, kind: 0 | 1 | 2 | 3];
+/** Log kind of a check-up miss. */
+export const CHECKUP_MISS = 3;
 /** About 1.5 MB of storage at most; the oldest answers go first. */
 const LOG_MAX = 40_000;
 
@@ -58,6 +62,8 @@ export interface Progress {
   log?: LogEntry[];
   /** Monthly check-ups: see the meaning, pick the English, for a sample of words met; memory cards untouched. */
   checkups?: Checkup[];
+  /** When the parent last saved a backup file. */
+  backedUp?: number;
 }
 
 export interface Checkup {
@@ -92,10 +98,12 @@ export const recordCheckup = (p: Progress, c: Checkup): Progress => ({ ...p, che
  */
 export function ungraduate(p: Progress, wordId: string, now: number): Progress {
   const m = p.words[wordId]?.skills.meaning;
-  return isGraduated(m) ? recordGrade(p, wordId, "meaning", Rating.Again, now) : p;
+  return isGraduated(m) ? recordGrade(p, wordId, "meaning", Rating.Again, now, 0, true) : p;
 }
 
 const KEY = "ket-word:progress";
+/** A saved progress that could not be read, kept aside instead of being overwritten by a fresh start. */
+const BROKEN_KEY = "ket-word:progress-unreadable";
 
 export const DEFAULT_SETTINGS: Settings = {
   newPerDay: 10,
@@ -123,20 +131,73 @@ export function dayKey(now: number): string {
 }
 
 export function loadProgress(): Progress {
+  let raw: string | null = null;
   try {
-    const raw = localStorage.getItem(KEY);
-    if (raw) return parseProgress(raw);
+    raw = localStorage.getItem(KEY);
   } catch {
-    // storage blocked or corrupt: start fresh rather than crash
+    return emptyProgress(); // storage blocked: progress lives for this session only
   }
-  return emptyProgress();
+  if (!raw) return emptyProgress();
+  try {
+    return parseProgress(raw);
+  } catch {
+    // corrupt, or from another version: keep it aside before the fresh start overwrites it, so the
+    // parent centre can offer it for download
+    try {
+      localStorage.setItem(BROKEN_KEY, raw);
+    } catch {
+      // no room for a second copy: the fresh start must not overwrite the only one
+      unreadable = raw;
+    }
+    return emptyProgress();
+  }
 }
 
-export function saveProgress(p: Progress): void {
+/** The unreadable progress found at start, when there was no room to keep it aside in storage. */
+let unreadable: string | null = null;
+
+/** A saved progress that could not be read at start, if any. */
+export function unreadableProgress(): string | null {
+  if (unreadable) return unreadable;
+  try {
+    return localStorage.getItem(BROKEN_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export function dropUnreadableProgress(): void {
+  unreadable = null;
+  try {
+    localStorage.removeItem(BROKEN_KEY);
+  } catch {
+    // nothing to drop
+  }
+}
+
+/** Save the progress; false when it could not be saved (private mode, storage full). */
+export function saveProgress(p: Progress): boolean {
+  // the only copy of an unreadable progress is still in KEY: never overwrite it
+  if (unreadable) return false;
   try {
     localStorage.setItem(KEY, JSON.stringify(p));
+    return true;
   } catch {
-    // private mode or quota: progress lives for this session only
+    return false;
+  }
+}
+
+/**
+ * Ask the browser to keep this site's storage: without it Safari may clear a site's storage after
+ * days without a visit. Resolves to whether storage is persistent (false when unsupported).
+ */
+export async function persistStorage(): Promise<boolean> {
+  try {
+    const s = navigator.storage;
+    if (!s?.persist) return false;
+    return (await s.persisted?.()) || (await s.persist());
+  } catch {
+    return false;
   }
 }
 
@@ -168,8 +229,11 @@ export function planOptions(p: Progress, now: number, unstarted: number) {
 
 const emptyDay = (): DayLog => ({ answered: 0, correct: 0, newWords: 0, stars: 0 });
 
-/** Apply one graded answer: update the skill's memory card, today's log and the answer log. */
-export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number, ms = 0): Progress {
+/**
+ * Apply one graded answer: update the skill's memory card, today's log and the answer log. A
+ * `checkup` miss updates the card only, and is logged apart: it is neither a review nor timed.
+ */
+export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Grade, now: number, ms = 0, checkup = false): Progress {
   const prev = p.words[wordId];
   const isNew = !prev;
   const word: WordProgress = prev ?? { seen: now, skills: {} };
@@ -187,13 +251,15 @@ export function recordGrade(p: Progress, wordId: string, skill: Skill, grade: Gr
       stars: day.stars + star,
     },
   };
-  const entry: LogEntry = [now, wordId, SKILLS.indexOf(skill), grade, Math.round(ms), isNew ? 1 : 0];
+  const entry: LogEntry = [now, wordId, SKILLS.indexOf(skill), grade, Math.round(ms), checkup ? CHECKUP_MISS : isNew ? 1 : 0];
   const log = [...(p.log ?? []), entry];
+  const words = { ...p.words, [wordId]: { ...word, skills: { ...word.skills, [skill]: card } } };
+  if (checkup) return { ...p, words, log: log.length > LOG_MAX ? log.slice(-LOG_MAX) : log };
   return {
     ...p,
     records: { ...p.records, streak: Math.max(p.records.streak, streak(days, now)) },
     stars: p.stars + star,
-    words: { ...p.words, [wordId]: { ...word, skills: { ...word.skills, [skill]: card } } },
+    words,
     days,
     log: log.length > LOG_MAX ? log.slice(-LOG_MAX) : log,
   };

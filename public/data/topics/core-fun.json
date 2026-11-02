@@ -29,23 +29,23 @@
     {
      "en": "My friends have a band.",
      "zh": "我的朋友们有一个乐队。",
-     "audio": "media/sent/34f26ee7b930.mp3"
+     "audio": "media/sent/34f26ee7b930.mp3?v=605f2c08"
     },
     {
      "en": "The band plays loud music.",
      "zh": "这个乐队演奏大声的音乐。",
-     "audio": "media/sent/0a7ca4a806dd.mp3"
+     "audio": "media/sent/0a7ca4a806dd.mp3?v=5eb86869"
     },
     {
      "en": "Sam plays the drums in a band.",
      "zh": "Sam 在乐队里打鼓。",
-     "audio": "media/sent/d794d8fd85f9.mp3"
+     "audio": "media/sent/d794d8fd85f9.mp3?v=4a570d5b"
     }
    ],
    "media": {
-    "img": "media/img/band.webp",
-    "uk": "media/uk/band.mp3",
-    "us": "media/us/band.mp3"
+    "img": "media/img/band.webp?v=ea99ca8e",
+    "uk": "media/uk/band.mp3?v=9ba7603a",
+    "us": "media/us/band.mp3?v=52815808"
    },
    "spell": true,
    "avoid": [
@@ -83,23 +83,23 @@
     {
      "en": "We went to the circus.",
      "zh": "我们去了马戏团。",
-     "audio": "media/sent/a826f4ef77e9.mp3"
+     "audio": "media/sent/a826f4ef77e9.mp3?v=83b5fe70"
     },
     {
      "en": "The circus has funny clowns.",
      "zh": "马戏团里有有趣的小丑。",
-     "audio": "media/sent/0b122e647c40.mp3"
+     "audio": "media/sent/0b122e647c40.mp3?v=ebf2a1e2"
     },
     {
      "en": "Lily saw lions at the circus.",
      "zh": "Lily 在马戏团看到了狮子。",
-     "audio": "media/sent/3b7c42ded3d6.mp3"
+     "audio": "media/sent/3b7c42ded3d6.mp3?v=bb03bbe2"
     }
    ],
    "media": {
-    "img": "media/img/circus.webp",
-    "uk": "media/uk/circus.mp3",
-    "us": "media/us/circus.mp3"
+    "img": "media/img/circus.webp?v=92ad12d6",
+    "uk": "media/uk/circus.mp3?v=f4596e68",
+    "us": "media/us/circus.mp3?v=bbda07f0"
    },
    "avoid": []
   },
@@ -133,23 +133,23 @@
     {
      "en": "This comedy is very funny.",
      "zh": "这部喜剧非常有趣。",
-     "audio": "media/sent/432ac42620a0.mp3"
+     "audio": "media/sent/432ac42620a0.mp3?v=db451b58"
     },
     {
      "en": "Mum likes watching comedies.",
      "zh": "妈妈喜欢看喜剧片。",
-     "audio": "media/sent/588f6d3c63d0.mp3"
+     "audio": "media/sent/588f6d3c63d0.mp3?v=ada7628b"
     },
     {
      "en": "The comedy made us laugh.",
      "zh": "这部喜剧让我们大笑。",
-     "audio": "media/sent/f96cc0f458c4.mp3"
+     "audio": "media/sent/f96cc0f458c4.mp3?v=654488df"
     }
    ],
    "media": {
-    "img": "media/img/comedy.webp",
-    "uk": "media/uk/comedy.mp3",
-    "us": "media/us/comedy.mp3"
+    "img": "media/img/comedy.webp?v=08212ce0",
+    "uk": "media/uk/comedy.mp3?v=f02aec11",
+    "us": "media/us/comedy.mp3?v=d4ecdb45"
    },
    "avoid": [
     "action",
@@ -185,23 +185,23 @@
     {
      "en": "Dad is good at cooking.",
      "zh": "爸爸擅长做饭。",
-     "audio": "media/sent/6ae37ae1cb26.mp3"
+     "audio": "media/sent/6ae37ae1cb26.mp3?v=4c7c522a"
     },
     {
      "en": "We help Mum with the cooking.",
      "zh": "我们帮妈妈做饭。",
-     "audio": "media/sent/383cc5cdc34c.mp3"
+     "audio": "media/sent/383cc5cdc34c.mp3?v=0131b9f0"
     },
     {
      "en": "Cooking dinner takes time.",
      "zh": "做晚饭需要时间。",
-     "audio": "media/sent/fa75a1f8f6de.mp3"
+     "audio": "media/sent/fa75a1f8f6de.mp3?v=6ecb5073"
     }
    ],
    "media": {
-    "img": "media/img/cooking.webp",
-    "uk": "media/uk/cooking.mp3",
-    "us": "media/us/cooking.mp3"
+    "img": "media/img/cooking.webp?v=69ee947f",
+    "uk": "media/uk/cooking.mp3?v=6b736b06",
+    "us": "media/us/cooking.mp3?v=5980ce5b"
    },
    "spell": true,
    "hook": {
@@ -239,23 +239,23 @@
     {
      "en": "Lily loves dancing.",
      "zh": "Lily 热爱跳舞。",
-     "audio": "media/sent/7e2acf8ee02e.mp3"
+     "audio": "media/sent/7e2acf8ee02e.mp3?v=ae082fb8"
     },
     {
      "en": "The music is good for dancing.",
      "zh": "这音乐适合跳舞。",
-     "audio": "media/sent/e92c123424fb.mp3"
+     "audio": "media/sent/e92c123424fb.mp3?v=fb18bfe4"
     },
     {
      "en": "Tom likes dancing songs.",
      "zh": "Tom 喜欢跳舞的歌曲。",
-     "audio": "media/sent/40e99a20b233.mp3"
+     "audio": "media/sent/40e99a20b233.mp3?v=f553c2aa"
     }
    ],
    "media": {
-    "img": "media/img/dancing.webp",
-    "uk": "media/uk/dancing.mp3",
-    "us": "media/us/dancing.mp3"
+    "img": "media/img/dancing.webp?v=1d9f2013",
+    "uk": "media/uk/dancing.mp3?v=c2a7bdd9",
+    "us": "media/us/dancing.mp3?v=aaaa9232"
    },
    "spell": true,
    "avoid": [
@@ -293,23 +293,23 @@
     {
      "en": "The diving board is high.",
      "zh": "这个跳水板很高。",
-     "audio": "media/sent/1f201da13b48.mp3"
+     "audio": "media/sent/1f201da13b48.mp3?v=ce5fcd77"
     },
     {
      "en": "Diving looks exciting.",
      "zh": "跳水看起来很刺激。",
-     "audio": "media/sent/34b4534b29c1.mp3"
+     "audio": "media/sent/34b4534b29c1.mp3?v=0eeda52b"
     },
     {
      "en": "She has a diving lesson today.",
      "zh": "她今天有跳水课。",
-     "audio": "media/sent/47a20f1894ba.mp3"
+     "audio": "media/sent/47a20f1894ba.mp3?v=d3a14572"
     }
    ],
    "media": {
-    "img": "media/img/diving.webp",
-    "uk": "media/uk/diving.mp3",
-    "us": "media/us/diving.mp3"
+    "img": "media/img/diving.webp?v=7a5879e8",
+    "uk": "media/uk/diving.mp3?v=9711cc53",
+    "us": "media/us/diving.mp3?v=0f9fa92c"
    },
    "avoid": [
     "surfing"
@@ -344,23 +344,23 @@
     {
      "en": "The school event is fun.",
      "zh": "学校的活动很有趣。",
-     "audio": "media/sent/6740a58a3a26.mp3"
+     "audio": "media/sent/6740a58a3a26.mp3?v=324218a3"
     },
     {
      "en": "This is a big family event.",
      "zh": "这是一个重要的家庭活动。",
-     "audio": "media/sent/2d40abd77f5a.mp3"
+     "audio": "media/sent/2d40abd77f5a.mp3?v=c84b34c1"
     },
     {
      "en": "We plan for the next event.",
      "zh": "我们为下一个活动做计划。",
-     "audio": "media/sent/597b73c0085a.mp3"
+     "audio": "media/sent/597b73c0085a.mp3?v=c0904df1"
     }
    ],
    "media": {
-    "img": "media/img/event.webp",
-    "uk": "media/uk/event.mp3",
-    "us": "media/us/event.mp3"
+    "img": "media/img/event.webp?v=24937f38",
+    "uk": "media/uk/event.mp3?v=0adf9814",
+    "us": "media/us/event.mp3?v=eb7980d9"
    },
    "hook": {
     "kind": "contrast",
@@ -396,23 +396,23 @@
     {
      "en": "Dad goes to the gym.",
      "zh": "爸爸去健身房。",
-     "audio": "media/sent/a4e9c555011f.mp3"
+     "audio": "media/sent/a4e9c555011f.mp3?v=e0bb6253"
     },
     {
      "en": "We play games in the gym.",
      "zh": "我们在体育馆里做游戏。",
-     "audio": "media/sent/8e8d08865f0a.mp3"
+     "audio": "media/sent/8e8d08865f0a.mp3?v=73b32002"
     },
     {
      "en": "The school gym is large.",
      "zh": "学校的体育馆很大。",
-     "audio": "media/sent/56f6b1bcd441.mp3"
+     "audio": "media/sent/56f6b1bcd441.mp3?v=1f61824a"
     }
    ],
    "media": {
-    "img": "media/img/gym.webp",
-    "uk": "media/uk/gym.mp3",
-    "us": "media/us/gym.mp3"
+    "img": "media/img/gym.webp?v=77e0423d",
+    "uk": "media/uk/gym.mp3?v=c749cbfa",
+    "us": "media/us/gym.mp3?v=b12d3de5"
    },
    "spell": true,
    "avoid": [
@@ -450,23 +450,23 @@
     {
      "en": "We go ice skating.",
      "zh": "我们去滑冰。",
-     "audio": "media/sent/97d2cfbc4b58.mp3"
+     "audio": "media/sent/97d2cfbc4b58.mp3?v=edc9bfa1"
     },
     {
      "en": "Ice skating is cold work.",
      "zh": "滑冰是很冷的运动。",
-     "audio": "media/sent/bb2c50e9677c.mp3"
+     "audio": "media/sent/bb2c50e9677c.mp3?v=ed9e353c"
     },
     {
      "en": "She learned ice skating fast.",
      "zh": "她学滑冰学得很快。",
-     "audio": "media/sent/9e15a1c05dfe.mp3"
+     "audio": "media/sent/9e15a1c05dfe.mp3?v=ee0bd8bd"
     }
    ],
    "media": {
-    "img": "media/img/ice-skating.webp",
-    "uk": "media/word/ice-skating.mp3",
-    "us": "media/word/ice-skating.mp3"
+    "img": "media/img/ice-skating.webp?v=8d8cef8d",
+    "uk": "media/word/ice-skating.mp3?v=431bf359",
+    "us": "media/word/ice-skating.mp3?v=431bf359"
    },
    "hook": {
     "kind": "split",
@@ -505,23 +505,23 @@
     {
      "en": "Grandpa listens to jazz.",
      "zh": "爷爷听爵士乐。",
-     "audio": "media/sent/fb09cd98c978.mp3"
+     "audio": "media/sent/fb09cd98c978.mp3?v=c1d060a8"
     },
     {
      "en": "Jazz music is nice.",
      "zh": "爵士乐很好听。",
-     "audio": "media/sent/fd1816edeb40.mp3"
+     "audio": "media/sent/fd1816edeb40.mp3?v=4532e286"
     },
     {
      "en": "The band plays jazz songs.",
      "zh": "乐队演奏爵士歌曲。",
-     "audio": "media/sent/3d552281189f.mp3"
+     "audio": "media/sent/3d552281189f.mp3?v=153603b9"
     }
    ],
    "media": {
-    "img": "media/img/jazz.webp",
-    "uk": "media/uk/jazz.mp3",
-    "us": "media/us/jazz.mp3"
+    "img": "media/img/jazz.webp?v=ef8b26cd",
+    "uk": "media/uk/jazz.mp3?v=d5b55b88",
+    "us": "media/us/jazz.mp3?v=4289da6c"
    },
    "avoid": [
     "band",
@@ -557,23 +557,23 @@
     {
      "en": "Sam likes rap music.",
      "zh": "Sam 喜欢说唱音乐。",
-     "audio": "media/sent/60adc754cafe.mp3"
+     "audio": "media/sent/60adc754cafe.mp3?v=4d75fd2c"
     },
     {
      "en": "The rap song is fast.",
      "zh": "这首说唱歌很快。",
-     "audio": "media/sent/89e2e19e38d6.mp3"
+     "audio": "media/sent/89e2e19e38d6.mp3?v=b58c68b0"
     },
     {
      "en": "They dance to the rap.",
      "zh": "他们随着说唱音乐跳舞。",
-     "audio": "media/sent/47238d34d1a2.mp3"
+     "audio": "media/sent/47238d34d1a2.mp3?v=5bfc9751"
     }
    ],
    "media": {
-    "img": "media/img/rap.webp",
-    "uk": "media/uk/rap.mp3",
-    "us": "media/us/rap.mp3"
+    "img": "media/img/rap.webp?v=9d7c3528",
+    "uk": "media/uk/rap.mp3?v=6046b633",
+    "us": "media/us/rap.mp3?v=97bc7e9e"
    },
    "avoid": [
     "band",
@@ -610,23 +610,23 @@
     {
      "en": "Lily enjoys reading books.",
      "zh": "Lily 喜欢读书。",
-     "audio": "media/sent/f953795e0833.mp3"
+     "audio": "media/sent/f953795e0833.mp3?v=731c5267"
     },
     {
      "en": "Reading makes us smart.",
      "zh": "阅读让我们变聪明。",
-     "audio": "media/sent/93faa8a6eda7.mp3"
+     "audio": "media/sent/93faa8a6eda7.mp3?v=6f89cf0c"
     },
     {
      "en": "Tom's reading is getting better.",
      "zh": "Tom 的阅读越来越好了。",
-     "audio": "media/sent/0f58502f41cd.mp3"
+     "audio": "media/sent/0f58502f41cd.mp3?v=1ac6680f"
     }
    ],
    "media": {
-    "img": "media/img/reading.webp",
-    "uk": "media/uk/reading.mp3",
-    "us": "media/us/reading.mp3"
+    "img": "media/img/reading.webp?v=891c95cc",
+    "uk": "media/uk/reading.mp3?v=5d866507",
+    "us": "media/us/reading.mp3?v=7162122c"
    },
    "spell": true,
    "hook": {
@@ -666,23 +666,23 @@
     {
      "en": "The class is singing.",
      "zh": "全班同学在唱歌。",
-     "audio": "media/sent/ef43cba13082.mp3"
+     "audio": "media/sent/ef43cba13082.mp3?v=a0ab01e7"
     },
     {
      "en": "I like singing songs.",
      "zh": "我喜欢唱歌。",
-     "audio": "media/sent/ec54fb8aaaa1.mp3"
+     "audio": "media/sent/ec54fb8aaaa1.mp3?v=c01c7c4e"
     },
     {
      "en": "Singing makes her happy.",
      "zh": "唱歌让她开心。",
-     "audio": "media/sent/5ad247ffd29a.mp3"
+     "audio": "media/sent/5ad247ffd29a.mp3?v=f3586386"
     }
    ],
    "media": {
-    "img": "media/img/singing.webp",
-    "uk": "media/word/singing.mp3",
-    "us": "media/word/singing.mp3"
+    "img": "media/img/singing.webp?v=4c2962d1",
+    "uk": "media/word/singing.mp3?v=da448c88",
+    "us": "media/word/singing.mp3?v=da448c88"
    },
    "hook": {
     "kind": "affix",
@@ -724,23 +724,23 @@
     {
      "en": "He loves skateboarding.",
      "zh": "他热爱滑板运动。",
-     "audio": "media/sent/bc9fb26c6220.mp3"
+     "audio": "media/sent/bc9fb26c6220.mp3?v=5345b07b"
     },
     {
      "en": "Skateboarding is cool.",
      "zh": "玩滑板很酷。",
-     "audio": "media/sent/93f71c73bbb6.mp3"
+     "audio": "media/sent/93f71c73bbb6.mp3?v=71422d12"
     },
     {
      "en": "She practises skateboarding outside.",
      "zh": "她在外面练习滑板。",
-     "audio": "media/sent/c0e692765a1b.mp3"
+     "audio": "media/sent/c0e692765a1b.mp3?v=3233d922"
     }
    ],
    "media": {
-    "img": "media/img/skateboarding.webp",
-    "uk": "media/uk/skateboarding.mp3",
-    "us": "media/us/skateboarding.mp3"
+    "img": "media/img/skateboarding.webp?v=db53ee48",
+    "uk": "media/uk/skateboarding.mp3?v=8b272c3e",
+    "us": "media/us/skateboarding.mp3?v=c79471bb"
    },
    "hook": {
     "kind": "affix",
@@ -780,23 +780,23 @@
     {
      "en": "The park is for skating.",
      "zh": "公园是用来溜冰的。",
-     "audio": "media/sent/8eb50273077c.mp3"
+     "audio": "media/sent/8eb50273077c.mp3?v=6601d429"
     },
     {
      "en": "Skating is fun.",
      "zh": "滑冰很有趣。",
-     "audio": "media/sent/303e69f1e830.mp3"
+     "audio": "media/sent/303e69f1e830.mp3?v=6d2e6262"
     },
     {
      "en": "We go skating in winter.",
      "zh": "我们在冬天去滑冰。",
-     "audio": "media/sent/1b18436b07b2.mp3"
+     "audio": "media/sent/1b18436b07b2.mp3?v=8a3608c6"
     }
    ],
    "media": {
-    "img": "media/img/skating.webp",
-    "uk": "media/word/skating.mp3",
-    "us": "media/word/skating.mp3"
+    "img": "media/img/skating.webp?v=54184306",
+    "uk": "media/word/skating.mp3?v=87faf210",
+    "us": "media/word/skating.mp3?v=87faf210"
    },
    "avoid": [
     "ice-skating",
@@ -833,23 +833,23 @@
     {
      "en": "We go sightseeing today.",
      "zh": "我们今天去观光。",
-     "audio": "media/sent/0651fdc0ef55.mp3"
+     "audio": "media/sent/0651fdc0ef55.mp3?v=301e45a6"
     },
     {
      "en": "Sightseeing is tiring but fun.",
      "zh": "观光很累但很有趣。",
-     "audio": "media/sent/2bb836fafb42.mp3"
+     "audio": "media/sent/2bb836fafb42.mp3?v=3daac417"
     },
     {
      "en": "The bus takes us sightseeing.",
      "zh": "公交车带我们去观光。",
-     "audio": "media/sent/1f8732141cca.mp3"
+     "audio": "media/sent/1f8732141cca.mp3?v=eedb78f5"
     }
    ],
    "media": {
-    "img": "media/img/sightseeing.webp",
-    "uk": "media/uk/sightseeing.mp3",
-    "us": "media/us/sightseeing.mp3"
+    "img": "media/img/sightseeing.webp?v=61661c36",
+    "uk": "media/uk/sightseeing.mp3?v=0f5d4448",
+    "us": "media/us/sightseeing.mp3?v=e389d7f8"
    },
    "avoid": []
   },
@@ -882,23 +882,23 @@
     {
      "en": "Surfing is hard work.",
      "zh": "冲浪是很辛苦的。",
-     "audio": "media/sent/39b172bff90f.mp3"
+     "audio": "media/sent/39b172bff90f.mp3?v=f0338840"
     },
     {
      "en": "Uncle Ben goes surfing in summer.",
      "zh": "Ben 叔叔夏天去冲浪。",
-     "audio": "media/sent/422d7031fc3e.mp3"
+     "audio": "media/sent/422d7031fc3e.mp3?v=cab29b18"
     },
     {
      "en": "Surfing needs strong legs.",
      "zh": "冲浪需要强壮的腿。",
-     "audio": "media/sent/d09bfd32a3b7.mp3"
+     "audio": "media/sent/d09bfd32a3b7.mp3?v=112ada9d"
     }
    ],
    "media": {
-    "img": "media/img/surfing.webp",
-    "uk": "media/uk/surfing.mp3",
-    "us": "media/us/surfing.mp3"
+    "img": "media/img/surfing.webp?v=44c12cae",
+    "uk": "media/uk/surfing.mp3?v=a76a2b8e",
+    "us": "media/us/surfing.mp3?v=fce3c1d0"
    },
    "hook": {
     "kind": "affix",
@@ -937,23 +937,23 @@
     {
      "en": "Sam does training every Saturday.",
      "zh": "Sam 每周六都去训练。",
-     "audio": "media/sent/c0339f9c412e.mp3"
+     "audio": "media/sent/c0339f9c412e.mp3?v=b94177d1"
     },
     {
      "en": "Football training is hard work.",
      "zh": "足球训练很辛苦。",
-     "audio": "media/sent/966ec6bb6d75.mp3"
+     "audio": "media/sent/966ec6bb6d75.mp3?v=15707a9c"
     },
     {
      "en": "We need more training for the match.",
      "zh": "我们需要为比赛做更多训练。",
-     "audio": "media/sent/d50e378d988d.mp3"
+     "audio": "media/sent/d50e378d988d.mp3?v=1085a2e9"
     }
    ],
    "media": {
-    "img": "media/img/training.webp",
-    "uk": "media/uk/training.mp3",
-    "us": "media/us/training.mp3"
+    "img": "media/img/training.webp?v=1ce1f4a2",
+    "uk": "media/uk/training.mp3?v=4f6223a0",
+    "us": "media/us/training.mp3?v=11872539"
    },
    "hook": {
     "kind": "affix",
@@ -994,23 +994,23 @@
     {
      "en": "Dad watches the football match.",
      "zh": "爸爸看足球比赛。",
-     "audio": "media/sent/c42e1a6b5f88.mp3"
+     "audio": "media/sent/c42e1a6b5f88.mp3?v=99a9793e"
     },
     {
      "en": "The tennis match starts at two o'clock.",
      "zh": "网球比赛两点开始。",
-     "audio": "media/sent/db1525d0f41f.mp3"
+     "audio": "media/sent/db1525d0f41f.mp3?v=427ef144"
     },
     {
      "en": "We won the basketball match!",
      "zh": "我们赢了篮球比赛！",
-     "audio": "media/sent/85fd9f723b4b.mp3"
+     "audio": "media/sent/85fd9f723b4b.mp3?v=f6d4bcbf"
     }
    ],
    "media": {
-    "img": "media/img/match.webp",
-    "uk": "media/uk/match.mp3",
-    "us": "media/us/match.mp3"
+    "img": "media/img/match.webp?v=590c6349",
+    "uk": "media/uk/match.mp3?v=b3c34703",
+    "us": "media/us/match.mp3?v=b87e0d5f"
    },
    "spell": true,
    "avoid": [
@@ -1048,23 +1048,23 @@
     {
      "en": "Lily got a high score in maths.",
      "zh": "Lily 在数学课上得了高分。",
-     "audio": "media/sent/3ecca8c5d725.mp3"
+     "audio": "media/sent/3ecca8c5d725.mp3?v=7e405bed"
     },
     {
      "en": "The final score was two to one.",
      "zh": "最后的比分是二比一。",
-     "audio": "media/sent/4f8353c4f412.mp3"
+     "audio": "media/sent/4f8353c4f412.mp3?v=1fd9f0a0"
     },
     {
      "en": "Can you score the goal?",
      "zh": "你能进球吗？",
-     "audio": "media/sent/ee09e3e681fe.mp3"
+     "audio": "media/sent/ee09e3e681fe.mp3?v=bbdcca0b"
     }
    ],
    "media": {
-    "img": "media/img/score.webp",
-    "uk": "media/uk/score.mp3",
-    "us": "media/us/score.mp3"
+    "img": "media/img/score.webp?v=13809837",
+    "uk": "media/uk/score.mp3?v=b49ebcb8",
+    "us": "media/us/score.mp3?v=2feea43e"
    },
    "hook": {
     "kind": "contrast",
@@ -1103,23 +1103,23 @@
     {
      "en": "The actors are on the stage.",
      "zh": "演员们在舞台上。",
-     "audio": "media/sent/4c0f34bffe74.mp3"
+     "audio": "media/sent/4c0f34bffe74.mp3?v=94e96721"
     },
     {
      "en": "We practise plays on the school stage.",
      "zh": "我们在学校舞台上排练戏剧。",
-     "audio": "media/sent/9e49394da843.mp3"
+     "audio": "media/sent/9e49394da843.mp3?v=374e32a2"
     },
     {
      "en": "Look at the girl dancing on the stage.",
      "zh": "看那个在舞台上跳舞的女孩。",
-     "audio": "media/sent/a8a997442004.mp3"
+     "audio": "media/sent/a8a997442004.mp3?v=7c90ed5a"
     }
    ],
    "media": {
-    "img": "media/img/stage.webp",
-    "uk": "media/uk/stage.mp3",
-    "us": "media/us/stage.mp3"
+    "img": "media/img/stage.webp?v=0d61f2c2",
+    "uk": "media/uk/stage.mp3?v=26b3e54a",
+    "us": "media/us/stage.mp3?v=206fc49f"
    },
    "hook": {
     "kind": "story",
@@ -1159,23 +1159,23 @@
     {
      "en": "Mum sings a happy tune.",
      "zh": "妈妈唱着一首快乐的曲子。",
-     "audio": "media/sent/2eddffdf3139.mp3"
+     "audio": "media/sent/2eddffdf3139.mp3?v=187a2e97"
     },
     {
      "en": "I know this old tune.",
      "zh": "我知道这首老歌的调子。",
-     "audio": "media/sent/efff208f8a91.mp3"
+     "audio": "media/sent/efff208f8a91.mp3?v=181f3236"
     },
     {
      "en": "He sings a funny tune.",
      "zh": "他唱着一首有趣的曲子。",
-     "audio": "media/sent/841b69199871.mp3"
+     "audio": "media/sent/841b69199871.mp3?v=e191e02f"
     }
    ],
    "media": {
-    "img": "media/img/tune.webp",
-    "uk": "media/uk/tune.mp3",
-    "us": "media/us/tune.mp3"
+    "img": "media/img/tune.webp?v=dde846eb",
+    "uk": "media/uk/tune.mp3?v=5382373a",
+    "us": "media/us/tune.mp3?v=744f7d2d"
    },
    "avoid": [
     "band",
@@ -1212,23 +1212,23 @@
     {
      "en": "Tom takes a selfie with Max.",
      "zh": "Tom 和 Max 拍了一张自拍。",
-     "audio": "media/sent/b34c4269c03a.mp3"
+     "audio": "media/sent/b34c4269c03a.mp3?v=6ca68425"
     },
     {
      "en": "Look at my new selfie!",
      "zh": "看我的新自拍照！",
-     "audio": "media/sent/1cdf81535934.mp3"
+     "audio": "media/sent/1cdf81535934.mp3?v=b0d809c8"
     },
     {
      "en": "Grandma likes taking selfies.",
      "zh": "奶奶喜欢拍自拍照。",
-     "audio": "media/sent/2e5890a58c06.mp3"
+     "audio": "media/sent/2e5890a58c06.mp3?v=5dab4c0c"
     }
    ],
    "media": {
-    "img": "media/img/selfie.webp",
-    "uk": "media/uk/selfie.mp3",
-    "us": "media/us/selfie.mp3"
+    "img": "media/img/selfie.webp?v=a5d4fda4",
+    "uk": "media/uk/selfie.mp3?v=c68a7920",
+    "us": "media/us/selfie.mp3?v=540d8d31"
    },
    "hook": {
     "kind": "contrast",
@@ -1266,23 +1266,23 @@
     {
      "en": "The school performance was great.",
      "zh": "学校的演出很棒。",
-     "audio": "media/sent/a5399389381a.mp3"
+     "audio": "media/sent/a5399389381a.mp3?v=44b967b5"
     },
     {
      "en": "Lily practised for her piano performance.",
      "zh": "Lily 为钢琴演出做了练习。",
-     "audio": "media/sent/5b5a48f43f0d.mp3"
+     "audio": "media/sent/5b5a48f43f0d.mp3?v=b542fdca"
     },
     {
      "en": "We watched a dance performance.",
      "zh": "我们看了一场舞蹈表演。",
-     "audio": "media/sent/dbde165667e9.mp3"
+     "audio": "media/sent/dbde165667e9.mp3?v=aff67444"
     }
    ],
    "media": {
-    "img": "media/img/performance.webp",
-    "uk": "media/uk/performance.mp3",
-    "us": "media/us/performance.mp3"
+    "img": "media/img/performance.webp?v=30f3348d",
+    "uk": "media/uk/performance.mp3?v=0cef75d2",
+    "us": "media/us/performance.mp3?v=5ed95efc"
    },
    "hook": {
     "kind": "contrast",
@@ -1324,22 +1324,22 @@
     {
      "en": "Lily is very musical.",
      "zh": "Lily 很有音乐天赋。",
-     "audio": "media/sent/7a8825f1d112.mp3"
+     "audio": "media/sent/7a8825f1d112.mp3?v=f03c1b68"
     },
     {
      "en": "Grandma plays a musical instrument.",
      "zh": "奶奶会演奏一种乐器。",
-     "audio": "media/sent/56776b01b514.mp3"
+     "audio": "media/sent/56776b01b514.mp3?v=0c8fb459"
     },
     {
      "en": "We saw a funny musical film.",
      "zh": "我们看了一部有趣的音乐电影。",
-     "audio": "media/sent/c3241bbef0c9.mp3"
+     "audio": "media/sent/c3241bbef0c9.mp3?v=5a3ad2b8"
     }
    ],
    "media": {
-    "uk": "media/uk/musical.mp3",
-    "us": "media/us/musical.mp3"
+    "uk": "media/uk/musical.mp3?v=8ec23e2f",
+    "us": "media/us/musical.mp3?v=04bd3779"
    },
    "hook": {
     "kind": "affix",
@@ -1376,23 +1376,23 @@
     {
      "en": "We watched a movie last night.",
      "zh": "我们昨晚看了一部电影。",
-     "audio": "media/sent/cb8520c95a94.mp3"
+     "audio": "media/sent/cb8520c95a94.mp3?v=d3743829"
     },
     {
      "en": "This movie is very exciting.",
      "zh": "这部电影很刺激。",
-     "audio": "media/sent/42340e72d249.mp3"
+     "audio": "media/sent/42340e72d249.mp3?v=b738f9c0"
     },
     {
      "en": "Let's go to the cinema for a movie.",
      "zh": "我们去电影院看电影吧。",
-     "audio": "media/sent/64827e2b61c2.mp3"
+     "audio": "media/sent/64827e2b61c2.mp3?v=98911994"
     }
    ],
    "media": {
-    "img": "media/img/movie.webp",
-    "uk": "media/uk/movie.mp3",
-    "us": "media/us/movie.mp3"
+    "img": "media/img/movie.webp?v=c200f8dc",
+    "uk": "media/uk/movie.mp3?v=849eb691",
+    "us": "media/us/movie.mp3?v=b23e0831"
    },
    "spell": true,
    "avoid": [
@@ -1429,23 +1429,23 @@
     {
      "en": "Lily shows us her painting.",
      "zh": "Lily 给我们看她的画。",
-     "audio": "media/sent/9d3dd7a7b3a7.mp3"
+     "audio": "media/sent/9d3dd7a7b3a7.mp3?v=f81feb9f"
     },
     {
      "en": "The museum has many old paintings.",
      "zh": "博物馆里有很多古老的画作。",
-     "audio": "media/sent/0cacc4cd1003.mp3"
+     "audio": "media/sent/0cacc4cd1003.mp3?v=bc322388"
     },
     {
      "en": "He is good at painting flowers.",
      "zh": "他擅长画花。",
-     "audio": "media/sent/0a36f03a9324.mp3"
+     "audio": "media/sent/0a36f03a9324.mp3?v=7ef30bba"
     }
    ],
    "media": {
-    "img": "media/img/painting.webp",
-    "uk": "media/uk/painting.mp3",
-    "us": "media/us/painting.mp3"
+    "img": "media/img/painting.webp?v=d58a50b1",
+    "uk": "media/uk/painting.mp3?v=972378cd",
+    "us": "media/us/painting.mp3?v=90c64408"
    },
    "spell": true,
    "hook": {
@@ -1486,23 +1486,23 @@
     {
      "en": "We visited the art gallery.",
      "zh": "我们参观了美术馆。",
-     "audio": "media/sent/2e0887acc3b2.mp3"
+     "audio": "media/sent/2e0887acc3b2.mp3?v=164ce108"
     },
     {
      "en": "There are no photos in the gallery.",
      "zh": "画廊里不能拍照。",
-     "audio": "media/sent/8ccd0a91b2c8.mp3"
+     "audio": "media/sent/8ccd0a91b2c8.mp3?v=8bb94f23"
     },
     {
      "en": "The gallery is quiet and clean.",
      "zh": "美术馆安静又整洁。",
-     "audio": "media/sent/0dc98f1fbe05.mp3"
+     "audio": "media/sent/0dc98f1fbe05.mp3?v=c0b31a52"
     }
    ],
    "media": {
-    "img": "media/img/gallery.webp",
-    "uk": "media/uk/gallery.mp3",
-    "us": "media/us/gallery.mp3"
+    "img": "media/img/gallery.webp?v=ea992101",
+    "uk": "media/uk/gallery.mp3?v=449ecc93",
+    "us": "media/us/gallery.mp3?v=2f52fed3"
    },
    "hook": {
     "kind": "story",
@@ -1541,23 +1541,23 @@
     {
      "en": "Dad has a surprise for us.",
      "zh": "爸爸给我们准备了一个惊喜。",
-     "audio": "media/sent/25a6423f322d.mp3"
+     "audio": "media/sent/25a6423f322d.mp3?v=36bb872e"
     },
     {
      "en": "Happy birthday! It's a big surprise.",
      "zh": "生日快乐！这是一个大惊喜。",
-     "audio": "media/sent/5d9e672a0ca9.mp3"
+     "audio": "media/sent/5d9e672a0ca9.mp3?v=b239884b"
     },
     {
      "en": "Grandma gave us a nice surprise.",
      "zh": "奶奶给了我们一个美好的惊喜。",
-     "audio": "media/sent/2e4f5bfdf46f.mp3"
+     "audio": "media/sent/2e4f5bfdf46f.mp3?v=484d854c"
     }
    ],
    "media": {
-    "img": "media/img/surprise.webp",
-    "uk": "media/uk/surprise.mp3",
-    "us": "media/us/surprise.mp3"
+    "img": "media/img/surprise.webp?v=39e7c95e",
+    "uk": "media/uk/surprise.mp3?v=bd500021",
+    "us": "media/us/surprise.mp3?v=c902c7e3"
    },
    "hook": {
     "kind": "story",
@@ -1595,23 +1595,23 @@
     {
      "en": "Mum gives Tom a kiss.",
      "zh": "妈妈给了 Tom 一个吻。",
-     "audio": "media/sent/fd52de5da78c.mp3"
+     "audio": "media/sent/fd52de5da78c.mp3?v=1c636941"
     },
     {
      "en": "Grandpa kisses the baby.",
      "zh": "爷爷亲了亲宝宝。",
-     "audio": "media/sent/7a78ad87006f.mp3"
+     "audio": "media/sent/7a78ad87006f.mp3?v=a682b152"
     },
     {
      "en": "She gave me a kiss goodbye.",
      "zh": "她给了我一个告别的吻。",
-     "audio": "media/sent/fc9e687d1f14.mp3"
+     "audio": "media/sent/fc9e687d1f14.mp3?v=7fa115a7"
     }
    ],
    "media": {
-    "img": "media/img/kiss.webp",
-    "uk": "media/uk/kiss.mp3",
-    "us": "media/us/kiss.mp3"
+    "img": "media/img/kiss.webp?v=6b7d83b0",
+    "uk": "media/uk/kiss.mp3?v=4ea42336",
+    "us": "media/us/kiss.mp3?v=7581e4bb"
    },
    "avoid": []
   },
@@ -1644,23 +1644,23 @@
     {
      "en": "The action film is fast.",
      "zh": "这部动作电影很快节奏。",
-     "audio": "media/sent/b22c586ece5a.mp3"
+     "audio": "media/sent/b22c586ece5a.mp3?v=7b244b71"
     },
     {
      "en": "He likes action games.",
      "zh": "他喜欢动作游戏。",
-     "audio": "media/sent/857e34b08e73.mp3"
+     "audio": "media/sent/857e34b08e73.mp3?v=42b82559"
     },
     {
      "en": "Think before you take action.",
      "zh": "行动前要思考。",
-     "audio": "media/sent/2ddff4628399.mp3"
+     "audio": "media/sent/2ddff4628399.mp3?v=c87c7c6e"
     }
    ],
    "media": {
-    "img": "media/img/action.webp",
-    "uk": "media/uk/action.mp3",
-    "us": "media/us/action.mp3"
+    "img": "media/img/action.webp?v=77297e59",
+    "uk": "media/uk/action.mp3?v=458ecb7f",
+    "us": "media/us/action.mp3?v=6253c003"
    },
    "hook": {
     "kind": "contrast",
@@ -1702,23 +1702,23 @@
     {
      "en": "Reading is my favourite activity.",
      "zh": "阅读是我最喜欢的活动。",
-     "audio": "media/sent/71b933f7454f.mp3"
+     "audio": "media/sent/71b933f7454f.mp3?v=7d14a6da"
     },
     {
      "en": "Swimming is a fun activity.",
      "zh": "游泳是一项有趣的活动。",
-     "audio": "media/sent/0e55ccdb6921.mp3"
+     "audio": "media/sent/0e55ccdb6921.mp3?v=0c1737cf"
     },
     {
      "en": "What activity do you like?",
      "zh": "你喜欢什么活动？",
-     "audio": "media/sent/2136deeec534.mp3"
+     "audio": "media/sent/2136deeec534.mp3?v=ee5f3c0c"
     }
    ],
    "media": {
-    "img": "media/img/activity.webp",
-    "uk": "media/uk/activity.mp3",
-    "us": "media/us/activity.mp3"
+    "img": "media/img/activity.webp?v=22ef844b",
+    "uk": "media/uk/activity.mp3?v=a9e8bee7",
+    "us": "media/us/activity.mp3?v=8546846f"
    },
    "spell": true,
    "hook": {
@@ -1758,23 +1758,23 @@
     {
      "en": "Lily wants to take part in the race.",
      "zh": "Lily 想参加比赛。",
-     "audio": "media/sent/af843515a983.mp3"
+     "audio": "media/sent/af843515a983.mp3?v=cba0f19b"
     },
     {
      "en": "Can I take part in the club?",
      "zh": "我可以参加这个俱乐部吗？",
-     "audio": "media/sent/03ee4898fa59.mp3"
+     "audio": "media/sent/03ee4898fa59.mp3?v=523f7419"
     },
     {
      "en": "They took part in the school play.",
      "zh": "他们参加了学校的话剧。",
-     "audio": "media/sent/fc93231b6d5d.mp3"
+     "audio": "media/sent/fc93231b6d5d.mp3?v=c96257c6"
     }
    ],
    "media": {
-    "img": "media/img/take-part.webp",
-    "uk": "media/word/take-part.mp3",
-    "us": "media/word/take-part.mp3"
+    "img": "media/img/take-part.webp?v=903f7758",
+    "uk": "media/word/take-part.mp3?v=6d4ec758",
+    "us": "media/word/take-part.mp3?v=6d4ec758"
    },
    "hook": {
     "kind": "split",
@@ -1811,23 +1811,23 @@
     {
      "en": "Dad works out in the park every morning.",
      "zh": "爸爸每天早上在公园锻炼。",
-     "audio": "media/sent/52c4e577baec.mp3"
+     "audio": "media/sent/52c4e577baec.mp3?v=80e25652"
     },
     {
      "en": "Mum likes to work out at the gym.",
      "zh": "妈妈喜欢在健身房锻炼。",
-     "audio": "media/sent/5693806b64e4.mp3"
+     "audio": "media/sent/5693806b64e4.mp3?v=6e3d1607"
     },
     {
      "en": "Uncle Ben works out with Sam.",
      "zh": "Ben 叔叔和 Sam 一起锻炼。",
-     "audio": "media/sent/cd63e7913f32.mp3"
+     "audio": "media/sent/cd63e7913f32.mp3?v=502aaf2e"
     }
    ],
    "media": {
-    "img": "media/img/work-out.webp",
-    "uk": "media/word/work-out.mp3",
-    "us": "media/word/work-out.mp3"
+    "img": "media/img/work-out.webp?v=60acd53f",
+    "uk": "media/word/work-out.mp3?v=a85bd99a",
+    "us": "media/word/work-out.mp3?v=a85bd99a"
    },
    "hook": {
     "kind": "split",

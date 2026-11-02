@@ -36,23 +36,23 @@
     {
      "en": "The cat is black.",
      "zh": "这只猫是黑色的。",
-     "audio": "media/sent/5e40754dea7b.mp3"
+     "audio": "media/sent/5e40754dea7b.mp3?v=28715eb7"
     },
     {
      "en": "Lily has black shoes.",
      "zh": "Lily 有一双黑鞋。",
-     "audio": "media/sent/29554e805f3d.mp3"
+     "audio": "media/sent/29554e805f3d.mp3?v=7481b482"
     },
     {
      "en": "The night sky is black.",
      "zh": "夜空是黑色的。",
-     "audio": "media/sent/ae6c2bcc189f.mp3"
+     "audio": "media/sent/ae6c2bcc189f.mp3?v=7b91535c"
     }
    ],
    "media": {
-    "img": "media/img/black.webp",
-    "uk": "media/uk/black.mp3",
-    "us": "media/us/black.mp3"
+    "img": "media/img/black.webp?v=1604553f",
+    "uk": "media/uk/black.mp3?v=428dedbb",
+    "us": "media/us/black.mp3?v=514ff0ee"
    },
    "spell": true,
    "avoid": [
@@ -94,23 +94,23 @@
     {
      "en": "The sky is blue.",
      "zh": "天空是蓝色的。",
-     "audio": "media/sent/41b071a3cc95.mp3"
+     "audio": "media/sent/41b071a3cc95.mp3?v=1e57ab9b"
     },
     {
      "en": "Max has a blue bowl.",
      "zh": "Max 有一个蓝色的碗。",
-     "audio": "media/sent/40b4979ade98.mp3"
+     "audio": "media/sent/40b4979ade98.mp3?v=49dbe9b2"
     },
     {
      "en": "The sea is blue today.",
      "zh": "今天的大海是蓝色的。",
-     "audio": "media/sent/72e5b582d235.mp3"
+     "audio": "media/sent/72e5b582d235.mp3?v=2d41bcb4"
     }
    ],
    "media": {
-    "img": "media/img/blue.webp",
-    "uk": "media/uk/blue.mp3",
-    "us": "media/us/blue.mp3"
+    "img": "media/img/blue.webp?v=7f06eb19",
+    "uk": "media/uk/blue.mp3?v=342d89b1",
+    "us": "media/us/blue.mp3?v=7f76ab02"
    },
    "spell": true,
    "avoid": []
@@ -150,23 +150,23 @@
     {
      "en": "The bear is brown.",
      "zh": "这只熊是棕色的。",
-     "audio": "media/sent/8909fd5dd6b7.mp3"
+     "audio": "media/sent/8909fd5dd6b7.mp3?v=48dc755b"
     },
     {
      "en": "Chocolate is brown.",
      "zh": "巧克力是棕色的。",
-     "audio": "media/sent/46bb1eaea0da.mp3"
+     "audio": "media/sent/46bb1eaea0da.mp3?v=e2d21312"
     },
     {
      "en": "Tom has brown hair.",
      "zh": "Tom 的头发是棕色的。",
-     "audio": "media/sent/1c16e263e1cd.mp3"
+     "audio": "media/sent/1c16e263e1cd.mp3?v=5a378f21"
     }
    ],
    "media": {
-    "img": "media/img/brown.webp",
-    "uk": "media/uk/brown.mp3",
-    "us": "media/us/brown.mp3"
+    "img": "media/img/brown.webp?v=326fe4d8",
+    "uk": "media/uk/brown.mp3?v=93519c97",
+    "us": "media/us/brown.mp3?v=d74c156f"
    },
    "spell": true,
    "avoid": []
@@ -199,23 +199,23 @@
     {
      "en": "It's dark. Lily can't see.",
      "zh": "天黑了，Lily 看不见。",
-     "audio": "media/sent/eea3cb303669.mp3"
+     "audio": "media/sent/eea3cb303669.mp3?v=e98e27be"
     },
     {
      "en": "It gets dark at six o'clock.",
      "zh": "六点钟天就黑了。",
-     "audio": "media/sent/2f302751fd0c.mp3"
+     "audio": "media/sent/2f302751fd0c.mp3?v=f7a99025"
     },
     {
      "en": "Lily has a dark blue coat.",
      "zh": "Lily 有一件深蓝色的外套。",
-     "audio": "media/sent/78d82fc705c4.mp3"
+     "audio": "media/sent/78d82fc705c4.mp3?v=0b4c0b34"
     }
    ],
    "media": {
-    "img": "media/img/dark.webp",
-    "uk": "media/uk/dark.mp3",
-    "us": "media/us/dark.mp3"
+    "img": "media/img/dark.webp?v=37dc12c9",
+    "uk": "media/uk/dark.mp3?v=e55657e9",
+    "us": "media/us/dark.mp3?v=1f923cc2"
    },
    "spell": true,
    "avoid": [
@@ -255,23 +255,23 @@
     {
      "en": "The king has a golden chair.",
      "zh": "国王有一把金色的椅子。",
-     "audio": "media/sent/7f18853fc22e.mp3"
+     "audio": "media/sent/7f18853fc22e.mp3?v=5b3ee8a3"
     },
     {
      "en": "The sun is golden in the evening.",
      "zh": "傍晚的太阳是金色的。",
-     "audio": "media/sent/8003d2df4f2e.mp3"
+     "audio": "media/sent/8003d2df4f2e.mp3?v=b4d73716"
     },
     {
      "en": "Lily wins a golden cup.",
      "zh": "Lily 赢得了一个金杯。",
-     "audio": "media/sent/446c7bddf0bb.mp3"
+     "audio": "media/sent/446c7bddf0bb.mp3?v=008454e1"
     }
    ],
    "media": {
-    "img": "media/img/golden.webp",
-    "uk": "media/uk/golden.mp3",
-    "us": "media/us/golden.mp3"
+    "img": "media/img/golden.webp?v=f40e26f3",
+    "uk": "media/uk/golden.mp3?v=29397b13",
+    "us": "media/us/golden.mp3?v=c5e43891"
    },
    "hook": {
     "kind": "affix",
@@ -310,23 +310,23 @@
     {
      "en": "Frogs are green.",
      "zh": "青蛙是绿色的。",
-     "audio": "media/sent/436f3141d3a4.mp3"
+     "audio": "media/sent/436f3141d3a4.mp3?v=e3a60149"
     },
     {
      "en": "The grass is green.",
      "zh": "草是绿色的。",
-     "audio": "media/sent/837d238531b9.mp3"
+     "audio": "media/sent/837d238531b9.mp3?v=1f4691ed"
     },
     {
      "en": "Dad has a green car.",
      "zh": "爸爸有一辆绿色的车。",
-     "audio": "media/sent/9485bf9cc4b2.mp3"
+     "audio": "media/sent/9485bf9cc4b2.mp3?v=3f7b9f42"
     }
    ],
    "media": {
-    "img": "media/img/green.webp",
-    "uk": "media/uk/green.mp3",
-    "us": "media/us/green.mp3"
+    "img": "media/img/green.webp?v=61ca7116",
+    "uk": "media/uk/green.mp3?v=b374b9d1",
+    "us": "media/us/green.mp3?v=26fb0042"
    },
    "spell": true,
    "avoid": []
@@ -366,23 +366,23 @@
     {
      "en": "The mouse is grey.",
      "zh": "这只老鼠是灰色的。",
-     "audio": "media/sent/a486bb571f81.mp3"
+     "audio": "media/sent/a486bb571f81.mp3?v=bcc337f1"
     },
     {
      "en": "An elephant is grey.",
      "zh": "大象是灰色的。",
-     "audio": "media/sent/d2fa2598124a.mp3"
+     "audio": "media/sent/d2fa2598124a.mp3?v=874dce27"
     },
     {
      "en": "The sky is grey. It's going to rain.",
      "zh": "天空是灰色的，要下雨了。",
-     "audio": "media/sent/8d17055fddfd.mp3"
+     "audio": "media/sent/8d17055fddfd.mp3?v=57d3a7f6"
     }
    ],
    "media": {
-    "img": "media/img/grey.webp",
-    "uk": "media/uk/grey.mp3",
-    "us": "media/us/grey.mp3"
+    "img": "media/img/grey.webp?v=3706dde6",
+    "uk": "media/uk/grey.mp3?v=85ee8e48",
+    "us": "media/us/grey.mp3?v=af62e746"
    },
    "spell": true,
    "avoid": [
@@ -426,23 +426,23 @@
     {
      "en": "It's dark. Turn on the light, please.",
      "zh": "天黑了，请开灯。",
-     "audio": "media/sent/c781b15d58ba.mp3"
+     "audio": "media/sent/c781b15d58ba.mp3?v=7ec6cc47"
     },
     {
      "en": "Please turn off the light.",
      "zh": "请关灯。",
-     "audio": "media/sent/1d18c72228d2.mp3"
+     "audio": "media/sent/1d18c72228d2.mp3?v=b85e98ff"
     },
     {
      "en": "Can you turn on the light, please?",
      "zh": "你能开一下灯吗？",
-     "audio": "media/sent/059d2a0f48fa.mp3"
+     "audio": "media/sent/059d2a0f48fa.mp3?v=8e80ca75"
     }
    ],
    "media": {
-    "img": "media/img/light.webp",
-    "uk": "media/uk/light.mp3",
-    "us": "media/us/light.mp3"
+    "img": "media/img/light.webp?v=4e791705",
+    "uk": "media/uk/light.mp3?v=12d583da",
+    "us": "media/us/light.mp3?v=25c38e3a"
    },
    "spell": true,
    "avoid": [
@@ -487,23 +487,23 @@
     {
      "en": "Lily has a light blue dress.",
      "zh": "Lily 有一条浅蓝色的裙子。",
-     "audio": "media/sent/5c2ca09385d0.mp3"
+     "audio": "media/sent/5c2ca09385d0.mp3?v=8b051b7a"
     },
     {
      "en": "I like light green.",
      "zh": "我喜欢浅绿色。",
-     "audio": "media/sent/1d22a95c0936.mp3"
+     "audio": "media/sent/1d22a95c0936.mp3?v=1791645a"
     },
     {
      "en": "The kitchen is big and light.",
      "zh": "厨房又大又明亮。",
-     "audio": "media/sent/2cfa03e359ee.mp3"
+     "audio": "media/sent/2cfa03e359ee.mp3?v=789d7967"
     }
    ],
    "media": {
-    "img": "media/img/light.2.webp",
-    "uk": "media/uk/light.mp3",
-    "us": "media/us/light.mp3"
+    "img": "media/img/light.2.webp?v=c276f994",
+    "uk": "media/uk/light.mp3?v=12d583da",
+    "us": "media/us/light.mp3?v=25c38e3a"
    },
    "of": "light",
    "ofZh": "灯；光",
@@ -550,23 +550,23 @@
     {
      "en": "My favourite colour is orange.",
      "zh": "我最喜欢的颜色是橙色。",
-     "audio": "media/sent/1853f739716a.mp3"
+     "audio": "media/sent/1853f739716a.mp3?v=a5f2fafe"
     },
     {
      "en": "Lily has an orange T-shirt.",
      "zh": "Lily 有一件橙色的T恤。",
-     "audio": "media/sent/6584bc5d7580.mp3"
+     "audio": "media/sent/6584bc5d7580.mp3?v=3a3ff4cc"
     },
     {
      "en": "Lily eats an orange after lunch.",
      "zh": "Lily 午饭后吃了一个橙子。",
-     "audio": "media/sent/7e9d563dba67.mp3"
+     "audio": "media/sent/7e9d563dba67.mp3?v=7df66472"
     }
    ],
    "media": {
-    "img": "media/img/orange.webp",
-    "uk": "media/uk/orange.mp3",
-    "us": "media/us/orange.mp3"
+    "img": "media/img/orange.webp?v=d422cd59",
+    "uk": "media/uk/orange.mp3?v=1ce40714",
+    "us": "media/us/orange.mp3?v=20d58a9a"
    },
    "spell": true,
    "avoid": [
@@ -602,23 +602,23 @@
     {
      "en": "Lily is ill. Her face is pale.",
      "zh": "Lily 病了，她脸色苍白。",
-     "audio": "media/sent/b3a45501871e.mp3"
+     "audio": "media/sent/b3a45501871e.mp3?v=4f9cd0b4"
     },
     {
      "en": "Tom looks pale today.",
      "zh": "Tom 今天脸色苍白。",
-     "audio": "media/sent/a82c05e81b80.mp3"
+     "audio": "media/sent/a82c05e81b80.mp3?v=9c222af1"
     },
     {
      "en": "The wall is pale yellow.",
      "zh": "墙是淡黄色的。",
-     "audio": "media/sent/fa2878eaa51e.mp3"
+     "audio": "media/sent/fa2878eaa51e.mp3?v=a4ee24fe"
     }
    ],
    "media": {
-    "img": "media/img/pale.webp",
-    "uk": "media/uk/pale.mp3",
-    "us": "media/us/pale.mp3"
+    "img": "media/img/pale.webp?v=0e34f6b8",
+    "uk": "media/uk/pale.mp3?v=dc47588a",
+    "us": "media/us/pale.mp3?v=0787a555"
    },
    "hook": {
     "kind": "contrast",
@@ -659,23 +659,23 @@
     {
      "en": "Lily likes pink flowers.",
      "zh": "Lily 喜欢粉红色的花。",
-     "audio": "media/sent/7e848f3685f7.mp3"
+     "audio": "media/sent/7e848f3685f7.mp3?v=6e245375"
     },
     {
      "en": "Lily's bag is pink.",
      "zh": "Lily 的书包是粉红色的。",
-     "audio": "media/sent/df1547b98a16.mp3"
+     "audio": "media/sent/df1547b98a16.mp3?v=cbb62684"
     },
     {
      "en": "Lily wears a pink hat.",
      "zh": "Lily 戴着一顶粉红色的帽子。",
-     "audio": "media/sent/0e91f542db36.mp3"
+     "audio": "media/sent/0e91f542db36.mp3?v=0c86d7d2"
     }
    ],
    "media": {
-    "img": "media/img/pink.webp",
-    "uk": "media/uk/pink.mp3",
-    "us": "media/us/pink.mp3"
+    "img": "media/img/pink.webp?v=4d4bb1bd",
+    "uk": "media/uk/pink.mp3?v=0af281e1",
+    "us": "media/us/pink.mp3?v=13b3887d"
    },
    "spell": true,
    "avoid": []
@@ -709,23 +709,23 @@
     {
      "en": "Lily paints a purple flower.",
      "zh": "Lily 画了一朵紫色的花。",
-     "audio": "media/sent/9e85673940bd.mp3"
+     "audio": "media/sent/9e85673940bd.mp3?v=3bf59f07"
     },
     {
      "en": "Some grapes are purple.",
      "zh": "有些葡萄是紫色的。",
-     "audio": "media/sent/d4e234832829.mp3"
+     "audio": "media/sent/d4e234832829.mp3?v=6f2c74ea"
     },
     {
      "en": "Grandma has a purple bag.",
      "zh": "奶奶有一个紫色的包。",
-     "audio": "media/sent/7763636ecd79.mp3"
+     "audio": "media/sent/7763636ecd79.mp3?v=a46119e2"
     }
    ],
    "media": {
-    "img": "media/img/purple.webp",
-    "uk": "media/uk/purple.mp3",
-    "us": "media/us/purple.mp3"
+    "img": "media/img/purple.webp?v=40d56dbc",
+    "uk": "media/uk/purple.mp3?v=9194e864",
+    "us": "media/us/purple.mp3?v=0d5b9181"
    },
    "spell": true,
    "avoid": []
@@ -758,23 +758,23 @@
     {
      "en": "Strawberries are red.",
      "zh": "草莓是红色的。",
-     "audio": "media/sent/1651ac6b4c73.mp3"
+     "audio": "media/sent/1651ac6b4c73.mp3?v=24fe865d"
     },
     {
      "en": "A tomato is red.",
      "zh": "西红柿是红色的。",
-     "audio": "media/sent/8c0178172ee9.mp3"
+     "audio": "media/sent/8c0178172ee9.mp3?v=4c85c4d7"
     },
     {
      "en": "Lily has a red bike.",
      "zh": "Lily 有一辆红色的自行车。",
-     "audio": "media/sent/73022f6b2e37.mp3"
+     "audio": "media/sent/73022f6b2e37.mp3?v=4ff59ab6"
     }
    ],
    "media": {
-    "img": "media/img/red.webp",
-    "uk": "media/uk/red.mp3",
-    "us": "media/us/red.mp3"
+    "img": "media/img/red.webp?v=523a5995",
+    "uk": "media/uk/red.mp3?v=d58bdc86",
+    "us": "media/us/red.mp3?v=b738fdc5"
    },
    "spell": true,
    "avoid": []
@@ -815,23 +815,23 @@
     {
      "en": "Mum has a silver ring.",
      "zh": "妈妈有一枚银戒指。",
-     "audio": "media/sent/b2d31e308d13.mp3"
+     "audio": "media/sent/b2d31e308d13.mp3?v=06207344"
     },
     {
      "en": "The moon looks silver.",
      "zh": "月亮看起来是银色的。",
-     "audio": "media/sent/9b55002fffdd.mp3"
+     "audio": "media/sent/9b55002fffdd.mp3?v=6c63e08e"
     },
     {
      "en": "Dad has a silver watch.",
      "zh": "爸爸有一块银色的手表。",
-     "audio": "media/sent/1184f6b06984.mp3"
+     "audio": "media/sent/1184f6b06984.mp3?v=24f42d2d"
     }
    ],
    "media": {
-    "img": "media/img/silver.webp",
-    "uk": "media/uk/silver.mp3",
-    "us": "media/us/silver.mp3"
+    "img": "media/img/silver.webp?v=f7b8bd51",
+    "uk": "media/uk/silver.mp3?v=620a007b",
+    "us": "media/us/silver.mp3?v=287ddf11"
    },
    "avoid": [
     "grey",
@@ -866,23 +866,23 @@
     {
      "en": "Snow is white.",
      "zh": "雪是白色的。",
-     "audio": "media/sent/451fa7e5fe4f.mp3"
+     "audio": "media/sent/451fa7e5fe4f.mp3?v=0da6e71b"
     },
     {
      "en": "Milk is white.",
      "zh": "牛奶是白色的。",
-     "audio": "media/sent/72cd28803339.mp3"
+     "audio": "media/sent/72cd28803339.mp3?v=c7b78a22"
     },
     {
      "en": "The clouds are white.",
      "zh": "云是白色的。",
-     "audio": "media/sent/b9745f8e5256.mp3"
+     "audio": "media/sent/b9745f8e5256.mp3?v=ecab0599"
     }
    ],
    "media": {
-    "img": "media/img/white.webp",
-    "uk": "media/uk/white.mp3",
-    "us": "media/us/white.mp3"
+    "img": "media/img/white.webp?v=8a5bd837",
+    "uk": "media/uk/white.mp3?v=5012bcc2",
+    "us": "media/us/white.mp3?v=b79158b6"
    },
    "spell": true,
    "avoid": [
@@ -923,23 +923,23 @@
     {
      "en": "A banana is yellow.",
      "zh": "香蕉是黄色的。",
-     "audio": "media/sent/bc78f6719548.mp3"
+     "audio": "media/sent/bc78f6719548.mp3?v=13fe206a"
     },
     {
      "en": "The sun is yellow.",
      "zh": "太阳是黄色的。",
-     "audio": "media/sent/a79585026df7.mp3"
+     "audio": "media/sent/a79585026df7.mp3?v=113df68c"
     },
     {
      "en": "Lily has a yellow T-shirt.",
      "zh": "Lily 有一件黄色的T恤。",
-     "audio": "media/sent/bc8ac3f76d72.mp3"
+     "audio": "media/sent/bc8ac3f76d72.mp3?v=ac6dd832"
     }
    ],
    "media": {
-    "img": "media/img/yellow.webp",
-    "uk": "media/uk/yellow.mp3",
-    "us": "media/us/yellow.mp3"
+    "img": "media/img/yellow.webp?v=a90172c3",
+    "uk": "media/uk/yellow.mp3?v=bb1a9723",
+    "us": "media/us/yellow.mp3?v=8b3c5d63"
    },
    "spell": true,
    "avoid": [

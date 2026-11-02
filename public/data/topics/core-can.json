@@ -31,22 +31,22 @@
     {
      "en": "I will be home soon.",
      "zh": "我很快就会在家。",
-     "audio": "media/sent/c0d1143573fa.mp3"
+     "audio": "media/sent/c0d1143573fa.mp3?v=9d98a056"
     },
     {
      "en": "Please be quiet in the library.",
      "zh": "在图书馆请保持安静。",
-     "audio": "media/sent/ff09239732fc.mp3"
+     "audio": "media/sent/ff09239732fc.mp3?v=49a1550a"
     },
     {
      "en": "Be careful with the hot cup.",
      "zh": "小心这个烫杯子。",
-     "audio": "media/sent/d9dfabf6332b.mp3"
+     "audio": "media/sent/d9dfabf6332b.mp3?v=769f4a48"
     }
    ],
    "media": {
-    "uk": "media/word/be.mp3",
-    "us": "media/word/be.mp3"
+    "uk": "media/word/be.mp3?v=6d192447",
+    "us": "media/word/be.mp3?v=6d192447"
    },
    "avoid": []
   },
@@ -80,22 +80,22 @@
     {
      "en": "I do my homework at four.",
      "zh": "我四点做作业。",
-     "audio": "media/sent/eec4ddafd393.mp3"
+     "audio": "media/sent/eec4ddafd393.mp3?v=7f8bd448"
     },
     {
      "en": "Do you like ice cream?",
      "zh": "你喜欢冰淇淋吗？",
-     "audio": "media/sent/713002f1b78e.mp3"
+     "audio": "media/sent/713002f1b78e.mp3?v=35ec4ceb"
     },
     {
      "en": "Dad helps me do the washing up.",
      "zh": "爸爸帮我洗碗。",
-     "audio": "media/sent/e1c3c74a4d74.mp3"
+     "audio": "media/sent/e1c3c74a4d74.mp3?v=65829afd"
     }
    ],
    "media": {
-    "uk": "media/word/do.mp3",
-    "us": "media/word/do.mp3"
+    "uk": "media/word/do.mp3?v=c5b11d6d",
+    "us": "media/word/do.mp3?v=c5b11d6d"
    },
    "avoid": []
   },
@@ -129,22 +129,22 @@
     {
      "en": "We have lunch at one o'clock.",
      "zh": "我们一点钟吃午饭。",
-     "audio": "media/sent/cd6ef37c1d2c.mp3"
+     "audio": "media/sent/cd6ef37c1d2c.mp3?v=0b9e735d"
     },
     {
      "en": "Lily has a red bike.",
      "zh": "Lily 有一辆红色的自行车。",
-     "audio": "media/sent/73022f6b2e37.mp3"
+     "audio": "media/sent/73022f6b2e37.mp3?v=4ff59ab6"
     },
     {
      "en": "Do you have any questions?",
      "zh": "你有什么问题吗？",
-     "audio": "media/sent/577be1541eb6.mp3"
+     "audio": "media/sent/577be1541eb6.mp3?v=3c357ec6"
     }
    ],
    "media": {
-    "uk": "media/word/have.mp3",
-    "us": "media/word/have.mp3"
+    "uk": "media/word/have.mp3?v=d25d5301",
+    "us": "media/word/have.mp3?v=d25d5301"
    },
    "hook": {
     "kind": "contrast",
@@ -181,22 +181,22 @@
     {
      "en": "I cannot ride a bike yet.",
      "zh": "我还不会骑自行车。",
-     "audio": "media/sent/25d1f7365037.mp3"
+     "audio": "media/sent/25d1f7365037.mp3?v=bfda9c0f"
     },
     {
      "en": "You cannot play here.",
      "zh": "你不能在这里玩。",
-     "audio": "media/sent/ee84ccd44648.mp3"
+     "audio": "media/sent/ee84ccd44648.mp3?v=735a683e"
     },
     {
      "en": "Max cannot fly like a bird.",
      "zh": "Max 不会像鸟一样飞。",
-     "audio": "media/sent/cc2ef8d82ac0.mp3"
+     "audio": "media/sent/cc2ef8d82ac0.mp3?v=81cbd58f"
     }
    ],
    "media": {
-    "uk": "media/word/cannot.mp3",
-    "us": "media/word/cannot.mp3"
+    "uk": "media/word/cannot.mp3?v=e74aaf56",
+    "us": "media/word/cannot.mp3?v=e74aaf56"
    },
    "hook": {
     "kind": "split",
@@ -232,22 +232,22 @@
     {
      "en": "Could I have a balloon, please?",
      "zh": "我可以要一个气球吗？",
-     "audio": "media/sent/723b9c59b5ae.mp3"
+     "audio": "media/sent/723b9c59b5ae.mp3?v=dfa79083"
     },
     {
      "en": "When I was small, I could not swim.",
      "zh": "我小时候不会游泳。",
-     "audio": "media/sent/9a38a97325a9.mp3"
+     "audio": "media/sent/9a38a97325a9.mp3?v=76eb8fe1"
     },
     {
      "en": "Could you help me find my cat?",
      "zh": "你能帮我找我的猫吗？",
-     "audio": "media/sent/2a097c15c997.mp3"
+     "audio": "media/sent/2a097c15c997.mp3?v=96c06f18"
     }
    ],
    "media": {
-    "uk": "media/word/could.mp3",
-    "us": "media/word/could.mp3"
+    "uk": "media/word/could.mp3?v=0e9683a9",
+    "us": "media/word/could.mp3?v=0e9683a9"
    },
    "hook": {
     "kind": "contrast",
@@ -283,22 +283,22 @@
     {
      "en": "It might rain later.",
      "zh": "晚点可能会下雨。",
-     "audio": "media/sent/621cb298baf3.mp3"
+     "audio": "media/sent/621cb298baf3.mp3?v=15176f67"
     },
     {
      "en": "Tom might be at the park.",
      "zh": "Tom 可能在公园。",
-     "audio": "media/sent/19b032562096.mp3"
+     "audio": "media/sent/19b032562096.mp3?v=a693161a"
     },
     {
      "en": "We might go to Grandma's house.",
      "zh": "我们可能去奶奶家。",
-     "audio": "media/sent/e1948ee642cd.mp3"
+     "audio": "media/sent/e1948ee642cd.mp3?v=d3e48b26"
     }
    ],
    "media": {
-    "uk": "media/word/might.mp3",
-    "us": "media/word/might.mp3"
+    "uk": "media/word/might.mp3?v=fb9b867b",
+    "us": "media/word/might.mp3?v=fb9b867b"
    },
    "hook": {
     "kind": "contrast",
@@ -334,22 +334,22 @@
     {
      "en": "We must stop at the red light.",
      "zh": "我们必须红灯停。",
-     "audio": "media/sent/557c6d74725d.mp3"
+     "audio": "media/sent/557c6d74725d.mp3?v=6a17cf2c"
     },
     {
      "en": "You must wash your hands.",
      "zh": "你必须洗手。",
-     "audio": "media/sent/2512c4c34019.mp3"
+     "audio": "media/sent/2512c4c34019.mp3?v=3681e5ba"
     },
     {
      "en": "Max must not eat chocolate.",
      "zh": "Max 不能吃巧克力。",
-     "audio": "media/sent/62b2e0c730a5.mp3"
+     "audio": "media/sent/62b2e0c730a5.mp3?v=28e650c1"
     }
    ],
    "media": {
-    "uk": "media/uk/must.mp3",
-    "us": "media/us/must.mp3"
+    "uk": "media/uk/must.mp3?v=eba08c47",
+    "us": "media/us/must.mp3?v=5664dfa6"
    },
    "spell": true,
    "hook": {
@@ -386,22 +386,22 @@
     {
      "en": "Shall we go swimming?",
      "zh": "我们去游泳好吗？",
-     "audio": "media/sent/26d943e8eedf.mp3"
+     "audio": "media/sent/26d943e8eedf.mp3?v=1192e67a"
     },
     {
      "en": "Shall I open the window?",
      "zh": "要我打开窗户吗？",
-     "audio": "media/sent/70d294172d9b.mp3"
+     "audio": "media/sent/70d294172d9b.mp3?v=26f20775"
     },
     {
      "en": "We shall meet at six o'clock.",
      "zh": "我们六点钟见面。",
-     "audio": "media/sent/1406bb10db5a.mp3"
+     "audio": "media/sent/1406bb10db5a.mp3?v=d2dbb008"
     }
    ],
    "media": {
-    "uk": "media/uk/shall.mp3",
-    "us": "media/us/shall.mp3"
+    "uk": "media/uk/shall.mp3?v=2a1bee69",
+    "us": "media/us/shall.mp3?v=a2981ff6"
    },
    "avoid": []
   },
@@ -433,22 +433,22 @@
     {
      "en": "You should brush your teeth.",
      "zh": "你应该刷牙。",
-     "audio": "media/sent/db39534b1601.mp3"
+     "audio": "media/sent/db39534b1601.mp3?v=ef56abfb"
     },
     {
      "en": "We should wear a hat outside.",
      "zh": "我们在外面应该戴帽子。",
-     "audio": "media/sent/04d506d927ef.mp3"
+     "audio": "media/sent/04d506d927ef.mp3?v=6422dcf4"
     },
     {
      "en": "Tom should say sorry to Lily.",
      "zh": "Tom 应该向 Lily 道歉。",
-     "audio": "media/sent/99b641a0a558.mp3"
+     "audio": "media/sent/99b641a0a558.mp3?v=bc6dbfaa"
     }
    ],
    "media": {
-    "uk": "media/uk/should.mp3",
-    "us": "media/us/should.mp3"
+    "uk": "media/uk/should.mp3?v=f95792bf",
+    "us": "media/us/should.mp3?v=f086ff61"
    },
    "hook": {
     "kind": "contrast",
@@ -484,22 +484,22 @@
     {
      "en": "I will buy you a gift.",
      "zh": "我会给你买礼物。",
-     "audio": "media/sent/3debc0a3e6d2.mp3"
+     "audio": "media/sent/3debc0a3e6d2.mp3?v=804689f3"
     },
     {
      "en": "It will be cold tomorrow.",
      "zh": "明天会很冷。",
-     "audio": "media/sent/26d47dea8b2b.mp3"
+     "audio": "media/sent/26d47dea8b2b.mp3?v=d347afbf"
     },
     {
      "en": "Lily will visit Grandma soon.",
      "zh": "Lily 很快会去看奶奶。",
-     "audio": "media/sent/7b7629dc0095.mp3"
+     "audio": "media/sent/7b7629dc0095.mp3?v=9a84623f"
     }
    ],
    "media": {
-    "uk": "media/word/will.mp3",
-    "us": "media/word/will.mp3"
+    "uk": "media/word/will.mp3?v=b5272479",
+    "us": "media/word/will.mp3?v=b5272479"
    },
    "hook": {
     "kind": "contrast",
@@ -535,22 +535,22 @@
     {
      "en": "Would you like some milk?",
      "zh": "你想要一些牛奶吗？",
-     "audio": "media/sent/0be1d7839602.mp3"
+     "audio": "media/sent/0be1d7839602.mp3?v=e2a6933e"
     },
     {
      "en": "I would like an orange, please.",
      "zh": "我想要一个橙子，谢谢。",
-     "audio": "media/sent/94f97e590ebf.mp3"
+     "audio": "media/sent/94f97e590ebf.mp3?v=1b86996f"
     },
     {
      "en": "Would you like to play football?",
      "zh": "你想踢足球吗？",
-     "audio": "media/sent/d8fa800bec9f.mp3"
+     "audio": "media/sent/d8fa800bec9f.mp3?v=281eec11"
     }
    ],
    "media": {
-    "uk": "media/word/would.mp3",
-    "us": "media/word/would.mp3"
+    "uk": "media/word/would.mp3?v=92c9624b",
+    "us": "media/word/would.mp3?v=92c9624b"
    },
    "hook": {
     "kind": "contrast",
@@ -587,22 +587,22 @@
     {
      "en": "Tom has to go to bed.",
      "zh": "Tom 必须去睡觉。",
-     "audio": "media/sent/0045bdc720fd.mp3"
+     "audio": "media/sent/0045bdc720fd.mp3?v=acf0dd01"
     },
     {
      "en": "We have to wait for the bus.",
      "zh": "我们必须等公交车。",
-     "audio": "media/sent/aa16367670b4.mp3"
+     "audio": "media/sent/aa16367670b4.mp3?v=63f91694"
     },
     {
      "en": "Lily has to wear her school shoes.",
      "zh": "Lily 必须穿她的校鞋。",
-     "audio": "media/sent/c3c638f7bf50.mp3"
+     "audio": "media/sent/c3c638f7bf50.mp3?v=11aae196"
     }
    ],
    "media": {
-    "uk": "media/word/have-to.mp3",
-    "us": "media/word/have-to.mp3"
+    "uk": "media/word/have-to.mp3?v=2ebebdbb",
+    "us": "media/word/have-to.mp3?v=2ebebdbb"
    },
    "hook": {
     "kind": "split",
@@ -640,22 +640,22 @@
     {
      "en": "I have got to go now.",
      "zh": "我现在必须走了。",
-     "audio": "media/sent/9c3f1572a99b.mp3"
+     "audio": "media/sent/9c3f1572a99b.mp3?v=337e13b3"
     },
     {
      "en": "We have got to hurry!",
      "zh": "我们必须快点！",
-     "audio": "media/sent/9dc134e48947.mp3"
+     "audio": "media/sent/9dc134e48947.mp3?v=e4736934"
     },
     {
      "en": "Tom has got to wash his hands.",
      "zh": "Tom 必须洗手。",
-     "audio": "media/sent/0841a1540d13.mp3"
+     "audio": "media/sent/0841a1540d13.mp3?v=92a340d2"
     }
    ],
    "media": {
-    "uk": "media/word/have-got-to.mp3",
-    "us": "media/word/have-got-to.mp3"
+    "uk": "media/word/have-got-to.mp3?v=7d4ec31b",
+    "us": "media/word/have-got-to.mp3?v=7d4ec31b"
    },
    "hook": {
     "kind": "story",
@@ -691,22 +691,22 @@
     {
      "en": "Please let me help.",
      "zh": "请让我帮忙。",
-     "audio": "media/sent/74e4be24cc6e.mp3"
+     "audio": "media/sent/74e4be24cc6e.mp3?v=68784fc4"
     },
     {
      "en": "Let's play football together.",
      "zh": "让我们一起踢足球吧。",
-     "audio": "media/sent/438a4e87a7fd.mp3"
+     "audio": "media/sent/438a4e87a7fd.mp3?v=f6f91553"
     },
     {
      "en": "Mum lets us watch films on Fridays.",
      "zh": "妈妈允许我们星期五看电影。",
-     "audio": "media/sent/eeb551d7e458.mp3"
+     "audio": "media/sent/eeb551d7e458.mp3?v=a8095c85"
     }
    ],
    "media": {
-    "uk": "media/uk/let.mp3",
-    "us": "media/us/let.mp3"
+    "uk": "media/uk/let.mp3?v=f6cd1d48",
+    "us": "media/us/let.mp3?v=9d68ee54"
    },
    "spell": true,
    "hook": {
@@ -744,22 +744,22 @@
     {
      "en": "Dad allows us to stay up late.",
      "zh": "爸爸允许我们熬夜。",
-     "audio": "media/sent/46b61565e55a.mp3"
+     "audio": "media/sent/46b61565e55a.mp3?v=525b3f3a"
     },
     {
      "en": "The school allows phones at lunch.",
      "zh": "学校允许在午餐时间使用手机。",
-     "audio": "media/sent/7d080cfabc22.mp3"
+     "audio": "media/sent/7d080cfabc22.mp3?v=fc0ca15a"
     },
     {
      "en": "We don't allow dogs on the sofa.",
      "zh": "我们不允许狗上沙发。",
-     "audio": "media/sent/6ac2bb0af3c1.mp3"
+     "audio": "media/sent/6ac2bb0af3c1.mp3?v=4909e79b"
     }
    ],
    "media": {
-    "uk": "media/uk/allow.mp3",
-    "us": "media/us/allow.mp3"
+    "uk": "media/uk/allow.mp3?v=6fdad0ad",
+    "us": "media/us/allow.mp3?v=7cbc69b6"
    },
    "avoid": []
   },
@@ -792,22 +792,22 @@
     {
      "en": "The baby bird becomes a big bird.",
      "zh": "小鸟变成了大鸟。",
-     "audio": "media/sent/1b2b9a3398e0.mp3"
+     "audio": "media/sent/1b2b9a3398e0.mp3?v=e8db08b5"
     },
     {
      "en": "Lily wants to become a teacher.",
      "zh": "Lily 想成为一名老师。",
-     "audio": "media/sent/fc430c0ae63f.mp3"
+     "audio": "media/sent/fc430c0ae63f.mp3?v=b816fb60"
     },
     {
      "en": "Water becomes ice in winter.",
      "zh": "水在冬天变成冰。",
-     "audio": "media/sent/7ad0970622d1.mp3"
+     "audio": "media/sent/7ad0970622d1.mp3?v=0d69e563"
     }
    ],
    "media": {
-    "uk": "media/uk/become.mp3",
-    "us": "media/us/become.mp3"
+    "uk": "media/uk/become.mp3?v=9990a00d",
+    "us": "media/us/become.mp3?v=94108579"
    },
    "spell": true,
    "hook": {
@@ -845,22 +845,22 @@
     {
      "en": "This bag belongs to me.",
      "zh": "这个包是我的。",
-     "audio": "media/sent/1c30d559b76f.mp3"
+     "audio": "media/sent/1c30d559b76f.mp3?v=4c731cb7"
     },
     {
      "en": "Does this ball belong to Tom?",
      "zh": "这个球是 Tom 的吗？",
-     "audio": "media/sent/2c366d1f0fb5.mp3"
+     "audio": "media/sent/2c366d1f0fb5.mp3?v=87f7b650"
     },
     {
      "en": "The puppy belongs to our family.",
      "zh": "这只小狗属于我们的家庭。",
-     "audio": "media/sent/600b8f8fcfd9.mp3"
+     "audio": "media/sent/600b8f8fcfd9.mp3?v=cf8ae43f"
     }
    ],
    "media": {
-    "uk": "media/uk/belong.mp3",
-    "us": "media/us/belong.mp3"
+    "uk": "media/uk/belong.mp3?v=7b1b5a39",
+    "us": "media/us/belong.mp3?v=66f7a154"
    },
    "hook": {
     "kind": "split",
@@ -897,22 +897,22 @@
     {
      "en": "Please don't bother Dad.",
      "zh": "请不要打扰爸爸。",
-     "audio": "media/sent/451289c17027.mp3"
+     "audio": "media/sent/451289c17027.mp3?v=8ce93ebf"
     },
     {
      "en": "The fly bothers the cat.",
      "zh": "苍蝇打扰了猫。",
-     "audio": "media/sent/3f5911f80e5a.mp3"
+     "audio": "media/sent/3f5911f80e5a.mp3?v=07b236e8"
     },
     {
      "en": "It doesn't bother me if it rains.",
      "zh": "如果下雨，我不觉得麻烦。",
-     "audio": "media/sent/db7b3d006c38.mp3"
+     "audio": "media/sent/db7b3d006c38.mp3?v=1cf3ad5b"
     }
    ],
    "media": {
-    "uk": "media/uk/bother.mp3",
-    "us": "media/us/bother.mp3"
+    "uk": "media/uk/bother.mp3?v=150ee675",
+    "us": "media/us/bother.mp3?v=a2d76815"
    },
    "hook": {
     "kind": "contrast",
@@ -949,22 +949,22 @@
     {
      "en": "What happened to the cake?",
      "zh": "蛋糕怎么了？",
-     "audio": "media/sent/c23a93729d84.mp3"
+     "audio": "media/sent/c23a93729d84.mp3?v=96d988b5"
     },
     {
      "en": "Accidents happen. Don't worry.",
      "zh": "意外难免，别担心。",
-     "audio": "media/sent/74c48182eb6a.mp3"
+     "audio": "media/sent/74c48182eb6a.mp3?v=e0926e4d"
     },
     {
      "en": "Bad things happen sometimes.",
      "zh": "坏事有时会发生。",
-     "audio": "media/sent/019027490747.mp3"
+     "audio": "media/sent/019027490747.mp3?v=3d5a63fd"
     }
    ],
    "media": {
-    "uk": "media/uk/happen.mp3",
-    "us": "media/us/happen.mp3"
+    "uk": "media/uk/happen.mp3?v=ad077c4d",
+    "us": "media/us/happen.mp3?v=d18ae46d"
    },
    "spell": true,
    "hook": {
@@ -1004,22 +1004,22 @@
     {
      "en": "It doesn't matter.",
      "zh": "没关系。",
-     "audio": "media/sent/aa9fae447523.mp3"
+     "audio": "media/sent/aa9fae447523.mp3?v=f341dcec"
     },
     {
      "en": "What's the matter, Mum?",
      "zh": "妈妈，怎么了？",
-     "audio": "media/sent/a8ef14e95d78.mp3"
+     "audio": "media/sent/a8ef14e95d78.mp3?v=10bdded5"
     },
     {
      "en": "The time doesn't matter now.",
      "zh": "现在时间不重要。",
-     "audio": "media/sent/a1e098d3f090.mp3"
+     "audio": "media/sent/a1e098d3f090.mp3?v=0ce17f30"
     }
    ],
    "media": {
-    "uk": "media/uk/matter.mp3",
-    "us": "media/us/matter.mp3"
+    "uk": "media/uk/matter.mp3?v=2d4de6cf",
+    "us": "media/us/matter.mp3?v=4b2a6410"
    },
    "hook": {
     "kind": "contrast",
@@ -1055,22 +1055,22 @@
     {
      "en": "Mum makes a sandwich.",
      "zh": "妈妈做一个三明治。",
-     "audio": "media/sent/277a87027d67.mp3"
+     "audio": "media/sent/277a87027d67.mp3?v=89cf3db5"
     },
     {
      "en": "Let's make a card for Grandma.",
      "zh": "让我们给奶奶做一张卡片吧。",
-     "audio": "media/sent/0653f69d6573.mp3"
+     "audio": "media/sent/0653f69d6573.mp3?v=e654d9c5"
     },
     {
      "en": "Dad makes dinner every Sunday.",
      "zh": "爸爸每个星期天做晚饭。",
-     "audio": "media/sent/405fb30b32b9.mp3"
+     "audio": "media/sent/405fb30b32b9.mp3?v=c3a5dada"
     }
    ],
    "media": {
-    "uk": "media/uk/make.mp3",
-    "us": "media/us/make.mp3"
+    "uk": "media/uk/make.mp3?v=96efa540",
+    "us": "media/us/make.mp3?v=7898bc49"
    },
    "spell": true,
    "avoid": []
@@ -1104,22 +1104,22 @@
     {
      "en": "Make sure you close the door.",
      "zh": "确保你关好了门。",
-     "audio": "media/sent/0796ea5c9b36.mp3"
+     "audio": "media/sent/0796ea5c9b36.mp3?v=b0e6a8cb"
     },
     {
      "en": "I must make sure Tom is safe.",
      "zh": "我必须确保 Tom 是安全的。",
-     "audio": "media/sent/396ba7edd641.mp3"
+     "audio": "media/sent/396ba7edd641.mp3?v=5cd1fb13"
     },
     {
      "en": "Let's make sure we have tickets.",
      "zh": "让我们确保我们有票。",
-     "audio": "media/sent/e2fb0774cc08.mp3"
+     "audio": "media/sent/e2fb0774cc08.mp3?v=130c9f10"
     }
    ],
    "media": {
-    "uk": "media/word/make-sure.mp3",
-    "us": "media/word/make-sure.mp3"
+    "uk": "media/word/make-sure.mp3?v=7d11e982",
+    "us": "media/word/make-sure.mp3?v=7d11e982"
    },
    "hook": {
     "kind": "split",
@@ -1155,22 +1155,22 @@
     {
      "en": "I use a pen to write.",
      "zh": "我用笔写字。",
-     "audio": "media/sent/79af2ae9b7aa.mp3"
+     "audio": "media/sent/79af2ae9b7aa.mp3?v=35bd95aa"
     },
     {
      "en": "We use forks for salad.",
      "zh": "我们吃沙拉时使用叉子。",
-     "audio": "media/sent/5d2a3bce2d38.mp3"
+     "audio": "media/sent/5d2a3bce2d38.mp3?v=6606b304"
     },
     {
      "en": "Can I use your phone?",
      "zh": "我能用一下你的手机吗？",
-     "audio": "media/sent/974cf7e27da2.mp3"
+     "audio": "media/sent/974cf7e27da2.mp3?v=21461861"
     }
    ],
    "media": {
-    "uk": "media/uk/use.mp3",
-    "us": "media/us/use.mp3"
+    "uk": "media/uk/use.mp3?v=66ad8c3d",
+    "us": "media/us/use.mp3?v=52fe0f16"
    },
    "spell": true,
    "avoid": []
@@ -1203,22 +1203,22 @@
     {
      "en": "Try to catch the ball.",
      "zh": "试着接住球。",
-     "audio": "media/sent/113b8a92b778.mp3"
+     "audio": "media/sent/113b8a92b778.mp3?v=ed5a785c"
     },
     {
      "en": "Let's try this new game.",
      "zh": "让我们试试这个新游戏。",
-     "audio": "media/sent/391c392c5ee5.mp3"
+     "audio": "media/sent/391c392c5ee5.mp3?v=49868484"
     },
     {
      "en": "Grandma tries to fix the clock.",
      "zh": "奶奶试着修时钟。",
-     "audio": "media/sent/eb4c260b79b0.mp3"
+     "audio": "media/sent/eb4c260b79b0.mp3?v=e07ffa8c"
     }
    ],
    "media": {
-    "uk": "media/uk/try.mp3",
-    "us": "media/us/try.mp3"
+    "uk": "media/uk/try.mp3?v=69d5ecc7",
+    "us": "media/us/try.mp3?v=9445ce5b"
    },
    "spell": true,
    "hook": {
