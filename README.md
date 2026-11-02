@@ -3,6 +3,7 @@
 给小学生的剑桥 A2 Key（KET）背词应用：按官方词表、按话题岛屿学习，每个词分“认识 / 听懂 / 会拼”三项独立记忆，用 FSRS 间隔复习，答题自动评分。
 
 ```bash
+git lfs install  # 插画和录音（*.webp、*.mp3、*.png）存在 Git LFS 里，clone 前装好 git-lfs
 npm install
 npm run dev      # http://localhost:5199
 npm test

@@ -20,6 +20,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # pictures and recordings are in Git LFS: keep the objects in the Actions cache, so a push
+      # downloads only the files it changed (LFS bandwidth is metered)
+      - run: git lfs ls-files --long | cut -d' ' -f1 | sort > .lfs-assets-id
+      - uses: actions/cache@v4
+        with:
+          path: .git/lfs
+          key: lfs-${{ hashFiles('.lfs-assets-id') }}
+          restore-keys: lfs-
+      - run: git lfs pull
+      - name: Every LFS file is present
+        run: "! git lfs ls-files | grep -q ' - '"
       - uses: actions/setup-node@v4
         with:
           node-version: 22
