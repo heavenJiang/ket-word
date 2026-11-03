@@ -4,8 +4,9 @@ import { daysLeft, NEW_WORD_SECS, secsPerReview } from "../session/goal";
 import { dayTasks, extraCap, todayPlan } from "../session/today";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
-import type { Topic } from "../types";
+import type { Topic, Word } from "../types";
 import { Max, type Pose } from "../ui/Max";
+import { Picture } from "../ui/Picture";
 
 /** Max collects explorer gear as the child earns stars: always the same puppy, so he stays "theirs". */
 export function petStage(stars: number): { pose: Pose; name: string; next: number | null } {
@@ -49,7 +50,6 @@ export function Home(props: {
 }) {
   const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers, onCalendar } = props;
   const now = Date.now();
-  const today = progress.days[dayKey(now)];
   const plan = todayPlan(library, topics, progress, now);
   const pet = petStage(progress.stars);
   const days = streak(progress.days, now);
@@ -79,60 +79,21 @@ export function Home(props: {
         </div>
       </header>
 
-      <section className="pet card">
+      <section className="card hero">
+        {finished && <p className="notice">🎉 {finished.zh}岛的单词都认识啦！接下来去{topic?.zh ?? "下一座"}岛。</p>}
         <Max
           pose={hasWork ? pet.pose : "sleep"}
-          size="lg"
+          size="md"
           say={maxLine(progress.profile?.name ?? "小探险家", plan.reviews.length, plan.newWords.length, catchUp)}
         />
-        <div className="pet-info">
-          <b>{pet.name}</b>
-          {pet.next ? (
-            <>
-              <div className="bar bar-thin">
-                <div className="bar-fill" style={{ width: `${Math.min(100, (progress.stars / pet.next) * 100)}%` }} />
-              </div>
-              <span className="muted small">再得 {pet.next - progress.stars} 颗 ⭐，Max 就能升级</span>
-            </>
-          ) : (
-            <span className="muted small">Max 已经是最厉害的狗狗啦！</span>
-          )}
-        </div>
-        <button className="sticker-entry" onClick={onStickers}>
-          <span>🏅 我的贴纸</span>
-          <b>
-            {stickers[0]} / {stickers[1]}
-          </b>
-          <span className="muted">›</span>
-        </button>
-      </section>
-
-      <section className="card today">
-        {finished && <p className="notice">🎉 {finished.zh}岛的单词都认识啦！接下来去{topic?.zh ?? "下一座"}岛。</p>}
-        <button className="today-topic" onClick={onMap}>
-          <span>当前岛屿</span>
-          <b>
-            {topic ? `${topic.zh} · ${topic.en}` : "加载中…"}
-            {unit && <span className="today-unit">{unitLabel(unit)}</span>}
-          </b>
-          <span className="muted">换一个 ›</span>
-        </button>
         {hasWork ? (
           <>
-            <div className="today-tasks">
-              <div>
-                <b>{plan.reviews.length}</b>
-                <span>复习</span>
-              </div>
-              <div>
-                <b>{plan.newWords.length}</b>
-                <span>新单词</span>
-              </div>
-              <div>
-                <b>~{minutes}</b>
-                <span>分钟</span>
-              </div>
-            </div>
+            <Faces library={library} ids={[...plan.newWords, ...plan.reviews.map((t) => t.wordId)]} fresh={plan.newWords.length > 0} />
+            <p className="hero-meta">
+              {[plan.reviews.length > 0 && `复习 ${plan.reviews.length}`, plan.newWords.length > 0 && `新词 ${plan.newWords.length}`, `约 ${minutes} 分钟`]
+                .filter(Boolean)
+                .join(" · ")}
+            </p>
             {catchUp && (
               <p className="notice">欢迎回来！先把以前的单词找回来，新单词稍后再学（还有 {plan.backlog} 个排队中）。</p>
             )}
@@ -141,7 +102,7 @@ export function Home(props: {
             </button>
           </>
         ) : (
-          <div className="center">
+          <div className="center hero-done">
             <b>🎉 今天的任务完成啦！</b>
             {moreOk ? (
               <>
@@ -160,6 +121,14 @@ export function Home(props: {
             )}
           </div>
         )}
+        <button className="hero-island" onClick={onMap}>
+          <span className="muted small">当前岛屿</span>
+          <b>
+            {topic ? `${topic.zh} · ${topic.en}` : "加载中…"}
+            {unit && <span className="today-unit">{unitLabel(unit)}</span>}
+          </b>
+          <span className="muted small">换一个 ›</span>
+        </button>
         {left > 0 && (
           <p className="muted small goal-line">
             🎯 离目标还有 {left} 天 · 已认识 {met} / {library.all.length} 个词
@@ -191,11 +160,28 @@ export function Home(props: {
         </button>
       )}
 
-      {today && (
-        <section className="card today-log">
-          今天已练习 <b>{today.answered}</b> 次，答对 <b>{today.correct}</b> 次，认识了 <b>{today.newWords}</b> 个新单词
-        </section>
-      )}
+      <section className="card grow">
+        <div className="grow-pet">
+          <b>{pet.name}</b>
+          {pet.next ? (
+            <>
+              <div className="bar bar-thin">
+                <div className="bar-fill" style={{ width: `${Math.min(100, (progress.stars / pet.next) * 100)}%` }} />
+              </div>
+              <span className="muted small">再得 {pet.next - progress.stars} 颗 ⭐，Max 就能升级</span>
+            </>
+          ) : (
+            <span className="muted small">Max 已经是最厉害的狗狗啦！</span>
+          )}
+        </div>
+        <button className="sticker-entry" onClick={onStickers}>
+          <span>🏅 贴纸</span>
+          <b>
+            {stickers[0]} / {stickers[1]}
+          </b>
+          <span className="muted">›</span>
+        </button>
+      </section>
     </div>
   );
 }
@@ -210,6 +196,7 @@ function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progre
   const total = done + left;
   const share = total === 0 ? 1 : done / total;
   const minutes = minutesOn(progress, dayKey(now));
+  const today = progress.days[dayKey(now)];
   const r = 34;
   const c = 2 * Math.PI * r;
   const week = Array.from({ length: 7 }, (_, i) => {
@@ -238,7 +225,12 @@ function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progre
                 ? `今天有 ${total} 个任务，冲呀！`
                 : `还剩 ${left} 个任务就完成今天的计划`}
         </b>
-        {minutes > 0 && <span className="muted small">今天已学约 {minutes} 分钟</span>}
+        {today?.answered ? (
+          <span className="muted small">
+            今天练了 {today.answered} 次，答对 {today.correct} 次{today.newWords > 0 && `，认识 ${today.newWords} 个新词`}
+            {minutes > 0 && ` · 约 ${minutes} 分钟`}
+          </span>
+        ) : null}
         <button className="week-stamps" onClick={onCalendar} aria-label="打开打卡日历">
           {week.map((d, i) => (
             <span key={i} className={`stamp ${d.on ? "stamp-on" : ""}`}>
@@ -252,5 +244,28 @@ function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progre
         </button>
       </div>
     </section>
+  );
+}
+
+/**
+ * Today's words as a little fan of their pictures, the way a picture book shows who is in it: the child
+ * sees whom they will meet before starting, rather than a number of tasks.
+ */
+function Faces({ library, ids, fresh }: { library: Library; ids: string[]; fresh: boolean }) {
+  const words = [...new Set(ids)].map((id) => library.byId.get(id)).filter((w): w is Word => !!w);
+  const shown = words.slice(0, 5);
+  if (!shown.length) return null;
+  return (
+    <div className="faces">
+      <div className="faces-row">
+        {shown.map((w, i) => (
+          <span key={w.id} className="face" style={{ zIndex: shown.length - i, rotate: `${[-5, 3, -2, 4, -3][i]}deg` }}>
+            <Picture word={w} size="sm" />
+          </span>
+        ))}
+        {words.length > shown.length && <span className="face face-more">+{words.length - shown.length}</span>}
+      </div>
+      <span className="faces-label">{fresh ? "今天会认识它们" : "今天和它们再见面"}</span>
+    </div>
   );
 }

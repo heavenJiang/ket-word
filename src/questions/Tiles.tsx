@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { shuffle } from "../lib/choice";
 import { playWord, sfx } from "../lib/audio";
+import { burstAt } from "../lib/burst";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Word } from "../types";
 import { Cheer, Max, praise } from "../ui/Max";
@@ -82,6 +83,7 @@ export function Tiles(props: {
     setPos(np);
     if (np >= target.length) {
       setDone("right");
+      burstAt(document.querySelector(".slots"));
       sfx("right", sound);
       playWord(word, accent);
       const a = { correct: true, hinted: hinted || usedHint, mistakes, ms: performance.now() - started.current };

@@ -22,10 +22,14 @@ export function distractors(
   similar = false,
   opt: { samePos?: boolean; exclude?: string[] } = {},
 ): Word[] {
+  // A word sharing one of the target's meanings (maybe / perhaps: 也许) would be a second right answer,
+  // except when the child only has to tell sounds apart.
+  const mine = similar ? null : meanings(target);
   const others = pool.filter(
     (w) =>
       w.id !== target.id &&
       w.zh !== target.zh &&
+      !(mine && [...meanings(w)].some((m) => mine.has(m))) &&
       !target.avoid?.includes(w.id) &&
       !w.avoid?.includes(target.id) &&
       !opt.exclude?.includes(w.id),
@@ -51,4 +55,10 @@ export function editDistance(a: string, b: string): number {
     }
   }
   return dp[b.length];
+}
+
+/** The meanings in a word's Chinese gloss, notes in brackets dropped: "她的；她（宾格）" → {她的, 她}. */
+export function meanings(w: Pick<Word, "zh">): Set<string> {
+  const bare = w.zh.replace(/[（(][^）)]*[）)]/g, "");
+  return new Set(bare.split(/[；;，,、/]/).map((s) => s.trim()).filter(Boolean));
 }

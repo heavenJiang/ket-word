@@ -14,16 +14,17 @@ import { Calendar } from "./pages/Calendar";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
 import { learningOrder, nextIsland } from "./session/today";
 import type { Story, Topic } from "./types";
+import { Icon, type IconName } from "./ui/Icons";
 import { Max } from "./ui/Max";
 
 type Page = "home" | "map" | "learn" | "stories" | "cards" | "parent" | "stickers" | "checkup" | "calendar";
 
-const NAV: { id: Page; icon: string; label: string }[] = [
-  { id: "home", icon: "🏠", label: "首页" },
-  { id: "map", icon: "🗺️", label: "地图" },
-  { id: "stories", icon: "📖", label: "故事" },
-  { id: "cards", icon: "🃏", label: "卡册" },
-  { id: "parent", icon: "👨‍👩‍👧", label: "家长" },
+const NAV: { id: Page & IconName; label: string }[] = [
+  { id: "home", label: "首页" },
+  { id: "map", label: "地图" },
+  { id: "stories", label: "故事" },
+  { id: "cards", label: "卡册" },
+  { id: "parent", label: "家长" },
 ];
 
 export function App() {
@@ -178,8 +179,8 @@ export function App() {
       {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
       <nav className="nav">
         {NAV.map((n) => (
-          <button key={n.id} className={`nav-item ${page === n.id ? "nav-on" : ""}`} onClick={() => setPage(n.id)}>
-            <span>{n.icon}</span>
+          <button key={n.id} className={`nav-item ${page === n.id ? "nav-on" : ""}`} onClick={() => setPage(n.id)} aria-current={page === n.id ? "page" : undefined}>
+            <Icon name={n.id} />
             <span>{n.label}</span>
           </button>
         ))}

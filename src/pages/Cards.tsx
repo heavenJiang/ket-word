@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { playText, playWord } from "../lib/audio";
+import { searchWords } from "../lib/search";
 import { sentencesOf } from "../lib/sentence";
 import { isHard, isMastered, wordGraduated, wordLevel } from "../srs/srs";
 import type { Progress } from "../store/progress";
@@ -14,46 +15,72 @@ const SKILL_BADGE: Record<Skill, string> = { meaning: "👀 认识", listen: "�
  */
 export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic: Record<string, Word[]>; progress: Progress }) {
   const [tab, setTab] = useState(progress.topic);
+  const [query, setQuery] = useState("");
+  const all = useMemo(() => {
+    const seen = new Map<string, Word>();
+    for (const t of topics) for (const w of byTopic[t.id] ?? []) if (!seen.has(w.id)) seen.set(w.id, w);
+    return [...seen.values()];
+  }, [topics, byTopic]);
+  const found = useMemo(() => searchWords(all, query), [all, query]);
   const words = byTopic[tab] ?? [];
   const [open, setOpen] = useState<Word | null>(null);
   const met = words.filter((w) => progress.words[w.id]).length;
   const gold = words.filter((w) => wordLevel(progress.words[w.id], w.spell) === 3).length;
   const accent = progress.settings.accent;
+  const searching = query.trim() !== "";
+  const card = (w: Word) => {
+    const p = progress.words[w.id];
+    const level = wordLevel(p, w.spell);
+    return (
+      <button key={w.id} className={`album-card level-${level}`} onClick={() => p && setOpen(w)} disabled={!p}>
+        {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
+        {!p && searching && <span className="album-sense">还没学</span>}
+        <span className="album-word">{p || searching ? w.word : "· · ·"}</span>
+        {(p || searching) && w.of && <span className="album-sense">新意思</span>}
+        {wordGraduated(p, w.spell) && <span className="album-grad" title="毕业：半年后仍记得，不用天天复习了">🎓</span>}
+        {p && (
+          <span className="album-badges">
+            {skillsOf(w).map((s) => (
+              <i key={s} className={isMastered(p.skills[s]) ? "on" : ""} />
+            ))}
+          </span>
+        )}
+      </button>
+    );
+  };
 
   return (
     <div className="page">
       <h2>我的单词卡</h2>
-      <div className="tabs">
-        {topics.map((t) => (
-          <button key={t.id} className={`tab ${t.id === tab ? "tab-on" : ""}`} onClick={() => setTab(t.id)}>
-            {t.zh}
-          </button>
-        ))}
-      </div>
-      <p className="muted">
-        已收集 {met} / {words.length} 张 · 金卡 {gold} 张（认识 + 听懂都掌握，常用词还要会拼）
-      </p>
+      <input
+        className="album-search"
+        type="search"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="找一个词：英文或中文，比如 cat / 猫"
+        autoCapitalize="off"
+        autoCorrect="off"
+        spellCheck={false}
+        enterKeyHint="search"
+      />
+      {!searching && (
+        <>
+          <div className="tabs">
+            {topics.map((t) => (
+              <button key={t.id} className={`tab ${t.id === tab ? "tab-on" : ""}`} onClick={() => setTab(t.id)}>
+                {t.zh}
+              </button>
+            ))}
+          </div>
+          <p className="muted">
+            已收集 {met} / {words.length} 张 · 金卡 {gold} 张（认识 + 听懂都掌握，常用词还要会拼）
+          </p>
+        </>
+      )}
       <div className="album">
-        {words.map((w) => {
-          const p = progress.words[w.id];
-          const level = wordLevel(p, w.spell);
-          return (
-            <button key={w.id} className={`album-card level-${level}`} onClick={() => p && setOpen(w)} disabled={!p}>
-              {p ? <Picture word={w} size="sm" /> : <div className="album-mystery"><Picture word={w} size="sm" /></div>}
-              <span className="album-word">{p ? w.word : "· · ·"}</span>
-              {p && w.of && <span className="album-sense">新意思</span>}
-              {wordGraduated(p, w.spell) && <span className="album-grad" title="毕业：半年后仍记得，不用天天复习了">🎓</span>}
-              {p && (
-                <span className="album-badges">
-                  {skillsOf(w).map((s) => (
-                    <i key={s} className={isMastered(p.skills[s]) ? "on" : ""} />
-                  ))}
-                </span>
-              )}
-            </button>
-          );
-        })}
+        {(searching ? found : words).map(card)}
       </div>
+      {searching && !found.length && <p className="muted">卡册里没有「{query.trim()}」</p>}
 
       {open && (
         <div className="sheet" onClick={() => setOpen(null)}>

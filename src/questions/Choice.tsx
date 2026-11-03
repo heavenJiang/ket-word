@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { distractors, shuffle } from "../lib/choice";
 import { playText, playWord, sfx } from "../lib/audio";
+import { burstAt } from "../lib/burst";
 import { gapSentences, mentioned, sentencesOf, splitAt } from "../lib/sentence";
 import type { Attempt } from "../srs/grade";
 import type { Accent, Sentence, Word } from "../types";
@@ -78,9 +79,10 @@ export function Choice(props: {
     return () => clearTimeout(t);
   }, [word, kind, accent]);
 
-  const choose = (w: Word) => {
+  const choose = (w: Word, el?: Element) => {
     if (picked) return;
     const correct = w.id === word.id;
+    if (correct) burstAt(el);
     setPicked(w.id);
     result.current = { correct, hinted: hidden.length > 0, mistakes: correct ? 0 : 1, ms: performance.now() - started.current };
     sfx(correct ? "right" : "wrong", sound);
@@ -143,7 +145,7 @@ export function Choice(props: {
           hidden.includes(o.id) ? (
             <div key={o.id} className="opt opt-gone" />
           ) : (
-            <button key={o.id} className={`opt ${state(o)}`} onClick={() => choose(o)}>
+            <button key={o.id} className={`opt ${state(o)}`} onClick={(e) => choose(o, e.currentTarget)}>
               {PICTURE_KINDS.includes(kind) && <Picture word={o} size="sm" />}
               {kind === "pickMeaning" && <span className="opt-text">{o.zh}</span>}
               {(kind === "listenPick" || kind === "cloze" || kind === "pickWord") && <span className="opt-text opt-en">{o.word}</span>}
