@@ -58,13 +58,15 @@ export function App() {
     });
   }, []);
 
-  // Safari colours the status bar from theme-color (iOS 15–18) or from the page background (iOS 26), and shows
-  // the html background when the page bounces at the top: give both the colour of the page's top
-  const top = !progress.profile || reading ? CREAM : (PAGE_TOP[page] ?? CREAM);
+  // Safari colours the status bar from theme-color (iOS 15–18) or from the body's background (iOS 26), and
+  // shows the html background when the page bounces at the top: give all three the colour of the page's top.
+  // The cream under the page itself comes from .shell, so a blue body only shows above and around it.
+  // Pages without a top colour clear the inline style, so the stylesheet's colour (dark in dark mode) holds.
+  const paint = !progress.profile || reading ? undefined : PAGE_TOP[page];
   useEffect(() => {
-    document.documentElement.style.backgroundColor = top;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", top);
-  }, [top]);
+    for (const el of [document.documentElement, document.body]) el.style.backgroundColor = paint ?? "";
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", paint ?? CREAM);
+  }, [paint]);
 
   // without this Safari may clear the site's storage, and with it the progress, after days away
   useEffect(() => {

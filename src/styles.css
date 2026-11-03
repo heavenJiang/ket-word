@@ -77,7 +77,7 @@ h3 {
 .row-center { justify-content: center; }
 .big-emoji { font-size: 72px; line-height: 1.1; }
 
-.shell { min-height: 100dvh; padding-bottom: calc(84px + env(safe-area-inset-bottom)); }
+.shell { min-height: 100dvh; background: var(--bg); padding-bottom: calc(84px + env(safe-area-inset-bottom)); }
 .page { max-width: 720px; margin: 0 auto; padding: calc(20px + env(safe-area-inset-top)) 16px 24px; }
 .page.center { min-height: 100dvh; }
 
