@@ -1,7 +1,7 @@
 import type { ReactNode } from "react";
 import { OPEN_SHARE, rereadDue, toOpen, type Library } from "../lib/data";
 import { routeOrder } from "../lib/route";
-import type { Progress } from "../store/progress";
+import { STORY_STARS, type Progress } from "../store/progress";
 import type { Story, Topic, Word } from "../types";
 import { Picture } from "../ui/Picture";
 
@@ -48,8 +48,16 @@ export function Stories(props: {
 
   return (
     <div className="page storybook">
-      <h2>故事书</h2>
-      <p className="muted">Lily 和 Max 的故事。认识故事里大部分单词，它就会打开；读完答对问题还能得 ⭐。</p>
+      <header className="story-head">
+        <div>
+          <h2>故事书</h2>
+          <span className="story-head-sub">
+            读过 <b>{again.length + read.length}</b> 本 · 能读 <b>{fresh.length + again.length + read.length}</b> 本
+          </span>
+          <span className="story-head-tip">学会单词，新故事就会打开</span>
+        </div>
+        <img className="story-head-max" src={`${base}media/ui/max-wave.webp`} alt="" draggable={false} />
+      </header>
 
       {next && (
         <NextStory
@@ -66,7 +74,9 @@ export function Stories(props: {
       )}
 
       <section>
-        <h3 className="shelf-title">📚 我的书架 <span className="muted small">{fresh.length + again.length + read.length} 本</span></h3>
+        <h3 className="shelf-title">
+          📚 我的书架 <span className="shelf-count">{fresh.length + again.length + read.length}</span>
+        </h3>
         {shelf.length ? (
           <div className="shelf">
             {shelf.map((s) => {
@@ -77,21 +87,36 @@ export function Stories(props: {
                   {!log && <span className="book-ribbon">新</span>}
                   {log && <span className="book-done">✓</span>}
                   <b className="book-title">{s.title}</b>
-                  <span className="book-state">
-                    {!log ? "新故事！" : again.includes(s) ? "🔁 可以再读一遍" : `⭐ 答对 ${log.best}/${s.questions.length}`}
-                  </span>
+                  {!log ? (
+                    <span className="book-state">新故事！</span>
+                  ) : again.includes(s) ? (
+                    <span className="book-state book-again">🔁 再读一遍</span>
+                  ) : (
+                    <span className="book-stars" aria-label={`答对 ${log.best} / ${s.questions.length} 题`}>
+                      {s.questions.map((_, i) => (
+                        <i key={i} className={i < log.best ? "on" : ""}>
+                          ⭐
+                        </i>
+                      ))}
+                    </span>
+                  )}
                 </button>
               );
             })}
           </div>
         ) : (
-          <p className="muted small shelf-empty">读完第一本故事，它就会放在这里。</p>
+          <p className="shelf-empty">
+            <span>📚</span>
+            书架还空着。读完第一本故事，它就会放在这里。
+          </p>
         )}
       </section>
 
       {soon.length > 0 && (
         <section>
-          <h3 className="shelf-title">🔒 快要打开的故事</h3>
+          <h3 className="shelf-title">
+            🔒 快要打开的故事 <span className="shelf-count">{locked.length - (locked.includes(next) ? 1 : 0)}</span>
+          </h3>
           <div className="shelf">
             {soon.map((s) => (
               <div key={s.id} className="book book-locked">
@@ -133,6 +158,11 @@ function NextStory(props: {
       <div className="next-body">
         <b className="next-title">{story.title}</b>
         <span className="muted">{story.zh}{island ? ` · ${island.zh}岛` : ""}</span>
+        <span className="next-meta">
+          <span>📖 {story.pages.length} 页</span>
+          <span>❓ {story.questions.length} 道题</span>
+          {!again && <span>⭐ 最多 {STORY_STARS + story.questions.length} 颗</span>}
+        </span>
         {open ? (
           <button className="btn btn-primary btn-huge" onClick={onRead}>
             {again ? "再读一遍 📖" : "开始读 📖"}
