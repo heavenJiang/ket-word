@@ -3,6 +3,12 @@ import { playRecording, playSentence, playWord, stop } from "../lib/audio";
 import type { Accent, Word } from "../types";
 import { Chunks, PhonicsKey, Picture, SentenceRow, Senses, SpeakButton } from "../ui/Picture";
 
+/**
+ * Reading aloud ("🎤 读单词 / 读句子") is switched off until pronunciation checking is ready; the two open
+ * together. The recorder below stays as it is.
+ */
+const READ_ALOUD = false;
+
 /** First meeting with a small group of words: see, hear, read in chunks, say it back. */
 export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent; onDone: () => void }) {
   const [i, setI] = useState(0);
@@ -34,11 +40,11 @@ export function Intro({ words, accent, onDone }: { words: Word[]; accent: Accent
           <SpeakButton onClick={() => playWord(w, accent)} label={`听 ${w.word}`} />
         </div>
         <PhonicsKey word={w} />
-        <Echo key={`w-${w.id}`} text={w.word} label="🎤 读单词" onModel={() => playWord(w, accent)} />
+        {READ_ALOUD && <Echo key={`w-${w.id}`} text={w.word} label="🎤 读单词" onModel={() => playWord(w, accent)} />}
         <div className="intro-ipa">{w.ipa}</div>
         <Senses word={w} />
         <SentenceRow en={w.sentence.en} zh={w.sentence.zh} onPlay={() => playSentence(w, accent)} />
-        <Echo key={`s-${w.id}`} text={w.sentence.en} label="🎤 读句子" onModel={() => playSentence(w, accent)} />
+        {READ_ALOUD && <Echo key={`s-${w.id}`} text={w.sentence.en} label="🎤 读句子" onModel={() => playSentence(w, accent)} />}
       </div>
       <div className="row">
         {i > 0 && (
