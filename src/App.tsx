@@ -172,7 +172,20 @@ export function App() {
         )}
         {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
         {page === "calendar" && <Calendar progress={progress} onBack={() => setPage("home")} />}
-        {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
+        {page === "stories" && (
+          <Stories
+            stories={stories}
+            topics={index.topics}
+            library={library}
+            progress={progress}
+            onRead={setReading}
+            onIsland={(id) => {
+              setProgress((p) => ({ ...p, topic: id }));
+              setFinished(undefined);
+              setPage("home");
+            }}
+          />
+        )}
         {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} onFlag={(id) => setProgress((p) => toggleFlag(p, id, Date.now()))} />}
         {page === "parent" && <Parent words={library.all} library={library} topics={index.topics} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
       </main>

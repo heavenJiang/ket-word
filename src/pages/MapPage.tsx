@@ -6,14 +6,7 @@ import { ROUTE, routeOrder } from "../lib/route";
 import { nextIsland } from "../session/today";
 import type { Topic } from "../types";
 import { Picture } from "../ui/Picture";
-
-const ISLAND_EMOJI: Record<string, string> = {
-  animals: "🦁", colours: "🎨", family: "👨‍👩‍👧", food: "🍎", clothes: "👕", home: "🏠", school: "🏫",
-  nature: "🌳", weather: "🌦️", time: "⏰", sport: "⚽", hobbies: "🎸", health: "💪", town: "🏙️",
-  buildings: "🏛️", countryside: "🌾", shopping: "🛒", services: "🏥", travel: "✈️", jobs: "👩‍🚒",
-  media: "🎬", tech: "💻", appliances: "📺", documents: "✉️", measure: "📏", feelings: "😊",
-  numbers: "🔢", world: "🌍",
-};
+import { islandCover, islandEmoji } from "../lib/islands";
 
 const BOOKS = [
   { book: "Think Starter", title: "第一段航线", level: "A1" },
@@ -23,7 +16,7 @@ const BOOKS = [
 
 /** Where each island sits across the page, as a share of the width: the path winds left and right. */
 const X = [50, 76, 50, 24];
-const ROW = 124;
+const ROW = 148;
 
 /**
  * The map as a child sees it: one sea route winding down the page, island after island in learning
@@ -41,7 +34,6 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
   }, []);
 
   const byId = new Map(topics.filter((t) => t.ready).map((t) => [t.id, t]));
-  const emoji = (t: Topic) => t.emoji ?? ISLAND_EMOJI[t.id] ?? "🏝️";
   const words = (t: Topic) => library.topics[t.id] ?? [];
   const learned = (t: Topic) => words(t).filter((w) => wordLevel(progress.words[w.id], w.spell) >= 2).length;
   const seen = (t: Topic) => words(t).filter((w) => progress.words[w.id]).length;
@@ -66,7 +58,10 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
       {legs.map((leg) => (
         <section key={leg.book} className="leg">
           <h3 className="leg-title">
-            ⛵ {leg.title} <span className="muted small">{leg.book} · {leg.level}</span>
+            <span className="leg-flag">⛵ {leg.title}</span>
+            <span className="muted small">
+              {leg.book} · {leg.level} · {leg.islands.length} 座岛
+            </span>
           </h3>
           <div className="leg-path" style={{ height: leg.islands.length * ROW }}>
             <svg className="leg-sea" viewBox={`0 0 100 ${leg.islands.length * ROW}`} preserveAspectRatio="none" aria-hidden>
@@ -92,7 +87,7 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
                       <circle cx="42" cy="42" r="38" className="isle-ring-bg" />
                       {share > 0 && <circle cx="42" cy="42" r="38" className="isle-ring-fill" strokeDasharray={`${share * 238.8} 238.8`} transform="rotate(-90 42 42)" />}
                     </svg>
-                    <span className="isle-emoji">{emoji(t)}</span>
+                    <Cover library={library} topic={t} />
                     {on && <img className="isle-max" src={`${import.meta.env.BASE_URL}media/ui/max-happy.webp`} alt="" />}
                     {!on && done && <span className="isle-flag">🚩</span>}
                   </span>
@@ -111,7 +106,7 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
           <div className="soon">
             {soon.map((t) => (
               <span key={t.id} className="soon-item">
-                {emoji(t)} {t.zh}
+                {islandEmoji(t)} {t.zh}
               </span>
             ))}
           </div>
@@ -124,12 +119,15 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
             <button className="sheet-x" onClick={() => setPeek(null)} aria-label="关闭">
               ✕
             </button>
-            <span className="isle-peek-emoji">{emoji(peek)}</span>
+            <span className="isle-peek-cover">
+              <Cover library={library} topic={peek} />
+            </span>
             <h3>
               {peek.zh}岛 <span className="muted small">{peek.en}</span>
             </h3>
             <div className="isle-peek-words">
-              {words(peek)
+              {[...words(peek)]
+                .sort((a, b) => Number(!!b.media.img) - Number(!!a.media.img))
                 .slice(0, 4)
                 .map((w) => (
                   <Picture key={w.id} word={w} size="sm" />
@@ -151,6 +149,16 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
         </div>
       )}
     </div>
+  );
+}
+
+/** An island's cover picture, or its emoji when it has none. */
+function Cover({ library, topic }: { library: Library; topic: Topic }) {
+  const w = islandCover(library, topic);
+  return w?.media.img ? (
+    <img className="isle-img" src={import.meta.env.BASE_URL + w.media.img} alt="" draggable={false} loading="lazy" />
+  ) : (
+    <span className="isle-emoji">{islandEmoji(topic)}</span>
   );
 }
 
