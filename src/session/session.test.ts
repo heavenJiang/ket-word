@@ -37,13 +37,18 @@ describe("buildPlan", () => {
     const next = buildPlan(order, learned(["w0", "w1"]), t0 + DAY, opt);
     expect(next.reviews).toEqual([{ wordId: "w0", skill: "listen" }, { wordId: "w1", skill: "listen" }]);
     expect(next.newWords[0]).toBe("w2");
-    // a good first answer comes back three days later: the meaning, with listening left for the next day
+    // a good first answer comes back three days later; listening, never heard yet, comes first and the
+    // meaning (not late yet) waits a day, then wins as it is late
     const later = buildPlan(order, learned(["w0", "w1"]), t0 + 3 * DAY, opt);
-    expect(later.reviews.map((t) => t.skill)).toEqual(["meaning", "meaning"]);
+    expect(later.reviews.map((t) => t.skill)).toEqual(["listen", "listen"]);
+    const late = buildPlan(order, learned(["w0", "w1"]), t0 + 5 * DAY, opt);
+    expect(late.reviews.map((t) => t.skill)).toEqual(["meaning", "meaning"]);
   });
 
   it("never asks a word twice in a day, and counts anything due before midnight as today's", () => {
     const words = learned(["w0"]);
+    words.w0.skills.listen = { ...words.w0.skills.meaning!, due: t0 + 30 * DAY };
+    words.w0.skills.spell = { ...words.w0.skills.meaning!, due: t0 + 30 * DAY };
     const due = words.w0.skills.meaning!.due;
     const morning = new Date(due).setHours(7, 0, 0, 0);
     expect(buildPlan(order, words, morning, opt).reviews).toEqual([{ wordId: "w0", skill: "meaning" }]);
@@ -53,6 +58,11 @@ describe("buildPlan", () => {
   it("waits until tomorrow before practising a skill unlocked today", () => {
     const p = buildPlan(order, learned(["w0"]), t0 + 60_000, opt);
     expect(p.reviews.some((t) => t.skill === "listen")).toBe(false);
+    // spelling waits for the day after the word was first heard
+    const words = learned(["w0"]);
+    words.w0.skills.listen = review(undefined, Rating.Good, t0 + DAY);
+    expect(buildPlan(order, words, t0 + DAY + 60_000, opt).reviews).toEqual([]);
+    expect(buildPlan(order, words, t0 + 2 * DAY, opt).reviews).toEqual([{ wordId: "w0", skill: "spell" }]);
   });
 
   it("counts reviews done earlier today toward the cap", () => {
@@ -76,11 +86,8 @@ describe("buildPlan", () => {
   });
 
   it("spells only the words that are spelled", () => {
-    const graduated = (id: string) => {
-      const m = review(undefined, Rating.Good, t0);
-      return { [id]: { seen: t0, skills: { meaning: review(m, Rating.Good, m.due + 1) } } };
-    };
-    const word = graduated("w0").w0;
+    const m = review(undefined, Rating.Good, t0);
+    const word: WordProgress = { seen: t0, skills: { meaning: m, listen: review(undefined, Rating.Good, t0 + DAY) } };
     expect(unlockedSkills(word, true)).toContain("spell");
     expect(unlockedSkills(word, false)).not.toContain("spell");
   });
@@ -224,8 +231,9 @@ describe("graduation", () => {
   };
 
   it("leaves a card strong for half a year out of the daily reviews", () => {
-    expect(buildPlan(["w0"], strong(60, 1), t0, { ...opt, newPerDay: 0 }).reviews).toHaveLength(1);
-    expect(buildPlan(["w0"], strong(200, 1), t0, { ...opt, newPerDay: 0 }).reviews).toHaveLength(0);
+    const noSpell = () => false;
+    expect(buildPlan(["w0"], strong(60, 1), t0, { ...opt, newPerDay: 0 }, undefined, undefined, noSpell).reviews).toHaveLength(1);
+    expect(buildPlan(["w0"], strong(200, 1), t0, { ...opt, newPerDay: 0 }, undefined, undefined, noSpell).reviews).toHaveLength(0);
   });
 
   it("brings a graduated card back for the exam sprint when it would be weak on the day", () => {

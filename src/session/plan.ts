@@ -1,4 +1,4 @@
-import { isGraduated, retrievability, unlockedSkills, type WordProgress } from "../srs/srs";
+import { isGraduated, prerequisite, retrievability, unlockedSkills, type WordProgress } from "../srs/srs";
 import type { Skill } from "../types";
 
 export interface Task {
@@ -62,15 +62,19 @@ export function buildPlan(
     const p = progress[wordId];
     if (!p) continue;
     // a skill unlocked by today's practice waits until tomorrow, keeping the spacing
-    const unlockedBeforeToday = (p.skills.meaning?.last ?? now) < today;
+    const unlockedBeforeToday = (skill: Skill) => {
+      const pre = prerequisite(skill);
+      return (p.skills[pre ?? skill]?.last ?? now) < today;
+    };
     // one question per word per day: the skill closest to being forgotten; the others wait a day
     let best: { task: Task; r: number } | null = null;
     let fresh: Task | null = null;
     let soon: { task: Task; r: number } | null = null;
+    const bestCard = (b: { task: Task }) => p.skills[b.task.skill]!;
     for (const skill of unlockedSkills(p, spells(wordId))) {
       const card = p.skills[skill];
       if (!card) {
-        if (unlockedBeforeToday && !fresh) fresh = { wordId, skill };
+        if (unlockedBeforeToday(skill) && !fresh) fresh = { wordId, skill };
         continue;
       }
       if ((card.last ?? 0) >= today) {
@@ -95,8 +99,11 @@ export function buildPlan(
         if (r < opt.retention && (!soon || r < soon.r)) soon = { task: { wordId, skill }, r };
       }
     }
-    if (best) due.push(best);
-    else if (fresh) firstTime.push(fresh);
+    // a skill's first practice comes before a review of the same word that is due today but not yet
+    // late: the review moves to tomorrow and wins then. Otherwise a new skill can wait days behind
+    // reviews whose turns keep coming round (spelling used to start about a week after the word)
+    if (fresh && (!best || bestCard(best).due >= today)) firstTime.push(fresh);
+    else if (best) due.push(best);
     else if (soon) early.push(soon);
   }
   due.sort((a, b) => a.r - b.r);

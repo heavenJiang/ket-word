@@ -48,6 +48,7 @@
     "uk": "media/word/be.mp3?v=6d192447",
     "us": "media/word/be.mp3?v=6d192447"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -97,6 +98,7 @@
     "uk": "media/word/do.mp3?v=c5b11d6d",
     "us": "media/word/do.mp3?v=c5b11d6d"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -146,6 +148,7 @@
     "uk": "media/word/have.mp3?v=d25d5301",
     "us": "media/word/have.mp3?v=d25d5301"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "have 有，save 救：把 s 换成 h 就有东西"
@@ -198,6 +201,7 @@
     "uk": "media/word/cannot.mp3?v=e74aaf56",
     "us": "media/word/cannot.mp3?v=e74aaf56"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "can 能 + not 不 = cannot 不能"
@@ -249,6 +253,7 @@
     "uk": "media/word/could.mp3?v=0e9683a9",
     "us": "media/word/could.mp3?v=0e9683a9"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "could 能，would 想要：把 w 换成 c"
@@ -300,6 +305,7 @@
     "uk": "media/word/might.mp3?v=fb9b867b",
     "us": "media/word/might.mp3?v=fb9b867b"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "might 可能，night 夜晚：把 n 换成 m"
@@ -403,6 +409,7 @@
     "uk": "media/uk/shall.mp3?v=2a1bee69",
     "us": "media/us/shall.mp3?v=a2981ff6"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -450,6 +457,7 @@
     "uk": "media/uk/should.mp3?v=f95792bf",
     "us": "media/us/should.mp3?v=f086ff61"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "should 应该，could 能：把 c 换成 sh"
@@ -501,6 +509,7 @@
     "uk": "media/word/will.mp3?v=b5272479",
     "us": "media/word/will.mp3?v=b5272479"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "will 将要，well 好：把 i 换成 e"
@@ -552,6 +561,7 @@
     "uk": "media/word/would.mp3?v=92c9624b",
     "us": "media/word/would.mp3?v=92c9624b"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "would 想要，could 能：把 c 换成 w"

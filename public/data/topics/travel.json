@@ -2078,6 +2078,7 @@
     "uk": "media/word/motorbike.mp3?v=933f60ef",
     "us": "media/word/motorbike.mp3?v=933f60ef"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "motor 发动机 + bike 自行车 = motorbike 摩托车"

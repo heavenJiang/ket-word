@@ -1412,6 +1412,7 @@
     "uk": "media/uk/since.mp3?v=33669824",
     "us": "media/us/since.mp3?v=c9db6b71"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1660,6 +1661,7 @@
     "uk": "media/word/then.mp3?v=03f50488",
     "us": "media/word/then.mp3?v=03f50488"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "then 然后，than 比：than 的 a 换成 e 就是 then"
@@ -1711,6 +1713,7 @@
     "uk": "media/uk/till.mp3?v=b12ad849",
     "us": "media/us/till.mp3?v=4f8b7909"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "till 直到，tell 告诉：till 中间是 i，tell 中间是 e。"

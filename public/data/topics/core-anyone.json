@@ -49,6 +49,7 @@
     "uk": "media/uk/anybody.mp3?v=e9dfbb60",
     "us": "media/us/anybody.mp3?v=8a0d8264"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "any（任何）+ body（身体）= anybody 任何人"
@@ -263,6 +264,7 @@
     "uk": "media/uk/nobody.mp3?v=e59b9bee",
     "us": "media/us/nobody.mp3?v=50fa0c00"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "no（没有）+ body（身体）= nobody 没有人"
@@ -1057,6 +1059,7 @@
     "uk": "media/word/how.mp3?v=185eb306",
     "us": "media/word/how.mp3?v=185eb306"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "how 怎么，now 现在：把 n 换成 h 就变成怎么"
@@ -1212,6 +1215,7 @@
     "uk": "media/word/where.mp3?v=b920bb9b",
     "us": "media/word/where.mp3?v=b920bb9b"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "where 哪里，there 那里：把 t 换成 w"

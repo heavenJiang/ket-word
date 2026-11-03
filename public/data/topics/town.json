@@ -651,6 +651,7 @@
     "uk": "media/word/zoo.mp3?v=606882a6",
     "us": "media/word/zoo.mp3?v=606882a6"
    },
+   "spell": true,
    "avoid": [
     "park",
     "playground"

@@ -809,6 +809,7 @@
     "uk": "media/word/sad.mp3?v=624769ff",
     "us": "media/word/sad.mp3?v=624769ff"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "sad 难过，mad 生气：s 像叹气，m 像鼓腮"

@@ -31,7 +31,7 @@ export interface Word {
   /** For a second-meaning card (can.2 = "can" as in "I can swim"): the word it belongs to, and that word's meaning. */
   of?: string;
   ofZh?: string;
-  /** An everyday (A1) word the child also learns to spell; other words stop at meaning and listening. */
+  /** A word KET makes the child write (A1, grammar words, everyday basics: content/spell.json); the rest stop at meaning and listening. */
   spell?: boolean;
   /** A memory hook for a word the child keeps forgetting (content/hooks.json); shown only once it proves hard. */
   hook?: Hook;

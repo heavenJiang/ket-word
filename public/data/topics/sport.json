@@ -1481,6 +1481,7 @@
     "uk": "media/word/luck.mp3?v=fd4395f6",
     "us": "media/word/luck.mp3?v=fd4395f6"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "luck 运气，duck 鸭子：l 换成 d。"

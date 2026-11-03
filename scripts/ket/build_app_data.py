@@ -27,6 +27,7 @@ WORDS = ROOT / "data/ket-words.json"
 CONTENT = ROOT / "content/topics"
 ATLAS = ROOT / ".local/word-atlas/word-atlas.json"
 HOOKS = ROOT / "content/hooks.json"
+SPELL = ROOT / "content/spell.json"
 OUT = ROOT / "public/data"
 MEDIA = ROOT / "public/media"
 # Our own illustrations, first match wins: picked AI images (gen_comfy.py / gen_images.py), then
@@ -60,6 +61,21 @@ def fetch(atlas_id: str, kind: str, our_id: str) -> str | None:
     if not dst.exists() or dst.stat().st_size != cached.stat().st_size:
         dst.write_bytes(cached.read_bytes())
     return "media/" + dst_tpl.format(id=our_id)
+
+
+# parts of speech the open cloze (Reading Part 5) tests: always spelled, whatever their level
+GRAMMAR_POS = {"det", "pron", "prep", "conj", "mv", "av"}
+
+
+def spelled(w: dict, it: dict, a: dict | None, rules: dict) -> bool:
+    """Whether a word is spelled: the words KET makes a child write (see content/spell.json)."""
+    word = it["word"]
+    letters = re.sub(r"[^A-Za-z]", "", word)
+    if it["kind"] != "word" or w.get("of") or len(letters) < 2 or "." in word or word.endswith("!"):
+        return False
+    if word.isupper() or w["id"] in rules["skip"]:
+        return False
+    return bool((a and a.get("cefr") == "A1") or GRAMMAR_POS & set(it["pos"]) or w["id"] in rules["add"])
 
 
 def senses_of(w: dict, it: dict, parent: dict | None = None) -> list[dict]:
@@ -222,6 +238,7 @@ def main() -> None:
     recorded = json.loads(recorded_path.read_text(encoding="utf-8")) if recorded_path.exists() else {}
     # memory hooks for words a child keeps forgetting (scripts/ket/gen_hooks.py), shown only once a word proves hard
     hooks = json.loads(HOOKS.read_text(encoding="utf-8")) if HOOKS.exists() else {}
+    spell_rules = json.loads(SPELL.read_text(encoding="utf-8"))
     atlas_img = False  # credit Word Atlas for illustrations only while any are still in use
     topics_out = []
     for t in words["topics"]:
@@ -286,8 +303,8 @@ def main() -> None:
                 "sentences": [sentence(en, zh, recorded, used_media) for en, zh in [(w["en"], w["sz"]), *w.get("more", [])]],
                 "media": media,
                 **({"of": w["of"], "ofZh": by_word[w["of"]]["zh"]} if w.get("of") else {}),
-                # spelling is practised only for everyday words: A1 single words (a second meaning is spelled already)
-                **({"spell": True} if a and a.get("cefr") == "A1" and it["kind"] == "word" and not w.get("of") else {}),
+                # spelling only for the words KET makes a child write (a second meaning is spelled already)
+                **({"spell": True} if spelled(w, it, a, spell_rules) else {}),
                 **({"hook": {"kind": hooks[w["id"]]["kind"], "text": hooks[w["id"]]["text"]}} if w["id"] in hooks else {}),
                 "avoid": sorted(avoid.get(w["id"], ())),
             })

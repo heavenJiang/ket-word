@@ -1300,6 +1300,7 @@
     "uk": "media/word/kitten.mp3?v=65b65d6a",
     "us": "media/word/kitten.mp3?v=65b65d6a"
    },
+   "spell": true,
    "hook": {
     "kind": "story",
     "text": "kitten 里有 ten 十，小猫玩十个线团。"
@@ -2548,6 +2549,7 @@
     "uk": "media/word/zoo.mp3?v=606882a6",
     "us": "media/word/zoo.mp3?v=606882a6"
    },
+   "spell": true,
    "avoid": [
     "animal",
     "elephant",

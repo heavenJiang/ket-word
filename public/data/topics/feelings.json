@@ -48,6 +48,7 @@
     "uk": "media/word/happy.mp3?v=68401021",
     "us": "media/word/happy.mp3?v=68401021"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "happy 快乐，unhappy 不快乐：加 un 就不快乐"
@@ -429,6 +430,7 @@
     "uk": "media/word/bored.mp3?v=c95fbf65",
     "us": "media/word/bored.mp3?v=c95fbf65"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "bored 无聊的，board 板：board 的 a 变 r、r 变 e"
@@ -4061,6 +4063,7 @@
     "uk": "media/word/well.mp3?v=f69caf50",
     "us": "media/word/well.mp3?v=f69caf50"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "well 好的，wall 墙：都有 ll，中间 e/a 不同"

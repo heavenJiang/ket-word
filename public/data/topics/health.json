@@ -2588,6 +2588,7 @@
     "uk": "media/word/well.mp3?v=f69caf50",
     "us": "media/word/well.mp3?v=f69caf50"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "well 好的，wall 墙：都有 ll，中间 e/a 不同"
@@ -2748,6 +2749,7 @@
     "uk": "media/word/check.mp3?v=70e49557",
     "us": "media/word/check.mp3?v=70e49557"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "check 检查，cheek 脸颊：check 少一个 e，要仔细核对"

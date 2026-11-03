@@ -93,6 +93,7 @@
     "uk": "media/word/me.mp3?v=bcb50bdb",
     "us": "media/word/me.mp3?v=bcb50bdb"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -188,6 +189,7 @@
     "uk": "media/word/mine.mp3?v=98483a4e",
     "us": "media/word/mine.mp3?v=98483a4e"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "mine 我的，nine 九：mine 开头 m，nine 开头 n"
@@ -240,6 +242,7 @@
     "uk": "media/uk/myself.mp3?v=abdc24a0",
     "us": "media/us/myself.mp3?v=f0957126"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "my 我的 + self 自己 = myself 我自己"
@@ -291,6 +294,7 @@
     "uk": "media/word/you.mp3?v=2ebb918e",
     "us": "media/word/you.mp3?v=2ebb918e"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -390,6 +394,7 @@
     "uk": "media/word/yours.mp3?v=ee9184b4",
     "us": "media/word/yours.mp3?v=ee9184b4"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "your（你的）+ s（表示东西）= yours 你的东西"
@@ -494,6 +499,7 @@
     "uk": "media/word/he.mp3?v=ce1ba2f5",
     "us": "media/word/he.mp3?v=ce1ba2f5"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -595,6 +601,7 @@
     "uk": "media/word/his.mp3?v=4d476559",
     "us": "media/word/his.mp3?v=4d476559"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "his 他的，him 他：his 的 s 像挂钩，挂上‘他的’"
@@ -647,6 +654,7 @@
     "uk": "media/word/himself.mp3?v=70bd6285",
     "us": "media/word/himself.mp3?v=70bd6285"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "him 他 + self 自己 = himself 他自己"
@@ -698,6 +706,7 @@
     "uk": "media/word/she.mp3?v=4e6e871c",
     "us": "media/word/she.mp3?v=4e6e871c"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "she 她，he 他：she 比 he 多 s，像女生扎辫子"
@@ -803,6 +812,7 @@
     "uk": "media/word/hers.mp3?v=db8f90c4",
     "us": "media/word/hers.mp3?v=db8f90c4"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "her（她的）+ s（表示东西）= hers 她的东西"
@@ -855,6 +865,7 @@
     "uk": "media/word/herself.mp3?v=0203ae71",
     "us": "media/word/herself.mp3?v=0203ae71"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "her 她的 + self 自己 = herself 她自己"
@@ -956,6 +967,7 @@
     "uk": "media/word/its.mp3?v=5c308b07",
     "us": "media/word/its.mp3?v=5c308b07"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "it（它）+ s（表示所属）= its 它的"
@@ -1008,6 +1020,7 @@
     "uk": "media/word/itself.mp3?v=7b54735a",
     "us": "media/word/itself.mp3?v=7b54735a"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "it 它 + self 自己 = itself 它自己"
@@ -1059,6 +1072,7 @@
     "uk": "media/word/we.mp3?v=4c9209dd",
     "us": "media/word/we.mp3?v=4c9209dd"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1106,6 +1120,7 @@
     "uk": "media/word/us.mp3?v=578c0ae2",
     "us": "media/word/us.mp3?v=578c0ae2"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1205,6 +1220,7 @@
     "uk": "media/word/ours.mp3?v=19dca55f",
     "us": "media/word/ours.mp3?v=19dca55f"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "our（我们的）+ s（表示东西们）= ours 我们的东西"
@@ -1257,6 +1273,7 @@
     "uk": "media/uk/ourselves.mp3?v=aea706b6",
     "us": "media/us/ourselves.mp3?v=abfdc5c3"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1356,6 +1373,7 @@
     "uk": "media/word/them.mp3?v=0eaf5b24",
     "us": "media/word/them.mp3?v=0eaf5b24"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "them 他们，then 那时：them 结尾是 m，then 结尾是 n"
@@ -1407,6 +1425,7 @@
     "uk": "media/word/their.mp3?v=6bbd5ee1",
     "us": "media/word/their.mp3?v=6bbd5ee1"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "their 他们的，there 那里：their 中间有 i，there 没有 i"
@@ -1458,6 +1477,7 @@
     "uk": "media/uk/theirs.mp3?v=7ff6c450",
     "us": "media/us/theirs.mp3?v=6b53f828"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "their（他们的）+ s（表示东西们）= theirs 他们的东西"
@@ -1510,6 +1530,7 @@
     "uk": "media/word/themselves.mp3?v=98958d1d",
     "us": "media/word/themselves.mp3?v=98958d1d"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1610,6 +1631,7 @@
     "uk": "media/word/who.mp3?v=9bf3c60f",
     "us": "media/word/who.mp3?v=9bf3c60f"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "who 谁，whose 谁的：whose 比 who 多 se"
@@ -1663,6 +1685,7 @@
     "uk": "media/uk/whose.mp3?v=1f6897c6",
     "us": "media/us/whose.mp3?v=bcea4b45"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "whose 谁的，who 谁：whose 比 who 多 se"
@@ -1716,6 +1739,7 @@
     "uk": "media/word/what.mp3?v=0d1323ad",
     "us": "media/word/what.mp3?v=0d1323ad"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "what 什么，that 那个：what 开头 w，that 开头 t"
@@ -1823,6 +1847,7 @@
     "uk": "media/word/this.mp3?v=f5c6109e",
     "us": "media/word/this.mp3?v=f5c6109e"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "this 这个，these 这些：this 用 i，these 用 e 加 e"
@@ -1984,6 +2009,7 @@
     "uk": "media/word/those.mp3?v=d1a1c49d",
     "us": "media/word/those.mp3?v=d1a1c49d"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "those 那些远，these 这些近：those 用 o，these 用 e"

@@ -109,6 +109,7 @@
     "uk": "media/word/work.mp3?v=80c0bcd4",
     "us": "media/word/work.mp3?v=80c0bcd4"
    },
+   "spell": true,
    "avoid": [
     "break",
     "earn",
@@ -3042,6 +3043,7 @@
     "uk": "media/word/footballer.mp3?v=cdb31b2b",
     "us": "media/word/footballer.mp3?v=cdb31b2b"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "football（足球）+ er（做…的人）= footballer 足球运动员"

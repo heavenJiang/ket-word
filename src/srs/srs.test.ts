@@ -25,13 +25,14 @@ describe("gradeAttempt", () => {
 });
 
 describe("skills", () => {
-  it("unlock listening after the first meaning answer and spelling after it graduates", () => {
+  it("unlock listening after the first meaning answer and spelling after the first listening answer", () => {
     const meaning = review(undefined, Rating.Good, t0);
     const p: WordProgress = { seen: t0, skills: { meaning } };
     expect(unlockedSkills(p)).toEqual(["meaning", "listen"]);
-    const graduated = review(meaning, Rating.Good, meaning.due + 1);
-    expect(unlockedSkills({ seen: t0, skills: { meaning: graduated } })).toContain("spell");
-    expect(wordLevel({ seen: t0, skills: { meaning: graduated } })).toBe(2);
+    const listen = review(undefined, Rating.Good, t0 + DAY);
+    expect(unlockedSkills({ seen: t0, skills: { meaning, listen } })).toEqual(["meaning", "listen", "spell"]);
+    expect(unlockedSkills({ seen: t0, skills: { meaning, listen } }, false)).toEqual(["meaning", "listen"]);
+    expect(wordLevel({ seen: t0, skills: { meaning } })).toBe(2);
   });
 
   it("schedules later reviews further apart", () => {

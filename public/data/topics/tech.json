@@ -104,6 +104,7 @@
     "uk": "media/word/at.mp3?v=ac0b7d95",
     "us": "media/word/at.mp3?v=ac0b7d95"
    },
+   "spell": true,
    "avoid": [
     "dot"
    ]

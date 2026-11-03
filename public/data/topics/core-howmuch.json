@@ -784,6 +784,7 @@
     "uk": "media/uk/less.mp3?v=c897ed5a",
     "us": "media/us/less.mp3?v=df82cc60"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "less 更少，least 最少；less 没有 a，还没到最少"
@@ -884,6 +885,7 @@
     "uk": "media/word/lots.mp3?v=45395ac2",
     "us": "media/word/lots.mp3?v=45395ac2"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "lot（许多）+ s（复数）= lots 许多"
@@ -1428,6 +1430,7 @@
     "uk": "media/uk/several.mp3?v=91b6e2bf",
     "us": "media/us/several.mp3?v=f16e32ff"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1578,6 +1581,7 @@
     "uk": "media/uk/such.mp3?v=b563d722",
     "us": "media/us/such.mp3?v=52d05be5"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "such 如此，much 很多：s 和 m 不同。"
@@ -2488,6 +2492,7 @@
     "uk": "media/word/part.mp3?v=0948f933",
     "us": "media/word/part.mp3?v=0948f933"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "part 部分，past 过去：中间 r 和 s 不同"

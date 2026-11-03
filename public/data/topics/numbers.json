@@ -94,6 +94,7 @@
     "uk": "media/word/two.mp3?v=991d055a",
     "us": "media/word/two.mp3?v=991d055a"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "two 二：w 像两只耳朵，别和 to、too 混。"
@@ -142,6 +143,7 @@
     "uk": "media/word/three.mp3?v=0d6f4bfc",
     "us": "media/word/three.mp3?v=0d6f4bfc"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "three 三，tree 树：three 多一个 h，像三棵树。"
@@ -235,6 +237,7 @@
     "uk": "media/word/five.mp3?v=d1c32d6a",
     "us": "media/word/five.mp3?v=d1c32d6a"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -279,6 +282,7 @@
     "uk": "media/word/six.mp3?v=af6e4f22",
     "us": "media/word/six.mp3?v=af6e4f22"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -324,6 +328,7 @@
     "uk": "media/word/seven.mp3?v=cd51b40c",
     "us": "media/word/seven.mp3?v=cd51b40c"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -368,6 +373,7 @@
     "uk": "media/word/eight.mp3?v=e81fa6ab",
     "us": "media/word/eight.mp3?v=e81fa6ab"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -457,6 +463,7 @@
     "uk": "media/word/ten.mp3?v=bf11c487",
     "us": "media/word/ten.mp3?v=bf11c487"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -503,6 +510,7 @@
     "uk": "media/word/eleven.mp3?v=d3709ab7",
     "us": "media/word/eleven.mp3?v=d3709ab7"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "eleven 十一：开头 el，不是 seven 的 s。"
@@ -597,6 +605,7 @@
     "uk": "media/word/thirteen.mp3?v=fa1887b0",
     "us": "media/word/thirteen.mp3?v=fa1887b0"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -642,6 +651,7 @@
     "uk": "media/word/fourteen.mp3?v=c3a56a61",
     "us": "media/word/fourteen.mp3?v=c3a56a61"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "four（四）+ teen（十几）= fourteen 十四"
@@ -691,6 +701,7 @@
     "uk": "media/word/fifteen.mp3?v=f543c070",
     "us": "media/word/fifteen.mp3?v=f543c070"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -883,6 +894,7 @@
     "uk": "media/word/nineteen.mp3?v=2b6fb8ca",
     "us": "media/word/nineteen.mp3?v=2b6fb8ca"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "nine（九）+ teen（十几）= nineteen 十九"
@@ -932,6 +944,7 @@
     "uk": "media/word/twenty.mp3?v=4a3bcaa5",
     "us": "media/word/twenty.mp3?v=4a3bcaa5"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1069,6 +1082,7 @@
     "uk": "media/word/fifty.mp3?v=abef96a6",
     "us": "media/word/fifty.mp3?v=abef96a6"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1161,6 +1175,7 @@
     "uk": "media/word/seventy.mp3?v=6441aa0c",
     "us": "media/word/seventy.mp3?v=6441aa0c"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "seven（七）+ ty（十）= seventy 七十"
@@ -1210,6 +1225,7 @@
     "uk": "media/word/eighty.mp3?v=288c5889",
     "us": "media/word/eighty.mp3?v=288c5889"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "eight（八）+ y（十）= eighty 八十"
@@ -1259,6 +1275,7 @@
     "uk": "media/word/ninety.mp3?v=e6d2b67c",
     "us": "media/word/ninety.mp3?v=e6d2b67c"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "nine（九）+ ty（十）= ninety 九十"
@@ -1675,6 +1692,7 @@
     "uk": "media/word/fifth.mp3?v=9749398f",
     "us": "media/word/fifth.mp3?v=9749398f"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "fifth 第五，fifty 五十：th 收尾不是 y。"
@@ -1723,6 +1741,7 @@
     "uk": "media/word/sixth.mp3?v=836340f5",
     "us": "media/word/sixth.mp3?v=836340f5"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "six（六）+ th（第）= sixth 第六"
@@ -1965,6 +1984,7 @@
     "uk": "media/word/eleventh.mp3?v=d629c72f",
     "us": "media/word/eleventh.mp3?v=d629c72f"
    },
+   "spell": true,
    "hook": {
     "kind": "affix",
     "text": "eleven十一+th序数=eleventh第十一"
@@ -2059,6 +2079,7 @@
     "uk": "media/word/twentieth.mp3?v=615a6738",
     "us": "media/word/twentieth.mp3?v=615a6738"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -2105,6 +2126,7 @@
     "uk": "media/word/thirtieth.mp3?v=299de5d9",
     "us": "media/word/thirtieth.mp3?v=299de5d9"
    },
+   "spell": true,
    "avoid": []
   }
  ]

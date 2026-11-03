@@ -46,6 +46,7 @@
     "uk": "media/word/bye.mp3?v=a2f37253",
     "us": "media/word/bye.mp3?v=a2f37253"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -145,6 +146,7 @@
     "uk": "media/word/goodbye.mp3?v=dd032a88",
     "us": "media/word/goodbye.mp3?v=dd032a88"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "good 好 + bye 再见 = goodbye 再见"
@@ -506,6 +508,7 @@
     "uk": "media/word/hi.mp3?v=49127e6f",
     "us": "media/word/hi.mp3?v=49127e6f"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -854,6 +857,7 @@
     "uk": "media/word/thank.mp3?v=41c1b3c9",
     "us": "media/word/thank.mp3?v=41c1b3c9"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "thank 感谢，thanks 谢谢：thanks 比 thank 多个 s。"

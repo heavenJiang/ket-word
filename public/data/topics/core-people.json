@@ -105,6 +105,7 @@
     "uk": "media/word/boyfriend.mp3?v=a60fc4fb",
     "us": "media/word/boyfriend.mp3?v=a60fc4fb"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "boy 男孩 + friend 朋友 = boyfriend 男朋友"
@@ -162,6 +163,7 @@
     "uk": "media/word/girlfriend.mp3?v=ec1e51c3",
     "us": "media/word/girlfriend.mp3?v=ec1e51c3"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "girl 女孩 + friend 朋友 = girlfriend 女朋友"

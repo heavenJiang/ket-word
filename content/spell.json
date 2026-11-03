@@ -1,0 +1,11 @@
+{
+  "_doc": "Which words are spelled (build_app_data.py). The KET exam makes a child write words in three places: Listening Part 2 (notes: numbers, days, months, everyday nouns), Reading Part 5 (open cloze: grammar words) and Writing (a short email and story in everyday words). So spelled are: words Word Atlas rates A1, every grammar word (determiner, pronoun, preposition, conjunction, modal, auxiliary), and the everyday words below that Word Atlas has no level for. The rest of the A2 list is read and heard in the exam but seldom written: those stop at meaning and listening. Never spelled: phrases, second meanings, one-letter words, abbreviations (CD, a.m.) and exclamations. `skip` takes a word out by hand.",
+  "add": [
+    "bored", "boyfriend", "bye", "check", "dad", "eight", "eighty", "eleven", "eleventh", "fifteen", "fifth",
+    "fifty", "five", "footballer", "fourteen", "girlfriend", "go", "goodbye", "grandad", "grandma", "grandpa",
+    "happy", "here", "hi", "how", "kitten", "lots", "luck", "march", "motorbike", "mum", "nineteen", "ninety",
+    "not", "only", "page", "part", "sad", "seven", "seventy", "six", "sixth", "song", "ten", "thank", "then",
+    "thirteen", "thirtieth", "three", "twentieth", "twenty", "two", "well", "where", "work", "yes", "zoo"
+  ],
+  "skip": []
+}

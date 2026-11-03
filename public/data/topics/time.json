@@ -107,7 +107,6 @@
     "uk": "media/uk/a-m.mp3?v=f4a6f3e3",
     "us": "media/us/a-m.mp3?v=9e8280e6"
    },
-   "spell": true,
    "avoid": [
     "midnight",
     "noon",
@@ -161,7 +160,6 @@
     "uk": "media/uk/p-m.mp3?v=13439ca1",
     "us": "media/us/p-m.mp3?v=851960c8"
    },
-   "spell": true,
    "avoid": [
     "a-m",
     "midnight",
@@ -623,6 +621,7 @@
     "uk": "media/word/past.mp3?v=d3e19980",
     "us": "media/word/past.mp3?v=d3e19980"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "past 经过有 t，pass 通过有 ss"
@@ -2539,6 +2538,7 @@
     "uk": "media/uk/march.mp3?v=d6bd6ee1",
     "us": "media/us/march.mp3?v=58a68c4e"
    },
+   "spell": true,
    "hook": {
     "kind": "story",
     "text": "March 三月：m 后面藏着 arch（拱门），春天拱门开花。"
@@ -2657,6 +2657,7 @@
     "uk": "media/word/may.mp3?v=08a1bf78",
     "us": "media/word/may.mp3?v=08a1bf78"
    },
+   "spell": true,
    "avoid": [
     "august",
     "july",

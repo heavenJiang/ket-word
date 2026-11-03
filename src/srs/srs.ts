@@ -97,20 +97,24 @@ export const MASTERED_STABILITY = 21;
 export const isMastered = (c?: CardState) => !!c && c.st === State.Review && c.s >= MASTERED_STABILITY;
 
 /**
- * Skills unlock in order so a child never has to spell a word they cannot yet recognise:
- * meaning first, listening once the meaning has been answered, spelling once the meaning has
- * been recalled again on a later day. Only everyday words (`spell`) are ever spelled.
+ * Skills unlock in order so a child never has to spell a word they cannot yet recognise or say:
+ * meaning first, listening once the meaning has been answered, spelling once the word has also been
+ * heard (the listening answered once, on a later day than the meaning: see `prerequisite`). So a
+ * word is first spelled around its third day, while its picture and sound are fresh, instead of a
+ * week on. Only everyday words (`spell`) are ever spelled. A skill already practised stays unlocked.
  */
 export function unlockedSkills(p: WordProgress | undefined, spell = true): Skill[] {
   if (!p) return [];
-  const m = p.skills.meaning;
+  const { meaning: m, listen: l } = p.skills;
   const out: Skill[] = ["meaning"];
-  if (m && m.reps >= 1) out.push("listen");
-  // spelling waits until the meaning has been recalled again on a later day, so a new word's first days
-  // are not three questions at once
-  if (spell && m && m.st === State.Review && m.reps >= 2) out.push("spell");
+  if ((m && m.reps >= 1) || l) out.push("listen");
+  if (spell && ((l && l.reps >= 1) || p.skills.spell)) out.push("spell");
   return out;
 }
+
+/** The skill whose first answer unlocks this one; a new skill waits until the day after it. */
+export const prerequisite = (skill: Skill): Skill | undefined =>
+  skill === "listen" ? "meaning" : skill === "spell" ? "listen" : undefined;
 
 /** 0 new · 1 learning · 2 knows the meaning · 3 fully mastered (every skill the word has). */
 export type WordLevel = 0 | 1 | 2 | 3;

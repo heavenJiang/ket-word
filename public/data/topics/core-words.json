@@ -1435,6 +1435,7 @@
     "uk": "media/word/page.mp3?v=e4f2acf8",
     "us": "media/word/page.mp3?v=e4f2acf8"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "page 比 age 多一个 p，像给年龄翻一页。"

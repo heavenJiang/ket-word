@@ -1814,6 +1814,7 @@
     "uk": "media/word/song.mp3?v=15881bc6",
     "us": "media/word/song.mp3?v=15881bc6"
    },
+   "spell": true,
    "avoid": [
     "music",
     "musician",

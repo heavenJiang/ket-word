@@ -161,6 +161,7 @@
     "uk": "media/uk/across.mp3?v=481c9e6d",
     "us": "media/us/across.mp3?v=547377ed"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "a 一个 + cross 穿过 = across 穿过"
@@ -218,6 +219,7 @@
     "uk": "media/uk/against.mp3?v=292eaf18",
     "us": "media/us/against.mp3?v=61f9cf18"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "against 比 again 多了 st，像站在门边靠着或反对。"
@@ -271,6 +273,7 @@
     "uk": "media/uk/along.mp3?v=712fd7f4",
     "us": "media/us/along.mp3?v=5e133324"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "along 沿着，alone 独自：along 把 e 换成 g，沿着路走。"
@@ -328,6 +331,7 @@
     "uk": "media/uk/among.mp3?v=62c65b07",
     "us": "media/us/among.mp3?v=c524c27f"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "among 之中有m，along 沿着有l；m像many许多，在中间。"
@@ -545,6 +549,7 @@
     "uk": "media/uk/beside.mp3?v=fcd6f0e5",
     "us": "media/us/beside.mp3?v=1f35c7a0"
    },
+   "spell": true,
    "hook": {
     "kind": "split",
     "text": "be（是）+ side（边）= beside 在旁边"
@@ -1195,6 +1200,7 @@
     "uk": "media/uk/opposite.mp3?v=5d93e7d8",
     "us": "media/us/opposite.mp3?v=6c0cc45c"
    },
+   "spell": true,
    "avoid": []
   },
   {
@@ -1472,6 +1478,7 @@
     "uk": "media/uk/through.mp3?v=003d4834",
     "us": "media/us/through.mp3?v=6b370107"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "through 穿过，rough 粗糙：through 多 th 像穿过去。"
@@ -1906,6 +1913,7 @@
     "uk": "media/word/here.mp3?v=64028d1f",
     "us": "media/word/here.mp3?v=64028d1f"
    },
+   "spell": true,
    "hook": {
     "kind": "contrast",
     "text": "here 这里，there 那里：here 用 h 指自己。"
