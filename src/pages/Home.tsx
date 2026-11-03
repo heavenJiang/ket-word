@@ -6,6 +6,7 @@ import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
 import { Max, type Pose } from "../ui/Max";
+import { Icon } from "../ui/Icons";
 import { Picture } from "../ui/Picture";
 
 /** Max collects explorer gear as the child earns stars: always the same puppy, so he stays "theirs". */
@@ -47,8 +48,10 @@ export function Home(props: {
   stickers: [number, number];
   onStickers: () => void;
   onCalendar: () => void;
+  /** The parent centre: rarely needed, so a small button here rather than a tab. */
+  onParent: () => void;
 }) {
-  const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers, onCalendar } = props;
+  const { progress, topic, topics, library, finished, newStories, rereadStories, checkupDue, onCheckup, onStart, onMap, onStories, stickers, onStickers, onCalendar, onParent } = props;
   const now = Date.now();
   const plan = todayPlan(library, topics, progress, now);
   const pet = petStage(progress.stars);
@@ -69,9 +72,15 @@ export function Home(props: {
   return (
     <div className="page home">
       <header className="home-head">
-        <div>
-          <div className="hello">你好，{progress.profile?.name ?? "小探险家"}！</div>
-          <div className="muted">今天也来认识新朋友吧</div>
+        <div className="home-hi">
+          <div>
+            <div className="hello">你好，{progress.profile?.name ?? "小探险家"}！</div>
+            <div className="muted">今天也来认识新朋友吧</div>
+          </div>
+          <button className="parent-entry" onClick={onParent} aria-label="家长中心">
+            <Icon name="parent" size={20} />
+            <span>家长</span>
+          </button>
         </div>
         <div className="chips">
           <span className="chip">{days > 0 ? `🔥 连续 ${days} 天` : "🌱 今天开始"}</span>
@@ -207,7 +216,7 @@ function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progre
     <section className="card today-ring">
       <svg viewBox="0 0 84 84" className="ring" aria-label={total === 0 ? "今天没有排任务" : `今天的任务已完成 ${done} 个，共 ${total} 个`}>
         <circle cx="42" cy="42" r={r} className="ring-bg" />
-        <circle cx="42" cy="42" r={r} className="ring-fill" strokeDasharray={`${share * c} ${c}`} transform="rotate(-90 42 42)" />
+        {share > 0 && <circle cx="42" cy="42" r={r} className="ring-fill" strokeDasharray={`${share * c} ${c}`} transform="rotate(-90 42 42)" />}
         <text x="42" y="40" textAnchor="middle" className="ring-num">
           {total === 0 ? "✓" : done}
         </text>

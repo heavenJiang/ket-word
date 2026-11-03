@@ -13,7 +13,7 @@ const SKILL_BADGE: Record<Skill, string> = { meaning: "👀 认识", listen: "�
  * Card album, one tab per open island: every word met becomes a card, each mastered skill earns
  * a badge. Cards not yet met show as silhouettes, so the child can see what is left to collect.
  */
-export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic: Record<string, Word[]>; progress: Progress }) {
+export function Cards({ topics, byTopic, progress, onFlag }: { topics: Topic[]; byTopic: Record<string, Word[]>; progress: Progress; onFlag: (id: string) => void }) {
   const [tab, setTab] = useState(progress.topic);
   const [query, setQuery] = useState("");
   const all = useMemo(() => {
@@ -109,6 +109,11 @@ export function Cards({ topics, byTopic, progress }: { topics: Topic[]; byTopic:
             <button className="btn btn-ghost" onClick={() => setOpen(null)}>
               关闭
             </button>
+            {open.media.img && (
+              <button className={`flag-btn ${progress.flags?.[open.id] ? "flag-on" : ""}`} onClick={() => onFlag(open.id)}>
+                {progress.flags?.[open.id] ? "🚩 已告诉家长这张图不对（点一下取消）" : "🚩 这张图看不懂 / 画错了？"}
+              </button>
+            )}
           </div>
         </div>
       )}

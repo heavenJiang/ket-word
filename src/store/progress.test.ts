@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { emptyProgress, recordStory, STORY_STARS } from "./progress";
+import { emptyProgress, parseProgress, recordStory, STORY_STARS, toggleFlag } from "./progress";
 
 describe("stories", () => {
   it("gives stars the first time a story is finished, and keeps the best score", () => {
@@ -77,5 +77,15 @@ describe("storage", () => {
   it("says when a save fails", async () => {
     const m = await fresh(fakeStorage({}, 10));
     expect(m.saveProgress(m.emptyProgress())).toBe(false);
+  });
+});
+
+describe("picture flags", () => {
+  it("marks a picture as wrong, takes the mark back, and keeps marks through a backup", () => {
+    let p = toggleFlag(emptyProgress(), "cat", 5);
+    expect(p.flags).toEqual({ cat: 5 });
+    expect(parseProgress(JSON.stringify(p)).flags).toEqual({ cat: 5 });
+    p = toggleFlag(p, "cat", 6);
+    expect(p.flags).toEqual({});
   });
 });

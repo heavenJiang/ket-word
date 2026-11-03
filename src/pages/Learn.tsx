@@ -13,7 +13,7 @@ import { addStars, recordCombo, recordGrade, type Progress } from "../store/prog
 import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
 import { Max } from "../ui/Max";
-import { Picture } from "../ui/Picture";
+import { Finish } from "./Finish";
 
 /** Bonus stars for finishing a session. */
 const FINISH_BONUS = 3;
@@ -42,6 +42,8 @@ export function Learn(props: {
   /** Right answers in a row, retries included: a small "on fire" reward for focus. */
   const [combo, setCombo] = useState(0);
   const [finished, setFinished] = useState(false);
+  /** Stars before this session, to see whether Max grows up at the end of it. */
+  const [starsBefore] = useState(progress.stars);
   /** This round so far: questions answered and stars won; `pause` shows the end-of-round screen. */
   const [round, setRound] = useState({ n: 0, stars: 0, num: 1, pause: false });
   /** The child tapped ✕ while new words were met but not yet recalled: ask once before leaving. */
@@ -94,45 +96,21 @@ export function Learn(props: {
   }
 
   if (finished) {
-    const pct = tally.total ? Math.round((tally.right / tally.total) * 100) : 100;
-    const met = session.steps.flatMap((x) => (x.type === "intro" ? x.wordIds : [])).map((id) => byId.get(id)!);
+    const metIds = session.steps.flatMap((x) => (x.type === "intro" ? x.wordIds : []));
+    const reviewedIds = [...new Set(session.steps.flatMap((x) => (x.type === "q" ? [x.wordId] : [])))].filter((id) => !metIds.includes(id));
     return (
-      <div className="page center finish">
-        <Confetti />
-        <Max pose="cheer" size="lg" />
-        <h2>{pct >= 80 ? "太厉害了！" : pct >= 50 ? "做得很好！" : "坚持就是胜利！"}</h2>
-        <div className="finish-stats">
-          <div>
-            <b>{tally.total}</b>
-            <span>练习</span>
-          </div>
-          <div>
-            <b>{pct}%</b>
-            <span>答对</span>
-          </div>
-          <div>
-            <b>+{tally.stars + FINISH_BONUS}</b>
-            <span>⭐ 星星</span>
-          </div>
-        </div>
-        {met.length > 0 && (
-          <div className="card finish-new">
-            <b>今天收集了 {met.length} 张新卡片</b>
-            <div className="finish-cards">
-              {met.map((w) => (
-                <div key={w.id} className="finish-card">
-                  <Picture word={w} size="sm" />
-                  <span>{w.word}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-        <p className="muted">Max 吃到了你的星星，长大了一点点！</p>
-        <button className="btn btn-primary" onClick={onExit}>
-          太好了！
-        </button>
-      </div>
+      <Finish
+        met={metIds.map((id) => byId.get(id)!)}
+        reviewed={reviewedIds.map((id) => byId.get(id)!)}
+        answered={tally.total}
+        pct={tally.total ? Math.round((tally.right / tally.total) * 100) : 100}
+        stars={tally.stars + FINISH_BONUS}
+        starsBefore={starsBefore}
+        starsAfter={progress.stars}
+        days={progress.days}
+        sound={settings.sound}
+        onExit={onExit}
+      />
     );
   }
 

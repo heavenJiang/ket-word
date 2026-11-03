@@ -7,6 +7,7 @@ import { isGraduated, isMastered, retrievability, type CardState } from "../srs/
 import { dayKey, dropUnreadableProgress, parseProgress, unreadableProgress, type Progress } from "../store/progress";
 import { SKILLS, type Skill, type Story, type Topic, type Word } from "../types";
 import { OfflinePanel } from "../ui/Offline";
+import { Picture } from "../ui/Picture";
 
 const SKILL_NAME: Record<Skill, string> = { meaning: "认识词义", listen: "听音辨词", spell: "拼写" };
 
@@ -198,6 +199,8 @@ export function Parent(props: {
               音效
             </label>
           </section>
+
+          <FlagPanel library={library} progress={progress} setProgress={setProgress} />
 
           <OfflinePanel words={words} stories={stories} />
 
@@ -451,4 +454,65 @@ function download(text: string, filename: string) {
   a.download = filename;
   a.click();
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+/**
+ * Pictures marked as wrong in the card album. Once a few have piled up the parent copies the list
+ * and has them redrawn in one go (gen_comfy.py --only), rather than paging through every contact sheet.
+ */
+function FlagPanel({ library, progress, setProgress }: { library: Library; progress: Progress; setProgress: (f: (p: Progress) => Progress) => void }) {
+  const [copied, setCopied] = useState(false);
+  const flagged = Object.entries(progress.flags ?? {})
+    .sort((a, b) => a[1] - b[1])
+    .map(([id]) => library.byId.get(id))
+    .filter((w): w is Word => !!w);
+  const command = `python3 scripts/ket/gen_comfy.py --only ${flagged.map((w) => w.id).join(",")}`;
+  const unflag = (id: string) =>
+    setProgress((p) => {
+      const flags = { ...p.flags };
+      delete flags[id];
+      return { ...p, flags };
+    });
+  return (
+    <section className="card">
+      <h3>要重画的插画</h3>
+      {flagged.length === 0 ? (
+        <p className="muted small">在卡册里打开一张卡，点“这张图看不懂 / 画错了？”，它就会出现在这里，攒一批统一重画。</p>
+      ) : (
+        <>
+          <p className="muted small">已标记 {flagged.length} 张。重画后从这里移除。</p>
+          <ul className="flag-list">
+            {flagged.map((w) => (
+              <li key={w.id}>
+                <Picture word={w} size="sm" />
+                <span>
+                  <b>{w.word}</b> <span className="muted small">{w.zh}</span>
+                </span>
+                <button className="btn btn-ghost btn-small" onClick={() => unflag(w.id)}>
+                  移除
+                </button>
+              </li>
+            ))}
+          </ul>
+          <code className="flag-cmd">{command}</code>
+          <div className="row">
+            <button
+              className="btn"
+              onClick={() =>
+                navigator.clipboard?.writeText(command).then(
+                  () => setCopied(true),
+                  () => setCopied(false),
+                )
+              }
+            >
+              {copied ? "已复制 ✓" : "复制重画命令"}
+            </button>
+            <button className="btn btn-ghost" onClick={() => setProgress((p) => ({ ...p, flags: {} }))}>
+              全部清空
+            </button>
+          </div>
+        </>
+      )}
+    </section>
+  );
 }

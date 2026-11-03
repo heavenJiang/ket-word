@@ -64,6 +64,8 @@ export interface Progress {
   checkups?: Checkup[];
   /** When the parent last saved a backup file. */
   backedUp?: number;
+  /** Pictures marked as wrong from the card album (word id → when), for the parent to have redrawn. */
+  flags?: Record<string, number>;
 }
 
 export interface Checkup {
@@ -272,6 +274,14 @@ export function addStars(p: Progress, n: number, now: number): Progress {
 }
 
 /** Consecutive days with at least one answer, counting today or (if not yet studied) yesterday. */
+/** Mark a word's picture as wrong, or take the mark back. */
+export function toggleFlag(p: Progress, id: string, now: number): Progress {
+  const flags = { ...p.flags };
+  if (flags[id]) delete flags[id];
+  else flags[id] = now;
+  return { ...p, flags };
+}
+
 export function streak(days: Record<string, DayLog>, now: number): number {
   let n = 0;
   let t = now;

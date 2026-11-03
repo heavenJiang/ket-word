@@ -8,7 +8,7 @@ import { Parent } from "./pages/Parent";
 import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { checkupWords, giveStickers, loadProgress, persistStorage, recordCheckup, recordStory, saveProgress, unreadableProgress, ungraduate, type Progress } from "./store/progress";
+import { checkupWords, giveStickers, loadProgress, persistStorage, recordCheckup, recordStory, saveProgress, toggleFlag, unreadableProgress, ungraduate, type Progress } from "./store/progress";
 import { Checkup } from "./pages/Checkup";
 import { Calendar } from "./pages/Calendar";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
@@ -24,7 +24,6 @@ const NAV: { id: Page & IconName; label: string }[] = [
   { id: "map", label: "地图" },
   { id: "stories", label: "故事" },
   { id: "cards", label: "卡册" },
-  { id: "parent", label: "家长" },
 ];
 
 export function App() {
@@ -156,6 +155,7 @@ export function App() {
             stickers={[stickers.filter(isEarned).length, stickers.length]}
             onStickers={() => setPage("stickers")}
             onCalendar={() => setPage("calendar")}
+            onParent={() => setPage("parent")}
           />
         )}
         {page === "map" && (
@@ -173,7 +173,7 @@ export function App() {
         {page === "stickers" && <Stickers all={stickers} onBack={() => setPage("home")} />}
         {page === "calendar" && <Calendar progress={progress} onBack={() => setPage("home")} />}
         {page === "stories" && <Stories stories={stories} topics={index.topics} progress={progress} onRead={setReading} />}
-        {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} />}
+        {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} onFlag={(id) => setProgress((p) => toggleFlag(p, id, Date.now()))} />}
         {page === "parent" && <Parent words={library.all} library={library} topics={index.topics} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
       </main>
       {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
