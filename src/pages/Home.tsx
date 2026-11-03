@@ -5,9 +5,12 @@ import { dayTasks, extraCap, todayPlan } from "../session/today";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
-import { Max, type Pose } from "../ui/Max";
+import type { Pose } from "../ui/Max";
 import { Icon } from "../ui/Icons";
+import { islandCover, islandEmoji } from "../lib/islands";
 import { Picture } from "../ui/Picture";
+
+const base = import.meta.env.BASE_URL;
 
 /** Max collects explorer gear as the child earns stars: always the same puppy, so he stays "theirs". */
 export function petStage(stars: number): { pose: Pose; name: string; next: number | null } {
@@ -68,33 +71,45 @@ export function Home(props: {
   const moreOk = library.all.some((w) => !progress.words[w.id]) && newToday < extraCap(opts.newPerDay);
   // the day is bounded by word counts, not by minutes: count today's tasks, done and still waiting (#2)
   const tasks = dayTasks(plan, opts);
+  const cover = topic && islandCover(library, topic);
+  /** What Max grows into next, shown beside him so the child sees what the stars are for. */
+  const after = pet.next ? petStage(pet.next) : null;
 
   return (
     <div className="page home">
-      <header className="home-head">
-        <div className="home-hi">
+      <section className="scene">
+        <div className="scene-top">
           <div>
             <div className="hello">你好，{progress.profile?.name ?? "小探险家"}！</div>
-            <div className="muted">今天也来认识新朋友吧</div>
+            <div className="scene-sub">今天也来认识新朋友吧</div>
           </div>
           <button className="parent-entry" onClick={onParent} aria-label="家长中心">
             <Icon name="parent" size={20} />
             <span>家长</span>
           </button>
         </div>
-        <div className="chips">
-          <span className="chip">{days > 0 ? `🔥 连续 ${days} 天` : "🌱 今天开始"}</span>
-          <span className="chip">⭐ {progress.stars}</span>
+        <div className="scene-badges">
+          <span className="badge badge-fire">{days > 0 ? <>🔥 连续 <b>{days}</b> 天</> : <>🌱 今天开始</>}</span>
+          <span className="badge badge-star">
+            ⭐ <b>{progress.stars}</b>
+          </span>
         </div>
-      </header>
+        <div className="scene-stage">
+          <button className="scene-island" onClick={onMap} aria-label={`现在在${topic?.zh ?? ""}岛，点一下去地图`}>
+            <span className="scene-disc">
+              {cover?.media.img ? <img src={base + cover.media.img} alt="" draggable={false} /> : <span className="isle-emoji">{topic ? islandEmoji(topic) : "🏝️"}</span>}
+            </span>
+            <img className="scene-max" src={`${base}media/ui/max-${hasWork ? pet.pose : "sleep"}.webp`} alt="" draggable={false} />
+            <span className="scene-name">{topic ? `${topic.zh}岛` : "…"}</span>
+            {unit && <span className="scene-unit">{unitLabel(unit)}</span>}
+            <span className="scene-change">换一座 ›</span>
+          </button>
+          <div className="scene-bubble">{maxLine(progress.profile?.name ?? "小探险家", plan.reviews.length, plan.newWords.length, catchUp)}</div>
+        </div>
+      </section>
 
       <section className="card hero">
         {finished && <p className="notice">🎉 {finished.zh}岛的单词都认识啦！接下来去{topic?.zh ?? "下一座"}岛。</p>}
-        <Max
-          pose={hasWork ? pet.pose : "sleep"}
-          size="md"
-          say={maxLine(progress.profile?.name ?? "小探险家", plan.reviews.length, plan.newWords.length, catchUp)}
-        />
         {hasWork ? (
           <>
             <Faces library={library} ids={[...plan.newWords, ...plan.reviews.map((t) => t.wordId)]} fresh={plan.newWords.length > 0} />
@@ -106,7 +121,7 @@ export function Home(props: {
             {catchUp && (
               <p className="notice">欢迎回来！先把以前的单词找回来，新单词稍后再学（还有 {plan.backlog} 个排队中）。</p>
             )}
-            <button className="btn btn-primary btn-huge" onClick={() => onStart()}>
+            <button className="btn btn-primary btn-huge btn-go" onClick={() => onStart()}>
               开始今天的冒险 🚀
             </button>
           </>
@@ -130,14 +145,6 @@ export function Home(props: {
             )}
           </div>
         )}
-        <button className="hero-island" onClick={onMap}>
-          <span className="muted small">当前岛屿</span>
-          <b>
-            {topic ? `${topic.zh} · ${topic.en}` : "加载中…"}
-            {unit && <span className="today-unit">{unitLabel(unit)}</span>}
-          </b>
-          <span className="muted small">换一个 ›</span>
-        </button>
         {left > 0 && (
           <p className="muted small goal-line">
             🎯 离目标还有 {left} 天 · 已认识 {met} / {library.all.length} 个词
@@ -169,22 +176,33 @@ export function Home(props: {
         </button>
       )}
 
-      <section className="card grow">
-        <div className="grow-pet">
-          <b>{pet.name}</b>
-          {pet.next ? (
-            <>
-              <div className="bar bar-thin">
-                <div className="bar-fill" style={{ width: `${Math.min(100, (progress.stars / pet.next) * 100)}%` }} />
-              </div>
-              <span className="muted small">再得 {pet.next - progress.stars} 颗 ⭐，Max 就能升级</span>
-            </>
-          ) : (
-            <span className="muted small">Max 已经是最厉害的狗狗啦！</span>
+      <section className="card grow-card">
+        <div className="grow-row">
+          <img className="grow-max" src={`${base}media/ui/max-${pet.pose}.webp`} alt="" draggable={false} />
+          <div className="grow-mid">
+            <b>{pet.name}</b>
+            {after ? (
+              <>
+                <div className="bar bar-thin">
+                  <div className="bar-fill grow-fill" style={{ width: `${Math.min(100, (progress.stars / pet.next!) * 100)}%` }} />
+                </div>
+                <span className="muted small">
+                  再得 {pet.next! - progress.stars} 颗 ⭐ 就变成{after.name}
+                </span>
+              </>
+            ) : (
+              <span className="muted small">Max 已经是最厉害的狗狗啦！</span>
+            )}
+          </div>
+          {after && (
+            <span className="grow-next">
+              <img src={`${base}media/ui/max-${after.pose}.webp`} alt="" draggable={false} />
+              <small>下一个样子</small>
+            </span>
           )}
         </div>
         <button className="sticker-entry" onClick={onStickers}>
-          <span>🏅 贴纸</span>
+          <span>🏅 我的贴纸</span>
           <b>
             {stickers[0]} / {stickers[1]}
           </b>
@@ -243,7 +261,7 @@ function TodayRing({ progress, now, done, left, onCalendar }: { progress: Progre
         <button className="week-stamps" onClick={onCalendar} aria-label="打开打卡日历">
           {week.map((d, i) => (
             <span key={i} className={`stamp ${d.on ? "stamp-on" : ""}`}>
-              <i>{d.on ? "✓" : ""}</i>
+              <i>{d.on ? "🐾" : ""}</i>
               {d.label}
             </span>
           ))}

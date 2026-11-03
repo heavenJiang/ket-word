@@ -127,7 +127,7 @@ export function Finish(props: {
           <div className="week-stamps">
             {week.map((d, i) => (
               <span key={i} className={`stamp ${d.on ? "stamp-on" : ""} ${d.today ? "stamp-today" : ""}`}>
-                <i>{d.on ? "✓" : ""}</i>
+                <i>{d.on ? "🐾" : ""}</i>
                 {d.label}
               </span>
             ))}
