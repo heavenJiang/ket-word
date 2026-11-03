@@ -26,6 +26,14 @@ const NAV: { id: Page & IconName; label: string }[] = [
   { id: "cards", label: "卡册" },
 ];
 
+const CREAM = "#fff8ec";
+/**
+ * The colour at the top of each page that has its own: the sky on the home screen, the sea on the map.
+ * The strip under the notch and the bounce above the page show this colour too, so the page reaches the
+ * very top of the screen instead of ending in a cream band. Every other page is cream to the top.
+ */
+const PAGE_TOP: Partial<Record<Page, string>> = { home: "#a8dcff", map: "#d9f1ff" };
+
 export function App() {
   const [progress, setProgressState] = useState<Progress>(loadProgress);
   const [index, setIndex] = useState<AppIndex | null>(null);
@@ -49,6 +57,14 @@ export function App() {
       return next;
     });
   }, []);
+
+  // Safari colours the status bar from theme-color (iOS 15–18) or from the page background (iOS 26), and shows
+  // the html background when the page bounces at the top: give both the colour of the page's top
+  const top = !progress.profile || reading ? CREAM : (PAGE_TOP[page] ?? CREAM);
+  useEffect(() => {
+    document.documentElement.style.backgroundColor = top;
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", top);
+  }, [top]);
 
   // without this Safari may clear the site's storage, and with it the progress, after days away
   useEffect(() => {
@@ -186,7 +202,7 @@ export function App() {
             }}
           />
         )}
-        {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} byTopic={library.topics} progress={progress} onFlag={(id) => setProgress((p) => toggleFlag(p, id, Date.now()))} />}
+        {page === "cards" && <Cards topics={index.topics.filter((t) => t.ready)} library={library} progress={progress} onFlag={(id) => setProgress((p) => toggleFlag(p, id, Date.now()))} />}
         {page === "parent" && <Parent words={library.all} library={library} topics={index.topics} progress={progress} setProgress={setProgress} credits={index.credits} source={index.source} stories={stories} />}
       </main>
       {fresh.length > 0 && <NewStickers stickers={fresh} onTake={() => setProgress((p) => giveStickers(p, fresh.map((x) => x.id), Date.now()))} />}
