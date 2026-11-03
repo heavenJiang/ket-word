@@ -1,4 +1,5 @@
-import { rereadDue, toOpen, type Library } from "../lib/data";
+import type { ReactNode } from "react";
+import { OPEN_SHARE, rereadDue, toOpen, type Library } from "../lib/data";
 import { routeOrder } from "../lib/route";
 import type { Progress } from "../store/progress";
 import type { Story, Topic, Word } from "../types";
@@ -29,6 +30,11 @@ export function Stories(props: {
   const rank = (s: Story) => (s.topic === progress.topic ? -1 : route.indexOf(s.topic));
   const shown = stories.filter((s) => topics.some((t) => t.id === s.topic && t.ready)).sort((a, b) => rank(a) - rank(b));
   const missing = (s: Story) => toOpen(s, progress.words);
+  /** How far a locked story is from opening: words met of those it needs, 0–1. */
+  const near = (s: Story) => {
+    const need = Math.ceil(s.needs.length * OPEN_SHARE);
+    return need ? (need - missing(s)) / need : 1;
+  };
   const fresh = shown.filter((s) => !missing(s) && !progress.stories[s.id]);
   const again = shown.filter((s) => rereadDue(progress.stories[s.id], now));
   const read = shown.filter((s) => progress.stories[s.id] && !again.includes(s));
@@ -49,6 +55,7 @@ export function Stories(props: {
         <NextStory
           story={next}
           missing={missing(next)}
+          near={near(next)}
           again={again.includes(next)}
           island={island(next)}
           here={next.topic === progress.topic}
@@ -88,10 +95,11 @@ export function Stories(props: {
           <div className="shelf">
             {soon.map((s) => (
               <div key={s.id} className="book book-locked">
-                <Cover story={s} />
-                <span className="book-lock">🔒</span>
+                <Cover story={s}>
+                  <LockTag missing={missing(s)} near={near(s)} />
+                </Cover>
                 <b className="book-title">{s.title}</b>
-                <span className="book-state">还差 {missing(s)} 个词</span>
+                <span className="book-state">{s.zh}</span>
               </div>
             ))}
           </div>
@@ -106,6 +114,7 @@ export function Stories(props: {
 function NextStory(props: {
   story: Story;
   missing: number;
+  near: number;
   again: boolean;
   island?: Topic;
   here: boolean;
@@ -113,12 +122,12 @@ function NextStory(props: {
   onRead: () => void;
   onIsland: () => void;
 }) {
-  const { story, missing, again, island, here, words, onRead, onIsland } = props;
+  const { story, missing, near, again, island, here, words, onRead, onIsland } = props;
   const open = missing === 0;
   return (
     <section className={`card next-story ${open ? "" : "next-locked"}`}>
       <div className="next-cover">
-        <Cover story={story} />
+        <Cover story={story}>{!open && <LockTag missing={missing} near={near} />}</Cover>
         <span className="next-badge">{open ? (again ? "🔁 再读一遍" : "✨ 新故事") : "🔒 快打开了"}</span>
       </div>
       <div className="next-body">
@@ -153,7 +162,24 @@ function NextStory(props: {
   );
 }
 
-function Cover({ story }: { story: Story }) {
+function Cover({ story, children }: { story: Story; children?: ReactNode }) {
   const img = story.pages[0]?.img;
-  return <span className="book-cover">{img ? <img src={base + img} alt="" draggable={false} loading="lazy" /> : <span>📖</span>}</span>;
+  return (
+    <span className="book-cover">
+      {img ? <img src={base + img} alt="" draggable={false} loading="lazy" /> : <span>📖</span>}
+      {children}
+    </span>
+  );
+}
+
+/** A locked story keeps its picture: a little tag says how many words are still missing, and how close it is. */
+function LockTag({ missing, near }: { missing: number; near: number }) {
+  return (
+    <span className="lock-tag">
+      <span>🔒 还差 {missing} 个词</span>
+      <i>
+        <b style={{ width: `${Math.round(near * 100)}%` }} />
+      </i>
+    </span>
+  );
 }

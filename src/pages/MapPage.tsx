@@ -52,15 +52,19 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
 
   return (
     <div className="page voyage">
-      <h2>单词岛航线</h2>
-      <p className="muted">每认识一个单词，岛上就多一面小旗 🚩。想去别的岛，点它看看。</p>
+      <header className="voyage-head">
+        <h2>单词岛航线</h2>
+        <p className="muted">每认识一个单词，岛上就多一面小旗 🚩。想去别的岛，点它看看。</p>
+      </header>
 
       {legs.map((leg) => (
         <section key={leg.book} className="leg">
           <h3 className="leg-title">
-            <span className="leg-flag">⛵ {leg.title}</span>
-            <span className="muted small">
-              {leg.book} · {leg.level} · {leg.islands.length} 座岛
+            <span className="leg-flag">
+              ⛵ {leg.title}
+              <small>
+                {leg.book} · {leg.level} · {leg.islands.length} 座岛
+              </small>
             </span>
           </h3>
           <div className="leg-path" style={{ height: leg.islands.length * ROW }}>

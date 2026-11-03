@@ -76,6 +76,9 @@ export function Parent(props: {
     return out.sort((a, b) => b.lapses - a.lapses || a.r - b.r).slice(0, 5);
   }, [words, progress, now]);
 
+  // every hook above the gate: the gate renders fewer of them, and React needs the same ones each time
+  const [broken, setBroken] = useState(unreadableProgress);
+
   if (!ok) return <Gate onPass={() => setOk(true)} />;
 
   const set = <K extends keyof Progress["settings"]>(k: K, v: Progress["settings"][K]) =>
@@ -86,7 +89,6 @@ export function Parent(props: {
     download(JSON.stringify(p), `ket-word-${name}-${dayKey(now)}.json`);
     setProgress((q) => ({ ...q, backedUp: now }));
   };
-  const [broken, setBroken] = useState(unreadableProgress);
   const backupDays = progress.backedUp === undefined ? null : Math.floor((now - progress.backedUp) / 86_400_000);
 
   const importFile = async (f: File) => {
