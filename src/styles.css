@@ -330,13 +330,16 @@ h3 {
 
 /* map: one sea lane winding down the page */
 .voyage { padding-bottom: 40px; position: relative; z-index: 0; }
+/* Safari 26 colours the notch strip from whatever has a background colour under it as the page scrolls:
+   on the map that must be the sea (the body, coloured by App), not the cream shell */
+.shell:has(.voyage) { background: transparent; }
 /* the sea fills the whole screen behind the map, top to tab bar */
 .voyage::before {
   content: ""; position: fixed; inset: 0; z-index: -1;
   background:
     radial-gradient(ellipse 18px 6px at 50% 50%, rgba(255, 255, 255, 0.55) 45%, transparent 55%) 0 0 / 90px 70px,
     radial-gradient(ellipse 14px 5px at 50% 50%, rgba(255, 255, 255, 0.4) 45%, transparent 55%) 45px 35px / 90px 70px,
-    linear-gradient(180deg, #d9f1ff, #b9e2fa 60%, #a6d8f5);
+    linear-gradient(180deg, #d9f1ff, #b9e2fa 60%, #a6d8f5) #d9f1ff;
 }
 .voyage-head { background: rgba(255, 255, 255, 0.82); backdrop-filter: blur(6px); border-radius: 22px; padding: 14px 18px; box-shadow: 0 6px 18px rgba(40, 90, 130, 0.12); }
 .voyage-head h2 { margin: 0 0 4px; }
