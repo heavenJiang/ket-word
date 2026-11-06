@@ -12,7 +12,8 @@ const ALPHABET = "abcdefghijklmnopqrstuvwxyz";
 
 /**
  * Spell the word by tapping letter tiles in order. Easier than typing on a tablet keyboard;
- * stronger memories get extra decoy letters, and retries start with the first letter shown.
+ * stronger memories get extra decoy letters, and retries start with the first letter shown. A new
+ * word is copied: its letters wait faintly in the slots, so the child cannot get stuck.
  */
 export function Tiles(props: {
   word: Word;
@@ -20,11 +21,13 @@ export function Tiles(props: {
   sound: boolean;
   decoys: number;
   firstLetter: boolean;
+  /** Show the word in the slots to copy from, instead of spelling it from memory. */
+  copy?: boolean;
   onAnswer: (a: Attempt) => void;
   /** The child keeps forgetting this word: giving up shows its memory hook. */
   hard?: boolean;
 }) {
-  const { word, accent, sound, decoys, firstLetter, onAnswer, hard } = props;
+  const { word, accent, sound, decoys, firstLetter, copy, onAnswer, hard } = props;
   const target = word.word.toLowerCase();
   const tiles = useMemo(() => {
     const letters = [...target].filter(isLetter);
@@ -116,7 +119,7 @@ export function Tiles(props: {
 
   return (
     <div className="question">
-      <div className="prompt">拼一拼：点字母，拼出这个单词</div>
+      <div className="prompt">{copy ? "照着拼：按顺序点字母" : "拼一拼：点字母，拼出这个单词"}</div>
       <div className="stem stem-tiles">
         <Picture word={word} size="sm" />
         <div>
@@ -131,8 +134,8 @@ export function Tiles(props: {
       <div className={`slots ${done === "right" ? "slots-right" : ""}`}>
         {[...word.word].map((c, i) =>
           isLetter(c) ? (
-            <span key={i} className={`slot ${i < pos ? "slot-full" : ""} ${i === pos && !done ? "slot-next" : ""}`}>
-              {i < pos ? c.toLowerCase() : ""}
+            <span key={i} className={`slot ${i < pos ? "slot-full" : copy ? "slot-ghost" : ""} ${i === pos && !done ? "slot-next" : ""}`}>
+              {i < pos || copy ? c.toLowerCase() : ""}
             </span>
           ) : (
             <span key={i} className="slot-gap">
@@ -160,7 +163,7 @@ export function Tiles(props: {
           <button className="btn btn-ghost btn-small" onClick={hint}>
             💡 给我一个字母
           </button>
-          {mistakes >= 2 && (
+          {mistakes >= 2 && !copy && (
             <button className="btn btn-ghost btn-small" onClick={giveUp}>
               👀 看答案
             </button>

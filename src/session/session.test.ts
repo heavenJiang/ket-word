@@ -3,7 +3,7 @@ import { Rating, review, unlockedSkills, type CardState, type WordProgress } fro
 import { buildPlan } from "./plan";
 import { distractors } from "../lib/choice";
 import type { Word } from "../types";
-import { answer, buildSession, current, groupOpen, keyOf, kindFor, MAX_RETRIES, RECALL_GAP, RETRY_GAP, spreadOut, type Session } from "./session";
+import { answer, buildSession, current, groupOpen, isCopy, keyOf, kindFor, MAX_RETRIES, RECALL_GAP, RETRY_GAP, spreadOut, type Session } from "./session";
 
 const DAY = 86_400_000;
 const t0 = Date.UTC(2026, 9, 1, 8);
@@ -128,6 +128,29 @@ describe("session", () => {
     expect(kinds.slice(6 + RECALL_GAP, 10 + RECALL_GAP)).toEqual(["recall", "recall", "recall", "recall"]);
     expect(kinds[10 + RECALL_GAP]).toBe("intro");
     expect(kinds.filter((k) => k === "recall")).toHaveLength(6);
+  });
+
+  it("copies the words that are spelled once, unscored, after the group's practice and before its recall", () => {
+    const spells = (id: string) => id === "w0" || id === "w2";
+    const plan = buildPlan(order, {}, t0, { ...opt, newPerDay: 4 });
+    const s = buildSession(plan, {}, seq(), undefined, spells);
+    const copies = s.steps.filter(isCopy);
+    expect(copies.map((x) => (x.type === "q" ? x.wordId : "")).sort()).toEqual(["w0", "w2"]);
+    const lastPractice = s.steps.map((x) => x.type === "q" && x.kind === "pickImage").lastIndexOf(true);
+    const firstRecall = s.steps.findIndex((x) => x.type === "q" && x.graded);
+    expect(s.steps.findIndex(isCopy)).toBeGreaterThan(lastPractice);
+    expect(s.steps.map(isCopy).lastIndexOf(true)).toBeLessThan(firstRecall);
+    // answering it leaves no memory behind and the group still waits for its recall
+    const r = answer({ ...s, index: s.steps.findIndex(isCopy) }, true, {});
+    expect(r.grade).toBe(false);
+    expect(r.session.answered).toEqual([]);
+    expect(groupOpen(r.session)).toBe(true);
+  });
+
+  it("does not take a graded spelling's retry for a copy", () => {
+    const graded = { type: "q", wordId: "w0", skill: "spell", kind: "tiles", graded: true, retry: 0 } as const;
+    const s = answer({ steps: [graded], index: 0, answered: [] }, false, {}).session;
+    expect(s.steps.some(isCopy)).toBe(false);
   });
 
   it("keeps a group of new words open until it is recalled, so a break never loses it", () => {

@@ -4,8 +4,8 @@ import { CHECKUP_MISS, dayKey, type LogEntry, type Progress } from "../store/pro
 const DAY = 86_400_000;
 /** The answer card after each question, on top of the time to answer. */
 const FEEDBACK_SECS = 4;
-/** Meeting a new word and the match game, which leave no graded answer of their own. */
-const TEACH_SECS = 30;
+/** Meeting a new word, the match game and copying it, which leave no graded answer of their own. */
+const TEACH_SECS = 37;
 
 /** A share with how many answers it rests on; too few answers and it means little. */
 export interface Rate {

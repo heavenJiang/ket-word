@@ -65,6 +65,9 @@ export function spreadOut<T extends { wordId: string }>(xs: T[]): T[] {
   return a;
 }
 
+/** A new word's unscored spelling, done with the letters on show; a graded spelling's retries are unscored too, but are not copies. */
+export const isCopy = (s: Step) => s.type === "q" && s.kind === "tiles" && !s.graded && s.retry === 0;
+
 /** Reviews between a group's unscored practice and its scored recall, so the recall comes after a pause. */
 export const RECALL_GAP = 6;
 
@@ -72,7 +75,9 @@ export const RECALL_GAP = 6;
  * New words come early, in small groups, so a child who stops after a round has still met them:
  * each group is met, matched and practised once without scoring, then a few reviews, then the group
  * is recalled once more and that answer is the one that counts (memory scored after a pause, not
- * straight after seeing the word). The reviews left over come last.
+ * straight after seeing the word). A word that is spelled is also copied once, unscored, with its
+ * letters on show: the child's hands go through the spelling on day one, though it is only tested
+ * from the third day. The reviews left over come last.
  */
 export function buildSession(
   plan: Plan,
@@ -80,6 +85,8 @@ export function buildSession(
   rng: () => number = Math.random,
   /** Whether a word has a sentence that can take a gap; without it, no gap questions. */
   canGap: (wordId: string) => boolean = () => false,
+  /** Whether a word is ever spelled; the others are not copied either. */
+  spells: (wordId: string) => boolean = () => false,
 ): Session {
   const reviews: Step[] = spreadOut(shuffle(plan.reviews, rng)).map((t) => {
     const card = progress[t.wordId]?.skills[t.skill];
@@ -91,6 +98,7 @@ export function buildSession(
     steps.push({ type: "intro", wordIds: group });
     if (group.length > 1) steps.push({ type: "match", wordIds: group });
     for (const wordId of shuffle(group, rng)) steps.push({ type: "q", wordId, skill: "meaning", kind: "pickImage", graded: false, retry: 0 });
+    for (const wordId of shuffle(group.filter(spells), rng)) steps.push({ type: "q", wordId, skill: "spell", kind: "tiles", graded: false, retry: 0 });
     steps.push(...reviews.splice(0, RECALL_GAP));
     for (const { wordId } of spreadOut(shuffle(group.map((wordId) => ({ wordId })), rng)))
       steps.push({ type: "q", wordId, skill: "meaning", kind: "pickMeaning", graded: true, retry: 0 });

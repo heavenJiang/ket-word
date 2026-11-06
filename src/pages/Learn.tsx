@@ -5,7 +5,7 @@ import { Intro } from "../questions/Intro";
 import { Match } from "../questions/Match";
 import { gapSentences } from "../lib/sentence";
 import { Tiles } from "../questions/Tiles";
-import { answer, buildSession, current, isDone, advance, openWords, questionsLeft, roundEnds, ROUND } from "../session/session";
+import { answer, buildSession, current, isCopy, isDone, advance, openWords, questionsLeft, roundEnds, ROUND } from "../session/session";
 import { todayPlan } from "../session/today";
 import { ageFactor, gradeAttempt, type Attempt } from "../srs/grade";
 import { isHard, Rating, type Grade } from "../srs/srs";
@@ -36,7 +36,7 @@ export function Learn(props: {
 
   const [session, setSession] = useState(() => {
     const plan = todayPlan(library, topics, progress, Date.now(), props.extra);
-    return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0);
+    return buildSession(plan, progress.words, Math.random, (id) => gapSentences(byId.get(id)!).length > 0, (id) => !!byId.get(id)?.spell);
   });
   const [tally, setTally] = useState({ right: 0, total: 0, stars: 0 });
   /** Right answers in a row, retries included: a small "on fire" reward for focus. */
@@ -197,6 +197,7 @@ export function Learn(props: {
           sound={settings.sound}
           decoys={(progress.words[step.wordId]?.skills.spell?.s ?? 0) >= 7 ? 3 : 0}
           firstLetter={step.retry > 0}
+          copy={isCopy(step)}
           hard={isHard(progress.words[step.wordId])}
           onAnswer={onAnswer}
         />

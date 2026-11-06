@@ -312,6 +312,7 @@ h3 {
 .slot { width: 40px; height: 50px; border-bottom: 4px solid var(--line); display: grid; place-items: center; font-family: var(--font-word); font-size: 1.9rem; font-weight: 700; }
 .slot-full { border-color: var(--sky); animation: pop 0.25s; }
 .slot-next { border-color: var(--primary); }
+.slot-ghost { color: var(--muted); opacity: 0.55; }
 .slot-gap { width: 18px; display: grid; place-items: end center; font-size: 1.8rem; font-weight: 800; }
 .slots-right .slot { border-color: var(--green); color: var(--green); }
 .tiles { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
