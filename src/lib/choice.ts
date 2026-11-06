@@ -57,6 +57,13 @@ export function editDistance(a: string, b: string): number {
   return dp[b.length];
 }
 
+/**
+ * The caption under a picture option: the gloss's first meaning, the one the island teaches and pictures.
+ * The pictures are scenes (a family on a beach for "wonderful"), so without it four of them leave a
+ * child guessing, even one who knows the word.
+ */
+export const caption = (w: Pick<Word, "zh">) => w.zh.split(/[；;]/)[0].trim();
+
 /** The meanings in a word's Chinese gloss, notes in brackets dropped: "她的；她（宾格）" → {她的, 她}. */
 export function meanings(w: Pick<Word, "zh">): Set<string> {
   const bare = w.zh.replace(/[（(][^）)]*[）)]/g, "");

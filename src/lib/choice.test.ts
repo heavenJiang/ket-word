@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { Word } from "../types";
-import { distractors, meanings } from "./choice";
+import { caption, distractors, meanings } from "./choice";
 
 const w = (id: string, zh: string): Word =>
   ({ id, word: id, zh, pos: ["adv"], ipa: "", chunks: [id], emoji: "", sentence: { en: "", zh: "" }, media: {} }) as Word;
@@ -8,6 +8,14 @@ const w = (id: string, zh: string): Word =>
 describe("meanings", () => {
   it("splits the gloss and drops bracketed notes", () => {
     expect([...meanings(w("her", "她的；她（宾格）"))]).toEqual(["她的", "她"]);
+  });
+});
+
+describe("caption", () => {
+  it("is the first meaning of the gloss, with its note", () => {
+    expect(caption(w("building", "建筑物；楼房"))).toBe("建筑物");
+    expect(caption(w("her", "她（宾格）；她的"))).toBe("她（宾格）");
+    expect(caption(w("cat", "猫"))).toBe("猫");
   });
 });
 

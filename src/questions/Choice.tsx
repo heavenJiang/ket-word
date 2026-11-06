@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { distractors, shuffle } from "../lib/choice";
+import { caption, distractors, shuffle } from "../lib/choice";
 import { playText, playWord, sfx } from "../lib/audio";
 import { burstAt } from "../lib/burst";
 import { gapSentences, mentioned, sentencesOf, splitAt } from "../lib/sentence";
@@ -146,7 +146,12 @@ export function Choice(props: {
             <div key={o.id} className="opt opt-gone" />
           ) : (
             <button key={o.id} className={`opt ${state(o)}`} onClick={(e) => choose(o, e.currentTarget)}>
-              {PICTURE_KINDS.includes(kind) && <Picture word={o} size="sm" />}
+              {PICTURE_KINDS.includes(kind) && (
+                <>
+                  <Picture word={o} size="sm" />
+                  <span className="opt-cap">{caption(o)}</span>
+                </>
+              )}
               {kind === "pickMeaning" && <span className="opt-text">{o.zh}</span>}
               {(kind === "listenPick" || kind === "cloze" || kind === "pickWord") && <span className="opt-text opt-en">{o.word}</span>}
             </button>

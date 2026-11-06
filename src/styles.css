@@ -266,6 +266,7 @@ h3 {
   transition: transform 0.1s, opacity 0.2s;
 }
 .opt:active { transform: translateY(2px); }
+.opt-cap { margin-top: 6px; font-size: 1.05rem; font-weight: 800; line-height: 1.25; text-align: center; }
 .opt-text { font-size: 1.25rem; font-weight: 800; }
 .opt-en { font-family: var(--font-word); font-size: 1.6rem; font-weight: 700; }
 .opt-right { border-color: var(--green); background: var(--green-soft); animation: pop 0.35s; }
@@ -478,6 +479,7 @@ h3 {
 /* match game */
 .match { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
 .match-col { display: flex; flex-direction: column; gap: 10px; }
+.match-col > * { flex: 1; }
 .match-item { background: var(--card); border: 3px solid var(--line); border-radius: 18px; box-shadow: 0 4px 0 var(--line); padding: 6px; min-height: 72px; display: grid; place-items: center; transition: transform 0.1s, opacity 0.3s; }
 .match-item .picture-sm { max-width: clamp(92px, 21vw, 170px); }
 /* on a tablet the pairs fill the screen: pictures big enough to tell apart at a glance */
