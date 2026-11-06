@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { caption, shuffle } from "../lib/choice";
+import { shuffle } from "../lib/choice";
 import { playWord, sfx } from "../lib/audio";
 import type { Accent, Word } from "../types";
 import { Picture } from "../ui/Picture";
@@ -48,7 +48,7 @@ export function Match({ words, accent, sound, onDone }: { words: Word[]; accent:
           {pics.map((w) => (
             <button key={w.id} className={cls("pic", w)} onClick={() => tap("pic", w)}>
               {w.media.img && <Picture word={w} size="sm" />}
-              <span className="match-zh">{w.media.img ? caption(w) : w.zh}</span>
+              <span className="match-zh">{w.zh}</span>
             </button>
           ))}
         </div>

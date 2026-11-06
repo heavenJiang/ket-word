@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { caption, distractors, shuffle } from "../lib/choice";
+import { distractors, shuffle } from "../lib/choice";
 import { playText, playWord, sfx } from "../lib/audio";
 import { burstAt } from "../lib/burst";
 import { gapSentences, mentioned, sentencesOf, splitAt } from "../lib/sentence";
@@ -149,7 +149,8 @@ export function Choice(props: {
               {PICTURE_KINDS.includes(kind) && (
                 <>
                   <Picture word={o} size="sm" />
-                  <span className="opt-cap">{caption(o)}</span>
+                  {/* the pictures are scenes: without the meaning, four of them leave a child guessing */}
+                  <span className="opt-cap">{o.zh}</span>
                 </>
               )}
               {kind === "pickMeaning" && <span className="opt-text">{o.zh}</span>}

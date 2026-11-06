@@ -478,8 +478,8 @@ h3 {
 
 /* match game */
 .match { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-.match-col { display: flex; flex-direction: column; gap: 10px; }
-.match-col > * { flex: 1; }
+/* rows as tall as the tallest pair, the same in both columns: a two-line meaning never runs over its picture */
+.match-col { display: grid; grid-auto-rows: 1fr; gap: 10px; }
 .match-item { background: var(--card); border: 3px solid var(--line); border-radius: 18px; box-shadow: 0 4px 0 var(--line); padding: 6px; min-height: 72px; display: grid; place-items: center; transition: transform 0.1s, opacity 0.3s; }
 .match-item .picture-sm { max-width: clamp(92px, 21vw, 170px); }
 /* on a tablet the pairs fill the screen: pictures big enough to tell apart at a glance */
