@@ -78,6 +78,33 @@ describe("storage", () => {
     const m = await fresh(fakeStorage({}, 10));
     expect(m.saveProgress(m.emptyProgress())).toBe(false);
   });
+
+  it("finds what another page saved, once", async () => {
+    const s = fakeStorage();
+    const m = await fresh(s);
+    const mine = m.loadProgress();
+    m.saveProgress(mine);
+    expect(m.newerProgress()).toBeNull(); // its own save is not news
+    s.m.set("ket-word:progress", JSON.stringify({ ...mine, stars: 30 }));
+    expect(m.newerProgress()?.stars).toBe(30);
+    expect(m.newerProgress()).toBeNull();
+  });
+
+  it("keeps this page's progress when storage has nothing better", async () => {
+    const s = fakeStorage();
+    const m = await fresh(s);
+    m.saveProgress(m.emptyProgress());
+    s.m.set("ket-word:progress", "{broken");
+    expect(m.newerProgress()).toBeNull();
+    s.m.delete("ket-word:progress");
+    expect(m.newerProgress()).toBeNull();
+  });
+
+  it("leaves the only copy of an unreadable progress alone", async () => {
+    const m = await fresh(fakeStorage({ "ket-word:progress": "{broken" }, 10));
+    m.loadProgress();
+    expect(m.newerProgress()).toBeNull();
+  });
 });
 
 describe("picture flags", () => {

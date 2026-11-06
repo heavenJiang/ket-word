@@ -8,7 +8,7 @@ import { Parent } from "./pages/Parent";
 import { NewStickers, Stickers } from "./pages/Stickers";
 import { Stories } from "./pages/Stories";
 import { StoryReader } from "./pages/StoryReader";
-import { checkupWords, giveStickers, loadProgress, persistStorage, recordCheckup, recordStory, saveProgress, toggleFlag, unreadableProgress, ungraduate, type Progress } from "./store/progress";
+import { checkupWords, giveStickers, loadProgress, newerProgress, persistStorage, recordCheckup, recordStory, saveProgress, toggleFlag, unreadableProgress, ungraduate, type Progress } from "./store/progress";
 import { Checkup } from "./pages/Checkup";
 import { Calendar } from "./pages/Calendar";
 import { isEarned, newlyEarned, stickers as allStickers } from "./lib/stickers";
@@ -51,11 +51,27 @@ export function App() {
   const [unsaved, setUnsaved] = useState(false);
 
   const setProgress = useCallback((f: (p: Progress) => Progress) => {
+    // read before the updater, which React may run twice: a change goes on top of what another page saved
+    const newer = newerProgress();
     setProgressState((p) => {
-      const next = f(p);
+      const next = f(newer ?? p);
       setUnsaved(!saveProgress(next));
       return next;
     });
+  }, []);
+
+  // another page saved, or this one comes back after hours in the background: show the latest progress
+  useEffect(() => {
+    const sync = () => {
+      const newer = document.visibilityState === "visible" ? newerProgress() : null;
+      if (newer) setProgressState(newer);
+    };
+    for (const event of ["storage", "focus", "pageshow"]) window.addEventListener(event, sync);
+    document.addEventListener("visibilitychange", sync);
+    return () => {
+      for (const event of ["storage", "focus", "pageshow"]) window.removeEventListener(event, sync);
+      document.removeEventListener("visibilitychange", sync);
+    };
   }, []);
 
   // Safari colours the status bar from theme-color (iOS 15–18) or from the body's background (iOS 26), and
@@ -245,6 +261,7 @@ function Onboarding({ onDone }: { onDone: (name: string, age: number) => void })
       <button className="btn btn-primary btn-huge" disabled={!name.trim()} onClick={() => onDone(name.trim(), age)}>
         出发！
       </button>
+      <p className="muted small">进度只保存在这台设备上。请不要用无痕（隐私）模式打开，否则关掉页面后进度会全部丢失。</p>
     </div>
   );
 }

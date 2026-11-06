@@ -132,6 +132,9 @@ export function dayKey(now: number): string {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 }
 
+/** The saved text this page last read or wrote: anything else in storage came from another page. */
+let seen: string | null = null;
+
 export function loadProgress(): Progress {
   let raw: string | null = null;
   try {
@@ -139,6 +142,7 @@ export function loadProgress(): Progress {
   } catch {
     return emptyProgress(); // storage blocked: progress lives for this session only
   }
+  seen = raw;
   if (!raw) return emptyProgress();
   try {
     return parseProgress(raw);
@@ -182,10 +186,30 @@ export function saveProgress(p: Progress): boolean {
   // the only copy of an unreadable progress is still in KEY: never overwrite it
   if (unreadable) return false;
   try {
-    localStorage.setItem(KEY, JSON.stringify(p));
+    const raw = JSON.stringify(p);
+    localStorage.setItem(KEY, raw);
+    seen = raw;
     return true;
   } catch {
     return false;
+  }
+}
+
+/**
+ * The saved progress, when another page (a second tab, a tab left open since yesterday) has saved
+ * since this page last looked; otherwise null. Each save writes the whole progress, so a page must
+ * pick this up before saving or it wipes out everything the other page did.
+ */
+export function newerProgress(): Progress | null {
+  if (unreadable) return null;
+  try {
+    const raw = localStorage.getItem(KEY);
+    if (!raw || raw === seen) return null;
+    const p = parseProgress(raw);
+    seen = raw;
+    return p;
+  } catch {
+    return null;
   }
 }
 
