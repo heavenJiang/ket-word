@@ -5,6 +5,7 @@ import type { Library } from "../lib/data";
 import { ROUTE, routeOrder } from "../lib/route";
 import { nextIsland } from "../session/today";
 import type { Topic } from "../types";
+import { maxPic } from "../ui/Max";
 import { Picture } from "../ui/Picture";
 import { islandCover, islandEmoji } from "../lib/islands";
 
@@ -92,7 +93,7 @@ export function MapPage(props: { topics: Topic[]; progress: Progress; library: L
                       {share > 0 && <circle cx="42" cy="42" r="38" className="isle-ring-fill" strokeDasharray={`${share * 238.8} 238.8`} transform="rotate(-90 42 42)" />}
                     </svg>
                     <Cover library={library} topic={t} />
-                    {on && <img className="isle-max" src={`${import.meta.env.BASE_URL}media/ui/max-happy.webp`} alt="" />}
+                    {on && <img className="isle-max" src={maxPic("happy")} alt="" />}
                     {!on && done && <span className="isle-flag">🚩</span>}
                   </span>
                   <b className="isle-name">{t.zh}</b>

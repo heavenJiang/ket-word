@@ -5,6 +5,12 @@ const base = import.meta.env.BASE_URL;
 /** Max's moods and growth stages, drawn by scripts/ket/gen_mascot.py into public/media/ui. */
 export type Pose = "happy" | "cheer" | "think" | "sleep" | "wave" | "stage2" | "stage3" | "stage4";
 
+declare const __MAX_V__: string;
+
+/** Path of a picture of Max, with its version (vite.config.ts), as word pictures have theirs (?v=…). */
+export const maxPath = (pose: Pose) => `media/ui/max-${pose}.webp?v=${__MAX_V__}`;
+export const maxPic = (pose: Pose) => base + maxPath(pose);
+
 const FALLBACK: Record<Pose, string> = {
   happy: "🐶", cheer: "🐶", think: "🐶", sleep: "😴", wave: "🐶", stage2: "🐕", stage3: "🐕‍🦺", stage4: "🦮",
 };
@@ -20,7 +26,7 @@ export function Max({ pose = "happy", size = "md", say }: { pose?: Pose; size?: 
             {FALLBACK[pose]}
           </span>
         ) : (
-          <img src={`${base}media/ui/max-${pose}.webp`} alt="" draggable={false} onError={() => setBroken(true)} />
+          <img src={maxPic(pose)} alt="" draggable={false} onError={() => setBroken(true)} />
         )}
       </div>
       {say && <div className="bubble">{say}</div>}

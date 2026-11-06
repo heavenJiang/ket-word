@@ -3,6 +3,7 @@ import { OPEN_SHARE, rereadDue, toOpen, type Library } from "../lib/data";
 import { routeOrder } from "../lib/route";
 import { STORY_STARS, type Progress } from "../store/progress";
 import type { Story, Topic, Word } from "../types";
+import { maxPic } from "../ui/Max";
 import { Picture } from "../ui/Picture";
 
 const base = import.meta.env.BASE_URL;
@@ -56,7 +57,7 @@ export function Stories(props: {
           </span>
           <span className="story-head-tip">学会单词，新故事就会打开</span>
         </div>
-        <img className="story-head-max" src={`${base}media/ui/max-wave.webp`} alt="" draggable={false} />
+        <img className="story-head-max" src={maxPic("wave")} alt="" draggable={false} />
       </header>
 
       {next && (

@@ -5,7 +5,7 @@ import { dayTasks, extraCap, todayPlan } from "../session/today";
 import { dayKey, planOptions, streak, type Progress } from "../store/progress";
 import type { Library } from "../lib/data";
 import type { Topic, Word } from "../types";
-import type { Pose } from "../ui/Max";
+import { maxPic, type Pose } from "../ui/Max";
 import { Icon } from "../ui/Icons";
 import { islandCover, islandEmoji } from "../lib/islands";
 import { Picture } from "../ui/Picture";
@@ -99,7 +99,7 @@ export function Home(props: {
             <span className="scene-disc">
               {cover?.media.img ? <img src={base + cover.media.img} alt="" draggable={false} /> : <span className="isle-emoji">{topic ? islandEmoji(topic) : "🏝️"}</span>}
             </span>
-            <img className="scene-max" src={`${base}media/ui/max-${hasWork ? pet.pose : "sleep"}.webp`} alt="" draggable={false} />
+            <img className="scene-max" src={maxPic(hasWork ? pet.pose : "sleep")} alt="" draggable={false} />
             <span className="scene-name">{topic ? `${topic.zh}岛` : "…"}</span>
             {unit && <span className="scene-unit">{unitLabel(unit)}</span>}
             <span className="scene-change">换一座 ›</span>
@@ -178,7 +178,7 @@ export function Home(props: {
 
       <section className="card grow-card">
         <div className="grow-row">
-          <img className="grow-max" src={`${base}media/ui/max-${pet.pose}.webp`} alt="" draggable={false} />
+          <img className="grow-max" src={maxPic(pet.pose)} alt="" draggable={false} />
           <div className="grow-mid">
             <b>{pet.name}</b>
             {after ? (
@@ -196,7 +196,7 @@ export function Home(props: {
           </div>
           {after && (
             <span className="grow-next">
-              <img src={`${base}media/ui/max-${after.pose}.webp`} alt="" draggable={false} />
+              <img src={maxPic(after.pose)} alt="" draggable={false} />
               <small>下一个样子</small>
             </span>
           )}

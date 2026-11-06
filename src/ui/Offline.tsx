@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { Story, Word } from "../types";
+import { maxPath } from "./Max";
 
 const base = import.meta.env.BASE_URL;
 /** Must match the media cache in public/sw.js. */
@@ -13,7 +14,7 @@ function mediaUrls(words: Word[], stories: Story[]): string[] {
     for (const s of w.sentences ?? []) if (s.audio) paths.add(s.audio);
   }
   for (const st of stories) for (const p of st.pages) for (const m of [p.img, p.audio]) if (m) paths.add(m);
-  for (const pose of ["happy", "cheer", "think", "sleep", "wave", "stage2", "stage3", "stage4"]) paths.add(`media/ui/max-${pose}.webp`);
+  for (const pose of ["happy", "cheer", "think", "sleep", "wave", "stage2", "stage3", "stage4"] as const) paths.add(maxPath(pose));
   return [...paths].map((p) => new URL(base + p, location.href).href);
 }
 
